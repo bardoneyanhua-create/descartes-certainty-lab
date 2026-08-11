@@ -13,6 +13,9 @@ function Add-Failure([string]$Reason, [string]$RelativePath) {
 
 $required = @(
     'README.md',
+    'LICENSE',
+    'LICENSE-CONTENT.md',
+    'THIRD-PARTY-NOTICES.md',
     'CONTRIBUTING.md',
     'SECURITY.md',
     'docs\ACCESSIBILITY.md',

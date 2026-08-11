@@ -6,7 +6,7 @@ $work = Join-Path $env:TEMP ('philosophy-public-readiness-' + [guid]::NewGuid().
 function New-Fixture([string]$Name) {
     $root = Join-Path $work $Name
     New-Item -ItemType Directory -Path $root -Force | Out-Null
-    foreach ($path in @('README.md','CONTRIBUTING.md','SECURITY.md','docs\ACCESSIBILITY.md','docs\RIGHTS-AND-LICENSING.md')) {
+    foreach ($path in @('README.md','LICENSE','LICENSE-CONTENT.md','THIRD-PARTY-NOTICES.md','CONTRIBUTING.md','SECURITY.md','docs\ACCESSIBILITY.md','docs\RIGHTS-AND-LICENSING.md')) {
         $full = Join-Path $root $path
         New-Item -ItemType Directory -Path (Split-Path -Parent $full) -Force | Out-Null
         [IO.File]::WriteAllText($full, "safe public text`n", [Text.UTF8Encoding]::new($false))
@@ -51,6 +51,12 @@ try {
     git -C $missing add --all
     $missingResult = Invoke-Check $missing
     if ($missingResult.ExitCode -eq 0 -or $missingResult.Output -notmatch 'REQUIRED_PUBLIC_FILE_MISSING') { throw 'missing governance fixture did not fail safely' }
+
+    $missingLicense = New-Fixture 'missing-license'
+    Remove-Item -LiteralPath (Join-Path $missingLicense 'LICENSE')
+    git -C $missingLicense add --all
+    $missingLicenseResult = Invoke-Check $missingLicense
+    if ($missingLicenseResult.ExitCode -eq 0 -or $missingLicenseResult.Output -notmatch 'REQUIRED_PUBLIC_FILE_MISSING') { throw 'missing license fixture did not fail safely' }
 
     'PUBLIC_READINESS_TESTS_PASS'
 }

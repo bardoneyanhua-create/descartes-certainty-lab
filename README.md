@@ -54,6 +54,6 @@ pwsh -NoProfile -File .\tools\regression-audit\Invoke-V25-90-RegressionAudit.ps1
 
 v25/90 已通过源码、构建、测试及 portable artifact 的独立机器复核；产品 UI、Narrator、NVDA、UIA 和物理键盘流程仍保留人工验证门。
 
-**当前尚未授予开源许可证。** 在权利审核和许可证选择完成前，请勿假定代码、文档或教学内容可以复制、修改或再发布。详见 [权利与许可状态](docs/RIGHTS-AND-LICENSING.md)。
+软件代码采用 [MIT License](LICENSE)。确认原创的文档与教学内容在项目持有权利的范围内采用 [CC BY 4.0](LICENSE-CONTENT.md)。第三方译文、引文、书目、商标及链接材料不被项目重新授权；详见 [第三方声明](THIRD-PARTY-NOTICES.md) 与 [权利边界](docs/RIGHTS-AND-LICENSING.md)。
 
 本仓库当前仍是公开发布候选，不代表已经正式发布。版本详情见 [v25/90 中文发布说明](docs/RELEASE_NOTES_V25_90_ZH.md)。
