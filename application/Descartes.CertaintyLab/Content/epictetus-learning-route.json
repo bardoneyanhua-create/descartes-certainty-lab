@@ -1,0 +1,3750 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "arrian-voice-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "一、阿里安保存了谁的声音",
+      "explanation": "paragraph-ref:epictetus-01-p01",
+      "identity": "阿里安的记录与编纂声音；爱比克泰德的课堂论证；后世书目证词",
+      "evidenceLinkIds": [
+        "arrian-preface",
+        "photius-58",
+        "ench-compilation",
+        "author-analysis-arrian-voice"
+      ],
+      "abilityIds": [
+        "understand-arrian-voice"
+      ]
+    },
+    {
+      "id": "socratic-stoic-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "二、苏格拉底式检验如何进入斯多亚体系",
+      "explanation": "paragraph-ref:epictetus-02-p01",
+      "identity": "爱比克泰德的课堂声音；苏格拉底和第欧根尼范型；早期斯多亚概念遗产",
+      "evidenceLinkIds": [
+        "disc-1-7",
+        "disc-2-12",
+        "disc-3-21-22",
+        "author-analysis-socratic-stoic"
+      ],
+      "abilityIds": [
+        "understand-socratic-stoic"
+      ]
+    },
+    {
+      "id": "impression-assent-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "三、印象到来为何不等于真理",
+      "explanation": "paragraph-ref:epictetus-03-p01",
+      "identity": "爱比克泰德对斯多亚印象与同意理论的课堂运用",
+      "evidenceLinkIds": [
+        "disc-1-28",
+        "disc-2-18",
+        "disc-3-8",
+        "ench-5-20",
+        "author-analysis-impression-assent"
+      ],
+      "abilityIds": [
+        "understand-impression-assent"
+      ]
+    },
+    {
+      "id": "prohairesis-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "四、选择能力不是内心里的小君王",
+      "explanation": "paragraph-ref:epictetus-04-p01",
+      "identity": "爱比克泰德关于 prohairesis 的专门用法；现代译名边界",
+      "evidenceLinkIds": [
+        "disc-1-1",
+        "disc-2-23",
+        "disc-4-1",
+        "author-analysis-prohairesis"
+      ],
+      "abilityIds": [
+        "understand-prohairesis"
+      ]
+    },
+    {
+      "id": "up-to-us-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "五、由我与不由我究竟区分什么",
+      "explanation": "paragraph-ref:epictetus-05-p01",
+      "identity": "《手册》的阿里安摘编；《论说集》的展开区分；现代“控制二分”标签",
+      "evidenceLinkIds": [
+        "ench-1",
+        "disc-1-22",
+        "disc-2-5-6",
+        "author-analysis-up-to-us"
+      ],
+      "abilityIds": [
+        "understand-up-to-us"
+      ]
+    },
+    {
+      "id": "externals-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "六、无差别项为何仍值得谨慎选择",
+      "explanation": "paragraph-ref:epictetus-06-p01",
+      "identity": "爱比克泰德对斯多亚无差别项和恰当行动的课堂说明",
+      "evidenceLinkIds": [
+        "disc-2-5",
+        "disc-2-6",
+        "disc-3-20",
+        "ench-36",
+        "author-analysis-externals"
+      ],
+      "abilityIds": [
+        "understand-externals"
+      ]
+    },
+    {
+      "id": "emotion-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "七、情感训练是改判断还是压住感觉",
+      "explanation": "paragraph-ref:epictetus-07-p01",
+      "identity": "爱比克泰德对斯多亚情感判断论的实践重构；现代临床边界",
+      "evidenceLinkIds": [
+        "disc-1-18",
+        "disc-2-18-habit",
+        "disc-3-2",
+        "ench-34",
+        "author-analysis-emotion"
+      ],
+      "abilityIds": [
+        "understand-emotion"
+      ]
+    },
+    {
+      "id": "freedom-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "八、自由为何能在暴君面前成立",
+      "explanation": "paragraph-ref:epictetus-08-p01",
+      "identity": "爱比克泰德的自由论与帝国权力场景；受压者边界",
+      "evidenceLinkIds": [
+        "disc-1-19",
+        "disc-1-29",
+        "disc-4-1-free",
+        "disc-4-7",
+        "author-analysis-freedom"
+      ],
+      "abilityIds": [
+        "understand-freedom"
+      ]
+    },
+    {
+      "id": "roles-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "九、角色不是命令清单",
+      "explanation": "paragraph-ref:epictetus-09-p01",
+      "identity": "爱比克泰德的角色伦理；《手册》的阿里安摘编",
+      "evidenceLinkIds": [
+        "disc-1-2",
+        "disc-2-10",
+        "ench-17-30",
+        "author-analysis-roles"
+      ],
+      "abilityIds": [
+        "understand-roles"
+      ]
+    },
+    {
+      "id": "affection-cosmopolis-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十、亲情、友谊与世界城邦",
+      "explanation": "paragraph-ref:epictetus-10-p01",
+      "identity": "爱比克泰德关于自然亲和、家庭、友谊和宇宙公民的课堂论证",
+      "evidenceLinkIds": [
+        "disc-1-9",
+        "disc-2-22",
+        "disc-3-24",
+        "disc-4-4",
+        "author-analysis-affection-cosmopolis"
+      ],
+      "abilityIds": [
+        "understand-affection-cosmopolis"
+      ]
+    },
+    {
+      "id": "body-illness-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十一、身体、疾病与残疾不是哲学道具",
+      "explanation": "paragraph-ref:epictetus-11-p01",
+      "identity": "爱比克泰德的疾病课堂；后世残疾证词；现代残障边界",
+      "evidenceLinkIds": [
+        "disc-1-24",
+        "disc-3-10",
+        "disc-3-26",
+        "simplicius-life",
+        "author-analysis-body-illness"
+      ],
+      "abilityIds": [
+        "understand-body-illness"
+      ]
+    },
+    {
+      "id": "property-work-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十二、财产、名誉与职业是材料而非污点",
+      "explanation": "paragraph-ref:epictetus-12-p01",
+      "identity": "爱比克泰德关于财富、名誉、职业和取用外物的课堂论证",
+      "evidenceLinkIds": [
+        "disc-1-25",
+        "disc-2-5-property",
+        "disc-3-24-property",
+        "ench-4-15",
+        "author-analysis-property-work"
+      ],
+      "abilityIds": [
+        "understand-property-work"
+      ]
+    },
+    {
+      "id": "politics-exile-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十三、政治权力、放逐与公共行动",
+      "explanation": "paragraph-ref:epictetus-13-p01",
+      "identity": "爱比克泰德的帝国政治场景；世界公民语言；现代制度边界",
+      "evidenceLinkIds": [
+        "disc-1-19-politics",
+        "disc-1-29-politics",
+        "disc-3-4",
+        "disc-4-1-politics",
+        "author-analysis-politics-exile"
+      ],
+      "abilityIds": [
+        "understand-politics-exile"
+      ]
+    },
+    {
+      "id": "slavery-boundary-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十四、前奴隶谈自由时留下了什么历史债务",
+      "explanation": "paragraph-ref:epictetus-14-p01",
+      "identity": "爱比克泰德的受奴役生平证词；课堂中的奴隶隐喻；罗马法律社会边界",
+      "evidenceLinkIds": [
+        "disc-1-19-slavery",
+        "disc-4-1-slavery",
+        "suda-epictetus",
+        "long-epictetus-slavery",
+        "author-analysis-slavery-boundary"
+      ],
+      "abilityIds": [
+        "understand-slavery-boundary"
+      ]
+    },
+    {
+      "id": "providence-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十五、天意、宙斯与合乎自然",
+      "explanation": "paragraph-ref:epictetus-15-p01",
+      "identity": "爱比克泰德的斯多亚神学；克里安西诗歌引文；现代重构边界",
+      "evidenceLinkIds": [
+        "disc-1-6",
+        "disc-1-9-providence",
+        "disc-2-14",
+        "ench-8-31",
+        "author-analysis-providence"
+      ],
+      "abilityIds": [
+        "understand-providence"
+      ]
+    },
+    {
+      "id": "death-grief-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十六、死亡、丧亲与归还语言",
+      "explanation": "paragraph-ref:epictetus-16-p01",
+      "identity": "爱比克泰德关于死亡与丧失的课堂论证；《手册》摘编",
+      "evidenceLinkIds": [
+        "disc-1-27",
+        "disc-2-1",
+        "disc-3-24-death",
+        "ench-3-11-21",
+        "author-analysis-death-grief"
+      ],
+      "abilityIds": [
+        "understand-death-grief"
+      ]
+    },
+    {
+      "id": "training-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十七、注意、预演与三类训练如何改变习惯",
+      "explanation": "paragraph-ref:epictetus-17-p01",
+      "identity": "爱比克泰德关于进步、注意与三领域操练的课堂教学",
+      "evidenceLinkIds": [
+        "disc-1-4",
+        "disc-2-16-18",
+        "disc-3-2-12",
+        "disc-4-10-12",
+        "author-analysis-training"
+      ],
+      "abilityIds": [
+        "understand-training"
+      ]
+    },
+    {
+      "id": "cynic-teacher-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十八、犬儒使命、直言与哲学教师",
+      "explanation": "paragraph-ref:epictetus-18-p01",
+      "identity": "爱比克泰德对理想犬儒的角色描写；第欧根尼范型；课堂教师权威",
+      "evidenceLinkIds": [
+        "disc-3-22",
+        "disc-3-23",
+        "disc-1-2-cynic",
+        "ench-22",
+        "author-analysis-cynic-teacher"
+      ],
+      "abilityIds": [
+        "understand-cynic-teacher"
+      ]
+    },
+    {
+      "id": "modern-reception-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十九、从《手册》口号到现代韧性产业",
+      "explanation": "paragraph-ref:epictetus-19-p01",
+      "identity": "现代接受史；爱比克泰德原典边界；认知行为与组织用途的证据分级",
+      "evidenceLinkIds": [
+        "beck-cognitive",
+        "robertson-stoic",
+        "long-modern",
+        "ench-modern-base",
+        "author-analysis-modern-reception"
+      ],
+      "abilityIds": [
+        "understand-modern-reception"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "arrian-preface",
+      "workId": "《论说集》致 Lucius Gellius 前言",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "全文",
+      "locatorVerified": true,
+      "identity": "阿里安关于记录方式的自我说明"
+    },
+    {
+      "id": "photius-58",
+      "workId": "Photios, Bibliotheca",
+      "edition": "N. G. Wilson 译，Photius: The Bibliotheca，Duckworth，1994",
+      "locator": "codex 58（Epictetus / Arrian 条目）",
+      "locatorVerified": true,
+      "identity": "九世纪书目证词，转述《论说集》八卷"
+    },
+    {
+      "id": "ench-compilation",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1、5、17、30及与《论说集》平行段",
+      "locatorVerified": true,
+      "identity": "阿里安摘编文本"
+    },
+    {
+      "id": "author-analysis-arrian-voice",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 阿里安保存了谁的声音 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-7",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.7、1.17、2.19",
+      "locatorVerified": true,
+      "identity": "爱比克泰德对推理、克吕西波与学习的讨论"
+    },
+    {
+      "id": "disc-2-12",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.12",
+      "locatorVerified": true,
+      "identity": "爱比克泰德论苏格拉底式问答"
+    },
+    {
+      "id": "disc-3-21-22",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.21—3.22",
+      "locatorVerified": true,
+      "identity": "哲学教师与犬儒使命的课堂描述"
+    },
+    {
+      "id": "author-analysis-socratic-stoic",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 苏格拉底式检验如何进入斯多亚体系 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-28",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.28",
+      "locatorVerified": true,
+      "identity": "印象、错误与行动的课堂论证"
+    },
+    {
+      "id": "disc-2-18",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.18",
+      "locatorVerified": true,
+      "identity": "与印象争斗和习惯形成"
+    },
+    {
+      "id": "disc-3-8",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.8",
+      "locatorVerified": true,
+      "identity": "针对印象的反陈述训练"
+    },
+    {
+      "id": "ench-5-20",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "5、20",
+      "locatorVerified": true,
+      "identity": "判断而非事件本身的摘编表达"
+    },
+    {
+      "id": "author-analysis-impression-assent",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 印象到来为何不等于真理 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-1",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.1",
+      "locatorVerified": true,
+      "identity": "能力、材料与可受阻碍之物"
+    },
+    {
+      "id": "disc-2-23",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.23",
+      "locatorVerified": true,
+      "identity": "表达能力与取用能力的等级"
+    },
+    {
+      "id": "disc-4-1",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.1",
+      "locatorVerified": true,
+      "identity": "自由与选择能力的长篇论证"
+    },
+    {
+      "id": "author-analysis-prohairesis",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 选择能力不是内心里的小君王 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "ench-1",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1",
+      "locatorVerified": true,
+      "identity": "阿里安对由我/不由我区分的摘编"
+    },
+    {
+      "id": "disc-1-22",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.22",
+      "locatorVerified": true,
+      "identity": "前见与善恶应用"
+    },
+    {
+      "id": "disc-2-5-6",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.5—2.6",
+      "locatorVerified": true,
+      "identity": "外物作为行动材料"
+    },
+    {
+      "id": "author-analysis-up-to-us",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 由我与不由我究竟区分什么 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-2-5",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.5",
+      "locatorVerified": true,
+      "identity": "球赛、材料与取用方式"
+    },
+    {
+      "id": "disc-2-6",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.6",
+      "locatorVerified": true,
+      "identity": "无差别项与谨慎选择"
+    },
+    {
+      "id": "disc-3-20",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.20",
+      "locatorVerified": true,
+      "identity": "从外部材料获得训练机会"
+    },
+    {
+      "id": "ench-36",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "36",
+      "locatorVerified": true,
+      "identity": "宴席中的整体与局部考虑"
+    },
+    {
+      "id": "author-analysis-externals",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 无差别项为何仍值得谨慎选择 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-18",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.18",
+      "locatorVerified": true,
+      "identity": "为何不应只对犯错者发怒"
+    },
+    {
+      "id": "disc-2-18-habit",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.18",
+      "locatorVerified": true,
+      "identity": "印象、反复行为与习惯"
+    },
+    {
+      "id": "disc-3-2",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.2",
+      "locatorVerified": true,
+      "identity": "欲求、行动与同意三领域"
+    },
+    {
+      "id": "ench-34",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "34",
+      "locatorVerified": true,
+      "identity": "面对快乐印象的延迟"
+    },
+    {
+      "id": "author-analysis-emotion",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 情感训练是改判断还是压住感觉 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-19",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.19",
+      "locatorVerified": true,
+      "identity": "对统治者与权力的分析"
+    },
+    {
+      "id": "disc-1-29",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.29",
+      "locatorVerified": true,
+      "identity": "坚定、威胁与牺牲"
+    },
+    {
+      "id": "disc-4-1-free",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.1",
+      "locatorVerified": true,
+      "identity": "自由的系统论证"
+    },
+    {
+      "id": "disc-4-7",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.7",
+      "locatorVerified": true,
+      "identity": "无惧与谨慎"
+    },
+    {
+      "id": "author-analysis-freedom",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 自由为何能在暴君面前成立 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-2",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.2",
+      "locatorVerified": true,
+      "identity": "如何在处境中保存角色与人格"
+    },
+    {
+      "id": "disc-2-10",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.10",
+      "locatorVerified": true,
+      "identity": "由身份与关系认识职责"
+    },
+    {
+      "id": "ench-17-30",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "17、30",
+      "locatorVerified": true,
+      "identity": "演员比喻与关系职责的摘编"
+    },
+    {
+      "id": "author-analysis-roles",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 角色不是命令清单 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-9",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.9",
+      "locatorVerified": true,
+      "identity": "人与神的亲缘及世界公民"
+    },
+    {
+      "id": "disc-2-22",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.22",
+      "locatorVerified": true,
+      "identity": "友谊与善的判断"
+    },
+    {
+      "id": "disc-3-24",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.24",
+      "locatorVerified": true,
+      "identity": "依恋、亲人和可撤回性"
+    },
+    {
+      "id": "disc-4-4",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.4",
+      "locatorVerified": true,
+      "identity": "与人共同生活"
+    },
+    {
+      "id": "author-analysis-affection-cosmopolis",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 亲情、友谊与世界城邦 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-24",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.24",
+      "locatorVerified": true,
+      "identity": "困难、身体与品格"
+    },
+    {
+      "id": "disc-3-10",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.10",
+      "locatorVerified": true,
+      "identity": "疾病中如何行动"
+    },
+    {
+      "id": "disc-3-26",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.26",
+      "locatorVerified": true,
+      "identity": "艰难、孤独与训练"
+    },
+    {
+      "id": "simplicius-life",
+      "workId": "Simplicius, Commentary on the Encheiridion",
+      "edition": "Tad Brennan 与 Charles Brittain 译，Simplicius: On Epictetus Handbook 1–26，Duckworth，2002",
+      "locator": "对《手册》9的注释中关于爱比克泰德跛足的证词",
+      "locatorVerified": true,
+      "identity": "后世关于爱比克泰德残疾的传记证词"
+    },
+    {
+      "id": "author-analysis-body-illness",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 身体、疾病与残疾不是哲学道具 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-25",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.25",
+      "locatorVerified": true,
+      "identity": "外物威胁与坚持"
+    },
+    {
+      "id": "disc-2-5-property",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.5",
+      "locatorVerified": true,
+      "identity": "材料、技艺与外在结果"
+    },
+    {
+      "id": "disc-3-24-property",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.24",
+      "locatorVerified": true,
+      "identity": "占有、失去与依恋"
+    },
+    {
+      "id": "ench-4-15",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4、11、15",
+      "locatorVerified": true,
+      "identity": "预想障碍、归还与宴席比喻"
+    },
+    {
+      "id": "author-analysis-property-work",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 财产、名誉与职业是材料而非污点 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-19-politics",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.19",
+      "locatorVerified": true,
+      "identity": "统治者、职位与依赖"
+    },
+    {
+      "id": "disc-1-29-politics",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.29",
+      "locatorVerified": true,
+      "identity": "法庭、威胁与坚定"
+    },
+    {
+      "id": "disc-3-4",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.4",
+      "locatorVerified": true,
+      "identity": "追逐名誉与公共职位"
+    },
+    {
+      "id": "disc-4-1-politics",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.1",
+      "locatorVerified": true,
+      "identity": "放逐、监禁与自由"
+    },
+    {
+      "id": "author-analysis-politics-exile",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 政治权力、放逐与公共行动 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-19-slavery",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.19",
+      "locatorVerified": true,
+      "identity": "主人、权力与内在依赖"
+    },
+    {
+      "id": "disc-4-1-slavery",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.1",
+      "locatorVerified": true,
+      "identity": "奴役欲望与哲学自由"
+    },
+    {
+      "id": "suda-epictetus",
+      "workId": "Suda",
+      "edition": "Ada Adler 编，Suidae Lexicon，Teubner，1928–1938",
+      "locator": "Adler 编号 epsilon 2424，条目 Ἐπίκτητος",
+      "locatorVerified": true,
+      "identity": "后世生平与受奴役身份资料"
+    },
+    {
+      "id": "long-epictetus-slavery",
+      "workId": "A. A. Long, Epictetus: A Stoic and Socratic Guide to Life",
+      "edition": "Oxford University Press，2002",
+      "locator": "第1章“Epictetus in His Time and Place”；第8章“Autonomy and Integrity”",
+      "locatorVerified": true,
+      "identity": "现代研究对生平、自由与奴役语言的分析"
+    },
+    {
+      "id": "author-analysis-slavery-boundary",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 前奴隶谈自由时留下了什么历史债务 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-6",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.6",
+      "locatorVerified": true,
+      "identity": "天意与人的认识能力"
+    },
+    {
+      "id": "disc-1-9-providence",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.9、1.12",
+      "locatorVerified": true,
+      "identity": "神的亲缘、服从与宇宙公民"
+    },
+    {
+      "id": "disc-2-14",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.14",
+      "locatorVerified": true,
+      "identity": "哲学学习、神与自然秩序"
+    },
+    {
+      "id": "ench-8-31",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "8、31、53",
+      "locatorVerified": true,
+      "identity": "愿望与事件、敬神、克里安西引文"
+    },
+    {
+      "id": "author-analysis-providence",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 天意、宙斯与合乎自然 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-27",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.27",
+      "locatorVerified": true,
+      "identity": "死亡印象与恐惧"
+    },
+    {
+      "id": "disc-2-1",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.1",
+      "locatorVerified": true,
+      "identity": "信心、谨慎与死亡"
+    },
+    {
+      "id": "disc-3-24-death",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.24",
+      "locatorVerified": true,
+      "identity": "亲人、依恋与死亡"
+    },
+    {
+      "id": "ench-3-11-21",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3、11、21、26",
+      "locatorVerified": true,
+      "identity": "亲人可死、归还与死亡预想"
+    },
+    {
+      "id": "author-analysis-death-grief",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 死亡、丧亲与归还语言 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-1-4",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.4",
+      "locatorVerified": true,
+      "identity": "进步的标志"
+    },
+    {
+      "id": "disc-2-16-18",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "2.16、2.18",
+      "locatorVerified": true,
+      "identity": "未进步、习惯与反复行动"
+    },
+    {
+      "id": "disc-3-2-12",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.2、3.12",
+      "locatorVerified": true,
+      "identity": "三领域与操练边界"
+    },
+    {
+      "id": "disc-4-10-12",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "4.10、4.12",
+      "locatorVerified": true,
+      "identity": "勤勉与注意"
+    },
+    {
+      "id": "author-analysis-training",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 注意、预演与三类训练如何改变习惯 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "disc-3-22",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.22",
+      "locatorVerified": true,
+      "identity": "犬儒使命的集中描述"
+    },
+    {
+      "id": "disc-3-23",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "3.23",
+      "locatorVerified": true,
+      "identity": "哲学教师、演说与展示"
+    },
+    {
+      "id": "disc-1-2-cynic",
+      "workId": "《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "1.2",
+      "locatorVerified": true,
+      "identity": "角色、能力与处境"
+    },
+    {
+      "id": "ench-22",
+      "workId": "《手册》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "22",
+      "locatorVerified": true,
+      "identity": "哲学名声与被嘲笑"
+    },
+    {
+      "id": "author-analysis-cynic-teacher",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 犬儒使命、直言与哲学教师 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    },
+    {
+      "id": "beck-cognitive",
+      "workId": "Aaron T. Beck et al., Cognitive Therapy of Depression",
+      "edition": "Guilford Press，1979",
+      "locator": "第1章“Overview”与第2章“Theory of Cognitive Therapy”，pp. 3–26",
+      "locatorVerified": true,
+      "identity": "现代认知治疗文本；用于概念亲缘，不归作爱比克泰德原意"
+    },
+    {
+      "id": "robertson-stoic",
+      "workId": "Donald Robertson, The Philosophy of Cognitive-Behavioural Therapy",
+      "edition": "第2版，Routledge，2020",
+      "locator": "第1章“The Philosophical Origins of CBT”、第4章“Stoic Philosophy and Psychology”及第5章“Rational Emotion in Stoicism and CBT”",
+      "locatorVerified": true,
+      "identity": "现代斯多亚与 CBT 接受者"
+    },
+    {
+      "id": "long-modern",
+      "workId": "A. A. Long, Epictetus: A Stoic and Socratic Guide to Life",
+      "edition": "Oxford University Press，2002",
+      "locator": "第4章“Philosophy and Pedagogy”与结语“The Afterlife of Epictetus”",
+      "locatorVerified": true,
+      "identity": "现代研究对爱比克泰德实践与遗产的分析"
+    },
+    {
+      "id": "ench-modern-base",
+      "workId": "《手册》及《论说集》",
+      "edition": "Robin Hard 译，Christopher Gill 导论，Oxford World’s Classics，2014",
+      "locator": "《手册》1、5、8；《论说集》1.1、1.28、2.5、3.2",
+      "locatorVerified": true,
+      "identity": "现代接受需回查的原典基线"
+    },
+    {
+      "id": "author-analysis-modern-reception",
+      "workId": "作者分析与现代伦理重构",
+      "edition": "本候选包作者说明",
+      "locator": "围绕 从《手册》口号到现代韧性产业 的论证过渡、案例与边界",
+      "locatorVerified": true,
+      "identity": "作者分析、现代案例或边界说明；不冒充爱比克泰德原话"
+    }
+  ],
+  "routes": [
+    {
+      "id": "epictetus-judgment-freedom-roles",
+      "version": "1.0.0",
+      "title": "爱比克泰德：在印象、选择与角色之间学习自由",
+      "lessonIds": [
+        "arrian-voice",
+        "socratic-stoic",
+        "impression-assent",
+        "prohairesis",
+        "up-to-us",
+        "externals",
+        "emotion",
+        "freedom",
+        "roles",
+        "affection-cosmopolis",
+        "body-illness",
+        "property-work",
+        "politics-exile",
+        "slavery-boundary",
+        "providence",
+        "death-grief",
+        "training",
+        "cynic-teacher",
+        "modern-reception"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "arrian-voice",
+      "order": 1,
+      "title": "一、阿里安保存了谁的声音",
+      "depth": "longform",
+      "guidingQuestion": "没有爱比克泰德亲笔著作，现存课堂文本和便携《手册》如何既可作为思想证据，又不被当成逐字录音或作者自编体系？",
+      "coreExplanation": "paragraph-ref:epictetus-01-p01",
+      "sections": [
+        {
+          "heading": "从课堂事件到现存文本",
+          "paragraphs": [
+            "没有爱比克泰德亲笔著作，现存课堂文本和便携《手册》如何既可作为思想证据，又不被当成逐字录音或作者自编体系？《论说集》开场常把听众直接放进争执：有人为进宫焦虑，有人为父亲不公愤怒，也有人带着逻辑术语来展示。这样的场景不是一本后来写成的体系专著的中性分节，而是教学在特定压力下发生的痕迹。",
+            "课堂现场感也可能是一种文学效果。对声音身份的谨慎还会改变引用方式。课堂中的第一人称不自动等于作者自传，阿里安前言中的第一人称也不等于教师发言；若一句话只能由说话者身份取得力量，就必须先说明它属于记录者、课堂教师还是后世见证。",
+            "阿里安说自己没有为发表而作文，只把听到的话尽可能保存下来。这能支持课堂来源，却不能把文本变成现代录音。选哪次谈话、如何连缀问答、给何种篇题，仍属于记录者的工作。",
+            "从阿里安前言、现存四卷与古代八卷证词区分教学事件、记录、选编和缺失。学生的短问、教师突然改换称呼、对缺席者的模拟发言，都可保存真实教学习惯，却不能保证每一次停顿与措辞未经整理。若把课堂来源、阿里安的整理和后世书目证词放在同一证据等级，任何一句生动话都可能被误认成未经编辑的现场记录。较稳妥的读法让三类证据各负其责：课堂来源说明话语环境，编纂痕迹说明文本形成，书目证词只说明流传规模。",
+            "古代书目关于八卷的证词说明现存四卷只是幸存部分。缺失不是可以自由补写的空白，也不意味着现存材料没有结构；它要求每项概括注明证据只覆盖现有材料。比较《论说集》的展开论证与《手册》的摘编效果，建立口号必须回查语境的规则。",
+            "来源判断应把“源于课堂”和“逐字还原课堂”分开。同一句《手册》格言在社交媒体卡片和《论说集》课堂争辩中产生不同含义。《手册》把长争论压成便于记忆的短句。摘编的价值正在便携，危险也正在便携：当前提、对手和例外被删去，读者容易把训练提醒误认成关于一切处境的完整证明。",
+            "失卷事实进一步要求避免沉默论证。现存四卷没有讨论某项制度，既不能证明爱比克泰德反对，也不能证明他接受；能做的是指出现存材料提供哪些价值资源，又在哪些制度问题上没有形成可追踪的论证。",
+            "篇题同样需要克制。区分课堂责问、虚拟对话、引文和阿里安编者说明。现代读者常把标题当作者给出的概念目录，但阿里安可能依据谈话焦点命名；同一篇里的转折并不都服务一个预先写好的主题。因此，这一分析采用双重读取。先让《手册》显示一个命题如何被记住，再回到《论说集》检查它在哪种困境中提出、依赖哪些区分、对谁说，以及说完之后还留下什么。",
+            "一种异议认为，既然记录经过阿里安，任何“爱比克泰德说”都不可靠。这种分层不会削弱文本的哲学分量。相反，承认记录者的选择，才能解释同一概念为何在不同争执中出现不同侧面，也能阻止现代解释借失卷之名替古人补写一个过分整齐的体系。",
+            "依赖关系必须从实际论证重建，不能从目录自动推出。这样读取《手册》时，短句仍可作为记忆入口，但每次应用都要恢复被压缩的对象和时态。提醒行动者不要把名誉当作善，与宣布名誉伤害不存在，是两种完全不同的说法，后者不能借摘编形式获得授权。",
+            "文本具有中介性，却没有因此失去全部证据价值；跨篇稳定术语、论证复现和阿里安的真实性声明仍支持分级判断。不过逐字措辞和原八卷内容不可恢复，尚待追问的层面还要追问哪些思想依赖可由现存论证支持，而不是从编者目录猜出。这一文本边界也约束传记。爱比克泰德曾受奴役并有残疾具有古代证据，残疾如何形成却有竞争叙述。不能为了制造励志戏剧，把后世故事改写成他亲口见证。",
+            "《手册》与《论说集》的平行段显示摘编造成的变化。短句保留行动方向，却删去听众抵抗、教师追问和案例中的角色差异。引用短句时若无法说明被删去的中介，就只能标作提醒，不能标作已完成证明。"
+          ],
+          "identity": "阿里安的记录与编纂声音；爱比克泰德的课堂论证；后世书目证词",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-01-p06",
+      "nodeIds": [
+        "arrian-voice-node"
+      ],
+      "checkIds": [
+        "arrian-voice-q1",
+        "arrian-voice-q2",
+        "arrian-voice-q3",
+        "arrian-voice-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-01-p12"
+      ],
+      "recommendedNextLessonId": "socratic-stoic",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "socratic-stoic",
+      "order": 2,
+      "title": "二、苏格拉底式检验如何进入斯多亚体系",
+      "depth": "longform",
+      "guidingQuestion": "爱比克泰德频繁召唤苏格拉底和第欧根尼，却又使用早期斯多亚的自然、逻辑和伦理术语；他是苏格拉底生活的模仿者，还是一个系统斯多亚教师？",
+      "coreExplanation": "paragraph-ref:epictetus-02-p01",
+      "sections": [
+        {
+          "heading": "榜样、概念与课堂检验",
+          "paragraphs": [
+            "苏格拉底在爱比克泰德那里不是供人敬仰的半身像。他在审判、日常反诘和服从神命中显示：一个人可以失去陪审团的认可，却不把错误判决登记为自己灵魂的恶。",
+            "爱比克泰德频繁召唤苏格拉底和第欧根尼，却又使用早期斯多亚的自然、逻辑和伦理术语；他是苏格拉底生活的模仿者，还是一个系统斯多亚教师？《论说集》2.12称苏格拉底能从对方承认的东西温和推进，这与爱比克泰德本人常见的严厉责问形成张力。",
+            "苏格拉底式反诘还规定了教师的责任：不能只宣布学生矛盾，而要从对方已经承认的前提推进。爱比克泰德的尖锐语言有时偏离这一理想，因此苏格拉底不是为严厉背书的名字，而是检验严厉是否仍由理由支撑。",
+            "但仅有榜样还不足以解释错误怎样发生。早期斯多亚关于印象、同意、冲动、善恶和自然秩序的概念，让苏格拉底式“你究竟相信什么”成为可反复分析的心理—伦理程序。",
+            "苏格拉底在受审、神命、无知与灵魂照料中成为一种实践范型。课堂检验的连续性不在引用了多少先贤，而在每条传统解决不同难题。苏格拉底要求行动者交代理由，逻辑训练检查理由能否同时成立，犬儒范型则让理由接受公开生活的压力；三者相接，却不能互相冒名。",
+            "两种教学姿态不能被美化为完全一致；苏格拉底既是规范范型，也构成对课堂权力的反向检验。克吕西波的逻辑因此有真实位置。推理形式能揭露前提冲突，防止学生一面说德性足够，一面又把升迁当作非得获得的善。逻辑若只用于背诵书名，反而成为逃避自审的装饰。",
+            "学生会背克吕西波逻辑，却在被批评时失去判断，教师用苏格拉底式追问暴露理论与生活断裂。早期斯多亚依赖还体现在前见。芝诺至克吕西波关于善恶、印象、同意和合乎自然的理论，为苏格拉底材料补出其未曾明示的心理—宇宙结构。",
+            "第欧根尼承担另一种功能。他把无需外物认可和公开直言推到极端，使学生看见哲学可能改变住所、衣着与公共关系。不过爱比克泰德没有由此要求每个人立即模仿犬儒生活。",
+            "人们共享善、公正、合宜等一般概念，争论发生在怎样把概念应用到具体事件。逻辑的地位也由此得到限制。有效形式能揭示结论是否由前提推出，却不能自行决定前提中的善恶归属。学生可能推理无误地追求名誉；真正的训练仍要回到他为何把名誉登记为幸福的必要条件。",
+            "犬儒的公开使命只适用于特殊角色，普通学生仍须在关系义务中渐进训练。苏格拉底式追问由此不只索要定义，也检验学生为何把升迁或亲属命令归到“善”的名下。",
+            "有人可能反对说，爱比克泰德只是把苏格拉底传说套进斯多亚术语，没有独立贡献。这三种来源不能合成匿名的“古代智慧”。苏格拉底提供受审视的生活，早期斯多亚提供概念结构，犬儒提供公开使命的极端压力；爱比克泰德把它们重新编排为课堂中的人格检验。",
+            "由此也可说明爱比克泰德的独特工作。他并未抹去思想来源，而是把概念从学派史移入一次次选择：学生在遭遇名誉、权力和关系冲突时，必须看清自己究竟把什么当作善。",
+            "三条传统最终在取用印象处会合：苏格拉底要求给出理由，斯多亚心理学说明理由怎样进入同意与冲动，犬儒则把理由能否承受公众嘲笑变成生活检验。剩余问题是：检验落在什么对象上。答案不是抽象“心态”，而是每次到来的印象以及行动者是否同意它所携带的价值判断。",
+            "犬儒范型则把内在一致性转成公共可见的生活，但公开性不是越强越好。一个使命若忽略能力、关系和他人风险，便可能把自我展示误作哲学见证；爱比克泰德自己的角色区分为这种限制留下了入口。",
+            "他的贡献在于把人格自由集中到取用印象的能力，并把课堂检验制度化；但该能力如何运作尚未说明，进入印象与同意。少一条，爱比克泰德都会被缩成格言作者。"
+          ],
+          "identity": "爱比克泰德的课堂声音；苏格拉底和第欧根尼范型；早期斯多亚概念遗产",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-02-p08",
+      "nodeIds": [
+        "socratic-stoic-node"
+      ],
+      "checkIds": [
+        "socratic-stoic-q1",
+        "socratic-stoic-q2",
+        "socratic-stoic-q3",
+        "socratic-stoic-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-02-p15"
+      ],
+      "recommendedNextLessonId": "impression-assent",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "impression-assent",
+      "order": 3,
+      "title": "三、印象到来为何不等于真理",
+      "depth": "longform",
+      "guidingQuestion": "身体感受、辱骂声、灾难消息和荣誉诱惑会直接出现；如果印象本身已决定反应，训练无从开始，如果可以随意拒绝，认识又失去约束。",
+      "coreExplanation": "paragraph-ref:epictetus-03-p01",
+      "sections": [
+        {
+          "heading": "从遭遇到同意的距离",
+          "paragraphs": [
+            "身体感受、辱骂声、灾难消息和荣誉诱惑会直接出现；如果印象本身已决定反应，训练无从开始，如果可以随意拒绝，认识又失去约束。爱比克泰德并不要求行动者否认看见的火、听见的辱骂或感到的疼痛。印象首先是某物以某种方式呈现，问题在于呈现中常夹带一个未经检验的结论：这件事已使我成为坏的人。印象的出现不等于行动者已经同意其内容，被动遭遇与主动判断因而可以并存。",
+            "《论说集》1.28比《手册》5更复杂。一封措辞严厉的邮件可以同时带来事实信息、风险预测和人格羞辱感。三者在经验中一起出现，分析时却要分别核对；若把它们绑成一个整体，行动者不是否认现实，就是把最坏解释提前当成结论。检验印象并不要求行动者一次完成全部分析。可以先辨认最迫切的事实，再区分预测的置信度，最后审查人格归属；这种分步不是拖延，而是避免最强烈的感受同时垄断事实、未来和自我评价。",
+            "把出现与同意分开，保住了两端。外部世界和身体反应不是任意制造的，行动者也不必为第一阵惊跳负责；但印象的价值含义并不因强烈而自动为真。",
+            "同意并非任意否认事实，而要分别回答“发生了什么”以及“这对人格善恶意味着什么”。人按显得为真的东西行动，因此错误者并非在“明知为假”时选择错误；纠正需要改变其何以把某印象视为可信，而不只是命令停止。同意也不是向自己重复乐观句子。失业确实会减少收入，侮辱可能预示关系风险，疾病需要治疗。检验要问的是这些事实支持哪些预测，又是否支持“我的人格善已被夺走”。",
+            "收到解雇通知时，区分事实判断、未来预测与“我已成为失败者”的价值判断。同意包含认识责任。延迟同意给判断争取时间。爱比克泰德建议对印象说“你只是一个印象”，这句话不是驳倒它，而是暂停其从出现到命令的直通权。错误者按显得为真的东西行动，也意味着纠正不能只靠责骂。若一个人长期在惩罚环境中学习到批评等于危险，新的判断资源需要安全经验、可信关系和反复验证，概念区分必须进入这些材料才有改变力量。",
+            "延迟判断、提出反陈述和检查逻辑一致性，为行动者争取不被第一印象直接支配的训练空间。行动者应询问证据、概念应用和推论是否可靠，却不应因尚未拥有信息而假装确定。强烈创伤反应先于反思，区分印象与同意会责怪不能即时自控者。",
+            "习惯使这段距离忽长忽短。长期以名誉为善的人，在批评到来时几乎同时愤怒；这不是证明区分虚假，而是说明训练不能被缩成一次决定。悬置同意有时比立即给出积极解释更符合斯多亚逻辑。",
+            "暂停同意的时间也不是固定的。紧急危险要求先保护身体，关系冲突可能允许数小时查证，长期反刍则需要反复训练和外部支持。区分的作用是改善判断次序，而非规定所有人以同一速度平静。",
+            "初发反应、身体唤醒和已形成习惯不等于完整同意；训练是渐进能力而非瞬时道德考核。尚待追问的层面须界定承担同意的选择能力。现代创伤与临床状况进一步限制道德责备。理论可以分辨事实、预测与人格判断，却不能假装身体唤醒、记忆侵入和注意困难都能当场选择。同意之后仍有修正空间。行动者可能已经发出愤怒信息，随后发现证据不足；承认错误、停止升级和修复关系属于选择能力的继续运用，而非一次失误便证明整个人格已经被外物占领。初发反应、持续同意、报复冲动和长期反刍处在不同时间位置。",
+            "突发巨响的惊跳不能与计划伤害他人使用同一个道德标签。越能分开事实、预测与人格归属，行动越不必在否认风险和灾难化之间摆动。"
+          ],
+          "identity": "爱比克泰德对斯多亚印象与同意理论的课堂运用",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-03-p05",
+      "nodeIds": [
+        "impression-assent-node"
+      ],
+      "checkIds": [
+        "impression-assent-q1",
+        "impression-assent-q2",
+        "impression-assent-q3",
+        "impression-assent-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-03-p10"
+      ],
+      "recommendedNextLessonId": "prohairesis",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "prohairesis",
+      "order": 4,
+      "title": "四、选择能力不是内心里的小君王",
+      "depth": "longform",
+      "guidingQuestion": "`prohairesis` 被称为不可阻碍、不可强迫，但人的注意、知识和习惯明显会受身体与社会条件影响，它究竟具有什么范围？",
+      "coreExplanation": "paragraph-ref:epictetus-04-p01",
+      "sections": [
+        {
+          "heading": "不可强迫与经验受限",
+          "paragraphs": [
+            "`prohairesis` 被称为不可阻碍、不可强迫，但人的注意、知识和习惯明显会受身体与社会条件影响，它究竟具有什么范围？`prohairesis` 在爱比克泰德文本中组织判断、欲求、排斥和冲动。译作“意志”容易让人想到一股脱离理由的力量，译作“选择”又容易缩成购物式选项；因此必须保留术语并说明功能。《论说集》2.23把表达、推理等能力置于取用印象的能力之下，因为技巧的价值取决于怎样使用。",
+            "译名争议不是术语洁癖。“意志”容易暗示不受理由约束的发动者，“选择”又容易遗漏欲求、排斥和同意的连续活动。保留希腊词，是为了让读者持续看见它指向一种评价与取用结构。",
+            "所谓不可强迫，首先是规范关系：威胁能改变可用选项，也能造成恐惧和伤害，却不能让不正当因威胁而变成正当。一个人可能屈服，屈服的事实不等于威胁者取得了真理。",
+            "把选择能力定位为判断、欲求、排斥和行动冲动的组织能力，而非脱离身体的实体。聪明的辩护可以服务正义，也可以替谄媚找理由；选择能力不是更多技巧，而是决定技巧朝向何物的评价中心。",
+            "选择能力的规范地位尤其容易被经验语言遮蔽。一个命令可以缩小选项、提高违抗成本并破坏注意，但这些事实还没有回答命令是否正当；反过来，保留不赞同也没有自动恢复安全行动的条件。",
+            "这并不产生密封的内心王国。知识不足、注意涣散、习惯、疼痛和依赖关系都影响行动者怎样看见理由。爱比克泰德反复责备学生，正说明选择能力并非自动正确。区分“外力不能使错误成为正确”与“行动者总能轻松作出正确判断”。不可阻碍必须按对象解释。",
+            "被威胁者在没有安全选项时仍能判断威胁不正当，但不能据此说其外部行动完全自由。把能力称为“我们的”也不是说它由孤立自我创造。语言、教师、共同体和训练塑造判断资源。真正需要保护的是行动者仍以理由回应，而不是被定义为外力的纯粹产物。",
+            "不可强迫也不等于不可操纵。宣传、依赖和疼痛可以改变可见选项，令某些理由难以进入注意；这些影响需要教育、支持和制度限制。规范上不承认暴力为真，并不能免除改善判断条件的责任。",
+            "监禁可以阻碍旅行，疼痛可以阻碍集中，审查可以阻碍发表；它们不能仅凭阻碍证明行动者应当赞同。说明选择能力可被忽视、误用和训练，故不可阻碍是规范结构而非经验全能。",
+            "若把经验阻碍全部否认，文本反而无法解释为何需要勇气与训练。威胁案例显示两种自由不能混写。行动者可能保留对不义的判断，却缺少安全拒绝的外部自由；承认前者可以反驳主人全能，承认后者才能避免责怪受害者。",
+            "若习惯和无知能扭曲选择，所谓不可强迫只是语言游戏。因此，自由不能被压成一句“内心仍由自己决定”。它既要求行动者能回应理由，也要求解释者诚实记录能力受损、资源依赖和长期训练。省略任一侧，都会把自由变成对现实伤害的粉饰。",
+            "现代自由意志争论常问在完全相同过去下能否另作选择，爱比克泰德更关心行动由何种善恶判断统治。能力误用说明训练有真实对象。若选择能力天然正确，课堂责问便没有必要；若它只是外因产物，责问又没有意义。爱比克泰德处在两者之间：行动者能回应理由，但回应能力会受习惯与处境塑造。",
+            "爱比克泰德要保住的是善恶判断不能由外物单独构成，不是否认因果影响；仍需以“由我/不由我”精确划界。选择能力因此是后续论证的承重轴，但不是万能解释。若一切困难最后都被归成选择错误，它会从自由资源变成道德化机器。论证脉络不得把他登记为某一当代形上阵营；其自由首先是不把规范权威交给外物。"
+          ],
+          "identity": "爱比克泰德关于 prohairesis 的专门用法；现代译名边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-04-p07",
+      "nodeIds": [
+        "prohairesis-node"
+      ],
+      "checkIds": [
+        "prohairesis-q1",
+        "prohairesis-q2",
+        "prohairesis-q3",
+        "prohairesis-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-04-p13"
+      ],
+      "recommendedNextLessonId": "up-to-us",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "up-to-us",
+      "order": 5,
+      "title": "五、由我与不由我究竟区分什么",
+      "depth": "longform",
+      "guidingQuestion": "《手册》1 把判断、欲求等列为由我，把身体、财产、名誉和职位列为不由我；这是否要求行动者退出一切无法保证结果的事务？",
+      "coreExplanation": "paragraph-ref:epictetus-05-p01",
+      "sections": [
+        {
+          "heading": "影响、支配与善恶归属",
+          "paragraphs": [
+            "现代“能控制/不能控制”常把区分画成两栏清单。但希腊语关心的是某事是否真正取决于我们、是否受我们的选择能力最终支配，而不是日常所说的任何程度影响。",
+            "《手册》1 把判断、欲求等列为由我，把身体、财产、名誉和职位列为不由我；这是否要求行动者退出一切无法保证结果的事务？《手册》1列出的项目并非两张静态物品清单。",
+            "把对象永久贴进两栏也会制造错误。身体总体不由个人保证，寻医和说明症状却包含可评价行动；欲求被列为由我，长期依赖仍会使改变艰难。真正的划界跟随功能，而不是跟随名词。",
+            "准备面试、提交申诉和组织邻里都能影响结果，却不能单独保证录用、判决或政策。影响不是零，最终支配也不是一；二者混同才会在失败时产生全责或全然无力。说明区分对象是最终支配和善恶归属，不是“我能施加任何影响/毫无影响”。影响、保证和责任构成三个不同问题。天气预报能影响出行准备，却不能保证航程；船长不能支配风浪，却须维护设备并如实告知风险。把三者分开，才不会在结果失败后把全部因果压到一个人身上。",
+            "身体通常不由我最终支配，但我如何寻医包含判断；欲求属于选择活动，却可能因长期习惯而难以改变。善恶归属是第三层。一个结果不由单人保证，并不使行动过程没有伦理质量。证据是否诚实、承诺是否审慎、他人是否被当作工具，仍属于判断和行动冲动。",
+            "求职者可以准备与诚实应答，却不能把录用结果当作人格善恶的证明。区分按功能和归属工作，不按对象贴永久标签。把行动过程与结果分开：准备、判断和选择可由我承担，成功仍依赖他人、身体和偶然。",
+            "《手册》短句的功能是把欲望从不可保证结果撤回，不是让行动从世界撤退。爱比克泰德在《论说集》里反复以航海、球赛、法庭和社会关系说明：材料外在，取用材料的方式仍需技艺。控制语言会制造虚假的全责或无责。",
+            "结果责任还须区分事前与事后。事前无法保证成功，不会取消准备义务；事后出现损失，则要求检查当时证据、可用选项和承诺。仅凭成功或失败倒推全部责任，都会让偶然冒充伦理判断。说明错误归属如何产生恐惧、谄媚和怨恨。行动者若把结果放进“可控栏”，失败便像意志不足；若放进“不可控栏”，又可能宣布无需准备。",
+            "现代人确实能通过集体行动改变制度，“不可控”标签会制造消极。集体行动尤其能校正消极误读。制度结果不由一个人掌握，却可能由许多角色协调改变；说“我无法保证”与说“无人应负责”完全不同。",
+            "角色变化还会移动责任边界。员工无法单独改变制度，管理者却能调整排班，监管者又能改变执法条件。同一结果对不同主体具有不同的可行动部分，不能以最弱者的无力替有权者免责。",
+            "承担过程责任而不认领全部结果，才是较细的结构。这一区分若没有外物价值理论，仍会滑向冷漠。下一步必须回答：健康和安全不构成人格善，为什么仍应优先保护。共同决策尤其显示二分的关系性。一个人的提案要经同伴、机构和法律才能生效，个人仍对证据与沟通负责。多人参与降低单人支配，并没有让责任消失，只是要求把责任分配给实际角色。结果不受单人最终支配不等于不应行动；区分应防止自我价值被结果绑架，而不能取消因果参与。尚待追问的层面要解释为何外物仍是行动材料。",
+            "集体因果要求说清谁的选择。工时制度对单个员工不可最终支配，对管理团队和监管机构却属于职责材料。同一项目在不同角色位置具有不同的由我成分，不能只从最弱势者的视角划栏。"
+          ],
+          "identity": "《手册》的阿里安摘编；《论说集》的展开区分；现代“控制二分”标签",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-05-p06",
+      "nodeIds": [
+        "up-to-us-node"
+      ],
+      "checkIds": [
+        "up-to-us-q1",
+        "up-to-us-q2",
+        "up-to-us-q3",
+        "up-to-us-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-05-p12"
+      ],
+      "recommendedNextLessonId": "externals",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "externals",
+      "order": 6,
+      "title": "六、无差别项为何仍值得谨慎选择",
+      "depth": "longform",
+      "guidingQuestion": "健康、财富和安全若既非善也非恶，照护身体、保护财产和援助他人凭什么合理？",
+      "coreExplanation": "paragraph-ref:epictetus-06-p01",
+      "sections": [
+        {
+          "heading": "人格善与行动材料的双层价值",
+          "paragraphs": [
+            "健康、财富和安全若既非善也非恶，照护身体、保护财产和援助他人凭什么合理？“无差别”回答的是健康或财富能否凭自身使人公正、诚实和自由，不是问它们是否影响生活。健康者可以谄媚，病者可以诚实，因此健康不是人格善；这并不使治疗和预防失去理由。",
+            "人格善恶与外在条件的自然吸引或排斥属于不同价值层级，所以“无差别”并非“毫无差别”。斯多亚的优先选择并不是德性之外的第二种善。外物不是人格善，仍可以成为审慎行动的真实理由。药物不会使服药者自动公正，但医生对剂量和副作用的注意属于职业判断；若以超脱为名省略这些事实，受到破坏的正是取用材料的能力。",
+            "优先选择的理由可以被更高要求限制，却不会因此成为虚假理由。健康通常值得维护，取得治疗若要求欺骗他人或侵害弱者，行动者必须重新比较；冲突说明价值有层级，而非低层价值从未存在。",
+            "球的材质不决定球员技艺，但球员必须看清球的位置。类似地，外物是行动材料：若用“不重要”拒绝搜集证据，行动者恰恰没有表现好的取用。",
+            "球赛、航海和宴席中的材料不会自行决定技艺价值，却要求行动者准确取用。健康、资源和安全通常合乎生命自然，因而提供选择理由；当取得它们要求不义时，优先性受人格善限制。斯多亚传统通常承认某些外物合乎自然地被优先选择。爱比克泰德的严厉表达强调在冲突时不以外物交换人格，却不能抹掉日常选择中的自然理由。医生无法保证治愈，但仍应使用最佳证据治疗；结果失败不使专业判断自动为恶。这比“在乎或不在乎”的二分更细。",
+            "角色会改变材料的权重。医生对药品、监护人对儿童安全、财务人员对公共资金承担的注意，不能由个人超脱感取代。材料比喻也要求能力与事实相配。球员若看错球的位置，内心是否超脱不能弥补技术判断；医生若遗漏过敏史，善意同样不能替证据。人格评价不被结果独占，行动质量仍包含认识责任。外物选择还受角色、时机和共同利益约束，个人安宁不能成为唯一标准。",
+            "《论说集》2.5的球赛突出共同规则。爱比克泰德有时使用近乎贬低身体和财产的语言，与温和解释不一致。结果失败也不自动证明取用错误。一场治疗可能依据最佳证据仍失败；反过来，侥幸成功不使欺骗或鲁莽成为好判断。好球员不仅保持内心状态，也要接球、传球并尊重玩法。",
+            "双层价值也解释了失败为何不能单独裁决行动。遵循证据的治疗可能失败，鲁莽决定也可能侥幸成功。评价既要承认后果带来的修正信息，又不能让偶然结果倒写行动当时可获得的理由。保留其修辞的激进性并按压力场景解释，不能把全部材料调和；角色义务将进一步检验外物选择。",
+            "最难的边界是结构性匮乏。说贫困不降低人格价值可以反击羞辱，说贫困没有真实伤害则是在富足位置替他人取消需要。替他人选择时，外物权重会进一步改变。行动者可为自己承担较高风险，却不能未经同意让病人、儿童或受托人接受同样风险。自然优先项与角色义务结合，正好限制个人苦行的普遍化。若把球扔掉以证明不依赖球，他不是更自由，而是退出了正在评价的技艺。",
+            "角色改变外物权重。自己的名誉可不追逐，替受托者保存证据却可能是职责；自己的疼痛可忍受，把同样标准强加给病人则越过代理边界。外物价值不能只按行动者个人感受计算。"
+          ],
+          "identity": "爱比克泰德对斯多亚无差别项和恰当行动的课堂说明",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-06-p05",
+      "nodeIds": [
+        "externals-node"
+      ],
+      "checkIds": [
+        "externals-q1",
+        "externals-q2",
+        "externals-q3",
+        "externals-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-06-p10"
+      ],
+      "recommendedNextLessonId": "emotion",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "emotion",
+      "order": 7,
+      "title": "七、情感训练是改判断还是压住感觉",
+      "depth": "longform",
+      "guidingQuestion": "恐惧、愤怒、嫉妒和悲伤若依赖价值判断，哲学是否只需改一句内心陈述；身体感觉、依恋和长期习惯又如何处理？",
+      "coreExplanation": "paragraph-ref:epictetus-07-p01",
+      "sections": [
+        {
+          "heading": "欲求、排斥与习惯的时间",
+          "paragraphs": [
+            "恐惧、愤怒、嫉妒和悲伤若依赖价值判断，哲学是否只需改一句内心陈述；身体感觉、依恋和长期习惯又如何处理？成熟的恐惧或愤怒不只是身体震动，它通常包含“某外物是必须避免的恶”或“对方已夺走我的价值”的判断。改变判断因此可能改变情感轨迹。",
+            "愤怒理论的关键不是“对方没有错”，而是错误行为来自其错误善恶判断。激情的时间结构也影响责任。最初的身体收缩、随后对冒犯的解释、持续想象报复以及最终行动，不能用同一标签处理。越靠后的环节通常越能接受理由检验，但具体能力仍随情境而变。但身体反应、第一阵惊吓和长期形成的警觉不能被删去。爱比克泰德自己的训练论需要时间、重复和环境，已经反驳了“一念即可选择情绪”的轻率读法。",
+            "由印象—同意—欲求链解释成熟激情为何包含对外物善恶的判断。认识这一点可把回应从让对方受苦转向阻止伤害、澄清事实和修复规范；惩罚若只满足报复欲，仍受同一激情支配。愤怒中的判断并非抽象附属物。行动者往往同时认定自己遭受了不可容忍的贬损、对方应当受苦、报复能够恢复地位；拆开这些推论，才看得见哪一步需要事实澄清，哪一步涉及规范越界。",
+            "欲求领域先处理把什么当作非得获得的善；排斥处理把什么当作绝不能遭遇的恶；行动领域再问在关系中应做什么。同一情境可能在三处分别出错。区分初发反应、持续同意、行动冲动和反复习惯，拒绝把所有情绪压成一个开关。",
+            "欲求领域先处理把什么设为非得获得之善，排斥处理把什么视为绝不能遭遇之恶，行动领域再问在关系中应做什么。被同事冒犯后先承认身体愤怒，再检验“名誉受损等于人格受损”，最后选择是否申诉。",
+            "愤怒案例还包含认识谦逊。若人按自己认作真的印象行动，理解其错误机制可以减少报复；理解并不取消制止、申诉和保护他人的责任。把对方错误归于其善恶判断，不意味着取消边界。理解伤害者的误判，可以减少以痛苦偿还痛苦的冲动；阻止接近、保存证据和寻求制裁仍可能是保护共同规范所必需的行动。",
+            "同一事件可能在三处分别出错，不能由一个情绪强度指标代替。用欲求、排斥和行动三类训练重新组织长期实践。现代心理医学边界不是礼貌附注。丧亲、创伤和抑郁要求额外边界。哲学可以检验附加的自我定罪，却没有资格以古代论证替代医疗、哀悼共同体或安全措施。",
+            "把情感归因于判断会对丧亲者、创伤者或抑郁者实施道德责备。身体过程则规定了训练的限度。睡眠、疼痛、创伤和药物都会改变唤醒强度与注意范围。哲学可以帮助检验持续判断，却不能把需要医疗或安全支持的状况重新命名为意志松懈。情绪持续可与神经、生理、药物和创伤环境相关；以哲学解释独占因果会延误照护。临床边界还要求避免单因解释。长期抑郁、躁狂或创伤反应涉及身体、环境与关系机制，价值判断只是其中一层。哲学资源可以参与支持，不能代替诊断，也不能把症状持续归咎于操练不足。",
+            "理论可用于检验附加价值判断，不能替代医疗、哀悼或安全支持；爱比克泰德严厉语言本身需接受伦理审查。进一步用自由论压测其最强主张。情感训练的目标不是表面平静，而是让反应与事实、价值和角色更相称。一个不再发怒却也不再保护受害者的人，并未因此显示判断改善。",
+            "爱比克泰德资源只能在清楚标注适用层级时参与支持。"
+          ],
+          "identity": "爱比克泰德对斯多亚情感判断论的实践重构；现代临床边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-07-p05",
+      "nodeIds": [
+        "emotion-node"
+      ],
+      "checkIds": [
+        "emotion-q1",
+        "emotion-q2",
+        "emotion-q3",
+        "emotion-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-07-p10"
+      ],
+      "recommendedNextLessonId": "freedom",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "freedom",
+      "order": 8,
+      "title": "八、自由为何能在暴君面前成立",
+      "depth": "longform",
+      "guidingQuestion": "主人和皇帝可以监禁、流放、殴打乃至杀人，爱比克泰德为何仍说他们不能使选择能力成为奴隶？",
+      "coreExplanation": "paragraph-ref:epictetus-08-p01",
+      "sections": [
+        {
+          "heading": "规范不屈与外部强制",
+          "paragraphs": [
+            "爱比克泰德不断缩小暴君的权力清单：他能锁住腿、夺去职位、伤害身体，却不能仅以命令使错误成为正确。自由论首先是一项反主权论证，否认权力拥有定义善恶的全能。",
+            "主人和皇帝可以监禁、流放、殴打乃至杀人，爱比克泰德为何仍说他们不能使选择能力成为奴隶？《论说集》4.1让追求自由者承认：凡其非得获得之物掌握在他人手里，他便以欲望给对方套上缰绳。",
+            "欲望如何赋予他人支配力，是自由论最锋利的心理洞察。若升迁被设为幸福条件，掌握任命者便获得影响情绪和判断的杠杆；撤回这一条件能够减少谄媚，却不意味着任命制度无需透明。",
+            "欲望却会把权力扩张。如果我把晋升认作非得获得的善，掌握任命的人便控制我的谄媚；如果我把身体安全认作唯一善，威胁者便更容易规定我的语言。",
+            "身体、财产和职位会受事实强制，但强制者并不因此取得让错误变成正确的规范权力。暴君能够伤害身体和关系，却不能仅凭施暴取得被害者对其正当性的承认。这一反转揭露权力的界限；它若被误读成伤害不真实，又会替暴君卸下对拘禁、剥夺和恐惧的责任。",
+            "论证不是赞美失去，而是显示欲望结构如何把事实权力转化为内在统治。这不是说身体安全无价值，而是说价值冲突必须被看见。举报、沉默、退出、联合他人和公开拒绝都可能有理由，不能把最戏剧性的牺牲定为唯一自由证明。举报人面临失业与家庭风险，内在判断未被夺走不等于只有公开牺牲才算自由。暴君场景中的身体语言有意尖锐。",
+            "当行动者把暴君掌握的外物设为幸福条件，欲求便向暴君交出杠杆；自由首先要求重新安置善恶归属。苏格拉底式不屈与普通人的照护角色会冲突。一个人愿意承担风险，仍须考虑其决定怎样影响孩子、同事和其他受压者；个人纯洁不能自动代表共同利益。",
+            "腿可以被锁，脖子可以被砍，选择却不因此称暴君为善。受压者的妥协也必须按条件解释。为保护家属而暂时服从，与把不义命令视为正当并非同一件事；行动可能受阻，判断可能保留。把妥协直接等同人格失败，会替施压者转移责任。",
+            "招供、妥协、沉默和殉道各有不同的风险与角色后果，不屈姿态不能成为所有受压者的单一义务。这种修辞能鼓舞抵抗，也可能让疼痛和死亡显得过轻；两个效果都要可见。",
+            "这套自由定义把真实强制降为身体小事，并对无力反抗者残酷。外部自由的不足尤其重要。法律权利、逃离资源、组织能力和身体安全确实扩展可行行动。内在判断不能替这些条件完成工作。",
+            "内在不屈与公共自由因此不是竞争答案。前者说明人格判断不必随强权改写，后者说明制度应限制任意权力并提供救济。二者相互需要，任何一方都不能充当另一方的廉价替代。政治自由仍超出这一定义。最强结论因此有限而锋利：强制可以伤害并缩减选项，但不能凭伤害取得正当性。它反驳权力神化，不否认权力现实。",
+            "制度自由提供内在自由无法自产的空间。申诉权、身体安全和结社条件让拒绝更可行动，也让理由能够公开竞争。它们不是德性的外部奖品，而是共同体应维护的行动条件。承认它揭示强制不能自动生成正当性，却不足以衡量伤害、资源与保护责任；角色伦理必须补充谁对谁负有什么义务。免于任意拘禁、拥有发言权和获得救济，是不能由内在判断替代的公共条件。爱比克泰德论证可为这些权利提供人格根据，却没有完成制度形式。"
+          ],
+          "identity": "爱比克泰德的自由论与帝国权力场景；受压者边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-08-p06",
+      "nodeIds": [
+        "freedom-node"
+      ],
+      "checkIds": [
+        "freedom-q1",
+        "freedom-q2",
+        "freedom-q3",
+        "freedom-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-08-p12"
+      ],
+      "recommendedNextLessonId": "roles",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "roles",
+      "order": 9,
+      "title": "九、角色不是命令清单",
+      "depth": "longform",
+      "guidingQuestion": "《手册》17 把人生比作演员接受角色，《手册》30 又从父子、兄弟和公民关系推导职责；角色由命运分派是否会固定不公秩序？",
+      "coreExplanation": "paragraph-ref:epictetus-09-p01",
+      "sections": [
+        {
+          "heading": "关系理由与不正当命令",
+          "paragraphs": [
+            "《手册》17 把人生比作演员接受角色，《手册》30 又从父子、兄弟和公民关系推导职责；角色由命运分派是否会固定不公秩序？演员比喻常被理解为命运发剧本、个人只需服从。可是在戏剧中，角色给出行动空间和评价标准，并不替演员完成每一动作；在伦理中，关系同样提供理由而非无条件命令。",
+            "普遍的人类理性身份、具体关系、行动能力和处境分别提供理由，不能压成一个身份标签。《论说集》1.2的角色判断具有个人差异。角色理由不是贴在身份上的固定命令。子女、医生、公民或朋友各自带来关注对象，但实际决定还须比较安全、承诺、能力和他人权利；身份若拒绝这些检验，就从推理资源变成服从借口。",
+            "角色义务的来源也要区分。亲属关系带来已有承诺，职业关系常由同意和契约建立，公民责任又涉及公共规则。不同来源决定退出、协商和补偿的方式，不能由一个抽象身份排序替代。",
+            "爱比克泰德从“人”“儿子”“兄弟”“公民”等称谓展开职责。最普遍的人类理性身份限制较具体角色：父亲若命令欺骗，父子关系不能使欺骗变成正当。角色只给出恰当行动的初始理由，还要受人格善与共同自然限制。",
+            "某人认为在公开受辱后留下会违背其人格，另一个人可能有不同承受方式；爱比克泰德不是给每种身份一张统一动作表，而是要求行动者知道自己守护什么。角色还包含能力和处境。选择竞技生活前要检验身体、时间和代价；承担公共职务也不能只看名号，须看是否能履行承诺。",
+            "照护失职父亲时，维持尊重、设立安全边界和拒绝违法命令可以同时成立。《手册》30从关系取得职责时，关系只是推理起点。冲突是角色伦理的真实考验。照护父母、保护孩子、履行职业和维护自身安全可能同时提出要求，没有一条称谓能机械排序。",
+            "当角色本身由不义制度规定时，履行角色不再自动合宜。被要求沉默的下属、被剥夺法律人格的奴隶，都说明事实位置与规范资格之间存在裂缝；共同理性可以成为批判角色的根据。",
+            "角色冲突和角色内滥权要求行动者比较理由，不能从“他是父亲/主人”直接推出服从每一道命令。兄弟若不公，行动者仍须问自身作为兄弟和人的合宜回应；不能用对方错误授权自己的错误，也不证明关系永远不能中断。",
+            "角色伦理只是把罗马等级制度自然化。对错误亲属仍不以恶报恶，是爱比克泰德想保住的界限。这可以支持设立边界而非报复，也可以被误用为要求承受持续伤害；这里必须区分尊重人格与维持接触。",
+            "角色还会被不正当制度塑造。关系中的错误也不会让全部义务瞬间消失。面对伤害，行动者可以拒绝报复，同时设立距离、保存证据并寻求帮助。这样的边界不是背叛共同理性，而是防止一方以关系名义垄断另一方的行动。",
+            "爱比克泰德确有等级语境，但“对方错误不授权我败坏自身”不等于维持其权力；家庭亲情与共同体义务还需独立展开。角色论让由我/不由我回到共同生活。选择能力不是守护私人宁静的堡垒，它要在不保证结果的关系中作出可说明的行动。",
+            "冲突处理中，剩余债务同样重要。选择照护家人可能延误工作，选择公开举报可能增加同事风险；即便决定有充分理由，也应说明谁承担代价以及还能采取哪些修复行动。奴隶、妻子或臣民在罗马社会被分派的角色，不能因事实存在便获得自然正当性。共同理性身份可成为批判资源，但文本没有系统发展制度改革。"
+          ],
+          "identity": "爱比克泰德的角色伦理；《手册》的阿里安摘编",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-09-p06",
+      "nodeIds": [
+        "roles-node"
+      ],
+      "checkIds": [
+        "roles-q1",
+        "roles-q2",
+        "roles-q3",
+        "roles-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-09-p12"
+      ],
+      "recommendedNextLessonId": "affection-cosmopolis",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "affection-cosmopolis",
+      "order": 10,
+      "title": "十、亲情、友谊与世界城邦",
+      "depth": "longform",
+      "guidingQuestion": "若幸福不依附亲人，爱是否会退化为可随时撤回的关系；若所有理性者同属宙斯城邦，具体亲友为何仍获特殊照护？",
+      "coreExplanation": "paragraph-ref:epictetus-10-p01",
+      "sections": [
+        {
+          "heading": "不占有的爱与特殊义务",
+          "paragraphs": [
+            "若幸福不依附亲人，爱是否会退化为可随时撤回的关系；若所有理性者同属宙斯城邦，具体亲友为何仍获特殊照护？把亲人视为“不是我的”很容易听成撤回爱。更准确的压力是：亲人不是所有物，其生命和选择不由我永久支配；爱必须从占有转为照护。",
+            "《论说集》2.22说，被认为的善决定友谊。对失去的预想若只训练行动者不被打乱，就会忽略亲人作为独立主体。更完整的预想还会促使人询问对方需要何种照护、哪些承诺尚未兑现，以及有限时间如何改变今天的行动。",
+            "爱比克泰德认为友谊依赖行动者认为什么是善。若两人都把名誉和财富当作必须争夺的善，友谊会在稀缺时崩解；若人格善不需从对方夺取，合作才有稳定空间。由自然亲和和共同理性说明他人不是个人平静的障碍物。",
+            "若我把你的升迁视为自己的损失，友好便依赖好运；若善是可共同拥有的公正与诚实，朋友之间不必为同一善相互排除。反占有不等于降低亲密。父母无法保证孩子永远安全，仍可认真照护、记录医疗信息并分享时间；真正被撤回的是对命运的保证要求，而不是关系中形成的具体责任。",
+            "世界公民身份由共享理性与神圣亲缘提出普遍要求，却不抹掉特殊义务。对陌生人的平等尊重与对病中亲人的持续陪护承担不同形式。区分不把亲人当所有物与减少实际照护，说明依恋去占有化不等于冷漠。",
+            "这是价值结构而非情感冷却。亲人重病时，行动者不能保证康复，但要在陪伴、医疗和其他责任间作具体取舍。死亡预想可以削弱占有幻觉，也可能使照护者提前疏离。实践评价要看它是否增加当下的耐心与诚实，而非只看说话者是否显得冷静。",
+            "友谊中的共同善并非资源不重要。朋友仍会争取工作、健康和安全，关键是这些资源不被视为必须击败对方才能取得的人格善。合作能够改变稀缺条件，也能暴露一方是否把另一方当作工具。",
+            "《论说集》3.24对亲情的严厉语言常针对占有。协调普遍人类身份与父母、朋友、公民的特殊义务。行动者把亲人称为“我的”，随后要求命运保证其不变；爱比克泰德要拆的是保证要求。",
+            "亲情并非纯粹私人情感。谁承担照护、谁有资源退出、谁被期待牺牲，都受社会分配影响；爱比克泰德没有提供这些制度分析，现代使用必须补明而非冒充原文。《手册》关于亲吻孩子并提醒其会死的操练会损害亲密和哀悼。",
+            "世界公民身份也不要求把资源平均撒向所有人。亲近者带来知识、承诺和可执行能力，陌生人则提出不被排除于人格尊重的底线。普遍关切与特殊照护处在不同层级，可以共同成立。",
+            "文本仍可能低估依恋的身体和发展基础。照护边界又防止普遍亲和变成无限牺牲。行动者属于共同体，也需要休息和支持；寻求分担不是减少关切，而是承认照护依赖网络。孤立承担反而可能使关系更脆弱。",
+            "可重建为反占有与死亡意识，仍必须承认该修辞可能伤害关系；身体脆弱性尚待追问的层面接受更直接检验。由此保住两个同时成立的命题：他人不是我幸福的财产条件，他人仍以独特关系向我提出行动理由。",
+            "现代照护伦理还能指出照护者会耗竭。角色义务不能要求一人无限承担；寻求分担、设立边界和承认依赖网络，可以比独自忍耐更符合共同体而非个人占有的精神。"
+          ],
+          "identity": "爱比克泰德关于自然亲和、家庭、友谊和宇宙公民的课堂论证",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-10-p07",
+      "nodeIds": [
+        "affection-cosmopolis-node"
+      ],
+      "checkIds": [
+        "affection-cosmopolis-q1",
+        "affection-cosmopolis-q2",
+        "affection-cosmopolis-q3",
+        "affection-cosmopolis-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-10-p13"
+      ],
+      "recommendedNextLessonId": "body-illness",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "body-illness",
+      "order": 11,
+      "title": "十一、身体、疾病与残疾不是哲学道具",
+      "depth": "longform",
+      "guidingQuestion": "身体被列为不由我，爱比克泰德本人又有残疾传统；哲学如何既不让身体决定人格价值，也不否认疼痛、照护和无障碍条件？",
+      "coreExplanation": "paragraph-ref:epictetus-11-p01",
+      "sections": [
+        {
+          "heading": "价值平等与照护条件",
+          "paragraphs": [
+            "身体不构成人格善恶，首先反对一种等级判断：健康、容貌和行动能力不能证明谁更值得尊重。它并不否认身体决定一个人能否进入建筑、承受工作或获得睡眠。",
+            "身体被列为不由我，爱比克泰德本人又有残疾传统；哲学如何既不让身体决定人格价值，也不否认疼痛、照护和无障碍条件？",
+            "身体与选择能力不是互不接触的线。病中角色会随能力调整。不能像健康时工作，不表示诚实、求助和遵医嘱失去伦理意义；相反，承认限制可能比勉强表演坚强更符合对材料的准确取用。",
+            "《论说集》谈疾病时仍然保留病人的角色。病中可做的不是假装无痛，而是在求医、休息、与照护者沟通和判断恐惧之间寻找合宜行动。区分身体状态的因果现实与其不构成人格善恶。",
+            "身体状态会改变可做之事，却不直接决定行动者的道德价值。承认疼痛使注意变窄，能够让治疗、休息和辅助进入计划；若怕损害自由而否认这些因果，最终只会让病者为环境缺口承担额外羞耻。",
+            "疼痛改变注意，睡眠不足影响推理，辅助技术扩展行动；承认这些因果不会使人格善变成生理指标，只会使训练摆脱虚构的人类条件。爱比克泰德的残疾常被写成主人暴力后仍坚强的传奇。较可靠的是他有腿部残疾；原因叙述来自不同后世证词，不能借哲学主题决定哪一个故事为真。慢性病患者调整工作与寻求辅助，不应被说成向外物屈服；拒绝合理照护也不是自由证明。",
+            "《论说集》3.10要求病中不要把哲学职责变成表演。从《论说集》疾病场景说明病中角色、求助、治疗和判断仍需协调，不是只说“忍耐”。",
+            "合理便利和辅助工具属于外部材料。使用它们不表示选择能力被身体征服，正如航海者使用舵并不表示把人格交给木材。病人不必像健康时一样行动，也不该因需要帮助羞愧；处境改变材料，评价转向是否诚实说明需要并遵循合理治疗。辅助技术展示外物与能力的互动。轮椅、字幕或药物不会直接制造德性，却能扩展注意、沟通和行动范围。把这些支持贬为无差别项，不仅误解外物，也误解选择能力需要现实媒介。分开爱比克泰德残疾的可靠事实、原因争议与后世励志利用。",
+            "残疾传记的励志化常把结构障碍隐去。身体二级化本身就是健全主义，会把依赖者排除在完整主体之外。健全主义异议仍然击中文本的等级语言。若“真正的人”被放在身体之外，照护依赖可能显得只是低层麻烦；论证脉络必须明确这种形上—伦理分层不能替现代无障碍与照护正义完成论证。",
+            "同样，残疾者的成就不能替障碍辩护。一个人能在排斥中工作，只说明其思想没有被障碍定义，不说明楼梯、信息缺失或照护不足无害。人格尊严应成为改善条件的理由，而非削减支持的证据。",
+            "一位教师能在残疾中思想，不证明楼梯、排斥和缺乏辅助无害；它只证明这些障碍不能决定思想价值。可保留的结论是身体差异不降低人格价值。不可冒认的结论是身体差异没有伤害，或只要思想正确便不需要医疗、辅助和他人支持。",
+            "传记证据不足时，残疾原因应保持开放。后世叙述可以说明接受史怎样塑造形象，却不能替缺失的同时代证词。拒绝戏剧化原因，能让讨论回到文本对身体、疼痛和尊严的实际论证。内在价值平等可反驳以身体分等级，但文本对依赖和照护劳动不足；不能替他补成现代残障正义理论。财产和地位同样需要现实边界。由个体成就为环境免责，是错误方向。"
+          ],
+          "identity": "爱比克泰德的疾病课堂；后世残疾证词；现代残障边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-11-p06",
+      "nodeIds": [
+        "body-illness-node"
+      ],
+      "checkIds": [
+        "body-illness-q1",
+        "body-illness-q2",
+        "body-illness-q3",
+        "body-illness-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-11-p12"
+      ],
+      "recommendedNextLessonId": "property-work",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "property-work",
+      "order": 12,
+      "title": "十二、财产、名誉与职业是材料而非污点",
+      "depth": "longform",
+      "guidingQuestion": "财富、住房、职业与名誉不构成善，但失去它们会改变生存能力和他人责任；如何避免在贪恋与轻率放弃之间摆动？",
+      "coreExplanation": "paragraph-ref:epictetus-12-p01",
+      "sections": [
+        {
+          "heading": "占有、保管与公共责任",
+          "paragraphs": [
+            "财富、住房、职业与名誉不构成善，但失去它们会改变生存能力和他人责任；如何避免在贪恋与轻率放弃之间摆动？财产的可撤回性意味着占有不是永久主权。房屋会毁损，职位会撤销，名誉由他人判断；把它们当成不可失去的善，会使行动者为保全而谄媚。",
+            "占有随时可能终止，这一事实削弱“这是我的永久财产”的幻觉。宴席比喻强调等待、适量与顾及整体，但公共资源不是主人随意传盘的恩赐。",
+            "财产作为材料，既涉及个人欲望，也涉及契约和受托关系。放下对名誉的焦虑是一种训练，遗失公共资金却不能用同样语言处理；责任取决于谁受托保存什么，以及疏忽会把成本转给谁。宴席比喻中的秩序来自共同规则，不能直接移植为对公共资源的被动等待。现代权利和契约规定谁可提出请求、谁须说明分配依据；节制欲望与要求程序正当可以同时成立。",
+            "但保管仍是角色。受托管理公共资金的人不能说金钱只是无差别项，因而账目随意；无差别项正是其公正、谨慎和诚实要处理的材料。使用、保管、分享与被外物支配并非一事，恰当取用取决于角色和后果。",
+            "现代使用必须区分个人欲望节制与制度中的权利、契约和受托责任，不能把后者改写成耐心等候。职业身份也有双面。它能提供服务和承诺的结构，却会在晋升被当作善时绑架判断。是否接受职位，要看能力、代价与公共后果，不只看个人能否保持平静。",
+            "管理公共资金者不能以“钱是无差别项”为由忽视审计。名誉有三个层次。名誉不能最终控制，却可提供信息。批评可能错误，也可能指出真实伤害。斯多亚训练要求先检验证据，而不是用“他人的看法不由我”封闭反馈。",
+            "名誉受损也要先辨真假。谣言无法决定人格，事实指控却可能揭示真实伤害。行动者应核对证据、回应可修复之处，并拒绝把所有批评都解释为外物噪声。",
+            "他人的最终评价不受行动者支配，但名誉与职业仍包含可核事实、承诺和专业标准，行动者须为这些部分负责。他人的最终评价不由我，评价依据可能是可核事实，我对事实与修复的回应仍属于我。",
+            "这种哲学适合已有安全资源的人，对贫困者要求超脱。失去财产的痛苦还具有分配维度。富人失去奢侈品和贫困者失去住房不能只用同一句“归还”覆盖；外部后果的规模会改变行动与救助义务。",
+            "把三层压成“别在意评价”，会同时保护行动者免受谣言，也保护其免受问责。职业选择也常介于服从与退出之间。记录问题、寻求同事支持、提出异议和安排交接，会改变风险分配。把这些差异压成“职位是外物”，就无法评价行动者怎样使用手中的现实条件。",
+            "贫困不构成人格低劣不等于贫困无害；文本能提供价值平等，却缺少分配制度论。尚待追问的层面进入政治权力与公共行动。爱比克泰德提供的是不以占有证明人格的资源，不是财产权、劳动和分配正义的完整理论。这个不足必须带入政治篇。",
+            "工作中的不义要求常给出多条行动路径。立即退出可能保护自己，记录、举报或联合同事可能更能减少后续伤害；选择取决于风险、受托关系与可用支持，不能只以个人平静衡量。职业退出需要角色判断。拒绝不义工作可保护人格，但突然退出可能把风险转给同事或被照护者；预告、交接、举报和联合行动都是外部材料中的伦理差异。"
+          ],
+          "identity": "爱比克泰德关于财富、名誉、职业和取用外物的课堂论证",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-12-p06",
+      "nodeIds": [
+        "property-work-node"
+      ],
+      "checkIds": [
+        "property-work-q1",
+        "property-work-q2",
+        "property-work-q3",
+        "property-work-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-12-p12"
+      ],
+      "recommendedNextLessonId": "politics-exile",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "politics-exile",
+      "order": 13,
+      "title": "十三、政治权力、放逐与公共行动",
+      "depth": "longform",
+      "guidingQuestion": "爱比克泰德揭穿执政者只能支配外物，却生活在帝国政治中；他的哲学支持直言、谨慎服从、退出，还是公共改革？",
+      "coreExplanation": "paragraph-ref:epictetus-13-p01",
+      "sections": [
+        {
+          "heading": "职位权威与道德权威的分离",
+          "paragraphs": [
+            "爱比克泰德揭穿执政者只能支配外物，却生活在帝国政治中；他的哲学支持直言、谨慎服从、退出，还是公共改革？帝国官员掌握现实资源，爱比克泰德却追问他们自己向谁屈服。若总督依赖皇帝宠信，他的职位权力与人格自由并不相同；这个反转揭露权力链中的谄媚。爱比克泰德以宫门外的等待者揭露政治欲望：他自称自由，却把安宁交给一个可能不接见他的官员。",
+            "官员的职位权力是事实，命令的正当性则须另行说明。行动者既不必为证明自由而否认官员能配置资源，也不应因资源依赖便把职位转换成道德权威。放逐把区分推向空间。统治者可以规定行动者不得留在某城，却不能由此证明被放逐者做了恶。地点损失是真实损失，价值判决仍须另证。",
+            "暴君场景显示职位权威、事实强制和道德权威并不相同。批评针对谄媚和价值误置，不等于任何与机构交涉都可笑；申诉仍可能是职责。与机构交涉可能包含谄媚，也可能是保护权利的职责。判断要看行动者是否把官员认可当成人格善，是否依据证据提出请求，以及行动会不会把风险转给他人，而不是仅凭走进宫门便判定依赖。公共行动不能只由不屈姿态决定。说话、沉默、辞职、保留证据、联合同事或公开拒绝，各自影响不同人；角色伦理要求比较后果而不是复制英雄场景。",
+            "放逐、法庭和晋升虽是外在材料，行动者仍要依角色判断说话、沉默、离开或承担后果。放逐不只是换一个地点。公务员面对违法命令，需区分个人升迁、公众伤害、证据强度和安全退出。世界公民语言可以限制地方权威的绝对化，因为人不只属于一个行政共同体。它也可能过于抽象，若没有法律与组织中介，受害者仍得独自承担风险。",
+            "公共行动的策略会改变他人处境。公开发言、匿名记录、法律申诉和集体协商承担不同风险；勇气不是永远选择最显眼的方式，而是在证据和角色约束下选择可辩护的行动。",
+            "失去语言环境、社群、工作和法律保护会产生累积伤害。世界公民身份可以约束具体城邦行动，但爱比克泰德没有由此给出制度设计或完整的集体行动理论。",
+            "说地点不决定人格善，可阻止流放者内化羞辱，却不能为施加放逐的政权减责。爱比克泰德擅长揭露统治者不能制造道德真理，却没有发展权力分立、代表制度或集体组织理论。现代解释必须把这一缺口写成未偿债务。只保护内在选择会让帝国秩序不受批评。",
+            "流放者保留人格价值，并不会恢复被切断的语言、工作和社群。内在判断能够抵抗羞辱，公共制度仍须为任意驱逐负责。分清两个层次，才能既不把受害者定义为失败，也不把放逐说成换景。",
+            "直言需要证据伦理。地点不是人格善，却是生活关系的承载条件。失去故乡可能切断语言、收入和照护网络；承认这些损失不会让流放者人格低劣，只会让施加流放者的制度责任更清楚。",
+            "对权力谄媚的批判是真实资源，但不足以说明结构改革；奴隶制边界必须单独审查，不能藏在“人人可能是欲望奴隶”的隐喻后。因此，哲学自由可支持抵抗谄媚，却不能独立选择具体政治策略。它提供判断的底线，不提供所有制度答案。公开批评若基于传闻，会以自由姿态伤害他人；保留记录、核对事实和选择合宜渠道不是胆怯，而是让选择能力真正受理由约束。"
+          ],
+          "identity": "爱比克泰德的帝国政治场景；世界公民语言；现代制度边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-13-p05",
+      "nodeIds": [
+        "politics-exile-node"
+      ],
+      "checkIds": [
+        "politics-exile-q1",
+        "politics-exile-q2",
+        "politics-exile-q3",
+        "politics-exile-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-13-p10"
+      ],
+      "recommendedNextLessonId": "slavery-boundary",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "slavery-boundary",
+      "order": 14,
+      "title": "十四、前奴隶谈自由时留下了什么历史债务",
+      "depth": "longform",
+      "guidingQuestion": "爱比克泰德以“真正奴隶”指被欲望支配者，这一反转能否揭露主人自己的依赖，又会不会抹掉罗马奴隶遭受的法律人格剥夺和暴力？",
+      "coreExplanation": "paragraph-ref:epictetus-14-p01",
+      "sections": [
+        {
+          "heading": "隐喻反转与制度现实",
+          "paragraphs": [
+            "爱比克泰德曾是 Epaphroditus 的奴隶，后来获释并成为教师。这一生平使他关于主人只能支配身体的论证带有特殊重量，但不能把文本中每个奴隶例子自动当作自传。爱比克泰德以“真正奴隶”指被欲望支配者，这一反转能否揭露主人自己的依赖，又会不会抹掉罗马奴隶遭受的法律人格剥夺和暴力？",
+            "罗马奴隶制不是劳动合同的强版本。主人需要奴隶的劳动与承认，这一依赖能拆穿其自足幻象，却不会自动解除所有权。道德反转与法律改变之间隔着组织、保护和执行，二者若被压成一句精神胜利，制度便保持原样。",
+            "把依赖欲望的人称为奴隶，能够反转罗马等级。名义主人若离不开皇帝、财富和奉承者，便没有他自称的自主；法律上的奴隶仍可能在判断上不向主人授予正当性。还原其受奴役与获释身份的证据等级，拒绝传奇细节冒充事实。",
+            "欲望奴役的隐喻能够反转主人的自我形象，却不能吞掉法律奴役的物质结构。买卖、身体控制和家庭分离不是比喻；若只谈主人内心是否自由，最受压者反而从分析中消失。奴隶可被买卖，家庭关系缺乏稳定保护，身体和性自主受主人权力支配。",
+            "隐喻的锋利也伴随风险。法律奴隶面对买卖、殴打、性剥削、亲属分离和无法诉讼，这些不是“真正自由在内心”便会消失的表象。将现代被拘禁者称为“内心自由”时，必须同时讨论释放、法律救济和物质安全。",
+            "论证脉络若只谈欲望奴役，就会把爱比克泰德所处的制度从画面中删除。分析自由/奴役隐喻如何把道德优越从主人转给被压迫者。文本没有发展废除奴隶制的制度论。价值平等和主人依赖批判可成为后世反奴役资源，但若直接宣称爱比克泰德已经提出废奴，就会以我们的期望填补历史缺口。",
+            "反转隐喻仍有力量。受奴役者的顺从行为也不能脱离强制条件解释。身体惩罚、家属风险和逃离障碍会改变可行选项；保留规范判断具有意义，但不能用它证明公开抵抗在每个时刻都安全可行。",
+            "明确隐喻不能取消买卖、惩罚、性暴力、家庭分离和法律无权等制度事实，也不能推出顺从。主人不能因所有权取得被奴役者的道德同意，名义自由人也可能因求宠失去自我治理。",
+            "爱比克泰德没有发展废奴论，内在自由客观上可与奴隶制共存。受压者也不应因恐惧或妥协被再次审判。规范上不承认主人为善恶来源，与经验上能否拒绝命令，是两种不同能力；安全、盟友和逃离条件会改变后者。",
+            "爱比克泰德的价值平等为反抗提供重要资源，但资源不等于完整制度方案。废除、保护和法律人格需要额外论证与集体行动。指出这一缺口并非贬低原典，而是防止后世替它宣称未曾完成的工作。",
+            "这破坏了法律地位与人格优越之间的推论。论证脉络必须双向拒绝：既不让法律身份决定人格价值，也不让人格自由遮住法律身份的暴力。现代读者还须警惕把所有依赖都称作奴役。欲望隐喻可以分析谄媚，真实奴隶制却包含可买卖与暴力控制。保留词义层级，是不让修辞再次遮蔽历史受害者。承认这一严重限度；他的价值平等和主人依赖批判可供后人使用，却不能冒充制度废奴。神学秩序是否加深接受命运倾向，仍需检验。",
+            "内在不屈可能与制度长期共存。没有废除、逃离、保护家属和重建法律人格，精神自由不会自动改变买卖关系。爱比克泰德缺少这条制度链，正是不能替他隐去的债务。"
+          ],
+          "identity": "爱比克泰德的受奴役生平证词；课堂中的奴隶隐喻；罗马法律社会边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-14-p06",
+      "nodeIds": [
+        "slavery-boundary-node"
+      ],
+      "checkIds": [
+        "slavery-boundary-q1",
+        "slavery-boundary-q2",
+        "slavery-boundary-q3",
+        "slavery-boundary-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-14-p12"
+      ],
+      "recommendedNextLessonId": "providence",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "providence",
+      "order": 15,
+      "title": "十五、天意、宙斯与合乎自然",
+      "depth": "longform",
+      "guidingQuestion": "若宇宙由神的理性秩序统摄，疾病、迫害和奴役是否都应被当成妥善安排；若不是，服从宙斯意味着什么？",
+      "coreExplanation": "paragraph-ref:epictetus-15-p01",
+      "sections": [
+        {
+          "heading": "宇宙信任与神义论压力",
+          "paragraphs": [
+            "若宇宙由神的理性秩序统摄，疾病、迫害和奴役是否都应被当成妥善安排；若不是，服从宙斯意味着什么？爱比克泰德的神不是偶尔介入的外部救援者。人的理性能力被理解为宇宙理性的一部分，因此认识、感恩和世界公民身份处在同一神学背景。",
+            "人的理性与宇宙理性之间的亲缘，为感恩、世界城邦和道德能力提供了斯多亚神学根据。《论说集》1.6由感官与理性能力赞叹天意，论证从功能秩序走向感恩。",
+            "天意语言把宇宙视为可理解秩序，并要求行动者在既成事实中寻找可承担之事。这是一项形上承诺，不是从事件发生便能直接推出安排良善；苦难和人为伤害仍向该承诺提出解释债务。",
+            "秩序经验并不唯一指向天意。功能协调可以引出斯多亚的神学赞叹，现代解释也可能诉诸自然过程；忠实呈现要求说明这是竞争解释，而不是把形上结论写成观察本身。“愿事情按其发生而发生”经常被读成事前放弃。更准确的区分是：对已经发生的事实停止要求其未发生，不等于对未来不采取预防、救援和改革。",
+            "接受已经发生的事实、判断事件为善以及放弃改变未来是三种不同主张。现代生物解释不会自动接受这一步；论证应把它呈现为斯多亚神学推论，而非未经争议的观察结论。",
+            "合乎自然也不是跟随第一冲动。人的自然包含理性与社会关系，故行动须同时考虑事实结构、角色和共同利益。洪灾已经发生时，接受事实可减少无效否认，但仍须救援、追责和改进基础设施。",
+            "服从宙斯与自由相连。天意论最困难的不是日常不便，而是无辜苦难和坏制度。把每次伤害都称为专为受害者安排的训练，会使理论免于反证，并替伤害者卸责。",
+            "人为伤害尤其不能直接称作分派。施害者的选择、制度的纵容和受害者的处境形成可追责链条；行动者可以决定如何回应，追责仍属于其角色材料，而非对宇宙安排的不敬。",
+            "无辜苦难和坏制度迫使天意论解释为何事实秩序不等于每项伤害都正当。宇宙事件不由个体选择，行动者仍可选择怎样承担材料；但分派语言会引出正当化风险，尤其当伤害来自可负责的人而非天气。",
+            "天意把成功与灾难都解释为训练，因而不可证伪并会合理化伤害。可收缩的解释把天意理解为宇宙具有可理解秩序、行动者能在不可逆事实中寻找合宜回应。这仍是一项强形上信任，不是现代科学已经证明的结论。",
+            "对已经发生之事停止要求其未发生，是认识一致性。时态可以阻止接受滑向免责。已经发生的损失无法由愿望取消，尚可预防的风险却要求调查和行动。接受前者与改变后者并不矛盾，真正的矛盾是用宇宙安排替可负责的人遮蔽因果。",
+            "文本可把天意理解为宇宙可理解性和实践信任，但仍有神义论债务；死亡与丧失的极限场景将检验“归还”语言。神学因此既支持不向偶然屈服，也留下神义论债务。论证脉络不能用“整体最好”结束具体受害者的提问。",
+            "愿事情如其发生的提醒主要针对已经不可逆的事实。风险尚未发生时，调查、预防和警告仍是合宜行动；若提前用接受语言封闭这些步骤，天意便从承受资源变成因果盲区。对行动者而言，感恩与追责并非二选一：感谢仍可使用的能力，不妨碍追问哪些伤害本可避免。对可预防之事停止调查，则是行动失责。天意解释只有保留时态和角色差异，才不会使事实接受吞并因果追责。"
+          ],
+          "identity": "爱比克泰德的斯多亚神学；克里安西诗歌引文；现代重构边界",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-15-p07",
+      "nodeIds": [
+        "providence-node"
+      ],
+      "checkIds": [
+        "providence-q1",
+        "providence-q2",
+        "providence-q3",
+        "providence-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-15-p13"
+      ],
+      "recommendedNextLessonId": "death-grief",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "death-grief",
+      "order": 16,
+      "title": "十六、死亡、丧亲与归还语言",
+      "depth": "longform",
+      "guidingQuestion": "爱比克泰德把死亡视为原子或元素的分离，并说亲人不是“失去”而是“归还”；这能解除占有，还是会让哀伤者被迫沉默？",
+      "coreExplanation": "paragraph-ref:epictetus-16-p01",
+      "sections": [
+        {
+          "heading": "反占有与哀悼的重量",
+          "paragraphs": [
+            "爱比克泰德把死亡视为原子或元素的分离，并说亲人不是“失去”而是“归还”；这能解除占有，还是会让哀伤者被迫沉默？死亡本身与“死亡使我成为坏的人”并不是同一命题。爱比克泰德试图把人格善从生存时长分开，使死亡威胁不能买下行动者的判断。《手册》21让死亡常在眼前，目的是重新排序欲望，不是每天制造惊恐。死亡作为未来事实与暴力造成的死亡不能等量处理。前者提醒有限性，后者还涉及本可避免的行为与制度责任；接受生命有限，不会取消对不正当剥夺未来的判断。预想死亡的用处是拆除永久占有幻觉。亲人不是可以保证永不离开的财产，承认有限性可能使当前承诺更诚实。死亡事实与“死亡是人格之恶”的附加判断并不相同。",
+            "若死亡意识只让人回避关系，它没有产生自由，而是让恐惧换了一种行为形式。死亡沉思可以改变欲望排序，却不该把关系变成预先撤离。若一个人为证明不依赖而减少陪伴，恐惧仍在支配生活，只是换成了冷淡的形式。有限性更可成为认真相处和及时修复的理由。“不是失去，而是归还”在短句中尤其危险。它可提醒关系不由我支配，也可能把逝者的独特性和幸存者的悲痛压成所有权错误。",
+            "预想死亡和归还语言反对把他人当作永久财产。归还语言来自天意和非占有背景。面对临终亲人，预先承认死亡不等于减少疼痛控制、陪伴或法律安排。哀悼包括身体、记忆、日常协作和未来计划的断裂。即使这些不构成人格恶，也有真实重量，需要时间、仪式和共同体支持。",
+            "归还隐喻的力量在削弱占有要求，局限在无法表达共同历史的独特性。有人可从中获得安慰，另一些人感到关系被物化；哲学支持应允许这种差异，而不是把拒绝隐喻判为判断失败。",
+            "脱离背景时，它容易听成逝者只是暂借物。关系中断、照护丧失和哀悼仍有真实经验重量，不能因为它们不毁坏德性便称为无事。论证必须解释原始功能，也让拒绝这一安慰的哀悼者保有正当位置。对临终者的照护说明接受死亡不等于停止行动。疼痛控制、陪伴、遗嘱和告别都以死亡可能到来为前提，却仍是关系义务。",
+            "这种安慰只保护旁观者平静，牺牲逝者独特性和哀悼伦理。哀悼也不因承认死亡自然便失去正当性。人格善没有被死者带走，未来共同生活却真实中断。两类判断可以并存，照护者无须在哲学忠诚与承认损失之间作虚假选择。",
+            "死亡不毁坏德性，不等于不剥夺未来行动。哀悼中的行动能力常是渐进恢复的。办理事务、接受陪伴、讲述记忆和重新承担角色各有时间；要求立即平静既误解身体，也误解爱比克泰德反复操练而非一次命令的训练观。判断是否受外物统治，不能用哭泣持续几天来测量，而要看哀悼者是否仍被允许在支持中逐步恢复选择。",
+            "最强版本是反占有而非反悲伤；文本严厉处仍须保留批评。若哲学不能在日常习惯中形成，以上区分只会成为口头答案。最强回应因此不是禁止悲伤，而是拒绝让悲伤证明生命已无价值。爱比克泰德文本的严厉处仍可能伤害，必须作为接受边界保留。",
+            "被杀者失去计划，亲友失去共同生活，公共共同体也可能失去成员。",
+            "价值层级不能把这些损失改成空白。"
+          ],
+          "identity": "爱比克泰德关于死亡与丧失的课堂论证；《手册》摘编",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-16-p05",
+      "nodeIds": [
+        "death-grief-node"
+      ],
+      "checkIds": [
+        "death-grief-q1",
+        "death-grief-q2",
+        "death-grief-q3",
+        "death-grief-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-16-p10"
+      ],
+      "recommendedNextLessonId": "training",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "training",
+      "order": 17,
+      "title": "十七、注意、预演与三类训练如何改变习惯",
+      "depth": "longform",
+      "guidingQuestion": "知道印象与善恶的区分为何仍会在愤怒、欲望和恐惧中失败；训练如何避免变成固定格言、自我监控强迫或表演哲学？",
+      "coreExplanation": "paragraph-ref:epictetus-17-p01",
+      "sections": [
+        {
+          "heading": "从知道命题到形成能力",
+          "paragraphs": [
+            "学生知道外物不构成善，仍会在门外等待权贵时焦虑。知识没有自动进入欲求、排斥和冲动，正是爱比克泰德区分哲学阅读与进步的理由。知道印象与善恶的区分为何仍会在愤怒、欲望和恐惧中失败；训练如何避免变成固定格言、自我监控强迫或表演哲学？",
+            "《论说集》1.4把进步从读书数量转向欲求变化。欲求、行动和同意三领域提供观察角度，却不是统一日程。某人在行动规则上成熟，仍可能把亲人安全设为绝不能失去；训练要跟随实际判断，而非按读完某卷便自动升级。",
+            "欲求领域先降低把不可保证之物当作必得之善的倾向。行动领域处理在父子、朋友、公民等关系中怎样作为。同意领域检验印象和推理，爱比克泰德甚至认为初学者不应急于最难的逻辑自信。",
+            "欲求与排斥、行动冲动和同意处理不同层级的问题，学生通常先降低高风险欲求。训练的尺度应落在具体转换上：印象出现时能否多一次查证，冲动形成前能否看见角色，失败后能否修正而非归罪命运。阅读数量只能提供材料，不能替这些变化出具证明。",
+            "学生若只在文本中寻找哲学家身份，名誉欲已经换上理论外衣；真正指标要在受阻时是否仍能检验印象中出现。注意不是持续紧绷。它是记得当前判断正在把什么登记为善恶，并在滑落后返回，而非因一次失败宣布人格破产。",
+            "在预期冲突前写下可控行动与不可保证结果，事后检验事实、判断和角色，而非只记录“情绪失败”。三领域有发展次序却非永久隔离。注意、预演困难、延迟同意、反复行动和复盘共同改变习惯。预演困难有两种形式。一种提前识别可用行动和不可保证结果，另一种只反复想象灾难以显示坚强；后者可能加重焦虑，不能仅因古老便称为有效。欲求稳定后仍需在关系中行动，逻辑检验也贯穿始终。环境安排也能保护判断距离。预先写下理由、减少诱发条件、请同伴提醒或延后回复，都是选择能力对材料的运用。把这些支持视为软弱，反而回到孤立意志神话。",
+            "真正进步体现在受阻时的判断与行动，不能由背诵克吕西波、炫耀苦行或搜集格言替代。把它们做成固定阶段表，会忽略爱比克泰德根据学生弱点调整责问。持续警戒会制造焦虑和自我惩罚，尤其不适合强迫症或创伤者。",
+            "习惯由重复行动加强，也可由相反行动逐渐削弱。延迟、环境调整、同伴提醒和复盘都可能成为中介，不能把改变压成孤立意志命令。",
+            "习惯又使进步呈现回返。一个人在工作冲突中较稳定，可能在亲情或病痛中重新失去距离。这样的不均衡不是阶段表失效的异常，而是说明训练必须跟随实际脆弱处调整。",
+            "环境设计可以参与训练。进步的证据不是能否讲解克吕西波，而是欲求是否较少被外物绑架、是否更能履行角色、是否更少把失败投向他人。",
+            "进步评估必须容许失败提供信息。一次愤怒复发可以显示哪个预测仍被当真、哪个角色被遗漏；若失败只带来羞耻，行动者更难看见机制，也更容易用哲学身份掩盖实际停滞。",
+            "训练必须可调整、可退出且不冒充医疗；爱比克泰德没有现代临床证据。极端犬儒使命也不能作为所有人的训练终点。远离高诱发场景、请同伴提醒、提前准备申诉材料，都不是向外物投降，而是承认习惯改变需要材料。孤立意志模型反而不符合反复操练的文本。"
+          ],
+          "identity": "爱比克泰德关于进步、注意与三领域操练的课堂教学",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-17-p06",
+      "nodeIds": [
+        "training-node"
+      ],
+      "checkIds": [
+        "training-q1",
+        "training-q2",
+        "training-q3",
+        "training-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-17-p12"
+      ],
+      "recommendedNextLessonId": "cynic-teacher",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "cynic-teacher",
+      "order": 18,
+      "title": "十八、犬儒使命、直言与哲学教师",
+      "depth": "longform",
+      "guidingQuestion": "《论说集》3.22 描写理想犬儒舍弃私人占有、公开检验众人并作为宙斯使者；这是斯多亚生活的最高形式，还是少数人的特殊角色？",
+      "coreExplanation": "paragraph-ref:epictetus-18-p01",
+      "sections": [
+        {
+          "heading": "特殊召命与问责",
+          "paragraphs": [
+            "《论说集》3.22 描写理想犬儒舍弃私人占有、公开检验众人并作为宙斯使者；这是斯多亚生活的最高形式，还是少数人的特殊角色？《论说集》3.22 的犬儒不是穿破斗篷的表演者。他被描写为宙斯的使者和侦察者，以贫乏、无私人家庭和公开直言承担一种特殊公共角色。",
+            "犬儒的贫乏、无家庭和公开直言只有在特殊使命与相称品格支撑下才有意义，外在装扮不能证明使命。理想犬儒被称为侦察者，因为他先进入艰难处境，再向众人报告何物真正可怕。公共使命必须接受被影响者的检验。倡议者愿意承受风险，只能证明其个人决心，不能授权其替同伴承担后果。信息是否准确、风险是否告知、退出是否可能，决定直言是见证还是支配。",
+            "侦察者隐喻首先要求准确报告。教师若夸大危险来展示勇敢，或轻描淡写他人无法承受的损失，就没有履行公共功能；使命的可信度取决于事实伦理，而非贫穷外观。",
+            "外在装束没有资格证明召命。若行动者仍追求观众赞叹，贫穷本身会成为新的名誉财产；爱比克泰德要求先检验能力、动机和承担侮辱的方式。普通学生仍有关系义务，犬儒的公共角色不能成为人人模仿的统一生活。比喻赋予公共功能，也要求报告准确；夸大危险或轻视他人痛苦都不符合侦察者职责。",
+            "特殊角色不能取消普通义务。大多数人仍在家庭、职业和城邦关系中训练，模仿犬儒的无牵挂可能只是逃避照护。公共倡议者选择高风险揭露生活，不代表所有同事都有同等牺牲义务。",
+            "无家庭设定与特殊使命相连，并非宣告亲情低劣。直言也不是羞辱许可。指出他人欲望矛盾可以服务自审，教师若以权威阻止质疑或忽略学生处境，责骂便从诊断滑向支配。无家庭生活在特殊使命中可能减少牵挂，却不能证明亲情低劣。普通行动者已有照护承诺，擅自离开会把成本转给他人；角色差异正是防止极端范型普遍化的限制。",
+            "教师的责骂与权威也受照护边界约束，哲学直言不能免于伤害评估。若没有使命条件，抛弃照护可能只是把成本转给他人。所谓特殊召命可为傲慢、羞辱学生和逃避家庭责任开特权。",
+            "公共倡议者案例显示使命判断必须考虑他人风险。一个人愿意暴露自己，不自动有权把同伴、家属或更脆弱者带入同等危险。",
+            "爱比克泰德用角色差异阻止外在犬儒化。教师的严厉同样受理由约束。学生在压力下表示同意，可能只是服从权威；较可靠的改变要在离开课堂后仍能由其自行解释和修正。教学效果不能以羞辱强度或当场沉默来衡量。使命必须接受能力、动机、受影响者和公共利益的检验；文本仍缺少机构问责。现代传播又会选择性放大其中最方便的部分，这构成最终需要追问的问题。爱比克泰德提供了哲学作为公共见证的强图景，却没有机构化问责程序。现代采用必须加入同意、伤害评估和退出渠道。问责程序是现代采用不可缺少的补充。学生应能质疑、退出并寻求其他帮助，受影响者也应能报告伤害。没有这些渠道，教师自称受神差遣便可能封闭一切外部检验。真正的公共见证还须允许听众比较证据，而不是把教师个人的节制生活当作其主张永远正确的保证。",
+            "教师与学生有知识和地位不对称。严厉追问可能打破自欺，也可能使学生为避免羞辱而表面同意。真正的同意必须能在离开教师权威后仍由理由支撑。"
+          ],
+          "identity": "爱比克泰德对理想犬儒的角色描写；第欧根尼范型；课堂教师权威",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-18-p05",
+      "nodeIds": [
+        "cynic-teacher-node"
+      ],
+      "checkIds": [
+        "cynic-teacher-q1",
+        "cynic-teacher-q2",
+        "cynic-teacher-q3",
+        "cynic-teacher-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-18-p10"
+      ],
+      "recommendedNextLessonId": "modern-reception",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "modern-reception",
+      "order": 19,
+      "title": "十九、从《手册》口号到现代韧性产业",
+      "depth": "longform",
+      "guidingQuestion": "认知行为传统、自助写作、军队、体育和企业管理都借用爱比克泰德；何种接受保留了判断训练，何种接受把结构问题改写为个人心态失败？",
+      "coreExplanation": "paragraph-ref:epictetus-19-p01",
+      "sections": [
+        {
+          "heading": "可迁移资源与结构性误用",
+          "paragraphs": [
+            "认知行为传统、自助写作、军队、体育和企业管理都借用爱比克泰德；何种接受保留了判断训练，何种接受把结构问题改写为个人心态失败？现代认知治疗常引用“困扰人的不是事情，而是对事情的判断”。明确引用能证明接受关系，却不能证明古代教师已经拥有现代诊断、随机试验和治疗伦理。",
+            "认知治疗与爱比克泰德之间最可靠的联系是文本引用和事件—判断区分。接受史至少要区分明确引文、概念结构相似与功能相似。明确引文能证明作者读过某段文字，结构相似需要进一步历史证据，单纯都能让人冷静则几乎不能说明传承方向。",
+            "概念亲缘是第二层证据。区分事件、自动判断与反应确有相似结构，但临床方法还包含合作制定目标、测量症状和专业责任，这些不能倒写进《论说集》。",
+            "可证明的概念亲缘、明确引用和仅有相似性的实践具有不同证据强度，不能简单宣布“爱比克泰德发明 CBT”。现代治疗的协作经验主义、个案概念化与效果研究有自己的历史，不能用一句古代引文取得权威。古今概念之间可以有亲缘，却不能用亲缘抹平方法差异。现代治疗包含合作目标、症状测量和专业责任，古代引文只能说明某种思想资源被接收，不能替现代疗效或伦理取得证据。功能相似只是第三层。运动员预演困难、军队强调任务、企业要求聚焦可行动项，可能没有文本继承；即使引用爱比克泰德，组织目的也会改变概念的伦理方向。控制二分、情绪重评、预演和角色责任进入现代用途后各有删改，必须分别说明。",
+            "军事和体育接受常强调压力下聚焦任务。企业用“只管可控项”回应过劳申诉时，员工可用同一区分指出管理者的制度行动恰属其责任范围。最危险的用途是把管理者能改变的制度条件重新标为员工不可控。工时、申诉渠道和安全标准恰属组织角色责任；“只管心态”在此不是斯多亚，而是责任转移。",
+            "临床使用还必须保留专业边界。自动判断的分析与印象检验可以对话，诊断、药物、合作目标和疗效研究却来自现代制度。把古代权威搬进诊疗，不会自动提高证据质量。这可帮助区分动作与结果，也会因组织目标而弱化角色批判。",
+            "劳动压迫、残障、种族或性别不平等和临床状况共同表明：内在价值资源必须与外部保护、集体行动和专业支持并存。若命令本身不正当，专注执行并不是爱比克泰德意义上的正确取用。",
+            "个体层面的资源仍可保留。人在无法立即改变结构时，可以拒绝把侮辱等同于人格低劣，区分下一步行动与最终结果，并寻找盟友；这些资源应与法律、医疗和集体支持并行。一种异议认为，任何现代改造都是时代错置，应完全排除。",
+            "组织语境尤其会改变格言方向。向员工强调不能保证的结果，却不追问管理者能改变的排班、安全和申诉制度，会把角色责任单向下移。忠实的迁移必须让每个权力位置都接受同一划界。",
+            "企业版本最容易只向员工传播内在控制，却不向管理者传播角色义务。韧性语言在权力不对称中最易变形。员工可区分行动与结果，管理者同样必须区分自身能改变的工时、安全和申诉机制。若概念只向下要求接受，它服务的是组织便利而非斯多亚责任。",
+            "接受史本来就是再用途化，关键是标明差异、证据和伦理后果；由此出现两个相互限制的结论：外物不能单独决定人的善恶，但真实自由也不能只靠重新命名伤害来完成。",
+            "最终判断既不赞颂，也不取消。爱比克泰德提醒外物不能单独决定人的善恶；他的文本也提醒我们，选择总在材料与角色中发生。因此，真正忠实的现代使用不能用内在自由取消外部责任。真正双向应用会问员工不能保证什么、管理者能够改变什么、制度怎样分配风险，谁在利用不可控话语逃避职责。"
+          ],
+          "identity": "现代接受史；爱比克泰德原典边界；认知行为与组织用途的证据分级",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:epictetus-19-p06",
+      "nodeIds": [
+        "modern-reception-node"
+      ],
+      "checkIds": [
+        "modern-reception-q1",
+        "modern-reception-q2",
+        "modern-reception-q3",
+        "modern-reception-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:epictetus-19-p12"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "arrian-voice-q1",
+      "kind": "multipleChoice",
+      "prompt": "为什么《论说集》前言不能把现存文字变成逐字录音？",
+      "targetNodeIds": [
+        "arrian-voice-node"
+      ],
+      "options": [
+        {
+          "id": "arrian-voice-q1-o1",
+          "text": "前言支持课堂来源，却仍留下选材、整理和篇题属于阿里安的空间。",
+          "feedback": "前言是一项真实性声明，不是消除编者中介的技术证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "arrian-voice-q1-o2",
+          "text": "前言让论证可归于课堂，因此阿里安的工作可视为措辞润色。",
+          "feedback": "把“尽可能记录”改成“无中介复制”，越过了文本能承载的范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "arrian-voice-q1-o1",
+      "misconceptionId": "arrian-voice-q1-misconception"
+    },
+    {
+      "id": "arrian-voice-q2",
+      "kind": "multipleChoice",
+      "prompt": "古代八卷证词对现存四卷的最稳妥意义是什么？",
+      "targetNodeIds": [
+        "arrian-voice-node"
+      ],
+      "options": [
+        {
+          "id": "arrian-voice-q2-o1",
+          "text": "八卷书目证明现存材料不全，却仍能让四卷的主题次序代表原八卷的整体结构。",
+          "feedback": "八卷证词只能证明材料有缺失，不能证明幸存四卷的主题次序足以代表遗失整体。",
+          "isCorrect": false
+        },
+        {
+          "id": "arrian-voice-q2-o2",
+          "text": "八卷证词提醒我们材料有缺失，概括仅能停留在幸存文本，擅自补齐没有证据。",
+          "feedback": "缺失改变概括的置信边界，却没有授权推测缺卷内容。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "arrian-voice-q2-o2",
+      "misconceptionId": "arrian-voice-q2-misconception"
+    },
+    {
+      "id": "arrian-voice-q3",
+      "kind": "multipleChoice",
+      "prompt": "把《手册》第一节用于现实判断时，哪种次序更可靠？",
+      "targetNodeIds": [
+        "arrian-voice-node"
+      ],
+      "options": [
+        {
+          "id": "arrian-voice-q3-o1",
+          "text": "《手册》是阿里安对语境的可信压缩，可先按普遍规则使用，出现冲突时再补入《论说集》的例外。",
+          "feedback": "先设规则再责怪行动者，正好跳过了被删去的语境。",
+          "isCorrect": false
+        },
+        {
+          "id": "arrian-voice-q3-o2",
+          "text": "先读短句的提醒功能，再回查《论说集》中问题、对手和限制。",
+          "feedback": "摘编需要由展开论证恢复条件，才不会让便携性变成口号化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "arrian-voice-q3-o2",
+      "misconceptionId": "arrian-voice-q3-misconception"
+    },
+    {
+      "id": "arrian-voice-q4",
+      "kind": "multipleChoice",
+      "prompt": "面对爱比克泰德残疾原因的竞争传说，应怎样陈述？",
+      "targetNodeIds": [
+        "arrian-voice-node"
+      ],
+      "options": [
+        {
+          "id": "arrian-voice-q4-o1",
+          "text": "以最契合自由论的成因传说连接其生平，会比保留史料的不确定性更有解释力。",
+          "feedback": "思想上的契合不能判定哪一种成因传说在历史上为真。",
+          "isCorrect": false
+        },
+        {
+          "id": "arrian-voice-q4-o2",
+          "text": "把残疾事实与成因传说分开，陈述强度仅到现有证词能够支持的位置。",
+          "feedback": "证据分级既保留可知事实，也避免用哲学契合替代缺失的传记证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "arrian-voice-q4-o2",
+      "misconceptionId": "arrian-voice-q4-misconception"
+    },
+    {
+      "id": "socratic-stoic-q1",
+      "kind": "multipleChoice",
+      "prompt": "苏格拉底范型在爱比克泰德路线中的主要作用是什么？",
+      "targetNodeIds": [
+        "socratic-stoic-node"
+      ],
+      "options": [
+        {
+          "id": "socratic-stoic-q1-o1",
+          "text": "苏格拉底提供系统的斯多亚自然学，印象与同意不需要另行解释。",
+          "feedback": "把苏格拉底直接写成系统斯多亚，会抹掉思想依赖的层次。",
+          "isCorrect": false
+        },
+        {
+          "id": "socratic-stoic-q1-o2",
+          "text": "显示外部裁决不直接决定人格善恶，并把生活置于公开检验。",
+          "feedback": "受审与反诘构成实践范型，但不替代后来斯多亚的概念结构。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "socratic-stoic-q1-o2",
+      "misconceptionId": "socratic-stoic-q1-misconception"
+    },
+    {
+      "id": "socratic-stoic-q2",
+      "kind": "multipleChoice",
+      "prompt": "克吕西波逻辑何时对人格训练有用？",
+      "targetNodeIds": [
+        "socratic-stoic-node"
+      ],
+      "options": [
+        {
+          "id": "socratic-stoic-q2-o1",
+          "text": "逻辑揭出行动者口头原则与现实欲求所依赖的前提彼此冲突时，它才进入人格训练。",
+          "feedback": "形式推理的实践价值在于暴露具体判断的不一致，而非展示术语熟练。",
+          "isCorrect": true
+        },
+        {
+          "id": "socratic-stoic-q2-o2",
+          "text": "学生准确复述论证形式时，逻辑训练便能证明他的生活判断也获得了稳定。",
+          "feedback": "复述形式并未触及学生把名誉或升迁当作善的具体判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "socratic-stoic-q2-o1",
+      "misconceptionId": "socratic-stoic-q2-misconception"
+    },
+    {
+      "id": "socratic-stoic-q3",
+      "kind": "multipleChoice",
+      "prompt": "第欧根尼的犬儒形象为何不能成为人人统一的生活要求？",
+      "targetNodeIds": [
+        "socratic-stoic-node"
+      ],
+      "options": [
+        {
+          "id": "socratic-stoic-q3-o1",
+          "text": "犬儒代表需要特殊能力与使命的公开角色，普通行动者仍要衡量已有关系义务。",
+          "feedback": "极端范型能够检验依赖，却不会抹去角色差异。",
+          "isCorrect": true
+        },
+        {
+          "id": "socratic-stoic-q3-o2",
+          "text": "犬儒的极端生活仅用来警告学生远离公开直言，与日常斯多亚训练没有正面关联。",
+          "feedback": "爱比克泰德肯定犬儒使命的公共功能，不能把它降成单纯反面教材。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "socratic-stoic-q3-o1",
+      "misconceptionId": "socratic-stoic-q3-misconception"
+    },
+    {
+      "id": "socratic-stoic-q4",
+      "kind": "multipleChoice",
+      "prompt": "“爱比克泰德只是拼接前人”这一异议应怎样回应？",
+      "targetNodeIds": [
+        "socratic-stoic-node"
+      ],
+      "options": [
+        {
+          "id": "socratic-stoic-q4-o1",
+          "text": "一种思想若使用苏格拉底与早期斯多亚材料，重新组织实践便不能算作独立贡献。",
+          "feedback": "依赖思想来源与形成新的教学结构并不矛盾。",
+          "isCorrect": false
+        },
+        {
+          "id": "socratic-stoic-q4-o2",
+          "text": "爱比克泰德承接前人材料，并把榜样、逻辑和取用印象组织成反复发生的课堂自审。",
+          "feedback": "思想贡献可以体现为问题和实践的重新组织，并不要求凭空创造概念。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "socratic-stoic-q4-o2",
+      "misconceptionId": "socratic-stoic-q4-misconception"
+    },
+    {
+      "id": "impression-assent-q1",
+      "kind": "multipleChoice",
+      "prompt": "印象与同意的区分首先保住了什么？",
+      "targetNodeIds": [
+        "impression-assent-node"
+      ],
+      "options": [
+        {
+          "id": "impression-assent-q1-o1",
+          "text": "事件与初发反应确实临到行动者，附着其上的价值判断仍可接受证据审查。",
+          "feedback": "区分保留遭遇的被动性，也保留后续判断能够修正的空间。",
+          "isCorrect": true
+        },
+        {
+          "id": "impression-assent-q1-o2",
+          "text": "第一阵感受既然影响行动，便应与后来同意承担同等的道德责任。",
+          "feedback": "把初发反应等同完整同意，会取消训练所需的时间层次。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "impression-assent-q1-o1",
+      "misconceptionId": "impression-assent-q1-misconception"
+    },
+    {
+      "id": "impression-assent-q2",
+      "kind": "multipleChoice",
+      "prompt": "对解雇通知作斯多亚检验时，哪项处理更准确？",
+      "targetNodeIds": [
+        "impression-assent-node"
+      ],
+      "options": [
+        {
+          "id": "impression-assent-q2-o1",
+          "text": "承认解雇带来的收入风险，再检查职位丧失能否推出人格善也随之丧失。",
+          "feedback": "事实后果与人格价值分别承重，既不否认风险，也不让职位裁决人格。",
+          "isCorrect": true
+        },
+        {
+          "id": "impression-assent-q2-o2",
+          "text": "为了保护人格判断，应暂时悬置解雇这一事实，不让外部事件进入审查。",
+          "feedback": "拒绝核对已经发生的事实不是悬置同意，而是破坏认识。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "impression-assent-q2-o1",
+      "misconceptionId": "impression-assent-q2-misconception"
+    },
+    {
+      "id": "impression-assent-q3",
+      "kind": "multipleChoice",
+      "prompt": "“你只是一个印象”这句话的功能是什么？",
+      "targetNodeIds": [
+        "impression-assent-node"
+      ],
+      "options": [
+        {
+          "id": "impression-assent-q3-o1",
+          "text": "先暂停印象对行动的命令权，让事实、预测和价值归属分别接受检查。",
+          "feedback": "暂停提供判断距离，但没有预先决定印象真假。",
+          "isCorrect": true
+        },
+        {
+          "id": "impression-assent-q3-o2",
+          "text": "把印象称作印象便等于判定其内容为假，后续查证仅会重新赋予它力量。",
+          "feedback": "提醒语是审查的起点，不是替代审查的新口号。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "impression-assent-q3-o1",
+      "misconceptionId": "impression-assent-q3-misconception"
+    },
+    {
+      "id": "impression-assent-q4",
+      "kind": "multipleChoice",
+      "prompt": "创伤反应对该理论提出的强限制是什么？",
+      "targetNodeIds": [
+        "impression-assent-node"
+      ],
+      "options": [
+        {
+          "id": "impression-assent-q4-o1",
+          "text": "初发反应先于反思，印象与同意的区分便无法分析随后持续的判断与冲动。",
+          "feedback": "从经验困难跳到概念无效，忽略了理论可处理的后续环节。",
+          "isCorrect": false
+        },
+        {
+          "id": "impression-assent-q4-o2",
+          "text": "同意可受训练不等于身体唤醒与侵入反应能够即时随意停止。",
+          "feedback": "限制要求降低责备并引入支持，却仍可分析附加判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "impression-assent-q4-o2",
+      "misconceptionId": "impression-assent-q4-misconception"
+    },
+    {
+      "id": "prohairesis-q1",
+      "kind": "multipleChoice",
+      "prompt": "为什么不宜把 prohairesis 直接翻成任意意志？",
+      "targetNodeIds": [
+        "prohairesis-node"
+      ],
+      "options": [
+        {
+          "id": "prohairesis-q1-o1",
+          "text": "prohairesis 组织以理由为基础的判断、欲求与冲动，并非无理由发动的力量。",
+          "feedback": "保留术语能防止现代意志模型遮蔽其多种心理功能。",
+          "isCorrect": true
+        },
+        {
+          "id": "prohairesis-q1-o2",
+          "text": "prohairesis 仅描述身体行动的成败，与行动者怎样判断理由是两个互不相干的问题。",
+          "feedback": "把它移到外部结果，反而违背爱比克泰德的核心划界。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "prohairesis-q1-o1",
+      "misconceptionId": "prohairesis-q1-misconception"
+    },
+    {
+      "id": "prohairesis-q2",
+      "kind": "multipleChoice",
+      "prompt": "威胁不能使选择能力受强迫，最稳妥的含义是什么？",
+      "targetNodeIds": [
+        "prohairesis-node"
+      ],
+      "options": [
+        {
+          "id": "prohairesis-q2-o1",
+          "text": "威胁能造成伤害，却不能使不正当命令仅凭强制取得规范权威。",
+          "feedback": "规范权威与事实强制须同时承认。",
+          "isCorrect": true
+        },
+        {
+          "id": "prohairesis-q2-o2",
+          "text": "威胁无法改变人的选项、感受和行为，因此经验上没有强制。",
+          "feedback": "否认强制的经验效果，会把自由论变成对受害者的责难。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "prohairesis-q2-o1",
+      "misconceptionId": "prohairesis-q2-misconception"
+    },
+    {
+      "id": "prohairesis-q3",
+      "kind": "multipleChoice",
+      "prompt": "学生反复失败对选择能力理论说明了什么？",
+      "targetNodeIds": [
+        "prohairesis-node"
+      ],
+      "options": [
+        {
+          "id": "prohairesis-q3-o1",
+          "text": "学生屡次失败便说明外部条件可以裁定何者为真，prohairesis 因而不再有规范地位。",
+          "feedback": "从误用推到概念不存在，遗漏了规范与表现的区别。",
+          "isCorrect": false
+        },
+        {
+          "id": "prohairesis-q3-o2",
+          "text": "该能力可被无知和习惯误用，不可强迫并不等于直接正确。",
+          "feedback": "爱比克泰德的训练实践本身否认了经验全能解释。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "prohairesis-q3-o2",
+      "misconceptionId": "prohairesis-q3-misconception"
+    },
+    {
+      "id": "prohairesis-q4",
+      "kind": "multipleChoice",
+      "prompt": "被迫屈服者的案例为何需要两种自由？",
+      "targetNodeIds": [
+        "prohairesis-node"
+      ],
+      "options": [
+        {
+          "id": "prohairesis-q4-o1",
+          "text": "他可保留不义判断，同时缺少安全拒绝的外部行动条件。",
+          "feedback": "双重描述既限制主人权力，也如实记录强制。",
+          "isCorrect": true
+        },
+        {
+          "id": "prohairesis-q4-o2",
+          "text": "内心拒绝命令时，法律、身体和资源上的自由也随之完整保留。",
+          "feedback": "以内在自由吞并外部自由，正是本路线禁止的美化。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "prohairesis-q4-o1",
+      "misconceptionId": "prohairesis-q4-misconception"
+    },
+    {
+      "id": "up-to-us-q1",
+      "kind": "multipleChoice",
+      "prompt": "“由我”与“我能施加影响”为什么不能画等号？",
+      "targetNodeIds": [
+        "up-to-us-node"
+      ],
+      "options": [
+        {
+          "id": "up-to-us-q1-o1",
+          "text": "在这种情况下结果依赖他人或偶然，行动者的准备与合作就没有值得评价的作用。",
+          "feedback": "不能保证成功并不等于行动对结果毫无影响。",
+          "isCorrect": false
+        },
+        {
+          "id": "up-to-us-q1-o2",
+          "text": "行动可以改变结果的概率，但结果还依赖他人与偶然，并非单个行动者所能保证。",
+          "feedback": "因果影响与最终支配是不同强度的关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "up-to-us-q1-o2",
+      "misconceptionId": "up-to-us-q1-misconception"
+    },
+    {
+      "id": "up-to-us-q2",
+      "kind": "multipleChoice",
+      "prompt": "求职失败后，哪项仍可属于行动者的伦理责任？",
+      "targetNodeIds": [
+        "up-to-us-node"
+      ],
+      "options": [
+        {
+          "id": "up-to-us-q2-o1",
+          "text": "提交申请便使招聘者的最终决定归求职者支配，未获录用因此直接证明其判断有误。",
+          "feedback": "申请会影响结果，却不会把招聘者的判断变成求职者能够支配的决定。",
+          "isCorrect": false
+        },
+        {
+          "id": "up-to-us-q2-o2",
+          "text": "求职者须对能力陈述与准备过程负责，录用决定还取决于招聘者和外部条件。",
+          "feedback": "诚实准备属于行动者可以审查的过程，录用结果却不是单方行动的产物。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "up-to-us-q2-o2",
+      "misconceptionId": "up-to-us-q2-misconception"
+    },
+    {
+      "id": "up-to-us-q3",
+      "kind": "multipleChoice",
+      "prompt": "集体行动怎样限制“不可控所以不行动”的解释？",
+      "targetNodeIds": [
+        "up-to-us-node"
+      ],
+      "options": [
+        {
+          "id": "up-to-us-q3-o1",
+          "text": "制度改变若难以预见，公共参与就不值得承担，责任也无法落到单个角色。",
+          "feedback": "把确定结果设为参与前提，会排除几乎所有公共实践。",
+          "isCorrect": false
+        },
+        {
+          "id": "up-to-us-q3-o2",
+          "text": "个人无法保证制度改变，仍可在协作角色中承担证据、沟通和行动责任。",
+          "feedback": "结果的不确定性不会直接取消职责内的行动理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "up-to-us-q3-o2",
+      "misconceptionId": "up-to-us-q3-misconception"
+    },
+    {
+      "id": "up-to-us-q4",
+      "kind": "multipleChoice",
+      "prompt": "《手册》第一节最不应被改写成什么？",
+      "targetNodeIds": [
+        "up-to-us-node"
+      ],
+      "options": [
+        {
+          "id": "up-to-us-q4-o1",
+          "text": "调整心态以后，身体、财产和公共后果便可不再辨认，角色责任也可由内在平静替代。",
+          "feedback": "此项把价值区分改成退出现实，删除了外物材料、实际后果与角色责任。",
+          "isCorrect": true
+        },
+        {
+          "id": "up-to-us-q4-o2",
+          "text": "外部结果虽非单人支配，行动者仍须辨认材料与后果，并审查自己怎样履行角色责任。",
+          "feedback": "此项保留了控制边界，也保留行动者对材料和责任的持续审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "up-to-us-q4-o1",
+      "misconceptionId": "up-to-us-q4-misconception"
+    },
+    {
+      "id": "externals-q1",
+      "kind": "multipleChoice",
+      "prompt": "健康为何可被称为无差别项却仍值得照护？",
+      "targetNodeIds": [
+        "externals-node"
+      ],
+      "options": [
+        {
+          "id": "externals-q1-o1",
+          "text": "健康不凭自身构成人格善，但对生活和角色行动仍有自然重要性。",
+          "feedback": "价值层级区分允许照护而不把健康变成德性的证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "externals-q1-o2",
+          "text": "健康既非人格善，便没有需要考虑的因果或实践价值。",
+          "feedback": "由“不构成德性”推出“毫无价值”，跨越了论证范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "externals-q1-o1",
+      "misconceptionId": "externals-q1-misconception"
+    },
+    {
+      "id": "externals-q2",
+      "kind": "multipleChoice",
+      "prompt": "球赛类比要求行动者怎样对待外物？",
+      "targetNodeIds": [
+        "externals-node"
+      ],
+      "options": [
+        {
+          "id": "externals-q2-o1",
+          "text": "球不决定球员品格，观察球的位置和规则与取用材料的伦理评价无关。",
+          "feedback": "忽略材料会使类比失去行动含义。",
+          "isCorrect": false
+        },
+        {
+          "id": "externals-q2-o2",
+          "text": "材料不是人格善，准确观察并以合宜方式取用仍是行动的一部分。",
+          "feedback": "技艺正通过材料显现，超脱不能代替注意。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "externals-q2-o2",
+      "misconceptionId": "externals-q2-misconception"
+    },
+    {
+      "id": "externals-q3",
+      "kind": "multipleChoice",
+      "prompt": "治疗失败时，哪种判断符合双层价值结构？",
+      "targetNodeIds": [
+        "externals-node"
+      ],
+      "options": [
+        {
+          "id": "externals-q3-o1",
+          "text": "病人未能痊愈即可反推医生的专业判断有所败坏，治疗结果是医疗评价的最终标准。",
+          "feedback": "把不确定结果当作唯一标准，会奖励侥幸并惩罚谨慎。",
+          "isCorrect": false
+        },
+        {
+          "id": "externals-q3-o2",
+          "text": "检查证据与过程，不以结果单独判定人格或专业判断。",
+          "feedback": "结果与过程相关却不相同，评价须保留证据条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "externals-q3-o2",
+      "misconceptionId": "externals-q3-misconception"
+    },
+    {
+      "id": "externals-q4",
+      "kind": "multipleChoice",
+      "prompt": "贫困案例暴露了何种误读风险？",
+      "targetNodeIds": [
+        "externals-node"
+      ],
+      "options": [
+        {
+          "id": "externals-q4-o1",
+          "text": "财富既然不是人格善，减少贫困便失去道德与政治理由。",
+          "feedback": "用价值平等取消物质需要，会把哲学变成特权者的安慰。",
+          "isCorrect": false
+        },
+        {
+          "id": "externals-q4-o2",
+          "text": "人格平等可以成立，而物质匮乏的真实伤害仍需制度回应。",
+          "feedback": "内在价值论不能替代对资源伤害的说明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "externals-q4-o2",
+      "misconceptionId": "externals-q4-misconception"
+    },
+    {
+      "id": "emotion-q1",
+      "kind": "multipleChoice",
+      "prompt": "成熟激情为何能成为判断训练的对象？",
+      "targetNodeIds": [
+        "emotion-node"
+      ],
+      "options": [
+        {
+          "id": "emotion-q1-o1",
+          "text": "成熟激情往往含有外物善恶与自我受损的评价，身体过程仍会影响其强度和速度。",
+          "feedback": "判断提供训练入口，身体与习惯则规定改变不可能只靠一句命令。",
+          "isCorrect": true
+        },
+        {
+          "id": "emotion-q1-o2",
+          "text": "成熟激情可还原为一组价值判断，身体唤醒不会限制它接受理由修正的速度。",
+          "feedback": "删去身体的时间过程，会把判断理论变成即时控制神话。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "emotion-q1-o1",
+      "misconceptionId": "emotion-q1-misconception"
+    },
+    {
+      "id": "emotion-q2",
+      "kind": "multipleChoice",
+      "prompt": "欲求、排斥与行动三个领域为何不能合成一个“保持平静”？",
+      "targetNodeIds": [
+        "emotion-node"
+      ],
+      "options": [
+        {
+          "id": "emotion-q2-o1",
+          "text": "三者都在描述情绪强弱，训练时集中降低强度便能覆盖这些差别。",
+          "feedback": "只观察强度，无法回答行动者是否应申诉、照护或拒绝。",
+          "isCorrect": false
+        },
+        {
+          "id": "emotion-q2-o2",
+          "text": "欲求、排斥和行动分别检查目标价值、恐惧对象以及关系中的实际作为。",
+          "feedback": "同一事件可能在价值、回避和行动三个层级出现不同错误。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "emotion-q2-o2",
+      "misconceptionId": "emotion-q2-misconception"
+    },
+    {
+      "id": "emotion-q3",
+      "kind": "multipleChoice",
+      "prompt": "理解犯错者受错误印象引导，会不会取消追责？",
+      "targetNodeIds": [
+        "emotion-node"
+      ],
+      "options": [
+        {
+          "id": "emotion-q3-o1",
+          "text": "不会，它可减少报复，同时保留制止、申诉和保护责任。",
+          "feedback": "因果理解改变回应方式，不把伤害改成无须处理。",
+          "isCorrect": true
+        },
+        {
+          "id": "emotion-q3-o2",
+          "text": "错误既源于判断，制度限制与现实伤害便不再影响愤怒的合宜程度。",
+          "feedback": "把理解等同免责，会让受影响者承担全部代价。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "emotion-q3-o1",
+      "misconceptionId": "emotion-q3-misconception"
+    },
+    {
+      "id": "emotion-q4",
+      "kind": "multipleChoice",
+      "prompt": "临床边界要求怎样使用情感判断论？",
+      "targetNodeIds": [
+        "emotion-node"
+      ],
+      "options": [
+        {
+          "id": "emotion-q4-o1",
+          "text": "用于检验附加评价，同时承认医疗、哀悼和安全支持的独立必要。",
+          "feedback": "哲学资源可参与支持，不能冒充临床充分条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "emotion-q4-o2",
+          "text": "把持续症状归为意志过失，以检验患者有无认真训练。",
+          "feedback": "把症状道德化正是受害者责备的高风险形式。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "emotion-q4-o1",
+      "misconceptionId": "emotion-q4-misconception"
+    },
+    {
+      "id": "freedom-q1",
+      "kind": "multipleChoice",
+      "prompt": "爱比克泰德缩小暴君权力清单，首先否认了什么？",
+      "targetNodeIds": [
+        "freedom-node"
+      ],
+      "options": [
+        {
+          "id": "freedom-q1-o1",
+          "text": "暴力和职位权能仅凭强制就定义善恶与正当性的资格。",
+          "feedback": "自由论针对规范全能，不抹去强制事实。",
+          "isCorrect": true
+        },
+        {
+          "id": "freedom-q1-o2",
+          "text": "统治者事实上能够监禁、流放或伤害身体的经验能力。",
+          "feedback": "否认伤害能力会让论证失去受压场景。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "freedom-q1-o1",
+      "misconceptionId": "freedom-q1-misconception"
+    },
+    {
+      "id": "freedom-q2",
+      "kind": "multipleChoice",
+      "prompt": "把晋升当作非得获得的善，会产生什么依赖？",
+      "targetNodeIds": [
+        "freedom-node"
+      ],
+      "options": [
+        {
+          "id": "freedom-q2-o1",
+          "text": "当升迁被设为幸福条件，掌握任命的人便更容易借欲望换取行动者的谄媚。",
+          "feedback": "错误的价值归属会扩大外部权力对判断与行动的杠杆。",
+          "isCorrect": true
+        },
+        {
+          "id": "freedom-q2-o2",
+          "text": "职位带来的公共能力能够改善行为，因此取得晋升本身也提升行动者的公正。",
+          "feedback": "职位可以提供行动材料，却不会凭自身制造人格善。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "freedom-q2-o1",
+      "misconceptionId": "freedom-q2-misconception"
+    },
+    {
+      "id": "freedom-q3",
+      "kind": "multipleChoice",
+      "prompt": "为什么公开牺牲不能成为自由的统一测试？",
+      "targetNodeIds": [
+        "freedom-node"
+      ],
+      "options": [
+        {
+          "id": "freedom-q3-o1",
+          "text": "拒绝命令会增加风险，所以在强制处境中保持公开不屈通常不具备伦理理由。",
+          "feedback": "风险会改变可行路径，却不会把所有拒绝预先判成激情。",
+          "isCorrect": false
+        },
+        {
+          "id": "freedom-q3-o2",
+          "text": "各个角色承受的风险与替代路径有别，勇敢须经过逐案判断，不宜复制同一种姿态。",
+          "feedback": "拒绝可以正当，妥协也需按条件解释；结论不能脱离关系后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "freedom-q3-o2",
+      "misconceptionId": "freedom-q3-misconception"
+    },
+    {
+      "id": "freedom-q4",
+      "kind": "multipleChoice",
+      "prompt": "这套自由论最强而有限的结论是什么？",
+      "targetNodeIds": [
+        "freedom-node"
+      ],
+      "options": [
+        {
+          "id": "freedom-q4-o1",
+          "text": "强制能伤害并缩减选项，却不能因而取得道德正当性。",
+          "feedback": "结论限制权力的规范声称，同时保留外部自由债务。",
+          "isCorrect": true
+        },
+        {
+          "id": "freedom-q4-o2",
+          "text": "判断没有向压迫者让步时，法律权利和物质行动条件也已完整恢复。",
+          "feedback": "把规范不屈写成完整解放，会掩盖救济和资源。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "freedom-q4-o1",
+      "misconceptionId": "freedom-q4-misconception"
+    },
+    {
+      "id": "roles-q1",
+      "kind": "multipleChoice",
+      "prompt": "演员比喻为何不等于命运给出逐项命令？",
+      "targetNodeIds": [
+        "roles-node"
+      ],
+      "options": [
+        {
+          "id": "roles-q1-o1",
+          "text": "角色提供行动理由与限制，却不替行动者判断每个具体作为。",
+          "feedback": "比喻说明材料并非自选，不取消表演方式的判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "roles-q1-o2",
+          "text": "角色虽未列出逐项动作，但既由命运分派，其通常义务在冲突时应优先于行动者重新衡量。",
+          "feedback": "把角色变成脚本会抹掉伦理工作的核心。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "roles-q1-o1",
+      "misconceptionId": "roles-q1-misconception"
+    },
+    {
+      "id": "roles-q2",
+      "kind": "multipleChoice",
+      "prompt": "父亲命令欺骗时，哪一层身份构成限制？",
+      "targetNodeIds": [
+        "roles-node"
+      ],
+      "options": [
+        {
+          "id": "roles-q2-o1",
+          "text": "共同的人类理性与人格善限制关系权力，父子称谓不能使欺骗或伤害变得正当。",
+          "feedback": "较普遍的人格身份可以批判具体角色中的滥权。",
+          "isCorrect": true
+        },
+        {
+          "id": "roles-q2-o2",
+          "text": "父子关系提供较强义务，共同理性仅调整服从方式，并不改变服从的基本方向。",
+          "feedback": "从关系称谓直接推出服从，会把不正当命令自然化。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "roles-q2-o1",
+      "misconceptionId": "roles-q2-misconception"
+    },
+    {
+      "id": "roles-q3",
+      "kind": "multipleChoice",
+      "prompt": "角色冲突为何需要展开而不能背诵排序？",
+      "targetNodeIds": [
+        "roles-node"
+      ],
+      "options": [
+        {
+          "id": "roles-q3-o1",
+          "text": "冲突出现时，应先服从最早取得的关系角色，再把职业、安全和公共责任依固定次序后排。",
+          "feedback": "取得角色的先后并不能预先解决冲突；固定排序会遮蔽安全风险和公共责任。",
+          "isCorrect": false
+        },
+        {
+          "id": "roles-q3-o2",
+          "text": "照护、职业、安全和公共责任会在同一处境中各自提出理由，须比较对象、风险与替代方案。",
+          "feedback": "角色冲突要求比较彼此可通约与不可通约的理由，不能由一张固定表代替判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "roles-q3-o2",
+      "misconceptionId": "roles-q3-misconception"
+    },
+    {
+      "id": "roles-q4",
+      "kind": "multipleChoice",
+      "prompt": "对错误亲属“不以恶报恶”可以支持什么？",
+      "targetNodeIds": [
+        "roles-node"
+      ],
+      "options": [
+        {
+          "id": "roles-q4-o1",
+          "text": "拒绝报复要求维持接触，安全边界仅调整互动方式。",
+          "feedback": "把非报复改成服从，会让角色伦理保护施害者。",
+          "isCorrect": false
+        },
+        {
+          "id": "roles-q4-o2",
+          "text": "拒绝报复并设立安全边界，而可以不维持无条件接触。",
+          "feedback": "人格尊重与接触安排是两个问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "roles-q4-o2",
+      "misconceptionId": "roles-q4-misconception"
+    },
+    {
+      "id": "affection-cosmopolis-q1",
+      "kind": "multipleChoice",
+      "prompt": "“亲人不是我的所有物”最合理的实践含义是什么？",
+      "targetNodeIds": [
+        "affection-cosmopolis-node"
+      ],
+      "options": [
+        {
+          "id": "affection-cosmopolis-q1-o1",
+          "text": "亲密关系并非私人占有，因此减少依恋投入有助于保持判断稳定。",
+          "feedback": "把非占有改写成降低关切，会把普遍亲和推向冷漠。",
+          "isCorrect": false
+        },
+        {
+          "id": "affection-cosmopolis-q1-o2",
+          "text": "不把亲人视为占有物，并更认真地履行陪伴、医疗与日常承诺。",
+          "feedback": "反占有针对保证要求，不是要求行动者从关系中撤回照护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "affection-cosmopolis-q1-o2",
+      "misconceptionId": "affection-cosmopolis-q1-misconception"
+    },
+    {
+      "id": "affection-cosmopolis-q2",
+      "kind": "multipleChoice",
+      "prompt": "外物善的错误判断为什么会破坏友谊？",
+      "targetNodeIds": [
+        "affection-cosmopolis-node"
+      ],
+      "options": [
+        {
+          "id": "affection-cosmopolis-q2-o1",
+          "text": "若双方必须争夺名誉或财富，稀缺会把朋友变成竞争障碍。",
+          "feedback": "争夺性价值解释友谊脆弱，不是否认友谊可能。",
+          "isCorrect": true
+        },
+        {
+          "id": "affection-cosmopolis-q2-o2",
+          "text": "朋友属于外在材料，信任可以作为协作工具，却不应进入关于幸福与共同善的说明。",
+          "feedback": "把人降为无意义外物，违背自然亲和的论证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "affection-cosmopolis-q2-o1",
+      "misconceptionId": "affection-cosmopolis-q2-misconception"
+    },
+    {
+      "id": "affection-cosmopolis-q3",
+      "kind": "multipleChoice",
+      "prompt": "世界公民与特殊亲情应怎样并存？",
+      "targetNodeIds": [
+        "affection-cosmopolis-node"
+      ],
+      "options": [
+        {
+          "id": "affection-cosmopolis-q3-o1",
+          "text": "世界公民要求相近的人格尊重，因此特殊亲情获得的资源应缩小到近乎同等投入。",
+          "feedback": "资源完全同配既不可能，也不是文本所要求。",
+          "isCorrect": false
+        },
+        {
+          "id": "affection-cosmopolis-q3-o2",
+          "text": "普遍尊重不取消对具体亲人的较密集照护和承诺。",
+          "feedback": "平等人格与差异化角色义务处在不同层面。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "affection-cosmopolis-q3-o2",
+      "misconceptionId": "affection-cosmopolis-q3-misconception"
+    },
+    {
+      "id": "affection-cosmopolis-q4",
+      "kind": "multipleChoice",
+      "prompt": "死亡预想何时反而偏离训练目的？",
+      "targetNodeIds": [
+        "affection-cosmopolis-node"
+      ],
+      "options": [
+        {
+          "id": "affection-cosmopolis-q4-o1",
+          "text": "死亡预想若承认关系有限，并促使人更珍惜当前陪伴和责任，并没有偏离训练目的。",
+          "feedback": "有限性意识能够削弱占有要求并加强陪伴，这是可辩护的使用，而非训练失败。",
+          "isCorrect": false
+        },
+        {
+          "id": "affection-cosmopolis-q4-o2",
+          "text": "死亡预想若使人提前疏离、减少当下陪伴与诚实照护，便偏离了训练目的。",
+          "feedback": "训练须由关系中的实际后果检验；以疏离换取冷静会损害当下照护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "affection-cosmopolis-q4-o2",
+      "misconceptionId": "affection-cosmopolis-q4-misconception"
+    },
+    {
+      "id": "body-illness-q1",
+      "kind": "multipleChoice",
+      "prompt": "身体不是人格善，不能推出哪项结论？",
+      "targetNodeIds": [
+        "body-illness-node"
+      ],
+      "options": [
+        {
+          "id": "body-illness-q1-o1",
+          "text": "健康和能力不能凭自身证明一个人的公正与尊严。",
+          "feedback": "此项判断正是区分身体状态与人格善的作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "body-illness-q1-o2",
+          "text": "身体条件没有真实影响，因此医疗、休息与无障碍都可省略。",
+          "feedback": "前一推论把价值平等偷换成因果无关。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "body-illness-q1-o2",
+      "misconceptionId": "body-illness-q1-misconception"
+    },
+    {
+      "id": "body-illness-q2",
+      "kind": "multipleChoice",
+      "prompt": "病中角色在《论说集》的稳妥重建是什么？",
+      "targetNodeIds": [
+        "body-illness-node"
+      ],
+      "options": [
+        {
+          "id": "body-illness-q2-o1",
+          "text": "在治疗、休息、沟通与判断恐惧之间承担处境允许的行动。",
+          "feedback": "疾病改变可行材料，却不取消判断和关系责任。",
+          "isCorrect": true
+        },
+        {
+          "id": "body-illness-q2-o2",
+          "text": "拒绝身体照护能够证明内在判断没有受身体条件支配。",
+          "feedback": "拒绝材料不是自由的必要证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "body-illness-q2-o1",
+      "misconceptionId": "body-illness-q2-misconception"
+    },
+    {
+      "id": "body-illness-q3",
+      "kind": "multipleChoice",
+      "prompt": "怎样陈述爱比克泰德的残疾原因才符合来源边界？",
+      "targetNodeIds": [
+        "body-illness-node"
+      ],
+      "options": [
+        {
+          "id": "body-illness-q3-o1",
+          "text": "因主人施暴最契合自由主题，便将其写成确定的亲历事实。",
+          "feedback": "主题契合不能把后世传说升级为自传。",
+          "isCorrect": false
+        },
+        {
+          "id": "body-illness-q3-o2",
+          "text": "确认残疾有古代证词，同时把具体成因保留为竞争传说并标明证据等级。",
+          "feedback": "证据强度必须独立于故事的哲学吸引力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "body-illness-q3-o2",
+      "misconceptionId": "body-illness-q3-misconception"
+    },
+    {
+      "id": "body-illness-q4",
+      "kind": "multipleChoice",
+      "prompt": "现代残障边界为爱比克泰德理论补上什么？",
+      "targetNodeIds": [
+        "body-illness-node"
+      ],
+      "options": [
+        {
+          "id": "body-illness-q4-o1",
+          "text": "确认每位行动者拥有内在尊严后，环境改造仅提升便利，并非正义要求。",
+          "feedback": "以内在尊严封闭环境责任，会把自由资源变成削减支持的工具。",
+          "isCorrect": false
+        },
+        {
+          "id": "body-illness-q4-o2",
+          "text": "人格价值平等不能排除无障碍、支持资源和身体伤害的现实判断。",
+          "feedback": "价值论能够反击羞辱，却不能替代物质和制度条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "body-illness-q4-o2",
+      "misconceptionId": "body-illness-q4-misconception"
+    },
+    {
+      "id": "property-work-q1",
+      "kind": "multipleChoice",
+      "prompt": "公共资金为何不能因金钱是无差别项而随意处理？",
+      "targetNodeIds": [
+        "property-work-node"
+      ],
+      "options": [
+        {
+          "id": "property-work-q1-o1",
+          "text": "金钱不构成人格善，仍是诚实、公正和专业角色必须准确管理的材料。",
+          "feedback": "人格善体现在如何取用材料，而非假装材料没有后果。",
+          "isCorrect": true
+        },
+        {
+          "id": "property-work-q1-o2",
+          "text": "金钱既不构成人格善，账目结果便不进入受托者行为的伦理评价。",
+          "feedback": "从价值层级跳到行动无差别，会取消受托责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "property-work-q1-o1",
+      "misconceptionId": "property-work-q1-misconception"
+    },
+    {
+      "id": "property-work-q2",
+      "kind": "multipleChoice",
+      "prompt": "他人评价不由我，是否意味着批评无需听取？",
+      "targetNodeIds": [
+        "property-work-node"
+      ],
+      "options": [
+        {
+          "id": "property-work-q2-o1",
+          "text": "评价结果不受我支配，不代表批评内容没有可核事实和责任线索。",
+          "feedback": "不依赖名誉与不封闭证据可以同时成立。",
+          "isCorrect": true
+        },
+        {
+          "id": "property-work-q2-o2",
+          "text": "评价来自外部，反复核对批评内容会把判断自由交给他人的目光。",
+          "feedback": "拒绝查证会把自由变成免于问责。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "property-work-q2-o1",
+      "misconceptionId": "property-work-q2-misconception"
+    },
+    {
+      "id": "property-work-q3",
+      "kind": "multipleChoice",
+      "prompt": "失去奢侈品与失去住房为何不能只用同一句“归还”？",
+      "targetNodeIds": [
+        "property-work-node"
+      ],
+      "options": [
+        {
+          "id": "property-work-q3-o1",
+          "text": "两者都不决定人格善，但外部伤害规模会改变救助和角色责任。",
+          "feedback": "外部价值有差异，不必把任一项升级为人格善恶。",
+          "isCorrect": true
+        },
+        {
+          "id": "property-work-q3-o2",
+          "text": "因为住房本身直接构成德性，而奢侈品直接构成恶。",
+          "feedback": "把物品直接道德化，破坏了双层价值结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "property-work-q3-o1",
+      "misconceptionId": "property-work-q3-misconception"
+    },
+    {
+      "id": "property-work-q4",
+      "kind": "multipleChoice",
+      "prompt": "职业选择在该框架中需要检验什么？",
+      "targetNodeIds": [
+        "property-work-node"
+      ],
+      "options": [
+        {
+          "id": "property-work-q4-o1",
+          "text": "职位属于外物，接受或拒绝若保持平静，就具有相同的伦理质量。",
+          "feedback": "完全等价会让职业伦理失去对象。",
+          "isCorrect": false
+        },
+        {
+          "id": "property-work-q4-o2",
+          "text": "能力、承诺、代价与公共后果及其转嫁风险，而不是仅问职位能否带来名誉。",
+          "feedback": "材料相同不使行动方式和角色后果相同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "property-work-q4-o2",
+      "misconceptionId": "property-work-q4-misconception"
+    },
+    {
+      "id": "politics-exile-q1",
+      "kind": "multipleChoice",
+      "prompt": "官员拥有职位权力为何不等于拥有道德权威？",
+      "targetNodeIds": [
+        "politics-exile-node"
+      ],
+      "options": [
+        {
+          "id": "politics-exile-q1-o1",
+          "text": "职位配置资源的能力也使官员的命令取得道德资格。",
+          "feedback": "由职位推出正当，正是爱比克泰德反复拆解的谄媚。",
+          "isCorrect": false
+        },
+        {
+          "id": "politics-exile-q1-o2",
+          "text": "他能配置资源，却仍须为命令的正当性提供独立理由。",
+          "feedback": "事实能力与规范资格不能相互代替。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "politics-exile-q1-o2",
+      "misconceptionId": "politics-exile-q1-misconception"
+    },
+    {
+      "id": "politics-exile-q2",
+      "kind": "multipleChoice",
+      "prompt": "放逐案例保住了哪项区分？",
+      "targetNodeIds": [
+        "politics-exile-node"
+      ],
+      "options": [
+        {
+          "id": "politics-exile-q2-o1",
+          "text": "放逐改变地点却不触及人格善，故不存在需要制度追责的独立伤害。",
+          "feedback": "把放逐说成无事，会美化政治强制。",
+          "isCorrect": false
+        },
+        {
+          "id": "politics-exile-q2-o2",
+          "text": "地点与资源可真实失去，但这不直接证明被放逐者人格败坏。",
+          "feedback": "价值判决独立于伤害事实，不是否认伤害。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "politics-exile-q2-o2",
+      "misconceptionId": "politics-exile-q2-misconception"
+    },
+    {
+      "id": "politics-exile-q3",
+      "kind": "multipleChoice",
+      "prompt": "公共行动为何不能套用单一英雄姿态？",
+      "targetNodeIds": [
+        "politics-exile-node"
+      ],
+      "options": [
+        {
+          "id": "politics-exile-q3-o1",
+          "text": "说话、退出与联合行动会把风险分配给各类角色，因此都要比较后果和承担者。",
+          "feedback": "不保证结果仍须比较策略、证据和他人风险。",
+          "isCorrect": true
+        },
+        {
+          "id": "politics-exile-q3-o2",
+          "text": "政治结果不能由单人保证，公共行动便缺少可归到行动者角色的责任。",
+          "feedback": "把结果不可保证改写成没有责任，会退出公共判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "politics-exile-q3-o1",
+      "misconceptionId": "politics-exile-q3-misconception"
+    },
+    {
+      "id": "politics-exile-q4",
+      "kind": "multipleChoice",
+      "prompt": "世界公民语言的制度缺口是什么？",
+      "targetNodeIds": [
+        "politics-exile-node"
+      ],
+      "options": [
+        {
+          "id": "politics-exile-q4-o1",
+          "text": "世界公民立场给出了完整的权力分立与代表制度设计，后世仅需照此执行。",
+          "feedback": "把后世制度倒灌进文本，会伪造爱比克泰德的政治理论。",
+          "isCorrect": false
+        },
+        {
+          "id": "politics-exile-q4-o2",
+          "text": "世界公民观提供限制地方权威的普遍人格根据，却没有直接给出法律救济和组织方案。",
+          "feedback": "普遍规范仍需制度中介，才能保护具体行动者。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "politics-exile-q4-o2",
+      "misconceptionId": "politics-exile-q4-misconception"
+    },
+    {
+      "id": "slavery-boundary-q1",
+      "kind": "multipleChoice",
+      "prompt": "爱比克泰德的受奴役生平允许我们推出什么？",
+      "targetNodeIds": [
+        "slavery-boundary-node"
+      ],
+      "options": [
+        {
+          "id": "slavery-boundary-q1-o1",
+          "text": "前奴隶生平使主人场景具有自传基础，因此课堂里的受压经验通常可视为其个人经历的间接记录。",
+          "feedback": "把一般论证自传化，会伪造无法核实的经历。",
+          "isCorrect": false
+        },
+        {
+          "id": "slavery-boundary-q1-o2",
+          "text": "自由论来自真实奴役语境，但具体课堂例子仍不能全当自传。",
+          "feedback": "生平增加语境重量，不取消文本体裁判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "slavery-boundary-q1-o2",
+      "misconceptionId": "slavery-boundary-q1-misconception"
+    },
+    {
+      "id": "slavery-boundary-q2",
+      "kind": "multipleChoice",
+      "prompt": "“欲望的奴隶”这一反转有什么批判力量？",
+      "targetNodeIds": [
+        "slavery-boundary-node"
+      ],
+      "options": [
+        {
+          "id": "slavery-boundary-q2-o1",
+          "text": "欲望奴役的隐喻揭露名义主人也依赖皇帝、财富和认可，却不取消法律暴力。",
+          "feedback": "隐喻能够拆解主人优越，却不能覆盖买卖、强制和家庭分离。",
+          "isCorrect": true
+        },
+        {
+          "id": "slavery-boundary-q2-o2",
+          "text": "主人受欲望支配，法律奴役便仅剩名义，强制与买卖的伤害可退到次要位置。",
+          "feedback": "用精神地位替换法律事实，会站到制度辩护一侧。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "slavery-boundary-q2-o1",
+      "misconceptionId": "slavery-boundary-q2-misconception"
+    },
+    {
+      "id": "slavery-boundary-q3",
+      "kind": "multipleChoice",
+      "prompt": "为什么不能直接称爱比克泰德为废奴理论家？",
+      "targetNodeIds": [
+        "slavery-boundary-node"
+      ],
+      "options": [
+        {
+          "id": "slavery-boundary-q3-o1",
+          "text": "文本提供价值平等和主人依赖批判，却没有提出废除奴隶制度的方案。",
+          "feedback": "既承认批判资源，也标明制度论缺口，才符合现有证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "slavery-boundary-q3-o2",
+          "text": "主人依赖批判本身包含制度废除的规范结论，后人仅需补上实施步骤。",
+          "feedback": "道德反转与制度废除之间仍缺组织、保护和执行的论证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "slavery-boundary-q3-o1",
+      "misconceptionId": "slavery-boundary-q3-misconception"
+    },
+    {
+      "id": "slavery-boundary-q4",
+      "kind": "multipleChoice",
+      "prompt": "对受压者妥协的评价需要加入什么？",
+      "targetNodeIds": [
+        "slavery-boundary-node"
+      ],
+      "options": [
+        {
+          "id": "slavery-boundary-q4-o1",
+          "text": "安全、盟友和逃离条件会限制公开拒绝能力，若仅看姿态，便会错判受压者的处境。",
+          "feedback": "规范判断与可行行动条件必须分别描述。",
+          "isCorrect": true
+        },
+        {
+          "id": "slavery-boundary-q4-o2",
+          "text": "公开妥协首先反映行动者的判断让步，外部风险仅能解释让步程度。",
+          "feedback": "把强制后果全部转成受压者的判断责任，是内在自由的危险误用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "slavery-boundary-q4-o1",
+      "misconceptionId": "slavery-boundary-q4-misconception"
+    },
+    {
+      "id": "providence-q1",
+      "kind": "multipleChoice",
+      "prompt": "“愿事情按其发生而发生”如何避免变成事前放弃？",
+      "targetNodeIds": [
+        "providence-node"
+      ],
+      "options": [
+        {
+          "id": "providence-q1-o1",
+          "text": "它首先针对已成事实的无效否认，不取消对未来的救援与预防。",
+          "feedback": "接受不可逆事实与改变可变条件处在不同时间位置。",
+          "isCorrect": true
+        },
+        {
+          "id": "providence-q1-o2",
+          "text": "顺应天意要求行动者事前放弃计划，因为计划本身便在反对宇宙秩序。",
+          "feedback": "把二者合并会把服从命运变成消极。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "providence-q1-o1",
+      "misconceptionId": "providence-q1-misconception"
+    },
+    {
+      "id": "providence-q2",
+      "kind": "multipleChoice",
+      "prompt": "合乎自然为什么不等于跟随第一冲动？",
+      "targetNodeIds": [
+        "providence-node"
+      ],
+      "options": [
+        {
+          "id": "providence-q2-o1",
+          "text": "欲望出现在自然秩序中，行动者可将其视为宙斯给出的方向，不再需要额外判断。",
+          "feedback": "从欲望出现跳到欲望正当，会取消印象与同意的区分。",
+          "isCorrect": false
+        },
+        {
+          "id": "providence-q2-o2",
+          "text": "人的理性与社会关系要求人依照事实和共同利益审查冲动。",
+          "feedback": "斯多亚的自然是一种规范结构，不是心理发生顺序。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "providence-q2-o2",
+      "misconceptionId": "providence-q2-misconception"
+    },
+    {
+      "id": "providence-q3",
+      "kind": "multipleChoice",
+      "prompt": "无辜苦难对天意论提出什么强异议？",
+      "targetNodeIds": [
+        "providence-node"
+      ],
+      "options": [
+        {
+          "id": "providence-q3-o1",
+          "text": "若每次伤害都被称为训练，理论恐怕会变得不可反证，并替施害者卸下责任。",
+          "feedback": "异议针对解释策略，而不是用单一反例取消所有秩序。",
+          "isCorrect": true
+        },
+        {
+          "id": "providence-q3-o2",
+          "text": "世界中的痛苦与理性秩序互相排斥，经验到前者即可否定后者。",
+          "feedback": "此项说法过度扩大结论，没有处理爱比克泰德的实际论证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "providence-q3-o1",
+      "misconceptionId": "providence-q3-misconception"
+    },
+    {
+      "id": "providence-q4",
+      "kind": "multipleChoice",
+      "prompt": "收缩后的天意解释仍须标明什么？",
+      "targetNodeIds": [
+        "providence-node"
+      ],
+      "options": [
+        {
+          "id": "providence-q4-o1",
+          "text": "事件实际发生可作为安排良善的证据，神义论不再承担额外说明责任。",
+          "feedback": "用发生证明安排良善，是循环论证。",
+          "isCorrect": false
+        },
+        {
+          "id": "providence-q4-o2",
+          "text": "它是一项关于可理解秩序的形上信任，不是现代科学的既证事实。",
+          "feedback": "证据身份边界防止宗教信任冒充经验结论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "providence-q4-o2",
+      "misconceptionId": "providence-q4-misconception"
+    },
+    {
+      "id": "death-grief-q1",
+      "kind": "multipleChoice",
+      "prompt": "把死亡与人格恶分开，主要要阻止什么？",
+      "targetNodeIds": [
+        "death-grief-node"
+      ],
+      "options": [
+        {
+          "id": "death-grief-q1-o1",
+          "text": "阻止死亡威胁仅凭生存代价决定行动者何为正当。",
+          "feedback": "区分针对价值勒索，不否认死亡事实。",
+          "isCorrect": true
+        },
+        {
+          "id": "death-grief-q1-o2",
+          "text": "阻止行动者承认死亡会结束身体生命和具体关系。",
+          "feedback": "否认终结会使预想死亡失去对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "death-grief-q1-o1",
+      "misconceptionId": "death-grief-q1-misconception"
+    },
+    {
+      "id": "death-grief-q2",
+      "kind": "multipleChoice",
+      "prompt": "死亡预想何时具有反占有作用？",
+      "targetNodeIds": [
+        "death-grief-node"
+      ],
+      "options": [
+        {
+          "id": "death-grief-q2-o1",
+          "text": "死亡预想使人承认关系有限，并因此更认真履行当下承诺时，它才加强当前关系。",
+          "feedback": "有限性意识可以加强陪伴，而非只追求情绪减量。",
+          "isCorrect": true
+        },
+        {
+          "id": "death-grief-q2-o2",
+          "text": "死亡预想帮助行动者提前减少关系投入，以免未来悲伤破坏判断。",
+          "feedback": "以疏离证明训练，会伤害这项训练本想澄清的关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "death-grief-q2-o1",
+      "misconceptionId": "death-grief-q2-misconception"
+    },
+    {
+      "id": "death-grief-q3",
+      "kind": "multipleChoice",
+      "prompt": "“归还”语言的主要风险是什么？",
+      "targetNodeIds": [
+        "death-grief-node"
+      ],
+      "options": [
+        {
+          "id": "death-grief-q3-o1",
+          "text": "归还语言会把独特关系与哀悼的经验重量压缩成单一的占有纠正。",
+          "feedback": "短句可以反对占有，却不能承载共同历史中断的全部含义。",
+          "isCorrect": true
+        },
+        {
+          "id": "death-grief-q3-o2",
+          "text": "归还语言覆盖了哀悼的规范结构，心理支持仅影响恢复速度。",
+          "feedback": "把摘编当成充分理论，遗漏了身体、关系和支持条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "death-grief-q3-o1",
+      "misconceptionId": "death-grief-q3-misconception"
+    },
+    {
+      "id": "death-grief-q4",
+      "kind": "multipleChoice",
+      "prompt": "临终照护如何反驳接受等于不行动？",
+      "targetNodeIds": [
+        "death-grief-node"
+      ],
+      "options": [
+        {
+          "id": "death-grief-q4-o1",
+          "text": "正因为承认死亡终将到来，疼痛控制、陪伴和告别更需安排。",
+          "feedback": "接受改变行动目标，不取消关系中的行动。",
+          "isCorrect": true
+        },
+        {
+          "id": "death-grief-q4-o2",
+          "text": "若接受事实，就应停止治疗与陪伴，以免欲求外部结果。",
+          "feedback": "此项选择把结果不可控误成过程无责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "death-grief-q4-o1",
+      "misconceptionId": "death-grief-q4-misconception"
+    },
+    {
+      "id": "training-q1",
+      "kind": "multipleChoice",
+      "prompt": "为何能讲解原则仍不等于哲学进步？",
+      "targetNodeIds": [
+        "training-node"
+      ],
+      "options": [
+        {
+          "id": "training-q1-o1",
+          "text": "理论复述稳定即可认定判断趋于成熟，生活失序主要是偶发的执行偏差。",
+          "feedback": "把讲解当作完成，正是其批评的展示性学习。",
+          "isCorrect": false
+        },
+        {
+          "id": "training-q1-o2",
+          "text": "命题知识尚未改变欲求、排斥、行动和责怪习惯时，背诵并不等于进步。",
+          "feedback": "爱比克泰德把检验放在受阻时的生活判断，而不是口头熟练。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "training-q1-o2",
+      "misconceptionId": "training-q1-misconception"
+    },
+    {
+      "id": "training-q2",
+      "kind": "multipleChoice",
+      "prompt": "三类训练为何有不同对象？",
+      "targetNodeIds": [
+        "training-node"
+      ],
+      "options": [
+        {
+          "id": "training-q2-o1",
+          "text": "三类训练各自处理目标价值、关系行动与对印象同意检验的层级。",
+          "feedback": "区分让失败可定位，而不归成模糊心态。",
+          "isCorrect": true
+        },
+        {
+          "id": "training-q2-o2",
+          "text": "三领域共同追求降低情绪强度，差别仅在训练采用的场景。",
+          "feedback": "单一强度指标无法评估事实和角色。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "training-q2-o1",
+      "misconceptionId": "training-q2-misconception"
+    },
+    {
+      "id": "training-q3",
+      "kind": "multipleChoice",
+      "prompt": "注意怎样避免变成持续自我惩罚？",
+      "targetNodeIds": [
+        "training-node"
+      ],
+      "options": [
+        {
+          "id": "training-q3-o1",
+          "text": "训练要求持续监控感觉，注意偏离说明价值判断仍未真正改变。",
+          "feedback": "完美监控会制造新的恐惧，并遮蔽失败提供的信息。",
+          "isCorrect": false
+        },
+        {
+          "id": "training-q3-o2",
+          "text": "行动者发现注意滑落后可以返回当前判断，可以不把一次失败定为人格破产。",
+          "feedback": "注意是可以恢复的实践，不是要求毫无间断的警戒。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "training-q3-o2",
+      "misconceptionId": "training-q3-misconception"
+    },
+    {
+      "id": "training-q4",
+      "kind": "multipleChoice",
+      "prompt": "哪种预演需要被限制？",
+      "targetNodeIds": [
+        "training-node"
+      ],
+      "options": [
+        {
+          "id": "training-q4-o1",
+          "text": "仅反复想象灾难、加重焦虑，却没有识别可用行动的方式。",
+          "feedback": "预演须由功能和伤害检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "training-q4-o2",
+          "text": "提前区分可采取的步骤和无法保证的结果。",
+          "feedback": "此种形式把思想区分转为实际准备。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "training-q4-o1",
+      "misconceptionId": "training-q4-misconception"
+    },
+    {
+      "id": "cynic-teacher-q1",
+      "kind": "multipleChoice",
+      "prompt": "理想犬儒为何不能由破斗篷和贫穷识别？",
+      "targetNodeIds": [
+        "cynic-teacher-node"
+      ],
+      "options": [
+        {
+          "id": "cynic-teacher-q1-o1",
+          "text": "外在贫乏虽不能单独证明召命，却是宙斯使者的必要标志，能先于公共效果确认其角色方向。",
+          "feedback": "把服饰当证明，会复制他批评的展示。",
+          "isCorrect": false
+        },
+        {
+          "id": "cynic-teacher-q1-o2",
+          "text": "外在匮乏有时会沦为名誉表演，使命还须检验动机、能力与公共作用。",
+          "feedback": "爱比克泰德明确反对用外观代替品格。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "cynic-teacher-q1-o2",
+      "misconceptionId": "cynic-teacher-q1-misconception"
+    },
+    {
+      "id": "cynic-teacher-q2",
+      "kind": "multipleChoice",
+      "prompt": "普通学生为何不应立即复制犬儒的无家庭生活？",
+      "targetNodeIds": [
+        "cynic-teacher-node"
+      ],
+      "options": [
+        {
+          "id": "cynic-teacher-q2-o1",
+          "text": "犬儒是最高生活范型，普通关系义务仍有价值，但可随着模仿能力增长而逐渐让位于无家庭使命。",
+          "feedback": "3.22的特殊使者理想需要使命、能力和角色条件，不能由模仿能力推出普通关系义务应逐步让位。",
+          "isCorrect": false
+        },
+        {
+          "id": "cynic-teacher-q2-o2",
+          "text": "特殊使命有能力和角色条件，普通关系义务并未因此消失。",
+          "feedback": "承认极端范型，不等于把它普遍化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "cynic-teacher-q2-o2",
+      "misconceptionId": "cynic-teacher-q2-misconception"
+    },
+    {
+      "id": "cynic-teacher-q3",
+      "kind": "multipleChoice",
+      "prompt": "哲学直言何时滑向支配？",
+      "targetNodeIds": [
+        "cynic-teacher-node"
+      ],
+      "options": [
+        {
+          "id": "cynic-teacher-q3-o1",
+          "text": "纠正错误的目的可以正当化教师的严厉，学生最后承认矛盾即可证明羞辱有效。",
+          "feedback": "强度不会自动产生正当性。",
+          "isCorrect": false
+        },
+        {
+          "id": "cynic-teacher-q3-o2",
+          "text": "当教师以权威阻止质疑、忽略处境并把羞辱当成疗效证明时。",
+          "feedback": "直言须由认识和关系后果评估。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "cynic-teacher-q3-o2",
+      "misconceptionId": "cynic-teacher-q3-misconception"
+    },
+    {
+      "id": "cynic-teacher-q4",
+      "kind": "multipleChoice",
+      "prompt": "现代公共倡议怎样补足使命论？",
+      "targetNodeIds": [
+        "cynic-teacher-node"
+      ],
+      "options": [
+        {
+          "id": "cynic-teacher-q4-o1",
+          "text": "加入受影响者同意、风险分配、退出渠道和问责。",
+          "feedback": "公共使命涉及多人，不能由个人纯洁独占决定。",
+          "isCorrect": true
+        },
+        {
+          "id": "cynic-teacher-q4-o2",
+          "text": "公共倡议首先看倡议者愿不愿承担牺牲，同伴风险仅属后续协调，不影响使命的正当性。",
+          "feedback": "忽略同伴会把直言变成替他人选择牺牲。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "cynic-teacher-q4-o1",
+      "misconceptionId": "cynic-teacher-q4-misconception"
+    },
+    {
+      "id": "modern-reception-q1",
+      "kind": "multipleChoice",
+      "prompt": "现代治疗明确引用爱比克泰德，能证明到什么程度？",
+      "targetNodeIds": [
+        "modern-reception-node"
+      ],
+      "options": [
+        {
+          "id": "modern-reception-q1-o1",
+          "text": "明确引用能证明接受关系，却不能证明古代文本已包含现代诊断和临床证据。",
+          "feedback": "引用建立历史联系，但没有消除时代、方法与证据制度的差异。",
+          "isCorrect": true
+        },
+        {
+          "id": "modern-reception-q1-o2",
+          "text": "现代治疗明确引用爱比克泰德，便可证明其核心机制来自古代的事件—判断区分。",
+          "feedback": "从引用关系跳到理论同一，会把后来的临床结构倒灌进古代文本。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "modern-reception-q1-o1",
+      "misconceptionId": "modern-reception-q1-misconception"
+    },
+    {
+      "id": "modern-reception-q2",
+      "kind": "multipleChoice",
+      "prompt": "概念亲缘与功能相似为何要分级？",
+      "targetNodeIds": [
+        "modern-reception-node"
+      ],
+      "options": [
+        {
+          "id": "modern-reception-q2-o1",
+          "text": "概念结构和功能结果相似时，可推定存在间接继承，除非有证据证明两种方法独立形成。",
+          "feedback": "共同功能不足以证明谁影响了谁。",
+          "isCorrect": false
+        },
+        {
+          "id": "modern-reception-q2-o2",
+          "text": "前者比较概念结构，后者有时仅共享用途，两者承载的历史继承强度并非同等。",
+          "feedback": "证据分级防止相似结果冒充来源关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "modern-reception-q2-o2",
+      "misconceptionId": "modern-reception-q2-misconception"
+    },
+    {
+      "id": "modern-reception-q3",
+      "kind": "multipleChoice",
+      "prompt": "企业用“只管可控项”回应过劳，哪里发生了责任转移？",
+      "targetNodeIds": [
+        "modern-reception-node"
+      ],
+      "options": [
+        {
+          "id": "modern-reception-q3-o1",
+          "text": "员工无法保证制度改变，因此训练应集中调整员工预期，管理职责需用另一套理论处理。",
+          "feedback": "结果不可保证不等于管理者无需采取职责内行动。",
+          "isCorrect": false
+        },
+        {
+          "id": "modern-reception-q3-o2",
+          "text": "工时与申诉机制在管理者职责范围内，把制度问题单向改写成员工心态，责任分配便会失真。",
+          "feedback": "由我与不由我应按角色分配，不能只向权力较弱的一侧使用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "modern-reception-q3-o2",
+      "misconceptionId": "modern-reception-q3-misconception"
+    },
+    {
+      "id": "modern-reception-q4",
+      "kind": "multipleChoice",
+      "prompt": "本路线允许保留的现代资源是什么？",
+      "targetNodeIds": [
+        "modern-reception-node"
+      ],
+      "options": [
+        {
+          "id": "modern-reception-q4-o1",
+          "text": "内在价值与下一步行动构成现代韧性的核心，法律、医疗和集体支持主要是附加帮助。",
+          "feedback": "排除外部支持会重演口号化和受害者责备。",
+          "isCorrect": false
+        },
+        {
+          "id": "modern-reception-q4-o2",
+          "text": "区分人格价值、下一步行动和不可保证结果，并与外部支持并行。",
+          "feedback": "资源有效不要求它独占解释和救济。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "modern-reception-q4-o2",
+      "misconceptionId": "modern-reception-q4-misconception"
+    }
+  ]
+}

@@ -1,0 +1,5517 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "al-ghazali--G01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "阅读加扎里必须区分他对自身求知道路的叙述、他对哲学家的判决，以及后世解释。一本书中的“哲学家说”不能自动改写为作者最终立场。",
+      "explanation": "阅读加扎里必须区分他对自身求知道路的叙述、他对哲学家的判决，以及后世解释。一本书中的“哲学家说”不能自动改写为作者最终立场。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g01-c1",
+        "al-ghazali--src-sep-works--g01-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "method of voice separation"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《意图》服务于理解哲学家的学说对象，《矛盾》才逐项展开批判；两书的功能差异阻止“说明即赞同”。",
+      "explanation": "《意图》服务于理解哲学家的学说对象，《矛盾》才逐项展开批判；两书的功能差异阻止“说明即赞同”。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g01-c2",
+        "al-ghazali--src-tahafut-intro--g01-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Maqasid/Tahafut genre boundary"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《迷途指津》的出发点是寻求不容怀疑的知识，并检验从权威和习惯继承的信念是否只是 taqlīd。",
+      "explanation": "《迷途指津》的出发点是寻求不容怀疑的知识，并检验从权威和习惯继承的信念是否只是 taqlīd。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g02-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "certainty versus imitation"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这种自传式叙述是一种有目的的知识谱系，不应被当作没有修辞选择的逐日记录。",
+      "explanation": "这种自传式叙述是一种有目的的知识谱系，不应被当作没有修辞选择的逐日记录。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g02-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "autobiographical genre boundary"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "感官可能被更强的判断纠正；梦的例子又让理性确信面对可能的更高尺度。危机针对知识保证，而非简单宣布一切同样虚假。",
+      "explanation": "感官可能被更强的判断纠正；梦的例子又让理性确信面对可能的更高尺度。危机针对知识保证，而非简单宣布一切同样虚假。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-skepticism--g03-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "skeptical escalation"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把这一段直接等同笛卡尔方法怀疑会遮蔽其神学与灵性语境；比较可以进行，但声音必须分开。",
+      "explanation": "把这一段直接等同笛卡尔方法怀疑会遮蔽其神学与灵性语境；比较可以进行，但声音必须分开。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g03-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern comparison boundary"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "加扎里说怀疑并非由排列一个形式证明解除，而是由真主投入胸中的光恢复必要真理的可信性。",
+      "explanation": "加扎里说怀疑并非由排列一个形式证明解除，而是由真主投入胸中的光恢复必要真理的可信性。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-light--g04-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "recovery by divine light"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“光”可以被解释为认识论与宗教经验的交点；现代解释不能把它缩成纯心理事件或无论证特权。",
+      "explanation": "“光”可以被解释为认识论与宗教经验的交点；现代解释不能把它缩成纯心理事件或无论证特权。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g04-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interpretation of epistemic light"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《迷途指津》把求道者分为神学家、哲学家、Bāṭinites 与苏菲，并逐一考察其知识主张。",
+      "explanation": "《迷途指津》把求道者分为神学家、哲学家、Bāṭinites 与苏菲，并逐一考察其知识主张。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-seekers--g05-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "four classes of seekers"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "哲学又分数学、逻辑、自然学、神学、政治与伦理；批判不是把所有学科作同一裁决。",
+      "explanation": "哲学又分数学、逻辑、自然学、神学、政治与伦理；批判不是把所有学科作同一裁决。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g05-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "differentiated assessment of philosophy"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《意图》的逻辑部分以哲学家的术语呈现概念、判断与推理；这一教学性说明属于被准确掌握的对象。",
+      "explanation": "《意图》的逻辑部分以哲学家的术语呈现概念、判断与推理；这一教学性说明属于被准确掌握的对象。",
+      "identity": "avicenna-position-reported-by-al-ghazali; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-logic--g06-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Avicennian logic as presented target"
+      ],
+      "voiceClass": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "加扎里强调先理解再反驳；逻辑工具的可用性与某些形而上学结论的错误可以同时成立。",
+      "explanation": "加扎里强调先理解再反驳；逻辑工具的可用性与某些形而上学结论的错误可以同时成立。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g06-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "al-Ghazali assessment of logical discipline"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "必要者、可能者与由第一原则展开的世界秩序在《意图》中作为 falsafa 的形而上学对象被说明；此处 voice 是被报告的阿维森纳立场。",
+      "explanation": "必要者、可能者与由第一原则展开的世界秩序在《意图》中作为 falsafa 的形而上学对象被说明；此处 voice 是被报告的阿维森纳立场。",
+      "identity": "avicenna-position-reported-by-al-ghazali; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-metaphysics--g07-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Avicennian metaphysical target"
+      ],
+      "voiceClass": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究指出加扎里大量吸收哲学概念工具，但吸收不取消其在《矛盾》中对特定结论的反对。",
+      "explanation": "现代研究指出加扎里大量吸收哲学概念工具，但吸收不取消其在《矛盾》中对特定结论的反对。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g07-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern account of appropriation and critique"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《矛盾》导言规定论战对象与方法，并把批判编成二十项讨论；反驳针对具体证明和结论，不是取消论证本身。",
+      "explanation": "《矛盾》导言规定论战对象与方法，并把批判编成二十项讨论；反驳针对具体证明和结论，不是取消论证本身。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-intro--g08-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tahafut twenty-discussion method"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "结论区分三项被判为 kufr 的学说与其余错误/异端问题，不能把二十项全部压成同一法律等级。",
+      "explanation": "结论区分三项被判为 kufr 的学说与其余错误/异端问题，不能把二十项全部压成同一法律等级。",
+      "identity": "al-ghazali-judgment; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-conclusion--g08-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "three-unbelief-doctrine boundary"
+      ],
+      "voiceClass": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Discussion 1 反驳哲学家关于世界前永恒的证明，追问从永恒意志到有始世界是否真有逻辑不可能。",
+      "explanation": "Discussion 1 反驳哲学家关于世界前永恒的证明，追问从永恒意志到有始世界是否真有逻辑不可能。",
+      "identity": "al-ghazali-judgment; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d1--g09-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tahafut Discussion 1 al-Ghazali judgment"
+      ],
+      "voiceClass": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "阿威罗伊在《矛盾之矛盾》的第一讨论反过来维护哲学论证并批评加扎里的选择性表述；这是回应声部。",
+      "explanation": "阿威罗伊在《矛盾之矛盾》的第一讨论反过来维护哲学论证并批评加扎里的选择性表述；这是回应声部。",
+      "identity": "averroes-response; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d1--g09-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Averroes response to Discussion 1"
+      ],
+      "voiceClass": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Discussion 13 针对神只以普遍方式认识 temporal particulars 的哲学主张；加扎里认为这种限制不能维护神的全知。",
+      "explanation": "Discussion 13 针对神只以普遍方式认识 temporal particulars 的哲学主张；加扎里认为这种限制不能维护神的全知。",
+      "identity": "al-ghazali-judgment; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tahafut Discussion 13 divine knowledge"
+      ],
+      "voiceClass": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "被批评的对象属于 Avicennian/falāsifa 知识论框架；路线不把对象陈述冒充加扎里赞同。",
+      "explanation": "被批评的对象属于 Avicennian/falāsifa 知识论框架；路线不把对象陈述冒充加扎里赞同。",
+      "identity": "avicenna-position-reported-by-al-ghazali; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Avicennian target in Discussion 13"
+      ],
+      "voiceClass": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Discussion 20 反驳否认身体复活及身体快乐痛苦的立场，并维护启示所述复活的可能。",
+      "explanation": "Discussion 20 反驳否认身体复活及身体快乐痛苦的立场，并维护启示所述复活的可能。",
+      "identity": "al-ghazali-judgment; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tahafut Discussion 20 bodily resurrection"
+      ],
+      "voiceClass": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Discussion 20 回指因果讨论所允许的变化路径，说明因果与复活两课不能彼此孤立。",
+      "explanation": "Discussion 20 回指因果讨论所允许的变化路径，说明因果与复活两课不能彼此孤立。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c2",
+        "al-ghazali--src-tahafut-d17--g11-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "cross-reference from resurrection to causality"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Discussion 17 开篇否认通常称为原因与结果的两事之间具有由其自身保证的必要联系；棉花与火例用于区分共现和必然。",
+      "explanation": "Discussion 17 开篇否认通常称为原因与结果的两事之间具有由其自身保证的必要联系；棉花与火例用于区分共现和必然。",
+      "identity": "al-ghazali-judgment; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tahafut Discussion 17 necessary connection"
+      ],
+      "voiceClass": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "论证目标也包括为先知奇迹保留可能性；这不是把每次经验预期都判为无意义。",
+      "explanation": "论证目标也包括为先知奇迹保留可能性；这不是把每次经验预期都判为无意义。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "miracle possibility and empirical regularity"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究把 Discussion 17 分成多个 position/approach，并指出文本提供偶因论路径，也讨论与次级因果相容的模型。",
+      "explanation": "现代研究把 Discussion 17 分成多个 position/approach，并指出文本提供偶因论路径，也讨论与次级因果相容的模型。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g13-c1",
+        "al-ghazali--src-griffel-d17--g13-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern causal-model reconstruction"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "将非必然性直接等同“没有因果知识”会越过文本；加扎里保留习惯秩序、预期与神知框架。",
+      "explanation": "将非必然性直接等同“没有因果知识”会越过文本；加扎里保留习惯秩序、预期与神知框架。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g13-c2",
+        "al-ghazali--src-sep-causality--g13-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "boundary between necessity and causal knowledge"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "阿威罗伊在第十七讨论回应说，否认事物的因果本性会威胁知识，因为知识涉及把握事物的原因；这是批评者的论证。",
+      "explanation": "阿威罗伊在第十七讨论回应说，否认事物的因果本性会威胁知识，因为知识涉及把握事物的原因；这是批评者的论证。",
+      "identity": "averroes-response; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d17--g14-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Averroes causal-knowledge response"
+      ],
+      "voiceClass": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代比较不应把双方压成“科学对宗教”：争论涉及必然、神能、自然本性、奇迹和知识条件。",
+      "explanation": "现代比较不应把双方压成“科学对宗教”：争论涉及必然、神能、自然本性、奇迹和知识条件。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g14-c2",
+        "al-ghazali--src-averroes-d17--g14-c2",
+        "al-ghazali--src-tahafut-d17--g14-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern boundary on Ghazali-Averroes debate"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《复兴》第一书区分知识的地位、义务与危险，并把有益知识指向敬拜和行动，而非只积累争胜材料。",
+      "explanation": "《复兴》第一书区分知识的地位、义务与危险，并把有益知识指向敬拜和行动，而非只积累争胜材料。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Ihya Book 1 knowledge and action"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这使哲学批判落入实践尺度：真正问题不仅是命题真假，也包括知识如何塑造欲望、意向和生活。",
+      "explanation": "这使哲学批判落入实践尺度：真正问题不仅是命题真假，也包括知识如何塑造欲望、意向和生活。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c2",
+        "al-ghazali--src-sep-works--g15-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "route synthesis of knowledge-practice unity"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《心之奇观》把心视为认知与道德整治的中心；《意向、虔诚与真诚》又要求行动由 niyya 和 ikhlāṣ 定向。",
+      "explanation": "《心之奇观》把心视为认知与道德整治的中心；《意向、虔诚与真诚》又要求行动由 niyya 和 ikhlāṣ 定向。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-heart--g16-c1",
+        "al-ghazali--src-ihya-intention--g16-c1"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "heart and intention practice"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《独一与托靠》把因果实践转化为依赖关系的训练：使用手段与承认真主为最终依靠可以并存，不能把 tawakkul 写成拒绝一切行动。",
+      "explanation": "《独一与托靠》把因果实践转化为依赖关系的训练：使用手段与承认真主为最终依靠可以并存，不能把 tawakkul 写成拒绝一切行动。",
+      "identity": "al-ghazali-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-tawhid--g16-c2"
+      ],
+      "abilityIds": [
+        "al-ghazali-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "trust, means, and practical causality"
+      ],
+      "voiceClass": "al-ghazali-primary"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "al-ghazali--src-munqidh-prologue--g01-c1",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "R. J. McCarthy trans., Freedom and Fulfillment (Twayne, 1980)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G01-C1; previous broad locator: al-Munqidh, opening: motive for the account and search for certain knowledge",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G01-C1; previous broad locator: al-Munqidh, opening: motive for the account and search for certain knowledge",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g01-c1",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G01-C1; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G01-C1; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-philosophers--g01-c2",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G01-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G01-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-intro--g01-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Michael E. Marmura trans., 2nd ed. (Brigham Young University Press, 2000)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G01-C2; previous broad locator: Introduction and Four Prefaces; list and method of the twenty discussions",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G01-C2; previous broad locator: Introduction and Four Prefaces; list and method of the twenty discussions",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-prologue--g02-c1",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "R. J. McCarthy trans., Freedom and Fulfillment (Twayne, 1980)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G02-C1; previous broad locator: al-Munqidh, opening: motive for the account and search for certain knowledge",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G02-C1; previous broad locator: al-Munqidh, opening: motive for the account and search for certain knowledge",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g02-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G02-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G02-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-skepticism--g03-c1",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G03-C1; previous broad locator: al-Munqidh, section on sense perception, necessary truths, and the crisis of doubt",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G03-C1; previous broad locator: al-Munqidh, section on sense perception, necessary truths, and the crisis of doubt",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g03-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G03-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G03-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-light--g04-c1",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G04-C1; previous broad locator: al-Munqidh, recovery from skepticism by a light cast into the breast",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G04-C1; previous broad locator: al-Munqidh, recovery from skepticism by a light cast into the breast",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g04-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G04-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G04-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-seekers--g05-c1",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G05-C1; previous broad locator: al-Munqidh, four classes of seekers: theologians, philosophers, Bāṭinites, Sufis",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G05-C1; previous broad locator: al-Munqidh, four classes of seekers: theologians, philosophers, Bāṭinites, Sufis",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-philosophers--g05-c2",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G05-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G05-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-maqasid-logic--g06-c1",
+      "workId": "Maqāṣid al-Falāsifa",
+      "edition": "Sulaymān Dunyā ed., Maqāṣid al-Falāsifa (Dār al-Maʿārif, 1961)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact Dunyā 1961 page/section for the opening aim and logic division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Maqāṣid al-Falāsifa",
+      "stableUrl": "https://plato.stanford.edu/entries/al-ghazali/",
+      "boundaryZh": "Close exact Dunyā 1961 page/section for the opening aim and logic division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "avicenna-position-reported-by-al-ghazali",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-munqidh-philosophers--g06-c2",
+      "workId": "al-Munqidh min al-Ḍalāl",
+      "edition": "McCarthy 1980",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G06-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "al-Munqidh min al-Ḍalāl",
+      "stableUrl": "https://www.ghazali.org/works/munqidh.pdf",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G06-C2; previous broad locator: al-Munqidh, section on philosophy: mathematics, logic, physics, metaphysics, politics, ethics",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-maqasid-metaphysics--g07-c1",
+      "workId": "Maqāṣid al-Falāsifa",
+      "edition": "Dunyā 1961",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact Dunyā 1961 page/section for the metaphysics division and necessary/possible being presentation.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Maqāṣid al-Falāsifa",
+      "stableUrl": "https://plato.stanford.edu/entries/al-ghazali/",
+      "boundaryZh": "Close exact Dunyā 1961 page/section for the metaphysics division and necessary/possible being presentation.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "avicenna-position-reported-by-al-ghazali",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g07-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G07-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G07-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-intro--g08-c1",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Michael E. Marmura trans., 2nd ed. (Brigham Young University Press, 2000)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G08-C1; previous broad locator: Introduction and Four Prefaces; list and method of the twenty discussions",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G08-C1; previous broad locator: Introduction and Four Prefaces; list and method of the twenty discussions",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-conclusion--g08-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G08-C2; previous broad locator: Conclusion: judgment on the twenty discussions and the three doctrines charged with unbelief",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Conclusion.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G08-C2; previous broad locator: Conclusion: judgment on the twenty discussions and the three doctrines charged with unbelief",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d1--g09-c1",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G09-C1; previous broad locator: Discussion 1: refuting the philosophers’ doctrine of the world’s pre-eternity",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_I.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G09-C1; previous broad locator: Discussion 1: refuting the philosophers’ doctrine of the world’s pre-eternity",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-averroes-d1--g09-c2",
+      "workId": "Tahāfut al-Tahāfut",
+      "edition": "Simon van den Bergh trans., Averroes’ Tahafut al-Tahafut, vol. I (Luzac, 1954)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G09-C2; previous broad locator: First Discussion: response to al-Ghazali on eternity/creation",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Tahāfut",
+      "stableUrl": "https://archive.org/details/in.ernet.dli.2015.460059",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G09-C2; previous broad locator: First Discussion: response to al-Ghazali on eternity/creation",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "averroes-response",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d13--g10-c1",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G10-C1; previous broad locator: Discussion 13: refuting the claim that God does not know temporal particulars",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XIII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G10-C1; previous broad locator: Discussion 13: refuting the claim that God does not know temporal particulars",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d13--g10-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G10-C2; previous broad locator: Discussion 13: refuting the claim that God does not know temporal particulars",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XIII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G10-C2; previous broad locator: Discussion 13: refuting the claim that God does not know temporal particulars",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "avicenna-position-reported-by-al-ghazali",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d20--g11-c1",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G11-C1; previous broad locator: Discussion 20: refuting denial of bodily resurrection, bodily pleasures, and pains",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XX.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G11-C1; previous broad locator: Discussion 20: refuting denial of bodily resurrection, bodily pleasures, and pains",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d20--g11-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G11-C2; previous broad locator: Discussion 20: refuting denial of bodily resurrection, bodily pleasures, and pains",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XX.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G11-C2; previous broad locator: Discussion 20: refuting denial of bodily resurrection, bodily pleasures, and pains",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d17--g11-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G11-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XVII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G11-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d17--g12-c1",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G12-C1; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XVII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G12-C1; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d17--g12-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G12-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XVII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G12-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-causality--g13-c1",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "SEP, Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G13-C1; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G13-C1; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-griffel-d17--g13-c1",
+      "workId": "Frank Griffel, Al-Ghazali’s Philosophical Theology",
+      "edition": "Oxford University Press, 2009",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G13-C1; previous broad locator: chapter 6, “The Seventeenth Discussion of The Incoherence of the Philosophers,” pp. 147–173",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, Al-Ghazali’s Philosophical Theology",
+      "stableUrl": "https://academic.oup.com/book/27461/chapter-abstract/197349992",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G13-C1; previous broad locator: chapter 6, “The Seventeenth Discussion of The Incoherence of the Philosophers,” pp. 147–173",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d17--g13-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G13-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XVII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G13-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-causality--g13-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "SEP, Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G13-C2; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G13-C2; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-averroes-d17--g14-c1",
+      "workId": "Tahāfut al-Tahāfut",
+      "edition": "van den Bergh 1954, vol. I",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G14-C1; previous broad locator: Seventeenth Discussion: response on cause, effect, knowledge, and miracles",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Tahāfut",
+      "stableUrl": "https://archive.org/details/in.ernet.dli.2015.460059",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G14-C1; previous broad locator: Seventeenth Discussion: response on cause, effect, knowledge, and miracles",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "averroes-response",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-causality--g14-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "SEP, Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: section 7, especially 7.2–7.4 on Discussion 17 and multiple causal models",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-averroes-d17--g14-c2",
+      "workId": "Tahāfut al-Tahāfut",
+      "edition": "van den Bergh 1954, vol. I",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: Seventeenth Discussion: response on cause, effect, knowledge, and miracles",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Tahāfut",
+      "stableUrl": "https://archive.org/details/in.ernet.dli.2015.460059",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: Seventeenth Discussion: response on cause, effect, knowledge, and miracles",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "averroes-response",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-tahafut-d17--g14-c2",
+      "workId": "Tahāfut al-Falāsifa",
+      "edition": "Marmura 2000, 2nd ed.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Tahāfut al-Falāsifa",
+      "stableUrl": "https://www.ghazali.org/books/tf/Problem_XVII.htm",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G14-C2; previous broad locator: Discussion 17, especially opening thesis and the two approaches under the second position",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-ihya-knowledge--g15-c1",
+      "workId": "Iḥyāʾ ʿUlūm al-Dīn",
+      "edition": "Kenneth Honerkamp trans., The Book of Knowledge (Fons Vitae, 2015)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G15-C1; previous broad locator: Iḥyāʾ, Book 1: Kitāb al-ʿIlm (The Book of Knowledge)",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iḥyāʾ ʿUlūm al-Dīn",
+      "stableUrl": "https://www.ghazali.org/ihya/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G15-C1; previous broad locator: Iḥyāʾ, Book 1: Kitāb al-ʿIlm (The Book of Knowledge)",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-ihya-knowledge--g15-c2",
+      "workId": "Iḥyāʾ ʿUlūm al-Dīn",
+      "edition": "Kenneth Honerkamp trans., The Book of Knowledge (Fons Vitae, 2015)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G15-C2; previous broad locator: Iḥyāʾ, Book 1: Kitāb al-ʿIlm (The Book of Knowledge)",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iḥyāʾ ʿUlūm al-Dīn",
+      "stableUrl": "https://www.ghazali.org/ihya/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G15-C2; previous broad locator: Iḥyāʾ, Book 1: Kitāb al-ʿIlm (The Book of Knowledge)",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-sep-works--g15-c2",
+      "workId": "Frank Griffel, “al-Ghazali”",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2020; Winter 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G15-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Frank Griffel, “al-Ghazali”",
+      "stableUrl": "https://plato.stanford.edu/archives/win2022/entries/al-ghazali/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G15-C2; previous broad locator: sections 1–6: life, cosmology, ethics, and relation to philosophy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-ihya-heart--g16-c1",
+      "workId": "Iḥyāʾ ʿUlūm al-Dīn",
+      "edition": "Walter James Skellie trans., The Marvels of the Heart (Fons Vitae, 2010)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G16-C1; previous broad locator: Iḥyāʾ, Book 21: Sharḥ ʿAjāʾib al-Qalb (Marvels of the Heart)",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iḥyāʾ ʿUlūm al-Dīn",
+      "stableUrl": "https://www.ghazali.org/ihya/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G16-C1; previous broad locator: Iḥyāʾ, Book 21: Sharḥ ʿAjāʾib al-Qalb (Marvels of the Heart)",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-ihya-intention--g16-c1",
+      "workId": "Iḥyāʾ ʿUlūm al-Dīn",
+      "edition": "standard book division; Arabic edition control required at packaging",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact page/section in a named Arabic edition or named translation for Iḥyāʾ, Book 37: Kitāb al-Niyya wa-l-Ikhlāṣ wa-l-Ṣidq.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iḥyāʾ ʿUlūm al-Dīn",
+      "stableUrl": "https://www.ghazali.org/ihya/",
+      "boundaryZh": "Close the exact page/section in a named Arabic edition or named translation for Iḥyāʾ, Book 37: Kitāb al-Niyya wa-l-Ikhlāṣ wa-l-Ṣidq.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    },
+    {
+      "id": "al-ghazali--src-ihya-tawhid--g16-c2",
+      "workId": "Iḥyāʾ ʿUlūm al-Dīn",
+      "edition": "David Burrell trans., Faith in Divine Unity and Trust in Divine Providence (Fons Vitae, 2001)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific fixed-edition page or stable passage for G16-C2; previous broad locator: Iḥyāʾ, Book 35: Kitāb al-Tawḥīd wa-l-Tawakkul",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iḥyāʾ ʿUlūm al-Dīn",
+      "stableUrl": "https://www.ghazali.org/ihya/",
+      "boundaryZh": "Close a claim-specific fixed-edition page or stable passage for G16-C2; previous broad locator: Iḥyāʾ, Book 35: Kitāb al-Tawḥīd wa-l-Tawakkul",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "al-ghazali-primary",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "al-ghazali-philosophy-critique-practice",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "阿尔·加扎里：哲学批判、知识与宗教实践",
+      "lessonIds": [
+        "al-ghazali--ghazali-01",
+        "al-ghazali--ghazali-02",
+        "al-ghazali--ghazali-03",
+        "al-ghazali--ghazali-04",
+        "al-ghazali--ghazali-05",
+        "al-ghazali--ghazali-06",
+        "al-ghazali--ghazali-07",
+        "al-ghazali--ghazali-08",
+        "al-ghazali--ghazali-09",
+        "al-ghazali--ghazali-10",
+        "al-ghazali--ghazali-11",
+        "al-ghazali--ghazali-12",
+        "al-ghazali--ghazali-13",
+        "al-ghazali--ghazali-14",
+        "al-ghazali--ghazali-15",
+        "al-ghazali--ghazali-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Al-Ghazali",
+        "nameZh": "阿尔·加扎里",
+        "sourceRouteId": "al-ghazali-philosophy-critique-practice"
+      },
+      "summary": "先分声音：说明、判断与回应"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "al-ghazali--ghazali-01",
+      "order": 1,
+      "title": "先分声音：说明、判断与回应",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "先分声音：说明、判断与回应",
+      "coreExplanation": "阅读加扎里必须区分他对自身求知道路的叙述、他对哲学家的判决，以及后世解释。一本书中的“哲学家说”不能自动改写为作者最终立场。\n\n《意图》服务于理解哲学家的学说对象，《矛盾》才逐项展开批判；两书的功能差异阻止“说明即赞同”。",
+      "sections": [
+        {
+          "heading": "先分声音：说明、判断与回应",
+          "paragraphs": [
+            "阅读加扎里必须区分他对自身求知道路的叙述、他对哲学家的判决，以及后世解释。一本书中的“哲学家说”不能自动改写为作者最终立场。",
+            "《意图》服务于理解哲学家的学说对象，《矛盾》才逐项展开批判；两书的功能差异阻止“说明即赞同”。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g01-c1",
+            "al-ghazali--src-sep-works--g01-c1",
+            "al-ghazali--src-munqidh-philosophers--g01-c2",
+            "al-ghazali--src-tahafut-intro--g01-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G01-C1",
+        "al-ghazali--G01-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G01-Q1",
+        "al-ghazali--G01-Q2",
+        "al-ghazali--G01-Q3",
+        "al-ghazali--G01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-02",
+      "sourceIds": [
+        "al-ghazali--src-munqidh-prologue--g01-c1",
+        "al-ghazali--src-sep-works--g01-c1",
+        "al-ghazali--src-munqidh-philosophers--g01-c2",
+        "al-ghazali--src-tahafut-intro--g01-c2"
+      ],
+      "essentialQuestion": "先分声音：说明、判断与回应",
+      "initialFocusId": "al-ghazali--ghazali-01-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-02",
+      "order": 2,
+      "title": "确定知识与模仿的不足",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "确定知识与模仿的不足",
+      "coreExplanation": "《迷途指津》的出发点是寻求不容怀疑的知识，并检验从权威和习惯继承的信念是否只是 taqlīd。\n\n这种自传式叙述是一种有目的的知识谱系，不应被当作没有修辞选择的逐日记录。",
+      "sections": [
+        {
+          "heading": "确定知识与模仿的不足",
+          "paragraphs": [
+            "《迷途指津》的出发点是寻求不容怀疑的知识，并检验从权威和习惯继承的信念是否只是 taqlīd。",
+            "这种自传式叙述是一种有目的的知识谱系，不应被当作没有修辞选择的逐日记录。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g02-c1",
+            "al-ghazali--src-sep-works--g02-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G02-C1",
+        "al-ghazali--G02-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G02-Q1",
+        "al-ghazali--G02-Q2",
+        "al-ghazali--G02-Q3",
+        "al-ghazali--G02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-03",
+      "sourceIds": [
+        "al-ghazali--src-munqidh-prologue--g02-c1",
+        "al-ghazali--src-sep-works--g02-c2"
+      ],
+      "essentialQuestion": "确定知识与模仿的不足",
+      "initialFocusId": "al-ghazali--ghazali-02-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-03",
+      "order": 3,
+      "title": "感官、理性与怀疑危机",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "感官、理性与怀疑危机",
+      "coreExplanation": "感官可能被更强的判断纠正；梦的例子又让理性确信面对可能的更高尺度。危机针对知识保证，而非简单宣布一切同样虚假。\n\n把这一段直接等同笛卡尔方法怀疑会遮蔽其神学与灵性语境；比较可以进行，但声音必须分开。",
+      "sections": [
+        {
+          "heading": "感官、理性与怀疑危机",
+          "paragraphs": [
+            "感官可能被更强的判断纠正；梦的例子又让理性确信面对可能的更高尺度。危机针对知识保证，而非简单宣布一切同样虚假。",
+            "把这一段直接等同笛卡尔方法怀疑会遮蔽其神学与灵性语境；比较可以进行，但声音必须分开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-skepticism--g03-c1",
+            "al-ghazali--src-sep-works--g03-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G03-C1",
+        "al-ghazali--G03-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G03-Q1",
+        "al-ghazali--G03-Q2",
+        "al-ghazali--G03-Q3",
+        "al-ghazali--G03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-04",
+      "sourceIds": [
+        "al-ghazali--src-munqidh-skepticism--g03-c1",
+        "al-ghazali--src-sep-works--g03-c2"
+      ],
+      "essentialQuestion": "感官、理性与怀疑危机",
+      "initialFocusId": "al-ghazali--ghazali-03-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-04",
+      "order": 4,
+      "title": "光与确定性的恢复",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "光与确定性的恢复",
+      "coreExplanation": "加扎里说怀疑并非由排列一个形式证明解除，而是由真主投入胸中的光恢复必要真理的可信性。\n\n“光”可以被解释为认识论与宗教经验的交点；现代解释不能把它缩成纯心理事件或无论证特权。",
+      "sections": [
+        {
+          "heading": "光与确定性的恢复",
+          "paragraphs": [
+            "加扎里说怀疑并非由排列一个形式证明解除，而是由真主投入胸中的光恢复必要真理的可信性。",
+            "“光”可以被解释为认识论与宗教经验的交点；现代解释不能把它缩成纯心理事件或无论证特权。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-light--g04-c1",
+            "al-ghazali--src-sep-works--g04-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G04-C1",
+        "al-ghazali--G04-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G04-Q1",
+        "al-ghazali--G04-Q2",
+        "al-ghazali--G04-Q3",
+        "al-ghazali--G04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-05",
+      "sourceIds": [
+        "al-ghazali--src-munqidh-light--g04-c1",
+        "al-ghazali--src-sep-works--g04-c2"
+      ],
+      "essentialQuestion": "光与确定性的恢复",
+      "initialFocusId": "al-ghazali--ghazali-04-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-05",
+      "order": 5,
+      "title": "四类求道者与哲学学科",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "四类求道者与哲学学科",
+      "coreExplanation": "《迷途指津》把求道者分为神学家、哲学家、Bāṭinites 与苏菲，并逐一考察其知识主张。\n\n哲学又分数学、逻辑、自然学、神学、政治与伦理；批判不是把所有学科作同一裁决。",
+      "sections": [
+        {
+          "heading": "四类求道者与哲学学科",
+          "paragraphs": [
+            "《迷途指津》把求道者分为神学家、哲学家、Bāṭinites 与苏菲，并逐一考察其知识主张。",
+            "哲学又分数学、逻辑、自然学、神学、政治与伦理；批判不是把所有学科作同一裁决。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-seekers--g05-c1",
+            "al-ghazali--src-munqidh-philosophers--g05-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G05-C1",
+        "al-ghazali--G05-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G05-Q1",
+        "al-ghazali--G05-Q2",
+        "al-ghazali--G05-Q3",
+        "al-ghazali--G05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-06",
+      "sourceIds": [
+        "al-ghazali--src-munqidh-seekers--g05-c1",
+        "al-ghazali--src-munqidh-philosophers--g05-c2"
+      ],
+      "essentialQuestion": "四类求道者与哲学学科",
+      "initialFocusId": "al-ghazali--ghazali-05-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-06",
+      "order": 6,
+      "title": "《哲学家的意图》：逻辑说明不是归顺",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "《哲学家的意图》：逻辑说明不是归顺",
+      "coreExplanation": "《意图》的逻辑部分以哲学家的术语呈现概念、判断与推理；这一教学性说明属于被准确掌握的对象。\n\n加扎里强调先理解再反驳；逻辑工具的可用性与某些形而上学结论的错误可以同时成立。",
+      "sections": [
+        {
+          "heading": "《哲学家的意图》：逻辑说明不是归顺",
+          "paragraphs": [
+            "《意图》的逻辑部分以哲学家的术语呈现概念、判断与推理；这一教学性说明属于被准确掌握的对象。",
+            "加扎里强调先理解再反驳；逻辑工具的可用性与某些形而上学结论的错误可以同时成立。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-logic--g06-c1",
+            "al-ghazali--src-munqidh-philosophers--g06-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G06-C1",
+        "al-ghazali--G06-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G06-Q1",
+        "al-ghazali--G06-Q2",
+        "al-ghazali--G06-Q3",
+        "al-ghazali--G06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-07",
+      "sourceIds": [
+        "al-ghazali--src-maqasid-logic--g06-c1",
+        "al-ghazali--src-munqidh-philosophers--g06-c2"
+      ],
+      "essentialQuestion": "《哲学家的意图》：逻辑说明不是归顺",
+      "initialFocusId": "al-ghazali--ghazali-06-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-07",
+      "order": 7,
+      "title": "《意图》：阿维森纳形而上学作为批判对象",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "《意图》：阿维森纳形而上学作为批判对象",
+      "coreExplanation": "必要者、可能者与由第一原则展开的世界秩序在《意图》中作为 falsafa 的形而上学对象被说明；此处 voice 是被报告的阿维森纳立场。\n\n现代研究指出加扎里大量吸收哲学概念工具，但吸收不取消其在《矛盾》中对特定结论的反对。",
+      "sections": [
+        {
+          "heading": "《意图》：阿维森纳形而上学作为批判对象",
+          "paragraphs": [
+            "必要者、可能者与由第一原则展开的世界秩序在《意图》中作为 falsafa 的形而上学对象被说明；此处 voice 是被报告的阿维森纳立场。",
+            "现代研究指出加扎里大量吸收哲学概念工具，但吸收不取消其在《矛盾》中对特定结论的反对。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-metaphysics--g07-c1",
+            "al-ghazali--src-sep-works--g07-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G07-C1",
+        "al-ghazali--G07-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G07-Q1",
+        "al-ghazali--G07-Q2",
+        "al-ghazali--G07-Q3",
+        "al-ghazali--G07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-08",
+      "sourceIds": [
+        "al-ghazali--src-maqasid-metaphysics--g07-c1",
+        "al-ghazali--src-sep-works--g07-c2"
+      ],
+      "essentialQuestion": "《意图》：阿维森纳形而上学作为批判对象",
+      "initialFocusId": "al-ghazali--ghazali-07-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-08",
+      "order": 8,
+      "title": "《矛盾》的方法：二十项而非反理性口号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "《矛盾》的方法：二十项而非反理性口号",
+      "coreExplanation": "《矛盾》导言规定论战对象与方法，并把批判编成二十项讨论；反驳针对具体证明和结论，不是取消论证本身。\n\n结论区分三项被判为 kufr 的学说与其余错误/异端问题，不能把二十项全部压成同一法律等级。",
+      "sections": [
+        {
+          "heading": "《矛盾》的方法：二十项而非反理性口号",
+          "paragraphs": [
+            "《矛盾》导言规定论战对象与方法，并把批判编成二十项讨论；反驳针对具体证明和结论，不是取消论证本身。",
+            "结论区分三项被判为 kufr 的学说与其余错误/异端问题，不能把二十项全部压成同一法律等级。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-intro--g08-c1",
+            "al-ghazali--src-tahafut-conclusion--g08-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G08-C1",
+        "al-ghazali--G08-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G08-Q1",
+        "al-ghazali--G08-Q2",
+        "al-ghazali--G08-Q3",
+        "al-ghazali--G08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-09",
+      "sourceIds": [
+        "al-ghazali--src-tahafut-intro--g08-c1",
+        "al-ghazali--src-tahafut-conclusion--g08-c2"
+      ],
+      "essentialQuestion": "《矛盾》的方法：二十项而非反理性口号",
+      "initialFocusId": "al-ghazali--ghazali-08-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-09",
+      "order": 9,
+      "title": "讨论一：世界永恒与创始",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "讨论一：世界永恒与创始",
+      "coreExplanation": "Discussion 1 反驳哲学家关于世界前永恒的证明，追问从永恒意志到有始世界是否真有逻辑不可能。\n\n阿威罗伊在《矛盾之矛盾》的第一讨论反过来维护哲学论证并批评加扎里的选择性表述；这是回应声部。",
+      "sections": [
+        {
+          "heading": "讨论一：世界永恒与创始",
+          "paragraphs": [
+            "Discussion 1 反驳哲学家关于世界前永恒的证明，追问从永恒意志到有始世界是否真有逻辑不可能。",
+            "阿威罗伊在《矛盾之矛盾》的第一讨论反过来维护哲学论证并批评加扎里的选择性表述；这是回应声部。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d1--g09-c1",
+            "al-ghazali--src-averroes-d1--g09-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G09-C1",
+        "al-ghazali--G09-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G09-Q1",
+        "al-ghazali--G09-Q2",
+        "al-ghazali--G09-Q3",
+        "al-ghazali--G09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-10",
+      "sourceIds": [
+        "al-ghazali--src-tahafut-d1--g09-c1",
+        "al-ghazali--src-averroes-d1--g09-c2"
+      ],
+      "essentialQuestion": "讨论一：世界永恒与创始",
+      "initialFocusId": "al-ghazali--ghazali-09-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-10",
+      "order": 10,
+      "title": "讨论十三：神知普遍与殊相",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "讨论十三：神知普遍与殊相",
+      "coreExplanation": "Discussion 13 针对神只以普遍方式认识 temporal particulars 的哲学主张；加扎里认为这种限制不能维护神的全知。\n\n被批评的对象属于 Avicennian/falāsifa 知识论框架；路线不把对象陈述冒充加扎里赞同。",
+      "sections": [
+        {
+          "heading": "讨论十三：神知普遍与殊相",
+          "paragraphs": [
+            "Discussion 13 针对神只以普遍方式认识 temporal particulars 的哲学主张；加扎里认为这种限制不能维护神的全知。",
+            "被批评的对象属于 Avicennian/falāsifa 知识论框架；路线不把对象陈述冒充加扎里赞同。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c1",
+            "al-ghazali--src-tahafut-d13--g10-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G10-C1",
+        "al-ghazali--G10-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G10-Q1",
+        "al-ghazali--G10-Q2",
+        "al-ghazali--G10-Q3",
+        "al-ghazali--G10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-11",
+      "sourceIds": [
+        "al-ghazali--src-tahafut-d13--g10-c1",
+        "al-ghazali--src-tahafut-d13--g10-c2"
+      ],
+      "essentialQuestion": "讨论十三：神知普遍与殊相",
+      "initialFocusId": "al-ghazali--ghazali-10-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-11",
+      "order": 11,
+      "title": "讨论二十：身体复活与来世",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "讨论二十：身体复活与来世",
+      "coreExplanation": "Discussion 20 反驳否认身体复活及身体快乐痛苦的立场，并维护启示所述复活的可能。\n\nDiscussion 20 回指因果讨论所允许的变化路径，说明因果与复活两课不能彼此孤立。",
+      "sections": [
+        {
+          "heading": "讨论二十：身体复活与来世",
+          "paragraphs": [
+            "Discussion 20 反驳否认身体复活及身体快乐痛苦的立场，并维护启示所述复活的可能。",
+            "Discussion 20 回指因果讨论所允许的变化路径，说明因果与复活两课不能彼此孤立。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c1",
+            "al-ghazali--src-tahafut-d20--g11-c2",
+            "al-ghazali--src-tahafut-d17--g11-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G11-C1",
+        "al-ghazali--G11-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G11-Q1",
+        "al-ghazali--G11-Q2",
+        "al-ghazali--G11-Q3",
+        "al-ghazali--G11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-12",
+      "sourceIds": [
+        "al-ghazali--src-tahafut-d20--g11-c1",
+        "al-ghazali--src-tahafut-d20--g11-c2",
+        "al-ghazali--src-tahafut-d17--g11-c2"
+      ],
+      "essentialQuestion": "讨论二十：身体复活与来世",
+      "initialFocusId": "al-ghazali--ghazali-11-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-12",
+      "order": 12,
+      "title": "讨论十七：习惯联系与非必然性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "讨论十七：习惯联系与非必然性",
+      "coreExplanation": "Discussion 17 开篇否认通常称为原因与结果的两事之间具有由其自身保证的必要联系；棉花与火例用于区分共现和必然。\n\n论证目标也包括为先知奇迹保留可能性；这不是把每次经验预期都判为无意义。",
+      "sections": [
+        {
+          "heading": "讨论十七：习惯联系与非必然性",
+          "paragraphs": [
+            "Discussion 17 开篇否认通常称为原因与结果的两事之间具有由其自身保证的必要联系；棉花与火例用于区分共现和必然。",
+            "论证目标也包括为先知奇迹保留可能性；这不是把每次经验预期都判为无意义。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c1",
+            "al-ghazali--src-tahafut-d17--g12-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G12-C1",
+        "al-ghazali--G12-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G12-Q1",
+        "al-ghazali--G12-Q2",
+        "al-ghazali--G12-Q3",
+        "al-ghazali--G12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-13",
+      "sourceIds": [
+        "al-ghazali--src-tahafut-d17--g12-c1",
+        "al-ghazali--src-tahafut-d17--g12-c2"
+      ],
+      "essentialQuestion": "讨论十七：习惯联系与非必然性",
+      "initialFocusId": "al-ghazali--ghazali-12-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-13",
+      "order": 13,
+      "title": "因果解释：偶因论不是唯一无争议读法",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "因果解释：偶因论不是唯一无争议读法",
+      "coreExplanation": "现代研究把 Discussion 17 分成多个 position/approach，并指出文本提供偶因论路径，也讨论与次级因果相容的模型。\n\n将非必然性直接等同“没有因果知识”会越过文本；加扎里保留习惯秩序、预期与神知框架。",
+      "sections": [
+        {
+          "heading": "因果解释：偶因论不是唯一无争议读法",
+          "paragraphs": [
+            "现代研究把 Discussion 17 分成多个 position/approach，并指出文本提供偶因论路径，也讨论与次级因果相容的模型。",
+            "将非必然性直接等同“没有因果知识”会越过文本；加扎里保留习惯秩序、预期与神知框架。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g13-c1",
+            "al-ghazali--src-griffel-d17--g13-c1",
+            "al-ghazali--src-tahafut-d17--g13-c2",
+            "al-ghazali--src-sep-causality--g13-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G13-C1",
+        "al-ghazali--G13-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G13-Q1",
+        "al-ghazali--G13-Q2",
+        "al-ghazali--G13-Q3",
+        "al-ghazali--G13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-14",
+      "sourceIds": [
+        "al-ghazali--src-sep-causality--g13-c1",
+        "al-ghazali--src-griffel-d17--g13-c1",
+        "al-ghazali--src-tahafut-d17--g13-c2",
+        "al-ghazali--src-sep-causality--g13-c2"
+      ],
+      "essentialQuestion": "因果解释：偶因论不是唯一无争议读法",
+      "initialFocusId": "al-ghazali--ghazali-13-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-14",
+      "order": 14,
+      "title": "阿威罗伊的回应：知识与原因",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "阿威罗伊的回应：知识与原因",
+      "coreExplanation": "阿威罗伊在第十七讨论回应说，否认事物的因果本性会威胁知识，因为知识涉及把握事物的原因；这是批评者的论证。\n\n现代比较不应把双方压成“科学对宗教”：争论涉及必然、神能、自然本性、奇迹和知识条件。",
+      "sections": [
+        {
+          "heading": "阿威罗伊的回应：知识与原因",
+          "paragraphs": [
+            "阿威罗伊在第十七讨论回应说，否认事物的因果本性会威胁知识，因为知识涉及把握事物的原因；这是批评者的论证。",
+            "现代比较不应把双方压成“科学对宗教”：争论涉及必然、神能、自然本性、奇迹和知识条件。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d17--g14-c1",
+            "al-ghazali--src-sep-causality--g14-c2",
+            "al-ghazali--src-averroes-d17--g14-c2",
+            "al-ghazali--src-tahafut-d17--g14-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G14-C1",
+        "al-ghazali--G14-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G14-Q1",
+        "al-ghazali--G14-Q2",
+        "al-ghazali--G14-Q3",
+        "al-ghazali--G14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-15",
+      "sourceIds": [
+        "al-ghazali--src-averroes-d17--g14-c1",
+        "al-ghazali--src-sep-causality--g14-c2",
+        "al-ghazali--src-averroes-d17--g14-c2",
+        "al-ghazali--src-tahafut-d17--g14-c2"
+      ],
+      "essentialQuestion": "阿威罗伊的回应：知识与原因",
+      "initialFocusId": "al-ghazali--ghazali-14-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-15",
+      "order": 15,
+      "title": "《复兴》：知识以行动与品格为目的",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "《复兴》：知识以行动与品格为目的",
+      "coreExplanation": "《复兴》第一书区分知识的地位、义务与危险，并把有益知识指向敬拜和行动，而非只积累争胜材料。\n\n这使哲学批判落入实践尺度：真正问题不仅是命题真假，也包括知识如何塑造欲望、意向和生活。",
+      "sections": [
+        {
+          "heading": "《复兴》：知识以行动与品格为目的",
+          "paragraphs": [
+            "《复兴》第一书区分知识的地位、义务与危险，并把有益知识指向敬拜和行动，而非只积累争胜材料。",
+            "这使哲学批判落入实践尺度：真正问题不仅是命题真假，也包括知识如何塑造欲望、意向和生活。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c1",
+            "al-ghazali--src-ihya-knowledge--g15-c2",
+            "al-ghazali--src-sep-works--g15-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G15-C1",
+        "al-ghazali--G15-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G15-Q1",
+        "al-ghazali--G15-Q2",
+        "al-ghazali--G15-Q3",
+        "al-ghazali--G15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "al-ghazali--ghazali-16",
+      "sourceIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c1",
+        "al-ghazali--src-ihya-knowledge--g15-c2",
+        "al-ghazali--src-sep-works--g15-c2"
+      ],
+      "essentialQuestion": "《复兴》：知识以行动与品格为目的",
+      "initialFocusId": "al-ghazali--ghazali-15-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "al-ghazali--ghazali-16",
+      "order": 16,
+      "title": "心、意向与托靠：哲学成为练习",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "心、意向与托靠：哲学成为练习",
+      "coreExplanation": "《心之奇观》把心视为认知与道德整治的中心；《意向、虔诚与真诚》又要求行动由 niyya 和 ikhlāṣ 定向。\n\n《独一与托靠》把因果实践转化为依赖关系的训练：使用手段与承认真主为最终依靠可以并存，不能把 tawakkul 写成拒绝一切行动。",
+      "sections": [
+        {
+          "heading": "心、意向与托靠：哲学成为练习",
+          "paragraphs": [
+            "《心之奇观》把心视为认知与道德整治的中心；《意向、虔诚与真诚》又要求行动由 niyya 和 ikhlāṣ 定向。",
+            "《独一与托靠》把因果实践转化为依赖关系的训练：使用手段与承认真主为最终依靠可以并存，不能把 tawakkul 写成拒绝一切行动。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-heart--g16-c1",
+            "al-ghazali--src-ihya-intention--g16-c1",
+            "al-ghazali--src-ihya-tawhid--g16-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "al-ghazali--G16-C1",
+        "al-ghazali--G16-C2"
+      ],
+      "checkIds": [
+        "al-ghazali--G16-Q1",
+        "al-ghazali--G16-Q2",
+        "al-ghazali--G16-Q3",
+        "al-ghazali--G16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "al-ghazali--src-ihya-heart--g16-c1",
+        "al-ghazali--src-ihya-intention--g16-c1",
+        "al-ghazali--src-ihya-tawhid--g16-c2"
+      ],
+      "essentialQuestion": "心、意向与托靠：哲学成为练习",
+      "initialFocusId": "al-ghazali--ghazali-16-title",
+      "routeId": "al-ghazali-philosophy-critique-practice",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "al-ghazali--G01-Q1",
+      "kind": "binary",
+      "prompt": "为何先分声音？",
+      "targetNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G01-Q1-1",
+          "text": "同一文本可先呈现对手再作判断。",
+          "feedback": "正确项“同一文本可先呈现对手再作判断。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：对象与判断必须分栏。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g01-c1",
+            "al-ghazali--src-sep-works--g01-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G01-Q1-2",
+          "text": "凡由加扎里写下的句子都代表最终赞同。",
+          "feedback": "错误项“凡由加扎里写下的句子都代表最终赞同。”混淆了当前对象或声音：对象与判断必须分栏。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g01-c1",
+            "al-ghazali--src-sep-works--g01-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G01-Q1-1",
+      "misconceptionId": "al-ghazali--G01-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g01-c1",
+        "al-ghazali--src-sep-works--g01-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G01-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G01-Q2",
+      "kind": "binary",
+      "prompt": "现代研究应怎样进入？",
+      "targetNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G01-Q2-1",
+          "text": "作为加扎里原话。",
+          "feedback": "错误项“作为加扎里原话。”混淆了当前对象或声音：现代重构不能替代原典。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g01-c1",
+            "al-ghazali--src-sep-works--g01-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G01-Q2-2",
+          "text": "作为独立解释声部。",
+          "feedback": "正确项“作为独立解释声部。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：现代重构不能替代原典。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g01-c1",
+            "al-ghazali--src-sep-works--g01-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G01-Q2-2",
+      "misconceptionId": "al-ghazali--G01-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g01-c1",
+        "al-ghazali--src-sep-works--g01-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G01-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G01-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G01-Q3",
+      "kind": "binary",
+      "prompt": "《意图》的说明是否自动等于赞同？",
+      "targetNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G01-Q3-1",
+          "text": "不等于，须等待判断层。",
+          "feedback": "正确项“不等于，须等待判断层。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：书写功能不同。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g01-c2",
+            "al-ghazali--src-tahafut-intro--g01-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G01-Q3-2",
+          "text": "等于，说明即皈依该体系。",
+          "feedback": "错误项“等于，说明即皈依该体系。”混淆了当前对象或声音：书写功能不同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g01-c2",
+            "al-ghazali--src-tahafut-intro--g01-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G01-Q3-1",
+      "misconceptionId": "al-ghazali--G01-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g01-c2",
+        "al-ghazali--src-tahafut-intro--g01-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G01-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-01",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G01-Q4",
+      "kind": "binary",
+      "prompt": "《矛盾》如何组织批判？",
+      "targetNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G01-Q4-1",
+          "text": "拒绝列出任何论题。",
+          "feedback": "错误项“拒绝列出任何论题。”混淆了当前对象或声音：Discussion 编号是结构。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g01-c2",
+            "al-ghazali--src-tahafut-intro--g01-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G01-Q4-2",
+          "text": "按具体讨论逐项检验。",
+          "feedback": "正确项“按具体讨论逐项检验。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：Discussion 编号是结构。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g01-c2",
+            "al-ghazali--src-tahafut-intro--g01-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G01-Q4-2",
+      "misconceptionId": "al-ghazali--G01-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g01-c2",
+        "al-ghazali--src-tahafut-intro--g01-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G01-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G01-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-01",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G02-Q1",
+      "kind": "binary",
+      "prompt": "求知起点是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G02-Q1-1",
+          "text": "检验何种认知真正确定。",
+          "feedback": "正确项“检验何种认知真正确定。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：确定性不等于声望。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g02-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G02-Q1-2",
+          "text": "积累未经检验的权威数量。",
+          "feedback": "错误项“积累未经检验的权威数量。”混淆了当前对象或声音：确定性不等于声望。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g02-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G02-Q1-1",
+      "misconceptionId": "al-ghazali--G02-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g02-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G02-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-02",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G02-Q2",
+      "kind": "binary",
+      "prompt": "taqlīd 的问题是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G02-Q2-1",
+          "text": "它已经提供不可动摇证明。",
+          "feedback": "错误项“它已经提供不可动摇证明。”混淆了当前对象或声音：继承与证明须区分。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g02-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G02-Q2-2",
+          "text": "继承信念尚未说明其确定根据。",
+          "feedback": "正确项“继承信念尚未说明其确定根据。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：继承与证明须区分。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-prologue--g02-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G02-Q2-2",
+      "misconceptionId": "al-ghazali--G02-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-prologue--g02-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G02-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G02-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-02",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G02-Q3",
+      "kind": "binary",
+      "prompt": "现代解释怎样限定自传？",
+      "targetNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G02-Q3-1",
+          "text": "把它视为组织过的求知道路。",
+          "feedback": "正确项“把它视为组织过的求知道路。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：体裁影响证据用途。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g02-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G02-Q3-2",
+          "text": "把每句都当作无修辞日记。",
+          "feedback": "错误项“把每句都当作无修辞日记。”混淆了当前对象或声音：体裁影响证据用途。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g02-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G02-Q3-1",
+      "misconceptionId": "al-ghazali--G02-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g02-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G02-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-02",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G02-Q4",
+      "kind": "binary",
+      "prompt": "此限定是否否认作品价值？",
+      "targetNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G02-Q4-1",
+          "text": "否认全部哲学内容。",
+          "feedback": "错误项“否认全部哲学内容。”混淆了当前对象或声音：边界不是删除。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g02-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G02-Q4-2",
+          "text": "不否认，只限制历史推断。",
+          "feedback": "正确项“不否认，只限制历史推断。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：边界不是删除。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g02-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G02-Q4-2",
+      "misconceptionId": "al-ghazali--G02-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g02-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G02-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G02-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-02",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G03-Q1",
+      "kind": "binary",
+      "prompt": "感官为何受挑战？",
+      "targetNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G03-Q1-1",
+          "text": "更强判断可揭示感官误差。",
+          "feedback": "正确项“更强判断可揭示感官误差。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：挑战保证而非抹除输入。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-skepticism--g03-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G03-Q1-2",
+          "text": "因为感官从不提供任何信息。",
+          "feedback": "错误项“因为感官从不提供任何信息。”混淆了当前对象或声音：挑战保证而非抹除输入。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-skepticism--g03-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G03-Q1-1",
+      "misconceptionId": "al-ghazali--G03-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-skepticism--g03-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G03-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-03",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G03-Q2",
+      "kind": "binary",
+      "prompt": "梦例怎样推进？",
+      "targetNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G03-Q2-1",
+          "text": "证明梦中每事都现实。",
+          "feedback": "错误项“证明梦中每事都现实。”混淆了当前对象或声音：它提出尺度问题。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-skepticism--g03-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G03-Q2-2",
+          "text": "设想理性也可能被更高状态校正。",
+          "feedback": "正确项“设想理性也可能被更高状态校正。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：它提出尺度问题。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-skepticism--g03-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G03-Q2-2",
+      "misconceptionId": "al-ghazali--G03-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-skepticism--g03-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G03-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G03-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-03",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G03-Q3",
+      "kind": "binary",
+      "prompt": "能否直接称为笛卡尔主义？",
+      "targetNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G03-Q3-1",
+          "text": "不能，只能作有限比较。",
+          "feedback": "正确项“不能，只能作有限比较。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：跨时代标签需边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g03-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G03-Q3-2",
+          "text": "能，两者完全同一。",
+          "feedback": "错误项“能，两者完全同一。”混淆了当前对象或声音：跨时代标签需边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g03-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G03-Q3-1",
+      "misconceptionId": "al-ghazali--G03-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g03-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G03-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-03",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G03-Q4",
+      "kind": "binary",
+      "prompt": "怀疑结局是否永久悬置？",
+      "targetNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G03-Q4-1",
+          "text": "是，确定知识永不可能。",
+          "feedback": "错误项“是，确定知识永不可能。”混淆了当前对象或声音：后续结构限制结论。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g03-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G03-Q4-2",
+          "text": "不是，作品随后叙述恢复。",
+          "feedback": "正确项“不是，作品随后叙述恢复。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：后续结构限制结论。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g03-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G03-Q4-2",
+      "misconceptionId": "al-ghazali--G03-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g03-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G03-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G03-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-03",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G04-Q1",
+      "kind": "binary",
+      "prompt": "恢复由什么表述？",
+      "targetNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G04-Q1-1",
+          "text": "由投入胸中的光。",
+          "feedback": "正确项“由投入胸中的光。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：原文明确改变保证来源。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-light--g04-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G04-Q1-2",
+          "text": "由更多感官印象自动累积。",
+          "feedback": "错误项“由更多感官印象自动累积。”混淆了当前对象或声音：原文明确改变保证来源。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-light--g04-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G04-Q1-1",
+      "misconceptionId": "al-ghazali--G04-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-light--g04-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G04-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-04",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G04-Q2",
+      "kind": "binary",
+      "prompt": "是否因此否定必要真理？",
+      "targetNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G04-Q2-1",
+          "text": "否定全部理性。",
+          "feedback": "错误项“否定全部理性。”混淆了当前对象或声音：恢复对象正包括必要真理。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-light--g04-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G04-Q2-2",
+          "text": "不否定，恢复其可信性。",
+          "feedback": "正确项“不否定，恢复其可信性。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：恢复对象正包括必要真理。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-light--g04-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G04-Q2-2",
+      "misconceptionId": "al-ghazali--G04-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-light--g04-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G04-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G04-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-04",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G04-Q3",
+      "kind": "binary",
+      "prompt": "现代解释应保留什么？",
+      "targetNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G04-Q3-1",
+          "text": "认识论与宗教语境的交点。",
+          "feedback": "正确项“认识论与宗教语境的交点。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：对象具有文本语境。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g04-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G04-Q3-2",
+          "text": "只保留神经生理标签。",
+          "feedback": "错误项“只保留神经生理标签。”混淆了当前对象或声音：对象具有文本语境。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g04-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G04-Q3-1",
+      "misconceptionId": "al-ghazali--G04-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g04-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G04-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-04",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G04-Q4",
+      "kind": "binary",
+      "prompt": "光是否许可任意信念？",
+      "targetNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G04-Q4-1",
+          "text": "许可所有私人确信。",
+          "feedback": "错误项“许可所有私人确信。”混淆了当前对象或声音：恢复不等于取消辨别。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g04-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G04-Q4-2",
+          "text": "不许可，后文仍检验求道者。",
+          "feedback": "正确项“不许可，后文仍检验求道者。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：恢复不等于取消辨别。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g04-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G04-Q4-2",
+      "misconceptionId": "al-ghazali--G04-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g04-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G04-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G04-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-04",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G05-Q1",
+      "kind": "binary",
+      "prompt": "四类中包括谁？",
+      "targetNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G05-Q1-1",
+          "text": "哲学家与苏菲等四类。",
+          "feedback": "正确项“哲学家与苏菲等四类。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：分类是考察结构。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-seekers--g05-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G05-Q1-2",
+          "text": "只有法学家一类。",
+          "feedback": "错误项“只有法学家一类。”混淆了当前对象或声音：分类是考察结构。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-seekers--g05-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G05-Q1-1",
+      "misconceptionId": "al-ghazali--G05-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-seekers--g05-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G05-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-05",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G05-Q2",
+      "kind": "binary",
+      "prompt": "分类目的是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G05-Q2-1",
+          "text": "宣布四类完全等价。",
+          "feedback": "错误项“宣布四类完全等价。”混淆了当前对象或声音：分类服务判断。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-seekers--g05-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G05-Q2-2",
+          "text": "检验各自通向确定性的主张。",
+          "feedback": "正确项“检验各自通向确定性的主张。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：分类服务判断。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-seekers--g05-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G05-Q2-2",
+      "misconceptionId": "al-ghazali--G05-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-seekers--g05-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G05-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G05-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-05",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G05-Q3",
+      "kind": "binary",
+      "prompt": "是否一概拒绝数学与逻辑？",
+      "targetNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G05-Q3-1",
+          "text": "不是，学科风险和真伪须分别判断。",
+          "feedback": "正确项“不是，学科风险和真伪须分别判断。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：作者明确分类。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g05-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G05-Q3-2",
+          "text": "是，所有推理都同样被禁。",
+          "feedback": "错误项“是，所有推理都同样被禁。”混淆了当前对象或声音：作者明确分类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g05-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G05-Q3-1",
+      "misconceptionId": "al-ghazali--G05-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g05-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G05-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-05",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G05-Q4",
+      "kind": "binary",
+      "prompt": "主要 doctrinal 冲突集中何处？",
+      "targetNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G05-Q4-1",
+          "text": "只在算术运算。",
+          "feedback": "错误项“只在算术运算。”混淆了当前对象或声音：Tahafut 对象限制于特定学说。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g05-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G05-Q4-2",
+          "text": "尤其在形而上学主张。",
+          "feedback": "正确项“尤其在形而上学主张。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：Tahafut 对象限制于特定学说。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g05-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G05-Q4-2",
+      "misconceptionId": "al-ghazali--G05-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g05-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G05-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G05-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-05",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G06-Q1",
+      "kind": "binary",
+      "prompt": "该课谁的体系是对象？",
+      "targetNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G06-Q1-1",
+          "text": "哲学家/阿维森纳传统的逻辑。",
+          "feedback": "正确项“哲学家/阿维森纳传统的逻辑。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：对象声部已标明。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-logic--g06-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G06-Q1-2",
+          "text": "加扎里的最终神学判决。",
+          "feedback": "错误项“加扎里的最终神学判决。”混淆了当前对象或声音：对象声部已标明。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-logic--g06-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G06-Q1-1",
+      "misconceptionId": "al-ghazali--G06-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-logic--g06-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G06-P1"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-06",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G06-Q2",
+      "kind": "binary",
+      "prompt": "为何 source 保持 pending？",
+      "targetNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G06-Q2-1",
+          "text": "因为可随意伪造页码。",
+          "feedback": "错误项“因为可随意伪造页码。”混淆了当前对象或声音：pending 不冒充 verified。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-logic--g06-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G06-Q2-2",
+          "text": "Dunyā 1961 精确页段尚待闭合。",
+          "feedback": "正确项“Dunyā 1961 精确页段尚待闭合。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：pending 不冒充 verified。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-logic--g06-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G06-Q2-2",
+      "misconceptionId": "al-ghazali--G06-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-logic--g06-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G06-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G06-P1"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-06",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G06-Q3",
+      "kind": "binary",
+      "prompt": "理解与反驳次序如何？",
+      "targetNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G06-Q3-1",
+          "text": "先准确理解对象再批判。",
+          "feedback": "正确项“先准确理解对象再批判。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：批判需要对象准确。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g06-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G06-Q3-2",
+          "text": "无需理解即可判决。",
+          "feedback": "错误项“无需理解即可判决。”混淆了当前对象或声音：批判需要对象准确。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g06-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G06-Q3-1",
+      "misconceptionId": "al-ghazali--G06-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g06-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G06-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-06",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G06-Q4",
+      "kind": "binary",
+      "prompt": "逻辑可用是否证明全部哲学正确？",
+      "targetNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G06-Q4-1",
+          "text": "证明全部形而上学。",
+          "feedback": "错误项“证明全部形而上学。”混淆了当前对象或声音：工具与结论分层。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g06-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G06-Q4-2",
+          "text": "不证明。",
+          "feedback": "正确项“不证明。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：工具与结论分层。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-munqidh-philosophers--g06-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G06-Q4-2",
+      "misconceptionId": "al-ghazali--G06-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-munqidh-philosophers--g06-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G06-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G06-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-06",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G07-Q1",
+      "kind": "binary",
+      "prompt": "必要/可能区分在此属于谁？",
+      "targetNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G07-Q1-1",
+          "text": "被呈现的阿维森纳哲学对象。",
+          "feedback": "正确项“被呈现的阿维森纳哲学对象。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：voice/object 明确。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-metaphysics--g07-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G07-Q1-2",
+          "text": "阿威罗伊对加扎里的回应。",
+          "feedback": "错误项“阿威罗伊对加扎里的回应。”混淆了当前对象或声音：voice/object 明确。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-metaphysics--g07-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G07-Q1-1",
+      "misconceptionId": "al-ghazali--G07-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-metaphysics--g07-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G07-P1"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-07",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G07-Q2",
+      "kind": "binary",
+      "prompt": "pending 原因是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G07-Q2-1",
+          "text": "讨论号不存在所以随意编号。",
+          "feedback": "错误项“讨论号不存在所以随意编号。”混淆了当前对象或声音：定位债务具体。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-metaphysics--g07-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G07-Q2-2",
+          "text": "Dunyā 1961 精确段落尚待闭合。",
+          "feedback": "正确项“Dunyā 1961 精确段落尚待闭合。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：定位债务具体。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-maqasid-metaphysics--g07-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G07-Q2-2",
+      "misconceptionId": "al-ghazali--G07-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-maqasid-metaphysics--g07-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G07-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G07-P1"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-07",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G07-Q3",
+      "kind": "binary",
+      "prompt": "概念吸收是否等于全盘认同？",
+      "targetNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G07-Q3-1",
+          "text": "不等于。",
+          "feedback": "正确项“不等于。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：使用术语和接受结论不同。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g07-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G07-Q3-2",
+          "text": "等于。",
+          "feedback": "错误项“等于。”混淆了当前对象或声音：使用术语和接受结论不同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g07-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G07-Q3-1",
+      "misconceptionId": "al-ghazali--G07-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g07-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G07-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-07",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G07-Q4",
+      "kind": "binary",
+      "prompt": "现代解释应替谁发言？",
+      "targetNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G07-Q4-1",
+          "text": "作为阿维森纳原话。",
+          "feedback": "错误项“作为阿维森纳原话。”混淆了当前对象或声音：声部必须独立。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g07-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G07-Q4-2",
+          "text": "只作为现代重构。",
+          "feedback": "正确项“只作为现代重构。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：声部必须独立。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-works--g07-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G07-Q4-2",
+      "misconceptionId": "al-ghazali--G07-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-works--g07-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G07-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G07-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-07",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G08-Q1",
+      "kind": "binary",
+      "prompt": "全书结构是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G08-Q1-1",
+          "text": "二十项具体讨论。",
+          "feedback": "正确项“二十项具体讨论。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：Discussion 是稳定结构。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-intro--g08-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G08-Q1-2",
+          "text": "无题目的情绪宣言。",
+          "feedback": "错误项“无题目的情绪宣言。”混淆了当前对象或声音：Discussion 是稳定结构。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-intro--g08-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G08-Q1-1",
+      "misconceptionId": "al-ghazali--G08-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-intro--g08-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G08-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-08",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G08-Q2",
+      "kind": "binary",
+      "prompt": "批判是否拒绝论证？",
+      "targetNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G08-Q2-1",
+          "text": "是，禁止任何理由。",
+          "feedback": "错误项“是，禁止任何理由。”混淆了当前对象或声音：形式本身展示论辩。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-intro--g08-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G08-Q2-2",
+          "text": "不，借论证检验哲学证明。",
+          "feedback": "正确项“不，借论证检验哲学证明。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：形式本身展示论辩。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-intro--g08-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G08-Q2-2",
+      "misconceptionId": "al-ghazali--G08-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-intro--g08-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G08-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G08-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-08",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G08-Q3",
+      "kind": "binary",
+      "prompt": "三项判决与二十项关系如何？",
+      "targetNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G08-Q3-1",
+          "text": "三项具有特别严重的判决。",
+          "feedback": "正确项“三项具有特别严重的判决。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：结论作区分。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-conclusion--g08-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G08-Q3-2",
+          "text": "二十项全部同级 kufr。",
+          "feedback": "错误项“二十项全部同级 kufr。”混淆了当前对象或声音：结论作区分。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-conclusion--g08-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G08-Q3-1",
+      "misconceptionId": "al-ghazali--G08-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-conclusion--g08-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G08-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-08",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G08-Q4",
+      "kind": "binary",
+      "prompt": "三项包括何类争议？",
+      "targetNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G08-Q4-1",
+          "text": "逻辑三段论的格式。",
+          "feedback": "错误项“逻辑三段论的格式。”混淆了当前对象或声音：结论绑定特定 doctrines。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-conclusion--g08-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G08-Q4-2",
+          "text": "世界永恒、神不知 particulars、否认身体复活。",
+          "feedback": "正确项“世界永恒、神不知 particulars、否认身体复活。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：结论绑定特定 doctrines。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-conclusion--g08-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G08-Q4-2",
+      "misconceptionId": "al-ghazali--G08-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-conclusion--g08-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G08-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G08-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-08",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G09-Q1",
+      "kind": "binary",
+      "prompt": "Discussion 1 对象是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G09-Q1-1",
+          "text": "世界前永恒。",
+          "feedback": "正确项“世界前永恒。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：讨论号必须准确。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d1--g09-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G09-Q1-2",
+          "text": "身体复活。",
+          "feedback": "错误项“身体复活。”混淆了当前对象或声音：讨论号必须准确。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d1--g09-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G09-Q1-1",
+      "misconceptionId": "al-ghazali--G09-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d1--g09-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G09-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-09",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G09-Q2",
+      "kind": "binary",
+      "prompt": "加扎里策略是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G09-Q2-1",
+          "text": "仅诉诸数学错误。",
+          "feedback": "错误项“仅诉诸数学错误。”混淆了当前对象或声音：对象是证明强度。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d1--g09-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G09-Q2-2",
+          "text": "攻击对方所称逻辑必然性。",
+          "feedback": "正确项“攻击对方所称逻辑必然性。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：对象是证明强度。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d1--g09-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G09-Q2-2",
+      "misconceptionId": "al-ghazali--G09-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d1--g09-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G09-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G09-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-09",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G09-Q3",
+      "kind": "binary",
+      "prompt": "阿威罗伊材料是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G09-Q3-1",
+          "text": "对 Discussion 1 的后续回应。",
+          "feedback": "正确项“对 Discussion 1 的后续回应。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：作者不同。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d1--g09-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G09-Q3-2",
+          "text": "加扎里自我修订。",
+          "feedback": "错误项“加扎里自我修订。”混淆了当前对象或声音：作者不同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d1--g09-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G09-Q3-1",
+      "misconceptionId": "al-ghazali--G09-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d1--g09-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G09-P2"
+      ],
+      "targetVoices": [
+        "averroes-response"
+      ],
+      "lessonId": "al-ghazali--ghazali-09",
+      "voice": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G09-Q4",
+      "kind": "binary",
+      "prompt": "能否把回应当作加扎里判断？",
+      "targetNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G09-Q4-1",
+          "text": "能。",
+          "feedback": "错误项“能。”混淆了当前对象或声音：批评者声部独立。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d1--g09-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G09-Q4-2",
+          "text": "不能。",
+          "feedback": "正确项“不能。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：批评者声部独立。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d1--g09-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G09-Q4-2",
+      "misconceptionId": "al-ghazali--G09-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d1--g09-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G09-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G09-P2"
+      ],
+      "targetVoices": [
+        "averroes-response"
+      ],
+      "lessonId": "al-ghazali--ghazali-09",
+      "voice": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G10-Q1",
+      "kind": "binary",
+      "prompt": "Discussion 13 对象是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G10-Q1-1",
+          "text": "神对时间性殊相的知识。",
+          "feedback": "正确项“神对时间性殊相的知识。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：编号与对象闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G10-Q1-2",
+          "text": "自然因果。",
+          "feedback": "错误项“自然因果。”混淆了当前对象或声音：编号与对象闭合。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G10-Q1-1",
+      "misconceptionId": "al-ghazali--G10-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G10-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-10",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G10-Q2",
+      "kind": "binary",
+      "prompt": "加扎里反对什么限制？",
+      "targetNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G10-Q2-1",
+          "text": "把人类感觉视为有限。",
+          "feedback": "错误项“把人类感觉视为有限。”混淆了当前对象或声音：争点是 divine knowledge。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G10-Q2-2",
+          "text": "把神知限制为不知殊相变化。",
+          "feedback": "正确项“把神知限制为不知殊相变化。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：争点是 divine knowledge。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G10-Q2-2",
+      "misconceptionId": "al-ghazali--G10-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G10-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G10-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-10",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G10-Q3",
+      "kind": "binary",
+      "prompt": "哲学家立场如何标声？",
+      "targetNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G10-Q3-1",
+          "text": "作为被批评对象。",
+          "feedback": "正确项“作为被批评对象。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：报告与判断分开。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G10-Q3-2",
+          "text": "作为加扎里最终赞同。",
+          "feedback": "错误项“作为加扎里最终赞同。”混淆了当前对象或声音：报告与判断分开。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G10-Q3-1",
+      "misconceptionId": "al-ghazali--G10-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G10-P2"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-10",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G10-Q4",
+      "kind": "binary",
+      "prompt": "为何不能只写“哲学反对全知”？",
+      "targetNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G10-Q4-1",
+          "text": "因为无需任何细节。",
+          "feedback": "错误项“因为无需任何细节。”混淆了当前对象或声音：对象必须可审计。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G10-Q4-2",
+          "text": "需定位具体知识模型。",
+          "feedback": "正确项“需定位具体知识模型。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：对象必须可审计。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d13--g10-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G10-Q4-2",
+      "misconceptionId": "al-ghazali--G10-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d13--g10-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G10-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G10-P2"
+      ],
+      "targetVoices": [
+        "avicenna-position-reported-by-al-ghazali"
+      ],
+      "lessonId": "al-ghazali--ghazali-10",
+      "voice": "avicenna-position-reported-by-al-ghazali"
+    },
+    {
+      "id": "al-ghazali--G11-Q1",
+      "kind": "binary",
+      "prompt": "Discussion 20 对象是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G11-Q1-1",
+          "text": "身体复活。",
+          "feedback": "正确项“身体复活。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：编号不可混写。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G11-Q1-2",
+          "text": "世界永恒。",
+          "feedback": "错误项“世界永恒。”混淆了当前对象或声音：编号不可混写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G11-Q1-1",
+      "misconceptionId": "al-ghazali--G11-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G11-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-11",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G11-Q2",
+      "kind": "binary",
+      "prompt": "核心模态主张是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G11-Q2-1",
+          "text": "身体复活在逻辑上自相矛盾。",
+          "feedback": "错误项“身体复活在逻辑上自相矛盾。”混淆了当前对象或声音：加扎里攻击不可能断言。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G11-Q2-2",
+          "text": "身体复活不能被证明为不可能。",
+          "feedback": "正确项“身体复活不能被证明为不可能。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：加扎里攻击不可能断言。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G11-Q2-2",
+      "misconceptionId": "al-ghazali--G11-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G11-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G11-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-11",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G11-Q3",
+      "kind": "binary",
+      "prompt": "复活讨论为何回指因果？",
+      "targetNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G11-Q3-1",
+          "text": "自然常规不穷尽神能的可能范围。",
+          "feedback": "正确项“自然常规不穷尽神能的可能范围。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：两项共享模态问题。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c2",
+            "al-ghazali--src-tahafut-d17--g11-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G11-Q3-2",
+          "text": "因为 Discussion 17 讨论几何。",
+          "feedback": "错误项“因为 Discussion 17 讨论几何。”混淆了当前对象或声音：两项共享模态问题。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c2",
+            "al-ghazali--src-tahafut-d17--g11-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G11-Q3-1",
+      "misconceptionId": "al-ghazali--G11-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c2",
+        "al-ghazali--src-tahafut-d17--g11-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G11-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-11",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G11-Q4",
+      "kind": "binary",
+      "prompt": "回指是否把编号合并？",
+      "targetNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G11-Q4-1",
+          "text": "是，两项变成同一讨论。",
+          "feedback": "错误项“是，两项变成同一讨论。”混淆了当前对象或声音：locator 保持分离。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c2",
+            "al-ghazali--src-tahafut-d17--g11-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G11-Q4-2",
+          "text": "不，仍保留 17 与 20。",
+          "feedback": "正确项“不，仍保留 17 与 20。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：locator 保持分离。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d20--g11-c2",
+            "al-ghazali--src-tahafut-d17--g11-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G11-Q4-2",
+      "misconceptionId": "al-ghazali--G11-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d20--g11-c2",
+        "al-ghazali--src-tahafut-d17--g11-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G11-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G11-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-11",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G12-Q1",
+      "kind": "binary",
+      "prompt": "Discussion 17 编号是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G12-Q1-1",
+          "text": "17。",
+          "feedback": "正确项“17。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：因果讨论号固定。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G12-Q1-2",
+          "text": "18。",
+          "feedback": "错误项“18。”混淆了当前对象或声音：因果讨论号固定。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G12-Q1-1",
+      "misconceptionId": "al-ghazali--G12-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G12-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-12",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G12-Q2",
+      "kind": "binary",
+      "prompt": "否定的准确对象是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G12-Q2-1",
+          "text": "任何经验规则性。",
+          "feedback": "错误项“任何经验规则性。”混淆了当前对象或声音：必要性与共现分开。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G12-Q2-2",
+          "text": "原因结果之间自足的必然联系。",
+          "feedback": "正确项“原因结果之间自足的必然联系。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：必要性与共现分开。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G12-Q2-2",
+      "misconceptionId": "al-ghazali--G12-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G12-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G12-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-judgment"
+      ],
+      "lessonId": "al-ghazali--ghazali-12",
+      "voice": "al-ghazali-judgment"
+    },
+    {
+      "id": "al-ghazali--G12-Q3",
+      "kind": "binary",
+      "prompt": "奇迹为何相关？",
+      "targetNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G12-Q3-1",
+          "text": "必要自然联系会预先排除启示中的异常。",
+          "feedback": "正确项“必要自然联系会预先排除启示中的异常。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：目标是模态可能性。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G12-Q3-2",
+          "text": "奇迹用于证明火不存在。",
+          "feedback": "错误项“奇迹用于证明火不存在。”混淆了当前对象或声音：目标是模态可能性。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G12-Q3-1",
+      "misconceptionId": "al-ghazali--G12-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G12-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-12",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G12-Q4",
+      "kind": "binary",
+      "prompt": "是否否定稳定经验？",
+      "targetNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G12-Q4-1",
+          "text": "是，经验完全无用。",
+          "feedback": "错误项“是，经验完全无用。”混淆了当前对象或声音：规则与必然不同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G12-Q4-2",
+          "text": "不，稳定共现仍可被承认。",
+          "feedback": "正确项“不，稳定共现仍可被承认。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：规则与必然不同。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g12-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G12-Q4-2",
+      "misconceptionId": "al-ghazali--G12-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g12-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G12-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G12-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-12",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G13-Q1",
+      "kind": "binary",
+      "prompt": "现代研究为何不只写一个模型？",
+      "targetNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G13-Q1-1",
+          "text": "Discussion 17 内有多层回应路径。",
+          "feedback": "正确项“Discussion 17 内有多层回应路径。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：结构化对象限制口号。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g13-c1",
+            "al-ghazali--src-griffel-d17--g13-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G13-Q1-2",
+          "text": "因为原文没有任何结构。",
+          "feedback": "错误项“因为原文没有任何结构。”混淆了当前对象或声音：结构化对象限制口号。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g13-c1",
+            "al-ghazali--src-griffel-d17--g13-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G13-Q1-1",
+      "misconceptionId": "al-ghazali--G13-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g13-c1",
+        "al-ghazali--src-griffel-d17--g13-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G13-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G13-Q2",
+      "kind": "binary",
+      "prompt": "“偶因论”应如何标？",
+      "targetNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G13-Q2-1",
+          "text": "作为加扎里唯一自用无争议标签。",
+          "feedback": "错误项“作为加扎里唯一自用无争议标签。”混淆了当前对象或声音：现代术语声部独立。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g13-c1",
+            "al-ghazali--src-griffel-d17--g13-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G13-Q2-2",
+          "text": "作为重要但有争议的解释。",
+          "feedback": "正确项“作为重要但有争议的解释。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：现代术语声部独立。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g13-c1",
+            "al-ghazali--src-griffel-d17--g13-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G13-Q2-2",
+      "misconceptionId": "al-ghazali--G13-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g13-c1",
+        "al-ghazali--src-griffel-d17--g13-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G13-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G13-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G13-Q3",
+      "kind": "binary",
+      "prompt": "非必然是否等于无规则？",
+      "targetNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G13-Q3-1",
+          "text": "不等于。",
+          "feedback": "正确项“不等于。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：习惯秩序仍在。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g13-c2",
+            "al-ghazali--src-sep-causality--g13-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G13-Q3-2",
+          "text": "等于随机混乱。",
+          "feedback": "错误项“等于随机混乱。”混淆了当前对象或声音：习惯秩序仍在。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g13-c2",
+            "al-ghazali--src-sep-causality--g13-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G13-Q3-1",
+      "misconceptionId": "al-ghazali--G13-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g13-c2",
+        "al-ghazali--src-sep-causality--g13-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G13-Q4",
+      "kind": "binary",
+      "prompt": "知识如何可能？",
+      "targetNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G13-Q4-1",
+          "text": "只有否认所有经验。",
+          "feedback": "错误项“只有否认所有经验。”混淆了当前对象或声音：现代争论须保留文本路径。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g13-c2",
+            "al-ghazali--src-sep-causality--g13-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G13-Q4-2",
+          "text": "通过稳定习惯与神所创造的认知。",
+          "feedback": "正确项“通过稳定习惯与神所创造的认知。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：现代争论须保留文本路径。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-tahafut-d17--g13-c2",
+            "al-ghazali--src-sep-causality--g13-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G13-Q4-2",
+      "misconceptionId": "al-ghazali--G13-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-tahafut-d17--g13-c2",
+        "al-ghazali--src-sep-causality--g13-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G13-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G14-Q1",
+      "kind": "binary",
+      "prompt": "阿威罗伊担心什么？",
+      "targetNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G14-Q1-1",
+          "text": "因果本性被抹除会损害知识。",
+          "feedback": "正确项“因果本性被抹除会损害知识。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：回应连接因果与知识。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d17--g14-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G14-Q1-2",
+          "text": "加扎里没有写 Discussion 17。",
+          "feedback": "错误项“加扎里没有写 Discussion 17。”混淆了当前对象或声音：回应连接因果与知识。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d17--g14-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G14-Q1-1",
+      "misconceptionId": "al-ghazali--G14-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d17--g14-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G14-P1"
+      ],
+      "targetVoices": [
+        "averroes-response"
+      ],
+      "lessonId": "al-ghazali--ghazali-14",
+      "voice": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G14-Q2",
+      "kind": "binary",
+      "prompt": "此判断归谁？",
+      "targetNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G14-Q2-1",
+          "text": "加扎里。",
+          "feedback": "错误项“加扎里。”混淆了当前对象或声音：声音不得倒置。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d17--g14-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G14-Q2-2",
+          "text": "阿威罗伊。",
+          "feedback": "正确项“阿威罗伊。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：声音不得倒置。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-averroes-d17--g14-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G14-Q2-2",
+      "misconceptionId": "al-ghazali--G14-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-averroes-d17--g14-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G14-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G14-P1"
+      ],
+      "targetVoices": [
+        "averroes-response"
+      ],
+      "lessonId": "al-ghazali--ghazali-14",
+      "voice": "averroes-response"
+    },
+    {
+      "id": "al-ghazali--G14-Q3",
+      "kind": "binary",
+      "prompt": "能否缩成科学/反科学二分？",
+      "targetNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G14-Q3-1",
+          "text": "不能。",
+          "feedback": "正确项“不能。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：双方共享复杂问题。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g14-c2",
+            "al-ghazali--src-averroes-d17--g14-c2",
+            "al-ghazali--src-tahafut-d17--g14-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G14-Q3-2",
+          "text": "能，且无需文本。",
+          "feedback": "错误项“能，且无需文本。”混淆了当前对象或声音：双方共享复杂问题。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g14-c2",
+            "al-ghazali--src-averroes-d17--g14-c2",
+            "al-ghazali--src-tahafut-d17--g14-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G14-Q3-1",
+      "misconceptionId": "al-ghazali--G14-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g14-c2",
+        "al-ghazali--src-averroes-d17--g14-c2",
+        "al-ghazali--src-tahafut-d17--g14-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G14-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-14",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G14-Q4",
+      "kind": "binary",
+      "prompt": "比较需要什么？",
+      "targetNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G14-Q4-1",
+          "text": "把回应并入原作。",
+          "feedback": "错误项“把回应并入原作。”混淆了当前对象或声音：双向定位是核心。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g14-c2",
+            "al-ghazali--src-averroes-d17--g14-c2",
+            "al-ghazali--src-tahafut-d17--g14-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G14-Q4-2",
+          "text": "保留各自文本与论证对象。",
+          "feedback": "正确项“保留各自文本与论证对象。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：双向定位是核心。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-sep-causality--g14-c2",
+            "al-ghazali--src-averroes-d17--g14-c2",
+            "al-ghazali--src-tahafut-d17--g14-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G14-Q4-2",
+      "misconceptionId": "al-ghazali--G14-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-sep-causality--g14-c2",
+        "al-ghazali--src-averroes-d17--g14-c2",
+        "al-ghazali--src-tahafut-d17--g14-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G14-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G14-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "al-ghazali--ghazali-14",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "al-ghazali--G15-Q1",
+      "kind": "binary",
+      "prompt": "有益知识指向什么？",
+      "targetNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G15-Q1-1",
+          "text": "行动、敬拜与品格转化。",
+          "feedback": "正确项“行动、敬拜与品格转化。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：实践目的明确。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G15-Q1-2",
+          "text": "只指向辩论获胜。",
+          "feedback": "错误项“只指向辩论获胜。”混淆了当前对象或声音：实践目的明确。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G15-Q1-1",
+      "misconceptionId": "al-ghazali--G15-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G15-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-15",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G15-Q2",
+      "kind": "binary",
+      "prompt": "知识分类是否无规范差异？",
+      "targetNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G15-Q2-1",
+          "text": "是，所有知识用途相同。",
+          "feedback": "错误项“是，所有知识用途相同。”混淆了当前对象或声音：Book 1 组织规范。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G15-Q2-2",
+          "text": "不是，有义务与危害的区分。",
+          "feedback": "正确项“不是，有义务与危害的区分。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：Book 1 组织规范。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G15-Q2-2",
+      "misconceptionId": "al-ghazali--G15-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G15-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G15-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-15",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G15-Q3",
+      "kind": "binary",
+      "prompt": "为何加入实践尺度？",
+      "targetNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G15-Q3-1",
+          "text": "知识的完成涉及行动者转化。",
+          "feedback": "正确项“知识的完成涉及行动者转化。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：实践补充而非取消真理。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c2",
+            "al-ghazali--src-sep-works--g15-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G15-Q3-2",
+          "text": "因为真假不再重要。",
+          "feedback": "错误项“因为真假不再重要。”混淆了当前对象或声音：实践补充而非取消真理。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c2",
+            "al-ghazali--src-sep-works--g15-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G15-Q3-1",
+      "misconceptionId": "al-ghazali--G15-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c2",
+        "al-ghazali--src-sep-works--g15-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G15-Q4",
+      "kind": "binary",
+      "prompt": "这是否把 Ihya 变成 Tahafut 附录？",
+      "targetNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G15-Q4-1",
+          "text": "是，只重复二十讨论。",
+          "feedback": "错误项“是，只重复二十讨论。”混淆了当前对象或声音：作品功能分开。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c2",
+            "al-ghazali--src-sep-works--g15-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G15-Q4-2",
+          "text": "不，它有独立实践工程。",
+          "feedback": "正确项“不，它有独立实践工程。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：作品功能分开。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-knowledge--g15-c2",
+            "al-ghazali--src-sep-works--g15-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G15-Q4-2",
+      "misconceptionId": "al-ghazali--G15-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-knowledge--g15-c2",
+        "al-ghazali--src-sep-works--g15-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G15-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "al-ghazali--ghazali-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "al-ghazali--G16-Q1",
+      "kind": "binary",
+      "prompt": "心在实践中是什么？",
+      "targetNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G16-Q1-1",
+          "text": "认知与品格整治的中心。",
+          "feedback": "正确项“认知与品格整治的中心。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：Ihya 使用道德认识语境。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-heart--g16-c1",
+            "al-ghazali--src-ihya-intention--g16-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G16-Q1-2",
+          "text": "仅是解剖器官名称。",
+          "feedback": "错误项“仅是解剖器官名称。”混淆了当前对象或声音：Ihya 使用道德认识语境。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-heart--g16-c1",
+            "al-ghazali--src-ihya-intention--g16-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G16-Q1-1",
+      "misconceptionId": "al-ghazali--G16-Q1-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-heart--g16-c1",
+        "al-ghazali--src-ihya-intention--g16-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G16-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-16",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G16-Q2",
+      "kind": "binary",
+      "prompt": "意向为何重要？",
+      "targetNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G16-Q2-1",
+          "text": "它使行为外在结果永远无关。",
+          "feedback": "错误项“它使行为外在结果永远无关。”混淆了当前对象或声音：意向不取消行动。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-heart--g16-c1",
+            "al-ghazali--src-ihya-intention--g16-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C1"
+          ]
+        },
+        {
+          "id": "al-ghazali--G16-Q2-2",
+          "text": "它规定行动朝向与真诚。",
+          "feedback": "正确项“它规定行动朝向与真诚。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：意向不取消行动。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-heart--g16-c1",
+            "al-ghazali--src-ihya-intention--g16-c1"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G16-Q2-2",
+      "misconceptionId": "al-ghazali--G16-Q2-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-heart--g16-c1",
+        "al-ghazali--src-ihya-intention--g16-c1"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G16-C1"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G16-P1"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-16",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G16-Q3",
+      "kind": "binary",
+      "prompt": "tawakkul 是否要求拒绝手段？",
+      "targetNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G16-Q3-1",
+          "text": "不，使用手段可与最终托靠并存。",
+          "feedback": "正确项“不，使用手段可与最终托靠并存。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：实践论避免宿命误读。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-tawhid--g16-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G16-Q3-2",
+          "text": "是，任何行动都违背托靠。",
+          "feedback": "错误项“是，任何行动都违背托靠。”混淆了当前对象或声音：实践论避免宿命误读。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-tawhid--g16-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G16-Q3-1",
+      "misconceptionId": "al-ghazali--G16-Q3-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-tawhid--g16-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G16-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-16",
+      "voice": "al-ghazali-primary"
+    },
+    {
+      "id": "al-ghazali--G16-Q4",
+      "kind": "binary",
+      "prompt": "因果课在此如何落地？",
+      "targetNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "options": [
+        {
+          "id": "al-ghazali--G16-Q4-1",
+          "text": "变成否认日常一切选择。",
+          "feedback": "错误项“变成否认日常一切选择。”混淆了当前对象或声音：理论与练习闭合。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-tawhid--g16-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C2"
+          ]
+        },
+        {
+          "id": "al-ghazali--G16-Q4-2",
+          "text": "从模态争论进入行动中的依赖与信任。",
+          "feedback": "正确项“从模态争论进入行动中的依赖与信任。”。当前 source binding 支持命题；但页码/段落 locator 仍未核验，处于 pending：理论与练习闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "al-ghazali--src-ihya-tawhid--g16-c2"
+          ],
+          "claimNodeIds": [
+            "al-ghazali--G16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "al-ghazali--G16-Q4-2",
+      "misconceptionId": "al-ghazali--G16-Q4-misconception",
+      "evidenceLinkIds": [
+        "al-ghazali--src-ihya-tawhid--g16-c2"
+      ],
+      "objectNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "al-ghazali--G16-C2"
+      ],
+      "targetParagraphIds": [
+        "al-ghazali--G16-P2"
+      ],
+      "targetVoices": [
+        "al-ghazali-primary"
+      ],
+      "lessonId": "al-ghazali--ghazali-16",
+      "voice": "al-ghazali-primary"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

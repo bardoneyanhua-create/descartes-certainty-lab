@@ -1,0 +1,4900 @@
+{
+  "checks": [
+    {
+      "correctOptionId": "p01q1a",
+      "id": "p01q1",
+      "kind": "source-identity",
+      "misconceptionId": "misconception-p01q1",
+      "options": [
+        {
+          "feedback": "错步是把身后编排升级成作者预先设计；年代编号不能修复这个身份混淆。",
+          "id": "p01q1b",
+          "isCorrect": false,
+          "text": "把六组九篇当作普罗提诺预先设计的写作蓝图，再用年代编号补足作者的全部论证意图。"
+        },
+        {
+          "feedback": "这一项同时保留了编排事实与独立论证检验，没有把目录当成作者亲定体系。",
+          "id": "p01q1a",
+          "isCorrect": true,
+          "text": "把六组九篇当作波菲利的主题编排，再以论文中的实际依赖检验阅读顺序。"
+        }
+      ],
+      "prompt": "哪一做法最准确地尊重《九章集》的编辑身份？",
+      "targetNodeIds": [
+        "plotinus-01-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p01q2b",
+      "id": "p01q2",
+      "kind": "dependency",
+      "misconceptionId": "misconception-p01q2",
+      "options": [
+        {
+          "feedback": "这一区分准确：时间邻接和推理依赖是两种证据。",
+          "id": "p01q2b",
+          "isCorrect": true,
+          "text": "因为年代显示重访先后，却不自动显示哪项结论是另一项论证的前提。"
+        },
+        {
+          "feedback": "错在把可能的措辞变化夸成普遍推翻；普罗提诺的主干在成熟写作期相当稳定。",
+          "id": "p01q2a",
+          "isCorrect": false,
+          "text": "因为年代只能证明所有晚期论文都否定了早期论文，并由此形成一次彻底的思想断裂。"
+        }
+      ],
+      "prompt": "为什么纯按写作年代也不足以构成哲学路线？",
+      "targetNodeIds": [
+        "plotinus-01-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p01q3b",
+      "id": "p01q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p01q3",
+      "options": [
+        {
+          "feedback": "入库日期对应写作年代，不能独自说明承重关系。",
+          "id": "p01q3a",
+          "isCorrect": false,
+          "text": "只按材料入库日期把所有梁从早到晚排列。"
+        },
+        {
+          "feedback": "承重关系对应论证依赖，编号与日期仍保留为校核证据。",
+          "id": "p01q3b",
+          "isCorrect": true,
+          "text": "检查哪些梁实际支撑另一些梁，并用编号和日期校核。"
+        }
+      ],
+      "prompt": "桥梁比喻中，什么对应“依赖阅读”？",
+      "targetNodeIds": [
+        "plotinus-01-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p01q4a",
+      "id": "p01q4",
+      "kind": "boundary",
+      "misconceptionId": "misconception-p01q4",
+      "options": [
+        {
+          "feedback": "错在撤销了约束重建的证据门；没有文本依据，路线会退化为任意体系。",
+          "id": "p01q4b",
+          "isCorrect": false,
+          "text": "收缩“任何相邻论证都需要文本依据”这一主张。"
+        },
+        {
+          "feedback": "收缩唯一性，才能既重建依赖又不抹去论文与编排的历史身份。",
+          "id": "p01q4a",
+          "isCorrect": true,
+          "text": "收缩“存在唯一且由作者亲定的总阅读顺序”这一主张。"
+        }
+      ],
+      "prompt": "受原文约束的系统重建必须收缩哪一主张？",
+      "targetNodeIds": [
+        "plotinus-01-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p02q1b",
+      "id": "p02q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p02q1",
+      "options": [
+        {
+          "feedback": "这一步由彻底接受性推出无规定，而没有把质料充实成具体物。",
+          "id": "p02q1b",
+          "isCorrect": true,
+          "text": "承载者不能以任何一项待更换的规定来界定自身。"
+        },
+        {
+          "feedback": "错在把可接受性写成预先占有；同时现实拥有相反性质会取消变化。",
+          "id": "p02q1a",
+          "isCorrect": false,
+          "text": "承载者必须预先现实拥有所有相反性质，并同时把它们保持为自己的确定内容。"
+        }
+      ],
+      "prompt": "从“能承载相反规定”推出纯质料时，关键一步是什么？",
+      "targetNodeIds": [
+        "plotinus-02-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p02q2a",
+      "id": "p02q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p02q2",
+      "options": [
+        {
+          "feedback": "这一项保留了形式不仅是轮廓，还规定相应活动。",
+          "id": "p02q2a",
+          "isCorrect": true,
+          "text": "组织性质和活动，使一个身体成为其所是的形式原则。"
+        },
+        {
+          "feedback": "错在把形式原则与质料对调；无性质接受性属于质料。",
+          "id": "p02q2b",
+          "isCorrect": false,
+          "text": "作为无性质基底，容纳一切形式而自身不改变，这就是 `logos` 对身体的组织作用。"
+        }
+      ],
+      "prompt": "`logos` 在身体构成中承担什么功能？",
+      "targetNodeIds": [
+        "plotinus-02-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p02q3b",
+      "id": "p02q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p02q3",
+      "options": [
+        {
+          "feedback": "先后显现不同图像正是比喻要说明的关系。",
+          "id": "p02q3a",
+          "isCorrect": false,
+          "text": "幕上先后出现海面与烈焰的图像。"
+        },
+        {
+          "feedback": "染色使承载者取得确定性质，破坏了纯质料的无规定条件。",
+          "id": "p02q3b",
+          "isCorrect": true,
+          "text": "幕布自身被染蓝，从而抵抗下一幅图像的显色。"
+        }
+      ],
+      "prompt": "白幕比喻在什么条件下失效？",
+      "targetNodeIds": [
+        "plotinus-02-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p02q4a",
+      "id": "p02q4",
+      "kind": "objection",
+      "misconceptionId": "misconception-p02q4",
+      "options": [
+        {
+          "feedback": "这一收缩正面回应了“只是给无命名”的异议，同时没有重新赋予质料性质。",
+          "id": "p02q4a",
+          "isCorrect": true,
+          "text": "保住质料作为变化的关系性条件，放弃把它当作可单独指认的实体。"
+        },
+        {
+          "feedback": "错在把质料变成主动原因，并删除了具体身份实际依赖的形式原则。",
+          "id": "p02q4b",
+          "isCorrect": false,
+          "text": "保住质料具有积极生成力，放弃形式原则对身体身份的作用。"
+        }
+      ],
+      "prompt": "对“质料接近非存在”的回应保住了什么，放弃了什么？",
+      "targetNodeIds": [
+        "plotinus-02-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p03q1a",
+      "id": "p03q1",
+      "kind": "distinction",
+      "misconceptionId": "misconception-p03q1",
+      "options": [
+        {
+          "feedback": "这一项同时保留受伤器官和生命能力两个条件。",
+          "id": "p03q1a",
+          "isCorrect": true,
+          "text": "属于身体与灵魂生命能力结合而成的复合生命体。"
+        },
+        {
+          "feedback": "错在删除了感觉和欲望所需的生命能力；纯质料不能独自疼痛。",
+          "id": "p03q1b",
+          "isCorrect": false,
+          "text": "只属于无性质质料，与灵魂活动没有任何关系，也不需要复合生命体作为主体。"
+        }
+      ],
+      "prompt": "疼痛在这套区分中首先属于谁？",
+      "targetNodeIds": [
+        "plotinus-03-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p03q2b",
+      "id": "p03q2",
+      "kind": "case",
+      "misconceptionId": "misconception-p03q2",
+      "options": [
+        {
+          "feedback": "错在从判断不以身体方式受作用跳到身体事件不属于此人。",
+          "id": "p03q2a",
+          "isCorrect": false,
+          "text": "只要判断本身没有发生肌肉抽筋，身体损伤就不属于演奏者的同一个人生。"
+        },
+        {
+          "feedback": "案例通过麻醉与误报的条件变化分开了三个层次。",
+          "id": "p03q2b",
+          "isCorrect": true,
+          "text": "身体原因、复合疼痛和对疼痛的判断可相关而不必同一。"
+        }
+      ],
+      "prompt": "钢琴师抽筋的案例主要检验什么？",
+      "targetNodeIds": [
+        "plotinus-03-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p03q3a",
+      "id": "p03q3",
+      "kind": "objection",
+      "misconceptionId": "misconception-p03q3",
+      "options": [
+        {
+          "feedback": "这不是异议的目标；它承认具身疼痛，反对的是将其贬为无关。",
+          "id": "p03q3b",
+          "isCorrect": false,
+          "text": "从身体受伤，跨到复合生命体会形成疼痛。"
+        },
+        {
+          "feedback": "异议准确针对从存在区分到价值轻视的越界。",
+          "id": "p03q3a",
+          "isCorrect": true,
+          "text": "从灵魂与身体存在方式不同，跨到身体痛苦不值得伦理照料。"
+        }
+      ],
+      "prompt": "具身异议攻击的是哪一步？",
+      "targetNodeIds": [
+        "plotinus-03-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p03q4b",
+      "id": "p03q4",
+      "kind": "boundary",
+      "misconceptionId": "misconception-p03q4",
+      "options": [
+        {
+          "feedback": "这正是回应必须放弃的过强主张。",
+          "id": "p03q4a",
+          "isCorrect": false,
+          "text": "真正的人完全无需承担具身生活的后果。"
+        },
+        {
+          "feedback": "这一收缩同时保住灵魂的非物体性和身体生活的道德分量。",
+          "id": "p03q4b",
+          "isCorrect": true,
+          "text": "判断能力不以身体受伤的同一方式被切割，但具身后果仍要求照料。"
+        }
+      ],
+      "prompt": "回应异议后仍可保留哪一主张？",
+      "targetNodeIds": [
+        "plotinus-03-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p04q1b",
+      "id": "p04q1",
+      "kind": "case",
+      "misconceptionId": "misconception-p04q1",
+      "options": [
+        {
+          "feedback": "删除记忆只会取消比较，不能说明实际发生的条件校正。",
+          "id": "p04q1a",
+          "isCorrect": false,
+          "text": "因为第二个印记会自动删除关于第一个印记的记忆，所以无需把两次显现加以比较。"
+        },
+        {
+          "feedback": "条件比较显示感觉结果进入了主动判断，而非只被动替换。",
+          "id": "p04q1b",
+          "isCorrect": true,
+          "text": "因为判断能把不同显现并置，并追问差异来自对象还是介质。"
+        }
+      ],
+      "prompt": "半浸水木棍为何能反驳感觉只是印记？",
+      "targetNodeIds": [
+        "plotinus-04-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p04q2a",
+      "id": "p04q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p04q2",
+      "options": [
+        {
+          "feedback": "错在取消了介质、器官和注意所造成的差异。",
+          "id": "p04q2b",
+          "isCorrect": false,
+          "text": "它保证每个感官显现都与对象本身完全相同，并排除介质、器官与注意造成的差异。"
+        },
+        {
+          "feedback": "这一项准确连接感觉、记忆与条件敏感性。",
+          "id": "p04q2a",
+          "isCorrect": true,
+          "text": "它让感觉结果可被保留、比较和调用，又不把它当成外物的无条件复制。"
+        }
+      ],
+      "prompt": "为什么需要“表象”这一层？",
+      "targetNodeIds": [
+        "plotinus-04-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p04q3b",
+      "id": "p04q3",
+      "kind": "boundary",
+      "misconceptionId": "misconception-p04q3",
+      "options": [
+        {
+          "feedback": "这是回应保留的最低主张，不是被拒绝项。",
+          "id": "p04q3a",
+          "isCorrect": false,
+          "text": "纠错需要不被当下表象穷尽的稳定标准。"
+        },
+        {
+          "feedback": "这一过强结论被拒绝，因为误用、注意偏移和非反省活动仍可发生。",
+          "id": "p04q3b",
+          "isCorrect": true,
+          "text": "只要有理智标准，日常意识和每次推理就必然无误。"
+        }
+      ],
+      "prompt": "诉诸理智后，哪一主张仍被明确拒绝？",
+      "targetNodeIds": [
+        "plotinus-04-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p04q4a",
+      "id": "p04q4",
+      "kind": "source-identity",
+      "misconceptionId": "misconception-p04q4",
+      "options": [
+        {
+          "feedback": "这一处理保留了编辑身份和问题连续性。",
+          "id": "p04q4a",
+          "isCorrect": true,
+          "text": "记住它们源自一篇连续论文，不把波菲利的拆分当作三套独立理论。"
+        },
+        {
+          "feedback": "错在把身后编辑切口升级为作者思想断层。",
+          "id": "p04q4b",
+          "isCorrect": false,
+          "text": "因为现今有三个编号，就断定普罗提诺写了三个互不依赖的体系。"
+        }
+      ],
+      "prompt": "怎样处理 `IV.3—5` 的篇界最稳妥？",
+      "targetNodeIds": [
+        "plotinus-04-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p05q1a",
+      "id": "p05q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p05q1",
+      "options": [
+        {
+          "feedback": "这是整体临在能够解释的差异，不是它排除的对象。",
+          "id": "p05q1b",
+          "isCorrect": false,
+          "text": "不同器官依组织条件显现不同生命功能，所以灵魂整体临在各部这一说法应被排除。"
+        },
+        {
+          "feedback": "整体临在正是为避免把无形生命原则按物体方式切分。",
+          "id": "p05q1a",
+          "isCorrect": true,
+          "text": "灵魂按空间份额分给各器官，切去身体就切去相应灵魂。"
+        }
+      ],
+      "prompt": "“灵魂整体临在身体各部”主要排除了什么？",
+      "targetNodeIds": [
+        "plotinus-05-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p05q2b",
+      "id": "p05q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p05q2",
+      "options": [
+        {
+          "feedback": "这一项区分原因自身与活动显现所需的器官条件。",
+          "id": "p05q2b",
+          "isCorrect": true,
+          "text": "眼的接受条件失效，使同一灵魂活动不再以视觉在此显现。"
+        },
+        {
+          "feedback": "错在重新把灵魂分成空间碎片。",
+          "id": "p05q2a",
+          "isCorrect": false,
+          "text": "灵魂的一块视觉部分随眼睛一起被物理毁灭，因为视觉能力占据眼睛相同的空间份额。"
+        }
+      ],
+      "prompt": "“参与”在眼睛受损的情形中怎样工作？",
+      "targetNodeIds": [
+        "plotinus-05-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p05q3a",
+      "id": "p05q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p05q3",
+      "options": [
+        {
+          "feedback": "这正对应共同灵魂层级与个体活动并存。",
+          "id": "p05q3a",
+          "isCorrect": true,
+          "text": "共同结构可完整指导多场演奏，而每场仍有自己的失误与历史。"
+        },
+        {
+          "feedback": "错在把共同形式推进成数值同一意识，并取消个体活动。",
+          "id": "p05q3b",
+          "isCorrect": false,
+          "text": "只要乐曲相同，所有演奏者就共享同一段意识并免除错音责任。"
+        }
+      ],
+      "prompt": "多支乐队的案例要保留哪一对关系？",
+      "targetNodeIds": [
+        "plotinus-05-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p05q4b",
+      "id": "p05q4",
+      "kind": "controversy",
+      "misconceptionId": "misconception-p05q4",
+      "options": [
+        {
+          "feedback": "错在把高层活动等同日常反省意识，并宣布争议消失。",
+          "id": "p05q4a",
+          "isCorrect": false,
+          "text": "文本已经证明每个人始终清楚意识到完整理智沉思。"
+        },
+        {
+          "feedback": "这一收缩保住共同文本核心，同时承认强读与弱读的代价。",
+          "id": "p05q4b",
+          "isCorrect": true,
+          "text": "至少可确认灵魂根源不被身体穷尽，但持续活动的强度仍须保留解释分歧。"
+        }
+      ],
+      "prompt": "面对“不下降灵魂”的争议，最稳妥的结论是什么？",
+      "targetNodeIds": [
+        "plotinus-05-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p06q1a",
+      "id": "p06q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p06q1",
+      "options": [
+        {
+          "feedback": "错在重新引入死物先在与偶然注入，正好取消宇宙灵魂的持续作用。",
+          "id": "p06q1b",
+          "isCorrect": false,
+          "text": "因为宇宙先是完全无生命的物体集合，后来才在某个时间点偶然取得一次生命形式。"
+        },
+        {
+          "feedback": "这一项抓住无时间开端的持续因果，而不是把创造改写成早期事件。",
+          "id": "p06q1a",
+          "isCorrect": true,
+          "text": "因为世界秩序被理解为永恒持续的生命活动，而非先计划后施工。"
+        }
+      ],
+      "prompt": "为什么宇宙灵魂不是开端处的一次装配者？",
+      "targetNodeIds": [
+        "plotinus-06-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p06q2b",
+      "id": "p06q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p06q2",
+      "options": [
+        {
+          "feedback": "这说明无审议不等于无形式或无原因。",
+          "id": "p06q2b",
+          "isCorrect": true,
+          "text": "因为自然像熟练能力，从所沉思的形式直接产生秩序。"
+        },
+        {
+          "feedback": "错在删除自然对更高形式的依赖，并把生产退回盲撞。",
+          "id": "p06q2a",
+          "isCorrect": false,
+          "text": "因为自然没有任何形式来源，只靠材料自行碰撞便能稳定地产生全部生命秩序。"
+        }
+      ],
+      "prompt": "“自然”在这里为何不需要逐步审议？",
+      "targetNodeIds": [
+        "plotinus-06-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p06q3a",
+      "id": "p06q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p06q3",
+      "options": [
+        {
+          "feedback": "错在由相关直接跳到局部单向因果。",
+          "id": "p06q3b",
+          "isCorrect": false,
+          "text": "只要两只仪表同时变化，其中一只必然直接造成另一只变化。"
+        },
+        {
+          "feedback": "这一区分对应宇宙共感、星象征兆和灵魂活动。",
+          "id": "p06q3a",
+          "isCorrect": true,
+          "text": "共同系统、表面征兆与病人自身条件不能压成一个单向原因。"
+        }
+      ],
+      "prompt": "医院供氧案例区分了什么？",
+      "targetNodeIds": [
+        "plotinus-06-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p06q4b",
+      "id": "p06q4",
+      "kind": "boundary",
+      "misconceptionId": "misconception-p06q4",
+      "options": [
+        {
+          "feedback": "移除星辰的充分因果并不等于完成自由论，其他因果条件仍待分析。",
+          "id": "p06q4b",
+          "isCorrect": true,
+          "text": "个体灵魂已经拥有不受任何条件约束的完整自由。"
+        },
+        {
+          "feedback": "共感论正是要保留共享条件与远距关联的这一可能。",
+          "id": "p06q4a",
+          "isCorrect": false,
+          "text": "宇宙中可能存在共享生命条件和远距关联。"
+        }
+      ],
+      "prompt": "限制星辰因果后，什么仍未得到证明？",
+      "targetNodeIds": [
+        "plotinus-06-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p07q1a",
+      "id": "p07q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p07q1",
+      "options": [
+        {
+          "feedback": "这一项保留自然可理解性，同时没有把所有原因同质化。",
+          "id": "p07q1a",
+          "isCorrect": true,
+          "text": "身体规律在条件不变时稳定运行，但新的灵魂活动可改变完整条件。"
+        },
+        {
+          "feedback": "错在从身体规律直接越过灵魂比较理由的活动。",
+          "id": "p07q1b",
+          "isCorrect": false,
+          "text": "只要自然有规律，任何拒绝和判断都只能是药物作用的机械延长，不可能成为新的原因。"
+        }
+      ],
+      "prompt": "把命运收缩为条件性必然后，哪项仍可成立？",
+      "targetNodeIds": [
+        "plotinus-07-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p07q2b",
+      "id": "p07q2",
+      "kind": "case",
+      "misconceptionId": "misconception-p07q2",
+      "options": [
+        {
+          "feedback": "这一项准确指出整体描述与道德正当化之间的缺口。",
+          "id": "p07q2b",
+          "isCorrect": true,
+          "text": "因为整体获益不能自动消除具体损失及设计者可能承担的责任。"
+        },
+        {
+          "feedback": "案例并未推出这一极端结论，而是要求另答可避免性和分配。",
+          "id": "p07q2a",
+          "isCorrect": false,
+          "text": "因为任何一项局部损失都会逻辑地证明世界完全无秩序，也不再需要考察设计能否避免。"
+        }
+      ],
+      "prompt": "防洪案例为何限制整体和谐论证？",
+      "targetNodeIds": [
+        "plotinus-07-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p07q3a",
+      "id": "p07q3",
+      "kind": "source-identity",
+      "misconceptionId": "misconception-p07q3",
+      "options": [
+        {
+          "feedback": "这一定位既保留历史对象，也避免把论文扩成全部诺斯替传统的分类。",
+          "id": "p07q3a",
+          "isCorrect": true,
+          "text": "视为普罗提诺针对所接触的当代反宇宙教说所作的论战。"
+        },
+        {
+          "feedback": "错在扩大对象范围并抹去论文的论战身份。",
+          "id": "p07q3b",
+          "isCorrect": false,
+          "text": "视为对后世一切基督教与诺斯替文本的完整中立概述。"
+        }
+      ],
+      "prompt": "怎样定位 `II.9` 的对手最准确？",
+      "targetNodeIds": [
+        "plotinus-07-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p07q4b",
+      "id": "p07q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p07q4",
+      "options": [
+        {
+          "feedback": "这是收缩后仍保留的有限宇宙秩序主张。",
+          "id": "p07q4a",
+          "isCorrect": false,
+          "text": "局部冲突不必推翻一切宇宙秩序。"
+        },
+        {
+          "feedback": "这一过强跨越必须放弃，否则个体损失被整体描述吞没。",
+          "id": "p07q4b",
+          "isCorrect": true,
+          "text": "整体美已经逐一正当化每一项具体痛苦。"
+        }
+      ],
+      "prompt": "回应痛苦异议后必须放弃什么？",
+      "targetNodeIds": [
+        "plotinus-07-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p08q1b",
+      "id": "p08q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p08q1",
+      "options": [
+        {
+          "feedback": "错在否认普罗提诺承认的规则天体运动。",
+          "id": "p08q1a",
+          "isCorrect": false,
+          "text": "因为天体完全不运动，所以不能提供任何刻度，也无法让灵魂比较别的运动。"
+        },
+        {
+          "feedback": "这指出测量程序依赖时间意识，不能以钟本身完成本体解释。",
+          "id": "p08q1b",
+          "isCorrect": true,
+          "text": "因为选定规则运动作尺度，仍预设灵魂能保留并比较先后。"
+        }
+      ],
+      "prompt": "为什么用天体运动作钟仍未解释时间？",
+      "targetNodeIds": [
+        "plotinus-08-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p08q2a",
+      "id": "p08q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p08q2",
+      "options": [
+        {
+          "feedback": "这一项保留了永恒的无先后整体性。",
+          "id": "p08q2a",
+          "isCorrect": true,
+          "text": "永恒是相关生命活动全体共同在场，而非无尽先后。"
+        },
+        {
+          "feedback": "错在只把时间拉长，没有越出过去与未来。",
+          "id": "p08q2b",
+          "isCorrect": false,
+          "text": "永恒是比宇宙时间更长、没有终点但仍按过去与未来依次流逝的一段时间。"
+        }
+      ],
+      "prompt": "“永恒”与无限持续的关键差别是什么？",
+      "targetNodeIds": [
+        "plotinus-08-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p08q3a",
+      "id": "p08q3",
+      "kind": "objection",
+      "misconceptionId": "misconception-p08q3",
+      "options": [
+        {
+          "feedback": "比较速度是经验起点，异议针对的是时间起源解释。",
+          "id": "p08q3b",
+          "isCorrect": false,
+          "text": "用共同时间比较两种不同速度一定不可能。"
+        },
+        {
+          "feedback": "异议准确攻击解释项中偷偷含有被解释项。",
+          "id": "p08q3a",
+          "isCorrect": true,
+          "text": "用灵魂的先后转向解释时间时，可能已经预设了时间。"
+        }
+      ],
+      "prompt": "时间起源的循环异议针对什么？",
+      "targetNodeIds": [
+        "plotinus-08-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p08q4b",
+      "id": "p08q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p08q4",
+      "options": [
+        {
+          "feedback": "结构依赖不需要讲述一次时间中的起源事件。",
+          "id": "p08q4b",
+          "isCorrect": true,
+          "text": "灵魂的分散活动结构使任何可测先后成为可能。"
+        },
+        {
+          "feedback": "错在用最早日期预设时间，并把本体依赖改成历史事件。",
+          "id": "p08q4a",
+          "isCorrect": false,
+          "text": "灵魂在某个最早日期作出创造时间的决定。"
+        }
+      ],
+      "prompt": "回应循环后，产生关系被收缩成什么？",
+      "targetNodeIds": [
+        "plotinus-08-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p09q1a",
+      "id": "p09q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p09q1",
+      "options": [
+        {
+          "feedback": "错在否认可感范畴实际适用的对象。",
+          "id": "p09q1b",
+          "isCorrect": false,
+          "text": "因为可感事物从来没有数量、性质或关系，所以十范畴在可感层面也没有任何适用对象。"
+        },
+        {
+          "feedback": "这一项指出两层存在结构的关键差异。",
+          "id": "p09q1a",
+          "isCorrect": true,
+          "text": "因为可知存在不以可变基底承载可来去的偶性。"
+        }
+      ],
+      "prompt": "为何亚里士多德范畴不能原样统摄可知界？",
+      "targetNodeIds": [
+        "plotinus-09-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p09q2b",
+      "id": "p09q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p09q2",
+      "options": [
+        {
+          "feedback": "错在把可知活动重新物体化并放回时间。",
+          "id": "p09q2a",
+          "isCorrect": false,
+          "text": "因为它是可知物体在无限时间内永不停止的位置移动，并以速度保持自身的现实活动。"
+        },
+        {
+          "feedback": "这一解释允许活动与无先后的完整生命并存。",
+          "id": "p09q2b",
+          "isCorrect": true,
+          "text": "因为它指思维与生命的现实活动，不要求位置和时间先后。"
+        }
+      ],
+      "prompt": "可知“运动”为何不破坏永恒？",
+      "targetNodeIds": [
+        "plotinus-09-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p09q3a",
+      "id": "p09q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p09q3",
+      "options": [
+        {
+          "feedback": "错在把无差异空白当作有规定的统一。",
+          "id": "p09q3b",
+          "isCorrect": false,
+          "text": "只要取消所有差异，命题就会获得更高的统一和更多内容。"
+        },
+        {
+          "feedback": "案例通过改变条件展示统一不能等于抹除差异。",
+          "id": "p09q3a",
+          "isCorrect": true,
+          "text": "确定真理同时需要同一与差异，任何一方被删除都会失去内容。"
+        }
+      ],
+      "prompt": "“圆没有角”的案例证明了什么？",
+      "targetNodeIds": [
+        "plotinus-09-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p09q4b",
+      "id": "p09q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p09q4",
+      "options": [
+        {
+          "feedback": "这一收缩保住结构必要性而不制造概念仓库。",
+          "id": "p09q4b",
+          "isCorrect": true,
+          "text": "把它们理解为理智真理必须显示、却不能脱离整体的结构面向。"
+        },
+        {
+          "feedback": "这正落入异议所指出的概念实体化错误。",
+          "id": "p09q4a",
+          "isCorrect": false,
+          "text": "坚持它们是五块彼此分离、可独立移动的可知材料。"
+        }
+      ],
+      "prompt": "怎样回应“五大种只是实体化抽象词”的异议？",
+      "targetNodeIds": [
+        "plotinus-09-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p10q1a",
+      "id": "p10q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p10q1",
+      "options": [
+        {
+          "feedback": "错在把认识层级区分夸成否认可感世界。",
+          "id": "p10q1b",
+          "isCorrect": false,
+          "text": "因为感官世界完全不存在，任何外物都只是语言错误，所以理智不必区分表象和原物。"
+        },
+        {
+          "feedback": "这一项准确抓住从怀疑压力到内在对象的推理。",
+          "id": "p10q1a",
+          "isCorrect": true,
+          "text": "因为外在对象模型会留下影像与原物之间无法最终校对的裂缝。"
+        }
+      ],
+      "prompt": "为何理念必须在理智之内？",
+      "targetNodeIds": [
+        "plotinus-10-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p10q2b",
+      "id": "p10q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p10q2",
+      "options": [
+        {
+          "feedback": "这种反省意识模型过低，不能表达理智与理念的本体同一。",
+          "id": "p10q2b",
+          "isCorrect": true,
+          "text": "一个心理主体回头观察自己刚才的私人状态。"
+        },
+        {
+          "feedback": "这正是此处自我思维的核心含义。",
+          "id": "p10q2a",
+          "isCorrect": false,
+          "text": "存在、所思内容与思维现实在活动中不分离，而且三者之间没有外在消息作为中介。"
+        }
+      ],
+      "prompt": "理智的“自我思维”不等于什么？",
+      "targetNodeIds": [
+        "plotinus-10-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p10q3a",
+      "id": "p10q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p10q3",
+      "options": [
+        {
+          "feedback": "这一项保留案例的功能，也明确了它与无时间把握的差距。",
+          "id": "p10q3a",
+          "isCorrect": true,
+          "text": "它在灵魂中仍按步骤展开，只能帮助理解理智一次拥有理由与结论。"
+        },
+        {
+          "feedback": "错在删除案例要建立的外在句子与内在关系把握之别。",
+          "id": "p10q3b",
+          "isCorrect": false,
+          "text": "它证明背诵结论与理解全部关系完全相同。"
+        }
+      ],
+      "prompt": "理解证明的案例为何只是近似？",
+      "targetNodeIds": [
+        "plotinus-10-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p10q4b",
+      "id": "p10q4",
+      "kind": "objection",
+      "misconceptionId": "misconception-p10q4",
+      "options": [
+        {
+          "feedback": "回应保留无中介真理的模型，却不给主观确信自动授权。",
+          "id": "p10q4b",
+          "isCorrect": true,
+          "text": "区分理智活动与灵魂声明，并要求内容关系能够自洽说明。"
+        },
+        {
+          "feedback": "这正给狂热确信发了免检证书。",
+          "id": "p10q4a",
+          "isCorrect": false,
+          "text": "凡自称直接洞见者都无需解释内容关系。"
+        }
+      ],
+      "prompt": "怎样阻止私人确信冒充理智无误？",
+      "targetNodeIds": [
+        "plotinus-10-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p11q1a",
+      "id": "p11q1",
+      "kind": "case",
+      "misconceptionId": "misconception-p11q1",
+      "options": [
+        {
+          "feedback": "错在把关系内含物质化为字面储存。",
+          "id": "p11q1b",
+          "isCorrect": false,
+          "text": "每条定理的字面句子都秘密抄录了整本几何书，因此不需要共同原则和证明关系。"
+        },
+        {
+          "feedback": "这一项把“内含”解释为关系依赖，而不是字面塞入全部内容。",
+          "id": "p11q1a",
+          "isCorrect": true,
+          "text": "定理的真理身份通过共同原则和证明关系连接整个科学。"
+        }
+      ],
+      "prompt": "几何定理的案例怎样说明整体临在部分？",
+      "targetNodeIds": [
+        "plotinus-11-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p11q2b",
+      "id": "p11q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p11q2",
+      "options": [
+        {
+          "feedback": "这一项抓住数字在理智多样性中的构成功能。",
+          "id": "p11q2b",
+          "isCorrect": true,
+          "text": "差异怎样取得界限和次序，从而成为确定的多。"
+        },
+        {
+          "feedback": "经验计数是后来的应用，未说明单位、界限和次序如何可能。",
+          "id": "p11q2a",
+          "isCorrect": false,
+          "text": "有人对已经完成的对象作经验计数，并以计数结果事后制造单位、界限和先后次序。"
+        }
+      ],
+      "prompt": "可知“数字”首先解释什么？",
+      "targetNodeIds": [
+        "plotinus-11-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p11q3a",
+      "id": "p11q3",
+      "kind": "source-boundary",
+      "misconceptionId": "misconception-p11q3",
+      "options": [
+        {
+          "feedback": "错在用题名替代论文论证并抹掉争议。",
+          "id": "p11q3b",
+          "isCorrect": false,
+          "text": "只因题名提问，就断言每个经验个体必有完整永恒理念。"
+        },
+        {
+          "feedback": "这一处理尊重原典问题身份和不同解释的后果。",
+          "id": "p11q3a",
+          "isCorrect": true,
+          "text": "保留个体理念范围的解释争议，不把疑问标题直接改成肯定。"
+        }
+      ],
+      "prompt": "面对 `V.7` 的个体理念问题，哪种处理正确？",
+      "targetNodeIds": [
+        "plotinus-11-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p11q4b",
+      "id": "p11q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p11q4",
+      "options": [
+        {
+          "feedback": "这是案例和数字论能够稳妥保住的结构结论。",
+          "id": "p11q4b",
+          "isCorrect": true,
+          "text": "统一不必是空间拼合，确定多样性需要关系、界限和次序。"
+        },
+        {
+          "feedback": "回应明确放弃了这种过强的证明野心。",
+          "id": "p11q4a",
+          "isCorrect": false,
+          "text": "科学类比已经从经验事实演绎证明了理智必然存在。"
+        }
+      ],
+      "prompt": "对类比循环异议的回应保住了什么？",
+      "targetNodeIds": [
+        "plotinus-11-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p12q1a",
+      "id": "p12q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p12q1",
+      "options": [
+        {
+          "feedback": "错在否定理智已有的完善；问题是它的完善仍有复合结构。",
+          "id": "p12q1b",
+          "isCorrect": false,
+          "text": "因为理智完全没有真理、生命或统一，所以它不能成为任何较低认识活动的标准。"
+        },
+        {
+          "feedback": "这一项准确由理智内部结构推出其统一仍需来源。",
+          "id": "p12q1a",
+          "isCorrect": true,
+          "text": "因为理智含思者与所思、同一与差异，是被统一的多。"
+        }
+      ],
+      "prompt": "为什么理智不能作为绝对第一原则？",
+      "targetNodeIds": [
+        "plotinus-12-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p12q2a",
+      "id": "p12q2",
+      "kind": "case",
+      "misconceptionId": "misconception-p12q2",
+      "options": [
+        {
+          "feedback": "错在把绝对简单者重新人格化和复合化。",
+          "id": "p12q2b",
+          "isCorrect": false,
+          "text": "因为一者就是一位有身体、有意图并按时间排练各声部的宇宙指挥者。"
+        },
+        {
+          "feedback": "案例的功能是暴露复合原因的不足，不是给一者画像。",
+          "id": "p12q2a",
+          "isCorrect": true,
+          "text": "因为指挥者也有成分和活动，只说明追加复合原因不能终止追问。"
+        }
+      ],
+      "prompt": "合唱队案例为什么不能把一者比作指挥者？",
+      "targetNodeIds": [
+        "plotinus-12-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p12q3b",
+      "id": "p12q3",
+      "kind": "term",
+      "misconceptionId": "misconception-p12q3",
+      "options": [
+        {
+          "feedback": "错在把本体优先改成时间和物体。",
+          "id": "p12q3a",
+          "isCorrect": false,
+          "text": "它是在时间上比宇宙早很久出现的第一个物体。"
+        },
+        {
+          "feedback": "这一项说明“先于”是依赖次序，不是历史日期。",
+          "id": "p12q3b",
+          "isCorrect": true,
+          "text": "任何确定存在已有规定与差异，而绝对简单者不属于其中一个种类。"
+        }
+      ],
+      "prompt": "称一者“先于存在”意味着什么？",
+      "targetNodeIds": [
+        "plotinus-12-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p12q4a",
+      "id": "p12q4",
+      "kind": "objection",
+      "misconceptionId": "misconception-p12q4",
+      "options": [
+        {
+          "feedback": "这一收缩不伪装经验指认，却保住本体解释任务。",
+          "id": "p12q4a",
+          "isCorrect": true,
+          "text": "作为解释借来统一为何可能的非复合要求，而非感官对象。"
+        },
+        {
+          "feedback": "错在以类、属性和计划重新制造复合。",
+          "id": "p12q4b",
+          "isCorrect": false,
+          "text": "作为拥有许多美德和计划的最高类成员。"
+        }
+      ],
+      "prompt": "回应“统一只是抽象”的异议后，一者首先保留什么身份？",
+      "targetNodeIds": [
+        "plotinus-12-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p13q1a",
+      "id": "p13q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p13q1",
+      "options": [
+        {
+          "feedback": "错在以分割取消第一原则的简单和非损耗。",
+          "id": "p13q1b",
+          "isCorrect": false,
+          "text": "证明第一原则必须分割并消耗自身，才能把属于自己的一部分实体交给每一个结果。"
+        },
+        {
+          "feedback": "这一项准确表达非欠缺、非反向规定的因果关系。",
+          "id": "p13q1a",
+          "isCorrect": true,
+          "text": "让效果依赖完满原因，而原因不因效果才获得自身完成。"
+        }
+      ],
+      "prompt": "两种活动首先解决什么困难？",
+      "targetNodeIds": [
+        "plotinus-13-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p13q2a",
+      "id": "p13q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p13q2",
+      "options": [
+        {
+          "feedback": "这一项保留逻辑面向，符合此前的时间论。",
+          "id": "p13q2a",
+          "isCorrect": true,
+          "text": "因为它分解永恒依赖中的成为他者与取得规定，而非先后事件。"
+        },
+        {
+          "feedback": "错在把本体关系改成时间中的等待和决定。",
+          "id": "p13q2b",
+          "isCorrect": false,
+          "text": "因为理智先在时间中无形式地等待多年，后来才决定看向一者并开始取得理念。"
+        }
+      ],
+      "prompt": "“进展—返回”为什么不是时间故事？",
+      "targetNodeIds": [
+        "plotinus-13-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p13q3b",
+      "id": "p13q3",
+      "kind": "source-boundary",
+      "misconceptionId": "misconception-p13q3",
+      "options": [
+        {
+          "feedback": "这些图像会把两种活动的非损耗关系物质化。",
+          "id": "p13q3b",
+          "isCorrect": true,
+          "text": "液体外泄、空间下降和原因被耗损的图像。"
+        },
+        {
+          "feedback": "纵向依赖是这一简称可以保留的核心。",
+          "id": "p13q3a",
+          "isCorrect": false,
+          "text": "效果对来源的纵向依赖。"
+        }
+      ],
+      "prompt": "使用“流溢”时必须先排除什么？",
+      "targetNodeIds": [
+        "plotinus-13-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p13q4a",
+      "id": "p13q4",
+      "kind": "objection",
+      "misconceptionId": "misconception-p13q4",
+      "options": [
+        {
+          "feedback": "两种活动只提供因果语法，未完成 `VI.8` 的自由论。",
+          "id": "p13q4a",
+          "isCorrect": true,
+          "text": "人的理由选择和一者意志是否能在同一自由概念下理解。"
+        },
+        {
+          "feedback": "这与“无外因阻碍其所是”的回应直接冲突。",
+          "id": "p13q4b",
+          "isCorrect": false,
+          "text": "第一原则必须受一个外部规则强迫才会产生。"
+        }
+      ],
+      "prompt": "回应必然与自由异议后，哪项仍待另证？",
+      "targetNodeIds": [
+        "plotinus-13-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p14q1a",
+      "id": "p14q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p14q1",
+      "options": [
+        {
+          "feedback": "错在取消因果约束，使否定退化为不可检验空白。",
+          "id": "p14q1b",
+          "isCorrect": false,
+          "text": "它删除一切因果关系，并宣布任何词都可任意指称一者而无需接受结果依赖的约束。"
+        },
+        {
+          "feedback": "这一项同时保留一者的因果意义和超越性。",
+          "id": "p14q1a",
+          "isCorrect": true,
+          "text": "它与因果回溯配合，承认来源作用，同时撤销把结果方式搬回来源。"
+        }
+      ],
+      "prompt": "否定言说怎样避免把一者等同空无？",
+      "targetNodeIds": [
+        "plotinus-14-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p14q2a",
+      "id": "p14q2",
+      "kind": "case",
+      "misconceptionId": "misconception-p14q2",
+      "options": [
+        {
+          "feedback": "这一项区分活动简化与判断崩解。",
+          "id": "p14q2a",
+          "isCorrect": true,
+          "text": "整体把握可以以分析为条件，却不等于失聪或拒绝返回说明结构。"
+        },
+        {
+          "feedback": "错在把能力丧失误当成更高统一。",
+          "id": "p14q2b",
+          "isCorrect": false,
+          "text": "只要停止分辨任何声音，甚至失去听觉，就必然获得比结构分析更高的音乐认识。"
+        }
+      ],
+      "prompt": "和声案例如何限制“超越分析”？",
+      "targetNodeIds": [
+        "plotinus-14-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p14q3b",
+      "id": "p14q3",
+      "kind": "source-identity",
+      "misconceptionId": "misconception-p14q3",
+      "options": [
+        {
+          "feedback": "错在把弟子见证当作形上论证的替代品。",
+          "id": "p14q3a",
+          "isCorrect": false,
+          "text": "它单独完成了一者存在和全部形上层级的证明。"
+        },
+        {
+          "feedback": "这一项准确分层见证者与哲学家的声音。",
+          "id": "p14q3b",
+          "isCorrect": true,
+          "text": "它提供师门实践语境的见证，但不能替代普罗提诺论文的论证。"
+        }
+      ],
+      "prompt": "波菲利的“四次合一”能证明什么？",
+      "targetNodeIds": [
+        "plotinus-14-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p14q4a",
+      "id": "p14q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p14q4",
+      "options": [
+        {
+          "feedback": "这正是异议要求拒绝的免检结构。",
+          "id": "p14q4b",
+          "isCorrect": false,
+          "text": "允许任何强烈体验不经区分地自称最高真理。"
+        },
+        {
+          "feedback": "这保留实践意义而不授予私人体验免检权。",
+          "id": "p14q4a",
+          "isCorrect": true,
+          "text": "显示哲学有实践终点，并接受与论证和生活后果的交叉约束。"
+        }
+      ],
+      "prompt": "回应不可证伪异议后，合一报告保留什么作用？",
+      "targetNodeIds": [
+        "plotinus-14-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p15q1a",
+      "id": "p15q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p15q1",
+      "options": [
+        {
+          "feedback": "这一项准确区分了两种导致“不能另选”的原因。",
+          "id": "p15q1a",
+          "isCorrect": true,
+          "text": "因为选项减少可能来自认识清晰，也可能来自外在强迫。"
+        },
+        {
+          "feedback": "错在把外在强迫误写成自由增加。",
+          "id": "p15q1b",
+          "isCorrect": false,
+          "text": "因为任何受外部威胁推动的行动都比清楚判断拥有更多自由，备选项越混乱便越自由。"
+        }
+      ],
+      "prompt": "为何备选项数量不能单独定义自由？",
+      "targetNodeIds": [
+        "plotinus-15-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p15q2b",
+      "id": "p15q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p15q2",
+      "options": [
+        {
+          "feedback": "错在把治理条件夸成脱离一切条件。",
+          "id": "p15q2a",
+          "isCorrect": false,
+          "text": "完全没有身体、性格、情境或任何既有条件，行动也不需要理由与过往习惯。"
+        },
+        {
+          "feedback": "这一项把自由定位为原因内在化，而非条件消失。",
+          "id": "p15q2b",
+          "isCorrect": true,
+          "text": "能把欲望和情境带入理由判断，使较高活动规定行动。"
+        }
+      ],
+      "prompt": "“自我治理”要求什么？",
+      "targetNodeIds": [
+        "plotinus-15-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p15q3a",
+      "id": "p15q3",
+      "kind": "boundary",
+      "misconceptionId": "misconception-p15q3",
+      "options": [
+        {
+          "feedback": "这种心理模型会给一者添加先后、对象和欠缺。",
+          "id": "p15q3a",
+          "isCorrect": true,
+          "text": "在时间中审议多个计划并决定成为善。"
+        },
+        {
+          "feedback": "这是 `VI.8` 中可以保留的自因含义。",
+          "id": "p15q3b",
+          "isCorrect": false,
+          "text": "不受外在规定、其所是与活动没有裂缝。"
+        }
+      ],
+      "prompt": "一者的“意志”不应被理解成什么？",
+      "targetNodeIds": [
+        "plotinus-15-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p15q4b",
+      "id": "p15q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p15q4",
+      "options": [
+        {
+          "feedback": "这会用自由程度取消较低层的认可、习惯和注意责任。",
+          "id": "p15q4a",
+          "isCorrect": false,
+          "text": "只要行动不完美自由，就完全不属于行动者。"
+        },
+        {
+          "feedback": "这一收缩避免把“非最高自由”偷换成“完全无责”。",
+          "id": "p15q4b",
+          "isCorrect": true,
+          "text": "承认自由有程度，同时把由行动者认可和习惯形成的恶行仍归给他。"
+        }
+      ],
+      "prompt": "回应理智主义异议后，恶行责任如何保留？",
+      "targetNodeIds": [
+        "plotinus-15-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p16q1a",
+      "id": "p16q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p16q1",
+      "options": [
+        {
+          "feedback": "错在给无规定质料添加活动和意志，把它升级为第二本原。",
+          "id": "p16q1b",
+          "isCorrect": false,
+          "text": "因为它具有与一者同等但方向相反的强大意志，能够主动计划并实现具体邪恶。"
+        },
+        {
+          "feedback": "这一项把“恶本身”限制在无力与缺失，避免二元因果。",
+          "id": "p16q1a",
+          "isCorrect": true,
+          "text": "因为它按定义无形式、无自身活动，只能构成缺失条件。"
+        }
+      ],
+      "prompt": "为何质料不能成为主动邪恶本原？",
+      "targetNodeIds": [
+        "plotinus-16-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p16q2b",
+      "id": "p16q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p16q2",
+      "options": [
+        {
+          "feedback": "这一项说明恶寄生于可确定的善与能力。",
+          "id": "p16q2b",
+          "isCorrect": true,
+          "text": "某物缺少依其形式本应具有的完成，例如眼睛失明。"
+        },
+        {
+          "feedback": "错在忽略形式规定；石头本不应以视觉完成自身。",
+          "id": "p16q2a",
+          "isCorrect": false,
+          "text": "任何东西没有任何能力都算恶，例如石头没有视觉也没有推理能力，因而石头本身就是恶。"
+        }
+      ],
+      "prompt": "什么样的“缺少”才构成恶？",
+      "targetNodeIds": [
+        "plotinus-16-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p16q3a",
+      "id": "p16q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p16q3",
+      "options": [
+        {
+          "feedback": "案例区分了行为条件、工具善和行动者目的。",
+          "id": "p16q3a",
+          "isCorrect": true,
+          "text": "从工具具有材料和良好能力，直接推出它必然服务恶目的。"
+        },
+        {
+          "feedback": "这条联系仍需材料条件，但并非案例要排除的逻辑错误。",
+          "id": "p16q3b",
+          "isCorrect": false,
+          "text": "从行动者目的错误，推出具体伤害可能发生。"
+        }
+      ],
+      "prompt": "手术刀案例排除了哪一跳跃？",
+      "targetNodeIds": [
+        "plotinus-16-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p16q4b",
+      "id": "p16q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p16q4",
+      "options": [
+        {
+          "feedback": "形上可能性不能自动替代具体道德辩护。",
+          "id": "p16q4b",
+          "isCorrect": true,
+          "text": "逐一说明具体恶为何发生、能否避免以及代价由谁承担。"
+        },
+        {
+          "feedback": "这正是整个解释拒绝的二元结论。",
+          "id": "p16q4a",
+          "isCorrect": false,
+          "text": "证明存在一个与善平等的邪恶造物主。"
+        }
+      ],
+      "prompt": "质料—恶解释在回应后留下什么未完成任务？",
+      "targetNodeIds": [
+        "plotinus-16-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p17q1a",
+      "id": "p17q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p17q1",
+      "options": [
+        {
+          "feedback": "错在抹去调节激情与可知范型之间的层级差异。",
+          "id": "p17q1b",
+          "isCorrect": false,
+          "text": "因为政治德性已经等同理智中的范型德性，所以欲望、恐惧和共同责任都无需实际整理。"
+        },
+        {
+          "feedback": "这一项说明更高转向要以可执行的行动秩序为条件。",
+          "id": "p17q1a",
+          "isCorrect": true,
+          "text": "因为具身行动中的欲望、恐惧和共同责任仍需被实际整理。"
+        }
+      ],
+      "prompt": "为何政治德性不能因层级较低而跳过？",
+      "targetNodeIds": [
+        "plotinus-17-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p17q2b",
+      "id": "p17q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p17q2",
+      "options": [
+        {
+          "feedback": "错在把认同转向写成反身体消灭。",
+          "id": "p17q2a",
+          "isCorrect": false,
+          "text": "摧毁身体和感官，使人不再有任何需要，也不再接收危险、饥饿或他人求助的信号。"
+        },
+        {
+          "feedback": "这一项保留身体信号，同时取消其自动统治。",
+          "id": "p17q2b",
+          "isCorrect": true,
+          "text": "改变身体状态对善与自我认同的支配关系。"
+        }
+      ],
+      "prompt": "“净化”主要改变什么？",
+      "targetNodeIds": [
+        "plotinus-17-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p17q3a",
+      "id": "p17q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p17q3",
+      "options": [
+        {
+          "feedback": "案例清楚映射政治德性、净化与辩证法。",
+          "id": "p17q3a",
+          "isCorrect": true,
+          "text": "行动秩序、身份松脱与原则反思分别解决执行、扭曲和一致性。"
+        },
+        {
+          "feedback": "错在把一种心理状态替代三种不同功能。",
+          "id": "p17q3b",
+          "isCorrect": false,
+          "text": "只要保持镇定，原则、公平和具体执行都可省略。"
+        }
+      ],
+      "prompt": "急诊分流案例显示三层活动怎样互补？",
+      "targetNodeIds": [
+        "plotinus-17-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p17q4b",
+      "id": "p17q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p17q4",
+      "options": [
+        {
+          "feedback": "这把自我优越误作更高统一，正中异议。",
+          "id": "p17q4a",
+          "isCorrect": false,
+          "text": "承认最高活动允许拒绝一切基本照护。"
+        },
+        {
+          "feedback": "回应保留净化的内在价值，也不伪造普罗提诺未给出的制度伦理。",
+          "id": "p17q4b",
+          "isCorrect": true,
+          "text": "要求较少私欲支配转化为更准确的照护，同时承认制度理论不足。"
+        }
+      ],
+      "prompt": "怎样回应净化可能导致冷漠的异议？",
+      "targetNodeIds": [
+        "plotinus-17-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p18q1a",
+      "id": "p18q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p18q1",
+      "options": [
+        {
+          "feedback": "这一项指出快乐总量漏掉行动种类和真理关系。",
+          "id": "p18q1a",
+          "isCorrect": true,
+          "text": "因为愉快可伴随卑劣行动，时长也不能说明活动的规范质量。"
+        },
+        {
+          "feedback": "错在把可变外物升级成二元邪恶实体。",
+          "id": "p18q1b",
+          "isCorrect": false,
+          "text": "因为任何身体快乐都必然是独立邪恶本原，所以愉快时刻的多少与行动质量都无关。"
+        }
+      ],
+      "prompt": "幸福为何不能由愉快时刻相加定义？",
+      "targetNodeIds": [
+        "plotinus-18-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p18q2b",
+      "id": "p18q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p18q2",
+      "options": [
+        {
+          "feedback": "这是自足可以保留的价值中心含义。",
+          "id": "p18q2a",
+          "isCorrect": false,
+          "text": "决定性善不由暴君或运气授予，而且它的规范价值不能被外部暴力改写。"
+        },
+        {
+          "feedback": "这一过强的因果隔离被明确拒绝。",
+          "id": "p18q2b",
+          "isCorrect": true,
+          "text": "人不需要食物、朋友、身体，也不会遭受因果伤害。"
+        }
+      ],
+      "prompt": "“自足”在此不等于什么？",
+      "targetNodeIds": [
+        "plotinus-18-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p18q3a",
+      "id": "p18q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p18q3",
+      "options": [
+        {
+          "feedback": "案例让“善未被改写”与“人未受伤”保持不同。",
+          "id": "p18q3a",
+          "isCorrect": true,
+          "text": "真理与正直的规范价值、主体能力和身体代价可以分辨。"
+        },
+        {
+          "feedback": "错在从规范价值未变跳到经验伤害不存在。",
+          "id": "p18q3b",
+          "isCorrect": false,
+          "text": "只要证词真实，威胁和创伤就没有发生。"
+        }
+      ],
+      "prompt": "记者拒绝伪证的案例区分了什么？",
+      "targetNodeIds": [
+        "plotinus-18-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p18q4b",
+      "id": "p18q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p18q4",
+      "options": [
+        {
+          "feedback": "这正把抵抗资源翻成免除加害责任的借口。",
+          "id": "p18q4a",
+          "isCorrect": false,
+          "text": "宣称受害者有尊严，所以加害者没有造成任何损失。"
+        },
+        {
+          "feedback": "这一收缩同时保住尊严和伤害的现实。",
+          "id": "p18q4b",
+          "isCorrect": true,
+          "text": "区分内在善未被夺与身体、机会、关系确实受损。"
+        }
+      ],
+      "prompt": "怎样阻止自足论减轻施暴责任？",
+      "targetNodeIds": [
+        "plotinus-18-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p19q1a",
+      "id": "p19q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p19q1",
+      "options": [
+        {
+          "feedback": "这一项使用反例迫使美转向形式与统一。",
+          "id": "p19q1a",
+          "isCorrect": true,
+          "text": "因为简单颜色、单音和德行之美不都由部分比例构成。"
+        },
+        {
+          "feedback": "错在把“不充分”夸成“完全排斥”。",
+          "id": "p19q1b",
+          "isCorrect": false,
+          "text": "因为任何有比例的事物都必然没有形式，比例与统一、生命和活动整体之间完全排斥。"
+        }
+      ],
+      "prompt": "为何比例不是美的充分条件？",
+      "targetNodeIds": [
+        "plotinus-19-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p19q2a",
+      "id": "p19q2",
+      "kind": "term",
+      "misconceptionId": "misconception-p19q2",
+      "options": [
+        {
+          "feedback": "错在取消爱欲赖以发生的距离和运动。",
+          "id": "p19q2b",
+          "isCorrect": false,
+          "text": "爱者已经完全拥有所趋之善，所以不再感到任何缺乏，也不再需要朝来源转向。"
+        },
+        {
+          "feedback": "这一项解释爱既非完整占有，也非与善毫无关系。",
+          "id": "p19q2a",
+          "isCorrect": true,
+          "text": "爱者尚未拥有所趋之善，却已因善的痕迹而能被吸引。"
+        }
+      ],
+      "prompt": "爱欲为何同时包含缺乏与丰盈？",
+      "targetNodeIds": [
+        "plotinus-19-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p19q3b",
+      "id": "p19q3",
+      "kind": "case",
+      "misconceptionId": "misconception-p19q3",
+      "options": [
+        {
+          "feedback": "错在忽略维修与事故取证对信息的不同要求。",
+          "id": "p19q3a",
+          "isCorrect": false,
+          "text": "抽象形式在任何任务中都可删除具体损伤而不失真。"
+        },
+        {
+          "feedback": "条件变化限制了艺术“纠正自然”的权限。",
+          "id": "p19q3b",
+          "isCorrect": true,
+          "text": "越过表面可揭示结构，也可能在另一功能下抹掉关键事实。"
+        }
+      ],
+      "prompt": "桥的照片与结构图案例说明什么？",
+      "targetNodeIds": [
+        "plotinus-19-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p19q4a",
+      "id": "p19q4",
+      "kind": "response",
+      "misconceptionId": "misconception-p19q4",
+      "options": [
+        {
+          "feedback": "这一回应给出实践检验，也没有宣布排斥风险消失。",
+          "id": "p19q4a",
+          "isCorrect": true,
+          "text": "要求形式观看减少占有并返回照护具身生命，同时保留等级风险。"
+        },
+        {
+          "feedback": "这正实现了异议所担心的用完即弃。",
+          "id": "p19q4b",
+          "isCorrect": false,
+          "text": "宣布无形形式较高，因此任何具身损伤都不值得关心。"
+        }
+      ],
+      "prompt": "怎样回应“上升把具体人当阶梯”的异议？",
+      "targetNodeIds": [
+        "plotinus-19-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p20q1a",
+      "id": "p20q1",
+      "kind": "argument",
+      "misconceptionId": "misconception-p20q1",
+      "options": [
+        {
+          "feedback": "这一项保留分级类比，没有赋予自然人类心理。",
+          "id": "p20q1a",
+          "isCorrect": true,
+          "text": "它指自然以无推理生产保持对形式来源的关系，不是自然在心中写论证。"
+        },
+        {
+          "feedback": "错在把不同层级的活动方式强行同一。",
+          "id": "p20q1b",
+          "isCorrect": false,
+          "text": "它指植物和石头都在默念与人相同的哲学命题，并以反省意识逐条审查推理。"
+        }
+      ],
+      "prompt": "自然的“沉思”怎样避免成为拟人化？",
+      "targetNodeIds": [
+        "plotinus-20-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p20q2a",
+      "id": "p20q2",
+      "kind": "case",
+      "misconceptionId": "misconception-p20q2",
+      "options": [
+        {
+          "feedback": "这一项把非损耗给予转成可观察的实践条件。",
+          "id": "p20q2a",
+          "isCorrect": true,
+          "text": "学生能独立理解，显示给予按接受能力传递而不制造永久依赖。"
+        },
+        {
+          "feedback": "错在把控制和依赖误作完善的外显。",
+          "id": "p20q2b",
+          "isCorrect": false,
+          "text": "学生越只能复制教师答案并永久依赖教师，越证明这种给予接近一者式的非损耗因果。"
+        }
+      ],
+      "prompt": "教师案例怎样检验外在活动？",
+      "targetNodeIds": [
+        "plotinus-20-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p20q3b",
+      "id": "p20q3",
+      "kind": "source-identity",
+      "misconceptionId": "misconception-p20q3",
+      "options": [
+        {
+          "feedback": "这一项准确维持见证者、生活实践和理论边界。",
+          "id": "p20q3b",
+          "isCorrect": true,
+          "text": "提供师门实践的见证，但须与普罗提诺的政治论证能力分开。"
+        },
+        {
+          "feedback": "错在用传记轶事填补哲学论证的概念缺口。",
+          "id": "p20q3a",
+          "isCorrect": false,
+          "text": "独自证明《九章集》已经包含完整权利与制度问责理论。"
+        }
+      ],
+      "prompt": "波菲利所述照护孤儿和“柏拉图城”能承担什么？",
+      "targetNodeIds": [
+        "plotinus-20-teaching"
+      ]
+    },
+    {
+      "correctOptionId": "p20q4a",
+      "id": "p20q4",
+      "kind": "remaining-debt",
+      "misconceptionId": "misconception-p20q4",
+      "options": [
+        {
+          "feedback": "这一债务明确指出普罗提诺资源与现代制度伦理之间的缺口。",
+          "id": "p20q4a",
+          "isCorrect": true,
+          "text": "把形上自我治理转成权利、公共问责和制度修复的共同标准。"
+        },
+        {
+          "feedback": "错在推翻第一原则的非依赖地位，也与路线的开放边界无关。",
+          "id": "p20q4b",
+          "isCorrect": false,
+          "text": "寻找比一者更高、并在时间中创造一者的第二本原。"
+        }
+      ],
+      "prompt": "路线最终保留的未偿债务是什么？",
+      "targetNodeIds": [
+        "plotinus-20-teaching"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "edition": "editor-witness",
+      "id": "porphyry-life",
+      "identity": "波菲利是弟子、见证者和身后编者；其生平叙述、四次合一报告与编排理由不是普罗提诺自述。",
+      "locator": "VP 4—6, 24—26",
+      "locatorVerified": true,
+      "workId": "波菲利，《普罗提诺传及其著作编排》4—6、24—26"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-i1",
+      "identity": "晚期论文中的层级区分不能直接等同现代人格同一理论。",
+      "locator": "I.1.1—13",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》I.1 [53]《何为生命体，何为人》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-i2-i3",
+      "identity": "政治德性在层级中较低，不等于无价值；辩证法也不是现代形式逻辑的同义词。",
+      "locator": "I.2.1—7; I.3.1—6",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》I.2 [19]、I.3 [20]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-i4-i5",
+      "identity": "贤者幸福未被外物夺走不等于身体痛苦或他人损失不存在。",
+      "locator": "I.4.1—16; I.5.1—10",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》I.4 [46]、I.5 [36]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-i6",
+      "identity": "这是现存最早论文；早并不自动意味着体系上最基础或最简单。",
+      "locator": "I.6.1—9",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》I.6 [1]《论美》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-i7-i9",
+      "identity": "质料是恶或恶的条件不能被写成与善对抗的主动邪恶实体；退出生命受严格限制。",
+      "locator": "I.7; I.8.1—15; I.9",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》I.7 [54]、I.8 [51]、I.9 [16]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-ii1-ii3",
+      "identity": "宇宙共感可说明征兆，不许可把星辰当作人类每一行动的充分原因。",
+      "locator": "II.1; II.2; II.3.1—18",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》II.1 [40]、II.2 [14]、II.3 [52]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-ii4-ii7",
+      "identity": "普罗提诺借用并改造亚里士多德术语；不可把两人的质料形态论直接合并。",
+      "locator": "II.4—7",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》II.4 [12]—II.7 [37]"
+    },
+    {
+      "edition": "primary-polemical",
+      "id": "enn-ii9",
+      "identity": "对手是普罗提诺圈子接触的一组当代教说；不得把该文当作所有诺斯替传统的中立总述。",
+      "locator": "II.9.1—18",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》II.9 [33]《反对说宇宙创造者与宇宙本身为恶者》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iii1",
+      "identity": "灵魂作为新因不意味着它脱离所有性格、身体与环境条件。",
+      "locator": "III.1.1—10",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.1 [3]《论命运》"
+    },
+    {
+      "edition": "primary-editorial-unit",
+      "id": "enn-iii2-iii3",
+      "identity": "波菲利把一篇连续论文拆为两篇；整体和谐论证不能自动成为对个体受害的充分回应。",
+      "locator": "III.2—3",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.2 [47]—III.3 [48]《论天意》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iii5",
+      "identity": "对《会饮》《斐德若》的解释是普罗提诺的形上重建，不是柏拉图文本的无争议直译。",
+      "locator": "III.5.1—9",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.5 [50]《论爱》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iii6",
+      "identity": "不受作用描述灵魂与质料的存在方式，不表示经验层面的疼痛是幻觉。",
+      "locator": "III.6.1—19",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.6 [26]《论无形者的不受作用》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iii7",
+      "identity": "永恒不是无限长的持续，宇宙无开端也不等于宇宙超时间。",
+      "locator": "III.7.1—13",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.7 [45]《论永恒与时间》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iii8",
+      "identity": "“一切皆沉思”是分级类比，不能抹去各层活动方式的差异。",
+      "locator": "III.8.1—11",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》III.8 [30]《论自然、沉思与一者》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iv1-iv2",
+      "identity": "波菲利编排中的两篇处理连续问题；非空间临在不能用稀薄物质扩散来想象。",
+      "locator": "IV.1—2",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》IV.1 [21]—IV.2 [4]《论灵魂的本质》"
+    },
+    {
+      "edition": "primary-editorial-unit",
+      "id": "enn-iv3-iv6",
+      "identity": "IV.3—5 源自一篇连续论文；编者切口不能变成三套彼此独立的学说。",
+      "locator": "IV.3—6",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》IV.3 [27]—IV.6 [41]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-iv7-iv9",
+      "identity": "最高部分不下降有强弱解释之争；共同灵魂层级不取消个体经历与责任。",
+      "locator": "IV.7—9",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》IV.7 [2]—IV.9 [8]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-v1-v4",
+      "identity": "“三实体”是教学概括，不是三个空间区域、时间阶段或基督教三个位格。",
+      "locator": "V.1—4",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》V.1 [10]—V.4 [7]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-v5-v9",
+      "identity": "个体理念的范围存在解释争议；理智自思不能还原为现代反省意识。",
+      "locator": "V.5—9",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》V.5 [32]—V.9 [5]"
+    },
+    {
+      "edition": "primary-editorial-unit",
+      "id": "enn-vi1-vi3",
+      "identity": "三篇本是一篇连续论文；可知“运动”是生命与思维活动，不是位置移动。",
+      "locator": "VI.1—3",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》VI.1 [42]—VI.3 [44]《论存在的种类》"
+    },
+    {
+      "edition": "primary-editorial-unit",
+      "id": "enn-vi4-vi5",
+      "identity": "两篇本是一篇连续论文；无所不在不是空间上的无限延展。",
+      "locator": "VI.4—5",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》VI.4 [22]—VI.5 [23]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-vi6-vi7",
+      "identity": "数字是可知规定的原则，不等于经验计数；“真正的人”不能用来取消具身生活的道德分量。",
+      "locator": "VI.6—7",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》VI.6 [34]—VI.7 [38]"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-vi8",
+      "identity": "一者的意志不是在选项间审议，也不能赋予它时间计划或人格心理。",
+      "locator": "VI.8.1—21",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》VI.8 [39]《论自愿与一者的意志》"
+    },
+    {
+      "edition": "primary",
+      "id": "enn-vi9",
+      "identity": "合一描述不能独自替代第一原则论证，也不得无根据地解释为人格消灭。",
+      "locator": "VI.9.1—11",
+      "locatorVerified": true,
+      "workId": "普罗提诺，《九章集》VI.9 [9]《论善或一者》"
+    },
+    {
+      "edition": "secondary-reference",
+      "id": "modern-sep",
+      "identity": "这是当代系统重构和研究导航，不是原典声音。",
+      "locator": "sections 1—8, current edition",
+      "locatorVerified": true,
+      "workId": "Stanford Encyclopedia of Philosophy, “Plotinus”"
+    },
+    {
+      "edition": "critical-edition",
+      "id": "edition-hs",
+      "identity": "中文表述仍须说明译词选择；校勘本不为解释争议自动裁决。",
+      "locator": "editio minor, 3 vols., Oxford 1964—1982",
+      "locatorVerified": true,
+      "workId": "Paul Henry 与 Hans-Rudolf Schwyzer 编，Plotini Opera"
+    },
+    {
+      "edition": "modern-translation",
+      "id": "translation-gerson",
+      "identity": "译文是定位与理解辅助，不能替代希腊文歧义和学术争论说明。",
+      "locator": "Cambridge University Press, 2018",
+      "locatorVerified": true,
+      "workId": "Lloyd P. Gerson 主编，Plotinus: The Enneads"
+    }
+  ],
+  "lessons": [
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-01-p06",
+      "checkIds": [
+        "p01q1",
+        "p01q2",
+        "p01q3",
+        "p01q4"
+      ],
+      "coreExplanation": "波菲利说得很清楚：他面前有五十四篇论文，为了题材相近和六、九两个数的和谐，把它们编成六个“九篇组”，并有意舍弃写作时间。他还为论文加题，校订文字，把若干连续长论拆开。于是卷次能告诉我们编者认为哪些题材相邻，却不能直接证明某一论证以另一卷为前提。这里首先要分开三种声音。论文中的追问、反诘和阶段结论属于普罗提诺；《普罗提诺传》中关于写作习惯、合一次数和编辑安排的叙述属于波菲利；“流溢说”“三大实体”“神秘主义”则是后世便于概括的标签。把三者揉成一种全知叙述，会让编者的秩序、见证者的记忆和哲学家的论证互相冒名。纯粹改按年代阅读也不能解决问题。写作次序能显示普罗提诺何时重访某个疑难，也能提醒我们晚期措辞可能改变；但他在成熟时期反复从不同入口处理灵魂、理智与一者，较早并不等于较浅，较晚也不等于推翻较早。年代是检验变化的证据，不是自动生成的推理阶梯。",
+      "depth": "longform",
+      "guidingQuestion": "翻开《九章集》，一种整齐会立刻造成误导：六组，每组九篇，先伦理，后宇宙，再灵魂、理智和一者。若这就是普罗提诺亲自设计的道路，那么沿目录逐项解释似乎足够。问题在于，这份整齐来自波菲利身后的编辑。我们握有近乎完整的思想材料，却没有一部由普罗提诺按这个次序写成的系统著作。",
+      "id": "plotinus-01",
+      "nodeIds": [
+        "plotinus-01-teaching"
+      ],
+      "order": 1,
+      "recommendedNextLessonId": "plotinus-02",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-01-p01",
+          "identity": "paragraphId=plotinus-01-p01; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "翻开《九章集》，一种整齐会立刻造成误导：六组，每组九篇，先伦理，后宇宙，再灵魂、理智和一者。若这就是普罗提诺亲自设计的道路，那么沿目录逐项解释似乎足够。问题在于，这份整齐来自波菲利身后的编辑。我们握有近乎完整的思想材料，却没有一部由普罗提诺按这个次序写成的系统著作。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p02",
+          "identity": "paragraphId=plotinus-01-p02; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "波菲利说得很清楚：他面前有五十四篇论文，为了题材相近和六、九两个数的和谐，把它们编成六个“九篇组”，并有意舍弃写作时间。他还为论文加题，校订文字，把若干连续长论拆开。于是卷次能告诉我们编者认为哪些题材相邻，却不能直接证明某一论证以另一卷为前提。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p03",
+          "identity": "paragraphId=plotinus-01-p03; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "这里首先要分开三种声音。论文中的追问、反诘和阶段结论属于普罗提诺；《普罗提诺传》中关于写作习惯、合一次数和编辑安排的叙述属于波菲利；“流溢说”“三大实体”“神秘主义”则是后世便于概括的标签。把三者揉成一种全知叙述，会让编者的秩序、见证者的记忆和哲学家的论证互相冒名。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p04",
+          "identity": "paragraphId=plotinus-01-p04; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "纯粹改按年代阅读也不能解决问题。写作次序能显示普罗提诺何时重访某个疑难，也能提醒我们晚期措辞可能改变；但他在成熟时期反复从不同入口处理灵魂、理智与一者，较早并不等于较浅，较晚也不等于推翻较早。年代是检验变化的证据，不是自动生成的推理阶梯。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p05",
+          "identity": "paragraphId=plotinus-01-p05; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "因此需要一个比目录更严格的办法：追踪“依赖”。所谓依赖，是一项结论若未取得，下一项论证就无法开始。例如，在说明灵魂为何无形之前，不能认真解释它如何整体临在身体；在说明理智为何仍是多之前，也不能推出比理智更统一的一者。依赖不是替普罗提诺写一套公理，而是把他反复处理的疑难按必要的先后重新接合。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p06",
+          "identity": "paragraphId=plotinus-01-p06; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "可以把现存论文想成一座维修多次的桥。桥面上的编号告诉人材料如今摆在哪里，材料上的日期告诉人何时运来；真正决定能否通行的，却是哪些梁承着哪些梁。若只按编号走，会把编辑切口当结构；若只按日期堆，会把同一支承分散到远处。检查承重关系，才知道为何某一步不能跳过。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p07",
+          "identity": "paragraphId=plotinus-01-p07; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "这种读法也改变了引用方式。普罗提诺常以柏拉图的句子为权威起点，却会借亚里士多德的活动概念、斯多亚派的宇宙共感，或者对同时代对手的批评来重造问题。说他是柏拉图的解释者是事实；说每个结论已经原封不动地写在柏拉图那里，则取消了他的创造性工作。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p08",
+          "identity": "paragraphId=plotinus-01-p08; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "这里最难回避的反问是：既然论文没有作者亲定的总序，任何依赖链都会不会只是现代人强加的体系？这个担心击中了真实风险。若重建者为了整齐而删除犹疑、把局部比喻升级为普遍定律，或者用后来术语替原文作答，得到的确实只是另一部《九章集》。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p09",
+          "identity": "paragraphId=plotinus-01-p09; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "这迫使重建者放弃唯一顺序的宣称，只主张一条可逐段复核的路线。每个连接都要由前一困难留下的问题和后一论证实际调用的结果支持；遇到不下降灵魂、个体理念或质料即恶等分歧，须保留不同强度的解释。这样，系统性是受原文约束的重建，不是藏起编辑工作的幻觉。"
+          ]
+        },
+        {
+          "heading": "plotinus-01-p10",
+          "identity": "paragraphId=plotinus-01-p10; claim-source=porphyry-life@VP 4—6, 24—26",
+          "kind": "argument",
+          "paragraphs": [
+            "于是问题落到一个实体性入口：若不从目录起步，应从什么起步？最稳妥的选择不是先宣布有一者，而是观察可感事物。它们不断更换性质，却仍被我们当作同一个东西；它们由许多部分组成，却呈现一个形状和活动。变化中的事物能否靠自身解释自己的统一，将迫使论证越出纯粹可感层面。"
+          ]
+        }
+      ],
+      "title": "先找出是谁在说话"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-02-p06",
+      "checkIds": [
+        "p02q1",
+        "p02q2",
+        "p02q3",
+        "p02q4"
+      ],
+      "coreExplanation": "普罗提诺在 `II.4—7` 与 `III.6` 中借用亚里士多德的质料、潜能、现实、性质和形式等词，却改变了它们的工作。波菲利把这些论文放在第二组的宇宙论区域，其中有些题名还会诱使人以为这只是古代物理学附录。其实它们承担着以后灵魂、恶与产生论都必须调用的底层区分。先看一个承载者需要满足什么。如果它预先是热的，就不能以同样方式承载冷；若预先有固定形状，也不能无保留地显出相反形状。能承载一切规定者，自身必须不占有任何待承载的规定。这个推理不是观察到一种神秘材料，而是从彻底可接受性倒推出基底的无规定。普罗提诺把这一无规定基底称为“质料”。它不是藏在性质背后的微小实体，也不是一个等候加工、随后真的获得形状的半成品。更贴切的说法是：形式在它“之中”显现，质料却不把形式变成自己的性质。它像一面绝不被影像染色的镜面，不过镜面仍有光滑等性质，所以比喻到这里就必须停止。",
+      "depth": "longform",
+      "guidingQuestion": "一块青铜先冷后热，一张脸在少年、成年和衰老时仍被认作同一张脸。若每次性质改变都等于旧物消失、新物出现，“同一个东西改变”便失去意义；若变化者完整保留所有相反性质，它又会同时冷与热、年轻与衰老。可感事物要求我们既承认持续者，也承认它不能以任何一项正在更换的性质来定义。",
+      "id": "plotinus-02",
+      "nodeIds": [
+        "plotinus-02-teaching"
+      ],
+      "order": 2,
+      "recommendedNextLessonId": "plotinus-03",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-02-p01",
+          "identity": "paragraphId=plotinus-02-p01; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "一块青铜先冷后热，一张脸在少年、成年和衰老时仍被认作同一张脸。若每次性质改变都等于旧物消失、新物出现，“同一个东西改变”便失去意义；若变化者完整保留所有相反性质，它又会同时冷与热、年轻与衰老。可感事物要求我们既承认持续者，也承认它不能以任何一项正在更换的性质来定义。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p02",
+          "identity": "paragraphId=plotinus-02-p02; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺在 `II.4—7` 与 `III.6` 中借用亚里士多德的质料、潜能、现实、性质和形式等词，却改变了它们的工作。波菲利把这些论文放在第二组的宇宙论区域，其中有些题名还会诱使人以为这只是古代物理学附录。其实它们承担着以后灵魂、恶与产生论都必须调用的底层区分。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p03",
+          "identity": "paragraphId=plotinus-02-p03; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "先看一个承载者需要满足什么。如果它预先是热的，就不能以同样方式承载冷；若预先有固定形状，也不能无保留地显出相反形状。能承载一切规定者，自身必须不占有任何待承载的规定。这个推理不是观察到一种神秘材料，而是从彻底可接受性倒推出基底的无规定。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p04",
+          "identity": "paragraphId=plotinus-02-p04; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺把这一无规定基底称为“质料”。它不是藏在性质背后的微小实体，也不是一个等候加工、随后真的获得形状的半成品。更贴切的说法是：形式在它“之中”显现，质料却不把形式变成自己的性质。它像一面绝不被影像染色的镜面，不过镜面仍有光滑等性质，所以比喻到这里就必须停止。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p05",
+          "identity": "paragraphId=plotinus-02-p05; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "不过，无规定基底还不能解释我们为何看见具体身体。使火成为火的，是热、干、向上运动等规定依一定关系共同出现。普罗提诺常用 `logos` 指这种形成和组织的原则。它不只是外轮廓；若只剩轮廓而没有相应活动，火就不再作为火存在。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p06",
+          "identity": "paragraphId=plotinus-02-p06; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "设想舞台上一块白幕先映出海面，后映出烈焰。若把蓝和红归给幕布本身，就难以说明图像切换时幕布为何没有同时保留二者；若说什么都没有发生，又否认了可见差异。较准确的映射是：幕布仅帮助显现，投影结构决定所见内容。条件改变为幕布本身染蓝时，它就不再是对质料的好比喻，因为它已有抵抗下一图像的性质。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p07",
+          "identity": "paragraphId=plotinus-02-p07; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "潜能与现实也因此需要分层。具体身体可以潜在地变热，后来现实地热，因为它已经是有性质、有能力的复合物；纯质料却不能像胚胎长成树那样“潜在地”拥有一切形式。若赋予它这种积极能力，质料便已有确定活动，不再是从无规定接受性推出的极限。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p08",
+          "identity": "paragraphId=plotinus-02-p08; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "一种没有大小、形状、性质，甚至不真正取得形式的东西，是否只是把“什么都没有”换了名字？若质料与全无没有差别，它不能解释变化；若有差别，我们似乎又必须给它至少一种正面性质。这个两难直接检验质料有没有说明力。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p09",
+          "identity": "paragraphId=plotinus-02-p09; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "若为躲开两难而把质料重新充实，原来的推理就会失效。可以承认，它不是能被单独指认的对象，其说明力是关系性的：它标出可感形式显现而不具有自身稳定实质的最低条件。这只保住“变化不能由相互更换的性质独自承担”，并不证明质料像桌椅一样存在。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p10",
+          "identity": "paragraphId=plotinus-02-p10; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "这一收缩也预告了后面的恶论。无规定和无善的质料为何被称为恶，不能靠这里提前断言；否则会把结构条件偷换成主动邪恶原因。眼下能取得的只是：具体身体的身份来自形式原则，质料使形式能够在可感层面显现，却不给身体以统一活动。"
+          ]
+        },
+        {
+          "heading": "plotinus-02-p11",
+          "identity": "paragraphId=plotinus-02-p11; claim-source=enn-ii4-ii7@II.4—7",
+          "kind": "argument",
+          "paragraphs": [
+            "质料与形式的区分把未解处缩得更具体。一具身体的眼、手、心脏各有结构和活动，形式原则可以逐一说明它们是什么，却仍需解释为何一处受伤会牵动整个生命，许多部分为何不是堆在一起而是共同感受、行动。若统一生命不能由可分部分相加得到，就必须寻找一种不按身体方式分割的原则。"
+          ]
+        }
+      ],
+      "title": "变化为何需要一个不带性质的承载者"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-03-p06",
+      "checkIds": [
+        "p03q1",
+        "p03q2",
+        "p03q3",
+        "p03q4"
+      ],
+      "coreExplanation": "普罗提诺先把身体与生命原则结合后的整体称为“生命体”。身体取得感觉和欲望能力，不是因为质料忽然有了心灵，而是灵魂的活动在合适的有机结构中显现。疼痛属于这个结合体：没有受伤器官便无此疼痛，没有灵魂的生命能力也只剩物理变化。把它只归一边都会丢失条件。这一区分生成了一个不太舒服的词：“我们”。日常说“我”时，有时认同正在害怕、饥饿的生命体，有时又站在判断位置说“我不应跟随这个恐惧”。“我们”不是固定藏在体内的小人，而是认同可以上移或下移的中心。它能与复合状态同感，也能以推理能力衡量这些状态。受作用与察觉也不能混作一事。身体组织承受切割和热，复合生命体形成疼痛状态；判断能力认识这一状态，却不必复制一份物理伤口。若知道红色必须变红，知道圆形必须变圆，认识会摧毁认识者对差异的判断。灵魂之所以能说“这是疼痛”，恰因它没有在同一意义上成为伤口。",
+      "depth": "longform",
+      "guidingQuestion": "手被火烫伤时，说“身体受热但我没有疼”显然荒谬；然而若疼痛像热一样直接刻进灵魂，灵魂就必须具有身体那样可受作用、可分割的表面。上一项分析把生命统一的需要留给了无形原则，现在经验却把无形灵魂拉回疼痛、愤怒和欲望。受苦者、察觉者和严格意义的自我是否完全相同，成了无法绕开的压力。",
+      "id": "plotinus-03",
+      "nodeIds": [
+        "plotinus-03-teaching"
+      ],
+      "order": 3,
+      "recommendedNextLessonId": "plotinus-04",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-03-p01",
+          "identity": "paragraphId=plotinus-03-p01; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "手被火烫伤时，说“身体受热但我没有疼”显然荒谬；然而若疼痛像热一样直接刻进灵魂，灵魂就必须具有身体那样可受作用、可分割的表面。上一项分析把生命统一的需要留给了无形原则，现在经验却把无形灵魂拉回疼痛、愤怒和欲望。受苦者、察觉者和严格意义的自我是否完全相同，成了无法绕开的压力。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p02",
+          "identity": "paragraphId=plotinus-03-p02; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺先把身体与生命原则结合后的整体称为“生命体”。身体取得感觉和欲望能力，不是因为质料忽然有了心灵，而是灵魂的活动在合适的有机结构中显现。疼痛属于这个结合体：没有受伤器官便无此疼痛，没有灵魂的生命能力也只剩物理变化。把它只归一边都会丢失条件。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p03",
+          "identity": "paragraphId=plotinus-03-p03; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "这一区分生成了一个不太舒服的词：“我们”。日常说“我”时，有时认同正在害怕、饥饿的生命体，有时又站在判断位置说“我不应跟随这个恐惧”。“我们”不是固定藏在体内的小人，而是认同可以上移或下移的中心。它能与复合状态同感，也能以推理能力衡量这些状态。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p04",
+          "identity": "paragraphId=plotinus-03-p04; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "受作用与察觉也不能混作一事。身体组织承受切割和热，复合生命体形成疼痛状态；判断能力认识这一状态，却不必复制一份物理伤口。若知道红色必须变红，知道圆形必须变圆，认识会摧毁认识者对差异的判断。灵魂之所以能说“这是疼痛”，恰因它没有在同一意义上成为伤口。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p05",
+          "identity": "paragraphId=plotinus-03-p05; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺由此谈“真正的人”，指能够向理智活动提升的灵魂中心。这个表达不是宣布身体是假人，也不是许可忽略病痛。它要回答的是规范问题：当欲望与判断冲突，何者有资格决定整个生命的方向。身体属于我的生活，不因此穷尽我能够成为的活动层级。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p06",
+          "identity": "paragraphId=plotinus-03-p06; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "想象一名钢琴师演奏时手指抽筋。抽筋既是身体事件，也立刻改变正在进行的音乐活动；钢琴师知道它、调整动作，却不等于判断本身也发生肌肉痉挛。若麻醉使她不再感觉，身体损伤仍可能存在；若没有损伤却因神经误报而痛，疼痛仍真实。条件变化显示，身体原因、复合状态和判断不可压成一项。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p07",
+          "identity": "paragraphId=plotinus-03-p07; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "这套层级会不会把“真正的我”安置在安全高处，从而把具身受苦降为次等事件？一旦把痛苦只归给较低复合者，贤者似乎可以对自己的伤口、他人的饥饿都说“那不触及真正的人”。反问攻击的不是无形灵魂本身，而是从存在区分跨到价值轻视的那一步。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p08",
+          "identity": "paragraphId=plotinus-03-p08; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "原典身份在这里尤其重要。`I.1 [53]` 是普罗提诺很晚的论文，集中整理“生命体”“人”和“我们”；`VI.7` 又从真正的人通向善。它们可互相照明，却不能被波菲利的卷次误写成先有完整伦理定义、再有形上应用。晚期表达也不能替所有早期灵魂论消除张力。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p09",
+          "identity": "paragraphId=plotinus-03-p09; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "要避免这一步越界，较高自我的主张必须缩小：判断和自我治理不等于身体状态，却不否认具身状态属于此人的生活并向判断提出行动要求。存在上“不在同一意义受伤”不能推出伦理上“无需照料”。这既保住灵魂不被物理分割，也把身体后果带入幸福和责任。"
+          ]
+        },
+        {
+          "heading": "plotinus-03-p10",
+          "identity": "paragraphId=plotinus-03-p10; claim-source=enn-i1@I.1.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "问题因此不再只是“灵魂是什么”，而是它怎样知道身体。若感觉是身体把影像压进灵魂，前面的不受作用被取消；若感觉完全是灵魂自言自语，又不能解释为何手离火后疼痛改变。需要一种同时承认器官条件和灵魂主动判断的认识模型。"
+          ]
+        }
+      ],
+      "title": "疼痛发生在谁身上"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-04-p06",
+      "checkIds": [
+        "p04q1",
+        "p04q2",
+        "p04q3",
+        "p04q4"
+      ],
+      "coreExplanation": "看一支半浸水中的直木棍，它显得弯曲；取出后又直。器官与介质提供的表象会随条件改变，但判断可以比较两次显现，认出对象没有相应变化。若感觉只是印记，第二印记只能替换第一印记，不能把二者作为两个显现加以校正。错觉反而显示感觉中已有判断性活动。光线改变眼的状态，热改变皮肤，声音振动耳；这些身体变化为感觉提供材料和时机。灵魂并不在眼中变成颜色，而是借器官变化辨识一个对象。器官受作用与灵魂活动必须分开：身体是条件，不是把自己的物理性质搬进灵魂的印章。“表象”由此取得必要性。它是感觉结果在灵魂层面的呈现，使一次经验能在对象离开后仍被保留、比较和调用。表象不等于外物的微型复制品；它已带着感官位置、注意和身体条件。若介质改变，表象可以改变，而判断仍能追问变化来自对象还是条件。",
+      "depth": "longform",
+      "guidingQuestion": "感觉似乎把灵魂逼进两难。若眼中颜色、皮肤压力在灵魂上留下同种印记，灵魂便会像蜡一样被外物改形；若灵魂绝不受任何影响，感觉又像一场与身体无关的独白。前一项区分了受伤与判断，现在必须说明二者怎样接通，而不是把“灵魂知道”当作无需机制的奇迹。",
+      "id": "plotinus-04",
+      "nodeIds": [
+        "plotinus-04-teaching"
+      ],
+      "order": 4,
+      "recommendedNextLessonId": "plotinus-05",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-04-p01",
+          "identity": "paragraphId=plotinus-04-p01; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "感觉似乎把灵魂逼进两难。若眼中颜色、皮肤压力在灵魂上留下同种印记，灵魂便会像蜡一样被外物改形；若灵魂绝不受任何影响，感觉又像一场与身体无关的独白。前一项区分了受伤与判断，现在必须说明二者怎样接通，而不是把“灵魂知道”当作无需机制的奇迹。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p02",
+          "identity": "paragraphId=plotinus-04-p02; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "看一支半浸水中的直木棍，它显得弯曲；取出后又直。器官与介质提供的表象会随条件改变，但判断可以比较两次显现，认出对象没有相应变化。若感觉只是印记，第二印记只能替换第一印记，不能把二者作为两个显现加以校正。错觉反而显示感觉中已有判断性活动。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p03",
+          "identity": "paragraphId=plotinus-04-p03; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "光线改变眼的状态，热改变皮肤，声音振动耳；这些身体变化为感觉提供材料和时机。灵魂并不在眼中变成颜色，而是借器官变化辨识一个对象。器官受作用与灵魂活动必须分开：身体是条件，不是把自己的物理性质搬进灵魂的印章。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p04",
+          "identity": "paragraphId=plotinus-04-p04; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "“表象”由此取得必要性。它是感觉结果在灵魂层面的呈现，使一次经验能在对象离开后仍被保留、比较和调用。表象不等于外物的微型复制品；它已带着感官位置、注意和身体条件。若介质改变，表象可以改变，而判断仍能追问变化来自对象还是条件。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p05",
+          "identity": "paragraphId=plotinus-04-p05; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "记忆也不能简单归给最高灵魂。纯粹理智若一次拥有真理，不需要把已经失去的内容保存起来。记忆属于在时间中活动、会从一个对象转到另一个对象的灵魂。它表明我们现有的认识生活不是永恒凝视，而是需要重取、连接和校正的历程。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p06",
+          "identity": "paragraphId=plotinus-04-p06; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "记忆又把问题推进到推理。推理把一个表象与另一个表象、一个命题与另一个命题连接，并问结论是否符合稳定关系。它有“先想到前提、后得到结论”的展开。因此，即使推理处理的是不变真理，它自己的活动方式仍有先后，这将成为时间从灵魂生命产生的线索。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p07",
+          "identity": "paragraphId=plotinus-04-p07; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "可是判断凭什么超过当下表象？木棍两次显现不同，单靠两幅图像不能宣布哪一个是真的。判断必须调用不随介质摇摆的关系，例如直的定义、因果条件和多次触摸的协调。普罗提诺由此把灵魂的推理指向更高的理智：不是每次从零发明标准，而是分步展开它尚不能同时拥有的可知结构。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p08",
+          "identity": "paragraphId=plotinus-04-p08; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "怀疑者可以反击：把稳定标准放进理智，只是给判断添加一个看不见的担保人。我们仍可能误用标准，也可能根本没有意识到所谓更高活动。若理智活动不总显现在意识中，说“我们已经拥有真理”甚至会使错误更难解释。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p09",
+          "identity": "paragraphId=plotinus-04-p09; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "`IV.3—5` 原是一篇连续的灵魂问题论文，波菲利后来拆成三篇；`IV.6` 则集中处理感觉与记忆。把拆篇当成理论断层，会错过感觉、表象、记忆和灵魂临在彼此纠缠的原貌。另一方面，`V.3` 的自我认识属于更高层论证，不能倒灌成日常意识全透明。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p10",
+          "identity": "paragraphId=plotinus-04-p10; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "这个担心迫使主张接受两项限制。其一，诉诸理智不能保证每次推理正确；错误恰发生在灵魂分步连接和注意偏移中。其二，高层活动与反省意识不是一回事，活动要通过表象留下足够痕迹，才进入我们通常说的意识。保住的只是纠错需要超出当前感觉的标准。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p11",
+          "identity": "paragraphId=plotinus-04-p11; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "这也解释为何哲学训练不能只增加信息。若表象牵着注意走，灵魂会把显现当作全部实在；若比较条件、追问关系，它开始向稳定结构转身。认识上的返回在这里已出现雏形，却还没有说明转向者自身如何存在于身体：一个不可分灵魂怎样同时在眼、手与全身起作用。"
+          ]
+        },
+        {
+          "heading": "plotinus-04-p12",
+          "identity": "paragraphId=plotinus-04-p12; claim-source=enn-iv3-iv6@IV.3—6",
+          "kind": "argument",
+          "paragraphs": [
+            "尚未解释的部分分成两面。存在上，灵魂如何整体临在身体各部而不被切碎；个体上，许多灵魂若共享同一灵魂层级，何以保留各自记忆和责任。只有先处理这种“一与多”，才能把个体认识放进宇宙生命。"
+          ]
+        }
+      ],
+      "title": "灵魂如何感觉而不变成伤口"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-05-p06",
+      "checkIds": [
+        "p05q1",
+        "p05q2",
+        "p05q3",
+        "p05q4"
+      ],
+      "coreExplanation": "普罗提诺从一个简单差别起步：物体的一部分不在另一部分所在之处，越分越小；生命原则却在每个器官中以整个生命的方式起作用。视力在眼中显现，触觉在全身显现，营养能力在相应器官显现，但这些不是几块互不相干的灵魂，而是一项活动按接受条件呈现不同功能。说灵魂“整体临在”不能让人想象一个无限放大的透明身体。空间临在回答“占据哪一片位置”，无形临在回答“哪个原因使这一部分能够参与同一生命”。原因不必缩成被作用部分的大小。一个几何定义能完整规定许多不同大小的圆，也不会被分割成等量定义；这个类比只说明非量化，不能证明灵魂等同抽象定义。由此出现“参与”一词。身体器官不是各自取得灵魂碎片，而是依其组织能力接受同一灵魂活动。眼的结构使视觉显现，胃的结构使营养活动显现。若眼损坏，视觉不再在此处显现，不表示灵魂的一块被毁，而是接受条件失效。",
+      "depth": "longform",
+      "guidingQuestion": "脚受伤时整个人会改变步态，眼见危险时心跳和手势会一起响应。若灵魂只住在某个点，消息必须在没有生命的部分之间奔走后才成为整体经验；若灵魂像气体一样铺满身体，切去一部分身体也会切去一份灵魂。生命统一要求灵魂遍及各部，却不允许它按空间份额分摊。",
+      "id": "plotinus-05",
+      "nodeIds": [
+        "plotinus-05-teaching"
+      ],
+      "order": 5,
+      "recommendedNextLessonId": "plotinus-06",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-05-p01",
+          "identity": "paragraphId=plotinus-05-p01; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "脚受伤时整个人会改变步态，眼见危险时心跳和手势会一起响应。若灵魂只住在某个点，消息必须在没有生命的部分之间奔走后才成为整体经验；若灵魂像气体一样铺满身体，切去一部分身体也会切去一份灵魂。生命统一要求灵魂遍及各部，却不允许它按空间份额分摊。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p02",
+          "identity": "paragraphId=plotinus-05-p02; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺从一个简单差别起步：物体的一部分不在另一部分所在之处，越分越小；生命原则却在每个器官中以整个生命的方式起作用。视力在眼中显现，触觉在全身显现，营养能力在相应器官显现，但这些不是几块互不相干的灵魂，而是一项活动按接受条件呈现不同功能。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p03",
+          "identity": "paragraphId=plotinus-05-p03; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "说灵魂“整体临在”不能让人想象一个无限放大的透明身体。空间临在回答“占据哪一片位置”，无形临在回答“哪个原因使这一部分能够参与同一生命”。原因不必缩成被作用部分的大小。一个几何定义能完整规定许多不同大小的圆，也不会被分割成等量定义；这个类比只说明非量化，不能证明灵魂等同抽象定义。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p04",
+          "identity": "paragraphId=plotinus-05-p04; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "由此出现“参与”一词。身体器官不是各自取得灵魂碎片，而是依其组织能力接受同一灵魂活动。眼的结构使视觉显现，胃的结构使营养活动显现。若眼损坏，视觉不再在此处显现，不表示灵魂的一块被毁，而是接受条件失效。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p05",
+          "identity": "paragraphId=plotinus-05-p05; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "第二个难题是诸灵魂如何既一又多。它们同属灵魂这一存在层级，共享转向理智和赋予生命的能力，因此能够共感并协同；但每一灵魂面向一个特定身体，形成不同表象、记忆和关注。共同来源不是数值同一。若把所有灵魂压成一个意识，个体经验和责任都会失去对象。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p06",
+          "identity": "paragraphId=plotinus-05-p06; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "可以比较同一首乐曲由几支乐队同时演奏。结构完整地指导每支乐队，却不会因演奏者增多而被切成几份；每场演奏又因乐器、速度和失误形成自己的历史。一支乐队停奏不毁掉乐曲，乐曲也不能替乐手承担错音。条件变化显示，共同形式与个体活动能够并存，但灵魂还比乐曲更是活的原因。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p07",
+          "identity": "paragraphId=plotinus-05-p07; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "“下降”也必须从空间图像中解放。灵魂进入身体，并非从天上移动到皮肤以内，而是把注意和治理活动集中于某个身体。它可能因过度关切身体而与激情认同，仿佛忘了自己的更高活动；所谓返回，首先是改变认同和活动方向，不是等待身体飞到另一个地点。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p08",
+          "identity": "paragraphId=plotinus-05-p08; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "`IV.8 [6]` 甚至声称灵魂有一部分始终没有下降，继续处在理智活动中。这个强命题使普罗提诺区别于一些后来的柏拉图主义者，也不能因波菲利把它安放在灵魂卷就当作无争议教科书。`VI.4—5` 关于同一实在整体无所不在的连续论文，为非空间临在提供更广的形上背景。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p09",
+          "identity": "paragraphId=plotinus-05-p09; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "不下降命题面临一个尖锐追问：若最高灵魂从未停止沉思，无知者究竟为何无知，作恶者又为何负责？一个我完全意识不到、也不能控制的高层活动，似乎只能属于另一个主体。强读法保住神圣连续性，却可能割裂人格；弱读法若只说有一种潜能，又削弱字面力量。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p10",
+          "identity": "paragraphId=plotinus-05-p10; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "不能假装争议已经消失。较稳妥的收缩是：普罗提诺至少坚持灵魂的根源和最高活动不被身体穷尽，下降是活动与认同的转向；至于每个具身者是否现实地持续进行完全理智活动，文本允许不同强度的解释。责任仍落在形成判断和选择的可及活动上，而非一个不可触及的神圣替身。"
+          ]
+        },
+        {
+          "heading": "plotinus-05-p11",
+          "identity": "paragraphId=plotinus-05-p11; claim-source=enn-iv1-iv2@IV.1—2",
+          "kind": "argument",
+          "paragraphs": [
+            "个体灵魂由此不再是封闭容器。它能整体临在身体，又与其他灵魂共享存在层级；它的活动还必须与宇宙整体协调。下一项压力是：若没有在时间中组装世界的工匠，同一灵魂原则如何让星辰、植物、动物和元素形成持久秩序，同时又不把每件人事归给星辰。"
+          ]
+        }
+      ],
+      "title": "不占空间的灵魂怎样遍及身体"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-06-p06",
+      "checkIds": [
+        "p06q1",
+        "p06q2",
+        "p06q3",
+        "p06q4"
+      ],
+      "coreExplanation": "第二组和第三组中的天体、星辰、自然论文提供材料，却不是按目录拼出的宇宙百科。`III.8 [30]` 从自然的生产反推沉思，`IV.4` 讨论宇宙共感，`II.3 [52]` 又在晚期限制星辰因果。写作时点不同，问题却接合成一条链：形式怎样无须审议地进入自然活动。个体灵魂使一个身体成为协调生命，宇宙灵魂则使可感整体成为一个有秩序的活物。它不是飘在宇宙外指挥，而是以不分割的原因整体临在，使各处依材料能力接受形式原则。世界因此不是先有死物、后来被注入生命，而是其结构自始就是灵魂活动的结果。当这种活动抵达最低、最安静的生产层次，普罗提诺称它为“自然”。自然不先列方案再选择手段；它像一个无需逐条回忆规则的熟练能力，从对更高形式的沉思中直接产生植物生长、器官组织和元素秩序。这里的沉思已很弱，却仍说明生产不是盲撞。",
+      "depth": "longform",
+      "guidingQuestion": "宇宙的秩序似乎要求选择：要么有一个工匠在时间中先计划、后装配，要么物体碰撞偶然形成暂时图样。普罗提诺两者都不接受。世界没有第一天，却长期保持天体运动、物种结构和部分间协调。一个永恒有序的世界，需要持续的生命原因，而不是开端处的一次施工。",
+      "id": "plotinus-06",
+      "nodeIds": [
+        "plotinus-06-teaching"
+      ],
+      "order": 6,
+      "recommendedNextLessonId": "plotinus-07",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-06-p01",
+          "identity": "paragraphId=plotinus-06-p01; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "宇宙的秩序似乎要求选择：要么有一个工匠在时间中先计划、后装配，要么物体碰撞偶然形成暂时图样。普罗提诺两者都不接受。世界没有第一天，却长期保持天体运动、物种结构和部分间协调。一个永恒有序的世界，需要持续的生命原因，而不是开端处的一次施工。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p02",
+          "identity": "paragraphId=plotinus-06-p02; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "第二组和第三组中的天体、星辰、自然论文提供材料，却不是按目录拼出的宇宙百科。`III.8 [30]` 从自然的生产反推沉思，`IV.4` 讨论宇宙共感，`II.3 [52]` 又在晚期限制星辰因果。写作时点不同，问题却接合成一条链：形式怎样无须审议地进入自然活动。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p03",
+          "identity": "paragraphId=plotinus-06-p03; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "个体灵魂使一个身体成为协调生命，宇宙灵魂则使可感整体成为一个有秩序的活物。它不是飘在宇宙外指挥，而是以不分割的原因整体临在，使各处依材料能力接受形式原则。世界因此不是先有死物、后来被注入生命，而是其结构自始就是灵魂活动的结果。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p04",
+          "identity": "paragraphId=plotinus-06-p04; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "当这种活动抵达最低、最安静的生产层次，普罗提诺称它为“自然”。自然不先列方案再选择手段；它像一个无需逐条回忆规则的熟练能力，从对更高形式的沉思中直接产生植物生长、器官组织和元素秩序。这里的沉思已很弱，却仍说明生产不是盲撞。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p05",
+          "identity": "paragraphId=plotinus-06-p05; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "一个活宇宙还会显出“共感”。同一动物的脚受伤会改变呼吸和姿势，不因脚远离胸口便毫无关联；同样，宇宙各部分因共享一个生命整体，可以出现远距响应。共感解释关联如何可能，却不等于任何同时发生的天象都是人事的充分原因。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p06",
+          "identity": "paragraphId=plotinus-06-p06; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "星辰尤其容易被误用。它们的秩序可以成为宇宙状态的征兆，天体位置也能影响天气、身体等物理条件；但从“与事件相关”跳到“决定灵魂判断”会抹掉灵魂自身的原因。普罗提诺保留占星作为符号读取的有限空间，同时拒绝把善恶选择交给行星。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p07",
+          "identity": "paragraphId=plotinus-06-p07; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "设想同一医院的中央供氧系统。远处仪表同时变化，可能因为共享管网，而不是一只表隔空造成另一只表变化；某位病人的呼吸还取决于肺部和主动配合。若切断共同管网，联动消失；若只看仪表同动便断言单向因果，就把整体条件误成局部支配。宇宙共感也要求区分共同原因、征兆和行动者。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p08",
+          "identity": "paragraphId=plotinus-06-p08; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "然而，宇宙灵魂若已把形式原则安排到每一处，个体灵魂所谓“自身原因”会不会只是系统中预定的一环？把星辰从充分原因位置移开，并未自动产生自由；自然、身体、性格和共同秩序仍可能合起来决定每一步。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p09",
+          "identity": "paragraphId=plotinus-06-p09; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "眼下只能作有限收缩。宇宙秩序说明行动发生的条件和可预测部分，不能由此证明所有因果都同质。能比较理由、改变认同的灵魂活动至少不是星体运动的机械副本；但它能否构成真正自由，要等命运与自我治理得到更直接分析。此处保住的是多层因果，不是完整自由论。"
+          ]
+        },
+        {
+          "heading": "plotinus-06-p10",
+          "identity": "paragraphId=plotinus-06-p10; claim-source=enn-ii1-ii3@II.1; II.2; II.3.1—18",
+          "kind": "argument",
+          "paragraphs": [
+            "一个活宇宙还带来规范压力。若整体由灵魂持续形成，战争、疾病和恶行怎样进入天意？若把它们说成整体和谐所需，受害者会被降为构图材料；若把它们全交给偶然，宇宙秩序又显得空洞。命运与天意必须在下一步面对局部恶，而不能只赞美星空。"
+          ]
+        }
+      ],
+      "title": "没有工匠装配的活宇宙"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-07-p06",
+      "checkIds": [
+        "p07q1",
+        "p07q2",
+        "p07q3",
+        "p07q4"
+      ],
+      "coreExplanation": "普罗提诺先检查几种过度方案。原子碰撞把选择还原成偶然运动，星辰支配把人生交给天体位置，单一宇宙因果又把各类活动压成一种链条。这些方案共同的问题是：它们从身体变化的规律，直接越过灵魂比较理由、形成判断的活动。“命运”可以收缩为自然因果的网络：在没有额外因素介入时，同因产生同果。这是一种条件性的必然，不是宣布任何事件都只有身体前因。药物在相同剂量和身体条件下产生相似反应；若病人拒绝服药，新的灵魂活动改变了条件。拒绝本身仍有理由和性格背景，却不是药物化学作用的延长。命运网络之外还要谈“天意”。天意不是一只手逐件修补事件，而是整体秩序使不同力量、层级和后果形成一个可持续世界。较低层必然比可知模型不完满，局部冲突也可进入更广关系；但由“整体仍有秩序”并不能立即推出“每一损失对受害者都是好事”。",
+      "depth": "longform",
+      "guidingQuestion": "当同样身体原因在同样条件下产生同样结果，我们称世界可理解；当人被赞扬或谴责，又假定行动不只是外力推动。若秩序要求每件事只有一种机械原因，责任会消失；若责任要求行动完全脱离自然，行动便成为无缘无故的裂缝。命运问题不是在规律和混乱之间二选一，而是判断不同原因是否能同处一个世界。",
+      "id": "plotinus-07",
+      "nodeIds": [
+        "plotinus-07-teaching"
+      ],
+      "order": 7,
+      "recommendedNextLessonId": "plotinus-08",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-07-p01",
+          "identity": "paragraphId=plotinus-07-p01; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "当同样身体原因在同样条件下产生同样结果，我们称世界可理解；当人被赞扬或谴责，又假定行动不只是外力推动。若秩序要求每件事只有一种机械原因，责任会消失；若责任要求行动完全脱离自然，行动便成为无缘无故的裂缝。命运问题不是在规律和混乱之间二选一，而是判断不同原因是否能同处一个世界。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p02",
+          "identity": "paragraphId=plotinus-07-p02; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺先检查几种过度方案。原子碰撞把选择还原成偶然运动，星辰支配把人生交给天体位置，单一宇宙因果又把各类活动压成一种链条。这些方案共同的问题是：它们从身体变化的规律，直接越过灵魂比较理由、形成判断的活动。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p03",
+          "identity": "paragraphId=plotinus-07-p03; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "“命运”可以收缩为自然因果的网络：在没有额外因素介入时，同因产生同果。这是一种条件性的必然，不是宣布任何事件都只有身体前因。药物在相同剂量和身体条件下产生相似反应；若病人拒绝服药，新的灵魂活动改变了条件。拒绝本身仍有理由和性格背景，却不是药物化学作用的延长。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p04",
+          "identity": "paragraphId=plotinus-07-p04; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "命运网络之外还要谈“天意”。天意不是一只手逐件修补事件，而是整体秩序使不同力量、层级和后果形成一个可持续世界。较低层必然比可知模型不完满，局部冲突也可进入更广关系；但由“整体仍有秩序”并不能立即推出“每一损失对受害者都是好事”。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p05",
+          "identity": "paragraphId=plotinus-07-p05; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "一出戏可以含冲突角色，坏角色的台词不使作者本人变坏；演员演坏角色仍要演得合乎整体。普罗提诺借类似图景说明差异和冲突可进入整体形式。可是现实受害者不是只在舞台上承受象征损失，作恶者也会在演出后继续生活。比喻能解释结构容纳对立，不能独自完成道德辩护。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p06",
+          "identity": "paragraphId=plotinus-07-p06; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "再看一座城市的防洪系统。允许河水在指定洼地暂存，可能保护更大区域；这不表示某户被淹的损失凭整体收益自动消失。若损失本可由更公平设计避免，诉诸整体甚至会掩盖责任。条件改变后，整体论证必须回答可避免性、分配和行动者，而不能只说地图仍然和谐。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p07",
+          "identity": "paragraphId=plotinus-07-p07; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "这也是 `II.9 [33]` 反宇宙二元论的背景。普罗提诺反对把可感宇宙及其创造者说成邪恶，强调星辰、秩序与可感美是可知模型的摹本。对手并不等于后来所有被称为“诺斯替”的群体，论文也不是宗教分类手册；它是一场针对同时代反宇宙教说的哲学论战。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p08",
+          "identity": "paragraphId=plotinus-07-p08; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "具体痛苦提出最有力的反问：若天意只在整体层面成立，它对被折磨者没有给出足够回答；若恶是较低层必有的缺陷，善的原因似乎仍要为产生这个层级负责。整体越完美，局部恶为何不可避免的证明责任就越重。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p09",
+          "identity": "paragraphId=plotinus-07-p09; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "原典本身也提醒不要制造虚假整齐。`III.2—3` 原是一篇关于天意的连续论文，波菲利拆为两篇；其中严厉轻视外在损失的段落不能被现代叙述悄悄删除。`II.9` 又有论战语气。把不同语境都磨成温和“万事有意义”，会丢掉真正的伦理风险。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p10",
+          "identity": "paragraphId=plotinus-07-p10; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "局部冲突并不逻辑地推翻一切宇宙秩序，作恶者也不能因整体能吸收后果便免责；可保留的范围仅止于此。必须放弃的是“整体美已经逐一正当化所有痛苦”。质料为何成为缺陷条件、灵魂为何误向以及人能否自我治理，仍要分别说明。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p11",
+          "identity": "paragraphId=plotinus-07-p11; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "命运与天意还共同预设了先后：原因先发生，结果后发生；灵魂先权衡，后来行动。可是宇宙若没有开端，时间不能只是从第一刻流到现在的容器。把时间说成天体运动的计数，也会预设一个比较运动的灵魂。"
+          ]
+        },
+        {
+          "heading": "plotinus-07-p12",
+          "identity": "paragraphId=plotinus-07-p12; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "因而接下来要问的不是一年有多长，而是时间为何存在。若灵魂活动按先后展开，而更高真理不随先后改变，二者的差异可能解释时间与永恒。没有这一区分，所谓“永恒产生”和“无时间原因”都只会成为含混修辞。"
+          ]
+        }
+      ],
+      "title": "秩序为何没有取消责任"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-08-p06",
+      "checkIds": [
+        "p08q1",
+        "p08q2",
+        "p08q3",
+        "p08q4"
+      ],
+      "coreExplanation": "两名演奏者用不同速度演同一旋律，我们能说一快一慢，因为用共同时间比较两段运动。若时间就是任一运动本身，便没有外于二者的比较尺度。即便用天体运动当钟，也只是选定较规则的运动来量别的运动，未说明量度为何可能。于是必须先否定一种简单同一：时间不是某个物体的运动，也不只是数出来的刻度。计数揭示时间，却预设灵魂保留“刚才”、期待“随后”并把二者关联。没有这种延展活动，只有彼此孤立的现在，连“两个时刻”都无法形成。这并不表示每个人的心理感觉任意制造公共时间。灵魂这一存在层级的活动本来就逐项展开：它不能一次把握可知整体，只能从一个内容转向另一个内容。宇宙灵魂的持续活动使世界运动具有共同秩序，个体灵魂才能在其中测量和回忆。",
+      "depth": "longform",
+      "guidingQuestion": "若时间就是运动，一辆车停下时它的时间也应停止；若时间是运动的数，必须先有一个灵魂把先后计为多少。更深的困难是永恒：把它理解成没有尽头的时间，只得到无限延续，仍有过去与未来。普罗提诺要说明一种全体不以先后分散的生命，以及先后怎样从较低活动中出现。",
+      "id": "plotinus-08",
+      "nodeIds": [
+        "plotinus-08-teaching"
+      ],
+      "order": 8,
+      "recommendedNextLessonId": "plotinus-09",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-08-p01",
+          "identity": "paragraphId=plotinus-08-p01; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "若时间就是运动，一辆车停下时它的时间也应停止；若时间是运动的数，必须先有一个灵魂把先后计为多少。更深的困难是永恒：把它理解成没有尽头的时间，只得到无限延续，仍有过去与未来。普罗提诺要说明一种全体不以先后分散的生命，以及先后怎样从较低活动中出现。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p02",
+          "identity": "paragraphId=plotinus-08-p02; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "两名演奏者用不同速度演同一旋律，我们能说一快一慢，因为用共同时间比较两段运动。若时间就是任一运动本身，便没有外于二者的比较尺度。即便用天体运动当钟，也只是选定较规则的运动来量别的运动，未说明量度为何可能。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p03",
+          "identity": "paragraphId=plotinus-08-p03; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "于是必须先否定一种简单同一：时间不是某个物体的运动，也不只是数出来的刻度。计数揭示时间，却预设灵魂保留“刚才”、期待“随后”并把二者关联。没有这种延展活动，只有彼此孤立的现在，连“两个时刻”都无法形成。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p04",
+          "identity": "paragraphId=plotinus-08-p04; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "这并不表示每个人的心理感觉任意制造公共时间。灵魂这一存在层级的活动本来就逐项展开：它不能一次把握可知整体，只能从一个内容转向另一个内容。宇宙灵魂的持续活动使世界运动具有共同秩序，个体灵魂才能在其中测量和回忆。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p05",
+          "identity": "paragraphId=plotinus-08-p05; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "较高生命提供了必要对照。理智若完整拥有真理，不必等前提消失后再寻找结论；它的生命不是静止死点，而是所有相关活动共同在场。普罗提诺称这种全体同时的生命为“永恒”。永恒不是很长，因为长短只适用于可分的先后。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p06",
+          "identity": "paragraphId=plotinus-08-p06; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "“时间”于是由灵魂生命的伸展获得意义。灵魂想把理智中共同在场的内容逐一展开，产生先、后与继续；时间不是外部盒子，而是这种活动的尺度和伴随结构。说时间源于灵魂，不是说某天灵魂在时间中决定创造时间，因为那个“某天”已经偷用了时间。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p07",
+          "identity": "paragraphId=plotinus-08-p07; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "这里潜伏着循环：为了说灵魂从一项转到另一项，我们似乎已经用了时间；再用这种转向解释时间，只是换词。若完全没有先后，何来“活动伸展”？若已有先后，时间就未被解释。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p08",
+          "identity": "paragraphId=plotinus-08-p08; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "`III.7 [45]` 是一篇晚期集中论文，它与 `V.1` 关于灵魂和理智活动方式的区分互相支撑。这里不能把“产生”读成一次历史事件。原典试图给出本体依赖：之所以有可测的先后，是因为灵魂生命以分散方式模仿理智的整体生命。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p09",
+          "identity": "paragraphId=plotinus-08-p09; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "语言确实无法在完全不借时间词的情况下描述起源，但解释层次仍可区分。时间中的一次转向不能解释全部时间；灵魂作为何种活动的结构，则可说明任何先后为何成其为先后。这个限制保住结构依赖，不假装讲出无时间的故事。"
+          ]
+        },
+        {
+          "heading": "plotinus-08-p10",
+          "identity": "paragraphId=plotinus-08-p10; claim-source=enn-iii7@III.7.1—13",
+          "kind": "argument",
+          "paragraphs": [
+            "宇宙可以没有第一时刻而始终在时间中，理智则不是从无限过去持续到无限未来。现在必须把“全体同时”说清：一种有生命、有差异、有思想的实在怎样无先后又不陷入静止同一？回答它必须先重审哪些存在种类适用于可知界。"
+          ]
+        }
+      ],
+      "title": "时间不是永恒的拉长"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-09-p06",
+      "checkIds": [
+        "p09q1",
+        "p09q2",
+        "p09q3",
+        "p09q4"
+      ],
+      "coreExplanation": "范畴的辖域必须受到限制。可感实体由形式与质料复合，性质能够来去，数量能够改变；可知存在不以这种方式承载偶性。一个真理若后来失去其规定，就不再是同一真理。因此，用同一个“实体”词并不证明两层存在结构相同。`VI.1—3 [42—44]` 原是一篇长论文，波菲利拆成三篇安放在最后一组。它细致批评亚里士多德和斯多亚派的种类表，并重建可感范畴。若路线从灵魂直接跳到“一者”，这组三篇会最先被牺牲；代价是理智中的差异只剩未经解释的口号。普罗提诺借柏拉图《智者篇》提出五种可知的“大种”：存在、运动、静止、同一、差异。这里的运动不是从甲地到乙地，而是生命和思维的现实活动；静止不是僵死，而是对象保持其所是。没有运动，理智不思；没有静止，思想没有确定内容。",
+      "depth": "longform",
+      "guidingQuestion": "亚里士多德的实体、数量、性质、关系等范畴很适合区分可感事物：这个人是实体，身高属数量，肤色属性质。但若把同一框架原样上推，理智中的存在会像桌子一样先是一个基底，再偶然取得思想和生命。无时间的完整生命需要差异，却不能依赖可变实体与外加偶性。",
+      "id": "plotinus-09",
+      "nodeIds": [
+        "plotinus-09-teaching"
+      ],
+      "order": 9,
+      "recommendedNextLessonId": "plotinus-10",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-09-p01",
+          "identity": "paragraphId=plotinus-09-p01; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "亚里士多德的实体、数量、性质、关系等范畴很适合区分可感事物：这个人是实体，身高属数量，肤色属性质。但若把同一框架原样上推，理智中的存在会像桌子一样先是一个基底，再偶然取得思想和生命。无时间的完整生命需要差异，却不能依赖可变实体与外加偶性。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p02",
+          "identity": "paragraphId=plotinus-09-p02; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "范畴的辖域必须受到限制。可感实体由形式与质料复合，性质能够来去，数量能够改变；可知存在不以这种方式承载偶性。一个真理若后来失去其规定，就不再是同一真理。因此，用同一个“实体”词并不证明两层存在结构相同。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p03",
+          "identity": "paragraphId=plotinus-09-p03; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "`VI.1—3 [42—44]` 原是一篇长论文，波菲利拆成三篇安放在最后一组。它细致批评亚里士多德和斯多亚派的种类表，并重建可感范畴。若路线从灵魂直接跳到“一者”，这组三篇会最先被牺牲；代价是理智中的差异只剩未经解释的口号。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p04",
+          "identity": "paragraphId=plotinus-09-p04; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺借柏拉图《智者篇》提出五种可知的“大种”：存在、运动、静止、同一、差异。这里的运动不是从甲地到乙地，而是生命和思维的现实活动；静止不是僵死，而是对象保持其所是。没有运动，理智不思；没有静止，思想没有确定内容。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p05",
+          "identity": "paragraphId=plotinus-09-p05; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "五种结构还必须互相规定。思维活动是存在的，又与它所思的内容有差异；它在活动中与自身同一，也保持真理的稳定。差异不把整体炸成互不相关碎片，恰恰使每项规定成为这一项而非另一项。同一也不消灭差异，而让多项关系属于一个整体。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p06",
+          "identity": "paragraphId=plotinus-09-p06; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "想象一句“圆没有角”。若只有同一，没有差异，“圆”和“角”无法分别，命题没有内容；若只有差异，没有同一，前后出现的“圆”无法被认作同一对象，判断也无法成立。改变任一条件都会摧毁真理。可知统一不是把差异抹平，而是让差异在稳定关系中共同在场。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p07",
+          "identity": "paragraphId=plotinus-09-p07; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "这套结构解释了为何理智生命可以没有时间先后。命题在灵魂中按词和推理展开，可知关系本身却不等待我们读到句末才成立。圆与无角的关系完整在场，灵魂只是把它拆成前后表达。理智的“运动”因而能与永恒共存。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p08",
+          "identity": "paragraphId=plotinus-09-p08; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "反对者会问，五大种是否只是把语法条件投射成宇宙实体？我们为了说话需要“同一”“差异”，不等于有五种独立东西生活在可知界。若把每个抽象词都实体化，理智会迅速变成概念仓库。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p09",
+          "identity": "paragraphId=plotinus-09-p09; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "实体化语言因而必须收缩。五大种不是五块可知材料，而是任何确定、活跃、可关联之真理都必须显示的结构面向。它们从理智活动中可分辨，却不能脱离整体单独存在。这样保住可知差异的条件，也不把语法名词直接封为对象。"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p10",
+          "identity": "paragraphId=plotinus-09-p10; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "到这里，理智已有生命、稳定和差异，却尚未证明认识者怎样取得对象。若可知形式在理智外面，理智可能只接到复制品；若形式就在理智内，思维者与所思如何既同一又仍构成认识？"
+          ]
+        },
+        {
+          "heading": "plotinus-09-p11",
+          "identity": "paragraphId=plotinus-09-p11; claim-source=enn-vi1-vi3@VI.1—3",
+          "kind": "argument",
+          "paragraphs": [
+            "问题随即落到真理的直接性。灵魂能比较表象并犯错，理智若是它所依赖的无误标准，就不能再以表象中介面对外物。必须说明理智、思维活动和理念为何同一，同时避免把这种同一写成没有内容的空白。"
+          ]
+        }
+      ],
+      "title": "可知世界也必须是活的"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-10-p06",
+      "checkIds": [
+        "p10q1",
+        "p10q2",
+        "p10q3",
+        "p10q4"
+      ],
+      "coreExplanation": "这不是说感官世界不存在，而是区分两种认识。灵魂借器官取得表象，再分步判断，所以能纠错也能失败；理智若承担稳定标准，就必须直接拥有它所思的形式。否则，把标准放到更高层只会把怀疑一同搬上去。由此得出理念不在理智之外。圆本身、正义本身等可知形式不是摆在理智面前的静物，而是理智的确定活动。理智思圆，不是复制一个外部圆，而是在其活动中成为圆之可知规定。`V.5 [32]` 明确反对把可知对象放在理智外，`V.3 [49]` 处理认识自身与超越理智者，`V.9 [5]` 则早早连接理智、理念和真正存在。波菲利把它们并入第五组有主题理由，但写作次序显示普罗提诺多次从不同压力重返同一关系。",
+      "depth": "longform",
+      "guidingQuestion": "若真理对象永远站在理智之外，理智接触到的就可能只是它们造成的影像。影像再清晰，也需要拿原物校对；可原物若仍在门外，校对只会诉诸另一影像。普罗提诺由怀疑压力推出一个激进结论：完全的理智认识不能靠外在表象中介。",
+      "id": "plotinus-10",
+      "nodeIds": [
+        "plotinus-10-teaching"
+      ],
+      "order": 10,
+      "recommendedNextLessonId": "plotinus-11",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-10-p01",
+          "identity": "paragraphId=plotinus-10-p01; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "若真理对象永远站在理智之外，理智接触到的就可能只是它们造成的影像。影像再清晰，也需要拿原物校对；可原物若仍在门外，校对只会诉诸另一影像。普罗提诺由怀疑压力推出一个激进结论：完全的理智认识不能靠外在表象中介。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p02",
+          "identity": "paragraphId=plotinus-10-p02; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这不是说感官世界不存在，而是区分两种认识。灵魂借器官取得表象，再分步判断，所以能纠错也能失败；理智若承担稳定标准，就必须直接拥有它所思的形式。否则，把标准放到更高层只会把怀疑一同搬上去。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p03",
+          "identity": "paragraphId=plotinus-10-p03; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "由此得出理念不在理智之外。圆本身、正义本身等可知形式不是摆在理智面前的静物，而是理智的确定活动。理智思圆，不是复制一个外部圆，而是在其活动中成为圆之可知规定。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p04",
+          "identity": "paragraphId=plotinus-10-p04; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "`V.5 [32]` 明确反对把可知对象放在理智外，`V.3 [49]` 处理认识自身与超越理智者，`V.9 [5]` 则早早连接理智、理念和真正存在。波菲利把它们并入第五组有主题理由，但写作次序显示普罗提诺多次从不同压力重返同一关系。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p05",
+          "identity": "paragraphId=plotinus-10-p05; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "“自我思维”现在才获得必要性。理智的对象既是它自己的活动，它在思一切理念时也思自身；这不是一个主体回头观察自己的心理状态，而是存在、所思内容和思维现实相互不分离。真理之所以无误，不是理智收到完美消息，而是消息与事实没有裂缝。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p06",
+          "identity": "paragraphId=plotinus-10-p06; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "不过，这种同一不能变成空白。理智之所以能自思，正因为它内部有差异关系：思维活动与某一规定可被分辨，圆与正义可被分辨，却都在同一整体活动中彼此关联。若绝对没有差异，连“理智思自身”都多说了一层。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p07",
+          "identity": "paragraphId=plotinus-10-p07; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "以一份真正掌握的证明为例。只背下结论的人面对外来句子；理解证明的人看到各步骤为何由原则推出，结论和理由在同一把握中互相照明。若换掉一个前提，他能立即看见哪些结果变化。这个案例仍是灵魂层面的分步理解，只是帮助接近理智一次拥有“是什么与为什么”的方式。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p08",
+          "identity": "paragraphId=plotinus-10-p08; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "理智的一次把握不能翻译成一长串同时默念的句子。命题语言依次铺开主词、谓词和推论；理智则像一眼看见一张脸，同时把握局部及其关系。灵魂随后把所见分析成语句。这也说明可知活动为何不是时间中的高速思考。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p09",
+          "identity": "paragraphId=plotinus-10-p09; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "认识的可错性立刻形成反例：人明明会把自以为直接的洞见当成真理。若“感觉直接把握”就足以保证无误，狂热确信也能自封为理智。况且我们只能通过分步论证谈理智，凭什么断言存在一种无命题认识？"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p10",
+          "identity": "paragraphId=plotinus-10-p10; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "理智活动必须与灵魂对它的占有声明分开。某人确信自己无中介，不证明其灵魂已达到理智；可检验标准仍是内容能否在关系整体中自洽，并说明各项为何如此。普罗提诺的论证只说完全真理不能永远外在，不给私人确信发免检证书。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p11",
+          "identity": "paragraphId=plotinus-10-p11; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "还要接受表达限制。我们用命题重建非命题把握，不能假装语言复制了理智本身。论证能显示外在表象模型为何不足、同一与差异为何都需要，却不能让分步文字直接变成永恒活动。保住的是必要条件，不是经验捷径。"
+          ]
+        },
+        {
+          "heading": "plotinus-10-p12",
+          "identity": "paragraphId=plotinus-10-p12; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "理智现在是一个活的真理整体，但更难的问题刚刚出现：它怎样容纳许多理念、数字次序、可能的个体形式和可知美，而仍是一个理智？若每项形式自足，整体会散；若整体吞没每项，真理又失去规定。"
+          ]
+        }
+      ],
+      "title": "真理不能站在理智门外"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-11-p06",
+      "checkIds": [
+        "p11q1",
+        "p11q2",
+        "p11q3",
+        "p11q4"
+      ],
+      "coreExplanation": "普罗提诺用一门演绎科学提供入口。几何中的一个定理有自身规定，却通过定义、公理和证明与其他定理相连。真正理解它，不只把握孤立结论，也把握它为何在这张关系网中成立。每一项都在关系上潜含整体，整体又不取代各项。这不是说一条定理的字面句子偷偷装着全部教科书，而是其真理身份依赖共同原则和可推导关系。理智中的形式同样彼此内含：生命、运动、同一和差异互相规定。整体能完整临在各项，不需要把空间切成许多格子。仅有差异还不足以解释规定次序，也不知道为何出现这些可数、可关联的形式。“数字”在此不是有人后来数到几，而是多样性获得界限与次序的原则。一与二、同与异的结构先于经验计数，使确定的多成为可能。",
+      "depth": "longform",
+      "guidingQuestion": "理智若包含圆、正义、生命和无数形式，看起来像装满对象的仓库；若这些形式完全融成无差别一体，又没有任何内容可思。上一项保住理念在理智内，现在必须说明内在不等于堆积，同一也不等于抹平差异。",
+      "id": "plotinus-11",
+      "nodeIds": [
+        "plotinus-11-teaching"
+      ],
+      "order": 11,
+      "recommendedNextLessonId": "plotinus-12",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-11-p01",
+          "identity": "paragraphId=plotinus-11-p01; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "理智若包含圆、正义、生命和无数形式，看起来像装满对象的仓库；若这些形式完全融成无差别一体，又没有任何内容可思。上一项保住理念在理智内，现在必须说明内在不等于堆积，同一也不等于抹平差异。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p02",
+          "identity": "paragraphId=plotinus-11-p02; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺用一门演绎科学提供入口。几何中的一个定理有自身规定，却通过定义、公理和证明与其他定理相连。真正理解它，不只把握孤立结论，也把握它为何在这张关系网中成立。每一项都在关系上潜含整体，整体又不取代各项。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p03",
+          "identity": "paragraphId=plotinus-11-p03; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "这不是说一条定理的字面句子偷偷装着全部教科书，而是其真理身份依赖共同原则和可推导关系。理智中的形式同样彼此内含：生命、运动、同一和差异互相规定。整体能完整临在各项，不需要把空间切成许多格子。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p04",
+          "identity": "paragraphId=plotinus-11-p04; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "仅有差异还不足以解释规定次序，也不知道为何出现这些可数、可关联的形式。“数字”在此不是有人后来数到几，而是多样性获得界限与次序的原则。一与二、同与异的结构先于经验计数，使确定的多成为可能。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p05",
+          "identity": "paragraphId=plotinus-11-p05; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "因此可知数字不能从一堆可感物抽象出来。我们能数三棵树，是因为心灵已能把多项界定为单位并保持次序；若单位和差异完全由树造成，换对象时“同一个三”便消失。数字在理智中规定多，不是占据一个数值大小。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p06",
+          "identity": "paragraphId=plotinus-11-p06; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "设想一首四声部赋格。每个声部有可辨旋律，单独抽出仍能追踪；完整意义却在进入、回应和转调关系中显现。删掉差异，只剩一个持续音；删掉整体关系，只剩四条同时响的线。条件变化让“整体在部分中、部分因整体而完整”不再只是修辞。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p07",
+          "identity": "paragraphId=plotinus-11-p07; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "`V.7 [18]` 询问是否有个体理念，`VI.6 [34]` 讨论数字，`VI.7 [38]` 又把理念多样性、人和善连起来。个体是否各有永恒形式存在争议：若有，理智多样性极为丰富；若没有，个体差异需由灵魂和物质条件解释。不能把疑问句标题伪装成无争议肯定。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p08",
+          "identity": "paragraphId=plotinus-11-p08; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "循环危险并未消失：用科学整体解释理智，科学本身又靠理智原则成立；用数字解释多，数字也已经是多。案例也许只描述相关性，没有说明一个整体如何真实临在每项。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p09",
+          "identity": "paragraphId=plotinus-11-p09; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "因此必须降低证明野心。科学和音乐案例不产生理智，只排除“统一只能靠空间拼合”的预设。数字论也不是从零制造差异，而是说明差异若要成为确定的多，需有界限和次序。保住的是一种非空间的一多结构，不是把类比当成本体复制。"
+          ]
+        },
+        {
+          "heading": "plotinus-11-p10",
+          "identity": "paragraphId=plotinus-11-p10; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "可知美由此出现：它不是外加装饰，而是活的多样性在整体中互相照明。可是无论关系多紧密，理智仍包含思者与所思、同一与差异，仍是“一与多”。它的统一是成就，不是绝对简单。下一项必须追问：任何复合统一究竟从哪里取得统一。"
+          ]
+        }
+      ],
+      "title": "一个理智如何包含许多真理"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-12-p06",
+      "checkIds": [
+        "p12q1",
+        "p12q2",
+        "p12q3",
+        "p12q4"
+      ],
+      "coreExplanation": "一支合唱队只有在声部协调时才成为一支队，协调不是任何单一声部；若再添一个指挥者，指挥者本人仍有身体、意图和活动的复合。案例显示给复合物追加另一个复合原因不能终止追问。它不证明第一原则像指挥者，只显示为何最高统一不能只是更大的集合。军队、房屋、生命体、命题和理智都因某种统一而成为其所是；统一失去，那个事物也失去。统一不是额外一块材料，因为加上一块只会增加多。这个普遍依赖显示，复合者借统一存在，而不是自己最终制造统一。若统一来源仍由若干成分组合，它也需要另一个统一来源。无限追溯会始终只给出借来的统一，不能说明借用为何可能。论证由此要求一个不因结合而为一的第一原则。它不是在所有一物中数值排第一，而是其他统一赖以成立的非复合来源。",
+      "depth": "longform",
+      "guidingQuestion": "理智已经是完全真理和可知美，为什么还要越过它？因为它的每一项完善都带着结构：思维者与所思、同一与差异、整体与部分。只要某物由多项关系成为一个整体，它的“是一个”就不能等同于那些多项本身。普罗提诺追问的不是更强大的理智，而是统一本身的来源。",
+      "id": "plotinus-12",
+      "nodeIds": [
+        "plotinus-12-teaching"
+      ],
+      "order": 12,
+      "recommendedNextLessonId": "plotinus-13",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-12-p01",
+          "identity": "paragraphId=plotinus-12-p01; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "理智已经是完全真理和可知美，为什么还要越过它？因为它的每一项完善都带着结构：思维者与所思、同一与差异、整体与部分。只要某物由多项关系成为一个整体，它的“是一个”就不能等同于那些多项本身。普罗提诺追问的不是更强大的理智，而是统一本身的来源。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p02",
+          "identity": "paragraphId=plotinus-12-p02; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "一支合唱队只有在声部协调时才成为一支队，协调不是任何单一声部；若再添一个指挥者，指挥者本人仍有身体、意图和活动的复合。案例显示给复合物追加另一个复合原因不能终止追问。它不证明第一原则像指挥者，只显示为何最高统一不能只是更大的集合。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p03",
+          "identity": "paragraphId=plotinus-12-p03; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "军队、房屋、生命体、命题和理智都因某种统一而成为其所是；统一失去，那个事物也失去。统一不是额外一块材料，因为加上一块只会增加多。这个普遍依赖显示，复合者借统一存在，而不是自己最终制造统一。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p04",
+          "identity": "paragraphId=plotinus-12-p04; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "若统一来源仍由若干成分组合，它也需要另一个统一来源。无限追溯会始终只给出借来的统一，不能说明借用为何可能。论证由此要求一个不因结合而为一的第一原则。它不是在所有一物中数值排第一，而是其他统一赖以成立的非复合来源。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p05",
+          "identity": "paragraphId=plotinus-12-p05; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这进一步推出一者“先于存在”。存在任何确定的东西，都意味着它是某种东西，已有规定与差异；绝对简单者不能成为某一类存在中的成员，否则类与成员的关系已引入复合。称它“一者”，不是给它添加一项属性，而是阻止思想把它分成可列举成分。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p06",
+          "identity": "paragraphId=plotinus-12-p06; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "“善”也在此生成。各事物趋向使自身完整、统一的状态，显示善与完善相连；第一统一不缺任何外来完成，因而是所有趋向的终点。善不是一件大家碰巧喜欢的对象，而是欲求之所以寻找完成的根源。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p07",
+          "identity": "paragraphId=plotinus-12-p07; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这并非传统意义的最高存在者。若说一者拥有思想、计划和许多美德，便把它变成包含对象和活动的理智；若说它是一个属于“神”种类的个体，也把种类置于它之前。普罗提诺的第一原则恰因不是任何一个确定存在者，才能不以更先条件为前提。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p08",
+          "identity": "paragraphId=plotinus-12-p08; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "反对者会指出，从“每个复合物需要统一条件”跳到“有一个独立的一者”，可能把抽象关系实体化。也许统一只是我们描述事物的方式；即便需要原因，也不必是同一个超越存在的来源。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p09",
+          "identity": "paragraphId=plotinus-12-p09; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "`VI.9 [9]` 集中论证善或一者，`V.1—4` 从理智产生与三种主要本原靠近它，`I.7 [54]` 又是最后写成的短论。不同论文反复尝试，并非一条一次完成的演绎。现代所谓“三实体”只能帮助定位，不能把一者塞回存在层级。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p10",
+          "identity": "paragraphId=plotinus-12-p10; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这个批评迫使论证承认，它并未像经验科学那样指认一个对象。可保住的是：确定事物的统一具有本体功能，而一切借来的统一若无非借用来源便解释不完。仍需另证这个来源如何“在”而不成为存在者、如何产生效果。因而一者是解释要求，不是感官实体。"
+          ]
+        },
+        {
+          "heading": "plotinus-12-p11",
+          "identity": "paragraphId=plotinus-12-p11; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "困难随成功加深。绝对简单者若无缺、无思、无选择，为何会有理智和宇宙？若它作出决定，就有决定前后；若它分出自身，就不再简单；若结果完全偶然，善又不是充分来源。下一项必须建立一种结果依赖原因、原因却不因结果改变的产生关系。"
+          ]
+        }
+      ],
+      "title": "为什么理智还不是最后的起点"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-13-p06",
+      "checkIds": [
+        "p13q1",
+        "p13q2",
+        "p13q3",
+        "p13q4"
+      ],
+      "coreExplanation": "火现实地是热，这是构成其完成的内部活动；火使邻近物变热，则是随其完成而来的外部活动。外部效果依赖火，火却不因有没有这块邻近物才成为火。区分这两种活动，便能说明完满不必由欠缺驱动，完成本身可以有不反向规定原因的结果。火会消耗燃料，所以不能原样代表一者。更好的比喻是光源照亮许多表面而不把光切成碎片；但物理灯仍会耗能，也占空间。每个比喻只负责说明一项关系：效果依赖来源，来源不因给出这个效果而丧失其定义。越过这一点，图像就会误导。这就是“两种活动”一词的必要性。内部活动是某物完整地成为其所是，外部活动是由该完成产生、朝向他者的效果。后者不同于前者，又始终依赖前者。结果的差异不是与原因平起平坐，而是一种纵向依赖。",
+      "depth": "longform",
+      "guidingQuestion": "完满似乎意味着无需行动：既不欠缺，何必产生他者？但若第一原则什么效果也没有，它与万物的统一依赖就断开。相反，若它为了得到结果而计划、努力或分割自身，它先前便不完满。产生论必须让原因足以解释效果，又不把效果变成原因所需的补充。",
+      "id": "plotinus-13",
+      "nodeIds": [
+        "plotinus-13-teaching"
+      ],
+      "order": 13,
+      "recommendedNextLessonId": "plotinus-14",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-13-p01",
+          "identity": "paragraphId=plotinus-13-p01; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "完满似乎意味着无需行动：既不欠缺，何必产生他者？但若第一原则什么效果也没有，它与万物的统一依赖就断开。相反，若它为了得到结果而计划、努力或分割自身，它先前便不完满。产生论必须让原因足以解释效果，又不把效果变成原因所需的补充。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p02",
+          "identity": "paragraphId=plotinus-13-p02; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "火现实地是热，这是构成其完成的内部活动；火使邻近物变热，则是随其完成而来的外部活动。外部效果依赖火，火却不因有没有这块邻近物才成为火。区分这两种活动，便能说明完满不必由欠缺驱动，完成本身可以有不反向规定原因的结果。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p03",
+          "identity": "paragraphId=plotinus-13-p03; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "火会消耗燃料，所以不能原样代表一者。更好的比喻是光源照亮许多表面而不把光切成碎片；但物理灯仍会耗能，也占空间。每个比喻只负责说明一项关系：效果依赖来源，来源不因给出这个效果而丧失其定义。越过这一点，图像就会误导。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p04",
+          "identity": "paragraphId=plotinus-13-p04; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这就是“两种活动”一词的必要性。内部活动是某物完整地成为其所是，外部活动是由该完成产生、朝向他者的效果。后者不同于前者，又始终依赖前者。结果的差异不是与原因平起平坐，而是一种纵向依赖。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p05",
+          "identity": "paragraphId=plotinus-13-p05; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "接下来才可解释下一层怎样形成。一者之后的外部活动最初没有可知规定，只是与来源不同的未定生命；它转向一者，在不能把握绝对统一的观看中展开为许多理念，于是成为理智。普罗提诺常用“进展”指成为他者，用“返回”指转向来源取得形式。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p06",
+          "identity": "paragraphId=plotinus-13-p06; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "同一结构再现于灵魂。理智完整思维理念，其外部活动产生较分散的生命；这生命转向理智，取得推理和生命形式，成为灵魂。灵魂又向外形成自然和身体秩序。每一层都停留为自身、产生较低效果，并由返回获得规定。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p07",
+          "identity": "paragraphId=plotinus-13-p07; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这套关系没有时间顺序。一者不是先孤独存在一阵，后来产生理智；理智也不曾处在无形式状态等待转身。进展与返回分解的是永恒依赖中的逻辑面向。若写成宇宙诞生日故事，就会把前面时间论已经排除的先后偷偷带回。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p08",
+          "identity": "paragraphId=plotinus-13-p08; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "`V.1—4` 是主要定位，`III.8` 又从自然的沉思一路追到一者。常用词“流溢”不完全是普罗提诺固定技术词，它容易让人想象液体溢出、空间下降。只有在两种活动、非损耗依赖和无时间次序都明确后，它才可作为受限简称。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p09",
+          "identity": "paragraphId=plotinus-13-p09; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "这里有两面夹击。若完满者“必然”产生，第一原则似乎没有自由；若外部活动与内部活动毫无关系，结果又成偶然。更尖锐地说，从“火会加热”类推“一者产生理智”，可能把可感因果强行投射到超越者。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p10",
+          "identity": "paragraphId=plotinus-13-p10; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "火与光的比喻不能证明具体层级，这一点必须接受。两种活动只提供因果语法：结果由原因的完成而来，不由原因的欠缺或外部刺激而来。必然在此意味着没有外因阻碍其所是，不等于被他物强迫；自由问题仍需在人的选择和 `VI.8` 中另行展开。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p11",
+          "identity": "paragraphId=plotinus-13-p11; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "还须收缩“产生”一词。它不表示一者做了一件事，也不允许从效果反推一者内部有与效果相同的多样性质。一者是“万物的能力”，不是“由万物组成”。结果显示来源足以给予，却不把结果中的差异搬回来源。"
+          ]
+        },
+        {
+          "heading": "plotinus-13-p12",
+          "identity": "paragraphId=plotinus-13-p12; claim-source=enn-v1-v4@V.1—4",
+          "kind": "argument",
+          "paragraphs": [
+            "困难因而集中在言说：如果结果不能让我们给一者添加相同性质，称它原因、善和一是否已经说得太多？若只能否定，论证如何不自我取消；若合一超出认识，私人体验又凭什么与形上结构相关？"
+          ]
+        }
+      ],
+      "title": "完满者怎样产生而不损耗"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-14-p06",
+      "checkIds": [
+        "p14q1",
+        "p14q2",
+        "p14q3",
+        "p14q4"
+      ],
+      "coreExplanation": "先分清否定的对象。说一者“不是多”“不是存在者”“不思维”，不是说它缺少理智本来应有的能力，像石头不会思考；而是说思维包含思者和所思，不适合绝对简单者。否定在这里阻止较低完善被原样上推。“说它是什么”和“从我们说明它”并非一事。我们观察复合物因统一而存在，于是把统一依赖追到来源；“一者”标示这条追溯不能再落入复合。“善”说明一切趋向完成与来源的关系。这些词首先描述效果如何依赖，并不把来源定义成一个可列属性的对象。由此生成“否定言说”。它不是连续删词直到剩下空无，而是每次肯定一项因果关系后，撤销把结果方式归给原因的误解。一者给予理智，却不以理智方式思；给予生命，却不是一个有部分的生命体。否定和因果回溯必须配合，单有其一都会失衡。",
+      "depth": "longform",
+      "guidingQuestion": "称一者“一”，似乎已经赋予它一个性质；称它“善”或“原因”，性质更多。若一切谓词都把对象规定为某种存在，而一者先于存在，最一致的态度像是沉默。可一旦沉默，前面关于统一依赖和产生的论证又失去指向。言说既不可照常进行，也不能完全撤回。",
+      "id": "plotinus-14",
+      "nodeIds": [
+        "plotinus-14-teaching"
+      ],
+      "order": 14,
+      "recommendedNextLessonId": "plotinus-15",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-14-p01",
+          "identity": "paragraphId=plotinus-14-p01; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "称一者“一”，似乎已经赋予它一个性质；称它“善”或“原因”，性质更多。若一切谓词都把对象规定为某种存在，而一者先于存在，最一致的态度像是沉默。可一旦沉默，前面关于统一依赖和产生的论证又失去指向。言说既不可照常进行，也不能完全撤回。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p02",
+          "identity": "paragraphId=plotinus-14-p02; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "先分清否定的对象。说一者“不是多”“不是存在者”“不思维”，不是说它缺少理智本来应有的能力，像石头不会思考；而是说思维包含思者和所思，不适合绝对简单者。否定在这里阻止较低完善被原样上推。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p03",
+          "identity": "paragraphId=plotinus-14-p03; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "“说它是什么”和“从我们说明它”并非一事。我们观察复合物因统一而存在，于是把统一依赖追到来源；“一者”标示这条追溯不能再落入复合。“善”说明一切趋向完成与来源的关系。这些词首先描述效果如何依赖，并不把来源定义成一个可列属性的对象。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p04",
+          "identity": "paragraphId=plotinus-14-p04; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "由此生成“否定言说”。它不是连续删词直到剩下空无，而是每次肯定一项因果关系后，撤销把结果方式归给原因的误解。一者给予理智，却不以理智方式思；给予生命，却不是一个有部分的生命体。否定和因果回溯必须配合，单有其一都会失衡。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p05",
+          "identity": "paragraphId=plotinus-14-p05; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "理智面对一者也遇到边界。认识一个对象，就把认识者和对象区分；完全的理智虽与理念同一，仍有内部差异。一者若成为理智清楚占有的一个对象，便已进入多。因而通向一者不能只是增加一个最高概念。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p06",
+          "identity": "paragraphId=plotinus-14-p06; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "言说抵达边界时，灵魂活动本身需要简化。它先从感觉转向推理，再从分散命题转向理智整体；若进一步放下把一者对象化的活动，可能发生一种不以主客分立为形式的“接触”或“合一”。这不是跨越论证的捷径，而是净化认识方式的极限。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p07",
+          "identity": "paragraphId=plotinus-14-p07; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "可以比较听一段和声。分析时分辨各声部、和弦与转调；某一刻注意转向整体，分析没有被证明错误，却不再占据前景。若完全失聪，则不是更高整体；若只沉醉而不能返回说明结构，也不能据此宣布掌握音乐理论。条件变化限制了“超越分析”与“放弃判断”的混淆。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p08",
+          "identity": "paragraphId=plotinus-14-p08; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "合一也不是两个既成东西粘在一起。若灵魂和一者始终是两个并列实体，再近也仍为二。普罗提诺更像在说：灵魂停止以分散活动把自己规定为某个孤立者，在其统一根源中醒来。至于个体是否短暂失去一切差异、合一后人格怎样连续，文本解释仍有分歧。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p09",
+          "identity": "paragraphId=plotinus-14-p09; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "不可证伪的危险随即出现：任何强烈体验都可被事后命名为合一，否定言说又使对象免于检验。若体验与论证冲突，信徒可以说语言失效；若一致，又把一致当证明。这样，一者会变成一块保护私人确信的空白。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p10",
+          "identity": "paragraphId=plotinus-14-p10; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "声音身份必须在此严格分层。《九章集》中的接触描述属于普罗提诺的哲学论文；波菲利所说自己在师门期间见到普罗提诺四次合一，是弟子见证；“神秘主义经验”是现代分类。三者可以互证语境，不能互相替代。见证次数尤其不能为形上论证充当统计证明。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p11",
+          "identity": "paragraphId=plotinus-14-p11; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "所以必须接受体验的证据限度。合一报告可以显示这种哲学有实践终点，不能单独证明一者存在；论证仍要靠统一依赖、理智复合和因果关系。反过来，论证也不能生产体验或替体验者担保。保住的是两条路径的会合要求，不是免检权。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p12",
+          "identity": "paragraphId=plotinus-14-p12; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "否定言说也须能够返回。一个人若声称接触不可言说者，却从此拒绝区分善恶、来源和后果，他表现的是判断崩解，不是普罗提诺式返回。接触之后仍要在灵魂层面重建语言和生活，只是记得语言没有把来源装进概念。"
+          ]
+        },
+        {
+          "heading": "plotinus-14-p13",
+          "identity": "paragraphId=plotinus-14-p13; claim-source=enn-v5-v9@V.5—9",
+          "kind": "argument",
+          "paragraphs": [
+            "接下来，形上学必须接受实践检验。一者不受外在规定，所以普罗提诺会把它说成最自由；人却活在身体、性格和命运条件中。若自由只是不受外因，一者或许自由，人则几乎没有；若自由只是任意选择，一者又因不审议而不自由。"
+          ]
+        }
+      ],
+      "title": "谈论不可言说者"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-15-p06",
+      "checkIds": [
+        "p15q1",
+        "p15q2",
+        "p15q3",
+        "p15q4"
+      ],
+      "coreExplanation": "先要排除外在支配。身体冲动、威胁和他人命令若绕过判断推动行动，行动不完全出自行动者。灵魂比较理由、形成认可，并让行动依此发生时，原因更内在。自由首先与“活动从谁而来”有关，不只与结果有几个备选。“自我治理”由此生成。它不是拒绝一切条件，而是行动者能把欲望、性格和情境带到理性判断下，使较高活动规定较低活动。一个人越被偶然冲动拖走，越不像自己的原因；越清楚地依善而行动，越不需要靠随机偏离来证明自由。`VI.8 [39]` 随后把同一标准推到一者，用“意志”说明一者完全由自身、无任何外在规定；其所是与其活动没有裂缝。它不先面对规则再服从，也不选择成为善。这里的自由是最高自因，不是人格心理中的计划。",
+      "depth": "longform",
+      "guidingQuestion": "通常把自由想成面前有甲乙两项而“本来可以选另一项”。但一个因无知而反复犹豫的人似乎不比清楚知道善、坚定行动的人更自由。一者既不缺信息，也不在多个方案间审议；若选择数目决定自由，最高原则反而最不自由。",
+      "id": "plotinus-15",
+      "nodeIds": [
+        "plotinus-15-teaching"
+      ],
+      "order": 15,
+      "recommendedNextLessonId": "plotinus-16",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-15-p01",
+          "identity": "paragraphId=plotinus-15-p01; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "通常把自由想成面前有甲乙两项而“本来可以选另一项”。但一个因无知而反复犹豫的人似乎不比清楚知道善、坚定行动的人更自由。一者既不缺信息，也不在多个方案间审议；若选择数目决定自由，最高原则反而最不自由。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p02",
+          "identity": "paragraphId=plotinus-15-p02; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "先要排除外在支配。身体冲动、威胁和他人命令若绕过判断推动行动，行动不完全出自行动者。灵魂比较理由、形成认可，并让行动依此发生时，原因更内在。自由首先与“活动从谁而来”有关，不只与结果有几个备选。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p03",
+          "identity": "paragraphId=plotinus-15-p03; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "“自我治理”由此生成。它不是拒绝一切条件，而是行动者能把欲望、性格和情境带到理性判断下，使较高活动规定较低活动。一个人越被偶然冲动拖走，越不像自己的原因；越清楚地依善而行动，越不需要靠随机偏离来证明自由。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p04",
+          "identity": "paragraphId=plotinus-15-p04; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "`VI.8 [39]` 随后把同一标准推到一者，用“意志”说明一者完全由自身、无任何外在规定；其所是与其活动没有裂缝。它不先面对规则再服从，也不选择成为善。这里的自由是最高自因，不是人格心理中的计划。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p05",
+          "identity": "paragraphId=plotinus-15-p05; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "这也重新解释必然。被暴君强迫是外在必然，清楚看见二加二为四则不是奴役；真理没有给判断留下任意偏离，反而使判断免于错误。一者依自身而善的“必然”，若没有外部强迫，不能和锁链下的必然混为一类。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p06",
+          "identity": "paragraphId=plotinus-15-p06; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "设想医生面对已确认的致命过敏。她不把过敏药列为可选项，不表示专业判断不自由；若医院管理者威胁她必须开药，才是外在支配。若证据不充分，她需保留选择。条件变化显示，选项减少可能来自认识清晰，也可能来自强迫，不能只数分叉。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p07",
+          "identity": "paragraphId=plotinus-15-p07; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "这种自由会不会过于理智主义？人常在看见较好理由后仍做较坏之事；若把真正自由只给依善而行者，所有恶行都可说成“不是真正的我”，责任反而消失。一者的自因也不能直接替人的混合处境提供模型。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p08",
+          "identity": "paragraphId=plotinus-15-p08; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "`III.1 [3]` 从命运压力讨论灵魂原因，`VI.8` 则晚得多，集中处理自愿和一者意志。把两者接合是受文本支持的重建，却不能假装“人的审议”与“一者的无分活动”毫无差别。共同点只是外在规定减少，活动方式仍有层级差异。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p09",
+          "identity": "paragraphId=plotinus-15-p09; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "较低层责任仍须保留。恶行可能不是最充分的自由，却仍由行动者的认可、习惯和注意共同形成，不能全交给身体或命运。自由有程度，不等于责任只在最高程度才出现。对一者则必须收缩“意志”的心理含义，不赋予它时间计划。"
+          ]
+        },
+        {
+          "heading": "plotinus-15-p10",
+          "identity": "paragraphId=plotinus-15-p10; claim-source=enn-iii1@III.1.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "自由论于是直接撞上恶。若灵魂天然趋善，错误认可如何发生？若恶只是不自由，为什么仍有稳定、蓄意的恶行？若万物最终由善而来，作为恶之条件的质料又从哪里获得位置？不能用“错误”一词把这些因果问题遮住。"
+          ]
+        }
+      ],
+      "title": "自由不只是能选另一个"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-16-p06",
+      "checkIds": [
+        "p16q1",
+        "p16q2",
+        "p16q3",
+        "p16q4"
+      ],
+      "coreExplanation": "前面对质料的分析现在重新进入。纯质料没有形式、界限和自身活动，接近非存在。它与一者相反，不是因为它是另一个强大的一，而是因为它缺少一切规定与善。普罗提诺因此会称质料为“恶本身”，但这句话若脱离无力和缺失，立刻会被误读成宇宙二元论。“恶的条件”与“作恶的原因”必须分开。无规定质料使可感层必有衰败、冲突和形式不足，也为灵魂误把善的影像当善提供场域；但一个全无活动者不能主动诱惑或决定。它像黑暗使看错更容易，却不是一个伸手推人的黑色行动者。“缺失”由此获得技术意义。恶不是任何缺少都算：石头缺视觉并非石头之恶，因为视觉不属于石头应有的完成；眼睛失明才是相应形式和能力的缺失。判断恶必须先知道某物依其形式本应能成为什么。恶寄生在善的结构上，不能自立定义。",
+      "depth": "longform",
+      "guidingQuestion": "万物若最终依赖善，恶似乎只能有三种去处：由善直接制造，由另一个邪恶本原制造，或者根本不存在。第一项使善自相矛盾，第二项破坏第一原则，第三项又冒犯疾病、暴行和败坏的现实。普罗提诺试图给恶真实位置，却不给它与善同等的因果能力。",
+      "id": "plotinus-16",
+      "nodeIds": [
+        "plotinus-16-teaching"
+      ],
+      "order": 16,
+      "recommendedNextLessonId": "plotinus-17",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-16-p01",
+          "identity": "paragraphId=plotinus-16-p01; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "万物若最终依赖善，恶似乎只能有三种去处：由善直接制造，由另一个邪恶本原制造，或者根本不存在。第一项使善自相矛盾，第二项破坏第一原则，第三项又冒犯疾病、暴行和败坏的现实。普罗提诺试图给恶真实位置，却不给它与善同等的因果能力。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p02",
+          "identity": "paragraphId=plotinus-16-p02; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "前面对质料的分析现在重新进入。纯质料没有形式、界限和自身活动，接近非存在。它与一者相反，不是因为它是另一个强大的一，而是因为它缺少一切规定与善。普罗提诺因此会称质料为“恶本身”，但这句话若脱离无力和缺失，立刻会被误读成宇宙二元论。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p03",
+          "identity": "paragraphId=plotinus-16-p03; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "“恶的条件”与“作恶的原因”必须分开。无规定质料使可感层必有衰败、冲突和形式不足，也为灵魂误把善的影像当善提供场域；但一个全无活动者不能主动诱惑或决定。它像黑暗使看错更容易，却不是一个伸手推人的黑色行动者。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p04",
+          "identity": "paragraphId=plotinus-16-p04; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "“缺失”由此获得技术意义。恶不是任何缺少都算：石头缺视觉并非石头之恶，因为视觉不属于石头应有的完成；眼睛失明才是相应形式和能力的缺失。判断恶必须先知道某物依其形式本应能成为什么。恶寄生在善的结构上，不能自立定义。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p05",
+          "identity": "paragraphId=plotinus-16-p05; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "质料的无力把解释重新推回灵魂。灵魂因身体生活接触分散的好物，可能把快感、权力或财富的反光误认成完整善；它的注意长期向下，形成习惯和错误认可。恶行于是需要质料条件、有限好物和灵魂趋向三层，不能由任何一层单独推出。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p06",
+          "identity": "paragraphId=plotinus-16-p06; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "一把锋利手术刀能救人也能伤人。金属和锋利提供行为条件，刀的良好形式甚至是一种善；伤害来自行动者把能力置于错误目的。若刀变钝，某些伤害减少，但救治也受损。改变条件显示，材料限制、工具善与规范恶并非一条轴。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p07",
+          "identity": "paragraphId=plotinus-16-p07; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "再看一面昏暗镜子。形象失真可能因镜面条件，也可能因观看角度；砸碎镜子不能使观看者自动认识原型。质料作为最低接受条件会造成不完满，却不替灵魂承担对影像的固执。这个案例把宇宙缺陷与道德败坏分开。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p08",
+          "identity": "paragraphId=plotinus-16-p08; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "可感世界因此仍能是美的。形式原则在质料允许的程度上显现，星辰和生命秩序成为可知世界的摹本。`II.9` 的反宇宙论战正是拒绝从缺陷跳到“世界由邪恶工匠制造”。世界不是与善无关的牢笼，却也不是毫无损耗的理智界。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p09",
+          "identity": "paragraphId=plotinus-16-p09; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "困难仍然强大：若质料最终也在善的因果链末端出现，善为何产生一个必然带来缺失的层级？说“完满者必然产生”，似乎只把责任藏进形上必然。更具体地，称受害者的痛苦为较低层缺陷，并没有说明为何这个痛苦可接受。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p10",
+          "identity": "paragraphId=plotinus-16-p10; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "原典张力不能被消音。`I.8 [51]` 对质料—恶的说法极强，`II.4` 区分可知与可感质料，`III.6` 解释形式显现，`II.9` 又热烈肯定宇宙。它们可通过条件、层级和灵魂趋向协调，却不能因此宣布所有具体恶都已获得神义论解答。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p11",
+          "identity": "paragraphId=plotinus-16-p11; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "可以保住两点：没有独立邪恶本原，善也不以邪恶为目的；有限层级因远离统一而出现缺失。必须承认的限度是，这解释恶如何可能，不足以逐一正当化恶为何发生、代价由谁承担。形上来源与道德辩护是不同任务。"
+          ]
+        },
+        {
+          "heading": "plotinus-16-p12",
+          "identity": "paragraphId=plotinus-16-p12; claim-source=enn-i7-i9@I.7; I.8.1—15; I.9",
+          "kind": "argument",
+          "paragraphs": [
+            "若灵魂之恶来自错误认同和习惯，补救便不能只是获得一个命题“善在上方”。欲望需要被整理，注意需要改向，判断需要学习分辨影像与来源。下一项由此进入德性：日常节制是否只是暂时管控，净化又如何不变成憎恨身体。"
+          ]
+        }
+      ],
+      "title": "恶怎样依赖善而不成为第二本原"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-17-p06",
+      "checkIds": [
+        "p17q1",
+        "p17q2",
+        "p17q3",
+        "p17q4"
+      ],
+      "coreExplanation": "第一层是“政治德性”：节制使欲望有度，勇敢整理恐惧，正义让各能力各司其职，明智指导具体判断。它们处理具身、共同生活中的行动，不因层级较低就可跳过。一个连愤怒何时伤人都不能辨认的人，声称已超越愤怒，只是把无知误作宁静。但政治德性仍以激情存在为条件，只把它们安排得较好。若灵魂始终认同财富、声望和身体快感为完整善，秩序随环境剧变就会崩解。因此还需要改变认同，而不只是调节强度。“净化德性”在这里生成。净化不是清除身体或感官，而是让灵魂不再把复合生命体的状态当作全部自我。欲望仍可报告身体需要，却不再自动决定何为善；恐惧仍提示危险，却不再垄断判断。净化针对支配关系，不针对身体存在。",
+      "depth": "longform",
+      "guidingQuestion": "若错误来自欲望牵引，最直接的办法似乎是压住欲望；若目标是返回理智，又似乎应尽快抛开一切共同生活。两种做法都太快。压抑可能只留下更强冲突，逃离城邦也可能把未受检验的激情带走。普罗提诺用德性层级说明治理、净化和沉思为何互相依赖。",
+      "id": "plotinus-17",
+      "nodeIds": [
+        "plotinus-17-teaching"
+      ],
+      "order": 17,
+      "recommendedNextLessonId": "plotinus-18",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-17-p01",
+          "identity": "paragraphId=plotinus-17-p01; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "若错误来自欲望牵引，最直接的办法似乎是压住欲望；若目标是返回理智，又似乎应尽快抛开一切共同生活。两种做法都太快。压抑可能只留下更强冲突，逃离城邦也可能把未受检验的激情带走。普罗提诺用德性层级说明治理、净化和沉思为何互相依赖。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p02",
+          "identity": "paragraphId=plotinus-17-p02; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "第一层是“政治德性”：节制使欲望有度，勇敢整理恐惧，正义让各能力各司其职，明智指导具体判断。它们处理具身、共同生活中的行动，不因层级较低就可跳过。一个连愤怒何时伤人都不能辨认的人，声称已超越愤怒，只是把无知误作宁静。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p03",
+          "identity": "paragraphId=plotinus-17-p03; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "但政治德性仍以激情存在为条件，只把它们安排得较好。若灵魂始终认同财富、声望和身体快感为完整善，秩序随环境剧变就会崩解。因此还需要改变认同，而不只是调节强度。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p04",
+          "identity": "paragraphId=plotinus-17-p04; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "“净化德性”在这里生成。净化不是清除身体或感官，而是让灵魂不再把复合生命体的状态当作全部自我。欲望仍可报告身体需要，却不再自动决定何为善；恐惧仍提示危险，却不再垄断判断。净化针对支配关系，不针对身体存在。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p05",
+          "identity": "paragraphId=plotinus-17-p05; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "只松开旧认同会留下空位，灵魂还须知道朝哪里转。辩证法辨认可知种类、关系和第一原则，把零散意见带入相互支持的整体。净化由此转向认识；辩证法也不再是赢得争论的技巧，而是灵魂按理智结构组织思想的活动。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p06",
+          "identity": "paragraphId=plotinus-17-p06; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "设想一位负责急诊分流的医护。政治德性使她在压力下按轻重缓急行动，不被恐慌夺走判断；净化使她不把一次失误或赞誉等同全部自我；辩证反思则帮助她检查分流原则是否一致。若缺第一层，抽象原则无人执行；缺第二层，身份焦虑会扭曲原则；缺第三层，镇定也可能只是机械。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p07",
+          "identity": "paragraphId=plotinus-17-p07; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "更高的沉思德性让灵魂实际参与理智真理，范型德性则是理智中正义、节制等形式本身。说人“肖似神”，不是模仿一位有脾气的神，而是让自身活动更统一、更少受外在偶然支配。层级是活动方式的转化，不是一串徽章。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p08",
+          "identity": "paragraphId=plotinus-17-p08; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "共同责任从另一面施压：净化若把最高目标放在不受激情影响，会不会培养对受苦者的冷漠？政治德性被称为较低，掌握资源者可能借“更高沉思”逃避分配、照护和正义。只说身体不是敌人，不足以保证实践不贬低身体。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p09",
+          "identity": "paragraphId=plotinus-17-p09; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "较高层对较低层的关系只能说成完善，不能说成取消。判断越不被私欲劫持，越应能准确看见他人需要；若所谓净化使人拒绝基本照护，它没有显示更高统一，只显示认同对象换成了自我优越。普罗提诺没有提供完整制度伦理，这一缺口必须保留。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p10",
+          "identity": "paragraphId=plotinus-17-p10; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "`I.2 [19]` 与 `I.3 [20]` 在波菲利的伦理组相邻，确有德性与辩证法的内在关系；但这不代表第一组只是简单入门。关于肖似神、范型德性和灵魂不受作用的论证都调用后面卷次的形上学，目录上的“先”不是理解上的自足。"
+          ]
+        },
+        {
+          "heading": "plotinus-17-p11",
+          "identity": "paragraphId=plotinus-17-p11; claim-source=enn-i2-i3@I.2.1—7; I.3.1—6",
+          "kind": "argument",
+          "paragraphs": [
+            "德性若真能使幸福较少依赖运气，最严厉的检验就不是日常诱惑，而是酷刑、疾病、丧亲与死亡。说较高自我不受损，究竟是保住不可被夺的善，还是把身体痛苦降成无关噪声？下一项必须让抽象层级面对极端案例。"
+          ]
+        }
+      ],
+      "title": "净化不是把身体当敌人"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-18-p06",
+      "checkIds": [
+        "p18q1",
+        "p18q2",
+        "p18q3",
+        "p18q4"
+      ],
+      "coreExplanation": "幸福首先不能只是连续愉快。快感随身体和环境来去，一个人在正做卑劣之事时也可能愉快。若完整生活的善完全由这些片段相加，较长生命只因积累更多时刻就必然更幸福，行动的质量反而无从进入。幸福必须定位于现实活动。拥有理性能力却从不使用，不足以幸福；理智活动使灵魂实际拥有真理和善，不只是期待未来取得。它的价值来自活动种类，不来自延续长度。因此一天完整实现这种生活，不因少于十年就成为较少的同类善。“自足”随之出现，但不是生活无需食物、朋友或身体。它表示幸福的决定性善不由外物授予，外物受损不能把一个正义行动变成不正义，也不能使已掌握的真理变成虚假。自足是价值中心的不可劫持，不是因果隔离。",
+      "depth": "longform",
+      "guidingQuestion": "贤者被关进烧热的法拉里斯铜牛，仍能幸福吗？若回答不能，幸福就交给暴君；若回答能，又像是在否认尖叫和灼伤。普罗提诺故意选择极端案例，让“幸福在理智生命”接受身体痛苦的最大压力。真正困难不是选乐观或悲观，而是区分善能否被夺与痛苦是否真实。",
+      "id": "plotinus-18",
+      "nodeIds": [
+        "plotinus-18-teaching"
+      ],
+      "order": 18,
+      "recommendedNextLessonId": "plotinus-19",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-18-p01",
+          "identity": "paragraphId=plotinus-18-p01; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "贤者被关进烧热的法拉里斯铜牛，仍能幸福吗？若回答不能，幸福就交给暴君；若回答能，又像是在否认尖叫和灼伤。普罗提诺故意选择极端案例，让“幸福在理智生命”接受身体痛苦的最大压力。真正困难不是选乐观或悲观，而是区分善能否被夺与痛苦是否真实。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p02",
+          "identity": "paragraphId=plotinus-18-p02; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "幸福首先不能只是连续愉快。快感随身体和环境来去，一个人在正做卑劣之事时也可能愉快。若完整生活的善完全由这些片段相加，较长生命只因积累更多时刻就必然更幸福，行动的质量反而无从进入。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p03",
+          "identity": "paragraphId=plotinus-18-p03; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "幸福必须定位于现实活动。拥有理性能力却从不使用，不足以幸福；理智活动使灵魂实际拥有真理和善，不只是期待未来取得。它的价值来自活动种类，不来自延续长度。因此一天完整实现这种生活，不因少于十年就成为较少的同类善。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p04",
+          "identity": "paragraphId=plotinus-18-p04; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "“自足”随之出现，但不是生活无需食物、朋友或身体。它表示幸福的决定性善不由外物授予，外物受损不能把一个正义行动变成不正义，也不能使已掌握的真理变成虚假。自足是价值中心的不可劫持，不是因果隔离。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p05",
+          "identity": "paragraphId=plotinus-18-p05; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "这一点能解释寿命问题。未来更多善活动当然值得希望，死亡也会终止具身机会；但已经现实的善不会因没有继续累积而在种类上缩水。把幸福当存款总额，才会认为时间越长必然越多。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p06",
+          "identity": "paragraphId=plotinus-18-p06; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "此时才可回到铜牛。身体和复合生命体真实受苦，贤者也能知道痛苦；较高活动没有被火焰改成邪恶或虚假。这最多证明最重要的善未被暴君控制，不能证明痛苦是幻觉。若疼痛压垮注意，实际沉思能否持续，文本留下比口号更艰难的问题。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p07",
+          "identity": "paragraphId=plotinus-18-p07; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "设想一名记者在威胁下拒绝伪造证词。威胁使她恐惧并可能伤害身体，却不能把真实证词变成虚假；若她因创伤暂时无法工作，也不能说真理价值被推翻。条件变化显示规范善、主体能力和身体代价可分辨，却始终在同一人生中相遇。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p08",
+          "identity": "paragraphId=plotinus-18-p08; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "死亡与主动退出也不能由“身体次要”直接推出。普罗提诺反对因激情或厌恶生命而强行分离灵魂与身体；人在宇宙秩序中仍有未完成活动。极端情形下的合理退出受到自然时机、判断清明和责任限制，不是一张普遍自杀许可。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p09",
+          "identity": "paragraphId=plotinus-18-p09; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "危险不只关乎个人坚强。若把幸福完全安置在不可侵犯的高层，社会施暴者可能说受害者的真正善没有受损，因而外在伤害不严重。这会把抵抗暴力的形上资源翻成减轻暴力责任的借口。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p10",
+          "identity": "paragraphId=plotinus-18-p10; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "`I.4 [46]` 是晚期幸福论文，法拉里斯铜牛在其中承担压力测试；`I.5 [36]` 讨论幸福是否随时间增加，`I.9 [16]` 处理合理退出。波菲利把它们归入伦理组，但三者写作时点不同。路线把它们接合，是因为同一自足主张必须经时间、痛苦和死亡三重检验。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p11",
+          "identity": "paragraphId=plotinus-18-p11; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "界线必须明确：内在善未被夺走，只能加强对施暴的抵抗，不能减轻施暴造成的身体、机会和关系损失。受害者保有尊严不等于加害者没有成功伤害。普罗提诺式自足保住规范中心，却不足以计算赔偿、制度防护和创伤照护。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p12",
+          "identity": "paragraphId=plotinus-18-p12; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "这样收缩后，幸福既不由快乐总量构成，也不与身体生活断线。它是一种较稳定的活动中心，仍需在有限世界中实现。可是返回若只靠内在意志，普通人如何最初感到更高善的吸引？感性经验中必须有某种不是欺骗的线索。"
+          ]
+        },
+        {
+          "heading": "plotinus-18-p13",
+          "identity": "paragraphId=plotinus-18-p13; claim-source=enn-i4-i5@I.4.1—16; I.5.1—10",
+          "kind": "argument",
+          "paragraphs": [
+            "美提供这条线索。一个声音、一张脸、一项勇敢行动能使注意从占有欲中抬起，仿佛看见形式超过材料。但若美只是比例，简单颜色和德行难以解释；若美完全在可知界，感性之美又成了无意义诱饵。下一项要让美与爱承担真正的转向功能。"
+          ]
+        }
+      ],
+      "title": "铜牛里的幸福"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-19-p06",
+      "checkIds": [
+        "p19q1",
+        "p19q2",
+        "p19q3",
+        "p19q4"
+      ],
+      "coreExplanation": "比例必须退到使比例成为整体的统一。一张脸各部分尺寸合宜，若没有生命表情和共同形式，仍可能像拼接模型。材料因形式被组织，杂多呈现一个活动整体时，美才出现。比例可以是形式结果，不是所有美的充分原因。感性美因此是真实线索，不是骗局。它使灵魂认出自身已有亲缘的形式，仿佛外在形象唤醒内在尺度。可形象终会衰败，也只能局部显现；若灵魂只想占有漂亮对象，就把指向来源的光当成可私藏物。“爱欲”在这一张力中生成。爱包含缺乏，因为爱者尚未拥有所趋之善；也包含丰盈，因为若毫无善的痕迹，就不会被吸引。爱能下降为对身体占有和繁殖的执著，也能沿美的层级上升，追问使许多美物都美的来源。",
+      "depth": "longform",
+      "guidingQuestion": "和谐比例能解释许多美，却不能解释一道单纯光色、一个单音或正义行动为何美；更麻烦的是，丑陋整体也可能由比例匀称的部分组成。若美只在可知界，感性吸引又没有真内容。普罗提诺需要一种既在形象中显现、又不被形象耗尽的形式。",
+      "id": "plotinus-19",
+      "nodeIds": [
+        "plotinus-19-teaching"
+      ],
+      "order": 19,
+      "recommendedNextLessonId": "plotinus-20",
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-19-p01",
+          "identity": "paragraphId=plotinus-19-p01; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "和谐比例能解释许多美，却不能解释一道单纯光色、一个单音或正义行动为何美；更麻烦的是，丑陋整体也可能由比例匀称的部分组成。若美只在可知界，感性吸引又没有真内容。普罗提诺需要一种既在形象中显现、又不被形象耗尽的形式。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p02",
+          "identity": "paragraphId=plotinus-19-p02; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "比例必须退到使比例成为整体的统一。一张脸各部分尺寸合宜，若没有生命表情和共同形式，仍可能像拼接模型。材料因形式被组织，杂多呈现一个活动整体时，美才出现。比例可以是形式结果，不是所有美的充分原因。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p03",
+          "identity": "paragraphId=plotinus-19-p03; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "感性美因此是真实线索，不是骗局。它使灵魂认出自身已有亲缘的形式，仿佛外在形象唤醒内在尺度。可形象终会衰败，也只能局部显现；若灵魂只想占有漂亮对象，就把指向来源的光当成可私藏物。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p04",
+          "identity": "paragraphId=plotinus-19-p04; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "“爱欲”在这一张力中生成。爱包含缺乏，因为爱者尚未拥有所趋之善；也包含丰盈，因为若毫无善的痕迹，就不会被吸引。爱能下降为对身体占有和繁殖的执著，也能沿美的层级上升，追问使许多美物都美的来源。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p05",
+          "identity": "paragraphId=plotinus-19-p05; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "外在观看还要转成自我塑形。灵魂不能像旁观雕像一样只凝视善，它还要削去错误认同，使自身活动与所见形式相称。普罗提诺著名的雕刻比喻不是憎恨材料，而是说明判断者也必须改变；否则美学只成消费。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p06",
+          "identity": "paragraphId=plotinus-19-p06; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "艺术在这里得到比摹仿更高的位置。雕塑家不必只复制眼前某个人，还能依据对人体形式、姿态和神性表达的理解，纠正可感对象的偶然缺陷。艺术可越过自然成品，返回自然本身据以生产的形式。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p07",
+          "identity": "paragraphId=plotinus-19-p07; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "设想两张桥的照片。一张精确记录锈迹，另一张结构图删去锈迹，却揭示受力关系。若任务是维修，后者可能更接近“这座桥何以站立”；若任务是保存事故证据，删去锈迹就会造假。条件变化说明艺术或抽象能接近形式，也可能抹掉具体伤害，功能决定判断。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p08",
+          "identity": "paragraphId=plotinus-19-p08; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "`I.6 [1]` 是现存最早论文，`V.8 [31]` 讨论可知美，`III.5 [50]` 是晚期爱论。按年代，它们相距很远；按论证，美的显现、可知形式与爱欲转向又不能分开。接合三者不意味着普罗提诺从第一篇就预写了所有晚期细节。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p09",
+          "identity": "paragraphId=plotinus-19-p09; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "伦理上的锋芒在这里显露：把具体身体当作通往无形美的阶梯，是否会在“上升”后抛弃这个人？艺术若有权纠正可感缺陷，也可能用理想形式删除衰老、残障、劳动和伤痕，把真实生命判为低劣摹本。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p10",
+          "identity": "paragraphId=plotinus-19-p10; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "“越过”必须因此受到限制。形式观看不许可伪造具体任务，也不使具身者只剩工具。真正的统一应使人看见一个生命如何组织其独特材料，而非只拿抽象标准淘汰差异。普罗提诺仍把无形形式置得更高，这一等级可能造成的排斥不能靠善意完全解除。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p11",
+          "identity": "paragraphId=plotinus-19-p11; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "爱欲的检验因而是它是否减少占有。若声称因美而上升，却更强地支配美物或忽略其损伤，方向仍朝下；若由形象学会欣赏形式，又返回照护承载形式的生命，感性美才没有被用完即弃。"
+          ]
+        },
+        {
+          "heading": "plotinus-19-p12",
+          "identity": "paragraphId=plotinus-19-p12; claim-source=enn-i6@I.6.1—9",
+          "kind": "argument",
+          "paragraphs": [
+            "最后的问题已经清楚：整条返回路线会不会只是精致逃离？一者、理智和灵魂层级都可能使自然与行动显得次等。必须回到普罗提诺最反常的主张——自然生产本身也是沉思的外显——检验最高生活如何仍与世界和他人相连。"
+          ]
+        }
+      ],
+      "title": "美怎样把目光带回形式"
+    },
+    {
+      "abilitySummary": [
+        "重建连续推理",
+        "用条件变化检验案例",
+        "区分原典、编者见证与现代重构"
+      ],
+      "caseText": "plotinus-20-p06",
+      "checkIds": [
+        "p20q1",
+        "p20q2",
+        "p20q3",
+        "p20q4"
+      ],
+      "coreExplanation": "普罗提诺在 `III.8` 提出一个看似荒诞的命题：自然也沉思。自然不会写论证、凝视概念；它无声地把所依形式表现为生长和组织。这里的“沉思”不是同一种心理状态，而是每一层活动以自己的方式保持对来源的关系。行动因而需要重写。它常在灵魂不能把形式完整保持于内时出现：人通过制作、治理或说话，把所见的秩序外化。行动比纯理智沉思分散，却不因此全无价值；它可以是真理向较低条件的传递。若行动完全与沉思断开，就只剩盲目忙碌。“外在活动”再次发挥作用。理智的完成产生灵魂，灵魂的沉思产生自然；同样，一个人的内在判断可产生照护、讲解和公正行动。结果不能补足来源的欠缺，却能显出来源是什么。行动于是成为内在秩序的检验，不只是沉思失败后的残渣。",
+      "depth": "longform",
+      "guidingQuestion": "路线抵达一者后，最容易的结尾是说灵魂终于逃离世界。但这会使前面的宇宙灵魂、自然之美、政治德性和具身责任全成可丢弃脚手架，也会使普罗提诺与他批评的反宇宙立场靠得过近。最后的压力不是能否上升，而是上升后的活动如何不否定其来源所产生的世界。",
+      "id": "plotinus-20",
+      "nodeIds": [
+        "plotinus-20-teaching"
+      ],
+      "order": 20,
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false,
+      "sections": [
+        {
+          "heading": "plotinus-20-p01",
+          "identity": "paragraphId=plotinus-20-p01; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "路线抵达一者后，最容易的结尾是说灵魂终于逃离世界。但这会使前面的宇宙灵魂、自然之美、政治德性和具身责任全成可丢弃脚手架，也会使普罗提诺与他批评的反宇宙立场靠得过近。最后的压力不是能否上升，而是上升后的活动如何不否定其来源所产生的世界。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p02",
+          "identity": "paragraphId=plotinus-20-p02; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "普罗提诺在 `III.8` 提出一个看似荒诞的命题：自然也沉思。自然不会写论证、凝视概念；它无声地把所依形式表现为生长和组织。这里的“沉思”不是同一种心理状态，而是每一层活动以自己的方式保持对来源的关系。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p03",
+          "identity": "paragraphId=plotinus-20-p03; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "行动因而需要重写。它常在灵魂不能把形式完整保持于内时出现：人通过制作、治理或说话，把所见的秩序外化。行动比纯理智沉思分散，却不因此全无价值；它可以是真理向较低条件的传递。若行动完全与沉思断开，就只剩盲目忙碌。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p04",
+          "identity": "paragraphId=plotinus-20-p04; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "“外在活动”再次发挥作用。理智的完成产生灵魂，灵魂的沉思产生自然；同样，一个人的内在判断可产生照护、讲解和公正行动。结果不能补足来源的欠缺，却能显出来源是什么。行动于是成为内在秩序的检验，不只是沉思失败后的残渣。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p05",
+          "identity": "paragraphId=plotinus-20-p05; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "但不能把所有行动都赞成沉思。暴力和操纵也可能出自固定观念。检验在于行动是否让较低者获得其能力所能承受的秩序，还是把他者当材料满足行动者。产生关系本来是非损耗给予；若行动靠削弱他者来壮大自己，它与一者式因果只有名词相似。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p06",
+          "identity": "paragraphId=plotinus-20-p06; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "`II.9` 从宇宙一侧补上限制。可感世界因远离统一而有缺陷，却仍是可知世界尽可能好的摹本。憎恨星辰、身体和世界，会同时侮辱它们所显现的来源。返回不是宣布这里由恶神创造，而是看清影像不是原型，又在影像作为影像的限度内维护其秩序。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p07",
+          "identity": "paragraphId=plotinus-20-p07; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "世界肯定也不能变成现状肯定。宇宙整体有秩序，不表示每个政权、等级和习俗都因存在而正当。把本体层级直接投射为社会统治层级，会使“较高”者自封更接近善。普罗提诺没有提供检验权力结构的充分制度标准，形上学不能代替这一缺口。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p08",
+          "identity": "paragraphId=plotinus-20-p08; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "设想一位教师已经理解一项证明。若她只保持内在清明，学生得不到帮助；若她只让学生背答案，外在活动没有传递理解。她需要把整体拆成学生可承受的步骤，又不把学生变成自己的复制品。学生以后能独立证明，才显示给予没有以依赖和损耗为目的。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p09",
+          "identity": "paragraphId=plotinus-20-p09; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "同样，照护身体不是把身体当最高善，而是让生命条件能够承担更高活动。治疗疼痛、保护他人、维持友谊可被理解为使形式不被不必要缺失阻断。若以“真正自我不受伤”为由拒绝照护，就把存在层级误成行动豁免。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p10",
+          "identity": "paragraphId=plotinus-20-p10; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "然而，普罗提诺的最高幸福集中于个人理智活动，政治德性居于低阶，又缺少权利、制度和结构不义理论。即使从沉思推出照护，也可能只是德性高尚者的自愿善行，无法说明受害者为何有可主张的要求。这个缺口仍然成立。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p11",
+          "identity": "paragraphId=plotinus-20-p11; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "波菲利描述普罗提诺照顾友人托付的孤儿、参与学生生活，并设想在皇帝支持下建立“柏拉图城”。这些材料能显示师门实践并非纯粹孤居，却属于弟子传记和哲学肖像，不是《九章集》中完成的政治论证。不能用生活轶事填补概念缺口。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p12",
+          "identity": "paragraphId=plotinus-20-p12; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "边界必须承认。普罗提诺提供了反占有、自我治理、政治德性、宇宙共同性和非损耗给予等资源，可用来批评某些支配；他没有由此推出权利分配、公共问责或制度修复。路线保住实践方向，不伪造一套现成政治哲学。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p13",
+          "identity": "paragraphId=plotinus-20-p13; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "这样回看，下降与返回不是两趟相反旅行。较高活动产生较低世界，较低者在转向来源时获得自己的形式；人返回统一，也应使自己的外在活动更少分裂、更少占有。若合一只留下对世界的厌恶，它没有完成普罗提诺自己坚持的双向结构。"
+          ]
+        },
+        {
+          "heading": "plotinus-20-p14",
+          "identity": "paragraphId=plotinus-20-p14; claim-source=enn-iii8@III.8.1—11",
+          "kind": "argument",
+          "paragraphs": [
+            "最后留下的不是更高本原，而是把形上自我治理转成可共同要求的正义。怎样判断制度在系统性制造缺失，怎样让受害者而非自称贤者界定伤害，怎样在照护身体时不把人还原成身体，这些问题需要普罗提诺之外的材料。终点因此是一条有边界的开放线：不把世界神化，也不把世界遗弃。"
+          ]
+        }
+      ],
+      "title": "返回不是把世界留在身后"
+    }
+  ],
+  "nodes": [
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "porphyry-life",
+        "modern-sep",
+        "edition-hs",
+        "translation-gerson"
+      ],
+      "explanation": "翻开《九章集》，一种整齐会立刻造成误导：六组，每组九篇，先伦理，后宇宙，再灵魂、理智和一者。若这就是普罗提诺亲自设计的道路，那么沿目录逐项解释似乎足够。问题在于，这份整齐来自波菲利身后的编辑。我们握有近乎完整的思想材料，却没有一部由普罗提诺按这个次序写成的系统著作。",
+      "id": "plotinus-01-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "先找出是谁在说话",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-ii4-ii7",
+        "enn-iii6",
+        "edition-hs"
+      ],
+      "explanation": "一块青铜先冷后热，一张脸在少年、成年和衰老时仍被认作同一张脸。若每次性质改变都等于旧物消失、新物出现，“同一个东西改变”便失去意义；若变化者完整保留所有相反性质，它又会同时冷与热、年轻与衰老。可感事物要求我们既承认持续者，也承认它不能以任何一项正在更换的性质来定义。",
+      "id": "plotinus-02-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "变化为何需要一个不带性质的承载者",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-i1",
+        "enn-iii6",
+        "enn-vi6-vi7"
+      ],
+      "explanation": "手被火烫伤时，说“身体受热但我没有疼”显然荒谬；然而若疼痛像热一样直接刻进灵魂，灵魂就必须具有身体那样可受作用、可分割的表面。上一项分析把生命统一的需要留给了无形原则，现在经验却把无形灵魂拉回疼痛、愤怒和欲望。受苦者、察觉者和严格意义的自我是否完全相同，成了无法绕开的压力。",
+      "id": "plotinus-03-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "疼痛发生在谁身上",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iv3-iv6",
+        "enn-v1-v4",
+        "enn-iii6"
+      ],
+      "explanation": "感觉似乎把灵魂逼进两难。若眼中颜色、皮肤压力在灵魂上留下同种印记，灵魂便会像蜡一样被外物改形；若灵魂绝不受任何影响，感觉又像一场与身体无关的独白。前一项区分了受伤与判断，现在必须说明二者怎样接通，而不是把“灵魂知道”当作无需机制的奇迹。",
+      "id": "plotinus-04-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "灵魂如何感觉而不变成伤口",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iv1-iv2",
+        "enn-iv7-iv9",
+        "enn-vi4-vi5"
+      ],
+      "explanation": "脚受伤时整个人会改变步态，眼见危险时心跳和手势会一起响应。若灵魂只住在某个点，消息必须在没有生命的部分之间奔走后才成为整体经验；若灵魂像气体一样铺满身体，切去一部分身体也会切去一份灵魂。生命统一要求灵魂遍及各部，却不允许它按空间份额分摊。",
+      "id": "plotinus-05-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "不占空间的灵魂怎样遍及身体",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-ii1-ii3",
+        "enn-iii8",
+        "enn-iv3-iv6"
+      ],
+      "explanation": "宇宙的秩序似乎要求选择：要么有一个工匠在时间中先计划、后装配，要么物体碰撞偶然形成暂时图样。普罗提诺两者都不接受。世界没有第一天，却长期保持天体运动、物种结构和部分间协调。一个永恒有序的世界，需要持续的生命原因，而不是开端处的一次施工。",
+      "id": "plotinus-06-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "没有工匠装配的活宇宙",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iii1",
+        "enn-iii2-iii3",
+        "enn-ii9"
+      ],
+      "explanation": "当同样身体原因在同样条件下产生同样结果，我们称世界可理解；当人被赞扬或谴责，又假定行动不只是外力推动。若秩序要求每件事只有一种机械原因，责任会消失；若责任要求行动完全脱离自然，行动便成为无缘无故的裂缝。命运问题不是在规律和混乱之间二选一，而是判断不同原因是否能同处一个世界。",
+      "id": "plotinus-07-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "秩序为何没有取消责任",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iii7",
+        "enn-v1-v4"
+      ],
+      "explanation": "若时间就是运动，一辆车停下时它的时间也应停止；若时间是运动的数，必须先有一个灵魂把先后计为多少。更深的困难是永恒：把它理解成没有尽头的时间，只得到无限延续，仍有过去与未来。普罗提诺要说明一种全体不以先后分散的生命，以及先后怎样从较低活动中出现。",
+      "id": "plotinus-08-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "时间不是永恒的拉长",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-vi1-vi3",
+        "enn-v5-v9"
+      ],
+      "explanation": "亚里士多德的实体、数量、性质、关系等范畴很适合区分可感事物：这个人是实体，身高属数量，肤色属性质。但若把同一框架原样上推，理智中的存在会像桌子一样先是一个基底，再偶然取得思想和生命。无时间的完整生命需要差异，却不能依赖可变实体与外加偶性。",
+      "id": "plotinus-09-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "可知世界也必须是活的",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-v1-v4",
+        "enn-v5-v9"
+      ],
+      "explanation": "若真理对象永远站在理智之外，理智接触到的就可能只是它们造成的影像。影像再清晰，也需要拿原物校对；可原物若仍在门外，校对只会诉诸另一影像。普罗提诺由怀疑压力推出一个激进结论：完全的理智认识不能靠外在表象中介。",
+      "id": "plotinus-10-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "真理不能站在理智门外",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-v5-v9",
+        "enn-vi6-vi7"
+      ],
+      "explanation": "理智若包含圆、正义、生命和无数形式，看起来像装满对象的仓库；若这些形式完全融成无差别一体，又没有任何内容可思。上一项保住理念在理智内，现在必须说明内在不等于堆积，同一也不等于抹平差异。",
+      "id": "plotinus-11-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "一个理智如何包含许多真理",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-v1-v4",
+        "enn-vi9",
+        "enn-i7-i9"
+      ],
+      "explanation": "理智已经是完全真理和可知美，为什么还要越过它？因为它的每一项完善都带着结构：思维者与所思、同一与差异、整体与部分。只要某物由多项关系成为一个整体，它的“是一个”就不能等同于那些多项本身。普罗提诺追问的不是更强大的理智，而是统一本身的来源。",
+      "id": "plotinus-12-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "为什么理智还不是最后的起点",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-v1-v4",
+        "enn-iii8",
+        "enn-ii9"
+      ],
+      "explanation": "完满似乎意味着无需行动：既不欠缺，何必产生他者？但若第一原则什么效果也没有，它与万物的统一依赖就断开。相反，若它为了得到结果而计划、努力或分割自身，它先前便不完满。产生论必须让原因足以解释效果，又不把效果变成原因所需的补充。",
+      "id": "plotinus-13-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "完满者怎样产生而不损耗",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-v5-v9",
+        "enn-vi6-vi7",
+        "enn-vi9",
+        "porphyry-life"
+      ],
+      "explanation": "称一者“一”，似乎已经赋予它一个性质；称它“善”或“原因”，性质更多。若一切谓词都把对象规定为某种存在，而一者先于存在，最一致的态度像是沉默。可一旦沉默，前面关于统一依赖和产生的论证又失去指向。言说既不可照常进行，也不能完全撤回。",
+      "id": "plotinus-14-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "谈论不可言说者",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iii1",
+        "enn-vi8",
+        "enn-v1-v4"
+      ],
+      "explanation": "通常把自由想成面前有甲乙两项而“本来可以选另一项”。但一个因无知而反复犹豫的人似乎不比清楚知道善、坚定行动的人更自由。一者既不缺信息，也不在多个方案间审议；若选择数目决定自由，最高原则反而最不自由。",
+      "id": "plotinus-15-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "自由不只是能选另一个",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-i7-i9",
+        "enn-ii4-ii7",
+        "enn-iii6",
+        "enn-ii9"
+      ],
+      "explanation": "万物若最终依赖善，恶似乎只能有三种去处：由善直接制造，由另一个邪恶本原制造，或者根本不存在。第一项使善自相矛盾，第二项破坏第一原则，第三项又冒犯疾病、暴行和败坏的现实。普罗提诺试图给恶真实位置，却不给它与善同等的因果能力。",
+      "id": "plotinus-16-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "恶怎样依赖善而不成为第二本原",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-i2-i3",
+        "enn-i1",
+        "enn-ii9"
+      ],
+      "explanation": "若错误来自欲望牵引，最直接的办法似乎是压住欲望；若目标是返回理智，又似乎应尽快抛开一切共同生活。两种做法都太快。压抑可能只留下更强冲突，逃离城邦也可能把未受检验的激情带走。普罗提诺用德性层级说明治理、净化和沉思为何互相依赖。",
+      "id": "plotinus-17-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "净化不是把身体当敌人",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-i4-i5",
+        "enn-i7-i9",
+        "enn-i1"
+      ],
+      "explanation": "贤者被关进烧热的法拉里斯铜牛，仍能幸福吗？若回答不能，幸福就交给暴君；若回答能，又像是在否认尖叫和灼伤。普罗提诺故意选择极端案例，让“幸福在理智生命”接受身体痛苦的最大压力。真正困难不是选乐观或悲观，而是区分善能否被夺与痛苦是否真实。",
+      "id": "plotinus-18-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "铜牛里的幸福",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-i6",
+        "enn-iii5",
+        "enn-v5-v9"
+      ],
+      "explanation": "和谐比例能解释许多美，却不能解释一道单纯光色、一个单音或正义行动为何美；更麻烦的是，丑陋整体也可能由比例匀称的部分组成。若美只在可知界，感性吸引又没有真内容。普罗提诺需要一种既在形象中显现、又不被形象耗尽的形式。",
+      "id": "plotinus-19-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "美怎样把目光带回形式",
+      "status": "teachingReady"
+    },
+    {
+      "abilityIds": [
+        "reconstruct-argument",
+        "test-case",
+        "track-source-voice"
+      ],
+      "evidenceLinkIds": [
+        "enn-iii8",
+        "enn-ii9",
+        "enn-i4-i5",
+        "porphyry-life"
+      ],
+      "explanation": "路线抵达一者后，最容易的结尾是说灵魂终于逃离世界。但这会使前面的宇宙灵魂、自然之美、政治德性和具身责任全成可丢弃脚手架，也会使普罗提诺与他批评的反宇宙立场靠得过近。最后的压力不是能否上升，而是上升后的活动如何不否定其来源所产生的世界。",
+      "id": "plotinus-20-teaching",
+      "identity": "project interpretation with paragraph-level source boundaries",
+      "kind": "claim",
+      "readerTitle": "返回不是把世界留在身后",
+      "status": "teachingReady"
+    }
+  ],
+  "routes": [
+    {
+      "id": "plotinus-longform",
+      "lessonIds": [
+        "plotinus-01",
+        "plotinus-02",
+        "plotinus-03",
+        "plotinus-04",
+        "plotinus-05",
+        "plotinus-06",
+        "plotinus-07",
+        "plotinus-08",
+        "plotinus-09",
+        "plotinus-10",
+        "plotinus-11",
+        "plotinus-12",
+        "plotinus-13",
+        "plotinus-14",
+        "plotinus-15",
+        "plotinus-16",
+        "plotinus-17",
+        "plotinus-18",
+        "plotinus-19",
+        "plotinus-20"
+      ],
+      "title": "普罗提诺：从分散生命到一者，再返回世界",
+      "version": "1.0"
+    }
+  ],
+  "schemaVersion": "1.0"
+}

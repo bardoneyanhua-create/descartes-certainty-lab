@@ -1,0 +1,58 @@
+<Window x:Class="Descartes.CertaintyLab.ExperienceLibraryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Descartes.CertaintyLab"
+        Title="思想体验" Width="820" Height="590"
+        MinWidth="680" MinHeight="500"
+        WindowStartupLocation="CenterOwner"
+        Background="#F3EFE7" Foreground="#25231F"
+        FontFamily="Microsoft YaHei UI" FontSize="17">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FFFDF8" />
+            <Setter Property="Foreground" Value="#25231F" />
+            <Setter Property="BorderBrush" Value="#AFA28E" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="22" />
+            <Setter Property="Margin" Value="0,0,0,16" />
+            <Setter Property="MinHeight" Value="120" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#243F49" />
+                    <Setter Property="BorderThickness" Value="4" />
+                    <Setter Property="Background" Value="#EDF3F3" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+                  HorizontalScrollBarVisibility="Disabled" Padding="38,32">
+        <StackPanel MaxWidth="720">
+            <TextBlock Text="思想体验" FontSize="34" FontWeight="Bold"
+                       Foreground="#263E46" Margin="0,0,0,8" />
+            <TextBlock Text="不是先背结论，而是先进入一个问题。选择一段体验，走到最后再看它是谁的思想。"
+                       TextWrapping="Wrap" LineHeight="29" Margin="0,0,0,28" />
+            <Button x:Name="OpenDescartes" Click="OnOpenDescartes"
+                    AutomationProperties.Name="梦醒之后。进入笛卡尔的怀疑方法体验。">
+                <StackPanel>
+                    <local:SilentTextBlock Text="梦醒之后" FontSize="24"
+                                           FontWeight="Bold" Foreground="#31584A"
+                                           Margin="0,0,0,7" />
+                    <local:SilentTextBlock Text="从一个过分真实的梦出发，看看怀疑一路扩大后还剩下什么。"
+                                           TextWrapping="Wrap" LineHeight="27" />
+                </StackPanel>
+            </Button>
+            <Button x:Name="OpenArendt" Click="OnOpenArendt"
+                    AutomationProperties.Name="没有国家的人。进入阿伦特与拥有权利的权利体验。">
+                <StackPanel>
+                    <local:SilentTextBlock Text="没有国家的人" FontSize="24"
+                                           FontWeight="Bold" Foreground="#344E58"
+                                           Margin="0,0,0,7" />
+                    <local:SilentTextBlock Text="当证件仍在，却没有任何共同体必须听取你的申诉，权利还怎样生效？"
+                                           TextWrapping="Wrap" LineHeight="27" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

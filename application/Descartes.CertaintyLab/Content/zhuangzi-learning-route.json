@@ -1,0 +1,2682 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "zhuangzi-01-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "当正面说理本身成了问题",
+      "explanation": "《庄子》的寓言不是给抽象结论套一层好看的故事。它让判断规则在陌生对象面前失灵，让不同声音相互校正，也把解释责任交还给听者。怪诞因此是一种论证装置：它改变可见范围，却不保证任何解释都成立。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-misc-27-yuyan",
+        "evidence-misc-33-tianxia",
+        "evidence-inner-01-xiaoyaoyou",
+        "evidence-inner-05-dechongfu"
+      ],
+      "abilityIds": [
+        "能区分寓言承担的反例、视角转换和声音分层功能，而不把它当作结论装饰",
+        "能说明怪诞为何松动判断框架，同时指出它不自动授权任意解释"
+      ]
+    },
+    {
+      "id": "zhuangzi-02-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "成心怎样把差异变成裁决",
+      "explanation": "成心不是一切稳定判断的统称，而是把已形成取向奉为不受审查的老师。它使彼与是、可与不可迅速凝固。松动成心不是清空心灵，而是让判断能回看条件、容纳对方所见并在新证据下改写。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-02-qiwulun",
+        "evidence-outer-17-qiushui"
+      ],
+      "abilityIds": [
+        "能区分稳定判断与把既有取向奉为最高裁判的成心",
+        "能以彼是关系说明视角如何形成裁决，并保留证据校正的可能"
+      ]
+    },
+    {
+      "id": "zhuangzi-03-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "齐物不等于判断停摆",
+      "explanation": "齐物的最低可辩含义不是把所有命题判成同真，而是拒绝某一局部尺度未经说明便垄断万物。视角揭示、对象差异、实践后果与可修正理由仍能支持判断。齐的是进入审查的资格，不是证据强度。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-02-qiwulun",
+        "evidence-outer-17-qiushui",
+        "evidence-modern-sep-zhuangzi"
+      ],
+      "abilityIds": [
+        "能区分价值或适宜性的关系依存与经验命题的证据约束",
+        "能说明齐物为何削弱裁决垄断，却不把冲突判断全部判为同真"
+      ]
+    },
+    {
+      "id": "zhuangzi-04-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "梦蝶以后谁在变化",
+      "explanation": "物化同时保留“有分”与“会化”：庄周和蝴蝶并非同一状态，却不能由醒后的庄周独占全部解释权。身份不是任意扮演，也不是冻结实体，而是在身体、记忆、关系和视角变化中持续重组。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-02-qiwulun",
+        "evidence-inner-06-dazongshi"
+      ],
+      "abilityIds": [
+        "能从梦蝶同时说明身份差异与转化连续，而不化约为虚拟世界怀疑",
+        "能在实际身份变化中分别追踪身体、记忆、关系和责任"
+      ]
+    },
+    {
+      "id": "zhuangzi-05-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "大鹏也在风中",
+      "explanation": "《逍遥游》先比较小大之知与活动条件，再把列子的轻妙也判为有待。无待可被谨慎理解为不把某个有限成就当作自我价值的最终支点，并能随条件转化行动；它不是没有条件、没有关系或没有限制。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-01-xiaoyaoyou",
+        "evidence-modern-iep-zhuangzi"
+      ],
+      "abilityIds": [
+        "能区分活动所需条件、身份价值的依附和逍遥的转换能力",
+        "能说明大小视角为何互相校正，同时不把大鹏自动设为最高境界"
+      ]
+    },
+    {
+      "id": "zhuangzi-06-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "无用怎样成为保护又遭遇反例",
+      "explanation": "无用之用首先揭露用途总属于某个制度、技术或欲望。被一种用途拒绝，可能保存其他生长空间；但外篇与杂篇又显示无用没有固定护身符。关键是改变用途垄断、保留不可预定空间，并分析具体风险。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-01-xiaoyaoyou",
+        "evidence-inner-04-renjianshi",
+        "evidence-outer-20-shanmu",
+        "evidence-misc-26-waiwu"
+      ],
+      "abilityIds": [
+        "能把无用解释为对特定用途尺度的相对拒绝，而非对象没有作用",
+        "能用山木与雁的冲突限制“无用必保全”的简单法则"
+      ]
+    },
+    {
+      "id": "zhuangzi-07-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "庖丁的刀为何仍会停",
+      "explanation": "庖丁的熟练由长期学习、结构感知和风险暂停共同构成。他不以蛮力切割，而顺着间隙行动；“神遇”不是取消感官和知识，而是把它们重组为情境响应。故事支持技艺中的节制，不证明专家永不出错。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-03-yangshengzhu"
+      ],
+      "abilityIds": [
+        "能重建庖丁从见全牛到依理入间再到复杂处暂停的学习链",
+        "能区分具身熟练、机械自动和专家不可错神话"
+      ]
+    },
+    {
+      "id": "zhuangzi-08-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "心斋与坐忘不是删除自我",
+      "explanation": "心斋发生在劝谏暴君的危险前，要求暂停以名义和预案占满对方；坐忘则通过忘仁义、礼乐与形知，松开固定身份和评价。两者不是意识消失，而是让感受、关系和情势不再只被成心翻译。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-04-renjianshi",
+        "evidence-inner-06-dazongshi"
+      ],
+      "abilityIds": [
+        "能区分心斋的政治语境与坐忘的身份松动，不把二者混成统一冥想术",
+        "能说明放空如何改变注意结构，同时保留判断、安全和责任"
+      ]
+    },
+    {
+      "id": "zhuangzi-09-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "安时处顺不替命运签字",
+      "explanation": "命在相关篇章中标出行动者无法单凭意愿解除的条件，不等于一切事件都由预定计划造成。安时处顺调整对变化的抗拒，不能把可改变制度、施害因果和照护义务伪装成天命。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-04-renjianshi",
+        "evidence-inner-06-dazongshi"
+      ],
+      "abilityIds": [
+        "能区分不可逆事实、因果责任与未来可行动空间",
+        "能说明安时处顺为何不是压抑情感或取消政治改变"
+      ]
+    },
+    {
+      "id": "zhuangzi-10-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "拒绝权力以后还剩什么政治",
+      "explanation": "相关篇章把政治风险放在名誉、控制和强制同形上：善意若预设对象应成为什么，也可能造成伤害。拒聘保护不被权位占有，无为限制过度干预；但文本没有提供完整制度方案，退出也可能把代价留给不能退出者。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-04-renjianshi",
+        "evidence-inner-07-yingdiwang",
+        "evidence-outer-17-qiushui"
+      ],
+      "abilityIds": [
+        "能区分政治拒斥、无为的反强制含义与政府不行动",
+        "能评估退出策略对留在制度中者造成的风险转移"
+      ]
+    },
+    {
+      "id": "zhuangzi-11-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "鼓盆不能替别人规定悲伤",
+      "explanation": "鼓盆故事属于外篇，并让惠子提出具体伦理抗议。庄子人物承认初死时有触动，随后用四时变化调整悲伤。故事能说明情感解释会改变，却不能证明无情、取消哀悼规范或要求他人复制同一表达。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-inner-06-dazongshi",
+        "evidence-outer-18-zhile"
+      ],
+      "abilityIds": [
+        "能重建惠子异议、初始悲伤与变化回应的完整张力",
+        "能区分个人情感转化与对他人施加哀悼规范"
+      ]
+    },
+    {
+      "id": "zhuangzi-12-argument",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "三十三篇不是一个人的独白",
+      "explanation": "“庄子哲学”可作为受控简称，指现存复合文本围绕视角、变化、技艺、生命和权力形成的问题网络。每次归属仍须标明篇层、人物、编者或注家。郭象保存并重塑文本，其独化与适性不是先秦原意的透明转录。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "evidence-misc-33-tianxia",
+        "evidence-guoxiang-commentary",
+        "evidence-modern-sep-zhuangzi",
+        "evidence-modern-iep-zhuangzi"
+      ],
+      "abilityIds": [
+        "能准确区分内一至七、外八至二十二、杂二十三至三十三及其归属强度",
+        "能说明郭象既是传本保存者也是创造性解释者，并保留后世接受的改造性"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "evidence-misc-27-yuyan",
+      "workId": "Zhuangzi-27",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "篇首“寓言十九，重言十七，卮言日出”及其对三种言说方式的说明",
+      "locatorVerified": true,
+      "identity": "miscellaneous-meta-discourse-on-speaking"
+    },
+    {
+      "id": "evidence-misc-33-tianxia",
+      "workId": "Zhuangzi-33",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "篇末论庄周“以谬悠之说、荒唐之言、无端崖之辞”与惠施辩者",
+      "locatorVerified": true,
+      "identity": "retrospective-syncretic-history-of-thought"
+    },
+    {
+      "id": "evidence-inner-01-xiaoyaoyou",
+      "workId": "Zhuangzi-01",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "篇首鲲鹏、蜩与学鸠、列子御风与“彼且恶乎待哉”；篇末大瓠与樗树",
+      "locatorVerified": true,
+      "identity": "composite-inner-text-with-narrator-and-dialogue-figures"
+    },
+    {
+      "id": "evidence-inner-05-dechongfu",
+      "workId": "Zhuangzi-05",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "兀者王骀、申徒嘉、哀骀它与“德有所长而形有所忘”相关段落",
+      "locatorVerified": true,
+      "identity": "dramatic-disabled-figures-and-confucius-voice"
+    },
+    {
+      "id": "evidence-inner-02-qiwulun",
+      "workId": "Zhuangzi-02",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "南郭子綦与天籁；“夫随其成心而师之”；彼是、道枢、两行；庄周梦蝶与“物化”",
+      "locatorVerified": true,
+      "identity": "composite-inner-text-with-narrator-dialogue-and-paradox"
+    },
+    {
+      "id": "evidence-outer-17-qiushui",
+      "workId": "Zhuangzi-17",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "河伯见北海若；濠梁鱼乐辩；庄子濮水钓、以神龟拒楚聘",
+      "locatorVerified": true,
+      "identity": "outer-layer-narrator-dialogue-and-zhuangzi-character"
+    },
+    {
+      "id": "evidence-modern-sep-zhuangzi",
+      "workId": "SEP-Zhuangzi",
+      "edition": "current online scholarly reference, section 2 Evolving Text Theory",
+      "locator": "郭象由五十二篇整理为三十三篇；内一至七、外八至二十二、杂二十三至三十三；多重作者层次及归属争议",
+      "locatorVerified": true,
+      "identity": "modern-scholarly-reference"
+    },
+    {
+      "id": "evidence-inner-06-dazongshi",
+      "workId": "Zhuangzi-06",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "真人段；子祀子舆子犁子来论化；“安时而处顺”；颜回“坐忘”",
+      "locatorVerified": true,
+      "identity": "composite-inner-narrator-transformation-dialogues-and-yan-hui"
+    },
+    {
+      "id": "evidence-modern-iep-zhuangzi",
+      "workId": "IEP-Zhuangzi",
+      "edition": "current online scholarly reference, sections 2 and 3",
+      "locator": "现存本编排、内外杂篇、多声部与内篇主要概念",
+      "locatorVerified": true,
+      "identity": "modern-scholarly-reference"
+    },
+    {
+      "id": "evidence-inner-04-renjianshi",
+      "workId": "Zhuangzi-04",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "颜回欲往卫与心斋；叶公子高使齐与不得已；栎社树、支离疏及“无用之用”",
+      "locatorVerified": true,
+      "identity": "dramatic-confucius-yan-hui-and-parable-voices"
+    },
+    {
+      "id": "evidence-outer-20-shanmu",
+      "workId": "Zhuangzi-20",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "山中不材大木与故人杀不能鸣之雁；庄子答弟子将处材与不材之间",
+      "locatorVerified": true,
+      "identity": "outer-layer-parable-and-zhuangzi-character"
+    },
+    {
+      "id": "evidence-misc-26-waiwu",
+      "workId": "Zhuangzi-26",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "惠子问庄子知无用后方可言用，以立足之地与无用之地说明“无用为用”",
+      "locatorVerified": true,
+      "identity": "miscellaneous-dialogue-zhuangzi-character-and-huizi"
+    },
+    {
+      "id": "evidence-inner-03-yangshengzhu",
+      "workId": "Zhuangzi-03",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "篇首“吾生也有涯”；庖丁解牛全段，尤其“依乎天理”“每至于族”“善刀而藏之”",
+      "locatorVerified": true,
+      "identity": "narrator-butcher-ding-and-lord-wenhui"
+    },
+    {
+      "id": "evidence-inner-07-yingdiwang",
+      "workId": "Zhuangzi-07",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "无名人答天根问治；列子与壶子神巫；篇末儵忽为浑沌凿七窍",
+      "locatorVerified": true,
+      "identity": "political-parable-and-hundun-narrator"
+    },
+    {
+      "id": "evidence-outer-18-zhile",
+      "workId": "Zhuangzi-18",
+      "edition": "通行三十三篇本；《庄子集释》系统；CTP received text",
+      "locator": "“庄子妻死”惠子吊、鼓盆而歌；四时变化与初死时“何能无概然”",
+      "locatorVerified": true,
+      "identity": "outer-layer-zhuangzi-character-and-huizi-objection"
+    },
+    {
+      "id": "evidence-guoxiang-commentary",
+      "workId": "GuoXiang-ZhuangziZhu",
+      "edition": "郭象注、成玄英疏传统；现代参考以 IEP Guo Xiang 条目核对",
+      "locator": "三十三篇编排；独化、适性与自得等注释重心",
+      "locatorVerified": true,
+      "identity": "guo-xiang-editor-commentator"
+    }
+  ],
+  "routes": [
+    {
+      "id": "zhuangzi-foundations",
+      "version": "1.0.0",
+      "title": "庄子：在变化、判断与权力之间学习游",
+      "lessonIds": [
+        "zhuangzi-01",
+        "zhuangzi-02",
+        "zhuangzi-03",
+        "zhuangzi-04",
+        "zhuangzi-05",
+        "zhuangzi-06",
+        "zhuangzi-07",
+        "zhuangzi-08",
+        "zhuangzi-09",
+        "zhuangzi-10",
+        "zhuangzi-11",
+        "zhuangzi-12"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "zhuangzi-01",
+      "order": 1,
+      "title": "当正面说理本身成了问题",
+      "depth": "longform",
+      "guidingQuestion": "如果一套哲学怀疑现成名词会把活的差异压平，它还能直接给出定义和命令吗？《庄子》为何让大鱼、怪人、树木与争辩者轮流开口，而不先交出一张教义表？",
+      "coreExplanation": "《庄子》的寓言不是给抽象结论套一层好看的故事。它让判断规则在陌生对象面前失灵，让不同声音相互校正，也把解释责任交还给听者。怪诞因此是一种论证装置：它改变可见范围，却不保证任何解释都成立。",
+      "sections": [
+        {
+          "heading": "一句正确的话也可能失去对象",
+          "paragraphs": [
+            "设想有人问怎样不被名声牵着走，回答者立刻宣布一条普遍法则：从此拒绝所有名声。句子很整齐，却没有区分虚名、可信声誉和他人合理评价。它看似给了方向，实际只是用另一个口号接管了生活。",
+            "《庄子》面对的困难更尖锐。若我们惯用的名称和标准已经把世界切成固定格子，那么用同一套语言正面宣布新真理，很可能只是换了格子的标签。说理若不改变判断者的站位，答案会复制它想解除的僵硬。",
+            "所以问题不只是“庄子主张什么”，还包括“怎样说，才不让主张立刻变成新的成心”。这逼出一种不稳定的写法：让叙事突然转向，让角色彼此拆台，让结尾留下需要继续承担的解释债务。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "寓言并非糖衣",
+          "paragraphs": [
+            "通常的例子先有结论，再找一个场景帮助记忆。寓言的工作不同：它改变哪些事实显眼，迫使原规则接受一次压力测试。鲲鹏的尺度、樗树的无用、形体怪异者的吸引力，都让“正常”失去不证自明的地位。",
+            "这并不表示寓言拥有神秘特权。故事仍可能映射错误，解释者也可能把一处反转推广过头。寓言能做的是制造可检查的错位：原本被当作对象缺陷的东西，是否其实只是某种用途、尺度或制度的偏好？",
+            "陌生化也可能过量。若怪诞只让人惊叹写法，而具体受伤者、动物或身体被当成符号消耗，故事会复制它想批评的工具化。形式是否成功，要看对象获得了更多可见性还是只成了奇观。",
+            "因此，读寓言要同时问四件事：故事中的对应关系是什么，它对哪个前提施压，反转后改变了什么判断，它没有证明什么。少了最后一问，怪诞很容易被消费成“凡是反常都更真实”。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁在说话",
+          "paragraphs": [
+            "《寓言》说寓言、重言与卮言，但它属于杂篇，是后出层次对言说方式的反省，不能当作历史庄周亲自为内篇写的方法序。它照亮全书，却也带着自己的编纂位置。",
+            "《天下》以“谬悠之说、荒唐之言、无端崖之辞”回顾庄周，同样属于杂篇的历史分类声音。这里的“庄周”已是被回望的思想形象，不是作者走到台前解释写作意图。",
+            "内篇故事中的孔子、颜回、惠子和庄子人物也要分开。角色一句话可能受到下一段修正，甚至专门承担失败方案。若把角色台词全都盖上“庄子认为”，多声部就会被压成伪引语。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "怪人怎样检验正常",
+          "paragraphs": [
+            "《德充符》反复安排受刑、残缺或外貌异常的人物，使旁人对形体与德性的联结失效。其论证力量不在“缺陷其实很美”这句安慰，而在追问：为什么外观差异会被当成判断人格与能力的证据？",
+            "把这个操作迁移到招聘处境，口吃者的存在不能证明口头表达从来不重要。它只击中一个偷换：某岗位需要严谨判断，招聘者却把流畅外观当成严谨判断的充分证据。修正规则应回到实际任务，而不是倒过来偏爱口吃。",
+            "边界也必须保留。怪诞人物不应被浪漫化为天然圣者，现实残障与羞辱不能被一句“形有所忘”抹去。寓言拆解评价框架，不替受压者规定他们应该怎样理解自己的身体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "迂回会不会逃避责任",
+          "paragraphs": [
+            "最强的异议不是“故事太难懂”，而是：若作者总能说自己只是在讲寓言，任何明确批评都可能被躲开。多义性若没有约束，会把论证变成解释者的投影，也让政治或伦理后果无人负责。",
+            "回应不能说“庄子本来就反逻辑”。更稳妥的做法是用文本中的压力链约束解释：一个读法必须说明前后反转、角色分工和具体措辞，并能指出它保留哪些差异。寓言增加解释劳动，不取消举证责任。",
+            "这项回应也会收缩结论。我们不能从文体直接推出一套完整认识论，只能说某些篇章把可错性写进表达形式。至于哪些判断仍可坚持，必须在《齐物论》的成心与彼是问题中继续检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "与苏格拉底反诘的近与远",
+          "paragraphs": [
+            "寓言与苏格拉底反诘都能让自信变成困惑：前者改变视角，后者追问承诺是否相容。共同点是不给未经检验的定义直接通行，但两种做法不能互换。",
+            "反诘常把矛盾定位在说话者已承认的前提中；《庄子》的故事则可能让“什么算前提”本身变得不稳。比较的作用只是看清《庄子》为何需要叙事转场，不能用希腊论证格式替它补出未写的结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从说法转向判断者",
+          "paragraphs": [
+            "我们已经得到一个有限结论：寓言和怪诞人物通过制造错位，检验习以为常的评价前提；多重声音阻止一句角色台词垄断全书。它们不是糖衣，也不是免于论证的通行证。",
+            "仍未解决的是，若每个判断都带着站位，怎样避免滑进“各说各话”。下一步必须进入《齐物论》最危险的区域：成心怎样形成是非，而承认视角又是否会摧毁可辩的判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一位招聘者只用“表达流畅”筛选研究人员，遇到一名口吃但判断极准的候选人。这个处境不是要赞美一切反常，而是检验原来的指标是否把完成工作的能力误认成一种熟悉外观。",
+      "nodeIds": [
+        "zhuangzi-01-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-01-check-1",
+        "zhuangzi-01-check-2",
+        "zhuangzi-01-check-3",
+        "zhuangzi-01-check-4"
+      ],
+      "abilitySummary": [
+        "能区分寓言承担的反例、视角转换和声音分层功能，而不把它当作结论装饰",
+        "能说明怪诞为何松动判断框架，同时指出它不自动授权任意解释"
+      ],
+      "recommendedNextLessonId": "zhuangzi-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-02",
+      "order": 2,
+      "title": "成心怎样把差异变成裁决",
+      "depth": "longform",
+      "guidingQuestion": "我们必须依靠已经形成的心智习惯才能判断，可同一习惯也会预先决定什么算证据、谁有资格说话。《齐物论》批评成心时，是要消灭判断，还是要揭露判断如何把自身起点忘掉？",
+      "coreExplanation": "成心不是一切稳定判断的统称，而是把已形成取向奉为不受审查的老师。它使彼与是、可与不可迅速凝固。松动成心不是清空心灵，而是让判断能回看条件、容纳对方所见并在新证据下改写。",
+      "sections": [
+        {
+          "heading": "没有起点便无法判断",
+          "paragraphs": [
+            "判断从来不是从零开始。我们已经学会哪些声音可靠、哪些差异重要、怎样把经验归到名称之下。若每次都把全部标准悬置，连一句“这里有人受伤”也无法及时说出。",
+            "但起点一旦被忘记，就会伪装成对象本身。一个群体熟悉的礼节被称作自然，陌生表达被称作无理；一套量表能测出的痛被承认，测不出的痛被当作夸张。成心的危险由此出现。",
+            "《齐物论》问“随其成心而师之，谁独且无师乎”，矛头不是有经验的心，而是把已成之心当作最终老师。问题在“师之”：判断者不再能审查塑造自己的那套取向。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "成心不是认真",
+          "paragraphs": [
+            "成心容易被误译成偏见，仿佛只要态度诚恳便能摆脱。其实偏见常指一个错误内容，成心更像生产内容的定向结构：它先规定哪些差异值得进入判断。",
+            "它也不是决心。决心可以在知道理由与代价后坚持行动；成心则让理由的入口被预先封闭。一个人可能非常犹豫，却始终只允许自己熟悉的证据说话。",
+            "这一区分给出边界。批评成心不能推出“稳定立场都可疑”，否则批评本身也失去立足处。它要求的是可回看的承诺：我为什么采用这个标准，什么经验会迫使我修改它。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "彼与是互相生成",
+          "paragraphs": [
+            "彼与是并非两件先已完成的东西再被比较。把这里标成“是”，往往同时把某处标成“彼”；选定一种用途，也把其他性质推到背景。区分的两端在同一裁切中出现。",
+            "由此不能直接推出两端没有差异。医生的影像与病人的叙述确实不同，正因不同才可能互相补足。文本施压的是某一端把自己的可见范围宣布为对象全貌。",
+            "所谓“彼亦一是非，此亦一是非”可以读成对称压力：每个位置都能形成自身的是非。它提醒我们从另一端看见本方的盲点，却没有说明两端的证据质量必定相等。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "两位医生的交叉校正",
+          "paragraphs": [
+            "只看影像的医生抓住可重复测量，却可能遗漏疼痛怎样限制生活；只听主诉的医生尊重第一人称经验，却可能遗漏危险病变。两人争执的关键不是谁拥有视角，而是谁把局部入口当成完整对象。",
+            "让视角相遇需要操作：列出各自能发现和不能发现的事实，寻找两类证据冲突的病例，再说明冲突出现时如何升级检查。这样，成心批评转化为改进判断的程序，而不是一句谦逊姿态。",
+            "若影像显示急性危险，不能因为“每人都有视角”而延迟处理；若影像正常，也不能据此宣布疼痛不存在。案例由此同时反驳独断和轻率对称。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "反身批评会不会自我瓦解",
+          "paragraphs": [
+            "强异议指出：说所有裁决都有成心，本身也是一个裁决。若这句话对自己例外，它重新占据无条件位置；若不例外，我们为何相信它比被批评的判断更好？",
+            "较好的回应不把文本重建为“所有判断都有同等缺陷”。它提出的是诊断性问题，而非宇宙全称：当判断屏蔽来源、拒绝反例或把局部当整体时，成心的风险变得可定位。",
+            "这项回应保住反身性，却收缩雄心。我们得到的不是无视角真理，而是一套让判断暴露条件、接受对照并记录修改理由的要求。它仍欠一个问题：若标准冲突，何种理由能决定取舍。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "道枢与两行",
+          "paragraphs": [
+            "《齐物论》以“道枢”描写枢纽：门轴不等于两边任何一扇门，却让开合成为可能。把它当作凌驾一切观点的上帝视角，会重新制造一个成心。",
+            "“两行”较适合被理解为让相反路径都能被看见并运行，而不是同时赞同矛盾命题。枢纽的能力在转换与响应，不在把差异磨成同一句话。",
+            "这里仍是一种解释重构。文本没有交付现代决策算法，后世注家也会赋予不同本体论意义。我们只取其最低承诺：判断若不能转向另一端，就难以发现自身裁切。"
+          ],
+          "identity": "composite-inner-text-with-narrator-dialogue-and-paradox",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "视角问题尚未等于相对主义",
+          "paragraphs": [
+            "本单元已经说明，成心批评的是不再审查自身起点的判断结构；彼与是互相生成，要求从对端检验局部视野。它没有要求取消事实差异，也没有把证据强弱平均化。",
+            "然而怀疑仍然合理：一旦承认标准受位置塑造，我们凭什么说某个判断越界？下一单元将直接面对相对主义指控，不靠一句“庄子不是相对主义者”逃开。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "两名医生面对同一慢性疼痛：一人只看影像，另一人只听主诉。两者各有证据，却都把自己的入口当作完整对象。检验成心不是宣布影像与叙述同样准确，而是追问各自遗漏了什么以及怎样交叉校正。",
+      "nodeIds": [
+        "zhuangzi-02-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-02-check-1",
+        "zhuangzi-02-check-2",
+        "zhuangzi-02-check-3",
+        "zhuangzi-02-check-4"
+      ],
+      "abilitySummary": [
+        "能区分稳定判断与把既有取向奉为最高裁判的成心",
+        "能以彼是关系说明视角如何形成裁决，并保留证据校正的可能"
+      ],
+      "recommendedNextLessonId": "zhuangzi-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-03",
+      "order": 3,
+      "title": "齐物不等于判断停摆",
+      "depth": "longform",
+      "guidingQuestion": "如果美丑、利害与是非常随处境改变，是否只剩“对你如此、对我如此”？齐物究竟在齐平真值，还是在改变我们对裁决权的理解？",
+      "coreExplanation": "齐物的最低可辩含义不是把所有命题判成同真，而是拒绝某一局部尺度未经说明便垄断万物。视角揭示、对象差异、实践后果与可修正理由仍能支持判断。齐的是进入审查的资格，不是证据强度。",
+      "sections": [
+        {
+          "heading": "相对主义指控为何有力",
+          "paragraphs": [
+            "相对主义不是一个方便的稻草人。《齐物论》不断让彼此互换，让大知小知、可不可、然不然失去稳固中心。若没有进一步限制，最自然的担忧就是：冲突双方都只能在自身尺度内成立。",
+            "这个担忧的代价十分具体。若伤害者说“在我的观点中这不是伤害”，受害者的判断便无法提出共同要求；若证据只对各自有效，纠错也会失去方向。任何严肃解释都必须回答这种后果。",
+            "因此不能靠引用“道通为一”便宣布争议解决。“一”究竟表示同一真值、共同生成、可转换关系还是更高本体，正是解释所争之处。我们先从文本能承受的最低结论开始。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "三种依存不能混在一起",
+          "paragraphs": [
+            "第一种是感受依存：同一温度对发烧者和健康者可能不同。第二种是功能依存：水对鱼提供呼吸环境，对人却不提供。第三种是命题任意：任何人说水中能否呼吸都一样真。",
+            "前两种承认关系项，反而允许更精确判断。我们可以说明哪种身体、在什么环境、产生什么后果。第三种却取消了检验，因为它把冲突从对象条件中移走，变成封闭身份的所有物。",
+            "齐物若提醒我们补出关系项，就会提高判断精度；若被读成第三种，便无法解释文本为何反复用故事暴露误判。一个完全不受纠正的观点，也不会被鲲鹏、井蛙或河伯改变。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "齐的是裁决资格",
+          "paragraphs": [
+            "一种谨慎重构是：事物与声音不因不符合主导尺度便失去被理解的资格。鱼、鸟、树、残形者和无名者都可迫使裁判说明标准。这里的“齐”首先对准排除机制。",
+            "获得资格不等于获得同等结论。一个新声音进入审查后，仍要说明经验、因果与范围。受害者的陈述不能只因第一人称便免于任何核对，但也不能因不符合官定量表便被预先消音。",
+            "这一解释保住文本的反等级冲力，又避免把差异抹平。它允许我们说某个判断比另一个更能容纳双方所见、更少遗漏反例，也更能说明行动后果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "“莫若以明”不是万能灯光",
+          "paragraphs": [
+            "《齐物论》在彼是纠缠中提出“莫若以明”。若把“明”解释成一次抵达绝对真理，成心问题会原样返回：谁能证明自己的明不只是更强势的尺度？",
+            "更贴近前后压力的读法，是把明理解为照见两端怎样互相限定。它要求判断者看见自己把什么放到阴影里，而不是假装从无处观看。",
+            "这仍不能保证共识。两端充分显露后，价值可能继续冲突。明提供的是更诚实的争议条件，而不是取消政治、伦理和经验判断的捷径。"
+          ],
+          "identity": "composite-inner-text-with-narrator-dialogue-and-paradox",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "水里的鱼与人",
+          "paragraphs": [
+            "说“水适合鱼而不适合没有装备的人”包含关系项，因此能够被生理结构解释。它既不是鱼的私有真理，也不是人的偏见，而是关于不同身体与环境配合的判断。",
+            "若有人据此说“人在水下能否呼吸没有共同事实”，他偷换了命题层次。适宜性随结构而变，不代表结构及后果由说话者任定。",
+            "反过来，只用人的陆地生活评价水域，也会犯成心错误。案例同时要求承认对象差异和跨视角证据，正好显示相对主义与独断并非仅有的两条路。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "共同证据是否暗中恢复中心",
+          "paragraphs": [
+            "异议会追问：所谓共同证据常由权力决定。量表、档案和专家资格可能排除边缘经验；诉诸证据会不会只是把主导视角换成技术中立的外衣？",
+            "回应必须接受这项压力。证据制度本身也要说明取样、缺失和申诉路径，并允许受影响者提供反例。齐物的贡献正在于不让“共同”自动免审。",
+            "但接受制度可错，不等于放弃制度。修正后的结论是：共同判断必须保持可争辩的入口，并用多源证据承担后果。仍欠的问题是身份变化会不会连判断者本身也改变。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从视角走向物化",
+          "paragraphs": [
+            "现在可以明确排除两种误读。齐物不是所有判断同真，也不是找到一个抹平差异的最高视角。它让被排除的位置进入审查，并迫使裁决交代关系项与证据条件。",
+            "然而庄周梦蝶把压力推得更深：若不只观点变化，连“谁在判断”的身份边界也会改变，反身校正还有没有稳定主体？物化将把认识问题带入生命变化。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "海水对人和鱼有不同生存意义。由此可知适宜性依赖生命结构，却不能推出“人在水下可呼吸”只是人的看法。把价值依存与事实任意混为一谈，正是相对主义误读的错步。",
+      "nodeIds": [
+        "zhuangzi-03-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-03-check-1",
+        "zhuangzi-03-check-2",
+        "zhuangzi-03-check-3",
+        "zhuangzi-03-check-4"
+      ],
+      "abilitySummary": [
+        "能区分价值或适宜性的关系依存与经验命题的证据约束",
+        "能说明齐物为何削弱裁决垄断，却不把冲突判断全部判为同真"
+      ],
+      "recommendedNextLessonId": "zhuangzi-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-04",
+      "order": 4,
+      "title": "梦蝶以后谁在变化",
+      "depth": "longform",
+      "guidingQuestion": "庄周梦为蝴蝶，醒来又是庄周。这个故事是在怀疑世界是否真实，还是在追问身份如何穿过不可逆的变化？",
+      "coreExplanation": "物化同时保留“有分”与“会化”：庄周和蝴蝶并非同一状态，却不能由醒后的庄周独占全部解释权。身份不是任意扮演，也不是冻结实体，而是在身体、记忆、关系和视角变化中持续重组。",
+      "sections": [
+        {
+          "heading": "醒来并未解决一切",
+          "paragraphs": [
+            "日常直觉会说：梦当然是假，醒来才是真的。可故事偏偏让醒后的庄周问，究竟是周梦蝶，还是蝶梦周。它不是因为分不清床与花园，而是让清醒者的解释优先权变得可见。",
+            "若把故事等同“缸中之脑”，问题会被缩成外界存在证明。《齐物论》结尾却说周与蝶“必有分”，随后称之为物化。差异没有取消，变化也没有被差异阻断。",
+            "真正压力在于：一个状态中的我怎样理解另一个状态中的我。醒来者拥有回忆和语言，却可能把梦中经验降为无意义；梦中蝴蝶又没有替醒者制定人生的资格。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "物化保留两条线",
+          "paragraphs": [
+            "第一条是分：庄周不是蝴蝶，迁居前的人也不等于迁居后每一项习惯。没有分别，变化只剩同一东西换名称，经验中的断裂便无法说明。",
+            "第二条是化：差异状态属于一条变动过程，后者从前者而来，又重新解释前者。没有转化，身份只剩多个互不相干的瞬间，承诺和学习便无法延续。",
+            "物化因此不能支持随意自称。身份变化要能指出过程、条件和关系承接；它也不能支持本质冻结，因为新的身体能力、语言和关系确实改变了行动可能。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "谁有权解释过去",
+          "paragraphs": [
+            "醒后的我常把过去描述成“那时不懂”。这种描述可能准确，却也可能把过去的理由全部抹掉。若旧状态只作为错误保存，变化者便看不见自己怎样被环境塑造。",
+            "反过来，过去也不能永久统治现在。童年许下的幻想不自动成为成年义务，旧群体对一个人的称呼也不能取消后来形成的自我理解。",
+            "较好的身份叙述需要双向负责：现在说明自己继承了什么、放弃了什么，过去经验则作为证据限制现在随意改写。这里的连续性是一项解释工作，不是隐藏实体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "归乡者的同一与不同",
+          "paragraphs": [
+            "归乡者仍认得旧友、记得借款，也会说母语，这些支持责任连续。与此同时，他的政治经验、家庭结构和表达方式已经改变，旧友不能用童年角色穷尽他。",
+            "若旧友说“你既然变了，旧承诺都失效”，他把变化偷换成断裂；若归乡者说“我本质从未改变，新的关系不影响任何义务”，他又把连续偷换成冻结。",
+            "物化式判断会逐项追踪：哪些承诺依赖记忆与受益而延续，哪些期待只是旧权力关系，哪些新事实要求重新协商。故事因此承担迁移功能，而非赞美流动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "流动身份会不会逃避责任",
+          "paragraphs": [
+            "最强异议是，道德责任需要可识别主体。若人随时以“我已物化”为由切断过去，受伤者将找不到承担者，变化哲学便会成为逃债工具。",
+            "回应要增加连续性条件。身体轨迹、记忆、因果受益、关系承诺和制度身份可以分别支持责任；它们不要求人格永恒不变，却足以反对任意断裂。",
+            "这也意味着变化不能自动赦免。它至多改变承担方式：后来者可承认不再赞同旧行为，同时仍修复由同一生命过程造成的损害。物化收缩实体观，不收缩因果债务。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "梦中庄周不是作者宣言",
+          "paragraphs": [
+            "梦蝶由叙述者说“昔者庄周梦为胡蝶”，其中的庄周是文本人物。把它改写成历史庄周的自传记述，既忽略文体，也让哲学效力依赖一件无法核验的生平逸事。",
+            "把身份理解为变化中的重组，是对“有分—物化”张力的一种读法，不是逐字定义。其他读法可强调认识不确定、审美经验或生死变化；它们需同样解释文本为何同时保留差异。",
+            "内篇传统归属加强其早期地位，却仍非作者手稿证明。声音边界让我们可以认真解释思想，而不把解释伪装成作者亲口说明。"
+          ],
+          "identity": "composite-inner-text-with-narrator-dialogue-and-paradox",
+          "kind": "boundary"
+        },
+        {
+          "heading": "变化还需要活动空间",
+          "paragraphs": [
+            "本单元保住两点：身份在变化中重组，责任可由多条连续关系承载。梦蝶不是任意身份许可，也不是单纯真假世界难题。",
+            "接下来的压力转向行动。若生命总有条件和依赖，逍遥如何可能？鲲鹏需要风，列子也御风而行；所谓无待是否真能脱离一切条件，将决定自由概念是否空洞。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一名移居者多年后回乡，旧友说他已不是原来的人，他却保留童年记忆和承诺。物化式分析会分别检查连续与断裂，而不是逼他在“完全同一”和“彻底换人”中二选一。",
+      "nodeIds": [
+        "zhuangzi-04-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-04-check-1",
+        "zhuangzi-04-check-2",
+        "zhuangzi-04-check-3",
+        "zhuangzi-04-check-4"
+      ],
+      "abilitySummary": [
+        "能从梦蝶同时说明身份差异与转化连续，而不化约为虚拟世界怀疑",
+        "能在实际身份变化中分别追踪身体、记忆、关系和责任"
+      ],
+      "recommendedNextLessonId": "zhuangzi-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-05",
+      "order": 5,
+      "title": "大鹏也在风中",
+      "depth": "longform",
+      "guidingQuestion": "鲲鹏飞九万里仍要凭六月之息，列子御风也有所待。如果逍遥不是随心所欲，无待又应怎样理解，才不变成脱离身体和世界的幻想？",
+      "coreExplanation": "《逍遥游》先比较小大之知与活动条件，再把列子的轻妙也判为有待。无待可被谨慎理解为不把某个有限成就当作自我价值的最终支点，并能随条件转化行动；它不是没有条件、没有关系或没有限制。",
+      "sections": [
+        {
+          "heading": "自由若等于无条件便不可生活",
+          "paragraphs": [
+            "任何行动都有条件：呼吸需要空气，写作需要语言，远行需要路径。若自由被定义为不依赖任何条件，活着本身就与自由冲突，逍遥只剩离身想象。",
+            "相反，把自由等同想做什么就做什么，也会忽略欲望怎样被名声、恐惧和制度塑造。一个人可以顺利满足欲望，却一直由他人评价决定方向。",
+            "《逍遥游》的力量在于同时展示宏大飞行与具体凭借。鹏不是凭意志跃到南冥，它等待水击、风势与时节；这让自由问题从愿望强度转向依赖结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "小与大都看不全",
+          "paragraphs": [
+            "蜩与学鸠讥笑九万里，是以自身短程经验否定另一尺度的需要。它们的错误不是身体小，而是把局部活动范围当作可能性的边界。",
+            "但大鹏也不是全知象征。它的巨大行程有巨大条件，文本反复写水与风，恰好阻止“大便天然自由”的等级结论。大小首先是认识和行动尺度，不是人格价值表。",
+            "尺度转换的收益在于看见代价结构。短程行动可灵活，长程行动可开辟新范围；任何一方只要把自身优势普遍化，就会形成新的成心。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "列子的有待",
+          "paragraphs": [
+            "列子御风而行，十五日后返，看似已经摆脱步行劳顿。叙述随即指出他仍有所待，因为风不是他能占有的永久支点。",
+            "这一步把问题从普通依赖推进到自我安顿。若一个人把特殊能力当作身份保证，条件一变便会整体坍塌；看见有待，是不让成就冒充存在根据。",
+            "然而文本随后“乘天地之正，御六气之辩”的无待含义有解释争议。它可能指更彻底的顺化，也可能被读成理想极限。这种读法不把它硬化为超自然无条件。"
+          ],
+          "identity": "composite-inner-text-with-narrator-and-dialogue-figures",
+          "kind": "concept"
+        },
+        {
+          "heading": "无待是怎样的松开",
+          "paragraphs": [
+            "无待若不是零依赖，可以理解为不把单一外物或固定身份设为最终支点。行动仍使用条件，却不要求某个条件永远证明“我是谁”。",
+            "这种松开包含响应能力。风来则借风，风止则调整路线；失去职位不等于失去一切行动理由。它不是被动随波，因为响应仍需识别损害、照顾关系和选择路径。",
+            "边界由此清楚：无待不能为忽略照护、资源与无障碍设施辩护。把现实依赖说成精神未修成，会把结构责任推给受限者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "坡道不是自由的反面",
+          "paragraphs": [
+            "轮椅使用者通过坡道入馆，并不比走楼梯者更“依赖”。楼梯、地基、照明和公共秩序同样支撑步行者，只是多数人的依赖被设计成看不见。",
+            "案例检验的是依赖能否被公平组织。坡道扩大行动范围，使一种身体与公共空间形成更好配合；这与随条件而游相近，却不是说设施已经完美。",
+            "若坡道失修或出口被堵，精神上的不执着不能替代维修责任。逍遥概念只能帮助拆除依赖羞耻，不能把政治义务私有化。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "无待会不会只是改名",
+          "paragraphs": [
+            "异议指出：只要仍借条件，无待与有待似乎没有事实差别。“不把条件当最终支点”也可能只是心理安慰，无法改变资源匮乏。",
+            "回应要承认两层。物质依赖的改善需要制度行动；身份依附的松动则改变人面对得失的可行动性。两者不同，却能互相支持，不能用一层取消另一层。",
+            "所以本单元不声称解决无待全部争议。它保住一个实践读法：自由不是无条件，而是依赖可见、可转化且不被单一评价绑死。下一步将检验最著名的反用途故事。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从风势转到木材",
+          "paragraphs": [
+            "逍遥已经被限制为对依赖的清醒运用，而非随心所欲。大小只揭示不同范围，有待也不等于失败；危险在把一种条件或成就变成唯一支点。",
+            "无用之用把同一问题移到社会评价：一棵树若不符合木匠用途，是否就没有价值？外篇《山木》又用不会叫的雁反击简单答案，迫使我们处理保护与淘汰的双重风险。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "轮椅使用者借坡道进入图书馆。说他“依赖设施所以不自由”忽略每个人都依赖建筑与交通；说有坡道就已无待，又忽略设施仍可失修。自由要分析依赖怎样被组织，而不是幻想无依赖身体。",
+      "nodeIds": [
+        "zhuangzi-05-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-05-check-1",
+        "zhuangzi-05-check-2",
+        "zhuangzi-05-check-3",
+        "zhuangzi-05-check-4"
+      ],
+      "abilitySummary": [
+        "能区分活动所需条件、身份价值的依附和逍遥的转换能力",
+        "能说明大小视角为何互相校正，同时不把大鹏自动设为最高境界"
+      ],
+      "recommendedNextLessonId": "zhuangzi-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-06",
+      "order": 6,
+      "title": "无用怎样成为保护又遭遇反例",
+      "depth": "longform",
+      "guidingQuestion": "樗树因不合木匠尺度得以长成，山木却与不会叫的雁形成冲突：有时无用保命，有时无用招祸。无用之用怎样避免变成颂扬无能？",
+      "coreExplanation": "无用之用首先揭露用途总属于某个制度、技术或欲望。被一种用途拒绝，可能保存其他生长空间；但外篇与杂篇又显示无用没有固定护身符。关键是改变用途垄断、保留不可预定空间，并分析具体风险。",
+      "sections": [
+        {
+          "heading": "用途从谁的手里来",
+          "paragraphs": [
+            "木匠说树无用，通常只表示不能做梁柱、棺椁或器具。若把这句话扩成树本身没有价值，木匠的任务便暗中取得了评价万物的权力。",
+            "《逍遥游》的大樗树把缺陷转成空间：正因不入绳墨，人才可能在树旁无为彷徨。反转不是证明木材标准错误，而是显示一种用途遮住了树的其他关系。",
+            "所以无用不是对象的神秘属性，而是相对于用途网络的判断。追问“对谁无用、在什么时间、排除了什么可能”，比赞美无用本身更接近故事的压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "栎社树为何活下来",
+          "paragraphs": [
+            "《人间世》的栎社树在匠石眼中处处不能成材，因而得以长大。梦中树反问匠石：你我都是物，一物凭什么用自身尺度穷尽另一物？",
+            "这一步不只把负评价翻成正评价。树还成为社树，说明它并非与人类关系隔绝，而是逃过某种加工后进入另一种象征与庇护关系。",
+            "若把故事简化成“没本事最好”，会漏掉权力对象。被批评的是把生命压成可消费材料的单一尺度，不是细致技艺、合作能力或照护功能。"
+          ],
+          "identity": "dramatic-confucius-yan-hui-and-parable-voices",
+          "kind": "argument"
+        },
+        {
+          "heading": "不会叫的雁被杀",
+          "paragraphs": [
+            "外篇《山木》先让不材大木保全年岁，随后让主人杀掉不会叫的雁。弟子立刻抓住矛盾：究竟该选择有用还是无用？",
+            "这个反例击中无用护身的全称版本。制度有时淘汰高产者，有时淘汰低产者；把一个策略固定下来，环境一变便可能招致相反结果。",
+            "文本人物回答要处于材与不材之间，随后又把这个“之间”置于更流动的道德中。它不是找一个永远安全的中点，而是拒绝把保全技术变成僵化秘诀。"
+          ],
+          "identity": "outer-layer-parable-and-zhuangzi-character",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "无用背景支撑有用前景",
+          "paragraphs": [
+            "杂篇《外物》用立足之地说明，人站立只需脚下小块，却不能因此说周围土地无用；若把周围全挖成深渊，脚下也无法安稳。",
+            "这个论证把无用推进为背景条件。未被当前动作占用的空间，可能正支撑动作发生。它与内篇树木相呼应，却属于杂篇层次，不能伪装成同一作者的后续注释。",
+            "边界依然明确：背景条件需能说明支撑关系。垃圾堆不能因暂未利用便自动获得无用之用，仍要检查污染、替代可能和受影响者。"
+          ],
+          "identity": "miscellaneous-dialogue-zhuangzi-character-and-huizi",
+          "kind": "argument"
+        },
+        {
+          "heading": "城市空地的时间尺度",
+          "paragraphs": [
+            "开发商看到租金为零，居民看到透水、游戏与喘息空间。双方不是简单主观偏好，而是使用不同时间和关系指标。",
+            "功能性分析要测洪水风险、生态作用、维护成本、住房需求与分配后果。无用之用要求把未定用途纳入比较，却不预先裁定空地永远不可建设。",
+            "如果保留空地，只让高价社区享有景观，也可能把无用美学变成排斥工具。案例表明，反功利不等于免于正义审查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "无用会不会替剥夺辩护",
+          "paragraphs": [
+            "强异议说，掌权者可能劝失业者接受“无用之美”，从而不提供收入、教育和可及服务。哲学若只歌颂边缘，便会把被迫处境浪漫化。",
+            "回应必须区分选择性退出与被剥夺。无用之用批评用途垄断，不能阻止人争取工作、保障和承认；真正的空间应包含拒绝某用途和进入其他用途的能力。",
+            "因此它保住的是多种生活可能，不是贫困合理化。它仍欠个体如何在风险中形成熟练行动的问题，而庖丁故事将把用途批评转向技艺内部。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "没有永久安全的标签",
+          "paragraphs": [
+            "无用揭露用途的主体与时间尺度，树木显示被拒绝的材料可保存生长，外物说明背景条件支撑前景。山木与雁则阻止把无用变成保全定律。",
+            "我们排除了无能崇拜和结构剥夺的浪漫化。下一步进入庖丁：当人不退出技艺而是在技艺中行动，怎样既形成熟练又不让熟练变成盲目自动化。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "城市里一块未招商的空地被称为闲置，它却吸收雨水、供儿童玩耍并让鸟类停留。若立即商业开发，账面用途增加而这些功能消失；若永不维护，污染也可能累积。判断须比较多种关系与时间尺度。",
+      "nodeIds": [
+        "zhuangzi-06-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-06-check-1",
+        "zhuangzi-06-check-2",
+        "zhuangzi-06-check-3",
+        "zhuangzi-06-check-4"
+      ],
+      "abilitySummary": [
+        "能把无用解释为对特定用途尺度的相对拒绝，而非对象没有作用",
+        "能用山木与雁的冲突限制“无用必保全”的简单法则"
+      ],
+      "recommendedNextLessonId": "zhuangzi-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-07",
+      "order": 7,
+      "title": "庖丁的刀为何仍会停",
+      "depth": "longform",
+      "guidingQuestion": "熟练者看似不再思考，庖丁却在筋骨交错处“怵然为戒，视为止，行为迟”。技进乎道究竟是自动化，还是对结构与风险更敏锐的行动？",
+      "coreExplanation": "庖丁的熟练由长期学习、结构感知和风险暂停共同构成。他不以蛮力切割，而顺着间隙行动；“神遇”不是取消感官和知识，而是把它们重组为情境响应。故事支持技艺中的节制，不证明专家永不出错。",
+      "sections": [
+        {
+          "heading": "知识无涯与生命有涯",
+          "paragraphs": [
+            "《养生主》从生命有限、知识无涯的危险开场。若把这句话读成反知识，庖丁十九年的学习就难以解释；真正问题是有限生命怎样面对无法穷尽的复杂。",
+            "一种失败方式是不断累积规则，仿佛掌握越多便越安全。另一种失败方式是拒绝知识，只凭冲动。庖丁展示第三条路：把学习沉入对结构的响应。",
+            "养生在这里不是健康秘诀清单，而是减少无谓碰撞、保留行动余地。刀刃是否完好只是寓言指标，不能直接推出屠宰行为的全部伦理正当性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "从全牛到间隙",
+          "paragraphs": [
+            "庖丁初学时所见无非全牛，说明对象先以整体阻力出现。三年后“不见全牛”不是看不见动物，而是能分辨关节、筋骨与可行路径。",
+            "“依乎天理，因其固然”指向对象结构对行动的约束。好刀不是凭锋利制造道路，而是在已有间隙中通过；熟练来自少用对抗。",
+            "这仍需要训练形成的辨别。若把神遇理解成神秘直觉，十九年经验和普通厨师换刀的对比便失去作用。具身知识并非无知识，而是知识不再逐条朗读。"
+          ],
+          "identity": "narrator-butcher-ding-and-lord-wenhui",
+          "kind": "bridge"
+        },
+        {
+          "heading": "复杂处让动作变慢",
+          "paragraphs": [
+            "最关键的边界出现在“每至于族”。结构复杂时，庖丁不是更炫技，而是戒惧、凝视、放慢，最后只作细微动作。",
+            "这说明流畅不是最高标准。真正熟练包括识别什么时候旧节奏不再可靠，并主动恢复注意。自动化若没有暂停门，会在异常处放大损害。",
+            "完成后他提刀四顾、善刀而藏，也显示收束能力。技艺不只是进入状态，还包括知道何时结束，不把成功兴奋延长成下一次冒险。"
+          ],
+          "identity": "narrator-butcher-ding-and-lord-wenhui",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "手术室里的异常",
+          "paragraphs": [
+            "外科医生的常规路径对应庖丁的结构感，影像与团队提示则扩展了感知。异常出现时暂停，不是缺乏自信，而是熟练识别自身模型的边界。",
+            "若医生只相信仪器，也可能忽略触感和出血变化；若只相信手感，又可能把过去成功当成当前证据。好的切换让不同知识形式互相校正。",
+            "案例不能证明医生只要有经验便正当。患者同意、资源分配和团队责任属于另一个伦理层次，庖丁故事没有替现代医学提供完整规范。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "顺势是否纵容现状",
+          "paragraphs": [
+            "异议说，顺着既有间隙容易变成适应不正义结构。一个官僚也能熟练避开阻力，让有害制度运行得更顺；技巧的优雅不能证明目标正确。",
+            "回应必须承认庖丁主要说明行动形式，不充分说明行动目的。它能评估是否粗暴、是否识别复杂，却不能独立决定何者值得完成。",
+            "因此我们保住技艺的认识价值，同时收缩伦理结论。目标正当性仍需受伤害、同意与制度判断；“进乎技”不能成为逃避这些问题的美学许可。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "文惠君所得不是作者定论",
+          "paragraphs": [
+            "故事末尾文惠君说从庖丁之言得养生。这是角色对故事的接收，提示迁移方向，却没有逐条展开从解牛到生命伦理的推论。",
+            "把间隙、暂停和藏刀理解为有限生命中的节制，是一种解释重构。它需要承认屠宰场景的暴力问题，也不能把牛仅当作没有伦理地位的材料。",
+            "这个缺口不是让故事失效，而是限制其证明范围。它帮助分析熟练怎样工作，无法单独回答技艺所服务目的是否正当。"
+          ],
+          "identity": "narrator-butcher-ding-and-lord-wenhui",
+          "kind": "boundary"
+        },
+        {
+          "heading": "技艺怎样改变行动者",
+          "paragraphs": [
+            "庖丁让我们看到，具身熟练由长期训练、对象结构与异常暂停组成。它既不是机械自动，也不是不可解释的神秘直觉。",
+            "下一步的问题更内向：若行动方式要改变，行动者怎样松开原有自我？心斋与坐忘常被当作冥想技术，但它们分别出现在政治危险与变化友谊中，不能从语境中抽走。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "资深外科医生熟悉常规路径，却在解剖异常处暂停并改用影像确认。若继续凭手感，熟练会成为过度自信；若遇到异常便放弃经验，技艺也无法发挥。庖丁式判断在流畅与警戒之间切换。",
+      "nodeIds": [
+        "zhuangzi-07-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-07-check-1",
+        "zhuangzi-07-check-2",
+        "zhuangzi-07-check-3",
+        "zhuangzi-07-check-4"
+      ],
+      "abilitySummary": [
+        "能重建庖丁从见全牛到依理入间再到复杂处暂停的学习链",
+        "能区分具身熟练、机械自动和专家不可错神话"
+      ],
+      "recommendedNextLessonId": "zhuangzi-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-08",
+      "order": 8,
+      "title": "心斋与坐忘不是删除自我",
+      "depth": "longform",
+      "guidingQuestion": "颜回被要求心斋，又在另一篇说自己坐忘。若把自我放空，谁来判断危险、承担关系和改变行动？这两种转化究竟松开什么？",
+      "coreExplanation": "心斋发生在劝谏暴君的危险前，要求暂停以名义和预案占满对方；坐忘则通过忘仁义、礼乐与形知，松开固定身份和评价。两者不是意识消失，而是让感受、关系和情势不再只被成心翻译。",
+      "sections": [
+        {
+          "heading": "颜回已经准备好正确答案",
+          "paragraphs": [
+            "《人间世》的颜回想去劝说卫君。他的目标看似高尚，却已经在脑中把自己设为教师、对方设为待改造对象。暴君的危险与劝谏者的名心在此交叠。",
+            "文本中的孔子人物逐项否定颜回方案，不是主张沉默顺从，而是指出预制德目会让他看不见对方反应，也让他在权力前加码表演。",
+            "心斋由此被需要：不是因为思想有罪，而是思想已经塞满听觉。若每句话只被翻译成“我该怎样反击”，听见的仍是自己。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "虚而待物",
+          "paragraphs": [
+            "“无听之以耳而听之以心，无听之以心而听之以气”不是感官升级路线。耳停在声，心停在符，都可能把对象迅速配入既有格子。",
+            "“气也者，虚而待物”把重点放在待：让尚未符合预案的东西有进入余地。虚不是空白容器，而是暂不由单一解释占满。",
+            "这项开放仍在危险语境中。文本提醒“入则鸣，不入则止”，表示响应依情势而变；它不是要求劝谏者失去自我保护。"
+          ],
+          "identity": "dramatic-confucius-yan-hui-and-parable-voices",
+          "kind": "concept"
+        },
+        {
+          "heading": "坐忘松开哪些身份",
+          "paragraphs": [
+            "《大宗师》里的颜回先说忘仁义，再忘礼乐，最后坐忘。这里不是把伦理和文化判为无价值，而是让这些身份标签不再垄断人与变化的关系。",
+            "“堕肢体，黜聪明，离形去知”语言激烈，若直译成身体否定，会与全书的具身寓言冲突。它更像解除身体外观和聪明评价对自我的占有。",
+            "坐忘与心斋相近于松开成心，却不完全相同。前者着重身份和分别的转化，后者嵌入沟通危险；把两者合成一套固定步骤，会再次制造模板。"
+          ],
+          "identity": "composite-inner-narrator-transformation-dialogues-and-yan-hui",
+          "kind": "concept"
+        },
+        {
+          "heading": "调解中的暂停",
+          "paragraphs": [
+            "调解员先复述双方所说，并允许复述被纠正，这对应虚而待物：新信息可以改变内部表述，而非只填入既定罪责。",
+            "但若一方发出具体威胁，调解员必须启动安全程序。开放并不要求把威胁当成另一种同等观点，心斋也不能取代风险判断。",
+            "案例的检验点是注意结构：暂停抢答后，方案是否真正因对方信息而变化。若只是用柔和语气执行原计划，成心仍然完好。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "自我松动会不会方便操控",
+          "paragraphs": [
+            "异议指出，强权最喜欢要求他人放下自我、不要执着权利。心斋与坐忘若脱离语境，很容易被用来让受害者怀疑自己的感受。",
+            "回应必须保留不对称。心斋原本正面对暴君风险，不能被统治者改造成服从术；开放的对象是解释框架，不是把身体警报和权利主张一并清除。",
+            "坐忘也不取消关系责任。松开“我必须以某身份获胜”可能增加响应能力，但谁受伤、谁拥有资源的事实仍需进入判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "与现代正念的有限联系",
+          "paragraphs": [
+            "现代正念也常强调非立即反应，这能帮助理解注意如何不被第一念占满。但相似词不能证明实践目的相同。",
+            "心斋有明确的政治沟通危险，坐忘嵌在《大宗师》的变化思想；若只谈减压，会抹去权力和身份问题。比较只能照亮暂停机制。",
+            "我们也不能从古代寓言提出临床疗效。心理治疗需要独立证据，哲学文本提供的是概念区分，不是医疗处方。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "转化遇见不可选择之事",
+          "paragraphs": [
+            "心斋让信息进入，坐忘松开身份占有；两者都不是意识删除。安全边界、身体信号和责任不会因为虚而消失。",
+            "但许多情势并非注意调整就能改变：疾病、死亡、亲属与政治位置以“命”的形式压来。下一步要问安时处顺如何不滑成宿命论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "调解员面对激烈冲突，若脑中只准备反驳，听到的每句话都会变成己方证据；若完全不作判断，又会放任威胁。心斋式转化是暂缓抢答，让新信息改变方案，同时保留安全边界。",
+      "nodeIds": [
+        "zhuangzi-08-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-08-check-1",
+        "zhuangzi-08-check-2",
+        "zhuangzi-08-check-3",
+        "zhuangzi-08-check-4"
+      ],
+      "abilitySummary": [
+        "能区分心斋的政治语境与坐忘的身份松动，不把二者混成统一冥想术",
+        "能说明放空如何改变注意结构，同时保留判断、安全和责任"
+      ],
+      "recommendedNextLessonId": "zhuangzi-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-09",
+      "order": 9,
+      "title": "安时处顺不替命运签字",
+      "depth": "longform",
+      "guidingQuestion": "面对疾病、死亡与无法逃开的关系，《庄子》人物说安时处顺、寓于不得已。接受不可控部分，怎样与改变不义、表达悲伤和追究责任并存？",
+      "coreExplanation": "命在相关篇章中标出行动者无法单凭意愿解除的条件，不等于一切事件都由预定计划造成。安时处顺调整对变化的抗拒，不能把可改变制度、施害因果和照护义务伪装成天命。",
+      "sections": [
+        {
+          "heading": "不得已有不同来源",
+          "paragraphs": [
+            "出生关系、身体老化和已经发生的死亡，不由当下意愿取消。承认这些不得已，可以停止把精力耗在让过去从未发生。",
+            "但暴君命令、贫困制度和堤坝失修也会让人感觉无路可走。若都叫命，制造限制的人便借宇宙秩序隐藏责任。",
+            "因此命概念首先需要分类：自然条件、历史既成、关系承诺和人为强制具有不同可变程度，也要求不同回应。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "子来面对形体变化",
+          "paragraphs": [
+            "《大宗师》让病中的子舆、将死的子来想象造化把身体变成鼠肝虫臂。怪诞想象不是否认疼痛，而是削弱“身体必须维持此形”的占有。",
+            "“得者时也，失者顺也，安时而处顺”把得失放进变化时序。它能减少对不可逆过程的二次抗拒，却没有说明医疗、陪伴或哀悼不再需要。",
+            "人物在友人和家人围绕中谈死，关系没有消失。把安时处顺解释为孤立自足，会漏掉故事本身的共同在场。"
+          ],
+          "identity": "composite-inner-narrator-transformation-dialogues-and-yan-hui",
+          "kind": "argument"
+        },
+        {
+          "heading": "接受不是认可",
+          "paragraphs": [
+            "接受一个事实，是在判断中不再把它当作尚未发生；认可则赋予正当性。受害者可以接受伤害已发生，同时拒绝承认伤害合理。",
+            "这一区分保留行动。只有承认房屋已毁，撤离方案才会面对真实条件；若把接受误作同意，人会因害怕背叛正义而停在否认中。",
+            "安时处顺的边界正位于此。它改变与既成事实的关系，不替事件的原因、制度和行为者签署免责书。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "洪水后的两种命",
+          "paragraphs": [
+            "暴雨强度可能超出居民控制，已毁房屋也不可逆。接受这些条件能帮助分配救援、保存药物并决定重建位置。",
+            "堤坝维护记录、预警延误和预算挪用却可调查。官员若把全部损失归为命，便把自然触发与制度放大混为一因。",
+            "案例还显示未来开放性。即使损失无法撤回，补偿、问责与新防护仍可改变后果；宿命论恰好把这部分错误关闭。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "顺会不会削弱反抗",
+          "paragraphs": [
+            "强异议认为，处顺的语言在等级社会中很危险。臣子、病人和贫者被要求顺受，而掌权者无需改变，心理安顿便成为治理技术。",
+            "回应不能否认历史滥用。这种读法只在不可逆事实与有限控制上保留顺，对人为强制则要求追问来源、可变性和受益者。",
+            "这会收缩庄子资源的政治范围：它能帮助不让失败吞没全部生命，不能单独规定何时应服从。反抗策略仍需风险、联盟和制度分析。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "哀乐不能入不等于没有哀乐",
+          "paragraphs": [
+            "“哀乐不能入”容易被读成情感麻木。结合变化语境，更谨慎的解释是哀乐不再把主体钉死在单一得失，而非感受从未发生。",
+            "若悲伤出现便被视为修养失败，人会在丧失之外增加羞耻。文本中的妻子儿女哭泣与朋友探望说明情感仍是关系事实。",
+            "情感的边界要到鼓盆故事再处理。此处只建立最低结论：转化不要求假装不痛，接受也不能作为他人要求受苦者闭嘴的命令。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "命的问题进入政治",
+          "paragraphs": [
+            "安时处顺在不可逆变化中松开二次抗拒；接受与认可、自然触发与人为责任必须分开。这样才能阻止命滑成预定论和免责话术。",
+            "下一步直接面对权力。《人间世》的劝谏危险、《应帝王》的浑沌和《秋水》的拒聘，能否形成政治判断，还是只剩退避？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "洪水来临后，居民需先接受房屋已毁这一事实，才可能撤离和重建；若官员说灾害都是命，以此掩盖堤坝失修，他把不可逆损失偷换成不可追责原因。",
+      "nodeIds": [
+        "zhuangzi-09-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-09-check-1",
+        "zhuangzi-09-check-2",
+        "zhuangzi-09-check-3",
+        "zhuangzi-09-check-4"
+      ],
+      "abilitySummary": [
+        "能区分不可逆事实、因果责任与未来可行动空间",
+        "能说明安时处顺为何不是压抑情感或取消政治改变"
+      ],
+      "recommendedNextLessonId": "zhuangzi-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-10",
+      "order": 10,
+      "title": "拒绝权力以后还剩什么政治",
+      "depth": "longform",
+      "guidingQuestion": "庄子人物拒绝楚聘，《人间世》警告劝谏之险，《应帝王》让好心凿窍杀死浑沌。这些故事是在主张退出政治，还是在限制治理者塑造他人的冲动？",
+      "coreExplanation": "相关篇章把政治风险放在名誉、控制和强制同形上：善意若预设对象应成为什么，也可能造成伤害。拒聘保护不被权位占有，无为限制过度干预；但文本没有提供完整制度方案，退出也可能把代价留给不能退出者。",
+      "sections": [
+        {
+          "heading": "好意也会携带模型",
+          "paragraphs": [
+            "治理常以改善为名：让人更健康、更守序、更有效率。问题不在目的听起来高尚，而在改善方案是否先把一种生活模型当成人人缺少的器官。",
+            "《应帝王》末尾的儵与忽为报答浑沌，日凿一窍，七日而死。悲剧不是恶意造成，而是把自己拥有的感官结构视为对方的完成。",
+            "故事不能证明干预总有害。它击中的是同形强制：未先理解对象的生命方式，便以施予者标准进行不可逆改造。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "劝谏为何先改变劝谏者",
+          "paragraphs": [
+            "《人间世》的颜回要感化卫君，文本让孔子人物反复指出名心与暴力风险。正确话语若以胜过对方为结构，可能刺激君主争胜并危及劝谏者。",
+            "这不是宣布暴君不可批评，而是区分表达正当性与策略有效性。说真话的道德价值不能自动证明面对权力的任何说法都能减少伤害。",
+            "心斋在这里具有政治作用：让行动者看见对方反应和自身求名，选择鸣或止。可它仍未解决集体组织、公开记录和制度制衡。"
+          ],
+          "identity": "dramatic-confucius-yan-hui-and-parable-voices",
+          "kind": "transfer"
+        },
+        {
+          "heading": "濮水边的拒聘",
+          "paragraphs": [
+            "外篇《秋水》写庄子人物以神龟宁愿曳尾涂中，拒绝楚王相位。这个故事把权位展示为保存尊荣却失去行动方式的交换。",
+            "拒绝保护了不被政治名位占有的生活，也揭示“被重用”并非纯粹利益。但它属于外篇，不能无标记地写成庄周生平决定。",
+            "更重要的是，能拒绝本身需要条件。没有资源、家族受控或身处征役者未必能离开；把退出提升为普遍美德，会羞辱被迫留下的人。"
+          ],
+          "identity": "outer-layer-narrator-dialogue-and-zhuangzi-character",
+          "kind": "transfer"
+        },
+        {
+          "heading": "无为限制哪一种作为",
+          "paragraphs": [
+            "无为不是治理者停手后任强者自行支配。形式上的不干预可能保留既有暴力，例如放任排斥者垄断公共资源。",
+            "较有限的解释是：不以治理者的单一模型过度塑形，不把每种差异转成待矫正缺陷。政策仍可保护免受伤害、维护共同条件并提供退出入口。",
+            "判断关键在对象反馈和可逆性。干预是否允许申诉，是否监测差异后果，是否能在伤害出现时撤回，比“积极或消极”标签更有用。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "统一延时的学校",
+          "paragraphs": [
+            "学校把高分学生的时间结构推广给全体，认为更多在校时长等于更多机会。照护家庭、需要康复或依赖社团归属的学生却承担额外成本。",
+            "浑沌式检验要求先看差异后果，再问目标能否用弹性辅导、资源补充和自主选择实现。它不是拒绝提高成绩，而是拒绝单一路径强制同形。",
+            "若发现部分学生确需安全留校，完全取消延时也会伤害他们。好的回应不是反向统一，而是提供多条可用路径并防止资源只流向强者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "反治理会不会保护现状",
+          "paragraphs": [
+            "异议指出，弱势者常需要法律和公共服务介入。若以无为批评所有塑形，歧视、家暴和垄断会以“自然关系”名义继续存在。",
+            "回应必须承认反强制原则也要反私人强制。无为不能只约束公共权力，却对家庭、市场和习俗权力失明；保护基本行动空间可能需要积极制度。",
+            "这让政治结论保持有限：庄子资源擅长诊断控制冲动和名位诱惑，不足以独立设计正义制度。它必须与权利、问责和集体行动理论对话。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "退出、限制与仍欠的制度",
+          "paragraphs": [
+            "拒聘说明权位可能占有生活，心斋提醒批评策略也会复制争胜，浑沌则揭露善意同形的不可逆伤害。无为由此成为对过度塑形的限制。",
+            "我们同时保留风险：退出可能转移代价，不干预可能保护现状，寓言没有完整制度答案。下一步将转向最私人也最公共的情感争议：妻死鼓盆。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "学校为提升成绩，统一延长在校时间并取消社团。平均分短期上升，焦虑和退学却集中在照护家庭的学生。浑沌式检验会问：治理者是否把一种正常形态强加给不同生活。",
+      "nodeIds": [
+        "zhuangzi-10-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-10-check-1",
+        "zhuangzi-10-check-2",
+        "zhuangzi-10-check-3",
+        "zhuangzi-10-check-4"
+      ],
+      "abilitySummary": [
+        "能区分政治拒斥、无为的反强制含义与政府不行动",
+        "能评估退出策略对留在制度中者造成的风险转移"
+      ],
+      "recommendedNextLessonId": "zhuangzi-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-11",
+      "order": 11,
+      "title": "鼓盆不能替别人规定悲伤",
+      "depth": "longform",
+      "guidingQuestion": "妻死之后鼓盆而歌，究竟是通达变化、伤害关系，还是两者之间无法轻易消除的冲突？如果情感也是关系行动，超越哀哭是否会亏欠死者与生者？",
+      "coreExplanation": "鼓盆故事属于外篇，并让惠子提出具体伦理抗议。庄子人物承认初死时有触动，随后用四时变化调整悲伤。故事能说明情感解释会改变，却不能证明无情、取消哀悼规范或要求他人复制同一表达。",
+      "sections": [
+        {
+          "heading": "悲伤不只发生在心里",
+          "paragraphs": [
+            "丧亲之痛有私人经验，也有关系表达。哭、沉默、讲述和仪式会向家人说明死者仍被承认，因此不能只用内心状态评价。",
+            "另一方面，强迫统一悲伤也会伤害人。有人流泪，有人忙于事务，有人以笑记住死者；外观差异不足以直接证明爱或无情。",
+            "鼓盆故事尖锐之处就在这里。它不只是生命哲学例证，还让一种异样表达进入关系伦理的质问。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "惠子的异议不是俗见笑料",
+          "paragraphs": [
+            "惠子指出，妻子与庄子人物共同生活、养育子女并终老，不哭已足，鼓盆而歌更显过分。异议目标是关系义务，不是单纯害怕死亡。",
+            "若惠子成立，通达变化也不能免除对共同生活的承认；快乐表达可能让幸存者承担额外伤害。这个后果使异议成为强版本。",
+            "把惠子写成执着礼俗的反面角色，会让回应过于容易。故事保留他的声音，迫使变化哲学回答情感如何对他人负责。"
+          ],
+          "identity": "outer-layer-zhuangzi-character-and-huizi-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "庄子人物承认最初受触动",
+          "paragraphs": [
+            "回应先说妻子初死时“我独何能无概然”，这句限制了无情读法。变化理解不是从未悲伤，而是在悲伤之后重新观看生、形、气的转换。",
+            "四时比喻把死亡从纯粹剥夺放入更大过程，使人物停止持续号哭。它改变情感的解释框架，却没有证明妻子的个体意义被自然循环完全吸收。",
+            "鼓盆而歌是否仍伤害家人，文本没有替我们结案。回应保住个人转化，收缩的是“只有持续哭泣才算爱”；它仍欠共享关系的说明。"
+          ],
+          "identity": "outer-layer-zhuangzi-character-and-huizi-objection",
+          "kind": "argument"
+        },
+        {
+          "heading": "《大宗师》的共同在场",
+          "paragraphs": [
+            "内篇《大宗师》的病者与将死者在朋友、妻子儿女身边谈变化。人物不抗拒形体改变，但陪伴、探问和哭泣仍在场。",
+            "这与外篇鼓盆并非同一作者声音的简单一致。并读能显示接受变化和关系情感可共存，却不能用内篇替外篇消除冲突。",
+            "文本层次在这里产生哲学收益：复合文本没有给出单一哀悼姿态，我们必须保留不同场景对通达提出的限制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "葬礼上的笑话",
+          "paragraphs": [
+            "讲笑话可能重现死者幽默，使部分家人感到亲近；也可能在未经沟通时显得夺取仪式，把他人的悲伤变成自己的表演。",
+            "判断要看关系历史、场合、后续响应和选择空间。若讲述者发现家人受伤后愿意停下并解释，行为与坚持“我已通达”具有不同伦理结构。",
+            "案例不能规定所有葬礼都应严肃，也不能让个人真诚自动压过共同影响。情感表达既有第一人称理由，也进入他人的生活。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "自然变化会不会贬低独特生命",
+          "paragraphs": [
+            "异议说，把妻子之死类比四时，会让不可替代的人变成自然过程一个环节。若个体可被变化整体吞没，爱所针对的独特者便失去分量。",
+            "回应可以区分生成条件与关系意义。生命由变化形成，不代表这段共同生活可被另一段替代；承认过程性不取消具体记忆和承诺。",
+            "这项回应也承认债务：原故事更擅长松动死亡恐惧，较少展开对妻子主体性的描述。现代解释应标明这一沉默，不能替文本虚构完整平等关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "不能把通达变成命令",
+          "paragraphs": [
+            "即使庄子人物的转化对他有效，也不能推出旁人应停止哭泣。情感实践涉及身体、关系和文化，外部命令常增加羞耻。",
+            "更不能用鼓盆要求受压者宽恕施害者。死亡变化与人为伤害的责任结构不同，把二者混同会重复宿命论错误。",
+            "可迁移的最低结论是：悲伤形式可以变化，关系影响必须被听见，任何哲学姿态都不取得替他人规定哀期的权力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "复合文本留下最后问题",
+          "paragraphs": [
+            "鼓盆故事在惠子异议、初始悲伤和四时回应之间保持张力。它既不证明庄子无情，也没有完全解决个人通达与共同哀悼的冲突。",
+            "最后必须回看我们一直使用的“庄子”是谁。内外杂篇、郭象编注和后世接受共同塑造今天的对象；不分层，所有争议都会被伪装成一个人的一致声音。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一位丧亲者在葬礼上讲笑话，家人有人得到安慰，有人感到被轻视。判断不能只看他内心是否通达，也要看共享仪式、关系历史和他是否给他人留出不同哀悼方式。",
+      "nodeIds": [
+        "zhuangzi-11-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-11-check-1",
+        "zhuangzi-11-check-2",
+        "zhuangzi-11-check-3",
+        "zhuangzi-11-check-4"
+      ],
+      "abilitySummary": [
+        "能重建惠子异议、初始悲伤与变化回应的完整张力",
+        "能区分个人情感转化与对他人施加哀悼规范"
+      ],
+      "recommendedNextLessonId": "zhuangzi-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "zhuangzi-12",
+      "order": 12,
+      "title": "三十三篇不是一个人的独白",
+      "depth": "longform",
+      "guidingQuestion": "今天读到的《庄子》有内篇、外篇、杂篇，又经郭象编订和注释。我们还能谈“庄子哲学”吗？怎样既不把复合文本拆成碎片，也不伪造一个从未存在的单一作者体系？",
+      "coreExplanation": "“庄子哲学”可作为受控简称，指现存复合文本围绕视角、变化、技艺、生命和权力形成的问题网络。每次归属仍须标明篇层、人物、编者或注家。郭象保存并重塑文本，其独化与适性不是先秦原意的透明转录。",
+      "sections": [
+        {
+          "heading": "现存本已经是一段历史",
+          "paragraphs": [
+            "现存《庄子》为三十三篇，传统分内篇一至七、外篇八至二十二、杂篇二十三至三十三。这个排列不是一位先秦作者留下的可见手稿。",
+            "郭象在西晋时期整理并注释文本，传统记载此前有五十二篇本。今天的阅读对象因此已经包含选择、编次和注释历史。",
+            "承认这一点不会让哲学消失。它只是改变句子的主语：有时应说“《齐物论》提出”，有时说“外篇庄子人物说”，有时才用受控简称“庄子思想”。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "三层名称不是作者证书",
+          "paragraphs": [
+            "内篇传统上被认为最接近庄周本人或早期圈层，哲学连贯性也较强。但现代研究仍怀疑能否证明历史庄周亲自写下全部七篇。",
+            "外篇和杂篇显示不同倾向、重述和张力。把它们全判为无价值后加，会损失山木反例、鼓盆争议和寓言后设反省；把它们全归庄周，又抹去思想演变。",
+            "因此层次标识是一种证据强度，不是价值排名。后出文本可以哲学上重要，重要也不等于作者归属更早。"
+          ],
+          "identity": "modern-scholarly-reference",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "郭象保存也改造",
+          "paragraphs": [
+            "没有郭象编订，现存文本形态可能不同；他的工作使三十三篇本和注释传统长期流传。把他只当外在篡改者，会忽略保存事实。",
+            "但注释不是透明玻璃。郭象以独化、适性、自得等概念重新组织自然与名教关系，让《庄子》更能进入魏晋政治和社会秩序讨论。",
+            "所以“郭象认为”不能写成“庄子原本认为”。即使注释与正文高度贴合，它仍是数百年后的创造性哲学，拥有自己的问题压力。"
+          ],
+          "identity": "guo-xiang-editor-commentator",
+          "kind": "closeReading"
+        },
+        {
+          "heading": "后世联系怎样不倒写",
+          "paragraphs": [
+            "后世道教修炼、玄学、禅宗、文学和艺术不断吸收《庄子》。这些接受说明文本具有生成力，却不能证明先秦篇章已经包含后来完整教义。",
+            "例如坐忘后来成为系统修炼资源，这有助于理解实践潜力；若把后世步骤倒写进颜回对话，就会把接受史伪装成原意。",
+            "跨文化比较也同样受限。与相对主义、正念或自由理论联系可以照亮问题，却必须说明不可互换处，并让本体论证在删去比较后仍完整。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "老城的层次图",
+          "paragraphs": [
+            "城市中一条古道影响后来街区，现代地铁又改变古道用途。说城市是一个设计师作品，会误认因果；只列年代清单，又解释不了居民今日怎样移动。",
+            "文本研究也需两种图：层次图标出篇章、人物和注家，问题图追踪视角、变化与权力怎样跨层回应。两图叠合而不互相替代。",
+            "案例边界是城市材料可由考古测年，古书作者层次的证据常更间接。类比只说明描述结构，不能冒充具体年代证明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "复合性会不会使解释任意",
+          "paragraphs": [
+            "异议说，只要遇到矛盾便归给不同层次，解释者可以免于解决任何困难。复合文本会变成方便的垃圾桶，而不是严格证据。",
+            "回应要求层次判断有独立依据：篇别、术语、叙事结构、互文与接受记录。即使来源不同，后来的编排也可能让段落互相评论，矛盾仍需哲学处理。",
+            "因此，辨明层次并不消除山木与雁、惠子与鼓盆的冲突。恰恰相反，层次说明冲突来自何种声音，问题图则继续问它怎样限制可辩结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "十二个问题怎样相连",
+          "paragraphs": [
+            "寓言先让判断框架显形，成心与齐物要求视角互校，物化把变化推进到身份。逍遥和无用再把自由放回依赖与用途。",
+            "庖丁、心斋与坐忘说明行动者怎样在技艺和注意中转化；命与政治则检验转化会不会为宿命和强权服务；生死情感让个人通达接受关系伦理的反问。",
+            "这不是一条从前提必然推出结论的体系，而是一张相互设限的问题网。每个概念的力量来自它能经受后续反例，不能脱离网络变成名言。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "保留下来的争议",
+          "paragraphs": [
+            "我们仍不能确定内篇每一段的历史作者，也不能把无待、道枢和物化钉成唯一解释。承认这些争议不是降低要求，而是拒绝伪造确定性。",
+            "政治方面仍欠制度理论，伦理方面仍欠对动物、残障和妻子主体性的更充分声音。庄子资源能暴露尺度，却不会自动完成现代正义判断。",
+            "这也给阅读留下责任：每次引用都要问篇层、角色、论证强度与现代迁移成本。文本的开放性只有与这些约束结合，才不是随意。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        },
+        {
+          "heading": "可以继续怎样说庄子",
+          "paragraphs": [
+            "今后说“庄子主张”时，最好能立即展开：是内篇的哪一段、外篇的哪个人物、杂篇的何种回顾，还是郭象的解释。受控简称应随时可还原。",
+            "已经建立的不是十二条教义，而是一种责任更重的自由：改变视角而不取消事实，接受变化而不免除责任，限制权力而不浪漫化退出。",
+            "仍开放的争议无需被口号封口。真正的逍遥也许不在得到最后一句，而在能够带着来源、边界和他人声音继续移动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一座老城由不同年代道路、建筑与修复构成。把它说成一个设计师一次完成会歪曲历史；只把每块砖分开又无法解释城市怎样运行。合适描述既画层次图，也追踪后来的道路怎样改变整体。",
+      "nodeIds": [
+        "zhuangzi-12-argument"
+      ],
+      "checkIds": [
+        "zhuangzi-12-check-1",
+        "zhuangzi-12-check-2",
+        "zhuangzi-12-check-3",
+        "zhuangzi-12-check-4"
+      ],
+      "abilitySummary": [
+        "能准确区分内一至七、外八至二十二、杂二十三至三十三及其归属强度",
+        "能说明郭象既是传本保存者也是创造性解释者，并保留后世接受的改造性"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "zhuangzi-01-check-1",
+      "kind": "concept",
+      "prompt": "为什么说寓言在这里不只是帮助记忆的例子？",
+      "targetNodeIds": [
+        "zhuangzi-01-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-01-check-1-b",
+          "text": "它让判断规则在陌生对象前受压，并暴露原先被遮蔽的前提",
+          "feedback": "决定性关系是“陌生对象—规则失灵—前提显露”。寓言的思想工作发生在判断结构被重新检验，而不只发生在抽象结论被换成故事表达。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-01-check-1-a",
+          "text": "它先隐藏结论，等理解故事后再把同一结论恢复出来",
+          "feedback": "错步在把寓言的功能缩成延迟公布答案。这里的故事会改变显眼事实并检验原先的评价前提，反转后的判断可能需要收缩，而非原样恢复。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-01-check-1-b",
+      "misconceptionId": "parable-as-decoration"
+    },
+    {
+      "id": "zhuangzi-01-check-2",
+      "kind": "text-voice",
+      "prompt": "《寓言》对寓言、重言、卮言的说明应当怎样使用？",
+      "targetNodeIds": [
+        "zhuangzi-01-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-01-check-2-b",
+          "text": "把它视为庄周亲定的方法序，以此决定三十三篇的唯一读法",
+          "feedback": "唯一错步是把杂篇声音提升成历史庄周的定稿序言。修正路径是先标明后出层次，再让这一说明与具体篇章的叙事压力相互核对。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-01-check-2-a",
+          "text": "把它作为杂篇的后设反省，用来照亮但不封死内篇写法",
+          "feedback": "正确处在同时保留解释价值与文本层次。《寓言》能提供阅读线索，却不是历史庄周给内篇留下的作者序言，因而不能垄断每一则故事的意义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-01-check-2-a",
+      "misconceptionId": "misc-chapter-as-author-preface"
+    },
+    {
+      "id": "zhuangzi-01-check-3",
+      "kind": "transfer",
+      "prompt": "招聘者因口吃淘汰判断准确的候选人，寓言式检验首先击中哪一步？",
+      "targetNodeIds": [
+        "zhuangzi-01-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-01-check-3-a",
+          "text": "击中把表达流畅当作判断能力充分证据的偷换",
+          "feedback": "案例的映射点是岗位所需能力与筛选指标之间的错接。修正并非偏爱反常外观，而是要求指标确实追踪将要完成的判断任务。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-01-check-3-b",
+          "text": "击中表达能力的价值，因此应优先录用口吃候选人",
+          "feedback": "错步是从一个指标失准跳到反向偏好。案例只证明流畅不是该能力的充分证据，并未证明口吃本身构成录用理由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-01-check-3-a",
+      "misconceptionId": "reverse-preference"
+    },
+    {
+      "id": "zhuangzi-01-check-4",
+      "kind": "boundary",
+      "prompt": "多义寓言仍受什么约束？",
+      "targetNodeIds": [
+        "zhuangzi-01-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-01-check-4-b",
+          "text": "解释须说明角色分工、文本转折及它实际击中的前提",
+          "feedback": "决定性约束来自文本内部的压力链。多义允许多种可辩读法，却要求每种读法交代证据、范围和未能推出的结论。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-01-check-4-a",
+          "text": "只要能给故事赋予现实意义，解释便不必服从角色与前后转折",
+          "feedback": "错步是把可迁移性偷换成解释自由。现实联系必须能回到角色分工、措辞和反转链条，否则只是借故事表达解释者自己的立场。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-01-check-4-b",
+      "misconceptionId": "unbounded-interpretation"
+    },
+    {
+      "id": "zhuangzi-02-check-1",
+      "kind": "concept",
+      "prompt": "成心与决心的关键差别是什么？",
+      "targetNodeIds": [
+        "zhuangzi-02-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-02-check-1-b",
+          "text": "决心比成心更强，因此越坚定便越能摆脱成心",
+          "feedback": "错步是把结构差别换成强度差别。一个人可以强烈或犹豫地受成心支配，修正路径是检查哪些证据被预先排除。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-02-check-1-a",
+          "text": "决心可以说明理由并接受反证，成心把既有取向封成裁判",
+          "feedback": "决定性差别不在坚定程度，而在理由入口是否仍开放。决心能够承担修改条件；成心则让形成它的标准免于审查。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-02-check-1-a",
+      "misconceptionId": "chengxin-as-stability"
+    },
+    {
+      "id": "zhuangzi-02-check-2",
+      "kind": "argument-step",
+      "prompt": "“彼与是互相生成”首先推翻了什么？",
+      "targetNodeIds": [
+        "zhuangzi-02-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-02-check-2-b",
+          "text": "推翻一端能不经裁切便代表对象全貌",
+          "feedback": "正确关系是：标出一端同时产生背景与另一端，因此任何单一位置都需交代自己的裁切，不能冒充无位置的全貌。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-02-check-2-a",
+          "text": "推翻彼此之间存在可描述差异",
+          "feedback": "错步是从关系生成跳到差异消失。两端正因为不同才能彼此校正；文本压力指向把一端绝对化，而非否认分别。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-02-check-2-b",
+      "misconceptionId": "difference-erasure"
+    },
+    {
+      "id": "zhuangzi-02-check-3",
+      "kind": "transfer",
+      "prompt": "面对慢性疼痛，交叉校正最符合哪种做法？",
+      "targetNodeIds": [
+        "zhuangzi-02-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-02-check-3-b",
+          "text": "承认两类证据来自不同视角，所以冲突时各自保留判断",
+          "feedback": "唯一错步是把承认来源差异当作停止判断。修正需要让证据相遇，说明危险信号、遗漏范围和升级检查的条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-02-check-3-a",
+          "text": "列明影像与主诉各能发现什么，并规定冲突时怎样追加检查",
+          "feedback": "这个做法把视角差异转成可检验程序：明确能力、盲点与冲突处理。它既不取消测量，也不抹去第一人称经验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-02-check-3-a",
+      "misconceptionId": "evidence-symmetry"
+    },
+    {
+      "id": "zhuangzi-02-check-4",
+      "kind": "boundary",
+      "prompt": "成心批评如何避免自我瓦解？",
+      "targetNodeIds": [
+        "zhuangzi-02-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-02-check-4-a",
+          "text": "把庄子文本设为不受成心影响的例外",
+          "feedback": "错步是以作者特权免除反身要求，这会重建被批评的无条件裁判。文本自身也须接受声音、层次和反例检查。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-02-check-4-b",
+          "text": "把它用作可定位诊断，并公开自身标准与修改条件",
+          "feedback": "决定性做法是把全称怀疑收缩为诊断要求：指出屏蔽来源、拒绝反例或局部冒充整体的具体位置，同时让诊断本身接受反向检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-02-check-4-b",
+      "misconceptionId": "self-exemption"
+    },
+    {
+      "id": "zhuangzi-03-check-1",
+      "kind": "concept",
+      "prompt": "“齐的是裁决资格”是什么意思？",
+      "targetNodeIds": [
+        "zhuangzi-03-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-03-check-1-b",
+          "text": "不同声音一旦进入审查，彼此冲突的结论便同样成立",
+          "feedback": "错步是从资格平等跳到真值相等。修正路径是补回经验、因果、范围与行动后果，让冲突判断接受同一问题的检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-03-check-1-a",
+          "text": "不同声音都应进入审查，但证据强度与结论仍可不同",
+          "feedback": "决定性区分是进入审查的资格与审查后的结论。齐物反对预先消音，未承诺每个声音都获得相同证据权重。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-03-check-1-a",
+      "misconceptionId": "equal-truth"
+    },
+    {
+      "id": "zhuangzi-03-check-2",
+      "kind": "argument-step",
+      "prompt": "鱼与人的水域差异为什么不支持命题任意？",
+      "targetNodeIds": [
+        "zhuangzi-03-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-03-check-2-b",
+          "text": "因为鱼的感受应服从人类对水的科学定义",
+          "feedback": "错步是用人类中心尺度重新压住关系差异。修正并非取消鱼的生命结构，而是同时说明不同结构怎样与水发生可核对关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-03-check-2-a",
+          "text": "因为身体结构和环境后果仍能跨说话者核对",
+          "feedback": "正确关系是适宜性依赖身体结构，而结构与后果并非由身份任意决定。补出关系项使判断更精确，不会使它失去公共证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-03-check-2-a",
+      "misconceptionId": "relational-to-arbitrary"
+    },
+    {
+      "id": "zhuangzi-03-check-3",
+      "kind": "boundary",
+      "prompt": "“莫若以明”的谨慎解释保留了什么限制？",
+      "targetNodeIds": [
+        "zhuangzi-03-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-03-check-3-a",
+          "text": "它让判断者看见两端限定，却不保证价值冲突消失",
+          "feedback": "决定性限制是明提供反身照见，而非无位置的终极裁决。双方更清楚仍可能不同意，所以后续仍需伦理与政治判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-03-check-3-b",
+          "text": "它使判断者超出彼此视角，从而完成最终裁决",
+          "feedback": "唯一错步是把转换能力提升成绝对视角。这样会重新建立一个免审中心，与成心批评的反身要求冲突。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-03-check-3-a",
+      "misconceptionId": "view-from-nowhere"
+    },
+    {
+      "id": "zhuangzi-03-check-4",
+      "kind": "transfer",
+      "prompt": "一个疼痛量表遗漏少数群体表达方式，齐物式修正应怎样做？",
+      "targetNodeIds": [
+        "zhuangzi-03-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-03-check-4-b",
+          "text": "补入遗漏表达，检验量表预测与诊疗后果是否改善",
+          "feedback": "这个方案让被排除经验获得资格，同时保留结果检验。它把齐物转成可修正的证据制度，而不是相对主义豁免。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-03-check-4-a",
+          "text": "取消量表，只让每个人保留自己的疼痛真理",
+          "feedback": "错步是从量表可错跳到测量无用。修正应扩大取样和申诉入口，再核对新表达与诊疗后果，而不是停止共同判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-03-check-4-b",
+      "misconceptionId": "abolish-measurement"
+    },
+    {
+      "id": "zhuangzi-04-check-1",
+      "kind": "concept",
+      "prompt": "“有分”与“物化”合在一起说明什么？",
+      "targetNodeIds": [
+        "zhuangzi-04-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-04-check-1-a",
+          "text": "不同状态可被区分，同时属于会互相重释的变化过程",
+          "feedback": "决定性关系是差异与过程并存。有分阻止把周和蝶抹平，物化阻止把它们封成毫无承接的孤立瞬间。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-04-check-1-b",
+          "text": "变化最终取消状态差异，因此周与蝶只是同一名称",
+          "feedback": "错步是用化取消分。文本明确保留周与蝶的分别，修正应说明变化怎样连接不同状态，而非否认不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-04-check-1-a",
+      "misconceptionId": "change-erases-difference"
+    },
+    {
+      "id": "zhuangzi-04-check-2",
+      "kind": "argument-step",
+      "prompt": "流动身份为何不自动取消责任？",
+      "targetNodeIds": [
+        "zhuangzi-04-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-04-check-2-a",
+          "text": "责任只依赖一个不变灵魂，所以变化不影响它",
+          "feedback": "错步是偷偷补入文本没有建立的不变灵魂。更稳妥的路径是分别追踪因果、记忆、受益和承诺的连续。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-04-check-2-b",
+          "text": "因果受益、记忆与关系承诺仍可跨变化连续",
+          "feedback": "这些连续线足以把后来者与旧行为相连，却允许其价值判断和承担方式改变，因此不需要把人格冻结。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-04-check-2-b",
+      "misconceptionId": "identity-breaks-causation"
+    },
+    {
+      "id": "zhuangzi-04-check-3",
+      "kind": "transfer",
+      "prompt": "归乡者说自己已改变，判断旧借款责任时应先看什么？",
+      "targetNodeIds": [
+        "zhuangzi-04-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-04-check-3-b",
+          "text": "看他现在是否仍认同当年的自我描述",
+          "feedback": "唯一错步是把价值认同当成责任连续的充分条件。即使不认同旧自我，因果受益和明确承诺仍可能要求修复。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-04-check-3-a",
+          "text": "看借款、受益、记忆与后续约定是否仍有连续关系",
+          "feedback": "案例要求逐项追踪责任载体。文化与性格变化真实存在，却不能单凭“已改变”切断仍延续的财务和承诺关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-04-check-3-a",
+      "misconceptionId": "change-as-debt-release"
+    },
+    {
+      "id": "zhuangzi-04-check-4",
+      "kind": "text-voice",
+      "prompt": "为什么不能把梦蝶当作庄周自传的直接证据？",
+      "targetNodeIds": [
+        "zhuangzi-04-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-04-check-4-b",
+          "text": "因为梦境没有哲学意义，只能作为文学虚构阅读",
+          "feedback": "错步是从非自传跳到无哲学效力。虚构叙事仍能组织有分与物化的压力，关键是不要伪装成作者陈述。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-04-check-4-a",
+          "text": "因为它是内篇叙事中的庄周人物，文体与作者归属仍需区分",
+          "feedback": "正确处在区分叙事人物、篇章层次与历史作者。故事的哲学功能不依赖梦境作为可核验生平事实。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-04-check-4-a",
+      "misconceptionId": "character-author-collapse"
+    },
+    {
+      "id": "zhuangzi-05-check-1",
+      "kind": "concept",
+      "prompt": "本单元为何不把无待解释成没有任何依赖？",
+      "targetNodeIds": [
+        "zhuangzi-05-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-05-check-1-b",
+          "text": "依赖只是主观感觉，理解逍遥后条件便不再限制行动",
+          "feedback": "错步是把现实条件心理化。风、坡道与资源仍会限制行动，修正应分析条件怎样被组织和转化。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-05-check-1-a",
+          "text": "生命行动总有条件，无待针对的是把单一条件设为最终支点",
+          "feedback": "决定性区分是物质条件与身份依附。无待不取消空气、关系和设施，而是松动某项成就对自我价值的垄断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-05-check-1-a",
+      "misconceptionId": "freedom-as-zero-dependence"
+    },
+    {
+      "id": "zhuangzi-05-check-2",
+      "kind": "argument-step",
+      "prompt": "大鹏故事为何不建立“大者更自由”的等级？",
+      "targetNodeIds": [
+        "zhuangzi-05-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-05-check-2-a",
+          "text": "因为鹏的远行同样需要水、风与时节",
+          "feedback": "文本反复写凭借，显示巨大范围伴随巨大条件。大小用于校正局部尺度，并不直接排序人格境界。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-05-check-2-b",
+          "text": "因为蜩与学鸠在自己的范围内也能达到无待",
+          "feedback": "错步是把局部自足直接判为无待。它们正因用短程经验封闭可能性而受批评，不能据此获得完成状态。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-05-check-2-a",
+      "misconceptionId": "size-as-rank"
+    },
+    {
+      "id": "zhuangzi-05-check-3",
+      "kind": "transfer",
+      "prompt": "坡道案例首先改变了哪项判断？",
+      "targetNodeIds": [
+        "zhuangzi-05-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-05-check-3-b",
+          "text": "自由要看依赖如何被组织，而非依赖是否显眼",
+          "feedback": "案例把判断从身体羞耻移到条件设计。坡道扩大行动范围，但失修风险仍要求公共责任，不能只靠心态。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-05-check-3-a",
+          "text": "使用显眼设施的人比使用普通楼梯者更少自由",
+          "feedback": "错步是把被看见的依赖当作更多依赖。楼梯和建筑同样支撑步行者，只是多数条件被常态设计遮蔽。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-05-check-3-b",
+      "misconceptionId": "visible-dependence-as-less-free"
+    },
+    {
+      "id": "zhuangzi-05-check-4",
+      "kind": "boundary",
+      "prompt": "无待解释仍欠什么？",
+      "targetNodeIds": [
+        "zhuangzi-05-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-05-check-4-a",
+          "text": "它仍需说明心理松动如何与资源和制度改变配合",
+          "feedback": "正确边界是两层不能互相替代。不执着可改变行动方式，结构改善则改变可用条件，完整自由判断必须同时看到两者。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-05-check-4-b",
+          "text": "它只需证明超越依赖在精神上可能，制度问题便属旁支",
+          "feedback": "错步是把物质条件降为旁支。文本中的风势已经显示条件真实存在，现代迁移更不能用精神解释免除设施责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-05-check-4-a",
+      "misconceptionId": "psychology-solves-structure"
+    },
+    {
+      "id": "zhuangzi-06-check-1",
+      "kind": "concept",
+      "prompt": "无用首先相对于什么成立？",
+      "targetNodeIds": [
+        "zhuangzi-06-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-06-check-1-b",
+          "text": "相对于对象内在缺少可发挥的能力",
+          "feedback": "错步是把关系判断实体化。故事正通过改变用途网络显示，同一对象在一种加工中无用，在其他关系中可能重要。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-06-check-1-a",
+          "text": "相对于特定用途、主体与时间尺度",
+          "feedback": "决定性关系是用途判断具有关系项。木匠的无用只覆盖加工目标，不能直接穷尽树的生态、庇护和生长关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-06-check-1-a",
+      "misconceptionId": "useless-as-essence"
+    },
+    {
+      "id": "zhuangzi-06-check-2",
+      "kind": "counterexample",
+      "prompt": "不会叫的雁在论证中做了什么？",
+      "targetNodeIds": [
+        "zhuangzi-06-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-06-check-2-b",
+          "text": "限制无用必能保全的全称策略",
+          "feedback": "反例的强度恰好是取消固定护身符。它迫使判断者分析风险结构，而不是在有用与无用之间寻找永久标签。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-06-check-2-a",
+          "text": "证明有用比无用更可靠",
+          "feedback": "错步是把反例读成反向定律。雁只击中“无用必保全”，并未建立“有用必保全”；环境仍可能惩罚相反特征。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-06-check-2-b",
+      "misconceptionId": "counterexample-as-reversal"
+    },
+    {
+      "id": "zhuangzi-06-check-3",
+      "kind": "transfer",
+      "prompt": "城市空地的无用之用需要怎样检验？",
+      "targetNodeIds": [
+        "zhuangzi-06-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-06-check-3-b",
+          "text": "比较被账面用途遮蔽的功能、风险与分配后果",
+          "feedback": "这个操作让无用概念真正参与判断：补出隐藏关系，同时不预先豁免空地的污染、排斥或住房成本。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-06-check-3-a",
+          "text": "只要尚未商业开发，便应认定保留更有价值",
+          "feedback": "错步是把未开发状态直接当成价值。修正要比较透水、生态、住房、维护和分配后果，并保留时间尺度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-06-check-3-b",
+      "misconceptionId": "nonuse-as-value"
+    },
+    {
+      "id": "zhuangzi-06-check-4",
+      "kind": "boundary",
+      "prompt": "无用之用为何不能替失业保障缺失辩护？",
+      "targetNodeIds": [
+        "zhuangzi-06-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-06-check-4-b",
+          "text": "它重视精神空间，所以物质保障属于另一套问题",
+          "feedback": "错步是割裂精神与条件。被迫失业会直接缩小可行动空间，不能以心态解释把制度责任移给个人。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-06-check-4-a",
+          "text": "它批评用途垄断，却不把被迫剥夺改写成自由退出",
+          "feedback": "决定性边界在选择能力。人应能拒绝单一用途，也应有进入其他生活关系的资源；缺少保障不是无用美学的完成。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-06-check-4-a",
+      "misconceptionId": "deprivation-romanticized"
+    },
+    {
+      "id": "zhuangzi-07-check-1",
+      "kind": "argument-step",
+      "prompt": "“每至于族”在庖丁论证中为何重要？",
+      "targetNodeIds": [
+        "zhuangzi-07-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-07-check-1-a",
+          "text": "它表明最高熟练能在复杂处保持同一速度",
+          "feedback": "错步是把流畅固定成最高标准。庖丁在复杂处戒惧、凝视并放慢，熟练包含中断旧节奏的能力。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-07-check-1-b",
+          "text": "它显示熟练包括识别异常并主动恢复注意",
+          "feedback": "决定性关系是异常识别触发节奏改变。没有这一暂停，神遇容易被误读为不受检查的自动化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-07-check-1-b",
+      "misconceptionId": "skill-as-flow-only"
+    },
+    {
+      "id": "zhuangzi-07-check-2",
+      "kind": "concept",
+      "prompt": "“神遇”与知识是什么关系？",
+      "targetNodeIds": [
+        "zhuangzi-07-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-07-check-2-b",
+          "text": "直觉取代感官与学习，因此无需说明行动依据",
+          "feedback": "错步是把具身熟练神秘化。修正要回到长期训练、间隙感知和异常停顿这些可说明环节。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-07-check-2-a",
+          "text": "训练形成的辨别被重组为具身响应，并未取消知识",
+          "feedback": "十九年经验、对象结构和复杂处暂停共同支持这一解释。知识不再逐条朗读，不等于行动没有知识基础。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-07-check-2-a",
+      "misconceptionId": "embodied-as-irrational"
+    },
+    {
+      "id": "zhuangzi-07-check-3",
+      "kind": "transfer",
+      "prompt": "外科医生遇到异常解剖时，哪种做法最接近庖丁式熟练？",
+      "targetNodeIds": [
+        "zhuangzi-07-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-07-check-3-a",
+          "text": "维持既定手感，以免暂停破坏专家判断",
+          "feedback": "错步是把连续动作当成专家身份。异常正是模型边界信号，继续原节奏会把过去成功误作当前证据。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-07-check-3-b",
+          "text": "暂停、调用影像与团队信息，再决定细微动作",
+          "feedback": "这个选择把结构感与风险警戒结合起来。暂停不是抛弃经验，而是让经验接受当前异常的校正。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-07-check-3-b",
+      "misconceptionId": "confidence-as-expertise"
+    },
+    {
+      "id": "zhuangzi-07-check-4",
+      "kind": "boundary",
+      "prompt": "庖丁故事不能独立证明什么？",
+      "targetNodeIds": [
+        "zhuangzi-07-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-07-check-4-a",
+          "text": "不能仅由行动顺畅推出其服务目标正当",
+          "feedback": "决定性边界在形式与目的。故事说明怎样减少碰撞和识别结构，却不足以判断屠宰、医疗或官僚目标的伦理正当性。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-07-check-4-b",
+          "text": "不能说明长期训练会形成更精细的结构感",
+          "feedback": "错步是删掉故事最明确的学习链。初见全牛、三年后与十九年用刀正支持训练改变感知。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-07-check-4-a",
+      "misconceptionId": "skill-proves-good-end"
+    },
+    {
+      "id": "zhuangzi-08-check-1",
+      "kind": "concept",
+      "prompt": "心斋中的“虚”主要松开什么？",
+      "targetNodeIds": [
+        "zhuangzi-08-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-08-check-1-b",
+          "text": "松开判断能力，使劝谏者不再区分危险和善恶",
+          "feedback": "错步是把解释开放扩大成判断消失。文本的危险语境要求更敏锐的响应，而不是取消安全和伦理区分。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-08-check-1-a",
+          "text": "松开由预案占满的解释，让新信息能改变响应",
+          "feedback": "决定性作用是改变注意入口。虚而待物不是清除意识，而是让对象不必先符合劝谏者的教师框架。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-08-check-1-a",
+      "misconceptionId": "emptiness-as-no-mind"
+    },
+    {
+      "id": "zhuangzi-08-check-2",
+      "kind": "text-voice",
+      "prompt": "心斋与坐忘为何不应合成同一固定步骤？",
+      "targetNodeIds": [
+        "zhuangzi-08-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-08-check-2-b",
+          "text": "因为它们分别回应政治沟通和身份松动的不同压力",
+          "feedback": "正确关系是相近机制承担不同任务。保留语境可防止把多声部思想压成通用冥想模板。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-08-check-2-a",
+          "text": "因为一者没有文本依据，只是后世增补",
+          "feedback": "错步是删除原典位置。心斋见《人间世》，坐忘见《大宗师》；问题不在有无依据，而在语境和功能不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-08-check-2-b",
+      "misconceptionId": "practices-flattened"
+    },
+    {
+      "id": "zhuangzi-08-check-3",
+      "kind": "transfer",
+      "prompt": "调解员怎样证明自己不是只用柔和语气执行成心？",
+      "targetNodeIds": [
+        "zhuangzi-08-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-08-check-3-a",
+          "text": "看复述与方案是否因新信息实际改变",
+          "feedback": "检验点是可修正性，而不是语气。允许当事人纠正复述，并让方案响应差异，才显示解释入口真正开放。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-08-check-3-b",
+          "text": "看双方是否都觉得调解员态度温和",
+          "feedback": "错步是把礼貌感受当成结构变化。温和可以包裹预定方案，必须检查内容是否接受了对方提供的新事实。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-08-check-3-a",
+      "misconceptionId": "tone-as-openness"
+    },
+    {
+      "id": "zhuangzi-08-check-4",
+      "kind": "boundary",
+      "prompt": "心斋为何不能被强权用作服从术？",
+      "targetNodeIds": [
+        "zhuangzi-08-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-08-check-4-a",
+          "text": "因为开放解释不等于清除身体警报、权利和风险不对称",
+          "feedback": "决定性边界是松开成心而非解除保护。暴君语境反而要求保留威胁识别，不能把虚改造成受害者自我消音。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-08-check-4-b",
+          "text": "因为真正完成坐忘的人不再会受到权力伤害",
+          "feedback": "错步是把精神转化当成免疫伤害。身体、资源和强制仍然真实，哲学不能替强权免除责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-08-check-4-a",
+      "misconceptionId": "openness-to-abuse"
+    },
+    {
+      "id": "zhuangzi-09-check-1",
+      "kind": "concept",
+      "prompt": "接受与认可的差别是什么？",
+      "targetNodeIds": [
+        "zhuangzi-09-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-09-check-1-a",
+          "text": "接受承认事实已发生，认可则判断它具有正当性",
+          "feedback": "决定性区分是事实位置与规范评价。受害者可据实行动而仍谴责伤害，安时处顺不能替认可作决定。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-09-check-1-b",
+          "text": "接受是暂时认可，等情绪平复后才可重新反对",
+          "feedback": "错步是把接受仍归入认可强度。事实承认与正当性判断可以同时分离，无需暂停反对才能面对现实。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-09-check-1-a",
+      "misconceptionId": "acceptance-as-approval"
+    },
+    {
+      "id": "zhuangzi-09-check-2",
+      "kind": "argument-step",
+      "prompt": "洪水案例为何反驳宿命论？",
+      "targetNodeIds": [
+        "zhuangzi-09-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-09-check-2-b",
+          "text": "它证明自然灾害其实都由制度失误造成",
+          "feedback": "错步是把区分改成单因替换。暴雨仍可有自然触发，制度分析说明的是损害如何被放大及谁负何责。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-09-check-2-a",
+          "text": "它区分自然触发、制度放大与未来可改变后果",
+          "feedback": "这三层把不可控部分限制在应有范围。损失既成不妨碍调查维护责任，也不关闭补偿和防护行动。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-09-check-2-a",
+      "misconceptionId": "trigger-as-total-cause"
+    },
+    {
+      "id": "zhuangzi-09-check-3",
+      "kind": "boundary",
+      "prompt": "处顺在政治上必须收缩到什么范围？",
+      "targetNodeIds": [
+        "zhuangzi-09-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-09-check-3-a",
+          "text": "收缩到不可逆事实和有限控制，不替人为强制免责",
+          "feedback": "决定性边界是限制来源。对既成事实减少抗拒，不等于对制造限制的制度停止追责或改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-09-check-3-b",
+          "text": "收缩到内心态度，所以外部服从与否不再重要",
+          "feedback": "错步是把政治后果排除在外。服从会改变权力和伤害分配，不能因内心自由便视为无关。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-09-check-3-a",
+      "misconceptionId": "fate-as-obedience"
+    },
+    {
+      "id": "zhuangzi-09-check-4",
+      "kind": "emotion",
+      "prompt": "“哀乐不能入”的谨慎读法是什么？",
+      "targetNodeIds": [
+        "zhuangzi-09-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-09-check-4-a",
+          "text": "情感不再把生命钉死在单一得失，但感受仍可发生",
+          "feedback": "这个解释保留变化能力与关系情感。它不把悲伤当修养失败，也不要求旁人用哲学命令受苦者沉默。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-09-check-4-b",
+          "text": "真正理解命后不再产生悲伤和快乐",
+          "feedback": "错步是把不被情感占满扩大成没有情感。文本仍写哭泣、探望和初始触动，麻木不是必然结论。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-09-check-4-a",
+      "misconceptionId": "transformation-as-numbness"
+    },
+    {
+      "id": "zhuangzi-10-check-1",
+      "kind": "concept",
+      "prompt": "无为在本单元中首先限制什么？",
+      "targetNodeIds": [
+        "zhuangzi-10-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-10-check-1-a",
+          "text": "限制用单一治理模型对不同生命强制塑形",
+          "feedback": "决定性对象是同形控制，而非行动本身。保护共同条件、提供申诉和阻止私人暴力仍可能需要作为。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-10-check-1-b",
+          "text": "限制公共机构采取行动，让社会关系自行运行",
+          "feedback": "错步是把反过度干预扩大成政府停手。既有关系可能包含歧视和垄断，形式不作为仍会分配伤害。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-10-check-1-a",
+      "misconceptionId": "wuwei-as-inactivity"
+    },
+    {
+      "id": "zhuangzi-10-check-2",
+      "kind": "text-voice",
+      "prompt": "濮水拒聘故事为何不能直接当作庄周生平事实？",
+      "targetNodeIds": [
+        "zhuangzi-10-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-10-check-2-a",
+          "text": "它属于外篇，以庄子人物承担拒斥权位的寓言功能",
+          "feedback": "正确边界同时指出层次与角色。故事可支持哲学分析，却不能在没有独立史料时改写为历史庄周自述。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-10-check-2-b",
+          "text": "它的政治内容太强，所以后世一定伪造",
+          "feedback": "错步是从归属不确定跳到断言伪造。修正只需标明外篇和人物声音，不必提出证据不足的来源结论。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-10-check-2-a",
+      "misconceptionId": "outer-story-as-biography"
+    },
+    {
+      "id": "zhuangzi-10-check-3",
+      "kind": "transfer",
+      "prompt": "统一延长在校时间的问题首先在哪里？",
+      "targetNodeIds": [
+        "zhuangzi-10-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-10-check-3-b",
+          "text": "学校不应把成绩设为任何政策目标",
+          "feedback": "错步是把路径批评扩大成目标取消。案例反对单一强制，并未证明学习成果不值得改善。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-10-check-3-a",
+          "text": "把平均分上升当作所有生活结构都适配同一路径",
+          "feedback": "唯一错步是由总体结果越界到个体适配。需检查照护、康复和归属差异，再设计可逆且有选择的路径。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-10-check-3-a",
+      "misconceptionId": "average-as-universal"
+    },
+    {
+      "id": "zhuangzi-10-check-4",
+      "kind": "boundary",
+      "prompt": "政治退出策略的主要边界是什么？",
+      "targetNodeIds": [
+        "zhuangzi-10-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-10-check-4-b",
+          "text": "退出者是否保持了内心对政治的批评",
+          "feedback": "错步是只看内心立场。即使批评真诚，退出仍可能改变资源、联盟和他人风险，必须评估外部后果。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-10-check-4-a",
+          "text": "退出是否会把制度代价留给无条件离开的人",
+          "feedback": "这里的关键是能力和后果分配。拒绝权位可保护个人，却不能据此贬低被迫留下者或忽视公共责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-10-check-4-a",
+      "misconceptionId": "exit-as-universal"
+    },
+    {
+      "id": "zhuangzi-11-check-1",
+      "kind": "argument-step",
+      "prompt": "“我独何能无概然”限制了哪种解释？",
+      "targetNodeIds": [
+        "zhuangzi-11-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-11-check-1-b",
+          "text": "限制惠子对共同生活关系提出伦理质问",
+          "feedback": "错步是把人物自述当成对惠子异议的完全反驳。初始悲伤不能单独回答鼓盆对家人造成的关系影响。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-11-check-1-a",
+          "text": "限制庄子人物从未悲伤、天生无情的解释",
+          "feedback": "这句明确承认初死时的触动，说明四时理解发生在情感之后。它不把通达等同情感缺席。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-11-check-1-a",
+      "misconceptionId": "zhuangzi-as-emotionless"
+    },
+    {
+      "id": "zhuangzi-11-check-2",
+      "kind": "text-voice",
+      "prompt": "鼓盆故事的来源身份是什么？",
+      "targetNodeIds": [
+        "zhuangzi-11-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-11-check-2-a",
+          "text": "外篇中庄子人物与惠子的对话，不是已证实的生平实录",
+          "feedback": "正确边界把篇章层次、角色声音和历史事实分开。故事仍有哲学效力，却不能无标记归给庄周本人。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-11-check-2-b",
+          "text": "庄周亲述的家庭经历，可直接证明他的情感立场",
+          "feedback": "唯一错步是把外篇叙事人物提升成历史作者自述。修正需保留故事内部张力并标注归属不确定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-11-check-2-a",
+      "misconceptionId": "outer-as-biography"
+    },
+    {
+      "id": "zhuangzi-11-check-3",
+      "kind": "transfer",
+      "prompt": "葬礼笑话的伦理判断需要增加什么？",
+      "targetNodeIds": [
+        "zhuangzi-11-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-11-check-3-a",
+          "text": "增加关系历史、场合、他人影响和讲述者后续响应",
+          "feedback": "这些事实把个人真诚放回共享仪式。表达可能安慰也可能伤害，关键是能否听见并响应关系后果。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-11-check-3-b",
+          "text": "增加讲述者是否真心相信死亡只是自然变化",
+          "feedback": "错步是把内心信念当成充分条件。即使信念真诚，表达仍进入他人生活，需要承担场合和影响。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-11-check-3-a",
+      "misconceptionId": "sincerity-suffices"
+    },
+    {
+      "id": "zhuangzi-11-check-4",
+      "kind": "boundary",
+      "prompt": "四时变化比喻仍欠什么？",
+      "targetNodeIds": [
+        "zhuangzi-11-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-11-check-4-b",
+          "text": "仍欠证明死亡可以被意志逆转",
+          "feedback": "错步是要求比喻完成与其目标相反的任务。它在调整对不可逆变化的关系，并不试图证明逆转死亡。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-11-check-4-a",
+          "text": "仍欠对妻子独特主体性和共享关系的充分说明",
+          "feedback": "决定性债务是自然过程没有自动保存个体关系意义。现代解释应承认沉默，而不是替文本补成完整答案。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-11-check-4-a",
+      "misconceptionId": "process-erases-person"
+    },
+    {
+      "id": "zhuangzi-12-check-1",
+      "kind": "text-history",
+      "prompt": "内篇一至七的作者身份应怎样表述？",
+      "targetNodeIds": [
+        "zhuangzi-12-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-12-check-1-b",
+          "text": "内篇由庄周亲定，外篇和杂篇则都与其思想无关",
+          "feedback": "错步有两层但同属归属越界：把内篇假说写成定论，并由后出推出无关。修正要分别谈证据强度与哲学价值。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-12-check-1-a",
+          "text": "传统上最接近庄周或早期圈层，但亲笔归属仍未被证明",
+          "feedback": "这一表述把传统强归属与证据限制同时保留。内篇的重要性不需要伪造成已发现的作者手稿。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-12-check-1-a",
+      "misconceptionId": "inner-as-proven-autograph"
+    },
+    {
+      "id": "zhuangzi-12-check-2",
+      "kind": "commentary-voice",
+      "prompt": "郭象与现存《庄子》的关系是什么？",
+      "targetNodeIds": [
+        "zhuangzi-12-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-12-check-2-a",
+          "text": "他保存和编订三十三篇本，也以自身概念创造性重释文本",
+          "feedback": "决定性关系是保存与改造并存。只说篡改会漏掉传本贡献，只说注释会把独化等哲学透明化。",
+          "isCorrect": true
+        },
+        {
+          "id": "zhuangzi-12-check-2-b",
+          "text": "他只整理篇序，注释内容可直接代表先秦原意",
+          "feedback": "错步是把注释当透明转录。郭象面对魏晋问题重组自然与名教，其声音必须独立标识。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "zhuangzi-12-check-2-a",
+      "misconceptionId": "commentary-as-transparent"
+    },
+    {
+      "id": "zhuangzi-12-check-3",
+      "kind": "argument-step",
+      "prompt": "复合文本为何仍可形成哲学整体？",
+      "targetNodeIds": [
+        "zhuangzi-12-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-12-check-3-b",
+          "text": "因为郭象已经消除各篇差异，使全书成为一致体系",
+          "feedback": "错步是把编订等同消除张力。山木反例、鼓盆争议和多重声音仍在，整体不能靠抹平获得。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-12-check-3-a",
+          "text": "因为编排与接受让不同层次围绕共同问题互相设限",
+          "feedback": "整体性来自问题网络，而非单一作者保证。层次图保留差异，问题图说明差异怎样形成回应和反例。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-12-check-3-a",
+      "misconceptionId": "unity-as-single-author"
+    },
+    {
+      "id": "zhuangzi-12-check-4",
+      "kind": "boundary",
+      "prompt": "后世坐忘实践应怎样用于解释颜回对话？",
+      "targetNodeIds": [
+        "zhuangzi-12-argument"
+      ],
+      "options": [
+        {
+          "id": "zhuangzi-12-check-4-b",
+          "text": "用后来成熟步骤补全原对话未明说的修炼程序",
+          "feedback": "唯一错步是把接受史回写成原意。修正路径是分列原段、后世发展和后世比较，让缺口保持可见。",
+          "isCorrect": false
+        },
+        {
+          "id": "zhuangzi-12-check-4-a",
+          "text": "用来说明实践潜力，同时标明它是后世系统化",
+          "feedback": "正确做法让接受史照亮文本的生成力，却不把后来步骤倒写为先秦人物已经拥有的完整方法。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "zhuangzi-12-check-4-a",
+      "misconceptionId": "reception-backwritten"
+    }
+  ]
+}

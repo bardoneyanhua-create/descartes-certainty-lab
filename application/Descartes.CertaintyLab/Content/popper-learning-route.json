@@ -1,0 +1,5128 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "popper--P01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 的科学方法论、客观知识论与政治哲学分属不同著作和论证场景；不能把“可证伪”当作解释其全部哲学的一把万能钥匙。",
+      "explanation": "Popper 的科学方法论、客观知识论与政治哲学分属不同著作和论证场景；不能把“可证伪”当作解释其全部哲学的一把万能钥匙。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Popper corpus boundaries"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "popper--P01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线的贯穿问题是：面对可能出错的知识与制度，怎样设计公开批评、发现错误和可修正的安排；这是教学综合，不冒充 Popper 的单句定义。",
+      "explanation": "本路线的贯穿问题是：面对可能出错的知识与制度，怎样设计公开批评、发现错误和可修正的安排；这是教学综合，不冒充 Popper 的单句定义。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route question"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "从许多已观察的个例到一个无限制普遍命题的推理，不能仅凭重复观察获得逻辑有效性；这正是 Popper 接受并重述的归纳问题。",
+      "explanation": "从许多已观察的个例到一个无限制普遍命题的推理，不能仅凭重复观察获得逻辑有效性；这正是 Popper 接受并重述的归纳问题。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "logical problem of induction"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 的替代不是寻找更隐蔽的归纳证明，而是提出理论、演绎出可检验后果，并让反驳性测试淘汰错误。",
+      "explanation": "Popper 的替代不是寻找更隐蔽的归纳证明，而是提出理论、演绎出可检验后果，并让反驳性测试淘汰错误。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "deductive testing instead of induction"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "可证伪性在 Popper 那里是经验科学系统的划界准则：理论必须排除某些可能的经验状态，才具有可检验的经验内容。",
+      "explanation": "可证伪性在 Popper 那里是经验科学系统的划界准则：理论必须排除某些可能的经验状态，才具有可检验的经验内容。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "falsifiability as demarcation"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "不可证伪并不等于无意义或必然为假；形而上学思想可能有意义甚至启发科学，但不因此取得经验科学的同一地位。",
+      "explanation": "不可证伪并不等于无意义或必然为假；形而上学思想可能有意义甚至启发科学，但不因此取得经验科学的同一地位。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-metaphysics"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "non-science is not nonsense"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "逻辑上与理论冲突的单称陈述，并不会自动完成方法论上的理论否证；Popper 要求接受可重复检验的基本陈述，并以得到支持的否证假说承重。",
+      "explanation": "逻辑上与理论冲突的单称陈述，并不会自动完成方法论上的理论否证；Popper 要求接受可重复检验的基本陈述，并以得到支持的否证假说承重。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "methodological falsification"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因此，把 falsifiability 写成“任何一次实验失败都机械地推翻理论”混淆了逻辑冲突、基本陈述的接受和科学共同体的方法规则。",
+      "explanation": "因此，把 falsifiability 写成“任何一次实验失败都机械地推翻理论”混淆了逻辑冲突、基本陈述的接受和科学共同体的方法规则。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anti-mechanical-falsification boundary"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "基本陈述不是由纯粹感觉得来的绝对基石；它们必须能够被主体间检验，并且接受它们是可继续追问的方法论决定。",
+      "explanation": "基本陈述不是由纯粹感觉得来的绝对基石；它们必须能够被主体间检验，并且接受它们是可继续追问的方法论决定。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "intersubjective basic statements"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "测试在某个基本陈述处暂时停止，不等于该陈述获得终极证明；科学游戏原则上保持继续检验和修改的可能。",
+      "explanation": "测试在某个基本陈述处暂时停止，不等于该陈述获得终极证明；科学游戏原则上保持继续检验和修改的可能。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "provisional stopping rule"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "理论排除的可能事件越多，其经验内容和可检验性通常越高；严厉测试要瞄准理论最容易失败、而非最容易获得赞同的地方。",
+      "explanation": "理论排除的可能事件越多，其经验内容和可检验性通常越高；严厉测试要瞄准理论最容易失败、而非最容易获得赞同的地方。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-testability"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "degrees of testability"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1919 年日食观测是带有仪器、数据处理与误差条件的历史研究，不是“照片一出、相对论永证”的神话；它可说明高风险预测，但不能替代对实际报告的阅读。",
+      "explanation": "1919 年日食观测是带有仪器、数据处理与误差条件的历史研究，不是“照片一出、相对论永证”的神话；它可说明高风险预测，但不能替代对实际报告的阅读。",
+      "identity": "historical-case; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-eclipse-report"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "1919 eclipse as bounded historical case"
+      ],
+      "voiceClass": "historical-case"
+    },
+    {
+      "id": "popper--P07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "知识增长从问题出发，经由大胆猜想、批评性检验与错误排除；观察在这里参与测试，而不是无目的地堆积后自动生成理论。",
+      "explanation": "知识增长从问题出发，经由大胆猜想、批评性检验与错误排除；观察在这里参与测试，而不是无目的地堆积后自动生成理论。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "conjectures and refutations cycle"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "理论经受反驳尝试后仍只能暂时保留；方法的理性不来自保证真理，而来自让错误更容易被公开发现和替换。",
+      "explanation": "理论经受反驳尝试后仍只能暂时保留；方法的理性不来自保证真理，而来自让错误更容易被公开发现和替换。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "fallibilist retention"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "corroboration 报告理论迄今经受了何种严厉测试以及表现如何；它不是把成功次数换算成理论为真的概率。",
+      "explanation": "corroboration 报告理论迄今经受了何种严厉测试以及表现如何；它不是把成功次数换算成理论为真的概率。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "corroboration as test record"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把 corroboration 翻写成 confirmation 会抹掉其回顾性与比较性：它支持暂时选择经受更严厉测试的理论，却不为未来成功提供归纳保证。",
+      "explanation": "把 corroboration 翻写成 confirmation 会抹掉其回顾性与比较性：它支持暂时选择经受更严厉测试的理论，却不为未来成功提供归纳保证。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "corroboration-not-confirmation boundary"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 区分主观的知晓状态与客观的思想内容：理论、问题和论证一旦公开表达，就可由并非其作者的人检查其关系与后果。",
+      "explanation": "Popper 区分主观的知晓状态与客观的思想内容：理论、问题和论证一旦公开表达，就可由并非其作者的人检查其关系与后果。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "objective contents of thought"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "客观知识不是“无人产生的知识”；它强调内容可以超出作者意图，产生作者未预见的逻辑后果与新问题。",
+      "explanation": "客观知识不是“无人产生的知识”；它强调内容可以超出作者意图，产生作者未预见的逻辑后果与新问题。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "autonomy without authorlessness"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "三个世界分别指物理状态与对象、主观心理状态、以及客观思想内容；这是一种多元本体论区分，不是把现实切成三处互不相干的地点。",
+      "explanation": "三个世界分别指物理状态与对象、主观心理状态、以及客观思想内容；这是一种多元本体论区分，不是把现实切成三处互不相干的地点。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology",
+        "popper--src-ok-objective-mind"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "three-world distinction"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "一部书作为物理对象属于世界 1，阅读与理解过程涉及世界 2，其中可批评的论证内容属于世界 3；同一实例可显示三者的互动。",
+      "explanation": "一部书作为物理对象属于世界 1，阅读与理解过程涉及世界 2，其中可批评的论证内容属于世界 3；同一实例可显示三者的互动。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-ok-objective-mind"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "book example of interaction"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 所批评的 historicism 是一种把历史预测视为社会科学主要目标，并相信可发现支配历史演进的节律、模式、规律或趋势的方法论。",
+      "explanation": "Popper 所批评的 historicism 是一种把历史预测视为社会科学主要目标，并相信可发现支配历史演进的节律、模式、规律或趋势的方法论。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "definition of historicism"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "批判历史主义不等于否定历史解释或社会科学；Popper 反对的是把条件性解释扩张成对整体历史命运的无条件预言。",
+      "explanation": "批判历史主义不等于否定历史解释或社会科学；Popper 反对的是把条件性解释扩张成对整体历史命运的无条件预言。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "historicism-not-history boundary"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "趋势是在特定条件下持续的历史事实，不是无条件的普遍规律；即使延续很久，条件变化也可能迅速逆转它。",
+      "explanation": "趋势是在特定条件下持续的历史事实，不是无条件的普遍规律；即使延续很久，条件变化也可能迅速逆转它。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-laws"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "laws versus trends"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因此，条件性预测与历史预言应分开：前者说明在给定条件下会怎样，后者声称整体历史无论干预如何都必然走向某终点。",
+      "explanation": "因此，条件性预测与历史预言应分开：前者说明在给定条件下会怎样，后者声称整体历史无论干预如何都必然走向某终点。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro",
+        "popper--src-poverty-laws"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "conditional prediction versus prophecy"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 把“谁应统治”改写为制度问题：怎样组织政治制度，使坏的或无能的统治者不能造成过多损害，并能在不流血的情况下被替换。",
+      "explanation": "Popper 把“谁应统治”改写为制度问题：怎样组织政治制度，使坏的或无能的统治者不能造成过多损害，并能在不流血的情况下被替换。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "institutional control of rulers"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“开放社会”在此不是现代党派标签或某一政党清单，而是批评、反对、制度纠错和和平更换权力的规范性安排。",
+      "explanation": "“开放社会”在此不是现代党派标签或某一政党清单，而是批评、反对、制度纠错和和平更换权力的规范性安排。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "open-society-not-party-label"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "popper--P14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "piecemeal social engineering 从具体弊害和可评价目标着手，设计有限制度改变，观察后果并允许修订；它不是承诺不干预社会。",
+      "explanation": "piecemeal social engineering 从具体弊害和可评价目标着手，设计有限制度改变，观察后果并允许修订；它不是承诺不干预社会。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "piecemeal social engineering"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "它与乌托邦工程的差别不只是“步子大小”：乌托邦工程先规定整体终极蓝图，零星方法则优先减少可识别伤害并保留反向纠错。",
+      "explanation": "它与乌托邦工程的差别不只是“步子大小”：乌托邦工程先规定整体终极蓝图，零星方法则优先减少可识别伤害并保留反向纠错。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "piecemeal versus utopian"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Kuhn 把 normal science 描述为在共享范式下解谜的持续工作；反常通常先成为待解难题，只有在特定条件下才推动危机和革命。",
+      "explanation": "Kuhn 把 normal science 描述为在共享范式下解谜的持续工作；反常通常先成为待解难题，只有在特定条件下才推动危机和革命。",
+      "identity": "kuhn-position; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-structure"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Kuhn on normal science"
+      ],
+      "voiceClass": "kuhn-position"
+    },
+    {
+      "id": "popper--P15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Popper 担心把 normal science 当作理想会训练出不批判的专家；这是真实规范分歧，但不应伪造成 Kuhn 主张科学家永远拒绝反常。",
+      "explanation": "Popper 担心把 normal science 当作理想会训练出不批判的专家；这是真实规范分歧，但不应伪造成 Kuhn 主张科学家永远拒绝反常。",
+      "identity": "popper-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-popper-normal-science"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Popper critique of normal science"
+      ],
+      "voiceClass": "popper-primary"
+    },
+    {
+      "id": "popper--P16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Lakatos 以研究纲领及其进步或退化的问题转换来评价持续的理论序列，批评把 Popper 简化成遇到单一反常就放弃孤立理论的“朴素否证主义”。",
+      "explanation": "Lakatos 以研究纲领及其进步或退化的问题转换来评价持续的理论序列，批评把 Popper 简化成遇到单一反常就放弃孤立理论的“朴素否证主义”。",
+      "identity": "lakatos-critique; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-lakatos-fmsrp"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lakatos research-programme criticism"
+      ],
+      "voiceClass": "lakatos-critique"
+    },
+    {
+      "id": "popper--P16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Kuhn 强调历史共同体与范式转换，Lakatos 追踪研究纲领，Popper 坚持公开批评与风险测试；本路线保留三方差异，不把后继模型倒灌成 Popper 原说。",
+      "explanation": "Kuhn 强调历史共同体与范式转换，Lakatos 追踪研究纲领，Popper 坚持公开批评与风险测试；本路线保留三方差异，不把后继模型倒灌成 Popper 原说。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-reflections",
+        "popper--src-popper-normal-science",
+        "popper--src-sep-lakatos"
+      ],
+      "abilityIds": [
+        "popper-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Popper Kuhn Lakatos bounded comparison"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "popper--src-sep-popper",
+      "workId": "Karl Popper",
+      "edition": "Stanford Encyclopedia of Philosophy, current entry, substantive revision July 31, 2026",
+      "locator": "§§3–5 on science and scientific method; §7 on objective knowledge and the three worlds; §§8–10 on social and political thought",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Karl Popper",
+      "stableUrl": "https://plato.stanford.edu/entries/popper/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-induction",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 1, §§1–6, “A Survey of Some Fundamental Problems”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-demarcation",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 4, §§21–24, “Falsifiability”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-metaphysics",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 1, §§4–6, especially §4 “The Problem of Demarcation” and §6 “Falsifiability as a Criterion of Demarcation”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-basic",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 5, §§28–30, “The Problem of the Empirical Basis”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-testability",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 6, §§31–40, “Degrees of Testability”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-eclipse-report",
+      "workId": "A Determination of the Deflection of Light by the Sun’s Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919",
+      "edition": "F. W. Dyson, A. S. Eddington, and C. Davidson, Philosophical Transactions of the Royal Society A 220 (1920)",
+      "locator": "pp. 291–333; DOI 10.1098/rsta.1920.0009",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Determination of the Deflection of Light by the Sun’s Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919",
+      "stableUrl": "https://royalsocietypublishing.org/doi/10.1098/rsta.1920.0009",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "historical-case",
+      "year": null
+    },
+    {
+      "id": "popper--src-cr-science",
+      "workId": "Conjectures and Refutations: The Growth of Scientific Knowledge",
+      "edition": "Routledge Classics, 2nd edition",
+      "locator": "Chapter 1, “Science: Conjectures and Refutations”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Conjectures and Refutations: The Growth of Scientific Knowledge",
+      "stableUrl": "https://www.routledge.com/Conjectures-and-Refutations-The-Growth-of-Scientific-Knowledge-2nd-Edition/Popper/p/book/9780415285933",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-lsd-corroboration",
+      "workId": "The Logic of Scientific Discovery",
+      "edition": "Routledge Classics, 2nd edition, 2002 reprint of the expanded English edition",
+      "locator": "Chapter 10, §§79–85, “Corroboration, or How a Theory Stands up to Tests”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Logic of Scientific Discovery",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278447",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-ok-epistemology",
+      "workId": "Objective Knowledge: An Evolutionary Approach",
+      "edition": "Routledge Classics edition",
+      "locator": "Chapter 3, “Epistemology Without a Knowing Subject”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Objective Knowledge: An Evolutionary Approach",
+      "stableUrl": "https://www.routledge.com/Objective-Knowledge-An-Evolutionary-Approach/Popper/p/book/9781041139225",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-ok-objective-mind",
+      "workId": "Objective Knowledge: An Evolutionary Approach",
+      "edition": "Routledge Classics edition",
+      "locator": "Chapter 4, “On the Theory of the Objective Mind”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Objective Knowledge: An Evolutionary Approach",
+      "stableUrl": "https://www.routledge.com/Objective-Knowledge-An-Evolutionary-Approach/Popper/p/book/9781041139225",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-poverty-intro",
+      "workId": "The Poverty of Historicism",
+      "edition": "Routledge Classics, 2nd Edition, 2002, ISBN 978-0-415-27846-1; first English edition published 1957",
+      "locator": "Introduction; Part II, §§14–18, especially §15 “Historical Prophecy versus Social Engineering”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Poverty of Historicism",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278461",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-poverty-laws",
+      "workId": "The Poverty of Historicism",
+      "edition": "Routledge Classics, 2nd Edition, 2002, ISBN 978-0-415-27846-1; first English edition published 1957",
+      "locator": "Part IV, §27, “Is there a Law of Evolution? Laws and Trends”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Poverty of Historicism",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278461",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-open-leadership",
+      "workId": "The Open Society and Its Enemies",
+      "edition": "Princeton University Press, one-volume edition, 1994",
+      "locator": "Volume I, Chapter 7, “The Principle of Leadership,” pp. 114–129",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Open Society and Its Enemies",
+      "stableUrl": "https://www.degruyter.com/document/doi/10.1515/9780691212067-015/html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-poverty-engineering",
+      "workId": "The Poverty of Historicism",
+      "edition": "Routledge Classics, 2nd Edition, 2002, ISBN 978-0-415-27846-1; first English edition published 1957",
+      "locator": "Part III, §§20–21, “The Technological Approach to Sociology” and “Piecemeal versus Utopian Engineering”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Poverty of Historicism",
+      "stableUrl": "https://www.routledge.com/link/link/p/book/9780415278461",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-kuhn-structure",
+      "workId": "The Structure of Scientific Revolutions",
+      "edition": "Thomas S. Kuhn, University of Chicago Press, second edition enlarged, 1970, ISBN 0-226-45804-0",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Claim-specific direct-collation target in the 1970 second edition enlarged: Chapters III–V, pp. 23–51; Chapters VI–IX, pp. 52–110.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Structure of Scientific Revolutions",
+      "stableUrl": "https://search.worldcat.org/title/93075",
+      "boundaryZh": "Claim-specific direct-collation target in the 1970 second edition enlarged: Chapters III–V, pp. 23–51; Chapters VI–IX, pp. 52–110.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "kuhn-position",
+      "year": null
+    },
+    {
+      "id": "popper--src-popper-normal-science",
+      "workId": "“Normal Science and its Dangers”",
+      "edition": "Karl R. Popper, in Imre Lakatos and Alan Musgrave (eds.), Criticism and the Growth of Knowledge, Cambridge University Press, 1970",
+      "locator": "pp. 51–58",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "“Normal Science and its Dangers”",
+      "stableUrl": "https://www.cambridge.org/core/books/criticism-and-the-growth-of-knowledge/normal-science-and-its-dangers/D08D4FDB6011FFF9F30ECF858473B933",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "popper-primary",
+      "year": null
+    },
+    {
+      "id": "popper--src-kuhn-reflections",
+      "workId": "“Reflections on my Critics”",
+      "edition": "Thomas S. Kuhn, in Imre Lakatos and Alan Musgrave (eds.), Criticism and the Growth of Knowledge, Cambridge University Press, 1970",
+      "locator": "pp. 231–278",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "“Reflections on my Critics”",
+      "stableUrl": "https://www.cambridge.org/core/books/criticism-and-the-growth-of-knowledge/reflections-on-my-critics/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "kuhn-position",
+      "year": null
+    },
+    {
+      "id": "popper--src-sep-lakatos",
+      "workId": "Imre Lakatos",
+      "edition": "Stanford Encyclopedia of Philosophy, current entry",
+      "locator": "section 3.4, “Falsification and the Methodology of Scientific Research Programmes”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Imre Lakatos",
+      "stableUrl": "https://plato.stanford.edu/entries/lakatos/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "popper--src-lakatos-fmsrp",
+      "workId": "“Falsification and the Methodology of Scientific Research Programmes”",
+      "edition": "Imre Lakatos, in Criticism and the Growth of Knowledge, Cambridge University Press, 1970, pp. 91–196",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] The essay identity and full fixed span are known; directly collate the internal subsection and exact pages supporting progressive/degenerating problemshifts before upgrading this claim.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“Falsification and the Methodology of Scientific Research Programmes”",
+      "stableUrl": "https://philpapers.org/rec/LAKFAT",
+      "boundaryZh": "The essay identity and full fixed span are known; directly collate the internal subsection and exact pages supporting progressive/degenerating problemshifts before upgrading this claim.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "lakatos-critique",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "popper-criticism-knowledge-open-society",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "卡尔·波普尔：批评、知识与开放社会",
+      "lessonIds": [
+        "popper--popper-01",
+        "popper--popper-02",
+        "popper--popper-03",
+        "popper--popper-04",
+        "popper--popper-05",
+        "popper--popper-06",
+        "popper--popper-07",
+        "popper--popper-08",
+        "popper--popper-09",
+        "popper--popper-10",
+        "popper--popper-11",
+        "popper--popper-12",
+        "popper--popper-13",
+        "popper--popper-14",
+        "popper--popper-15",
+        "popper--popper-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Karl Popper",
+        "nameZh": "卡尔·波普尔",
+        "sourceRouteId": "popper-criticism-knowledge-open-society"
+      },
+      "summary": "1. 一条批判理性路线"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "popper--popper-01",
+      "order": 1,
+      "title": "1. 一条批判理性路线",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 一条批判理性路线",
+      "coreExplanation": "Popper 的科学方法论、客观知识论与政治哲学分属不同著作和论证场景；不能把“可证伪”当作解释其全部哲学的一把万能钥匙。\n\n本路线的贯穿问题是：面对可能出错的知识与制度，怎样设计公开批评、发现错误和可修正的安排；这是教学综合，不冒充 Popper 的单句定义。",
+      "sections": [
+        {
+          "heading": "1. 一条批判理性路线",
+          "paragraphs": [
+            "Popper 的科学方法论、客观知识论与政治哲学分属不同著作和论证场景；不能把“可证伪”当作解释其全部哲学的一把万能钥匙。",
+            "本路线的贯穿问题是：面对可能出错的知识与制度，怎样设计公开批评、发现错误和可修正的安排；这是教学综合，不冒充 Popper 的单句定义。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P01-C1",
+        "popper--P01-C2"
+      ],
+      "checkIds": [
+        "popper--P01-Q1",
+        "popper--P01-Q2",
+        "popper--P01-Q3",
+        "popper--P01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-02",
+      "sourceIds": [
+        "popper--src-sep-popper"
+      ],
+      "essentialQuestion": "1. 一条批判理性路线",
+      "initialFocusId": "popper--popper-01-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-02",
+      "order": 2,
+      "title": "2. 归纳问题：重复不是证明",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 归纳问题：重复不是证明",
+      "coreExplanation": "从许多已观察的个例到一个无限制普遍命题的推理，不能仅凭重复观察获得逻辑有效性；这正是 Popper 接受并重述的归纳问题。\n\nPopper 的替代不是寻找更隐蔽的归纳证明，而是提出理论、演绎出可检验后果，并让反驳性测试淘汰错误。",
+      "sections": [
+        {
+          "heading": "2. 归纳问题：重复不是证明",
+          "paragraphs": [
+            "从许多已观察的个例到一个无限制普遍命题的推理，不能仅凭重复观察获得逻辑有效性；这正是 Popper 接受并重述的归纳问题。",
+            "Popper 的替代不是寻找更隐蔽的归纳证明，而是提出理论、演绎出可检验后果，并让反驳性测试淘汰错误。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P02-C1",
+        "popper--P02-C2"
+      ],
+      "checkIds": [
+        "popper--P02-Q1",
+        "popper--P02-Q2",
+        "popper--P02-Q3",
+        "popper--P02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-03",
+      "sourceIds": [
+        "popper--src-lsd-induction"
+      ],
+      "essentialQuestion": "2. 归纳问题：重复不是证明",
+      "initialFocusId": "popper--popper-02-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-03",
+      "order": 3,
+      "title": "3. 划界：可证伪性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 划界：可证伪性",
+      "coreExplanation": "可证伪性在 Popper 那里是经验科学系统的划界准则：理论必须排除某些可能的经验状态，才具有可检验的经验内容。\n\n不可证伪并不等于无意义或必然为假；形而上学思想可能有意义甚至启发科学，但不因此取得经验科学的同一地位。",
+      "sections": [
+        {
+          "heading": "3. 划界：可证伪性",
+          "paragraphs": [
+            "可证伪性在 Popper 那里是经验科学系统的划界准则：理论必须排除某些可能的经验状态，才具有可检验的经验内容。",
+            "不可证伪并不等于无意义或必然为假；形而上学思想可能有意义甚至启发科学，但不因此取得经验科学的同一地位。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-metaphysics"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P03-C1",
+        "popper--P03-C2"
+      ],
+      "checkIds": [
+        "popper--P03-Q1",
+        "popper--P03-Q2",
+        "popper--P03-Q3",
+        "popper--P03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-04",
+      "sourceIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-metaphysics"
+      ],
+      "essentialQuestion": "3. 划界：可证伪性",
+      "initialFocusId": "popper--popper-03-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-04",
+      "order": 4,
+      "title": "4. 否证不是机械按钮",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 否证不是机械按钮",
+      "coreExplanation": "逻辑上与理论冲突的单称陈述，并不会自动完成方法论上的理论否证；Popper 要求接受可重复检验的基本陈述，并以得到支持的否证假说承重。\n\n因此，把 falsifiability 写成“任何一次实验失败都机械地推翻理论”混淆了逻辑冲突、基本陈述的接受和科学共同体的方法规则。",
+      "sections": [
+        {
+          "heading": "4. 否证不是机械按钮",
+          "paragraphs": [
+            "逻辑上与理论冲突的单称陈述，并不会自动完成方法论上的理论否证；Popper 要求接受可重复检验的基本陈述，并以得到支持的否证假说承重。",
+            "因此，把 falsifiability 写成“任何一次实验失败都机械地推翻理论”混淆了逻辑冲突、基本陈述的接受和科学共同体的方法规则。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P04-C1",
+        "popper--P04-C2"
+      ],
+      "checkIds": [
+        "popper--P04-Q1",
+        "popper--P04-Q2",
+        "popper--P04-Q3",
+        "popper--P04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-05",
+      "sourceIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "essentialQuestion": "4. 否证不是机械按钮",
+      "initialFocusId": "popper--popper-04-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-05",
+      "order": 5,
+      "title": "5. 基本陈述也可受批评",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 基本陈述也可受批评",
+      "coreExplanation": "基本陈述不是由纯粹感觉得来的绝对基石；它们必须能够被主体间检验，并且接受它们是可继续追问的方法论决定。\n\n测试在某个基本陈述处暂时停止，不等于该陈述获得终极证明；科学游戏原则上保持继续检验和修改的可能。",
+      "sections": [
+        {
+          "heading": "5. 基本陈述也可受批评",
+          "paragraphs": [
+            "基本陈述不是由纯粹感觉得来的绝对基石；它们必须能够被主体间检验，并且接受它们是可继续追问的方法论决定。",
+            "测试在某个基本陈述处暂时停止，不等于该陈述获得终极证明；科学游戏原则上保持继续检验和修改的可能。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P05-C1",
+        "popper--P05-C2"
+      ],
+      "checkIds": [
+        "popper--P05-Q1",
+        "popper--P05-Q2",
+        "popper--P05-Q3",
+        "popper--P05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-06",
+      "sourceIds": [
+        "popper--src-lsd-basic"
+      ],
+      "essentialQuestion": "5. 基本陈述也可受批评",
+      "initialFocusId": "popper--popper-05-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-06",
+      "order": 6,
+      "title": "6. 风险越大，内容越多",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 风险越大，内容越多",
+      "coreExplanation": "理论排除的可能事件越多，其经验内容和可检验性通常越高；严厉测试要瞄准理论最容易失败、而非最容易获得赞同的地方。\n\n1919 年日食观测是带有仪器、数据处理与误差条件的历史研究，不是“照片一出、相对论永证”的神话；它可说明高风险预测，但不能替代对实际报告的阅读。",
+      "sections": [
+        {
+          "heading": "6. 风险越大，内容越多",
+          "paragraphs": [
+            "理论排除的可能事件越多，其经验内容和可检验性通常越高；严厉测试要瞄准理论最容易失败、而非最容易获得赞同的地方。",
+            "1919 年日食观测是带有仪器、数据处理与误差条件的历史研究，不是“照片一出、相对论永证”的神话；它可说明高风险预测，但不能替代对实际报告的阅读。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-testability",
+            "popper--src-eclipse-report"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P06-C1",
+        "popper--P06-C2"
+      ],
+      "checkIds": [
+        "popper--P06-Q1",
+        "popper--P06-Q2",
+        "popper--P06-Q3",
+        "popper--P06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-07",
+      "sourceIds": [
+        "popper--src-lsd-testability",
+        "popper--src-eclipse-report"
+      ],
+      "essentialQuestion": "6. 风险越大，内容越多",
+      "initialFocusId": "popper--popper-06-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-07",
+      "order": 7,
+      "title": "7. 猜想与反驳",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 猜想与反驳",
+      "coreExplanation": "知识增长从问题出发，经由大胆猜想、批评性检验与错误排除；观察在这里参与测试，而不是无目的地堆积后自动生成理论。\n\n理论经受反驳尝试后仍只能暂时保留；方法的理性不来自保证真理，而来自让错误更容易被公开发现和替换。",
+      "sections": [
+        {
+          "heading": "7. 猜想与反驳",
+          "paragraphs": [
+            "知识增长从问题出发，经由大胆猜想、批评性检验与错误排除；观察在这里参与测试，而不是无目的地堆积后自动生成理论。",
+            "理论经受反驳尝试后仍只能暂时保留；方法的理性不来自保证真理，而来自让错误更容易被公开发现和替换。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P07-C1",
+        "popper--P07-C2"
+      ],
+      "checkIds": [
+        "popper--P07-Q1",
+        "popper--P07-Q2",
+        "popper--P07-Q3",
+        "popper--P07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-08",
+      "sourceIds": [
+        "popper--src-cr-science"
+      ],
+      "essentialQuestion": "7. 猜想与反驳",
+      "initialFocusId": "popper--popper-07-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-08",
+      "order": 8,
+      "title": "8. Corroboration 不是 confirmation",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. Corroboration 不是 confirmation",
+      "coreExplanation": "corroboration 报告理论迄今经受了何种严厉测试以及表现如何；它不是把成功次数换算成理论为真的概率。\n\n把 corroboration 翻写成 confirmation 会抹掉其回顾性与比较性：它支持暂时选择经受更严厉测试的理论，却不为未来成功提供归纳保证。",
+      "sections": [
+        {
+          "heading": "8. Corroboration 不是 confirmation",
+          "paragraphs": [
+            "corroboration 报告理论迄今经受了何种严厉测试以及表现如何；它不是把成功次数换算成理论为真的概率。",
+            "把 corroboration 翻写成 confirmation 会抹掉其回顾性与比较性：它支持暂时选择经受更严厉测试的理论，却不为未来成功提供归纳保证。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P08-C1",
+        "popper--P08-C2"
+      ],
+      "checkIds": [
+        "popper--P08-Q1",
+        "popper--P08-Q2",
+        "popper--P08-Q3",
+        "popper--P08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-09",
+      "sourceIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "essentialQuestion": "8. Corroboration 不是 confirmation",
+      "initialFocusId": "popper--popper-08-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-09",
+      "order": 9,
+      "title": "9. 没有认识主体的知识论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 没有认识主体的知识论",
+      "coreExplanation": "Popper 区分主观的知晓状态与客观的思想内容：理论、问题和论证一旦公开表达，就可由并非其作者的人检查其关系与后果。\n\n客观知识不是“无人产生的知识”；它强调内容可以超出作者意图，产生作者未预见的逻辑后果与新问题。",
+      "sections": [
+        {
+          "heading": "9. 没有认识主体的知识论",
+          "paragraphs": [
+            "Popper 区分主观的知晓状态与客观的思想内容：理论、问题和论证一旦公开表达，就可由并非其作者的人检查其关系与后果。",
+            "客观知识不是“无人产生的知识”；它强调内容可以超出作者意图，产生作者未预见的逻辑后果与新问题。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P09-C1",
+        "popper--P09-C2"
+      ],
+      "checkIds": [
+        "popper--P09-Q1",
+        "popper--P09-Q2",
+        "popper--P09-Q3",
+        "popper--P09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-10",
+      "sourceIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "essentialQuestion": "9. 没有认识主体的知识论",
+      "initialFocusId": "popper--popper-09-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-10",
+      "order": 10,
+      "title": "10. 三个世界相互作用",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 三个世界相互作用",
+      "coreExplanation": "三个世界分别指物理状态与对象、主观心理状态、以及客观思想内容；这是一种多元本体论区分，不是把现实切成三处互不相干的地点。\n\n一部书作为物理对象属于世界 1，阅读与理解过程涉及世界 2，其中可批评的论证内容属于世界 3；同一实例可显示三者的互动。",
+      "sections": [
+        {
+          "heading": "10. 三个世界相互作用",
+          "paragraphs": [
+            "三个世界分别指物理状态与对象、主观心理状态、以及客观思想内容；这是一种多元本体论区分，不是把现实切成三处互不相干的地点。",
+            "一部书作为物理对象属于世界 1，阅读与理解过程涉及世界 2，其中可批评的论证内容属于世界 3；同一实例可显示三者的互动。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology",
+            "popper--src-ok-objective-mind"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P10-C1",
+        "popper--P10-C2"
+      ],
+      "checkIds": [
+        "popper--P10-Q1",
+        "popper--P10-Q2",
+        "popper--P10-Q3",
+        "popper--P10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-11",
+      "sourceIds": [
+        "popper--src-ok-epistemology",
+        "popper--src-ok-objective-mind"
+      ],
+      "essentialQuestion": "10. 三个世界相互作用",
+      "initialFocusId": "popper--popper-10-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-11",
+      "order": 11,
+      "title": "11. 历史主义：预言的诱惑",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 历史主义：预言的诱惑",
+      "coreExplanation": "Popper 所批评的 historicism 是一种把历史预测视为社会科学主要目标，并相信可发现支配历史演进的节律、模式、规律或趋势的方法论。\n\n批判历史主义不等于否定历史解释或社会科学；Popper 反对的是把条件性解释扩张成对整体历史命运的无条件预言。",
+      "sections": [
+        {
+          "heading": "11. 历史主义：预言的诱惑",
+          "paragraphs": [
+            "Popper 所批评的 historicism 是一种把历史预测视为社会科学主要目标，并相信可发现支配历史演进的节律、模式、规律或趋势的方法论。",
+            "批判历史主义不等于否定历史解释或社会科学；Popper 反对的是把条件性解释扩张成对整体历史命运的无条件预言。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P11-C1",
+        "popper--P11-C2"
+      ],
+      "checkIds": [
+        "popper--P11-Q1",
+        "popper--P11-Q2",
+        "popper--P11-Q3",
+        "popper--P11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-12",
+      "sourceIds": [
+        "popper--src-poverty-intro"
+      ],
+      "essentialQuestion": "11. 历史主义：预言的诱惑",
+      "initialFocusId": "popper--popper-11-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-12",
+      "order": 12,
+      "title": "12. 规律不等于趋势",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 规律不等于趋势",
+      "coreExplanation": "趋势是在特定条件下持续的历史事实，不是无条件的普遍规律；即使延续很久，条件变化也可能迅速逆转它。\n\n因此，条件性预测与历史预言应分开：前者说明在给定条件下会怎样，后者声称整体历史无论干预如何都必然走向某终点。",
+      "sections": [
+        {
+          "heading": "12. 规律不等于趋势",
+          "paragraphs": [
+            "趋势是在特定条件下持续的历史事实，不是无条件的普遍规律；即使延续很久，条件变化也可能迅速逆转它。",
+            "因此，条件性预测与历史预言应分开：前者说明在给定条件下会怎样，后者声称整体历史无论干预如何都必然走向某终点。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-poverty-laws",
+            "popper--src-poverty-intro"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P12-C1",
+        "popper--P12-C2"
+      ],
+      "checkIds": [
+        "popper--P12-Q1",
+        "popper--P12-Q2",
+        "popper--P12-Q3",
+        "popper--P12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-13",
+      "sourceIds": [
+        "popper--src-poverty-laws",
+        "popper--src-poverty-intro"
+      ],
+      "essentialQuestion": "12. 规律不等于趋势",
+      "initialFocusId": "popper--popper-12-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-13",
+      "order": 13,
+      "title": "13. 开放社会是制度问题",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 开放社会是制度问题",
+      "coreExplanation": "Popper 把“谁应统治”改写为制度问题：怎样组织政治制度，使坏的或无能的统治者不能造成过多损害，并能在不流血的情况下被替换。\n\n“开放社会”在此不是现代党派标签或某一政党清单，而是批评、反对、制度纠错和和平更换权力的规范性安排。",
+      "sections": [
+        {
+          "heading": "13. 开放社会是制度问题",
+          "paragraphs": [
+            "Popper 把“谁应统治”改写为制度问题：怎样组织政治制度，使坏的或无能的统治者不能造成过多损害，并能在不流血的情况下被替换。",
+            "“开放社会”在此不是现代党派标签或某一政党清单，而是批评、反对、制度纠错和和平更换权力的规范性安排。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P13-C1",
+        "popper--P13-C2"
+      ],
+      "checkIds": [
+        "popper--P13-Q1",
+        "popper--P13-Q2",
+        "popper--P13-Q3",
+        "popper--P13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-14",
+      "sourceIds": [
+        "popper--src-open-leadership"
+      ],
+      "essentialQuestion": "13. 开放社会是制度问题",
+      "initialFocusId": "popper--popper-13-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-14",
+      "order": 14,
+      "title": "14. 零星社会工程",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 零星社会工程",
+      "coreExplanation": "piecemeal social engineering 从具体弊害和可评价目标着手，设计有限制度改变，观察后果并允许修订；它不是承诺不干预社会。\n\n它与乌托邦工程的差别不只是“步子大小”：乌托邦工程先规定整体终极蓝图，零星方法则优先减少可识别伤害并保留反向纠错。",
+      "sections": [
+        {
+          "heading": "14. 零星社会工程",
+          "paragraphs": [
+            "piecemeal social engineering 从具体弊害和可评价目标着手，设计有限制度改变，观察后果并允许修订；它不是承诺不干预社会。",
+            "它与乌托邦工程的差别不只是“步子大小”：乌托邦工程先规定整体终极蓝图，零星方法则优先减少可识别伤害并保留反向纠错。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P14-C1",
+        "popper--P14-C2"
+      ],
+      "checkIds": [
+        "popper--P14-Q1",
+        "popper--P14-Q2",
+        "popper--P14-Q3",
+        "popper--P14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-15",
+      "sourceIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "essentialQuestion": "14. 零星社会工程",
+      "initialFocusId": "popper--popper-14-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-15",
+      "order": 15,
+      "title": "15. 与 Kuhn：常规科学之争",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 与 Kuhn：常规科学之争",
+      "coreExplanation": "Kuhn 把 normal science 描述为在共享范式下解谜的持续工作；反常通常先成为待解难题，只有在特定条件下才推动危机和革命。\n\nPopper 担心把 normal science 当作理想会训练出不批判的专家；这是真实规范分歧，但不应伪造成 Kuhn 主张科学家永远拒绝反常。",
+      "sections": [
+        {
+          "heading": "15. 与 Kuhn：常规科学之争",
+          "paragraphs": [
+            "Kuhn 把 normal science 描述为在共享范式下解谜的持续工作；反常通常先成为待解难题，只有在特定条件下才推动危机和革命。",
+            "Popper 担心把 normal science 当作理想会训练出不批判的专家；这是真实规范分歧，但不应伪造成 Kuhn 主张科学家永远拒绝反常。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-kuhn-structure",
+            "popper--src-popper-normal-science"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P15-C1",
+        "popper--P15-C2"
+      ],
+      "checkIds": [
+        "popper--P15-Q1",
+        "popper--P15-Q2",
+        "popper--P15-Q3",
+        "popper--P15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "popper--popper-16",
+      "sourceIds": [
+        "popper--src-kuhn-structure",
+        "popper--src-popper-normal-science"
+      ],
+      "essentialQuestion": "15. 与 Kuhn：常规科学之争",
+      "initialFocusId": "popper--popper-15-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "popper--popper-16",
+      "order": 16,
+      "title": "16. 与 Lakatos：研究纲领的修正",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 与 Lakatos：研究纲领的修正",
+      "coreExplanation": "Lakatos 以研究纲领及其进步或退化的问题转换来评价持续的理论序列，批评把 Popper 简化成遇到单一反常就放弃孤立理论的“朴素否证主义”。\n\nKuhn 强调历史共同体与范式转换，Lakatos 追踪研究纲领，Popper 坚持公开批评与风险测试；本路线保留三方差异，不把后继模型倒灌成 Popper 原说。",
+      "sections": [
+        {
+          "heading": "16. 与 Lakatos：研究纲领的修正",
+          "paragraphs": [
+            "Lakatos 以研究纲领及其进步或退化的问题转换来评价持续的理论序列，批评把 Popper 简化成遇到单一反常就放弃孤立理论的“朴素否证主义”。",
+            "Kuhn 强调历史共同体与范式转换，Lakatos 追踪研究纲领，Popper 坚持公开批评与风险测试；本路线保留三方差异，不把后继模型倒灌成 Popper 原说。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "popper--src-lakatos-fmsrp",
+            "popper--src-kuhn-reflections",
+            "popper--src-popper-normal-science",
+            "popper--src-sep-lakatos"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "popper--P16-C1",
+        "popper--P16-C2"
+      ],
+      "checkIds": [
+        "popper--P16-Q1",
+        "popper--P16-Q2",
+        "popper--P16-Q3",
+        "popper--P16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "popper--src-lakatos-fmsrp",
+        "popper--src-kuhn-reflections",
+        "popper--src-popper-normal-science",
+        "popper--src-sep-lakatos"
+      ],
+      "essentialQuestion": "16. 与 Lakatos：研究纲领的修正",
+      "initialFocusId": "popper--popper-16-title",
+      "routeId": "popper-criticism-knowledge-open-society",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "popper--P01-Q1",
+      "kind": "binary",
+      "prompt": "怎样阅读 Popper 的多个论域才不会把一个术语无限扩张？",
+      "targetNodeIds": [
+        "popper--P01-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P01-Q1-1",
+          "text": "按作品与论证场景区分科学方法、知识论和政治哲学",
+          "feedback": "正确项“按作品与论证场景区分科学方法、知识论和政治哲学”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C1"
+          ]
+        },
+        {
+          "id": "popper--P01-Q1-2",
+          "text": "把所有著作都还原成一次实验的判决程序",
+          "feedback": "错误项“把所有著作都还原成一次实验的判决程序”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P01-Q1-1",
+      "misconceptionId": "popper--P01-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "objectNodeIds": [
+        "popper--P01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P01-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "popper--popper-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "popper--P01-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P01-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P01-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C1"
+          ]
+        },
+        {
+          "id": "popper--P01-Q2-2",
+          "text": "保留 modern-interpretation 声部、modern-scholarship 文类与“Popper corpus boundaries”对象。",
+          "feedback": "正确项“保留 modern-interpretation 声部、modern-scholarship 文类与“Popper corpus boundaries”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P01-Q2-2",
+      "misconceptionId": "popper--P01-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "objectNodeIds": [
+        "popper--P01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P01-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "popper--popper-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "popper--P01-Q3",
+      "kind": "binary",
+      "prompt": "这条路线用什么问题贯穿科学与政治部分？",
+      "targetNodeIds": [
+        "popper--P01-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P01-Q3-1",
+          "text": "如何让知识主张和制度持续暴露于批评与修正",
+          "feedback": "正确项“如何让知识主张和制度持续暴露于批评与修正”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C2"
+          ]
+        },
+        {
+          "id": "popper--P01-Q3-2",
+          "text": "如何找到永不出错的理论与统治者",
+          "feedback": "错误项“如何找到永不出错的理论与统治者”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P01-Q3-1",
+      "misconceptionId": "popper--P01-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "objectNodeIds": [
+        "popper--P01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P01-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P01-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P01-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P01-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C2"
+          ]
+        },
+        {
+          "id": "popper--P01-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“bounded route question”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“bounded route question”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-sep-popper"
+          ],
+          "claimNodeIds": [
+            "popper--P01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P01-Q4-2",
+      "misconceptionId": "popper--P01-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-sep-popper"
+      ],
+      "objectNodeIds": [
+        "popper--P01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P01-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P02-Q1",
+      "kind": "binary",
+      "prompt": "为什么更多白天鹅仍不能演绎证明“所有天鹅都是白的”？",
+      "targetNodeIds": [
+        "popper--P02-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P02-Q1-1",
+          "text": "有限观察不能逻辑蕴含无限制普遍命题",
+          "feedback": "正确项“有限观察不能逻辑蕴含无限制普遍命题”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C1"
+          ]
+        },
+        {
+          "id": "popper--P02-Q1-2",
+          "text": "每增加一个个例就把普遍命题变成逻辑真理",
+          "feedback": "错误项“每增加一个个例就把普遍命题变成逻辑真理”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P02-Q1-1",
+      "misconceptionId": "popper--P02-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "objectNodeIds": [
+        "popper--P02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P02-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P02-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-02",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P02-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P02-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P02-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C1"
+          ]
+        },
+        {
+          "id": "popper--P02-Q2-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“logical problem of induction”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“logical problem of induction”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P02-Q2-2",
+      "misconceptionId": "popper--P02-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "objectNodeIds": [
+        "popper--P02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P02-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P02-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-02",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P02-Q3",
+      "kind": "binary",
+      "prompt": "Popper 用什么结构替代归纳证明？",
+      "targetNodeIds": [
+        "popper--P02-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P02-Q3-1",
+          "text": "提出理论并演绎后果，再用批评性测试寻找错误",
+          "feedback": "正确项“提出理论并演绎后果，再用批评性测试寻找错误”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C2"
+          ]
+        },
+        {
+          "id": "popper--P02-Q3-2",
+          "text": "先把观察无理论地累积到理论自然出现",
+          "feedback": "错误项“先把观察无理论地累积到理论自然出现”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P02-Q3-1",
+      "misconceptionId": "popper--P02-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "objectNodeIds": [
+        "popper--P02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P02-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P02-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-02",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P02-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P02-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P02-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C2"
+          ]
+        },
+        {
+          "id": "popper--P02-Q4-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“deductive testing instead of induction”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“deductive testing instead of induction”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-induction"
+          ],
+          "claimNodeIds": [
+            "popper--P02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P02-Q4-2",
+      "misconceptionId": "popper--P02-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-induction"
+      ],
+      "objectNodeIds": [
+        "popper--P02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P02-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P02-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-02",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P03-Q1",
+      "kind": "binary",
+      "prompt": "可证伪性首先回答哪类问题？",
+      "targetNodeIds": [
+        "popper--P03-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P03-Q1-1",
+          "text": "什么样的理论系统属于可经验检验的科学",
+          "feedback": "正确项“什么样的理论系统属于可经验检验的科学”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C1"
+          ]
+        },
+        {
+          "id": "popper--P03-Q1-2",
+          "text": "一句话是否有意义或在政治上可接受",
+          "feedback": "错误项“一句话是否有意义或在政治上可接受”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P03-Q1-1",
+      "misconceptionId": "popper--P03-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation"
+      ],
+      "objectNodeIds": [
+        "popper--P03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P03-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P03-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-03",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P03-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P03-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P03-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C1"
+          ]
+        },
+        {
+          "id": "popper--P03-Q2-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“falsifiability as demarcation”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“falsifiability as demarcation”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P03-Q2-2",
+      "misconceptionId": "popper--P03-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation"
+      ],
+      "objectNodeIds": [
+        "popper--P03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P03-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P03-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-03",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P03-Q3",
+      "kind": "binary",
+      "prompt": "对一个不可证伪但有启发性的形而上学观念，应怎样准确分类？",
+      "targetNodeIds": [
+        "popper--P03-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P03-Q3-1",
+          "text": "它可能有意义，却未满足经验科学的划界要求",
+          "feedback": "正确项“它可能有意义，却未满足经验科学的划界要求”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-metaphysics"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C2"
+          ]
+        },
+        {
+          "id": "popper--P03-Q3-2",
+          "text": "它必然毫无意义且已经被实验判假",
+          "feedback": "错误项“它必然毫无意义且已经被实验判假”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-metaphysics"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P03-Q3-1",
+      "misconceptionId": "popper--P03-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-metaphysics"
+      ],
+      "objectNodeIds": [
+        "popper--P03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P03-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P03-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-03",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P03-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P03-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P03-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-metaphysics"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C2"
+          ]
+        },
+        {
+          "id": "popper--P03-Q4-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“non-science is not nonsense”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“non-science is not nonsense”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-metaphysics"
+          ],
+          "claimNodeIds": [
+            "popper--P03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P03-Q4-2",
+      "misconceptionId": "popper--P03-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-metaphysics"
+      ],
+      "objectNodeIds": [
+        "popper--P03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P03-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P03-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-03",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P04-Q1",
+      "kind": "binary",
+      "prompt": "一次仪器读数与理论冲突时，哪项更符合 Popper 的方法论？",
+      "targetNodeIds": [
+        "popper--P04-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P04-Q1-1",
+          "text": "先审查读数、辅助条件与可重复性，再判断是否接受否证",
+          "feedback": "正确项“先审查读数、辅助条件与可重复性，再判断是否接受否证”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C1"
+          ]
+        },
+        {
+          "id": "popper--P04-Q1-2",
+          "text": "把读数当作不可错的法槌并立即永久删除理论",
+          "feedback": "错误项“把读数当作不可错的法槌并立即永久删除理论”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P04-Q1-1",
+      "misconceptionId": "popper--P04-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P04-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P04-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P04-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P04-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P04-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C1"
+          ]
+        },
+        {
+          "id": "popper--P04-Q2-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“methodological falsification”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“methodological falsification”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P04-Q2-2",
+      "misconceptionId": "popper--P04-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P04-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P04-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P04-Q3",
+      "kind": "binary",
+      "prompt": "“单次实验机械否证”漏掉了哪一层？",
+      "targetNodeIds": [
+        "popper--P04-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P04-Q3-1",
+          "text": "基本陈述、辅助条件与重复检验也可被批评",
+          "feedback": "正确项“基本陈述、辅助条件与重复检验也可被批评”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C2"
+          ]
+        },
+        {
+          "id": "popper--P04-Q3-2",
+          "text": "理论只要流行就永远不应遭受检验",
+          "feedback": "错误项“理论只要流行就永远不应遭受检验”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P04-Q3-1",
+      "misconceptionId": "popper--P04-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P04-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P04-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P04-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P04-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C2"
+          ]
+        },
+        {
+          "id": "popper--P04-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“anti-mechanical-falsification boundary”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“anti-mechanical-falsification boundary”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-demarcation",
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P04-Q4-2",
+      "misconceptionId": "popper--P04-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-demarcation",
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P04-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P05-Q1",
+      "kind": "binary",
+      "prompt": "为什么基本陈述不是不可动摇的经验原子？",
+      "targetNodeIds": [
+        "popper--P05-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P05-Q1-1",
+          "text": "它们要接受主体间检验，且其暂时接受仍可被复查",
+          "feedback": "正确项“它们要接受主体间检验，且其暂时接受仍可被复查”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C1"
+          ]
+        },
+        {
+          "id": "popper--P05-Q1-2",
+          "text": "它们只是研究者私下最强烈的感觉",
+          "feedback": "错误项“它们只是研究者私下最强烈的感觉”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P05-Q1-1",
+      "misconceptionId": "popper--P05-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P05-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P05-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-05",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P05-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P05-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P05-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C1"
+          ]
+        },
+        {
+          "id": "popper--P05-Q2-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“intersubjective basic statements”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“intersubjective basic statements”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P05-Q2-2",
+      "misconceptionId": "popper--P05-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P05-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P05-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-05",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P05-Q3",
+      "kind": "binary",
+      "prompt": "在基本陈述处停止一次测试意味着什么？",
+      "targetNodeIds": [
+        "popper--P05-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P05-Q3-1",
+          "text": "为了当前检验暂时接受一个可复查的落点",
+          "feedback": "正确项“为了当前检验暂时接受一个可复查的落点”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C2"
+          ]
+        },
+        {
+          "id": "popper--P05-Q3-2",
+          "text": "找到了以后任何人都不得质疑的事实基础",
+          "feedback": "错误项“找到了以后任何人都不得质疑的事实基础”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P05-Q3-1",
+      "misconceptionId": "popper--P05-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P05-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P05-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-05",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P05-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P05-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P05-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C2"
+          ]
+        },
+        {
+          "id": "popper--P05-Q4-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“provisional stopping rule”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“provisional stopping rule”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-basic"
+          ],
+          "claimNodeIds": [
+            "popper--P05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P05-Q4-2",
+      "misconceptionId": "popper--P05-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-basic"
+      ],
+      "objectNodeIds": [
+        "popper--P05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P05-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P05-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-05",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P06-Q1",
+      "kind": "binary",
+      "prompt": "什么使一项预测在 Popper 意义上更“冒险”？",
+      "targetNodeIds": [
+        "popper--P06-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P06-Q1-1",
+          "text": "它排除更多可能结果，因而给反驳留下更大空间",
+          "feedback": "正确项“它排除更多可能结果，因而给反驳留下更大空间”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-testability"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C1"
+          ]
+        },
+        {
+          "id": "popper--P06-Q1-2",
+          "text": "它措辞更宽泛，任何结果都可解释成成功",
+          "feedback": "错误项“它措辞更宽泛，任何结果都可解释成成功”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-testability"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P06-Q1-1",
+      "misconceptionId": "popper--P06-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-testability"
+      ],
+      "objectNodeIds": [
+        "popper--P06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P06-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P06-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-06",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P06-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P06-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P06-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-testability"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C1"
+          ]
+        },
+        {
+          "id": "popper--P06-Q2-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“degrees of testability”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“degrees of testability”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-testability"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P06-Q2-2",
+      "misconceptionId": "popper--P06-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-testability"
+      ],
+      "objectNodeIds": [
+        "popper--P06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P06-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P06-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-06",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P06-Q3",
+      "kind": "binary",
+      "prompt": "怎样使用 1919 日食案例而不制造英雄史？",
+      "targetNodeIds": [
+        "popper--P06-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P06-Q3-1",
+          "text": "把它作为有测量条件和不确定性的具体报告来读",
+          "feedback": "正确项“把它作为有测量条件和不确定性的具体报告来读”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-eclipse-report"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C2"
+          ]
+        },
+        {
+          "id": "popper--P06-Q3-2",
+          "text": "把它讲成一次观测永久证明整个理论",
+          "feedback": "错误项“把它讲成一次观测永久证明整个理论”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-eclipse-report"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P06-Q3-1",
+      "misconceptionId": "popper--P06-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-eclipse-report"
+      ],
+      "objectNodeIds": [
+        "popper--P06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P06-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P06-P2"
+      ],
+      "targetVoices": [
+        "historical-case"
+      ],
+      "lessonId": "popper--popper-06",
+      "voice": "historical-case"
+    },
+    {
+      "id": "popper--P06-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P06-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P06-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-eclipse-report"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C2"
+          ]
+        },
+        {
+          "id": "popper--P06-Q4-2",
+          "text": "保留 historical-case 声部、historical-science-report-1920 文类与“1919 eclipse as bounded historical case”对象。",
+          "feedback": "正确项“保留 historical-case 声部、historical-science-report-1920 文类与“1919 eclipse as bounded historical case”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-eclipse-report"
+          ],
+          "claimNodeIds": [
+            "popper--P06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P06-Q4-2",
+      "misconceptionId": "popper--P06-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-eclipse-report"
+      ],
+      "objectNodeIds": [
+        "popper--P06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P06-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P06-P2"
+      ],
+      "targetVoices": [
+        "historical-case"
+      ],
+      "lessonId": "popper--popper-06",
+      "voice": "historical-case"
+    },
+    {
+      "id": "popper--P07-Q1",
+      "kind": "binary",
+      "prompt": "“猜想与反驳”的次序怎样安排观察？",
+      "targetNodeIds": [
+        "popper--P07-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P07-Q1-1",
+          "text": "观察围绕问题和理论后果参与批评性测试",
+          "feedback": "正确项“观察围绕问题和理论后果参与批评性测试”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C1"
+          ]
+        },
+        {
+          "id": "popper--P07-Q1-2",
+          "text": "观察先完全脱离问题累积，理论才自动浮现",
+          "feedback": "错误项“观察先完全脱离问题累积，理论才自动浮现”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P07-Q1-1",
+      "misconceptionId": "popper--P07-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "objectNodeIds": [
+        "popper--P07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P07-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P07-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-07",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P07-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P07-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P07-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C1"
+          ]
+        },
+        {
+          "id": "popper--P07-Q2-2",
+          "text": "保留 popper-primary 声部、essay-collection-1963 文类与“conjectures and refutations cycle”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、essay-collection-1963 文类与“conjectures and refutations cycle”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P07-Q2-2",
+      "misconceptionId": "popper--P07-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "objectNodeIds": [
+        "popper--P07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P07-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P07-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-07",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P07-Q3",
+      "kind": "binary",
+      "prompt": "一个猜想通过当前严厉测试后获得什么地位？",
+      "targetNodeIds": [
+        "popper--P07-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P07-Q3-1",
+          "text": "暂时保留，等待新的批评或更好解释",
+          "feedback": "正确项“暂时保留，等待新的批评或更好解释”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C2"
+          ]
+        },
+        {
+          "id": "popper--P07-Q3-2",
+          "text": "被证明为永远正确的最终知识",
+          "feedback": "错误项“被证明为永远正确的最终知识”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P07-Q3-1",
+      "misconceptionId": "popper--P07-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "objectNodeIds": [
+        "popper--P07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P07-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P07-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-07",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P07-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P07-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P07-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C2"
+          ]
+        },
+        {
+          "id": "popper--P07-Q4-2",
+          "text": "保留 popper-primary 声部、essay-collection-1963 文类与“fallibilist retention”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、essay-collection-1963 文类与“fallibilist retention”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-cr-science"
+          ],
+          "claimNodeIds": [
+            "popper--P07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P07-Q4-2",
+      "misconceptionId": "popper--P07-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-cr-science"
+      ],
+      "objectNodeIds": [
+        "popper--P07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P07-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P07-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-07",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P08-Q1",
+      "kind": "binary",
+      "prompt": "“高度 corroborated”最准确地表示什么？",
+      "targetNodeIds": [
+        "popper--P08-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P08-Q1-1",
+          "text": "理论在既往严厉测试中的表现较强",
+          "feedback": "正确项“理论在既往严厉测试中的表现较强”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C1"
+          ]
+        },
+        {
+          "id": "popper--P08-Q1-2",
+          "text": "理论的真概率已由成功次数证明很高",
+          "feedback": "错误项“理论的真概率已由成功次数证明很高”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P08-Q1-1",
+      "misconceptionId": "popper--P08-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "objectNodeIds": [
+        "popper--P08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P08-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P08-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-08",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P08-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P08-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P08-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C1"
+          ]
+        },
+        {
+          "id": "popper--P08-Q2-2",
+          "text": "保留 popper-primary 声部、science-monograph-1959 文类与“corroboration as test record”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、science-monograph-1959 文类与“corroboration as test record”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P08-Q2-2",
+      "misconceptionId": "popper--P08-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "objectNodeIds": [
+        "popper--P08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P08-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P08-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-08",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P08-Q3",
+      "kind": "binary",
+      "prompt": "为什么本路线不把 corroboration 直接写成“确认”？",
+      "targetNodeIds": [
+        "popper--P08-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P08-Q3-1",
+          "text": "它评价既往测试表现，不提供未来为真的归纳概率",
+          "feedback": "正确项“它评价既往测试表现，不提供未来为真的归纳概率”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C2"
+          ]
+        },
+        {
+          "id": "popper--P08-Q3-2",
+          "text": "两个词拼写不同，但在逻辑上都表示最终证明",
+          "feedback": "错误项“两个词拼写不同，但在逻辑上都表示最终证明”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P08-Q3-1",
+      "misconceptionId": "popper--P08-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "objectNodeIds": [
+        "popper--P08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P08-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P08-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P08-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P08-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C2"
+          ]
+        },
+        {
+          "id": "popper--P08-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“corroboration-not-confirmation boundary”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“corroboration-not-confirmation boundary”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lsd-corroboration"
+          ],
+          "claimNodeIds": [
+            "popper--P08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P08-Q4-2",
+      "misconceptionId": "popper--P08-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lsd-corroboration"
+      ],
+      "objectNodeIds": [
+        "popper--P08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P08-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P09-Q1",
+      "kind": "binary",
+      "prompt": "“没有认识主体的知识论”主要研究什么？",
+      "targetNodeIds": [
+        "popper--P09-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P09-Q1-1",
+          "text": "可公开批评的理论、问题与论证内容",
+          "feedback": "正确项“可公开批评的理论、问题与论证内容”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C1"
+          ]
+        },
+        {
+          "id": "popper--P09-Q1-2",
+          "text": "把所有心理经验从知识活动中彻底消灭",
+          "feedback": "错误项“把所有心理经验从知识活动中彻底消灭”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P09-Q1-1",
+      "misconceptionId": "popper--P09-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "objectNodeIds": [
+        "popper--P09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P09-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P09-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-09",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P09-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P09-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P09-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C1"
+          ]
+        },
+        {
+          "id": "popper--P09-Q2-2",
+          "text": "保留 popper-primary 声部、essay-collection-1972 文类与“objective contents of thought”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、essay-collection-1972 文类与“objective contents of thought”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P09-Q2-2",
+      "misconceptionId": "popper--P09-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "objectNodeIds": [
+        "popper--P09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P09-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P09-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-09",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P09-Q3",
+      "kind": "binary",
+      "prompt": "世界 3 内容的相对自主性意味着什么？",
+      "targetNodeIds": [
+        "popper--P09-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P09-Q3-1",
+          "text": "公开理论可能含有作者未察觉的后果",
+          "feedback": "正确项“公开理论可能含有作者未察觉的后果”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C2"
+          ]
+        },
+        {
+          "id": "popper--P09-Q3-2",
+          "text": "理论从不由人创造，也不通过物质载体存在",
+          "feedback": "错误项“理论从不由人创造，也不通过物质载体存在”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P09-Q3-1",
+      "misconceptionId": "popper--P09-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "objectNodeIds": [
+        "popper--P09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P09-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P09-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-09",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P09-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P09-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P09-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C2"
+          ]
+        },
+        {
+          "id": "popper--P09-Q4-2",
+          "text": "保留 popper-primary 声部、essay-collection-1972 文类与“autonomy without authorlessness”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、essay-collection-1972 文类与“autonomy without authorlessness”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology"
+          ],
+          "claimNodeIds": [
+            "popper--P09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P09-Q4-2",
+      "misconceptionId": "popper--P09-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology"
+      ],
+      "objectNodeIds": [
+        "popper--P09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P09-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P09-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-09",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P10-Q1",
+      "kind": "binary",
+      "prompt": "怎样避免把“三个世界”误画成三座孤岛？",
+      "targetNodeIds": [
+        "popper--P10-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P10-Q1-1",
+          "text": "把它们理解为可区分但会相互作用的领域",
+          "feedback": "正确项“把它们理解为可区分但会相互作用的领域”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology",
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C1"
+          ]
+        },
+        {
+          "id": "popper--P10-Q1-2",
+          "text": "认为每个世界都因定义而无法影响另外两个",
+          "feedback": "错误项“认为每个世界都因定义而无法影响另外两个”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology",
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P10-Q1-1",
+      "misconceptionId": "popper--P10-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology",
+        "popper--src-ok-objective-mind"
+      ],
+      "objectNodeIds": [
+        "popper--P10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P10-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P10-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P10-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P10-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P10-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology",
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C1"
+          ]
+        },
+        {
+          "id": "popper--P10-Q2-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“three-world distinction”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“three-world distinction”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-epistemology",
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P10-Q2-2",
+      "misconceptionId": "popper--P10-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-epistemology",
+        "popper--src-ok-objective-mind"
+      ],
+      "objectNodeIds": [
+        "popper--P10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P10-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P10-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P10-Q3",
+      "kind": "binary",
+      "prompt": "一本理论著作如何显示三个世界的互动？",
+      "targetNodeIds": [
+        "popper--P10-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P10-Q3-1",
+          "text": "物质载体、理解活动和论证内容各属不同层面并发生联系",
+          "feedback": "正确项“物质载体、理解活动和论证内容各属不同层面并发生联系”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C2"
+          ]
+        },
+        {
+          "id": "popper--P10-Q3-2",
+          "text": "书只属于世界 3，因为纸张和阅读者都不重要",
+          "feedback": "错误项“书只属于世界 3，因为纸张和阅读者都不重要”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P10-Q3-1",
+      "misconceptionId": "popper--P10-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-objective-mind"
+      ],
+      "objectNodeIds": [
+        "popper--P10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P10-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P10-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-10",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P10-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P10-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P10-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C2"
+          ]
+        },
+        {
+          "id": "popper--P10-Q4-2",
+          "text": "保留 popper-primary 声部、essay-collection-1972 文类与“book example of interaction”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、essay-collection-1972 文类与“book example of interaction”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-ok-objective-mind"
+          ],
+          "claimNodeIds": [
+            "popper--P10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P10-Q4-2",
+      "misconceptionId": "popper--P10-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-ok-objective-mind"
+      ],
+      "objectNodeIds": [
+        "popper--P10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P10-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P10-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-10",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P11-Q1",
+      "kind": "binary",
+      "prompt": "什么使一种历史研究成为 Popper 特定意义上的 historicism？",
+      "targetNodeIds": [
+        "popper--P11-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P11-Q1-1",
+          "text": "它以发现历史演进规律来作长期预言为主要目标",
+          "feedback": "正确项“它以发现历史演进规律来作长期预言为主要目标”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C1"
+          ]
+        },
+        {
+          "id": "popper--P11-Q1-2",
+          "text": "它仅仅认真研究过去发生过的事件",
+          "feedback": "错误项“它仅仅认真研究过去发生过的事件”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P11-Q1-1",
+      "misconceptionId": "popper--P11-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "objectNodeIds": [
+        "popper--P11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P11-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P11-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-11",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P11-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P11-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P11-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C1"
+          ]
+        },
+        {
+          "id": "popper--P11-Q2-2",
+          "text": "保留 popper-primary 声部、social-science-monograph-1957 文类与“definition of historicism”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、social-science-monograph-1957 文类与“definition of historicism”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P11-Q2-2",
+      "misconceptionId": "popper--P11-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "objectNodeIds": [
+        "popper--P11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P11-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P11-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-11",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P11-Q3",
+      "kind": "binary",
+      "prompt": "Popper 的批评是否把所有历史研究都判为无效？",
+      "targetNodeIds": [
+        "popper--P11-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P11-Q3-1",
+          "text": "不是；目标是整体历史命运的规律性预言",
+          "feedback": "正确项“不是；目标是整体历史命运的规律性预言”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C2"
+          ]
+        },
+        {
+          "id": "popper--P11-Q3-2",
+          "text": "是；任何关于过去的因果解释都不可能有知识价值",
+          "feedback": "错误项“是；任何关于过去的因果解释都不可能有知识价值”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P11-Q3-1",
+      "misconceptionId": "popper--P11-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "objectNodeIds": [
+        "popper--P11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P11-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P11-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-11",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P11-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P11-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P11-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C2"
+          ]
+        },
+        {
+          "id": "popper--P11-Q4-2",
+          "text": "保留 popper-primary 声部、social-science-monograph-1957 文类与“historicism-not-history boundary”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、social-science-monograph-1957 文类与“historicism-not-history boundary”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro"
+          ],
+          "claimNodeIds": [
+            "popper--P11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P11-Q4-2",
+      "misconceptionId": "popper--P11-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro"
+      ],
+      "objectNodeIds": [
+        "popper--P11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P11-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P11-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-11",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P12-Q1",
+      "kind": "binary",
+      "prompt": "为什么长期人口增长趋势不能单独充当历史规律？",
+      "targetNodeIds": [
+        "popper--P12-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P12-Q1-1",
+          "text": "趋势依赖具体条件，不能仅凭延续时间获得普遍必然性",
+          "feedback": "正确项“趋势依赖具体条件，不能仅凭延续时间获得普遍必然性”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C1"
+          ]
+        },
+        {
+          "id": "popper--P12-Q1-2",
+          "text": "只要超过一百年，趋势就自动变成自然定律",
+          "feedback": "错误项“只要超过一百年，趋势就自动变成自然定律”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P12-Q1-1",
+      "misconceptionId": "popper--P12-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-laws"
+      ],
+      "objectNodeIds": [
+        "popper--P12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P12-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P12-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-12",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P12-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P12-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P12-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C1"
+          ]
+        },
+        {
+          "id": "popper--P12-Q2-2",
+          "text": "保留 popper-primary 声部、social-science-monograph-1957 文类与“laws versus trends”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、social-science-monograph-1957 文类与“laws versus trends”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P12-Q2-2",
+      "misconceptionId": "popper--P12-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-laws"
+      ],
+      "objectNodeIds": [
+        "popper--P12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P12-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P12-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-12",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P12-Q3",
+      "kind": "binary",
+      "prompt": "哪项是条件性预测而不是历史预言？",
+      "targetNodeIds": [
+        "popper--P12-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P12-Q3-1",
+          "text": "若制度条件保持不变，某政策可能产生可检验后果",
+          "feedback": "正确项“若制度条件保持不变，某政策可能产生可检验后果”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro",
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C2"
+          ]
+        },
+        {
+          "id": "popper--P12-Q3-2",
+          "text": "无论人们怎样行动，历史都必然抵达预定终点",
+          "feedback": "错误项“无论人们怎样行动，历史都必然抵达预定终点”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro",
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P12-Q3-1",
+      "misconceptionId": "popper--P12-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro",
+        "popper--src-poverty-laws"
+      ],
+      "objectNodeIds": [
+        "popper--P12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P12-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P12-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P12-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P12-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P12-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro",
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C2"
+          ]
+        },
+        {
+          "id": "popper--P12-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“conditional prediction versus prophecy”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“conditional prediction versus prophecy”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-intro",
+            "popper--src-poverty-laws"
+          ],
+          "claimNodeIds": [
+            "popper--P12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P12-Q4-2",
+      "misconceptionId": "popper--P12-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-intro",
+        "popper--src-poverty-laws"
+      ],
+      "objectNodeIds": [
+        "popper--P12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P12-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P12-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P13-Q1",
+      "kind": "binary",
+      "prompt": "开放社会的政治问题为何不以寻找完美领袖为中心？",
+      "targetNodeIds": [
+        "popper--P13-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P13-Q1-1",
+          "text": "制度应能限制并和平更换可能犯错的统治者",
+          "feedback": "正确项“制度应能限制并和平更换可能犯错的统治者”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C1"
+          ]
+        },
+        {
+          "id": "popper--P13-Q1-2",
+          "text": "只要领袖自称理性，制度制衡就会妨碍真理",
+          "feedback": "错误项“只要领袖自称理性，制度制衡就会妨碍真理”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P13-Q1-1",
+      "misconceptionId": "popper--P13-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "objectNodeIds": [
+        "popper--P13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P13-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P13-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-13",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P13-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P13-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P13-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C1"
+          ]
+        },
+        {
+          "id": "popper--P13-Q2-2",
+          "text": "保留 popper-primary 声部、political-philosophy-1945 文类与“institutional control of rulers”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、political-philosophy-1945 文类与“institutional control of rulers”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P13-Q2-2",
+      "misconceptionId": "popper--P13-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "objectNodeIds": [
+        "popper--P13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P13-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P13-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-13",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P13-Q3",
+      "kind": "binary",
+      "prompt": "如何避免把开放社会党派化？",
+      "targetNodeIds": [
+        "popper--P13-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P13-Q3-1",
+          "text": "用制度能否容纳批评与和平纠错来判断",
+          "feedback": "正确项“用制度能否容纳批评与和平纠错来判断”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C2"
+          ]
+        },
+        {
+          "id": "popper--P13-Q3-2",
+          "text": "把当前支持某一党派直接定义为开放",
+          "feedback": "错误项“把当前支持某一党派直接定义为开放”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P13-Q3-1",
+      "misconceptionId": "popper--P13-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "objectNodeIds": [
+        "popper--P13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P13-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P13-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P13-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P13-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C2"
+          ]
+        },
+        {
+          "id": "popper--P13-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“open-society-not-party-label”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“open-society-not-party-label”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-open-leadership"
+          ],
+          "claimNodeIds": [
+            "popper--P13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P13-Q4-2",
+      "misconceptionId": "popper--P13-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-open-leadership"
+      ],
+      "objectNodeIds": [
+        "popper--P13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P13-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P14-Q1",
+      "kind": "binary",
+      "prompt": "零星社会工程与放任不管有何区别？",
+      "targetNodeIds": [
+        "popper--P14-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P14-Q1-1",
+          "text": "前者主动处理具体问题，但把干预设计成可检验可修订",
+          "feedback": "正确项“前者主动处理具体问题，但把干预设计成可检验可修订”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C1"
+          ]
+        },
+        {
+          "id": "popper--P14-Q1-2",
+          "text": "两者都拒绝任何公共政策或制度改变",
+          "feedback": "错误项“两者都拒绝任何公共政策或制度改变”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P14-Q1-1",
+      "misconceptionId": "popper--P14-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "objectNodeIds": [
+        "popper--P14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P14-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P14-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-14",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P14-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P14-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P14-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C1"
+          ]
+        },
+        {
+          "id": "popper--P14-Q2-2",
+          "text": "保留 popper-primary 声部、social-science-monograph-1957 文类与“piecemeal social engineering”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、social-science-monograph-1957 文类与“piecemeal social engineering”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P14-Q2-2",
+      "misconceptionId": "popper--P14-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "objectNodeIds": [
+        "popper--P14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P14-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P14-P1"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-14",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P14-Q3",
+      "kind": "binary",
+      "prompt": "区分零星与乌托邦工程的关键是什么？",
+      "targetNodeIds": [
+        "popper--P14-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P14-Q3-1",
+          "text": "是否以可修订的具体问题替代不可逆的整体终局蓝图",
+          "feedback": "正确项“是否以可修订的具体问题替代不可逆的整体终局蓝图”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C2"
+          ]
+        },
+        {
+          "id": "popper--P14-Q3-2",
+          "text": "是否所有改革都只能改变很小的预算数额",
+          "feedback": "错误项“是否所有改革都只能改变很小的预算数额”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P14-Q3-1",
+      "misconceptionId": "popper--P14-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "objectNodeIds": [
+        "popper--P14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P14-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P14-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-14",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P14-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P14-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P14-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C2"
+          ]
+        },
+        {
+          "id": "popper--P14-Q4-2",
+          "text": "保留 popper-primary 声部、social-science-monograph-1957 文类与“piecemeal versus utopian”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、social-science-monograph-1957 文类与“piecemeal versus utopian”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-poverty-engineering"
+          ],
+          "claimNodeIds": [
+            "popper--P14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P14-Q4-2",
+      "misconceptionId": "popper--P14-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-poverty-engineering"
+      ],
+      "objectNodeIds": [
+        "popper--P14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P14-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P14-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-14",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P15-Q1",
+      "kind": "binary",
+      "prompt": "在 Kuhn 的叙述中，反常通常首先是什么？",
+      "targetNodeIds": [
+        "popper--P15-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P15-Q1-1",
+          "text": "既有范式内需要继续处理的难题",
+          "feedback": "正确项“既有范式内需要继续处理的难题”符合本课 claim 的对象与声部；1970 second edition enlarged 的 claim-specific locator 仍为 pending，不能宣称已由页级 locator 闭包。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-structure"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C1"
+          ]
+        },
+        {
+          "id": "popper--P15-Q1-2",
+          "text": "对范式立即且自动生效的逻辑死刑",
+          "feedback": "错误项“对范式立即且自动生效的逻辑死刑”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-structure"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P15-Q1-1",
+      "misconceptionId": "popper--P15-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-structure"
+      ],
+      "objectNodeIds": [
+        "popper--P15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P15-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P15-P1"
+      ],
+      "targetVoices": [
+        "kuhn-position"
+      ],
+      "lessonId": "popper--popper-15",
+      "voice": "kuhn-position"
+    },
+    {
+      "id": "popper--P15-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P15-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P15-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-structure"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C1"
+          ]
+        },
+        {
+          "id": "popper--P15-Q2-2",
+          "text": "保留 kuhn-position 声部、history-philosophy-monograph-1970 文类与“Kuhn on normal science”对象。",
+          "feedback": "正确项“保留 kuhn-position 声部、history-philosophy-monograph-1970 文类与“Kuhn on normal science”对象。”符合本课 claim 的对象与声部；1970 second edition enlarged 的 claim-specific locator 仍为 pending，不能宣称已由页级 locator 闭包。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-structure"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P15-Q2-2",
+      "misconceptionId": "popper--P15-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-structure"
+      ],
+      "objectNodeIds": [
+        "popper--P15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P15-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P15-P1"
+      ],
+      "targetVoices": [
+        "kuhn-position"
+      ],
+      "lessonId": "popper--popper-15",
+      "voice": "kuhn-position"
+    },
+    {
+      "id": "popper--P15-Q3",
+      "kind": "binary",
+      "prompt": "Popper 对 normal science 的核心担忧是什么？",
+      "targetNodeIds": [
+        "popper--P15-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P15-Q3-1",
+          "text": "把范式内服从常态化会削弱持续批评",
+          "feedback": "正确项“把范式内服从常态化会削弱持续批评”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-popper-normal-science"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C2"
+          ]
+        },
+        {
+          "id": "popper--P15-Q3-2",
+          "text": "Kuhn 从未承认科学史中存在反常与革命",
+          "feedback": "错误项“Kuhn 从未承认科学史中存在反常与革命”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-popper-normal-science"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P15-Q3-1",
+      "misconceptionId": "popper--P15-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-popper-normal-science"
+      ],
+      "objectNodeIds": [
+        "popper--P15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P15-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P15-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-15",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P15-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P15-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P15-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-popper-normal-science"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C2"
+          ]
+        },
+        {
+          "id": "popper--P15-Q4-2",
+          "text": "保留 popper-primary 声部、conference-paper-1970 文类与“Popper critique of normal science”对象。",
+          "feedback": "正确项“保留 popper-primary 声部、conference-paper-1970 文类与“Popper critique of normal science”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-popper-normal-science"
+          ],
+          "claimNodeIds": [
+            "popper--P15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P15-Q4-2",
+      "misconceptionId": "popper--P15-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-popper-normal-science"
+      ],
+      "objectNodeIds": [
+        "popper--P15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P15-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P15-P2"
+      ],
+      "targetVoices": [
+        "popper-primary"
+      ],
+      "lessonId": "popper--popper-15",
+      "voice": "popper-primary"
+    },
+    {
+      "id": "popper--P16-Q1",
+      "kind": "binary",
+      "prompt": "Lakatos 的修正把评价单位移向哪里？",
+      "targetNodeIds": [
+        "popper--P16-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P16-Q1-1",
+          "text": "一段时间中的研究纲领及其问题转换",
+          "feedback": "正确项“一段时间中的研究纲领及其问题转换”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lakatos-fmsrp"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C1"
+          ]
+        },
+        {
+          "id": "popper--P16-Q1-2",
+          "text": "一次实验中的单个句子且不考虑理论发展",
+          "feedback": "错误项“一次实验中的单个句子且不考虑理论发展”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lakatos-fmsrp"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P16-Q1-1",
+      "misconceptionId": "popper--P16-Q1-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lakatos-fmsrp"
+      ],
+      "objectNodeIds": [
+        "popper--P16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P16-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P16-P1"
+      ],
+      "targetVoices": [
+        "lakatos-critique"
+      ],
+      "lessonId": "popper--popper-16",
+      "voice": "lakatos-critique"
+    },
+    {
+      "id": "popper--P16-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P16-C1"
+      ],
+      "options": [
+        {
+          "id": "popper--P16-Q2-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-lakatos-fmsrp"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C1"
+          ]
+        },
+        {
+          "id": "popper--P16-Q2-2",
+          "text": "保留 lakatos-critique 声部、successor-methodology-1970 文类与“Lakatos research-programme criticism”对象。",
+          "feedback": "正确项“保留 lakatos-critique 声部、successor-methodology-1970 文类与“Lakatos research-programme criticism”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-lakatos-fmsrp"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P16-Q2-2",
+      "misconceptionId": "popper--P16-Q2-misconception",
+      "evidenceLinkIds": [
+        "popper--src-lakatos-fmsrp"
+      ],
+      "objectNodeIds": [
+        "popper--P16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P16-C1"
+      ],
+      "targetParagraphIds": [
+        "popper--P16-P1"
+      ],
+      "targetVoices": [
+        "lakatos-critique"
+      ],
+      "lessonId": "popper--popper-16",
+      "voice": "lakatos-critique"
+    },
+    {
+      "id": "popper--P16-Q3",
+      "kind": "binary",
+      "prompt": "三方比较的正确做法是什么？",
+      "targetNodeIds": [
+        "popper--P16-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P16-Q3-1",
+          "text": "分别标明各自问题、评价单位与规范主张",
+          "feedback": "正确项“分别标明各自问题、评价单位与规范主张”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-reflections",
+            "popper--src-popper-normal-science",
+            "popper--src-sep-lakatos"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C2"
+          ]
+        },
+        {
+          "id": "popper--P16-Q3-2",
+          "text": "把研究纲领、范式和可证伪性说成 Popper 的三个同义词",
+          "feedback": "错误项“把研究纲领、范式和可证伪性说成 Popper 的三个同义词”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-reflections",
+            "popper--src-popper-normal-science",
+            "popper--src-sep-lakatos"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P16-Q3-1",
+      "misconceptionId": "popper--P16-Q3-misconception",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-reflections",
+        "popper--src-popper-normal-science",
+        "popper--src-sep-lakatos"
+      ],
+      "objectNodeIds": [
+        "popper--P16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P16-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "popper--P16-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "popper--P16-C2"
+      ],
+      "options": [
+        {
+          "id": "popper--P16-Q4-1",
+          "text": "取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。",
+          "feedback": "错误项“取消声部区分，把其他作者、历史案例或路线综合都当作 Popper 原话。”越过或混淆了本课 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-reflections",
+            "popper--src-popper-normal-science",
+            "popper--src-sep-lakatos"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C2"
+          ]
+        },
+        {
+          "id": "popper--P16-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与“Popper Kuhn Lakatos bounded comparison”对象。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与“Popper Kuhn Lakatos bounded comparison”对象。”由本课 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "popper--src-kuhn-reflections",
+            "popper--src-popper-normal-science",
+            "popper--src-sep-lakatos"
+          ],
+          "claimNodeIds": [
+            "popper--P16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "popper--P16-Q4-2",
+      "misconceptionId": "popper--P16-Q4-misconception",
+      "evidenceLinkIds": [
+        "popper--src-kuhn-reflections",
+        "popper--src-popper-normal-science",
+        "popper--src-sep-lakatos"
+      ],
+      "objectNodeIds": [
+        "popper--P16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "popper--P16-C2"
+      ],
+      "targetParagraphIds": [
+        "popper--P16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "popper--popper-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

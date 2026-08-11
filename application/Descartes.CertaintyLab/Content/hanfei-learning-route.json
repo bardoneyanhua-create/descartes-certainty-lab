@@ -1,0 +1,4080 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "text-voices-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "一、谁在《韩非子》中说话",
+      "explanation": "paragraph-ref:hanfei-01-p01",
+      "identity": "传世篇章声音；司马迁的汉代传记；现代文本研究",
+      "evidenceLinkIds": [
+        "hf-shiji-63",
+        "hf-chu-jian",
+        "hf-cun-han"
+      ],
+      "abilityIds": [
+        "understand-text-voices"
+      ]
+    },
+    {
+      "id": "historical-change-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "二、变古为何成为弱国生存问题",
+      "explanation": "paragraph-ref:hanfei-02-p01",
+      "identity": "《五蠹》《心度》等政治论说；守株寓言角色；现代适应性重构",
+      "evidenceLinkIds": [
+        "hf-wudu-change",
+        "hf-xindu",
+        "hf-wangzheng"
+      ],
+      "abilityIds": [
+        "understand-historical-change"
+      ]
+    },
+    {
+      "id": "interest-model-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "三、制度为何从趋利避害而非圣贤开始",
+      "explanation": "paragraph-ref:hanfei-03-p01",
+      "identity": "《五蠹》《六反》的论说声音；现代激励类比",
+      "evidenceLinkIds": [
+        "hf-wudu-interest",
+        "hf-liufan",
+        "hf-bajing-interest"
+      ],
+      "abilityIds": [
+        "understand-interest-model"
+      ]
+    },
+    {
+      "id": "public-standards-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "四、法是公开尺度，不是现代法治",
+      "explanation": "paragraph-ref:hanfei-04-p01",
+      "identity": "《有度》《定法》等论说；商鞅前驱；现代法治比较",
+      "evidenceLinkIds": [
+        "hf-youdu",
+        "hf-dingfa-fa",
+        "hf-zhifen"
+      ],
+      "abilityIds": [
+        "understand-public-standards"
+      ]
+    },
+    {
+      "id": "two-handles-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "五、赏罚二柄怎样制造可信预期",
+      "explanation": "paragraph-ref:hanfei-05-p01",
+      "identity": "《二柄》《八经》的论说声音；现代威慑比较",
+      "evidenceLinkIds": [
+        "hf-erbing",
+        "hf-bajing-handles",
+        "hf-shixie"
+      ],
+      "abilityIds": [
+        "understand-two-handles"
+      ]
+    },
+    {
+      "id": "administrative-technique-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "六、术为何不能公开成一部官僚手册",
+      "explanation": "paragraph-ref:hanfei-06-p01",
+      "identity": "《主道》《用人》《定法》；申不害前驱声部",
+      "evidenceLinkIds": [
+        "hf-zhudao-shu",
+        "hf-yongren",
+        "hf-dingfa-shu"
+      ],
+      "abilityIds": [
+        "understand-administrative-technique"
+      ]
+    },
+    {
+      "id": "names-performance-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "七、从名到实为何不是一句绩效考核",
+      "explanation": "paragraph-ref:hanfei-07-p01",
+      "identity": "《二柄》《观行》《功名》《难一》中的名实论",
+      "evidenceLinkIds": [
+        "hf-erbing-xingming",
+        "hf-guanxing",
+        "hf-nanyi"
+      ],
+      "abilityIds": [
+        "understand-names-performance"
+      ]
+    },
+    {
+      "id": "positional-power-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "八、势如何让中等君主也能统治",
+      "explanation": "paragraph-ref:hanfei-08-p01",
+      "identity": "《难势》《功名》《人主》；慎到前驱声部",
+      "evidenceLinkIds": [
+        "hf-nanshi",
+        "hf-gongming",
+        "hf-renzhu"
+      ],
+      "abilityIds": [
+        "understand-positional-power"
+      ]
+    },
+    {
+      "id": "ruler-nonaction-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "九、君主无为为何是一种控制技术",
+      "explanation": "paragraph-ref:hanfei-09-p01",
+      "identity": "《主道》《扬权》《大体》《解老》的不同声音",
+      "evidenceLinkIds": [
+        "hf-zhudao-wuwei",
+        "hf-yangquan",
+        "hf-dati"
+      ],
+      "abilityIds": [
+        "understand-ruler-nonaction"
+      ]
+    },
+    {
+      "id": "ministerial-conflict-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十、防奸为何会制造君主自己的盲区",
+      "explanation": "paragraph-ref:hanfei-10-p01",
+      "identity": "《爱臣》《八奸》《奸劫弑臣》《三守》的反臣话语",
+      "evidenceLinkIds": [
+        "hf-aichen",
+        "hf-bajian",
+        "hf-sanshou"
+      ],
+      "abilityIds": [
+        "understand-ministerial-conflict"
+      ]
+    },
+    {
+      "id": "persuasion-risk-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十一、知道真相为何仍不能安全地说服君主",
+      "explanation": "paragraph-ref:hanfei-11-p01",
+      "identity": "《难言》《说难》《孤愤》的说客与孤臣声音",
+      "evidenceLinkIds": [
+        "hf-nanyan",
+        "hf-shuinan",
+        "hf-gufen"
+      ],
+      "abilityIds": [
+        "understand-persuasion-risk"
+      ]
+    },
+    {
+      "id": "agriculture-war-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十二、农战秩序怎样把社会变成国家能力",
+      "explanation": "paragraph-ref:hanfei-12-p01",
+      "identity": "《五蠹》《诡使》《六反》《饬令》的国家动员声音",
+      "evidenceLinkIds": [
+        "hf-wudu-farming",
+        "hf-guishi",
+        "hf-chiling"
+      ],
+      "abilityIds": [
+        "understand-agriculture-war"
+      ]
+    },
+    {
+      "id": "prominent-teachings-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十三、显学与古代权威为何不能裁定当下",
+      "explanation": "paragraph-ref:hanfei-13-p01",
+      "identity": "《显学》《五蠹》《问辩》《和氏》中的批判声音",
+      "evidenceLinkIds": [
+        "hf-xianxue",
+        "hf-wenbian",
+        "hf-heshi"
+      ],
+      "abilityIds": [
+        "understand-prominent-teachings"
+      ]
+    },
+    {
+      "id": "family-gender-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十四、忠孝、私门与内廷怀疑的代价",
+      "explanation": "paragraph-ref:hanfei-14-p01",
+      "identity": "《忠孝》《备内》《八奸》《六反》的家庭政治声音",
+      "evidenceLinkIds": [
+        "hf-zhongxiao",
+        "hf-beinei",
+        "hf-bajian-family"
+      ],
+      "abilityIds": [
+        "understand-family-gender"
+      ]
+    },
+    {
+      "id": "scarcity-population-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十五、人口、稀缺与利益竞争能解释多少",
+      "explanation": "paragraph-ref:hanfei-15-p01",
+      "identity": "《五蠹》《六反》《心度》的政治经济观察",
+      "evidenceLinkIds": [
+        "hf-wudu-pop",
+        "hf-liufan-econ",
+        "hf-xindu-econ"
+      ],
+      "abilityIds": [
+        "understand-scarcity-population"
+      ]
+    },
+    {
+      "id": "case-reasoning-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十六、寓言和储说怎样承担证据功能",
+      "explanation": "paragraph-ref:hanfei-16-p01",
+      "identity": "内外储说、说林、难篇的编纂与案例声音",
+      "evidenceLinkIds": [
+        "hf-neichu",
+        "hf-waichu",
+        "hf-nanyi-spear"
+      ],
+      "abilityIds": [
+        "understand-case-reasoning"
+      ]
+    },
+    {
+      "id": "laozi-layer-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十七、老子的道如何进入君主技术",
+      "explanation": "paragraph-ref:hanfei-17-p01",
+      "identity": "《解老》《喻老》解释声音；《主道》《扬权》政治声音",
+      "evidenceLinkIds": [
+        "hf-jielao",
+        "hf-yulao",
+        "hf-zhudao-lao"
+      ],
+      "abilityIds": [
+        "understand-laozi-layer"
+      ]
+    },
+    {
+      "id": "war-diplomacy-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十八、弱国求存如何越过征服边界",
+      "explanation": "paragraph-ref:hanfei-18-p01",
+      "identity": "《亡征》《安危》《初见秦》《存韩》的不同篇章声音",
+      "evidenceLinkIds": [
+        "hf-wangzheng-war",
+        "hf-anwei",
+        "hf-chu-cun-war"
+      ],
+      "abilityIds": [
+        "understand-war-diplomacy"
+      ]
+    },
+    {
+      "id": "system-contradiction-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十九、制度现实主义为何可能落回君主任意",
+      "explanation": "paragraph-ref:hanfei-19-p01",
+      "identity": "《有度》《主道》《二柄》《八经》《难势》的跨篇综合",
+      "evidenceLinkIds": [
+        "hf-youdu-contradiction",
+        "hf-zhudao-contradiction",
+        "hf-bajing-contradiction"
+      ],
+      "abilityIds": [
+        "understand-system-contradiction"
+      ]
+    },
+    {
+      "id": "reception-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "二十、从法家到现代法治误读",
+      "explanation": "paragraph-ref:hanfei-20-p01",
+      "identity": "司马迁传记；汉代法家标签；现代比较重构",
+      "evidenceLinkIds": [
+        "hf-shiji-reception",
+        "hf-shiji-shangyang",
+        "hf-dingfa-reception"
+      ],
+      "abilityIds": [
+        "understand-reception"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "hf-shiji-63",
+      "workId": "《史记·老子韩非列传》",
+      "edition": "中华书局点校本",
+      "locator": "卷六十三",
+      "locatorVerified": true,
+      "identity": "司马迁的汉代传记声音"
+    },
+    {
+      "id": "hf-chu-jian",
+      "workId": "《韩非子·初见秦》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "篇首至篇末",
+      "locatorVerified": true,
+      "identity": "传世本外交论说，作者归属有争议"
+    },
+    {
+      "id": "hf-cun-han",
+      "workId": "《韩非子·存韩》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "篇首至篇末",
+      "locatorVerified": true,
+      "identity": "传世本使臣语境，作者归属有争议"
+    },
+    {
+      "id": "hf-wudu-change",
+      "workId": "《韩非子·五蠹》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "上古至守株待兔段",
+      "locatorVerified": true,
+      "identity": "传世本反复古论说"
+    },
+    {
+      "id": "hf-xindu",
+      "workId": "《韩非子·心度》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "法与时势相关段",
+      "locatorVerified": true,
+      "identity": "传世本制度论说"
+    },
+    {
+      "id": "hf-wangzheng",
+      "workId": "《韩非子·亡征》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "亡国征候条目",
+      "locatorVerified": true,
+      "identity": "传世本政治诊断"
+    },
+    {
+      "id": "hf-wudu-interest",
+      "workId": "《韩非子·五蠹》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "父母、佣作与廉直之士段",
+      "locatorVerified": true,
+      "identity": "传世本利益行为论"
+    },
+    {
+      "id": "hf-liufan",
+      "workId": "《韩非子·六反》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "利害与称誉相关段",
+      "locatorVerified": true,
+      "identity": "传世本政治心理论"
+    },
+    {
+      "id": "hf-bajing-interest",
+      "workId": "《韩非子·八经》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "因情与任法相关条目",
+      "locatorVerified": true,
+      "identity": "传世本统治纲要"
+    },
+    {
+      "id": "hf-youdu",
+      "workId": "《韩非子·有度》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "法不阿贵及公私相关段",
+      "locatorVerified": true,
+      "identity": "传世本法度论"
+    },
+    {
+      "id": "hf-dingfa-fa",
+      "workId": "《韩非子·定法》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "商鞅有法而无术段",
+      "locatorVerified": true,
+      "identity": "韩非对商鞅的重构与批评"
+    },
+    {
+      "id": "hf-zhifen",
+      "workId": "《韩非子·制分》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "法令赏罚相关段",
+      "locatorVerified": true,
+      "identity": "传世本规范论说"
+    },
+    {
+      "id": "hf-erbing",
+      "workId": "《韩非子·二柄》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "刑德与臣畏威归利段",
+      "locatorVerified": true,
+      "identity": "传世本二柄论"
+    },
+    {
+      "id": "hf-bajing-handles",
+      "workId": "《韩非子·八经》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "赏罚与主威条目",
+      "locatorVerified": true,
+      "identity": "传世本统治纲要"
+    },
+    {
+      "id": "hf-shixie",
+      "workId": "《韩非子·饰邪》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "信赏必罚相关段",
+      "locatorVerified": true,
+      "identity": "传世本赏罚论"
+    },
+    {
+      "id": "hf-zhudao-shu",
+      "workId": "《韩非子·主道》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "虚静待臣自言段",
+      "locatorVerified": true,
+      "identity": "传世本君主术论"
+    },
+    {
+      "id": "hf-yongren",
+      "workId": "《韩非子·用人》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "分职与不得兼官段",
+      "locatorVerified": true,
+      "identity": "传世本用人论"
+    },
+    {
+      "id": "hf-dingfa-shu",
+      "workId": "《韩非子·定法》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "申不害有术无阶段",
+      "locatorVerified": true,
+      "identity": "韩非对申不害的重构与批评"
+    },
+    {
+      "id": "hf-erbing-xingming",
+      "workId": "《韩非子·二柄》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "陈言授事、循名责实段",
+      "locatorVerified": true,
+      "identity": "传世本形名论"
+    },
+    {
+      "id": "hf-guanxing",
+      "workId": "《韩非子·观行》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "参伍与行为观察段",
+      "locatorVerified": true,
+      "identity": "传世本核验论"
+    },
+    {
+      "id": "hf-nanyi",
+      "workId": "《韩非子·难一》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "矛盾及功过评议段",
+      "locatorVerified": true,
+      "identity": "传世本驳难声音"
+    },
+    {
+      "id": "hf-nanshi",
+      "workId": "《韩非子·难势》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "慎子势论及反驳段",
+      "locatorVerified": true,
+      "identity": "韩非对慎到势论的重构与批评"
+    },
+    {
+      "id": "hf-gongming",
+      "workId": "《韩非子·功名》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "势位与法术相关段",
+      "locatorVerified": true,
+      "identity": "传世本综合论"
+    },
+    {
+      "id": "hf-renzhu",
+      "workId": "《韩非子·人主》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "主势与臣下相关段",
+      "locatorVerified": true,
+      "identity": "传世本君主论"
+    },
+    {
+      "id": "hf-zhudao-wuwei",
+      "workId": "《韩非子·主道》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "虚静无事、臣自效段",
+      "locatorVerified": true,
+      "identity": "传世本君主无为论"
+    },
+    {
+      "id": "hf-yangquan",
+      "workId": "《韩非子·扬权》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "去好去恶、群臣见素段",
+      "locatorVerified": true,
+      "identity": "韵文式统治论说"
+    },
+    {
+      "id": "hf-dati",
+      "workId": "《韩非子·大体》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "因道全法相关段",
+      "locatorVerified": true,
+      "identity": "传世本综合声音"
+    },
+    {
+      "id": "hf-aichen",
+      "workId": "《韩非子·爱臣》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "宠臣重臣与主势相关段",
+      "locatorVerified": true,
+      "identity": "传世本反臣论"
+    },
+    {
+      "id": "hf-bajian",
+      "workId": "《韩非子·八奸》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "八类近君渠道",
+      "locatorVerified": true,
+      "identity": "传世本宫廷风险分类"
+    },
+    {
+      "id": "hf-sanshou",
+      "workId": "《韩非子·三守》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "壅蔽视听相关段",
+      "locatorVerified": true,
+      "identity": "传世本信息控制论"
+    },
+    {
+      "id": "hf-nanyan",
+      "workId": "《韩非子·难言》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "进言反遭祸患诸例",
+      "locatorVerified": true,
+      "identity": "传世本进言困境论"
+    },
+    {
+      "id": "hf-shuinan",
+      "workId": "《韩非子·说难》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "知所说之心与逆鳞段",
+      "locatorVerified": true,
+      "identity": "传世本游说技术论"
+    },
+    {
+      "id": "hf-gufen",
+      "workId": "《韩非子·孤愤》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "智法之士与当涂之人段",
+      "locatorVerified": true,
+      "identity": "传世本孤臣论"
+    },
+    {
+      "id": "hf-wudu-farming",
+      "workId": "《韩非子·五蠹》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "耕战与五蠹分类段",
+      "locatorVerified": true,
+      "identity": "传世本农战政策论"
+    },
+    {
+      "id": "hf-guishi",
+      "workId": "《韩非子·诡使》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "名实倒置与社会称誉段",
+      "locatorVerified": true,
+      "identity": "传世本职业激励批判"
+    },
+    {
+      "id": "hf-chiling",
+      "workId": "《韩非子·饬令》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "法令与民务本相关段",
+      "locatorVerified": true,
+      "identity": "传世本动员论"
+    },
+    {
+      "id": "hf-xianxue",
+      "workId": "《韩非子·显学》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "儒墨分派与无参验段",
+      "locatorVerified": true,
+      "identity": "传世本显学批判"
+    },
+    {
+      "id": "hf-wenbian",
+      "workId": "《韩非子·问辩》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "争辩与法度相关段",
+      "locatorVerified": true,
+      "identity": "传世本辩说批判"
+    },
+    {
+      "id": "hf-heshi",
+      "workId": "《韩非子·和氏》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "卞和献璞与法术之士段",
+      "locatorVerified": true,
+      "identity": "寓言叙述与政治类比"
+    },
+    {
+      "id": "hf-zhongxiao",
+      "workId": "《韩非子·忠孝》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "忠臣孝子与君权相关段",
+      "locatorVerified": true,
+      "identity": "传世本忠孝论"
+    },
+    {
+      "id": "hf-beinei",
+      "workId": "《韩非子·备内》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "夫妻、母后与后宫风险段",
+      "locatorVerified": true,
+      "identity": "传世本内廷论，含性别偏见"
+    },
+    {
+      "id": "hf-bajian-family",
+      "workId": "《韩非子·八奸》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "同床、父兄等条目",
+      "locatorVerified": true,
+      "identity": "传世本亲密渠道分类"
+    },
+    {
+      "id": "hf-wudu-pop",
+      "workId": "《韩非子·五蠹》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "古者人少财有余、今人众财寡段",
+      "locatorVerified": true,
+      "identity": "传世本人口资源论"
+    },
+    {
+      "id": "hf-liufan-econ",
+      "workId": "《韩非子·六反》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "贫富、利害与称誉段",
+      "locatorVerified": true,
+      "identity": "传世本社会激励论"
+    },
+    {
+      "id": "hf-xindu-econ",
+      "workId": "《韩非子·心度》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "财用与治乱相关段",
+      "locatorVerified": true,
+      "identity": "传世本政治经济论"
+    },
+    {
+      "id": "hf-neichu",
+      "workId": "《韩非子·内储说上》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "七术之经与说",
+      "locatorVerified": true,
+      "identity": "经说配对的传世汇编"
+    },
+    {
+      "id": "hf-waichu",
+      "workId": "《韩非子·外储说左上》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "经与多则说例",
+      "locatorVerified": true,
+      "identity": "传世本案例汇编"
+    },
+    {
+      "id": "hf-nanyi-spear",
+      "workId": "《韩非子·难一》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "矛与盾、自相矛盾段",
+      "locatorVerified": true,
+      "identity": "驳难论说与寓言"
+    },
+    {
+      "id": "hf-jielao",
+      "workId": "《韩非子·解老》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "道理德与无为相关释文",
+      "locatorVerified": true,
+      "identity": "传世本《老子》解释层"
+    },
+    {
+      "id": "hf-yulao",
+      "workId": "《韩非子·喻老》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "以故事说明《老子》章句诸段",
+      "locatorVerified": true,
+      "identity": "传世本喻释层"
+    },
+    {
+      "id": "hf-zhudao-lao",
+      "workId": "《韩非子·主道》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "道在不可见、虚静段",
+      "locatorVerified": true,
+      "identity": "传世本政治化道论"
+    },
+    {
+      "id": "hf-wangzheng-war",
+      "workId": "《韩非子·亡征》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "内政失序与外患条目",
+      "locatorVerified": true,
+      "identity": "传世本亡国诊断"
+    },
+    {
+      "id": "hf-anwei",
+      "workId": "《韩非子·安危》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "安术与危道条目",
+      "locatorVerified": true,
+      "identity": "传世本安全论"
+    },
+    {
+      "id": "hf-chu-cun-war",
+      "workId": "《初见秦》《存韩》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "两篇全文及篇间冲突",
+      "locatorVerified": true,
+      "identity": "归属有争议的外交篇章"
+    },
+    {
+      "id": "hf-youdu-contradiction",
+      "workId": "《韩非子·有度》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "法度、公私与任官段",
+      "locatorVerified": true,
+      "identity": "公开标准声音"
+    },
+    {
+      "id": "hf-zhudao-contradiction",
+      "workId": "《韩非子·主道》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "隐好恶与独断段",
+      "locatorVerified": true,
+      "identity": "秘密君主术声音"
+    },
+    {
+      "id": "hf-bajing-contradiction",
+      "workId": "《韩非子·八经》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "权柄、参验与赏罚条目",
+      "locatorVerified": true,
+      "identity": "综合性统治纲要"
+    },
+    {
+      "id": "hf-shiji-reception",
+      "workId": "《史记·老子韩非列传》",
+      "edition": "中华书局点校本",
+      "locator": "卷六十三赞语与韩非叙事",
+      "locatorVerified": true,
+      "identity": "汉代传记和分类声音"
+    },
+    {
+      "id": "hf-shiji-shangyang",
+      "workId": "《史记·商君列传》",
+      "edition": "中华书局点校本",
+      "locator": "卷六十八",
+      "locatorVerified": true,
+      "identity": "汉代商鞅接受声音"
+    },
+    {
+      "id": "hf-dingfa-reception",
+      "workId": "《韩非子·定法》",
+      "edition": "陈奇猷《韩非子新校注》，上海古籍出版社，2000",
+      "locator": "申不害与商鞅比较段",
+      "locatorVerified": true,
+      "identity": "传世本自我谱系建构"
+    }
+  ],
+  "routes": [
+    {
+      "id": "hanfei-standards-power-statecraft",
+      "version": "1.0.0",
+      "title": "韩非：在法度、权势与统治困局之间",
+      "lessonIds": [
+        "text-voices",
+        "historical-change",
+        "interest-model",
+        "public-standards",
+        "two-handles",
+        "administrative-technique",
+        "names-performance",
+        "positional-power",
+        "ruler-nonaction",
+        "ministerial-conflict",
+        "persuasion-risk",
+        "agriculture-war",
+        "prominent-teachings",
+        "family-gender",
+        "scarcity-population",
+        "case-reasoning",
+        "laozi-layer",
+        "war-diplomacy",
+        "system-contradiction",
+        "reception"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "text-voices",
+      "order": 1,
+      "title": "一、谁在《韩非子》中说话",
+      "depth": "longform",
+      "guidingQuestion": "五十五篇传世汇编、汉代传记与异质篇章如何支持“韩非思想”而不制造单一作者幻觉？",
+      "coreExplanation": "paragraph-ref:hanfei-01-p01",
+      "sections": [
+        {
+          "heading": "书名不能替作者作证",
+          "paragraphs": [
+            "五十五篇传世汇编、汉代传记与异质篇章如何支持“韩非思想”而不制造单一作者幻觉？阅读韩非首先遇到的不是法术势，而是书名造成的错觉。《韩非子》像一位作者的整齐专著，传世五十五篇却包含论说、问答、寓言汇编、老子解释和外交文书，体裁差异本身就是证据。",
+            "作者问题不是考据的前置障碍，而会改变命题的承担者。外交文书中的劝说可以显示某种政策语言如何运作，却未必等于编者赞成；寓言里失败者的发言更可能是反证材料。只有先分清叙述者、角色与后世传记，才知道一句话应按主张、案例还是接受史证词来使用。",
+            "一个可操作的解释程序是先问“文字在传世本中以什么体裁出现”，再问“这一体裁中的发言者是谁”，最后才问“它与韩非思想的关系有多强”。例如《存韩》可以可靠地证明传世本保存了一套存韩论证，却不能仅凭篇名证明韩非在某次出使中逐字说过这些话；《史记》可以证明汉代形成了怎样的韩非生平叙事，却不能替战国文本确认作者。这样分层以后，归属争论不会让思想史停摆，批评也不会把历史人物、传世书、篇内角色与后来的法家标签压成一个声音。",
+            "司马迁记载韩国公子韩非口吃而善著书、与李斯同学于荀卿、入秦后死于狱中。这一叙事距离韩非时代已有百余年，能提供接受史起点，不能冒充韩非留下的自传录音。"
+          ],
+          "identity": "传世篇章声音；司马迁的汉代传记；现代文本研究",
+          "kind": "argument"
+        },
+        {
+          "heading": "传记、外交文书与寓言的不同声部",
+          "paragraphs": [
+            "判断声音身份时，体裁证据比术语共现更有辨别力。奏议需要说服特定权力者，寓言借角色冲突展示后果，解释篇则围绕既有经典组织概念；三者即使共享“法”或“势”，发言责任也不相同。把体裁差异保留下来，才能说明一句严厉判断究竟是直接倡议、对手立场还是叙事装置。",
+            "《初见秦》以强烈的秦国战略语言开篇，《存韩》又牵涉韩秦外交和李斯驳议。若先认定两篇都是韩非亲笔，历史解释会随之锁死；较稳妥的做法是先称传世篇章声音，再说明学界归属分歧。",
+            "跨篇概念重现也不能独自完成归属证明。赏罚、名实等词可能被不同材料继承、改写或反驳，真正有分量的是它们在论证中承担相近功能，并与相邻概念形成稳定依赖。统一解释因此需要逐段累积，而不是从书名向下演绎。",
+            "篇章归属的证据有强弱之别，寓言人物的话也不能直接列为韩非命题。楚王、说客、工匠或守株者各自在故事中承担测试概念、暴露矛盾或显示行为后果的功能，叙述者对他们的安排才是解释对象。",
+            "《存韩》的同一段文字若被理解为使臣自陈，或被判断为后人拟作，能够支持的生平结论就会改变。归属的不确定性也有层级。某段文字可确定属于传世本，却未必能确定成篇年代；可以与韩非思想主轴相容，却仍不能证明出自韩非亲笔。解释不必在“全真”与“全伪”之间跳跃，而应把篇章存在、思想关联和个人作者身份分别赋予证据强度。"
+          ],
+          "identity": "传世篇章声音；司马迁的汉代传记；现代文本研究",
+          "kind": "evidence"
+        },
+        {
+          "heading": "整体解释怎样保持可修正",
+          "paragraphs": [
+            "赏罚、名实和君臣冲突在不同篇章反复出现，这会提高重建思想主轴的可信度，却不能证明每个字出自同一时间、同一手。统一性是一项待论证的解释结果，而不是书名已经担保的前提。",
+            "篇章归属不稳并不会使思想讨论整体失效，只会要求我们把主张绑定到具体声音并公开不确定性。仍待回答的是，这些异质文本共同面对了怎样的政治压力。",
+            "这种谨慎仍允许提出韩非思想的整体图景，只是整体图景带有可修正性。若一篇的归属后来改变，相关论证的证据等级应随之调整，而不必让全书理解同时坍塌；这正是分层证据比单一作者神话更有韧性的地方。",
+            "这种分层会改变批评方式。若残酷命题来自后出材料，仍须批评其政治作用，却不能直接据此推断韩非个人动机；若多篇独立材料反复形成同一控制结构，体系批评又不会因单篇归属动摇而消失。责任因此既不被书名夸大，也不被考据疑问轻易取消。",
+            "这套分层不是削弱文本，而是让批评更准确。我们可以说某篇主张严罚，同时不把汇编中所有严厉语句都塞进韩非个人心理；随后才问这些异质材料共同承受怎样的战国压力。"
+          ],
+          "identity": "传世篇章声音；司马迁的汉代传记；现代文本研究",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-01-p07",
+      "nodeIds": [
+        "text-voices-node"
+      ],
+      "checkIds": [
+        "text-voices-q1",
+        "text-voices-q2",
+        "text-voices-q3",
+        "text-voices-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-01-p14"
+      ],
+      "recommendedNextLessonId": "historical-change",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "historical-change",
+      "order": 2,
+      "title": "二、变古为何成为弱国生存问题",
+      "depth": "longform",
+      "guidingQuestion": "为什么先王之道不能直接复制，制度改变又凭什么不是机会主义？",
+      "coreExplanation": "paragraph-ref:hanfei-02-p01",
+      "sections": [
+        {
+          "heading": "旧制的成功条件会消失",
+          "paragraphs": [
+            "先王的办法为何不能原样复制，而制度随时势改变又如何避免沦为机会主义？",
+            "韩非讨论上古并非为了恢复黄金时代。他把采集、耕作、争夺和治理手段放在不同人口与资源条件中，指出一项旧办法的合理性依赖它曾解决的具体问题。",
+            "变古论证包含两个不同判断：旧制曾经有效，与旧制现在仍然适用。前一个判断依赖历史处境，后一个判断还需要证明人口、资源、战争与行政能力没有发生足以改变效果的变化。把两者混在一起，传统的成功就会被偷换成永久授权。",
+            "从人口、资源、战争和组织规模变化说明旧办法的成功条件已消失这一步先拆开敬重古人与复制古制。先王若能因当时困难创制，后人面对新困难仍机械照抄，反而背离了创制者根据现实行动的能力。",
+            "变法的困难不只在发现旧制失效，还在旧制常由既得利益维护。某项安排即使已不能解决新问题，仍可能为特定家族、官署或称誉秩序提供收益。因而“因时而变”必须包含识别谁有权定义成败，否则适应性口号本身也会被强者占用。"
+          ],
+          "identity": "《五蠹》《心度》等政治论说；守株寓言角色；现代适应性重构",
+          "kind": "argument"
+        },
+        {
+          "heading": "守株为何是一种政策失败",
+          "paragraphs": [
+            "守株者的错误不是相信经验，而是把一次偶然收获升级为稳定生产法。他停止耕作，意味着政策失败还包含机会成本：依赖旧成功会耗掉处理当前条件的能力。",
+            "守株待兔所嘲讽的不是传统本身，而是把一次偶然的旧成效误认成可重复规则。这个案例进一步显示，制度惯性不只是观念保守。行动者把劳力从耕作移向等待偶然，会产生可观察的损失；国家把资源押在过时办法上，也会失去试验和纠错的时间。适应性因此是一种持续比较效果的能力，而不是逢旧必反。",
+            "尊敬古人的判断能力并不等于照搬他们的政策。把适应性落实到判断程序，需要同时比较旧制原先解决的问题、新条件改变了哪些因果环节、替代方案会产生什么副作用。守株寓言只给出最清楚的失败型：一次偶然收益不能支撑持续等待；现实制度更困难，因为旧办法常仍保留部分效果。因而变法不能以“新”作为证成，而要说明哪些旧成功条件消失、哪些价值仍需保存、失败后如何撤回。若国家生存被设成唯一尺度，适应性会滑向任何强制都可接受，这正是韩非没有偿清的规范债务。",
+            "制度试验还需要可逆性。守株者的问题之一，是把全部劳动押在单次偶然上；国家若用不可撤回的严酷手段检验新制，失败成本会由无法退出的人承担。比较办法时，除了短期产出，还应考察错误能否被发现、受害能否获得补救以及政策是否允许修正。"
+          ],
+          "identity": "《五蠹》《心度》等政治论说；守株寓言角色；现代适应性重构",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "战国压力解释紧迫，却不授权一切手段",
+          "paragraphs": [
+            "韩国处在强秦压力下，使适时改制带有生存紧迫性。制度不只是哲学偏好，而关系税粮、兵员、官僚协调和能否避免被兼并；这种压力解释主张为何尖锐，却不自动证明一切强国手段正当。",
+            "适时制度若按治乱、强弱与可执行后果检验，仍须先说明何种结果算作成功。若只问国家是否更强，征服、压迫和思想控制都可能被计入成功；若问人民是否免于任意伤害，评价会改变。韩非常把富国强兵置于前景，没有充分论证它涵盖全部政治善。",
+            "改制若只按成败计算，可能牺牲不能拿来交易的正义要求。韩非确给出适应性论证，却没有充分证明国家生存涵盖正当性的全部内容；这个问题会继续进入其行为假设。",
+            "然而，效果比较必须先说明政治目标。若只把兼并能力当尺度，许多伤害会被记成必要成本；若同时计入免受任意惩罚与稳定生计，制度优劣可能重新排序。韩非提供了对条件变化的敏感，却没有替后人免除目标选择的责任。",
+            "韩非对历史条件的敏感可以反过来限制韩非式政策。战国兼并压力解释集中动员的吸引力，却也意味着这些措施未必适用于和平、复杂分工或权利要求更高的社会。忠于变古论证的方式，不是永远复制战国答案，而是继续追问条件是否仍然成立。",
+            "因此，反复古提供的是条件敏感性而非价值空白。它有力反驳谱系即权威，却必须接受另一问：新制究竟使谁受益、让谁承担代价。"
+          ],
+          "identity": "《五蠹》《心度》等政治论说；守株寓言角色；现代适应性重构",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-02-p08",
+      "nodeIds": [
+        "historical-change-node"
+      ],
+      "checkIds": [
+        "historical-change-q1",
+        "historical-change-q2",
+        "historical-change-q3",
+        "historical-change-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-02-p15"
+      ],
+      "recommendedNextLessonId": "interest-model",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "interest-model",
+      "order": 3,
+      "title": "三、制度为何从趋利避害而非圣贤开始",
+      "depth": "longform",
+      "guidingQuestion": "官民会随利益行动，是否意味着没有忠诚、亲情与道德行动？",
+      "coreExplanation": "paragraph-ref:hanfei-03-p01",
+      "sections": [
+        {
+          "heading": "稀有德性不能填满日常职位",
+          "paragraphs": [
+            "官民会受利益牵引，这是否足以否认忠诚、亲情和道德行动的存在？",
+            "文本承认廉直之士可能存在，紧接着追问国家有数百官位时怎么办。这个数量论证把问题从个人可敬转到制度可复制：例外人格不能充当日常招聘体系。",
+            "亲子、雇佣与医患等关系表明，行为会受到资源、报偿和责任位置的影响。以普通动机为制度起点，并不要求否认慷慨或忠诚；它只要求一项公共安排不能在最需要发挥作用时，恰好依赖人人都达到少见的道德高度。制度的可靠性要在动机混合、资源紧张和监督不完全时接受检验。",
+            "韩非观察亲疏与行为会随资源改变，不等于宣称人没有亲情。他要指出的是，善意不会稳定覆盖饥荒、继承、职位和惩罚等压力，政治组织若只期待人人克己，便把成败押在稀有条件上。",
+            "趋利避害模型若要具有解释力，就必须说明行动者所感知的利害，而非只列制度设计者宣布的奖罚。远期奖赏可能被即时风险抵消，公开荣誉可能不如家族安全重要；同一规则在不同位置上会呈现不同激励。忽略感知差异，制度便会把未响应者误判为纯粹抗命。"
+          ],
+          "identity": "《五蠹》《六反》的论说声音；现代激励类比",
+          "kind": "argument"
+        },
+        {
+          "heading": "行动者感知到的利害",
+          "paragraphs": [
+            "趋利避害也不是一台只计算金钱的机器。名誉、亲属安全、职位、免罚和被承认都可能成为所趋之利；不同制度会塑造什么行为得到回报。",
+            "少数廉直者的存在不能填满全部官位，也不能解除制度对普通动机的依赖。若利益概念扩展到名誉、职位和亲属安全，奖惩就不再只是外部价格。规则会改变什么值得追求，也会改变行动者怎样描述自己；长期处在猜疑环境中的官员，可能学会把可见指标置于共同目的之前。",
+            "丰年与荒年中父母对子女数量的态度可能变化，这显示资源压力会作用于家庭决定，却不能证明亲情本身虚假。制度设计若从普通动机出发，应当接受两类同时存在的检验。其一是压力检验：在资源紧张、监督不全和私人利益出现时，规则能否阻止公共任务被截取；其二是形成检验：长期奖惩是否让原本愿意合作的人转向隐瞒和窄化目标。前者解释韩非为何不肯把治理押在少数廉直者身上，后者说明猜疑体系可能制造它假定的人性。只有把两项放在一起，趋利避害才是有限的行为模型，而不是把忠诚、亲情和职业伦理一笔抹除的形而上断言。",
+            "混合动机还会使单一奖惩产生挤出效应。原本因专业荣誉或互信完成的合作，一旦被窄指标定价，行动者可能转而只完成可计数部分。奖赏没有简单增加原有善意，而是重写了何种理由在组织中可见，因而必须观察长期行为变化。"
+          ],
+          "identity": "《五蠹》《六反》的论说声音；现代激励类比",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "奖惩也会重写动机",
+          "paragraphs": [
+            "以医者吸取伤口脓血的例子说明，有利行为未必源自亲爱；反过来，有亲爱也未必产生有效照护。韩非借此把动机纯洁与行为后果分开，但容易把信任本身的制度价值估得过低。",
+            "从普通动机出发，只能推出制度应把常见选择引向可预测的公共结果，不能推出人人邪恶。现代激励语言可帮助说明规则怎样改变选择，却不能冒充原典词义。更重要的是，奖惩会反过来塑造人：若所有合作都按猜疑设计，行动者可能学会隐瞒、短期化和只做可计量之事。",
+            "激励制度会挤出本有的信任和德性。对此仍须承认：这是韩非理论真实风险，论证须保留混合动机与制度反馈；后续问题检验公开标准是否能减少任意。",
+            "因此，韩非的最低可靠性问题需要与制度反馈问题相接。前者问坏动机出现时系统能否承受，后者问系统是否持续生产更坏的动机。只回答第一问，容易把控制的短期收益误当作稳定秩序。",
+            "最强的制度不是假设人人圣贤，也不是假设人人奸诈，而是在两种错误之间保持韧性：它既能限制谋私者截取公共资源，也不把善意合作当作可疑证据。韩非准确提出前一种风险，却常以扩大猜疑来处理，留下信任如何被制度化而非私人化的问题。",
+            "最强异议不是人其实都善，而是混合动机与制度反馈比单向自利模型更复杂。韩非给出最低可靠性问题，未完成关于信任、共同目的与德性形成的全部理论。"
+          ],
+          "identity": "《五蠹》《六反》的论说声音；现代激励类比",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-03-p08",
+      "nodeIds": [
+        "interest-model-node"
+      ],
+      "checkIds": [
+        "interest-model-q1",
+        "interest-model-q2",
+        "interest-model-q3",
+        "interest-model-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-03-p15"
+      ],
+      "recommendedNextLessonId": "public-standards",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "public-standards",
+      "order": 4,
+      "title": "四、法是公开尺度，不是现代法治",
+      "depth": "longform",
+      "guidingQuestion": "`法` 如何让任官、奖惩与秩序摆脱贵族私议，它又为何不能直接等同 rule of law？",
+      "coreExplanation": "paragraph-ref:hanfei-04-p01",
+      "sections": [
+        {
+          "heading": "法度包含什么，又不包含什么",
+          "paragraphs": [
+            "`法` 如何让任官、奖惩与秩序摆脱贵族私议，它又为何不能直接等同 rule of law？`法` 在韩非那里有标准、法令、度量和可供循行的办法等相连用法。把它只译成刑法会漏掉任官与计功，把它直接译成现代法治又会添加文本没有的权利与分权。",
+            "公开尺度至少承担三种工作：事前告知行为后果，事中限制亲疏改口，事后提供核验依据。这三者可以减少官员和贵族争夺私人解释权，却不等于规则内容已经公正。",
+            "法的政治价值在于使标准得到公布、可以预先知晓并反复适用，让命令离开私人耳语，成为事前可知、事中可用、事后可核的共同对象。可是每个环节都可能重新私人化：制定者可临时改令，解释者可选择性适用，执行者可隐藏证据。韩非对贵者与亲者的警惕抓住了中间层的风险，却没有给出让最高权力接受同类审查的稳定办法。因此，法度与现代法治既有真实交叉，也有决定性差异；把权利、独立裁判和统治者受法补入，只能明确署名为现代制度重构。"
+          ],
+          "identity": "《有度》《定法》等论说；商鞅前驱；现代法治比较",
+          "kind": "conceptual-analysis"
+        },
+        {
+          "heading": "公开尺度如何抵抗身份特权",
+          "paragraphs": [
+            "公布使行动者在事前知道何种行为受赏受罚，也让贵者和亲者较难只凭身份逃避。法不阿贵的锋利之处，是把世袭亲疏拉到同一可陈述尺度前。",
+            "公开标准把贵者、亲者与善辩者置于同一尺度前，因而具有反特权的均平作用；但标准公开之后仍会发生解释争议。行为事实可能模糊，多个条文可能冲突，新的情形也可能未被预见；此时谁能说明理由、谁能复核解释，决定公开法是否真正限制任意。只有文本而没有程序，权力仍可在适用环节恢复亲疏。",
+            "可知标准还降低口才垄断。臣若只凭华丽辩说邀功，法度要求把主张与职事结果相接；普通人不必先成为君主私人知己才知道禁令。",
+            "两名官员分别凭亲疏关系与实际任务结果争取奖赏时，法度要求以可核查的结果为准。制定者与解释者的位置因此不能被省略。同一条规则若可由最高权力随时改写，普通人知道文本仍未必能预见结果；可预期性需要稳定的解释与纠错条件，而不仅是墙上写有法令。"
+          ],
+          "identity": "《有度》《定法》等论说；商鞅前驱；现代法治比较",
+          "kind": "argument"
+        },
+        {
+          "heading": "适用程序会把规则重新私人化",
+          "paragraphs": [
+            "法不阿贵的力量来自把身份优势转化为可质疑对象，但韩非体系没有稳定地把同一原则施加给最高制定者。若君主可以秘密改写标准或选择性豁免，平等适用便在顶端中断。这个中断不是现代附加挑剔，而是公开尺度自身的一致性要求。",
+            "韩非的规则服务于君主设定的国家目标，却没有让最高权力接受同等约束。现代法治比较仍有用，但只能采取差分方式：韩非揭示公开、一般和可执行标准的组织价值，现代法治还要求政府受约束、程序救济与权利保护。相似一项不等于体系相同。"
+          ],
+          "identity": "《有度》《定法》等论说；商鞅前驱；现代法治比较",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "从可预期到现代法治仍有断裂",
+          "paragraphs": [
+            "然而，规则的制定目的和最终解释仍集中在君主国家。文本没有建立统治者与被统治者对称受法、独立裁判或不可侵犯权利，因此可预期性不能独自升级为 rule of law。",
+            "规则得到公开并不足以构成法治。可预期性只是其中一项条件，权利、程序、司法独立和统治者受约束不能倒灌进原典；仍待解释的是规则靠何种动力执行。",
+            "现代法治比较最有用的方式是列出差异而非寻找祖先。韩非对一般标准和反特权的洞察可以保留，同时明确缺少权利救济、独立裁判和统治者受法。这样既不会把古典概念缩成刑罚，也不会把现代制度倒灌回去。",
+            "现代法治比较应把相似与差异同时列出。一般规则、反私人请托和可预期后果构成可比较面；权利保障、独立裁判、公开理由与统治者受法构成缺失面。只有这样，比较才是分析，而不是用一个现代名词替古典制度颁发证书。",
+            "法度能减少某些任意，却要靠赏罚兑现；而当兑现者自己不受同等审查时，反私人权力的制度会在顶端留下最大的私人权力。"
+          ],
+          "identity": "《有度》《定法》等论说；商鞅前驱；现代法治比较",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-04-p07",
+      "nodeIds": [
+        "public-standards-node"
+      ],
+      "checkIds": [
+        "public-standards-q1",
+        "public-standards-q2",
+        "public-standards-q3",
+        "public-standards-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-04-p14"
+      ],
+      "recommendedNextLessonId": "two-handles",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "two-handles",
+      "order": 5,
+      "title": "五、赏罚二柄怎样制造可信预期",
+      "depth": "longform",
+      "guidingQuestion": "法已公布，为何还必须由君主垄断赏与罚？",
+      "coreExplanation": "paragraph-ref:hanfei-05-p01",
+      "sections": [
+        {
+          "heading": "刑与德怎样形成行动预期",
+          "paragraphs": [
+            "法令公布以后，韩非为何仍要求君主独占赏罚两种后果？",
+            "二柄把统治压缩为刑与德：刑是惩罚，德在这里主要指奖赏之惠，并非后来意义上以人格感化。两者共同改变臣民对行动后果的预期。",
+            "只有当行动者相信功劳会得到奖赏、罪责会受到惩罚时，二柄才形成稳定预期；而这种信念又以可信的事实认定为前提。若功劳可被近臣截取，奖赏会把人引向私人门路；若罪责由诬告决定，惩罚会鼓励先发制人的控诉。结果控制与证据控制必须同时考察。",
+            "奖惩必须可信。宣布禁令却屡次宽免亲信，会让所有人重新估计违规成本；承诺奖功却由近臣截取，会使努力转向寻找私人门路。"
+          ],
+          "identity": "《二柄》《八经》的论说声音；现代威慑比较",
+          "kind": "argument"
+        },
+        {
+          "heading": "从事实入口到奖罚兑现",
+          "paragraphs": [
+            "二柄能否形成预期，取决于奖罚之前的事实链是否可靠。一次功劳可能由多人共同完成，一项失败可能来自目标矛盾或资源不足；若君主只掌握最终按钮，却没有独立证据，兑现越坚决，错判伤害越稳定。重罚还会改变证据生产：承认错误的代价上升后，隐瞒、诬告和嫁祸都更有吸引力。韩非正确地看到私授赏罚会转移忠诚，却没有证明集中赏罚本身能解决认识问题；比例、复核和受害补救仍须另行建立。",
+            "赏罚兑现依赖一条隐含链条：行为被看见，证据被正确解释，责任落到适当的人，结果才由有权者执行。韩非强调链条末端的控制，却不能因此跳过前端事实。臣下若能私自授予奖惩，忠诚会随实际后果的控制权转移；若证据入口也被垄断，二柄越集中，错误奖罚反而越难纠正。",
+            "因此韩非要求君主垄断二柄。若大臣能够私赏私罚，受惠者的忠诚会流向大臣，组织中出现与正式权令竞争的中心。",
+            "管理者哪怕只临时宽免一次亲信，也会改变所有人对规则实际执行概率的判断。君主垄断二柄解决的是多中心竞争，却制造单点失误。大臣不能私赏私罚，减少了私人依附；最高权力若误判而无人复核，错误又会覆盖整个组织。垄断本身不提供正确性。",
+            "尤其需要区分“后果可预期”与“掌权者随意加重后果”。前者让行动者能够据规则调整行为，后者只提高恐惧而不提高事实准确性。一次错罚若无人复核，会向整个组织传递危险信号：安全策略不再是完成任务，而是避免成为可见承担者。二柄因此必须与证据质量共同评价。"
+          ],
+          "identity": "《二柄》《八经》的论说声音；现代威慑比较",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "确定性不等于无限严酷",
+          "paragraphs": [
+            "确定性并不等于严酷性。文本常把重罚与威慑相连，但现代经验问题仍须开放：处罚过重可能增加隐瞒、诬告和执法者寻租，也可能因不相称而失去规范权威。",
+            "惩罚的确定性与严厉程度也应区分。相称而可预见的后果可能改善协调，极端惩罚则会提高承认错误的成本，使下属更愿意隐藏、串联或把责任推给弱者。把两者都称作“重罚有效”，会遗漏行为对制度的策略反应。",
+            "重刑、连带责任与威慑可能把执行的确定性滑向惩罚的不相称，二柄还面临事实证据的难题。若事实认定错误，再一致的惩罚只是一致制造冤屈；没有申辩、复核和纠错，可信预期可能只是人人确信权力会伤害。",
+            "更严厉的处罚不一定减少违规，也可能诱发隐瞒、诬告和冤错。韩非提供的是激励一致性而非现代经验定律；比例、证据和纠错仍未解决，接下来必须进入行政术。",
+            "威慑效果也有范围条件。惩罚从过轻增加到相称可能提高守法预期，继续加重却可能使行动者更愿意隐瞒、串供或收买执法者。韩非强调兑现，后续评价还须补上比例和纠错。",
+            "奖赏同样可能腐蚀信息。官员知道上级偏爱某一指标时，会把不可见成本移出报告，甚至制造短期成绩换取恩惠。二柄因此不能只由掌握者意志约束；证据公开、利益冲突披露和复核机制属于后来需要补入的条件。",
+            "韩非解决了宣布规则后谁来兑现的难题，却没有因此解决比例、程序和正当目标。随后必须进入术，查看官僚怎样向君主提供可核信息。"
+          ],
+          "identity": "《二柄》《八经》的论说声音；现代威慑比较",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-05-p08",
+      "nodeIds": [
+        "two-handles-node"
+      ],
+      "checkIds": [
+        "two-handles-q1",
+        "two-handles-q2",
+        "two-handles-q3",
+        "two-handles-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-05-p16"
+      ],
+      "recommendedNextLessonId": "administrative-technique",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "administrative-technique",
+      "order": 6,
+      "title": "六、术为何不能公开成一部官僚手册",
+      "depth": "longform",
+      "guidingQuestion": "官员掌握专业信息时，君主如何用人而不被架空？",
+      "coreExplanation": "paragraph-ref:hanfei-06-p01",
+      "sections": [
+        {
+          "heading": "分工制造了中心无法消除的知识依赖",
+          "paragraphs": [
+            "当官员掌握专业信息时，君主怎样依赖他们而又避免实际权力被架空？如果法是人人可见的道路，术更像君主选择、配置和检验官员的方法。它处理一个组织难题：专业官员比最高决策者更懂局部事务，也因此更可能隐藏行动或借知识扩权。",
+            "术面对的不是抽象邪恶，而是职位造成的信息差。负责粮仓、军队或税收的人掌握局部知识，君主无法亲自复做全部工作；若没有明确承诺和交叉核验，专业优势就可能转化为不可见的自主权。",
+            "法提供公开标准，术则通过任免、分职、暗察和比较来处理官僚信息。术的认识难题在于，中心必须依赖它不能完全信任的专业人员。若中心能够亲自重做所有任务，分官本身就失去意义；既然不能，暗察也不可能凭空产生真实知识。较可靠的做法是让职责、证据和报告来源相互校正，并区分公开的责任边界与保密的抽查时点。韩非的分职和参验提供前半条链，长期隐藏偏好与检查标准却可能破坏后半条链，使官员用揣摩替代判断、用沉默避免风险。术因而既是信息方案，也是信息污染源。",
+            "术的合理起点是专业分工造成的不对称。负责仓储者比君主懂损耗，掌兵者比中央知道前线，正因如此，检查不能假装中心已拥有全部知识。好的核验应利用专业证据相互校正，而不是把专业性本身视为可疑。"
+          ],
+          "identity": "《主道》《用人》《定法》；申不害前驱声部",
+          "kind": "argument"
+        },
+        {
+          "heading": "职责、任免和多源核验",
+          "paragraphs": [
+            "分职使每项任务有明确承担者，不能让一人兼官、多人共功而无人负责。任免则把职位与表现相连，防止世袭和私爱替代职能。",
+            "术所针对的正是代理人隐藏行动、越出职掌或争夺功劳的风险。两个部门都声称完成同一成果时，君主须按预先分职而不是事后争功核验。分职也不能停在职位名称：若资源共享、目标冲突或上级命令交叉，失败仍可能无法归责。核验应记录这些依赖关系，而不是在结果出现后挑选一个承担者。韩非重视防止共功邀赏，现代组织还须防止中心用模糊命令制造替罪者。",
+            "隐蔽检查能防止被检查者只针对题目排演，却也会破坏正常学习。官员不知道何种合作会被视为结党时，会减少横向沟通；坏消息可能因自保而逐级消失。控制技术因此改变它所观察的信息。",
+            "秘密检查有时能防止预先排演，却不能成为常态治理语言。若考核标准和检查边界长期不可知，官员会优先学习揣摩上意，合作也会因害怕被解释为结党而萎缩。制度得到的是服从表象，失去的可能是及时暴露错误的能力。"
+          ],
+          "identity": "《主道》《用人》《定法》；申不害前驱声部",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "公开责任与秘密抽查的边界",
+          "paragraphs": [
+            "术的一部分必须稳定，官员才知道承诺怎样被验；另一部分被要求隐蔽，臣下才不能针对君主检查方式排演答案。公开与秘密由此从一开始便发生张力。",
+            "《定法》把申不害描述为重术而法不足，把商鞅描述为有法而术不足。无论这是否完整还原两位前驱，它显示韩非不是简单把三家术语相加，而是在建构一种综合者位置。",
+            "秘密控制既可能揭露串谋，也会破坏透明与问责，使官员不敢共享坏消息。若每次合作都可能被解释为结党，专业共同体会退化成彼此防范的孤岛。",
+            "在秘密控制下，官员可能把自保置于报告坏消息之前。这不是外部误会，而是术论内部的信息代价；名实与参验只能进一步细化其中可核查的部分。",
+            "申不害与商鞅的比较展示了综合的必要，也暴露综合的代价。公开法要求行动者知道边界，秘密术依赖边界的一部分不可预测；若两者没有清楚分工，制度会同时要求透明服从与盲目猜测。",
+            "法与术的冲突需要功能分区：行为边界和责任标准应尽量公开，反舞弊抽查的具体时点可以保留不确定。若连何种行为会受罚都隐藏，秘密就不再服务公开规则，而成为随时追责的权力储备。",
+            "术论抓住委托者无法直接看见代理行动的困难，却把解决希望集中于更隐蔽的君主。信息不对称并未消失，只是最终风险移到无人审查的中心。"
+          ],
+          "identity": "《主道》《用人》《定法》；申不害前驱声部",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-06-p08",
+      "nodeIds": [
+        "administrative-technique-node"
+      ],
+      "checkIds": [
+        "administrative-technique-q1",
+        "administrative-technique-q2",
+        "administrative-technique-q3",
+        "administrative-technique-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-06-p15"
+      ],
+      "recommendedNextLessonId": "names-performance",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "names-performance",
+      "order": 7,
+      "title": "七、从名到实为何不是一句绩效考核",
+      "depth": "longform",
+      "guidingQuestion": "官员的职位、承诺、言语和实际成果怎样形成可审查链？",
+      "coreExplanation": "paragraph-ref:hanfei-07-p01",
+      "sections": [
+        {
+          "heading": "名是事前承诺，不是事后标签",
+          "paragraphs": [
+            "职位、事前承诺、言语与实际成果之间，怎样才能形成一条可审查的责任链？",
+            "名首先可以是官员自陈的职责、方案和可期待成果，实则是随后发生的行动与结果。考核不是临时挑一个漂亮数字，而是把事前承诺、授权边界和事后证据锁成一条链。",
+            "名、言与职掌规定行动者承诺承担什么，实际事功则显示承诺如何落地；名实核验的起点因此应当在行动之前。若目标、权限和证据标准事后才由上级决定，任何结果都能被解释为不合格，考核便从责任工具退化成惩罚借口。",
+            "臣先说能做什么，君主再按其言授事，完成后比较功与言。若结果小于承诺，夸大应被识别；若结果超出授权，韩非也保持警惕，因为越职成功可能掩盖责任边界被破坏。",
+            "名实之间不是把一个标签与一个数字相减，而是把事前承诺、授权范围、证据标准和实际后果放在同一时间链上。官员超额完成任务时，短期结果可能很好，却也可能占用他人资源或掩盖长期损失；若只看产出，越权便会被系统奖励。相反，未达单一指标也可能是为了避免更大安全风险。韩非的核验思想有助于阻止事后邀功，但无法替组织预先决定哪些价值可以权衡。申诉和复核正是检查名是否被偷偷改写，而不是取消责任。"
+          ],
+          "identity": "《二柄》《观行》《功名》《难一》中的名实论",
+          "kind": "argument"
+        },
+        {
+          "heading": "结果、权限与多源参验",
+          "paragraphs": [
+            "“臣自言—授事—按功责言”把事前承诺与事后结果连接起来，也由此区分偶然结果与稳定能力。一次侥幸成功不能证明方法可靠，一次受外部阻碍的失败也不能脱离条件径直定罪；参验需要多次、交叉与前后比较。",
+            "官员越出授权解决危机，即使结果良好，也可能破坏既定分工与责任链。参验的多源性同样重要。报告、实物和受影响者陈述可能互相校正；若所有证据都由被考核者生成，形式再完整也只是自证。韩非的比较意识可以支持这种扩展，但受影响者获得发言位置、证据冲突怎样裁决，仍是原体系未建立的程序。",
+            "超额完成也不是无条件的好消息。官员越权取得短期成果，可能侵占他人职责、掩盖长期成本或让组织无法复制；韩非的警惕说明绩效不能脱离授权边界。",
+            "名不是一个脱离情境的数字，而是事前可理解的承诺。任务目标、权限边界、证据形式和时间范围必须共同确定，才能判断实是否相符。只保留产出数字而省略权限，会把越权成功与履职成功混为一谈。"
+          ],
+          "identity": "《二柄》《观行》《功名》《难一》中的名实论",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "越权成功和指标挤出",
+          "paragraphs": [
+            "名实机制还能攻击语言特权。说客若能不断改写目标，永远可以把失败讲成另一种成功；事前冻结名，才使事后解释无法任意漂移。",
+            "绩效判断还要处理多目标冲突。追求速度可能牺牲安全，增加征收可能破坏长期生产，完成显性任务可能耗尽他人资源。名实核验若只选择最易计量的一项，表面精确会掩盖目标之间的政治选择。",
+            "参验需要比较多源证据，既防止越职邀功，也防止偶然成功冒充稳定能力。现代绩效管理的危险也由此显现：可量指标只是名的一种，照护、预防和跨部门协作常无法在短周期显现；若指标替代公共目的，官员会优化数字而不是事务。"
+          ],
+          "identity": "《二柄》《观行》《功名》《难一》中的名实论",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "申诉检查的是名是否被改写",
+          "paragraphs": [
+            "若考核只承认可量成果，协作、创新与长期价值就会受到压制。韩非解决的是邀功与失责，不足以定义所有公共价值；接着还要追问谁有权设定职位和目标。",
+            "指标仍只是结果的一部分代理。可以计量的产出若压倒难计量的安全、公平与长期能力，行动者会优化表格而损害任务。名实思想提供核验链，不能替代对指标是否代表真实目的的判断。",
+            "申诉并不是对责任的取消，而是检查“名”是否被事后改写、证据是否被错误归属。韩非的责任链可支持这种复核需求，却没有把它制度化为下级可主张的权利；这一区分必须保持现代重构身份。",
+            "韩非提供责任绑定的认识论，却没有充分说明谁来校正君主设错的名。若目标本身有害，精准达标只会更有效地完成错误。"
+          ],
+          "identity": "《二柄》《观行》《功名》《难一》中的名实论",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-07-p08",
+      "nodeIds": [
+        "names-performance-node"
+      ],
+      "checkIds": [
+        "names-performance-q1",
+        "names-performance-q2",
+        "names-performance-q3",
+        "names-performance-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-07-p16"
+      ],
+      "recommendedNextLessonId": "positional-power",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "positional-power",
+      "order": 8,
+      "title": "八、势如何让中等君主也能统治",
+      "depth": "longform",
+      "guidingQuestion": "治理若依赖尧舜般人格就无法复制，职位之势如何替代个人贤能？",
+      "coreExplanation": "paragraph-ref:hanfei-08-p01",
+      "sections": [
+        {
+          "heading": "位置如何放大普通人的行动",
+          "paragraphs": [
+            "治理若只能等待尧舜般的稀有人格便无法复制，职位形成的势又怎样代替个人贤能发挥作用？",
+            "势不是个人气场，而是位置赋予的行动能力。弓弩借机关把有限臂力转成远射，风云使虫蛇也能上升；类比说明组织位置可以放大普通人的命令。",
+            "弓弩类比还提示一个常被忽略的条件：力量来自整套装置，而不只来自扣动扳机的人。行政位置依赖文书、下级执行和社会服从；把所有效果归给君主，会让支持结构消失。看见这种依赖，才能同时理解最高权力的强大与脆弱。",
+            "势把政治能力从个人德性转向职位结构。弓弩借助装置放大力量，风云借助条件形成变化，这些类比都表明位置条件与个人才德不是同一回事。普通人处在能发布命令、配置资源和兑现奖惩的位置，可能产生远大于私人能力的效果；贤者若没有组织位置，也难以把善意变成共同规则。"
+          ],
+          "identity": "《难势》《功名》《人主》；慎到前驱声部",
+          "kind": "argument"
+        },
+        {
+          "heading": "可复制治理为何不能押在圣君上",
+          "paragraphs": [
+            "这一论证针对圣君依赖。若制度只有尧舜才能运行，它对多数时代没有可复制性；职位、法度和行政技术应使中等能力者也能协调大国。",
+            "势解释了为什么组织位置能放大普通人的行动。命令、预算、任免和信息入口汇聚在职位上，使个人能力不再是效果的唯一来源。这个洞见同时意味着，制度不能只靠挑选好人来控制风险。",
+            "权令集中使普通统治者也能借职位协调组织。同一个人作为私人劝告者和有正式授权的审计员，组织响应会明显不同，因为后者能够把判断接到正式的资源与责任链上。",
+            "势的分析把注意力从英雄人格移到命令能够产生后果的结构条件。正式职位控制资源、信息入口和奖罚，因此同一人在私人身份与授权身份中会获得完全不同的响应。然而这种放大作用对目标保持中立：规则可以借势压过家族请托，暴力也可以借势覆盖更广。若要把势变成可复制的治理能力，就必须同时限制谁能占据位置、位置能做什么、错误怎样被纠正。韩非以法术引导势，却让君主成为纠错链终点，单点任意因此仍被保留。",
+            "这一分析解释权力为何可制度化，却不证明掌权者的目标正当。位置放大的是行动能力，既能放大稳定标准，也能放大偏见和暴力。评价势必须同时问谁能进入位置、谁能纠正它。"
+          ],
+          "identity": "《难势》《功名》《人主》；慎到前驱声部",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "势没有自己的规范方向",
+          "paragraphs": [
+            "《难势》又不接受势单独足够。桀纣居高位同样能放大灾难，说明结构力量没有自带正确方向，必须与法术及目标判断结合。",
+            "正式授权还改变他人行动。同一建议由私人提出可能无人响应，由负有职责的审计者提出便触发记录、复核和整改；差别不必来自说话者人格。",
+            "位置力量没有自己的方向。它可以让一致规则克服私人阻力，也可以让偏见迅速覆盖整个组织；因此评价势必须把进入、使用和退出位置的条件纳入。只证明命令有效，尚未证明命令值得执行。",
+            "势本身没有规范方向，只有受法与术约束时才可能服务于稳定治理，否则同样会放大昏暴。但韩非把解决放大错误的希望再次交给君主掌握法术，形成循环：君主需要势实施制度，制度又需要君主正确使用势。体系没有独立机制在最高位持续纠错。",
+            "若承认平庸君主也会出现，却仍让最高位置不受制约，势只会把错误同步放大。《难势》不能让势单独保证善治；这一缺口迫使后续讨论说明君主为何隐藏自己。",
+            "势与法术相连后才可能减轻偶然人格风险。法规定可见尺度，术处理代理信息，势提供执行能力；三者任何一项脱离其余两项，都可能分别变成空文、猜疑或赤裸强制。",
+            "韩非让势与法术结合以降低人格偶然，却仍把最后判断集中于君主。若最高位置缺少外部证据和纠错，体系只是把多点任意改成单点任意。现代重构需要把职位能力与领导责任同时制度化。势论的贡献是让政治哲学正视组织位置，不把一切归因人格；其危险是把可复制统治误作可复制善治。"
+          ],
+          "identity": "《难势》《功名》《人主》；慎到前驱声部",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-08-p08",
+      "nodeIds": [
+        "positional-power-node"
+      ],
+      "checkIds": [
+        "positional-power-q1",
+        "positional-power-q2",
+        "positional-power-q3",
+        "positional-power-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-08-p16"
+      ],
+      "recommendedNextLessonId": "ruler-nonaction",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "ruler-nonaction",
+      "order": 9,
+      "title": "九、君主无为为何是一种控制技术",
+      "depth": "longform",
+      "guidingQuestion": "君主不显好恶、不亲自逞能，如何反而增强统治？",
+      "coreExplanation": "paragraph-ref:hanfei-09-p01",
+      "sections": [
+        {
+          "heading": "无为不是退出监督",
+          "paragraphs": [
+            "君主不公开好恶，也不亲自展示才能，为何反而可能增强对臣下的控制？",
+            "韩非的无为不是君主退出政治，而是避免以个人动作替代制度，让臣下自陈、自任并暴露能力。君主少显作为，监督并未减少，反而从不可见位置持续存在。",
+            "君主无为首先是一种信息纪律：不抢先宣布偏好，避免臣下只提供迎合答案；让各人先陈述职责，再把言与结果比较。它与退出政治不同，因为核验和任免仍由中心掌握。公开偏好会给臣下提供迎合与操纵的坐标，而完全隐藏标准又会使核验变成不可质询的猜测。",
+            "虚静还防止君主以才智与臣争功。最高者若亲自处理每一细节，责任边界会消失，臣下只等指示；无为让职位承担者留下可核的行动痕迹。"
+          ],
+          "identity": "《主道》《扬权》《大体》《解老》的不同声音",
+          "kind": "conceptual-analysis"
+        },
+        {
+          "heading": "延后偏好怎样减少迎合",
+          "paragraphs": [
+            "隐藏好恶有明确的信息理由。若面试者先知道君主喜欢勇敢或节俭，所有回答都会向偏好靠拢；延后表态可以减少迎合信号。",
+            "面试官若先透露偏好，往往得到一致的迎合答案；延后表态则可能增加信息量。无为作为信息纪律，有意义之处在于判断者不先把答案塞进汇报者口中。臣下先陈述任务、证据和预期，之后才与结果比较，确能减少迎合污染。但沉默也可能具有另一种功能：让标准保持不可知，使任何结果都可被事后解释。两者的区别不在君主是否少说话，而在评价依据是否稳定、失败理由是否可记录、被评价者能否指出误判。韩非把延迟偏好与秘密统御紧密结合，留下认识克制如何不蜕变为不可质询权力的问题。",
+            "臣自效的前提是任务陈述真正属于臣下，而不是在恐惧中猜出的标准答案。若提出不同方案本身就危险，独立陈述只剩仪式。延后偏好能够改善信息的条件，是错误意见不会立刻被当作不忠，且事后比较依据保持稳定。",
+            "虚静与无为要求君主先让臣下自行陈述任务并承担相应责任，这种延后表态可以减少迎合；但前提是评价依据不会事后变化。若连稳定标准都不可知，沉默就不再是认识上的克制，而成为让他人承担猜测风险的权力技术。",
+            "隐藏欲望确可减少某些操纵，也使政策理由难以接受公开检验。臣下不知道沉默究竟意味着等待证据还是保留惩罚时，会把猜测上意当作核心能力，信息质量反而下降。"
+          ],
+          "identity": "《主道》《扬权》《大体》《解老》的不同声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "沉默何时变成不可知的标准",
+          "paragraphs": [
+            "然而，共同目标也需要表达。长期不说明标准，会让官员靠猜测和宫廷传闻行动，隐藏偏好从防操纵转成制造任意。",
+            "虚静也不能消除选择。君主决定听谁、何时核验、哪些证据可进入，本身已经塑造信息环境；自称无为不意味着没有介入。真正的认识纪律需要记录这些选择，并允许失败判断被回看。",
+            "少干预并不等于自由放任，因为核验仍在进行；不可见监督也不等于认识上的谦抑，因为权力仍可秘密改写评价。《主道》《扬权》的政治无为与《解老》的道理解释有交叉，却不能先假定完全同一。前者清楚服务于君主术，后者还包含事物理路、欲望和生命的解释层。",
+            "目标长期隐藏会妨碍下属合作，也会使最高权力难以被质询。防止信息操纵与保持共同目标透明之间存在真实冲突，接着必须评估君臣敌对模型为此付出的成本。",
+            "虚静的认识价值与秘密统治的权力价值应分开。前者要求判断者延迟成见，后者让他人无法预测检查；二者可能结合，却没有逻辑上的必然同一。",
+            "把无为解释为组织设计时，最有价值的是让职责承担者留下独立陈述，避免最高权力抢先给答案。最危险的则是把不可质询包装成超然。两者外观相似，区别在标准是否公开、理由是否可复核。",
+            "最强异议指出透明合作与隐蔽审查冲突。韩非准确看见表态会污染信息，却没有给出最高权力何时必须说明理由、接受质询的稳定边界。"
+          ],
+          "identity": "《主道》《扬权》《大体》《解老》的不同声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-09-p08",
+      "nodeIds": [
+        "ruler-nonaction-node"
+      ],
+      "checkIds": [
+        "ruler-nonaction-q1",
+        "ruler-nonaction-q2",
+        "ruler-nonaction-q3",
+        "ruler-nonaction-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-09-p16"
+      ],
+      "recommendedNextLessonId": "ministerial-conflict",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "ministerial-conflict",
+      "order": 10,
+      "title": "十、防奸为何会制造君主自己的盲区",
+      "depth": "longform",
+      "guidingQuestion": "亲臣、重臣、近习和宫廷集团可能夺权，全面不信任能否保护君主？",
+      "coreExplanation": "paragraph-ref:hanfei-10-p01",
+      "sections": [
+        {
+          "heading": "正式命令链之外的权力通道",
+          "paragraphs": [
+            "亲臣、重臣、近习与宫廷集团都可能截取权力，但把不信任扩展到所有关系真能保护君主吗？",
+            "韩非最担心的敌人往往不在城墙外，而在命令链内部。重臣通过限制君主所见所闻、私施恩惠和控制文书，可以让国家名义上听君，实际上听臣。",
+            "《八奸》把同床、在旁、父兄、养殃、民萌、流行、威强、四方列作渗透渠道，显示权力不只沿正式官位流动，也沿亲密、名声、财富与外援流动。",
+            "臣下可能通过隔绝君主视听、施予私惠、结党和控制命令来扩张权力，这一模型从职位利益解释近臣、重臣和家族网络为何会截取信息。问题在于，若把每次合作都先判作结党，正常的专业协调也会被破坏。"
+          ],
+          "identity": "《爱臣》《八奸》《奸劫弑臣》《三守》的反臣话语",
+          "kind": "argument"
+        },
+        {
+          "heading": "多渠道报告必须有独立来源",
+          "paragraphs": [
+            "臣下可能谋私，并不推出合作必然是结党。复杂行政需要跨岗位共享知识，若任何横向联系都触发怀疑，组织会把可见的孤立误当忠诚。判断应落在利益冲突、隐瞒证据和责任规避，而非联系本身。",
+            "不专信一人、分开职权、交叉核验消息和禁止臣下私惠，构成了防止单点垄断的几层办法。这些措施能降低某一渠道控制全局的风险，却也可能让每段合作都背负结党嫌疑。",
+            "领导为了防止信息垄断而设置多条汇报线，却可能因相互监控造成无人愿意报告共同失败。君臣利益不一致是一项需要制度处理的风险，却不是关于每次合作的先验判决。若领导把跨部门协调都视作结党，坏消息会在到达中心之前被过滤，专业共同体也无法形成。增加汇报线只有在来源相对独立、异议不会受罚时才改善信息；否则多个渠道只是重复同一恐惧。韩非敏锐分析近臣如何控制视听，却让君主选择渠道的偏差退出审查。公开记录、专业规范和横向问责属于现代回应，它们不是《八奸》已经提出的制度。",
+            "多源核验只有在来源相对独立时才增加信息。几个渠道受同一权势控制，数量增加仍可能只是重复同一偏差；君主本人选择渠道，也会把个人盲点写进所谓交叉验证。"
+          ],
+          "identity": "《爱臣》《八奸》《奸劫弑臣》《三守》的反臣话语",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "全面猜疑会制造更深壅蔽",
+          "paragraphs": [
+            "全面猜疑改变报告者行为。坏消息可能被视为攻击同僚，联合建议可能被视为朋党，官员便学习只送安全信息；君主为防壅蔽而建立的恐惧，反过来制造更深壅蔽。",
+            "专业伦理提供了不同于私人忠诚的合作基础。医官、司法官或仓储官可以因角色规范而互相纠错，并不要求彼此无利益差异。韩非体系过度依靠垂直奖罚，因而低估横向规范如何降低监督成本；这是一项经验与制度问题，不是对善意的浪漫假设。",
+            "多渠道报告只有在渠道具有相对独立来源时才增加可靠性。几个近臣相互转述同一消息，不构成交叉验证；相反意见若会受罚，也不会因增设汇报线而出现。渠道设计必须说明差异从何而来。",
+            "全面疑忌会惩罚忠告、鼓励报喜，并使君主更加依赖秘密渠道。韩非的君臣模型抓住利益不总一致，却低估共同专业规范、公开记录和横向问责。信任不必是对人格的盲信，也可由透明程序和可纠错合作逐步产生。",
+            "君臣关系不必被预设为零和，适当制度可以支持专业共同体。韩非抓住代理风险，却把合作、职业伦理和横向问责压得过薄；问题由此进入言说者的困境。",
+            "对代理人的不信任若贯彻一致，就应包括对最高代理人的审查。韩非往往让君主成为不信任链的终点，这使他的诊断在中层敏锐、在顶层突然停止。",
+            "不信任原则若一致适用，就应把君主的选择偏差也纳入。谁向最高权力提供证据、谁能指出其误判、报复如何被记录，都是同一代理问题的上行版本。韩非在这里停止追问，形成体系的重要盲区。",
+            "结构性敌对最终使君主成为信息瓶颈。他既不能亲知所有事务，又不敢让任何中介稳定成长；理论没有说明一个被隔绝的君主怎样知道自己的防奸术没有被新的近臣操控。"
+          ],
+          "identity": "《爱臣》《八奸》《奸劫弑臣》《三守》的反臣话语",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-10-p08",
+      "nodeIds": [
+        "ministerial-conflict-node"
+      ],
+      "checkIds": [
+        "ministerial-conflict-q1",
+        "ministerial-conflict-q2",
+        "ministerial-conflict-q3",
+        "ministerial-conflict-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-10-p16"
+      ],
+      "recommendedNextLessonId": "persuasion-risk",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "persuasion-risk",
+      "order": 11,
+      "title": "十一、知道真相为何仍不能安全地说服君主",
+      "depth": "longform",
+      "guidingQuestion": "游说成败为什么不只取决于论证真假，而取决于听者欲望、羞耻和权力处境？",
+      "coreExplanation": "paragraph-ref:hanfei-11-p01",
+      "sections": [
+        {
+          "heading": "真理由进入权力关系便改变命运",
+          "paragraphs": [
+            "游说的成败为何不仅取决于论证真假，还受到听者欲望、羞耻与权力处境支配？",
+            "《说难》开门便把困难从“我是否知道”移到“我是否知道听者之心”。同一主张若触及君主隐藏的羞耻、欲望或既定形象，逻辑正确也可能招祸。",
+            "说客因此要判断听者真正想成为什么人。劝节俭若让奢侈者觉得被揭短，政策内容尚未讨论，关系威胁已先启动；政治语言同时作用于事实与身份。",
+            "说难的危险来自内容、时机与听者欲望的交叉。同一建议对不同君主、同一君主的不同处境，可能触发完全不同的防卫反应；说客不仅要有真理由，还要分别判断言说内容、听者的自我形象和政治时机，理解权力将怎样解释理由。"
+          ],
+          "identity": "《难言》《说难》《孤愤》的说客与孤臣声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "逆鳞让说客承担隐秘边界的风险",
+          "paragraphs": [
+            "逆鳞比喻揭示权力不对称。龙可亲近，触到颈下逆鳞便杀人；游说者承担辨认边界的全部风险，而边界由权力者隐秘决定。",
+            "顾问给出正确风险报告，却因公开让决策者失面子而被排斥；当真话触犯隐秘欲望或揭穿能力缺口时，内容正确也可能招致危险。《说难》揭示真理由进入权力关系时会改变命运。说客不仅组织证据，还要预测君主的羞耻、欲望和自我形象；这不是逻辑本身失效，而是接受条件被权力不对称塑造。",
+            "这种处境解释了修辞为何成为生存技能，却不能把责任全部推给说客。若真实坏消息本身就招致惩罚，制度奖励的将是迎合而非判断，最高决策者最终会被自己制造的信息环境包围。"
+          ],
+          "identity": "《难言》《说难》《孤愤》的说客与孤臣声音",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "表达策略不能替代制度保护",
+          "paragraphs": [
+            "游说困境把认识论放进生存风险之中：一个理由即使为真，也可能因触犯君主的欲望或自我形象而无法进入决策。说客于是必须同时判断事实、表达顺序和权力边界。这里不能把所有责任推回个人技巧，因为惩罚坏消息的环境会系统性奖励迎合；表达再精巧，也无法保证关键事实被保留。现代制度所需的是保护异议、保存原始记录并复核报复，而不是训练每个人更准确地猜逆鳞。这些补充应保持接受者的声音身份。",
+            "《孤愤》把问题推进到制度层。智法之士要揭露当权重臣，重臣却控制君主的日常信息和人事；真话不是与假话在空场竞争，而是在对手掌握入口时竞争。",
+            "真话保护也需要限制滥用。并非每个自称忠言者都正确，保护发言不能取消证据审查；关键是把“意见是否错误”与“提出意见是否应受报复”分开。只有这一区分成立，权力者才能在保留判断责任的同时避免制造沉默。",
+            "表达策略有可守边界。调整顺序、选择例子可以帮助理解，隐去关键事实或把反对理由伪装成赞美则改变了命题。区分两者，需要问听者最终获得的信息是否仍足以作出负责判断。"
+          ],
+          "identity": "《难言》《说难》《孤愤》的说客与孤臣声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "保护异议不取消证据审查",
+          "paragraphs": [
+            "《说难》的策略智慧与阿谀、操控之间存在边界：调整表达可以降低无谓触怒，却容易滑成迎合。若为了安全不断把事实改写成君主愿望，游说成功也会失去原本要传递的认识内容。",
+            "如果真话只有迎合权力才能存活，公共理性的空间便已经被放弃。韩非准确诊断不对称权力，却没有充分保护说真话者；接着要看国家如何绕开辩说并重配职业。",
+            "孤愤把知识者的困境推进一步：看见奸臣结构不等于能安全公开。个人勇气无法替代保护异议、保存记录与复核报复的安排；否则忠言只是一次高风险赌博。",
+            "个人圆熟不能修复惩罚坏消息的制度。若失败报告会危及生存，最聪明的说客也有理由迎合；长期结果是决策者只听见自己制造的回声。保护异议与保存记录属于现代回应，不应倒写成原典方案。",
+            "韩非准确描述真知不能自动获得政治效力，却未提供稳定的进谏保护、公开理由和反报复程序。他的诊断越成功，越显示单靠说客技巧无法修补权力结构。"
+          ],
+          "identity": "《难言》《说难》《孤愤》的说客与孤臣声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-11-p08",
+      "nodeIds": [
+        "persuasion-risk-node"
+      ],
+      "checkIds": [
+        "persuasion-risk-q1",
+        "persuasion-risk-q2",
+        "persuasion-risk-q3",
+        "persuasion-risk-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-11-p16"
+      ],
+      "recommendedNextLessonId": "agriculture-war",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "agriculture-war",
+      "order": 12,
+      "title": "十二、农战秩序怎样把社会变成国家能力",
+      "depth": "longform",
+      "guidingQuestion": "为何农业与战争获得奖赏，而游说、商业、游侠和私人学问被视为资源泄漏？",
+      "coreExplanation": "paragraph-ref:hanfei-12-p01",
+      "sections": [
+        {
+          "heading": "粮税、兵员与兼并压力",
+          "paragraphs": [
+            "农业和战功为何被国家集中奖赏，而游说、商业、游侠与私人学问却被视为资源外流？",
+            "兼并战争把粮食和兵员变成国家存续的硬条件。农民提供税粮，战士承担疆场风险，韩非要求爵禄与荣誉向这两种活动集中，让私人收益与国家能力相接。",
+            "农战优先把粮税、兵员与兼并竞争连接成一条目标链，把资源、人口和军事实力纳入同一国家战略。它能解释国家为何压低游食和奢侈，却把多种生活价值压缩为可征税、可动员的产出。",
+            "农战目标把粮食、兵员和国家能力连接起来，具有清楚的动员逻辑。但清楚不等于完整：照护、工艺、贸易和知识的贡献可能通过更长链条出现，若只计算即时粮与功，制度会系统性低估它们。"
+          ],
+          "identity": "《五蠹》《诡使》《六反》《饬令》的国家动员声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "国家也在分配职业荣誉",
+          "paragraphs": [
+            "问题不只是强迫劳动，而是社会称誉的配置。若游说者、游侠或逃役者获得更高名声和收益，愿意耕战者会改变职业选择，法令与实际奖励便互相矛盾。",
+            "荣誉与收入流向何种活动，会改变人们的职业选择。国家若只奖励短期可计量的产出，人才便可能离开基础研究与照护工作，而政策也会把难以计量的长期贡献排除在公共价值之外。",
+            "职业配置还会形成路径依赖。教育、声誉和资源连续偏向耕战后，其他能力即使后来变得重要，也无法立即恢复。政策评价因此不能只看当期产出，而要问它关闭了哪些未来选择。韩非强调集中动员，正需要由这一长期成本加以限制。",
+            "农战政策的逻辑清晰，是因为粮食与军功容易被国家看见、计量并奖赏；清晰也正暴露它的窄化。照护维持劳动力，工艺改善生产，知识发现长期风险，但这些效果往往跨越更长时间，难以归到单一功簿。若荣誉和资源只流向耕战，社会会主动放弃难计量能力。战时压力能够解释这种取舍，却不能永久授权它，更不能用国家总量替家庭死亡、迁徙和重征回答福祉问题。终止条件与代价分配是不可省略的评价。",
+            "奖励耕战也会重塑身份和知识。工艺、照护、商业与学术若不能直接进入国家指标，可能被低估；短期动员能力增加，不表示社会长期韧性同时增加。"
+          ],
+          "identity": "《五蠹》《诡使》《六反》《饬令》的国家动员声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "五蠹分类的机制与压制风险",
+          "paragraphs": [
+            "五蠹分类把学者、言谈者、带剑者、患御者和商工之民视为侵蚀国家的群体。每类批评有具体机制，不能把它们只当骂人清单，也不能忽略分类会给知识压制和职业歧视授权。",
+            "农战的短期可计量性具有政治吸引力：粮可入仓，首级可记功。教育、医疗、工艺和照护的价值较难即时记录，若制度只奖可计量贡献，长期能力会被短期动员吞掉。",
+            "称誉政策会重塑人生选择。国家不仅给物质奖赏，也决定何种职业可获得尊严；当荣誉集中于耕战，无法或不愿进入这两类活动的人会被视为负担。职业多样性、知识积累与民生日常受到的长期压缩，必须计入政策评价，而不能只计算眼前粮税与战功。"
+          ],
+          "identity": "《五蠹》《诡使》《六反》《饬令》的国家动员声音",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "战时动员必须有终止条件",
+          "paragraphs": [
+            "个体福祉与国家强盛也不自动一致。农民增产可能伴随更重征取，士兵立功可能伴随永久战争；“国家更强”不能替承担者回答生活为何值得如此安排。",
+            "国家需要存续这一事实，并不能独自证明全民军事化具有正当性。韩非提供的是动员逻辑而非个体福祉论证；知识权威之间的冲突仍须独立处理。",
+            "弱国压力提供工具理由，不提供无限征用权。家庭承担的死亡、迁徙与饥馑若从账本中消失，富国强兵就会以国家总量遮蔽具体人的损失。",
+            "战争压力可以说明为何短期动员被优先，却不能使动员永久化。若政策没有终止条件，和平也会按战时尺度组织，家庭损失与长期能力持续被国家总量遮蔽。",
+            "农战论揭示资源必须配置而非凭愿望产生，却把配置目标窄化。它需要接受和平可能、职业多样性、知识生产与非军事公共善的强异议。"
+          ],
+          "identity": "《五蠹》《诡使》《六反》《饬令》的国家动员声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-12-p09",
+      "nodeIds": [
+        "agriculture-war-node"
+      ],
+      "checkIds": [
+        "agriculture-war-q1",
+        "agriculture-war-q2",
+        "agriculture-war-q3",
+        "agriculture-war-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-12-p17"
+      ],
+      "recommendedNextLessonId": "prominent-teachings",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "prominent-teachings",
+      "order": 13,
+      "title": "十三、显学与古代权威为何不能裁定当下",
+      "depth": "longform",
+      "guidingQuestion": "儒墨各自分裂却都诉诸圣王，如何在互相冲突的传统中制定政策？",
+      "coreExplanation": "paragraph-ref:hanfei-13-p01",
+      "sections": [
+        {
+          "heading": "共同谱系不能裁定互斥主张",
+          "paragraphs": [
+            "儒墨内部各自分裂却同样诉诸圣王，在这些相互冲突的传统之间应凭什么制定政策？",
+            "《显学》并不只说儒墨错误，它先指出两家各自分裂为多派，却都援引同一创始人与古代圣王。相互冲突的主张不能仅凭共同谱系同时为真。",
+            "同一古代名义之下存在多派互斥解释，这一事实削弱了祖述权威。若孔墨本人已不可复问，后人各称真传，政策必须另找可公开检验的理由，而不能让离古人最近的自称决定。",
+            "显学批评针对言论与公共功效的脱节。传统名望、辩说技巧或道德姿态若不接受后果检验，可能占据资源而不承担失败责任；这项质疑具有真实的认识价值。"
+          ],
+          "identity": "《显学》《五蠹》《问辩》《和氏》中的批判声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "功效检验也包含价值选择",
+          "paragraphs": [
+            "韩非选择功效与法度作为裁决，却把富国强兵预设得过快。什么算功、谁承担失败、长期与短期如何比较，仍是价值判断，不会因拒绝古代权威而自动中立。",
+            "韩非要求显赫言论接受功效检验，可以打破仅凭谱系和名望占据公共资源的权威；但功效不是未经选择的自然量。决定检验目标、时间尺度和证据入口的人，也决定什么会被称为无用。基础研究和批评思想的价值常在远期或反事实中出现，若国家同时垄断目标与处罚，实用审查便容易只确认既有政策。和氏之璧故事说明权力者会误识，却不使每个受挫者自动成为真知者；双方都要接受可复核证据。",
+            "当两个政策集团都援引创始人遗训，却无法说明今天的条件和结果时，可验证的功效就比祖述权威更有裁决力。显学批评迫使公共言论说明后果，这是对空洞权威的有力挑战。然而后果并非只在短期出现，基础知识、批评传统和价值探索常在失败容忍中积累；立即计功会把时间尺度写成偏见。",
+            "但把不可立即计功的活动判作无用，会错过长期知识、批评能力和价值反思。某些研究正因为不迎合眼前目标，才可能发现目标本身错误。"
+          ],
+          "identity": "《显学》《五蠹》《问辩》《和氏》中的批判声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "和氏之璧不能让受挫自动成真",
+          "paragraphs": [
+            "《和氏》让卞和两次受刑、第三次才被识玉，常被用来比拟法术之士不被识用。故事能显示鉴定者无能的代价，也可能让每位失败进言者都把自己想成未识之玉。",
+            "谁定义“功”同样关键。若国家既设目标、收集证据又惩罚异议，功效检验很容易只确认既定政策。真正的检验需要允许目标本身成为争论对象，并保留不利结果的记录。",
+            "多派争论也不只意味着权威失效，它可能显示问题本身包含难以消除的价值冲突。若国家因意见不一便指定唯一正统，分歧没有被解决，只是失去公开形式。功效检验应允许竞争解释留下可比较记录，而不是先把不合目标者逐出证据空间。",
+            "批判无法裁决的权威竞争，并不等于可以压制一切异议知识。法度本身需要记录、解释、反例和专业判断；若学者只能在国家目标内发言，统治者会失去发现目标错误的外部视角。"
+          ],
+          "identity": "《显学》《五蠹》《问辩》《和氏》中的批判声音",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "开放检验与压制异议的分界",
+          "paragraphs": [
+            "效果标准预先包含价值选择，不能以中立姿态自行决定何为功。韩非有效攻击谱系即真理，却将富国强兵预设为最高尺度；未决问题落到家庭义务与公共目标的冲突。",
+            "问题因而不是言论应否受检验，而是谁定义检验和允许何种时间尺度。国家若同时垄断目标、证据与处罚，所谓实用审查很容易成为排除异议的工具。",
+            "和氏之璧故事提醒权力者可能误识，也提醒进言者不能把受挫自动当作正确证明。两边都需要可复核证据：受罚不使意见成真，地位也不使判断免错。",
+            "因此，韩非有力揭示传统内部多声部和权威冒名，却没有充分保护思想竞争。反教条若由君主独占裁决，可能变成新的教条。裁决权本身也需要接受异议检验。"
+          ],
+          "identity": "《显学》《五蠹》《问辩》《和氏》中的批判声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-13-p08",
+      "nodeIds": [
+        "prominent-teachings-node"
+      ],
+      "checkIds": [
+        "prominent-teachings-q1",
+        "prominent-teachings-q2",
+        "prominent-teachings-q3",
+        "prominent-teachings-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-13-p16"
+      ],
+      "recommendedNextLessonId": "family-gender",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "family-gender",
+      "order": 14,
+      "title": "十四、忠孝、私门与内廷怀疑的代价",
+      "depth": "longform",
+      "guidingQuestion": "亲属忠诚、孝与国家命令冲突时谁优先？后妃与近亲为何常被描写成政治威胁？",
+      "coreExplanation": "paragraph-ref:hanfei-14-p01",
+      "sections": [
+        {
+          "heading": "特殊照护与公共受托责任",
+          "paragraphs": [
+            "亲属忠诚与孝道若同国家命令冲突，应由谁取得优先地位？后妃与近亲又为何常被描写为政治威胁？法度要求公共职位不因亲疏改变，家庭却以特殊照护为基础。官员包庇亲属时，孝亲理由与公共受托责任发生冲突；韩非通常让国家标准压倒私人关系。",
+            "官员包庇亲属既体现关系义务，也破坏公共职位的同一标准；家庭私惠还会截流国家赏罚，使正式制度转化为家门资源。家庭材料因此既揭示私情如何与公权冲突，也暴露文本对女性和亲属关系的工具化。把后宫、母族或妻妾主要写成威胁渠道，会让具体人物只剩权力风险标签。"
+          ],
+          "identity": "《忠孝》《备内》《八奸》《六反》的家庭政治声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "反私门可以拆解世袭特权",
+          "paragraphs": [
+            "这项批判有公共性资源。贵族以家门截取官位和奖赏，会让普通人无法按同一标准参与；反私门可以拆解世袭特权。",
+            "韩非通常以国家命令单向压倒孝亲义务，但这并未真正解决忠孝冲突。内廷与亲属网络能够截取资源和信息，这是一项位置机制，而不是女性或亲情的天然属性。男性近臣、军功集团和师生同样可能形成私人门路；把风险写成后妃本性，会让真实因果从利益和职位滑向性别定型。忠孝冲突也不能靠忠君一律清除，因为公共命令本身可能不义。较完整的分析要同时防止家族特权侵占公共位置，又保留亲密关系不被国家任意摧毁的边界；后一要求是现代规范评价，不是替原典润色。",
+            "宫廷亲属确可成为资源与信息通道，但通道风险不等于女性本性。相同机制也存在于男性近臣、军功集团和师生网络；若把因果归给性别，制度位置和利益结构反而被遮蔽。",
+            "亲属网络确可形成裙带与资源截取，问题不能因此被归为女性本性。相同机制也存在于男性盟友、师生和军功集团；制度分析应追踪位置与激励，而非把性别当作因果捷径。"
+          ],
+          "identity": "《忠孝》《备内》《八奸》《六反》的家庭政治声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "不义命令使忠孝排序仍有债务",
+          "paragraphs": [
+            "然而，忠与孝被重新排序并不等于冲突消失。国家也可能发布不义命令，若忠君永远优先，公共标准只是把最大的私人家长放在全国之上。",
+            "私门问题还须区分照护依赖与政治交易。家庭成员互相照顾并不等于截取官位，真正需要限制的是利用公共权力给予不可说明的优待。若二者混同，国家会以反裙带名义侵入一切亲密关系；公共标准反而成为扩大统治范围的工具。",
+            "文本中的性别定型具有实际政治后果。被写成天然危险者更容易失去发言资格，其行动也会预先按阴谋解释。历史语境能够解释这种写法为何出现，却不能替其认识错误和伤害免责。"
+          ],
+          "identity": "《忠孝》《备内》《八奸》《六反》的家庭政治声音",
+          "kind": "normative-analysis"
+        },
+        {
+          "heading": "宫廷风险不能被写成女性本性",
+          "paragraphs": [
+            "《备内》把妻妾、太子、母后与外戚视为夺权渠道，宫廷继承确有利益冲突；文本却常把女性欲望、嫉妒和亲密影响定型为特殊危险，形成不可用“时代如此”消去的厌女层。",
+            "宫廷继承确有制度风险，但必须与文本对女性欲望、嫉妒和母族的定型分开评价。风险完全可以非性别化表达：任何无法审计的亲密渠道、继承利益与财产网络都可能影响决策。做这项现代重构时必须标明它是修正，而不能假装原文已经平等。",
+            "反对家门截取公权可以促进公共性，却不能授权把女性和亲密关系预设为奸邪来源。制度风险可非性别化处理；原典偏见必须保留归责，不能用现代语言润色掉。接下来还要检查其物质背景。",
+            "忠孝冲突进一步说明国家要求并非天然优先。若公共规则本身不正，要求个人切断亲情并不会自动产生公正，只可能把全部依附重新集中到最高权力。",
+            "忠孝冲突显示私人关系与公共命令都可能提出真实要求。把国家一律置顶，只是把依附从家族集中到君主；更困难的问题是公共规则怎样取得正当性，又怎样避免亲情成为裙带特权。",
+            "韩非帮助我们看见家门如何俘获公共权力，也留下家庭照护、国家不义和女性主体性三重债务。反裙带关系不能成为污名化亲密者的许可证。"
+          ],
+          "identity": "《忠孝》《备内》《八奸》《六反》的家庭政治声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-14-p08",
+      "nodeIds": [
+        "family-gender-node"
+      ],
+      "checkIds": [
+        "family-gender-q1",
+        "family-gender-q2",
+        "family-gender-q3",
+        "family-gender-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-14-p15"
+      ],
+      "recommendedNextLessonId": "scarcity-population",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "scarcity-population",
+      "order": 15,
+      "title": "十五、人口、稀缺与利益竞争能解释多少",
+      "depth": "longform",
+      "guidingQuestion": "《五蠹》用人口增长与资源有限解释古今风俗差异，这是一种政治经济洞见还是粗糙决定论？",
+      "coreExplanation": "paragraph-ref:hanfei-15-p01",
+      "sections": [
+        {
+          "heading": "人口与资源比如何改变竞争压力",
+          "paragraphs": [
+            "《五蠹》用人口增长与资源有限解释古今风俗差异，这是一种政治经济洞见还是粗糙决定论？",
+            "《五蠹》把古今风俗变化连接到人口与资源：人少财有余时争夺较弱，人多财寡时竞争加剧。它用物质条件解释道德风貌，而不只责怪后人品质下降。",
+            "人口增加而可用资源未同比增长时，竞争压力会上升；这一比例变化为风俗变动提供物质解释，避免把贫困中的冲突全归为道德堕落。它说明同一规范在丰裕和饥馑中承受的压力不同。",
+            "这种解释能说明同一亲情在丰歉中承受不同压力，也能解释价格与职业选择为何变化。它是条件机制，不是说资源一紧张，所有人必然以同一种方式行动。"
+          ],
+          "identity": "《五蠹》《六反》《心度》的政治经济观察",
+          "kind": "argument"
+        },
+        {
+          "heading": "技术、制度与分配不能被人数抹去",
+          "paragraphs": [
+            "人口只是资源比的一端。技术、土地制度、税收、战争破坏和财富集中都会改变可用资源；若只把贫困归为人数增加，就会把权力制造的稀缺自然化。",
+            "人口增长与资源压力能够说明相同风俗在不同物质条件下为何改变，却不能推出人数单独决定行为。战争破坏、赋税、土地集中和技术都会改变可得资源，国家仓储与家庭安全也可能朝相反方向变化。若只看总量，制度制造的贫困会被写成自然命运；若只讲道德，真实压力又会消失。韩非的贡献是把条件带回解释，局限是缺乏现代统计与分配分析。把它用作可检验假说，比宣布一条古代人口定律更忠实。",
+            "价格、职业选择与亲情行为都会受到物质条件影响；住房不足会改变家庭决策，但不证明各种冲突只能靠惩罚解决。人口与资源比例能解释竞争压力，却不能独自决定行为。技术、土地制度、税收和战争会改变资源可得性，同样人口在不同安排下可能面对完全不同的选择。条件解释必须保持多因开放。",
+            "稀缺并不只是自然给定。战争破坏、税收、土地集中和技术安排都会改变可用资源；若把制度造成的贫困写成人口命运，责任就被错误地自然化。"
+          ],
+          "identity": "《五蠹》《六反》《心度》的政治经济观察",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "总量增长不等于家庭安全",
+          "paragraphs": [
+            "韩非倾向用法令和奖惩把竞争导向农战，却较少追问分配是否公平。国家仓库增加不证明家庭获得安全，集中资源也可能让最弱者承担生存成本。",
+            "风俗变化也可能包含适应而非堕落。家庭减少扶养、迁徙或改变职业，有时是在压力下保存生计；仅以旧道德尺度谴责，会错过制度原因。物质解释的价值正在于把可改变的条件重新显现，而不是把人降成资源比率的被动结果。",
+            "稀缺还涉及分配。国家仓储增加时，家庭可能因征取而更不安全；总量指标若不报告谁控制资源，就会把国家能力误作普遍福利。韩非的物质敏感需要与分布证据相接。",
+            "人口与资源的关系只能构成条件性机制，不能直接升级为普遍人口定律；分配、技术和制度变量都会改变结果。现代人口学类比尤其需要克制。古代观察没有现代统计、出生死亡模型或生态数据，不能把一段历史推测包装成经验证成的普遍定律。"
+          ],
+          "identity": "《五蠹》《六反》《心度》的政治经济观察",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "古代洞见应保持可检验假说身份",
+          "paragraphs": [
+            "资源不足有时是权力分配的结果，不能一概自然化。韩非看到物质约束却缺少分配正义；接下来要检验其案例能否发现政策自身的反例。",
+            "国家储备、军队供给与家庭安全也不是同一指标。总量上升可能伴随分配恶化，条件解释因此必须接上分配原则，才不会把富国直接等同于人民受益。",
+            "把古代观察用于现代人口问题时，最稳妥的方式是保留假说地位。它提示资源压力可能改变风俗，却没有现代统计、反事实比较和因果识别；概念先见不能替代经验验证。",
+            "这项思想的价值在于提醒政治伦理不能无视物质约束；它的边界在于物质约束从不自己决定分配原则、政策正当与人的全部动机。"
+          ],
+          "identity": "《五蠹》《六反》《心度》的政治经济观察",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-15-p08",
+      "nodeIds": [
+        "scarcity-population-node"
+      ],
+      "checkIds": [
+        "scarcity-population-q1",
+        "scarcity-population-q2",
+        "scarcity-population-q3",
+        "scarcity-population-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-15-p16"
+      ],
+      "recommendedNextLessonId": "case-reasoning",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "case-reasoning",
+      "order": 16,
+      "title": "十六、寓言和储说怎样承担证据功能",
+      "depth": "longform",
+      "guidingQuestion": "自相矛盾、买椟还珠、守株待兔等故事只是格言素材，还是一种政治推理技术？",
+      "coreExplanation": "paragraph-ref:hanfei-16-p01",
+      "sections": [
+        {
+          "heading": "经与说怎样形成案例库",
+          "paragraphs": [
+            "自相矛盾、买椟还珠与守株待兔等故事，究竟只是格言材料，还是能够承担政治推理的技术？",
+            "储说的结构常先列一条简短的经，再串联多个说例。经给出待观察机制，故事让它在不同人物和情势中变化；这比一则故事配一句训诫更接近案例库。",
+            "故事在论证中可以承担例证、类比、反例、权威拆解或行动诊断等不同功能。经与说的配对使故事承担机制检验，而非只作装饰；不同人物和后果可以显示同一判断在哪些条件下成立，也能暴露一条概括的例外。",
+            "储说、说林和难篇让案例承担不同逻辑功能：有的构造反例，有的暴露概念冲突，有的比较同一机制在不同人物身上的后果。矛盾故事之所以有力，不是商品描写生动，而是把两项全称承诺放入同一测试场景。可是案例选择本身也会偏斜；汇编若不断保存欺骗和惩罚成功，就会高估背叛的发生率。故事足以证明某种失败可能发生，却不能单独说明它有多常见，更不能替制度效果提供总体统计。"
+          ],
+          "identity": "内外储说、说林、难篇的编纂与案例声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "矛盾故事测试两个全称承诺",
+          "paragraphs": [
+            "自相矛盾故事测试两个绝对承诺能否同真。它不是只劝人别吹牛，而是把语言承诺放进同一可能世界：无物不陷之矛与不可陷之盾相遇时，卖者无法保持两项全称。",
+            "“矛盾”故事把同一人的两项绝对承诺放进共同测试场景，检查它们能否共真，而不只是劝人别吹牛。《内外储说》把经与说配对，使一个判断能够通过不同人物、行动和后果得到反复观察。",
+            "经与说的配对让抽象判断进入可观察情境。案例中的人物、选择和后果不是装饰，而是检验一项机制在条件改变时是否仍成立；多个说例之间的差异尤其重要。",
+            "自相矛盾故事的力量来自共同测试场景。两项全称承诺分别听来都强，放到矛盾相遇的情形才显出不能同真；这是一种压缩的反例构造。"
+          ],
+          "identity": "内外储说、说林、难篇的编纂与案例声音",
+          "kind": "case-analysis"
+        },
+        {
+          "heading": "反例击中的是命题量词",
+          "paragraphs": [
+            "案例还能承担反例。传统圣王故事若在细节上无法同时成立，难篇便以追问打断权威叙述，让古人名号也接受一致性检查。",
+            "反例的力量取决于它击中概括的量词。一个案例足以推翻“从不失败”，却不足以推翻“通常有效”；多个同类故事也未必具有代表性。把案例与命题强度对应，才能避免寓言在修辞上很有说服力、在推理上却承担过重结论。对故事结局的解释还应说明是否存在替代原因，不能把先后发生直接当成唯一因果。",
+            "矛盾故事展示的是共同测试场景的力量。两项孤立承诺都显得强，放到同一相遇条件才暴露不能同真；这种方法可用于检查制度口号是否在冲突情形下仍保持一致。但故事的选择可能偏向作者预设，史实可靠性也未必充分，一例更不能直接推出全局制度效果。"
+          ],
+          "identity": "内外储说、说林、难篇的编纂与案例声音",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "故事能证明可能性，不能提供发生率",
+          "paragraphs": [
+            "然而，故事来源和史实可靠性强弱不一。一个机智案例可以说明机制可能存在，不能单独证明大国政策会普遍产生同样结果。",
+            "选材也会偏向符合经的例子。若只保存臣下欺君故事，解释就会高估背叛基率；独立判断需要寻找合作、误报和君主误判等反例。",
+            "单个寓言不足以证明大规模制度确实有效。它能暴露概念冲突和行为机制，却不能替代经验比较；接下来转向文本中最异质的解释层。",
+            "案例库仍有选择偏差。只保存欺骗、背叛与惩罚成功的故事，会高估这些机制的常见度；寓言可以证明可能性和概念冲突，不能单独提供发生率。",
+            "案例库不能提供发生率。若汇编偏爱欺骗与惩罚成功，解释会高估背叛基率并忽略合作、误报和君主误判。寓言证明可能性或概念冲突后，仍需要更广证据判断常见程度。",
+            "寓言因此既不是装饰，也不是统计证据。它最擅长暴露概念冲突、生成假说和训练情境辨识，制度有效性仍需更广比较。故事的启发力不能替代样本外核验。"
+          ],
+          "identity": "内外储说、说林、难篇的编纂与案例声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-16-p09",
+      "nodeIds": [
+        "case-reasoning-node"
+      ],
+      "checkIds": [
+        "case-reasoning-q1",
+        "case-reasoning-q2",
+        "case-reasoning-q3",
+        "case-reasoning-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-16-p17"
+      ],
+      "recommendedNextLessonId": "laozi-layer",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "laozi-layer",
+      "order": 17,
+      "title": "十七、老子的道如何进入君主技术",
+      "depth": "longform",
+      "guidingQuestion": "《解老》《喻老》的道、理、德、无为与《主道》的隐蔽统治是同一哲学，还是汇编中的不同层？",
+      "coreExplanation": "paragraph-ref:hanfei-17-p01",
+      "sections": [
+        {
+          "heading": "《解老》的理与对象纹理",
+          "paragraphs": [
+            "《解老》《喻老》讨论的道、理、德与无为，同《主道》的隐蔽统治属于一个哲学体系，还是汇编中的不同层次？",
+            "《解老》逐句解释《老子》若干语句，把道与万物所以然、理与具体纹理相接。它不只是给君主的技巧清单，还试图说明行动为何应顺着事物结构而非任意强作。",
+            "《解老》讨论道与理时，解释对象不只是行政命令。事物纹理限制行动者如何作为，这使虚静具有延迟成见、观察条件的认识意义。",
+            "《解老》《喻老》的具体章句解释与《主道》等政治论说不能先验地归为同一声部。解释篇还提出一种不同于奖罚计算的行动限制：事物有自身结构，强行作为可能因违背条件而失败。这个线索与法术势之间既可互补也可冲突。若统治技术只问如何控制他人，而不问对象结构怎样反制，所谓顺理便会退化成权力自我描述。概念史的任务正是保存这种未被行政语言完全吸收的余量。"
+          ],
+          "identity": "《解老》《喻老》解释声音；《主道》《扬权》政治声音",
+          "kind": "textual-analysis"
+        },
+        {
+          "heading": "《喻老》让抽象语句进入案例",
+          "paragraphs": [
+            "《喻老》以历史故事和身体经验说明抽象语句，解释方式与储说相近：概念通过案例获得可感压力。这层声音不能被主道篇完全吞并。",
+            "不抢先定论可改善观察，但当不表态用于让下属互相暴露时，功能已从认识谦抑转向控制。虚静、少显偏好与顺理在这里被重新安排为君主的认知位置：中心保持不可见，臣下则必须先暴露承诺和行动。",
+            "《解老》的理指向事物的具体纹理，使行动受对象条件限制；它不能被直接缩成行政命令。这个解释层为虚静提供观察与延迟成见的意义。",
+            "《主道》把相近语汇放入君臣控制，功能随之改变。不显欲望既可能减少偏见，也可能让臣下无法判断检查标准；认识谦抑与策略隐蔽必须分别证明。"
+          ],
+          "identity": "《解老》《喻老》解释声音；《主道》《扬权》政治声音",
+          "kind": "textual-analysis"
+        },
+        {
+          "heading": "《主道》把无为部署到君臣控制",
+          "paragraphs": [
+            "《主道》则明确把不可见、虚静和无为置于君臣关系。君主不暴露欲望，让臣下呈现实绩；老学语汇在这里被重新部署为认识与控制位置。",
+            "《解老》《喻老》的解释活动与《主道》的君臣控制共享部分语汇，却不因此承担相同功能。“理”可以指事物纹理和所以然，要求行动者尊重对象条件；隐藏欲望则可能成为避免迎合的认识策略，也可能成为让臣下无法预测检查的权力策略。概念迁移需要逐段说明中介，不能让“无为”二字抹平体裁和归属差异。保留老学层既使汇编更复杂，也阻止宇宙秩序自动为严刑秘密术提供正当性。",
+            "两层之间确有交叉。少私欲可以减少判断偏差，顺理可以限制任意干预；但从认识谦抑到诱使臣下暴露，并不是没有变化的同一功能。",
+            "《主道》把不显欲望用于君臣信息控制，功能已经发生变化。相同语汇在认识谦抑和策略隐蔽中可能产生不同后果，不能因词形相似便宣布同一规范。宇宙论、修身论与统治术之间不能完全互译，这种张力本身必须保留下来。"
+          ],
+          "identity": "《解老》《喻老》解释声音；《主道》《扬权》政治声音",
+          "kind": "comparative-analysis"
+        },
+        {
+          "heading": "概念交叉不等于单一作者体系",
+          "paragraphs": [
+            "作者归属和成篇关系仍有争议。把《解老》《喻老》称为传世本中的早期老子解释材料较稳妥，直接宣布韩非用单一形上学奠基全书则过强。",
+            "把这些材料的道家基础完全归为后世强行调和，同样说得过满。传世文本确有概念交叉，却不足以证明单一作者体系；战争外交篇还须继续按声音等级处理。",
+            "文本层次的保留避免两种过度：既不把老学材料从韩非汇编中驱逐，也不让宇宙秩序自动替严刑和秘密控制提供正当性。概念联系不等于规范授权。",
+            "保留文本层次既不排除老学材料，也不让宇宙秩序替秘密术背书。概念影响、篇章归属和制度正当性是三条需要分别证明的关系。",
+            "老学层提醒我们韩非文本不仅有奖惩计算，也有关于知、欲和事物理路的反思；声音分层又防止这些反思替统治暴力镀上宇宙必然性。解释层次不能被统治用途吞并。"
+          ],
+          "identity": "《解老》《喻老》解释声音；《主道》《扬权》政治声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-17-p09",
+      "nodeIds": [
+        "laozi-layer-node"
+      ],
+      "checkIds": [
+        "laozi-layer-q1",
+        "laozi-layer-q2",
+        "laozi-layer-q3",
+        "laozi-layer-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-17-p17"
+      ],
+      "recommendedNextLessonId": "war-diplomacy",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "war-diplomacy",
+      "order": 18,
+      "title": "十八、弱国求存如何越过征服边界",
+      "depth": "longform",
+      "guidingQuestion": "韩非身处韩国弱势与秦扩张之间，富国强兵是防亡、统一天下还是征服辩护？",
+      "coreExplanation": "paragraph-ref:hanfei-18-p01",
+      "sections": [
+        {
+          "heading": "外患到来之前的内部失序",
+          "paragraphs": [
+            "韩非处在韩国弱势与秦国扩张之间，富国强兵究竟服务于防亡、统一天下，还是也会成为征服的辩护？",
+            "亡征把军事失败追溯到内部结构：赏罚失信、臣强主弱、听言不参、资源错配都会在外敌到来前掏空国家。安全不是城墙厚度的单一函数。",
+            "亡国征候把外部失败连接到内部信息、赏罚和资源结构。敌军到来之前，失真的报告与竞争权力中心已经削弱协调，安全因此不是单纯比较兵力。",
+            "《亡征》《安危》等篇把内部失序与外部风险放在同一诊断中：赏罚失信、近臣壅蔽和资源错配会在战争前削弱协调，因此安全分析不能只比较军队数量。"
+          ],
+          "identity": "《亡征》《安危》《初见秦》《存韩》的不同篇章声音",
+          "kind": "argument"
+        },
+        {
+          "heading": "弱国自卫不推出兼并权",
+          "paragraphs": [
+            "弱国韩国的处境让这套诊断带有迫近感。强化协调与防御可以是避免被吞并的理由，却不能由此直接推出对更弱邻国的兼并权。",
+            "小国为避免被吞并而集中资源自卫，并不因此取得吞并更小邻国的正当性。防御能力、联盟游说、兼并策略和统一目标具有不同的规范方向，不能由“强国”或“安全”一词合并授权。",
+            "《亡征》把外部失败追溯到内部赏罚、信息和资源结构，说明安全不是敌军到来后才出现的问题。《初见秦》与《存韩》又把文本放入相反外交方向：前者可被用于统一论证，后者围绕存韩展开，二者归属均需谨慎。韩国受压可以说明改革和防御为何紧迫，却不能把受威胁经验转换成无限征服权。防御、兼并与统一后的统治分别涉及必要性、平民代价和终止条件，必须逐项判断。",
+            "韩国受压的事实可以支持防御和改革的紧迫，却不能转化为对邻国的无限权利。自卫与征服方向不同，必须分别说明手段、平民代价和终止条件。"
+          ],
+          "identity": "《亡征》《安危》《初见秦》《存韩》的不同篇章声音",
+          "kind": "normative-analysis"
+        },
+        {
+          "heading": "《初见秦》《存韩》的相反政治方向",
+          "paragraphs": [
+            "《初见秦》使用为秦谋取天下的雄辩，《存韩》又呈现保韩方案和李斯驳议。两篇的政治方向、交涉身份与归属争议要求逐声部处理，不能拼成韩非内心独白。",
+            "韩国受压为防御和改革提供紧迫理由，却不自动授权征服。自卫需要说明威胁与必要性，扩张还要说明他国平民代价和终止条件；两种方向不能由“强国”一词合并。《初见秦》与《存韩》的归属证据和说客处境也各有强弱，不能作为同一声音无差别使用。"
+          ],
+          "identity": "《亡征》《安危》《初见秦》《存韩》的不同篇章声音",
+          "kind": "voice-analysis"
+        },
+        {
+          "heading": "统一结果不能预先赦免征服手段",
+          "paragraphs": [
+            "统一可能减少列国战争，也可能以征服、屠杀和高压动员实现。结束战争的目标不能预先把实现过程中的平民伤害登记为无关成本。",
+            "统一带来的战争减少也不能独自结清评价。统一过程可能造成巨大伤害，统一后的高压秩序也可能把冲突转成不可见。结果论证需要比较可行替代、伤害分布和长期权力结构，而不能把“终有和平”当作对任何手段的预先赦免。外交文本的策略成功与其规范正当也必须分开判断。",
+            "安全困境还会循环：每国为自保扩军，邻国将其视为威胁，进一步扩军。韩非重在增强自身能力，较少发展可信承诺、互惠限制与和平制度。",
+            "若国家生存被设为不受限制的最高理由，政治很容易滑向永久战争。安全压力真实，却不能取消平民伤害、侵略区别与和平制度的要求；这些问题会成为对体系的总体反对。",
+            "《初见秦》与《存韩》的相反政治方向提醒解释者，外交文本首先是处境中的行动。它们可以展示统一与存韩的论证资源，却不能未经归属判断便合成为一个稳定内心。",
+            "《初见秦》与《存韩》展示不同政治行动，归属又有争议。它们可分别说明统一论证和存韩论证怎样运作，却不宜拼成一个无时间差、无处境差的内心独白。",
+            "这篇不把韩非变成现代国际关系理论家，只用现代术语标明问题结构。原典能支持弱国生存压力与统一想象，无法独自完成侵略区别和战后正义。政治成败与规范许可仍须分别论证。"
+          ],
+          "identity": "《亡征》《安危》《初见秦》《存韩》的不同篇章声音",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-18-p09",
+      "nodeIds": [
+        "war-diplomacy-node"
+      ],
+      "checkIds": [
+        "war-diplomacy-q1",
+        "war-diplomacy-q2",
+        "war-diplomacy-q3",
+        "war-diplomacy-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-18-p17"
+      ],
+      "recommendedNextLessonId": "system-contradiction",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "system-contradiction",
+      "order": 19,
+      "title": "十九、制度现实主义为何可能落回君主任意",
+      "depth": "longform",
+      "guidingQuestion": "韩非反对贵族私权和主观用人，却把法、术、势集中于一个不受同等审查的君主，体系能否自洽？",
+      "coreExplanation": "paragraph-ref:hanfei-19-p01",
+      "sections": [
+        {
+          "heading": "制度洞见为何值得保留",
+          "paragraphs": [
+            "韩非反对贵族私权和主观用人，却把法、术、势集中于一个不受同等审查的君主，体系能否自洽？",
+            "韩非最有力的贡献是把善治从好心愿望推进到组织条件：标准须可知，职事须分开，言与功须绑定，私门不得截取公权。这些都是真实制度问题。",
+            "韩非的制度论确有可知标准、明确分职、核验功效和防止权力兼并等贡献，但公开法与秘密术在信息条件上相冲突。臣民需要预见规则才能安排生活，君主则被鼓励隐藏检查方式；两种机制若没有边界，公开承诺会被不可见判断持续改写。",
+            "公开法要求可预期，秘密术则依赖被检查者无法完全预见。若两者没有边界，公开承诺会被隐藏标准持续改写，臣下只能猜测上意而无法据规则安排。"
+          ],
+          "identity": "《有度》《主道》《二柄》《八经》《难势》的跨篇综合",
+          "kind": "argument"
+        },
+        {
+          "heading": "公开法与秘密术的自我强化冲突",
+          "paragraphs": [
+            "同一体系却要求君主隐藏检查方式、垄断赏罚和保持不可测。对臣民而言，法的价值在可预期；对君主而言，术的价值在他人不能完全预期。两种优势在边界处冲突。",
+            "韩非体系最深的张力并非某条政策偶然失灵，而是两种信息要求同时存在。公开法让行动者根据稳定标准安排行为，秘密术让君主保留不可预测的检查；若没有边界，后者会持续改写前者。反私人权力的原则也在顶端中断：近臣与家族因位置风险受审查，拥有最大位置能力的君主却成为审查终点。保留责任链和证据核验，不必保留君主豁免；公开理由、申诉与领导责任是明确的现代重构。",
+            "这组矛盾还会产生自我强化：规则越被秘密例外削弱，中心越认为公开法不足，继而增加暗察；暗察越多，行动者越依赖猜测，公开规则又更难发挥作用。打断循环需要限制秘密检查的范围，并让顶端决定留下可复核理由。",
+            "公开法要求规则可知，秘密术却隐藏审查方式；体系反对臣下私人垄断，又保留最高私人权力。一个组织若建立严格审计，却允许最高负责人秘密改动指标，制度化外观反而会遮蔽任意。",
+            "反私人权力的原则也应上行。近臣、贵族和家族受到怀疑，是因为他们可能让私人利益截取公共位置；君主若免于同类审查，最大的位置风险反而被保留。"
+          ],
+          "identity": "《有度》《主道》《二柄》《八经》《难势》的跨篇综合",
+          "kind": "mechanism"
+        },
+        {
+          "heading": "反私人权力为何在君主处中断",
+          "paragraphs": [
+            "反私人权力也出现顶端悖论。贵族、重臣和家门不得以私爱改法，君主本人却常被设为法的最终来源与使用者；全国最大的私人判断没有同等外部审查。",
+            "反私人权力的理由应当上行。近臣和家族因可能截取公共位置而受审查，君主掌握更大的位置能力，却在体系中缺少同等外部核验；不信任原则因此在最关键处中断。",
+            "酷刑、思想压制、集体责任和战争不能仅凭秩序效果获得辩护，因为被压制者的权利与伤害并未进入这一单一尺度。最强批评不必否认韩非的全部洞见：现代组织仍需责任链、防裙带和证据核验；提取这些机制时，必须同时拒绝君主豁免与国家目的独占。"
+          ],
+          "identity": "《有度》《主道》《二柄》《八经》《难势》的跨篇综合",
+          "kind": "system-critique"
+        },
+        {
+          "heading": "秩序效果不能结清暴力债务",
+          "paragraphs": [
+            "严刑、连坐、思想压制和农战动员不能只以秩序效果完成辩护。谁定义秩序、受罚者能否申辩、无辜伤害是否可接受，都是韩非目的框架压低的问题。",
+            "若把韩非仅判作暴君的辩护士，会漏掉其官僚问责洞见；若只赞扬制度主义，又会抹去受害者。回应必须双向成立：提取问题诊断不等于接受其最高目的与权力结构，尚未解决的部分还要交给接受史检验。",
+            "这项矛盾不取消责任链、反裙带和证据核验的价值。它要求把这些机制从君主豁免中拆出，并加入公开理由、申诉和领导责任，且明确这些新增条件属于现代规范重构。",
+            "责任链、反裙带和证据核验仍可被保留，但要与君主豁免拆开。公开理由、申诉和领导责任能回应顶端盲区，这些条件属于现代规范重构，而不是韩非已经完成的制度。",
+            "这不是把韩非调和成自由主义者，也不是用暴君标签停止阅读。较诚实的结论是：他的制度现实主义准确发现中层代理问题，却在最高层暂停了自己的不信任原则。"
+          ],
+          "identity": "《有度》《主道》《二柄》《八经》《难势》的跨篇综合",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-19-p09",
+      "nodeIds": [
+        "system-contradiction-node"
+      ],
+      "checkIds": [
+        "system-contradiction-q1",
+        "system-contradiction-q2",
+        "system-contradiction-q3",
+        "system-contradiction-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-19-p17"
+      ],
+      "recommendedNextLessonId": "reception",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "reception",
+      "order": 20,
+      "title": "二十、从法家到现代法治误读",
+      "depth": "longform",
+      "guidingQuestion": "韩非如何被汉代分类、秦亡叙事、帝国技术和现代政治语言重新塑造？",
+      "coreExplanation": "paragraph-ref:hanfei-20-p01",
+      "sections": [
+        {
+          "heading": "法家是后世分类，不是先秦章程",
+          "paragraphs": [
+            "从汉代分类、秦亡叙事到帝国技术和现代政治语言，后世怎样不断重塑韩非的形象与用途？",
+            "“法家”是后世分类工具，不是战国时代一群思想家共同签署的成员名单。韩非在《定法》中比较商鞅与申不害，确为后来把他们并置提供资源，但并置不等于内部同质。",
+            "法家标签把不同思想家放入后世谱系，便于比较，也容易制造同质幻觉。《定法》的前驱叙事本身就是韩非的解释工程，不能替商鞅和申不害完成全部历史画像。",
+            "“法家”是后世形成的分类，不是先秦成员共同签署的章程；韩非把商鞅、申不害与慎到等前驱重排为自身综合叙事的一部分。这个标签便于追踪相似问题，也可能抹平诸家在目标与方法上的差异。"
+          ],
+          "identity": "司马迁传记；汉代法家标签；现代比较重构",
+          "kind": "reception-history"
+        },
+        {
+          "heading": "相似、影响与共同压力必须分开",
+          "paragraphs": [
+            "秦的政策与韩非主张有相似处，韩非又死于秦国政治斗争。思想影响、官僚制度的共同背景、具体法令来源和秦亡原因必须分开，不能用“秦采用法家所以速亡”替代因果链。",
+            "文本影响、秦政策与文本的相似、直接历史因果以及后世的选择性采用，是四种证据要求不同的关系。现代管理者引用“循名责实”支持透明考核，却省略考核者不受约束，就必须把这项选择性改造标明为现代重构。",
+            "把韩非放入“法家”可以组织思想史，却也会制造一个先秦统一学派的幻觉。《定法》本身就在安排商鞅与申不害的前驱位置，这是一项传世文本的解释，不是两位思想家共同签署的历史章程。秦制与韩非思想的相似还需区分直接影响、共同战国压力和后世归因，秦亡也不能由一个标签解释。现代管理若吸收责任链和核验，同时加入员工参与、权利救济与领导问责，必须承认这些是接受史中的改造。",
+            "秦制与韩非文本的相似需要逐项因果证据。共同的战国行政压力、直接影响和后世归因可能同时存在；用一个标签解释每项政策及秦亡，会把多条因果链压成口号。"
+          ],
+          "identity": "司马迁传记；汉代法家标签；现代比较重构",
+          "kind": "causal-analysis"
+        },
+        {
+          "heading": "外儒内法标签会压平制度变化",
+          "paragraphs": [
+            "帝国时代可能公开尊儒而使用法令、考课与权术，后人遂用“外儒内法”概括。这个标签能指出话语与行政实践的差异，也会把两千年复杂制度压成一个不变秘密。",
+            "接受史评价还须区分描述与倡议。说某种帝国制度具有韩非式特征，不等于赞成它，也不等于证明韩非是唯一来源；只有把相似、因果与规范判断分开，历史标签才不会代替论证。",
+            "秦制与韩非文本相似并不能独自证明直接因果。共同战国压力、政策传统、文本影响和后世归因可能同时作用；每项制度都需要具体时间与传播证据。“外儒内法”“中国马基雅维利”和“古代法治”等标签各自突出某些比较面向，也会遮蔽文本声音、时代差异或权力边界。"
+          ],
+          "identity": "司马迁传记；汉代法家标签；现代比较重构",
+          "kind": "reception-history"
+        },
+        {
+          "heading": "现代比较必须给改造者署名",
+          "paragraphs": [
+            "称韩非为中国马基雅维利可提示权力现实与君主技术，却把欧洲概念史设为默认尺度；称其为古代法治先驱又容易把统治者受法、权利和司法独立倒灌。",
+            "现代管理借循名责实支持目标责任时，实际已做选择性改造。若同时加入公开指标、申诉、员工参与和领导问责，改造可能更正当，但必须署名为现代重构。接受史会稀释原典。",
+            "只有先冻结原典声音，才可分析后世挪用；讨论结论不得调和矛盾：韩非提供了强有力的制度—信息诊断，也留下君主豁免、暴力、公共目的和异议保护的根本债务。现代管理或法治比较属于选择性接受。若加入申诉、权利与领导问责，这些条件可以改善制度，却必须署名为后来的规范重构；思想史的诚实正在于不把有益改造伪装成古人原意。",
+            "现代管理比较只能选择性继承。责任明确和信息核验可以提供启发，员工参与、权利救济和领导问责则是后来加入的规范条件；诚实比较必须把接受者的改造署名。最终留下的是双重遗产：韩非迫使政治思想面对激励、信息和组织位置，也揭示当制度只服务不受约束的最高权力时，精密可以成为任意的放大器。"
+          ],
+          "identity": "司马迁传记；汉代法家标签；现代比较重构",
+          "kind": "objection-response"
+        }
+      ],
+      "caseText": "paragraph-ref:hanfei-20-p08",
+      "nodeIds": [
+        "reception-node"
+      ],
+      "checkIds": [
+        "reception-q1",
+        "reception-q2",
+        "reception-q3",
+        "reception-q4"
+      ],
+      "abilitySummary": [
+        "paragraph-ref:hanfei-20-p15"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "text-voices-q1",
+      "kind": "multipleChoice",
+      "prompt": "《韩非子》书名为何不能证明五十五篇逐字出于一人？",
+      "targetNodeIds": [
+        "text-voices-node"
+      ],
+      "options": [
+        {
+          "id": "text-voices-q1-o1",
+          "text": "在两种解释中选择前者：“体裁、篇章处境和归属强度不同，统一性须由具体证据重建。”；对照项是“书名提供的作者归属足以覆盖体裁、篇章处境与角色言说的差异。”。",
+          "feedback": "体裁、篇章处境和归属强度各不相同，必须用具体证据重建统一性，题名不能代替作者证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "text-voices-q1-o2",
+          "text": "在两种解释中选择前者：“书名提供的作者归属足以覆盖体裁、篇章处境与角色言说的差异。”；对照项是“体裁、篇章处境和归属强度不同，统一性须由具体证据重建。”。",
+          "feedback": "后世书名只能标识传世汇编，不能证明编纂、后出材料与角色言说都出自同一人。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "text-voices-q1-o1",
+      "misconceptionId": "text-voices-q1-misconception"
+    },
+    {
+      "id": "text-voices-q2",
+      "kind": "multipleChoice",
+      "prompt": "怎样使用《史记》中的韩非生平最稳妥？",
+      "targetNodeIds": [
+        "text-voices-node"
+      ],
+      "options": [
+        {
+          "id": "text-voices-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”，对照说法是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”，对照说法是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”。”的依据是传记价值，也让时间距离和叙事目的可见。；作为对照，“这里需要在两项之间作出判断，所取主张是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”，对照说法是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”。”的问题在于后世传记不能自动取得作者自述的证据强度。。",
+          "isCorrect": true
+        },
+        {
+          "id": "text-voices-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”，对照说法是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”，对照说法是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”。”的依据是后世传记不能自动取得作者自述的证据强度。；作为对照，“这里需要在两项之间作出判断，所取主张是“把它标作汉代传记证词，并与传世篇章的自我呈现分开。”，对照说法是“把其中多个细节当作韩非亲口确认，再用来裁定其余篇章。”。”的问题在于传记价值，也让时间距离和叙事目的可见。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "text-voices-q2-o1",
+      "misconceptionId": "text-voices-q2-misconception"
+    },
+    {
+      "id": "text-voices-q3",
+      "kind": "multipleChoice",
+      "prompt": "《存韩》的归属有争议时，应怎样称呼其论点？",
+      "targetNodeIds": [
+        "text-voices-node"
+      ],
+      "options": [
+        {
+          "id": "text-voices-q3-o1",
+          "text": "先称传世本《存韩》的篇章声音，再报告归属判断及依据。",
+          "feedback": "两项差别可具体落在这里：“先称传世本《存韩》的篇章声音，再报告归属判断及依据。”对应这种写法明确标出我们确切拥有的是哪一层文本。；“把《存韩》确定归作韩非自陈，因为内容与身世相合。”则对应内容契合只能形成假说，不能抹掉作者争议。。",
+          "isCorrect": true
+        },
+        {
+          "id": "text-voices-q3-o2",
+          "text": "把《存韩》确定归作韩非自陈，因为内容与身世相合。",
+          "feedback": "两项差别可具体落在这里：“把《存韩》确定归作韩非自陈，因为内容与身世相合。”对应内容契合只能形成假说，不能抹掉作者争议。；“先称传世本《存韩》的篇章声音，再报告归属判断及依据。”则对应这种写法明确标出我们确切拥有的是哪一层文本。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "text-voices-q3-o1",
+      "misconceptionId": "text-voices-q3-misconception"
+    },
+    {
+      "id": "text-voices-q4",
+      "kind": "multipleChoice",
+      "prompt": "寓言中一位君主的话为什么不等于韩非直接主张？",
+      "targetNodeIds": [
+        "text-voices-node"
+      ],
+      "options": [
+        {
+          "id": "text-voices-q4-o1",
+          "text": "若在“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”与“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”与“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”之间作答，此项选择第一种。”之所以这样判定，是因为取消了讽刺、反例和失败案例存在的可能。；相对项“若在“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”与“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”之间作答，此项选择第一种。”则因角色声音与叙述功能的差别。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "text-voices-q4-o2",
+          "text": "若在“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”与“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”与“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”之间作答，此项选择第一种。”之所以这样判定，是因为角色声音与叙述功能的差别。；相对项“若在“当出现在《韩非子》，故事人物的每句话均属于作者赞同。”与“角色话语要由叙事安排和结局解释，可能正是被检验的对象。”之间作答，此项选择第一种。”则因取消了讽刺、反例和失败案例存在的可能。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "text-voices-q4-o2",
+      "misconceptionId": "text-voices-q4-misconception"
+    },
+    {
+      "id": "historical-change-q1",
+      "kind": "multipleChoice",
+      "prompt": "守株待兔故事针对的推理错误是什么？",
+      "targetNodeIds": [
+        "historical-change-node"
+      ],
+      "options": [
+        {
+          "id": "historical-change-q1-o1",
+          "text": "把一次偶然效果当成可重复规则，并因此放弃持续生产。",
+          "feedback": "把“把一次偶然效果当成可重复规则，并因此放弃持续生产。”与“尊重所涉历史经验本身就是错误，所以过去不能提供信息。”相比较：前者偶然性与规则化之间，没有否定经验。；后者故事批评机械复制，不要求切断所有历史学习。。",
+          "isCorrect": true
+        },
+        {
+          "id": "historical-change-q1-o2",
+          "text": "尊重所涉历史经验本身就是错误，所以过去不能提供信息。",
+          "feedback": "把“尊重所涉历史经验本身就是错误，所以过去不能提供信息。”与“把一次偶然效果当成可重复规则，并因此放弃持续生产。”相比较：前者故事批评机械复制，不要求切断所有历史学习。；后者偶然性与规则化之间，没有否定经验。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "historical-change-q1-o1",
+      "misconceptionId": "historical-change-q1-misconception"
+    },
+    {
+      "id": "historical-change-q2",
+      "kind": "multipleChoice",
+      "prompt": "为什么敬重先王不必推出照搬旧制？",
+      "targetNodeIds": [
+        "historical-change-node"
+      ],
+      "options": [
+        {
+          "id": "historical-change-q2-o1",
+          "text": "古人地位越高，其办法越不受人口、资源和战争变化影响。",
+          "feedback": "围绕当前问题，“古人地位越高，其办法越不受人口、资源和战争变化影响。”的依据是让权威替代了适用条件的论证。；作为对照，“先王的创造性恰在回应当时条件，条件变化会改变办法的适用性。”的问题在于这里保存了榜样功能，同时拒绝把方法冻结。。",
+          "isCorrect": false
+        },
+        {
+          "id": "historical-change-q2-o2",
+          "text": "先王的创造性恰在回应当时条件，条件变化会改变办法的适用性。",
+          "feedback": "围绕当前问题，“先王的创造性恰在回应当时条件，条件变化会改变办法的适用性。”的依据是这里保存了榜样功能，同时拒绝把方法冻结。；作为对照，“古人地位越高，其办法越不受人口、资源和战争变化影响。”的问题在于让权威替代了适用条件的论证。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "historical-change-q2-o2",
+      "misconceptionId": "historical-change-q2-misconception"
+    },
+    {
+      "id": "historical-change-q3",
+      "kind": "multipleChoice",
+      "prompt": "弱国生存压力能证明什么？",
+      "targetNodeIds": [
+        "historical-change-node"
+      ],
+      "options": [
+        {
+          "id": "historical-change-q3-o1",
+          "text": "判断所取的是“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”；另一待比较判断为“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”；另一待比较判断为“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”。”对应威胁事实不能独自决定手段边界。；“判断所取的是“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”；另一待比较判断为“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”。”则对应解释压力与规范授权。。",
+          "isCorrect": false
+        },
+        {
+          "id": "historical-change-q3-o2",
+          "text": "判断所取的是“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”；另一待比较判断为“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”；另一待比较判断为“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”。”对应解释压力与规范授权。；“判断所取的是“国家面临威胁时，征服、酷刑和压制便获得正当理由，手段边界退出论证。”；另一待比较判断为“它解释改制的紧迫和部分工具理由，但不随后使所列手段正当。”。”则对应威胁事实不能独自决定手段边界。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "historical-change-q3-o2",
+      "misconceptionId": "historical-change-q3-misconception"
+    },
+    {
+      "id": "historical-change-q4",
+      "kind": "multipleChoice",
+      "prompt": "适时制度仍需回答哪项价值问题？",
+      "targetNodeIds": [
+        "historical-change-node"
+      ],
+      "options": [
+        {
+          "id": "historical-change-q4-o1",
+          "text": "若在“需要界定成功标准，并说明受益与代价怎样分配。”与“制度异于古制便完成正当性证明，受益者从成败考察中消失。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“需要界定成功标准，并说明受益与代价怎样分配。”与“制度异于古制便完成正当性证明，受益者从成败考察中消失。”之间作答，此项选择第一种。”之所以这样判定，是因为适应性需要目标函数，不能悬空。；相对项“若在“制度异于古制便完成正当性证明，受益者从成败考察中消失。”与“需要界定成功标准，并说明受益与代价怎样分配。”之间作答，此项选择第一种。”则因新颖与正当不是同一个属性。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "historical-change-q4-o2",
+          "text": "若在“制度异于古制便完成正当性证明，受益者从成败考察中消失。”与“需要界定成功标准，并说明受益与代价怎样分配。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“制度异于古制便完成正当性证明，受益者从成败考察中消失。”与“需要界定成功标准，并说明受益与代价怎样分配。”之间作答，此项选择第一种。”之所以这样判定，是因为新颖与正当不是同一个属性。；相对项“若在“需要界定成功标准，并说明受益与代价怎样分配。”与“制度异于古制便完成正当性证明，受益者从成败考察中消失。”之间作答，此项选择第一种。”则因适应性需要目标函数，不能悬空。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "historical-change-q4-o1",
+      "misconceptionId": "historical-change-q4-misconception"
+    },
+    {
+      "id": "interest-model-q1",
+      "kind": "multipleChoice",
+      "prompt": "韩非承认少数廉直者后为何仍要求制度？",
+      "targetNodeIds": [
+        "interest-model-node"
+      ],
+      "options": [
+        {
+          "id": "interest-model-q1-o1",
+          "text": "有少数廉直者可用，数百官位便不再需要可复制的制度安排。",
+          "feedback": "把“有少数廉直者可用，数百官位便不再需要可复制的制度安排。”与“稀有人格不足以填满数百官位，治理需要可复制安排。”相比较：前者存在少数例外不能支持普遍用人结论。；后者从个体可能到组织可复制的推理。。",
+          "isCorrect": false
+        },
+        {
+          "id": "interest-model-q1-o2",
+          "text": "稀有人格不足以填满数百官位，治理需要可复制安排。",
+          "feedback": "把“稀有人格不足以填满数百官位，治理需要可复制安排。”与“有少数廉直者可用，数百官位便不再需要可复制的制度安排。”相比较：前者从个体可能到组织可复制的推理。；后者存在少数例外不能支持普遍用人结论。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "interest-model-q1-o2",
+      "misconceptionId": "interest-model-q1-misconception"
+    },
+    {
+      "id": "interest-model-q2",
+      "kind": "multipleChoice",
+      "prompt": "趋利避害中的“利”应怎样理解？",
+      "targetNodeIds": [
+        "interest-model-node"
+      ],
+      "options": [
+        {
+          "id": "interest-model-q2-o1",
+          "text": "可含财富、名誉、职位、安全等多种行动者所重之物。",
+          "feedback": "围绕当前问题，“可含财富、名誉、职位、安全等多种行动者所重之物。”的依据是该解释保留文本多样案例而不把人简化成单一价格。；作为对照，“所趋之利只指即时金钱，所以亲属和荣誉很少左右行为。”的问题在于狭义金钱模型无法解释文本中的名誉与免罚。。",
+          "isCorrect": true
+        },
+        {
+          "id": "interest-model-q2-o2",
+          "text": "所趋之利只指即时金钱，所以亲属和荣誉很少左右行为。",
+          "feedback": "围绕当前问题，“所趋之利只指即时金钱，所以亲属和荣誉很少左右行为。”的依据是狭义金钱模型无法解释文本中的名誉与免罚。；作为对照，“可含财富、名誉、职位、安全等多种行动者所重之物。”的问题在于该解释保留文本多样案例而不把人简化成单一价格。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "interest-model-q2-o1",
+      "misconceptionId": "interest-model-q2-misconception"
+    },
+    {
+      "id": "interest-model-q3",
+      "kind": "multipleChoice",
+      "prompt": "医者案例区分了什么？",
+      "targetNodeIds": [
+        "interest-model-node"
+      ],
+      "options": [
+        {
+          "id": "interest-model-q3-o1",
+          "text": "凡有报酬的照护均往往无益，只有亲属才能提供治疗。",
+          "feedback": "两项差别可具体落在这里：“凡有报酬的照护均往往无益，只有亲属才能提供治疗。”对应把韩非的区分反转成血缘垄断。；“有益行为与亲爱动机不是同一件事，二者需分别判断。”则对应动机与结果的可分性。。",
+          "isCorrect": false
+        },
+        {
+          "id": "interest-model-q3-o2",
+          "text": "有益行为与亲爱动机不是同一件事，二者需分别判断。",
+          "feedback": "两项差别可具体落在这里：“有益行为与亲爱动机不是同一件事，二者需分别判断。”对应动机与结果的可分性。；“凡有报酬的照护均往往无益，只有亲属才能提供治疗。”则对应把韩非的区分反转成血缘垄断。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "interest-model-q3-o2",
+      "misconceptionId": "interest-model-q3-misconception"
+    },
+    {
+      "id": "interest-model-q4",
+      "kind": "multipleChoice",
+      "prompt": "激励制度的内部风险是什么？",
+      "targetNodeIds": [
+        "interest-model-node"
+      ],
+      "options": [
+        {
+          "id": "interest-model-q4-o1",
+          "text": "持续猜疑和窄指标可能塑造隐瞒、短期化与只求过关的行为。",
+          "feedback": "复核这次选择时，应同时看到“持续猜疑和窄指标可能塑造隐瞒、短期化与只求过关的行为。”之所以这样判定，是因为制度对人的反向作用。；相对项“奖惩只读取固定人性，从来不会改变组织中的行为习惯。”则因把激励当纯测量，会漏掉它也在生产行动模式。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "interest-model-q4-o2",
+          "text": "奖惩只读取固定人性，从来不会改变组织中的行为习惯。",
+          "feedback": "复核这次选择时，应同时看到“奖惩只读取固定人性，从来不会改变组织中的行为习惯。”之所以这样判定，是因为把激励当纯测量，会漏掉它也在生产行动模式。；相对项“持续猜疑和窄指标可能塑造隐瞒、短期化与只求过关的行为。”则因制度对人的反向作用。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "interest-model-q4-o1",
+      "misconceptionId": "interest-model-q4-misconception"
+    },
+    {
+      "id": "public-standards-q1",
+      "kind": "multipleChoice",
+      "prompt": "韩非之法为何不限于刑法？",
+      "targetNodeIds": [
+        "public-standards-node"
+      ],
+      "options": [
+        {
+          "id": "public-standards-q1-o1",
+          "text": "它只指监狱刑罚，与职位、奖赏和行政标准无关。",
+          "feedback": "把“它只指监狱刑罚，与职位、奖赏和行政标准无关。”与“它还具有公布标准、任官计功和度量行为等组织功能。”相比较：前者狭义刑法无法解释《有度》《定法》的行政语境。；后者保住了法的多重标准功能。。",
+          "isCorrect": false
+        },
+        {
+          "id": "public-standards-q1-o2",
+          "text": "它还具有公布标准、任官计功和度量行为等组织功能。",
+          "feedback": "把“它还具有公布标准、任官计功和度量行为等组织功能。”与“它只指监狱刑罚，与职位、奖赏和行政标准无关。”相比较：前者保住了法的多重标准功能。；后者狭义刑法无法解释《有度》《定法》的行政语境。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "public-standards-q1-o2",
+      "misconceptionId": "public-standards-q1-misconception"
+    },
+    {
+      "id": "public-standards-q2",
+      "kind": "multipleChoice",
+      "prompt": "“法不阿贵”的批判力量在哪里？",
+      "targetNodeIds": [
+        "public-standards-node"
+      ],
+      "options": [
+        {
+          "id": "public-standards-q2-o1",
+          "text": "贵族可以按亲疏临时改变标准，因为公开法只约束平民。",
+          "feedback": "围绕当前问题，“贵族可以按亲疏临时改变标准，因为公开法只约束平民。”的依据是正好恢复了法度要限制的身份例外。；作为对照，“贵者亲者也要面对同一尺度，身份不应改写结果。”的问题在于法度针对私议特权的方向。。",
+          "isCorrect": false
+        },
+        {
+          "id": "public-standards-q2-o2",
+          "text": "贵者亲者也要面对同一尺度，身份不应改写结果。",
+          "feedback": "围绕当前问题，“贵者亲者也要面对同一尺度，身份不应改写结果。”的依据是法度针对私议特权的方向。；作为对照，“贵族可以按亲疏临时改变标准，因为公开法只约束平民。”的问题在于正好恢复了法度要限制的身份例外。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "public-standards-q2-o2",
+      "misconceptionId": "public-standards-q2-misconception"
+    },
+    {
+      "id": "public-standards-q3",
+      "kind": "multipleChoice",
+      "prompt": "为何不能把韩非的法直接称作现代法治？",
+      "targetNodeIds": [
+        "public-standards-node"
+      ],
+      "options": [
+        {
+          "id": "public-standards-q3-o1",
+          "text": "存在成文标准便满足现代法治的主要条件。",
+          "feedback": "两项差别可具体落在这里：“存在成文标准便满足现代法治的主要条件。”对应单一特征不能替代权力受约束等关键条件。；“君主未被同等规则、独立裁判与权利救济有效约束。”则对应相似的可预期性与制度全貌不同。。",
+          "isCorrect": false
+        },
+        {
+          "id": "public-standards-q3-o2",
+          "text": "君主未被同等规则、独立裁判与权利救济有效约束。",
+          "feedback": "两项差别可具体落在这里：“君主未被同等规则、独立裁判与权利救济有效约束。”对应相似的可预期性与制度全貌不同。；“存在成文标准便满足现代法治的主要条件。”则对应单一特征不能替代权力受约束等关键条件。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "public-standards-q3-o2",
+      "misconceptionId": "public-standards-q3-misconception"
+    },
+    {
+      "id": "public-standards-q4",
+      "kind": "multipleChoice",
+      "prompt": "公开法在体系顶端留下什么问题？",
+      "targetNodeIds": [
+        "public-standards-node"
+      ],
+      "options": [
+        {
+          "id": "public-standards-q4-o1",
+          "text": "法一经公布便能自行执行，执行权力在兑现解释中被省略。",
+          "feedback": "复核这次选择时，应同时看到“法一经公布便能自行执行，执行权力在兑现解释中被省略。”之所以这样判定，是因为规则不会脱离解释、执行和纠错者自动运行。；相对项“制定和解释者若不受同等审查，反任意制度可能保留最高任意。”则因把执行者位置重新纳入制度分析。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "public-standards-q4-o2",
+          "text": "制定和解释者若不受同等审查，反任意制度可能保留最高任意。",
+          "feedback": "复核这次选择时，应同时看到“制定和解释者若不受同等审查，反任意制度可能保留最高任意。”之所以这样判定，是因为把执行者位置重新纳入制度分析。；相对项“法一经公布便能自行执行，执行权力在兑现解释中被省略。”则因规则不会脱离解释、执行和纠错者自动运行。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "public-standards-q4-o2",
+      "misconceptionId": "public-standards-q4-misconception"
+    },
+    {
+      "id": "two-handles-q1",
+      "kind": "multipleChoice",
+      "prompt": "二柄中的“德”主要指什么？",
+      "targetNodeIds": [
+        "two-handles-node"
+      ],
+      "options": [
+        {
+          "id": "two-handles-q1-o1",
+          "text": "在两种解释中选择前者：“由统治者给予的奖赏与恩惠，而非单靠人格感化。”；对照项是“现代德性伦理中的完整好品格，与制度奖励分属彼此不相干的问题。”。",
+          "feedback": "刑与德在二柄中并列，德指能由统治者控制并兑现的奖赏之惠。",
+          "isCorrect": true
+        },
+        {
+          "id": "two-handles-q1-o2",
+          "text": "在两种解释中选择前者：“现代德性伦理中的完整好品格，与制度奖励分属彼此不相干的问题。”；对照项是“由统治者给予的奖赏与恩惠，而非单靠人格感化。”。",
+          "feedback": "把德解释为与制度奖励无关的完整品格，会拆散刑德并列的奖惩结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "two-handles-q1-o1",
+      "misconceptionId": "two-handles-q1-misconception"
+    },
+    {
+      "id": "two-handles-q2",
+      "kind": "multipleChoice",
+      "prompt": "为何臣下私授赏罚会威胁君主？",
+      "targetNodeIds": [
+        "two-handles-node"
+      ],
+      "options": [
+        {
+          "id": "two-handles-q2-o1",
+          "text": "受惠与受惧者可能把忠诚转向掌握实际后果的大臣。",
+          "feedback": "围绕当前问题，“受惠与受惧者可能把忠诚转向掌握实际后果的大臣。”的依据是权力中心随结果控制而转移。；作为对照，“所涉奖赏均会取消行为动机，使官员停止关心职位。”的问题在于奖赏不是取消动机，而是在重排依附。。",
+          "isCorrect": true
+        },
+        {
+          "id": "two-handles-q2-o2",
+          "text": "所涉奖赏均会取消行为动机，使官员停止关心职位。",
+          "feedback": "围绕当前问题，“所涉奖赏均会取消行为动机，使官员停止关心职位。”的依据是奖赏不是取消动机，而是在重排依附。；作为对照，“受惠与受惧者可能把忠诚转向掌握实际后果的大臣。”的问题在于权力中心随结果控制而转移。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "two-handles-q2-o1",
+      "misconceptionId": "two-handles-q2-misconception"
+    },
+    {
+      "id": "two-handles-q3",
+      "kind": "multipleChoice",
+      "prompt": "信赏必罚仍不能解决什么？",
+      "targetNodeIds": [
+        "two-handles-node"
+      ],
+      "options": [
+        {
+          "id": "two-handles-q3-o1",
+          "text": "判断所取的是“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”；另一待比较判断为“当执行一致，误判和过度惩罚便随后获得正当性。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”；另一待比较判断为“当执行一致，误判和过度惩罚便随后获得正当性。”。”对应把执行确定性与裁判正义分开。；“判断所取的是“当执行一致，误判和过度惩罚便随后获得正当性。”；另一待比较判断为“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”。”则对应一致地犯错仍是犯错，不能由一致性洗掉。。",
+          "isCorrect": true
+        },
+        {
+          "id": "two-handles-q3-o2",
+          "text": "判断所取的是“当执行一致，误判和过度惩罚便随后获得正当性。”；另一待比较判断为“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“当执行一致，误判和过度惩罚便随后获得正当性。”；另一待比较判断为“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”。”对应一致地犯错仍是犯错，不能由一致性洗掉。；“判断所取的是“事实认定、惩罚比例、申辩和错误纠正是否正当可靠。”；另一待比较判断为“当执行一致，误判和过度惩罚便随后获得正当性。”。”则对应把执行确定性与裁判正义分开。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "two-handles-q3-o1",
+      "misconceptionId": "two-handles-q3-misconception"
+    },
+    {
+      "id": "two-handles-q4",
+      "kind": "multipleChoice",
+      "prompt": "重罚可能产生哪种反向效果？",
+      "targetNodeIds": [
+        "two-handles-node"
+      ],
+      "options": [
+        {
+          "id": "two-handles-q4-o1",
+          "text": "若在“处罚越重，信息会越真实，执法者的私人利益也被忽略。”与“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“处罚越重，信息会越真实，执法者的私人利益也被忽略。”与“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”之间作答，此项选择第一种。”之所以这样判定，是因为把行为反应和代理问题一并假定消失。；相对项“若在“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”与“处罚越重，信息会越真实，执法者的私人利益也被忽略。”之间作答，此项选择第一种。”则因威慑是经验机制而非单调定律。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "two-handles-q4-o2",
+          "text": "若在“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”与“处罚越重，信息会越真实，执法者的私人利益也被忽略。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”与“处罚越重，信息会越真实，执法者的私人利益也被忽略。”之间作答，此项选择第一种。”之所以这样判定，是因为威慑是经验机制而非单调定律。；相对项“若在“处罚越重，信息会越真实，执法者的私人利益也被忽略。”与“诱发隐瞒、诬告或寻租，使信息质量下降并损害规范权威。”之间作答，此项选择第一种。”则因把行为反应和代理问题一并假定消失。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "two-handles-q4-o2",
+      "misconceptionId": "two-handles-q4-misconception"
+    },
+    {
+      "id": "administrative-technique-q1",
+      "kind": "multipleChoice",
+      "prompt": "术主要针对哪类组织问题？",
+      "targetNodeIds": [
+        "administrative-technique-node"
+      ],
+      "options": [
+        {
+          "id": "administrative-technique-q1-o1",
+          "text": "在两种解释中选择前者：“专业知识集中在官员手中时，任免与核验只是重复已有信息。”；对照项是“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”。",
+          "feedback": "把“在两种解释中选择前者：“专业知识集中在官员手中时，任免与核验只是重复已有信息。”；对照项是“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”。”与“在两种解释中选择前者：“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”；对照项是“专业知识集中在官员手中时，任免与核验只是重复已有信息。”。”相比较：前者若信息完全对称，文本中的暗察和分职便失去对象。；后者术处理的信息与代理难题。。",
+          "isCorrect": false
+        },
+        {
+          "id": "administrative-technique-q1-o2",
+          "text": "在两种解释中选择前者：“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”；对照项是“专业知识集中在官员手中时，任免与核验只是重复已有信息。”。",
+          "feedback": "把“在两种解释中选择前者：“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”；对照项是“专业知识集中在官员手中时，任免与核验只是重复已有信息。”。”与“在两种解释中选择前者：“专业知识集中在官员手中时，任免与核验只是重复已有信息。”；对照项是“专业官员掌握局部信息，可能隐藏行动、越职或借知识扩权。”。”相比较：前者术处理的信息与代理难题。；后者若信息完全对称，文本中的暗察和分职便失去对象。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "administrative-technique-q1-o2",
+      "misconceptionId": "administrative-technique-q1-misconception"
+    },
+    {
+      "id": "administrative-technique-q2",
+      "kind": "multipleChoice",
+      "prompt": "分职为什么重要？",
+      "targetNodeIds": [
+        "administrative-technique-node"
+      ],
+      "options": [
+        {
+          "id": "administrative-technique-q2-o1",
+          "text": "让同一任务尽量交给多人且不留边界，以便每人均可称功。",
+          "feedback": "围绕当前问题，“让同一任务尽量交给多人且不留边界，以便每人均可称功。”的依据是模糊共责正是越职和争功的温床。；作为对照，“让任务、承诺与承担者相连，减少共功邀赏和失败无人负责。”的问题在于责任链的可识别性。。",
+          "isCorrect": false
+        },
+        {
+          "id": "administrative-technique-q2-o2",
+          "text": "让任务、承诺与承担者相连，减少共功邀赏和失败无人负责。",
+          "feedback": "围绕当前问题，“让任务、承诺与承担者相连，减少共功邀赏和失败无人负责。”的依据是责任链的可识别性。；作为对照，“让同一任务尽量交给多人且不留边界，以便每人均可称功。”的问题在于模糊共责正是越职和争功的温床。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "administrative-technique-q2-o2",
+      "misconceptionId": "administrative-technique-q2-misconception"
+    },
+    {
+      "id": "administrative-technique-q3",
+      "kind": "multipleChoice",
+      "prompt": "《定法》怎样呈现韩非与前驱关系？",
+      "targetNodeIds": [
+        "administrative-technique-node"
+      ],
+      "options": [
+        {
+          "id": "administrative-technique-q3-o1",
+          "text": "韩非借申不害重术、商鞅重法来建立综合者位置。",
+          "feedback": "两项差别可具体落在这里：“韩非借申不害重术、商鞅重法来建立综合者位置。”对应韩非的重构与批评。；“证明商鞅、申不害和韩非的思想缺少差异。”则对应把综合写成无差异，会抹掉《定法》的论证目的。。",
+          "isCorrect": true
+        },
+        {
+          "id": "administrative-technique-q3-o2",
+          "text": "证明商鞅、申不害和韩非的思想缺少差异。",
+          "feedback": "两项差别可具体落在这里：“证明商鞅、申不害和韩非的思想缺少差异。”对应把综合写成无差异，会抹掉《定法》的论证目的。；“韩非借申不害重术、商鞅重法来建立综合者位置。”则对应韩非的重构与批评。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "administrative-technique-q3-o1",
+      "misconceptionId": "administrative-technique-q3-misconception"
+    },
+    {
+      "id": "administrative-technique-q4",
+      "kind": "multipleChoice",
+      "prompt": "秘密术的主要信息代价是什么？",
+      "targetNodeIds": [
+        "administrative-technique-node"
+      ],
+      "options": [
+        {
+          "id": "administrative-technique-q4-o1",
+          "text": "官员可能因恐惧而不报坏消息，合作也容易被当作结党。",
+          "feedback": "复核这次选择时，应同时看到“官员可能因恐惧而不报坏消息，合作也容易被当作结党。”之所以这样判定，是因为控制行为也会改变被观察者。；相对项“隐蔽检查提高发现串谋的机会，也会同步提高坏消息上报。”则因把策略互动从术论中删除了。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "administrative-technique-q4-o2",
+          "text": "隐蔽检查提高发现串谋的机会，也会同步提高坏消息上报。",
+          "feedback": "复核这次选择时，应同时看到“隐蔽检查提高发现串谋的机会，也会同步提高坏消息上报。”之所以这样判定，是因为把策略互动从术论中删除了。；相对项“官员可能因恐惧而不报坏消息，合作也容易被当作结党。”则因控制行为也会改变被观察者。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "administrative-technique-q4-o1",
+      "misconceptionId": "administrative-technique-q4-misconception"
+    },
+    {
+      "id": "names-performance-q1",
+      "kind": "multipleChoice",
+      "prompt": "名实考核为何必须从事前承诺开始？",
+      "targetNodeIds": [
+        "names-performance-node"
+      ],
+      "options": [
+        {
+          "id": "names-performance-q1-o1",
+          "text": "考核忽略事后证据，记录官员最初陈述便被视为充分。",
+          "feedback": "把“考核忽略事后证据，记录官员最初陈述便被视为充分。”与“否则官员可在结果出现后改写目标，让所涉结果看似成功。”相比较：前者名仍须与实比较，不能停在言语记录。；后者承诺冻结对解释漂移的约束。。",
+          "isCorrect": false
+        },
+        {
+          "id": "names-performance-q1-o2",
+          "text": "否则官员可在结果出现后改写目标，让所涉结果看似成功。",
+          "feedback": "把“否则官员可在结果出现后改写目标，让所涉结果看似成功。”与“考核忽略事后证据，记录官员最初陈述便被视为充分。”相比较：前者承诺冻结对解释漂移的约束。；后者名仍须与实比较，不能停在言语记录。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "names-performance-q1-o2",
+      "misconceptionId": "names-performance-q1-misconception"
+    },
+    {
+      "id": "names-performance-q2",
+      "kind": "multipleChoice",
+      "prompt": "越职而成功为何仍可能被警惕？",
+      "targetNodeIds": [
+        "names-performance-node"
+      ],
+      "options": [
+        {
+          "id": "names-performance-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“它可能破坏授权和责任边界，使未来失败无法定位。”，对照说法是“越权取得好结果后，授权边界已被结果重新定义。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“它可能破坏授权和责任边界，使未来失败无法定位。”，对照说法是“越权取得好结果后，授权边界已被结果重新定义。”。”的依据是单次结果与组织可问责性。；作为对照，“这里需要在两项之间作出判断，所取主张是“越权取得好结果后，授权边界已被结果重新定义。”，对照说法是“它可能破坏授权和责任边界，使未来失败无法定位。”。”的问题在于用结果一次性取消制度边界。。",
+          "isCorrect": true
+        },
+        {
+          "id": "names-performance-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“越权取得好结果后，授权边界已被结果重新定义。”，对照说法是“它可能破坏授权和责任边界，使未来失败无法定位。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“越权取得好结果后，授权边界已被结果重新定义。”，对照说法是“它可能破坏授权和责任边界，使未来失败无法定位。”。”的依据是用结果一次性取消制度边界。；作为对照，“这里需要在两项之间作出判断，所取主张是“它可能破坏授权和责任边界，使未来失败无法定位。”，对照说法是“越权取得好结果后，授权边界已被结果重新定义。”。”的问题在于单次结果与组织可问责性。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "names-performance-q2-o1",
+      "misconceptionId": "names-performance-q2-misconception"
+    },
+    {
+      "id": "names-performance-q3",
+      "kind": "multipleChoice",
+      "prompt": "参验为何不应只看一次结果？",
+      "targetNodeIds": [
+        "names-performance-node"
+      ],
+      "options": [
+        {
+          "id": "names-performance-q3-o1",
+          "text": "偶然、外部条件和稳定能力需由多次及交叉证据区分。",
+          "feedback": "两项差别可具体落在这里：“偶然、外部条件和稳定能力需由多次及交叉证据区分。”对应准确限制了由单例推普遍能力。；“一次成功往往证明方法持续可靠，一次失败也往往证明欺骗。”则对应绝对化单次结果会把运气当成实。。",
+          "isCorrect": true
+        },
+        {
+          "id": "names-performance-q3-o2",
+          "text": "一次成功往往证明方法持续可靠，一次失败也往往证明欺骗。",
+          "feedback": "两项差别可具体落在这里：“一次成功往往证明方法持续可靠，一次失败也往往证明欺骗。”对应绝对化单次结果会把运气当成实。；“偶然、外部条件和稳定能力需由多次及交叉证据区分。”则对应准确限制了由单例推普遍能力。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "names-performance-q3-o1",
+      "misconceptionId": "names-performance-q3-misconception"
+    },
+    {
+      "id": "names-performance-q4",
+      "kind": "multipleChoice",
+      "prompt": "现代指标可能怎样反过来损害名实？",
+      "targetNodeIds": [
+        "names-performance-node"
+      ],
+      "options": [
+        {
+          "id": "names-performance-q4-o1",
+          "text": "指标收窄仍能准确代表公共价值。",
+          "feedback": "复核这次选择时，应同时看到“指标收窄仍能准确代表公共价值。”之所以这样判定，是因为把测量选择中的价值判断抹掉了。；相对项“可见数字会挤掉预防、照护和协作目的。”则因名可能取代而非测量实。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "names-performance-q4-o2",
+          "text": "可见数字会挤掉预防、照护和协作目的。",
+          "feedback": "复核这次选择时，应同时看到“可见数字会挤掉预防、照护和协作目的。”之所以这样判定，是因为名可能取代而非测量实。；相对项“指标收窄仍能准确代表公共价值。”则因把测量选择中的价值判断抹掉了。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "names-performance-q4-o2",
+      "misconceptionId": "names-performance-q4-misconception"
+    },
+    {
+      "id": "positional-power-q1",
+      "kind": "multipleChoice",
+      "prompt": "势与个人魅力的关键差别是什么？",
+      "targetNodeIds": [
+        "positional-power-node"
+      ],
+      "options": [
+        {
+          "id": "positional-power-q1-o1",
+          "text": "在两种解释中选择前者：“势只表示君主天生令人敬畏的性格，与组织位置无关。”；对照项是“势来自职位和结构，即使普通人也可借位置放大命令。”。",
+          "feedback": "把势归结为天生的威严性格，会抹去职位授权与资源配置产生的结构效力。",
+          "isCorrect": false
+        },
+        {
+          "id": "positional-power-q1-o2",
+          "text": "在两种解释中选择前者：“势来自职位和结构，即使普通人也可借位置放大命令。”；对照项是“势只表示君主天生令人敬畏的性格，与组织位置无关。”。",
+          "feedback": "弓弩等类比把势的效力放在职位和结构上，普通人也能借组织位置放大命令。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "positional-power-q1-o2",
+      "misconceptionId": "positional-power-q1-misconception"
+    },
+    {
+      "id": "positional-power-q2",
+      "kind": "multipleChoice",
+      "prompt": "势论为何反对只等圣君？",
+      "targetNodeIds": [
+        "positional-power-node"
+      ],
+      "options": [
+        {
+          "id": "positional-power-q2-o1",
+          "text": "君主能力越弱越善，因此法术与标准被视为无关条件。",
+          "feedback": "围绕当前问题，“君主能力越弱越善，因此法术与标准被视为无关条件。”的依据是中等能力需要制度，不等于无能自动正确。；作为对照，“治理若只在稀有人格出现时有效，就无法成为日常制度。”的问题在于目标是可复制性，不是赞美无能。。",
+          "isCorrect": false
+        },
+        {
+          "id": "positional-power-q2-o2",
+          "text": "治理若只在稀有人格出现时有效，就无法成为日常制度。",
+          "feedback": "围绕当前问题，“治理若只在稀有人格出现时有效，就无法成为日常制度。”的依据是目标是可复制性，不是赞美无能。；作为对照，“君主能力越弱越善，因此法术与标准被视为无关条件。”的问题在于中等能力需要制度，不等于无能自动正确。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "positional-power-q2-o2",
+      "misconceptionId": "positional-power-q2-misconception"
+    },
+    {
+      "id": "positional-power-q3",
+      "kind": "multipleChoice",
+      "prompt": "《难势》为何不能让势单独担保善治？",
+      "targetNodeIds": [
+        "positional-power-node"
+      ],
+      "options": [
+        {
+          "id": "positional-power-q3-o1",
+          "text": "当登上君位，行为便因位置而由此公正。",
+          "feedback": "两项差别可具体落在这里：“当登上君位，行为便因位置而由此公正。”对应把事实权能误作规范资格。；“势会放大坏君主的错误，并不自带正当方向。”则对应势的双刃放大作用。。",
+          "isCorrect": false
+        },
+        {
+          "id": "positional-power-q3-o2",
+          "text": "势会放大坏君主的错误，并不自带正当方向。",
+          "feedback": "两项差别可具体落在这里：“势会放大坏君主的错误，并不自带正当方向。”对应势的双刃放大作用。；“当登上君位，行为便因位置而由此公正。”则对应把事实权能误作规范资格。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "positional-power-q3-o2",
+      "misconceptionId": "positional-power-q3-misconception"
+    },
+    {
+      "id": "positional-power-q4",
+      "kind": "multipleChoice",
+      "prompt": "韩非势论留下哪项最高位难题？",
+      "targetNodeIds": [
+        "positional-power-node"
+      ],
+      "options": [
+        {
+          "id": "positional-power-q4-o1",
+          "text": "缺少独立机制持续纠正君主对法术和目标的错误使用。",
+          "feedback": "复核这次选择时，应同时看到“缺少独立机制持续纠正君主对法术和目标的错误使用。”之所以这样判定，是因为制度链在顶端中断。；相对项“法术会随后审查君主，所以最高权力不存在代理问题。”则因把君主设为无误会让制度现实主义失去一致性。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "positional-power-q4-o2",
+          "text": "法术会随后审查君主，所以最高权力不存在代理问题。",
+          "feedback": "复核这次选择时，应同时看到“法术会随后审查君主，所以最高权力不存在代理问题。”之所以这样判定，是因为把君主设为无误会让制度现实主义失去一致性。；相对项“缺少独立机制持续纠正君主对法术和目标的错误使用。”则因制度链在顶端中断。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "positional-power-q4-o1",
+      "misconceptionId": "positional-power-q4-misconception"
+    },
+    {
+      "id": "ruler-nonaction-q1",
+      "kind": "multipleChoice",
+      "prompt": "韩非式无为何以不是自由放任？",
+      "targetNodeIds": [
+        "ruler-nonaction-node"
+      ],
+      "options": [
+        {
+          "id": "ruler-nonaction-q1-o1",
+          "text": "在两种解释中选择前者：“君主减少显露与亲为，同时保持分职、核验和不可见监督。”；对照项是“君主撤销法定标准和审查，让臣民自行决定国家目标。”。",
+          "feedback": "君主减少显露与亲为时仍保留分职、核验和监督，所以改变的是控制方式而非取消治理。",
+          "isCorrect": true
+        },
+        {
+          "id": "ruler-nonaction-q1-o2",
+          "text": "在两种解释中选择前者：“君主撤销法定标准和审查，让臣民自行决定国家目标。”；对照项是“君主减少显露与亲为，同时保持分职、核验和不可见监督。”。",
+          "feedback": "撤销标准和审查会使责任链消失，这不是《主道》所说的让臣下自陈并受核验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "ruler-nonaction-q1-o1",
+      "misconceptionId": "ruler-nonaction-q1-misconception"
+    },
+    {
+      "id": "ruler-nonaction-q2",
+      "kind": "multipleChoice",
+      "prompt": "隐藏好恶怎样减少迎合？",
+      "targetNodeIds": [
+        "ruler-nonaction-node"
+      ],
+      "options": [
+        {
+          "id": "ruler-nonaction-q2-o1",
+          "text": "臣下较难按已知偏好排演答案，须先陈述自己的方案。",
+          "feedback": "围绕当前问题，“臣下较难按已知偏好排演答案，须先陈述自己的方案。”的依据是先表态造成的测量污染。；作为对照，“臣下知道越多偏好，信息越不可能受到策略影响。”的问题在于公开偏好恰会给迎合提供坐标。。",
+          "isCorrect": true
+        },
+        {
+          "id": "ruler-nonaction-q2-o2",
+          "text": "臣下知道越多偏好，信息越不可能受到策略影响。",
+          "feedback": "围绕当前问题，“臣下知道越多偏好，信息越不可能受到策略影响。”的依据是公开偏好恰会给迎合提供坐标。；作为对照，“臣下较难按已知偏好排演答案，须先陈述自己的方案。”的问题在于先表态造成的测量污染。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "ruler-nonaction-q2-o1",
+      "misconceptionId": "ruler-nonaction-q2-misconception"
+    },
+    {
+      "id": "ruler-nonaction-q3",
+      "kind": "multipleChoice",
+      "prompt": "君主不亲自争功有什么行政作用？",
+      "targetNodeIds": [
+        "ruler-nonaction-node"
+      ],
+      "options": [
+        {
+          "id": "ruler-nonaction-q3-o1",
+          "text": "保留分职责任，使臣下的承诺和行动留下可核痕迹。",
+          "feedback": "两项差别可具体落在这里：“保留分职责任，使臣下的承诺和行动留下可核痕迹。”对应把无为与任责相连。；“任务均失去承担者，因为君主不做就无人应做。”则对应无为并非取消官员职事。。",
+          "isCorrect": true
+        },
+        {
+          "id": "ruler-nonaction-q3-o2",
+          "text": "任务均失去承担者，因为君主不做就无人应做。",
+          "feedback": "两项差别可具体落在这里：“任务均失去承担者，因为君主不做就无人应做。”对应无为并非取消官员职事。；“保留分职责任，使臣下的承诺和行动留下可核痕迹。”则对应把无为与任责相连。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "ruler-nonaction-q3-o1",
+      "misconceptionId": "ruler-nonaction-q3-misconception"
+    },
+    {
+      "id": "ruler-nonaction-q4",
+      "kind": "multipleChoice",
+      "prompt": "隐藏偏好的边界问题是什么？",
+      "targetNodeIds": [
+        "ruler-nonaction-node"
+      ],
+      "options": [
+        {
+          "id": "ruler-nonaction-q4-o1",
+          "text": "若在“秘密越多越能保证共同目标被下属准确理解。”与“标准长期不透明会制造猜测、传闻和不可质询的任意。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“秘密越多越能保证共同目标被下属准确理解。”与“标准长期不透明会制造猜测、传闻和不可质询的任意。”之间作答，此项选择第一种。”之所以这样判定，是因为信息缺失不会自动产生共同理解。；相对项“若在“标准长期不透明会制造猜测、传闻和不可质询的任意。”与“秘密越多越能保证共同目标被下属准确理解。”之间作答，此项选择第一种。”则因该回答保留了透明合作的反向需求。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "ruler-nonaction-q4-o2",
+          "text": "若在“标准长期不透明会制造猜测、传闻和不可质询的任意。”与“秘密越多越能保证共同目标被下属准确理解。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“标准长期不透明会制造猜测、传闻和不可质询的任意。”与“秘密越多越能保证共同目标被下属准确理解。”之间作答，此项选择第一种。”之所以这样判定，是因为该回答保留了透明合作的反向需求。；相对项“若在“秘密越多越能保证共同目标被下属准确理解。”与“标准长期不透明会制造猜测、传闻和不可质询的任意。”之间作答，此项选择第一种。”则因信息缺失不会自动产生共同理解。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "ruler-nonaction-q4-o2",
+      "misconceptionId": "ruler-nonaction-q4-misconception"
+    },
+    {
+      "id": "ministerial-conflict-q1",
+      "kind": "multipleChoice",
+      "prompt": "臣下怎样可能在不改君主名义的情况下夺权？",
+      "targetNodeIds": [
+        "ministerial-conflict-node"
+      ],
+      "options": [
+        {
+          "id": "ministerial-conflict-q1-o1",
+          "text": "只有公开登基才算权力变化，信息渠道很少影响统治。",
+          "feedback": "把“只有公开登基才算权力变化，信息渠道很少影响统治。”与“控制视听、命令与私惠，使实际依附转向自己。”相比较：前者忽略了韩非反复讨论的壅蔽。；后者正式名位与实际控制的差别。。",
+          "isCorrect": false
+        },
+        {
+          "id": "ministerial-conflict-q1-o2",
+          "text": "控制视听、命令与私惠，使实际依附转向自己。",
+          "feedback": "把“控制视听、命令与私惠，使实际依附转向自己。”与“只有公开登基才算权力变化，信息渠道很少影响统治。”相比较：前者正式名位与实际控制的差别。；后者忽略了韩非反复讨论的壅蔽。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "ministerial-conflict-q1-o2",
+      "misconceptionId": "ministerial-conflict-q1-misconception"
+    },
+    {
+      "id": "ministerial-conflict-q2",
+      "kind": "multipleChoice",
+      "prompt": "交叉汇报为什么不是无成本方案？",
+      "targetNodeIds": [
+        "ministerial-conflict-node"
+      ],
+      "options": [
+        {
+          "id": "ministerial-conflict-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”，对照说法是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”，对照说法是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”。”的依据是增加渠道不会自动消除激励冲突。；作为对照，“这里需要在两项之间作出判断，所取主张是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”，对照说法是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”。”的问题在于同时保留防护功能与行为代价。。",
+          "isCorrect": false
+        },
+        {
+          "id": "ministerial-conflict-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”，对照说法是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”，对照说法是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”。”的依据是同时保留防护功能与行为代价。；作为对照，“这里需要在两项之间作出判断，所取主张是“平行汇报分散单点垄断，也把互疑、重复和沉默的风险一并降低。”，对照说法是“它可防单点垄断，也可能制造互疑、重复和坏消息沉默。”。”的问题在于增加渠道不会自动消除激励冲突。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "ministerial-conflict-q2-o2",
+      "misconceptionId": "ministerial-conflict-q2-misconception"
+    },
+    {
+      "id": "ministerial-conflict-q3",
+      "kind": "multipleChoice",
+      "prompt": "韩非君臣模型低估了什么？",
+      "targetNodeIds": [
+        "ministerial-conflict-node"
+      ],
+      "options": [
+        {
+          "id": "ministerial-conflict-q3-o1",
+          "text": "臣下利益与君主高度一致，制度安排因此多余，合作不需要规则支撑。",
+          "feedback": "两项差别可具体落在这里：“臣下利益与君主高度一致，制度安排因此多余，合作不需要规则支撑。”对应后一选项取消了真实代理风险。；“公开记录、专业规范和横向问责可形成非盲目的合作信任。”则对应提出的是制度化信任，不是天真同一利益。。",
+          "isCorrect": false
+        },
+        {
+          "id": "ministerial-conflict-q3-o2",
+          "text": "公开记录、专业规范和横向问责可形成非盲目的合作信任。",
+          "feedback": "两项差别可具体落在这里：“公开记录、专业规范和横向问责可形成非盲目的合作信任。”对应提出的是制度化信任，不是天真同一利益。；“臣下利益与君主高度一致，制度安排因此多余，合作不需要规则支撑。”则对应后一选项取消了真实代理风险。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "ministerial-conflict-q3-o2",
+      "misconceptionId": "ministerial-conflict-q3-misconception"
+    },
+    {
+      "id": "ministerial-conflict-q4",
+      "kind": "multipleChoice",
+      "prompt": "全面防奸为何可能制造盲区？",
+      "targetNodeIds": [
+        "ministerial-conflict-node"
+      ],
+      "options": [
+        {
+          "id": "ministerial-conflict-q4-o1",
+          "text": "惩罚越严，当事人越会无保留地报告自身与上司失败。",
+          "feedback": "复核这次选择时，应同时看到“惩罚越严，当事人越会无保留地报告自身与上司失败。”之所以这样判定，是因为自证不利在高惩罚环境下并非自然增加。；相对项“报告坏消息和协作均变得危险，信息在到达君主前被自我过滤。”则因恐惧对信息流的反向塑造。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "ministerial-conflict-q4-o2",
+          "text": "报告坏消息和协作均变得危险，信息在到达君主前被自我过滤。",
+          "feedback": "复核这次选择时，应同时看到“报告坏消息和协作均变得危险，信息在到达君主前被自我过滤。”之所以这样判定，是因为恐惧对信息流的反向塑造。；相对项“惩罚越严，当事人越会无保留地报告自身与上司失败。”则因自证不利在高惩罚环境下并非自然增加。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "ministerial-conflict-q4-o2",
+      "misconceptionId": "ministerial-conflict-q4-misconception"
+    },
+    {
+      "id": "persuasion-risk-q1",
+      "kind": "multipleChoice",
+      "prompt": "《说难》为何不把游说成败只归于论证真假？",
+      "targetNodeIds": [
+        "persuasion-risk-node"
+      ],
+      "options": [
+        {
+          "id": "persuasion-risk-q1-o1",
+          "text": "命题为真便会被君主接受，结果解释忽略表达处境。",
+          "feedback": "把“命题为真便会被君主接受，结果解释忽略表达处境。”与“听者的欲望、自我形象和权力位置会改变真话能否进入。”相比较：前者假定了文本正要否定的空场理性。；后者言说的关系与政治条件。。",
+          "isCorrect": false
+        },
+        {
+          "id": "persuasion-risk-q1-o2",
+          "text": "听者的欲望、自我形象和权力位置会改变真话能否进入。",
+          "feedback": "把“听者的欲望、自我形象和权力位置会改变真话能否进入。”与“命题为真便会被君主接受，结果解释忽略表达处境。”相比较：前者言说的关系与政治条件。；后者假定了文本正要否定的空场理性。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "persuasion-risk-q1-o2",
+      "misconceptionId": "persuasion-risk-q1-misconception"
+    },
+    {
+      "id": "persuasion-risk-q2",
+      "kind": "multipleChoice",
+      "prompt": "逆鳞比喻显示怎样的不对称？",
+      "targetNodeIds": [
+        "persuasion-risk-node"
+      ],
+      "options": [
+        {
+          "id": "persuasion-risk-q2-o1",
+          "text": "说客掌握惩罚君主的权力，所以君主必须猜测说客偏好。",
+          "feedback": "围绕当前问题，“说客掌握惩罚君主的权力，所以君主必须猜测说客偏好。”的依据是把权力关系完全倒置。；作为对照，“边界由君主隐秘决定，触犯后果却主要由说客承担。”的问题在于风险承担方向。。",
+          "isCorrect": false
+        },
+        {
+          "id": "persuasion-risk-q2-o2",
+          "text": "边界由君主隐秘决定，触犯后果却主要由说客承担。",
+          "feedback": "围绕当前问题，“边界由君主隐秘决定，触犯后果却主要由说客承担。”的依据是风险承担方向。；作为对照，“说客掌握惩罚君主的权力，所以君主必须猜测说客偏好。”的问题在于把权力关系完全倒置。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "persuasion-risk-q2-o2",
+      "misconceptionId": "persuasion-risk-q2-misconception"
+    },
+    {
+      "id": "persuasion-risk-q3",
+      "kind": "multipleChoice",
+      "prompt": "《孤愤》怎样把真话问题制度化？",
+      "targetNodeIds": [
+        "persuasion-risk-node"
+      ],
+      "options": [
+        {
+          "id": "persuasion-risk-q3-o1",
+          "text": "当权重臣控制信息入口，正确意见也无法在平等条件下竞争。",
+          "feedback": "两项差别可具体落在这里：“当权重臣控制信息入口，正确意见也无法在平等条件下竞争。”对应强调入口控制，不神化孤臣。；“孤立意见凭其孤立身份取得正确性，证据核验无法改变判断。”则对应处境受阻不能自动证明内容为真。。",
+          "isCorrect": true
+        },
+        {
+          "id": "persuasion-risk-q3-o2",
+          "text": "孤立意见凭其孤立身份取得正确性，证据核验无法改变判断。",
+          "feedback": "两项差别可具体落在这里：“孤立意见凭其孤立身份取得正确性，证据核验无法改变判断。”对应处境受阻不能自动证明内容为真。；“当权重臣控制信息入口，正确意见也无法在平等条件下竞争。”则对应强调入口控制，不神化孤臣。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "persuasion-risk-q3-o1",
+      "misconceptionId": "persuasion-risk-q3-misconception"
+    },
+    {
+      "id": "persuasion-risk-q4",
+      "kind": "multipleChoice",
+      "prompt": "策略表达何时滑向阿谀？",
+      "targetNodeIds": [
+        "persuasion-risk-node"
+      ],
+      "options": [
+        {
+          "id": "persuasion-risk-q4-o1",
+          "text": "为迎合权力而改变事实，使成功说服失去原认识内容。",
+          "feedback": "复核这次选择时，应同时看到“为迎合权力而改变事实，使成功说服失去原认识内容。”之所以这样判定，是因为审慎表达与内容投降。；相对项“调整表达顺序就等于背叛事实内容，真值不受内容改变。”则因表达策略本身并不等于造假。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "persuasion-risk-q4-o2",
+          "text": "调整表达顺序就等于背叛事实内容，真值不受内容改变。",
+          "feedback": "复核这次选择时，应同时看到“调整表达顺序就等于背叛事实内容，真值不受内容改变。”之所以这样判定，是因为表达策略本身并不等于造假。；相对项“为迎合权力而改变事实，使成功说服失去原认识内容。”则因审慎表达与内容投降。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "persuasion-risk-q4-o1",
+      "misconceptionId": "persuasion-risk-q4-misconception"
+    },
+    {
+      "id": "agriculture-war-q1",
+      "kind": "multipleChoice",
+      "prompt": "韩非为何把荣誉配置纳入农战政策？",
+      "targetNodeIds": [
+        "agriculture-war-node"
+      ],
+      "options": [
+        {
+          "id": "agriculture-war-q1-o1",
+          "text": "职业选择被归给天生性格，行为解释忽略社会奖励。",
+          "feedback": "把“职业选择被归给天生性格，行为解释忽略社会奖励。”与“名誉与收益会改变职业选择，法令若与称誉冲突便难以动员。”相比较：前者取消了《诡使》的问题意识。；后者连接了称誉、激励与资源流向。。",
+          "isCorrect": false
+        },
+        {
+          "id": "agriculture-war-q1-o2",
+          "text": "名誉与收益会改变职业选择，法令若与称誉冲突便难以动员。",
+          "feedback": "把“名誉与收益会改变职业选择，法令若与称誉冲突便难以动员。”与“职业选择被归给天生性格，行为解释忽略社会奖励。”相比较：前者连接了称誉、激励与资源流向。；后者取消了《诡使》的问题意识。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "agriculture-war-q1-o2",
+      "misconceptionId": "agriculture-war-q1-misconception"
+    },
+    {
+      "id": "agriculture-war-q2",
+      "kind": "multipleChoice",
+      "prompt": "五蠹分类应怎样阅读？",
+      "targetNodeIds": [
+        "agriculture-war-node"
+      ],
+      "options": [
+        {
+          "id": "agriculture-war-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”，对照说法是“把五类归成同一种道德坏人，并用同一政策处理。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”，对照说法是“把五类归成同一种道德坏人，并用同一政策处理。”。”的依据是既不把分类清单化，也不替它免责。；作为对照，“这里需要在两项之间作出判断，所取主张是“把五类归成同一种道德坏人，并用同一政策处理。”，对照说法是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”。”的问题在于同名谴责不能证明各类因果相同。。",
+          "isCorrect": true
+        },
+        {
+          "id": "agriculture-war-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“把五类归成同一种道德坏人，并用同一政策处理。”，对照说法是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“把五类归成同一种道德坏人，并用同一政策处理。”，对照说法是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”。”的依据是同名谴责不能证明各类因果相同。；作为对照，“这里需要在两项之间作出判断，所取主张是“逐类检查所指机制，同时保留它可能授权知识压制的风险。”，对照说法是“把五类归成同一种道德坏人，并用同一政策处理。”。”的问题在于既不把分类清单化，也不替它免责。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "agriculture-war-q2-o1",
+      "misconceptionId": "agriculture-war-q2-misconception"
+    },
+    {
+      "id": "agriculture-war-q3",
+      "kind": "multipleChoice",
+      "prompt": "农战为何偏爱短期可计量活动？",
+      "targetNodeIds": [
+        "agriculture-war-node"
+      ],
+      "options": [
+        {
+          "id": "agriculture-war-q3-o1",
+          "text": "粮与战功易记录，而照护、知识和预防价值常延后显现。",
+          "feedback": "两项差别可具体落在这里：“粮与战功易记录，而照护、知识和预防价值常延后显现。”对应测量便利与价值完整并不相同。；“可计量指标被等同于公共善，长期能力不会被挤出。”则对应易测不等于穷尽重要性。。",
+          "isCorrect": true
+        },
+        {
+          "id": "agriculture-war-q3-o2",
+          "text": "可计量指标被等同于公共善，长期能力不会被挤出。",
+          "feedback": "两项差别可具体落在这里：“可计量指标被等同于公共善，长期能力不会被挤出。”对应易测不等于穷尽重要性。；“粮与战功易记录，而照护、知识和预防价值常延后显现。”则对应测量便利与价值完整并不相同。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "agriculture-war-q3-o1",
+      "misconceptionId": "agriculture-war-q3-misconception"
+    },
+    {
+      "id": "agriculture-war-q4",
+      "kind": "multipleChoice",
+      "prompt": "国家强盛与个体福祉为何需分开？",
+      "targetNodeIds": [
+        "agriculture-war-node"
+      ],
+      "options": [
+        {
+          "id": "agriculture-war-q4-o1",
+          "text": "国家力量增加时，逐项成员生活会同幅改善。",
+          "feedback": "复核这次选择时，应同时看到“国家力量增加时，逐项成员生活会同幅改善。”之所以这样判定，是因为总体能力不能直接推出个体受益。；相对项“增产战功可伴随重征，承担者未必受益。”则因目标分配问题。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "agriculture-war-q4-o2",
+          "text": "增产战功可伴随重征，承担者未必受益。",
+          "feedback": "复核这次选择时，应同时看到“增产战功可伴随重征，承担者未必受益。”之所以这样判定，是因为目标分配问题。；相对项“国家力量增加时，逐项成员生活会同幅改善。”则因总体能力不能直接推出个体受益。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "agriculture-war-q4-o2",
+      "misconceptionId": "agriculture-war-q4-misconception"
+    },
+    {
+      "id": "prominent-teachings-q1",
+      "kind": "multipleChoice",
+      "prompt": "儒墨多派现象首先削弱了什么？",
+      "targetNodeIds": [
+        "prominent-teachings-node"
+      ],
+      "options": [
+        {
+          "id": "prominent-teachings-q1-o1",
+          "text": "共同援引创始人不能单独裁定互相冲突的具体主张。",
+          "feedback": "把“共同援引创始人不能单独裁定互相冲突的具体主张。”与“各派均称古时，互斥政策就能同时为真。”相比较：前者谱系权威的不足。；后者共同来源声明不能消除内容矛盾。。",
+          "isCorrect": true
+        },
+        {
+          "id": "prominent-teachings-q1-o2",
+          "text": "各派均称古时，互斥政策就能同时为真。",
+          "feedback": "把“各派均称古时，互斥政策就能同时为真。”与“共同援引创始人不能单独裁定互相冲突的具体主张。”相比较：前者共同来源声明不能消除内容矛盾。；后者谱系权威的不足。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "prominent-teachings-q1-o1",
+      "misconceptionId": "prominent-teachings-q1-misconception"
+    },
+    {
+      "id": "prominent-teachings-q2",
+      "kind": "multipleChoice",
+      "prompt": "功效标准为何不是价值中立？",
+      "targetNodeIds": [
+        "prominent-teachings-node"
+      ],
+      "options": [
+        {
+          "id": "prominent-teachings-q2-o1",
+          "text": "结果一旦可计量，目标就被说成价值中立。",
+          "feedback": "围绕当前问题，“结果一旦可计量，目标就被说成价值中立。”的依据是可量化不会把价值选择变成自然事实。；作为对照，“何为功、为谁而功及时间尺度仍需政治与伦理选择。”的问题在于揭示测量前已有目标设定。。",
+          "isCorrect": false
+        },
+        {
+          "id": "prominent-teachings-q2-o2",
+          "text": "何为功、为谁而功及时间尺度仍需政治与伦理选择。",
+          "feedback": "围绕当前问题，“何为功、为谁而功及时间尺度仍需政治与伦理选择。”的依据是揭示测量前已有目标设定。；作为对照，“结果一旦可计量，目标就被说成价值中立。”的问题在于可量化不会把价值选择变成自然事实。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "prominent-teachings-q2-o2",
+      "misconceptionId": "prominent-teachings-q2-misconception"
+    },
+    {
+      "id": "prominent-teachings-q3",
+      "kind": "multipleChoice",
+      "prompt": "和氏之璧故事的误用风险是什么？",
+      "targetNodeIds": [
+        "prominent-teachings-node"
+      ],
+      "options": [
+        {
+          "id": "prominent-teachings-q3-o1",
+          "text": "权力者的第一次判断被预设正确，后续复核无法增加信息。",
+          "feedback": "两项差别可具体落在这里：“权力者的第一次判断被预设正确，后续复核无法增加信息。”对应故事恰以反复误判说明鉴定可能失败。；“逐项受挫进言者均可能自比未识之玉，逃避对内容的核验。”则对应识别失败与自我神化两边。。",
+          "isCorrect": false
+        },
+        {
+          "id": "prominent-teachings-q3-o2",
+          "text": "逐项受挫进言者均可能自比未识之玉，逃避对内容的核验。",
+          "feedback": "两项差别可具体落在这里：“逐项受挫进言者均可能自比未识之玉，逃避对内容的核验。”对应识别失败与自我神化两边。；“权力者的第一次判断被预设正确，后续复核无法增加信息。”则对应故事恰以反复误判说明鉴定可能失败。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "prominent-teachings-q3-o2",
+      "misconceptionId": "prominent-teachings-q3-misconception"
+    },
+    {
+      "id": "prominent-teachings-q4",
+      "kind": "multipleChoice",
+      "prompt": "反显学何时会成为新教条？",
+      "targetNodeIds": [
+        "prominent-teachings-node"
+      ],
+      "options": [
+        {
+          "id": "prominent-teachings-q4-o1",
+          "text": "若在“当反对古代权威，思想竞争便会由此获得保护。”与“君主独占成效裁决并压制外部检验时。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“当反对古代权威，思想竞争便会由此获得保护。”与“君主独占成效裁决并压制外部检验时。”之间作答，此项选择第一种。”之所以这样判定，是因为删除旧权威可能只是换上新垄断者。；相对项“若在“君主独占成效裁决并压制外部检验时。”与“当反对古代权威，思想竞争便会由此获得保护。”之间作答，此项选择第一种。”则因反权威姿态不保证制度开放。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "prominent-teachings-q4-o2",
+          "text": "若在“君主独占成效裁决并压制外部检验时。”与“当反对古代权威，思想竞争便会由此获得保护。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“君主独占成效裁决并压制外部检验时。”与“当反对古代权威，思想竞争便会由此获得保护。”之间作答，此项选择第一种。”之所以这样判定，是因为反权威姿态不保证制度开放。；相对项“若在“当反对古代权威，思想竞争便会由此获得保护。”与“君主独占成效裁决并压制外部检验时。”之间作答，此项选择第一种。”则因删除旧权威可能只是换上新垄断者。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "prominent-teachings-q4-o2",
+      "misconceptionId": "prominent-teachings-q4-misconception"
+    },
+    {
+      "id": "family-gender-q1",
+      "kind": "multipleChoice",
+      "prompt": "反私门具有哪项公共性意义？",
+      "targetNodeIds": [
+        "family-gender-node"
+      ],
+      "options": [
+        {
+          "id": "family-gender-q1-o1",
+          "text": "在两种解释中选择前者：“防止家族亲疏截取官位和奖赏，使公共标准较可进入。”；对照项是“让君主家族取得不受审查的全国特权就等于消除私权。”。",
+          "feedback": "反私门阻止家族亲疏截取官位与奖赏，使公共职位较少被世袭关系占有。",
+          "isCorrect": true
+        },
+        {
+          "id": "family-gender-q1-o2",
+          "text": "在两种解释中选择前者：“让君主家族取得不受审查的全国特权就等于消除私权。”；对照项是“防止家族亲疏截取官位和奖赏，使公共标准较可进入。”。",
+          "feedback": "让君主家族享有不受审查的全国特权，只会在最高处重建同一种家门截流。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "family-gender-q1-o1",
+      "misconceptionId": "family-gender-q1-misconception"
+    },
+    {
+      "id": "family-gender-q2",
+      "kind": "multipleChoice",
+      "prompt": "忠孝冲突为何不能由忠君一律解决？",
+      "targetNodeIds": [
+        "family-gender-node"
+      ],
+      "options": [
+        {
+          "id": "family-gender-q2-o1",
+          "text": "国家命令也可能不义，忠诚对象须审查。",
+          "feedback": "围绕当前问题，“国家命令也可能不义，忠诚对象须审查。”的依据是把事实权威与道德资格分开。；作为对照，“君主发令这一事实构成命令正当性的充分理由。”的问题在于命令来源不能替内容完成正当化。。",
+          "isCorrect": true
+        },
+        {
+          "id": "family-gender-q2-o2",
+          "text": "君主发令这一事实构成命令正当性的充分理由。",
+          "feedback": "围绕当前问题，“君主发令这一事实构成命令正当性的充分理由。”的依据是命令来源不能替内容完成正当化。；作为对照，“国家命令也可能不义，忠诚对象须审查。”的问题在于把事实权威与道德资格分开。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "family-gender-q2-o1",
+      "misconceptionId": "family-gender-q2-misconception"
+    },
+    {
+      "id": "family-gender-q3",
+      "kind": "multipleChoice",
+      "prompt": "怎样处理《备内》的性别偏见？",
+      "targetNodeIds": [
+        "family-gender-node"
+      ],
+      "options": [
+        {
+          "id": "family-gender-q3-o1",
+          "text": "原文的厌女表述被改写成现代性别中立，偏见因而从解释中消失。",
+          "feedback": "两项差别可具体落在这里：“原文的厌女表述被改写成现代性别中立，偏见因而从解释中消失。”对应现代润色会伪造原典声音。；“承认宫廷利益风险，同时明确女性定型不可由时代背景免责。”则对应既保留历史文本，也保留规范归责。。",
+          "isCorrect": false
+        },
+        {
+          "id": "family-gender-q3-o2",
+          "text": "承认宫廷利益风险，同时明确女性定型不可由时代背景免责。",
+          "feedback": "两项差别可具体落在这里：“承认宫廷利益风险，同时明确女性定型不可由时代背景免责。”对应既保留历史文本，也保留规范归责。；“原文的厌女表述被改写成现代性别中立，偏见因而从解释中消失。”则对应现代润色会伪造原典声音。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "family-gender-q3-o2",
+      "misconceptionId": "family-gender-q3-misconception"
+    },
+    {
+      "id": "family-gender-q4",
+      "kind": "multipleChoice",
+      "prompt": "非性别化的风险重构应怎样标记？",
+      "targetNodeIds": [
+        "family-gender-node"
+      ],
+      "options": [
+        {
+          "id": "family-gender-q4-o1",
+          "text": "注明这是现代修正，不归作韩非原话。",
+          "feedback": "复核这次选择时，应同时看到“注明这是现代修正，不归作韩非原话。”之所以这样判定，是因为守住了原典与重构身份。；相对项“把现代修正归给韩非，借此称他提出性别平等制度。”则因可取的改写也不能倒灌作者。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "family-gender-q4-o2",
+          "text": "把现代修正归给韩非，借此称他提出性别平等制度。",
+          "feedback": "复核这次选择时，应同时看到“把现代修正归给韩非，借此称他提出性别平等制度。”之所以这样判定，是因为可取的改写也不能倒灌作者。；相对项“注明这是现代修正，不归作韩非原话。”则因守住了原典与重构身份。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "family-gender-q4-o1",
+      "misconceptionId": "family-gender-q4-misconception"
+    },
+    {
+      "id": "scarcity-population-q1",
+      "kind": "multipleChoice",
+      "prompt": "韩非人口资源论反对哪种简单解释？",
+      "targetNodeIds": [
+        "scarcity-population-node"
+      ],
+      "options": [
+        {
+          "id": "scarcity-population-q1-o1",
+          "text": "把古今风俗差异全归于后人道德品质下降。",
+          "feedback": "把“把古今风俗差异全归于后人道德品质下降。”与“物质条件可能改变竞争与家庭决策，这一陈述本身被误作决定论。”相比较：前者文本将风俗放回条件变化。；后者后一项正是其解释资源，而非被反对对象。。",
+          "isCorrect": true
+        },
+        {
+          "id": "scarcity-population-q1-o2",
+          "text": "物质条件可能改变竞争与家庭决策，这一陈述本身被误作决定论。",
+          "feedback": "把“物质条件可能改变竞争与家庭决策，这一陈述本身被误作决定论。”与“把古今风俗差异全归于后人道德品质下降。”相比较：前者后一项正是其解释资源，而非被反对对象。；后者文本将风俗放回条件变化。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "scarcity-population-q1-o1",
+      "misconceptionId": "scarcity-population-q1-misconception"
+    },
+    {
+      "id": "scarcity-population-q2",
+      "kind": "multipleChoice",
+      "prompt": "为何人口增长不应被当成唯一原因？",
+      "targetNodeIds": [
+        "scarcity-population-node"
+      ],
+      "options": [
+        {
+          "id": "scarcity-population-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”，对照说法是“技术、制度、战争与分配也会改变资源可得性。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”，对照说法是“技术、制度、战争与分配也会改变资源可得性。”。”的依据是单因决定论超过了文本能证明的强度。；作为对照，“这里需要在两项之间作出判断，所取主张是“技术、制度、战争与分配也会改变资源可得性。”，对照说法是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”。”的问题在于多重因果和条件范围。。",
+          "isCorrect": false
+        },
+        {
+          "id": "scarcity-population-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“技术、制度、战争与分配也会改变资源可得性。”，对照说法是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“技术、制度、战争与分配也会改变资源可得性。”，对照说法是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”。”的依据是多重因果和条件范围。；作为对照，“这里需要在两项之间作出判断，所取主张是“模型只保留人数变化作为行为原因，制度、技术和分配不进入计算。”，对照说法是“技术、制度、战争与分配也会改变资源可得性。”。”的问题在于单因决定论超过了文本能证明的强度。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "scarcity-population-q2-o2",
+      "misconceptionId": "scarcity-population-q2-misconception"
+    },
+    {
+      "id": "scarcity-population-q3",
+      "kind": "multipleChoice",
+      "prompt": "国家仓库增加为何不等于人民普遍受益？",
+      "targetNodeIds": [
+        "scarcity-population-node"
+      ],
+      "options": [
+        {
+          "id": "scarcity-population-q3-o1",
+          "text": "家庭安全与国家储备会因征取和分配而反向变化。",
+          "feedback": "两项差别可具体落在这里：“家庭安全与国家储备会因征取和分配而反向变化。”对应把总量与分配分开。；“总体数量上升会随后平均进入逐项家庭。”则对应总量指标不能替代分布证据。。",
+          "isCorrect": true
+        },
+        {
+          "id": "scarcity-population-q3-o2",
+          "text": "总体数量上升会随后平均进入逐项家庭。",
+          "feedback": "两项差别可具体落在这里：“总体数量上升会随后平均进入逐项家庭。”对应总量指标不能替代分布证据。；“家庭安全与国家储备会因征取和分配而反向变化。”则对应把总量与分配分开。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "scarcity-population-q3-o1",
+      "misconceptionId": "scarcity-population-q3-misconception"
+    },
+    {
+      "id": "scarcity-population-q4",
+      "kind": "multipleChoice",
+      "prompt": "现代人口学应怎样引用这段观察？",
+      "targetNodeIds": [
+        "scarcity-population-node"
+      ],
+      "options": [
+        {
+          "id": "scarcity-population-q4-o1",
+          "text": "若在“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”与“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”与“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”之间作答，此项选择第一种。”之所以这样判定，是因为保持了历史洞见与证据方法的边界。；相对项“若在“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”与“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”之间作答，此项选择第一种。”则因概念相似不能补出不存在的数据。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "scarcity-population-q4-o2",
+          "text": "若在“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”与“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”与“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”之间作答，此项选择第一种。”之所以这样判定，是因为概念相似不能补出不存在的数据。；相对项“若在“标作古代条件性推测，不冒充有现代统计支持的普遍定律。”与“古代观察被称成完成的科学人口模型，数据核验不再成为要求。”之间作答，此项选择第一种。”则因保持了历史洞见与证据方法的边界。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "scarcity-population-q4-o1",
+      "misconceptionId": "scarcity-population-q4-misconception"
+    },
+    {
+      "id": "case-reasoning-q1",
+      "kind": "multipleChoice",
+      "prompt": "储说的经与说怎样配合？",
+      "targetNodeIds": [
+        "case-reasoning-node"
+      ],
+      "options": [
+        {
+          "id": "case-reasoning-q1-o1",
+          "text": "说例只是重复经的原句，不增加人物或条件变化。",
+          "feedback": "把“说例只是重复经的原句，不增加人物或条件变化。”与“经提出机制，多个说例让机制在不同情境中接受观察。”相比较：前者若只是字面重复，编列多例便没有认识作用。；后者案例库式结构。。",
+          "isCorrect": false
+        },
+        {
+          "id": "case-reasoning-q1-o2",
+          "text": "经提出机制，多个说例让机制在不同情境中接受观察。",
+          "feedback": "把“经提出机制，多个说例让机制在不同情境中接受观察。”与“说例只是重复经的原句，不增加人物或条件变化。”相比较：前者案例库式结构。；后者若只是字面重复，编列多例便没有认识作用。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "case-reasoning-q1-o2",
+      "misconceptionId": "case-reasoning-q1-misconception"
+    },
+    {
+      "id": "case-reasoning-q2",
+      "kind": "multipleChoice",
+      "prompt": "矛盾故事检验的核心是什么？",
+      "targetNodeIds": [
+        "case-reasoning-node"
+      ],
+      "options": [
+        {
+          "id": "case-reasoning-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“两个全称承诺放在同一相遇情境中能否同时成立。”，对照说法是“哪件商品外观更华丽，与承诺逻辑无关。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“两个全称承诺放在同一相遇情境中能否同时成立。”，对照说法是“哪件商品外观更华丽，与承诺逻辑无关。”。”的依据是共同测试情境。；作为对照，“这里需要在两项之间作出判断，所取主张是“哪件商品外观更华丽，与承诺逻辑无关。”，对照说法是“两个全称承诺放在同一相遇情境中能否同时成立。”。”的问题在于故事焦点不是审美比较。。",
+          "isCorrect": true
+        },
+        {
+          "id": "case-reasoning-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“哪件商品外观更华丽，与承诺逻辑无关。”，对照说法是“两个全称承诺放在同一相遇情境中能否同时成立。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“哪件商品外观更华丽，与承诺逻辑无关。”，对照说法是“两个全称承诺放在同一相遇情境中能否同时成立。”。”的依据是故事焦点不是审美比较。；作为对照，“这里需要在两项之间作出判断，所取主张是“两个全称承诺放在同一相遇情境中能否同时成立。”，对照说法是“哪件商品外观更华丽，与承诺逻辑无关。”。”的问题在于共同测试情境。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "case-reasoning-q2-o1",
+      "misconceptionId": "case-reasoning-q2-misconception"
+    },
+    {
+      "id": "case-reasoning-q3",
+      "kind": "multipleChoice",
+      "prompt": "一则成功寓言不能证明什么？",
+      "targetNodeIds": [
+        "case-reasoning-node"
+      ],
+      "options": [
+        {
+          "id": "case-reasoning-q3-o1",
+          "text": "不能证明大规模制度在不同条件下效果相同。",
+          "feedback": "两项差别可具体落在这里：“不能证明大规模制度在不同条件下效果相同。”对应限制的是外推范围，不是否定案例功能。；“不能显示概念冲突或提出待检机制。”则对应后一说法过度贬低寓言的诊断价值。。",
+          "isCorrect": true
+        },
+        {
+          "id": "case-reasoning-q3-o2",
+          "text": "不能显示概念冲突或提出待检机制。",
+          "feedback": "两项差别可具体落在这里：“不能显示概念冲突或提出待检机制。”对应后一说法过度贬低寓言的诊断价值。；“不能证明大规模制度在不同条件下效果相同。”则对应限制的是外推范围，不是否定案例功能。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "case-reasoning-q3-o1",
+      "misconceptionId": "case-reasoning-q3-misconception"
+    },
+    {
+      "id": "case-reasoning-q4",
+      "kind": "multipleChoice",
+      "prompt": "案例选材可能造成何种偏差？",
+      "targetNodeIds": [
+        "case-reasoning-node"
+      ],
+      "options": [
+        {
+          "id": "case-reasoning-q4-o1",
+          "text": "若在“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”与“案例数量增加本身便能校正选例偏差。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”与“案例数量增加本身便能校正选例偏差。”之间作答，此项选择第一种。”之所以这样判定，是因为汇编也有选择过程。；相对项“若在“案例数量增加本身便能校正选例偏差。”与“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”之间作答，此项选择第一种。”则因更多同向样本不等于代表性更强。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "case-reasoning-q4-o2",
+          "text": "若在“案例数量增加本身便能校正选例偏差。”与“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“案例数量增加本身便能校正选例偏差。”与“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”之间作答，此项选择第一种。”之所以这样判定，是因为更多同向样本不等于代表性更强。；相对项“若在“反复选择背叛故事会高估背叛频率，同时遮蔽合作与误判。”与“案例数量增加本身便能校正选例偏差。”之间作答，此项选择第一种。”则因汇编也有选择过程。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "case-reasoning-q4-o1",
+      "misconceptionId": "case-reasoning-q4-misconception"
+    },
+    {
+      "id": "laozi-layer-q1",
+      "kind": "multipleChoice",
+      "prompt": "《解老》的“理”为什么不能只当行政规则？",
+      "targetNodeIds": [
+        "laozi-layer-node"
+      ],
+      "options": [
+        {
+          "id": "laozi-layer-q1-o1",
+          "text": "这些语句被缩成君主的临时命令，事物结构不进入解释。",
+          "feedback": "把“这些语句被缩成君主的临时命令，事物结构不进入解释。”与“它还指向事物具体纹理和所以然，形成独立的解释层。”相比较：前者狭化为命令会抹掉道理讨论。；后者解释文本的概念范围。。",
+          "isCorrect": false
+        },
+        {
+          "id": "laozi-layer-q1-o2",
+          "text": "它还指向事物具体纹理和所以然，形成独立的解释层。",
+          "feedback": "把“它还指向事物具体纹理和所以然，形成独立的解释层。”与“这些语句被缩成君主的临时命令，事物结构不进入解释。”相比较：前者解释文本的概念范围。；后者狭化为命令会抹掉道理讨论。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "laozi-layer-q1-o2",
+      "misconceptionId": "laozi-layer-q1-misconception"
+    },
+    {
+      "id": "laozi-layer-q2",
+      "kind": "multipleChoice",
+      "prompt": "《主道》如何改造无为语汇？",
+      "targetNodeIds": [
+        "laozi-layer-node"
+      ],
+      "options": [
+        {
+          "id": "laozi-layer-q2-o1",
+          "text": "把虚静和不显欲望用于君臣信息与控制位置。",
+          "feedback": "围绕当前问题，“把虚静和不显欲望用于君臣信息与控制位置。”的依据是政治化功能而非退隐。；作为对照，“把君主劝离政治，停止分职、核验和权令。”的问题在于与主道篇的统御目标冲突。。",
+          "isCorrect": true
+        },
+        {
+          "id": "laozi-layer-q2-o2",
+          "text": "把君主劝离政治，停止分职、核验和权令。",
+          "feedback": "围绕当前问题，“把君主劝离政治，停止分职、核验和权令。”的依据是与主道篇的统御目标冲突。；作为对照，“把虚静和不显欲望用于君臣信息与控制位置。”的问题在于政治化功能而非退隐。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "laozi-layer-q2-o1",
+      "misconceptionId": "laozi-layer-q2-misconception"
+    },
+    {
+      "id": "laozi-layer-q3",
+      "kind": "multipleChoice",
+      "prompt": "为何不能把《解老》与《主道》先验地视为完全同声？",
+      "targetNodeIds": [
+        "laozi-layer-node"
+      ],
+      "options": [
+        {
+          "id": "laozi-layer-q3-o1",
+          "text": "判断所取的是“当均出现道字，所述句子就往往同作者同目的。”；另一待比较判断为“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“当均出现道字，所述句子就往往同作者同目的。”；另一待比较判断为“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”。”对应同词出现不足以消除文本层次。；“判断所取的是“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”；另一待比较判断为“当均出现道字，所述句子就往往同作者同目的。”。”则对应坚持以具体中介而非术语共现证明统一。。",
+          "isCorrect": false
+        },
+        {
+          "id": "laozi-layer-q3-o2",
+          "text": "判断所取的是“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”；另一待比较判断为“当均出现道字，所述句子就往往同作者同目的。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”；另一待比较判断为“当均出现道字，所述句子就往往同作者同目的。”。”对应坚持以具体中介而非术语共现证明统一。；“判断所取的是“当均出现道字，所述句子就往往同作者同目的。”；另一待比较判断为“体裁、功能与归属问题不同，交叉概念仍需逐段证明。”。”则对应同词出现不足以消除文本层次。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "laozi-layer-q3-o2",
+      "misconceptionId": "laozi-layer-q3-misconception"
+    },
+    {
+      "id": "laozi-layer-q4",
+      "kind": "multipleChoice",
+      "prompt": "声音分层如何防止宇宙论洗白政治？",
+      "targetNodeIds": [
+        "laozi-layer-node"
+      ],
+      "options": [
+        {
+          "id": "laozi-layer-q4-o1",
+          "text": "若在“凡借用老学词汇的政治措施均因此取得由此往往性。”与“不让顺理或道的解释随后证明秘密控制与惩罚正当。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“凡借用老学词汇的政治措施均因此取得由此往往性。”与“不让顺理或道的解释随后证明秘密控制与惩罚正当。”之间作答，此项选择第一种。”之所以这样判定，是因为概念来源不会自动担保制度正当。；相对项“若在“不让顺理或道的解释随后证明秘密控制与惩罚正当。”与“凡借用老学词汇的政治措施均因此取得由此往往性。”之间作答，此项选择第一种。”则因保持了描述联系与规范授权的距离。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "laozi-layer-q4-o2",
+          "text": "若在“不让顺理或道的解释随后证明秘密控制与惩罚正当。”与“凡借用老学词汇的政治措施均因此取得由此往往性。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“不让顺理或道的解释随后证明秘密控制与惩罚正当。”与“凡借用老学词汇的政治措施均因此取得由此往往性。”之间作答，此项选择第一种。”之所以这样判定，是因为保持了描述联系与规范授权的距离。；相对项“若在“凡借用老学词汇的政治措施均因此取得由此往往性。”与“不让顺理或道的解释随后证明秘密控制与惩罚正当。”之间作答，此项选择第一种。”则因概念来源不会自动担保制度正当。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "laozi-layer-q4-o2",
+      "misconceptionId": "laozi-layer-q4-misconception"
+    },
+    {
+      "id": "war-diplomacy-q1",
+      "kind": "multipleChoice",
+      "prompt": "亡征为何不把亡国只归于外敌强大？",
+      "targetNodeIds": [
+        "war-diplomacy-node"
+      ],
+      "options": [
+        {
+          "id": "war-diplomacy-q1-o1",
+          "text": "内部赏罚、信息、君臣和资源结构会先削弱应对能力。",
+          "feedback": "把“内部赏罚、信息、君臣和资源结构会先削弱应对能力。”与“外患出现后，内政质量便与国家安全无关，内部制度不会改变结果。”相比较：前者内外因果链。；后者取消了亡征条目的诊断意义。。",
+          "isCorrect": true
+        },
+        {
+          "id": "war-diplomacy-q1-o2",
+          "text": "外患出现后，内政质量便与国家安全无关，内部制度不会改变结果。",
+          "feedback": "把“外患出现后，内政质量便与国家安全无关，内部制度不会改变结果。”与“内部赏罚、信息、君臣和资源结构会先削弱应对能力。”相比较：前者取消了亡征条目的诊断意义。；后者内外因果链。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "war-diplomacy-q1-o1",
+      "misconceptionId": "war-diplomacy-q1-misconception"
+    },
+    {
+      "id": "war-diplomacy-q2",
+      "kind": "multipleChoice",
+      "prompt": "弱国自卫理由为何不能自动支持征服？",
+      "targetNodeIds": [
+        "war-diplomacy-node"
+      ],
+      "options": [
+        {
+          "id": "war-diplomacy-q2-o1",
+          "text": "这里需要在两项之间作出判断，所取主张是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”，对照说法是“防止被吞并与主动剥夺他国需要不同的规范论证。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”，对照说法是“防止被吞并与主动剥夺他国需要不同的规范论证。”。”的依据是受威胁经历不会生成无限征服权。；作为对照，“这里需要在两项之间作出判断，所取主张是“防止被吞并与主动剥夺他国需要不同的规范论证。”，对照说法是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”。”的问题在于安全理由的方向和范围。。",
+          "isCorrect": false
+        },
+        {
+          "id": "war-diplomacy-q2-o2",
+          "text": "这里需要在两项之间作出判断，所取主张是“防止被吞并与主动剥夺他国需要不同的规范论证。”，对照说法是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”。",
+          "feedback": "围绕当前问题，“这里需要在两项之间作出判断，所取主张是“防止被吞并与主动剥夺他国需要不同的规范论证。”，对照说法是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”。”的依据是安全理由的方向和范围。；作为对照，“这里需要在两项之间作出判断，所取主张是“曾经遭受吞并威胁，会使后来主动剥夺邻国取得同一规范许可。”，对照说法是“防止被吞并与主动剥夺他国需要不同的规范论证。”。”的问题在于受威胁经历不会生成无限征服权。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "war-diplomacy-q2-o2",
+      "misconceptionId": "war-diplomacy-q2-misconception"
+    },
+    {
+      "id": "war-diplomacy-q3",
+      "kind": "multipleChoice",
+      "prompt": "《初见秦》《存韩》应怎样并读？",
+      "targetNodeIds": [
+        "war-diplomacy-node"
+      ],
+      "options": [
+        {
+          "id": "war-diplomacy-q3-o1",
+          "text": "保留政治方向、说话处境和归属争议，不拼成无缝自述。",
+          "feedback": "两项差别可具体落在这里：“保留政治方向、说话处境和归属争议，不拼成无缝自述。”对应遵守了篇章声音门。；“把两篇这些差异均解释为韩非同一时刻的确定意图。”则对应强行心理统一会跳过文本证据。。",
+          "isCorrect": true
+        },
+        {
+          "id": "war-diplomacy-q3-o2",
+          "text": "把两篇这些差异均解释为韩非同一时刻的确定意图。",
+          "feedback": "两项差别可具体落在这里：“把两篇这些差异均解释为韩非同一时刻的确定意图。”对应强行心理统一会跳过文本证据。；“保留政治方向、说话处境和归属争议，不拼成无缝自述。”则对应遵守了篇章声音门。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "war-diplomacy-q3-o1",
+      "misconceptionId": "war-diplomacy-q3-misconception"
+    },
+    {
+      "id": "war-diplomacy-q4",
+      "kind": "multipleChoice",
+      "prompt": "统一天下的和平承诺仍需检查什么？",
+      "targetNodeIds": [
+        "war-diplomacy-node"
+      ],
+      "options": [
+        {
+          "id": "war-diplomacy-q4-o1",
+          "text": "若在“征服过程、平民伤害、高压动员和战后权力是否正当。”与“战争最终减少便赦免了过程中的手段，手段本身退出评价。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“征服过程、平民伤害、高压动员和战后权力是否正当。”与“战争最终减少便赦免了过程中的手段，手段本身退出评价。”之间作答，此项选择第一种。”之所以这样判定，是因为把过程与总体结果同时纳入。；相对项“若在“战争最终减少便赦免了过程中的手段，手段本身退出评价。”与“征服过程、平民伤害、高压动员和战后权力是否正当。”之间作答，此项选择第一种。”则因结果目标不能预先取消手段边界。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "war-diplomacy-q4-o2",
+          "text": "若在“战争最终减少便赦免了过程中的手段，手段本身退出评价。”与“征服过程、平民伤害、高压动员和战后权力是否正当。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“战争最终减少便赦免了过程中的手段，手段本身退出评价。”与“征服过程、平民伤害、高压动员和战后权力是否正当。”之间作答，此项选择第一种。”之所以这样判定，是因为结果目标不能预先取消手段边界。；相对项“若在“征服过程、平民伤害、高压动员和战后权力是否正当。”与“战争最终减少便赦免了过程中的手段，手段本身退出评价。”之间作答，此项选择第一种。”则因把过程与总体结果同时纳入。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "war-diplomacy-q4-o1",
+      "misconceptionId": "war-diplomacy-q4-misconception"
+    },
+    {
+      "id": "system-contradiction-q1",
+      "kind": "multipleChoice",
+      "prompt": "公开法与秘密术的核心张力是什么？",
+      "targetNodeIds": [
+        "system-contradiction-node"
+      ],
+      "options": [
+        {
+          "id": "system-contradiction-q1-o1",
+          "text": "被治理者需要可预期，君主又依赖他人无法过度预期的检查。",
+          "feedback": "把“被治理者需要可预期，君主又依赖他人无法过度预期的检查。”与“公开法与秘密术被说成同时要求信息公开，二者的冲突因此被抹去。”相比较：前者两种机制的不同信息条件。；后者抹掉了术的隐蔽性。。",
+          "isCorrect": true
+        },
+        {
+          "id": "system-contradiction-q1-o2",
+          "text": "公开法与秘密术被说成同时要求信息公开，二者的冲突因此被抹去。",
+          "feedback": "把“公开法与秘密术被说成同时要求信息公开，二者的冲突因此被抹去。”与“被治理者需要可预期，君主又依赖他人无法过度预期的检查。”相比较：前者抹掉了术的隐蔽性。；后者两种机制的不同信息条件。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "system-contradiction-q1-o1",
+      "misconceptionId": "system-contradiction-q1-misconception"
+    },
+    {
+      "id": "system-contradiction-q2",
+      "kind": "multipleChoice",
+      "prompt": "反私人权力为何在顶端出现悖论？",
+      "targetNodeIds": [
+        "system-contradiction-node"
+      ],
+      "options": [
+        {
+          "id": "system-contradiction-q2-o1",
+          "text": "贵族与君主均被独立法院同样约束，这是韩非明文设计。",
+          "feedback": "围绕当前问题，“贵族与君主均被独立法院同样约束，这是韩非明文设计。”的依据是倒灌了文本没有的制度。；作为对照，“君主作为最终制定使用者，却没有受到与臣下同等的外部审查。”的问题在于不信任原则的中断。。",
+          "isCorrect": false
+        },
+        {
+          "id": "system-contradiction-q2-o2",
+          "text": "君主作为最终制定使用者，却没有受到与臣下同等的外部审查。",
+          "feedback": "围绕当前问题，“君主作为最终制定使用者，却没有受到与臣下同等的外部审查。”的依据是不信任原则的中断。；作为对照，“贵族与君主均被独立法院同样约束，这是韩非明文设计。”的问题在于倒灌了文本没有的制度。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "system-contradiction-q2-o2",
+      "misconceptionId": "system-contradiction-q2-misconception"
+    },
+    {
+      "id": "system-contradiction-q3",
+      "kind": "multipleChoice",
+      "prompt": "提取责任链等洞见时必须同时做什么？",
+      "targetNodeIds": [
+        "system-contradiction-node"
+      ],
+      "options": [
+        {
+          "id": "system-contradiction-q3-o1",
+          "text": "接受全套严刑与思想压制，否则所涉名实考核均不可能使用。",
+          "feedback": "两项差别可具体落在这里：“接受全套严刑与思想压制，否则所涉名实考核均不可能使用。”对应行政机制不必与原政治目的永久捆绑。；“拒绝把君主豁免和国家目的独占当作这些机制的必要条件。”则对应允许有限继承而不打包接受。。",
+          "isCorrect": false
+        },
+        {
+          "id": "system-contradiction-q3-o2",
+          "text": "拒绝把君主豁免和国家目的独占当作这些机制的必要条件。",
+          "feedback": "两项差别可具体落在这里：“拒绝把君主豁免和国家目的独占当作这些机制的必要条件。”对应允许有限继承而不打包接受。；“接受全套严刑与思想压制，否则所涉名实考核均不可能使用。”则对应行政机制不必与原政治目的永久捆绑。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "system-contradiction-q3-o2",
+      "misconceptionId": "system-contradiction-q3-misconception"
+    },
+    {
+      "id": "system-contradiction-q4",
+      "kind": "multipleChoice",
+      "prompt": "最强体系批评应避免哪种简化？",
+      "targetNodeIds": [
+        "system-contradiction-node"
+      ],
+      "options": [
+        {
+          "id": "system-contradiction-q4-o1",
+          "text": "若在“既不抹去诊断，也不以制度洞见洗掉受害者。”与“只选择赞颂或取消一端，拒绝讨论内部矛盾。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“既不抹去诊断，也不以制度洞见洗掉受害者。”与“只选择赞颂或取消一端，拒绝讨论内部矛盾。”之间作答，此项选择第一种。”之所以这样判定，是因为保持双向审查。；相对项“若在“只选择赞颂或取消一端，拒绝讨论内部矛盾。”与“既不抹去诊断，也不以制度洞见洗掉受害者。”之间作答，此项选择第一种。”则因二择一会丢掉哲学评价的承重部分。而不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "system-contradiction-q4-o2",
+          "text": "若在“只选择赞颂或取消一端，拒绝讨论内部矛盾。”与“既不抹去诊断，也不以制度洞见洗掉受害者。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“只选择赞颂或取消一端，拒绝讨论内部矛盾。”与“既不抹去诊断，也不以制度洞见洗掉受害者。”之间作答，此项选择第一种。”之所以这样判定，是因为二择一会丢掉哲学评价的承重部分。；相对项“若在“既不抹去诊断，也不以制度洞见洗掉受害者。”与“只选择赞颂或取消一端，拒绝讨论内部矛盾。”之间作答，此项选择第一种。”则因保持双向审查。而不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "system-contradiction-q4-o1",
+      "misconceptionId": "system-contradiction-q4-misconception"
+    },
+    {
+      "id": "reception-q1",
+      "kind": "multipleChoice",
+      "prompt": "为何“法家”不能当作先秦统一自称？",
+      "targetNodeIds": [
+        "reception-node"
+      ],
+      "options": [
+        {
+          "id": "reception-q1-o1",
+          "text": "它是后世分类，韩非虽建构前驱谱系，各思想家仍有实质差异。",
+          "feedback": "把“它是后世分类，韩非虽建构前驱谱系，各思想家仍有实质差异。”与“商鞅、申不害、慎到和韩非共同留下了同一成员章程。”相比较：前者分类便利与历史异质性。；后者虚构了先秦组织身份。。",
+          "isCorrect": true
+        },
+        {
+          "id": "reception-q1-o2",
+          "text": "商鞅、申不害、慎到和韩非共同留下了同一成员章程。",
+          "feedback": "把“商鞅、申不害、慎到和韩非共同留下了同一成员章程。”与“它是后世分类，韩非虽建构前驱谱系，各思想家仍有实质差异。”相比较：前者虚构了先秦组织身份。；后者分类便利与历史异质性。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "reception-q1-o1",
+      "misconceptionId": "reception-q1-misconception"
+    },
+    {
+      "id": "reception-q2",
+      "kind": "multipleChoice",
+      "prompt": "秦制与韩非思想的关系需要怎样证明？",
+      "targetNodeIds": [
+        "reception-node"
+      ],
+      "options": [
+        {
+          "id": "reception-q2-o1",
+          "text": "区分文本影响、共同背景、具体政策来源和秦亡的多重原因。",
+          "feedback": "围绕当前问题，“区分文本影响、共同背景、具体政策来源和秦亡的多重原因。”的依据是要求具体因果而非标签替代。；作为对照，“发现几项相似便可把秦每项政策及灭亡均归给韩非。”的问题在于相似性不足以证明单一来源与全部后果。。",
+          "isCorrect": true
+        },
+        {
+          "id": "reception-q2-o2",
+          "text": "发现几项相似便可把秦每项政策及灭亡均归给韩非。",
+          "feedback": "围绕当前问题，“发现几项相似便可把秦每项政策及灭亡均归给韩非。”的依据是相似性不足以证明单一来源与全部后果。；作为对照，“区分文本影响、共同背景、具体政策来源和秦亡的多重原因。”的问题在于要求具体因果而非标签替代。。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "reception-q2-o1",
+      "misconceptionId": "reception-q2-misconception"
+    },
+    {
+      "id": "reception-q3",
+      "kind": "multipleChoice",
+      "prompt": "“外儒内法”标签的双重效果是什么？",
+      "targetNodeIds": [
+        "reception-node"
+      ],
+      "options": [
+        {
+          "id": "reception-q3-o1",
+          "text": "判断所取的是“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”；另一待比较判断为“提示话语与实践差异，也可能把长期多样制度压成不变公式。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”；另一待比较判断为“提示话语与实践差异，也可能把长期多样制度压成不变公式。”。”对应总括标签不能替代具体历史。；“判断所取的是“提示话语与实践差异，也可能把长期多样制度压成不变公式。”；另一待比较判断为“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”。”则对应既说明启发，也限制外推。。",
+          "isCorrect": false
+        },
+        {
+          "id": "reception-q3-o2",
+          "text": "判断所取的是“提示话语与实践差异，也可能把长期多样制度压成不变公式。”；另一待比较判断为“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”。",
+          "feedback": "两项差别可具体落在这里：“判断所取的是“提示话语与实践差异，也可能把长期多样制度压成不变公式。”；另一待比较判断为“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”。”对应既说明启发，也限制外推。；“判断所取的是“一个标签被用来解释多个朝代，归类过程忽略时期与机构证据。”；另一待比较判断为“提示话语与实践差异，也可能把长期多样制度压成不变公式。”。”则对应总括标签不能替代具体历史。。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "reception-q3-o2",
+      "misconceptionId": "reception-q3-misconception"
+    },
+    {
+      "id": "reception-q4",
+      "kind": "multipleChoice",
+      "prompt": "现代加入申诉和领导问责后应怎样归属？",
+      "targetNodeIds": [
+        "reception-node"
+      ],
+      "options": [
+        {
+          "id": "reception-q4-o1",
+          "text": "若在“当灵感来自名实，就把所述现代制度归为韩非原意。”与“标明这是现代重构，不能倒写成韩非原意。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“当灵感来自名实，就把所述现代制度归为韩非原意。”与“标明这是现代重构，不能倒写成韩非原意。”之间作答，此项选择第一种。”之所以这样判定，是因为概念启发不会把新增条件变成古代主张。；相对项“若在“标明这是现代重构，不能倒写成韩非原意。”与“当灵感来自名实，就把所述现代制度归为韩非原意。”之间作答，此项选择第一种。”则因守住接受者与原典的声音边界。而不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "reception-q4-o2",
+          "text": "若在“标明这是现代重构，不能倒写成韩非原意。”与“当灵感来自名实，就把所述现代制度归为韩非原意。”之间作答，此项选择第一种。",
+          "feedback": "复核这次选择时，应同时看到“若在“标明这是现代重构，不能倒写成韩非原意。”与“当灵感来自名实，就把所述现代制度归为韩非原意。”之间作答，此项选择第一种。”之所以这样判定，是因为守住接受者与原典的声音边界。；相对项“若在“当灵感来自名实，就把所述现代制度归为韩非原意。”与“标明这是现代重构，不能倒写成韩非原意。”之间作答，此项选择第一种。”则因概念启发不会把新增条件变成古代主张。而不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "reception-q4-o2",
+      "misconceptionId": "reception-q4-misconception"
+    }
+  ]
+}

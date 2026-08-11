@@ -1,0 +1,3040 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "locke-01-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "若真理刻在心中，为何还要发现它",
+      "explanation": "洛克先拆掉天赋内容的证据，却保留获得观念、比较和推理的自然能力。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S01-E-I",
+        "LK-S01-E-IV"
+      ],
+      "abilityIds": [
+        "understand-locke-01"
+      ]
+    },
+    {
+      "id": "locke-02-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经验不是一道门，而是两种来路",
+      "explanation": "感觉给出外物作用的材料，反省给出心灵操作的材料；两者都属于经验，却不是同一种对象。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S02-E-II1",
+        "LK-S02-E-II9"
+      ],
+      "abilityIds": [
+        "understand-locke-02"
+      ]
+    },
+    {
+      "id": "locke-03-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "心灵能加工什么，不能制造什么",
+      "explanation": "简单观念被动到来，心灵凭组合、比较、抽象形成复杂观念，但不能凭空造出新的简单感质。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S03-E-II2",
+        "LK-S03-E-II21"
+      ],
+      "abilityIds": [
+        "understand-locke-03"
+      ]
+    },
+    {
+      "id": "locke-04-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "颜色在物体中以什么方式存在",
+      "explanation": "第一性质属于物体不可分离的结构，第二性质是这些结构在感官中产生特定观念的能力；相似关系因此不对称。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S04-E-II8",
+        "LK-S04-E-IV"
+      ],
+      "abilityIds": [
+        "understand-locke-04"
+      ]
+    },
+    {
+      "id": "locke-05-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "“我不知道是什么”不是一句取消存在的话",
+      "explanation": "实体一般观念是对性质共同依存之支持者的含混假定；无知限制说明，不等于否认具体实体与外物。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S05-E-II23",
+        "LK-S05-E-IV3"
+      ],
+      "abilityIds": [
+        "understand-locke-05"
+      ]
+    },
+    {
+      "id": "locke-06-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "名字划出的种类不等于自然的内部构造",
+      "explanation": "名义本质是名称所系的抽象观念，实在本质是产生可见性质的内部构造；分类可工作，却不保证复制自然边界。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S06-E-III3",
+        "LK-S06-E-III9"
+      ],
+      "abilityIds": [
+        "understand-locke-06"
+      ]
+    },
+    {
+      "id": "locke-07-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知识之外，理性怎样有分寸地相信",
+      "explanation": "知识是对观念一致或不一致的知觉；概率按经验、证言与反证调节同意，宗教信念不得取消理性的证据职责。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S07-E-IV1",
+        "LK-S07-E-IV15"
+      ],
+      "abilityIds": [
+        "understand-locke-07"
+      ]
+    },
+    {
+      "id": "locke-08-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "王子醒在鞋匠身体里，谁该为旧事负责",
+      "explanation": "人是活的有机体，人格是能把自己视为跨时同一思考者的司法概念；意识延伸到过去行动构成人格同一，却引发循环与记忆断裂异议。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S08-E-II27",
+        "LK-S08-SEP"
+      ],
+      "abilityIds": [
+        "understand-locke-08"
+      ]
+    },
+    {
+      "id": "locke-09-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "没有共同法官，不等于没有规范",
+      "explanation": "自然状态是自由平等且受自然法约束，但缺共同裁判；劳动使个人活动与共有物结合，初步取得受但书限制的财产权。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S09-TG2",
+        "LK-S09-TG5"
+      ],
+      "abilityIds": [
+        "understand-locke-09"
+      ]
+    },
+    {
+      "id": "locke-10-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "货币让苹果不再腐烂，却没有让不平等自动正当",
+      "explanation": "货币使剩余可交换并储存价值，扩大积累；洛克称人们默许其使用，但这不自动满足留足条件或回答历史剥夺。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S10-TG5",
+        "LK-S10-SEP"
+      ],
+      "abilityIds": [
+        "understand-locke-10"
+      ]
+    },
+    {
+      "id": "locke-11-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "政府受托而非受赠：同意、 多数与反抗",
+      "explanation": "同意建立共同体，多数原则使其能行动；政府权力是为保存生命、自由和财产的信托，长期破坏信托会使权力归还人民。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S11-TG8",
+        "LK-S11-TG19"
+      ],
+      "abilityIds": [
+        "understand-locke-11"
+      ]
+    },
+    {
+      "id": "locke-12-node",
+      "kind": "controversy",
+      "status": "teachingReady",
+      "readerTitle": "宽容的理由与洛克遗产中不能被宽容掉的矛盾",
+      "explanation": "宽容来自教会与国家目的分离及强制无力制造真信仰，但原文保留明显排除；殖民、投资和手稿责任要求规范审判，也要求证据上不伪造定论。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "LK-S12-TOL",
+        "LK-S12-CAR",
+        "LK-S12-COLONIAL-ADMIN",
+        "LK-S12-RAC-STOCK",
+        "LK-S12-TG-SLAVERY",
+        "LK-S12-PROAST"
+      ],
+      "abilityIds": [
+        "understand-locke-12"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "LK-S01-E-I",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book I",
+      "locator": "I.i.2–7; I.ii.1–5; I.iii.1–13",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；反普遍同意论证否定的是天赋印记的主要证据；它不证明人没有先天能力。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S01-E-IV",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book I",
+      "locator": "I.iv.1–25",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；潜在已知与实际领会的区分支持反天赋论，不把理性能力还原为经验内容。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S02-E-II1",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.i.1–5, 23–25",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；白纸比喻回答观念材料从何而来；感觉与反省是两条经验来源。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S02-E-II9",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.ix.1–4; II.xix.1–4",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；知觉使思维成立，但反省不是不经活动便自动出现的内省全知。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S03-E-II2",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.ii.1–3; II.xii.1–8",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；心灵被动接受简单观念，却能组合、比较、抽象而形成复杂观念。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S03-E-II21",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.xxi.1–6; II.xxii–xxiii",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；能力观念与模式、实体观念展示主动操作的边界；心灵不能发明新的简单感质。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S04-E-II8",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.viii.7–26",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；第一性质观念被说成相似于物体性质，第二性质是产生感受的能力；这不是说颜色经验不真实。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S04-E-IV",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book IV",
+      "locator": "IV.iv.1–6; IV.xi.1–9",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；观念符合现实的论证与外物知识的敏感知识层级必须分开。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S05-E-II23",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10615 composite web text based on the second edition, Book II",
+      "locator": "II.xxiii.1–6, 23–37",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；“不知是什么”针对一般实体载体观念的贫乏，不等于否认外物或具体性质。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S05-E-IV3",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book IV",
+      "locator": "IV.iii.6, 24–29",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；物质能否思维由全能者决定的讨论限制了从无知直接推出二元实体结论。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S06-E-III3",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book III",
+      "locator": "III.iii.11–20; III.vi.1–39",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；名义本质决定名称下的种类归属，实在本质是产生可见性质的内部构造，后者通常未知。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S06-E-III9",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book III",
+      "locator": "III.ix–xi",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；语言误用包括无定见、私义、空名和假定词直指实在本质；改进靠稳定定义与公开用法。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S07-E-IV1",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book IV",
+      "locator": "IV.i.1–7; IV.ii.1–14; IV.iii.1–6",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；知识是观念一致或不一致的知觉，分直觉、证明与感觉，范围严于真实信念。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S07-E-IV15",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "Gutenberg 10616 web text based on the second edition, Book IV",
+      "locator": "IV.xv–xviii",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；概率依证据与证言权重调节同意；信仰不能废除理性，也不得与清楚知识相冲突。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S08-E-II27",
+      "workId": "Essay Concerning Human Understanding",
+      "edition": "1694 second-edition addition as preserved in Gutenberg 10615 composite web text",
+      "locator": "II.xxvii.1–29, especially 9–17",
+      "locatorVerified": true,
+      "identity": "author-revised-paraphrase；人格同一章为第二版新增；王子鞋匠分开人、身体、灵魂与人格，意识不是简单的无误记忆档案。 此网页文本不可单独证明该措辞属于题页标1690的首版。"
+    },
+    {
+      "id": "LK-S08-SEP",
+      "workId": "Locke on Personal Identity",
+      "edition": "Stanford Encyclopedia of Philosophy, 2025 revision",
+      "locator": "sections 2–4: prince/cobbler, Butler and Reid objections",
+      "locatorVerified": true,
+      "identity": "secondary-interpretation；记忆标准读法、意识关系读法及循环与勇敢军官异议均属解释与后世批评，不能冒充洛克原句。"
+    },
+    {
+      "id": "LK-S09-TG2",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "§§4–15, 25–27",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；自然状态是平等自由而非任性；自然法禁止损害生命、自由、健康和财物。"
+    },
+    {
+      "id": "LK-S09-TG5",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "§§27–31",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；劳动论证说明从共有中取得的初步权利，同时受不浪费与留足同样好资源约束。"
+    },
+    {
+      "id": "LK-S10-TG5",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "§§32–51",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；货币的耐久性与默许扩张积累，使不浪费限制改变；这并不自动满足留足条件或现代正义要求。"
+    },
+    {
+      "id": "LK-S10-SEP",
+      "workId": "Locke's Political Philosophy",
+      "edition": "Stanford Encyclopedia archive 2024",
+      "locator": "section 4 Property",
+      "locatorVerified": true,
+      "identity": "secondary-interpretation；不同解释对劳动、但书、慈善权利与货币同意的效力有分歧，后世“洛克式但书”术语不回写原典。"
+    },
+    {
+      "id": "LK-S11-TG8",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "§§95–99, 119–122, 123–131",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；明示与默示同意、政治共同体多数决定及政府保护广义财产的目的必须分层。"
+    },
+    {
+      "id": "LK-S11-TG19",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "§§149, 168, 211–243",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；立法权是信托；长期滥权可使权力归还人民，但并非每次不满都授权私人暴力。"
+    },
+    {
+      "id": "LK-S12-TOL",
+      "workId": "A Letter Concerning Toleration",
+      "edition": "Latin 1689; English translation 1689, anonymously published",
+      "locator": "magistrate/church distinction; exclusions near concluding third",
+      "locatorVerified": true,
+      "identity": "author-text-and-contemporary-translation；宽容论区分灵魂照料与民事利益；天主教徒式外部效忠问题和无神论者被排除，边界不能被现代化抹平。"
+    },
+    {
+      "id": "LK-S12-CAR",
+      "workId": "Fundamental Constitutions of Carolina manuscript controversy",
+      "edition": "Locke Studies 2024 manuscript analysis",
+      "locator": "five schemes and two drafts; manuscript attribution analysis",
+      "locatorVerified": true,
+      "identity": "secondary-manuscript-study；洛克在殖民行政、奴隶贸易投资与文本修订中的责任须严肃评估；《卡罗来纳基本宪法》的具体起草份额仍有手稿争议，不能宣布单独作者身份已定。"
+    },
+    {
+      "id": "LK-S12-COLONIAL-ADMIN",
+      "workId": "Carolina: A Colonial Blueprint",
+      "edition": "Barbara Arneil, John Locke and America, Oxford University Press, 1996",
+      "locator": "chapter 5, pp. 118–131; Carolina records 1668–1675 and Locke's service as secretary to the Lords Proprietors",
+      "locatorVerified": true,
+      "identity": "secondary-colonial-record-study；此研究以洛克代业主撰写或认可的殖民文件证明其日常行政参与；它不单独裁定《基本宪法》每一条的具体执笔者。"
+    },
+    {
+      "id": "LK-S12-RAC-STOCK",
+      "workId": "John Locke’s Royal African Company and Bahamas Adventurer Slave Stock",
+      "edition": "Brian Smith, The Seventeenth Century, vol. 46 issue 2",
+      "locator": "DOI 10.53765/20512988.46.2.259; personal ledger entries from February 1672; transfers and divestment by 18 June 1675",
+      "locatorVerified": true,
+      "identity": "secondary-account-book-study；现有账簿研究支持洛克曾持有由第三方转入的皇家非洲公司权益，并提醒不要把它简化成一次普通现金认购；持有方式不消除其经济牵连。"
+    },
+    {
+      "id": "LK-S12-TG-SLAVERY",
+      "workId": "Second Treatise of Government",
+      "edition": "1689 anonymous lifetime publication",
+      "locator": "Chapter IV, §§22–24; compare Chapter XVI, §§175–196",
+      "locatorVerified": true,
+      "identity": "author-published-paraphrase；第四章把所谓正当奴役限于不义战争中因自身过错丧失生命者的持续战争状态；这不是为世袭种族奴隶制提供一般授权。"
+    },
+    {
+      "id": "LK-S12-PROAST",
+      "workId": "Locke–Proast toleration controversy",
+      "edition": "Stanford Encyclopedia of Philosophy, Locke's Political Philosophy, archived 2020",
+      "locator": "Toleration section: Proast's claim that force may work indirectly and at a distance by causing consideration of arguments",
+      "locatorVerified": true,
+      "identity": "secondary-controversy-reconstruction；间接效力异议来自洛克与同时代普罗斯特在首封书简后的论战；不得写成《宽容书简》首稿已经逐项回答的内部声音。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "locke-complete-philosophy",
+      "version": "1.0.0",
+      "title": "洛克：经验、人格与有限政府",
+      "lessonIds": [
+        "locke-01",
+        "locke-02",
+        "locke-03",
+        "locke-04",
+        "locke-05",
+        "locke-06",
+        "locke-07",
+        "locke-08",
+        "locke-09",
+        "locke-10",
+        "locke-11",
+        "locke-12"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "locke-01",
+      "order": 1,
+      "title": "若真理刻在心中，为何还要发现它",
+      "depth": "longform",
+      "guidingQuestion": "有些原则似乎人人一听就懂，这足以证明它们出生时已经写在心里吗？",
+      "coreExplanation": "洛克先拆掉天赋内容的证据，却保留获得观念、比较和推理的自然能力。",
+      "sections": [
+        {
+          "heading": "普遍同意看似最短的证明",
+          "paragraphs": [
+            "若一条真理在所有时代都获同意，最省事的解释似乎是它早已印在每个人心里。天赋论的吸引力正在这里：它把共同性直接解释成共同来源。",
+            "可是证明需要的不只是“许多人同意”，而是没有例外的普遍同意。儿童、严重认知障碍者以及从未形成相关命题的人，使这个经验前提立刻承受压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "没有意识到的印记意味着什么",
+          "paragraphs": [
+            "天赋论者可以退一步，说原则虽在心中，却要等理性成熟才被发现。洛克追问：一个从未被意识、也不影响判断的命题，凭什么仍算心中的观念？",
+            "若“能够后来理解”就等于“已经拥有”，那么几乎所有可学知识都可被称作天赋；天赋与可获得之间的区分便失去工作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力不等于现成内容",
+          "paragraphs": [
+            "这里必须分开能力与内容。辨别、记忆、组合和推理可以是人的自然能力，而“同一事物不可能既是又不是”是这些能力后来把握的命题内容。",
+            "因此反天赋观念并不把人说成没有结构的空物。它只拒绝从共有能力跳到出生时已有特定原则。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "两种同样迅速的回答",
+          "paragraphs": [
+            "设想孩子第一次懂得二加二等于四时立即认可。迅速认可可以来自命题关系一经呈现便很清楚，也可以来自旧有印记；单凭速度无法在两种解释间裁决。",
+            "案例的作用是切断“立即同意所以先天”的推论。要恢复推论，还需证明经验学习和概念形成都不足以解释这种立即性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "道德分歧带来的更强压力",
+          "paragraphs": [
+            "实践原则若天赋，理应在行为与正当化中留下稳定痕迹。不同社会对承诺、财产和惩罚的分歧，使“共同刻印”的经验主张更难维持。",
+            "分歧本身并不证明没有客观道德；它只攻击用实际同意证明天赋来源的那一个前提。客观有效与心理起源不能混为一谈。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "必要真理似乎不能来自偶然经验",
+          "paragraphs": [
+            "强异议指出：经验只告诉我们发生了什么，不能给出数学与逻辑的必然性。若必然性不是天赋，洛克似乎只能把它降成习惯。",
+            "这击中经验论的解释债务，而不是直接恢复天赋观念。经验能解释“三角形”“相等”等观念材料怎样到来，却不能仅凭材料曾经同现说明三角形内角关系为何不能相反。",
+            "因此要把三个问题拆开：观念从何取得，命题凭什么被证成，以及被证成的关系为何具有必然性。天赋论把三者压成一个出生来源，洛克则试图让后两者由心灵对观念关系的知觉承担。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "看见关系不是找回预藏命题",
+          "paragraphs": [
+            "以三加二等于五为例，心灵先须拥有三、二、相加和五的观念；这些构成材料可以逐步形成。材料齐备后，把三与二合并并逐一对应，便能看见结果与五一致。",
+            "这次知觉依赖心灵已有比较和计数能力，却不要求“3+2=5”整句命题早已储存。能力规定能做哪类操作，现成内容则会在操作前已经给出答案；二者的解释角色不同。",
+            "不过，“看见不能相反”是否已充分解释模态必然，仍可被质疑。洛克在此保住的是知识不必来自命题仓库，而非建立一套独立完备的必然性形而上学。",
+            "所以反天赋论得到分层结论：经验说明材料，关系知觉说明证成，必然性体现于关系被把握时排除相反项。最后一步若仍嫌不足，债务属于洛克的模态说明，不应偷换成天赋论已获证明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "反证获得的有限结论",
+          "paragraphs": [
+            "回应保住的是：无需假定未被意识的命题仓库，也能说明原则如何被认识。它收缩的是：第一卷并未完成数学知识的全部发生学。",
+            "仍欠的问题是经验怎样供给材料，以及心灵对材料能做什么。若答案把心灵讲成被动容器，反天赋论便会用另一种神话替代旧神话。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第一卷的匿名论战位置",
+          "paragraphs": [
+            "《人类理解论》首版于1689年末面世，题页标1690且不列作者，但献词由洛克署名。第一卷集中反驳天赋原则，它是整部工程的清场动作，不等于全书已经证明一切知识来自感觉。",
+            "这里采用卷、章、节近义释义；“白板”作为通俗标签要等第二卷的经验来源来限定，不能倒灌成第一卷的完整结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "怀疑论与理性主义之间",
+          "paragraphs": [
+            "洛克不同意以天赋内容保障确定性，但也没有说共同真理只是多数票。他把权威问题改写为：我们实际能看见哪些观念关系。",
+            "这使认识权威从传统与先天印记转向可检查的获得和判断过程，也把错误风险放回具体心灵。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "清场之后留下的任务",
+          "paragraphs": [
+            "已经排除的是从普遍同意、迅速同意或潜在可知直接推出天赋内容。没有排除的是自然能力、客观真理和非经验主义的其他可能论证。",
+            "下一步必须正面说明观念材料如何进入心灵；否则反天赋论只有否定，没有可工作的替代。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "孩子立即接受算术命题，只能证明呈现后的关系清楚，不能单独证明命题出生时已在心中。",
+      "nodeIds": [
+        "locke-01-node"
+      ],
+      "checkIds": [
+        "locke-01-q1",
+        "locke-01-q2",
+        "locke-01-q3",
+        "locke-01-q4"
+      ],
+      "abilitySummary": [
+        "区分天赋能力与天赋内容",
+        "判断反例击中的是证据还是结论"
+      ],
+      "recommendedNextLessonId": "locke-02"
+    },
+    {
+      "id": "locke-02",
+      "order": 2,
+      "title": "经验不是一道门，而是两种来路",
+      "depth": "longform",
+      "guidingQuestion": "若观念不是预装的，它们从哪里来，心灵又怎样知道自己的活动？",
+      "coreExplanation": "感觉给出外物作用的材料，反省给出心灵操作的材料；两者都属于经验，却不是同一种对象。",
+      "sections": [
+        {
+          "heading": "清空仓库之后",
+          "paragraphs": [
+            "否定天赋内容只留下空位，并没有说明思想怎样发生。若不能给出正面来源，经验论只是把困难推迟。",
+            "洛克把问题限定为观念材料的来源，而不是人的一切能力、气质或身体结构从何而来。这个限定防止“白板”被夸成无结构心灵。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "外物作用形成感觉",
+          "paragraphs": [
+            "感觉是外物通过感官使心灵获得颜色、硬度、运动、冷热等观念的途径。它说的是因果来路，不是保证每个感觉都精确复制外物。",
+            "同一物体可同时供给多种简单观念；心灵在最初接受这些特定材料时不能任意选择把苦味体验成三角形。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "心灵活动也能被经验",
+          "paragraphs": [
+            "反省不是镜中看脸，而是心灵注意自己的知觉、怀疑、相信、推理、意愿和愉快。它提供外感官不给出的操作观念。",
+            "因为儿童的注意首先被外物占据，反省观念常较晚清楚。这种较晚出现是注意与活动的历史，不是反省来源不属于经验。",
+            "反省还依赖被反省的活动实际发生：没有怀疑活动，心灵便不能从反省取得“怀疑”的材料。它因此不同于一套不经活动便可展开的先天心理词典。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "两个来源并非两套世界",
+          "paragraphs": [
+            "感觉与反省按对象区分：前者以外物作用为因，后者以心灵操作为对象。许多复杂思想会同时调用两类材料。",
+            "看见门被推开时，我们由感觉得到形状与运动，也由反省得到自己判断“有人进入”的活动。两种来源在一个认识事件中合作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "从疼痛到担忧",
+          "paragraphs": [
+            "手碰热杯产生灼痛属于感觉；注意到自己犹豫是否再拿杯子，属于反省。担忧则把痛、未来和自我关联组合起来。",
+            "若把全部都叫感觉，就解释不了意愿和判断的观念从哪里来；若把反省当先天直观，又会漏掉它依赖实际心理活动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "白板为何不是空容器",
+          "paragraphs": [
+            "纸张比喻否定预写文字，却不否定写入后能比较、保留和组合。心灵的操作能力将在简单与复杂观念的区分中显现。",
+            "因此经验既包含受影响，也包含对自身活动的经验。把洛克说成刺激在被动容器里堆积，会无法解释抽象、关系和一般名称。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "反省会不会偷偷预设自我",
+          "paragraphs": [
+            "强异议问：若注意自己的思维已需要“我”的观念，反省怎样还能解释自我观念的来源？这提醒我们来源说明不能循环。",
+            "洛克可先说反省给出具体操作及其连续意识，不必预先给出实体自我的完备理论；人格同一仍要另行论证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "发生来源不等于正当理由",
+          "paragraphs": [
+            "知道一个信念由感觉或反省产生，不等于它因此真实。来源问题回答材料怎样到来，知识问题还要检查观念关系与证据等级。",
+            "梦、错觉和仓促内省都可能来自真实心理过程，却不保证关于外物或自己的判断正确。经验论不是“有体验便有知识”。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "第二卷第一章的正面方案",
+          "paragraphs": [
+            "《理解论》第二卷第一章用感觉与反省回应第一卷留下的债务。此处的“经验”比日常所谓亲身经历更广，包含对心灵操作的内在观察。",
+            "现用Gutenberg复合网页文本依据第二版，支持感觉与反省的双源路线，却不能单独证明某句措辞在题页标1690的首版中完全相同。后世“白板”口号若只留下被动接收，会遮住心灵操作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "材料到来以后",
+          "paragraphs": [
+            "已经建立的是观念材料的两种经验来路，以及来源与真实性的区分。尚未解释的是材料怎样被加工成原因、实体和同一性。",
+            "下一步要分开简单观念与复杂观念，才能看清心灵在哪一步被动、在哪一步主动，以及主动性为何仍受材料限制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "热杯同时展示感觉、反省与组合：疼痛不是犹豫，犹豫也不是预装的自我理论。",
+      "nodeIds": [
+        "locke-02-node"
+      ],
+      "checkIds": [
+        "locke-02-q1",
+        "locke-02-q2",
+        "locke-02-q3",
+        "locke-02-q4"
+      ],
+      "abilitySummary": [
+        "辨认感觉与反省的对象差别",
+        "避免把白板误解为无能力的空容器"
+      ],
+      "recommendedNextLessonId": "locke-03"
+    },
+    {
+      "id": "locke-03",
+      "order": 3,
+      "title": "心灵能加工什么，不能制造什么",
+      "depth": "longform",
+      "guidingQuestion": "若全部材料来自经验，抽象概念和新思想怎样可能？",
+      "coreExplanation": "简单观念被动到来，心灵凭组合、比较、抽象形成复杂观念，但不能凭空造出新的简单感质。",
+      "sections": [
+        {
+          "heading": "经验材料似乎太零散",
+          "paragraphs": [
+            "单独的红、硬、移动和愉快并不像法律、承诺或三角形。若心灵只是储存感觉，复杂思想无从出现。",
+            "洛克因而需要同时说明材料约束与构造能力；偏向任何一边都会把经验论变成刺激堆积或任意创造。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "简单观念不可再分析",
+          "paragraphs": [
+            "简单观念是在一次注意中不含可分辨成分的材料，例如某一颜色或硬度。心灵面对特定简单材料主要是接受。",
+            "不可分析是对观念内容说的，不等于感官过程在生理上没有复杂因果，也不等于简单观念必然无误。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "复杂观念来自三种操作",
+          "paragraphs": [
+            "组合把若干观念联成一个整体，比较在不合并时看出关系，抽象则留下多例可共同适用的方面。",
+            "这些操作没有增添一种从未经验过的简单颜色，却能形成军队、因果、相等和一般三角形等新结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "模式不冒充独立存在者",
+          "paragraphs": [
+            "模式是被设想为依存于其他事物的复杂观念，如感激、数和美。它们的组合方式可以由心灵主动安排。",
+            "复杂并不意味着虚假。一个制度概念可由人构造而仍有清楚关系；真伪取决于我们后来怎样断言它对应现实。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "实体观念带着依存猜想",
+          "paragraphs": [
+            "当颜色、重量和延展稳定同现，心灵把它们合成一物，并假定有承载这些性质者。具体实体观念于是兼含观察组合与载体假定。",
+            "这一步的主动性不能把未知载体变成清楚观念；它只记录性质被当作共同属于某物，实体难题将在后面爆发。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "从三次交易抽象出承诺",
+          "paragraphs": [
+            "三个人在不同场合表示将来履行义务，声音、对象和日期都不同。抽象舍去差异，保留自愿承担未来责任的关系。",
+            "案例检验抽象不是把细节磨成空白，而是选择能支撑同一判断的结构；若舍去自愿性，所得概念便不再是承诺。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "组合能否解释真正新颖",
+          "paragraphs": [
+            "异议说贝多芬旋律或新制度并非旧材料机械相加。若洛克只列操作名称，他仍未解释创造性。",
+            "回应可承认组合规则、注意方向和目的使成果不可由材料清单预测；经验论只要求构成材料可追溯，不声称作品价值可还原为材料总和。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "抽象的能力与危险",
+          "paragraphs": [
+            "抽象让一个观念代表多例，语言与一般推理因此可能。它的边界是我们可能把人为选择的特征误当自然固定边界。",
+            "种类理论将证明这种危险：名称依名义本质分类，而内部构造未必服从我们的抽象线。",
+            "抽象也不是把一切具体特征逐一删除到只剩空白，而是让某些差异在当前判断中不再起作用。换一项任务，先前被舍去的差异可能重新成为必要条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二卷的操作地图",
+          "paragraphs": [
+            "第二卷第二章与第十二章分出简单和复杂观念，随后以模式、实体、关系展开加工结果。这里是发生学分类，不是价值等级表。",
+            "把简单叫低级、复杂叫高级会误导；一个简单痛感可能极清楚，一个复杂政治概念可能含混。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "主动性受到材料边界",
+          "paragraphs": [
+            "已经看见心灵的主动工作，也保留它不能凭空造简单感质的限制。新思想来自结构创新，不来自无条件创造。",
+            "下一步要问观念与外物怎样对应；第一性质与第二性质的区分正是在这一表象压力下出现。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "抽象承诺必须保留自愿承担未来责任，舍去此项便改变了概念而非单纯简化。",
+      "nodeIds": [
+        "locke-03-node"
+      ],
+      "checkIds": [
+        "locke-03-q1",
+        "locke-03-q2",
+        "locke-03-q3",
+        "locke-03-q4"
+      ],
+      "abilitySummary": [
+        "区分材料的新颖与结构的新颖",
+        "说明组合、比较和抽象各自的工作"
+      ],
+      "recommendedNextLessonId": "locke-04"
+    },
+    {
+      "id": "locke-04",
+      "order": 4,
+      "title": "颜色在物体中以什么方式存在",
+      "depth": "longform",
+      "guidingQuestion": "我们直接拥有观念，怎样避免把感受的样子原封不动塞回物体？",
+      "coreExplanation": "第一性质属于物体不可分离的结构，第二性质是这些结构在感官中产生特定观念的能力；相似关系因此不对称。",
+      "sections": [
+        {
+          "heading": "热水的同一与差异",
+          "paragraphs": [
+            "同一盆水让冷手感到热、让热手感到凉。若热作为我们感到的样子原封不动在水中，水似乎同时具有相反性质。",
+            "洛克需要区分物体中造成经验的结构，与经验在心中呈现的方式，而不能因此否认外物。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "性质首先是一种能力",
+          "paragraphs": [
+            "性质是物体产生观念的能力。这个定义先把因果关系纳入，再区分物体结构本身与由结构造成的感受。",
+            "因此“红”有歧义：可指心中红的观念，也可指表面微结构在正常光照与视觉系统中产生该观念的能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第一性质不可从物体剥离",
+          "paragraphs": [
+            "坚实、广延、形状、运动或静止、数目被列为第一性质；无论把物体分得多小，仍要以某种方式占据空间并具有形状。",
+            "洛克说这些观念与原因相似，是机械哲学中的表象主张，不是说感知永远准确测得物体结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二性质依赖作用条件",
+          "paragraphs": [
+            "颜色、声音、滋味作为感受不以同样方式存在于无感觉的物体中；物体拥有的是借第一性质产生这些感受的能力。",
+            "能力是真实的物体性质，所以第二性质不是幻觉同义词。条件变化会改变表现，却不等于没有稳定因果根据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "研碎杏仁改变了什么",
+          "paragraphs": [
+            "杏仁被研碎后形状和排列改变，颜色与味道也随之变化。案例把第二性质追溯到微粒结构，而不是把味道当作藏在颗粒里的小味道。",
+            "它支持机械解释的方向，却不能单凭可想象模型证明微观理论每一细节。洛克的自然知识仍承认内部构造多半不可见。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "表象问题没有消失",
+          "paragraphs": [
+            "若心灵直接注意的是观念，就要解释观念凭什么代表外物。第一性质的相似论提供一条桥，第二性质靠规律性因果能力连接。",
+            "桥并不自动跨完：我们如何核实相似，又如何排除系统性错觉？洛克将外物知识列为感觉知识，确定性低于直觉与证明。",
+            "多感官配合和主动移动能提供校正：圆盘斜看似椭圆，触摸、转动和测量使我们追踪较稳定的形状结构。但这种校正仍凭经验一致性，并非从观念内部直接窥见物体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "贝克莱式压力",
+          "paragraphs": [
+            "强异议会问：形状也随距离和视角改变，为何变化证明颜色不相似，却不证明形状同样只在心中？这攻击区分的论证对称性。",
+            "洛克可诉诸多感官测量、不可分离性和机械因果解释，但回应增加了理论前提；仅凭经验变化不足以独立划线。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "经验真实与对象属性",
+          "paragraphs": [
+            "疼、甜或红作为当下经验可以真实发生，即使对象没有一个与之相似的内在样子。真实性与相似性是两个判断。",
+            "这一区分避免两种误读：既不把第二性质经验贬为虚无，也不把每个感受样态直接归给外物。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "第二卷第八章的机械语境",
+          "paragraphs": [
+            "第一与第二性质的论述位于第二卷第八章，并与当时微粒机械解释相连。现代物理可修正模型，不应被说成洛克已经预见。",
+            "第四卷关于观念实在性与感觉知识的段落显示，性质区分并未让他获得对外物的最高等级证明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "表象桥的收益与债务",
+          "paragraphs": [
+            "已经获得的是物体结构、因果能力与心中感受的三方区分。尚未解决的是承载结构的“某物”究竟能被认识到什么。",
+            "性质成束出现会逼心灵假定一个支持者；下一步将检验“我不知道是什么”是谦逊、矛盾，还是一种有限概念。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "冷热手放入同一水盆切断了“感受样子原封不动在物体中”的推论，但没有否认水的因果能力。",
+      "nodeIds": [
+        "locke-04-node"
+      ],
+      "checkIds": [
+        "locke-04-q1",
+        "locke-04-q2",
+        "locke-04-q3",
+        "locke-04-q4"
+      ],
+      "abilitySummary": [
+        "区分第二性质的能力与其产生的观念",
+        "说明相似论仍承担的表象债务"
+      ],
+      "recommendedNextLessonId": "locke-05"
+    },
+    {
+      "id": "locke-05",
+      "order": 5,
+      "title": "“我不知道是什么”不是一句取消存在的话",
+      "depth": "longform",
+      "guidingQuestion": "性质总像属于某物，但对这个承载者的无知是否使实体概念空洞？",
+      "coreExplanation": "实体一般观念是对性质共同依存之支持者的含混假定；无知限制说明，不等于否认具体实体与外物。",
+      "sections": [
+        {
+          "heading": "性质不能悬在空中",
+          "paragraphs": [
+            "黄色、沉重、可熔若稳定同现，我们自然说它们属于同一块金。可是列出性质仍未说明“属于”关系的另一端。",
+            "心灵于是设想一个支持性质的某物。实体概念由依存压力逼出，不是先观察到一个裸露载体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "一般实体观念的贫乏",
+          "paragraphs": [
+            "当我们把所有具体性质暂时拿走，只留下“支撑者”，所想的只是某个不知是什么的东西。这是关系位置，不是丰富画像。",
+            "洛克的讽刺针对经院术语制造知识的假象：说“实体承载偶性”若不增加可检验内容，并未解释性质为何共存。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "具体实体仍有内容",
+          "paragraphs": [
+            "具体的金、马或人的观念由许多共同出现的简单观念组成，再加承载假定。我们对组合可以有经验知识。",
+            "因此一般载体含混不使具体实体观念全空。无知集中在内部构造和最终支持关系，而非抹去一切可观察差异。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "数据库中的未知主键",
+          "paragraphs": [
+            "若多项记录总被归给同一对象，我们需要一个身份位置来组织它们，即使暂不知底层怎样实现。位置有功能，却不等于知道实现。",
+            "比喻只照亮结构需要，不能证明实体像数据库对象；把比喻当本体论证会重新制造假知识。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "物质与精神都受同一谦逊约束",
+          "paragraphs": [
+            "我们从思维活动形成精神实体观念，从感官性质形成物质实体观念；两者都加入某种支持者。",
+            "洛克并未因精神内省更亲近，就宣称清楚看见灵魂实体。他对两边的载体知识都保持限制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "能思维的物质留下开放性",
+          "paragraphs": [
+            "第四卷提出我们不能凭观念证明全能者不可能赋予某种物质思维能力。此说不是断定大脑就是心灵，而是限制先验排除。",
+            "这使洛克不能被轻易收编为完成的笛卡尔二元论者；他保留灵魂问题，却拒绝把我们的无知伪装成必然界线。",
+            "论证的形式是认识限度：既然我们不知道物质和精神的实在本质，就不能只从名义观念宣布某种能力结合矛盾。开放可能性不提供发生概率，更不替经验研究下结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "支持者是否只是语法幻影",
+          "paragraphs": [
+            "异议说“性质属于某物”也许只是语言要求主语，不证明世界另有无性质载体。若成立，实体假定可能是语法投影。",
+            "洛克的回应最多诉诸性质共同变化、因果能力与持续同一的解释需要；这保住组织功能，却未给出裸实体的直接观念。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "谦逊不等于怀疑主义",
+          "paragraphs": [
+            "承认内部构造未知，并不阻止我们比较可见性质、预测有限结果和修正种类。知识可以分层，而非全有或全无。",
+            "危险在于从“不知最终是什么”跳到“什么都不能说”，或反向从稳定称名跳到“已知实在本质”。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "第二卷与第四卷的不同任务",
+          "paragraphs": [
+            "第二卷第二十三章分析实体观念怎样形成；第四卷讨论我们的知识范围。把二者合起来时要保留发生说明与知识限度的差别。",
+            "能思维物质段落是模态谦逊，不是自然科学发现；这里仅以它限制过强的二元论归属。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "从载体转向分类",
+          "paragraphs": [
+            "已经说明“未知支持者”有组织性质的功能，却不提供内部构造知识。实体概念的贫乏会直接影响我们怎样给自然对象分种。",
+            "若不知道内部构造，名称依据什么划界？下一步的名义本质与实在本质正回答这个实际问题。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "未知主键只说明组织位置可有功能而不等于知道实现，不能反过来证明世界就是数据库。",
+      "nodeIds": [
+        "locke-05-node"
+      ],
+      "checkIds": [
+        "locke-05-q1",
+        "locke-05-q2",
+        "locke-05-q3",
+        "locke-05-q4"
+      ],
+      "abilitySummary": [
+        "避免把实体无知读成外物虚无",
+        "区分具体性质组合与一般载体假定"
+      ],
+      "recommendedNextLessonId": "locke-06"
+    },
+    {
+      "id": "locke-06",
+      "order": 6,
+      "title": "名字划出的种类不等于自然的内部构造",
+      "depth": "longform",
+      "guidingQuestion": "我们不知道物体内部构造时，“金”或“人”这类名称究竟凭什么适用？",
+      "coreExplanation": "名义本质是名称所系的抽象观念，实在本质是产生可见性质的内部构造；分类可工作，却不保证复制自然边界。",
+      "sections": [
+        {
+          "heading": "同名需要共同标准",
+          "paragraphs": [
+            "若每次说金都只指眼前这块东西，交流与推理无法推广。名称必须系于可重复识别的共同观念。",
+            "但我们通常不知道使颜色、重量和可熔性共同出现的微观构造。分类工作因此不能等待完备科学。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "名义本质承担称名",
+          "paragraphs": [
+            "名义本质是我们抽取并与通名连接的观念集合。对象符合这套可识别特征，就被归入该名称的种类。",
+            "“名义”不等于随口虚构；标准可受观察、共同用法与实践目的约束，却仍包含人选择哪些特征的工作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "实在本质承担因果解释",
+          "paragraphs": [
+            "实在本质是对象内部使其可发现性质成为可能的构造。它不是名称定义，而是性质为何成束出现的因果根据。",
+            "对物质实体，我们通常只推定其存在而不清楚知道它。因而不能让未知构造偷偷成为日常名称的现成意义。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "种类边界可能移动",
+          "paragraphs": [
+            "若两个样品同样黄且重，却在新实验中反应不同，旧名义本质可能需要修订或分种。新知识改变分类，不说明先前语言毫无功能。",
+            "自然具有独立构造，人的种类线却通过可得特征进入它。洛克既非“万物任意命名”，也拒绝我们已掌握永恒种形。",
+            "这也解释分类争议为何可能同时含事实与选择：实验回答哪些性质稳定相连，实践目的决定哪些相连性质足以改变名称。只争事实或只争词义都可能漏掉另一半。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "怪胎案例检验人种定义",
+          "paragraphs": [
+            "洛克讨论身体形态异常的婴儿，逼问“人”若只凭外形划界会得到什么后果。案例揭示名义本质的选择牵涉道德与法律判断。",
+            "它不授权以外形剥夺人格；相反，正因分类标准可能粗糙，我们必须把生物种类、人格与权利资格分开审查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "词首先指说话者的观念",
+          "paragraphs": [
+            "词在直接使用中标示说话者心中的观念，交流则要求对方附着相近观念。误会往往来自双方以为同词已保证同义。",
+            "私下改变词义、使用无观念的声音、假定词必指实在本质，都会让争论表面激烈而对象漂移。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "定义能修什么，不能修什么",
+          "paragraphs": [
+            "定义可公开名义本质，例示可稳定简单观念的用法。它能减少词义争执，却不能凭措辞发现未知内部构造。",
+            "科学改进语言需要实验与定义合作：实验修正特征关系，定义让修正后的分类可共同检查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "现代化学似乎已知实在本质",
+          "paragraphs": [
+            "异议以原子序数定义元素，认为洛克的无知已被科学克服。这确实表明某些分类可更深地连接内部结构。",
+            "回应必须收缩历史断言：洛克描述的是其认识条件与一般风险；现代成功不使名义选择消失，也不能倒写成他已有原子理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "第三卷的语义工程",
+          "paragraphs": [
+            "第三卷第三与第六章给出两种本质及种类论，第九至十一章处理语言缺陷和补救。它们依赖第二卷的抽象操作与实体无知。",
+            "后世自然种类实在论争议可借洛克起步，但任何现代立场都应标成解释延伸。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "称名之后仍需判断",
+          "paragraphs": [
+            "已经看见分类在未知实在本质下如何可能，也看见名称会把选择伪装成自然必然。语言清理仍不能自动产生知识。",
+            "下一步要区分知识、概率与证言：当直觉或证明达不到时，理性怎样调节同意而不坠入轻信。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "新实验迫使两个外观相同的样品分种，说明分类可修订而非纯任意，也不等于旧名称毫无用途。",
+      "nodeIds": [
+        "locke-06-node"
+      ],
+      "checkIds": [
+        "locke-06-q1",
+        "locke-06-q2",
+        "locke-06-q3",
+        "locke-06-q4"
+      ],
+      "abilitySummary": [
+        "区分称名标准与因果构造",
+        "发现词义争论中的实在本质偷渡"
+      ],
+      "recommendedNextLessonId": "locke-07"
+    },
+    {
+      "id": "locke-07",
+      "order": 7,
+      "title": "知识之外，理性怎样有分寸地相信",
+      "depth": "longform",
+      "guidingQuestion": "大部分生活判断达不到证明确定性，我们如何在知识与轻信之间行动？",
+      "coreExplanation": "知识是对观念一致或不一致的知觉；概率按经验、证言与反证调节同意，宗教信念不得取消理性的证据职责。",
+      "sections": [
+        {
+          "heading": "确定性稀少而行动不能停",
+          "paragraphs": [
+            "我们能直觉知道白不是黑，也能经证明知道几何关系；但谁寄来消息、药物是否有效、历史事件怎样发生，多靠不完备证据。",
+            "若把非确定都叫无知，理性无法生活；若把确信感当知识，又会给偏见过高权威。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "知识是关系被看见",
+          "paragraphs": [
+            "知识是心灵知觉观念之间一致或不一致，包括同异、关系、共存和实在存在。重点不是拥有两个观念，而是看见其关系。",
+            "直觉直接看见，证明通过中介观念逐步看见，感觉知识确认外物当下存在但等级较低。不同等级不能用同一语气陈述。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "共存知识受实在本质限制",
+          "paragraphs": [
+            "不知道物体内部构造，我们常不能从金的定义证明它在所有条件下具有某性质。自然知识多依实验而非观念定义。",
+            "这不是自然研究无望，而是结论必须与证据匹配。可重复观察提供高概率，却不应冒充几何必然。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "概率要求调节同意",
+          "paragraphs": [
+            "概率依事物与既有经验的符合、证人数量、诚实、能力、叙述一致性以及反证而增减。理性德性表现为信念强度随证据变化。",
+            "同意不是只分相信与不信；暂缓、较可信、近乎确定都可成为合适态度。行动阈值还取决于错误代价。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "证言既扩展又传递风险",
+          "paragraphs": [
+            "没有证言，我们几乎无法获得历史、远方与专业知识。拒绝证言并非独立思考，而是缩小理性材料。",
+            "但证言把观察者的能力、利益和传递链带入证据。多个说法若源自同一消息，人数增加不等于独立确认。",
+            "反过来，证人相互独立也不保证陈述真；独立性只避免同一错误被重复计票。可信度仍要与专业能力、接近事件的程度和反向证据共同计算。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "两位证人其实只有一个来源",
+          "paragraphs": [
+            "甲乙都说桥已封闭，后来发现乙只转述甲。表面两票应折算为一条证据，再结合公告与现场线索。",
+            "案例执行证据独立性检验；它不证明甲必错，只修正我们应给重复传播的权重。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "启示主张仍要经过理性门",
+          "paragraphs": [
+            "信仰涉及上帝启示而非自然能力独立发现的命题，但理性仍须判断所谓启示是否真是启示、文本怎样理解。",
+            "洛克不允许私人启示推翻清楚知识，因为我们对启示来源的把握不可能比直觉知识更确定。超出理性不等于反对理性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "证据主义会不会压扁宗教",
+          "paragraphs": [
+            "异议说宗教信赖包含承诺关系，不能化为证言概率表。它正确指出信仰实践不只是命题计算。",
+            "回应保留的是公共断言仍须承担理由，收缩的是概率模型不能穷尽敬虔生活。仍欠的问题是权威与宽容的政治边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "第四卷的等级语言",
+          "paragraphs": [
+            "第四卷第一至三章界定知识，第十五至十八章讨论概率、理性、信仰与狂热。不同段落的术语强度必须保留。",
+            "把洛克说成只承认科学证明，会漏掉他对证言和审慎同意的大篇幅分析；把他称为信什么都可，又违背反狂热论证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "有限认识的责任",
+          "paragraphs": [
+            "已经区分知识、概率、证言和信仰，也把同意强度与证据连接。未解决的是同一行动者怎样跨时间承担责任。",
+            "人格同一将把意识、记忆和司法归责拉到中心，并显示认识论概念会改变道德判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "两名证人共享同一消息源时，证据并未真正翻倍；调整权重不是指控原证人必然说谎。",
+      "nodeIds": [
+        "locke-07-node"
+      ],
+      "checkIds": [
+        "locke-07-q1",
+        "locke-07-q2",
+        "locke-07-q3",
+        "locke-07-q4"
+      ],
+      "abilitySummary": [
+        "按证据独立性调节同意",
+        "区分超出理性与反对清楚知识"
+      ],
+      "recommendedNextLessonId": "locke-08"
+    },
+    {
+      "id": "locke-08",
+      "order": 8,
+      "title": "王子醒在鞋匠身体里，谁该为旧事负责",
+      "depth": "longform",
+      "guidingQuestion": "身体、灵魂和人格可能沿不同连续线延续时，责任跟随哪一条？",
+      "coreExplanation": "人是活的有机体，人格是能把自己视为跨时同一思考者的司法概念；意识延伸到过去行动构成人格同一，却引发循环与记忆断裂异议。",
+      "sections": [
+        {
+          "heading": "同一词掩盖三种问题",
+          "paragraphs": [
+            "一棵树换掉物质仍是同一生命，一团物质换粒子便不再完全相同。若把同一标准到处套用，判断会冲突。",
+            "洛克先要求按对象种类询问同一性：物质、植物、动物、人和人格各有不同延续条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "人的同一跟随生命组织",
+          "paragraphs": [
+            "“同一个人”在此指同一活的有机体持续组织不同物质。身体会代谢，生命过程保持功能连续。",
+            "这使人不等于同一堆物质，也不预先等于同一不可见灵魂。它回答生物个体，不自动回答归责主体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "人格是司法关系词",
+          "paragraphs": [
+            "人格是有理性、能反省并把自己视作不同时间同一思考者的存在。它带有奖惩、所有权和责任的司法关切。",
+            "“司法”不等于法院虚构，而是概念为何需要跨时归责。人格边界与生物人边界可以在思想实验中分离。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "意识向过去延伸",
+          "paragraphs": [
+            "当现在意识把过去行动作为自己的行动来把握，人格同一延伸到那里。洛克关注第一人称归属，不只是旁观者相似。",
+            "后世常把这简写为记忆理论，但文本也谈意识延伸。若记忆只是证据而非构成关系，解释会不同，争议必须保留。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "王子与鞋匠交换连续线",
+          "paragraphs": [
+            "设王子的意识连同过去生活进入鞋匠身体，众人会把王子的计划、承诺和责任归给鞋匠外形中的那位人格。",
+            "案例分离身体与意识以检验概念，它不证明灵魂转移在现实可发生。思想实验的功能是揭示我们归责时实际跟随什么。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "遗忘制造惩罚难题",
+          "paragraphs": [
+            "若某行动完全不被现在意识拥有，严格人格关系似乎中断。洛克甚至让神圣审判与真实意识范围相配。",
+            "现实法庭却可因醉酒者后来不记得仍处罚，因为无法核实内在遗忘。这里要分形而上责任与人间证据规则。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "循环异议攻击构成关系",
+          "paragraphs": [
+            "巴特勒式异议说：我只能真实记得自己的经历，所以“真实记忆”这个词已经包含记忆者与经历者为同一人。若再用真实记忆证明二者同一，标准便把结论藏在前提中。",
+            "具体说，甲声称记得乙童年跌倒。若我们先问“这是不是甲的真实记忆”，答案本来就要先决定甲是否曾是那个孩子；直接以答案证明身份只会绕一圈。",
+            "因此后世提出“准记忆”：甲现在有一个仿佛从内部重现跌倒的记忆样状态，而且该状态以合适因果方式源自当时经历，但定义暂不要求经历已经属于甲。这样可以先刻画心理连接，再问这种连接是否足以构成人格同一。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "准记忆解除一个循环，也产生新的选择",
+          "paragraphs": [
+            "非循环条件至少包含来源与内容两端：当前状态要由过去知觉留下的记忆痕迹造成，而不能只是读日记后形成的生动画面；它还要以第一人称方式呈现那次行动。",
+            "但“合适因果方式”由什么实现，会重新要求身体、脑、灵魂或连续心理链的理论。准记忆消除了定义上的直接循环，却没有凭一个新词解决载体问题。",
+            "更重要的是，准记忆是后世分析工具，不是洛克第二卷第二十七章的原术语。它可帮助重建意识关系的一种可辩护版本，却不能回写成洛克明说的判准。",
+            "因此对巴特勒的回应是有代价的：人格同一不再由普通真记忆单独构成，而要由一种非循环的因果—意识关系承担。文本是否足以支持这一步仍是解释争议。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "勇敢军官攻击传递性",
+          "paragraphs": [
+            "里德设儿童受罚、军官记得受罚、将军记得立功却忘记童年。若同一只等于当前直接记起，军官与儿童同一，将军与军官同一，将军却与儿童不同，违反同一性的传递性。",
+            "一种后世回应是取直接心理连接的传递闭包：将军通过军官阶段与儿童阶段处在一条连续链上，即使末端之间没有直接记忆。链式标准保住传递性，也允许正常遗忘。",
+            "可是传递闭包会扩大洛克字面上“意识延伸所及”的范围。若将军对童年毫无意识，链仍把责任传过去，这可能弱化洛克用意识范围限制归责的激进之处。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "法庭证据与人格事实不能互换",
+          "paragraphs": [
+            "人间法庭通常凭身体连续、证词和行为痕迹判断同一，因为第一人称意识无法直接读取。这些是认定人格事实的证据，不必就是构成人格事实的条件。",
+            "若把法庭可证明什么当成人格实际上延伸到哪里，醉酒遗忘问题会被制度便利提前决定；反过来只听当事人自述，又会让伪装失忆逃避责任。",
+            "洛克的区分迫使我们承认两层不确定：形而上层问责任跟随何种意识关系，制度层问有限观察者用什么证据安全归责。两层可相互制约，却不能相互替代。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二版新增与后世批评",
+          "paragraphs": [
+            "身份与差异章是1694年第二版新增，不能当作1690初版已完成的内容。王子鞋匠位于第二卷第二十七章。",
+            "巴特勒和里德是后世批评者，不是洛克书中对话人物。引入他们的异议时必须标清声音与年代。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "责任没有被一个载体包办",
+          "paragraphs": [
+            "已经分开物质、生命、人和人格，并看见意识关系服务归责。异议表明它不能轻率等同无误的记忆数据库。",
+            "接下来从个人责任转向共同生活：若人天然自由平等，什么规范在政府之前约束他们，财产权又如何开始。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "王子鞋匠案例只分离身体与意识的归责线，不证明现实中灵魂迁移，也不把记忆当无误录像。",
+      "nodeIds": [
+        "locke-08-node"
+      ],
+      "checkIds": [
+        "locke-08-q1",
+        "locke-08-q2",
+        "locke-08-q3",
+        "locke-08-q4"
+      ],
+      "abilitySummary": [
+        "区分人、人格、身体和灵魂的同一条件",
+        "重建循环与传递性异议"
+      ],
+      "recommendedNextLessonId": "locke-09"
+    },
+    {
+      "id": "locke-09",
+      "order": 9,
+      "title": "没有共同法官，不等于没有规范",
+      "depth": "longform",
+      "guidingQuestion": "政治社会建立以前，人为何不是随意相害，又怎样从共有世界取得专属使用？",
+      "coreExplanation": "自然状态是自由平等且受自然法约束，但缺共同裁判；劳动使个人活动与共有物结合，初步取得受但书限制的财产权。",
+      "sections": [
+        {
+          "heading": "政治权力不能靠父权偷渡",
+          "paragraphs": [
+            "若统治只因某人更强或声称继承亚当，义务便没有可公共检验的来源。洛克要从人的自然地位重新说明政治权力。",
+            "自然状态是无共同政治上级的关系，不必是假想的史前地点；不同国家彼此也可处于这种关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "自由与放任的界线",
+          "paragraphs": [
+            "人在自然状态中安排自身与财物，不需另一私人许可；但自由受自然法约束，不是毁灭自己或他人的许可证。",
+            "平等意味着无人天然拥有管辖权。自然法以人同为独立存在、非供彼此任意使用的器具为理由。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "自然法为何仍不稳定",
+          "paragraphs": [
+            "每人都有执行自然法、惩罚侵害的权力，可制止并要求赔偿。问题是人会偏袒自己、激情过度、缺少公认尺度。",
+            "自然状态的不便来自裁判和执行的不确定，不来自道德规则缺席。这一区分解释政府为何必要而非绝对。",
+            "若问题只是规则不存在，政府可凭命令任意造法；若问题是共同判断和执行缺位，政府便必须用公开、稳定、面向共同保存的方式修复缺口。政府目的因此从诊断中获得限制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "共有资源与个人身体",
+          "paragraphs": [
+            "大地与自然果实最初供人类共有使用，但个人对自己的身体和劳动有特殊权利。若共有要求每次取得都等全体同意，生存将不可能。",
+            "劳动把原先仅属个人的活动加入某物，使其脱离共有状态。论证要说明使用资格，而不是喊一句“混合”便完成。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "劳动混合不是化学反应",
+          "paragraphs": [
+            "摘苹果使它可由特定行动者食用并排除他人再次占有。规范理由在于个人行动、生活需要与未损害他人份额的结合。",
+            "若把“混合我的东西”当形式规则，倒一罐果汁进海便可占海，显然失去比例与目的边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "不浪费与留足同样好",
+          "paragraphs": [
+            "取得受两条限制：不可让物品在使用前腐坏，并须为他人留下足够且同样好的资源。这些不是装饰语，而是原始占有正当性的条件。",
+            "在资源稀缺或土地已被围尽时，劳动事实不再独自完成正当化。后世如何理解但书强度仍有争论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "两口井与一片旱地",
+          "paragraphs": [
+            "某人维护一口废井使其出水，劳动支持优先使用；若他同时围住唯一另一口井，邻人无法生存，留足条件受到直接挑战。",
+            "案例显示劳动贡献与排他范围必须分别判断。承认改良收益，不等于承认对生存条件的无限控制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "自我所有权是否已经预设",
+          "paragraphs": [
+            "异议问：从“我的劳动”到“劳动对象归我”需要额外原则，且劳动常依共同知识、土地与合作。单人叙事可能遮蔽社会投入。",
+            "回应可保住个人付出产生要求的直觉，却必须收缩为初步权利，并让共有背景、但书和他人权利继续审查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "《政府论下篇》的匿名语境",
+          "paragraphs": [
+            "《政府论两篇》于1689年匿名出版，下篇第二至五章承担自然状态、自然法与财产论证。它同时反对菲尔默式父权绝对主义。",
+            "后世自由主义把洛克塑成无条件私有产权奠基人，会抹去自然法、不便与但书在原论证中的位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "初步取得尚未解释积累",
+          "paragraphs": [
+            "已经建立的是受自然法与但书限制的初步取得，不是无条件私有化许可证。自然状态仍因裁判缺失而不稳。",
+            "货币将改变易腐限制并扩大不平等，迫使我们检验默许究竟能承担多大的规范重量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "维护废井支持优先使用，却不能自动支持围住唯一生存水源；劳动与排他范围必须分开。",
+      "nodeIds": [
+        "locke-09-node"
+      ],
+      "checkIds": [
+        "locke-09-q1",
+        "locke-09-q2",
+        "locke-09-q3",
+        "locke-09-q4"
+      ],
+      "abilitySummary": [
+        "区分自然状态与无法状态",
+        "把劳动取得放回两项但书"
+      ],
+      "recommendedNextLessonId": "locke-10"
+    },
+    {
+      "id": "locke-10",
+      "order": 10,
+      "title": "货币让苹果不再腐烂，却没有让不平等自动正当",
+      "depth": "longform",
+      "guidingQuestion": "耐久货币怎样放松不浪费限制，而这种默许能否承担巨大不平等的正当性？",
+      "coreExplanation": "货币使剩余可交换并储存价值，扩大积累；洛克称人们默许其使用，但这不自动满足留足条件或回答历史剥夺。",
+      "sections": [
+        {
+          "heading": "易腐上限怎样被绕开",
+          "paragraphs": [
+            "一个人采得过多苹果任其腐烂，会违反不浪费限制；若及时换成不会腐坏的金属，他没有直接毁掉食物。",
+            "交换把剩余转给能使用者，并把价值保存为货币。物理腐坏上限因此被技术与约定改写。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "货币依共同承认",
+          "paragraphs": [
+            "金银的耐久不足以自己成为货币，人们还要愿意接受其交换价值。洛克把使用货币说成某种默许。",
+            "这种同意不同于签署具体政治契约：它常由参与交换表现，范围与退出条件都较含混。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "不平等由积累机制扩大",
+          "paragraphs": [
+            "可储存价值使人能占有超过即时需要的产物和土地，并雇用劳动、延长投资。财产差距不再受个人消费速度限制。",
+            "洛克说货币使用使不均等占有成为可行，并获得某种同意；从“可行”到“正当”的距离正是争议中心。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "不浪费不等于留足",
+          "paragraphs": [
+            "把苹果换成钱可能避免腐坏，却未证明土地围占后仍给别人留下足够且同样好的机会。两项但书不能合并。",
+            "若货币只解除不浪费，留足条件仍可独立限制积累；若同意货币同时放弃留足，洛克需要更强的同意理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "港口通行权与仓储券",
+          "paragraphs": [
+            "商人用仓储券保存收益没有浪费，但若买下唯一港口并收取无法承受的通行费，耐久交换媒介没有消除他人受损。",
+            "案例把货币功能与资源控制分开：价值保存可正当，不等于每种由此产生的排他结构正当。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "提高产出能否满足但书",
+          "paragraphs": [
+            "洛克强调耕作土地比闲置土地生产更多，社会总产出可能让无地者也过得更好。这提供“处境改善”读法。",
+            "但总产出增加不回答分配、依赖与政治权力；更好必须说明比较基线、受益者及不可替代资源。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "默许在无退出条件下太弱",
+          "paragraphs": [
+            "异议说一个出生于货币社会的人无法实际拒绝交换体系，他的参与不能证明同意既有全部不平等。若不用货币便难以取得食物和住所，参与更像受背景约束的适应，而非可拒绝的授权。",
+            "因此这里不应假装已有决定性回应。洛克可以说持续使用货币使交换者有理由预期他人也承认这种媒介；这解释协调规则为何有效，却仍未证明参与者同意由该规则造成或继承的每一份财产差距。",
+            "回应真正保住的是较薄的制度事实：货币价值依共同实践，交易者在具体交换中接受等价媒介。它必须放弃较厚的规范结论：背景参与足以追认全部占有史。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "货币同意不能替留足条件签字",
+          "paragraphs": [
+            "劳动论的原始结构先问取得是否给他人留下足够且同样好的资源；货币段落再说明人为何能保存超过即时消费的价值。后一步改变不浪费条件，却没有在逻辑上重述或取消留足条件。",
+            "若主张货币同意连留足也一并放弃，就需要证明同意对象包含“允许他人使我的资源机会变差”。日常接受硬币只显示接受交换尺度，不能从行为内容中读出这项更广授权。",
+            "另一条辩护诉诸生产提高：私人改良让社会产品增加，无地者以工资购买所得，处境可能优于未开发共有状态。但它需要独立检验工资机会、依赖关系和不可替代资源，不能由总量增长自动成立。",
+            "所以本单元的结论有意停在未决处：货币解释积累怎样可能，也提供有限协调同意；它没有单独证明由积累形成的不平等符合留足条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "生存权限制占有绝对性",
+          "paragraphs": [
+            "洛克其他政治与经济论述承认极端需要者对富足者剩余具有要求。即使财产权强，也不是面对死亡需要毫无义务。",
+            "这不等于完整福利国家理论，却进一步反驳把所有权读成不受自然法约束的绝对支配。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "第五章内部的论证转折",
+          "paragraphs": [
+            "《政府论下篇》第五章从劳动、但书推进到货币与不均等占有。后世“洛克式但书”这一名称晚于洛克，不能当他的术语。",
+            "解释者对货币同意是否解除留足、提高生产是否足够有显著分歧；正文保留分歧，不替作者宣布现代结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "财产需要政治审查",
+          "paragraphs": [
+            "已经看见货币如何解除易腐上限，也看见默许不足以自动洗净不平等来源。财产权仍在自然法和他人条件中。",
+            "土地与交换进入社会后，积极法、税收与裁判不可避免。下一步要问政治权力怎样由同意产生并保持信托边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "仓储券解决价值腐坏，却不能证明垄断唯一港口正当；货币功能与排他范围是两项判断。",
+      "nodeIds": [
+        "locke-10-node"
+      ],
+      "checkIds": [
+        "locke-10-q1",
+        "locke-10-q2",
+        "locke-10-q3",
+        "locke-10-q4"
+      ],
+      "abilitySummary": [
+        "分开不浪费但书与留足但书",
+        "检验货币默许的范围和退出条件"
+      ],
+      "recommendedNextLessonId": "locke-11"
+    },
+    {
+      "id": "locke-11",
+      "order": 11,
+      "title": "政府受托而非受赠：同意、 多数与反抗",
+      "depth": "longform",
+      "guidingQuestion": "自由个体怎样形成一个能行动的共同体，又怎样防止多数或统治者把授权变成所有权？",
+      "coreExplanation": "同意建立共同体，多数原则使其能行动；政府权力是为保存生命、自由和财产的信托，长期破坏信托会使权力归还人民。",
+      "sections": [
+        {
+          "heading": "离开自然状态要解决裁判缺口",
+          "paragraphs": [
+            "自然法虽在，人人自审自执仍造成偏私与不确定。进入政治社会是把部分执行权交给共同机构。",
+            "交出的不是生命与自由的最终所有权，而是为更可靠保存它们而授权的权力；目的将限制手段。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "明示与默示不能混用",
+          "paragraphs": [
+            "明示同意使人成为政治共同体成员；默示同意可由享用土地、道路与法律保护表现，但其义务强度更有争议。",
+            "路过领土与继承永久服从显然不是同一行为。若不区分，任何受益都可被解释成不可退出的授权。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "同意先建立共同体",
+          "paragraphs": [
+            "个人同意的直接对象首先是与他人组成一个政治身体。只有共同体成立，才有后续政府形式和官职安排。",
+            "这一步防止把每届政府当作每人逐项签署的合同，也防止把共同体与当前统治者混为一体。",
+            "因此政府解体也不必等于共同体立即消失。受托机关可能失去权力，而人民作为授权主体仍可重建机关；这正是反抗论不必回到孤立个人混战的关键。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "多数原则使共同体能行动",
+          "paragraphs": [
+            "共同体若每项行动要求全体一致，会因一人反对而停摆。加入一个政治身体因而包含接受多数决定其共同方向。",
+            "多数是行动规则，不是道德无误来源。自然法、委托目的与不可让渡利益仍限制多数。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "立法权是最高却非专断",
+          "paragraphs": [
+            "立法权制定公开、稳定、为公共利益的法律，并须经人民同意征税。它在制度内居最高，却仍是受托权力。",
+            "受托意味着权力为受益人目的行使；统治者不能把人民财产与自由当自己的资产。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "特权处理法律来不及之处",
+          "paragraphs": [
+            "行政者有时需在法律沉默甚至字面阻碍公共利益时行动，这叫特权。它回应不可预见性，不是秘密解除法律。",
+            "判断特权要看公共利益与人民事后评价。若例外变成自利常规，它就转为信托破坏。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "权力归还不是每日重启",
+          "paragraphs": [
+            "当统治者系统改变立法、阻断代表、任意夺产或把人民交给外力，信托可能解体，权力归还人民。",
+            "反抗权针对长期、明确且无救济的结构破坏，不是每次错误政策都授权个人暴力。洛克以人民集体判断抵御无政府指控。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "一次违法征费与持续取消议会",
+          "paragraphs": [
+            "一次越权收费可诉诸法院与选举纠正；持续停开议会、控制法官并没收反对者财产，则逐步拆掉救济本身。",
+            "案例检验程度与结构：相同“违法”标签不足以判断反抗，关键是信托渠道是否被系统封死。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "辉格危机与匿名出版",
+          "paragraphs": [
+            "《政府论两篇》在排斥危机和光荣革命相关语境中形成并匿名出版，但历史动机不能替代文本论证。",
+            "第八、九、十三、十九章分别承担共同体、目的、权力边界与政府解体。后世自由民主叙事不应省去财产权与宗教边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "有限政府留下的少数问题",
+          "paragraphs": [
+            "已经建立从同意到共同体、从多数到可行动性、从信托到反抗的链条。多数与政府都不因授权而成为人民主人。",
+            "尚未解决的是宗教差异能否由政治强制消除，以及洛克自己在宽容、殖民和奴隶制问题上的边界与责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一次越权与持续拆毁议会、法院和财产保障同属违法，却只有后者显示救济结构与信托被系统破坏。",
+      "nodeIds": [
+        "locke-11-node"
+      ],
+      "checkIds": [
+        "locke-11-q1",
+        "locke-11-q2",
+        "locke-11-q3",
+        "locke-11-q4"
+      ],
+      "abilitySummary": [
+        "区分共同体、政府和统治者",
+        "用信托破坏而非主观不满判断反抗"
+      ],
+      "recommendedNextLessonId": "locke-12"
+    },
+    {
+      "id": "locke-12",
+      "order": 12,
+      "title": "宽容的理由与洛克遗产中不能被宽容掉的矛盾",
+      "depth": "longform",
+      "guidingQuestion": "若信仰不能靠强制产生，国家为何仍排除一些群体，殖民与奴隶制经历又怎样改变我们对洛克的评价？",
+      "coreExplanation": "宽容来自教会与国家目的分离及强制无力制造真信仰，但原文保留明显排除；殖民、投资和手稿责任要求规范审判，也要求证据上不伪造定论。",
+      "sections": [
+        {
+          "heading": "强迫口头服从不能制造确信",
+          "paragraphs": [
+            "若救赎依真诚信念，罚款、监禁和暴力最多改变公开行为，不能按命令直接产生内在判断。宗教强制因此不能把顺从本身当作信仰。",
+            "同时不同教派都自认掌握真理；若政治权力按自身教派强制，胜负只随武力而不随真理。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "强制或许能间接迫使人看证据",
+          "paragraphs": [
+            "普罗斯特提出更强异议：强制不必直接把信念塞进心中，它可以使懒惰或受偏见影响的人停下来听讲、阅读并重新考虑理由。真正改变信念的仍是理由，惩罚只负责把注意力引向理由。",
+            "这条路线避开“力量不能直接命令确信”的反驳。若适度强制确实提高认真考虑真理的机会，单凭直接无效便不足以推出宽容。",
+            "洛克的回应必须追问官长凭什么可靠识别真宗教、强制是否对各教派对称开放，以及惩罚带来的恐惧、伪装和信息封闭是否比注意收益更大。一个可能促成思考的手段，尚未因此成为官长有权使用的手段。",
+            "即使偶尔有人因处罚而重新考察证据，政策正当性仍需一般规则：谁可强制谁、以何种标准停止、错误官长造成何种损害。普罗斯特给出可能的因果效力，却没有单独给出合法权限。",
+            "这场间接效力争论发生在《宽容书简》后的洛克—普罗斯特论战中。它不是首封书简已完整回答的内部段落，因而正文把它标为后续压力，而非伪装成洛克初稿里的预见。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "国家照料民事利益",
+          "paragraphs": [
+            "官长的职责是生命、自由、身体安全与财产等民事利益，以公开法律和强制手段维持和平。",
+            "这个权限不包含拯救灵魂，因为信仰不可转让给官长，强制也不是形成确信的合适工具。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "教会是自愿团体",
+          "paragraphs": [
+            "教会是人们为共同敬拜与救赎希望自愿组成的社会，可制定内部规则并开除成员。",
+            "开除只能终止宗教共同体关系，不能夺取财产、伤害身体或调用国家刑罚。组织边界由手段差别限定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "宗教行为仍受一般法律",
+          "paragraphs": [
+            "宽容不使宗教名义成为伤害他人的豁免。国家可禁止本就损害民事利益的行为，但理由须是公共规则而非教义错误。",
+            "若同一行为在市场合法、到礼拜场所便违法，官长需证明区别来自真实民事风险，而非对信仰内容的敌意。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "原文排除暴露历史边界",
+          "paragraphs": [
+            "洛克担心效忠外国权力的群体，也排除无神论者，理由之一是没有神圣制裁便不能信赖誓约。这些主张把经验判断与政治风险打包。",
+            "要检验这项经验前提，不能只问无神论教义是否提到神罚，而要比较无神论者与有神论者在公开承诺、法律责任、声誉损失和相互监督下是否具有不同的守约能力。洛克没有提供这类比较证据。",
+            "不能把这些排除删掉后宣布他已主张现代平等宽容；也不能因此否认其反强制论证对扩大自由的真实力量。最恰当的结论是其一般理由能够反过来削弱自己的排除前提。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "拒绝宣誓与拒绝守约不是一回事",
+          "paragraphs": [
+            "某人因信仰拒绝宗教形式的誓言，却愿在公开法律下承担伪证惩罚。把拒绝仪式直接等同不守约，会偷换行为证据。",
+            "案例攻击排除论的经验前提：公共可信可由可验证承诺与法律责任建立，不必由特定神学信念保证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "殖民行政进入规范账本",
+          "paragraphs": [
+            "洛克服务于沙夫茨伯里与殖民行政，也曾持有皇家非洲公司权益；这些不是与哲学无关的八卦，而是检验权利语言适用范围的历史材料。",
+            "《卡罗来纳基本宪法》包含等级与奴隶主绝对权力条款。洛克参与相关工作造成责任问题，但具体起草份额与修订链须依手稿判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "反奴役原则与实际牵连",
+          "paragraphs": [
+            "《政府论下篇》把正当奴役严格限于不义战争中本可被杀者的特殊状态，这与世袭种族奴隶制并不相容。",
+            "规范张力不能靠文本原则自动洗白实际牵连，也不能靠实际牵连伪造每一条文的作者身份。批判需要同时保存原则、行动和证据层级。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "自由主义继承应当怎样说",
+          "paragraphs": [
+            "后世自由主义从同意、权利、信托和宽容获得强大资源，也常把财产积累、帝国扩张与排除群体放在脚注。",
+            "负责任的继承不是选择圣人或骗子标签，而是问哪些论证可普遍化、哪些前提失败、哪些制度利益妨碍作者兑现自己的标准。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "有限理性与未完成的平等",
+          "paragraphs": [
+            "十二个单元从反天赋内容走到经验材料、表象、语言、人格、财产与政治信托，贯穿的是对认识和权力边界的追问。",
+            "已经得到的工具能反过来审判洛克：证据须分级，名义标签不能遮蔽对象，授权不能变所有权。仍开放的是这些工具能否支撑比原作者更一致的平等。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "拒绝宗教誓言者若接受公开的伪证责任，便显示特定神学信念不是公共可信的唯一根据。",
+      "nodeIds": [
+        "locke-12-node"
+      ],
+      "checkIds": [
+        "locke-12-q1",
+        "locke-12-q2",
+        "locke-12-q3",
+        "locke-12-q4"
+      ],
+      "abilitySummary": [
+        "重建宽容的目的与手段论证",
+        "同时评价原则力量、历史牵连与手稿归属争议"
+      ],
+      "recommendedNextLessonId": null
+    }
+  ],
+  "checks": [
+    {
+      "id": "locke-01-q1",
+      "kind": "concept",
+      "prompt": "洛克的反天赋论首先否定什么？",
+      "targetNodeIds": [
+        "locke-01-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "特定原则作为未被意识的现成内容已在心中",
+          "isCorrect": true,
+          "feedback": "决定性关系是“心中已有”必须与某种实际领会相连；仅有后来能理解的能力不足以算现成观念。"
+        },
+        {
+          "id": "b",
+          "text": "人具有后来辨别和推理出原则的自然能力",
+          "isCorrect": false,
+          "feedback": "错步是把内容与能力互换。洛克可以承认自然能力，同时拒绝特定命题预装在心中。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-01-q1-misconception"
+    },
+    {
+      "id": "locke-01-q2",
+      "kind": "argument",
+      "prompt": "儿童没有明确同意某原则，直接削弱哪一步？",
+      "targetNodeIds": [
+        "locke-01-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "从原则为真推到它具有客观约束力",
+          "isCorrect": false,
+          "feedback": "错步是改变了论证目标。儿童例子针对普遍同意这一经验前提，不直接裁定原则真假。"
+        },
+        {
+          "id": "b",
+          "text": "从无人例外的同意推到共同的天赋来源",
+          "isCorrect": true,
+          "feedback": "儿童未领会使“无人例外”无法直接成立，因此普遍同意不能原样承担天赋来源的证明。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-01-q2-misconception"
+    },
+    {
+      "id": "locke-01-q3",
+      "kind": "transfer",
+      "prompt": "初见命题便迅速同意，合理的判断是什么？",
+      "targetNodeIds": [
+        "locke-01-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "立即性只能在排除概念形成和关系清楚等替代解释后作证",
+          "isCorrect": true,
+          "feedback": "迅速同意与多种发生机制相容；只有排除经验形成的替代解释，才可能把立即性当作天赋证据。"
+        },
+        {
+          "id": "b",
+          "text": "立即性足以把心理起源确定为出生时的印记",
+          "isCorrect": false,
+          "feedback": "唯一错步是把相容证据提升为唯一原因。呈现后关系清楚也能产生迅速同意。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-01-q3-misconception"
+    },
+    {
+      "id": "locke-01-q4",
+      "kind": "boundary",
+      "prompt": "道德分歧至多让本段获得什么？",
+      "targetNodeIds": [
+        "locke-01-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "客观道德命题因此失去成立的可能",
+          "isCorrect": false,
+          "feedback": "错步是从心理同意分布跳到规范真假。分歧削弱天赋证据，不自动取消客观理由。"
+        },
+        {
+          "id": "b",
+          "text": "实际同意不足以单独证明道德原则天赋",
+          "isCorrect": true,
+          "feedback": "它保留客观道德的开放性，只限制“普遍同意所以天赋”这一证成路线。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-01-q4-misconception"
+    },
+    {
+      "id": "locke-02-q1",
+      "kind": "concept",
+      "prompt": "感觉与反省最关键的区别是什么？",
+      "targetNodeIds": [
+        "locke-02-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "感觉提供外物观念，反省验证这些观念在心中的真实性",
+          "isCorrect": false,
+          "feedback": "错步是把反省从另一种材料来源改成感觉的真实性审查。感觉和反省按对象与因果来路区分。"
+        },
+        {
+          "id": "b",
+          "text": "一个来自外物作用，一个来自对心灵操作的注意",
+          "isCorrect": true,
+          "feedback": "外物与心理操作是两种材料来源；它们可以在同一认识事件中共同出现。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-02-q1-misconception"
+    },
+    {
+      "id": "locke-02-q2",
+      "kind": "boundary",
+      "prompt": "白板比喻不能推出什么？",
+      "targetNodeIds": [
+        "locke-02-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "心灵没有比较、记忆和组合材料的能力",
+          "isCorrect": true,
+          "feedback": "错把“没有预写内容”扩大成“没有操作能力”。洛克后续复杂观念理论依赖这些能力。"
+        },
+        {
+          "id": "a",
+          "text": "心灵没有预写的特定观念内容",
+          "isCorrect": false,
+          "feedback": "这正是比喻承担的有限否定功能；它针对预装内容。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-02-q2-misconception"
+    },
+    {
+      "id": "locke-02-q3",
+      "kind": "transfer",
+      "prompt": "注意自己正在犹豫属于哪条路线？",
+      "targetNodeIds": [
+        "locke-02-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "感觉，因为犹豫总由外界情境触发",
+          "isCorrect": false,
+          "feedback": "错步是把触发条件当成被注意的对象。反省关注的是犹豫这一心理操作。"
+        },
+        {
+          "id": "a",
+          "text": "反省，因为对象是自己的意愿与判断活动",
+          "isCorrect": true,
+          "feedback": "决定性关系是注意的对象为心灵操作；外在情境可以触发犹豫，却不改变该观念的反省来源。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-02-q3-misconception"
+    },
+    {
+      "id": "locke-02-q4",
+      "kind": "argument",
+      "prompt": "观念有经验来源后为何仍需知识论？",
+      "targetNodeIds": [
+        "locke-02-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "发生的因果来路只说明材料到来，尚未证明判断与对象相符",
+          "isCorrect": true,
+          "feedback": "来源说明“怎样得到”，知识论还需说明“凭什么为真”；两种问题不能互相替代。"
+        },
+        {
+          "id": "b",
+          "text": "经验来源说明错误怎样发生，知识则另有先天来源",
+          "isCorrect": false,
+          "feedback": "唯一错步是重新引入被排除的来源分工。真实和错误判断都可能使用经验材料。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-02-q4-misconception"
+    },
+    {
+      "id": "locke-03-q1",
+      "kind": "concept",
+      "prompt": "简单观念的“被动”主要指什么？",
+      "targetNodeIds": [
+        "locke-03-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "心灵不能任意决定所受简单感质的具体内容",
+          "isCorrect": true,
+          "feedback": "被动性约束材料入口；它不取消随后注意、记忆和组合这些主动操作。"
+        },
+        {
+          "id": "b",
+          "text": "心灵只能保存这些观念而不能改变其关系结构",
+          "isCorrect": false,
+          "feedback": "错步是把入口被动扩大到全程被动。简单观念仍可被比较、组合和抽象。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-03-q1-misconception"
+    },
+    {
+      "id": "locke-03-q2",
+      "kind": "argument",
+      "prompt": "复杂观念何以不违背经验来源？",
+      "targetNodeIds": [
+        "locke-03-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "复杂观念在出生时潜藏，经验负责将其唤醒",
+          "isCorrect": false,
+          "feedback": "唯一错步是用潜藏内容取代组合操作，重新引入第一单元已拒绝的解释。"
+        },
+        {
+          "id": "a",
+          "text": "其结构由心灵操作，构成材料只能追溯到经验",
+          "isCorrect": true,
+          "feedback": "经验约束材料，不要求复杂结构原样由外物送入；这正是主动性与经验论的兼容点。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-03-q2-misconception"
+    },
+    {
+      "id": "locke-03-q3",
+      "kind": "transfer",
+      "prompt": "抽象承诺时若舍去自愿性会怎样？",
+      "targetNodeIds": [
+        "locke-03-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "会改变分类所凭的关系，所得已非原概念",
+          "isCorrect": true,
+          "feedback": "抽象必须保留承担判断工作的结构；自愿性在此决定承诺与强制服从的区别。"
+        },
+        {
+          "id": "a",
+          "text": "会保留承诺概念，只把适用对象扩大到受强制的履行",
+          "isCorrect": false,
+          "feedback": "错步是把构成关系当成可扩大的偶然细节。失去自愿承担，所得分类已经混入强制服从。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-03-q3-misconception"
+    },
+    {
+      "id": "locke-03-q4",
+      "kind": "boundary",
+      "prompt": "创造性异议迫使洛克收缩什么？",
+      "targetNodeIds": [
+        "locke-03-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "新作品的结构由材料组合，故其价值也可由材料来源完整解释",
+          "isCorrect": false,
+          "feedback": "错步是从构成材料可追溯跳到作品价值可还原。结构组织与评价仍增加了材料清单没有给出的关系。"
+        },
+        {
+          "id": "a",
+          "text": "经验论只能说明材料可追溯，不能穷尽作品价值与新颖",
+          "isCorrect": true,
+          "feedback": "回应保留材料来源论，同时承认组合目的和价值不能由材料清单机械推出。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-03-q4-misconception"
+    },
+    {
+      "id": "locke-04-q1",
+      "kind": "concept",
+      "prompt": "第二性质在物体中怎样存在？",
+      "targetNodeIds": [
+        "locke-04-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "作为与心中颜色或滋味相似的微观感质",
+          "isCorrect": false,
+          "feedback": "错步是把效果的感受样态搬进原因。微粒结构产生味觉，不意味着颗粒自身尝到味道。"
+        },
+        {
+          "id": "a",
+          "text": "作为借其结构在感官中产生特定观念的能力",
+          "isCorrect": true,
+          "feedback": "第二性质的对象端是因果能力，心灵端是颜色、味道等观念；两端不能合成一个内在小感受。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-04-q1-misconception"
+    },
+    {
+      "id": "locke-04-q2",
+      "kind": "case",
+      "prompt": "同一水盆产生冷热两感首先反驳什么？",
+      "targetNodeIds": [
+        "locke-04-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "感到的热凉样子以同样方式内在于水",
+          "isCorrect": true,
+          "feedback": "同一对象在不同身体条件下产生相反感受，削弱了感受样态原样内在的主张。"
+        },
+        {
+          "id": "a",
+          "text": "水的稳定结构足以说明热凉观念都与水中性质相似",
+          "isCorrect": false,
+          "feedback": "错步是从稳定因果结构跳到两种相反感受都与对象相似。案例要求区分结构与感官条件。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-04-q2-misconception"
+    },
+    {
+      "id": "locke-04-q3",
+      "kind": "objection",
+      "prompt": "视角使形状变化的异议攻击哪一点？",
+      "targetNodeIds": [
+        "locke-04-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "外物对感官作用能否成为观念的近因",
+          "isCorrect": false,
+          "feedback": "错步是把针对分类理由的异议扩大成否认因果作用；异议并未否定外物刺激。"
+        },
+        {
+          "id": "a",
+          "text": "区分两类性质时使用变化证据的不对称性",
+          "isCorrect": true,
+          "feedback": "若变化足以否定颜色相似，形状变化也需解释；洛克必须加入不可分离性、测量与机械因果等前提。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-04-q3-misconception"
+    },
+    {
+      "id": "locke-04-q4",
+      "kind": "boundary",
+      "prompt": "说第二性质观念不相似于原因，不可推出什么？",
+      "targetNodeIds": [
+        "locke-04-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "颜色经验没有真实发生",
+          "isCorrect": true,
+          "feedback": "不相似限制表象关系，不取消经验事件；也不取消物体产生该经验的真实能力。"
+        },
+        {
+          "id": "b",
+          "text": "颜色词在对象端可指一种因果能力",
+          "isCorrect": false,
+          "feedback": "这正是洛克保留对象属性的方式：对象有产生颜色观念的能力。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-04-q4-misconception"
+    },
+    {
+      "id": "locke-05-q1",
+      "kind": "concept",
+      "prompt": "“不知是什么”主要限定什么？",
+      "targetNodeIds": [
+        "locke-05-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "一般支持者的正面内容与内部构造知识",
+          "isCorrect": true,
+          "feedback": "我们知道为何假定支持者，却没有它脱离具体性质后的丰富观念；限制落在说明深度。"
+        },
+        {
+          "id": "b",
+          "text": "具体物体及其可观察性质的存在判断",
+          "isCorrect": false,
+          "feedback": "错步是把载体无知扩大成全面否认。具体性质组合仍由感觉提供。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-05-q1-misconception"
+    },
+    {
+      "id": "locke-05-q2",
+      "kind": "argument",
+      "prompt": "为何仍需假定支持者？",
+      "targetNodeIds": [
+        "locke-05-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "因为感官越过具体性质直接呈现了载体",
+          "isCorrect": false,
+          "feedback": "唯一错步是把推定对象说成直接感觉对象；感觉给出的是具体性质。"
+        },
+        {
+          "id": "a",
+          "text": "为共同依存的性质提供归属与持续同一的位置",
+          "isCorrect": true,
+          "feedback": "支持者由性质不能独立悬置的解释压力引入，即使其正面内容仍贫乏。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-05-q2-misconception"
+    },
+    {
+      "id": "locke-05-q3",
+      "kind": "boundary",
+      "prompt": "能思维物质的讨论获得什么？",
+      "targetNodeIds": [
+        "locke-05-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "我们无权凭贫乏观念断定赋予物质思维不可能",
+          "isCorrect": true,
+          "feedback": "这是模态谦逊：保留可能性，不裁定经验事实，也不取消灵魂问题。"
+        },
+        {
+          "id": "a",
+          "text": "物质思维在概念上可被设想，因此在事实上更应接受",
+          "isCorrect": false,
+          "feedback": "错步是从概念上不能排除跳到经验上更应接受。洛克只限制先验不可能判断，不分配事实概率。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-05-q3-misconception"
+    },
+    {
+      "id": "locke-05-q4",
+      "kind": "objection",
+      "prompt": "语法幻影异议若成立会损失什么？",
+      "targetNodeIds": [
+        "locke-05-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "性质在经验中共同出现这一事实",
+          "isCorrect": false,
+          "feedback": "错步是把解释争议当成观察否认；异议仍可承认共现，只改写其本体解释。"
+        },
+        {
+          "id": "a",
+          "text": "支持者作为世界中额外结构的论证根据",
+          "isCorrect": true,
+          "feedback": "异议把“需要主语”解释为语言习惯，因而削弱从归属语法到本体支持者的推论。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-05-q4-misconception"
+    },
+    {
+      "id": "locke-06-q1",
+      "kind": "concept",
+      "prompt": "名义本质的主要工作是什么？",
+      "targetNodeIds": [
+        "locke-06-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "直接揭示对象全部微观因果构造",
+          "isCorrect": false,
+          "feedback": "错步是把称名标准换成实在本质；后者通常正是我们未知的部分。"
+        },
+        {
+          "id": "a",
+          "text": "作为通名适用与种类归入的抽象标准",
+          "isCorrect": true,
+          "feedback": "名称系于可识别的抽象观念，因而能在未知内部构造时继续分类。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-06-q1-misconception"
+    },
+    {
+      "id": "locke-06-q2",
+      "kind": "argument",
+      "prompt": "分类为何不是任意游戏？",
+      "targetNodeIds": [
+        "locke-06-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "观察到的性质组合与共同实践会约束抽象选择",
+          "isCorrect": true,
+          "feedback": "人的选择参与划线，但对象的稳定性质和实验反应会迫使分类修订。"
+        },
+        {
+          "id": "b",
+          "text": "每个名称都已与自然唯一边界先验重合",
+          "isCorrect": false,
+          "feedback": "唯一错步是把受约束提升为预定重合；新发现常迫使名义本质改变。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-06-q2-misconception"
+    },
+    {
+      "id": "locke-06-q3",
+      "kind": "transfer",
+      "prompt": "同词争论不休时首先应检查什么？",
+      "targetNodeIds": [
+        "locke-06-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "哪一方声音更接近对象内部的自然名称",
+          "isCorrect": false,
+          "feedback": "错步是假定对象自带语言标签。内部构造不会自动指定公共词义。"
+        },
+        {
+          "id": "a",
+          "text": "双方是否把相同声音连接到不同观念标准",
+          "isCorrect": true,
+          "feedback": "词直接标示说话者观念；公开定义可先判断争论是事实冲突还是名义漂移。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-06-q3-misconception"
+    },
+    {
+      "id": "locke-06-q4",
+      "kind": "boundary",
+      "prompt": "现代元素分类对洛克意味着什么？",
+      "targetNodeIds": [
+        "locke-06-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "某些分类能更深连接内部结构，但历史文本不可被倒写",
+          "isCorrect": true,
+          "feedback": "科学进展可收缩无知范围，却不消除名义标准、测量实践与解释边界。"
+        },
+        {
+          "id": "b",
+          "text": "现代分类可用原子序数定义，因此名义本质区分已失去解释对象",
+          "isCorrect": false,
+          "feedback": "错步是从某类分类的深入成功推广到名义标准不再存在；测量、同位素与应用边界仍需公开标准。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-06-q4-misconception"
+    },
+    {
+      "id": "locke-07-q1",
+      "kind": "concept",
+      "prompt": "知识与高概率信念的决定性差别是什么？",
+      "targetNodeIds": [
+        "locke-07-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "前者知觉观念关系，后者依证据权重获得同意",
+          "isCorrect": true,
+          "feedback": "高可信仍可因新证据修正；知识在洛克的严格用法中要求关系被心灵把握。"
+        },
+        {
+          "id": "b",
+          "text": "前者带来强烈确信感，后者心理感觉较弱",
+          "isCorrect": false,
+          "feedback": "错步是以主观强度替换证成关系；狂热也可能感到极确信。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-07-q1-misconception"
+    },
+    {
+      "id": "locke-07-q2",
+      "kind": "transfer",
+      "prompt": "两证人共享消息源为何不能算两次独立确认？",
+      "targetNodeIds": [
+        "locke-07-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "因为第二位证人的陈述因此必定虚假",
+          "isCorrect": false,
+          "feedback": "唯一错步是从不独立跳到虚假。转述可能真实，只是不能获得双倍权重。"
+        },
+        {
+          "id": "a",
+          "text": "因为传递链没有增加新的原始观察",
+          "isCorrect": true,
+          "feedback": "人数只是表面变量，证据权重取决于独立来源；转述仍可有信息，却不等于重复观察。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-07-q2-misconception"
+    },
+    {
+      "id": "locke-07-q3",
+      "kind": "boundary",
+      "prompt": "信仰“超出理性”意味着什么？",
+      "targetNodeIds": [
+        "locke-07-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "内容可能非自然推理所得，但启示身份仍受理性检查",
+          "isCorrect": true,
+          "feedback": "理性不生成全部启示内容，却要判断来源与解释；超出不授权冲突清楚知识。"
+        },
+        {
+          "id": "b",
+          "text": "启示内容来自超理性来源，因此其来源身份也由信仰判断",
+          "isCorrect": false,
+          "feedback": "错步是把内容的超理性来源扩展到启示身份的判定；洛克仍让理性检查来源与解释。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-07-q3-misconception"
+    },
+    {
+      "id": "locke-07-q4",
+      "kind": "argument",
+      "prompt": "为何自然科学常只能给概率？",
+      "targetNodeIds": [
+        "locke-07-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "感觉材料只能报告心理状态而不能支持自然判断",
+          "isCorrect": false,
+          "feedback": "错步是从等级较低跳到无价值；感觉知识与实验正是自然判断的重要证据。"
+        },
+        {
+          "id": "a",
+          "text": "未知实在本质限制我们从定义证明性质共存",
+          "isCorrect": true,
+          "feedback": "观察可建立强规律，但内部构造未知使结论通常不像几何关系那样由观念必然推出。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-07-q4-misconception"
+    },
+    {
+      "id": "locke-08-q1",
+      "kind": "concept",
+      "prompt": "人格为何被称为司法概念？",
+      "targetNodeIds": [
+        "locke-08-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "它只是法官任意创造的身份标签",
+          "isCorrect": false,
+          "feedback": "错步是把规范功能等同任意虚构；概念仍以意识与自我归属为条件。"
+        },
+        {
+          "id": "a",
+          "text": "它组织跨时间的行动归属、奖惩与责任",
+          "isCorrect": true,
+          "feedback": "人格问题由谁应为过去行动负责的压力逼出，不只是描述同一生物身体。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-08-q1-misconception"
+    },
+    {
+      "id": "locke-08-q2",
+      "kind": "case",
+      "prompt": "王子鞋匠案例主要检验什么？",
+      "targetNodeIds": [
+        "locke-08-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "归责在身体与意识分离时跟随哪条连续线",
+          "isCorrect": true,
+          "feedback": "王子的承诺和计划随意识被归属，显示人格判断不简单跟随外形身体。"
+        },
+        {
+          "id": "a",
+          "text": "现实中灵魂迁移是否已有经验事实",
+          "isCorrect": false,
+          "feedback": "错步是把思想实验当自然事实证明。案例通过分离变量检验归责标准。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-08-q2-misconception"
+    },
+    {
+      "id": "locke-08-q3",
+      "kind": "objection",
+      "prompt": "巴特勒式循环异议说什么？",
+      "targetNodeIds": [
+        "locke-08-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "过去意识因时间间隔而不能成为身份材料",
+          "isCorrect": false,
+          "feedback": "错步是把构成问题扩大成心理不可能；异议承认回忆发生，只质疑其逻辑角色。"
+        },
+        {
+          "id": "a",
+          "text": "记忆若已要求是我的经历，便预设待解释的身份",
+          "isCorrect": true,
+          "feedback": "它攻击记忆作为构成条件的资格：不能用预设身份的真记忆再建立身份。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-08-q3-misconception"
+    },
+    {
+      "id": "locke-08-q4",
+      "kind": "boundary",
+      "prompt": "勇敢军官异议迫使哪种修正？",
+      "targetNodeIds": [
+        "locke-08-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "考虑意识连续链或另寻能保持传递性的标准",
+          "isCorrect": true,
+          "feedback": "回应保住身份的传递性，却承认“当前能否直接想起”不足以单独承担同一。"
+        },
+        {
+          "id": "a",
+          "text": "把同一性缩成当前直接回忆的一次关系",
+          "isCorrect": false,
+          "feedback": "这正会破坏传递性：将军与儿童可能因忘却而被判不同。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-08-q4-misconception"
+    },
+    {
+      "id": "locke-09-q1",
+      "kind": "concept",
+      "prompt": "自然状态为何不是无法状态？",
+      "targetNodeIds": [
+        "locke-09-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "自然法仍约束人，只是缺少共同公认的裁判者",
+          "isCorrect": true,
+          "feedback": "规范存在与制度执行是两层；不便来自偏私和执行不稳，不来自规则空白。"
+        },
+        {
+          "id": "b",
+          "text": "每个人可按力量决定自己的权利范围",
+          "isCorrect": false,
+          "feedback": "错步是把无共同上级换成强力即权利；这正违背自由平等与自然法。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-09-q1-misconception"
+    },
+    {
+      "id": "locke-09-q2",
+      "kind": "argument",
+      "prompt": "劳动为何只能提供初步取得理由？",
+      "targetNodeIds": [
+        "locke-09-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "个人劳动先产生排他权，他人份额在后续分配阶段再进入判断",
+          "isCorrect": false,
+          "feedback": "错步是把但书从取得正当性的同时条件推迟成事后分配问题；原始排他范围本就受他人份额限制。"
+        },
+        {
+          "id": "a",
+          "text": "个人行动产生要求，但仍受共有背景和他人份额限制",
+          "isCorrect": true,
+          "feedback": "劳动解释为何取得者有特殊主张，但不浪费与留足条件仍决定排他范围是否正当。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-09-q2-misconception"
+    },
+    {
+      "id": "locke-09-q3",
+      "kind": "transfer",
+      "prompt": "围住旱地唯一水源主要违反哪一环？",
+      "targetNodeIds": [
+        "locke-09-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "留足同样好资源的限制",
+          "isCorrect": true,
+          "feedback": "唯一水源被排除使他人处境实质恶化，因而劳动不能单独完成正当化。"
+        },
+        {
+          "id": "a",
+          "text": "劳动者对水井的改良不足以产生收益",
+          "isCorrect": false,
+          "feedback": "案例承认维护劳动；争点不是有无贡献，而是排他后是否给他人留下可生存资源。"
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "locke-09-q3-misconception"
+    },
+    {
+      "id": "locke-09-q4",
+      "kind": "voice",
+      "prompt": "把财产权论写成无限占有许可证错在哪里？",
+      "targetNodeIds": [
+        "locke-09-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "劳动取得是原典主线，因此但书限制浪费而不限制排他范围",
+          "isCorrect": false,
+          "feedback": "错步是把留足同样好资源并入不浪费条件；原典让他人份额直接限制取得的排他范围。"
+        },
+        {
+          "id": "a",
+          "text": "把后世强产权叙事替换了原典中的自然法与但书",
+          "isCorrect": true,
+          "feedback": "原论证从共有、生存与限制出发；省去这些条件会改变结论范围。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-09-q4-misconception"
+    },
+    {
+      "id": "locke-10-q1",
+      "kind": "argument",
+      "prompt": "货币首先改变哪项限制？",
+      "targetNodeIds": [
+        "locke-10-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "使价值能够保存，同时把留足条件转化为交易者的默示约定",
+          "isCorrect": false,
+          "feedback": "错步是把解除易腐上限扩展成留足条件也被同一行为改写；接受媒介未表达放弃资源机会。"
+        },
+        {
+          "id": "a",
+          "text": "使价值可耐久保存，从而放松易腐造成的积累上限",
+          "isCorrect": true,
+          "feedback": "交换把易腐剩余转给使用者并保存价值，直接回应的是浪费风险。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-10-q1-misconception"
+    },
+    {
+      "id": "locke-10-q2",
+      "kind": "boundary",
+      "prompt": "参与货币交换为何不足以追认全部不平等？",
+      "targetNodeIds": [
+        "locke-10-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "接受交换媒介的范围不等于同意每项占有历史与分配",
+          "isCorrect": true,
+          "feedback": "同意对象必须可定位；使用货币可支持媒介规则，却不能替征服或欺诈逐项提供授权。"
+        },
+        {
+          "id": "b",
+          "text": "因为货币交换只表达逐项明示同意而非默许",
+          "isCorrect": false,
+          "feedback": "错步是否认文本明确的默许论述；争议在效力范围，而非是否出现。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-10-q2-misconception"
+    },
+    {
+      "id": "locke-10-q3",
+      "kind": "transfer",
+      "prompt": "唯一港口案例表明什么？",
+      "targetNodeIds": [
+        "locke-10-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "价值保存本身足以构成对通行权的同类侵害",
+          "isCorrect": false,
+          "feedback": "错步是从一个垄断条件推广到全部储值；侵害来自排他结构而非耐久性本身。"
+        },
+        {
+          "id": "a",
+          "text": "耐久价值保存与资源垄断的正当性需要分别判断",
+          "isCorrect": true,
+          "feedback": "券不腐坏只解决浪费，垄断是否恶化他人机会仍由留足和自然法审查。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-10-q3-misconception"
+    },
+    {
+      "id": "locke-10-q4",
+      "kind": "controversy",
+      "prompt": "提高总产出为何不能结束争议？",
+      "targetNodeIds": [
+        "locke-10-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "总量没有单独说明分配、依赖和比较基线",
+          "isCorrect": true,
+          "feedback": "处境改善需要说明谁相对什么受益；总量增长与每个人权利受保障不是同一命题。"
+        },
+        {
+          "id": "b",
+          "text": "因为改良土地在洛克那里从未产生更多产物",
+          "isCorrect": false,
+          "feedback": "错步是否认洛克的重要经验前提；异议质疑的是规范推论，不是产出主张本身。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-10-q4-misconception"
+    },
+    {
+      "id": "locke-11-q1",
+      "kind": "argument",
+      "prompt": "为何同意后还需多数原则？",
+      "targetNodeIds": [
+        "locke-11-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "共同体必须有不依赖全体一致的行动规则",
+          "isCorrect": true,
+          "feedback": "同意建立政治身体，多数让它能持续行动；否则一人反对即可取消共同决定。"
+        },
+        {
+          "id": "b",
+          "text": "多数票使共同决定取得与自然法相同的权威",
+          "isCorrect": false,
+          "feedback": "错步是把程序授权提升为道德无误；多数仍受信托目的与基本权利限制。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-11-q1-misconception"
+    },
+    {
+      "id": "locke-11-q2",
+      "kind": "concept",
+      "prompt": "政治权力作为信托意味着什么？",
+      "targetNodeIds": [
+        "locke-11-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "人民授权后把生命财产的最终处分权交给政府",
+          "isCorrect": false,
+          "feedback": "唯一错步是把委托改成赠与。政府正因保护这些利益才获得权力。"
+        },
+        {
+          "id": "a",
+          "text": "权力为保存人民利益而授予，行使受目的限制",
+          "isCorrect": true,
+          "feedback": "授权对象不是统治者私产；偏离公开法律和公共保存目的可构成信托破坏。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-11-q2-misconception"
+    },
+    {
+      "id": "locke-11-q3",
+      "kind": "transfer",
+      "prompt": "持续取消议会为何比一次越权更接近反抗条件？",
+      "targetNodeIds": [
+        "locke-11-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "它系统封闭纠错渠道并改变受托权力结构",
+          "isCorrect": true,
+          "feedback": "程度与结构共同重要；救济机制被拆除表明不再只是可纠正的普通违法。"
+        },
+        {
+          "id": "b",
+          "text": "政策失误只要重复出现便构成政府解体",
+          "isCorrect": false,
+          "feedback": "错步是把重复次数当唯一标准；还需看是否攻击立法、代表、法律与财产保障结构。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-11-q3-misconception"
+    },
+    {
+      "id": "locke-11-q4",
+      "kind": "boundary",
+      "prompt": "默示同意争议集中在哪里？",
+      "targetNodeIds": [
+        "locke-11-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "明示同意能否在共同体之外产生临时互惠义务",
+          "isCorrect": false,
+          "feedback": "错步是更换争点；明示同意的作用较清楚，困难在默示行为的范围。"
+        },
+        {
+          "id": "a",
+          "text": "享用利益的行为能承担多强义务以及是否有真实退出",
+          "isCorrect": true,
+          "feedback": "行为可能表达某种接受，但不能未经论证就等同明示加入或永久服从。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-11-q4-misconception"
+    },
+    {
+      "id": "locke-12-q1",
+      "kind": "argument",
+      "prompt": "强制为何不适合制造宗教信仰？",
+      "targetNodeIds": [
+        "locke-12-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "因为宗教行为主要影响灵魂而较少涉及民事利益",
+          "isCorrect": false,
+          "feedback": "错步是把反强制扩大成宗教豁免；造成伤害的行为仍受一般法律约束。"
+        },
+        {
+          "id": "a",
+          "text": "它能改变外在行为，却不能直接命令内在确信",
+          "isCorrect": true,
+          "feedback": "手段与目的不匹配：救赎若需真诚信念，暴力造成的顺从不能替代判断。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-12-q1-misconception"
+    },
+    {
+      "id": "locke-12-q2",
+      "kind": "boundary",
+      "prompt": "怎样评价洛克对无神论者的排除？",
+      "targetNodeIds": [
+        "locke-12-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "保留为原文边界，并检验其关于守约能力的经验前提",
+          "isCorrect": true,
+          "feedback": "历史准确要求承认排除，规范审查则追问无神论是否真导致不可守约，二者可同时进行。"
+        },
+        {
+          "id": "b",
+          "text": "为维护自由主义形象，应把排除解释成现代普遍平等",
+          "isCorrect": false,
+          "feedback": "唯一错步是用后世理想改写原文范围；这会让真实矛盾消失。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-12-q2-misconception"
+    },
+    {
+      "id": "locke-12-q3",
+      "kind": "transfer",
+      "prompt": "拒绝宗教誓言者案例削弱什么？",
+      "targetNodeIds": [
+        "locke-12-node"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "公开伪证责任只能补充宗教誓言，仍不足以独立建立公共可信",
+          "isCorrect": false,
+          "feedback": "错步是仍把宗教誓言当作公共可信的必要条件；案例正展示法律责任与可验证承诺的替代路径。"
+        },
+        {
+          "id": "a",
+          "text": "没有特定神学制裁就无法建立公共可信的推论",
+          "isCorrect": true,
+          "feedback": "可验证承诺、声誉与法律责任提供替代机制，因而神学信念不是可信的必要条件。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-12-q3-misconception"
+    },
+    {
+      "id": "locke-12-q4",
+      "kind": "controversy",
+      "prompt": "处理卡罗来纳材料最严谨的方式是什么？",
+      "targetNodeIds": [
+        "locke-12-node"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "评估行政与投资责任，同时保留具体起草份额的手稿争议",
+          "isCorrect": true,
+          "feedback": "规范责任不只取决署名，但文本归属也必须遵守证据；两条判断线不能互相吞并。"
+        },
+        {
+          "id": "b",
+          "text": "手稿归属未定，因此行政参与与投资责任暂不进入哲学评价",
+          "isCorrect": false,
+          "feedback": "错步是让文本归属争议吞并规范责任；不能确定每条执笔者，不妨碍评价可独立证明的行政与经济牵连。"
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "locke-12-q4-misconception"
+    }
+  ]
+}

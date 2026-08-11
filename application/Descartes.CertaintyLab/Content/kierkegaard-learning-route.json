@@ -1,0 +1,3643 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "k01-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "为什么真理不能只由作者直接宣布",
+      "explanation": "克尔凯郭尔的多重署名不是把同一讲义藏在不同名字后面，而是让一种生存立场自己说话、行动并暴露边界。解释者因而不能只问句子是否正确，还要问是谁在何种生活位置说、这声音看得见什么、逃避了什么。",
+      "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+      "evidenceLinkIds": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "abilityIds": [
+        "understand-k01"
+      ]
+    },
+    {
+      "id": "k02-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "把生活经营成刺激为何会失去自己",
+      "explanation": "审美生存可以极有才智。它的问题不在快乐或艺术，而在把可能性、情绪和他人持续加工成刺激，避免任何选择沉淀为可追责的自己。判断它不能只看一个人消费多少娱乐，而要看新鲜感是否获得了撤销关系与责任的最终权力。",
+      "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+      "evidenceLinkIds": [
+        "s04",
+        "s05"
+      ],
+      "abilityIds": [
+        "understand-k02"
+      ]
+    },
+    {
+      "id": "k03-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "选择怎样使一个人成为持续的自己",
+      "explanation": "法官威廉把选择理解为选择“选择本身”：人接受善恶与责任的差别，让具体承诺在时间中把零散可能性组织成可辨认的自己。但这种自我不是凭空制造，也包含接纳历史与限制。选择的分量由持续承担显出，而不由决定时的情绪强度独自保证。",
+      "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+      "evidenceLinkIds": [
+        "s06",
+        "s07"
+      ],
+      "abilityIds": [
+        "understand-k03"
+      ]
+    },
+    {
+      "id": "k04-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "审美、伦理、宗教为何不是线性升级表",
+      "explanation": "生存样式描述欲望、责任、时间和终极关切如何被组织。它们可以重叠、反复并在不同关系中并存；转换也不是知识自动累积，而是生活定向发生质变。所谓质变仍须接受理由和后果评价。",
+      "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+      "evidenceLinkIds": [
+        "s08",
+        "s09"
+      ],
+      "abilityIds": [
+        "understand-k04"
+      ]
+    },
+    {
+      "id": "k05-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "过去如何在新的当下被重新获得",
+      "explanation": "回忆向后保存已经发生者，期待向前指向尚未来临者；重复追问人能否在变化中再次承担曾经的意义。它不是让场景原样返回，而是自由在新条件中重取过去。真正困难之处在于既承认不可逆的损失，又不让损失垄断此后每一个当下。重新取得不是重新占有。",
+      "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+      "evidenceLinkIds": [
+        "s10",
+        "s11"
+      ],
+      "abilityIds": [
+        "understand-k05"
+      ]
+    },
+    {
+      "id": "k06-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "可能性为何使自由眩晕而不替人犯罪",
+      "explanation": "恐惧指向某个对象，焦虑则让“我能够”本身显现。可能性既吸引又排斥，自由在其中看到自己；但焦虑并未替人完成犯罪，否则责任会被因果链取消。解释条件越充分，也越需要谨慎区分帮助理解与替行动者行动。",
+      "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+      "evidenceLinkIds": [
+        "s12",
+        "s13"
+      ],
+      "abilityIds": [
+        "understand-k06"
+      ]
+    },
+    {
+      "id": "k07-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "绝望为何是自我关系的故障",
+      "explanation": "自我不是固定物，而是有限与无限、可能与必然等综合关系对自身的关联，并关联设立它的力量。绝望是这关系不愿或不能恰当地成为自己，而不只是一种可感痛苦。这个诊断必须落到具体失衡，不能只凭术语宣布。",
+      "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+      "evidenceLinkIds": [
+        "s14",
+        "s15"
+      ],
+      "abilityIds": [
+        "understand-k07"
+      ]
+    },
+    {
+      "id": "k08-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "“真理是主观性”为什么不等于相对主义",
+      "explanation": "客观探究问对象是否如此，主观问题问现存者怎样处于所认之真的关系中。伦理与宗教生活不能等待体系完成才开始，但这种时间压力并不使错误事实变真。二者不是竞争同一把尺，而是分别审查对象根据与承担方式；缺少任一面都可能产生自欺。真诚不能补足虚假对象。",
+      "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+      "evidenceLinkIds": [
+        "s16",
+        "s17"
+      ],
+      "abilityIds": [
+        "understand-k08"
+      ]
+    },
+    {
+      "id": "k09-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "单一个体如何抵抗公众而不退出共同体",
+      "explanation": "抽象公众让许多人参与判断却无人承担后果。单一个体不是离群英雄，而是拒绝把数量、匿名与时代语气当作自己的良知；真实共同体反而需要这些可追责的成员。批判因此既指向个人借口，也指向使责任难以追踪的传播结构。制度设计也属于回应范围，而非背景。",
+      "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+      "evidenceLinkIds": [
+        "s18",
+        "s19"
+      ],
+      "abilityIds": [
+        "understand-k09"
+      ]
+    },
+    {
+      "id": "k10-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "永恒真理如何在“瞬间”进入历史",
+      "explanation": "苏格拉底式学习假定真理条件已在学习者内部，教师只是助产者。Climacus 提出另一方案：若学习者因不真理而失去条件，教师必须同时给予真理与条件；永恒者进入时间的“瞬间”由此出现。方案差异改变了教师与学习者的关系。",
+      "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+      "evidenceLinkIds": [
+        "s20",
+        "s21"
+      ],
+      "abilityIds": [
+        "understand-k10"
+      ]
+    },
+    {
+      "id": "k11-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "亚伯拉罕为何不能成为暴力许可证",
+      "explanation": "亚伯拉罕准备献以撒，从普遍伦理看就是谋杀。文本反复改写故事，迫使熟悉者重新感受危险，并区分悲剧英雄、无限放弃与凭荒谬之力重获有限者的信仰。",
+      "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+      "evidenceLinkIds": [
+        "s22",
+        "s23",
+        "s24"
+      ],
+      "abilityIds": [
+        "understand-k11"
+      ]
+    },
+    {
+      "id": "k12-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "与基督同时代为何意味着冒犯和模仿",
+      "explanation": "真正同时代性不是出生在同一年，而是面对以卑微形态出现的基督。后来声望不能连续证明神性；同一悖论既可能引发信仰，也可能引发冒犯，并要求跟随而不只赞美。同时代性把后来者借文明成就取得的安全距离重新收回，也把判断责任还给本人承担。",
+      "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+      "evidenceLinkIds": [
+        "s25",
+        "s26"
+      ],
+      "abilityIds": [
+        "understand-k12"
+      ]
+    },
+    {
+      "id": "k13-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "邻人之爱怎样从命令成为可检验的作为",
+      "explanation": "爱情与友爱自然选择特定对象，既珍贵也可能封闭。“你应当爱”让爱不再完全依赖心情；邻人不是某一类可爱之人，而是每个眼前者在上帝面前的平等身份。命令的工作不是制造感觉，而是防止感觉变化把人格尊重一并带走；行动边界由此成为爱的组成部分。边界保护双方的人格现实，也保护共同真相。",
+      "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+      "evidenceLinkIds": [
+        "s27",
+        "s28"
+      ],
+      "abilityIds": [
+        "understand-k13"
+      ]
+    },
+    {
+      "id": "k14-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "受苦、恩典和模仿基督怎样不互相取消",
+      "explanation": "只赞美基督而不跟随，会把信仰变成旁观；只强调模仿和受苦，又可能把恩典改成自救竞赛。文本内部的压力要求努力、受苦与不能自救同时被保留。判断一种实践时，必须追问痛苦由谁造成、由谁承担、是否可以避免、是否保护了他人；没有这些问题，“受苦”只会成为权力方便使用的空白支票。恩典也不能替施害者免责或阻断问责。",
+      "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+      "evidenceLinkIds": [
+        "s29",
+        "s30",
+        "s31"
+      ],
+      "abilityIds": [
+        "understand-k14"
+      ]
+    },
+    {
+      "id": "k15-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "基督教界怎样把成为基督徒改成社会身份",
+      "explanation": "出生、受洗、礼仪与国民身份让“基督徒”成为无需个人实践的默认称号。晚期批判要重新引入成为基督徒的困难，并以模仿和真理见证审查职业化、国家认可与文化胜利。关键不是成员数量，而是制度名称是否让个人与共同体免于被自己的宣称检验。",
+      "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+      "evidenceLinkIds": [
+        "s32",
+        "s33",
+        "s33-posthumous",
+        "s34"
+      ],
+      "abilityIds": [
+        "understand-k15"
+      ]
+    },
+    {
+      "id": "k16-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "后世存在主义读法保留了什么，又改写了什么",
+      "explanation": "后世确实从焦虑、可能性、选择、绝望、单一个体和群众批判中获得资源，但常删去上帝关系、罪、恩典、道成肉身与邻人命令。比较的任务不是禁止迁移，而是记录转换成本。只有把新增根据写明，现代用途才不会借原作者声望掩盖自己的论证责任。",
+      "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+      "evidenceLinkIds": [
+        "s35",
+        "s36",
+        "s37"
+      ],
+      "abilityIds": [
+        "understand-k16"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "s01",
+      "workId": "om-min-forfatter-virksomhed",
+      "edition": "SKS 13",
+      "locator": "Om min Forfatter-Virksomhed",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；回顾性自释有修辞时点，不取消早期开放性。"
+    },
+    {
+      "id": "s02",
+      "workId": "synspunktet",
+      "edition": "SKS 16",
+      "locator": "Synspunktet for min Forfatter-Virksomhed",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；身后出版的作者自释不是全部化名的万能密码。"
+    },
+    {
+      "id": "s03",
+      "workId": "afsluttende-efterskrift",
+      "edition": "SKS 7",
+      "locator": "附言第二部与末尾撤回",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；间接交流不豁免事实、逻辑与伤害审查。"
+    },
+    {
+      "id": "s04",
+      "workId": "enten-eller-1",
+      "edition": "SKS 2",
+      "locator": "轮作法与散漫的沉思",
+      "locatorVerified": true,
+      "identity": "A；Victor Eremita 编；批评刺激逻辑，不贬低艺术与快乐。"
+    },
+    {
+      "id": "s05",
+      "workId": "forforerens-dagbog",
+      "edition": "SKS 2",
+      "locator": "诱惑者日记",
+      "locatorVerified": true,
+      "identity": "Johannes；A 转交；Victor Eremita 编；叙事展示工具化，不是作者行为自白。"
+    },
+    {
+      "id": "s06",
+      "workId": "enten-eller-2",
+      "edition": "SKS 3",
+      "locator": "人格发展中审美与伦理的平衡",
+      "locatorVerified": true,
+      "identity": "法官威廉；Victor Eremita 编；伦理声音不等于作者最终教义。"
+    },
+    {
+      "id": "s07",
+      "workId": "enten-eller-2-aegteskab",
+      "edition": "SKS 3",
+      "locator": "婚姻的审美有效性",
+      "locatorVerified": true,
+      "identity": "法官威廉；婚姻案例受性别、阶级和历史批评。"
+    },
+    {
+      "id": "s08",
+      "workId": "stadier",
+      "edition": "SKS 6",
+      "locator": "酒中真言、婚姻论、有罪无罪",
+      "locatorVerified": true,
+      "identity": "Hilarius Bookbinder 等；多声部不能压成机械三级表。"
+    },
+    {
+      "id": "s09",
+      "workId": "afsluttende-religiositet",
+      "edition": "SKS 7",
+      "locator": "生存领域与宗教性 A/B",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；样式是诊断，不是发展定律。"
+    },
+    {
+      "id": "s10",
+      "workId": "gjentagelsen",
+      "edition": "SKS 4",
+      "locator": "柏林旅行实验",
+      "locatorVerified": true,
+      "identity": "Constantin Constantius；旅行失败不等于作者否定一切重复。"
+    },
+    {
+      "id": "s11",
+      "workId": "gjentagelsen-breve",
+      "edition": "SKS 4",
+      "locator": "年轻人的书信",
+      "locatorVerified": true,
+      "identity": "年轻人；Constantin 收录；重复不承诺失去之物原样返回。"
+    },
+    {
+      "id": "s12",
+      "workId": "begrebet-angest",
+      "edition": "SKS 4",
+      "locator": "第一章，焦虑作为遗传罪前提",
+      "locatorVerified": true,
+      "identity": "Vigilius Haufniensis；焦虑不是犯罪充分原因。"
+    },
+    {
+      "id": "s13",
+      "workId": "begrebet-angest-slut",
+      "edition": "SKS 4",
+      "locator": "第五章，焦虑借信仰施教",
+      "locatorVerified": true,
+      "identity": "Vigilius Haufniensis；不可直接替代现代医学诊断。"
+    },
+    {
+      "id": "s14",
+      "workId": "sygdommen-til-doden-1",
+      "edition": "SKS 11",
+      "locator": "第一部开头，自我与绝望",
+      "locatorVerified": true,
+      "identity": "Anti-Climacus；理想基督教声音高于作者自认位置。"
+    },
+    {
+      "id": "s15",
+      "workId": "sygdommen-til-doden-2",
+      "edition": "SKS 11",
+      "locator": "绝望诸形式与绝望即罪",
+      "locatorVerified": true,
+      "identity": "Anti-Climacus；绝望不等同抑郁症或自杀意念。"
+    },
+    {
+      "id": "s16",
+      "workId": "afsluttende-subjektivitet",
+      "edition": "SKS 7",
+      "locator": "第二部第二节，真理是主观性",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；主观性不能制造客观事实。"
+    },
+    {
+      "id": "s17",
+      "workId": "afsluttende-indesluttethed",
+      "edition": "SKS 7",
+      "locator": "主观思想者、内在性与宗教性",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；激情不能豁免反自欺和公共伤害审查。"
+    },
+    {
+      "id": "s18",
+      "workId": "en-literair-anmeldelse",
+      "edition": "SKS 8",
+      "locator": "第二部，当代与公众",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；抽象公众不等于所有公共领域。"
+    },
+    {
+      "id": "s19",
+      "workId": "opbyggelige-taler",
+      "edition": "SKS 5",
+      "locator": "致那个单一个体的造就性讲论",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；单一个体不是孤立主义英雄。"
+    },
+    {
+      "id": "s20",
+      "workId": "philosophiske-smuler",
+      "edition": "SKS 4",
+      "locator": "第一至五章，教师、条件与瞬间",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；思想实验不是中立历史证明。"
+    },
+    {
+      "id": "s21",
+      "workId": "philosophiske-smuler-efterfolger",
+      "edition": "SKS 4",
+      "locator": "后继者与同时代人",
+      "locatorVerified": true,
+      "identity": "Johannes Climacus；历史证言相关但不自动生成信仰。"
+    },
+    {
+      "id": "s22",
+      "workId": "frygt-baeven-stemning",
+      "edition": "SKS 4",
+      "locator": "调弦与亚伯拉罕颂",
+      "locatorVerified": true,
+      "identity": "Johannes de silentio；叙述者自称不能理解亚伯拉罕。"
+    },
+    {
+      "id": "s23",
+      "workId": "frygt-baeven-problemata",
+      "edition": "SKS 4",
+      "locator": "Problemata I–III",
+      "locatorVerified": true,
+      "identity": "Johannes de silentio；伦理悬置不是可复制的公共程序。"
+    },
+    {
+      "id": "s24",
+      "workId": "faith-leap-reception",
+      "edition": "概念史校验",
+      "locator": "固定短语的后世接受史",
+      "locatorVerified": true,
+      "identity": "Stanford Encyclopedia of Philosophy；不用后世口号替代具体原典论证。"
+    },
+    {
+      "id": "s25",
+      "workId": "indovelse-christendom-1",
+      "edition": "SKS 12",
+      "locator": "邀请与冒犯的可能",
+      "locatorVerified": true,
+      "identity": "Anti-Climacus；冒犯概念不自动驳倒批评。"
+    },
+    {
+      "id": "s26",
+      "workId": "indovelse-christendom-3",
+      "edition": "SKS 12",
+      "locator": "第三部，崇拜与跟随",
+      "locatorVerified": true,
+      "identity": "Anti-Climacus；模仿不是作者生活成就声明。"
+    },
+    {
+      "id": "s27",
+      "workId": "kjerlighedens-gjerninger-1",
+      "edition": "SKS 9",
+      "locator": "第一系列，你应当爱邻人",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；命令指向责任，不强制情感强度。"
+    },
+    {
+      "id": "s28",
+      "workId": "kjerlighedens-gjerninger-2",
+      "edition": "SKS 9",
+      "locator": "第二系列，相信、盼望与遮盖",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；爱不取消真相、安全与问责。"
+    },
+    {
+      "id": "s29",
+      "workId": "opbyggelige-taler-forskjellig-aand",
+      "edition": "SKS 8",
+      "locator": "苦难的福音",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；不把非自愿创伤神圣化。"
+    },
+    {
+      "id": "s30",
+      "workId": "christelige-taler",
+      "edition": "SKS 10",
+      "locator": "基督教讲论",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；努力处于恩典与不能自救的边界。"
+    },
+    {
+      "id": "s31",
+      "workId": "indovelse-efterfolgelse",
+      "edition": "SKS 12",
+      "locator": "第三部，跟随者",
+      "locatorVerified": true,
+      "identity": "Anti-Climacus；模仿不替代医疗与制度改革。"
+    },
+    {
+      "id": "s32",
+      "workId": "om-min-forfatter-virksomhed-kristenhed",
+      "edition": "SKS 13",
+      "locator": "成为基督徒的写作任务",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；回顾性任务说明不取消文本复调。"
+    },
+    {
+      "id": "s33",
+      "workId": "ojeblikket",
+      "edition": "SKS 13",
+      "locator": "《瞬间》1–9 号",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；1–9 号的生前刊行状态不能自动转移给未刊第 10 号。"
+    },
+    {
+      "id": "s33-posthumous",
+      "workId": "ojeblikket-10",
+      "edition": "SKS 13",
+      "locator": "《瞬间》第 10 号材料",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；第 10 号不冒充作者生前发行的报刊号。"
+    },
+    {
+      "id": "s34",
+      "workId": "kirkekamp-artikler",
+      "edition": "SKS 14",
+      "locator": "1854–1855 Mynster、Martensen 与官方基督教论战",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；限定于丹麦国教具体历史语境。"
+    },
+    {
+      "id": "s35",
+      "workId": "forfatter-virksomhed-retrospektiv",
+      "edition": "SKS 13",
+      "locator": "论我的作家活动",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；作者自释与接受史分层。"
+    },
+    {
+      "id": "s36",
+      "workId": "synspunktet-retrospektiv",
+      "edition": "SKS 16",
+      "locator": "我的作家活动之观点",
+      "locatorVerified": true,
+      "identity": "Søren Kierkegaard；身后文本不封闭所有现代重构。"
+    },
+    {
+      "id": "s37",
+      "workId": "sep-kierkegaard-reception",
+      "edition": "2026 在线条目",
+      "locator": "影响与接受史部分",
+      "locatorVerified": true,
+      "identity": "Stanford Encyclopedia of Philosophy；后世概念属于接受史，不冒充原典声音。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kierkegaard-longform",
+      "version": "1.0.0",
+      "title": "克尔凯郭尔：在不能替代的选择中成为自己",
+      "lessonIds": [
+        "k01",
+        "k02",
+        "k03",
+        "k04",
+        "k05",
+        "k06",
+        "k07",
+        "k08",
+        "k09",
+        "k10",
+        "k11",
+        "k12",
+        "k13",
+        "k14",
+        "k15",
+        "k16"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "k01",
+      "order": 1,
+      "title": "为什么真理不能只由作者直接宣布",
+      "depth": "longform",
+      "guidingQuestion": "当一个命题关乎我怎样生活时，知道作者赞成什么为何还不够？",
+      "coreExplanation": "克尔凯郭尔的多重署名不是把同一讲义藏在不同名字后面，而是让一种生存立场自己说话、行动并暴露边界。解释者因而不能只问句子是否正确，还要问是谁在何种生活位置说、这声音看得见什么、逃避了什么。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "这一形式安排把解释责任重新分配。编者找到手稿、作者向另一个人物写信、叙述者又声明自己无法完成所描述的运动，都会降低一句话可被直接占有的程度。解释者若跳过这些层次，便把作品精心制造的困难当成噪音。",
+            "间接交流也不是故意写得模糊。数学证明若不清楚就是缺点，生活命题却可能在被清楚复述后仍遭逃避。作品于是把“我已经懂了”的满足打断，使理解必须回答何时行动、愿承担何种代价、是否允许经验反驳自我形象。",
+            "这种阅读法同时保护批评权。化名不能替作者免责，署名自释也不能替文本封口。更稳妥的做法是分别评估命题、声音的有限视野、作品安排与现实后果，再讨论它们之间是否形成可归于整体写作的方向。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "直接说明事实通常有效，可伦理和宗教真理还要求接收者改变自己与命题的关系。若作者用权威替接收者完成判断，接收者可能只学会复述。",
+            "化名结构把这种危险写进作品形式。虚构作者、编者、书信接收者和撤回声明互相制造距离，使一句话的身份成为其意义的一部分。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "双重反思先处理命题内容，再处理现存者如何承担。间接交流并非拒绝清楚表达，而是拒绝把生活转变误当成信息搬运。",
+            "苏格拉底式反讽先松动人对既有身份的自满。它能清除虚假确定性，却不能仅凭撤回来给出正面生活内容，所以还须接受伦理与宗教要求的检验。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "设想一名解释者熟练背出“选择塑造自我”，却总把承诺推迟。他拥有正确句子，却让句子成为不行动的替身。化名戏剧迫使他看到自己与句子之间的距离。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "撤回与作者责任",
+          "paragraphs": [
+            "《非科学的最后附言》的撤回不使前文失去意义，而是阻止解释者把一套关于主体性的理论当成已经完成的存在关系。撤回改变作品的使用方式，却不让其中的历史陈述和推理免于审查。",
+            "作者责任因此要分层：化名承担句子内部的视角，克尔凯郭尔承担出版安排与可预见后果，解释者承担不把声音差异偷换成权威结论。三层责任相连，但不能用其中一层取消另一层。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "若署名自释最终宣称整个写作计划都服务于“成为基督徒”，化名开放性是否只是诱导术，作者又是否能借“那只是化名”逃避批评？"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "回顾性自释是重要证据，却有特定年代和劝服目的，不能抹去早期作品首次出版时的开放效果。间接性也不豁免事实核查、逻辑一致与伤害评价。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "掌握声音纪律后，分析才能进入 A 的审美生活，而不把其敏锐诊断或诱惑策略自动算在克尔凯郭尔本人名下。"
+          ],
+          "identity": "这一分析并置署名的回顾性自释、Johannes Climacus 的化名论述、A 与法官威廉等有限声音；任何一方都不被直接改写成作者的无条件结论。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "设想一名解释者熟练背出“选择塑造自我”，却总把承诺推迟。他拥有正确句子，却让句子成为不行动的替身。化名戏剧迫使他看到自己与句子之间的距离。",
+      "nodeIds": [
+        "k01-node"
+      ],
+      "checkIds": [
+        "k01q1",
+        "k01q2",
+        "k01q3",
+        "k01q4"
+      ],
+      "abilitySummary": [
+        "克尔凯郭尔的多重署名不是把同一讲义藏在不同名字后面，而是让一种生存立场自己说话、行动并暴露边界。解释者因而不能只问句子是否正确，还要问是谁在何种生活位置说、这声音看得见什么、逃避了什么。"
+      ],
+      "recommendedNextLessonId": "k02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k02",
+      "order": 2,
+      "title": "把生活经营成刺激为何会失去自己",
+      "depth": "longform",
+      "guidingQuestion": "审美生活的问题为何不是爱艺术，而是让新鲜感支配人与时间的关系？",
+      "coreExplanation": "审美生存可以极有才智。它的问题不在快乐或艺术，而在把可能性、情绪和他人持续加工成刺激，避免任何选择沉淀为可追责的自己。判断它不能只看一个人消费多少娱乐，而要看新鲜感是否获得了撤销关系与责任的最终权力。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "A 的优势正在于他并不粗俗。他能识别音乐、欲望和悲剧中的细微结构，也能把日常世界变成富于反思的舞台。若只把他写成贪图享乐的人，就看不到审美生存最强的形态以及它为何对聪明人有吸引力。",
+            "内在崩解发生在控制关系上。为了避免被无聊支配，审美者要预先支配相遇的节奏、记忆的版本和离开的时机；他越能制造兴趣，越难让一个不可操控的他人向自己提出持续要求。技巧的成功恰好暴露关系的失败。",
+            "因此“绝望”不是从外面追加的道德惩罚，而是这套生活逻辑的时间后果。若每个当下都必须保持可撤回，过去不能要求我，未来也不能信赖我；一个拥有众多精彩片段的人仍可能缺少能够说“这是我的生活”的连续性。片段丰富不能代替叙事归属。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "无聊对审美者不是偶发不适，而像必须不断逃开的空洞。直接享受依靠对象，反思型享受则预先设计情境、延迟满足并操纵回忆。",
+            "当新鲜成为最高尺度，已经承诺的关系便显得沉重；生活被切成可替换片段，昨日的自己不能向今日提出要求。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "“轮作法”不必更换土地，只需更换观看与使用方式。聪明由此变成控制兴趣的技术，他人也容易成为保持张力的材料。",
+            "审美绝望不是品味太高，而是人不愿让任何可能性定形。无穷选择看似自由，实际使选择不能构成连续自我。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "一名写作者不断更换计划，每次都以“保持开放”解释离开。每个方案都有魅力，但无人能够向其过去承诺追问，因为过去已被重新包装成素材。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "直接审美与反思审美",
+          "paragraphs": [
+            "直接审美依赖对象立即给予满足，反思审美则把等待、距离和回忆本身变成享受技术。后者更能延长兴趣，也更容易把关系的不可控部分改写成个人导演的情节。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "A 的音乐分析、反庸俗洞察和感受力都是真实成就。若把审美称为较低阶段，是否贬低创造、游戏和短暂经验？"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "批评对象是用刺激逻辑吞没责任的生活关系，不是艺术本身。快乐、探索和暂时性都可进入好生活，只要他人不被降为材料，承诺也不因无聊自动失效。"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "审美分散由此制造新的压力：选择若不只是挑最有趣的选项，它怎样让历史、责任和未来属于同一个人？"
+          ],
+          "identity": "这一分析主要重建《非此即彼》第一部 A 的声音与 Victor Eremita 的编者框架，不把 A 的判断直接归为署名作者结论。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一名写作者不断更换计划，每次都以“保持开放”解释离开。每个方案都有魅力，但无人能够向其过去承诺追问，因为过去已被重新包装成素材。",
+      "nodeIds": [
+        "k02-node"
+      ],
+      "checkIds": [
+        "k02q1",
+        "k02q2",
+        "k02q3",
+        "k02q4"
+      ],
+      "abilitySummary": [
+        "审美生存可以极有才智。它的问题不在快乐或艺术，而在把可能性、情绪和他人持续加工成刺激，避免任何选择沉淀为可追责的自己。判断它不能只看一个人消费多少娱乐，而要看新鲜感是否获得了撤销关系与责任的最终权力。"
+      ],
+      "recommendedNextLessonId": "k03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k03",
+      "order": 3,
+      "title": "选择怎样使一个人成为持续的自己",
+      "depth": "longform",
+      "guidingQuestion": "选择若不仅是偏好排序，它怎样同时形成自我并接受既有历史？",
+      "coreExplanation": "法官威廉把选择理解为选择“选择本身”：人接受善恶与责任的差别，让具体承诺在时间中把零散可能性组织成可辨认的自己。但这种自我不是凭空制造，也包含接纳历史与限制。选择的分量由持续承担显出，而不由决定时的情绪强度独自保证。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "法官的论证并不是说决定越快越好，而是说决定会反过来规定决定者是谁。选一份工作可以只是比较薪酬，也可以意味着承认某些能力、义务与共同生活；外在动作相似，选择与选择者的关系却不同。",
+            "“选择自己”包含一个容易遗漏的悖论：我要选择的自己已经有历史，却又尚未完成。若只强调创造，过去会被当作可丢弃材料；若只强调接受，现状又会被误作命运。伦理任务是在不可重来的起点上开始可追责的改变。",
+            "法官用婚姻证明爱情可在重复中保持活力，但这个例子不能垄断伦理。照护、友谊、公共职责和诚实劳动也能呈现连续承担；反之，婚姻若缺少同意与平等，仅有持久形式也不能证明其正当。持续只是必要压力，不是充分凭证。",
+            "伦理连续性还要面对承诺冲突。家庭、职业与公共责任可能同时提出要求，选择自己不能靠坚持最早决定解决；行动者须说明何种责任优先，以及修正承诺是否仍对受影响者负责。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "若选择只是既成偏好之间的比较，选择者在决定之前便已完成，决定不会真正改变他。法官因此先问人是否愿意让选择具有伦理分量。",
+            "选择自己并非从空白设计身份，而是承认家庭、能力、过失和关系已经构成处境，然后决定怎样负责地继续。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "婚姻与职业在书信中充当时间结构：每日重复使承诺不只依赖最初热情。悔罪则让过去错误被承认为自己的，而非从叙事中剪掉。",
+            "于是自由具有双面。人通过行动形成自己，又不能假装自己选择了全部起点；接受与改变必须共存。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "有人把一次失约解释成“那不是真正的我”。伦理选择要求他承认行为确属自己，向受影响者负责，并让下一次行动改变这段历史的意义，而非删除历史。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "法官将稳定婚姻、职业和社会角色写得近乎典范，这是否只是把十九世纪中产秩序神圣化？“选择善恶”又凭什么推出具体责任？"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "该立场提供的是连续性与承担的形式压力，不足以证明每个传统角色都正当。具体规范仍须检验权力、同意、公平与伤害，法官自身也须被历史批评。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "伦理选择比审美分散更能说明持续自我，却不证明每个人必然顺序升级。随后须专门阻断这种线性阶段表。"
+          ],
+          "identity": "论证来自法官威廉写给 A 的书信，是化名伦理立场；其婚姻、性别和阶级假设不被包装为作者最终教义。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "有人把一次失约解释成“那不是真正的我”。伦理选择要求他承认行为确属自己，向受影响者负责，并让下一次行动改变这段历史的意义，而非删除历史。",
+      "nodeIds": [
+        "k03-node"
+      ],
+      "checkIds": [
+        "k03q1",
+        "k03q2",
+        "k03q3",
+        "k03q4"
+      ],
+      "abilitySummary": [
+        "法官威廉把选择理解为选择“选择本身”：人接受善恶与责任的差别，让具体承诺在时间中把零散可能性组织成可辨认的自己。但这种自我不是凭空制造，也包含接纳历史与限制。选择的分量由持续承担显出，而不由决定时的情绪强度独自保证。"
+      ],
+      "recommendedNextLessonId": "k04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k04",
+      "order": 4,
+      "title": "审美、伦理、宗教为何不是线性升级表",
+      "depth": "longform",
+      "guidingQuestion": "生存样式若不是年龄阶段或社会等级，应当怎样比较？",
+      "coreExplanation": "生存样式描述欲望、责任、时间和终极关切如何被组织。它们可以重叠、反复并在不同关系中并存；转换也不是知识自动累积，而是生活定向发生质变。所谓质变仍须接受理由和后果评价。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "线性图表容易把“较后”误成“较优的人”。作品真正比较的是一项生活如何理解自身矛盾：审美者能否说明承诺，伦理者能否处理罪责与自身规范的限度，宗教者又怎样面对不能由普遍规则吸收的终极关系。",
+            "转换也不是读完一本书便自然发生。一个人可以概念上同意伦理批评，却继续用反思拖延；也可在重大决定后重新退回刺激逻辑。质变说明旧组织方式不足以连续推出新方式，不意味着改变没有理由、准备或可批评的后果。",
+            "非线性还保护有限善。宗教定向若真实，不必把艺术、婚姻或公共生活视为废弃台阶，而会重新规定它们不应成为终极根据。这样理解既允许重组，也阻止用“我已进入更高领域”取得社会优越感。",
+            "宗教性 A 与宗教性 B 的差异不是虔诚强度。前者可由普遍的人类内在性、罪责意识与对永恒幸福的关切展开；后者则被历史中的道成肉身悖论规定。二者有相邻处，却不能把 A 写成等待升级为 B 的预备班。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "把审美、伦理、宗教画成三层楼很方便，却暗示每个人都会按年龄上升，后来者也会删除前一层。作品中的宴饮、婚姻辩护和罪责叙事并不支持这种整齐秩序。",
+            "同一个人可能在职业上承担责任，在亲密关系中追逐刺激，在终极问题上保持反思而未作决定。样式是关系结构，不是可从外部授予的等级证书。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "比较仍然可能：可问一种生活能否说明自己的时间连续性、对他人的责任和失败经验。但诊断不会像机械定律那样自动推动转换。",
+            "宗教性内部也须区分。Climacus 所说宗教性 A 的普遍内在性，与由道成肉身悖论规定的宗教性 B 不能只叫同一层的高低版本。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "宗教性 A 与宗教性 B",
+          "paragraphs": [
+            "宗教性 A 把现存者置于内在性任务：有限者怎样在罪责、放弃和永恒幸福的关切中改变自己与生活的关系。它不以一个特定历史悖论为必要对象，因此不能简单等同基督教信仰。",
+            "宗教性 B 则由永恒者进入时间的悖论规定。历史事件、教师给予条件、冒犯与信仰成为结构的一部分；增加宗教热情或延长内省并不会连续累积成这种关系。",
+            "B 不是把 A 判作毫无价值，也不是在心理成熟表上高一级。A 的内在性问题仍可揭露逃避，B 则增加一项无法由 A 自身推出的历史对象。所谓非升级关系，正是既承认差异，又拒绝把前者当作必然过渡阶段。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "一名长期照护家人的音乐家既保有审美感受，也履行伦理承诺。若他进入宗教关系，这不要求他停止听音乐或取消家庭责任，而是重新组织这些有限善与终极关切的关系。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "如果不存在普遍转移规则，所谓样式是否只是文学分类，既不能预测发展，也无法给出规范判断？"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "样式的用途是诊断矛盾与比较承担能力，不是心理发展定律。规范判断须落到具体理由、后果与责任，不能靠给人贴上“审美者”标签完成。"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "非线性结构让“重复”变得重要：改变后如何仍是同一个人，过去又如何在新当下被重新取得？"
+          ],
+          "identity": "这一分析以 Hilarius Bookbinder、Frater Taciturnus 与 Johannes Climacus 的不同文本结构作诊断比较，不把它们拼成作者认可的统一阶段学说。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一名长期照护家人的音乐家既保有审美感受，也履行伦理承诺。若他进入宗教关系，这不要求他停止听音乐或取消家庭责任，而是重新组织这些有限善与终极关切的关系。",
+      "nodeIds": [
+        "k04-node"
+      ],
+      "checkIds": [
+        "k04q1",
+        "k04q2",
+        "k04q3",
+        "k04q4"
+      ],
+      "abilitySummary": [
+        "生存样式描述欲望、责任、时间和终极关切如何被组织。它们可以重叠、反复并在不同关系中并存；转换也不是知识自动累积，而是生活定向发生质变。所谓质变仍须接受理由和后果评价。"
+      ],
+      "recommendedNextLessonId": "k05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k05",
+      "order": 5,
+      "title": "过去如何在新的当下被重新获得",
+      "depth": "longform",
+      "guidingQuestion": "重复若不是复制同一事件，它怎样连接自由、时间与承诺？",
+      "coreExplanation": "回忆向后保存已经发生者，期待向前指向尚未来临者；重复追问人能否在变化中再次承担曾经的意义。它不是让场景原样返回，而是自由在新条件中重取过去。真正困难之处在于既承认不可逆的损失，又不让损失垄断此后每一个当下。重新取得不是重新占有。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "Constantin 把重复当作可实验的对象，正暴露观察者位置的限度。他安排旅行细节，希望从外部确认同一性，却无法让曾经的期待、偶然和自身状态同时返回。经验失败并非旁枝，而是迫使概念转向的装置。",
+            "年轻人则把爱情保存为诗的可能。他借回忆获得表达，却可能不再面对所爱者作为一个会变化、有要求的人。由此可见，保留意义和占有过去并非一事；重复若取消他人的新现实，只是精致的回忆。",
+            "宗教性的重复更不等于补偿公式。约伯式归还可以启发人重新接收生活，却不保证创伤被撤销或损失得到同量赔偿。能够重新行动与承认不可挽回必须并存，否则希望会变成对受苦者的第二次要求。重复需要记忆真实，而不是粉饰过去，也不能替他人规定康复期限。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "若同一性等于事件完全相同，时间一流动便不可能保持自己。若变化意味着过去失效，承诺又只能活在瞬间。",
+            "Constantin 重游柏林，努力复制座位、戏剧与旅馆，却发现刻意复刻反而证明过去不能按经验装置召回。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "失败把概念从外部同一移向存在承担。人不能要求对象原封不动，却能在新当下重新肯定一项责任、解释一次失去或接收生活的归还。",
+            "年轻人的爱情书信又表明，诗意回忆可能把真实他人冻结为自我故事。重复若要成立，必须允许双方与处境都已改变。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "多年后重返旧居的人不能恢复童年，但可以承认那段生活塑造了今日的责任，并以新的照护行动回应。地点相同并非关键，重新承担才是。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "重复与承诺的时间",
+          "paragraphs": [
+            "承诺中的重复不是每天产生同样感受，而是在新信息和新负担出现时重新确认理由。若变化使承诺显得不再正当，忠实也可能要求修正或退出；重复并不把过去决定升级为不可审查的命令。",
+            "这使重复与习惯有所区别。习惯可在无人反思时继续，重复则包含对意义的再次取得。两者在行动外观上相似，是否仍能说明理由构成关键差别。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "作品没有给出整齐定义，两个主要声音又都失败。所谓重复是否只是叙事谜语，无法辨认成功条件？"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "概念的压力恰由失败显现：机械复制、纯回忆和占有他人都不够。文本没有保证失去之物归还，也没有提出轮回或经验规律。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "当未来充满尚未定形的可能，重取自我的自由也会令人眩晕。由此便从这种“能够”进入焦虑与责任。"
+          ],
+          "identity": "《重复》由 Constantin Constantius 叙述并收录年轻人的书信；两者都在实验中失败，不能把任一结论直接当作作者定义。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "多年后重返旧居的人不能恢复童年，但可以承认那段生活塑造了今日的责任，并以新的照护行动回应。地点相同并非关键，重新承担才是。",
+      "nodeIds": [
+        "k05-node"
+      ],
+      "checkIds": [
+        "k05q1",
+        "k05q2",
+        "k05q3",
+        "k05q4"
+      ],
+      "abilitySummary": [
+        "回忆向后保存已经发生者，期待向前指向尚未来临者；重复追问人能否在变化中再次承担曾经的意义。它不是让场景原样返回，而是自由在新条件中重取过去。真正困难之处在于既承认不可逆的损失，又不让损失垄断此后每一个当下。重新取得不是重新占有。"
+      ],
+      "recommendedNextLessonId": "k06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k06",
+      "order": 6,
+      "title": "可能性为何使自由眩晕而不替人犯罪",
+      "depth": "longform",
+      "guidingQuestion": "焦虑既不是行为原因又与自由有关，这一张力怎样成立？",
+      "coreExplanation": "恐惧指向某个对象，焦虑则让“我能够”本身显现。可能性既吸引又排斥，自由在其中看到自己；但焦虑并未替人完成犯罪，否则责任会被因果链取消。解释条件越充分，也越需要谨慎区分帮助理解与替行动者行动。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "“可能性的眩晕”不是说人先形成明确恶念再害怕后果，而是选择空间突然向自身打开。站在高处的比喻同时含有排斥与吸引：我害怕坠落，也意识到自己能够移动。这个双重性说明自由为何不总以轻松掌控的方式出现。",
+            "定性转变拒绝的是一种特殊解释野心：把犯罪从先前状态完整演算出来。若演算已足够，行动只是一条因果结果；若完全拒绝条件，责任又变成无背景的魔法。文本把条件说明与行动归责留在紧张关系中。",
+            "遗传罪使这张力进入历史。前人行动、制度习惯和语言环境会扩大某些可能性并缩小另一些可能性，却不能因此把后来者的每次行动算作前人代做。现代社会解释可深化条件面，但仍须说明何时以及如何调整归责。相同条件下的能力差异也需进入判断，责任不是整齐均分。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "禁令不只是告诉无辜者一个事实，也显露“能够违背”。对象尚未确定时，可能性本身造成眩晕。",
+            "Haufniensis 把人理解为身体与灵魂、时间与永恒的综合，精神尚未安定地建立关系，因此自由不是透明工具。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "焦虑是罪的可能性条件，不是充分原因。若从焦虑的数量连续推出犯罪的质量，定性转变便不再是个人行动。",
+            "遗传罪问题又要求兼顾历史：每个人都在累积条件中开始，但亚当不能被当作与后来者完全不同的物种；每个人仍以自己的转变进入罪。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "站在可公开撒谎的节点，一个人突然意识到自己能够这样做。这个意识增加压力，却不等于谎言已经发生，也不能替他承担按下发送键的责任。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "遗传罪与历史累积",
+          "paragraphs": [
+            "亚当问题要求同时拒绝两种捷径：把亚当当作决定后世的神话性例外，会取消后来者自己的转变；把每个人当作无历史起点，又会看不见罪如何通过制度、语言和榜样增加焦虑的量。",
+            "量的累积会改变行动难度，却不能在概念上替人跨过质的界线。现实归责因此需要程度判断：条件可降低能力、增加诱因或限制选择，但不能用同一句话预先决定每个行动者的责任。",
+            "这一结构也限制现代类比。社会化、创伤和遗传机制可说明条件，却不与遗传罪同义；若借用焦虑论讨论它们，必须另用经验材料证明各自因果。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "把决定放在不可连续说明的定性转变中，会不会只是留下“自由意志”空白？历史条件的累积又怎会不在事实上决定行为？"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "文本的目的不是提供行为预测模型，而是拒绝让解释抹除归责。现代分析可补充社会、发展与神经条件，但不能由条件重要直接推出行动者全无责任。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "可能性与必然、有限与无限的张力会在已形成的自我中持续。接着考察这些关系如何失调为绝望。"
+          ],
+          "identity": "这一分析重建 Vigilius Haufniensis 在《焦虑的概念》中的心理学定向教义研究，并保留路德宗遗传罪背景；不把它当现代临床诊断。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "站在可公开撒谎的节点，一个人突然意识到自己能够这样做。这个意识增加压力，却不等于谎言已经发生，也不能替他承担按下发送键的责任。",
+      "nodeIds": [
+        "k06-node"
+      ],
+      "checkIds": [
+        "k06q1",
+        "k06q2",
+        "k06q3",
+        "k06q4"
+      ],
+      "abilitySummary": [
+        "恐惧指向某个对象，焦虑则让“我能够”本身显现。可能性既吸引又排斥，自由在其中看到自己；但焦虑并未替人完成犯罪，否则责任会被因果链取消。解释条件越充分，也越需要谨慎区分帮助理解与替行动者行动。"
+      ],
+      "recommendedNextLessonId": "k07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k07",
+      "order": 7,
+      "title": "绝望为何是自我关系的故障",
+      "depth": "longform",
+      "guidingQuestion": "一个人即使感觉良好，为何仍可能逃避成为自己？",
+      "coreExplanation": "自我不是固定物，而是有限与无限、可能与必然等综合关系对自身的关联，并关联设立它的力量。绝望是这关系不愿或不能恰当地成为自己，而不只是一种可感痛苦。这个诊断必须落到具体失衡，不能只凭术语宣布。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "“关系关联自身”之所以绕口，是因为 Anti-Climacus 要区分三层：构成人的对项、把对项联系起来的综合、以及人对这种联系所采取的态度。最后一层使自我既不是东西，也不是短暂意识流，而是一项持续任务。",
+            "绝望类型按自觉程度加深，不是按外在痛苦排队。沉浸于社会角色的人可能不知道自己还有别的可能；不愿成为自己的人看见差距却逃避；反抗者承认力量，却要把自己变成不受给予和依赖约束的主权工程。",
+            "“透明地安息”保留主动与依赖。透明要求不再用幻想遮蔽有限性，安息又拒绝靠意志自我奠基。在世俗重构中可以讨论有限与可能的平衡，但若删去设立者，就必须承认论证的最终根据已经改变。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "只把自我看成实体，难以解释人为何会在同一身体中逃避自己；只把自我看成自由项目，又会删除身体、历史与依赖。关系模型同时保留被给予与要承担。",
+            "综合本身还不是充分自我。关系必须对自己负责，并在 Anti-Climacus 的神学结构中关联设立它的力量。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "软弱的绝望不愿成为自己，试图躲入角色或幻想；反抗的绝望则要只凭自己成为自己，拒绝依赖。两者看似相反，都使关系失衡。",
+            "有限与无限、可能与必然还形成交叉诊断。只有可能会漂散，只有必然会窒息；健康不是消灭一端，而是让张力获得恰当关系。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "一名获得社会认可的人完全以职位描述自己。他未必痛苦，但一旦职位消失便无从承认自己的可能与依赖。这说明主观舒适不能单独排除关系失调。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "绝望的自觉层次",
+          "paragraphs": [
+            "无自觉的绝望并非秘密诊断特权，而是指出人可能把通行角色误认成自我的全部。要使用这个判断，解释者必须指出角色如何封闭可能与责任，不能只因对方生活普通便宣布其失调。",
+            "软弱地不愿成为自己常把有限处境看作无法承受，借幻想、依附或自我缩小逃开；反抗地要成为自己则把可能性变成主权计划，拒绝承认自己依赖他人、身体和设立者。",
+            "自觉增加会提高责任压力，也可能打开恢复。知道自己正在逃避仍不等于能够独自改变；信仰在文本中不是加重自责，而是让关系既承认自身又不再自我奠基。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "若人人都可能绝望且本人不自知，理论是否不可反证，并把普通有限性或情绪困扰全部病理化？"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "诊断须指出具体关系失衡，不能只凭理论宣布他人绝望。绝望也不等同抑郁症或自杀意念；临床风险需要医学与安全处置，不由神学术语代替。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "绝望成为罪还涉及“在上帝面前”的自觉。随后先澄清主观关系怎样与客观真理共存，避免把内在强度当成真理制造机。"
+          ],
+          "identity": "《致死的疾病》署名 Anti-Climacus，由克尔凯郭尔编辑出版；该化名代表作者自认未达到的基督教理想尺度，不能与 Johannes Climacus 混同。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一名获得社会认可的人完全以职位描述自己。他未必痛苦，但一旦职位消失便无从承认自己的可能与依赖。这说明主观舒适不能单独排除关系失调。",
+      "nodeIds": [
+        "k07-node"
+      ],
+      "checkIds": [
+        "k07q1",
+        "k07q2",
+        "k07q3",
+        "k07q4"
+      ],
+      "abilitySummary": [
+        "自我不是固定物，而是有限与无限、可能与必然等综合关系对自身的关联，并关联设立它的力量。绝望是这关系不愿或不能恰当地成为自己，而不只是一种可感痛苦。这个诊断必须落到具体失衡，不能只凭术语宣布。"
+      ],
+      "recommendedNextLessonId": "k08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k08",
+      "order": 8,
+      "title": "“真理是主观性”为什么不等于相对主义",
+      "depth": "longform",
+      "guidingQuestion": "事实不由偏好制造时，真理为何仍有一个不可省略的主观问题？",
+      "coreExplanation": "客观探究问对象是否如此，主观问题问现存者怎样处于所认之真的关系中。伦理与宗教生活不能等待体系完成才开始，但这种时间压力并不使错误事实变真。二者不是竞争同一把尺，而是分别审查对象根据与承担方式；缺少任一面都可能产生自欺。真诚不能补足虚假对象。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "Climacus 的对比不是给客观知识降级。他对基督教历史问题投入大量篇幅，正说明对象问题不可跳过。批评针对的是一种替代：仿佛只要书目继续增长，现存者就可永远推迟说明自己如何生活。",
+            "内在占有也不是一次热烈体验。它在重复行动中维持同一关切，并允许失败反过来修正自我理解。一个信念若只在公开宣言时强烈、在代价出现时消失，便显示激情尚未形成持续关系。",
+            "反狂热边界因此不能只看诚意。要问承诺是否容许纠错、是否对他人的主体性负责、是否把不确定性诚实呈现。即便这些标准仍不能裁决全部宗教冲突，它们至少阻止“我很真诚”成为结束讨论的句号。公共理由的债务仍然存在，并随影响他人的程度增加。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "一个人可以准确说明承诺、死亡或基督教教义，却让知识与行动分离。增加资料可能改善对象判断，却不能自动改变他怎样存在。",
+            "现存者始终在时间中决定，不能等到所有历史证据达到无限确定才生活。客观不确定性因此构成承担风险，而非证据无用的借口。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "“主观性”指关系方式：激情、持续实践、自我修正和风险怎样共同构成内在占有。它不指个人偏好可以生产事实。",
+            "强烈相信仍不够。狂热者也可能高度投入；若没有谦卑、可修正性、生活一致与对自欺的警觉，激情只会放大错误。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "两人都承认会死亡。一人把命题当统计事实，另一人让有限时间改变其道歉与承诺。事实内容相同，存在关系不同；后者并未因此获得修改死亡率的权力。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "内在占有的反狂热检验",
+          "paragraphs": [
+            "内在占有须在时间中接受反例。行动者能否承认误读、修正实践并向受影响者说明，比分辨一次激情是否纯粹更可靠；拒绝修正会把承担变成封闭。",
+            "宗教承诺之间仍可能冲突，Climacus 没有提供中立算法。这一论述保留这项判准债务，并以证据、公共伤害和他人主体性作为现代不可撤销的审查面。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "如果内在激情被抬高，错误宗教、阴谋论和暴力确信为何不能以同样方式自我正当化？"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "主观性不能免除客观证据、逻辑与公共伤害审查。文本主要分析基督教信仰的存在关系，也没有提供裁决一切宗教冲突的完备公共判准。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "个人承担还会受到舆论结构影响。分析随即把主观责任放进抽象公众、平整化与真实共同体的社会问题。"
+          ],
+          "identity": "论证属于 Johannes Climacus 的《非科学的最后附言》，且结尾包含撤回；这不是把作者本人塑成认识论相对主义者。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "两人都承认会死亡。一人把命题当统计事实，另一人让有限时间改变其道歉与承诺。事实内容相同，存在关系不同；后者并未因此获得修改死亡率的权力。",
+      "nodeIds": [
+        "k08-node"
+      ],
+      "checkIds": [
+        "k08q1",
+        "k08q2",
+        "k08q3",
+        "k08q4"
+      ],
+      "abilitySummary": [
+        "客观探究问对象是否如此，主观问题问现存者怎样处于所认之真的关系中。伦理与宗教生活不能等待体系完成才开始，但这种时间压力并不使错误事实变真。二者不是竞争同一把尺，而是分别审查对象根据与承担方式；缺少任一面都可能产生自欺。真诚不能补足虚假对象。"
+      ],
+      "recommendedNextLessonId": "k09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k09",
+      "order": 9,
+      "title": "单一个体如何抵抗公众而不退出共同体",
+      "depth": "longform",
+      "guidingQuestion": "反对抽象公众为何不等于反对民主协商或集体行动？",
+      "coreExplanation": "抽象公众让许多人参与判断却无人承担后果。单一个体不是离群英雄，而是拒绝把数量、匿名与时代语气当作自己的良知；真实共同体反而需要这些可追责的成员。批判因此既指向个人借口，也指向使责任难以追踪的传播结构。制度设计也属于回应范围，而非背景。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "“公众”不同于在场的集会。具体集会有成员、议程、发言和可追踪的决定，抽象公众则可在无人承认自己代表它时仍被不断援引。它的力量来自假定的普遍目光，责任却无法落到一个可回应者身上。",
+            "平整化也不是差异减少这么简单。它把有风险的卓越、少数立场或长期承诺转成可供评论的奇观，使旁观者通过讥讽保持安全。被平整者固然可能是自负英雄，也可能只是愿意承担一项不受欢迎责任的人。",
+            "单一个体的检验应落在责任实践：能否署名自己的理由，能否听取受影响者，能否在事实改变时更正。这个尺度可支持民主参与和集体行动，因为组织越强，越需要知道决定由谁作出、代价由谁承担。匿名有时保护弱者，却不应让掌权者逃避说明，二者须按权力位置区分。",
+            "共同体的判断还需要程序记忆。若每次争议都只靠当下勇敢个体重新开始，责任经验无法积累；公开理由、纠错记录与权力交接能让单一个体的承担变成可持续的公共实践。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "报刊和舆论扩大信息流通，也可能形成一种不存在于任何具体场所的“公众”。每个人贡献一点判断，却把责任交给无名总体。",
+            "平整化并不总靠强权压制，也可通过嘲讽差异、奖励无风险评论，让行动者退回旁观位置。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "成为单一个体意味着决定不可转让。多数支持可以是理由的一部分，却不能替我说明为何参与、会让谁承担代价。",
+            "这并不要求退出公共生活。共同体若由能够说明承诺、接受纠错并承担后果的人组成，恰比抽象公众更厚。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "网络争议中，转发者以“大家都在说”传播未经核实的指控。单一个体的要求不是沉默退网，而是在转发前核实、署名说明理由，并在错误时向具体受害者更正。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "匿名、保护与权力",
+          "paragraphs": [
+            "匿名不总是逃责。弱者可能需要匿名揭露权力，掌权者却可能用机构声音隐藏决定者。单一个体原则应随权力位置判断：保护脆弱发言者与追踪有权决定者可以同时成立。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "攻击多数与公众是否会贬低民主程序、工会行动和社会运动，把制度不义重新私人化？"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "批判针对无责任的抽象舆论，不针对一切公共领域。克尔凯郭尔没有给出现代民主制度论；制度正义仍须集体组织、程序与权力分析。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "个人不能靠历史多数替自己信，但宗教也提出真实历史事件。随后处理永恒真理进入时间后，证据与信仰如何相关而不等同。"
+          ],
+          "identity": "这一分析以署名《一篇文学评论》、造就性讲论和后期自释为主；“单一个体”是责任称呼，不被改写成孤立主义。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "网络争议中，转发者以“大家都在说”传播未经核实的指控。单一个体的要求不是沉默退网，而是在转发前核实、署名说明理由，并在错误时向具体受害者更正。",
+      "nodeIds": [
+        "k09-node"
+      ],
+      "checkIds": [
+        "k09q1",
+        "k09q2",
+        "k09q3",
+        "k09q4"
+      ],
+      "abilitySummary": [
+        "抽象公众让许多人参与判断却无人承担后果。单一个体不是离群英雄，而是拒绝把数量、匿名与时代语气当作自己的良知；真实共同体反而需要这些可追责的成员。批判因此既指向个人借口，也指向使责任难以追踪的传播结构。制度设计也属于回应范围，而非背景。"
+      ],
+      "recommendedNextLessonId": "k10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k10",
+      "order": 10,
+      "title": "永恒真理如何在“瞬间”进入历史",
+      "depth": "longform",
+      "guidingQuestion": "若学习者连接受真理的条件也缺少，教师必须是什么？",
+      "coreExplanation": "苏格拉底式学习假定真理条件已在学习者内部，教师只是助产者。Climacus 提出另一方案：若学习者因不真理而失去条件，教师必须同时给予真理与条件；永恒者进入时间的“瞬间”由此出现。方案差异改变了教师与学习者的关系。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "思想实验从一笔“欠苏格拉底的债”开始。苏格拉底方案尊重学习者内在能力，也避免教师成为崇拜对象。Climacus 只有在明确改变前提后才得到另一教师，因此两个方案不是简单的旧哲学错误与新宗教答案。",
+            "若教师给予条件，学习者的改变不能只称为增加知识；文本用悔改、重生等关系说明旧状态被重新理解。可是这些词来自基督教语境，思想实验的条件清晰不等于外部解释者已获接受其历史实现的理由。",
+            "后继者问题把第一手关系与资料传递分开。见证不可省略，否则历史事件被抽空；见证又不能传递信仰本身，否则第一代人的决定可像财产一样继承。两端相互限制，避免历史主义和反历史主义。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "回忆学说把学习理解为唤醒已有真理，教师的重要性最终可被取消。基督教主张却更激进：学习者不仅不知道，还处于不真理中。",
+            "若条件也缺失，普通信息传递无法补足。给予条件的教师与学习者之间存在绝对差异，而教师进入时间又以可见卑微形态出现。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "“瞬间”不是钟表上特别短的一点，而是永恒与时间发生决定性关系。道成肉身因神人结合成为绝对悖论，也带来信仰或冒犯的可能。",
+            "同时代人虽看见教师，也只看见历史形态，不能由感官距离自动取得神性。后世需要见证，却同样不能把历史近似值连续累加成信仰条件。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "亲见一位卑微教师的人拥有更多现场资料，却仍须判断此人是谁。两千年后的解释者资料来源不同，但也不能借后来声望逃避同一存在问题。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "见证与后继者",
+          "paragraphs": [
+            "后继者依赖前人见证才能知道事件被如何声称，这使文本、历史与传递不可省略。但见证只能把问题带到后来者面前，不能把见证者的存在关系一并转交。",
+            "因此第一手关系不是反历史口号。若见证被证伪，信仰声称的历史对象也受影响；若见证可信，它仍没有把神人身份变成由概率连续推出的结论。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "思想实验是否先把学习者定义为无条件，再按基督教结论安排答案？把信仰与证据区分，又是否令历史主张免于反证？"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "该文本展示概念条件，不构成中立历史证明。历史证言仍影响我们能合理声称发生过什么；它只不能以数量渐增自动制造对悖论的存在关系。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "“瞬间”建立了悖论结构，但亚伯拉罕案例把私人命令与普遍伦理推向更危险的冲突。随后必须在那里检验信仰语言的安全边界。"
+          ],
+          "identity": "《哲学片断》是 Johannes Climacus 署名的思想实验；其“若是如此”结构不被冒充历史证明或作者署名教义。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "亲见一位卑微教师的人拥有更多现场资料，却仍须判断此人是谁。两千年后的解释者资料来源不同，但也不能借后来声望逃避同一存在问题。",
+      "nodeIds": [
+        "k10-node"
+      ],
+      "checkIds": [
+        "k10q1",
+        "k10q2",
+        "k10q3",
+        "k10q4"
+      ],
+      "abilitySummary": [
+        "苏格拉底式学习假定真理条件已在学习者内部，教师只是助产者。Climacus 提出另一方案：若学习者因不真理而失去条件，教师必须同时给予真理与条件；永恒者进入时间的“瞬间”由此出现。方案差异改变了教师与学习者的关系。"
+      ],
+      "recommendedNextLessonId": "k11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k11",
+      "order": 11,
+      "title": "亚伯拉罕为何不能成为暴力许可证",
+      "depth": "longform",
+      "guidingQuestion": "当私人宗教命令与普遍伦理冲突时，文本为何既拒绝轻易吸收又拒绝通用化？",
+      "coreExplanation": "亚伯拉罕准备献以撒，从普遍伦理看就是谋杀。文本反复改写故事，迫使熟悉者重新感受危险，并区分悲剧英雄、无限放弃与凭荒谬之力重获有限者的信仰。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "开篇的多种亚伯拉罕版本让每条容易的解释都付出代价：若他向以撒装成怪物，便保护上帝形象却破坏父子关系；若他只表现平静，解释者又可能看不见内在恐惧。叙事不是装饰，而是伦理信息。",
+            "目的论悬置的问题之所以尖锐，是因为伦理在书中具有“普遍者”的高度。若伦理本来只是低级习俗，悬置就毫无困难；只有先承认父亲不得杀子这一要求，亚伯拉罕的不可理解性和信仰声称才真正出现。",
+            "Johannes de silentio 的钦佩伴随不能理解，这种距离应保留。现代解释者没有理由模仿故事中的危险动作，更不能把不可交流当成优点。文本能迫使伦理理论面对宗教例外声称，却没有替现实裁决者偿还安全判准。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "悲剧英雄放弃私人所爱，是为了可向共同体说明的更高普遍目的。亚伯拉罕却不能用国家、家庭或公共善解释自己，沉默因而不是浪漫姿态而是伦理危机。",
+            "“伦理的目的论悬置”提出个体是否能在绝对者前高于普遍者。它由无法完成信仰运动的化名作者提问，不是可复制的决策程序。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "无限放弃接受有限所爱将失去，并在永恒意义上保存它；信仰还声称在有限生活中重新领受。两种运动的区分阻止把任何激烈牺牲都叫信仰。",
+            "所谓飞跃若出现，只标记不能从量变连续推演的质变。克尔凯郭尔并未使用固定短语“信仰跳跃”，更没有说对象、见证和伦理后果无关紧要。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "若有人声称私人声音命令他伤害孩子，他与亚伯拉罕共享的只是不可公开证明，而这绝不足以构成正当化。现实共同体必须优先保护潜在受害者并审查证据。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "被沉默者的主体性",
+          "paragraphs": [
+            "叙事主要追随亚伯拉罕的恐惧与信仰运动，以撒和撒拉却承担后果而缺少同等发言位置。即使目的论问题无法由普遍伦理吸收，这种叙事不对称也不能被当作无关细节。",
+            "把以撒视为完整主体会增加一项不可撤销的检验：私人确信是否把另一个人变成自己宗教关系的材料。文本没有给出充分回答，现代安全边界因此不是外加礼貌，而是防止解释者复制沉默结构的必要条件。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "宗教暴力者正可挪用私人确信与不可交流性；文本又很少让以撒和撒拉成为完整主体，沉默本身已造成伤害。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "本书把悖论推到不可安稳占有的位置，不建立私人启示的普遍许可。法律、安全、证据与他人主体性不能因存在决断而悬空；判准债务必须公开保留。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "分析随后转向 Anti-Climacus 的神人悖论。对象从亚伯拉罕的命令变成卑微基督，回应结构也从沉默冲突推进到冒犯与模仿。"
+          ],
+          "identity": "《恐惧与战栗》由 Johannes de silentio 署名；他反复声明不能理解亚伯拉罕。其问题化叙述不是克尔凯郭尔向私人命令签发许可。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "若有人声称私人声音命令他伤害孩子，他与亚伯拉罕共享的只是不可公开证明，而这绝不足以构成正当化。现实共同体必须优先保护潜在受害者并审查证据。",
+      "nodeIds": [
+        "k11-node"
+      ],
+      "checkIds": [
+        "k11q1",
+        "k11q2",
+        "k11q3",
+        "k11q4"
+      ],
+      "abilitySummary": [
+        "亚伯拉罕准备献以撒，从普遍伦理看就是谋杀。文本反复改写故事，迫使熟悉者重新感受危险，并区分悲剧英雄、无限放弃与凭荒谬之力重获有限者的信仰。"
+      ],
+      "recommendedNextLessonId": "k12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k12",
+      "order": 12,
+      "title": "与基督同时代为何意味着冒犯和模仿",
+      "depth": "longform",
+      "guidingQuestion": "为何两千年的胜利史反而可能让人避开卑微神人的当下要求？",
+      "coreExplanation": "真正同时代性不是出生在同一年，而是面对以卑微形态出现的基督。后来声望不能连续证明神性；同一悖论既可能引发信仰，也可能引发冒犯，并要求跟随而不只赞美。同时代性把后来者借文明成就取得的安全距离重新收回，也把判断责任还给本人承担。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "同时代性取消一种历史特权想象：第一代人并非站在荣耀结果面前，他们看见的是可被误认、拒绝和处死的人。后世若只接受被文化抬高的形象，反而可能从未面对文本所说的卑微邀请。",
+            "冒犯有多个方向。人可能嫌卑微者不配为神，也可能嫌神竟以如此亲近的方式要求个人。两者都显示绝对差异与可见相似无法被平滑统一，但“显示”不等于证明批评者在道德上有罪。",
+            "模仿把认识问题转成行动问题，却仍受对象规定。不是模仿每项历史偶然，而是让服务、真理与爱进入自己的处境。若模仿只追求外在受苦相似，它会把基督变成痛苦竞赛的裁判。处境差异要求实践判断，而非服饰复制；权力越大，服务责任越不能转嫁。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "把基督当作已被文明认证的伟人，解释者可借历史结果避开最初的可冒犯性。卑微者声称神人统一，不会因后来教堂数量而变得可演绎。",
+            "邀请向劳苦者开放，却也把受邀者置于要求面前。接受不是对名人表示赞赏，而是决定是否愿意与其卑微形态发生关系。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "冒犯与信仰回应同一神人悖论：前者在结合处拒绝，后者并非凭概念消除张力。称批评者“冒犯”不能代替回答其历史与伦理问题。",
+            "崇拜者保持安全距离，跟随者则让基督的道路重塑生活。模仿不是复制历史服饰，而是承担爱、谦卑与受苦风险。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "一个人赞美不与权势同流的基督，却在自己的机构中惩罚说真话者。他拥有崇拜语言，但同时代性的检验落在是否跟随，而非赞词强度。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "冒犯与批评的区别",
+          "paragraphs": [
+            "批评者可以因证据、概念或伦理理由拒绝一项主张，不能仅凭拒绝就被诊断为冒犯。冒犯概念只有在说明人如何借既有期待回避卑微神人时才有解释力。",
+            "反过来，信仰者也可能用“理性批评”保持安全距离，不让判断触及生活。区分二者要看论证是否开放、后果是否承担，而不是给立场预先分配道德身份。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "若理性不接受神人结合便被归为“冒犯”，理论是否预先病理化批评者，使基督论退出讨论？"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "冒犯是文本对存在反应的描述，不能充当驳论。历史可靠性、概念一致性和伦理后果仍可公开讨论；Anti-Climacus 的理想高度也不能冒充作者生活成就。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "跟随的核心会落到如何对待具体他人。随后转向署名《爱的作为》，考察命令之爱怎样成为可检验行动。"
+          ],
+          "identity": "这里的声音是 Anti-Climacus，由克尔凯郭尔编辑；其基督教要求被设置得高于作者自认达到的位置。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一个人赞美不与权势同流的基督，却在自己的机构中惩罚说真话者。他拥有崇拜语言，但同时代性的检验落在是否跟随，而非赞词强度。",
+      "nodeIds": [
+        "k12-node"
+      ],
+      "checkIds": [
+        "k12q1",
+        "k12q2",
+        "k12q3",
+        "k12q4"
+      ],
+      "abilitySummary": [
+        "真正同时代性不是出生在同一年，而是面对以卑微形态出现的基督。后来声望不能连续证明神性；同一悖论既可能引发信仰，也可能引发冒犯，并要求跟随而不只赞美。同时代性把后来者借文明成就取得的安全距离重新收回，也把判断责任还给本人承担。"
+      ],
+      "recommendedNextLessonId": "k13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k13",
+      "order": 13,
+      "title": "邻人之爱怎样从命令成为可检验的作为",
+      "depth": "longform",
+      "guidingQuestion": "“你应当爱”如何净化偏爱而不抹杀亲密关系？",
+      "coreExplanation": "爱情与友爱自然选择特定对象，既珍贵也可能封闭。“你应当爱”让爱不再完全依赖心情；邻人不是某一类可爱之人，而是每个眼前者在上帝面前的平等身份。命令的工作不是制造感觉，而是防止感觉变化把人格尊重一并带走；行动边界由此成为爱的组成部分。边界保护双方的人格现实，也保护共同真相。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "命令结构回应爱的脆弱时间性。感觉会变化，所爱者也会变得难以理解；若责任随吸引力下降而消失，爱就无法在冲突、疾病或失望中持续。命令要求的是不把这种变化直接翻译成他人价值的消失。",
+            "“眼前的人”纠正抽象人道主义。爱全人类可能只是一幅高尚自我图像，而具体邻人会打断计划、提出不方便的需要。看见不是认可对方每项行为，而是先承认这个人的现实，不拿理想形象替代。",
+            "爱的果实也不能由单个可见动作机械判定。慷慨赠与可能服务于控制，严厉边界也可能保护受害者。检验须结合关系历史、权力与后果；这正是现代安全和制度分析对原讲论的重要补充。爱的名称不能替行动预先免罪，良好意图也要面对可预见后果。",
+            "看见、造就、信任、盼望、遮盖、和解与宽恕不是一串可互换的美德标签。它们分别处理对象现实、关系成长、解释他人的方式、未来可能、过错公开、关系修复与债务回应；每一步都有自己不能跨过的事实与安全边界。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "若爱只在被吸引时存在，不受偏爱者便没有要求。命令不是强迫产生某种感觉，而是要求行动不随情绪撤销他人的人格地位。",
+            "爱邻如己也没有把自我厌弃当作美德。它假定一种不自私的自爱，并以同一尺度拒绝把别人变成工具。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "邻人平等不抹去差异。对孩子、伴侣与陌生人可以有不同具体责任，但特殊亲密不能证明陌生者不值得基本关怀。",
+            "爱要由果实可识别：看见眼前的人、造就、信任、盼望和宽恕都使内在宣称接受行动检验。慷慨解释不是故意无视反证。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "朋友迟到一次时，爱可先询问而不立即归因恶意；若长期控制和暴力已有证据，继续“相信一切”就不再是慷慨，而是让伤害逃避问责。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "看见与造就",
+          "paragraphs": [
+            "“爱我们所看见的人”先反对用理想对象替换现实对象。看见包括承认对方的限制、历史和不同愿望；若只爱自己想象中的版本，所谓帮助会在对方偏离脚本时变成惩罚。",
+            "造就不是把对方塑造成我的复制品，而是增加其站立和行动的能力。一次赠与若制造依赖、一次劝勉若夺走发言权，即使动机温暖，也未必造就。判断应看关系是否扩大了对方承担生活的空间。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "信任与盼望",
+          "paragraphs": [
+            "信任抵抗的是在证据不足时把模糊行动解释为恶意，并不要求否认已经形成的行为模式。它允许先询问、给出说明机会，也允许在反复欺骗后调整接触、权限和验证方式。",
+            "盼望面向人尚未完成的可能，不把一次过错冻结成永久身份；但盼望不能替对方悔改，也不能要求受害者继续暴露于风险。可以盼望一个人改变，同时在改变有证据前维持距离。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "遮盖、和解与宽恕",
+          "paragraphs": [
+            "遮盖过错首先反对以揭露羞辱他人、从其失败中获利。它不等于隐匿持续伤害，也不妨碍向有保护职责的人报告事实。决定保密前必须问：沉默会保护谁，又会把风险转给谁。",
+            "和解是一项关系结果，需要真相、停止伤害、责任承担与双方能够参与；宽恕则可指受伤者不再以报复维系债务。二者相关但不相同，宽恕不保证信任恢复，和解也不能由施害者单方面宣布。",
+            "因此爱的作为具有分叉边界：慷慨解释适用于证据未定，保护与问责适用于风险已显；盼望保留未来，边界保护现在。把这些判断压成“爱就应相信和宽恕”会删去《爱的作为》最需要现代补足的安全条件。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "命令怎能产生爱？无差别的邻人之爱是否贬低亲密关系；遮盖罪过和宽恕又是否迫使受害者沉默？"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "命令针对责任方向，不规定情感强度。爱不取消真相、保护、正义与边界；遮盖不能解释成隐匿持续伤害，宽恕也不自动恢复信任或接触。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "爱的行动使模仿不再抽象，但受苦语言仍可能被滥用。随后检验受苦、努力和恩典如何彼此限制。"
+          ],
+          "identity": "《爱的作为》是克尔凯郭尔署名的基督教讲论；其命令结构须保留，同时现代运用补入安全、同意与制度问责边界。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "朋友迟到一次时，爱可先询问而不立即归因恶意；若长期控制和暴力已有证据，继续“相信一切”就不再是慷慨，而是让伤害逃避问责。",
+      "nodeIds": [
+        "k13-node"
+      ],
+      "checkIds": [
+        "k13q1",
+        "k13q2",
+        "k13q3",
+        "k13q4"
+      ],
+      "abilitySummary": [
+        "爱情与友爱自然选择特定对象，既珍贵也可能封闭。“你应当爱”让爱不再完全依赖心情；邻人不是某一类可爱之人，而是每个眼前者在上帝面前的平等身份。命令的工作不是制造感觉，而是防止感觉变化把人格尊重一并带走；行动边界由此成为爱的组成部分。边界保护双方的人格现实，也保护共同真相。"
+      ],
+      "recommendedNextLessonId": "k14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k14",
+      "order": 14,
+      "title": "受苦、恩典和模仿基督怎样不互相取消",
+      "depth": "longform",
+      "guidingQuestion": "怎样拒绝廉价旁观，又不把受苦写成赚取救恩或忍受虐待？",
+      "coreExplanation": "只赞美基督而不跟随，会把信仰变成旁观；只强调模仿和受苦，又可能把恩典改成自救竞赛。文本内部的压力要求努力、受苦与不能自救同时被保留。判断一种实践时，必须追问痛苦由谁造成、由谁承担、是否可以避免、是否保护了他人；没有这些问题，“受苦”只会成为权力方便使用的空白支票。恩典也不能替施害者免责或阻断问责。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "“崇拜者”并非毫无情感，危险恰在热烈赞美可以与安全距离共存。人可欣赏牺牲故事，却安排制度让代价总由弱者承担。模仿要求把判断转回自己的权力、资源和可承担责任。",
+            "恩典防止实践成为绩效账户。若每次受苦都增加属灵分数，人会主动寻找痛苦、比较伤痕，并怀疑需要帮助者信心不足。依赖恩典意味着行动重要，却不能把行动者变成自我救赎的唯一来源。",
+            "受苦的来源必须区分。坚持真话招致的代价、照护中的疲惫、疾病以及他人施加的暴力并非同一类。只有先辨认来源、可避免性与受影响者，才可能讨论忍耐、抵抗、离开或共同改革。劝别人忍耐者尤其须说明自己承担什么，也须给受影响者拒绝的空间。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "跟随意味着有限生活接受爱、谦卑和真理的要求，因而可能付出代价。若一切困难都由制度和舒适消除，基督教要求会被改成文化装饰。",
+            "但受苦并非价值的自动证明。疾病、暴力与压迫首先是需要照料和改变的伤害，不能因为痛苦便获得神圣地位。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "模仿揭露赞美与行动的距离，却不能让人靠表现买下救恩。恩典指出自我无法成为自身最终根据，也阻止属灵成就排名。",
+            "因此实践同时有两道否定：不能用恩典为不行动辩护，也不能用行动抹去依赖与宽恕。两者张力比选一边更困难。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "受压迫者离开危险关系并寻求法律保护，不是拒绝背十字架。施害者若要求其“忍耐”，正把模仿语言用于逃避自己的悔改和问责。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "受苦来源的分型",
+          "paragraphs": [
+            "因坚持真话而遭报复、照护不可避免的疲惫、疾病造成的痛苦与施害者主动制造的创伤，需要不同回应。把它们都叫十字架，会让忍耐、治疗、抵抗和离开失去区别。",
+            "自愿承担也不能解决全部问题。承担者可能把代价转给家人或弱势同伴；判断模仿时既要问本人是否同意，也要问谁实际支付了成本。",
+            "恩典在这里限制绩效比较。遭遇较少痛苦不表示信仰较浅，幸存者也无须把创伤解释成属灵礼物；实践尺度应落在爱与责任，而不是痛苦总量。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "苦难讲论是否天然鼓励弱者忍受压迫，把健康、成功或公共改革怀疑成不属灵？"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "非自愿创伤不得浪漫化。模仿不替代医疗、脱离危险和改变不义制度；可承担的牺牲也必须以不把他人当工具为边界。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "当文化和教会用恩典语言降低实践要求时，问题不再只在个人。论述由此进入十九世纪丹麦基督教界的制度冲突。"
+          ],
+          "identity": "这一分析区分署名造就性、基督教讲论与 Anti-Climacus 的理想要求；不把不同体裁压成作者自我成就报告。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "受压迫者离开危险关系并寻求法律保护，不是拒绝背十字架。施害者若要求其“忍耐”，正把模仿语言用于逃避自己的悔改和问责。",
+      "nodeIds": [
+        "k14-node"
+      ],
+      "checkIds": [
+        "k14q1",
+        "k14q2",
+        "k14q3",
+        "k14q4"
+      ],
+      "abilitySummary": [
+        "只赞美基督而不跟随，会把信仰变成旁观；只强调模仿和受苦，又可能把恩典改成自救竞赛。文本内部的压力要求努力、受苦与不能自救同时被保留。判断一种实践时，必须追问痛苦由谁造成、由谁承担、是否可以避免、是否保护了他人；没有这些问题，“受苦”只会成为权力方便使用的空白支票。恩典也不能替施害者免责或阻断问责。"
+      ],
+      "recommendedNextLessonId": "k15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k15",
+      "order": 15,
+      "title": "基督教界怎样把成为基督徒改成社会身份",
+      "depth": "longform",
+      "guidingQuestion": "当人人在制度上已是基督徒，为何“成为”反而消失？",
+      "coreExplanation": "出生、受洗、礼仪与国民身份让“基督徒”成为无需个人实践的默认称号。晚期批判要重新引入成为基督徒的困难，并以模仿和真理见证审查职业化、国家认可与文化胜利。关键不是成员数量，而是制度名称是否让个人与共同体免于被自己的宣称检验。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "论战背景使措辞的强度可以理解，却不能因此直接普遍化。Mynster 的公共声望、Martensen 的悼词、国家教会职位和克尔凯郭尔长期写作任务交汇，使“见证者”一词成为制度自我描述的试金石。",
+            "职业化本身不等于虚伪。稳定职位可支持教育、照护和礼仪连续；问题在于职位是否让代表者免于所代表要求，或使成员把委托给专业人士当作自己的实践。结构批判必须比较制度实际激励，而非猜测内心。",
+            "《瞬间》的夸张旨在打破习惯性同意，也可能造成新的简化。解释者应同时保存其揭露力与证据债务：哪些仪式遮蔽责任，哪些共同实践反而训练责任，不能由一句“基督教界”预先决定。1–9 号由作者生前刊行，第 10 号则在去世时尚未刊出，两种出版状态不能混写。批判也要接受它要求别人的诚实尺度。",
+            "制度批判与个人悔改也不能互相替代。个人真诚若不改变激励，旧模式会复现；结构改革若无需成员承担，规则又会成为新的身份保障。两层必须互相检验。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "制度能保存经文、礼仪、教育与照料，也可能把资格自动化。若名称由出生获得，悔改、跟随和个人责任便容易变成已完成的历史。",
+            "Mynster 被称为“真理见证者”的争议触发论战，因为这一称号在克尔凯郭尔看来包含受苦见证，而不仅是受尊敬的教会领导。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "基督教界把悖论转成文明成果，把模仿转成职业代表，把个人承担转成集体登记。晚期文字用尖锐夸张破坏这种自满。",
+            "但制度虚伪不能由个别神职动机简单解释。国家、薪资、公共声望与礼仪如何共同降低要求，才是结构问题。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "一所机构在使命声明中高举服务，却把实际照护当作低价值工作。成员只凭归属感自称忠于使命；批判要求比较名称与实践，而非仅寻找几个坏人。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "论战体裁与证据债务",
+          "paragraphs": [
+            "晚期短文用对比、重复和讽刺争夺公众注意，修辞强度本身不能证明经验概括。解释者须把具体制度材料、人物争议和普遍基督教要求分开核对。",
+            "论战仍可揭示一种机制：当职业代表替成员承担信仰实践，名称会从任务变成保障。是否发生这项替代，需要观察制度激励和真实共同实践，而非只引用作者的尖锐判语。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "晚期论战是否把复杂教会压成虚伪机器，忽略共同礼仪、普通信徒实践与制度照料的真实善？"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "这些反例必须保留，尖锐修辞不是完整教会论。丹麦国教冲突不能直接证明一切组织都有害；现代迁移须重新调查法律、历史与实际权力。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "论述最后不能用“存在主义先驱”覆盖这些神学与制度前提。结尾将分层比较后世保留、删去和改写的内容。"
+          ],
+          "identity": "这一分析处理克尔凯郭尔署名的晚期报刊和《瞬间》，限定于十九世纪丹麦路德宗国教与 Mynster、Martensen 争议，不泛化为反对所有教会。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一所机构在使命声明中高举服务，却把实际照护当作低价值工作。成员只凭归属感自称忠于使命；批判要求比较名称与实践，而非仅寻找几个坏人。",
+      "nodeIds": [
+        "k15-node"
+      ],
+      "checkIds": [
+        "k15q1",
+        "k15q2",
+        "k15q3",
+        "k15q4"
+      ],
+      "abilitySummary": [
+        "出生、受洗、礼仪与国民身份让“基督徒”成为无需个人实践的默认称号。晚期批判要重新引入成为基督徒的困难，并以模仿和真理见证审查职业化、国家认可与文化胜利。关键不是成员数量，而是制度名称是否让个人与共同体免于被自己的宣称检验。"
+      ],
+      "recommendedNextLessonId": "k16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "k16",
+      "order": 16,
+      "title": "后世存在主义读法保留了什么，又改写了什么",
+      "depth": "longform",
+      "guidingQuestion": "把克尔凯郭尔称为存在主义先驱时，哪些概念债务必须公开？",
+      "coreExplanation": "后世确实从焦虑、可能性、选择、绝望、单一个体和群众批判中获得资源，但常删去上帝关系、罪、恩典、道成肉身与邻人命令。比较的任务不是禁止迁移，而是记录转换成本。只有把新增根据写明，现代用途才不会借原作者声望掩盖自己的论证责任。",
+      "sections": [
+        {
+          "heading": "进一步推演",
+          "paragraphs": [
+            "“先驱”是接受史关系，不是作者自我身份。克尔凯郭尔没有参加二十世纪存在主义争论，后来思想家也彼此不同。把他们排成单一谱系会遮蔽神学存在主义、无神论存在主义与现象学借用之间的分歧。",
+            "概念迁移可用一张账来检验：原问题是什么，哪些前提支撑推理，新语境保留哪一步，又用什么替换被删前提。例如把绝望用于治疗时，经验研究与临床伦理必须承担原作神学诊断不承担的验证工作。",
+            "反过来，坚持原典身份也有自我修正作用。解释者不能因作品是基督教的便让其免受暴力、性别、阶级或民主异议；正如世俗重构要公开删改，神学解释也要说明历史制度如何影响其解释和应用。身份准确不是批评终点，而是可问责比较的起点。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "问题压力",
+          "paragraphs": [
+            "“存在主义先驱”能提示影响链，也会制造倒读：用后来成熟术语筛选早期文本，只留下与当代相似的部分。",
+            "若把自我关系改成纯粹自我创造，《致死的疾病》中设立自我的力量便消失；若把主体性改成个人真理，客观与公共边界也被删除。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "推理链",
+          "paragraphs": [
+            "负责任的重构先写明保留项，再写明替换项。可以保留有限性与可能性的张力，却要说明罪与恩典被改成何种世俗关系，以及论证是否仍成立。",
+            "反向也不能以神学差异否认影响。一个概念可在新传统中生产真实问题，只是新用途的成功不证明它等同原义。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "案例",
+          "paragraphs": [
+            "治疗语境可借“绝望地要成为自己”讨论控制，但必须声明这不是临床诊断，也不应要求来访者接受上帝关系。它是一种标注来源与删改的现代重构。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "现代重构账本",
+          "paragraphs": [
+            "一项重构至少应列出原问题、保留前提、删除前提、新增根据和适用边界。缺少这张账，解释者无法判断新概念是在延续问题、改变论证，还是仅借用著名名称。",
+            "账本也使跨传统比较更公平。世俗心理学不必假装接受罪与恩典，神学解释也不能借原典身份回避现代证据；双方分别承担自己新增的证明责任。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "过度强调身份边界会不会把作品锁进十九世纪路德宗，拒绝它对现代自由、心理和政治问题的实际启发？"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "回应边界",
+          "paragraphs": [
+            "边界不是封锁，而是使比较可检验。迁移可以大胆，只需不借原作者权威掩盖新增前提，并接受现代证据、安全与制度分析。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        },
+        {
+          "heading": "相邻逻辑",
+          "paragraphs": [
+            "论述至此不以统一体系收尾。解释者带着声音纪律回到每部作品，继续判断开放争议：何种重构忠于问题，何种重构只是借名。"
+          ],
+          "identity": "这一分析严格分开原作、作者回顾性自释与后世接受史；海德格尔、雅斯贝尔斯、萨特、神学存在主义和心理学重构均不冒充原典声音。",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "治疗语境可借“绝望地要成为自己”讨论控制，但必须声明这不是临床诊断，也不应要求来访者接受上帝关系。它是一种标注来源与删改的现代重构。",
+      "nodeIds": [
+        "k16-node"
+      ],
+      "checkIds": [
+        "k16q1",
+        "k16q2",
+        "k16q3",
+        "k16q4"
+      ],
+      "abilitySummary": [
+        "后世确实从焦虑、可能性、选择、绝望、单一个体和群众批判中获得资源，但常删去上帝关系、罪、恩典、道成肉身与邻人命令。比较的任务不是禁止迁移，而是记录转换成本。只有把新增根据写明，现代用途才不会借原作者声望掩盖自己的论证责任。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "k01q1",
+      "kind": "multipleChoice",
+      "prompt": "化名结构首先改变了解释者的哪项任务？",
+      "targetNodeIds": [
+        "k01-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "辨认声音位置并判断其生活盲点",
+          "isCorrect": true,
+          "feedback": "第一课第一题：正确，句子身份参与其意义。"
+        },
+        {
+          "id": "A",
+          "text": "把不同声音都解释为作者预设结论的暗号",
+          "isCorrect": false,
+          "feedback": "第一课第一题：错在把有限声音消平为单一密码。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k01q1-misconception"
+    },
+    {
+      "id": "k01q2",
+      "kind": "multipleChoice",
+      "prompt": "双重反思的第二层关心什么？",
+      "targetNodeIds": [
+        "k01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "接收者怎样在生活中承担已经理解的命题",
+          "isCorrect": true,
+          "feedback": "第一课第二题：正确，第二层转向现存者的关系。"
+        },
+        {
+          "id": "B",
+          "text": "接收者怎样把已经理解的命题复述得更完整",
+          "isCorrect": false,
+          "feedback": "第一课第二题：错在仍停留于内容复述，没有进入现存者的承担。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k01q2-misconception"
+    },
+    {
+      "id": "k01q3",
+      "kind": "multipleChoice",
+      "prompt": "反讽在这一论述中的合法能力是什么？",
+      "targetNodeIds": [
+        "k01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "以持续撤回承诺的方式构成完整正面伦理",
+          "isCorrect": false,
+          "feedback": "第一课第三题：错在把受控距离变成永久逃避。"
+        },
+        {
+          "id": "B",
+          "text": "松动虚假确定性但不独自产生正面伦理",
+          "isCorrect": true,
+          "feedback": "第一课第三题：正确，否定性有用也有限。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k01q3-misconception"
+    },
+    {
+      "id": "k01q4",
+      "kind": "multipleChoice",
+      "prompt": "作者署名自释应怎样使用？",
+      "targetNodeIds": [
+        "k01-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "作为重要证据但不垄断全部文本意义",
+          "isCorrect": true,
+          "feedback": "第一课第四题：正确，自释有权重而非无限权威。"
+        },
+        {
+          "id": "A",
+          "text": "视为取消早期开放性的最终密码",
+          "isCorrect": false,
+          "feedback": "第一课第四题：错在忽略回顾性自释的时点与修辞目的。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k01q4-misconception"
+    },
+    {
+      "id": "k02q1",
+      "kind": "multipleChoice",
+      "prompt": "这一分析批评审美生存的核心是什么？",
+      "targetNodeIds": [
+        "k02-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "它把艺术鉴赏看得太重要",
+          "isCorrect": false,
+          "feedback": "第二课第一题：错在把生活关系批评误成品味批评。"
+        },
+        {
+          "id": "A",
+          "text": "它让刺激逻辑阻断持续承诺",
+          "isCorrect": true,
+          "feedback": "第二课第一题：正确，问题是可能性如何支配时间与他人。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k02q1-misconception"
+    },
+    {
+      "id": "k02q2",
+      "kind": "multipleChoice",
+      "prompt": "“轮作法”主要展示哪种能力？",
+      "targetNodeIds": [
+        "k02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "通过固定职业获得伦理连续性",
+          "isCorrect": false,
+          "feedback": "第二课第二题：错在把审美技术换成了伦理承担。"
+        },
+        {
+          "id": "B",
+          "text": "通过变换观看方式管理兴趣",
+          "isCorrect": true,
+          "feedback": "第二课第二题：正确，反思型享受会加工情境。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k02q2-misconception"
+    },
+    {
+      "id": "k02q3",
+      "kind": "multipleChoice",
+      "prompt": "为何无穷选择可能削弱自由？",
+      "targetNodeIds": [
+        "k02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为选项增加本身就构成临床焦虑的诊断根据",
+          "isCorrect": false,
+          "feedback": "第二课第三题：错在加入了文本没有推出的临床因果。"
+        },
+        {
+          "id": "B",
+          "text": "因为拒绝定形使选择无法构成持续的自己",
+          "isCorrect": true,
+          "feedback": "第二课第三题：正确，开放性若拒绝承担便成为分散。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k02q3-misconception"
+    },
+    {
+      "id": "k02q4",
+      "kind": "multipleChoice",
+      "prompt": "哪项不属于这里的批评对象？",
+      "targetNodeIds": [
+        "k02-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "在不物化他人的前提下享受艺术",
+          "isCorrect": true,
+          "feedback": "第二课第四题：正确，艺术与快乐本身没有被定罪。"
+        },
+        {
+          "id": "A",
+          "text": "把他人当成维持新鲜感的材料",
+          "isCorrect": false,
+          "feedback": "第二课第四题：错在把被批评的工具化关系排除在外。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k02q4-misconception"
+    },
+    {
+      "id": "k03q1",
+      "kind": "multipleChoice",
+      "prompt": "法官所谓选择自己包含什么？",
+      "targetNodeIds": [
+        "k03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "接纳处境并对其后续负责",
+          "isCorrect": true,
+          "feedback": "第三课第一题：正确，自我形成同时含有自我接受。"
+        },
+        {
+          "id": "B",
+          "text": "从空白中任意设计全部身份",
+          "isCorrect": false,
+          "feedback": "第三课第一题：错在删除了被给予的历史与限制。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k03q1-misconception"
+    },
+    {
+      "id": "k03q2",
+      "kind": "multipleChoice",
+      "prompt": "悔罪为何支持自我连续性？",
+      "targetNodeIds": [
+        "k03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它承认过失并改变我继续承担的方式",
+          "isCorrect": true,
+          "feedback": "第三课第二题：正确，过去被重新承担而非删除。"
+        },
+        {
+          "id": "B",
+          "text": "它把过去行为归给一个与现在无关的旧我",
+          "isCorrect": false,
+          "feedback": "第三课第二题：错在用悔罪切断了行为归属。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k03q2-misconception"
+    },
+    {
+      "id": "k03q3",
+      "kind": "multipleChoice",
+      "prompt": "对法官威廉的合理保留是什么？",
+      "targetNodeIds": [
+        "k03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "其化名身份使书信中的论证失去讨论价值",
+          "isCorrect": false,
+          "feedback": "第三课第三题：错在把有限声音误当作无意义声音。"
+        },
+        {
+          "id": "B",
+          "text": "其连续性论本身不足以正当化传统社会角色",
+          "isCorrect": true,
+          "feedback": "第三课第三题：正确，形式压力不等于具体制度证明。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k03q3-misconception"
+    },
+    {
+      "id": "k03q4",
+      "kind": "multipleChoice",
+      "prompt": "婚姻与职业在这一分析中主要承担什么作用？",
+      "targetNodeIds": [
+        "k03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "证明只有一种生活形式具伦理价值",
+          "isCorrect": false,
+          "feedback": "第三课第四题：错在把时间结构例子绝对化。"
+        },
+        {
+          "id": "B",
+          "text": "展示承诺如何通过重复获得时间连续性",
+          "isCorrect": true,
+          "feedback": "第三课第四题：正确，案例服务于持续承担。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k03q4-misconception"
+    },
+    {
+      "id": "k04q1",
+      "kind": "multipleChoice",
+      "prompt": "生存样式首先描述什么？",
+      "targetNodeIds": [
+        "k04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "欲望、责任与终极关切的组织方式",
+          "isCorrect": true,
+          "feedback": "第四课第一题：正确，样式是存在关系的诊断。"
+        },
+        {
+          "id": "B",
+          "text": "一个人在社会分层中获得的固定身份等级",
+          "isCorrect": false,
+          "feedback": "第四课第一题：错在把关系结构变成外部身份等级。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k04q1-misconception"
+    },
+    {
+      "id": "k04q2",
+      "kind": "multipleChoice",
+      "prompt": "同一个人能否显示多种样式？",
+      "targetNodeIds": [
+        "k04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "可以，不同关系可能呈现不同组织方式",
+          "isCorrect": true,
+          "feedback": "第四课第二题：正确，样式可能重叠并反复。"
+        },
+        {
+          "id": "B",
+          "text": "不可以，进入伦理便永久删除审美",
+          "isCorrect": false,
+          "feedback": "第四课第二题：错在线性化并把后项理解为删除。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k04q2-misconception"
+    },
+    {
+      "id": "k04q3",
+      "kind": "multipleChoice",
+      "prompt": "宗教性 A 与 B 为什么要区分？",
+      "targetNodeIds": [
+        "k04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "后者由道成肉身悖论作特定规定",
+          "isCorrect": true,
+          "feedback": "第四课第三题：正确，两者并非同一层级刻度。"
+        },
+        {
+          "id": "B",
+          "text": "只是同一年龄阶段的早晚名称",
+          "isCorrect": false,
+          "feedback": "第四课第三题：错在把不同终极前提缩成年龄顺序。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k04q3-misconception"
+    },
+    {
+      "id": "k04q4",
+      "kind": "multipleChoice",
+      "prompt": "为何样式诊断不能直接完成规范判断？",
+      "targetNodeIds": [
+        "k04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为声音身份一经辨认，理由和后果便可省略",
+          "isCorrect": false,
+          "feedback": "第四课第四题：错在把身份辨认当成规范判断已经完成。"
+        },
+        {
+          "id": "B",
+          "text": "因为具体理由、后果与责任仍须分别判断",
+          "isCorrect": true,
+          "feedback": "第四课第四题：正确，标签不能完成规范论证。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k04q4-misconception"
+    },
+    {
+      "id": "k05q1",
+      "kind": "multipleChoice",
+      "prompt": "Constantin 重游柏林为何重要？",
+      "targetNodeIds": [
+        "k05-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "失败显示重复不是外部场景复刻",
+          "isCorrect": true,
+          "feedback": "第五课第一题：正确，经验复制的失败改变了概念方向。"
+        },
+        {
+          "id": "A",
+          "text": "成功证明旧经验可以完整恢复",
+          "isCorrect": false,
+          "feedback": "第五课第一题：错在颠倒了旅行实验的结果。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k05q1-misconception"
+    },
+    {
+      "id": "k05q2",
+      "kind": "multipleChoice",
+      "prompt": "真正重复最接近哪项关系？",
+      "targetNodeIds": [
+        "k05-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "要求对象保持一切细节不变",
+          "isCorrect": false,
+          "feedback": "第五课第二题：错在把自由重取缩为物理同一。"
+        },
+        {
+          "id": "B",
+          "text": "在新条件中重新承担过去意义",
+          "isCorrect": true,
+          "feedback": "第五课第二题：正确，重复发生在变化中的承担。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k05q2-misconception"
+    },
+    {
+      "id": "k05q3",
+      "kind": "multipleChoice",
+      "prompt": "年轻人的书信暴露何种危险？",
+      "targetNodeIds": [
+        "k05-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "爱情的回忆结构会使时间连续性无法成立",
+          "isCorrect": false,
+          "feedback": "第五课第三题：错在把特定失败扩大成普遍否定。"
+        },
+        {
+          "id": "A",
+          "text": "诗意回忆可能把他人冻结为自我材料",
+          "isCorrect": true,
+          "feedback": "第五课第三题：正确，回忆也可能取消他人变化。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k05q3-misconception"
+    },
+    {
+      "id": "k05q4",
+      "kind": "multipleChoice",
+      "prompt": "这一论证没有承诺什么？",
+      "targetNodeIds": [
+        "k05-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "过去可在新行动中获得新意义",
+          "isCorrect": false,
+          "feedback": "第五课第四题：错在否认论证所保留的重新承担。"
+        },
+        {
+          "id": "A",
+          "text": "失去之物必会按原样返回",
+          "isCorrect": true,
+          "feedback": "第五课第四题：正确，重复不提供原样归还保证。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k05q4-misconception"
+    },
+    {
+      "id": "k06q1",
+      "kind": "multipleChoice",
+      "prompt": "焦虑与恐惧的关键差别是什么？",
+      "targetNodeIds": [
+        "k06-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "焦虑使尚未定形的能够本身显现",
+          "isCorrect": true,
+          "feedback": "第六课第一题：正确，焦点在自由的可能性。"
+        },
+        {
+          "id": "A",
+          "text": "焦虑总是更强烈的临床症状",
+          "isCorrect": false,
+          "feedback": "第六课第一题：错在用强度和医学类别替代对象结构。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k06q1-misconception"
+    },
+    {
+      "id": "k06q2",
+      "kind": "multipleChoice",
+      "prompt": "为何焦虑不能是犯罪的充分原因？",
+      "targetNodeIds": [
+        "k06-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "否则行动的定性转变与责任会被因果链取消",
+          "isCorrect": true,
+          "feedback": "第六课第二题：正确，条件不能替人完成行动。"
+        },
+        {
+          "id": "A",
+          "text": "因为焦虑只是被动感觉，不参与决定的可能性结构",
+          "isCorrect": false,
+          "feedback": "第六课第二题：错在从非充分原因滑到完全无关。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k06q2-misconception"
+    },
+    {
+      "id": "k06q3",
+      "kind": "multipleChoice",
+      "prompt": "遗传罪讨论怎样保留个体责任？",
+      "targetNodeIds": [
+        "k06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "历史条件的累积已经替每个人完成了犯罪行动",
+          "isCorrect": false,
+          "feedback": "第六课第三题：错在把累积条件当成行动本身。"
+        },
+        {
+          "id": "B",
+          "text": "条件会累积，但每个人仍以自己的转变进入罪",
+          "isCorrect": true,
+          "feedback": "第六课第三题：正确，历史关联与个人归责并存。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k06q3-misconception"
+    },
+    {
+      "id": "k06q4",
+      "kind": "multipleChoice",
+      "prompt": "现代解释者不能把这里的焦虑直接当作什么？",
+      "targetNodeIds": [
+        "k06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "覆盖各类临床焦虑的医学诊断",
+          "isCorrect": true,
+          "feedback": "第六课第四题：正确，原书任务是教义背景中的心理学探究。"
+        },
+        {
+          "id": "B",
+          "text": "自由面对可能性的哲学分析",
+          "isCorrect": false,
+          "feedback": "第六课第四题：错在排除了文本确实承担的分析任务。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k06q4-misconception"
+    },
+    {
+      "id": "k07q1",
+      "kind": "multipleChoice",
+      "prompt": "关系模型为何不同于任意自我创造？",
+      "targetNodeIds": [
+        "k07-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "它允许意志脱离全部条件定义自己",
+          "isCorrect": false,
+          "feedback": "第七课第一题：错在把反抗性绝望当作健康。"
+        },
+        {
+          "id": "A",
+          "text": "它保留历史、有限性与设立者关系",
+          "isCorrect": true,
+          "feedback": "第七课第一题：正确，自我形成不删除被给予者。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k07q1-misconception"
+    },
+    {
+      "id": "k07q2",
+      "kind": "multipleChoice",
+      "prompt": "不愿成为自己与只靠自己成为自己有何共同点？",
+      "targetNodeIds": [
+        "k07-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "两者都使自我关系失去恰当平衡",
+          "isCorrect": true,
+          "feedback": "第七课第二题：正确，相反姿态可共享同一失调。"
+        },
+        {
+          "id": "A",
+          "text": "两者都是随时间自行消退的短暂情绪状态",
+          "isCorrect": false,
+          "feedback": "第七课第二题：错在把关系故障缩为情绪时长。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k07q2-misconception"
+    },
+    {
+      "id": "k07q3",
+      "kind": "multipleChoice",
+      "prompt": "为何感觉良好不能单独排除绝望？",
+      "targetNodeIds": [
+        "k07-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为快乐本身就是逃避自我关系的可靠证据",
+          "isCorrect": false,
+          "feedback": "第七课第三题：错在把诊断无限扩大到所有快乐。"
+        },
+        {
+          "id": "B",
+          "text": "人可能在无自觉中依附角色而逃避自己",
+          "isCorrect": true,
+          "feedback": "第七课第三题：正确，自觉程度是类型差异的一部分。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k07q3-misconception"
+    },
+    {
+      "id": "k07q4",
+      "kind": "multipleChoice",
+      "prompt": "绝望与抑郁症应怎样区分？",
+      "targetNodeIds": [
+        "k07-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "二者属于同一种病症，宗教处理可以替代临床判断",
+          "isCorrect": false,
+          "feedback": "第七课第四题：错在用神学概念替代临床判断。"
+        },
+        {
+          "id": "A",
+          "text": "前者是文本中的自我关系概念，临床风险另需医学处置",
+          "isCorrect": true,
+          "feedback": "第七课第四题：正确，概念边界保护真实患者。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k07q4-misconception"
+    },
+    {
+      "id": "k08q1",
+      "kind": "multipleChoice",
+      "prompt": "“真理是主观性”主要讨论什么？",
+      "targetNodeIds": [
+        "k08-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "个人偏好怎样把期待的内容变成外部事实",
+          "isCorrect": false,
+          "feedback": "第八课第一题：错在把存在关系误成事实生产。"
+        },
+        {
+          "id": "A",
+          "text": "现存者怎样以实践和风险处于真理中",
+          "isCorrect": true,
+          "feedback": "第八课第一题：正确，命题内容与承担方式须区分。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k08q1-misconception"
+    },
+    {
+      "id": "k08q2",
+      "kind": "multipleChoice",
+      "prompt": "客观不确定性带来什么？",
+      "targetNodeIds": [
+        "k08-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "人在有限时间中承担而非无限延期",
+          "isCorrect": true,
+          "feedback": "第八课第二题：正确，不确定性形成风险而非许可。"
+        },
+        {
+          "id": "B",
+          "text": "证据标准因调查无法完结而失去约束作用",
+          "isCorrect": false,
+          "feedback": "第八课第二题：错在把不能完结调查变成取消调查。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k08q2-misconception"
+    },
+    {
+      "id": "k08q3",
+      "kind": "multipleChoice",
+      "prompt": "为何强烈相信不等于内在占有？",
+      "targetNodeIds": [
+        "k08-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "因为激情还须受实践、自修正与反自欺约束",
+          "isCorrect": true,
+          "feedback": "第八课第三题：正确，强度本身不能区分忠实与狂热。"
+        },
+        {
+          "id": "A",
+          "text": "因为激情只会妨碍判断，在真理关系中没有作用",
+          "isCorrect": false,
+          "feedback": "第八课第三题：错在从激情不足滑到激情无关。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k08q3-misconception"
+    },
+    {
+      "id": "k08q4",
+      "kind": "multipleChoice",
+      "prompt": "主观性不能豁免哪项审查？",
+      "targetNodeIds": [
+        "k08-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "真诚承担可以替代公共伤害审查，但事实判断仍需证据",
+          "isCorrect": false,
+          "feedback": "第八课第四题：错在把存在真诚当成公共伤害审查的替代物。"
+        },
+        {
+          "id": "A",
+          "text": "事实证据、逻辑一致、公共伤害与他人主体性都须继续审查",
+          "isCorrect": true,
+          "feedback": "第八课第四题：正确，存在承担不取消公共检验。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k08q4-misconception"
+    },
+    {
+      "id": "k09q1",
+      "kind": "multipleChoice",
+      "prompt": "抽象公众的主要危险是什么？",
+      "targetNodeIds": [
+        "k09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "多人协作一旦形成共同意见就会消灭个体",
+          "isCorrect": false,
+          "feedback": "第九课第一题：错在把抽象公众扩大成全部合作。"
+        },
+        {
+          "id": "B",
+          "text": "判断扩散却无人承担具体后果",
+          "isCorrect": true,
+          "feedback": "第九课第一题：正确，匿名总体会稀释责任。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k09q1-misconception"
+    },
+    {
+      "id": "k09q2",
+      "kind": "multipleChoice",
+      "prompt": "单一个体为何不等于孤立者？",
+      "targetNodeIds": [
+        "k09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为可追责个体能够组成更真实的共同体",
+          "isCorrect": true,
+          "feedback": "第九课第二题：正确，责任是共同体条件而非敌人。"
+        },
+        {
+          "id": "B",
+          "text": "因为他以拒绝共同程序来维护不可转让的决定",
+          "isCorrect": false,
+          "feedback": "第九课第二题：错在把不可转让责任变成退出公共生活。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k09q2-misconception"
+    },
+    {
+      "id": "k09q3",
+      "kind": "multipleChoice",
+      "prompt": "多数支持在判断中可扮演什么角色？",
+      "targetNodeIds": [
+        "k09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "可成为理由之一但不能替代个人说明",
+          "isCorrect": true,
+          "feedback": "第九课第三题：正确，数量证据与责任归属须分开。"
+        },
+        {
+          "id": "B",
+          "text": "多数同意可替个人承担公共责任",
+          "isCorrect": false,
+          "feedback": "第九课第三题：错在把意见数量转成了个人责任的代理承担者。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k09q3-misconception"
+    },
+    {
+      "id": "k09q4",
+      "kind": "multipleChoice",
+      "prompt": "这一分析对民主制度作出何种结论？",
+      "targetNodeIds": [
+        "k09-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "未提供完整制度论，现代运用仍需程序与权力分析",
+          "isCorrect": true,
+          "feedback": "第九课第四题：正确，社会批判有明确边界。"
+        },
+        {
+          "id": "A",
+          "text": "公众的抽象性已经证明民主程序缺乏正当性",
+          "isCorrect": false,
+          "feedback": "第九课第四题：错在把舆论诊断冒充制度理论。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k09q4-misconception"
+    },
+    {
+      "id": "k10q1",
+      "kind": "multipleChoice",
+      "prompt": "苏格拉底方案怎样理解教师？",
+      "targetNodeIds": [
+        "k10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "教师创造学习者全部真理条件",
+          "isCorrect": false,
+          "feedback": "第十课第一题：错在把对照方案放回苏格拉底一侧。"
+        },
+        {
+          "id": "B",
+          "text": "教师唤醒学习者内部已有条件",
+          "isCorrect": true,
+          "feedback": "第十课第一题：正确，助产者原则限制教师地位。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k10q1-misconception"
+    },
+    {
+      "id": "k10q2",
+      "kind": "multipleChoice",
+      "prompt": "“瞬间”在思想实验中表示什么？",
+      "targetNodeIds": [
+        "k10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "个人作出决定的心理时刻",
+          "isCorrect": false,
+          "feedback": "第十课第二题：错在把永恒进入时间的结构缩成学习者的心理决定。"
+        },
+        {
+          "id": "B",
+          "text": "永恒者进入时间的决定性关系",
+          "isCorrect": true,
+          "feedback": "第十课第二题：正确，它不是单纯钟表长度。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k10q2-misconception"
+    },
+    {
+      "id": "k10q3",
+      "kind": "multipleChoice",
+      "prompt": "同时代人是否天然拥有信仰优势？",
+      "targetNodeIds": [
+        "k10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "否，他也面对卑微形态并须作存在回应",
+          "isCorrect": true,
+          "feedback": "第十课第三题：正确，日历距离不替代关系。"
+        },
+        {
+          "id": "B",
+          "text": "现场接触可直接确认教师身份",
+          "isCorrect": false,
+          "feedback": "第十课第三题：错在把较多现场材料直接换算成信仰身份的优势。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k10q3-misconception"
+    },
+    {
+      "id": "k10q4",
+      "kind": "multipleChoice",
+      "prompt": "历史证据与信仰应怎样关联？",
+      "targetNodeIds": [
+        "k10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "信仰关系使历史反证失去影响合理声称的能力",
+          "isCorrect": false,
+          "feedback": "第十课第四题：错在把非自动生成误成完全免检。"
+        },
+        {
+          "id": "B",
+          "text": "证据相关但不能靠数量累加直接生成信仰",
+          "isCorrect": true,
+          "feedback": "第十课第四题：正确，相关性与同一性被区分。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k10q4-misconception"
+    },
+    {
+      "id": "k11q1",
+      "kind": "multipleChoice",
+      "prompt": "悲剧英雄与亚伯拉罕的关键差别是什么？",
+      "targetNodeIds": [
+        "k11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "前者可诉诸更高的普遍伦理目的",
+          "isCorrect": true,
+          "feedback": "第十一课第一题：正确，可交流性构成结构差别。"
+        },
+        {
+          "id": "B",
+          "text": "前者的行动无需牺牲具有价值的私人关系",
+          "isCorrect": false,
+          "feedback": "第十一课第一题：错在忽略悲剧英雄也会作私人牺牲。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k11q1-misconception"
+    },
+    {
+      "id": "k11q2",
+      "kind": "multipleChoice",
+      "prompt": "无限放弃为何不等于信仰？",
+      "targetNodeIds": [
+        "k11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为放弃的运动缺少足够强烈的内在激情",
+          "isCorrect": false,
+          "feedback": "第十一课第二题：错在用情感强弱区分两种运动。"
+        },
+        {
+          "id": "B",
+          "text": "信仰还涉及在有限生活中重新领受",
+          "isCorrect": true,
+          "feedback": "第十一课第二题：正确，第二运动不能被省略。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k11q2-misconception"
+    },
+    {
+      "id": "k11q3",
+      "kind": "multipleChoice",
+      "prompt": "“信仰跳跃”在这一论述中怎样处理？",
+      "targetNodeIds": [
+        "k11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "保留为概括信仰质变的便捷术语，不再区分不同化名语境",
+          "isCorrect": false,
+          "feedback": "第十一课第三题：错在用便捷概括抹去了具体作品与化名声音的差异。"
+        },
+        {
+          "id": "B",
+          "text": "作为后世固定说法被纠正并还原到具体文本关系",
+          "isCorrect": true,
+          "feedback": "第十一课第三题：正确，质变不能替代对象与伦理审查。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k11q3-misconception"
+    },
+    {
+      "id": "k11q4",
+      "kind": "multipleChoice",
+      "prompt": "现实中的私人暴力命令应怎样处理？",
+      "targetNodeIds": [
+        "k11-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "先核对确信是否符合一贯价值",
+          "isCorrect": false,
+          "feedback": "第十一课第四题：错在把私人叙事的一致性放在公共安全与法律审查之前。"
+        },
+        {
+          "id": "A",
+          "text": "优先保护他人并接受证据与法律检验",
+          "isCorrect": true,
+          "feedback": "第十一课第四题：正确，存在决断不悬空公共安全。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k11q4-misconception"
+    },
+    {
+      "id": "k12q1",
+      "kind": "multipleChoice",
+      "prompt": "同时代性为何不是日历概念？",
+      "targetNodeIds": [
+        "k12-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它要求面对卑微基督的当下要求",
+          "isCorrect": true,
+          "feedback": "第十二课第一题：正确，关系不能由年代距离替代。"
+        },
+        {
+          "id": "B",
+          "text": "它只指与耶稣出生于同一年",
+          "isCorrect": false,
+          "feedback": "第十二课第一题：错在把存在关系缩成日期重合。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k12q1-misconception"
+    },
+    {
+      "id": "k12q2",
+      "kind": "multipleChoice",
+      "prompt": "后来历史胜利能否连续证明神性？",
+      "targetNodeIds": [
+        "k12-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "能，机构规模增长可以逐步构成神学证明",
+          "isCorrect": false,
+          "feedback": "第十二课第二题：错在把历史结果连续推成神人身份。"
+        },
+        {
+          "id": "A",
+          "text": "不能，后来声望不取消最初悖论",
+          "isCorrect": true,
+          "feedback": "第十二课第二题：正确，结果不能替人完成回应。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k12q2-misconception"
+    },
+    {
+      "id": "k12q3",
+      "kind": "multipleChoice",
+      "prompt": "崇拜与跟随的差别落在哪里？",
+      "targetNodeIds": [
+        "k12-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "生活是否受卑微、爱与责任的要求重塑",
+          "isCorrect": true,
+          "feedback": "第十二课第三题：正确，赞美语言不是实践替身。"
+        },
+        {
+          "id": "A",
+          "text": "是否能使用更宏大的赞美词",
+          "isCorrect": false,
+          "feedback": "第十二课第三题：错在用修辞强度代替模仿。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k12q3-misconception"
+    },
+    {
+      "id": "k12q4",
+      "kind": "multipleChoice",
+      "prompt": "“冒犯”概念不能做什么？",
+      "targetNodeIds": [
+        "k12-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "直接驳倒历史、概念和伦理批评",
+          "isCorrect": true,
+          "feedback": "第十二课第四题：正确，标签不能替代论证。"
+        },
+        {
+          "id": "A",
+          "text": "描述人面对悖论时的存在反应",
+          "isCorrect": false,
+          "feedback": "第十二课第四题：错在否认概念本来的描述作用。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k12q4-misconception"
+    },
+    {
+      "id": "k13q1",
+      "kind": "multipleChoice",
+      "prompt": "“你应当爱”首先命令什么？",
+      "targetNodeIds": [
+        "k13-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "随时制造同等强烈的亲密感觉",
+          "isCorrect": false,
+          "feedback": "第十三课第一题：错在把责任方向变成情绪强制。"
+        },
+        {
+          "id": "A",
+          "text": "不让偶然心情撤销他人的人格地位",
+          "isCorrect": true,
+          "feedback": "第十三课第一题：正确，命令稳定行动责任。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k13q1-misconception"
+    },
+    {
+      "id": "k13q2",
+      "kind": "multipleChoice",
+      "prompt": "邻人平等是否取消特殊责任？",
+      "targetNodeIds": [
+        "k13-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "否，具体责任可不同但基本关怀不被垄断",
+          "isCorrect": true,
+          "feedback": "第十三课第二题：正确，平等与差异并不互斥。"
+        },
+        {
+          "id": "A",
+          "text": "是，父母对孩子也不得多承担责任",
+          "isCorrect": false,
+          "feedback": "第十三课第二题：错在把人格平等误成关系同质。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k13q2-misconception"
+    },
+    {
+      "id": "k13q3",
+      "kind": "multipleChoice",
+      "prompt": "爱“相信一切”应怎样理解？",
+      "targetNodeIds": [
+        "k13-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "抵抗轻率恶意归因但仍接受证据",
+          "isCorrect": true,
+          "feedback": "第十三课第三题：正确，信任不取消现实判断。"
+        },
+        {
+          "id": "B",
+          "text": "即使有持续伤害证据也不得怀疑",
+          "isCorrect": false,
+          "feedback": "第十三课第三题：错在把慷慨解释变成故意无视反证。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k13q3-misconception"
+    },
+    {
+      "id": "k13q4",
+      "kind": "multipleChoice",
+      "prompt": "宽恕为何不直接恢复接触？",
+      "targetNodeIds": [
+        "k13-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "因为不恢复接触已经把宽恕转化为报复行为",
+          "isCorrect": false,
+          "feedback": "第十三课第四题：错在把不恢复接触误写成报复。"
+        },
+        {
+          "id": "A",
+          "text": "安全、信任和问责仍有独立条件",
+          "isCorrect": true,
+          "feedback": "第十三课第四题：正确，爱与边界可以同时成立。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k13q4-misconception"
+    },
+    {
+      "id": "k14q1",
+      "kind": "multipleChoice",
+      "prompt": "模仿批评的首要对象是什么？",
+      "targetNodeIds": [
+        "k14-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "只赞美却不让生活接受要求",
+          "isCorrect": true,
+          "feedback": "第十四课第一题：正确，旁观崇拜与实践被区分。"
+        },
+        {
+          "id": "A",
+          "text": "以健康、安全和公共改革减轻非自愿痛苦的行动",
+          "isCorrect": false,
+          "feedback": "第十四课第一题：错在把实践要求变成反健康立场。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k14q1-misconception"
+    },
+    {
+      "id": "k14q2",
+      "kind": "multipleChoice",
+      "prompt": "恩典为何不取消努力？",
+      "targetNodeIds": [
+        "k14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因为努力可以独立赚取救恩",
+          "isCorrect": false,
+          "feedback": "第十四课第二题：错在把恩典关系改成交易。"
+        },
+        {
+          "id": "B",
+          "text": "因为不能自救不等于可以逃避具体责任",
+          "isCorrect": true,
+          "feedback": "第十四课第二题：正确，依赖与行动须同时保留。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k14q2-misconception"
+    },
+    {
+      "id": "k14q3",
+      "kind": "multipleChoice",
+      "prompt": "受苦为何不是价值的直接证明？",
+      "targetNodeIds": [
+        "k14-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "受苦越深越能证明行动正当",
+          "isCorrect": false,
+          "feedback": "第十四课第三题：错在从代价强度直接推论行动的伦理价值。"
+        },
+        {
+          "id": "A",
+          "text": "伤害仍须按安全、正义与他人处境判断",
+          "isCorrect": true,
+          "feedback": "第十四课第三题：正确，痛苦本身不使行为神圣。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k14q3-misconception"
+    },
+    {
+      "id": "k14q4",
+      "kind": "multipleChoice",
+      "prompt": "受压迫者离开危险关系意味着什么？",
+      "targetNodeIds": [
+        "k14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "可与爱、真理和问责要求相一致",
+          "isCorrect": true,
+          "feedback": "第十四课第四题：正确，模仿不要求纵容伤害。"
+        },
+        {
+          "id": "B",
+          "text": "这种自我保护表明他拒绝基督教模仿的要求",
+          "isCorrect": false,
+          "feedback": "第十四课第四题：错在把自我保护等同属灵失败。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k14q4-misconception"
+    },
+    {
+      "id": "k15q1",
+      "kind": "multipleChoice",
+      "prompt": "基督教界批判的核心对象是什么？",
+      "targetNodeIds": [
+        "k15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "礼仪和共同照料作为制度实践的存在本身",
+          "isCorrect": false,
+          "feedback": "第十五课第一题：错在把具体制度批判泛化。"
+        },
+        {
+          "id": "B",
+          "text": "把成为基督徒变成默认社会身份",
+          "isCorrect": true,
+          "feedback": "第十五课第一题：正确，名称与实践发生脱节。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k15q1-misconception"
+    },
+    {
+      "id": "k15q2",
+      "kind": "multipleChoice",
+      "prompt": "“真理见证者”争议为何关键？",
+      "targetNodeIds": [
+        "k15-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "它把荣誉称号视为实践代价已经履行的证明",
+          "isCorrect": false,
+          "feedback": "第十五课第二题：错在用称号替代了对受苦见证与生活代价的核查。"
+        },
+        {
+          "id": "A",
+          "text": "它暴露荣誉称号与实践代价的差距",
+          "isCorrect": true,
+          "feedback": "第十五课第二题：正确，称号必须接受生活尺度。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k15q2-misconception"
+    },
+    {
+      "id": "k15q3",
+      "kind": "multipleChoice",
+      "prompt": "制度分析为何不能只找坏人？",
+      "targetNodeIds": [
+        "k15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "认可、职业与惯例也会共同降低要求",
+          "isCorrect": true,
+          "feedback": "第十五课第三题：正确，结构效果不等于个人动机总和。"
+        },
+        {
+          "id": "B",
+          "text": "因为结构条件会替制度成员承担其个人责任",
+          "isCorrect": false,
+          "feedback": "第十五课第三题：错在用结构条件取消个人归责。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k15q3-misconception"
+    },
+    {
+      "id": "k15q4",
+      "kind": "multipleChoice",
+      "prompt": "晚期论战可否直接适用于各类教会？",
+      "targetNodeIds": [
+        "k15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "不可以，现代迁移须重查制度与权力条件",
+          "isCorrect": true,
+          "feedback": "第十五课第四题：正确，历史批判有范围。"
+        },
+        {
+          "id": "B",
+          "text": "可以，丹麦国教的历史差异不影响现代迁移",
+          "isCorrect": false,
+          "feedback": "第十五课第四题：错在抹去丹麦国教的具体语境。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k15q4-misconception"
+    },
+    {
+      "id": "k16q1",
+      "kind": "multipleChoice",
+      "prompt": "后世重构首先应记录什么？",
+      "targetNodeIds": [
+        "k16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "列明新旧术语的对应，却不交代前提增删",
+          "isCorrect": false,
+          "feedback": "第十六课第一题：错在只做词语对应，没有记录论证前提的转换成本。"
+        },
+        {
+          "id": "B",
+          "text": "保留、删去与替换了哪些原作前提",
+          "isCorrect": true,
+          "feedback": "第十六课第一题：正确，转换成本必须可见。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k16q1-misconception"
+    },
+    {
+      "id": "k16q2",
+      "kind": "multipleChoice",
+      "prompt": "把自我改成纯粹自我创造会删去什么？",
+      "targetNodeIds": [
+        "k16-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "关系对自身选择与持续实践的依赖",
+          "isCorrect": false,
+          "feedback": "第十六课第二题：错在保留自我实践，却删去了关系由何种力量设立的神学层。"
+        },
+        {
+          "id": "A",
+          "text": "关系对设立自身之力量的依赖",
+          "isCorrect": true,
+          "feedback": "第十六课第二题：正确，神学结构发生实质变化。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k16q2-misconception"
+    },
+    {
+      "id": "k16q3",
+      "kind": "multipleChoice",
+      "prompt": "原义与后世用途应怎样评价？",
+      "targetNodeIds": [
+        "k16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "新用途可有价值，但其成功不证明与原义相同",
+          "isCorrect": true,
+          "feedback": "第十六课第三题：正确，影响与同一性须分开。"
+        },
+        {
+          "id": "B",
+          "text": "解决原问题即可视为原义延伸",
+          "isCorrect": false,
+          "feedback": "第十六课第三题：错在把问题连续性直接当成概念同一性。"
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "k16q3-misconception"
+    },
+    {
+      "id": "k16q4",
+      "kind": "multipleChoice",
+      "prompt": "身份边界的积极作用是什么？",
+      "targetNodeIds": [
+        "k16-node"
+      ],
+      "options": [
+        {
+          "id": "B",
+          "text": "让现代重构公开新增前提并接受检验",
+          "isCorrect": true,
+          "feedback": "第十六课第四题：正确，边界提高比较的诚实度。"
+        },
+        {
+          "id": "A",
+          "text": "把作品限制在原历史语境并拒绝现代问题",
+          "isCorrect": false,
+          "feedback": "第十六课第四题：错在把可检验迁移误成封锁。"
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "k16q4-misconception"
+    }
+  ]
+}

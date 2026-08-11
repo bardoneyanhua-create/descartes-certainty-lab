@@ -1,0 +1,5292 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "quine--Q01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Quine 的路线从逻辑经验主义内部问题出发，却把意义、证据与本体论重新安置在整体科学理论及其实际语言中；这不是简单宣布“形而上学复活”。",
+      "explanation": "Quine 的路线从逻辑经验主义内部问题出发，却把意义、证据与本体论重新安置在整体科学理论及其实际语言中；这不是简单宣布“形而上学复活”。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q01-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Quine corpus transition without revival slogan"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本体论争论不能从名字是否有指称直接开始；Quine 先把理论改写成清楚的量化形式，再问其真理要求哪些对象充当变项值。",
+      "explanation": "本体论争论不能从名字是否有指称直接开始；Quine 先把理论改写成清楚的量化形式，再问其真理要求哪些对象充当变项值。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q01-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "regimentation before ontology"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“存在就是成为受约束变项的值”是对已量化理论的承诺判准，不是说世界中的对象本身等同于语法符号。",
+      "explanation": "“存在就是成为受约束变项的值”是对已量化理论的承诺判准，不是说世界中的对象本身等同于语法符号。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q02-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bound-variable criterion"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "消去名称或描述可以避免某种表面承诺，但改写后的量词范围仍会显露理论承担的对象；语法技巧不能无条件把全部本体论成本变没。",
+      "explanation": "消去名称或描述可以避免某种表面承诺，但改写后的量词范围仍会显露理论承担的对象；语法技巧不能无条件把全部本体论成本变没。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q02-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "paraphrase and residual commitment"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "激进翻译场景把语言学家置于没有双语词典和既定分析假设的位置；可观察的言语倾向是约束，但不会自动给出逐词意义。",
+      "explanation": "激进翻译场景把语言学家置于没有双语词典和既定分析假设的位置；可观察的言语倾向是约束，但不会自动给出逐词意义。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q03-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "radical translation evidential setting"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "刺激意义按说话者在刺激条件下同意或不同意观察句的倾向刻画；它不是把某个物理对象直接贴成词的唯一所指。",
+      "explanation": "刺激意义按说话者在刺激条件下同意或不同意观察句的倾向刻画；它不是把某个物理对象直接贴成词的唯一所指。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q03-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "stimulus meaning versus reference"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“gavagai”并非仅表示资料太少：即使收集充分的可观察同意—反对倾向，兔、未分离兔部分与兔阶段仍可能配合不同分析假设。",
+      "explanation": "“gavagai”并非仅表示资料太少：即使收集充分的可观察同意—反对倾向，兔、未分离兔部分与兔阶段仍可能配合不同分析假设。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q04-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "gavagai and alternative segmentations"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "翻译手册必须借助分析假设把观察句扩展到更广语言结构；这些假设受整体言语行为约束，却未必由行为证据唯一决定。",
+      "explanation": "翻译手册必须借助分析假设把观察句扩展到更广语言结构；这些假设受整体言语行为约束，却未必由行为证据唯一决定。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q04-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "analytical hypotheses in translation"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "翻译不确定性主张可能有彼此不等价而与全部言语倾向相容的翻译手册；它不等于任何胡乱翻译都同样可接受。",
+      "explanation": "翻译不确定性主张可能有彼此不等价而与全部言语倾向相容的翻译手册；它不等于任何胡乱翻译都同样可接受。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q05-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "indeterminacy not anything-goes"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Quine 对翻译事实的限制并非笼统声称世界没有事实；争点是超出全部可观察言语倾向与可用理论约束后，是否还剩唯一翻译事实。",
+      "explanation": "Quine 对翻译事实的限制并非笼统声称世界没有事实；争点是超出全部可观察言语倾向与可用理论约束后，是否还剩唯一翻译事实。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q05-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "translation facts without global fact denial"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "指称不可测定针对词项如何映射到对象：在系统性补偿谓词解释后，不同指称方案可以保持句子层面的真值与行为证据。",
+      "explanation": "指称不可测定针对词项如何映射到对象：在系统性补偿谓词解释后，不同指称方案可以保持句子层面的真值与行为证据。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q06-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "inscrutability of reference"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "代理函数可把对象域系统地映射到另一对象域，并相应重释谓词而保存理论结构；因此孤立询问词“真正”指哪一个对象缺少绝对背景。",
+      "explanation": "代理函数可把对象域系统地映射到另一对象域，并相应重释谓词而保存理论结构；因此孤立询问词“真正”指哪一个对象缺少绝对背景。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q06-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "proxy functions and structural preservation"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“单身汉是未婚男子”若靠同义词解释分析性，就必须说明同义性而不能循环借回分析性；词典记录既有用法并不单独提供这种基础。",
+      "explanation": "“单身汉是未婚男子”若靠同义词解释分析性，就必须说明同义性而不能循环借回分析性；词典记录既有用法并不单独提供这种基础。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q07-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "synonymy circularity"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "保持真值的可互换性若依赖模态或“必然”语境，会把尚待解释的强度重新带回；在外延语言中，共外延也不足以保证认知同义。",
+      "explanation": "保持真值的可互换性若依赖模态或“必然”语境，会把尚待解释的强度重新带回；在外延语言中，共外延也不足以保证认知同义。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q07-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interchangeability and intensionality"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "为人工语言列出“语义规则”可以在该记号系统内标示分析句，但若用它解释一般分析性，仍需说明何种规则具有所需语义地位。",
+      "explanation": "为人工语言列出“语义规则”可以在该记号系统内标示分析句，但若用它解释一般分析性，仍需说明何种规则具有所需语义地位。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q08-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "semantic rules and explanatory burden"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Quine 的批判指向具有原则性、认识论分水岭作用的分析—综合区分；它不妨碍在明确形式系统中约定定义或按规则证明句子。",
+      "explanation": "Quine 的批判指向具有原则性、认识论分水岭作用的分析—综合区分；它不妨碍在明确形式系统中约定定义或按规则证明句子。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q08-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "analyticity critique versus stipulation"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "还原主义的目标不是一般地使用观察，而是为每个有意义陈述单独分配可确认经验；Quine 认为这种逐句单位无法支撑科学实践。",
+      "explanation": "还原主义的目标不是一般地使用观察，而是为每个有意义陈述单独分配可确认经验；Quine 认为这种逐句单位无法支撑科学实践。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q09-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "reductionism as statement-by-statement confirmation"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "经验反证触及的是相互连接的陈述网络；调整可落在辅助假设、分类、数学甚至逻辑的不同位置，但选择仍受整体简洁性与成功约束。",
+      "explanation": "经验反证触及的是相互连接的陈述网络；调整可落在辅助假设、分类、数学甚至逻辑的不同位置，但选择仍受整体简洁性与成功约束。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q09-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "web of belief under recalcitrant experience"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "逻辑与数学位于信念网络较中心处，因牵动广而较少修订；这是一种程度和代价差异，不是恢复不可修订的分析真理。",
+      "explanation": "逻辑与数学位于信念网络较中心处，因牵动广而较少修订；这是一种程度和代价差异，不是恢复不可修订的分析真理。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q10-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "centrality and revisability"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "确认整体论不等于所有陈述与所有观察联系同样强；观察句更靠近经验边缘，而理论选择还受保守性、简洁性和整体效能影响。",
+      "explanation": "确认整体论不等于所有陈述与所有观察联系同样强；观察句更靠近经验边缘，而理论选择还受保守性、简洁性和整体效能影响。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q10-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "holism with differentiated evidential roles"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自然化认识论接续的是对科学进行演绎重构与感官还原的失败；Quine 建议把人类如何从感官输入形成科学理论作为经验研究对象。",
+      "explanation": "自然化认识论接续的是对科学进行演绎重构与感官还原的失败；Quine 建议把人类如何从感官输入形成科学理论作为经验研究对象。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q11-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "naturalization after foundational reduction fails"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在自然化方案中，认识主体是物理世界内接受刺激并产生理论输出的对象；经验心理学可以合法进入认识论研究，而非被传统第一哲学禁止。",
+      "explanation": "在自然化方案中，认识主体是物理世界内接受刺激并产生理论输出的对象；经验心理学可以合法进入认识论研究，而非被传统第一哲学禁止。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q11-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "epistemology within empirical psychology"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“认识论成为心理学一章”直接给出描述性转向，却没有自动解决应当相信什么的全部规范问题；后继争论必须标为解释与批评声部。",
+      "explanation": "“认识论成为心理学一章”直接给出描述性转向，却没有自动解决应当相信什么的全部规范问题；后继争论必须标为解释与批评声部。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q12-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "normativity debate after naturalization"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把预测技术、证据管理与求真放进自然化框架，可以说明规范讨论未必等同于外在先验法庭；但这是对 Quine 方案的限定理解，不应偷换成无规范结论。",
+      "explanation": "把预测技术、证据管理与求真放进自然化框架，可以说明规范讨论未必等同于外在先验法庭；但这是对 Quine 方案的限定理解，不应偷换成无规范结论。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q12-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "instrumental normativity and truth orientation"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "问“什么对象存在”需要相对于背景语言和翻译/指称方案提出；本体论相对性不是说在给定理论内部量词范围毫无约束。",
+      "explanation": "问“什么对象存在”需要相对于背景语言和翻译/指称方案提出；本体论相对性不是说在给定理论内部量词范围毫无约束。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q13-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ontology relative to background theory"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "不同对象域可经结构保持的解释关联，并不推出“什么都不存在”；它限制绝对指称问题，同时保留理论内部的真值、量化与经验约束。",
+      "explanation": "不同对象域可经结构保持的解释关联，并不推出“什么都不存在”；它限制绝对指称问题，同时保留理论内部的真值、量化与经验约束。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q13-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ontological relativity without nihilism"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "当最佳理论以对象量化方式不可或缺地使用集合时，它承担集合的本体论承诺；承诺来自理论量化结构，不来自“set”这个词是否出现。",
+      "explanation": "当最佳理论以对象量化方式不可或缺地使用集合时，它承担集合的本体论承诺；承诺来自理论量化结构，不来自“set”这个词是否出现。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q14-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "set-theoretic ontological commitment"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Quine 对集合论的接受与限制放在科学理论整体的简洁、力量和风险中衡量；这既非从纯直觉推出唯一集合宇宙，也非把所有集合论当作等价。",
+      "explanation": "Quine 对集合论的接受与限制放在科学理论整体的简洁、力量和风险中衡量；这既非从纯直觉推出唯一集合宇宙，也非把所有集合论当作等价。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q14-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "set theory within holistic theory choice"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自然种类讨论把相似性、投射与学习放回生物和科学实践：可学习的相似性标准帮助解释归纳，却不是由纯逻辑预先列出所有合法种类。",
+      "explanation": "自然种类讨论把相似性、投射与学习放回生物和科学实践：可学习的相似性标准帮助解释归纳，却不是由纯逻辑预先列出所有合法种类。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q15-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "natural kinds, similarity, and learning"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "儿童学习指称依赖公共可校准的刺激、观察句与逐步对象化；这条发生学路线不能倒读成婴儿先拥有完整量词本体论再学词。",
+      "explanation": "儿童学习指称依赖公共可校准的刺激、观察句与逐步对象化；这条发生学路线不能倒读成婴儿先拥有完整量词本体论再学词。",
+      "identity": "quine-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q15-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "public cues in reference learning"
+      ],
+      "voiceClass": "quine-primary"
+    },
+    {
+      "id": "quine--Q16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Quine 与 Carnap 共享形式化和经验主义工程却在分析性与本体论框架上分歧；Davidson 又继承并改造翻译与解释问题。两种关系都属现代比较声部，不能写成 Quine 单声部引文。",
+      "explanation": "Quine 与 Carnap 共享形式化和经验主义工程却在分析性与本体论框架上分歧；Davidson 又继承并改造翻译与解释问题。两种关系都属现代比较声部，不能写成 Quine 单声部引文。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q16-c1"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Carnap disagreement and Davidson successor boundary"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线把分析性、整体确认、翻译、指称、自然化与本体论连成教学次序；这条次序是显式路线综合，不冒充 Quine 在单篇作品中给出的总体系目录。",
+      "explanation": "本路线把分析性、整体确认、翻译、指称、自然化与本体论连成教学次序；这条次序是显式路线综合，不冒充 Quine 在单篇作品中给出的总体系目录。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "quine--src-q16-c2"
+      ],
+      "abilityIds": [
+        "quine-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route synthesis"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "quine--src-q01-c1",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "Introduction; §§1–3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q01-c2",
+      "workId": "On What There Is",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1948]",
+      "locator": "pp. 1–19, especially pp. 7–8",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On What There Is",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q02-c1",
+      "workId": "On What There Is",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1948]",
+      "locator": "pp. 12–13: bound variables and ontological commitment",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On What There Is",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q02-c2",
+      "workId": "On What There Is",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1948]",
+      "locator": "pp. 5–8: Pegasus, descriptions, and quantified paraphrase",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On What There Is",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q03-c1",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter II, §§7–8: radical translation and native assent",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q03-c2",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter II, §§8–10: stimulus meaning and assent/dissent",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q04-c1",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter II, §12: gavagai, rabbit stages, and undetached rabbit parts",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q04-c2",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter II, §§15–16: analytical hypotheses and translation manuals",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q05-c1",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter II, §16: rival manuals compatible with total speech dispositions",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q05-c2",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "§6.2, “Indeterminacy of Translation”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q06-c1",
+      "workId": "Ontological Relativity",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 26–68, especially pp. 33–38",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ontological Relativity",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 26–68, especially pp. 33–38",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q06-c2",
+      "workId": "Ontological Relativity",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 54–61: proxy functions and transformed predicates",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ontological Relativity",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 54–61: proxy functions and transformed predicates",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q07-c1",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 20–32, §§1–3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q07-c2",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 27–32, §3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q08-c1",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 32–37, §4",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q08-c2",
+      "workId": "The Analytic/Synthetic Distinction",
+      "edition": "Stanford Encyclopedia of Philosophy, Summer 2026 edition",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: §4.2: Quinean objections and the scope of the distinction",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Analytic/Synthetic Distinction",
+      "stableUrl": "https://plato.stanford.edu/entries/analytic-synthetic/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: §4.2: Quinean objections and the scope of the distinction",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q09-c1",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 37–41, §5",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q09-c2",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 41–44, §6",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q10-c1",
+      "workId": "Two Dogmas of Empiricism",
+      "edition": "From a Logical Point of View, 2nd rev. ed., Harvard University Press, 1980 [essay 1951]",
+      "locator": "pp. 42–43, §6",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Two Dogmas of Empiricism",
+      "stableUrl": "https://archive.org/details/fromlogicalpoint00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q10-c2",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "§3, especially §§3.1–3.3 on evidence and holism",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q11-c1",
+      "workId": "Epistemology Naturalized",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 69–75",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Epistemology Naturalized",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 69–75",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q11-c2",
+      "workId": "Epistemology Naturalized",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 82–83: epistemology as a chapter of psychology",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Epistemology Naturalized",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 82–83: epistemology as a chapter of psychology",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q12-c1",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: §4, “Naturalized Epistemology”",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: §4, “Naturalized Epistemology”",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q12-c2",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: §4.3: normativity and naturalized epistemology",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: §4.3: normativity and naturalized epistemology",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q13-c1",
+      "workId": "Ontological Relativity",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 45–51: background language and relative reference",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ontological Relativity",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 45–51: background language and relative reference",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q13-c2",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "§6.2: ontological relativity / inscrutability of reference",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q14-c1",
+      "workId": "Word and Object",
+      "edition": "MIT Press, 1960",
+      "locator": "Chapter VII, §§48–49: ontology, classes, and regimentation",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Word and Object",
+      "stableUrl": "https://archive.org/details/wordobject00quin",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q14-c2",
+      "workId": "Set Theory and Its Logic",
+      "edition": "Harvard University Press, revised edition, 1969 [1st ed. 1963]",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: Chapter I, §§1–4: set-theoretic foundations and logical framework",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Set Theory and Its Logic",
+      "stableUrl": "https://books.google.com/books?id=8_syEAAAQBAJ",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: Chapter I, §§1–4: set-theoretic foundations and logical framework",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q15-c1",
+      "workId": "Natural Kinds",
+      "edition": "Ontological Relativity and Other Essays, Columbia University Press, 1969",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: pp. 114–138, especially pp. 123–128",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Natural Kinds",
+      "stableUrl": "https://cup.columbia.edu/book/ontological-relativity-and-other-essays/9780231083577/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: pp. 114–138, especially pp. 123–128",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q15-c2",
+      "workId": "The Roots of Reference",
+      "edition": "Open Court, 1973, ISBN 0-87548-123-X (Open Library OL5437758M)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: Part II, chapters on observation sentences and objective reference",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Roots of Reference",
+      "stableUrl": "https://openlibrary.org/books/OL5437758M/The_roots_of_reference",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: Part II, chapters on observation sentences and objective reference",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "quine-primary",
+      "year": null
+    },
+    {
+      "id": "quine--src-q16-c1",
+      "workId": "Willard Van Orman Quine",
+      "edition": "Stanford Encyclopedia of Philosophy, Spring 2019 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] PENDING_LOCATOR_GRANULARITY: §§2.1–2.3 and §6.2: Carnap, analyticity, and later reception of indeterminacy",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Willard Van Orman Quine",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2019/entries/quine/",
+      "boundaryZh": "PENDING_LOCATOR_GRANULARITY: §§2.1–2.3 and §6.2: Carnap, analyticity, and later reception of indeterminacy",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "quine--src-q16-c2",
+      "workId": "Quine route synthesis",
+      "edition": "Authoring synthesis based on the enumerated primary and scholarly sources",
+      "locator": "Internal provenance map: all 16 lessons, 32 claim IDs, and their 32 source bindings",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Quine route synthesis",
+      "stableUrl": "internal:src-q16-c2.provenanceMap",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "route-synthesis",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "quine-web-of-belief-reference-ontology",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "蒯因：信念之网、指称与本体论",
+      "lessonIds": [
+        "quine--quine-01",
+        "quine--quine-02",
+        "quine--quine-03",
+        "quine--quine-04",
+        "quine--quine-05",
+        "quine--quine-06",
+        "quine--quine-07",
+        "quine--quine-08",
+        "quine--quine-09",
+        "quine--quine-10",
+        "quine--quine-11",
+        "quine--quine-12",
+        "quine--quine-13",
+        "quine--quine-14",
+        "quine--quine-15",
+        "quine--quine-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "W. V. O. Quine",
+        "nameZh": "蒯因",
+        "sourceRouteId": "quine-web-of-belief-reference-ontology"
+      },
+      "summary": "1. 本体论承诺与改写"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "quine--quine-01",
+      "order": 1,
+      "title": "1. 本体论承诺与改写",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 本体论承诺与改写",
+      "coreExplanation": "Quine 的路线从逻辑经验主义内部问题出发，却把意义、证据与本体论重新安置在整体科学理论及其实际语言中；这不是简单宣布“形而上学复活”。\n\n本体论争论不能从名字是否有指称直接开始；Quine 先把理论改写成清楚的量化形式，再问其真理要求哪些对象充当变项值。",
+      "sections": [
+        {
+          "heading": "1. 本体论承诺与改写",
+          "paragraphs": [
+            "Quine 的路线从逻辑经验主义内部问题出发，却把意义、证据与本体论重新安置在整体科学理论及其实际语言中；这不是简单宣布“形而上学复活”。",
+            "本体论争论不能从名字是否有指称直接开始；Quine 先把理论改写成清楚的量化形式，再问其真理要求哪些对象充当变项值。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q01-c1",
+            "quine--src-q01-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q01-C1",
+        "quine--Q01-C2"
+      ],
+      "checkIds": [
+        "quine--Q01-C1-Q1",
+        "quine--Q01-C1-Q2",
+        "quine--Q01-C2-Q1",
+        "quine--Q01-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-02",
+      "sourceIds": [
+        "quine--src-q01-c1",
+        "quine--src-q01-c2"
+      ],
+      "essentialQuestion": "1. 本体论承诺与改写",
+      "initialFocusId": "quine--quine-01-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-02",
+      "order": 2,
+      "title": "2. 量词、名称与承诺",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 量词、名称与承诺",
+      "coreExplanation": "“存在就是成为受约束变项的值”是对已量化理论的承诺判准，不是说世界中的对象本身等同于语法符号。\n\n消去名称或描述可以避免某种表面承诺，但改写后的量词范围仍会显露理论承担的对象；语法技巧不能无条件把全部本体论成本变没。",
+      "sections": [
+        {
+          "heading": "2. 量词、名称与承诺",
+          "paragraphs": [
+            "“存在就是成为受约束变项的值”是对已量化理论的承诺判准，不是说世界中的对象本身等同于语法符号。",
+            "消去名称或描述可以避免某种表面承诺，但改写后的量词范围仍会显露理论承担的对象；语法技巧不能无条件把全部本体论成本变没。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q02-c1",
+            "quine--src-q02-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q02-C1",
+        "quine--Q02-C2"
+      ],
+      "checkIds": [
+        "quine--Q02-C1-Q1",
+        "quine--Q02-C1-Q2",
+        "quine--Q02-C2-Q1",
+        "quine--Q02-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-03",
+      "sourceIds": [
+        "quine--src-q02-c1",
+        "quine--src-q02-c2"
+      ],
+      "essentialQuestion": "2. 量词、名称与承诺",
+      "initialFocusId": "quine--quine-02-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-03",
+      "order": 3,
+      "title": "3. 激进翻译与刺激意义",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 激进翻译与刺激意义",
+      "coreExplanation": "激进翻译场景把语言学家置于没有双语词典和既定分析假设的位置；可观察的言语倾向是约束，但不会自动给出逐词意义。\n\n刺激意义按说话者在刺激条件下同意或不同意观察句的倾向刻画；它不是把某个物理对象直接贴成词的唯一所指。",
+      "sections": [
+        {
+          "heading": "3. 激进翻译与刺激意义",
+          "paragraphs": [
+            "激进翻译场景把语言学家置于没有双语词典和既定分析假设的位置；可观察的言语倾向是约束，但不会自动给出逐词意义。",
+            "刺激意义按说话者在刺激条件下同意或不同意观察句的倾向刻画；它不是把某个物理对象直接贴成词的唯一所指。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q03-c1",
+            "quine--src-q03-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q03-C1",
+        "quine--Q03-C2"
+      ],
+      "checkIds": [
+        "quine--Q03-C1-Q1",
+        "quine--Q03-C1-Q2",
+        "quine--Q03-C2-Q1",
+        "quine--Q03-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-04",
+      "sourceIds": [
+        "quine--src-q03-c1",
+        "quine--src-q03-c2"
+      ],
+      "essentialQuestion": "3. 激进翻译与刺激意义",
+      "initialFocusId": "quine--quine-03-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-04",
+      "order": 4,
+      "title": "4. gavagai 与分析假设",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. gavagai 与分析假设",
+      "coreExplanation": "“gavagai”并非仅表示资料太少：即使收集充分的可观察同意—反对倾向，兔、未分离兔部分与兔阶段仍可能配合不同分析假设。\n\n翻译手册必须借助分析假设把观察句扩展到更广语言结构；这些假设受整体言语行为约束，却未必由行为证据唯一决定。",
+      "sections": [
+        {
+          "heading": "4. gavagai 与分析假设",
+          "paragraphs": [
+            "“gavagai”并非仅表示资料太少：即使收集充分的可观察同意—反对倾向，兔、未分离兔部分与兔阶段仍可能配合不同分析假设。",
+            "翻译手册必须借助分析假设把观察句扩展到更广语言结构；这些假设受整体言语行为约束，却未必由行为证据唯一决定。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q04-c1",
+            "quine--src-q04-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q04-C1",
+        "quine--Q04-C2"
+      ],
+      "checkIds": [
+        "quine--Q04-C1-Q1",
+        "quine--Q04-C1-Q2",
+        "quine--Q04-C2-Q1",
+        "quine--Q04-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-05",
+      "sourceIds": [
+        "quine--src-q04-c1",
+        "quine--src-q04-c2"
+      ],
+      "essentialQuestion": "4. gavagai 与分析假设",
+      "initialFocusId": "quine--quine-04-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-05",
+      "order": 5,
+      "title": "5. 翻译不确定性及其限度",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 翻译不确定性及其限度",
+      "coreExplanation": "翻译不确定性主张可能有彼此不等价而与全部言语倾向相容的翻译手册；它不等于任何胡乱翻译都同样可接受。\n\nQuine 对翻译事实的限制并非笼统声称世界没有事实；争点是超出全部可观察言语倾向与可用理论约束后，是否还剩唯一翻译事实。",
+      "sections": [
+        {
+          "heading": "5. 翻译不确定性及其限度",
+          "paragraphs": [
+            "翻译不确定性主张可能有彼此不等价而与全部言语倾向相容的翻译手册；它不等于任何胡乱翻译都同样可接受。",
+            "Quine 对翻译事实的限制并非笼统声称世界没有事实；争点是超出全部可观察言语倾向与可用理论约束后，是否还剩唯一翻译事实。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q05-c1",
+            "quine--src-q05-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q05-C1",
+        "quine--Q05-C2"
+      ],
+      "checkIds": [
+        "quine--Q05-C1-Q1",
+        "quine--Q05-C1-Q2",
+        "quine--Q05-C2-Q1",
+        "quine--Q05-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-06",
+      "sourceIds": [
+        "quine--src-q05-c1",
+        "quine--src-q05-c2"
+      ],
+      "essentialQuestion": "5. 翻译不确定性及其限度",
+      "initialFocusId": "quine--quine-05-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-06",
+      "order": 6,
+      "title": "6. 指称不可测定与代理函数",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 指称不可测定与代理函数",
+      "coreExplanation": "指称不可测定针对词项如何映射到对象：在系统性补偿谓词解释后，不同指称方案可以保持句子层面的真值与行为证据。\n\n代理函数可把对象域系统地映射到另一对象域，并相应重释谓词而保存理论结构；因此孤立询问词“真正”指哪一个对象缺少绝对背景。",
+      "sections": [
+        {
+          "heading": "6. 指称不可测定与代理函数",
+          "paragraphs": [
+            "指称不可测定针对词项如何映射到对象：在系统性补偿谓词解释后，不同指称方案可以保持句子层面的真值与行为证据。",
+            "代理函数可把对象域系统地映射到另一对象域，并相应重释谓词而保存理论结构；因此孤立询问词“真正”指哪一个对象缺少绝对背景。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q06-c1",
+            "quine--src-q06-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q06-C1",
+        "quine--Q06-C2"
+      ],
+      "checkIds": [
+        "quine--Q06-C1-Q1",
+        "quine--Q06-C1-Q2",
+        "quine--Q06-C2-Q1",
+        "quine--Q06-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-07",
+      "sourceIds": [
+        "quine--src-q06-c1",
+        "quine--src-q06-c2"
+      ],
+      "essentialQuestion": "6. 指称不可测定与代理函数",
+      "initialFocusId": "quine--quine-06-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-07",
+      "order": 7,
+      "title": "7. 分析性：同义与可互换",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 分析性：同义与可互换",
+      "coreExplanation": "“单身汉是未婚男子”若靠同义词解释分析性，就必须说明同义性而不能循环借回分析性；词典记录既有用法并不单独提供这种基础。\n\n保持真值的可互换性若依赖模态或“必然”语境，会把尚待解释的强度重新带回；在外延语言中，共外延也不足以保证认知同义。",
+      "sections": [
+        {
+          "heading": "7. 分析性：同义与可互换",
+          "paragraphs": [
+            "“单身汉是未婚男子”若靠同义词解释分析性，就必须说明同义性而不能循环借回分析性；词典记录既有用法并不单独提供这种基础。",
+            "保持真值的可互换性若依赖模态或“必然”语境，会把尚待解释的强度重新带回；在外延语言中，共外延也不足以保证认知同义。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q07-c1",
+            "quine--src-q07-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q07-C1",
+        "quine--Q07-C2"
+      ],
+      "checkIds": [
+        "quine--Q07-C1-Q1",
+        "quine--Q07-C1-Q2",
+        "quine--Q07-C2-Q1",
+        "quine--Q07-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-08",
+      "sourceIds": [
+        "quine--src-q07-c1",
+        "quine--src-q07-c2"
+      ],
+      "essentialQuestion": "7. 分析性：同义与可互换",
+      "initialFocusId": "quine--quine-07-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-08",
+      "order": 8,
+      "title": "8. 语义规则与批判范围",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 语义规则与批判范围",
+      "coreExplanation": "为人工语言列出“语义规则”可以在该记号系统内标示分析句，但若用它解释一般分析性，仍需说明何种规则具有所需语义地位。\n\nQuine 的批判指向具有原则性、认识论分水岭作用的分析—综合区分；它不妨碍在明确形式系统中约定定义或按规则证明句子。",
+      "sections": [
+        {
+          "heading": "8. 语义规则与批判范围",
+          "paragraphs": [
+            "为人工语言列出“语义规则”可以在该记号系统内标示分析句，但若用它解释一般分析性，仍需说明何种规则具有所需语义地位。",
+            "Quine 的批判指向具有原则性、认识论分水岭作用的分析—综合区分；它不妨碍在明确形式系统中约定定义或按规则证明句子。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q08-c1",
+            "quine--src-q08-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q08-C1",
+        "quine--Q08-C2"
+      ],
+      "checkIds": [
+        "quine--Q08-C1-Q1",
+        "quine--Q08-C1-Q2",
+        "quine--Q08-C2-Q1",
+        "quine--Q08-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-09",
+      "sourceIds": [
+        "quine--src-q08-c1",
+        "quine--src-q08-c2"
+      ],
+      "essentialQuestion": "8. 语义规则与批判范围",
+      "initialFocusId": "quine--quine-08-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-09",
+      "order": 9,
+      "title": "9. 还原主义与确认整体论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 还原主义与确认整体论",
+      "coreExplanation": "还原主义的目标不是一般地使用观察，而是为每个有意义陈述单独分配可确认经验；Quine 认为这种逐句单位无法支撑科学实践。\n\n经验反证触及的是相互连接的陈述网络；调整可落在辅助假设、分类、数学甚至逻辑的不同位置，但选择仍受整体简洁性与成功约束。",
+      "sections": [
+        {
+          "heading": "9. 还原主义与确认整体论",
+          "paragraphs": [
+            "还原主义的目标不是一般地使用观察，而是为每个有意义陈述单独分配可确认经验；Quine 认为这种逐句单位无法支撑科学实践。",
+            "经验反证触及的是相互连接的陈述网络；调整可落在辅助假设、分类、数学甚至逻辑的不同位置，但选择仍受整体简洁性与成功约束。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q09-c1",
+            "quine--src-q09-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q09-C1",
+        "quine--Q09-C2"
+      ],
+      "checkIds": [
+        "quine--Q09-C1-Q1",
+        "quine--Q09-C1-Q2",
+        "quine--Q09-C2-Q1",
+        "quine--Q09-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-10",
+      "sourceIds": [
+        "quine--src-q09-c1",
+        "quine--src-q09-c2"
+      ],
+      "essentialQuestion": "9. 还原主义与确认整体论",
+      "initialFocusId": "quine--quine-09-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-10",
+      "order": 10,
+      "title": "10. 信念网络的中心与边缘",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 信念网络的中心与边缘",
+      "coreExplanation": "逻辑与数学位于信念网络较中心处，因牵动广而较少修订；这是一种程度和代价差异，不是恢复不可修订的分析真理。\n\n确认整体论不等于所有陈述与所有观察联系同样强；观察句更靠近经验边缘，而理论选择还受保守性、简洁性和整体效能影响。",
+      "sections": [
+        {
+          "heading": "10. 信念网络的中心与边缘",
+          "paragraphs": [
+            "逻辑与数学位于信念网络较中心处，因牵动广而较少修订；这是一种程度和代价差异，不是恢复不可修订的分析真理。",
+            "确认整体论不等于所有陈述与所有观察联系同样强；观察句更靠近经验边缘，而理论选择还受保守性、简洁性和整体效能影响。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q10-c1",
+            "quine--src-q10-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q10-C1",
+        "quine--Q10-C2"
+      ],
+      "checkIds": [
+        "quine--Q10-C1-Q1",
+        "quine--Q10-C1-Q2",
+        "quine--Q10-C2-Q1",
+        "quine--Q10-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-11",
+      "sourceIds": [
+        "quine--src-q10-c1",
+        "quine--src-q10-c2"
+      ],
+      "essentialQuestion": "10. 信念网络的中心与边缘",
+      "initialFocusId": "quine--quine-10-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-11",
+      "order": 11,
+      "title": "11. 自然化认识论的转折",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 自然化认识论的转折",
+      "coreExplanation": "自然化认识论接续的是对科学进行演绎重构与感官还原的失败；Quine 建议把人类如何从感官输入形成科学理论作为经验研究对象。\n\n在自然化方案中，认识主体是物理世界内接受刺激并产生理论输出的对象；经验心理学可以合法进入认识论研究，而非被传统第一哲学禁止。",
+      "sections": [
+        {
+          "heading": "11. 自然化认识论的转折",
+          "paragraphs": [
+            "自然化认识论接续的是对科学进行演绎重构与感官还原的失败；Quine 建议把人类如何从感官输入形成科学理论作为经验研究对象。",
+            "在自然化方案中，认识主体是物理世界内接受刺激并产生理论输出的对象；经验心理学可以合法进入认识论研究，而非被传统第一哲学禁止。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q11-c1",
+            "quine--src-q11-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q11-C1",
+        "quine--Q11-C2"
+      ],
+      "checkIds": [
+        "quine--Q11-C1-Q1",
+        "quine--Q11-C1-Q2",
+        "quine--Q11-C2-Q1",
+        "quine--Q11-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-12",
+      "sourceIds": [
+        "quine--src-q11-c1",
+        "quine--src-q11-c2"
+      ],
+      "essentialQuestion": "11. 自然化认识论的转折",
+      "initialFocusId": "quine--quine-11-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-12",
+      "order": 12,
+      "title": "12. 自然化之后的规范性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 自然化之后的规范性",
+      "coreExplanation": "“认识论成为心理学一章”直接给出描述性转向，却没有自动解决应当相信什么的全部规范问题；后继争论必须标为解释与批评声部。\n\n把预测技术、证据管理与求真放进自然化框架，可以说明规范讨论未必等同于外在先验法庭；但这是对 Quine 方案的限定理解，不应偷换成无规范结论。",
+      "sections": [
+        {
+          "heading": "12. 自然化之后的规范性",
+          "paragraphs": [
+            "“认识论成为心理学一章”直接给出描述性转向，却没有自动解决应当相信什么的全部规范问题；后继争论必须标为解释与批评声部。",
+            "把预测技术、证据管理与求真放进自然化框架，可以说明规范讨论未必等同于外在先验法庭；但这是对 Quine 方案的限定理解，不应偷换成无规范结论。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q12-c1",
+            "quine--src-q12-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q12-C1",
+        "quine--Q12-C2"
+      ],
+      "checkIds": [
+        "quine--Q12-C1-Q1",
+        "quine--Q12-C1-Q2",
+        "quine--Q12-C2-Q1",
+        "quine--Q12-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-13",
+      "sourceIds": [
+        "quine--src-q12-c1",
+        "quine--src-q12-c2"
+      ],
+      "essentialQuestion": "12. 自然化之后的规范性",
+      "initialFocusId": "quine--quine-12-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-13",
+      "order": 13,
+      "title": "13. 本体论相对性及其限度",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 本体论相对性及其限度",
+      "coreExplanation": "问“什么对象存在”需要相对于背景语言和翻译/指称方案提出；本体论相对性不是说在给定理论内部量词范围毫无约束。\n\n不同对象域可经结构保持的解释关联，并不推出“什么都不存在”；它限制绝对指称问题，同时保留理论内部的真值、量化与经验约束。",
+      "sections": [
+        {
+          "heading": "13. 本体论相对性及其限度",
+          "paragraphs": [
+            "问“什么对象存在”需要相对于背景语言和翻译/指称方案提出；本体论相对性不是说在给定理论内部量词范围毫无约束。",
+            "不同对象域可经结构保持的解释关联，并不推出“什么都不存在”；它限制绝对指称问题，同时保留理论内部的真值、量化与经验约束。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q13-c1",
+            "quine--src-q13-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q13-C1",
+        "quine--Q13-C2"
+      ],
+      "checkIds": [
+        "quine--Q13-C1-Q1",
+        "quine--Q13-C1-Q2",
+        "quine--Q13-C2-Q1",
+        "quine--Q13-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-14",
+      "sourceIds": [
+        "quine--src-q13-c1",
+        "quine--src-q13-c2"
+      ],
+      "essentialQuestion": "13. 本体论相对性及其限度",
+      "initialFocusId": "quine--quine-13-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-14",
+      "order": 14,
+      "title": "14. 集合、本体论与理论选择",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 集合、本体论与理论选择",
+      "coreExplanation": "当最佳理论以对象量化方式不可或缺地使用集合时，它承担集合的本体论承诺；承诺来自理论量化结构，不来自“set”这个词是否出现。\n\nQuine 对集合论的接受与限制放在科学理论整体的简洁、力量和风险中衡量；这既非从纯直觉推出唯一集合宇宙，也非把所有集合论当作等价。",
+      "sections": [
+        {
+          "heading": "14. 集合、本体论与理论选择",
+          "paragraphs": [
+            "当最佳理论以对象量化方式不可或缺地使用集合时，它承担集合的本体论承诺；承诺来自理论量化结构，不来自“set”这个词是否出现。",
+            "Quine 对集合论的接受与限制放在科学理论整体的简洁、力量和风险中衡量；这既非从纯直觉推出唯一集合宇宙，也非把所有集合论当作等价。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q14-c1",
+            "quine--src-q14-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q14-C1",
+        "quine--Q14-C2"
+      ],
+      "checkIds": [
+        "quine--Q14-C1-Q1",
+        "quine--Q14-C1-Q2",
+        "quine--Q14-C2-Q1",
+        "quine--Q14-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-15",
+      "sourceIds": [
+        "quine--src-q14-c1",
+        "quine--src-q14-c2"
+      ],
+      "essentialQuestion": "14. 集合、本体论与理论选择",
+      "initialFocusId": "quine--quine-14-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-15",
+      "order": 15,
+      "title": "15. 自然种类与指称学习",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 自然种类与指称学习",
+      "coreExplanation": "自然种类讨论把相似性、投射与学习放回生物和科学实践：可学习的相似性标准帮助解释归纳，却不是由纯逻辑预先列出所有合法种类。\n\n儿童学习指称依赖公共可校准的刺激、观察句与逐步对象化；这条发生学路线不能倒读成婴儿先拥有完整量词本体论再学词。",
+      "sections": [
+        {
+          "heading": "15. 自然种类与指称学习",
+          "paragraphs": [
+            "自然种类讨论把相似性、投射与学习放回生物和科学实践：可学习的相似性标准帮助解释归纳，却不是由纯逻辑预先列出所有合法种类。",
+            "儿童学习指称依赖公共可校准的刺激、观察句与逐步对象化；这条发生学路线不能倒读成婴儿先拥有完整量词本体论再学词。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q15-c1",
+            "quine--src-q15-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q15-C1",
+        "quine--Q15-C2"
+      ],
+      "checkIds": [
+        "quine--Q15-C1-Q1",
+        "quine--Q15-C1-Q2",
+        "quine--Q15-C2-Q1",
+        "quine--Q15-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "quine--quine-16",
+      "sourceIds": [
+        "quine--src-q15-c1",
+        "quine--src-q15-c2"
+      ],
+      "essentialQuestion": "15. 自然种类与指称学习",
+      "initialFocusId": "quine--quine-15-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "quine--quine-16",
+      "order": 16,
+      "title": "16. Carnap、Davidson 与路线边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. Carnap、Davidson 与路线边界",
+      "coreExplanation": "Quine 与 Carnap 共享形式化和经验主义工程却在分析性与本体论框架上分歧；Davidson 又继承并改造翻译与解释问题。两种关系都属现代比较声部，不能写成 Quine 单声部引文。\n\n本路线把分析性、整体确认、翻译、指称、自然化与本体论连成教学次序；这条次序是显式路线综合，不冒充 Quine 在单篇作品中给出的总体系目录。",
+      "sections": [
+        {
+          "heading": "16. Carnap、Davidson 与路线边界",
+          "paragraphs": [
+            "Quine 与 Carnap 共享形式化和经验主义工程却在分析性与本体论框架上分歧；Davidson 又继承并改造翻译与解释问题。两种关系都属现代比较声部，不能写成 Quine 单声部引文。",
+            "本路线把分析性、整体确认、翻译、指称、自然化与本体论连成教学次序；这条次序是显式路线综合，不冒充 Quine 在单篇作品中给出的总体系目录。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "quine--src-q16-c1",
+            "quine--src-q16-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "quine--Q16-C1",
+        "quine--Q16-C2"
+      ],
+      "checkIds": [
+        "quine--Q16-C1-Q1",
+        "quine--Q16-C1-Q2",
+        "quine--Q16-C2-Q1",
+        "quine--Q16-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "quine--src-q16-c1",
+        "quine--src-q16-c2"
+      ],
+      "essentialQuestion": "16. Carnap、Davidson 与路线边界",
+      "initialFocusId": "quine--quine-16-title",
+      "routeId": "quine-web-of-belief-reference-ontology",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "quine--Q01-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“本体论承诺与改写”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q01-C1-Q1-1",
+          "text": "Quine 的路线从逻辑经验主义内部问题出发，却把意义、证据与本体论重新安置在整体科学理论及其实际语言中；这不是简单宣布“形而上学复活”。",
+          "feedback": "该命题成立，因为Quine 的连续性在于自然主义取向；作品分散于逻辑、语言、认识论与本体论，不能压成单篇演绎。证据状态：CLOSED；定位 Introduction; §§1–3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q01-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C1"
+          ]
+        },
+        {
+          "id": "quine--Q01-C1-Q1-2",
+          "text": "把 Quine 描写成完全抛弃逻辑与经验主义、转而恢复前批判形而上学。",
+          "feedback": "该命题把本段区分倒置；它具体断言“把 Quine 描写成完全抛弃逻辑与经验主义、转而恢复前批判形而上学。”，而Quine 的连续性在于自然主义取向；作品分散于逻辑、语言、认识论与本体论，不能压成单篇演绎。证据状态：CLOSED；定位 Introduction; §§1–3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q01-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q01-C1-Q1-1",
+      "misconceptionId": "quine--Q01-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q01-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q01-C1-Q2",
+      "kind": "binary",
+      "prompt": "一位学生把 Quine 说成恢复传统形而上学时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q01-C1-Q2-1",
+          "text": "Quine 的所有成熟论题都只是同一篇文章中按固定次序展开的单一演绎体系。",
+          "feedback": "该案例另犯迁移错误；它具体断言“Quine 的所有成熟论题都只是同一篇文章中按固定次序展开的单一演绎体系。”，但Quine 的连续性在于自然主义取向；作品分散于逻辑、语言、认识论与本体论，不能压成单篇演绎。证据状态：CLOSED；定位 Introduction; §§1–3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q01-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C1"
+          ]
+        },
+        {
+          "id": "quine--Q01-C1-Q2-2",
+          "text": "本体论与语言分析相连，但不能化约成一句“形而上学复活”口号。",
+          "feedback": "这个新案例的结论成立，因为Quine 的连续性在于自然主义取向；作品分散于逻辑、语言、认识论与本体论，不能压成单篇演绎。证据状态：CLOSED；定位 Introduction; §§1–3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q01-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q01-C1-Q2-2",
+      "misconceptionId": "quine--Q01-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q01-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q01-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q01-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“本体论承诺与改写”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q01-C2-Q1-1",
+          "text": "本体论争论不能从名字是否有指称直接开始；Quine 先把理论改写成清楚的量化形式，再问其真理要求哪些对象充当变项值。",
+          "feedback": "该命题成立，因为改写只暴露承诺，承诺取决于理论为真所需的变项值，不是语法创造对象。证据状态：CLOSED；定位 pp. 1–19, especially pp. 7–8。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q01-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C2"
+          ]
+        },
+        {
+          "id": "quine--Q01-C2-Q1-2",
+          "text": "只要句子出现 Pegasus 这个名字，理论就已经承诺存在 Pegasus。",
+          "feedback": "该命题把本段区分倒置；它具体断言“只要句子出现 Pegasus 这个名字，理论就已经承诺存在 Pegasus。”，而改写只暴露承诺，承诺取决于理论为真所需的变项值，不是语法创造对象。证据状态：CLOSED；定位 pp. 1–19, especially pp. 7–8。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q01-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q01-C2-Q1-1",
+      "misconceptionId": "quine--Q01-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q01-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q01-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-01",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q01-C2-Q2",
+      "kind": "binary",
+      "prompt": "整理一个含虚构名称的理论时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q01-C2-Q2-1",
+          "text": "只要把句子翻译成量词语言，量词所遍历的对象就会由语法自动创造出来。",
+          "feedback": "该案例另犯迁移错误；它具体断言“只要把句子翻译成量词语言，量词所遍历的对象就会由语法自动创造出来。”，但改写只暴露承诺，承诺取决于理论为真所需的变项值，不是语法创造对象。证据状态：CLOSED；定位 pp. 1–19, especially pp. 7–8。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q01-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C2"
+          ]
+        },
+        {
+          "id": "quine--Q01-C2-Q2-2",
+          "text": "先改写再量化，能避免从表面名称直接推断存在。",
+          "feedback": "这个新案例的结论成立，因为改写只暴露承诺，承诺取决于理论为真所需的变项值，不是语法创造对象。证据状态：CLOSED；定位 pp. 1–19, especially pp. 7–8。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q01-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q01-C2-Q2-2",
+      "misconceptionId": "quine--Q01-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q01-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q01-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q01-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-01",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“量词、名称与承诺”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q02-C1-Q1-1",
+          "text": "“存在就是成为受约束变项的值”是对已量化理论的承诺判准，不是说世界中的对象本身等同于语法符号。",
+          "feedback": "该命题成立，因为量词判准针对已整理理论；未在某一表述中量化不等于跨理论否定存在。证据状态：CLOSED；定位 pp. 12–13: bound variables and ontological commitment。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q02-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C1"
+          ]
+        },
+        {
+          "id": "quine--Q02-C1-Q1-2",
+          "text": "该判准把对象和写在纸上的变量认作同一种东西。",
+          "feedback": "该命题把本段区分倒置；它具体断言“该判准把对象和写在纸上的变量认作同一种东西。”，而量词判准针对已整理理论；未在某一表述中量化不等于跨理论否定存在。证据状态：CLOSED；定位 pp. 12–13: bound variables and ontological commitment。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q02-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q02-C1-Q1-1",
+      "misconceptionId": "quine--Q02-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q02-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q02-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-02",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C1-Q2",
+      "kind": "binary",
+      "prompt": "比较对象与量词变量时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q02-C1-Q2-1",
+          "text": "没有出现在受约束变项位置的表达式所谈对象必定不存在于任何理论中。",
+          "feedback": "该案例另犯迁移错误；它具体断言“没有出现在受约束变项位置的表达式所谈对象必定不存在于任何理论中。”，但量词判准针对已整理理论；未在某一表述中量化不等于跨理论否定存在。证据状态：CLOSED；定位 pp. 12–13: bound variables and ontological commitment。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q02-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C1"
+          ]
+        },
+        {
+          "id": "quine--Q02-C1-Q2-2",
+          "text": "判准评估的是理论的量化承诺，而不是把对象变成语法符号。",
+          "feedback": "这个新案例的结论成立，因为量词判准针对已整理理论；未在某一表述中量化不等于跨理论否定存在。证据状态：CLOSED；定位 pp. 12–13: bound variables and ontological commitment。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q02-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q02-C1-Q2-2",
+      "misconceptionId": "quine--Q02-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q02-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q02-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q02-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-02",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“量词、名称与承诺”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q02-C2-Q1-1",
+          "text": "消去名称或描述可以避免某种表面承诺，但改写后的量词范围仍会显露理论承担的对象；语法技巧不能无条件把全部本体论成本变没。",
+          "feedback": "该命题成立，因为描述改写能处理虚构名称，却仍可能量化性质或满足描述的对象。证据状态：CLOSED；定位 pp. 5–8: Pegasus, descriptions, and quantified paraphrase。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q02-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C2"
+          ]
+        },
+        {
+          "id": "quine--Q02-C2-Q1-2",
+          "text": "任何名称都能被改写掉，所以任何理论都可以做到完全没有本体论承诺。",
+          "feedback": "该命题把本段区分倒置；它具体断言“任何名称都能被改写掉，所以任何理论都可以做到完全没有本体论承诺。”，而描述改写能处理虚构名称，却仍可能量化性质或满足描述的对象。证据状态：CLOSED；定位 pp. 5–8: Pegasus, descriptions, and quantified paraphrase。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q02-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q02-C2-Q1-1",
+      "misconceptionId": "quine--Q02-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q02-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q02-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-02",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q02-C2-Q2",
+      "kind": "binary",
+      "prompt": "改写“Pegasus 不存在”时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q02-C2-Q2-1",
+          "text": "把 Pegasus 改写成描述词后，理论便同时消除了对性质和对象的全部量化。",
+          "feedback": "该案例另犯迁移错误；它具体断言“把 Pegasus 改写成描述词后，理论便同时消除了对性质和对象的全部量化。”，但描述改写能处理虚构名称，却仍可能量化性质或满足描述的对象。证据状态：CLOSED；定位 pp. 5–8: Pegasus, descriptions, and quantified paraphrase。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q02-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C2"
+          ]
+        },
+        {
+          "id": "quine--Q02-C2-Q2-2",
+          "text": "消去名称之后仍须检查量词域，不能宣称承诺自动归零。",
+          "feedback": "这个新案例的结论成立，因为描述改写能处理虚构名称，却仍可能量化性质或满足描述的对象。证据状态：CLOSED；定位 pp. 5–8: Pegasus, descriptions, and quantified paraphrase。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q02-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q02-C2-Q2-2",
+      "misconceptionId": "quine--Q02-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q02-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q02-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q02-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-02",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“激进翻译与刺激意义”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q03-C1-Q1-1",
+          "text": "激进翻译场景把语言学家置于没有双语词典和既定分析假设的位置；可观察的言语倾向是约束，但不会自动给出逐词意义。",
+          "feedback": "该命题成立，因为激进翻译特意撤去现成词典，以言语倾向约束而非预装译法。证据状态：CLOSED；定位 Chapter II, §§7–8: radical translation and native assent。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q03-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C1"
+          ]
+        },
+        {
+          "id": "quine--Q03-C1-Q1-2",
+          "text": "语言学家一听到一次 gavagai，就已经获得该词唯一且完整的词典释义。",
+          "feedback": "该命题把本段区分倒置；它具体断言“语言学家一听到一次 gavagai，就已经获得该词唯一且完整的词典释义。”，而激进翻译特意撤去现成词典，以言语倾向约束而非预装译法。证据状态：CLOSED；定位 Chapter II, §§7–8: radical translation and native assent。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q03-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q03-C1-Q1-1",
+      "misconceptionId": "quine--Q03-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q03-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q03-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-03",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C1-Q2",
+      "kind": "binary",
+      "prompt": "语言学家首次进入无词典田野时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q03-C1-Q2-1",
+          "text": "激进翻译允许译者先采用现成双语词典，再用田野反应装饰既定译法。",
+          "feedback": "该案例另犯迁移错误；它具体断言“激进翻译允许译者先采用现成双语词典，再用田野反应装饰既定译法。”，但激进翻译特意撤去现成词典，以言语倾向约束而非预装译法。证据状态：CLOSED；定位 Chapter II, §§7–8: radical translation and native assent。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q03-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C1"
+          ]
+        },
+        {
+          "id": "quine--Q03-C1-Q2-2",
+          "text": "一次指点不足以固定词义，后续言语倾向仍只是约束条件。",
+          "feedback": "这个新案例的结论成立，因为激进翻译特意撤去现成词典，以言语倾向约束而非预装译法。证据状态：CLOSED；定位 Chapter II, §§7–8: radical translation and native assent。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q03-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q03-C1-Q2-2",
+      "misconceptionId": "quine--Q03-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q03-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q03-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q03-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-03",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“激进翻译与刺激意义”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q03-C2-Q1-1",
+          "text": "刺激意义按说话者在刺激条件下同意或不同意观察句的倾向刻画；它不是把某个物理对象直接贴成词的唯一所指。",
+          "feedback": "该命题成立，因为刺激意义属于句子层面的同意倾向，不能逐词固定对象指称。证据状态：CLOSED；定位 Chapter II, §§8–10: stimulus meaning and assent/dissent。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q03-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C2"
+          ]
+        },
+        {
+          "id": "quine--Q03-C2-Q1-2",
+          "text": "刺激意义就是被指物本身，因此同一刺激意义必然锁定同一对象划分。",
+          "feedback": "该命题把本段区分倒置；它具体断言“刺激意义就是被指物本身，因此同一刺激意义必然锁定同一对象划分。”，而刺激意义属于句子层面的同意倾向，不能逐词固定对象指称。证据状态：CLOSED；定位 Chapter II, §§8–10: stimulus meaning and assent/dissent。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q03-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q03-C2-Q1-1",
+      "misconceptionId": "quine--Q03-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q03-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q03-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-03",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q03-C2-Q2",
+      "kind": "binary",
+      "prompt": "比较两个观察句的同意倾向时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q03-C2-Q2-1",
+          "text": "两句话刺激意义相同便保证其中每个词都逐一对应同一种对象。",
+          "feedback": "该案例另犯迁移错误；它具体断言“两句话刺激意义相同便保证其中每个词都逐一对应同一种对象。”，但刺激意义属于句子层面的同意倾向，不能逐词固定对象指称。证据状态：CLOSED；定位 Chapter II, §§8–10: stimulus meaning and assent/dissent。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q03-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C2"
+          ]
+        },
+        {
+          "id": "quine--Q03-C2-Q2-2",
+          "text": "相同刺激意义可以与不同对象切分相容，因此它不等同于唯一指称。",
+          "feedback": "这个新案例的结论成立，因为刺激意义属于句子层面的同意倾向，不能逐词固定对象指称。证据状态：CLOSED；定位 Chapter II, §§8–10: stimulus meaning and assent/dissent。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q03-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q03-C2-Q2-2",
+      "misconceptionId": "quine--Q03-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q03-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q03-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q03-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-03",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“gavagai 与分析假设”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q04-C1-Q1-1",
+          "text": "“gavagai”并非仅表示资料太少：即使收集充分的可观察同意—反对倾向，兔、未分离兔部分与兔阶段仍可能配合不同分析假设。",
+          "feedback": "该命题成立，因为gavagai 的竞争项改变对象切分而非声音，正是不可测定性的来源。证据状态：CLOSED；定位 Chapter II, §12: gavagai, rabbit stages, and undetached rabbit parts。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q04-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C1"
+          ]
+        },
+        {
+          "id": "quine--Q04-C1-Q1-2",
+          "text": "困难只来自第一次听词时样本太少；收集足够指点实例后对象划分必然唯一。",
+          "feedback": "该命题把本段区分倒置；它具体断言“困难只来自第一次听词时样本太少；收集足够指点实例后对象划分必然唯一。”，而gavagai 的竞争项改变对象切分而非声音，正是不可测定性的来源。证据状态：CLOSED；定位 Chapter II, §12: gavagai, rabbit stages, and undetached rabbit parts。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q04-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q04-C1-Q1-1",
+      "misconceptionId": "quine--Q04-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q04-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q04-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-04",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C1-Q2",
+      "kind": "binary",
+      "prompt": "兔子经过且说话者喊出 gavagai 时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q04-C1-Q2-1",
+          "text": "兔阶段与未分离兔部分只是两个不同发音，不能形成竞争的对象化方案。",
+          "feedback": "该案例另犯迁移错误；它具体断言“兔阶段与未分离兔部分只是两个不同发音，不能形成竞争的对象化方案。”，但gavagai 的竞争项改变对象切分而非声音，正是不可测定性的来源。证据状态：CLOSED；定位 Chapter II, §12: gavagai, rabbit stages, and undetached rabbit parts。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q04-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C1"
+          ]
+        },
+        {
+          "id": "quine--Q04-C1-Q2-2",
+          "text": "gavagai 难题在充分行为资料下仍涉及对象切分，不只是样本不足。",
+          "feedback": "这个新案例的结论成立，因为gavagai 的竞争项改变对象切分而非声音，正是不可测定性的来源。证据状态：CLOSED；定位 Chapter II, §12: gavagai, rabbit stages, and undetached rabbit parts。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q04-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q04-C1-Q2-2",
+      "misconceptionId": "quine--Q04-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q04-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q04-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q04-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-04",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“gavagai 与分析假设”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q04-C2-Q1-1",
+          "text": "翻译手册必须借助分析假设把观察句扩展到更广语言结构；这些假设受整体言语行为约束，却未必由行为证据唯一决定。",
+          "feedback": "该命题成立，因为分析假设扩展到理论语言后仍可能形成与全部行为相容的不等价手册。证据状态：CLOSED；定位 Chapter II, §§15–16: analytical hypotheses and translation manuals。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q04-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C2"
+          ]
+        },
+        {
+          "id": "quine--Q04-C2-Q1-2",
+          "text": "分析假设是译者任意编造、完全不受说话者言语倾向约束的故事。",
+          "feedback": "该命题把本段区分倒置；它具体断言“分析假设是译者任意编造、完全不受说话者言语倾向约束的故事。”，而分析假设扩展到理论语言后仍可能形成与全部行为相容的不等价手册。证据状态：CLOSED；定位 Chapter II, §§15–16: analytical hypotheses and translation manuals。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q04-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q04-C2-Q1-1",
+      "misconceptionId": "quine--Q04-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q04-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q04-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-04",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q04-C2-Q2",
+      "kind": "binary",
+      "prompt": "把观察句翻译扩展到理论句时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q04-C2-Q2-1",
+          "text": "只要两个手册在观察句上相同，它们在所有理论句上就必定逐词同义。",
+          "feedback": "该案例另犯迁移错误；它具体断言“只要两个手册在观察句上相同，它们在所有理论句上就必定逐词同义。”，但分析假设扩展到理论语言后仍可能形成与全部行为相容的不等价手册。证据状态：CLOSED；定位 Chapter II, §§15–16: analytical hypotheses and translation manuals。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q04-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C2"
+          ]
+        },
+        {
+          "id": "quine--Q04-C2-Q2-2",
+          "text": "分析假设受整体行为约束，同时可能存在不唯一的合格手册。",
+          "feedback": "这个新案例的结论成立，因为分析假设扩展到理论语言后仍可能形成与全部行为相容的不等价手册。证据状态：CLOSED；定位 Chapter II, §§15–16: analytical hypotheses and translation manuals。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q04-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q04-C2-Q2-2",
+      "misconceptionId": "quine--Q04-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q04-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q04-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q04-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-04",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q05-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“翻译不确定性及其限度”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q05-C1-Q1-1",
+          "text": "翻译不确定性主张可能有彼此不等价而与全部言语倾向相容的翻译手册；它不等于任何胡乱翻译都同样可接受。",
+          "feedback": "该命题成立，因为不确定性要求竞争手册都符合言语倾向，所以不等价本身不构成行为违例。证据状态：CLOSED；定位 Chapter II, §16: rival manuals compatible with total speech dispositions。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q05-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C1"
+          ]
+        },
+        {
+          "id": "quine--Q05-C1-Q1-2",
+          "text": "既然翻译不确定，任何译文无论是否符合言语行为都同样正确。",
+          "feedback": "该命题把本段区分倒置；它具体断言“既然翻译不确定，任何译文无论是否符合言语行为都同样正确。”，而不确定性要求竞争手册都符合言语倾向，所以不等价本身不构成行为违例。证据状态：CLOSED；定位 Chapter II, §16: rival manuals compatible with total speech dispositions。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q05-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q05-C1-Q1-1",
+      "misconceptionId": "quine--Q05-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q05-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q05-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-05",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q05-C1-Q2",
+      "kind": "binary",
+      "prompt": "比较两部都符合言语行为的手册时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q05-C1-Q2-1",
+          "text": "翻译手册之间一旦不等价，至少一个必然违反所有可观察言语倾向。",
+          "feedback": "该案例另犯迁移错误；它具体断言“翻译手册之间一旦不等价，至少一个必然违反所有可观察言语倾向。”，但不确定性要求竞争手册都符合言语倾向，所以不等价本身不构成行为违例。证据状态：CLOSED；定位 Chapter II, §16: rival manuals compatible with total speech dispositions。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q05-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C1"
+          ]
+        },
+        {
+          "id": "quine--Q05-C1-Q2-2",
+          "text": "不确定性比较的是同样符合全部言语倾向的手册，不保护胡乱译文。",
+          "feedback": "这个新案例的结论成立，因为不确定性要求竞争手册都符合言语倾向，所以不等价本身不构成行为违例。证据状态：CLOSED；定位 Chapter II, §16: rival manuals compatible with total speech dispositions。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q05-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q05-C1-Q2-2",
+      "misconceptionId": "quine--Q05-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q05-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q05-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q05-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-05",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q05-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“翻译不确定性及其限度”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q05-C2-Q1-1",
+          "text": "Quine 对翻译事实的限制并非笼统声称世界没有事实；争点是超出全部可观察言语倾向与可用理论约束后，是否还剩唯一翻译事实。",
+          "feedback": "该命题成立，因为Quine 限制超出行为与理论约束的唯一翻译事实，同时保留可观察同意事实。证据状态：CLOSED；定位 §6.2, “Indeterminacy of Translation”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q05-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C2"
+          ]
+        },
+        {
+          "id": "quine--Q05-C2-Q1-2",
+          "text": "Quine 的结论是物理事件、言语行为和科学事实一概不存在。",
+          "feedback": "该命题把本段区分倒置；它具体断言“Quine 的结论是物理事件、言语行为和科学事实一概不存在。”，而Quine 限制超出行为与理论约束的唯一翻译事实，同时保留可观察同意事实。证据状态：CLOSED；定位 §6.2, “Indeterminacy of Translation”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q05-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q05-C2-Q1-1",
+      "misconceptionId": "quine--Q05-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q05-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q05-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-05",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q05-C2-Q2",
+      "kind": "binary",
+      "prompt": "区分物理事实与唯一译法时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q05-C2-Q2-1",
+          "text": "拒绝唯一翻译事实会使说话者是否同意一个观察句也失去事实性。",
+          "feedback": "该案例另犯迁移错误；它具体断言“拒绝唯一翻译事实会使说话者是否同意一个观察句也失去事实性。”，但Quine 限制超出行为与理论约束的唯一翻译事实，同时保留可观察同意事实。证据状态：CLOSED；定位 §6.2, “Indeterminacy of Translation”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q05-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C2"
+          ]
+        },
+        {
+          "id": "quine--Q05-C2-Q2-2",
+          "text": "限制唯一翻译事实不等于否认物理事实与可观察言语行为。",
+          "feedback": "这个新案例的结论成立，因为Quine 限制超出行为与理论约束的唯一翻译事实，同时保留可观察同意事实。证据状态：CLOSED；定位 §6.2, “Indeterminacy of Translation”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q05-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q05-C2-Q2-2",
+      "misconceptionId": "quine--Q05-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q05-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q05-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q05-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-05",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q06-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“指称不可测定与代理函数”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q06-C1-Q1-1",
+          "text": "指称不可测定针对词项如何映射到对象：在系统性补偿谓词解释后，不同指称方案可以保持句子层面的真值与行为证据。",
+          "feedback": "该命题成立，因为不可测定性是否定无背景绝对指称，不是否定理论内部可用的相对指称。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q06-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C1"
+          ]
+        },
+        {
+          "id": "quine--Q06-C1-Q1-2",
+          "text": "它只是说人偶尔会把一个词误听成另一个词，与整体解释方案无关。",
+          "feedback": "该命题把本段区分倒置；它具体断言“它只是说人偶尔会把一个词误听成另一个词，与整体解释方案无关。”，而不可测定性是否定无背景绝对指称，不是否定理论内部可用的相对指称。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q06-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q06-C1-Q1-1",
+      "misconceptionId": "quine--Q06-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q06-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q06-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-06",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q06-C1-Q2",
+      "kind": "binary",
+      "prompt": "整体重排词项指称时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q06-C1-Q2-1",
+          "text": "保持整句真值的指称重排证明每个词在任何背景中都没有可用指称。",
+          "feedback": "该案例另犯迁移错误；它具体断言“保持整句真值的指称重排证明每个词在任何背景中都没有可用指称。”，但不可测定性是否定无背景绝对指称，不是否定理论内部可用的相对指称。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q06-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C1"
+          ]
+        },
+        {
+          "id": "quine--Q06-C1-Q2-2",
+          "text": "指称方案须连同谓词系统一起比较，不能缩成偶发误听。",
+          "feedback": "这个新案例的结论成立，因为不可测定性是否定无背景绝对指称，不是否定理论内部可用的相对指称。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q06-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q06-C1-Q2-2",
+      "misconceptionId": "quine--Q06-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q06-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q06-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q06-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-06",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q06-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“指称不可测定与代理函数”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q06-C2-Q1-1",
+          "text": "代理函数可把对象域系统地映射到另一对象域，并相应重释谓词而保存理论结构；因此孤立询问词“真正”指哪一个对象缺少绝对背景。",
+          "feedback": "该命题成立，因为代理方案必须同步重释谓词，结构保持来自系统补偿。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q06-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C2"
+          ]
+        },
+        {
+          "id": "quine--Q06-C2-Q1-2",
+          "text": "代理函数只替换一个名词而不调整任何谓词，却仍保证所有句子真值不变。",
+          "feedback": "该命题把本段区分倒置；它具体断言“代理函数只替换一个名词而不调整任何谓词，却仍保证所有句子真值不变。”，而代理方案必须同步重释谓词，结构保持来自系统补偿。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q06-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q06-C2-Q1-1",
+      "misconceptionId": "quine--Q06-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q06-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q06-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-06",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q06-C2-Q2",
+      "kind": "binary",
+      "prompt": "用代理函数变换对象域时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q06-C2-Q2-1",
+          "text": "两个代理方案都保存整句真值，因此其中一个方案必定具有脱离背景理论的绝对形而上学优先权。",
+          "feedback": "该案例另犯迁移错误；它具体断言“两个代理方案都保存整句真值，因此其中一个方案必定具有脱离背景理论的绝对形而上学优先权。”，但代理方案必须同步重释谓词，结构保持来自系统补偿。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q06-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C2"
+          ]
+        },
+        {
+          "id": "quine--Q06-C2-Q2-2",
+          "text": "代理变换必须系统补偿谓词解释，单独换名不能保持理论。",
+          "feedback": "这个新案例的结论成立，因为代理方案必须同步重释谓词，结构保持来自系统补偿。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q06-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q06-C2-Q2-2",
+      "misconceptionId": "quine--Q06-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q06-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q06-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q06-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-06",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“分析性：同义与可互换”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q07-C1-Q1-1",
+          "text": "“单身汉是未婚男子”若靠同义词解释分析性，就必须说明同义性而不能循环借回分析性；词典记录既有用法并不单独提供这种基础。",
+          "feedback": "该命题成立，因为若同义性借分析性、分析性再借同义性，解释没有获得独立起点。证据状态：CLOSED；定位 pp. 20–32, §§1–3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q07-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C1"
+          ]
+        },
+        {
+          "id": "quine--Q07-C1-Q1-2",
+          "text": "查到词典把 bachelor 释为 unmarried man，就已经非循环地证明了分析—综合区分。",
+          "feedback": "该命题把本段区分倒置；它具体断言“查到词典把 bachelor 释为 unmarried man，就已经非循环地证明了分析—综合区分。”，而若同义性借分析性、分析性再借同义性，解释没有获得独立起点。证据状态：CLOSED；定位 pp. 20–32, §§1–3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q07-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q07-C1-Q1-1",
+      "misconceptionId": "quine--Q07-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q07-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q07-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-07",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C1-Q2",
+      "kind": "binary",
+      "prompt": "用同义性说明分析真理时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q07-C1-Q2-1",
+          "text": "同义词定义可以无限循环而仍为分析性提供独立的认识论基础。",
+          "feedback": "该案例另犯迁移错误；它具体断言“同义词定义可以无限循环而仍为分析性提供独立的认识论基础。”，但若同义性借分析性、分析性再借同义性，解释没有获得独立起点。证据状态：CLOSED；定位 pp. 20–32, §§1–3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q07-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C1"
+          ]
+        },
+        {
+          "id": "quine--Q07-C1-Q2-2",
+          "text": "用同义性解释分析性时必须避免用分析性反过来定义同义性。",
+          "feedback": "这个新案例的结论成立，因为若同义性借分析性、分析性再借同义性，解释没有获得独立起点。证据状态：CLOSED；定位 pp. 20–32, §§1–3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q07-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q07-C1-Q2-2",
+      "misconceptionId": "quine--Q07-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q07-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q07-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q07-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-07",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“分析性：同义与可互换”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q07-C2-Q1-1",
+          "text": "保持真值的可互换性若依赖模态或“必然”语境，会把尚待解释的强度重新带回；在外延语言中，共外延也不足以保证认知同义。",
+          "feedback": "该命题成立，因为共指不保证信念与模态语境中的可替换性，这正是外延标准的限度。证据状态：CLOSED；定位 pp. 27–32, §3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q07-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C2"
+          ]
+        },
+        {
+          "id": "quine--Q07-C2-Q1-2",
+          "text": "两个表达式在现实中共外延，就必然在所有认知与模态语境中同义。",
+          "feedback": "该命题把本段区分倒置；它具体断言“两个表达式在现实中共外延，就必然在所有认知与模态语境中同义。”，而共指不保证信念与模态语境中的可替换性，这正是外延标准的限度。证据状态：CLOSED；定位 pp. 27–32, §3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q07-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q07-C2-Q1-1",
+      "misconceptionId": "quine--Q07-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q07-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q07-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-07",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q07-C2-Q2",
+      "kind": "binary",
+      "prompt": "把共外延表达式放入信念语境时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q07-C2-Q2-1",
+          "text": "“晨星”不能在某个信念报告中替换“昏星”，这足以证明两者在该理论中指向不同天体。",
+          "feedback": "该案例另犯迁移错误；它具体断言““晨星”不能在某个信念报告中替换“昏星”，这足以证明两者在该理论中指向不同天体。”，但共指不保证信念与模态语境中的可替换性，这正是外延标准的限度。证据状态：CLOSED；定位 pp. 27–32, §3。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q07-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C2"
+          ]
+        },
+        {
+          "id": "quine--Q07-C2-Q2-2",
+          "text": "现实共外延不足以保证模态和认知语境中的同义。",
+          "feedback": "这个新案例的结论成立，因为共指不保证信念与模态语境中的可替换性，这正是外延标准的限度。证据状态：CLOSED；定位 pp. 27–32, §3。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q07-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q07-C2-Q2-2",
+      "misconceptionId": "quine--Q07-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q07-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q07-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q07-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-07",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q08-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“语义规则与批判范围”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q08-C1-Q1-1",
+          "text": "为人工语言列出“语义规则”可以在该记号系统内标示分析句，但若用它解释一般分析性，仍需说明何种规则具有所需语义地位。",
+          "feedback": "该命题成立，因为规则名称不能自行赋予解释力；仍须说明规则与分析性概念的关系。证据状态：CLOSED；定位 pp. 32–37, §4。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q08-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C1"
+          ]
+        },
+        {
+          "id": "quine--Q08-C1-Q1-2",
+          "text": "只要把任意句子列进一张叫“语义规则”的表，它就获得了无需解释的语言真理地位。",
+          "feedback": "该命题把本段区分倒置；它具体断言“只要把任意句子列进一张叫“语义规则”的表，它就获得了无需解释的语言真理地位。”，而规则名称不能自行赋予解释力；仍须说明规则与分析性概念的关系。证据状态：CLOSED；定位 pp. 32–37, §4。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q08-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q08-C1-Q1-1",
+      "misconceptionId": "quine--Q08-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q08-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q08-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-08",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q08-C1-Q2",
+      "kind": "binary",
+      "prompt": "为人工语言列语义规则时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q08-C1-Q2-1",
+          "text": "人工语言可以明示约定分析句，因此同一约定自动决定所有自然语言使用者原先表达的同义关系。",
+          "feedback": "该案例另犯迁移错误；它具体断言“人工语言可以明示约定分析句，因此同一约定自动决定所有自然语言使用者原先表达的同义关系。”，但规则名称不能自行赋予解释力；仍须说明规则与分析性概念的关系。证据状态：CLOSED；定位 pp. 32–37, §4。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q08-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C1"
+          ]
+        },
+        {
+          "id": "quine--Q08-C1-Q2-2",
+          "text": "给规则命名不能免除解释该规则为何具有所需语义地位。",
+          "feedback": "这个新案例的结论成立，因为规则名称不能自行赋予解释力；仍须说明规则与分析性概念的关系。证据状态：CLOSED；定位 pp. 32–37, §4。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q08-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q08-C1-Q2-2",
+      "misconceptionId": "quine--Q08-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q08-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q08-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q08-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-08",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q08-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“语义规则与批判范围”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q08-C2-Q1-1",
+          "text": "Quine 的批判指向具有原则性、认识论分水岭作用的分析—综合区分；它不妨碍在明确形式系统中约定定义或按规则证明句子。",
+          "feedback": "该命题成立，因为Quine 质疑认识论分水岭，不取消形式系统内部的明示约定。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q08-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C2"
+          ]
+        },
+        {
+          "id": "quine--Q08-C2-Q1-2",
+          "text": "Quine 证明了任何形式系统都不能约定定义，也不能把定理按规则推出。",
+          "feedback": "该命题把本段区分倒置；它具体断言“Quine 证明了任何形式系统都不能约定定义，也不能把定理按规则推出。”，而Quine 质疑认识论分水岭，不取消形式系统内部的明示约定。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q08-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q08-C2-Q1-1",
+      "misconceptionId": "quine--Q08-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q08-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q08-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-08",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q08-C2-Q2",
+      "kind": "binary",
+      "prompt": "评价形式定义是否仍可使用时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q08-C2-Q2-1",
+          "text": "反对原则性分析—综合分界意味着逻辑系统不能拥有任何定义规则。",
+          "feedback": "该案例另犯迁移错误；它具体断言“反对原则性分析—综合分界意味着逻辑系统不能拥有任何定义规则。”，但Quine 质疑认识论分水岭，不取消形式系统内部的明示约定。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q08-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C2"
+          ]
+        },
+        {
+          "id": "quine--Q08-C2-Q2-2",
+          "text": "批判原则性分界仍允许形式系统内部作清楚约定。",
+          "feedback": "这个新案例的结论成立，因为Quine 质疑认识论分水岭，不取消形式系统内部的明示约定。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q08-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q08-C2-Q2-2",
+      "misconceptionId": "quine--Q08-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q08-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q08-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q08-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-08",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q09-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“还原主义与确认整体论”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q09-C1-Q1-1",
+          "text": "还原主义的目标不是一般地使用观察，而是为每个有意义陈述单独分配可确认经验；Quine 认为这种逐句单位无法支撑科学实践。",
+          "feedback": "该命题成立，因为第二教条针对逐句还原；科学证据通常作用于相互依赖的理论块。证据状态：CLOSED；定位 pp. 37–41, §5。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q09-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C1"
+          ]
+        },
+        {
+          "id": "quine--Q09-C1-Q1-2",
+          "text": "第二教条主张科学永远不应接触观察，所以 Quine 用经验主义反驳反经验主义。",
+          "feedback": "该命题把本段区分倒置；它具体断言“第二教条主张科学永远不应接触观察，所以 Quine 用经验主义反驳反经验主义。”，而第二教条针对逐句还原；科学证据通常作用于相互依赖的理论块。证据状态：CLOSED；定位 pp. 37–41, §5。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q09-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q09-C1-Q1-1",
+      "misconceptionId": "quine--Q09-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q09-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q09-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-09",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q09-C1-Q2",
+      "kind": "binary",
+      "prompt": "为单个理论句寻找私人验证条件时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q09-C1-Q2-1",
+          "text": "只要一个陈述与观察有关，它就必须拥有与其他理论假设无关的私人验证条件。",
+          "feedback": "该案例另犯迁移错误；它具体断言“只要一个陈述与观察有关，它就必须拥有与其他理论假设无关的私人验证条件。”，但第二教条针对逐句还原；科学证据通常作用于相互依赖的理论块。证据状态：CLOSED；定位 pp. 37–41, §5。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q09-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C1"
+          ]
+        },
+        {
+          "id": "quine--Q09-C1-Q2-2",
+          "text": "Quine 反对逐句经验还原，不反对科学使用观察证据。",
+          "feedback": "这个新案例的结论成立，因为第二教条针对逐句还原；科学证据通常作用于相互依赖的理论块。证据状态：CLOSED；定位 pp. 37–41, §5。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q09-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q09-C1-Q2-2",
+      "misconceptionId": "quine--Q09-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q09-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q09-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q09-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-09",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q09-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“还原主义与确认整体论”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q09-C2-Q1-1",
+          "text": "经验反证触及的是相互连接的陈述网络；调整可落在辅助假设、分类、数学甚至逻辑的不同位置，但选择仍受整体简洁性与成功约束。",
+          "feedback": "该命题成立，因为整体论允许在网络不同位置修订，并以保守、简洁和预测成效约束选择。证据状态：CLOSED；定位 pp. 41–44, §6。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q09-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C2"
+          ]
+        },
+        {
+          "id": "quine--Q09-C2-Q1-2",
+          "text": "整体论意味着遇到反例时可以随意保留任何理论，而无需顾及简洁、连贯或预测成效。",
+          "feedback": "该命题把本段区分倒置；它具体断言“整体论意味着遇到反例时可以随意保留任何理论，而无需顾及简洁、连贯或预测成效。”，而整体论允许在网络不同位置修订，并以保守、简洁和预测成效约束选择。证据状态：CLOSED；定位 pp. 41–44, §6。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q09-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q09-C2-Q1-1",
+      "misconceptionId": "quine--Q09-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q09-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q09-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-09",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q09-C2-Q2",
+      "kind": "binary",
+      "prompt": "科学预测失败并需调整理论时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q09-C2-Q2-1",
+          "text": "整体论规定遭遇反例时只能修改最靠近观察的一句，其他部分不得调整。",
+          "feedback": "该案例另犯迁移错误；它具体断言“整体论规定遭遇反例时只能修改最靠近观察的一句，其他部分不得调整。”，但整体论允许在网络不同位置修订，并以保守、简洁和预测成效约束选择。证据状态：CLOSED；定位 pp. 41–44, §6。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q09-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C2"
+          ]
+        },
+        {
+          "id": "quine--Q09-C2-Q2-2",
+          "text": "整体修订仍受简洁、保守与预测成功约束，不是任意保理论。",
+          "feedback": "这个新案例的结论成立，因为整体论允许在网络不同位置修订，并以保守、简洁和预测成效约束选择。证据状态：CLOSED；定位 pp. 41–44, §6。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q09-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q09-C2-Q2-2",
+      "misconceptionId": "quine--Q09-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q09-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q09-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q09-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-09",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q10-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“信念网络的中心与边缘”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q10-C1-Q1-1",
+          "text": "逻辑与数学位于信念网络较中心处，因牵动广而较少修订；这是一种程度和代价差异，不是恢复不可修订的分析真理。",
+          "feedback": "该命题成立，因为中心性表示修订牵连广、代价高，不赋予不可撤销的先验地位。证据状态：CLOSED；定位 pp. 42–43, §6。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q10-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C1"
+          ]
+        },
+        {
+          "id": "quine--Q10-C1-Q1-2",
+          "text": "位于中心的逻辑句因定义而绝对不可修订，恰好重建了强分析—综合分界。",
+          "feedback": "该命题把本段区分倒置；它具体断言“位于中心的逻辑句因定义而绝对不可修订，恰好重建了强分析—综合分界。”，而中心性表示修订牵连广、代价高，不赋予不可撤销的先验地位。证据状态：CLOSED；定位 pp. 42–43, §6。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q10-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q10-C1-Q1-1",
+      "misconceptionId": "quine--Q10-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q10-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q10-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-10",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q10-C1-Q2",
+      "kind": "binary",
+      "prompt": "考虑是否修改逻辑定律时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q10-C1-Q2-1",
+          "text": "逻辑位于网络中心且修改代价高，所以面对持续反例时必须永远牺牲边缘观察句来保护逻辑。",
+          "feedback": "该案例另犯迁移错误；它具体断言“逻辑位于网络中心且修改代价高，所以面对持续反例时必须永远牺牲边缘观察句来保护逻辑。”，但中心性表示修订牵连广、代价高，不赋予不可撤销的先验地位。证据状态：CLOSED；定位 pp. 42–43, §6。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q10-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C1"
+          ]
+        },
+        {
+          "id": "quine--Q10-C1-Q2-2",
+          "text": "中心句较难修订是牵连代价问题，不是绝对不可修订性。",
+          "feedback": "这个新案例的结论成立，因为中心性表示修订牵连广、代价高，不赋予不可撤销的先验地位。证据状态：CLOSED；定位 pp. 42–43, §6。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q10-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q10-C1-Q2-2",
+      "misconceptionId": "quine--Q10-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q10-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q10-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q10-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-10",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q10-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“信念网络的中心与边缘”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q10-C2-Q1-1",
+          "text": "确认整体论不等于所有陈述与所有观察联系同样强；观察句更靠近经验边缘，而理论选择还受保守性、简洁性和整体效能影响。",
+          "feedback": "该命题成立，因为观察句靠近经验边缘，数学与逻辑更居中心，二者检验角色并不相同。证据状态：CLOSED；定位 §3, especially §§3.1–3.3 on evidence and holism。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q10-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C2"
+          ]
+        },
+        {
+          "id": "quine--Q10-C2-Q1-2",
+          "text": "整体论把每个句子与每次观察的关系变成完全相同，因而取消证据强弱。",
+          "feedback": "该命题把本段区分倒置；它具体断言“整体论把每个句子与每次观察的关系变成完全相同，因而取消证据强弱。”，而观察句靠近经验边缘，数学与逻辑更居中心，二者检验角色并不相同。证据状态：CLOSED；定位 §3, especially §§3.1–3.3 on evidence and holism。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q10-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q10-C2-Q1-1",
+      "misconceptionId": "quine--Q10-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q10-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q10-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-10",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q10-C2-Q2",
+      "kind": "binary",
+      "prompt": "比较观察句与数学公理的证据角色时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q10-C2-Q2-1",
+          "text": "整体论要求每条数学公理与每个即时观察报告具有完全相同的检验方式。",
+          "feedback": "该案例另犯迁移错误；它具体断言“整体论要求每条数学公理与每个即时观察报告具有完全相同的检验方式。”，但观察句靠近经验边缘，数学与逻辑更居中心，二者检验角色并不相同。证据状态：CLOSED；定位 §3, especially §§3.1–3.3 on evidence and holism。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q10-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C2"
+          ]
+        },
+        {
+          "id": "quine--Q10-C2-Q2-2",
+          "text": "整体论允许观察句与理论中心拥有不同的证据距离。",
+          "feedback": "这个新案例的结论成立，因为观察句靠近经验边缘，数学与逻辑更居中心，二者检验角色并不相同。证据状态：CLOSED；定位 §3, especially §§3.1–3.3 on evidence and holism。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q10-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q10-C2-Q2-2",
+      "misconceptionId": "quine--Q10-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q10-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q10-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q10-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-10",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q11-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然化认识论的转折”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q11-C1-Q1-1",
+          "text": "自然化认识论接续的是对科学进行演绎重构与感官还原的失败；Quine 建议把人类如何从感官输入形成科学理论作为经验研究对象。",
+          "feedback": "该命题成立，因为自然化保留输入贫乏如何产生理论这一问题，只改变研究它的方法。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q11-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C1"
+          ]
+        },
+        {
+          "id": "quine--Q11-C1-Q1-2",
+          "text": "自然化认识论先证明科学全错，再用与科学无关的先验心理学取代它。",
+          "feedback": "该命题把本段区分倒置；它具体断言“自然化认识论先证明科学全错，再用与科学无关的先验心理学取代它。”，而自然化保留输入贫乏如何产生理论这一问题，只改变研究它的方法。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q11-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q11-C1-Q1-1",
+      "misconceptionId": "quine--Q11-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q11-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q11-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-11",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q11-C1-Q2",
+      "kind": "binary",
+      "prompt": "研究感官输入怎样形成科学理论时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q11-C1-Q2-1",
+          "text": "旧认识论还原失败后，感官刺激与理论形成之间的问题也随之消失。",
+          "feedback": "该案例另犯迁移错误；它具体断言“旧认识论还原失败后，感官刺激与理论形成之间的问题也随之消失。”，但自然化保留输入贫乏如何产生理论这一问题，只改变研究它的方法。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q11-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C1"
+          ]
+        },
+        {
+          "id": "quine--Q11-C1-Q2-2",
+          "text": "自然化研究感官输入到理论输出，不以先验心理学推翻科学。",
+          "feedback": "这个新案例的结论成立，因为自然化保留输入贫乏如何产生理论这一问题，只改变研究它的方法。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q11-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q11-C1-Q2-2",
+      "misconceptionId": "quine--Q11-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q11-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q11-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q11-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-11",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q11-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然化认识论的转折”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q11-C2-Q1-1",
+          "text": "在自然化方案中，认识主体是物理世界内接受刺激并产生理论输出的对象；经验心理学可以合法进入认识论研究，而非被传统第一哲学禁止。",
+          "feedback": "该命题成立，因为认识主体属于自然世界，心理学因此可研究刺激到理论输出的形成机制。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q11-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C2"
+          ]
+        },
+        {
+          "id": "quine--Q11-C2-Q1-2",
+          "text": "认识主体被移出自然世界，心理学因循环问题而不得参与任何认识论说明。",
+          "feedback": "该命题把本段区分倒置；它具体断言“认识主体被移出自然世界，心理学因循环问题而不得参与任何认识论说明。”，而认识主体属于自然世界，心理学因此可研究刺激到理论输出的形成机制。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q11-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q11-C2-Q1-1",
+      "misconceptionId": "quine--Q11-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q11-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q11-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-11",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q11-C2-Q2",
+      "kind": "binary",
+      "prompt": "把认识主体纳入自然研究时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q11-C2-Q2-1",
+          "text": "心理学只能描述错误信念，不能研究科学理论如何从刺激输入形成。",
+          "feedback": "该案例另犯迁移错误；它具体断言“心理学只能描述错误信念，不能研究科学理论如何从刺激输入形成。”，但认识主体属于自然世界，心理学因此可研究刺激到理论输出的形成机制。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q11-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C2"
+          ]
+        },
+        {
+          "id": "quine--Q11-C2-Q2-2",
+          "text": "认识主体留在自然世界中，经验心理学因此成为合法资源。",
+          "feedback": "这个新案例的结论成立，因为认识主体属于自然世界，心理学因此可研究刺激到理论输出的形成机制。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q11-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q11-C2-Q2-2",
+      "misconceptionId": "quine--Q11-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q11-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q11-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q11-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-11",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q12-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然化之后的规范性”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q12-C1-Q1-1",
+          "text": "“认识论成为心理学一章”直接给出描述性转向，却没有自动解决应当相信什么的全部规范问题；后继争论必须标为解释与批评声部。",
+          "feedback": "该命题成立，因为描述性转向留下方法选择与求真规范的争论，不能由“自然化”一词消除。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q12-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C1"
+          ]
+        },
+        {
+          "id": "quine--Q12-C1-Q1-2",
+          "text": "Quine 的一句自然化口号已经逐条证明所有传统认识规范都毫无意义。",
+          "feedback": "该命题把本段区分倒置；它具体断言“Quine 的一句自然化口号已经逐条证明所有传统认识规范都毫无意义。”，而描述性转向留下方法选择与求真规范的争论，不能由“自然化”一词消除。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q12-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q12-C1-Q1-1",
+      "misconceptionId": "quine--Q12-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q12-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q12-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q12-C1-Q2",
+      "kind": "binary",
+      "prompt": "争论自然化是否取消规范时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q12-C1-Q2-1",
+          "text": "自然化一旦采用描述性研究，选择较可靠推理方式的问题就变得无意义。",
+          "feedback": "该案例另犯迁移错误；它具体断言“自然化一旦采用描述性研究，选择较可靠推理方式的问题就变得无意义。”，但描述性转向留下方法选择与求真规范的争论，不能由“自然化”一词消除。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q12-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C1"
+          ]
+        },
+        {
+          "id": "quine--Q12-C1-Q2-2",
+          "text": "描述性转向没有靠一句口号消灭全部认识规范争论。",
+          "feedback": "这个新案例的结论成立，因为描述性转向留下方法选择与求真规范的争论，不能由“自然化”一词消除。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q12-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q12-C1-Q2-2",
+      "misconceptionId": "quine--Q12-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q12-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q12-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q12-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q12-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然化之后的规范性”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q12-C2-Q1-1",
+          "text": "把预测技术、证据管理与求真放进自然化框架，可以说明规范讨论未必等同于外在先验法庭；但这是对 Quine 方案的限定理解，不应偷换成无规范结论。",
+          "feedback": "该命题成立，因为Quine 式技术规范以预测和真理为方向，不把任何方便手段都算作认识成功。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q12-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C2"
+          ]
+        },
+        {
+          "id": "quine--Q12-C2-Q1-2",
+          "text": "只要方法能让人心理舒适，就算系统性制造错误也满足 Quine 式认识规范。",
+          "feedback": "该命题把本段区分倒置；它具体断言“只要方法能让人心理舒适，就算系统性制造错误也满足 Quine 式认识规范。”，而Quine 式技术规范以预测和真理为方向，不把任何方便手段都算作认识成功。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q12-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q12-C2-Q1-1",
+      "misconceptionId": "quine--Q12-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q12-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q12-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q12-C2-Q2",
+      "kind": "binary",
+      "prompt": "按求真目标选择预测方法时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q12-C2-Q2-1",
+          "text": "自然化规范只追求短期预测便利，即使系统降低真理也同样成功。",
+          "feedback": "该案例另犯迁移错误；它具体断言“自然化规范只追求短期预测便利，即使系统降低真理也同样成功。”，但Quine 式技术规范以预测和真理为方向，不把任何方便手段都算作认识成功。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q12-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C2"
+          ]
+        },
+        {
+          "id": "quine--Q12-C2-Q2-2",
+          "text": "求真与预测技术可在自然化内部发挥规范作用，不能退化成心理舒适。",
+          "feedback": "这个新案例的结论成立，因为Quine 式技术规范以预测和真理为方向，不把任何方便手段都算作认识成功。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q12-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q12-C2-Q2-2",
+      "misconceptionId": "quine--Q12-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q12-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q12-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q12-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q13-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“本体论相对性及其限度”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q13-C1-Q1-1",
+          "text": "问“什么对象存在”需要相对于背景语言和翻译/指称方案提出；本体论相对性不是说在给定理论内部量词范围毫无约束。",
+          "feedback": "该命题成立，因为相对性要求说明背景理论或翻译方案，不能无背景恢复绝对清单。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q13-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C1"
+          ]
+        },
+        {
+          "id": "quine--Q13-C1-Q1-2",
+          "text": "本体论相对性意味着在同一个固定理论里，量词可以毫无规则地忽而指兔子忽而指数。",
+          "feedback": "该命题把本段区分倒置；它具体断言“本体论相对性意味着在同一个固定理论里，量词可以毫无规则地忽而指兔子忽而指数。”，而相对性要求说明背景理论或翻译方案，不能无背景恢复绝对清单。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q13-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q13-C1-Q1-1",
+      "misconceptionId": "quine--Q13-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q13-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q13-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-13",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q13-C1-Q2",
+      "kind": "binary",
+      "prompt": "在不同背景语言中盘点对象时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q13-C1-Q2-1",
+          "text": "本体论相对性允许在不说明背景语言时给出绝对且唯一的指称清单。",
+          "feedback": "该案例另犯迁移错误；它具体断言“本体论相对性允许在不说明背景语言时给出绝对且唯一的指称清单。”，但相对性要求说明背景理论或翻译方案，不能无背景恢复绝对清单。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q13-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C1"
+          ]
+        },
+        {
+          "id": "quine--Q13-C1-Q2-2",
+          "text": "相对背景理论提出存在问题，仍保留固定理论内部的量词约束。",
+          "feedback": "这个新案例的结论成立，因为相对性要求说明背景理论或翻译方案，不能无背景恢复绝对清单。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q13-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q13-C1-Q2-2",
+      "misconceptionId": "quine--Q13-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q13-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q13-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q13-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-13",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q13-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“本体论相对性及其限度”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q13-C2-Q1-1",
+          "text": "不同对象域可经结构保持的解释关联，并不推出“什么都不存在”；它限制绝对指称问题，同时保留理论内部的真值、量化与经验约束。",
+          "feedback": "该命题成立，因为结构转换保持理论真值；它限制绝对对象标定，不制造普遍假句。证据状态：CLOSED；定位 §6.2: ontological relativity / inscrutability of reference。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q13-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C2"
+          ]
+        },
+        {
+          "id": "quine--Q13-C2-Q1-2",
+          "text": "只要对象指称相对，兔子、数字和物理理论就全都不存在。",
+          "feedback": "该命题把本段区分倒置；它具体断言“只要对象指称相对，兔子、数字和物理理论就全都不存在。”，而结构转换保持理论真值；它限制绝对对象标定，不制造普遍假句。证据状态：CLOSED；定位 §6.2: ontological relativity / inscrutability of reference。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q13-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q13-C2-Q1-1",
+      "misconceptionId": "quine--Q13-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q13-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q13-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q13-C2-Q2",
+      "kind": "binary",
+      "prompt": "从本体论相对性推论对象虚无时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q13-C2-Q2-1",
+          "text": "两个可结构转换的对象域必定在固定解释中同时让所有存在句变假。",
+          "feedback": "该案例另犯迁移错误；它具体断言“两个可结构转换的对象域必定在固定解释中同时让所有存在句变假。”，但结构转换保持理论真值；它限制绝对对象标定，不制造普遍假句。证据状态：CLOSED；定位 §6.2: ontological relativity / inscrutability of reference。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q13-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C2"
+          ]
+        },
+        {
+          "id": "quine--Q13-C2-Q2-2",
+          "text": "相对指称限制绝对背景问题，却不推出兔子或数字不存在。",
+          "feedback": "这个新案例的结论成立，因为结构转换保持理论真值；它限制绝对对象标定，不制造普遍假句。证据状态：CLOSED；定位 §6.2: ontological relativity / inscrutability of reference。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q13-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q13-C2-Q2-2",
+      "misconceptionId": "quine--Q13-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q13-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q13-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q13-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q14-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“集合、本体论与理论选择”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q14-C1-Q1-1",
+          "text": "当最佳理论以对象量化方式不可或缺地使用集合时，它承担集合的本体论承诺；承诺来自理论量化结构，不来自“set”这个词是否出现。",
+          "feedback": "该命题成立，因为集合承诺由量词域承担，换词而保留同一量化功能不会消除成本。证据状态：CLOSED；定位 Chapter VII, §§48–49: ontology, classes, and regimentation。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q14-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C1"
+          ]
+        },
+        {
+          "id": "quine--Q14-C1-Q1-2",
+          "text": "只要删掉英语单词 set，即使量词仍遍历集合，理论也不再承诺集合。",
+          "feedback": "该命题把本段区分倒置；它具体断言“只要删掉英语单词 set，即使量词仍遍历集合，理论也不再承诺集合。”，而集合承诺由量词域承担，换词而保留同一量化功能不会消除成本。证据状态：CLOSED；定位 Chapter VII, §§48–49: ontology, classes, and regimentation。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q14-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q14-C1-Q1-1",
+      "misconceptionId": "quine--Q14-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q14-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q14-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-14",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q14-C1-Q2",
+      "kind": "binary",
+      "prompt": "数学理论不可或缺地量化集合时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q14-C1-Q2-1",
+          "text": "理论只要把集合量词换成单称词，就能保留数学作用而取消集合承诺。",
+          "feedback": "该案例另犯迁移错误；它具体断言“理论只要把集合量词换成单称词，就能保留数学作用而取消集合承诺。”，但集合承诺由量词域承担，换词而保留同一量化功能不会消除成本。证据状态：CLOSED；定位 Chapter VII, §§48–49: ontology, classes, and regimentation。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q14-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C1"
+          ]
+        },
+        {
+          "id": "quine--Q14-C1-Q2-2",
+          "text": "集合承诺取决于不可或缺的量化结构，不取决于英语单词是否出现。",
+          "feedback": "这个新案例的结论成立，因为集合承诺由量词域承担，换词而保留同一量化功能不会消除成本。证据状态：CLOSED；定位 Chapter VII, §§48–49: ontology, classes, and regimentation。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q14-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q14-C1-Q2-2",
+      "misconceptionId": "quine--Q14-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q14-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q14-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q14-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-14",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q14-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“集合、本体论与理论选择”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q14-C2-Q1-1",
+          "text": "Quine 对集合论的接受与限制放在科学理论整体的简洁、力量和风险中衡量；这既非从纯直觉推出唯一集合宇宙，也非把所有集合论当作等价。",
+          "feedback": "该命题成立，因为整体选择衡量集合论在科学网络中的力量与代价，不由无条件直觉独断。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q14-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C2"
+          ]
+        },
+        {
+          "id": "quine--Q14-C2-Q1-2",
+          "text": "Quine 认为集合论的选择只由无需经验和理论代价的纯直觉唯一决定。",
+          "feedback": "该命题把本段区分倒置；它具体断言“Quine 认为集合论的选择只由无需经验和理论代价的纯直觉唯一决定。”，而整体选择衡量集合论在科学网络中的力量与代价，不由无条件直觉独断。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q14-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q14-C2-Q1-1",
+      "misconceptionId": "quine--Q14-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q14-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q14-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-14",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q14-C2-Q2",
+      "kind": "binary",
+      "prompt": "比较两个集合论基础方案时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q14-C2-Q2-1",
+          "text": "两个集合论方案若与当前观察同样相容，简洁性、表达力和本体论成本便不再提供任何理性选择理由。",
+          "feedback": "该案例另犯迁移错误；它具体断言“两个集合论方案若与当前观察同样相容，简洁性、表达力和本体论成本便不再提供任何理性选择理由。”，但整体选择衡量集合论在科学网络中的力量与代价，不由无条件直觉独断。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q14-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C2"
+          ]
+        },
+        {
+          "id": "quine--Q14-C2-Q2-2",
+          "text": "集合论方案仍须放进理论简洁、力量与本体论成本的比较中，不能诉诸无条件直觉。",
+          "feedback": "这个新案例的结论成立，因为整体选择衡量集合论在科学网络中的力量与代价，不由无条件直觉独断。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q14-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q14-C2-Q2-2",
+      "misconceptionId": "quine--Q14-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q14-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q14-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q14-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-14",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然种类与指称学习”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q15-C1-Q1-1",
+          "text": "自然种类讨论把相似性、投射与学习放回生物和科学实践：可学习的相似性标准帮助解释归纳，却不是由纯逻辑预先列出所有合法种类。",
+          "feedback": "该命题成立，因为自然种类依赖可学习相似性与成功投射，也可随科学修订。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q15-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C1"
+          ]
+        },
+        {
+          "id": "quine--Q15-C1-Q1-2",
+          "text": "纯逻辑能够在经验学习之前唯一列出全部自然种类和可投射谓词。",
+          "feedback": "该命题把本段区分倒置；它具体断言“纯逻辑能够在经验学习之前唯一列出全部自然种类和可投射谓词。”，而自然种类依赖可学习相似性与成功投射，也可随科学修订。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q15-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q15-C1-Q1-1",
+      "misconceptionId": "quine--Q15-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q15-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q15-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-15",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C1-Q2",
+      "kind": "binary",
+      "prompt": "学习者形成可投射的相似分类时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q15-C1-Q2-1",
+          "text": "任何生物学相似反应都会自动成为科学上可投射且永不修订的自然种类。",
+          "feedback": "该案例另犯迁移错误；它具体断言“任何生物学相似反应都会自动成为科学上可投射且永不修订的自然种类。”，但自然种类依赖可学习相似性与成功投射，也可随科学修订。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q15-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C1"
+          ]
+        },
+        {
+          "id": "quine--Q15-C1-Q2-2",
+          "text": "自然种类与学习解释可投射相似性，不能由纯逻辑预先穷尽。",
+          "feedback": "这个新案例的结论成立，因为自然种类依赖可学习相似性与成功投射，也可随科学修订。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q15-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q15-C1-Q2-2",
+      "misconceptionId": "quine--Q15-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q15-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q15-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q15-P1"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-15",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然种类与指称学习”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q15-C2-Q1-1",
+          "text": "儿童学习指称依赖公共可校准的刺激、观察句与逐步对象化；这条发生学路线不能倒读成婴儿先拥有完整量词本体论再学词。",
+          "feedback": "该命题成立，因为对象化是从公共线索逐步习得的，不能预设儿童已有完整量化方案。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q15-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C2"
+          ]
+        },
+        {
+          "id": "quine--Q15-C2-Q1-2",
+          "text": "儿童在接触公共刺激和观察句以前，已经掌握完整对象量化与指称方案。",
+          "feedback": "该命题把本段区分倒置；它具体断言“儿童在接触公共刺激和观察句以前，已经掌握完整对象量化与指称方案。”，而对象化是从公共线索逐步习得的，不能预设儿童已有完整量化方案。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q15-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q15-C2-Q1-1",
+      "misconceptionId": "quine--Q15-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q15-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q15-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-15",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q15-C2-Q2",
+      "kind": "binary",
+      "prompt": "儿童从观察句走向对象指称时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q15-C2-Q2-1",
+          "text": "儿童与成人对“有兔子”稳定同意以后，“兔子”与“未分离兔部分”的指称差异就已被观察句单独解决。",
+          "feedback": "该案例另犯迁移错误；它具体断言“儿童与成人对“有兔子”稳定同意以后，“兔子”与“未分离兔部分”的指称差异就已被观察句单独解决。”，但对象化是从公共线索逐步习得的，不能预设儿童已有完整量化方案。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q15-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C2"
+          ]
+        },
+        {
+          "id": "quine--Q15-C2-Q2-2",
+          "text": "指称学习从公共可校准线索逐步形成对象化，不能预设先天完备量化体系。",
+          "feedback": "这个新案例的结论成立，因为对象化是从公共线索逐步习得的，不能预设儿童已有完整量化方案。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q15-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q15-C2-Q2-2",
+      "misconceptionId": "quine--Q15-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q15-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q15-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q15-P2"
+      ],
+      "targetVoices": [
+        "quine-primary"
+      ],
+      "lessonId": "quine--quine-15",
+      "voice": "quine-primary"
+    },
+    {
+      "id": "quine--Q16-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“Carnap、Davidson 与路线边界”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q16-C1-Q1-1",
+          "text": "Quine 与 Carnap 共享形式化和经验主义工程却在分析性与本体论框架上分歧；Davidson 又继承并改造翻译与解释问题。两种关系都属现代比较声部，不能写成 Quine 单声部引文。",
+          "feedback": "该命题成立，因为Carnap 分歧与 Davidson 改造属于不同关系，后继解释必须保留自己的论证声部。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q16-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C1"
+          ]
+        },
+        {
+          "id": "quine--Q16-C1-Q1-2",
+          "text": "Carnap 与 Quine 没有实质分歧，而 Davidson 的后继结论可以直接当作 Quine 本人的原话。",
+          "feedback": "该命题把本段区分倒置；它具体断言“Carnap 与 Quine 没有实质分歧，而 Davidson 的后继结论可以直接当作 Quine 本人的原话。”，而Carnap 分歧与 Davidson 改造属于不同关系，后继解释必须保留自己的论证声部。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q16-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q16-C1-Q1-1",
+      "misconceptionId": "quine--Q16-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q16-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q16-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-16",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q16-C1-Q2",
+      "kind": "binary",
+      "prompt": "比较 Carnap、Quine 与 Davidson 时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "options": [
+        {
+          "id": "quine--Q16-C1-Q2-1",
+          "text": "Davidson 对解释的任何修订都只是逐字复述 Quine，因而无需独立来源。",
+          "feedback": "该案例另犯迁移错误；它具体断言“Davidson 对解释的任何修订都只是逐字复述 Quine，因而无需独立来源。”，但Carnap 分歧与 Davidson 改造属于不同关系，后继解释必须保留自己的论证声部。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q16-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C1"
+          ]
+        },
+        {
+          "id": "quine--Q16-C1-Q2-2",
+          "text": "Carnap 的分歧和 Davidson 的后继改造必须作为比较解释，不能并入 Quine 原声。",
+          "feedback": "这个新案例的结论成立，因为Carnap 分歧与 Davidson 改造属于不同关系，后继解释必须保留自己的论证声部。证据状态：PENDING_LOCATOR_GRANULARITY；此处不把版本身份当作页段支持。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q16-c1"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q16-C1-Q2-2",
+      "misconceptionId": "quine--Q16-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q16-c1"
+      ],
+      "objectNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q16-C1"
+      ],
+      "targetParagraphIds": [
+        "quine--Q16-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "quine--quine-16",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "quine--Q16-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“Carnap、Davidson 与路线边界”，哪一命题准确表达了本段所讨论的区分？",
+      "targetNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q16-C2-Q1-1",
+          "text": "本路线把分析性、整体确认、翻译、指称、自然化与本体论连成教学次序；这条次序是显式路线综合，不冒充 Quine 在单篇作品中给出的总体系目录。",
+          "feedback": "该命题成立，因为路线综合的作者是课程编排者；完整内部映射只能证明教学次序，不能转移作者身份。证据状态：CLOSED；定位 Internal provenance map: all 16 lessons, 32 claim IDs, and their 32 source bindings。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q16-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C2"
+          ]
+        },
+        {
+          "id": "quine--Q16-C2-Q1-2",
+          "text": "把课程的十六课次序说成 Quine 在某一篇原著中亲自列出的完整体系目录。",
+          "feedback": "该命题把本段区分倒置；它具体断言“把课程的十六课次序说成 Quine 在某一篇原著中亲自列出的完整体系目录。”，而路线综合的作者是课程编排者；完整内部映射只能证明教学次序，不能转移作者身份。证据状态：CLOSED；定位 Internal provenance map: all 16 lessons, 32 claim IDs, and their 32 source bindings。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q16-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q16-C2-Q1-1",
+      "misconceptionId": "quine--Q16-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q16-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "quine--quine-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "quine--Q16-C2-Q2",
+      "kind": "binary",
+      "prompt": "审查这条十六课教学路线的作者身份时，依据本段哲学区分应作何判断？",
+      "targetNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "options": [
+        {
+          "id": "quine--Q16-C2-Q2-1",
+          "text": "一条教学路线若能从 Quine 过渡到 Davidson，就表明 Quine 本人已经接受了 Davidson 对解释问题的全部改造。",
+          "feedback": "该案例另犯迁移错误；它具体断言“一条教学路线若能从 Quine 过渡到 Davidson，就表明 Quine 本人已经接受了 Davidson 对解释问题的全部改造。”，但路线综合的作者是课程编排者；完整内部映射只能证明教学次序，不能转移作者身份。证据状态：CLOSED；定位 Internal provenance map: all 16 lessons, 32 claim IDs, and their 32 source bindings。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "quine--src-q16-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C2"
+          ]
+        },
+        {
+          "id": "quine--Q16-C2-Q2-2",
+          "text": "课程顺序由十六课论证及其依据的完整内部映射担保，而不是冒充 Quine 原著目录。",
+          "feedback": "这个新案例的结论成立，因为路线综合的作者是课程编排者；完整内部映射只能证明教学次序，不能转移作者身份。证据状态：CLOSED；定位 Internal provenance map: all 16 lessons, 32 claim IDs, and their 32 source bindings。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "quine--src-q16-c2"
+          ],
+          "claimNodeIds": [
+            "quine--Q16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "quine--Q16-C2-Q2-2",
+      "misconceptionId": "quine--Q16-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "quine--src-q16-c2"
+      ],
+      "objectNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "quine--Q16-C2"
+      ],
+      "targetParagraphIds": [
+        "quine--Q16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "quine--quine-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

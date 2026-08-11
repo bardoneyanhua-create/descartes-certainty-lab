@@ -1,0 +1,5445 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "heraclitus--H01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B 编号不消除传承层，引用与报告必须分声。",
+      "explanation": "Kahn 明分较可信逐字引文与混合转述；见证语境既保存文字，也可能按照见证者自己的论争改写它。路线因此把 fragment number、edition、witness、voice 与 object 分栏，不从编号本身推出逐字可靠性。",
+      "identity": "modern editor and route synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--LM-2016-V3"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern editorial distinction between quotation and report"
+      ],
+      "voiceClass": "modern editor and route synthesis"
+    },
+    {
+      "id": "heraclitus--H01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "赫拉克利特文本只经后世载体保存，DK B 类不是作者亲笔手稿。",
+      "explanation": "赫拉克利特的书没有直接保存下来；所谓 B 残篇嵌在塞克斯都、希波吕托斯、克莱孟等后世作者的文本中。DK 的 B 类不是现代手稿意义上的作者亲笔，而是编辑判定的引文材料。",
+      "identity": "route synthesis of fragment transmission; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ancient transmission layer behind DK B classification"
+      ],
+      "voiceClass": "route synthesis of fragment transmission"
+    },
+    {
+      "id": "heraclitus--H02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B1/B2 把 logos 指向共同可理解的说明，而非赫拉克利特的私人意见。",
+      "explanation": "B1 宣告：人们在听见之前与听见之后都不理解 logos，尽管万事依它发生。B2 又说 logos 是共同的，而多数人活得仿佛各有私见。",
+      "identity": "Heraclitus wording through Sextus Empiricus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B2-SEXTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "logos as common account/order"
+      ],
+      "voiceClass": "Heraclitus wording through Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "logos 的多义张力不能无说明地被后世斯多亚或基督教概念取代。",
+      "explanation": "这里的 logos 同时带有言说、说明与可理解秩序的张力。把它直接翻成后来斯多亚或基督教的宇宙理性，会越过年代与声部。",
+      "identity": "route synthesis distinguishing later reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B2-SEXTUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "historical-semantic boundary of logos"
+      ],
+      "voiceClass": "route synthesis distinguishing later reception"
+    },
+    {
+      "id": "heraclitus--H03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B50 区分说话者与 logos，并把统一判断绑定于后者。",
+      "explanation": "B50 要求听者不要听“我”，而听 logos；智慧在于同意“一切为一”。句子削弱作者人格的权威，把理解的对象移到可共同检验的说明。",
+      "identity": "Heraclitus wording quoted by Hippolytus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "authority of logos and unity claim"
+      ],
+      "voiceClass": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B50 的“一切为一”需要其他残篇约束，不能单句完成物质一元论。",
+      "explanation": "“一切为一”并不自动等于一种单一物质本体论。它也可指多样事物在结构、转换和对立中形成可说的统一；具体含义须由其他残篇约束。",
+      "identity": "route synthesis bounded by Heraclitus quotation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interpretive scope of unity in B50"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotation"
+    },
+    {
+      "id": "heraclitus--H04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B12 的同河异水与柏拉图/普鲁塔克的两次踏河公式必须分声。",
+      "explanation": "柏拉图《克拉底鲁》402a 报告“万物皆流、无物停留”并给出不能两次踏入同河的公式；普鲁塔克 B91a 也作类似转述。两者属于接受史/转述，不应冒充 B12 的存世措辞。",
+      "identity": "Heraclitus quotation contrasted with Plato/Plutarch reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--DK22B91A-PLUTARCH",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "contrast between river quotation and flux reception"
+      ],
+      "voiceClass": "Heraclitus quotation contrasted with Plato/Plutarch reception"
+    },
+    {
+      "id": "heraclitus--H04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B12 以相同河流和不同水流连接变化与持续同一。",
+      "explanation": "B12 说，踏入相同河流的人遭遇的是不同而又不同的水。河流作为河流的持续，恰由水的更替维持；变化与同一在具体结构中相联。",
+      "identity": "Heraclitus wording through Arius Didymus/Eusebius, interpreted by modern scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "same river maintained through different waters"
+      ],
+      "voiceClass": "Heraclitus wording through Arius Didymus/Eusebius, interpreted by modern scholarship"
+    },
+    {
+      "id": "heraclitus--H05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B61/B88 分别展示关系限定的对立与历时状态转换。",
+      "explanation": "B61 说海水对鱼可饮且有益，对人不可饮且有害；限定项没有被消除。B88 把生死、醒睡、少老连接为彼此转变的状态。",
+      "identity": "Heraclitus wording through Hippolytus and Plutarch; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B61-HIPPOLYTUS",
+        "heraclitus--DK22B88-PLUTARCH"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "qualified opposition and temporal transition in Heraclitus quotations"
+      ],
+      "voiceClass": "Heraclitus wording through Hippolytus and Plutarch"
+    },
+    {
+      "id": "heraclitus--H05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "带限定和转换的读法不强迫无条件矛盾；亚里士多德的强读法属于接受史。",
+      "explanation": "这些例子支持关系依赖与转换结构，而不必推出同一对象在同一时间、同一方面拥有矛盾属性。亚里士多德式不矛盾律批评属于解释史上的更强读法。",
+      "identity": "route synthesis contrasting Heraclitus quotations with Aristotle reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B61-HIPPOLYTUS",
+        "heraclitus--DK22B88-PLUTARCH",
+        "heraclitus--ARISTOTLE-MET-1005B"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "logical interpretation contrasted with Aristotle reception"
+      ],
+      "voiceClass": "route synthesis contrasting Heraclitus quotations with Aristotle reception"
+    },
+    {
+      "id": "heraclitus--H06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B51/B54 把配合理解为张力结构，并提示其秩序未必直接显现。",
+      "explanation": "B51 用弓与琴说明“反向张开的配合”：器物能工作不是因为张力消失，而是因为对向力量被构造成关系。B54 又说不可见的配合强于可见的配合。",
+      "identity": "Heraclitus wording quoted by Hippolytus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B51-HIPPOLYTUS",
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "tensional fitting and hidden harmony"
+      ],
+      "voiceClass": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "弓琴之和谐是结构化张力，不是静止无冲突或任意神秘主义。",
+      "explanation": "“和谐”在这里不是静止无冲突，也不是审美和善的口号，而是需由结构与功能辨认的张力秩序。",
+      "identity": "route synthesis bounded by Heraclitus quotations; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B51-HIPPOLYTUS",
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interpretive boundary of harmony imagery"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotations"
+    },
+    {
+      "id": "heraclitus--H07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B30 的常活之火由尺度化的燃起与熄灭界定。",
+      "explanation": "B30 说这个对一切相同的 kosmos 不是神或人造出的；它过去、现在、将来都是常活的火，按尺度燃起并按尺度熄灭。",
+      "identity": "Heraclitus wording quoted by Clement; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "everliving fire and measured process"
+      ],
+      "voiceClass": "Heraclitus wording quoted by Clement"
+    },
+    {
+      "id": "heraclitus--H07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B30 的过程词限制静态材料一元论和斯多亚周期大火倒灌。",
+      "explanation": "火在句中同时表现物质转化与过程节律。若只写成静态“第一材料”，会漏掉燃起、熄灭与尺度；若据此宣称周期性世界大火，也需另靠后世见证。",
+      "identity": "route synthesis interpreting Heraclitus quotation against later reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interpretive boundary of fire and later ekpyrosis reception"
+      ],
+      "voiceClass": "route synthesis interpreting Heraclitus quotation against later reception"
+    },
+    {
+      "id": "heraclitus--H08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B31/B90 把元素变化表现为有比例的转向与交换。",
+      "explanation": "B31 描写火的转向：先成海，海的一部分成土，另一部分成火风，并以先前比例回转。B90 以货物与黄金的交换比拟火与万物。",
+      "identity": "Heraclitus wording through Clement and Plutarch; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B31-CLEMENT",
+        "heraclitus--DK22B90-PLUTARCH"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "measured elemental transformation and exchange in Heraclitus quotations"
+      ],
+      "voiceClass": "Heraclitus wording through Clement and Plutarch"
+    },
+    {
+      "id": "heraclitus--H08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "守恒式解释是现代重构语言，不能冒充赫拉克利特术语。",
+      "explanation": "这组残篇支持可逆、等值或比例化转换的图景，但“守恒定律”是现代解释语言，不能冒充赫拉克利特的术语。",
+      "identity": "modern scholarship interpreting Heraclitus quotations; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B31-CLEMENT",
+        "heraclitus--DK22B90-PLUTARCH",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "modern conservation-style interpretation and its lexical boundary"
+      ],
+      "voiceClass": "modern scholarship interpreting Heraclitus quotations"
+    },
+    {
+      "id": "heraclitus--H09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "宇宙争斗结构不直接构成现实战争命令，也不能被柔化为无冲突差异。",
+      "explanation": "这些残篇把冲突放进宇宙与社会差异的生成结构，语势确实尖锐；但从宇宙论命题直接推出应发动现实战争，属于把描述/结构偷换成政治命令。",
+      "identity": "route synthesis bounded by Heraclitus quotations; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS",
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "normative and lexical boundary of war/strife"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotations"
+    },
+    {
+      "id": "heraclitus--H09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B53/B80 让战争与争斗承担差异生成和秩序角色。",
+      "explanation": "B53 称战争为万物之父与王，并列神/人、奴隶/自由人的显现；B80 说必须认识战争是共同的、争斗是正义，万事依争斗与必然发生。",
+      "identity": "Heraclitus wording through Hippolytus and Origen; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS",
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "war/strife as generative differentiation"
+      ],
+      "voiceClass": "Heraclitus wording through Hippolytus and Origen"
+    },
+    {
+      "id": "heraclitus--H10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B64 的精确见证定位仍 pending，且雷霆意象不能倒写为现代电磁理论。",
+      "explanation": "这不是简单恢复传统神谱，而是在多种对立现象中辨认统一治理。B64 的精确希波吕托斯小节尚待校勘复核，因此相关 locator 保持 pending。",
+      "identity": "route synthesis bounded by Hippolytus transmission; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B64-HIPPOLYTUS",
+        "heraclitus--DK22B67-HIPPOLYTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "evidence and anachronism boundary for the thunderbolt fragment"
+      ],
+      "voiceClass": "route synthesis bounded by Hippolytus transmission"
+    },
+    {
+      "id": "heraclitus--H10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B64/B67 将治理统一与对立显现的多名连接。",
+      "explanation": "B64 说雷霆驾驭万物；B67 把神表述为昼夜、冬夏、战争和平、饱足饥饿，并像香料混合后按气味得名。",
+      "identity": "Heraclitus wording quoted by Hippolytus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B64-HIPPOLYTUS",
+        "heraclitus--DK22B67-HIPPOLYTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "cosmic governance and divine naming"
+      ],
+      "voiceClass": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B40/B107 区分信息或感觉输入与能够解释它们的理解。",
+      "explanation": "批评的对象不是感官本身，而是不能解释感官材料的灵魂；同样，多量信息不等于把握共同 logos。",
+      "identity": "route synthesis bounded by Heraclitus quotations; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B40-DIOGENES",
+        "heraclitus--DK22B107-SEXTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "interpretive relation between experience and understanding"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotations"
+    },
+    {
+      "id": "heraclitus--H11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B40 批评多闻不能教理解，B107 把坏见证与接收者灵魂相连。",
+      "explanation": "B40 说多闻不教人理解，并点名赫西俄德、毕达哥拉斯、色诺芬尼和赫卡泰俄斯。B107 又说眼耳对拥有“野蛮灵魂”的人是坏见证。",
+      "identity": "Heraclitus wording through Diogenes Laertius and Sextus Empiricus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B40-DIOGENES",
+        "heraclitus--DK22B107-SEXTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "many-learning and sensory witnesses"
+      ],
+      "voiceClass": "Heraclitus wording through Diogenes Laertius and Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B117/B118 的湿干灵魂条目保持 pending，且不能字面化为现代脱水医学。",
+      "explanation": "B117/B118 将醉酒湿魂与干魂的优劣并置，但精确 Stobaeus locator 尚未闭合。本课不把“干”直接还原为现代生理含水量，也不把灵魂抽离自然转换。",
+      "identity": "Heraclitus wording through Stobaeus with route evidence boundary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B117-STOBAEUS",
+        "heraclitus--DK22B118-STOBAEUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "wet/dry soul evidence and anachronism boundary"
+      ],
+      "voiceClass": "Heraclitus wording through Stobaeus with route evidence boundary"
+    },
+    {
+      "id": "heraclitus--H12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B45/B36 把灵魂的深 logos 与自然转换维度并置。",
+      "explanation": "B45 说走遍所有道路也找不到灵魂的边界，因为它有深的 logos。B36 又把灵魂、水、土置于生灭转换链。",
+      "identity": "Heraclitus wording through Diogenes Laertius and Clement; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B45-DIOGENES",
+        "heraclitus--DK22B36-CLEMENT"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "soul depth and natural transformation"
+      ],
+      "voiceClass": "Heraclitus wording through Diogenes Laertius and Clement"
+    },
+    {
+      "id": "heraclitus--H13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "ēthos–daimōn 的译释保留语义张力，不直接推出机械决定论。",
+      "explanation": "“性格即命运”是有影响力的译释，却不应删除 ēthos 与 daimōn 的语义张力；它也不是严格决定论公式。",
+      "identity": "route synthesis bounded by Heraclitus quotation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B119-STOBAEUS",
+        "heraclitus--DK22B112-STOBAEUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "translation and determinism boundary of character/daimon"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotation"
+    },
+    {
+      "id": "heraclitus--H13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B112/B119 将理解、真实行动与性格生活联系起来。",
+      "explanation": "B112 把 σωφρονεῖν 置于最大德性，并把智慧连到说真话、依自然理解而行动。B119 的“性格即 daimon”把人的稳定倾向与其生活遭际紧密连接。",
+      "identity": "Heraclitus wording quoted by Stobaeus; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B112-STOBAEUS",
+        "heraclitus--DK22B119-STOBAEUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ethical understanding, action, and character"
+      ],
+      "voiceClass": "Heraclitus wording quoted by Stobaeus"
+    },
+    {
+      "id": "heraclitus--H14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "共同尺度可批评多数误判，但不能无中介为现代政体提供神圣授权。",
+      "explanation": "共同法不等于任何现行多数决定都正确；B121 恰表明城邦可能集体误判。反过来，一个神法也不能在没有中介论证时替现代政治制度背书。",
+      "identity": "route synthesis bounded by Heraclitus quotations; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B114-STOBAEUS",
+        "heraclitus--DK22B121-STRABO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "political interpretation and anachronism boundary"
+      ],
+      "voiceClass": "route synthesis bounded by Heraclitus quotations"
+    },
+    {
+      "id": "heraclitus--H14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B114/B121 将共同法、神法滋养与具体城邦判断相连。",
+      "explanation": "B114 要求有理解地说话者依共同者自强，如城邦依其法律，并说一切人法由一个神法滋养。B121 则以极端讽刺批评以弗所人放逐卓越的 Hermodorus。",
+      "identity": "Heraclitus wording through Stobaeus and Strabo; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B114-STOBAEUS",
+        "heraclitus--DK22B121-STRABO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "law, commonality, and civic judgment"
+      ],
+      "voiceClass": "Heraclitus wording through Stobaeus and Strabo"
+    },
+    {
+      "id": "heraclitus--H15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "亚里士多德的歧义批评与 Kahn 的文体分析属于独立接受/解释声部。",
+      "explanation": "亚里士多德在《修辞学》1407b11–18 批评 B1 中 aeí 的句法归属不清。Kahn 则将密度与共鸣视为可解释的文体特征。两种评价都属于各自声部，不能伪装成作者自我说明。",
+      "identity": "Aristotle reception contrasted with modern editor Kahn; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--ARISTOTLE-RHET-1407B",
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--DK22B1-SEXTUS"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Aristotle reception and Kahn literary interpretation"
+      ],
+      "voiceClass": "Aristotle reception contrasted with modern editor Kahn"
+    },
+    {
+      "id": "heraclitus--H15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B93/B123 以符号和隐藏要求解释工作，但不授权任意牵强读法。",
+      "explanation": "B93 说德尔斐之主既不明说也不隐藏，而是给出符号；B123 说自然爱隐藏。残篇的压缩、双关与意象迫使读者工作。",
+      "identity": "Heraclitus wording through Plutarch and Themistius, interpreted by modern editor Kahn; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B93-PLUTARCH",
+        "heraclitus--DK22B123-THEMISTIUS",
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "oracular sign and hidden nature"
+      ],
+      "voiceClass": "Heraclitus wording through Plutarch and Themistius, interpreted by modern editor Kahn"
+    },
+    {
+      "id": "heraclitus--H16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "接受史可保存信息但必须作为独立声部，并受较可靠残篇反检验。",
+      "explanation": "这些接受塑造了“流变哲学家”的经典形象，却不能倒替残篇。合格阅读要做双向检验：用见证保存的信息帮助理解，同时用较可靠引文限制见证者的体系化。",
+      "identity": "modern reception history comparing ancient interpreters; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--ARISTOTLE-MET-1005B",
+        "heraclitus--SEP-GRAHAM-2023",
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "methodological boundary between reception and fragment evidence"
+      ],
+      "voiceClass": "modern reception history comparing ancient interpreters"
+    },
+    {
+      "id": "heraclitus--H16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏拉图、亚里士多德与斯多亚式接受塑造流变、矛盾和火的经典形象。",
+      "explanation": "柏拉图《克拉底鲁》402a 将赫拉克利特与万物流动、不能两次踏河连接；亚里士多德以不矛盾律和物质原理框架解释他；斯多亚传统又吸收火、logos 与周期宇宙论。",
+      "identity": "modern reception history reporting ancient interpreters; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--ARISTOTLE-MET-1005B",
+        "heraclitus--SEP-GRAHAM-2023",
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "abilityIds": [
+        "heraclitus-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ancient reception of flux, contradiction, fire, and logos"
+      ],
+      "voiceClass": "modern reception history reporting ancient interpreters"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "heraclitus--DK22B1-SEXTUS",
+      "workId": "DK 22B1",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "7.132",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B1",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Sextus Empiricus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "opening logos statement",
+      "voice": "Heraclitus wording quoted by Sextus Empiricus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B2-SEXTUS",
+      "workId": "DK 22B2",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "7.133",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B2",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Sextus Empiricus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "common logos",
+      "voice": "Heraclitus wording quoted by Sextus Empiricus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B50-HIPPOLYTUS",
+      "workId": "DK 22B50",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.9.1",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B50",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "listening to logos and all things one",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+      "workId": "DK 22B12",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "15.20.2",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B12",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Arius Didymus, transmitted by Eusebius",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "same rivers and different waters",
+      "voice": "Heraclitus wording through Arius Didymus/Eusebius transmission chain",
+      "year": null
+    },
+    {
+      "id": "heraclitus--PLATO-CRATYLUS-402A",
+      "workId": "Cratylus",
+      "edition": "Plato, Oxford Classical Text / standard Stephanus pagination",
+      "locator": "402a",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Cratylus",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Plato",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "all things pass and twice-stepping formula",
+      "voice": "Plato's Socrates reporting an interpretation of Heraclitus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B91A-PLUTARCH",
+      "workId": "DK 22B91a",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Confirm exact Moralia section/page for the twice-stepping paraphrase (commonly associated with 392B) against a critical Plutarch edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "DK 22B91a",
+      "stableUrl": null,
+      "boundaryZh": "Confirm exact Moralia section/page for the twice-stepping paraphrase (commonly associated with 392B) against a critical Plutarch edition.",
+      "author": "Plutarch",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "twice-stepping paraphrase",
+      "voice": "Plutarch paraphrasing Heraclitus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B61-HIPPOLYTUS",
+      "workId": "DK 22B61",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.10.5",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B61",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "sea water qualified by drinker",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B88-PLUTARCH",
+      "workId": "DK 22B88",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "106E",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B88",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Plutarch",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "living/dead, waking/sleeping, young/old transitions",
+      "voice": "Heraclitus wording quoted by Plutarch",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B51-HIPPOLYTUS",
+      "workId": "DK 22B51",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.9.2",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B51",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "back-stretched fitting and bow/lyre",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B54-HIPPOLYTUS",
+      "workId": "DK 22B54",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.9.5",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B54",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "unapparent fitting",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B30-CLEMENT",
+      "workId": "DK 22B30",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "5.104.2",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B30",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Clement of Alexandria",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "everliving fire and measured kindling/quenching",
+      "voice": "Heraclitus wording quoted by Clement",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B31-CLEMENT",
+      "workId": "DK 22B31a–b",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "5.104.3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B31a–b",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Clement of Alexandria",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "turnings of fire and proportional elemental change",
+      "voice": "Heraclitus wording quoted by Clement",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B90-PLUTARCH",
+      "workId": "DK 22B90",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "388E",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B90",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Plutarch",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "exchange of fire and all things",
+      "voice": "Heraclitus wording quoted by Plutarch",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B53-HIPPOLYTUS",
+      "workId": "DK 22B53",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.9.4",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B53",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "war as father and king",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B80-ORIGEN",
+      "workId": "DK 22B80",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "6.42",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B80",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Origen",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "war common, strife justice",
+      "voice": "Heraclitus wording quoted by Origen",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B64-HIPPOLYTUS",
+      "workId": "DK 22B64",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Confirm the exact Refutatio 9.10 subsection for 'the thunderbolt steers all things' against a critical Hippolytus edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "DK 22B64",
+      "stableUrl": null,
+      "boundaryZh": "Confirm the exact Refutatio 9.10 subsection for 'the thunderbolt steers all things' against a critical Hippolytus edition.",
+      "author": "Hippolytus",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "thunderbolt steering all things",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B67-HIPPOLYTUS",
+      "workId": "DK 22B67",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.10.8",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B67",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Hippolytus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "god named through opposed manifestations",
+      "voice": "Heraclitus wording quoted by Hippolytus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B40-DIOGENES",
+      "workId": "DK 22B40",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.1",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B40",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Diogenes Laertius",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "much learning and understanding",
+      "voice": "Heraclitus wording quoted by Diogenes Laertius",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B107-SEXTUS",
+      "workId": "DK 22B107",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "7.126",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B107",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Sextus Empiricus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "bad witnesses and barbarian souls",
+      "voice": "Heraclitus wording quoted by Sextus Empiricus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B45-DIOGENES",
+      "workId": "DK 22B45",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "9.7",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B45",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Diogenes Laertius",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "limits and deep logos of soul",
+      "voice": "Heraclitus wording quoted by Diogenes Laertius",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B36-CLEMENT",
+      "workId": "DK 22B36",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "6.17.2",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B36",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Clement of Alexandria",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "soul-water-earth transformations",
+      "voice": "Heraclitus wording quoted by Clement",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B117-STOBAEUS",
+      "workId": "DK 22B117",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Confirm the Anthologium book/chapter/item for the drunken wet-soul fragment against Wachsmuth–Hense or a modern critical edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "DK 22B117",
+      "stableUrl": null,
+      "boundaryZh": "Confirm the Anthologium book/chapter/item for the drunken wet-soul fragment against Wachsmuth–Hense or a modern critical edition.",
+      "author": "Stobaeus",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "drunkenness and wet soul",
+      "voice": "Heraclitus wording quoted by Stobaeus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B118-STOBAEUS",
+      "workId": "DK 22B118",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Confirm the Anthologium book/chapter/item for the dry-soul fragment against Wachsmuth–Hense or a modern critical edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "DK 22B118",
+      "stableUrl": null,
+      "boundaryZh": "Confirm the Anthologium book/chapter/item for the dry-soul fragment against Wachsmuth–Hense or a modern critical edition.",
+      "author": "Stobaeus",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "dry soul as wisest/best",
+      "voice": "Heraclitus wording quoted by Stobaeus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B112-STOBAEUS",
+      "workId": "DK 22B112",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "3.1.178",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B112",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Stobaeus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "sound thinking, truth, and action according to nature",
+      "voice": "Heraclitus wording quoted by Stobaeus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B119-STOBAEUS",
+      "workId": "DK 22B119",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "4.40.23",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B119",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Stobaeus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "character as daimon",
+      "voice": "Heraclitus wording quoted by Stobaeus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B114-STOBAEUS",
+      "workId": "DK 22B114",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "3.1.179",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B114",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Stobaeus",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "human laws nourished by one divine law",
+      "voice": "Heraclitus wording quoted by Stobaeus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B121-STRABO",
+      "workId": "DK 22B121",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "14.1.25",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B121",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Strabo",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "Ephesian expulsion of Hermodorus",
+      "voice": "Heraclitus wording quoted by Strabo",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B93-PLUTARCH",
+      "workId": "DK 22B93",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "404D",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B93",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Plutarch",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "Delphic signification",
+      "voice": "Heraclitus wording quoted by Plutarch",
+      "year": null
+    },
+    {
+      "id": "heraclitus--DK22B123-THEMISTIUS",
+      "workId": "DK 22B123",
+      "edition": "Diels–Kranz 6th ed. (1951)",
+      "locator": "5.69B",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "DK 22B123",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Themistius",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "nature loves to hide",
+      "voice": "Heraclitus wording quoted by Themistius",
+      "year": null
+    },
+    {
+      "id": "heraclitus--ARISTOTLE-RHET-1407B",
+      "workId": "Rhetoric",
+      "edition": "Aristotle, standard Bekker pagination",
+      "locator": "1407b11–18",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Rhetoric",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Aristotle",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "syntactic ambiguity in the opening of B1",
+      "voice": "Aristotle's grammatical criticism of Heraclitus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--ARISTOTLE-MET-1005B",
+      "workId": "Metaphysics",
+      "edition": "Aristotle, standard Bekker pagination",
+      "locator": "1005b23–25",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Metaphysics",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Aristotle",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "report linking Heraclitus with contrary predication",
+      "voice": "Aristotle interpreting Heraclitus",
+      "year": null
+    },
+    {
+      "id": "heraclitus--KAHN-1979-INTRO",
+      "workId": "Introductory note to text and translation",
+      "edition": "Charles H. Kahn, The Art and Thought of Heraclitus (CUP, 1979)",
+      "locator": "pp. 25–26; DOI 10.1017/CBO9780511627392.005",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Introductory note to text and translation",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Charles H. Kahn",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "quotation/report distinction and editorial method",
+      "voice": "modern editor and interpreter",
+      "year": null
+    },
+    {
+      "id": "heraclitus--LM-2016-V3",
+      "workId": "Early Greek Philosophy III",
+      "edition": "André Laks and Glenn W. Most, Early Greek Philosophy, vol. III, LCL 526 (Harvard UP, 2016)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact LM Heraclitus section and D/R numbering/page concordance against the physical or licensed Loeb volume before packaging.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Early Greek Philosophy III",
+      "stableUrl": null,
+      "boundaryZh": "Close the exact LM Heraclitus section and D/R numbering/page concordance against the physical or licensed Loeb volume before packaging.",
+      "author": "André Laks and Glenn W. Most",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "modern edition, translation, and reception concordance",
+      "voice": "modern editors/translators",
+      "year": null
+    },
+    {
+      "id": "heraclitus--SEP-GRAHAM-2023",
+      "workId": "Stanford Encyclopedia of Philosophy",
+      "edition": "Daniel W. Graham, 'Heraclitus,' Stanford Encyclopedia of Philosophy, substantive revision 8 Dec 2023",
+      "locator": "sections 2–8, https://plato.stanford.edu/entries/heraclitus/",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Stanford Encyclopedia of Philosophy",
+      "stableUrl": null,
+      "boundaryZh": null,
+      "author": "Daniel W. Graham",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "modern scholarly reconstruction and reception map",
+      "voice": "modern scholarly interpreter",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "heraclitus-logos-strife-measure",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "赫拉克利特：从残篇见证到逻各斯、争斗与尺度",
+      "lessonIds": [
+        "heraclitus--heraclitus-01",
+        "heraclitus--heraclitus-02",
+        "heraclitus--heraclitus-03",
+        "heraclitus--heraclitus-04",
+        "heraclitus--heraclitus-05",
+        "heraclitus--heraclitus-06",
+        "heraclitus--heraclitus-07",
+        "heraclitus--heraclitus-08",
+        "heraclitus--heraclitus-09",
+        "heraclitus--heraclitus-10",
+        "heraclitus--heraclitus-11",
+        "heraclitus--heraclitus-12",
+        "heraclitus--heraclitus-13",
+        "heraclitus--heraclitus-14",
+        "heraclitus--heraclitus-15",
+        "heraclitus--heraclitus-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Heraclitus of Ephesus",
+        "nameZh": "赫拉克利特",
+        "sourceRouteId": "heraclitus-logos-strife-measure"
+      },
+      "summary": "残篇、转述与现代重构应如何分层？"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "heraclitus--heraclitus-01",
+      "order": 1,
+      "title": "先读见证链，再谈体系",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "残篇、转述与现代重构应如何分层？",
+      "coreExplanation": "赫拉克利特的书没有直接保存下来；所谓 B 残篇嵌在塞克斯都、希波吕托斯、克莱孟等后世作者的文本中。DK 的 B 类不是现代手稿意义上的作者亲笔，而是编辑判定的引文材料。\n\nKahn 明分较可信逐字引文与混合转述；见证语境既保存文字，也可能按照见证者自己的论争改写它。路线因此把 fragment number、edition、witness、voice 与 object 分栏，不从编号本身推出逐字可靠性。",
+      "sections": [
+        {
+          "heading": "先读见证链，再谈体系",
+          "paragraphs": [
+            "赫拉克利特的书没有直接保存下来；所谓 B 残篇嵌在塞克斯都、希波吕托斯、克莱孟等后世作者的文本中。DK 的 B 类不是现代手稿意义上的作者亲笔，而是编辑判定的引文材料。",
+            "Kahn 明分较可信逐字引文与混合转述；见证语境既保存文字，也可能按照见证者自己的论争改写它。路线因此把 fragment number、edition、witness、voice 与 object 分栏，不从编号本身推出逐字可靠性。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--LM-2016-V3"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H01-C1",
+        "heraclitus--H01-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H01-Q1",
+        "heraclitus--H01-Q2",
+        "heraclitus--H01-Q3",
+        "heraclitus--H01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-02",
+      "sourceIds": [
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--LM-2016-V3"
+      ],
+      "essentialQuestion": "残篇、转述与现代重构应如何分层？",
+      "initialFocusId": "heraclitus--heraclitus-01-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-02",
+      "order": 2,
+      "title": "逻各斯：共同而未被理解",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B1 与 B2 的 logos 是私人意见还是共同秩序？",
+      "coreExplanation": "B1 宣告：人们在听见之前与听见之后都不理解 logos，尽管万事依它发生。B2 又说 logos 是共同的，而多数人活得仿佛各有私见。\n\n这里的 logos 同时带有言说、说明与可理解秩序的张力。把它直接翻成后来斯多亚或基督教的宇宙理性，会越过年代与声部。",
+      "sections": [
+        {
+          "heading": "逻各斯：共同而未被理解",
+          "paragraphs": [
+            "B1 宣告：人们在听见之前与听见之后都不理解 logos，尽管万事依它发生。B2 又说 logos 是共同的，而多数人活得仿佛各有私见。",
+            "这里的 logos 同时带有言说、说明与可理解秩序的张力。把它直接翻成后来斯多亚或基督教的宇宙理性，会越过年代与声部。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B2-SEXTUS",
+            "heraclitus--SEP-GRAHAM-2023"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H02-C1",
+        "heraclitus--H02-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H02-Q1",
+        "heraclitus--H02-Q2",
+        "heraclitus--H02-Q3",
+        "heraclitus--H02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-03",
+      "sourceIds": [
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B2-SEXTUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "essentialQuestion": "B1 与 B2 的 logos 是私人意见还是共同秩序？",
+      "initialFocusId": "heraclitus--heraclitus-02-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-03",
+      "order": 3,
+      "title": "听谁：不是我，而是 logos",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B50 如何安排说话者、听者与世界？",
+      "coreExplanation": "B50 要求听者不要听“我”，而听 logos；智慧在于同意“一切为一”。句子削弱作者人格的权威，把理解的对象移到可共同检验的说明。\n\n“一切为一”并不自动等于一种单一物质本体论。它也可指多样事物在结构、转换和对立中形成可说的统一；具体含义须由其他残篇约束。",
+      "sections": [
+        {
+          "heading": "听谁：不是我，而是 logos",
+          "paragraphs": [
+            "B50 要求听者不要听“我”，而听 logos；智慧在于同意“一切为一”。句子削弱作者人格的权威，把理解的对象移到可共同检验的说明。",
+            "“一切为一”并不自动等于一种单一物质本体论。它也可指多样事物在结构、转换和对立中形成可说的统一；具体含义须由其他残篇约束。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS",
+            "heraclitus--SEP-GRAHAM-2023"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H03-C1",
+        "heraclitus--H03-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H03-Q1",
+        "heraclitus--H03-Q2",
+        "heraclitus--H03-Q3",
+        "heraclitus--H03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-04",
+      "sourceIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "essentialQuestion": "B50 如何安排说话者、听者与世界？",
+      "initialFocusId": "heraclitus--heraclitus-03-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-04",
+      "order": 4,
+      "title": "河流：变化如何维持同一",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B12 真正在说“一切都流”吗？",
+      "coreExplanation": "B12 说，踏入相同河流的人遭遇的是不同而又不同的水。河流作为河流的持续，恰由水的更替维持；变化与同一在具体结构中相联。\n\n柏拉图《克拉底鲁》402a 报告“万物皆流、无物停留”并给出不能两次踏入同河的公式；普鲁塔克 B91a 也作类似转述。两者属于接受史/转述，不应冒充 B12 的存世措辞。",
+      "sections": [
+        {
+          "heading": "河流：变化如何维持同一",
+          "paragraphs": [
+            "B12 说，踏入相同河流的人遭遇的是不同而又不同的水。河流作为河流的持续，恰由水的更替维持；变化与同一在具体结构中相联。",
+            "柏拉图《克拉底鲁》402a 报告“万物皆流、无物停留”并给出不能两次踏入同河的公式；普鲁塔克 B91a 也作类似转述。两者属于接受史/转述，不应冒充 B12 的存世措辞。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--DK22B91A-PLUTARCH",
+            "heraclitus--SEP-GRAHAM-2023"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H04-C1",
+        "heraclitus--H04-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H04-Q1",
+        "heraclitus--H04-Q2",
+        "heraclitus--H04-Q3",
+        "heraclitus--H04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-05",
+      "sourceIds": [
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--DK22B91A-PLUTARCH",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "essentialQuestion": "B12 真正在说“一切都流”吗？",
+      "initialFocusId": "heraclitus--heraclitus-04-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-05",
+      "order": 5,
+      "title": "对立者不是无条件同一",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "海水、醒睡与生死怎样相联？",
+      "coreExplanation": "B61 说海水对鱼可饮且有益，对人不可饮且有害；限定项没有被消除。B88 把生死、醒睡、少老连接为彼此转变的状态。\n\n这些例子支持关系依赖与转换结构，而不必推出同一对象在同一时间、同一方面拥有矛盾属性。亚里士多德式不矛盾律批评属于解释史上的更强读法。",
+      "sections": [
+        {
+          "heading": "对立者不是无条件同一",
+          "paragraphs": [
+            "B61 说海水对鱼可饮且有益，对人不可饮且有害；限定项没有被消除。B88 把生死、醒睡、少老连接为彼此转变的状态。",
+            "这些例子支持关系依赖与转换结构，而不必推出同一对象在同一时间、同一方面拥有矛盾属性。亚里士多德式不矛盾律批评属于解释史上的更强读法。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B61-HIPPOLYTUS",
+            "heraclitus--DK22B88-PLUTARCH",
+            "heraclitus--ARISTOTLE-MET-1005B"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H05-C1",
+        "heraclitus--H05-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H05-Q1",
+        "heraclitus--H05-Q2",
+        "heraclitus--H05-Q3",
+        "heraclitus--H05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-06",
+      "sourceIds": [
+        "heraclitus--DK22B61-HIPPOLYTUS",
+        "heraclitus--DK22B88-PLUTARCH",
+        "heraclitus--ARISTOTLE-MET-1005B"
+      ],
+      "essentialQuestion": "海水、醒睡与生死怎样相联？",
+      "initialFocusId": "heraclitus--heraclitus-05-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-06",
+      "order": 6,
+      "title": "弓与琴：张力中的配合",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "不可见的和谐如何依赖对向力量？",
+      "coreExplanation": "B51 用弓与琴说明“反向张开的配合”：器物能工作不是因为张力消失，而是因为对向力量被构造成关系。B54 又说不可见的配合强于可见的配合。\n\n“和谐”在这里不是静止无冲突，也不是审美和善的口号，而是需由结构与功能辨认的张力秩序。",
+      "sections": [
+        {
+          "heading": "弓与琴：张力中的配合",
+          "paragraphs": [
+            "B51 用弓与琴说明“反向张开的配合”：器物能工作不是因为张力消失，而是因为对向力量被构造成关系。B54 又说不可见的配合强于可见的配合。",
+            "“和谐”在这里不是静止无冲突，也不是审美和善的口号，而是需由结构与功能辨认的张力秩序。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B51-HIPPOLYTUS",
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H06-C1",
+        "heraclitus--H06-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H06-Q1",
+        "heraclitus--H06-Q2",
+        "heraclitus--H06-Q3",
+        "heraclitus--H06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-07",
+      "sourceIds": [
+        "heraclitus--DK22B51-HIPPOLYTUS",
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "essentialQuestion": "不可见的和谐如何依赖对向力量？",
+      "initialFocusId": "heraclitus--heraclitus-06-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-07",
+      "order": 7,
+      "title": "常活的火与世界秩序",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B30 的火是材料、过程还是尺度化秩序？",
+      "coreExplanation": "B30 说这个对一切相同的 kosmos 不是神或人造出的；它过去、现在、将来都是常活的火，按尺度燃起并按尺度熄灭。\n\n火在句中同时表现物质转化与过程节律。若只写成静态“第一材料”，会漏掉燃起、熄灭与尺度；若据此宣称周期性世界大火，也需另靠后世见证。",
+      "sections": [
+        {
+          "heading": "常活的火与世界秩序",
+          "paragraphs": [
+            "B30 说这个对一切相同的 kosmos 不是神或人造出的；它过去、现在、将来都是常活的火，按尺度燃起并按尺度熄灭。",
+            "火在句中同时表现物质转化与过程节律。若只写成静态“第一材料”，会漏掉燃起、熄灭与尺度；若据此宣称周期性世界大火，也需另靠后世见证。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT",
+            "heraclitus--SEP-GRAHAM-2023"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H07-C1",
+        "heraclitus--H07-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H07-Q1",
+        "heraclitus--H07-Q2",
+        "heraclitus--H07-Q3",
+        "heraclitus--H07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-08",
+      "sourceIds": [
+        "heraclitus--DK22B30-CLEMENT",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "essentialQuestion": "B30 的火是材料、过程还是尺度化秩序？",
+      "initialFocusId": "heraclitus--heraclitus-07-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-08",
+      "order": 8,
+      "title": "转向与交换：变化受尺度约束",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "火、海、土的变化是否仍有比例？",
+      "coreExplanation": "B31 描写火的转向：先成海，海的一部分成土，另一部分成火风，并以先前比例回转。B90 以货物与黄金的交换比拟火与万物。\n\n这组残篇支持可逆、等值或比例化转换的图景，但“守恒定律”是现代解释语言，不能冒充赫拉克利特的术语。",
+      "sections": [
+        {
+          "heading": "转向与交换：变化受尺度约束",
+          "paragraphs": [
+            "B31 描写火的转向：先成海，海的一部分成土，另一部分成火风，并以先前比例回转。B90 以货物与黄金的交换比拟火与万物。",
+            "这组残篇支持可逆、等值或比例化转换的图景，但“守恒定律”是现代解释语言，不能冒充赫拉克利特的术语。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B31-CLEMENT",
+            "heraclitus--DK22B90-PLUTARCH",
+            "heraclitus--SEP-GRAHAM-2023"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H08-C1",
+        "heraclitus--H08-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H08-Q1",
+        "heraclitus--H08-Q2",
+        "heraclitus--H08-Q3",
+        "heraclitus--H08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-09",
+      "sourceIds": [
+        "heraclitus--DK22B31-CLEMENT",
+        "heraclitus--DK22B90-PLUTARCH",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "essentialQuestion": "火、海、土的变化是否仍有比例？",
+      "initialFocusId": "heraclitus--heraclitus-08-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-09",
+      "order": 9,
+      "title": "战争与争斗：生成秩序的冲突",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B53/B80 是在赞美暴力，还是说明差异化秩序？",
+      "coreExplanation": "B53 称战争为万物之父与王，并列神/人、奴隶/自由人的显现；B80 说必须认识战争是共同的、争斗是正义，万事依争斗与必然发生。\n\n这些残篇把冲突放进宇宙与社会差异的生成结构，语势确实尖锐；但从宇宙论命题直接推出应发动现实战争，属于把描述/结构偷换成政治命令。",
+      "sections": [
+        {
+          "heading": "战争与争斗：生成秩序的冲突",
+          "paragraphs": [
+            "B53 称战争为万物之父与王，并列神/人、奴隶/自由人的显现；B80 说必须认识战争是共同的、争斗是正义，万事依争斗与必然发生。",
+            "这些残篇把冲突放进宇宙与社会差异的生成结构，语势确实尖锐；但从宇宙论命题直接推出应发动现实战争，属于把描述/结构偷换成政治命令。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS",
+            "heraclitus--DK22B80-ORIGEN"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H09-C1",
+        "heraclitus--H09-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H09-Q1",
+        "heraclitus--H09-Q2",
+        "heraclitus--H09-Q3",
+        "heraclitus--H09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-10",
+      "sourceIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS",
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "essentialQuestion": "B53/B80 是在赞美暴力，还是说明差异化秩序？",
+      "initialFocusId": "heraclitus--heraclitus-09-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-10",
+      "order": 10,
+      "title": "雷霆与神名：谁在治理变化",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "世界的方向如何既统一又多名？",
+      "coreExplanation": "B64 说雷霆驾驭万物；B67 把神表述为昼夜、冬夏、战争和平、饱足饥饿，并像香料混合后按气味得名。\n\n这不是简单恢复传统神谱，而是在多种对立现象中辨认统一治理。B64 的精确希波吕托斯小节尚待校勘复核，因此相关 locator 保持 pending。",
+      "sections": [
+        {
+          "heading": "雷霆与神名：谁在治理变化",
+          "paragraphs": [
+            "B64 说雷霆驾驭万物；B67 把神表述为昼夜、冬夏、战争和平、饱足饥饿，并像香料混合后按气味得名。",
+            "这不是简单恢复传统神谱，而是在多种对立现象中辨认统一治理。B64 的精确希波吕托斯小节尚待校勘复核，因此相关 locator 保持 pending。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B64-HIPPOLYTUS",
+            "heraclitus--DK22B67-HIPPOLYTUS"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H10-C1",
+        "heraclitus--H10-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H10-Q1",
+        "heraclitus--H10-Q2",
+        "heraclitus--H10-Q3",
+        "heraclitus--H10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-11",
+      "sourceIds": [
+        "heraclitus--DK22B64-HIPPOLYTUS",
+        "heraclitus--DK22B67-HIPPOLYTUS"
+      ],
+      "essentialQuestion": "世界的方向如何既统一又多名？",
+      "initialFocusId": "heraclitus--heraclitus-10-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-11",
+      "order": 11,
+      "title": "多闻、感官与理解",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "知识为何既需要经验又不能停在经验？",
+      "coreExplanation": "B40 说多闻不教人理解，并点名赫西俄德、毕达哥拉斯、色诺芬尼和赫卡泰俄斯。B107 又说眼耳对拥有“野蛮灵魂”的人是坏见证。\n\n批评的对象不是感官本身，而是不能解释感官材料的灵魂；同样，多量信息不等于把握共同 logos。",
+      "sections": [
+        {
+          "heading": "多闻、感官与理解",
+          "paragraphs": [
+            "B40 说多闻不教人理解，并点名赫西俄德、毕达哥拉斯、色诺芬尼和赫卡泰俄斯。B107 又说眼耳对拥有“野蛮灵魂”的人是坏见证。",
+            "批评的对象不是感官本身，而是不能解释感官材料的灵魂；同样，多量信息不等于把握共同 logos。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES",
+            "heraclitus--DK22B107-SEXTUS"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H11-C1",
+        "heraclitus--H11-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H11-Q1",
+        "heraclitus--H11-Q2",
+        "heraclitus--H11-Q3",
+        "heraclitus--H11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-12",
+      "sourceIds": [
+        "heraclitus--DK22B40-DIOGENES",
+        "heraclitus--DK22B107-SEXTUS"
+      ],
+      "essentialQuestion": "知识为何既需要经验又不能停在经验？",
+      "initialFocusId": "heraclitus--heraclitus-11-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-12",
+      "order": 12,
+      "title": "灵魂：深 logos 与湿干变化",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "灵魂如何同时是认知中心与自然过程？",
+      "coreExplanation": "B45 说走遍所有道路也找不到灵魂的边界，因为它有深的 logos。B36 又把灵魂、水、土置于生灭转换链。\n\nB117/B118 将醉酒湿魂与干魂的优劣并置，但精确 Stobaeus locator 尚未闭合。本课不把“干”直接还原为现代生理含水量，也不把灵魂抽离自然转换。",
+      "sections": [
+        {
+          "heading": "灵魂：深 logos 与湿干变化",
+          "paragraphs": [
+            "B45 说走遍所有道路也找不到灵魂的边界，因为它有深的 logos。B36 又把灵魂、水、土置于生灭转换链。",
+            "B117/B118 将醉酒湿魂与干魂的优劣并置，但精确 Stobaeus locator 尚未闭合。本课不把“干”直接还原为现代生理含水量，也不把灵魂抽离自然转换。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B117-STOBAEUS",
+            "heraclitus--DK22B118-STOBAEUS",
+            "heraclitus--DK22B45-DIOGENES",
+            "heraclitus--DK22B36-CLEMENT"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H12-C1",
+        "heraclitus--H12-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H12-Q1",
+        "heraclitus--H12-Q2",
+        "heraclitus--H12-Q3",
+        "heraclitus--H12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-13",
+      "sourceIds": [
+        "heraclitus--DK22B117-STOBAEUS",
+        "heraclitus--DK22B118-STOBAEUS",
+        "heraclitus--DK22B45-DIOGENES",
+        "heraclitus--DK22B36-CLEMENT"
+      ],
+      "essentialQuestion": "灵魂如何同时是认知中心与自然过程？",
+      "initialFocusId": "heraclitus--heraclitus-12-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-13",
+      "order": 13,
+      "title": "伦理：明智行动与性格命运",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "理解世界怎样改变行动者？",
+      "coreExplanation": "B112 把 σωφρονεῖν 置于最大德性，并把智慧连到说真话、依自然理解而行动。B119 的“性格即 daimon”把人的稳定倾向与其生活遭际紧密连接。\n\n“性格即命运”是有影响力的译释，却不应删除 ēthos 与 daimōn 的语义张力；它也不是严格决定论公式。",
+      "sections": [
+        {
+          "heading": "伦理：明智行动与性格命运",
+          "paragraphs": [
+            "B112 把 σωφρονεῖν 置于最大德性，并把智慧连到说真话、依自然理解而行动。B119 的“性格即 daimon”把人的稳定倾向与其生活遭际紧密连接。",
+            "“性格即命运”是有影响力的译释，却不应删除 ēthos 与 daimōn 的语义张力；它也不是严格决定论公式。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B119-STOBAEUS",
+            "heraclitus--DK22B112-STOBAEUS"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H13-C1",
+        "heraclitus--H13-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H13-Q1",
+        "heraclitus--H13-Q2",
+        "heraclitus--H13-Q3",
+        "heraclitus--H13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-14",
+      "sourceIds": [
+        "heraclitus--DK22B119-STOBAEUS",
+        "heraclitus--DK22B112-STOBAEUS"
+      ],
+      "essentialQuestion": "理解世界怎样改变行动者？",
+      "initialFocusId": "heraclitus--heraclitus-13-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-14",
+      "order": 14,
+      "title": "政治：共同法与城邦判断",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "宇宙尺度怎样进入法律与公民批评？",
+      "coreExplanation": "B114 要求有理解地说话者依共同者自强，如城邦依其法律，并说一切人法由一个神法滋养。B121 则以极端讽刺批评以弗所人放逐卓越的 Hermodorus。\n\n共同法不等于任何现行多数决定都正确；B121 恰表明城邦可能集体误判。反过来，一个神法也不能在没有中介论证时替现代政治制度背书。",
+      "sections": [
+        {
+          "heading": "政治：共同法与城邦判断",
+          "paragraphs": [
+            "B114 要求有理解地说话者依共同者自强，如城邦依其法律，并说一切人法由一个神法滋养。B121 则以极端讽刺批评以弗所人放逐卓越的 Hermodorus。",
+            "共同法不等于任何现行多数决定都正确；B121 恰表明城邦可能集体误判。反过来，一个神法也不能在没有中介论证时替现代政治制度背书。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS",
+            "heraclitus--DK22B121-STRABO"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H14-C1",
+        "heraclitus--H14-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H14-Q1",
+        "heraclitus--H14-Q2",
+        "heraclitus--H14-Q3",
+        "heraclitus--H14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-15",
+      "sourceIds": [
+        "heraclitus--DK22B114-STOBAEUS",
+        "heraclitus--DK22B121-STRABO"
+      ],
+      "essentialQuestion": "宇宙尺度怎样进入法律与公民批评？",
+      "initialFocusId": "heraclitus--heraclitus-14-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-15",
+      "order": 15,
+      "title": "符号、隐藏与歧义的写作",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "晦涩是失败，还是一种训练理解的形式？",
+      "coreExplanation": "B93 说德尔斐之主既不明说也不隐藏，而是给出符号；B123 说自然爱隐藏。残篇的压缩、双关与意象迫使读者工作。\n\n亚里士多德在《修辞学》1407b11–18 批评 B1 中 aeí 的句法归属不清。Kahn 则将密度与共鸣视为可解释的文体特征。两种评价都属于各自声部，不能伪装成作者自我说明。",
+      "sections": [
+        {
+          "heading": "符号、隐藏与歧义的写作",
+          "paragraphs": [
+            "B93 说德尔斐之主既不明说也不隐藏，而是给出符号；B123 说自然爱隐藏。残篇的压缩、双关与意象迫使读者工作。",
+            "亚里士多德在《修辞学》1407b11–18 批评 B1 中 aeí 的句法归属不清。Kahn 则将密度与共鸣视为可解释的文体特征。两种评价都属于各自声部，不能伪装成作者自我说明。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-RHET-1407B",
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B93-PLUTARCH",
+            "heraclitus--DK22B123-THEMISTIUS"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H15-C1",
+        "heraclitus--H15-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H15-Q1",
+        "heraclitus--H15-Q2",
+        "heraclitus--H15-Q3",
+        "heraclitus--H15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "heraclitus--heraclitus-16",
+      "sourceIds": [
+        "heraclitus--ARISTOTLE-RHET-1407B",
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B93-PLUTARCH",
+        "heraclitus--DK22B123-THEMISTIUS"
+      ],
+      "essentialQuestion": "晦涩是失败，还是一种训练理解的形式？",
+      "initialFocusId": "heraclitus--heraclitus-15-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "heraclitus--heraclitus-16",
+      "order": 16,
+      "title": "接受史：流变、矛盾与世界大火",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "后世如何把残篇塑造成“赫拉克利特主义”？",
+      "coreExplanation": "柏拉图《克拉底鲁》402a 将赫拉克利特与万物流动、不能两次踏河连接；亚里士多德以不矛盾律和物质原理框架解释他；斯多亚传统又吸收火、logos 与周期宇宙论。\n\n这些接受塑造了“流变哲学家”的经典形象，却不能倒替残篇。合格阅读要做双向检验：用见证保存的信息帮助理解，同时用较可靠引文限制见证者的体系化。",
+      "sections": [
+        {
+          "heading": "接受史：流变、矛盾与世界大火",
+          "paragraphs": [
+            "柏拉图《克拉底鲁》402a 将赫拉克利特与万物流动、不能两次踏河连接；亚里士多德以不矛盾律和物质原理框架解释他；斯多亚传统又吸收火、logos 与周期宇宙论。",
+            "这些接受塑造了“流变哲学家”的经典形象，却不能倒替残篇。合格阅读要做双向检验：用见证保存的信息帮助理解，同时用较可靠引文限制见证者的体系化。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+            "heraclitus--ARISTOTLE-MET-1005B",
+            "heraclitus--SEP-GRAHAM-2023",
+            "heraclitus--KAHN-1979-INTRO"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "heraclitus--H16-C1",
+        "heraclitus--H16-C2"
+      ],
+      "checkIds": [
+        "heraclitus--H16-Q1",
+        "heraclitus--H16-Q2",
+        "heraclitus--H16-Q3",
+        "heraclitus--H16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--ARISTOTLE-MET-1005B",
+        "heraclitus--SEP-GRAHAM-2023",
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "essentialQuestion": "后世如何把残篇塑造成“赫拉克利特主义”？",
+      "initialFocusId": "heraclitus--heraclitus-16-title",
+      "routeId": "heraclitus-logos-strife-measure",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "heraclitus--H01-Q1",
+      "kind": "binary",
+      "prompt": "DK 的 B 编号是否等于赫拉克利特亲笔手稿仍存？",
+      "targetNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H01-Q1-1",
+          "text": "不等于；文字仍经后世见证传来。",
+          "feedback": "正确。B 类是编辑整理的引文材料，不是亲笔手稿。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H01-Q1-2",
+          "text": "等于；B 类就是现存亲笔。",
+          "feedback": "不正确。传承者与引文语境不能被编号抹去。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H01-Q1-1",
+      "misconceptionId": "heraclitus--H01-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H01-P1"
+      ],
+      "targetVoices": [
+        "modern editor and route synthesis"
+      ],
+      "lessonId": "heraclitus--heraclitus-01",
+      "voice": "modern editor and route synthesis"
+    },
+    {
+      "id": "heraclitus--H01-Q2",
+      "kind": "binary",
+      "prompt": "见证作者的论争目的是否可能影响残篇呈现？",
+      "targetNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H01-Q2-1",
+          "text": "不可能，古代引文都中性。",
+          "feedback": "不正确。古代见证者不是透明容器。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H01-Q2-2",
+          "text": "可能，因此要记录见证语境。",
+          "feedback": "正确。引文可能混有转述、节引或论争框架。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H01-Q2-2",
+      "misconceptionId": "heraclitus--H01-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H01-P2"
+      ],
+      "targetVoices": [
+        "modern editor and route synthesis"
+      ],
+      "lessonId": "heraclitus--heraclitus-01",
+      "voice": "modern editor and route synthesis"
+    },
+    {
+      "id": "heraclitus--H01-Q3",
+      "kind": "binary",
+      "prompt": "本路线能否把现代编者的排序直接称为赫拉克利特原书次序？",
+      "targetNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H01-Q3-1",
+          "text": "不能；现代排序是校勘重构。",
+          "feedback": "正确。路线顺序服务教学，不宣称复原原书。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--LM-2016-V3"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H01-Q3-2",
+          "text": "能；现代目录复原了原卷顺序。",
+          "feedback": "不正确。原书结构仍有争议。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--LM-2016-V3"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H01-Q3-1",
+      "misconceptionId": "heraclitus--H01-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--LM-2016-V3"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H01-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H01-P2"
+      ],
+      "targetVoices": [
+        "modern editor and route synthesis"
+      ],
+      "lessonId": "heraclitus--heraclitus-01",
+      "voice": "modern editor and route synthesis"
+    },
+    {
+      "id": "heraclitus--H01-Q4",
+      "kind": "binary",
+      "prompt": "一个 claim 只有 B 号、没有见证者，是否已闭合来源？",
+      "targetNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H01-Q4-1",
+          "text": "已经；B 号足够。",
+          "feedback": "不正确。缺见证者会造成 voice/object 混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H01-Q4-2",
+          "text": "没有；还需版次与见证定位。",
+          "feedback": "正确。双层 locator 要同时保留编辑编号与古代载体。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H01-Q4-2",
+      "misconceptionId": "heraclitus--H01-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H01-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H01-P1"
+      ],
+      "targetVoices": [
+        "modern editor and route synthesis"
+      ],
+      "lessonId": "heraclitus--heraclitus-01",
+      "voice": "modern editor and route synthesis"
+    },
+    {
+      "id": "heraclitus--H02-Q1",
+      "kind": "binary",
+      "prompt": "B2 是否把 logos 说成共同的？",
+      "targetNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H02-Q1-1",
+          "text": "是。",
+          "feedback": "正确。B2 以共同 logos 对照私人理解。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H02-Q1-2",
+          "text": "否。",
+          "feedback": "不正确。共同性正是该残篇的对照轴。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H02-Q1-1",
+      "misconceptionId": "heraclitus--H02-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B2-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H02-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording through Sextus Empiricus"
+      ],
+      "lessonId": "heraclitus--heraclitus-02",
+      "voice": "Heraclitus wording through Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H02-Q2",
+      "kind": "binary",
+      "prompt": "B1 是否保证听到言辞便自动理解？",
+      "targetNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H02-Q2-1",
+          "text": "保证；听见即理解。",
+          "feedback": "不正确。听觉接触不等于领会。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H02-Q2-2",
+          "text": "不保证；听后仍可能不理解。",
+          "feedback": "正确。B1 明说听前与听后都可能不理解。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H02-Q2-2",
+      "misconceptionId": "heraclitus--H02-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B1-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H02-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording through Sextus Empiricus"
+      ],
+      "lessonId": "heraclitus--heraclitus-02",
+      "voice": "Heraclitus wording through Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H02-Q3",
+      "kind": "binary",
+      "prompt": "能否无说明地把这里的 logos 等同《约翰福音》的 Logos？",
+      "targetNodeIds": [
+        "heraclitus--H02-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H02-Q3-1",
+          "text": "不能；后来的神学语义须另立声部。",
+          "feedback": "正确。同词跨时代并不自动同义。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H02-Q3-2",
+          "text": "能；同词必定同义。",
+          "feedback": "不正确。这会把后世概念倒灌入残篇。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H02-Q3-1",
+      "misconceptionId": "heraclitus--H02-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B2-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H02-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H02-P2"
+      ],
+      "targetVoices": [
+        "route boundary statement"
+      ],
+      "lessonId": "heraclitus--heraclitus-02",
+      "voice": "route boundary statement"
+    },
+    {
+      "id": "heraclitus--H02-Q4",
+      "kind": "binary",
+      "prompt": "多数人的问题在此是否只是资料太少？",
+      "targetNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H02-Q4-1",
+          "text": "是；只要增加资料即可。",
+          "feedback": "不正确。多闻与理解将在后课明确分开。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H02-Q4-2",
+          "text": "不是；问题还在以私人理解遮蔽共同说明。",
+          "feedback": "正确。残篇批评的是理解方式，不只是信息数量。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B1-SEXTUS",
+            "heraclitus--DK22B2-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H02-Q4-2",
+      "misconceptionId": "heraclitus--H02-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B1-SEXTUS",
+        "heraclitus--DK22B2-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H02-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H02-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording through Sextus Empiricus"
+      ],
+      "lessonId": "heraclitus--heraclitus-02",
+      "voice": "Heraclitus wording through Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H03-Q1",
+      "kind": "binary",
+      "prompt": "B50 要求首先服从赫拉克利特个人威望吗？",
+      "targetNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H03-Q1-1",
+          "text": "不；它说不要听我而要听 logos。",
+          "feedback": "正确。句法明确拉开“我”与 logos。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H03-Q1-2",
+          "text": "是；作者身份就是证明。",
+          "feedback": "不正确。B50 正在拒绝这种个人权威读法。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H03-Q1-1",
+      "misconceptionId": "heraclitus--H03-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H03-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-03",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H03-Q2",
+      "kind": "binary",
+      "prompt": "“一切为一”是否独自证明火是唯一实体？",
+      "targetNodeIds": [
+        "heraclitus--H03-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H03-Q2-1",
+          "text": "能；这一句已经完成物质一元论。",
+          "feedback": "不正确。把“一”立即物质化缺少文本步骤。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H03-Q2-2",
+          "text": "不能；还需火与转换残篇约束。",
+          "feedback": "正确。统一命题的对象尚需跨残篇解释。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H03-Q2-2",
+      "misconceptionId": "heraclitus--H03-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H03-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H03-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragment"
+      ],
+      "lessonId": "heraclitus--heraclitus-03",
+      "voice": "route interpretation bounded by fragment"
+    },
+    {
+      "id": "heraclitus--H03-Q3",
+      "kind": "binary",
+      "prompt": "B50 中智慧是否包含对统一的同意？",
+      "targetNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H03-Q3-1",
+          "text": "包含。",
+          "feedback": "正确。该残篇把听 logos 与同意统一连接。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H03-Q3-2",
+          "text": "不包含。",
+          "feedback": "不正确。统一判断是句子的落点。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H03-Q3-1",
+      "misconceptionId": "heraclitus--H03-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H03-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-03",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H03-Q4",
+      "kind": "binary",
+      "prompt": "见证者希波吕托斯的引用是否应和赫拉克利特声部合并？",
+      "targetNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H03-Q4-1",
+          "text": "应；引用者就是原作者。",
+          "feedback": "不正确。希波吕托斯有自己的反异端论证目的。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H03-Q4-2",
+          "text": "不应；引文措辞与见证语境要分层。",
+          "feedback": "正确。source 记录两者的传承关系而不混声。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B50-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H03-Q4-2",
+      "misconceptionId": "heraclitus--H03-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B50-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H03-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H03-P1"
+      ],
+      "targetVoices": [
+        "route transmission boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-03",
+      "voice": "route transmission boundary"
+    },
+    {
+      "id": "heraclitus--H04-Q1",
+      "kind": "binary",
+      "prompt": "B12 的存世措辞是否说“不能两次踏进同一条河”？",
+      "targetNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H04-Q1-1",
+          "text": "没有；它说同河中流来不同的水。",
+          "feedback": "正确。两次踏河公式来自后世报告链。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H04-Q1-2",
+          "text": "有；这正是 B12 原句。",
+          "feedback": "不正确。不能把接受史公式回写为 B12。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H04-Q1-1",
+      "misconceptionId": "heraclitus--H04-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H04-P2"
+      ],
+      "targetVoices": [
+        "Heraclitus wording through Arius Didymus/Eusebius"
+      ],
+      "lessonId": "heraclitus--heraclitus-04",
+      "voice": "Heraclitus wording through Arius Didymus/Eusebius"
+    },
+    {
+      "id": "heraclitus--H04-Q2",
+      "kind": "binary",
+      "prompt": "B12 是否允许变化成为某种持续同一的条件？",
+      "targetNodeIds": [
+        "heraclitus--H04-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H04-Q2-1",
+          "text": "不允许；变化必定摧毁一切同一。",
+          "feedback": "不正确。B12 明说河流仍为“相同”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H04-Q2-2",
+          "text": "允许；河流靠水的更替保持其结构。",
+          "feedback": "正确。这是河流意象较弱而精确的读法。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H04-Q2-2",
+      "misconceptionId": "heraclitus--H04-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H04-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H04-P1"
+      ],
+      "targetVoices": [
+        "modern scholarly interpretation of Heraclitus quotation"
+      ],
+      "lessonId": "heraclitus--heraclitus-04",
+      "voice": "modern scholarly interpretation of Heraclitus quotation"
+    },
+    {
+      "id": "heraclitus--H04-Q3",
+      "kind": "binary",
+      "prompt": "“πάντα ῥεῖ/万物流变”可否标成赫拉克利特现存逐字引文？",
+      "targetNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H04-Q3-1",
+          "text": "不可；只能标为后世概括公式。",
+          "feedback": "正确。本路线只把它用于接受史。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H04-Q3-2",
+          "text": "可以；它就是可靠 B 残篇。",
+          "feedback": "不正确。现存可靠残篇没有该固定短句。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H04-Q3-1",
+      "misconceptionId": "heraclitus--H04-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H04-P2"
+      ],
+      "targetVoices": [
+        "ancient and modern reception boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-04",
+      "voice": "ancient and modern reception boundary"
+    },
+    {
+      "id": "heraclitus--H04-Q4",
+      "kind": "binary",
+      "prompt": "B91a 精确古代 locus 尚未闭合时，应否标 verified？",
+      "targetNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H04-Q4-1",
+          "text": "应；常见引用足够替代校勘。",
+          "feedback": "不正确。未核准定位不得伪装 verified。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B91A-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H04-Q4-2",
+          "text": "不应；必须保持 pending。",
+          "feedback": "正确。pending 是证据状态，不是内容否定。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B91A-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H04-Q4-2",
+      "misconceptionId": "heraclitus--H04-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B91A-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H04-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H04-P2"
+      ],
+      "targetVoices": [
+        "route evidence status"
+      ],
+      "lessonId": "heraclitus--heraclitus-04",
+      "voice": "route evidence status"
+    },
+    {
+      "id": "heraclitus--H05-Q1",
+      "kind": "binary",
+      "prompt": "B61 是否区分鱼与人的关系位置？",
+      "targetNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H05-Q1-1",
+          "text": "区分。",
+          "feedback": "正确。饮用者限定了海水的相反价值。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B61-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H05-Q1-2",
+          "text": "不区分。",
+          "feedback": "不正确。鱼/人的限定明确写在残篇中。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B61-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H05-Q1-1",
+      "misconceptionId": "heraclitus--H05-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B61-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H05-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-05",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H05-Q2",
+      "kind": "binary",
+      "prompt": "B88 是否必须把醒与睡说成同一时刻同一方面完全相同？",
+      "targetNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H05-Q2-1",
+          "text": "必须；否则对立就不存在。",
+          "feedback": "不正确。对立关联不等于无条件同一。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B88-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H05-Q2-2",
+          "text": "不必；句子强调彼此转变。",
+          "feedback": "正确。历时转换足以连接对立状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B88-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H05-Q2-2",
+      "misconceptionId": "heraclitus--H05-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B88-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H05-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H05-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Plutarch"
+      ],
+      "lessonId": "heraclitus--heraclitus-05",
+      "voice": "Heraclitus wording quoted by Plutarch"
+    },
+    {
+      "id": "heraclitus--H05-Q3",
+      "kind": "binary",
+      "prompt": "“对立统一”是否可省略所有限定语？",
+      "targetNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H05-Q3-1",
+          "text": "不可；须说明关系、时间或转换。",
+          "feedback": "正确。限定项正是避免粗糙矛盾读法的关键。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B61-HIPPOLYTUS",
+            "heraclitus--DK22B88-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H05-Q3-2",
+          "text": "可以；任何矛盾都成立。",
+          "feedback": "不正确。这会把残篇夸张成普遍矛盾主义。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B61-HIPPOLYTUS",
+            "heraclitus--DK22B88-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H05-Q3-1",
+      "misconceptionId": "heraclitus--H05-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B61-HIPPOLYTUS",
+        "heraclitus--DK22B88-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H05-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragments"
+      ],
+      "lessonId": "heraclitus--heraclitus-05",
+      "voice": "route interpretation bounded by fragments"
+    },
+    {
+      "id": "heraclitus--H05-Q4",
+      "kind": "binary",
+      "prompt": "本课是否把亚里士多德的批评当作赫拉克利特自述？",
+      "targetNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H05-Q4-1",
+          "text": "是；后世批评即作者自述。",
+          "feedback": "不正确。解释者不能替被解释者发言。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-MET-1005B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H05-Q4-2",
+          "text": "不；它属于亚里士多德解释声部。",
+          "feedback": "正确。接受史声音必须独立。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-MET-1005B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H05-Q4-2",
+      "misconceptionId": "heraclitus--H05-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--ARISTOTLE-MET-1005B"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H05-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H05-P2"
+      ],
+      "targetVoices": [
+        "route reception boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-05",
+      "voice": "route reception boundary"
+    },
+    {
+      "id": "heraclitus--H06-Q1",
+      "kind": "binary",
+      "prompt": "弓与琴的工作是否要求消灭全部张力？",
+      "targetNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H06-Q1-1",
+          "text": "不要求；功能依赖受构造的对向张力。",
+          "feedback": "正确。张力不是配合的外部敌人。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B51-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H06-Q1-2",
+          "text": "要求；无张力才有和谐。",
+          "feedback": "不正确。例子正以张力说明配合。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B51-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H06-Q1-1",
+      "misconceptionId": "heraclitus--H06-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B51-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H06-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-06",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H06-Q2",
+      "kind": "binary",
+      "prompt": "B54 是否把最重要的配合限定为肉眼直接可见？",
+      "targetNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H06-Q2-1",
+          "text": "有；可见性就是强度。",
+          "feedback": "不正确。B54 明确作相反比较。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H06-Q2-2",
+          "text": "没有；它抬高不可见的配合。",
+          "feedback": "正确。理解需要越过表面并寻找结构。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H06-Q2-2",
+      "misconceptionId": "heraclitus--H06-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H06-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H06-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-06",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H06-Q3",
+      "kind": "binary",
+      "prompt": "本课的“和谐”是否等于没有冲突的温和共识？",
+      "targetNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H06-Q3-1",
+          "text": "不等于；它是对向力量的配合。",
+          "feedback": "正确。结构化冲突与和谐可并存。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B51-HIPPOLYTUS",
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H06-Q3-2",
+          "text": "等于；残篇排除一切对向。",
+          "feedback": "不正确。这会抹掉弓弦与琴弦的例子。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B51-HIPPOLYTUS",
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H06-Q3-1",
+      "misconceptionId": "heraclitus--H06-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B51-HIPPOLYTUS",
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H06-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragments"
+      ],
+      "lessonId": "heraclitus--heraclitus-06",
+      "voice": "route interpretation bounded by fragments"
+    },
+    {
+      "id": "heraclitus--H06-Q4",
+      "kind": "binary",
+      "prompt": "只凭 B54 能否重建一套完整神秘主义？",
+      "targetNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H06-Q4-1",
+          "text": "能；一句话足以完成体系。",
+          "feedback": "不正确。单一短句不能承载整套后设体系。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H06-Q4-2",
+          "text": "不能；它只支持显隐配合的有限判断。",
+          "feedback": "正确。承重范围必须与证据粒度匹配。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B54-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H06-Q4-2",
+      "misconceptionId": "heraclitus--H06-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B54-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H06-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H06-P2"
+      ],
+      "targetVoices": [
+        "route scope boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-06",
+      "voice": "route scope boundary"
+    },
+    {
+      "id": "heraclitus--H07-Q1",
+      "kind": "binary",
+      "prompt": "B30 是否说世界秩序由某位神在时间中制造？",
+      "targetNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H07-Q1-1",
+          "text": "不；它否认神或人的制造。",
+          "feedback": "正确。句子强调世界秩序一向存在。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H07-Q1-2",
+          "text": "是；它给出创世神话。",
+          "feedback": "不正确。B30 明确否认这种制造。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H07-Q1-1",
+      "misconceptionId": "heraclitus--H07-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H07-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Clement"
+      ],
+      "lessonId": "heraclitus--heraclitus-07",
+      "voice": "Heraclitus wording quoted by Clement"
+    },
+    {
+      "id": "heraclitus--H07-Q2",
+      "kind": "binary",
+      "prompt": "B30 的火是否没有尺度地任意燃烧？",
+      "targetNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H07-Q2-1",
+          "text": "是；火排除任何秩序。",
+          "feedback": "不正确。无尺度读法删除了原句关键词。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H07-Q2-2",
+          "text": "不是；燃起与熄灭都按尺度。",
+          "feedback": "正确。measure 是句子的结构性限制。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H07-Q2-2",
+      "misconceptionId": "heraclitus--H07-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H07-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H07-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Clement"
+      ],
+      "lessonId": "heraclitus--heraclitus-07",
+      "voice": "Heraclitus wording quoted by Clement"
+    },
+    {
+      "id": "heraclitus--H07-Q3",
+      "kind": "binary",
+      "prompt": "把火只解释为静止不变的材料，是否充分？",
+      "targetNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H07-Q3-1",
+          "text": "不充分；还须解释燃起、熄灭和尺度。",
+          "feedback": "正确。火的过程性不能被物质标签吞掉。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H07-Q3-2",
+          "text": "充分；过程词可以忽略。",
+          "feedback": "不正确。该解释没有覆盖句中动作。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H07-Q3-1",
+      "misconceptionId": "heraclitus--H07-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H07-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragment"
+      ],
+      "lessonId": "heraclitus--heraclitus-07",
+      "voice": "route interpretation bounded by fragment"
+    },
+    {
+      "id": "heraclitus--H07-Q4",
+      "kind": "binary",
+      "prompt": "B30 单独是否证明斯多亚式周期性大火？",
+      "targetNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H07-Q4-1",
+          "text": "证明；两者完全同义。",
+          "feedback": "不正确。不得把斯多亚接受史倒灌进 B30。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H07-Q4-2",
+          "text": "不证明；周期大火是需另证的后世解释。",
+          "feedback": "正确。常存世界与周期毁灭之间需另作论证。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B30-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H07-Q4-2",
+      "misconceptionId": "heraclitus--H07-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B30-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H07-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H07-P2"
+      ],
+      "targetVoices": [
+        "route reception boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-07",
+      "voice": "route reception boundary"
+    },
+    {
+      "id": "heraclitus--H08-Q1",
+      "kind": "binary",
+      "prompt": "B31 的变化是否完全没有比例描述？",
+      "targetNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H08-Q1-1",
+          "text": "不是；残篇提到分份与同一比例。",
+          "feedback": "正确。比例语言限制了变化方式。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B31-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H08-Q1-2",
+          "text": "是；只有任意突变。",
+          "feedback": "不正确。该读法漏掉了 measure/proportion。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B31-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H08-Q1-1",
+      "misconceptionId": "heraclitus--H08-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B31-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H08-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Clement"
+      ],
+      "lessonId": "heraclitus--heraclitus-08",
+      "voice": "Heraclitus wording quoted by Clement"
+    },
+    {
+      "id": "heraclitus--H08-Q2",
+      "kind": "binary",
+      "prompt": "B90 是否用商品与黄金的互换来说明火与万物？",
+      "targetNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H08-Q2-1",
+          "text": "否。",
+          "feedback": "不正确。这正是 B90 的核心意象。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B90-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H08-Q2-2",
+          "text": "是。",
+          "feedback": "正确。比喻强调交换关系。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B90-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H08-Q2-2",
+      "misconceptionId": "heraclitus--H08-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B90-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H08-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H08-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Plutarch"
+      ],
+      "lessonId": "heraclitus--heraclitus-08",
+      "voice": "Heraclitus wording quoted by Plutarch"
+    },
+    {
+      "id": "heraclitus--H08-Q3",
+      "kind": "binary",
+      "prompt": "可以把现代“质量守恒定律”直接写成赫拉克利特原话吗？",
+      "targetNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H08-Q3-1",
+          "text": "不可以；只能说有守恒式或比例式解释。",
+          "feedback": "正确。现代概念必须标成解释语言。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B31-CLEMENT",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H08-Q3-2",
+          "text": "可以；现代术语与残篇完全同一。",
+          "feedback": "不正确。这会制造时代错置。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B31-CLEMENT",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H08-Q3-1",
+      "misconceptionId": "heraclitus--H08-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B31-CLEMENT",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H08-P2"
+      ],
+      "targetVoices": [
+        "modern scholarly interpretation boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-08",
+      "voice": "modern scholarly interpretation boundary"
+    },
+    {
+      "id": "heraclitus--H08-Q4",
+      "kind": "binary",
+      "prompt": "交换比喻是否意味着所有东西在经验上都瞬间变成火？",
+      "targetNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H08-Q4-1",
+          "text": "意味着；每一刻只有火可见。",
+          "feedback": "不正确。比喻没有取消万物的差异呈现。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B90-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H08-Q4-2",
+          "text": "不意味着；比喻表达可换算关系。",
+          "feedback": "正确。交换关系不等于瞬时感官同一。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B90-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H08-Q4-2",
+      "misconceptionId": "heraclitus--H08-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B90-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H08-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H08-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragment"
+      ],
+      "lessonId": "heraclitus--heraclitus-08",
+      "voice": "route interpretation bounded by fragment"
+    },
+    {
+      "id": "heraclitus--H09-Q1",
+      "kind": "binary",
+      "prompt": "B53 是否把战争放在差异显现的中心？",
+      "targetNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H09-Q1-1",
+          "text": "是。",
+          "feedback": "正确。神/人、奴隶/自由的分化随之列出。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H09-Q1-2",
+          "text": "否。",
+          "feedback": "不正确。差异显现是句子的后半部。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H09-Q1-1",
+      "misconceptionId": "heraclitus--H09-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H09-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-09",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H09-Q2",
+      "kind": "binary",
+      "prompt": "B80 是否把争斗和正义连接起来？",
+      "targetNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H09-Q2-1",
+          "text": "不连接。",
+          "feedback": "不正确。B80 的著名难点正是这一连接。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H09-Q2-2",
+          "text": "连接。",
+          "feedback": "正确。该连接挑战把正义仅理解为冲突消失。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H09-Q2-2",
+      "misconceptionId": "heraclitus--H09-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H09-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H09-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Origen"
+      ],
+      "lessonId": "heraclitus--heraclitus-09",
+      "voice": "Heraclitus wording quoted by Origen"
+    },
+    {
+      "id": "heraclitus--H09-Q3",
+      "kind": "binary",
+      "prompt": "宇宙中的争斗结构能否无中介推出“人应发动战争”？",
+      "targetNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H09-Q3-1",
+          "text": "不能；描述结构与行动命令不同。",
+          "feedback": "正确。需要额外规范前提才能推出行动。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS",
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H09-Q3-2",
+          "text": "能；宇宙论自动生成政治义务。",
+          "feedback": "不正确。这是从事实结构到命令的跳跃。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS",
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H09-Q3-1",
+      "misconceptionId": "heraclitus--H09-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS",
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H09-P2"
+      ],
+      "targetVoices": [
+        "route normative boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-09",
+      "voice": "route normative boundary"
+    },
+    {
+      "id": "heraclitus--H09-Q4",
+      "kind": "binary",
+      "prompt": "把 polemos 一律柔化成“友好差异”，是否忠实？",
+      "targetNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H09-Q4-1",
+          "text": "完全忠实；原词没有冲突色彩。",
+          "feedback": "不正确。过度柔化同样会改写证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS",
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H09-Q4-2",
+          "text": "不完全忠实；必须保留其冲突强度。",
+          "feedback": "正确。避免战争主义也不等于删去词的尖锐性。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B53-HIPPOLYTUS",
+            "heraclitus--DK22B80-ORIGEN"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H09-Q4-2",
+      "misconceptionId": "heraclitus--H09-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B53-HIPPOLYTUS",
+        "heraclitus--DK22B80-ORIGEN"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H09-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H09-P2"
+      ],
+      "targetVoices": [
+        "route lexical boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-09",
+      "voice": "route lexical boundary"
+    },
+    {
+      "id": "heraclitus--H10-Q1",
+      "kind": "binary",
+      "prompt": "B67 是否把神的显现分布在成对对立中？",
+      "targetNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H10-Q1-1",
+          "text": "是。",
+          "feedback": "正确。昼夜、冬夏等并列构成多名统一。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B67-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H10-Q1-2",
+          "text": "否。",
+          "feedback": "不正确。对立列举是该残篇主体。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B67-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H10-Q1-1",
+      "misconceptionId": "heraclitus--H10-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B67-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H10-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Hippolytus"
+      ],
+      "lessonId": "heraclitus--heraclitus-10",
+      "voice": "Heraclitus wording quoted by Hippolytus"
+    },
+    {
+      "id": "heraclitus--H10-Q2",
+      "kind": "binary",
+      "prompt": "B64 的 locator 未精确复核时，可以报告 verified 吗？",
+      "targetNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H10-Q2-1",
+          "text": "可以。",
+          "feedback": "不正确。证据状态不能靠常识补齐。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B64-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H10-Q2-2",
+          "text": "不可以。",
+          "feedback": "正确。该 source 明确保持 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B64-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H10-Q2-2",
+      "misconceptionId": "heraclitus--H10-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B64-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H10-P2"
+      ],
+      "targetVoices": [
+        "route evidence status"
+      ],
+      "lessonId": "heraclitus--heraclitus-10",
+      "voice": "route evidence status"
+    },
+    {
+      "id": "heraclitus--H10-Q3",
+      "kind": "binary",
+      "prompt": "多种神名是否必然意味着彼此无关的多个终极治理者？",
+      "targetNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H10-Q3-1",
+          "text": "不必然；残篇以香料比喻连接多名与统一。",
+          "feedback": "正确。名称随显现改变，不等于统一消失。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B67-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H10-Q3-2",
+          "text": "必然；每个名称都是独立本体。",
+          "feedback": "不正确。该读法忽略残篇的类比结构。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B67-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H10-Q3-1",
+      "misconceptionId": "heraclitus--H10-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B67-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H10-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H10-P1"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragment"
+      ],
+      "lessonId": "heraclitus--heraclitus-10",
+      "voice": "route interpretation bounded by fragment"
+    },
+    {
+      "id": "heraclitus--H10-Q4",
+      "kind": "binary",
+      "prompt": "本课是否把“雷霆”简化为现代物理学的电荷理论？",
+      "targetNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H10-Q4-1",
+          "text": "有；古代文本已经提出电磁学。",
+          "feedback": "不正确。这会造成明显时代错置。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B64-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H10-Q4-2",
+          "text": "没有；它保留宇宙治理意象。",
+          "feedback": "正确。现代物理解释不属于残篇声部。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B64-HIPPOLYTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H10-Q4-2",
+      "misconceptionId": "heraclitus--H10-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B64-HIPPOLYTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H10-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H10-P2"
+      ],
+      "targetVoices": [
+        "route anachronism boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-10",
+      "voice": "route anachronism boundary"
+    },
+    {
+      "id": "heraclitus--H11-Q1",
+      "kind": "binary",
+      "prompt": "B40 是否认为资料越多就必然越有理解？",
+      "targetNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H11-Q1-1",
+          "text": "不认为。",
+          "feedback": "正确。多闻与理解被明确分开。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H11-Q1-2",
+          "text": "认为。",
+          "feedback": "不正确。B40 正在反驳这种等同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H11-Q1-1",
+      "misconceptionId": "heraclitus--H11-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B40-DIOGENES"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H11-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Diogenes Laertius"
+      ],
+      "lessonId": "heraclitus--heraclitus-11",
+      "voice": "Heraclitus wording quoted by Diogenes Laertius"
+    },
+    {
+      "id": "heraclitus--H11-Q2",
+      "kind": "binary",
+      "prompt": "B107 是否简单宣布眼耳在所有人那里都毫无价值？",
+      "targetNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H11-Q2-1",
+          "text": "有；它否定全部感官。",
+          "feedback": "不正确。无条件怀疑论超出了句子。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B107-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H11-Q2-2",
+          "text": "没有；坏见证与灵魂的理解能力相连。",
+          "feedback": "正确。条件落在接收者的 soul。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B107-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H11-Q2-2",
+      "misconceptionId": "heraclitus--H11-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B107-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H11-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H11-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Sextus Empiricus"
+      ],
+      "lessonId": "heraclitus--heraclitus-11",
+      "voice": "Heraclitus wording quoted by Sextus Empiricus"
+    },
+    {
+      "id": "heraclitus--H11-Q3",
+      "kind": "binary",
+      "prompt": "本课可否把赫拉克利特直接归为经验主义者或理性主义者？",
+      "targetNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H11-Q3-1",
+          "text": "不可直接二分；文本要求经验与解释配合。",
+          "feedback": "正确。现代学派标签不能代替文本关系。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES",
+            "heraclitus--DK22B107-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H11-Q3-2",
+          "text": "可以；一个标签已穷尽。",
+          "feedback": "不正确。两段证据同时限制单一标签。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES",
+            "heraclitus--DK22B107-SEXTUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H11-Q3-1",
+      "misconceptionId": "heraclitus--H11-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B40-DIOGENES",
+        "heraclitus--DK22B107-SEXTUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H11-P2"
+      ],
+      "targetVoices": [
+        "route classification boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-11",
+      "voice": "route classification boundary"
+    },
+    {
+      "id": "heraclitus--H11-Q4",
+      "kind": "binary",
+      "prompt": "理解在这里是否仅是记住权威名单？",
+      "targetNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H11-Q4-1",
+          "text": "是；名单越长越智慧。",
+          "feedback": "不正确。记忆积累正是被批评的对象。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H11-Q4-2",
+          "text": "不是；权威多闻也可能缺理解。",
+          "feedback": "正确。B40 以名家为反例。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B40-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H11-Q4-2",
+      "misconceptionId": "heraclitus--H11-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B40-DIOGENES"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H11-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H11-P2"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Diogenes Laertius"
+      ],
+      "lessonId": "heraclitus--heraclitus-11",
+      "voice": "Heraclitus wording quoted by Diogenes Laertius"
+    },
+    {
+      "id": "heraclitus--H12-Q1",
+      "kind": "binary",
+      "prompt": "B45 是否把灵魂描写成有深 logos、难穷其界？",
+      "targetNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H12-Q1-1",
+          "text": "是。",
+          "feedback": "正确。深 logos 是该残篇的理由。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B45-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H12-Q1-2",
+          "text": "否。",
+          "feedback": "不正确。边界难寻并非因为灵魂毫无结构。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B45-DIOGENES"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H12-Q1-1",
+      "misconceptionId": "heraclitus--H12-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B45-DIOGENES"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H12-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Diogenes Laertius"
+      ],
+      "lessonId": "heraclitus--heraclitus-12",
+      "voice": "Heraclitus wording quoted by Diogenes Laertius"
+    },
+    {
+      "id": "heraclitus--H12-Q2",
+      "kind": "binary",
+      "prompt": "B36 是否把灵魂完全排除在自然变化之外？",
+      "targetNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H12-Q2-1",
+          "text": "是；灵魂与自然绝缘。",
+          "feedback": "不正确。B36 明列相互生灭。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B36-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H12-Q2-2",
+          "text": "不；它把灵魂置于水土转换链。",
+          "feedback": "正确。灵魂在此具有物理转化维度。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B36-CLEMENT"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H12-Q2-2",
+      "misconceptionId": "heraclitus--H12-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B36-CLEMENT"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H12-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H12-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Clement"
+      ],
+      "lessonId": "heraclitus--heraclitus-12",
+      "voice": "Heraclitus wording quoted by Clement"
+    },
+    {
+      "id": "heraclitus--H12-Q3",
+      "kind": "binary",
+      "prompt": "B117/B118 的 Stobaeus 小节未核准时，是否应列 pending？",
+      "targetNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H12-Q3-1",
+          "text": "应列 pending。",
+          "feedback": "正确。内容可纳入，但证据状态必须诚实。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B117-STOBAEUS",
+            "heraclitus--DK22B118-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H12-Q3-2",
+          "text": "应伪列 verified。",
+          "feedback": "不正确。未闭合 locator 不能被隐藏。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B117-STOBAEUS",
+            "heraclitus--DK22B118-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H12-Q3-1",
+      "misconceptionId": "heraclitus--H12-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B117-STOBAEUS",
+        "heraclitus--DK22B118-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H12-P2"
+      ],
+      "targetVoices": [
+        "route evidence status"
+      ],
+      "lessonId": "heraclitus--heraclitus-12",
+      "voice": "route evidence status"
+    },
+    {
+      "id": "heraclitus--H12-Q4",
+      "kind": "binary",
+      "prompt": "“干魂最佳”能否直接翻成现代脱水医学建议？",
+      "targetNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H12-Q4-1",
+          "text": "能；残篇就是医学处方。",
+          "feedback": "不正确。这会把隐喻/古代生理学误成现代建议。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B118-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H12-Q4-2",
+          "text": "不能；湿干是古代灵魂/状态语汇。",
+          "feedback": "正确。古代物理—伦理语义不可被现代字面生理化。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B118-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H12-Q4-2",
+      "misconceptionId": "heraclitus--H12-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B118-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H12-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H12-P2"
+      ],
+      "targetVoices": [
+        "route anachronism boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-12",
+      "voice": "route anachronism boundary"
+    },
+    {
+      "id": "heraclitus--H13-Q1",
+      "kind": "binary",
+      "prompt": "B112 是否把智慧与依自然理解而行动连接？",
+      "targetNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H13-Q1-1",
+          "text": "连接。",
+          "feedback": "正确。智慧在此不是纯理论库存。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H13-Q1-2",
+          "text": "不连接。",
+          "feedback": "不正确。说真话与行动都在句中。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H13-Q1-1",
+      "misconceptionId": "heraclitus--H13-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B112-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H13-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Stobaeus"
+      ],
+      "lessonId": "heraclitus--heraclitus-13",
+      "voice": "Heraclitus wording quoted by Stobaeus"
+    },
+    {
+      "id": "heraclitus--H13-Q2",
+      "kind": "binary",
+      "prompt": "B119 的 ēthos–daimōn 能否无争议地缩成现代心理测验中的人格？",
+      "targetNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H13-Q2-1",
+          "text": "能；现代量表完全等价。",
+          "feedback": "不正确。这是时代与概念错置。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B119-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H13-Q2-2",
+          "text": "不能；古希腊词义和翻译张力须保留。",
+          "feedback": "正确。译释应保留历史语义边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B119-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H13-Q2-2",
+      "misconceptionId": "heraclitus--H13-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B119-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H13-P2"
+      ],
+      "targetVoices": [
+        "route translation boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-13",
+      "voice": "route translation boundary"
+    },
+    {
+      "id": "heraclitus--H13-Q3",
+      "kind": "binary",
+      "prompt": "本课是否把伦理与 logos/自然理解完全分开？",
+      "targetNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H13-Q3-1",
+          "text": "没有；行动以理解自然为条件。",
+          "feedback": "正确。路线将认识与实践重新连接。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H13-Q3-2",
+          "text": "有；伦理只是无知识的服从。",
+          "feedback": "不正确。B112 不支持这种割裂。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H13-Q3-1",
+      "misconceptionId": "heraclitus--H13-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B112-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H13-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H13-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Stobaeus"
+      ],
+      "lessonId": "heraclitus--heraclitus-13",
+      "voice": "Heraclitus wording quoted by Stobaeus"
+    },
+    {
+      "id": "heraclitus--H13-Q4",
+      "kind": "binary",
+      "prompt": "“性格即命运”是否必然否定任何修养或改变可能？",
+      "targetNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H13-Q4-1",
+          "text": "必然；短句已证明不可改变。",
+          "feedback": "不正确。这将译语口号化并过度推论。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B119-STOBAEUS",
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H13-Q4-2",
+          "text": "不必然；机械决定论超出短句。",
+          "feedback": "正确。需要额外论证才能得到严格决定论。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B119-STOBAEUS",
+            "heraclitus--DK22B112-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H13-Q4-2",
+      "misconceptionId": "heraclitus--H13-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B119-STOBAEUS",
+        "heraclitus--DK22B112-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H13-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H13-P2"
+      ],
+      "targetVoices": [
+        "route interpretation bounded by fragments"
+      ],
+      "lessonId": "heraclitus--heraclitus-13",
+      "voice": "route interpretation bounded by fragments"
+    },
+    {
+      "id": "heraclitus--H14-Q1",
+      "kind": "binary",
+      "prompt": "B114 是否把人法的滋养追溯到一个神法？",
+      "targetNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H14-Q1-1",
+          "text": "是。",
+          "feedback": "正确。该残篇用滋养关系连接两层法。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H14-Q1-2",
+          "text": "否。",
+          "feedback": "不正确。这是 B114 的主要政治—宇宙论桥梁。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H14-Q1-1",
+      "misconceptionId": "heraclitus--H14-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B114-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H14-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Stobaeus"
+      ],
+      "lessonId": "heraclitus--heraclitus-14",
+      "voice": "Heraclitus wording quoted by Stobaeus"
+    },
+    {
+      "id": "heraclitus--H14-Q2",
+      "kind": "binary",
+      "prompt": "B121 是否把以弗所多数人的决定当成自动正确？",
+      "targetNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H14-Q2-1",
+          "text": "有；多数决定不可批评。",
+          "feedback": "不正确。该残篇正是对公民整体的讽刺。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B121-STRABO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H14-Q2-2",
+          "text": "没有；它猛烈批评放逐 Hermodorus。",
+          "feedback": "正确。城邦共同行动也可能失去判断。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B121-STRABO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H14-Q2-2",
+      "misconceptionId": "heraclitus--H14-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B121-STRABO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H14-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H14-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Strabo"
+      ],
+      "lessonId": "heraclitus--heraclitus-14",
+      "voice": "Heraclitus wording quoted by Strabo"
+    },
+    {
+      "id": "heraclitus--H14-Q3",
+      "kind": "binary",
+      "prompt": "“共同”是否等于统计上的多数意见？",
+      "targetNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H14-Q3-1",
+          "text": "不等于；共同尺度可用于批评多数。",
+          "feedback": "正确。B121 阻止简单多数主义读法。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS",
+            "heraclitus--DK22B121-STRABO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H14-Q3-2",
+          "text": "等于；票数就是 logos。",
+          "feedback": "不正确。共同 logos/法不是票数同义词。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS",
+            "heraclitus--DK22B121-STRABO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H14-Q3-1",
+      "misconceptionId": "heraclitus--H14-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B114-STOBAEUS",
+        "heraclitus--DK22B121-STRABO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H14-P2"
+      ],
+      "targetVoices": [
+        "route political interpretation"
+      ],
+      "lessonId": "heraclitus--heraclitus-14",
+      "voice": "route political interpretation"
+    },
+    {
+      "id": "heraclitus--H14-Q4",
+      "kind": "binary",
+      "prompt": "能否直接用 B114 证明某一种现代政体得到神圣授权？",
+      "targetNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H14-Q4-1",
+          "text": "能；古代短句足以裁决现代制度。",
+          "feedback": "不正确。这会把文本变成无中介政治背书。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H14-Q4-2",
+          "text": "不能；需要跨时代规范论证。",
+          "feedback": "正确。路线只处理赫拉克利特的城邦—宇宙关系。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B114-STOBAEUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H14-Q4-2",
+      "misconceptionId": "heraclitus--H14-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B114-STOBAEUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H14-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H14-P2"
+      ],
+      "targetVoices": [
+        "route anachronism boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-14",
+      "voice": "route anachronism boundary"
+    },
+    {
+      "id": "heraclitus--H15-Q1",
+      "kind": "binary",
+      "prompt": "B93 的神谕模式是否只剩“完全揭示”与“完全隐藏”两项？",
+      "targetNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H15-Q1-1",
+          "text": "不是；它提出第三项“给出符号”。",
+          "feedback": "正确。符号要求解释而非被动接收。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B93-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H15-Q1-2",
+          "text": "是；不存在符号中介。",
+          "feedback": "不正确。σημαίνειν 正是句子的关键。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B93-PLUTARCH"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H15-Q1-1",
+      "misconceptionId": "heraclitus--H15-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B93-PLUTARCH"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H15-P1"
+      ],
+      "targetVoices": [
+        "Heraclitus wording quoted by Plutarch"
+      ],
+      "lessonId": "heraclitus--heraclitus-15",
+      "voice": "Heraclitus wording quoted by Plutarch"
+    },
+    {
+      "id": "heraclitus--H15-Q2",
+      "kind": "binary",
+      "prompt": "亚里士多德对 B1 句法的批评是否就是赫拉克利特本人解释？",
+      "targetNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H15-Q2-1",
+          "text": "是；批评者和作者同声。",
+          "feedback": "不正确。两位作者相隔时代且论证目的不同。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-RHET-1407B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H15-Q2-2",
+          "text": "不是；这是亚里士多德的接受与评价。",
+          "feedback": "正确。voice 字段阻止评价者冒充作者。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-RHET-1407B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H15-Q2-2",
+      "misconceptionId": "heraclitus--H15-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--ARISTOTLE-RHET-1407B"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H15-P2"
+      ],
+      "targetVoices": [
+        "Aristotle's grammatical criticism"
+      ],
+      "lessonId": "heraclitus--heraclitus-15",
+      "voice": "Aristotle's grammatical criticism"
+    },
+    {
+      "id": "heraclitus--H15-Q3",
+      "kind": "binary",
+      "prompt": "“自然爱隐藏”是否授权任意牵强解释？",
+      "targetNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H15-Q3-1",
+          "text": "不授权；解释仍需语言和残篇互证。",
+          "feedback": "正确。隐藏提高解释要求，不取消证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B123-THEMISTIUS",
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H15-Q3-2",
+          "text": "授权；越不可证越深刻。",
+          "feedback": "不正确。这会让文本失去可审计边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--DK22B123-THEMISTIUS",
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H15-Q3-1",
+      "misconceptionId": "heraclitus--H15-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--DK22B123-THEMISTIUS",
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H15-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H15-P1"
+      ],
+      "targetVoices": [
+        "route interpretive boundary"
+      ],
+      "lessonId": "heraclitus--heraclitus-15",
+      "voice": "route interpretive boundary"
+    },
+    {
+      "id": "heraclitus--H15-Q4",
+      "kind": "binary",
+      "prompt": "Kahn 的“密度与共鸣”应标为何种声音？",
+      "targetNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H15-Q4-1",
+          "text": "赫拉克利特逐字自述。",
+          "feedback": "不正确。术语来自 Kahn，不是 B 残篇。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H15-Q4-2",
+          "text": "现代编辑/解释者。",
+          "feedback": "正确。这是现代文体分析。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H15-Q4-2",
+      "misconceptionId": "heraclitus--H15-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H15-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H15-P2"
+      ],
+      "targetVoices": [
+        "modern editor and interpreter"
+      ],
+      "lessonId": "heraclitus--heraclitus-15",
+      "voice": "modern editor and interpreter"
+    },
+    {
+      "id": "heraclitus--H16-Q1",
+      "kind": "binary",
+      "prompt": "柏拉图 402a 的“两次踏河”报告能否直接替代 B12？",
+      "targetNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H16-Q1-1",
+          "text": "不能；两者措辞与声部不同。",
+          "feedback": "正确。应比较而非覆盖。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H16-Q1-2",
+          "text": "能；接受史自动等于原句。",
+          "feedback": "不正确。这样会消灭本路线最重要的传承边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H16-Q1-1",
+      "misconceptionId": "heraclitus--H16-Q1-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--DK22B12-ARIUS-EUSEBIUS"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H16-P2"
+      ],
+      "targetVoices": [
+        "modern reception history"
+      ],
+      "lessonId": "heraclitus--heraclitus-16",
+      "voice": "modern reception history"
+    },
+    {
+      "id": "heraclitus--H16-Q2",
+      "kind": "binary",
+      "prompt": "亚里士多德的不矛盾律批评是否是解释史材料？",
+      "targetNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H16-Q2-1",
+          "text": "否；它是赫拉克利特原句。",
+          "feedback": "不正确。Metaphysics 是亚里士多德的论证文本。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-MET-1005B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H16-Q2-2",
+          "text": "是。",
+          "feedback": "正确。它显示后世如何定位赫拉克利特。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--ARISTOTLE-MET-1005B"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H16-Q2-2",
+      "misconceptionId": "heraclitus--H16-Q2-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--ARISTOTLE-MET-1005B"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H16-P1"
+      ],
+      "targetVoices": [
+        "modern reception history"
+      ],
+      "lessonId": "heraclitus--heraclitus-16",
+      "voice": "modern reception history"
+    },
+    {
+      "id": "heraclitus--H16-Q3",
+      "kind": "binary",
+      "prompt": "“万物流变”公式在本路线中处于哪一层？",
+      "targetNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H16-Q3-1",
+          "text": "后世概括与接受史层。",
+          "feedback": "正确。它有历史影响，但不是可靠存世原句。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C2"
+          ]
+        },
+        {
+          "id": "heraclitus--H16-Q3-2",
+          "text": "无争议逐字残篇层。",
+          "feedback": "不正确。路线明确拒绝这种伪原典化。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--PLATO-CRATYLUS-402A",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H16-Q3-1",
+      "misconceptionId": "heraclitus--H16-Q3-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--PLATO-CRATYLUS-402A",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H16-C2"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H16-P1"
+      ],
+      "targetVoices": [
+        "modern reception history"
+      ],
+      "lessonId": "heraclitus--heraclitus-16",
+      "voice": "modern reception history"
+    },
+    {
+      "id": "heraclitus--H16-Q4",
+      "kind": "binary",
+      "prompt": "接受史是否只能丢弃、毫无证据价值？",
+      "targetNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "options": [
+        {
+          "id": "heraclitus--H16-Q4-1",
+          "text": "是；所有后世见证都应删除。",
+          "feedback": "不正确。没有见证者，绝大多数残篇也不会传世。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C1"
+          ]
+        },
+        {
+          "id": "heraclitus--H16-Q4-2",
+          "text": "不是；可保存信息，但须受引文反检验。",
+          "feedback": "正确。方法是分层与校验，而非全收或全弃。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "heraclitus--KAHN-1979-INTRO",
+            "heraclitus--SEP-GRAHAM-2023"
+          ],
+          "claimNodeIds": [
+            "heraclitus--H16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "heraclitus--H16-Q4-2",
+      "misconceptionId": "heraclitus--H16-Q4-misconception",
+      "evidenceLinkIds": [
+        "heraclitus--KAHN-1979-INTRO",
+        "heraclitus--SEP-GRAHAM-2023"
+      ],
+      "objectNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "heraclitus--H16-C1"
+      ],
+      "targetParagraphIds": [
+        "heraclitus--H16-P2"
+      ],
+      "targetVoices": [
+        "modern reception history"
+      ],
+      "lessonId": "heraclitus--heraclitus-16",
+      "voice": "modern reception history"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

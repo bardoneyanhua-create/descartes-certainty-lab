@@ -1,0 +1,5191 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "william-james--J01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。",
+      "explanation": "詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "James corpus and genres"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "william-james--J01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验；这是路线综合，不是一部隐藏的总体系。",
+      "explanation": "路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验；这是路线综合，不是一部隐藏的总体系。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route question"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "william-james--J02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。",
+      "explanation": "《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "habit and plasticity"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "习惯既稳定个人和社会，也会锁定行为；教育的实践任务是在可塑期建立有益惯例，而非等待抽象意志临时救场。",
+      "explanation": "习惯既稳定个人和社会，也会锁定行为；教育的实践任务是在可塑期建立有益惯例，而非等待抽象意志临时救场。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ethical stakes of habit"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第九章说思想以个人形式、连续变化并选择性地指向对象；“意识流”反对把心灵拆成彼此孤立的观念原子。",
+      "explanation": "第九章说思想以个人形式、连续变化并选择性地指向对象；“意识流”反对把心灵拆成彼此孤立的观念原子。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "stream of thought"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”；只记录静态名词会漏掉流的结构。",
+      "explanation": "思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”；只记录静态名词会漏掉流的结构。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "fringe and transitive parts"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第十章区分物质自我、社会自我和精神自我；一个人可因不同承认关系而拥有多个社会自我。",
+      "explanation": "第十章区分物质自我、社会自我和精神自我；一个人可因不同承认关系而拥有多个社会自我。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "empirical selves"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释；心理学范围与形而上学结论需分开。",
+      "explanation": "詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释；心理学范围与形而上学结论需分开。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pure Ego methodological boundary"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《信仰意志》把强迫、活生生且重大的二择称为真正选项；只有证据无法事先裁决而错失本身也是损失时，激情本性才有受限角色。",
+      "explanation": "《信仰意志》把强迫、活生生且重大的二择称为真正选项；只有证据无法事先裁决而错失本身也是损失时，激情本性才有受限角色。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "genuine option"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "论文没有授权无视现成反证；它讨论的是行动不能无限延期、决定会参与生成结果的特定处境。",
+      "explanation": "论文没有授权无视现成反证；它讨论的是行动不能无限延期、决定会参与生成结果的特定处境。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "limits of the right to believe"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实；若人人等待保证，某些共同善便不会出现。",
+      "explanation": "在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实；若人人等待保证，某些共同善便不会出现。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "faith creating verification conditions"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险；行动者需承担两类错误之间的取舍。",
+      "explanation": "受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险；行动者需承担两类错误之间的取舍。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "risk of believing and disbelieving"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "william-james--J07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体；认识者与被认识者可由同一纯粹经验在不同关系中的功能说明。",
+      "explanation": "《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体；认识者与被认识者可由同一纯粹经验在不同关系中的功能说明。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "does consciousness exist"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。",
+      "explanation": "“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pure experience boundary"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“彻底”经验主义要求合取与分离关系像关系项一样进入经验；连续性不必由经验外的绝对者粘合。",
+      "explanation": "“彻底”经验主义要求合取与分离关系像关系项一样进入经验；连续性不必由经验外的绝对者粘合。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-ere-world"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "experienced conjunctive relations"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文；它能承载各篇主张，却不能无标记地冒充詹姆斯生前定稿专著。",
+      "explanation": "1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文；它能承载各篇主张，却不能无标记地冒充詹姆斯生前定稿专著。",
+      "identity": "editorial-voice; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-ere-editor"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "editorial constitution of ERE"
+      ],
+      "voiceClass": "editorial-voice"
+    },
+    {
+      "id": "william-james--J09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。",
+      "explanation": "1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pragmatic method"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯明确把术语谱系追溯到Peirce；Peirce 1878年的准则以可设想实践效果澄清概念，这是Peirce声部而非James原创宣言。",
+      "explanation": "詹姆斯明确把术语谱系追溯到Peirce；Peirce 1878年的准则以可设想实践效果澄清概念，这是Peirce声部而非James原创宣言。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method",
+        "william-james--src-peirce-clearness"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Peirce pragmatic maxim"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "william-james--J10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。",
+      "explanation": "第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "truth and verification"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理；有用性不是任意欲望的通行证。",
+      "explanation": "实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理；有用性不是任意欲望的通行证。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth",
+        "william-james--src-meaning-preface"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anti-caricature of pragmatic truth"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念；真观念必须把我们带向可核查对象和满意关系。",
+      "explanation": "1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念；真观念必须把我们带向可核查对象和满意关系。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-meaning-preface",
+        "william-james--src-meaning-humanism"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "defense of pragmatic truth"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Dewey对“实践的”多重含义另作澄清；可比较两人的 pragmatism，但必须把Dewey论证标成后继同代人的独立声部。",
+      "explanation": "Dewey对“实践的”多重含义另作澄清；可比较两人的 pragmatism，但必须把Dewey论证标成后继同代人的独立声部。",
+      "identity": "dewey-position; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-dewey-practical"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Dewey clarification"
+      ],
+      "voiceClass": "dewey-position"
+    },
+    {
+      "id": "william-james--J12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。",
+      "explanation": "《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-plural-one-many"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pluralistic universe"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯批评理智主义把流动现实替换为固定概念；这不等于停止推理，而是限制概念自称完整复制现实的野心。",
+      "explanation": "詹姆斯批评理智主义把流动现实替换为固定概念；这不等于停止推理，而是限制概念自称完整复制现实的野心。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-plural-hegel"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "limits of intellectualism"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。",
+      "explanation": "《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-circumscription"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "circumscription of religious experience"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "讲演引用忧郁、分裂和重生等第一人称材料；材料中“我”的声音属于历史见证者，James负责选择、比较和解释。",
+      "explanation": "讲演引用忧郁、分裂和重生等第一人称材料；材料中“我”的声音属于历史见证者，James负责选择、比较和解释。",
+      "identity": "historical-case; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "historical religious testimony"
+      ],
+      "voiceClass": "historical-case"
+    },
+    {
+      "id": "william-james--J14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第六至七讲区分健康心态与病态灵魂；后者无法靠简单乐观抹去恶、痛苦和存在断裂。",
+      "explanation": "第六至七讲区分健康心态与病态灵魂；后者无法靠简单乐观抹去恶、痛苦和存在断裂。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick-analysis",
+        "william-james--src-vre-circumscription"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "sick soul"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。",
+      "explanation": "皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-conversion"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "conversion as center shift"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡；研究不能只问起源。",
+      "explanation": "詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡；研究不能只问起源。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-saintliness"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "fruits of saintliness"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "神秘状态以不可言说、认识性质、短暂与被动为四个标志；它对亲历者有权威，却不能自动强迫旁观者接受同一信条。",
+      "explanation": "神秘状态以不可言说、认识性质、短暂与被动为四个标志；它对亲历者有权威，却不能自动强迫旁观者接受同一信条。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-mysticism"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "marks and authority of mysticism"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验；价值判断应看经验在生活中结出的果实。",
+      "explanation": "第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验；价值判断应看经验在生活中结出的果实。",
+      "identity": "james-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-vre-neurology"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "fruits not roots"
+      ],
+      "voiceClass": "james-primary"
+    },
+    {
+      "id": "william-james--J16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性；该综合保留各作品差异，不等于“凡有用者皆真”。",
+      "explanation": "从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性；该综合保留各作品差异，不等于“凡有用者皆真”。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james",
+        "william-james--src-vre-conclusions"
+      ],
+      "abilityIds": [
+        "william-james-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "open experiential world synthesis"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "william-james--src-sep-james",
+      "workId": "William James",
+      "edition": "Russell Goodman, Stanford Encyclopedia of Philosophy, Fall 2020 archive",
+      "locator": "Introduction; chronology; sections 2–7 on psychology, religion, pragmatism, and pluralism",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "William James",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/james/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "william-james--src-principles-habit",
+      "workId": "The Principles of Psychology, vol. I (1890)",
+      "edition": "Henry Holt, 1890; standard chapter division",
+      "locator": "Chapter IV, “Habit”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Principles of Psychology, vol. I (1890)",
+      "stableUrl": "https://psychclassics.yorku.ca/James/Principles/prin4.htm",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-principles-stream",
+      "workId": "The Principles of Psychology, vol. I (1890)",
+      "edition": "Henry Holt, 1890; standard chapter division",
+      "locator": "Chapter IX, “The Stream of Thought,” especially five characters of thought",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Principles of Psychology, vol. I (1890)",
+      "stableUrl": "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-principles-self",
+      "workId": "The Principles of Psychology, vol. I (1890)",
+      "edition": "Henry Holt, 1890; standard chapter division",
+      "locator": "Chapter X, “The Consciousness of Self,” material, social, spiritual selves and pure Ego",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Principles of Psychology, vol. I (1890)",
+      "stableUrl": "https://psychclassics.yorku.ca/James/Principles/prin10.htm",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-wtb",
+      "workId": "The Will to Believe (1896)",
+      "edition": "The Will to Believe and Other Essays in Popular Philosophy (Longmans, Green, 1897)",
+      "locator": "Essay I, §§I–XI: genuine option, passional nature, and cases where evidence cannot decide in advance",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Will to Believe (1896)",
+      "stableUrl": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-prag-method",
+      "workId": "Pragmatism (1907)",
+      "edition": "Longmans, Green, 1907; eight-lecture edition",
+      "locator": "Lecture II, “What Pragmatism Means”: squirrel example, Peirce attribution, practical consequences, method",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Pragmatism (1907)",
+      "stableUrl": "https://brocku.ca/MeadProject/James/James_1907/James_1907_02.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-peirce-clearness",
+      "workId": "How to Make Our Ideas Clear (1878)",
+      "edition": "Popular Science Monthly 12 (January 1878)",
+      "locator": "Part IV: practical bearings and the pragmatic maxim",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "How to Make Our Ideas Clear (1878)",
+      "stableUrl": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "peirce-position",
+      "year": null
+    },
+    {
+      "id": "william-james--src-prag-truth",
+      "workId": "Pragmatism (1907)",
+      "edition": "Longmans, Green, 1907",
+      "locator": "Lecture VI, “Pragmatism’s Conception of Truth”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Pragmatism (1907)",
+      "stableUrl": "https://www.cambridge.org/core/books/pragmatism/pragmatisms-conception-of-truth/18D8DEE4CAF27FDF5EB3224963E4468E",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-meaning-preface",
+      "workId": "The Meaning of Truth (1909)",
+      "edition": "Longmans, Green, 1909",
+      "locator": "Preface: truth, verification, usefulness, and radical empiricism",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Meaning of Truth (1909)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/5117",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-meaning-humanism",
+      "workId": "The Meaning of Truth (1909)",
+      "edition": "Longmans, Green, 1909",
+      "locator": "Chapter III, “Humanism and Truth”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Meaning of Truth (1909)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/5117",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-dewey-practical",
+      "workId": "What Pragmatism Means by Practical (1908)",
+      "edition": "Journal of Philosophy, Psychology and Scientific Methods 5 (1908)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact section/page in the 1908 journal printing for Dewey’s distinction among senses of “practical.”",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "What Pragmatism Means by Practical (1908)",
+      "stableUrl": "https://www.jstor.org/stable/2011894",
+      "boundaryZh": "Close exact section/page in the 1908 journal printing for Dewey’s distinction among senses of “practical.”",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "dewey-position",
+      "year": null
+    },
+    {
+      "id": "william-james--src-ere-consciousness",
+      "workId": "Essays in Radical Empiricism (1912)",
+      "edition": "Ralph Barton Perry ed., Longmans, Green, 1912; posthumous collection",
+      "locator": "Essay I, “Does ‘Consciousness’ Exist?”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Essays in Radical Empiricism (1912)",
+      "stableUrl": "https://fair-use.org/william-james/essays-in-radical-empiricism/does-consciousness-exist",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-ere-world",
+      "workId": "Essays in Radical Empiricism (1912)",
+      "edition": "Perry ed., 1912; posthumous collection",
+      "locator": "Essay II, “A World of Pure Experience”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Essays in Radical Empiricism (1912)",
+      "stableUrl": "https://fair-use.org/william-james/essays-in-radical-empiricism/a-world-of-pure-experience",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-ere-editor",
+      "workId": "Essays in Radical Empiricism (1912)",
+      "edition": "Ralph Barton Perry ed., Longmans, Green, 1912",
+      "locator": "Editor’s Preface: posthumous publication and editorial constitution of the collection",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Essays in Radical Empiricism (1912)",
+      "stableUrl": "https://brocku.ca/MeadProject/James/James_1912/James_1912_pref.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "editorial-voice",
+      "year": null
+    },
+    {
+      "id": "william-james--src-plural-one-many",
+      "workId": "A Pluralistic Universe (1909)",
+      "edition": "Longmans, Green, 1909; Hibbert Lectures",
+      "locator": "Lecture I, kinds of philosophic thinking; Lecture IV, the One and the Many",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Pluralistic Universe (1909)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/11984",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-plural-hegel",
+      "workId": "A Pluralistic Universe (1909)",
+      "edition": "Longmans, Green, 1909",
+      "locator": "Lectures III–V: Hegel, the Absolute, and the limits of intellectualist logic",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Pluralistic Universe (1909)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/11984",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-neurology",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902; Gifford Lectures",
+      "locator": "Lecture I, “Religion and Neurology”: medical materialism, organic conditioning, and judgment by fruits rather than roots",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-circumscription",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902; Gifford Lectures",
+      "locator": "Lectures II–III, circumscription of the topic and reality of the unseen",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-sick",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lectures VI–VII, “The Sick Soul”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "historical-case",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-sick-analysis",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lectures VI–VII, James’s analysis of “The Sick Soul”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-conversion",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lectures IX–X, “Conversion”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-saintliness",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lectures XI–XV, saintliness and its value",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-mysticism",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lectures XVI–XVII, “Mysticism”: ineffability, noetic quality, transiency, passivity",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    },
+    {
+      "id": "william-james--src-vre-conclusions",
+      "workId": "The Varieties of Religious Experience (1902)",
+      "edition": "Longmans, Green, 1902",
+      "locator": "Lecture XX, Conclusions and postscript: fruits, over-beliefs, and plural hypotheses",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Varieties of Religious Experience (1902)",
+      "stableUrl": "https://www.gutenberg.org/ebooks/621",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "james-primary",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "william-james-experience-belief-truth",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "威廉·詹姆斯：经验、信念与真理",
+      "lessonIds": [
+        "william-james--william-james-01",
+        "william-james--william-james-02",
+        "william-james--william-james-03",
+        "william-james--william-james-04",
+        "william-james--william-james-05",
+        "william-james--william-james-06",
+        "william-james--william-james-07",
+        "william-james--william-james-08",
+        "william-james--william-james-09",
+        "william-james--william-james-10",
+        "william-james--william-james-11",
+        "william-james--william-james-12",
+        "william-james--william-james-13",
+        "william-james--william-james-14",
+        "william-james--william-james-15",
+        "william-james--william-james-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "William James",
+        "nameZh": "威廉·詹姆斯",
+        "sourceRouteId": "william-james-experience-belief-truth"
+      },
+      "summary": "1. 一条经验路线"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "william-james--william-james-01",
+      "order": 1,
+      "title": "1. 一条经验路线",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 一条经验路线",
+      "coreExplanation": "詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。\n\n路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验；这是路线综合，不是一部隐藏的总体系。",
+      "sections": [
+        {
+          "heading": "1. 一条经验路线",
+          "paragraphs": [
+            "詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。",
+            "路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验；这是路线综合，不是一部隐藏的总体系。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J01-C1",
+        "william-james--J01-C2"
+      ],
+      "checkIds": [
+        "william-james--J01-Q1",
+        "william-james--J01-Q2",
+        "william-james--J01-Q3",
+        "william-james--J01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-02",
+      "sourceIds": [
+        "william-james--src-sep-james"
+      ],
+      "essentialQuestion": "1. 一条经验路线",
+      "initialFocusId": "william-james--william-james-01-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-02",
+      "order": 2,
+      "title": "2. 习惯与可塑性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 习惯与可塑性",
+      "coreExplanation": "《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。\n\n习惯既稳定个人和社会，也会锁定行为；教育的实践任务是在可塑期建立有益惯例，而非等待抽象意志临时救场。",
+      "sections": [
+        {
+          "heading": "2. 习惯与可塑性",
+          "paragraphs": [
+            "《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。",
+            "习惯既稳定个人和社会，也会锁定行为；教育的实践任务是在可塑期建立有益惯例，而非等待抽象意志临时救场。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J02-C1",
+        "william-james--J02-C2"
+      ],
+      "checkIds": [
+        "william-james--J02-Q1",
+        "william-james--J02-Q2",
+        "william-james--J02-Q3",
+        "william-james--J02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-03",
+      "sourceIds": [
+        "william-james--src-principles-habit"
+      ],
+      "essentialQuestion": "2. 习惯与可塑性",
+      "initialFocusId": "william-james--william-james-02-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-03",
+      "order": 3,
+      "title": "3. 意识是流而非链",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 意识是流而非链",
+      "coreExplanation": "第九章说思想以个人形式、连续变化并选择性地指向对象；“意识流”反对把心灵拆成彼此孤立的观念原子。\n\n思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”；只记录静态名词会漏掉流的结构。",
+      "sections": [
+        {
+          "heading": "3. 意识是流而非链",
+          "paragraphs": [
+            "第九章说思想以个人形式、连续变化并选择性地指向对象；“意识流”反对把心灵拆成彼此孤立的观念原子。",
+            "思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”；只记录静态名词会漏掉流的结构。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J03-C1",
+        "william-james--J03-C2"
+      ],
+      "checkIds": [
+        "william-james--J03-Q1",
+        "william-james--J03-Q2",
+        "william-james--J03-Q3",
+        "william-james--J03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-04",
+      "sourceIds": [
+        "william-james--src-principles-stream"
+      ],
+      "essentialQuestion": "3. 意识是流而非链",
+      "initialFocusId": "william-james--william-james-03-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-04",
+      "order": 4,
+      "title": "4. 自我的多重层次",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 自我的多重层次",
+      "coreExplanation": "第十章区分物质自我、社会自我和精神自我；一个人可因不同承认关系而拥有多个社会自我。\n\n詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释；心理学范围与形而上学结论需分开。",
+      "sections": [
+        {
+          "heading": "4. 自我的多重层次",
+          "paragraphs": [
+            "第十章区分物质自我、社会自我和精神自我；一个人可因不同承认关系而拥有多个社会自我。",
+            "詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释；心理学范围与形而上学结论需分开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J04-C1",
+        "william-james--J04-C2"
+      ],
+      "checkIds": [
+        "william-james--J04-Q1",
+        "william-james--J04-Q2",
+        "william-james--J04-Q3",
+        "william-james--J04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-05",
+      "sourceIds": [
+        "william-james--src-principles-self"
+      ],
+      "essentialQuestion": "4. 自我的多重层次",
+      "initialFocusId": "william-james--william-james-04-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-05",
+      "order": 5,
+      "title": "5. 真正选项",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 真正选项",
+      "coreExplanation": "《信仰意志》把强迫、活生生且重大的二择称为真正选项；只有证据无法事先裁决而错失本身也是损失时，激情本性才有受限角色。\n\n论文没有授权无视现成反证；它讨论的是行动不能无限延期、决定会参与生成结果的特定处境。",
+      "sections": [
+        {
+          "heading": "5. 真正选项",
+          "paragraphs": [
+            "《信仰意志》把强迫、活生生且重大的二择称为真正选项；只有证据无法事先裁决而错失本身也是损失时，激情本性才有受限角色。",
+            "论文没有授权无视现成反证；它讨论的是行动不能无限延期、决定会参与生成结果的特定处境。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J05-C1",
+        "william-james--J05-C2"
+      ],
+      "checkIds": [
+        "william-james--J05-Q1",
+        "william-james--J05-Q2",
+        "william-james--J05-Q3",
+        "william-james--J05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-06",
+      "sourceIds": [
+        "william-james--src-wtb"
+      ],
+      "essentialQuestion": "5. 真正选项",
+      "initialFocusId": "william-james--william-james-05-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-06",
+      "order": 6,
+      "title": "6. 信念可能参与事实",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 信念可能参与事实",
+      "coreExplanation": "在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实；若人人等待保证，某些共同善便不会出现。\n\n受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险；行动者需承担两类错误之间的取舍。",
+      "sections": [
+        {
+          "heading": "6. 信念可能参与事实",
+          "paragraphs": [
+            "在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实；若人人等待保证，某些共同善便不会出现。",
+            "受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险；行动者需承担两类错误之间的取舍。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J06-C1",
+        "william-james--J06-C2"
+      ],
+      "checkIds": [
+        "william-james--J06-Q1",
+        "william-james--J06-Q2",
+        "william-james--J06-Q3",
+        "william-james--J06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-07",
+      "sourceIds": [
+        "william-james--src-wtb"
+      ],
+      "essentialQuestion": "6. 信念可能参与事实",
+      "initialFocusId": "william-james--william-james-06-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-07",
+      "order": 7,
+      "title": "7. “意识”不是额外实体",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. “意识”不是额外实体",
+      "coreExplanation": "《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体；认识者与被认识者可由同一纯粹经验在不同关系中的功能说明。\n\n“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。",
+      "sections": [
+        {
+          "heading": "7. “意识”不是额外实体",
+          "paragraphs": [
+            "《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体；认识者与被认识者可由同一纯粹经验在不同关系中的功能说明。",
+            "“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J07-C1",
+        "william-james--J07-C2"
+      ],
+      "checkIds": [
+        "william-james--J07-Q1",
+        "william-james--J07-Q2",
+        "william-james--J07-Q3",
+        "william-james--J07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-08",
+      "sourceIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "essentialQuestion": "7. “意识”不是额外实体",
+      "initialFocusId": "william-james--william-james-07-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-08",
+      "order": 8,
+      "title": "8. 关系也被经验",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 关系也被经验",
+      "coreExplanation": "“彻底”经验主义要求合取与分离关系像关系项一样进入经验；连续性不必由经验外的绝对者粘合。\n\n1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文；它能承载各篇主张，却不能无标记地冒充詹姆斯生前定稿专著。",
+      "sections": [
+        {
+          "heading": "8. 关系也被经验",
+          "paragraphs": [
+            "“彻底”经验主义要求合取与分离关系像关系项一样进入经验；连续性不必由经验外的绝对者粘合。",
+            "1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文；它能承载各篇主张，却不能无标记地冒充詹姆斯生前定稿专著。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-ere-world",
+            "william-james--src-ere-editor"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J08-C1",
+        "william-james--J08-C2"
+      ],
+      "checkIds": [
+        "william-james--J08-Q1",
+        "william-james--J08-Q2",
+        "william-james--J08-Q3",
+        "william-james--J08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-09",
+      "sourceIds": [
+        "william-james--src-ere-world",
+        "william-james--src-ere-editor"
+      ],
+      "essentialQuestion": "8. 关系也被经验",
+      "initialFocusId": "william-james--william-james-08-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-09",
+      "order": 9,
+      "title": "9. 实用主义首先是方法",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 实用主义首先是方法",
+      "coreExplanation": "1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。\n\n詹姆斯明确把术语谱系追溯到Peirce；Peirce 1878年的准则以可设想实践效果澄清概念，这是Peirce声部而非James原创宣言。",
+      "sections": [
+        {
+          "heading": "9. 实用主义首先是方法",
+          "paragraphs": [
+            "1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。",
+            "詹姆斯明确把术语谱系追溯到Peirce；Peirce 1878年的准则以可设想实践效果澄清概念，这是Peirce声部而非James原创宣言。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-prag-method",
+            "william-james--src-peirce-clearness"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J09-C1",
+        "william-james--J09-C2"
+      ],
+      "checkIds": [
+        "william-james--J09-Q1",
+        "william-james--J09-Q2",
+        "william-james--J09-Q3",
+        "william-james--J09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-10",
+      "sourceIds": [
+        "william-james--src-prag-method",
+        "william-james--src-peirce-clearness"
+      ],
+      "essentialQuestion": "9. 实用主义首先是方法",
+      "initialFocusId": "william-james--william-james-09-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-10",
+      "order": 10,
+      "title": "10. 真理作为验证过程",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 真理作为验证过程",
+      "coreExplanation": "第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。\n\n实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理；有用性不是任意欲望的通行证。",
+      "sections": [
+        {
+          "heading": "10. 真理作为验证过程",
+          "paragraphs": [
+            "第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。",
+            "实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理；有用性不是任意欲望的通行证。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth",
+            "william-james--src-meaning-preface"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J10-C1",
+        "william-james--J10-C2"
+      ],
+      "checkIds": [
+        "william-james--J10-Q1",
+        "william-james--J10-Q2",
+        "william-james--J10-Q3",
+        "william-james--J10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-11",
+      "sourceIds": [
+        "william-james--src-prag-truth",
+        "william-james--src-meaning-preface"
+      ],
+      "essentialQuestion": "10. 真理作为验证过程",
+      "initialFocusId": "william-james--william-james-10-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-11",
+      "order": 11,
+      "title": "11. 《真理的意义》的辩护",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 《真理的意义》的辩护",
+      "coreExplanation": "1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念；真观念必须把我们带向可核查对象和满意关系。\n\nDewey对“实践的”多重含义另作澄清；可比较两人的 pragmatism，但必须把Dewey论证标成后继同代人的独立声部。",
+      "sections": [
+        {
+          "heading": "11. 《真理的意义》的辩护",
+          "paragraphs": [
+            "1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念；真观念必须把我们带向可核查对象和满意关系。",
+            "Dewey对“实践的”多重含义另作澄清；可比较两人的 pragmatism，但必须把Dewey论证标成后继同代人的独立声部。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-meaning-preface",
+            "william-james--src-meaning-humanism",
+            "william-james--src-dewey-practical"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J11-C1",
+        "william-james--J11-C2"
+      ],
+      "checkIds": [
+        "william-james--J11-Q1",
+        "william-james--J11-Q2",
+        "william-james--J11-Q3",
+        "william-james--J11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-12",
+      "sourceIds": [
+        "william-james--src-meaning-preface",
+        "william-james--src-meaning-humanism",
+        "william-james--src-dewey-practical"
+      ],
+      "essentialQuestion": "11. 《真理的意义》的辩护",
+      "initialFocusId": "william-james--william-james-11-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-12",
+      "order": 12,
+      "title": "12. 多元宇宙反对封闭绝对",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 多元宇宙反对封闭绝对",
+      "coreExplanation": "《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。\n\n詹姆斯批评理智主义把流动现实替换为固定概念；这不等于停止推理，而是限制概念自称完整复制现实的野心。",
+      "sections": [
+        {
+          "heading": "12. 多元宇宙反对封闭绝对",
+          "paragraphs": [
+            "《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。",
+            "詹姆斯批评理智主义把流动现实替换为固定概念；这不等于停止推理，而是限制概念自称完整复制现实的野心。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-plural-one-many",
+            "william-james--src-plural-hegel"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J12-C1",
+        "william-james--J12-C2"
+      ],
+      "checkIds": [
+        "william-james--J12-Q1",
+        "william-james--J12-Q2",
+        "william-james--J12-Q3",
+        "william-james--J12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-13",
+      "sourceIds": [
+        "william-james--src-plural-one-many",
+        "william-james--src-plural-hegel"
+      ],
+      "essentialQuestion": "12. 多元宇宙反对封闭绝对",
+      "initialFocusId": "william-james--william-james-12-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-13",
+      "order": 13,
+      "title": "13. 宗教经验的研究对象",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 宗教经验的研究对象",
+      "coreExplanation": "《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。\n\n讲演引用忧郁、分裂和重生等第一人称材料；材料中“我”的声音属于历史见证者，James负责选择、比较和解释。",
+      "sections": [
+        {
+          "heading": "13. 宗教经验的研究对象",
+          "paragraphs": [
+            "《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。",
+            "讲演引用忧郁、分裂和重生等第一人称材料；材料中“我”的声音属于历史见证者，James负责选择、比较和解释。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-vre-circumscription",
+            "william-james--src-vre-sick"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J13-C1",
+        "william-james--J13-C2"
+      ],
+      "checkIds": [
+        "william-james--J13-Q1",
+        "william-james--J13-Q2",
+        "william-james--J13-Q3",
+        "william-james--J13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-14",
+      "sourceIds": [
+        "william-james--src-vre-circumscription",
+        "william-james--src-vre-sick"
+      ],
+      "essentialQuestion": "13. 宗教经验的研究对象",
+      "initialFocusId": "william-james--william-james-13-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-14",
+      "order": 14,
+      "title": "14. 病态灵魂",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 病态灵魂",
+      "coreExplanation": "第六至七讲区分健康心态与病态灵魂；后者无法靠简单乐观抹去恶、痛苦和存在断裂。\n\n皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。",
+      "sections": [
+        {
+          "heading": "14. 病态灵魂",
+          "paragraphs": [
+            "第六至七讲区分健康心态与病态灵魂；后者无法靠简单乐观抹去恶、痛苦和存在断裂。",
+            "皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick-analysis",
+            "william-james--src-vre-circumscription",
+            "william-james--src-vre-conversion"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J14-C1",
+        "william-james--J14-C2"
+      ],
+      "checkIds": [
+        "william-james--J14-Q1",
+        "william-james--J14-Q2",
+        "william-james--J14-Q3",
+        "william-james--J14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-15",
+      "sourceIds": [
+        "william-james--src-vre-sick-analysis",
+        "william-james--src-vre-circumscription",
+        "william-james--src-vre-conversion"
+      ],
+      "essentialQuestion": "14. 病态灵魂",
+      "initialFocusId": "william-james--william-james-14-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-15",
+      "order": 15,
+      "title": "15. 圣徒性的果实",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 圣徒性的果实",
+      "coreExplanation": "詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡；研究不能只问起源。\n\n神秘状态以不可言说、认识性质、短暂与被动为四个标志；它对亲历者有权威，却不能自动强迫旁观者接受同一信条。",
+      "sections": [
+        {
+          "heading": "15. 圣徒性的果实",
+          "paragraphs": [
+            "詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡；研究不能只问起源。",
+            "神秘状态以不可言说、认识性质、短暂与被动为四个标志；它对亲历者有权威，却不能自动强迫旁观者接受同一信条。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-vre-saintliness",
+            "william-james--src-vre-mysticism"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J15-C1",
+        "william-james--J15-C2"
+      ],
+      "checkIds": [
+        "william-james--J15-Q1",
+        "william-james--J15-Q2",
+        "william-james--J15-Q3",
+        "william-james--J15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-james--william-james-16",
+      "sourceIds": [
+        "william-james--src-vre-saintliness",
+        "william-james--src-vre-mysticism"
+      ],
+      "essentialQuestion": "15. 圣徒性的果实",
+      "initialFocusId": "william-james--william-james-15-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-james--william-james-16",
+      "order": 16,
+      "title": "16. 由果实而非病因裁判",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 由果实而非病因裁判",
+      "coreExplanation": "第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验；价值判断应看经验在生活中结出的果实。\n\n从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性；该综合保留各作品差异，不等于“凡有用者皆真”。",
+      "sections": [
+        {
+          "heading": "16. 由果实而非病因裁判",
+          "paragraphs": [
+            "第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验；价值判断应看经验在生活中结出的果实。",
+            "从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性；该综合保留各作品差异，不等于“凡有用者皆真”。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-james--src-vre-neurology",
+            "william-james--src-sep-james",
+            "william-james--src-vre-conclusions"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-james--J16-C1",
+        "william-james--J16-C2"
+      ],
+      "checkIds": [
+        "william-james--J16-Q1",
+        "william-james--J16-Q2",
+        "william-james--J16-Q3",
+        "william-james--J16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "william-james--src-vre-neurology",
+        "william-james--src-sep-james",
+        "william-james--src-vre-conclusions"
+      ],
+      "essentialQuestion": "16. 由果实而非病因裁判",
+      "initialFocusId": "william-james--william-james-16-title",
+      "routeId": "william-james-experience-belief-truth",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "william-james--J01-Q1",
+      "kind": "binary",
+      "prompt": "关于“一条经验路线”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J01-Q1-1",
+          "text": "符合 claim：詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。。",
+          "feedback": "正确项“符合 claim：詹姆斯横跨心理学与哲学：1890年的心理学描述、1896年的信念伦理、1902年的宗教讲演和1907年后的实用主义必须按文类阅读。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C1"
+          ]
+        },
+        {
+          "id": "william-james--J01-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J01-Q1-1",
+      "misconceptionId": "william-james--J01-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "objectNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "william-james--william-james-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "william-james--J01-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J01-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C1"
+          ]
+        },
+        {
+          "id": "william-james--J01-Q2-2",
+          "text": "保留 modern-interpretation 与 modern-scholarship 的限定。",
+          "feedback": "正确项“保留 modern-interpretation 与 modern-scholarship 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J01-Q2-2",
+      "misconceptionId": "william-james--J01-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "objectNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J01-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "william-james--william-james-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "william-james--J01-Q3",
+      "kind": "binary",
+      "prompt": "关于“核心问题”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J01-Q3-1",
+          "text": "符合 claim：路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验。",
+          "feedback": "正确项“符合 claim：路线追问经验如何流动、习惯如何塑造行动、信念如何在风险中形成、真理如何经受现实检验。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C2"
+          ]
+        },
+        {
+          "id": "william-james--J01-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J01-Q3-1",
+      "misconceptionId": "william-james--J01-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "objectNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J01-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J01-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C2"
+          ]
+        },
+        {
+          "id": "william-james--J01-Q4-2",
+          "text": "保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“保留 route-synthesis 与 route-synthesis 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james"
+          ],
+          "claimNodeIds": [
+            "william-james--J01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J01-Q4-2",
+      "misconceptionId": "william-james--J01-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james"
+      ],
+      "objectNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J01-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J02-Q1",
+      "kind": "binary",
+      "prompt": "关于“习惯与可塑性”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J02-Q1-1",
+          "text": "符合 claim：《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。。",
+          "feedback": "正确项“符合 claim：《心理学原理》第四章把习惯连接到神经系统的可塑性：重复行动刻出路径，使后续行动更省力也更难改变。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C1"
+          ]
+        },
+        {
+          "id": "william-james--J02-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J02-Q1-1",
+      "misconceptionId": "william-james--J02-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "objectNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J02-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-02",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J02-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J02-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C1"
+          ]
+        },
+        {
+          "id": "william-james--J02-Q2-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J02-Q2-2",
+      "misconceptionId": "william-james--J02-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "objectNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J02-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J02-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-02",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J02-Q3",
+      "kind": "binary",
+      "prompt": "关于“习惯的伦理重量”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J02-Q3-1",
+          "text": "符合 claim：习惯既稳定个人和社会，也会锁定行为。",
+          "feedback": "正确项“符合 claim：习惯既稳定个人和社会，也会锁定行为。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C2"
+          ]
+        },
+        {
+          "id": "william-james--J02-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J02-Q3-1",
+      "misconceptionId": "william-james--J02-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "objectNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J02-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-02",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J02-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J02-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C2"
+          ]
+        },
+        {
+          "id": "william-james--J02-Q4-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-habit"
+          ],
+          "claimNodeIds": [
+            "william-james--J02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J02-Q4-2",
+      "misconceptionId": "william-james--J02-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-habit"
+      ],
+      "objectNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J02-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J02-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-02",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J03-Q1",
+      "kind": "binary",
+      "prompt": "关于“意识是流而非链”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J03-Q1-1",
+          "text": "符合 claim：第九章说思想以个人形式、连续变化并选择性地指向对象。",
+          "feedback": "正确项“符合 claim：第九章说思想以个人形式、连续变化并选择性地指向对象。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C1"
+          ]
+        },
+        {
+          "id": "william-james--J03-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J03-Q1-1",
+      "misconceptionId": "william-james--J03-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "objectNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J03-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-03",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J03-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J03-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C1"
+          ]
+        },
+        {
+          "id": "william-james--J03-Q2-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J03-Q2-2",
+      "misconceptionId": "william-james--J03-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "objectNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J03-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J03-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-03",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J03-Q3",
+      "kind": "binary",
+      "prompt": "关于“边缘与过渡也属经验”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J03-Q3-1",
+          "text": "符合 claim：思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”。",
+          "feedback": "正确项“符合 claim：思想不仅有清楚的实体性部分，还有关系感、倾向和过渡的“边缘”。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C2"
+          ]
+        },
+        {
+          "id": "william-james--J03-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J03-Q3-1",
+      "misconceptionId": "william-james--J03-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "objectNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J03-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-03",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J03-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J03-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C2"
+          ]
+        },
+        {
+          "id": "william-james--J03-Q4-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-stream"
+          ],
+          "claimNodeIds": [
+            "william-james--J03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J03-Q4-2",
+      "misconceptionId": "william-james--J03-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-stream"
+      ],
+      "objectNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J03-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J03-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-03",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J04-Q1",
+      "kind": "binary",
+      "prompt": "关于“自我的多重层次”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J04-Q1-1",
+          "text": "符合 claim：第十章区分物质自我、社会自我和精神自我。",
+          "feedback": "正确项“符合 claim：第十章区分物质自我、社会自我和精神自我。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C1"
+          ]
+        },
+        {
+          "id": "william-james--J04-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J04-Q1-1",
+      "misconceptionId": "william-james--J04-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "objectNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J04-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-04",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J04-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J04-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C1"
+          ]
+        },
+        {
+          "id": "william-james--J04-Q2-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J04-Q2-2",
+      "misconceptionId": "william-james--J04-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "objectNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J04-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J04-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-04",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J04-Q3",
+      "kind": "binary",
+      "prompt": "关于“纯粹自我问题未被轻率解决”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J04-Q3-1",
+          "text": "符合 claim：詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释。",
+          "feedback": "正确项“符合 claim：詹姆斯分析思想流中的同一感，却不把形而上实体灵魂当作心理学必须先验接受的解释。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C2"
+          ]
+        },
+        {
+          "id": "william-james--J04-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J04-Q3-1",
+      "misconceptionId": "william-james--J04-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "objectNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J04-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-04",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J04-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J04-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C2"
+          ]
+        },
+        {
+          "id": "william-james--J04-Q4-2",
+          "text": "保留 james-primary 与 psychology-monograph-1890 的限定。",
+          "feedback": "正确项“保留 james-primary 与 psychology-monograph-1890 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-principles-self"
+          ],
+          "claimNodeIds": [
+            "william-james--J04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J04-Q4-2",
+      "misconceptionId": "william-james--J04-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-principles-self"
+      ],
+      "objectNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J04-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J04-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-04",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J05-Q1",
+      "kind": "binary",
+      "prompt": "关于“真正选项”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J05-Q1-1",
+          "text": "符合 claim：《信仰意志》把强迫、活生生且重大的二择称为真正选项。",
+          "feedback": "正确项“符合 claim：《信仰意志》把强迫、活生生且重大的二择称为真正选项。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C1"
+          ]
+        },
+        {
+          "id": "william-james--J05-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J05-Q1-1",
+      "misconceptionId": "william-james--J05-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J05-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-05",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J05-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J05-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C1"
+          ]
+        },
+        {
+          "id": "william-james--J05-Q2-2",
+          "text": "保留 james-primary 与 public-address-1896 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-address-1896 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J05-Q2-2",
+      "misconceptionId": "william-james--J05-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J05-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J05-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-05",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J05-Q3",
+      "kind": "binary",
+      "prompt": "关于“不是任意相信许可”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J05-Q3-1",
+          "text": "符合 claim：论文没有授权无视现成反证。",
+          "feedback": "正确项“符合 claim：论文没有授权无视现成反证。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C2"
+          ]
+        },
+        {
+          "id": "william-james--J05-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J05-Q3-1",
+      "misconceptionId": "william-james--J05-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J05-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-05",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J05-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J05-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C2"
+          ]
+        },
+        {
+          "id": "william-james--J05-Q4-2",
+          "text": "保留 james-primary 与 public-address-1896 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-address-1896 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J05-Q4-2",
+      "misconceptionId": "william-james--J05-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J05-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J05-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-05",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J06-Q1",
+      "kind": "binary",
+      "prompt": "关于“信念可能参与事实”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J06-Q1-1",
+          "text": "符合 claim：在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实。",
+          "feedback": "正确项“符合 claim：在友谊、合作等关系中，先行信任可能帮助产生它所期待的事实。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C1"
+          ]
+        },
+        {
+          "id": "william-james--J06-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J06-Q1-1",
+      "misconceptionId": "william-james--J06-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J06-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-06",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J06-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J06-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C1"
+          ]
+        },
+        {
+          "id": "william-james--J06-Q2-2",
+          "text": "保留 james-primary 与 public-address-1896 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-address-1896 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J06-Q2-2",
+      "misconceptionId": "william-james--J06-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J06-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J06-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-06",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J06-Q3",
+      "kind": "binary",
+      "prompt": "关于“风险仍须承担”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J06-Q3-1",
+          "text": "符合 claim：受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险。",
+          "feedback": "正确项“符合 claim：受限的信念权不是证明命题已经真，而是承认拒绝选择也有失真风险。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C2"
+          ]
+        },
+        {
+          "id": "william-james--J06-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J06-Q3-1",
+      "misconceptionId": "william-james--J06-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J06-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-06",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J06-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J06-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C2"
+          ]
+        },
+        {
+          "id": "william-james--J06-Q4-2",
+          "text": "保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“保留 route-synthesis 与 route-synthesis 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-wtb"
+          ],
+          "claimNodeIds": [
+            "william-james--J06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J06-Q4-2",
+      "misconceptionId": "william-james--J06-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-wtb"
+      ],
+      "objectNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J06-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J06-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-06",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J07-Q1",
+      "kind": "binary",
+      "prompt": "关于““意识”不是额外实体”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J07-Q1-1",
+          "text": "符合 claim：《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体。",
+          "feedback": "正确项“符合 claim：《彻底经验主义论文集》首篇否认“意识”作为与经验内容并列的实体。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C1"
+          ]
+        },
+        {
+          "id": "william-james--J07-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J07-Q1-1",
+      "misconceptionId": "william-james--J07-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "objectNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J07-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-07",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J07-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J07-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C1"
+          ]
+        },
+        {
+          "id": "william-james--J07-Q2-2",
+          "text": "保留 james-primary 与 posthumous-edited-collection-1912 的限定。",
+          "feedback": "正确项“保留 james-primary 与 posthumous-edited-collection-1912 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J07-Q2-2",
+      "misconceptionId": "william-james--J07-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "objectNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J07-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J07-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-07",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J07-Q3",
+      "kind": "binary",
+      "prompt": "关于“纯粹经验不是无性质的神秘物”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J07-Q3-1",
+          "text": "符合 claim：“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。。",
+          "feedback": "正确项“符合 claim：“纯粹”指尚未按心物功能划分的直接经验场，不等于完全空白或不可说的本体。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C2"
+          ]
+        },
+        {
+          "id": "william-james--J07-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J07-Q3-1",
+      "misconceptionId": "william-james--J07-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "objectNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J07-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-07",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J07-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J07-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C2"
+          ]
+        },
+        {
+          "id": "william-james--J07-Q4-2",
+          "text": "保留 james-primary 与 posthumous-edited-collection-1912 的限定。",
+          "feedback": "正确项“保留 james-primary 与 posthumous-edited-collection-1912 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-consciousness"
+          ],
+          "claimNodeIds": [
+            "william-james--J07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J07-Q4-2",
+      "misconceptionId": "william-james--J07-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-consciousness"
+      ],
+      "objectNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J07-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J07-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-07",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J08-Q1",
+      "kind": "binary",
+      "prompt": "关于“关系也被经验”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J08-Q1-1",
+          "text": "符合 claim：“彻底”经验主义要求合取与分离关系像关系项一样进入经验。",
+          "feedback": "正确项“符合 claim：“彻底”经验主义要求合取与分离关系像关系项一样进入经验。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-world"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C1"
+          ]
+        },
+        {
+          "id": "william-james--J08-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-world"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J08-Q1-1",
+      "misconceptionId": "william-james--J08-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-world"
+      ],
+      "objectNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J08-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-08",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J08-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J08-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-world"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C1"
+          ]
+        },
+        {
+          "id": "william-james--J08-Q2-2",
+          "text": "保留 james-primary 与 posthumous-edited-collection-1912 的限定。",
+          "feedback": "正确项“保留 james-primary 与 posthumous-edited-collection-1912 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-world"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J08-Q2-2",
+      "misconceptionId": "william-james--J08-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-world"
+      ],
+      "objectNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J08-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J08-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-08",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J08-Q3",
+      "kind": "binary",
+      "prompt": "关于“身后文集的编辑身份”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J08-Q3-1",
+          "text": "符合 claim：1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文。",
+          "feedback": "正确项“符合 claim：1912文集由Ralph Barton Perry身后编辑出版，汇集早先论文。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-editor"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C2"
+          ]
+        },
+        {
+          "id": "william-james--J08-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-editor"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J08-Q3-1",
+      "misconceptionId": "william-james--J08-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-editor"
+      ],
+      "objectNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J08-P2"
+      ],
+      "targetVoices": [
+        "editorial-voice"
+      ],
+      "lessonId": "william-james--william-james-08",
+      "voice": "editorial-voice"
+    },
+    {
+      "id": "william-james--J08-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J08-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-ere-editor"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C2"
+          ]
+        },
+        {
+          "id": "william-james--J08-Q4-2",
+          "text": "保留 editorial-voice 与 posthumous-editorial-paratext-1912 的限定。",
+          "feedback": "正确项“保留 editorial-voice 与 posthumous-editorial-paratext-1912 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-ere-editor"
+          ],
+          "claimNodeIds": [
+            "william-james--J08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J08-Q4-2",
+      "misconceptionId": "william-james--J08-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-ere-editor"
+      ],
+      "objectNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J08-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J08-P2"
+      ],
+      "targetVoices": [
+        "editorial-voice"
+      ],
+      "lessonId": "william-james--william-james-08",
+      "voice": "editorial-voice"
+    },
+    {
+      "id": "william-james--J09-Q1",
+      "kind": "binary",
+      "prompt": "关于“实用主义首先是方法”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J09-Q1-1",
+          "text": "符合 claim：1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。。",
+          "feedback": "正确项“符合 claim：1907年第二讲把实用主义当作澄清争论的方法：追问两种说法若为真，会造成哪些可经验的实践差异。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C1"
+          ]
+        },
+        {
+          "id": "william-james--J09-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J09-Q1-1",
+      "misconceptionId": "william-james--J09-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method"
+      ],
+      "objectNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J09-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-09",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J09-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J09-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C1"
+          ]
+        },
+        {
+          "id": "william-james--J09-Q2-2",
+          "text": "保留 james-primary 与 public-lectures-1907 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-lectures-1907 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J09-Q2-2",
+      "misconceptionId": "william-james--J09-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method"
+      ],
+      "objectNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J09-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J09-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-09",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J09-Q3",
+      "kind": "binary",
+      "prompt": "关于“Peirce的先行公式”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J09-Q3-1",
+          "text": "符合 claim：詹姆斯明确把术语谱系追溯到Peirce。",
+          "feedback": "正确项“符合 claim：詹姆斯明确把术语谱系追溯到Peirce。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method",
+            "william-james--src-peirce-clearness"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C2"
+          ]
+        },
+        {
+          "id": "william-james--J09-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method",
+            "william-james--src-peirce-clearness"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J09-Q3-1",
+      "misconceptionId": "william-james--J09-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method",
+        "william-james--src-peirce-clearness"
+      ],
+      "objectNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J09-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J09-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method",
+            "william-james--src-peirce-clearness"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C2"
+          ]
+        },
+        {
+          "id": "william-james--J09-Q4-2",
+          "text": "保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“保留 route-synthesis 与 route-synthesis 的限定。”由当前 claim、文类与双重 source locator 共同承重：James 1907年的谱系叙述把术语追溯到Peirce，Peirce 1878年原文则提供以可设想实践效果澄清概念的原准则。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-method",
+            "william-james--src-peirce-clearness"
+          ],
+          "claimNodeIds": [
+            "william-james--J09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J09-Q4-2",
+      "misconceptionId": "william-james--J09-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-method",
+        "william-james--src-peirce-clearness"
+      ],
+      "objectNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J09-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J10-Q1",
+      "kind": "binary",
+      "prompt": "关于“真理作为验证过程”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J10-Q1-1",
+          "text": "符合 claim：第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。。",
+          "feedback": "正确项“符合 claim：第六讲说观念在经验过程中变真：它们须能引导我们与现实达成可工作的一致、经受验证并与既有真理协调。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C1"
+          ]
+        },
+        {
+          "id": "william-james--J10-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J10-Q1-1",
+      "misconceptionId": "william-james--J10-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth"
+      ],
+      "objectNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J10-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-10",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J10-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J10-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C1"
+          ]
+        },
+        {
+          "id": "william-james--J10-Q2-2",
+          "text": "保留 james-primary 与 public-lectures-1907 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-lectures-1907 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J10-Q2-2",
+      "misconceptionId": "william-james--J10-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth"
+      ],
+      "objectNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J10-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J10-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-10",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J10-Q3",
+      "kind": "binary",
+      "prompt": "关于“绝非“暂时有用即真””哪项准确？",
+      "targetNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J10-Q3-1",
+          "text": "符合 claim：实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理。",
+          "feedback": "正确项“符合 claim：实用后果是检验意义与真理过程的一部分，但便利不能压倒事实、经验阻力和其他已确立真理。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth",
+            "william-james--src-meaning-preface"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C2"
+          ]
+        },
+        {
+          "id": "william-james--J10-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth",
+            "william-james--src-meaning-preface"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J10-Q3-1",
+      "misconceptionId": "william-james--J10-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth",
+        "william-james--src-meaning-preface"
+      ],
+      "objectNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J10-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-10",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J10-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J10-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth",
+            "william-james--src-meaning-preface"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C2"
+          ]
+        },
+        {
+          "id": "william-james--J10-Q4-2",
+          "text": "保留 james-primary 与 cross-work-primary 的限定。",
+          "feedback": "正确项“保留 james-primary 与 cross-work-primary 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-prag-truth",
+            "william-james--src-meaning-preface"
+          ],
+          "claimNodeIds": [
+            "william-james--J10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J10-Q4-2",
+      "misconceptionId": "william-james--J10-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-prag-truth",
+        "william-james--src-meaning-preface"
+      ],
+      "objectNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J10-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J10-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-10",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J11-Q1",
+      "kind": "binary",
+      "prompt": "关于“《真理的意义》的辩护”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J11-Q1-1",
+          "text": "符合 claim：1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念。",
+          "feedback": "正确项“符合 claim：1909文集回应批评，区分具体观念的验证经历与“真理”抽象概念。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-meaning-preface",
+            "william-james--src-meaning-humanism"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C1"
+          ]
+        },
+        {
+          "id": "william-james--J11-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-meaning-preface",
+            "william-james--src-meaning-humanism"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J11-Q1-1",
+      "misconceptionId": "william-james--J11-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-meaning-preface",
+        "william-james--src-meaning-humanism"
+      ],
+      "objectNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J11-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-11",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J11-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J11-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-meaning-preface",
+            "william-james--src-meaning-humanism"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C1"
+          ]
+        },
+        {
+          "id": "william-james--J11-Q2-2",
+          "text": "保留 james-primary 与 essay-collection-1909 的限定。",
+          "feedback": "正确项“保留 james-primary 与 essay-collection-1909 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-meaning-preface",
+            "william-james--src-meaning-humanism"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J11-Q2-2",
+      "misconceptionId": "william-james--J11-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-meaning-preface",
+        "william-james--src-meaning-humanism"
+      ],
+      "objectNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J11-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J11-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-11",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J11-Q3",
+      "kind": "binary",
+      "prompt": "关于“Dewey不是James代言人”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J11-Q3-1",
+          "text": "符合 claim：Dewey对“实践的”多重含义另作澄清。",
+          "feedback": "正确项“符合 claim：Dewey对“实践的”多重含义另作澄清。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-dewey-practical"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C2"
+          ]
+        },
+        {
+          "id": "william-james--J11-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-dewey-practical"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J11-Q3-1",
+      "misconceptionId": "william-james--J11-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-dewey-practical"
+      ],
+      "objectNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J11-P2"
+      ],
+      "targetVoices": [
+        "dewey-position"
+      ],
+      "lessonId": "william-james--william-james-11",
+      "voice": "dewey-position"
+    },
+    {
+      "id": "william-james--J11-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J11-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-dewey-practical"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C2"
+          ]
+        },
+        {
+          "id": "william-james--J11-Q4-2",
+          "text": "保留 dewey-position 与 historical-pragmatist-1908 的限定。",
+          "feedback": "正确项“保留 dewey-position 与 historical-pragmatist-1908 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-dewey-practical"
+          ],
+          "claimNodeIds": [
+            "william-james--J11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J11-Q4-2",
+      "misconceptionId": "william-james--J11-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-dewey-practical"
+      ],
+      "objectNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J11-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J11-P2"
+      ],
+      "targetVoices": [
+        "dewey-position"
+      ],
+      "lessonId": "william-james--william-james-11",
+      "voice": "dewey-position"
+    },
+    {
+      "id": "william-james--J12-Q1",
+      "kind": "binary",
+      "prompt": "关于“多元宇宙反对封闭绝对”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J12-Q1-1",
+          "text": "符合 claim：《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。。",
+          "feedback": "正确项“符合 claim：《多元宇宙》拒绝把一切差异预先吸收到全知绝对中，主张世界具有真实外在关系、未完成性和“各有其一”的连接。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-plural-one-many"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C1"
+          ]
+        },
+        {
+          "id": "william-james--J12-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-plural-one-many"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J12-Q1-1",
+      "misconceptionId": "william-james--J12-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-plural-one-many"
+      ],
+      "objectNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J12-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-12",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J12-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J12-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-plural-one-many"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C1"
+          ]
+        },
+        {
+          "id": "william-james--J12-Q2-2",
+          "text": "保留 james-primary 与 public-lectures-1909 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-lectures-1909 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-plural-one-many"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J12-Q2-2",
+      "misconceptionId": "william-james--J12-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-plural-one-many"
+      ],
+      "objectNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J12-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J12-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-12",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J12-Q3",
+      "kind": "binary",
+      "prompt": "关于“概念不能穷尽活经验”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J12-Q3-1",
+          "text": "符合 claim：詹姆斯批评理智主义把流动现实替换为固定概念。",
+          "feedback": "正确项“符合 claim：詹姆斯批评理智主义把流动现实替换为固定概念。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-plural-hegel"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C2"
+          ]
+        },
+        {
+          "id": "william-james--J12-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-plural-hegel"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J12-Q3-1",
+      "misconceptionId": "william-james--J12-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-plural-hegel"
+      ],
+      "objectNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J12-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-12",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J12-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J12-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-plural-hegel"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C2"
+          ]
+        },
+        {
+          "id": "william-james--J12-Q4-2",
+          "text": "保留 james-primary 与 public-lectures-1909 的限定。",
+          "feedback": "正确项“保留 james-primary 与 public-lectures-1909 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-plural-hegel"
+          ],
+          "claimNodeIds": [
+            "william-james--J12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J12-Q4-2",
+      "misconceptionId": "william-james--J12-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-plural-hegel"
+      ],
+      "objectNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J12-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J12-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-12",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J13-Q1",
+      "kind": "binary",
+      "prompt": "关于“宗教经验的研究对象”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J13-Q1-1",
+          "text": "符合 claim：《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。。",
+          "feedback": "正确项“符合 claim：《宗教经验之种种》把研究范围限定为个人在孤独中感到与神圣相关的感受、行动与经验，暂把制度与教会放在次位。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C1"
+          ]
+        },
+        {
+          "id": "william-james--J13-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J13-Q1-1",
+      "misconceptionId": "william-james--J13-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-circumscription"
+      ],
+      "objectNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J13-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-13",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J13-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J13-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C1"
+          ]
+        },
+        {
+          "id": "william-james--J13-Q2-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J13-Q2-2",
+      "misconceptionId": "william-james--J13-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-circumscription"
+      ],
+      "objectNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J13-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J13-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-13",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J13-Q3",
+      "kind": "binary",
+      "prompt": "关于“历史案例不是James自传”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J13-Q3-1",
+          "text": "符合 claim：讲演引用忧郁、分裂和重生等第一人称材料。",
+          "feedback": "正确项“符合 claim：讲演引用忧郁、分裂和重生等第一人称材料。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C2"
+          ]
+        },
+        {
+          "id": "william-james--J13-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J13-Q3-1",
+      "misconceptionId": "william-james--J13-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick"
+      ],
+      "objectNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J13-P2"
+      ],
+      "targetVoices": [
+        "historical-case"
+      ],
+      "lessonId": "william-james--william-james-13",
+      "voice": "historical-case"
+    },
+    {
+      "id": "william-james--J13-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J13-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C2"
+          ]
+        },
+        {
+          "id": "william-james--J13-Q4-2",
+          "text": "保留 historical-case 与 historical-testimony-in-lecture 的限定。",
+          "feedback": "正确项“保留 historical-case 与 historical-testimony-in-lecture 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick"
+          ],
+          "claimNodeIds": [
+            "william-james--J13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J13-Q4-2",
+      "misconceptionId": "william-james--J13-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick"
+      ],
+      "objectNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J13-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J13-P2"
+      ],
+      "targetVoices": [
+        "historical-case"
+      ],
+      "lessonId": "william-james--william-james-13",
+      "voice": "historical-case"
+    },
+    {
+      "id": "william-james--J14-Q1",
+      "kind": "binary",
+      "prompt": "关于“病态灵魂”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J14-Q1-1",
+          "text": "符合 claim：第六至七讲区分健康心态与病态灵魂。",
+          "feedback": "正确项“符合 claim：第六至七讲区分健康心态与病态灵魂。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick-analysis",
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C1"
+          ]
+        },
+        {
+          "id": "william-james--J14-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick-analysis",
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J14-Q1-1",
+      "misconceptionId": "william-james--J14-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick-analysis",
+        "william-james--src-vre-circumscription"
+      ],
+      "objectNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J14-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-14",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J14-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J14-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick-analysis",
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C1"
+          ]
+        },
+        {
+          "id": "william-james--J14-Q2-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-sick-analysis",
+            "william-james--src-vre-circumscription"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J14-Q2-2",
+      "misconceptionId": "william-james--J14-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-sick-analysis",
+        "william-james--src-vre-circumscription"
+      ],
+      "objectNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J14-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J14-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-14",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J14-Q3",
+      "kind": "binary",
+      "prompt": "关于“皈依是重心转换”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J14-Q3-1",
+          "text": "符合 claim：皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。。",
+          "feedback": "正确项“符合 claim：皈依讲演把变化描述为人格能量中心的重新组织：先前边缘的宗教观念占据中心，不必先假定单一超自然心理机制。。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-conversion"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C2"
+          ]
+        },
+        {
+          "id": "william-james--J14-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-conversion"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J14-Q3-1",
+      "misconceptionId": "william-james--J14-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-conversion"
+      ],
+      "objectNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J14-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-14",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J14-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J14-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-conversion"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C2"
+          ]
+        },
+        {
+          "id": "william-james--J14-Q4-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-conversion"
+          ],
+          "claimNodeIds": [
+            "william-james--J14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J14-Q4-2",
+      "misconceptionId": "william-james--J14-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-conversion"
+      ],
+      "objectNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J14-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J14-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-14",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J15-Q1",
+      "kind": "binary",
+      "prompt": "关于“圣徒性的果实”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J15-Q1-1",
+          "text": "符合 claim：詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡。",
+          "feedback": "正确项“符合 claim：詹姆斯评估圣徒性时强调慈爱、坚忍、内在统一等生活果实，也承认过度、狂热与失衡。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-saintliness"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C1"
+          ]
+        },
+        {
+          "id": "william-james--J15-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-saintliness"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J15-Q1-1",
+      "misconceptionId": "william-james--J15-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-saintliness"
+      ],
+      "objectNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J15-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-15",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J15-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J15-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-saintliness"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C1"
+          ]
+        },
+        {
+          "id": "william-james--J15-Q2-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-saintliness"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J15-Q2-2",
+      "misconceptionId": "william-james--J15-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-saintliness"
+      ],
+      "objectNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J15-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J15-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-15",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J15-Q3",
+      "kind": "binary",
+      "prompt": "关于“神秘经验四标志”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J15-Q3-1",
+          "text": "符合 claim：神秘状态以不可言说、认识性质、短暂与被动为四个标志。",
+          "feedback": "正确项“符合 claim：神秘状态以不可言说、认识性质、短暂与被动为四个标志。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-mysticism"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C2"
+          ]
+        },
+        {
+          "id": "william-james--J15-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-mysticism"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J15-Q3-1",
+      "misconceptionId": "william-james--J15-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-mysticism"
+      ],
+      "objectNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J15-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-15",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J15-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J15-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-mysticism"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C2"
+          ]
+        },
+        {
+          "id": "william-james--J15-Q4-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-mysticism"
+          ],
+          "claimNodeIds": [
+            "william-james--J15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J15-Q4-2",
+      "misconceptionId": "william-james--J15-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-mysticism"
+      ],
+      "objectNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J15-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J15-P2"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-15",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J16-Q1",
+      "kind": "binary",
+      "prompt": "关于“由果实而非病因裁判”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J16-Q1-1",
+          "text": "符合 claim：第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验。",
+          "feedback": "正确项“符合 claim：第一讲拒绝用“医学唯物主义”从心理或身体起因直接否定宗教经验。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-neurology"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C1"
+          ]
+        },
+        {
+          "id": "william-james--J16-Q1-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-neurology"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J16-Q1-1",
+      "misconceptionId": "william-james--J16-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-neurology"
+      ],
+      "objectNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J16-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-16",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J16-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "options": [
+        {
+          "id": "william-james--J16-Q2-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-vre-neurology"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C1"
+          ]
+        },
+        {
+          "id": "william-james--J16-Q2-2",
+          "text": "保留 james-primary 与 gifford-lectures-1901-1902 的限定。",
+          "feedback": "正确项“保留 james-primary 与 gifford-lectures-1901-1902 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-vre-neurology"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J16-Q2-2",
+      "misconceptionId": "william-james--J16-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-vre-neurology"
+      ],
+      "objectNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J16-C1"
+      ],
+      "targetParagraphIds": [
+        "william-james--J16-P1"
+      ],
+      "targetVoices": [
+        "james-primary"
+      ],
+      "lessonId": "william-james--william-james-16",
+      "voice": "james-primary"
+    },
+    {
+      "id": "william-james--J16-Q3",
+      "kind": "binary",
+      "prompt": "关于“开放而不封闭的经验世界”哪项准确？",
+      "targetNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J16-Q3-1",
+          "text": "符合 claim：从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性。",
+          "feedback": "正确项“符合 claim：从意识流到彻底经验主义、多元宇宙与宗教经验，路线强调经验的关系、风险和未完成性。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james",
+            "william-james--src-vre-conclusions"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C2"
+          ]
+        },
+        {
+          "id": "william-james--J16-Q3-2",
+          "text": "把作品声部或文类换成另一对象。",
+          "feedback": "错误项“把作品声部或文类换成另一对象。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james",
+            "william-james--src-vre-conclusions"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J16-Q3-1",
+      "misconceptionId": "william-james--J16-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james",
+        "william-james--src-vre-conclusions"
+      ],
+      "objectNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-james--J16-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "options": [
+        {
+          "id": "william-james--J16-Q4-1",
+          "text": "把局部论证压成“有用即真”或跨文类总公式。",
+          "feedback": "错误项“把局部论证压成“有用即真”或跨文类总公式。”混淆了当前 claim 的对象、声音或文类。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james",
+            "william-james--src-vre-conclusions"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C2"
+          ]
+        },
+        {
+          "id": "william-james--J16-Q4-2",
+          "text": "保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“保留 route-synthesis 与 route-synthesis 的限定。”由当前 claim、文类与 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-james--src-sep-james",
+            "william-james--src-vre-conclusions"
+          ],
+          "claimNodeIds": [
+            "william-james--J16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-james--J16-Q4-2",
+      "misconceptionId": "william-james--J16-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-james--src-sep-james",
+        "william-james--src-vre-conclusions"
+      ],
+      "objectNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-james--J16-C2"
+      ],
+      "targetParagraphIds": [
+        "william-james--J16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-james--william-james-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

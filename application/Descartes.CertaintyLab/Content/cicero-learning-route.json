@@ -1,0 +1,5292 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "cicero--C01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。",
+      "explanation": "《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Greek philosophy and Roman eloquence"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。",
+      "explanation": "《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Crassus on the learned orator"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。",
+      "explanation": "《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "speaker architecture in De Natura Deorum"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。",
+      "explanation": "《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "speaker architecture in De Finibus"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。",
+      "explanation": "Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Torquatus’s Epicurean exposition"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Cato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。",
+      "explanation": "Cato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Cato’s Stoic exposition"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。",
+      "explanation": "《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "probabile as action-guiding appearance"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Lucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。",
+      "explanation": "Lucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lucullus on cognitive impressions"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。",
+      "explanation": "Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Scipio’s definition of res publica"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Scipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。",
+      "explanation": "Scipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "comparison of simple constitutions"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。",
+      "explanation": "Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Scipio’s mixed constitution"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。",
+      "explanation": "《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Rome as cumulative constitutional achievement"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。",
+      "explanation": "《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Philus as assigned advocate against justice"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。",
+      "explanation": "“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Somnium Scipionis as nested dream narrative"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。",
+      "explanation": "Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Laelius on true law and right reason"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。",
+      "explanation": "《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Marcus on law rooted in reason and nature"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。",
+      "explanation": "《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "four sources of honestum"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。",
+      "explanation": "社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "graded fellowships and social duty"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。",
+      "explanation": "《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "identity of genuine utility and moral right"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。",
+      "explanation": "西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "apparent advantage as casuistic problem"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。",
+      "explanation": "Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Regulus, oath, and public trust"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。",
+      "explanation": "“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "disclosure in the house-sale case"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。",
+      "explanation": "Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Laelius on virtue and friendship"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Laelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。",
+      "explanation": "Laelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "unjust requests between friends"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。",
+      "explanation": "《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "M on death not being an evil"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。",
+      "explanation": "第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "grief, judgment, and consolation"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。",
+      "explanation": "Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Crassus against severing wisdom and eloquence"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Antonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。",
+      "explanation": "Antonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。",
+      "identity": "dialogue-speaker; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Antonius’s practical counterposition"
+      ],
+      "voiceClass": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。",
+      "explanation": "《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。",
+      "identity": "cicero-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Cicero on enforced political leisure"
+      ],
+      "voiceClass": "cicero-primary"
+    },
+    {
+      "id": "cicero--C15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。",
+      "explanation": "把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "republican failure as route synthesis"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。",
+      "explanation": "《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c1"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "cross-text natural-law synthesis"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。",
+      "explanation": "路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c2"
+      ],
+      "abilityIds": [
+        "cicero-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "limits of reception synthesis"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "cicero--src-c01-c1",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "1.1–4",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c01-c2",
+      "workId": "De Oratore",
+      "edition": "De Oratore, Books 1–2, trans. E. W. Sutton and H. Rackham, Loeb Classical Library 348, Harvard University Press, 1942",
+      "locator": "1.45–73",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Oratore",
+      "stableUrl": "https://www.loebclassics.com/view/LCL348/1942/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c02-c1",
+      "workId": "On the Nature of the Gods",
+      "edition": "De Natura Deorum; Academica, trans. H. Rackham, Loeb Classical Library 268, Harvard University Press, 1933",
+      "locator": "1.10–17",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Nature of the Gods",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Natura_Deorum/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c02-c2",
+      "workId": "On Ends",
+      "edition": "De Finibus Bonorum et Malorum, trans. H. Rackham, Loeb Classical Library 40, Harvard University Press, 1914",
+      "locator": "1.13–26; 3.5–15; 5.1–8, 95–96",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Ends",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c03-c1",
+      "workId": "On Ends",
+      "edition": "De Finibus Bonorum et Malorum, trans. H. Rackham, Loeb Classical Library 40, Harvard University Press, 1914",
+      "locator": "1.29–72",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Ends",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c03-c2",
+      "workId": "On Ends",
+      "edition": "De Finibus Bonorum et Malorum, trans. H. Rackham, Loeb Classical Library 40, Harvard University Press, 1914",
+      "locator": "3.16–76; 4.1–3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Ends",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c04-c1",
+      "workId": "Academica",
+      "edition": "De Natura Deorum; Academica, trans. H. Rackham, Loeb Classical Library 268, Harvard University Press, 1933",
+      "locator": "2.7–9, 99–104",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Academica",
+      "stableUrl": "https://www.loebclassics.com/view/LCL268/1933/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c04-c2",
+      "workId": "Academica",
+      "edition": "De Natura Deorum; Academica, trans. H. Rackham, Loeb Classical Library 268, Harvard University Press, 1933",
+      "locator": "2.16–60",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Academica",
+      "stableUrl": "https://www.loebclassics.com/view/LCL268/1933/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c05-c1",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "1.39",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c05-c2",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "1.42–45, 65–68",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c06-c1",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "1.69–70",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c06-c2",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "2.1–3, 37–39",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c07-c1",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "3.8–18 (fragments)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c07-c2",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "6.9–29",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c08-c1",
+      "workId": "On the Republic",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "3.33 (Lactantius fragment)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c08-c2",
+      "workId": "On the Laws",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "1.18–23",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Laws",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c09-c1",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "1.15–17",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c09-c2",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "1.50–58",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c10-c1",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "3.9–21",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c10-c2",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "3.35–49",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c11-c1",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "3.99–115",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c11-c2",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "3.50–57",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c12-c1",
+      "workId": "Laelius on Friendship",
+      "edition": "De Senectute; De Amicitia; De Divinatione, trans. W. A. Falconer, Loeb Classical Library 154, Harvard University Press, 1923",
+      "locator": "20–32",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Laelius on Friendship",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c12-c2",
+      "workId": "Laelius on Friendship",
+      "edition": "De Senectute; De Amicitia; De Divinatione, trans. W. A. Falconer, Loeb Classical Library 154, Harvard University Press, 1923",
+      "locator": "33–44",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Laelius on Friendship",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c13-c1",
+      "workId": "Tusculan Disputations",
+      "edition": "Tusculan Disputations, trans. J. E. King, Loeb Classical Library 141, Harvard University Press, 1927",
+      "locator": "1.9–25, 74–119",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Tusculan Disputations",
+      "stableUrl": "https://www.loebclassics.com/view/LCL141/1927/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c13-c2",
+      "workId": "Tusculan Disputations",
+      "edition": "Tusculan Disputations, trans. J. E. King, Loeb Classical Library 141, Harvard University Press, 1927",
+      "locator": "3.24–31, 74–79",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Tusculan Disputations",
+      "stableUrl": "https://www.loebclassics.com/view/LCL141/1927/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c14-c1",
+      "workId": "De Oratore",
+      "edition": "De Oratore, Books 1–2, trans. E. W. Sutton and H. Rackham, Loeb Classical Library 348, Harvard University Press, 1942",
+      "locator": "1.53–73",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Oratore",
+      "stableUrl": "https://www.loebclassics.com/view/LCL348/1942/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c14-c2",
+      "workId": "De Oratore",
+      "edition": "De Oratore, Books 1–2, trans. E. W. Sutton and H. Rackham, Loeb Classical Library 348, Harvard University Press, 1942",
+      "locator": "1.80–95, 209–262",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Oratore",
+      "stableUrl": "https://www.loebclassics.com/view/LCL348/1942/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "dialogue-speaker",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c15-c1",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "2.1–7",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "cicero-primary",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c15-c2",
+      "workId": "On Duties",
+      "edition": "De Officiis, trans. Walter Miller, Loeb Classical Library 30, Harvard University Press, 1913",
+      "locator": "2.2–4; 3.1–4",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Duties",
+      "stableUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "route-synthesis",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c16-c1",
+      "workId": "On the Republic and On the Laws",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "Rep. 3.33 (Lactantius fragment); Leg. 1.18–23",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Republic and On the Laws",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "route-synthesis",
+      "year": null
+    },
+    {
+      "id": "cicero--src-c16-c2",
+      "workId": "On the Laws",
+      "edition": "De Re Publica; De Legibus, trans. Clinton Walker Keyes, Loeb Classical Library 213, Harvard University Press, 1928",
+      "locator": "1.18–23 (primary anchor only; reception claim intentionally not asserted)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On the Laws",
+      "stableUrl": "https://www.loebclassics.com/view/LCL213/1928/volume.xml",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "route-synthesis",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "cicero-republic-skepticism-duty",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "西塞罗：共和国、怀疑与义务",
+      "lessonIds": [
+        "cicero--cicero-01",
+        "cicero--cicero-02",
+        "cicero--cicero-03",
+        "cicero--cicero-04",
+        "cicero--cicero-05",
+        "cicero--cicero-06",
+        "cicero--cicero-07",
+        "cicero--cicero-08",
+        "cicero--cicero-09",
+        "cicero--cicero-10",
+        "cicero--cicero-11",
+        "cicero--cicero-12",
+        "cicero--cicero-13",
+        "cicero--cicero-14",
+        "cicero--cicero-15",
+        "cicero--cicero-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Cicero",
+        "nameZh": "西塞罗",
+        "sourceRouteId": "cicero-republic-skepticism-duty"
+      },
+      "summary": "哲学家、演说家与共和国"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "cicero--cicero-01",
+      "order": 1,
+      "title": "哲学家、演说家与共和国",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "哲学家、演说家与共和国",
+      "coreExplanation": "《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。\n\n《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。",
+      "sections": [
+        {
+          "heading": "哲学家、演说家与共和国",
+          "paragraphs": [
+            "《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。",
+            "《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c01-c1",
+            "cicero--src-c01-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C01-C1",
+        "cicero--C01-C2"
+      ],
+      "checkIds": [
+        "cicero--C01-C1-Q1",
+        "cicero--C01-C1-Q2",
+        "cicero--C01-C2-Q1",
+        "cicero--C01-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-02",
+      "sourceIds": [
+        "cicero--src-c01-c1",
+        "cicero--src-c01-c2"
+      ],
+      "essentialQuestion": "哲学家、演说家与共和国",
+      "initialFocusId": "cicero--cicero-01-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-02",
+      "order": 2,
+      "title": "对话角色与作者声音",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "对话角色与作者声音",
+      "coreExplanation": "《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。\n\n《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。",
+      "sections": [
+        {
+          "heading": "对话角色与作者声音",
+          "paragraphs": [
+            "《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。",
+            "《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c02-c1",
+            "cicero--src-c02-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C02-C1",
+        "cicero--C02-C2"
+      ],
+      "checkIds": [
+        "cicero--C02-C1-Q1",
+        "cicero--C02-C1-Q2",
+        "cicero--C02-C2-Q1",
+        "cicero--C02-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-03",
+      "sourceIds": [
+        "cicero--src-c02-c1",
+        "cicero--src-c02-c2"
+      ],
+      "essentialQuestion": "对话角色与作者声音",
+      "initialFocusId": "cicero--cicero-02-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-03",
+      "order": 3,
+      "title": "最高善的学派地图",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "最高善的学派地图",
+      "coreExplanation": "Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。\n\nCato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。",
+      "sections": [
+        {
+          "heading": "最高善的学派地图",
+          "paragraphs": [
+            "Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。",
+            "Cato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c03-c1",
+            "cicero--src-c03-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C03-C1",
+        "cicero--C03-C2"
+      ],
+      "checkIds": [
+        "cicero--C03-C1-Q1",
+        "cicero--C03-C1-Q2",
+        "cicero--C03-C2-Q1",
+        "cicero--C03-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-04",
+      "sourceIds": [
+        "cicero--src-c03-c1",
+        "cicero--src-c03-c2"
+      ],
+      "essentialQuestion": "最高善的学派地图",
+      "initialFocusId": "cicero--cicero-03-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-04",
+      "order": 4,
+      "title": "学院怀疑与可取印象",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "学院怀疑与可取印象",
+      "coreExplanation": "《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。\n\nLucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。",
+      "sections": [
+        {
+          "heading": "学院怀疑与可取印象",
+          "paragraphs": [
+            "《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。",
+            "Lucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c04-c1",
+            "cicero--src-c04-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C04-C1",
+        "cicero--C04-C2"
+      ],
+      "checkIds": [
+        "cicero--C04-C1-Q1",
+        "cicero--C04-C1-Q2",
+        "cicero--C04-C2-Q1",
+        "cicero--C04-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-05",
+      "sourceIds": [
+        "cicero--src-c04-c1",
+        "cicero--src-c04-c2"
+      ],
+      "essentialQuestion": "学院怀疑与可取印象",
+      "initialFocusId": "cicero--cicero-04-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-05",
+      "order": 5,
+      "title": "共和国与人民之事",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "共和国与人民之事",
+      "coreExplanation": "Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。\n\nScipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。",
+      "sections": [
+        {
+          "heading": "共和国与人民之事",
+          "paragraphs": [
+            "Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。",
+            "Scipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c05-c1",
+            "cicero--src-c05-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C05-C1",
+        "cicero--C05-C2"
+      ],
+      "checkIds": [
+        "cicero--C05-C1-Q1",
+        "cicero--C05-C1-Q2",
+        "cicero--C05-C2-Q1",
+        "cicero--C05-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-06",
+      "sourceIds": [
+        "cicero--src-c05-c1",
+        "cicero--src-c05-c2"
+      ],
+      "essentialQuestion": "共和国与人民之事",
+      "initialFocusId": "cicero--cicero-05-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-06",
+      "order": 6,
+      "title": "混合政体",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "混合政体",
+      "coreExplanation": "Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。\n\n《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。",
+      "sections": [
+        {
+          "heading": "混合政体",
+          "paragraphs": [
+            "Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。",
+            "《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c06-c1",
+            "cicero--src-c06-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C06-C1",
+        "cicero--C06-C2"
+      ],
+      "checkIds": [
+        "cicero--C06-C1-Q1",
+        "cicero--C06-C1-Q2",
+        "cicero--C06-C2-Q1",
+        "cicero--C06-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-07",
+      "sourceIds": [
+        "cicero--src-c06-c1",
+        "cicero--src-c06-c2"
+      ],
+      "essentialQuestion": "混合政体",
+      "initialFocusId": "cicero--cicero-06-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-07",
+      "order": 7,
+      "title": "正义与西庇阿之梦",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "正义与西庇阿之梦",
+      "coreExplanation": "《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。\n\n“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。",
+      "sections": [
+        {
+          "heading": "正义与西庇阿之梦",
+          "paragraphs": [
+            "《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。",
+            "“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c07-c1",
+            "cicero--src-c07-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C07-C1",
+        "cicero--C07-C2"
+      ],
+      "checkIds": [
+        "cicero--C07-C1-Q1",
+        "cicero--C07-C1-Q2",
+        "cicero--C07-C2-Q1",
+        "cicero--C07-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-08",
+      "sourceIds": [
+        "cicero--src-c07-c1",
+        "cicero--src-c07-c2"
+      ],
+      "essentialQuestion": "正义与西庇阿之梦",
+      "initialFocusId": "cicero--cicero-07-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-08",
+      "order": 8,
+      "title": "自然法与理性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "自然法与理性",
+      "coreExplanation": "Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。\n\n《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。",
+      "sections": [
+        {
+          "heading": "自然法与理性",
+          "paragraphs": [
+            "Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。",
+            "《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c08-c1",
+            "cicero--src-c08-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C08-C1",
+        "cicero--C08-C2"
+      ],
+      "checkIds": [
+        "cicero--C08-C1-Q1",
+        "cicero--C08-C1-Q2",
+        "cicero--C08-C2-Q1",
+        "cicero--C08-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-09",
+      "sourceIds": [
+        "cicero--src-c08-c1",
+        "cicero--src-c08-c2"
+      ],
+      "essentialQuestion": "自然法与理性",
+      "initialFocusId": "cicero--cicero-08-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-09",
+      "order": 9,
+      "title": "职责的四种来源",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "职责的四种来源",
+      "coreExplanation": "《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。\n\n社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。",
+      "sections": [
+        {
+          "heading": "职责的四种来源",
+          "paragraphs": [
+            "《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。",
+            "社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c09-c1",
+            "cicero--src-c09-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C09-C1",
+        "cicero--C09-C2"
+      ],
+      "checkIds": [
+        "cicero--C09-C1-Q1",
+        "cicero--C09-C1-Q2",
+        "cicero--C09-C2-Q1",
+        "cicero--C09-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-10",
+      "sourceIds": [
+        "cicero--src-c09-c1",
+        "cicero--src-c09-c2"
+      ],
+      "essentialQuestion": "职责的四种来源",
+      "initialFocusId": "cicero--cicero-09-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-10",
+      "order": 10,
+      "title": "honestum 与 utile 的表面冲突",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "honestum 与 utile 的表面冲突",
+      "coreExplanation": "《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。\n\n西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。",
+      "sections": [
+        {
+          "heading": "honestum 与 utile 的表面冲突",
+          "paragraphs": [
+            "《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。",
+            "西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c10-c1",
+            "cicero--src-c10-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C10-C1",
+        "cicero--C10-C2"
+      ],
+      "checkIds": [
+        "cicero--C10-C1-Q1",
+        "cicero--C10-C1-Q2",
+        "cicero--C10-C2-Q1",
+        "cicero--C10-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-11",
+      "sourceIds": [
+        "cicero--src-c10-c1",
+        "cicero--src-c10-c2"
+      ],
+      "essentialQuestion": "honestum 与 utile 的表面冲突",
+      "initialFocusId": "cicero--cicero-10-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-11",
+      "order": 11,
+      "title": "案例推理与承诺",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "案例推理与承诺",
+      "coreExplanation": "Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。\n\n“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。",
+      "sections": [
+        {
+          "heading": "案例推理与承诺",
+          "paragraphs": [
+            "Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。",
+            "“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c11-c1",
+            "cicero--src-c11-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C11-C1",
+        "cicero--C11-C2"
+      ],
+      "checkIds": [
+        "cicero--C11-C1-Q1",
+        "cicero--C11-C1-Q2",
+        "cicero--C11-C2-Q1",
+        "cicero--C11-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-12",
+      "sourceIds": [
+        "cicero--src-c11-c1",
+        "cicero--src-c11-c2"
+      ],
+      "essentialQuestion": "案例推理与承诺",
+      "initialFocusId": "cicero--cicero-11-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-12",
+      "order": 12,
+      "title": "友谊与共同善",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "友谊与共同善",
+      "coreExplanation": "Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。\n\nLaelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。",
+      "sections": [
+        {
+          "heading": "友谊与共同善",
+          "paragraphs": [
+            "Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。",
+            "Laelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c12-c1",
+            "cicero--src-c12-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C12-C1",
+        "cicero--C12-C2"
+      ],
+      "checkIds": [
+        "cicero--C12-C1-Q1",
+        "cicero--C12-C1-Q2",
+        "cicero--C12-C2-Q1",
+        "cicero--C12-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-13",
+      "sourceIds": [
+        "cicero--src-c12-c1",
+        "cicero--src-c12-c2"
+      ],
+      "essentialQuestion": "友谊与共同善",
+      "initialFocusId": "cicero--cicero-12-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-13",
+      "order": 13,
+      "title": "死亡、痛苦与情感训练",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "死亡、痛苦与情感训练",
+      "coreExplanation": "《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。\n\n第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。",
+      "sections": [
+        {
+          "heading": "死亡、痛苦与情感训练",
+          "paragraphs": [
+            "《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。",
+            "第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c13-c1",
+            "cicero--src-c13-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C13-C1",
+        "cicero--C13-C2"
+      ],
+      "checkIds": [
+        "cicero--C13-C1-Q1",
+        "cicero--C13-C1-Q2",
+        "cicero--C13-C2-Q1",
+        "cicero--C13-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-14",
+      "sourceIds": [
+        "cicero--src-c13-c1",
+        "cicero--src-c13-c2"
+      ],
+      "essentialQuestion": "死亡、痛苦与情感训练",
+      "initialFocusId": "cicero--cicero-13-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-14",
+      "order": 14,
+      "title": "雄辩与哲学",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "雄辩与哲学",
+      "coreExplanation": "Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。\n\nAntonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。",
+      "sections": [
+        {
+          "heading": "雄辩与哲学",
+          "paragraphs": [
+            "Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。",
+            "Antonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c14-c1",
+            "cicero--src-c14-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C14-C1",
+        "cicero--C14-C2"
+      ],
+      "checkIds": [
+        "cicero--C14-C1-Q1",
+        "cicero--C14-C1-Q2",
+        "cicero--C14-C2-Q1",
+        "cicero--C14-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-15",
+      "sourceIds": [
+        "cicero--src-c14-c1",
+        "cicero--src-c14-c2"
+      ],
+      "essentialQuestion": "雄辩与哲学",
+      "initialFocusId": "cicero--cicero-14-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-15",
+      "order": 15,
+      "title": "内战语境与政治失败",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "内战语境与政治失败",
+      "coreExplanation": "《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。\n\n把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。",
+      "sections": [
+        {
+          "heading": "内战语境与政治失败",
+          "paragraphs": [
+            "《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。",
+            "把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c15-c1",
+            "cicero--src-c15-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C15-C1",
+        "cicero--C15-C2"
+      ],
+      "checkIds": [
+        "cicero--C15-C1-Q1",
+        "cicero--C15-C1-Q2",
+        "cicero--C15-C2-Q1",
+        "cicero--C15-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "cicero--cicero-16",
+      "sourceIds": [
+        "cicero--src-c15-c1",
+        "cicero--src-c15-c2"
+      ],
+      "essentialQuestion": "内战语境与政治失败",
+      "initialFocusId": "cicero--cicero-15-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "cicero--cicero-16",
+      "order": 16,
+      "title": "从古代文本到自然法传统",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "从古代文本到自然法传统",
+      "coreExplanation": "《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。\n\n路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。",
+      "sections": [
+        {
+          "heading": "从古代文本到自然法传统",
+          "paragraphs": [
+            "《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。",
+            "路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "cicero--src-c16-c1",
+            "cicero--src-c16-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "cicero--C16-C1",
+        "cicero--C16-C2"
+      ],
+      "checkIds": [
+        "cicero--C16-C1-Q1",
+        "cicero--C16-C1-Q2",
+        "cicero--C16-C2-Q1",
+        "cicero--C16-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "cicero--src-c16-c1",
+        "cicero--src-c16-c2"
+      ],
+      "essentialQuestion": "从古代文本到自然法传统",
+      "initialFocusId": "cicero--cicero-16-title",
+      "routeId": "cicero-republic-skepticism-duty",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "cicero--C01-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Greek philosophy and Roman eloquence”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C01-C1-Q1-1",
+          "text": "文本判断：《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。",
+          "feedback": "正确项“文本判断：《论义务》序言把希腊哲学学习与拉丁雄辩训练并置；西塞罗呈现的是一种双重实践，而不是让哲学取代公共言说。”与已闭合证据 On Duties 1.1–4、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C1"
+          ]
+        },
+        {
+          "id": "cicero--C01-C1-Q1-2",
+          "text": "错误改写：把序言说成西塞罗要求儿子放弃雄辩，只研习抽象哲学。",
+          "feedback": "错误项“错误改写：把序言说成西塞罗要求儿子放弃雄辩，只研习抽象哲学。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 1.1–4不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C01-C1-Q1-1",
+      "misconceptionId": "cicero--C01-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C01-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-01",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C01-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C01-C1-Q2-1",
+          "text": "越界改写：把序言说成西塞罗要求儿子放弃雄辩，只研习抽象哲学。",
+          "feedback": "错误项“越界改写：把序言说成西塞罗要求儿子放弃雄辩，只研习抽象哲学。”越过了已闭合证据 On Duties 1.1–4所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C1"
+          ]
+        },
+        {
+          "id": "cicero--C01-C1-Q2-2",
+          "text": "证据边界：保留书信式序言中哲学与雄辩并行的自我陈述。",
+          "feedback": "正确项“证据边界：保留书信式序言中哲学与雄辩并行的自我陈述。”如实对应已闭合证据 On Duties 1.1–4的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C01-C1-Q2-2",
+      "misconceptionId": "cicero--C01-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C01-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C01-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-01",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C01-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Crassus on the learned orator”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C01-C2-Q1-1",
+          "text": "文本判断：《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。",
+          "feedback": "正确项“文本判断：《论演说家》中的 Crassus 主张真正的演说需要广泛知识；这是 Crassus 在对话中的论证，不能无标记地改写成西塞罗的直接宣言。”与已闭合证据 De Oratore 1.45–73、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C2"
+          ]
+        },
+        {
+          "id": "cicero--C01-C2-Q1-2",
+          "text": "错误改写：把 Crassus 的发言直接标成西塞罗本人在历史场合说出的原话。",
+          "feedback": "错误项“错误改写：把 Crassus 的发言直接标成西塞罗本人在历史场合说出的原话。”具体改变了该段的论证或发言归属；已闭合证据 De Oratore 1.45–73不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C01-C2-Q1-1",
+      "misconceptionId": "cicero--C01-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C01-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-01",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C01-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C01-C2-Q2-1",
+          "text": "越界改写：把 Crassus 的发言直接标成西塞罗本人在历史场合说出的原话。",
+          "feedback": "错误项“越界改写：把 Crassus 的发言直接标成西塞罗本人在历史场合说出的原话。”越过了已闭合证据 De Oratore 1.45–73所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C2"
+          ]
+        },
+        {
+          "id": "cicero--C01-C2-Q2-2",
+          "text": "证据边界：保留 Crassus 的对话人物身份与《论演说家》的戏剧框架。",
+          "feedback": "正确项“证据边界：保留 Crassus 的对话人物身份与《论演说家》的戏剧框架。”如实对应已闭合证据 De Oratore 1.45–73的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c01-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C01-C2-Q2-2",
+      "misconceptionId": "cicero--C01-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c01-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C01-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C01-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-01",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“speaker architecture in De Natura Deorum”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C02-C1-Q1-1",
+          "text": "错误改写：把 Balbus 的斯多亚神学当作全书唯一且由作者直接担保的结论。",
+          "feedback": "错误项“错误改写：把 Balbus 的斯多亚神学当作全书唯一且由作者直接担保的结论。”具体改变了该段的论证或发言归属；已闭合证据 On the Nature of the Gods 1.10–17不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C1"
+          ]
+        },
+        {
+          "id": "cicero--C02-C1-Q1-2",
+          "text": "文本判断：《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。",
+          "feedback": "正确项“文本判断：《论神性》中 Velleius、Balbus 与 Cotta 分别承担伊壁鸠鲁、斯多亚和学园派论证；角色分配使作品呈现争论，而非一篇单声部教义摘要。”与已闭合证据 On the Nature of the Gods 1.10–17、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C02-C1-Q1-2",
+      "misconceptionId": "cicero--C02-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C02-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-02",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C02-C1-Q2-1",
+          "text": "证据边界：同时保留三位发言者、学派角色与对话结构。",
+          "feedback": "正确项“证据边界：同时保留三位发言者、学派角色与对话结构。”如实对应已闭合证据 On the Nature of the Gods 1.10–17的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C1"
+          ]
+        },
+        {
+          "id": "cicero--C02-C1-Q2-2",
+          "text": "越界改写：把 Balbus 的斯多亚神学当作全书唯一且由作者直接担保的结论。",
+          "feedback": "错误项“越界改写：把 Balbus 的斯多亚神学当作全书唯一且由作者直接担保的结论。”越过了已闭合证据 On the Nature of the Gods 1.10–17所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C02-C1-Q2-1",
+      "misconceptionId": "cicero--C02-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C02-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C02-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-02",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“speaker architecture in De Finibus”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C02-C2-Q1-1",
+          "text": "错误改写：因 Piso 获得最后一句，就断言西塞罗无条件接受 Piso 的整套立场。",
+          "feedback": "错误项“错误改写：因 Piso 获得最后一句，就断言西塞罗无条件接受 Piso 的整套立场。”具体改变了该段的论证或发言归属；已闭合证据 On Ends 1.13–26; 3.5–15; 5.1–8, 95–96不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C2"
+          ]
+        },
+        {
+          "id": "cicero--C02-C2-Q1-2",
+          "text": "文本判断：《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。",
+          "feedback": "正确项“文本判断：《论善恶之终极》由 Torquatus、Cato、Piso 和 Cicero persona 轮流陈说或批评不同学派；最后一句落给 Piso 也不自动构成作者盖章。”与已闭合证据 On Ends 1.13–26; 3.5–15; 5.1–8, 95–96、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C02-C2-Q1-2",
+      "misconceptionId": "cicero--C02-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C02-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-02",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C02-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C02-C2-Q2-1",
+          "text": "证据边界：把发言次序视为对话构造，不把末句机械等同作者结论。",
+          "feedback": "正确项“证据边界：把发言次序视为对话构造，不把末句机械等同作者结论。”如实对应已闭合证据 On Ends 1.13–26; 3.5–15; 5.1–8, 95–96的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C2"
+          ]
+        },
+        {
+          "id": "cicero--C02-C2-Q2-2",
+          "text": "越界改写：因 Piso 获得最后一句，就断言西塞罗无条件接受 Piso 的整套立场。",
+          "feedback": "错误项“越界改写：因 Piso 获得最后一句，就断言西塞罗无条件接受 Piso 的整套立场。”越过了已闭合证据 On Ends 1.13–26; 3.5–15; 5.1–8, 95–96所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c02-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C02-C2-Q2-1",
+      "misconceptionId": "cicero--C02-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c02-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C02-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C02-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-02",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Torquatus’s Epicurean exposition”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C03-C1-Q1-1",
+          "text": "文本判断：Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。",
+          "feedback": "正确项“文本判断：Torquatus 在《论善恶之终极》第一卷为伊壁鸠鲁快乐论辩护；此处是 Cicero 编排的 Epicurean speaker voice，不是西塞罗直接自述。”与已闭合证据 On Ends 1.29–72、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C1"
+          ]
+        },
+        {
+          "id": "cicero--C03-C1-Q1-2",
+          "text": "错误改写：把 Torquatus 对快乐的辩护写成西塞罗本人对最高善的最终定义。",
+          "feedback": "错误项“错误改写：把 Torquatus 对快乐的辩护写成西塞罗本人对最高善的最终定义。”具体改变了该段的论证或发言归属；已闭合证据 On Ends 1.29–72不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C03-C1-Q1-1",
+      "misconceptionId": "cicero--C03-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C03-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-03",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C03-C1-Q2-1",
+          "text": "越界改写：把 Torquatus 对快乐的辩护写成西塞罗本人对最高善的最终定义。",
+          "feedback": "错误项“越界改写：把 Torquatus 对快乐的辩护写成西塞罗本人对最高善的最终定义。”越过了已闭合证据 On Ends 1.29–72所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C1"
+          ]
+        },
+        {
+          "id": "cicero--C03-C1-Q2-2",
+          "text": "证据边界：将论证归给 Torquatus，并保留其伊壁鸠鲁派角色。",
+          "feedback": "正确项“证据边界：将论证归给 Torquatus，并保留其伊壁鸠鲁派角色。”如实对应已闭合证据 On Ends 1.29–72的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C03-C1-Q2-2",
+      "misconceptionId": "cicero--C03-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C03-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C03-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-03",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Cato’s Stoic exposition”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C03-C2-Q1-1",
+          "text": "文本判断：Cato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。",
+          "feedback": "正确项“文本判断：Cato 在第三卷系统阐述斯多亚最高善与适宜行为；后续第四卷由 Cicero persona 批评，说明路线必须区分陈说与反驳。”与已闭合证据 On Ends 3.16–76; 4.1–3、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C2"
+          ]
+        },
+        {
+          "id": "cicero--C03-C2-Q1-2",
+          "text": "错误改写：把 Cato 的斯多亚论述和 Cicero persona 的批评合成无冲突的作者教义。",
+          "feedback": "错误项“错误改写：把 Cato 的斯多亚论述和 Cicero persona 的批评合成无冲突的作者教义。”具体改变了该段的论证或发言归属；已闭合证据 On Ends 3.16–76; 4.1–3不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C03-C2-Q1-1",
+      "misconceptionId": "cicero--C03-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C03-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-03",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C03-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C03-C2-Q2-1",
+          "text": "越界改写：把 Cato 的斯多亚论述和 Cicero persona 的批评合成无冲突的作者教义。",
+          "feedback": "错误项“越界改写：把 Cato 的斯多亚论述和 Cicero persona 的批评合成无冲突的作者教义。”越过了已闭合证据 On Ends 3.16–76; 4.1–3所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C2"
+          ]
+        },
+        {
+          "id": "cicero--C03-C2-Q2-2",
+          "text": "证据边界：分别标示第三卷陈说者与第四卷批评者。",
+          "feedback": "正确项“证据边界：分别标示第三卷陈说者与第四卷批评者。”如实对应已闭合证据 On Ends 3.16–76; 4.1–3的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c03-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C03-C2-Q2-2",
+      "misconceptionId": "cicero--C03-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c03-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C03-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C03-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-03",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“probabile as action-guiding appearance”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C04-C1-Q1-1",
+          "text": "错误改写：把 probabile 解释成已经达到不可错确定性的知识。",
+          "feedback": "错误项“错误改写：把 probabile 解释成已经达到不可错确定性的知识。”具体改变了该段的论证或发言归属；已闭合证据 Academica 2.7–9, 99–104不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C1"
+          ]
+        },
+        {
+          "id": "cicero--C04-C1-Q1-2",
+          "text": "文本判断：《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。",
+          "feedback": "正确项“文本判断：《学园派论辩》中的 Cicero persona 允许按看似最可取或最可信的印象行动，同时拒绝把它升级为不可错的把握。”与已闭合证据 Academica 2.7–9, 99–104、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C04-C1-Q1-2",
+      "misconceptionId": "cicero--C04-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C04-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-04",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C04-C1-Q2-1",
+          "text": "证据边界：保留“足以引导行动”与“并非认知把握”的差别。",
+          "feedback": "正确项“证据边界：保留“足以引导行动”与“并非认知把握”的差别。”如实对应已闭合证据 Academica 2.7–9, 99–104的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C1"
+          ]
+        },
+        {
+          "id": "cicero--C04-C1-Q2-2",
+          "text": "越界改写：把 probabile 解释成已经达到不可错确定性的知识。",
+          "feedback": "错误项“越界改写：把 probabile 解释成已经达到不可错确定性的知识。”越过了已闭合证据 Academica 2.7–9, 99–104所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C04-C1-Q2-1",
+      "misconceptionId": "cicero--C04-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C04-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C04-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-04",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Lucullus on cognitive impressions”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C04-C2-Q1-1",
+          "text": "错误改写：把 Lucullus 对可把握印象的辩护当成西塞罗怀疑主义的直接主张。",
+          "feedback": "错误项“错误改写：把 Lucullus 对可把握印象的辩护当成西塞罗怀疑主义的直接主张。”具体改变了该段的论证或发言归属；已闭合证据 Academica 2.16–60不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C2"
+          ]
+        },
+        {
+          "id": "cicero--C04-C2-Q1-2",
+          "text": "文本判断：Lucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。",
+          "feedback": "正确项“文本判断：Lucullus 为可把握印象和知识辩护，而 Cicero persona 随后展开学园派反驳；Lucullus 的论点属于对手声部。”与已闭合证据 Academica 2.16–60、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C04-C2-Q1-2",
+      "misconceptionId": "cicero--C04-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C04-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-04",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C04-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C04-C2-Q2-1",
+          "text": "证据边界：将 Lucullus 锁定为反怀疑论发言者。",
+          "feedback": "正确项“证据边界：将 Lucullus 锁定为反怀疑论发言者。”如实对应已闭合证据 Academica 2.16–60的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C2"
+          ]
+        },
+        {
+          "id": "cicero--C04-C2-Q2-2",
+          "text": "越界改写：把 Lucullus 对可把握印象的辩护当成西塞罗怀疑主义的直接主张。",
+          "feedback": "错误项“越界改写：把 Lucullus 对可把握印象的辩护当成西塞罗怀疑主义的直接主张。”越过了已闭合证据 Academica 2.16–60所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c04-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C04-C2-Q2-1",
+      "misconceptionId": "cicero--C04-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c04-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C04-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C04-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-04",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Scipio’s definition of res publica”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C05-C1-Q1-1",
+          "text": "文本判断：Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。",
+          "feedback": "正确项“文本判断：Scipio 把 res publica 解释为 res populi，并把 populus 限定为由法权共识与利益共同体联结的多数；这是对话中 Scipio 的定义。”与已闭合证据 On the Republic 1.39、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C1"
+          ]
+        },
+        {
+          "id": "cicero--C05-C1-Q1-2",
+          "text": "错误改写：把任何偶然聚集的人群都称为 populus，不要求法权共识与共同利益。",
+          "feedback": "错误项“错误改写：把任何偶然聚集的人群都称为 populus，不要求法权共识与共同利益。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 1.39不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C05-C1-Q1-1",
+      "misconceptionId": "cicero--C05-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C05-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-05",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C05-C1-Q2-1",
+          "text": "越界改写：把任何偶然聚集的人群都称为 populus，不要求法权共识与共同利益。",
+          "feedback": "错误项“越界改写：把任何偶然聚集的人群都称为 populus，不要求法权共识与共同利益。”越过了已闭合证据 On the Republic 1.39所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C1"
+          ]
+        },
+        {
+          "id": "cicero--C05-C1-Q2-2",
+          "text": "证据边界：保留 Scipio 的发言者身份及定义中的两项联结条件。",
+          "feedback": "正确项“证据边界：保留 Scipio 的发言者身份及定义中的两项联结条件。”如实对应已闭合证据 On the Republic 1.39的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C05-C1-Q2-2",
+      "misconceptionId": "cicero--C05-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C05-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C05-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-05",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“comparison of simple constitutions”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C05-C2-Q1-1",
+          "text": "文本判断：Scipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。",
+          "feedback": "正确项“文本判断：Scipio 随即比较王政、贵族政体与人民政体，并指出每一种单纯形式都可能退化；论证目标是制度判断，不是现代民族国家定义。”与已闭合证据 On the Republic 1.42–45, 65–68、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C2"
+          ]
+        },
+        {
+          "id": "cicero--C05-C2-Q1-2",
+          "text": "错误改写：把三种单纯政体都说成稳定且不可能腐化。",
+          "feedback": "错误项“错误改写：把三种单纯政体都说成稳定且不可能腐化。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 1.42–45, 65–68不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C05-C2-Q1-1",
+      "misconceptionId": "cicero--C05-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C05-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-05",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C05-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C05-C2-Q2-1",
+          "text": "越界改写：把三种单纯政体都说成稳定且不可能腐化。",
+          "feedback": "错误项“越界改写：把三种单纯政体都说成稳定且不可能腐化。”越过了已闭合证据 On the Republic 1.42–45, 65–68所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C2"
+          ]
+        },
+        {
+          "id": "cicero--C05-C2-Q2-2",
+          "text": "证据边界：绑定 Scipio 的比较论证，不倒灌现代国家范畴。",
+          "feedback": "正确项“证据边界：绑定 Scipio 的比较论证，不倒灌现代国家范畴。”如实对应已闭合证据 On the Republic 1.42–45, 65–68的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c05-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C05-C2-Q2-2",
+      "misconceptionId": "cicero--C05-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c05-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C05-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C05-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-05",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Scipio’s mixed constitution”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C06-C1-Q1-1",
+          "text": "错误改写：把混合政体理解为消灭人民成分、只留下元老贵族统治。",
+          "feedback": "错误项“错误改写：把混合政体理解为消灭人民成分、只留下元老贵族统治。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 1.69–70不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C1"
+          ]
+        },
+        {
+          "id": "cicero--C06-C1-Q1-2",
+          "text": "文本判断：Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。",
+          "feedback": "正确项“文本判断：Scipio 偏爱由王政、贵族和人民因素均衡构成的第四种政体，因为它能形成制衡与较持久的稳定。”与已闭合证据 On the Republic 1.69–70、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C06-C1-Q1-2",
+      "misconceptionId": "cicero--C06-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C06-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-06",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C06-C1-Q2-1",
+          "text": "证据边界：保留三种要素的结合与制衡理由。",
+          "feedback": "正确项“证据边界：保留三种要素的结合与制衡理由。”如实对应已闭合证据 On the Republic 1.69–70的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C1"
+          ]
+        },
+        {
+          "id": "cicero--C06-C1-Q2-2",
+          "text": "越界改写：把混合政体理解为消灭人民成分、只留下元老贵族统治。",
+          "feedback": "错误项“越界改写：把混合政体理解为消灭人民成分、只留下元老贵族统治。”越过了已闭合证据 On the Republic 1.69–70所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C06-C1-Q2-1",
+      "misconceptionId": "cicero--C06-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C06-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C06-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-06",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Rome as cumulative constitutional achievement”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C06-C2-Q1-1",
+          "text": "错误改写：声称罗马宪制由一位立法者在一天内完整发明。",
+          "feedback": "错误项“错误改写：声称罗马宪制由一位立法者在一天内完整发明。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 2.1–3, 37–39不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C2"
+          ]
+        },
+        {
+          "id": "cicero--C06-C2-Q1-2",
+          "text": "文本判断：《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。",
+          "feedback": "正确项“文本判断：《共和国》第二卷借罗马制度的累积形成说明共和国不是一个立法者瞬间设计的作品；这是 Scipio 的历史—制度叙事。”与已闭合证据 On the Republic 2.1–3, 37–39、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C06-C2-Q1-2",
+      "misconceptionId": "cicero--C06-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C06-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-06",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C06-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C06-C2-Q2-1",
+          "text": "证据边界：把累积形成论归给 Scipio 的罗马史叙述。",
+          "feedback": "正确项“证据边界：把累积形成论归给 Scipio 的罗马史叙述。”如实对应已闭合证据 On the Republic 2.1–3, 37–39的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C2"
+          ]
+        },
+        {
+          "id": "cicero--C06-C2-Q2-2",
+          "text": "越界改写：声称罗马宪制由一位立法者在一天内完整发明。",
+          "feedback": "错误项“越界改写：声称罗马宪制由一位立法者在一天内完整发明。”越过了已闭合证据 On the Republic 2.1–3, 37–39所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c06-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C06-C2-Q2-1",
+      "misconceptionId": "cicero--C06-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c06-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C06-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C06-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-06",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Philus as assigned advocate against justice”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C07-C1-Q1-1",
+          "text": "文本判断：《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。",
+          "feedback": "正确项“文本判断：《共和国》第三卷保存的 Philus 论证先承担“正义不自然”的反方任务，Laelius 才作答；不能把 Philus 的代理辩论算作西塞罗直接赞同。”与已闭合证据 On the Republic 3.8–18 (fragments)、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C1"
+          ]
+        },
+        {
+          "id": "cicero--C07-C1-Q1-2",
+          "text": "错误改写：把 Philus 按任务提出的反正义论证当成作者最终赞成不义。",
+          "feedback": "错误项“错误改写：把 Philus 按任务提出的反正义论证当成作者最终赞成不义。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 3.8–18 (fragments)不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C07-C1-Q1-1",
+      "misconceptionId": "cicero--C07-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C07-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-07",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C07-C1-Q2-1",
+          "text": "越界改写：把 Philus 按任务提出的反正义论证当成作者最终赞成不义。",
+          "feedback": "错误项“越界改写：把 Philus 按任务提出的反正义论证当成作者最终赞成不义。”越过了已闭合证据 On the Republic 3.8–18 (fragments)所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C1"
+          ]
+        },
+        {
+          "id": "cicero--C07-C1-Q2-2",
+          "text": "证据边界：保留代理辩论、残篇状态与 Laelius 的答辩次序。",
+          "feedback": "正确项“证据边界：保留代理辩论、残篇状态与 Laelius 的答辩次序。”如实对应已闭合证据 On the Republic 3.8–18 (fragments)的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C07-C1-Q2-2",
+      "misconceptionId": "cicero--C07-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C07-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C07-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-07",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Somnium Scipionis as nested dream narrative”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C07-C2-Q1-1",
+          "text": "文本判断：“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。",
+          "feedback": "正确项“文本判断：“西庇阿之梦”由 Scipio 叙述梦中 Africanus 的宇宙与公共服务劝诫；文类上它是嵌套梦叙事，不等于史实记录。”与已闭合证据 On the Republic 6.9–29、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C2"
+          ]
+        },
+        {
+          "id": "cicero--C07-C2-Q1-2",
+          "text": "错误改写：把梦中 Africanus 的讲话当作经过史家核验的现实会谈记录。",
+          "feedback": "错误项“错误改写：把梦中 Africanus 的讲话当作经过史家核验的现实会谈记录。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 6.9–29不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C07-C2-Q1-1",
+      "misconceptionId": "cicero--C07-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C07-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-07",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C07-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C07-C2-Q2-1",
+          "text": "越界改写：把梦中 Africanus 的讲话当作经过史家核验的现实会谈记录。",
+          "feedback": "错误项“越界改写：把梦中 Africanus 的讲话当作经过史家核验的现实会谈记录。”越过了已闭合证据 On the Republic 6.9–29所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C2"
+          ]
+        },
+        {
+          "id": "cicero--C07-C2-Q2-2",
+          "text": "证据边界：明确 Scipio 叙梦、Africanus 梦中发言及嵌套文类。",
+          "feedback": "正确项“证据边界：明确 Scipio 叙梦、Africanus 梦中发言及嵌套文类。”如实对应已闭合证据 On the Republic 6.9–29的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c07-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C07-C2-Q2-2",
+      "misconceptionId": "cicero--C07-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c07-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C07-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C07-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-07",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Laelius on true law and right reason”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C08-C1-Q1-1",
+          "text": "错误改写：把“真正法律”段落当作完整连续手稿中无中介的作者宣言。",
+          "feedback": "错误项“错误改写：把“真正法律”段落当作完整连续手稿中无中介的作者宣言。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic 3.33 (Lactantius fragment)不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C1"
+          ]
+        },
+        {
+          "id": "cicero--C08-C1-Q1-2",
+          "text": "文本判断：Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。",
+          "feedback": "正确项“文本判断：Laelius 在《共和国》第三卷的答辩中描述真正的法律为与自然相合的正确理性；这是保存于残篇中的人物发言。”与已闭合证据 On the Republic 3.33 (Lactantius fragment)、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C08-C1-Q1-2",
+      "misconceptionId": "cicero--C08-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C08-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-08",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C08-C1-Q2-1",
+          "text": "证据边界：标明 Laelius 声部、第三卷残篇及 Lactantius 传本身份。",
+          "feedback": "正确项“证据边界：标明 Laelius 声部、第三卷残篇及 Lactantius 传本身份。”如实对应已闭合证据 On the Republic 3.33 (Lactantius fragment)的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C1"
+          ]
+        },
+        {
+          "id": "cicero--C08-C1-Q2-2",
+          "text": "越界改写：把“真正法律”段落当作完整连续手稿中无中介的作者宣言。",
+          "feedback": "错误项“越界改写：把“真正法律”段落当作完整连续手稿中无中介的作者宣言。”越过了已闭合证据 On the Republic 3.33 (Lactantius fragment)所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C08-C1-Q2-1",
+      "misconceptionId": "cicero--C08-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C08-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C08-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-08",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Marcus on law rooted in reason and nature”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C08-C2-Q1-1",
+          "text": "错误改写：把法律仅定义为强者临时命令，与理性和自然毫无关联。",
+          "feedback": "错误项“错误改写：把法律仅定义为强者临时命令，与理性和自然毫无关联。”具体改变了该段的论证或发言归属；已闭合证据 On the Laws 1.18–23不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C2"
+          ]
+        },
+        {
+          "id": "cicero--C08-C2-Q1-2",
+          "text": "文本判断：《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。",
+          "feedback": "正确项“文本判断：《法律篇》中 Marcus 角色从人类理性与神圣理性的关联追溯法律根源；即便角色以作者同名出现，也仍处于对话框架。”与已闭合证据 On the Laws 1.18–23、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C08-C2-Q1-2",
+      "misconceptionId": "cicero--C08-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C08-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-08",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C08-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C08-C2-Q2-1",
+          "text": "证据边界：保留 Marcus persona 与《法律篇》对话语境。",
+          "feedback": "正确项“证据边界：保留 Marcus persona 与《法律篇》对话语境。”如实对应已闭合证据 On the Laws 1.18–23的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C2"
+          ]
+        },
+        {
+          "id": "cicero--C08-C2-Q2-2",
+          "text": "越界改写：把法律仅定义为强者临时命令，与理性和自然毫无关联。",
+          "feedback": "错误项“越界改写：把法律仅定义为强者临时命令，与理性和自然毫无关联。”越过了已闭合证据 On the Laws 1.18–23所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c08-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C08-C2-Q2-1",
+      "misconceptionId": "cicero--C08-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c08-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C08-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C08-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-08",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C09-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“four sources of honestum”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C09-C1-Q1-1",
+          "text": "文本判断：《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。",
+          "feedback": "正确项“文本判断：《论义务》第一卷把 moral right 分析为洞见真理、维护社会、伟大精神与秩序节制四个相互关联的来源。”与已闭合证据 On Duties 1.15–17、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C1"
+          ]
+        },
+        {
+          "id": "cicero--C09-C1-Q1-2",
+          "text": "错误改写：把 honestum 的全部内容缩成单独追求财富和影响力。",
+          "feedback": "错误项“错误改写：把 honestum 的全部内容缩成单独追求财富和影响力。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 1.15–17不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C09-C1-Q1-1",
+      "misconceptionId": "cicero--C09-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C09-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-09",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C09-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C09-C1-Q2-1",
+          "text": "越界改写：把 honestum 的全部内容缩成单独追求财富和影响力。",
+          "feedback": "错误项“越界改写：把 honestum 的全部内容缩成单独追求财富和影响力。”越过了已闭合证据 On Duties 1.15–17所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C1"
+          ]
+        },
+        {
+          "id": "cicero--C09-C1-Q2-2",
+          "text": "证据边界：依第一卷纲领保留四个来源及其关联。",
+          "feedback": "正确项“证据边界：依第一卷纲领保留四个来源及其关联。”如实对应已闭合证据 On Duties 1.15–17的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C09-C1-Q2-2",
+      "misconceptionId": "cicero--C09-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C09-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C09-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-09",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C09-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“graded fellowships and social duty”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C09-C2-Q1-1",
+          "text": "文本判断：社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。",
+          "feedback": "正确项“文本判断：社会义务从人类共同联结逐层具体化到亲属、友谊与共和国；较具体共同体并未取消更广的人类纽带。”与已闭合证据 On Duties 1.50–58、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C2"
+          ]
+        },
+        {
+          "id": "cicero--C09-C2-Q1-2",
+          "text": "错误改写：声称对共和国的义务要求否认人类之间任何普遍联结。",
+          "feedback": "错误项“错误改写：声称对共和国的义务要求否认人类之间任何普遍联结。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 1.50–58不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C09-C2-Q1-1",
+      "misconceptionId": "cicero--C09-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C09-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-09",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C09-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C09-C2-Q2-1",
+          "text": "越界改写：声称对共和国的义务要求否认人类之间任何普遍联结。",
+          "feedback": "错误项“越界改写：声称对共和国的义务要求否认人类之间任何普遍联结。”越过了已闭合证据 On Duties 1.50–58所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C2"
+          ]
+        },
+        {
+          "id": "cicero--C09-C2-Q2-2",
+          "text": "证据边界：同时保留普遍共同性与具体共同体的层级。",
+          "feedback": "正确项“证据边界：同时保留普遍共同性与具体共同体的层级。”如实对应已闭合证据 On Duties 1.50–58的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c09-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C09-C2-Q2-2",
+      "misconceptionId": "cicero--C09-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c09-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C09-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C09-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-09",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“identity of genuine utility and moral right”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C10-C1-Q1-1",
+          "text": "错误改写：承认真正有利之事可以在最终意义上要求牺牲道德正当。",
+          "feedback": "错误项“错误改写：承认真正有利之事可以在最终意义上要求牺牲道德正当。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 3.9–21不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C1"
+          ]
+        },
+        {
+          "id": "cicero--C10-C1-Q1-2",
+          "text": "文本判断：《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。",
+          "feedback": "正确项“文本判断：《论义务》第三卷的核心主张不是在正当与有利之间择一，而是任何真正有利者都不能与 moral right 最终分离。”与已闭合证据 On Duties 3.9–21、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C10-C1-Q1-2",
+      "misconceptionId": "cicero--C10-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C10-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-10",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C10-C1-Q2-1",
+          "text": "证据边界：保留“表面冲突”与“真正有利”的限定。",
+          "feedback": "正确项“证据边界：保留“表面冲突”与“真正有利”的限定。”如实对应已闭合证据 On Duties 3.9–21的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C1"
+          ]
+        },
+        {
+          "id": "cicero--C10-C1-Q2-2",
+          "text": "越界改写：承认真正有利之事可以在最终意义上要求牺牲道德正当。",
+          "feedback": "错误项“越界改写：承认真正有利之事可以在最终意义上要求牺牲道德正当。”越过了已闭合证据 On Duties 3.9–21所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C10-C1-Q2-1",
+      "misconceptionId": "cicero--C10-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C10-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C10-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-10",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“apparent advantage as casuistic problem”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C10-C2-Q1-1",
+          "text": "错误改写：把第三卷说成只需无视情境和后果、机械背诵一条规则。",
+          "feedback": "错误项“错误改写：把第三卷说成只需无视情境和后果、机械背诵一条规则。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 3.35–49不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C2"
+          ]
+        },
+        {
+          "id": "cicero--C10-C2-Q1-2",
+          "text": "文本判断：西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。",
+          "feedback": "正确项“文本判断：西塞罗以“表面有利”描述欺骗、背信等诱惑，要求通过案例辨认它们为何不是真正 utile，而非简单忽略后果。”与已闭合证据 On Duties 3.35–49、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C10-C2-Q1-2",
+      "misconceptionId": "cicero--C10-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C10-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-10",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C10-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C10-C2-Q2-1",
+          "text": "证据边界：保留案例推理对表面有利的辨析功能。",
+          "feedback": "正确项“证据边界：保留案例推理对表面有利的辨析功能。”如实对应已闭合证据 On Duties 3.35–49的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C2"
+          ]
+        },
+        {
+          "id": "cicero--C10-C2-Q2-2",
+          "text": "越界改写：把第三卷说成只需无视情境和后果、机械背诵一条规则。",
+          "feedback": "错误项“越界改写：把第三卷说成只需无视情境和后果、机械背诵一条规则。”越过了已闭合证据 On Duties 3.35–49所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c10-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C10-C2-Q2-1",
+      "misconceptionId": "cicero--C10-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c10-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C10-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C10-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-10",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Regulus, oath, and public trust”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C11-C1-Q1-1",
+          "text": "文本判断：Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。",
+          "feedback": "正确项“文本判断：Regulus 案例被用来论证：在胁迫和重大损失下，誓言及共同体信义仍具有规范重量；案例不是赞美一切鲁莽受苦。”与已闭合证据 On Duties 3.99–115、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C1"
+          ]
+        },
+        {
+          "id": "cicero--C11-C1-Q1-2",
+          "text": "错误改写：把 Regulus 案例概括为任何自我伤害都自动高尚。",
+          "feedback": "错误项“错误改写：把 Regulus 案例概括为任何自我伤害都自动高尚。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 3.99–115不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C11-C1-Q1-1",
+      "misconceptionId": "cicero--C11-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C11-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-11",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C11-C1-Q2-1",
+          "text": "越界改写：把 Regulus 案例概括为任何自我伤害都自动高尚。",
+          "feedback": "错误项“越界改写：把 Regulus 案例概括为任何自我伤害都自动高尚。”越过了已闭合证据 On Duties 3.99–115所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C1"
+          ]
+        },
+        {
+          "id": "cicero--C11-C1-Q2-2",
+          "text": "证据边界：绑定誓言、公共信义和具体战争情境。",
+          "feedback": "正确项“证据边界：绑定誓言、公共信义和具体战争情境。”如实对应已闭合证据 On Duties 3.99–115的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C11-C1-Q2-2",
+      "misconceptionId": "cicero--C11-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C11-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C11-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-11",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“disclosure in the house-sale case”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C11-C2-Q1-1",
+          "text": "文本判断：“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。",
+          "feedback": "正确项“文本判断：“卖房隐瞒缺陷”案例区分法律最低要求与好人应有的披露；西塞罗让 Diogenes 与 Antipater 的争论承担细密判断。”与已闭合证据 On Duties 3.50–57、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C2"
+          ]
+        },
+        {
+          "id": "cicero--C11-C2-Q1-2",
+          "text": "错误改写：声称卖方只要未被现行法律处罚，就必然完全正当。",
+          "feedback": "错误项“错误改写：声称卖方只要未被现行法律处罚，就必然完全正当。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 3.50–57不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C11-C2-Q1-1",
+      "misconceptionId": "cicero--C11-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C11-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-11",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C11-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C11-C2-Q2-1",
+          "text": "越界改写：声称卖方只要未被现行法律处罚，就必然完全正当。",
+          "feedback": "错误项“越界改写：声称卖方只要未被现行法律处罚，就必然完全正当。”越过了已闭合证据 On Duties 3.50–57所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C2"
+          ]
+        },
+        {
+          "id": "cicero--C11-C2-Q2-2",
+          "text": "证据边界：保留 Diogenes/Antipater 分歧与法律—道德区分。",
+          "feedback": "正确项“证据边界：保留 Diogenes/Antipater 分歧与法律—道德区分。”如实对应已闭合证据 On Duties 3.50–57的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c11-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C11-C2-Q2-2",
+      "misconceptionId": "cicero--C11-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c11-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C11-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C11-P2"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-11",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C12-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Laelius on virtue and friendship”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C12-C1-Q1-1",
+          "text": "错误改写：把友谊定义为只要收益持续便可维持的利益交换。",
+          "feedback": "错误项“错误改写：把友谊定义为只要收益持续便可维持的利益交换。”具体改变了该段的论证或发言归属；已闭合证据 Laelius on Friendship 20–32不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C1"
+          ]
+        },
+        {
+          "id": "cicero--C12-C1-Q1-2",
+          "text": "文本判断：Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。",
+          "feedback": "正确项“文本判断：Laelius 把德性视为友谊产生和维系的条件，并拒绝把友谊缩成交换利益的契约；这是 Laelius 的纪念性对话声部。”与已闭合证据 Laelius on Friendship 20–32、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C12-C1-Q1-2",
+      "misconceptionId": "cicero--C12-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C12-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-12",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C12-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C12-C1-Q2-1",
+          "text": "证据边界：保留 Laelius 发言与以德性为条件的论证。",
+          "feedback": "正确项“证据边界：保留 Laelius 发言与以德性为条件的论证。”如实对应已闭合证据 Laelius on Friendship 20–32的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C1"
+          ]
+        },
+        {
+          "id": "cicero--C12-C1-Q2-2",
+          "text": "越界改写：把友谊定义为只要收益持续便可维持的利益交换。",
+          "feedback": "错误项“越界改写：把友谊定义为只要收益持续便可维持的利益交换。”越过了已闭合证据 Laelius on Friendship 20–32所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C12-C1-Q2-1",
+      "misconceptionId": "cicero--C12-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C12-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C12-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-12",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C12-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“unjust requests between friends”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C12-C2-Q1-1",
+          "text": "错误改写：声称真正朋友必须无条件帮助对方实施不义。",
+          "feedback": "错误项“错误改写：声称真正朋友必须无条件帮助对方实施不义。”具体改变了该段的论证或发言归属；已闭合证据 Laelius on Friendship 33–44不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C2"
+          ]
+        },
+        {
+          "id": "cicero--C12-C2-Q1-2",
+          "text": "文本判断：Laelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。",
+          "feedback": "正确项“文本判断：Laelius 也拒绝朋友要求不义行为：友谊不能把共同犯罪变成义务，公共善由此限制私人忠诚。”与已闭合证据 Laelius on Friendship 33–44、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C12-C2-Q1-2",
+      "misconceptionId": "cicero--C12-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C12-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-12",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C12-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C12-C2-Q2-1",
+          "text": "证据边界：保留私人忠诚受正义与公共秩序限制的结论。",
+          "feedback": "正确项“证据边界：保留私人忠诚受正义与公共秩序限制的结论。”如实对应已闭合证据 Laelius on Friendship 33–44的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C2"
+          ]
+        },
+        {
+          "id": "cicero--C12-C2-Q2-2",
+          "text": "越界改写：声称真正朋友必须无条件帮助对方实施不义。",
+          "feedback": "错误项“越界改写：声称真正朋友必须无条件帮助对方实施不义。”越过了已闭合证据 Laelius on Friendship 33–44所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c12-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C12-C2-Q2-1",
+      "misconceptionId": "cicero--C12-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c12-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C12-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C12-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-12",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“M on death not being an evil”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C13-C1-Q1-1",
+          "text": "文本判断：《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。",
+          "feedback": "正确项“文本判断：《图斯库卢姆论辩》第一卷中 M 通过连续问答主张死亡不应被视作恶；这是戏剧化的治疗性论证，不是无情绪的教条列表。”与已闭合证据 Tusculan Disputations 1.9–25, 74–119、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C1"
+          ]
+        },
+        {
+          "id": "cicero--C13-C1-Q1-2",
+          "text": "错误改写：把第一卷说成要求人否认死亡会引发任何恐惧或悲伤。",
+          "feedback": "错误项“错误改写：把第一卷说成要求人否认死亡会引发任何恐惧或悲伤。”具体改变了该段的论证或发言归属；已闭合证据 Tusculan Disputations 1.9–25, 74–119不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C13-C1-Q1-1",
+      "misconceptionId": "cicero--C13-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C13-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-13",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C13-C1-Q2-1",
+          "text": "越界改写：把第一卷说成要求人否认死亡会引发任何恐惧或悲伤。",
+          "feedback": "错误项“越界改写：把第一卷说成要求人否认死亡会引发任何恐惧或悲伤。”越过了已闭合证据 Tusculan Disputations 1.9–25, 74–119所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C1"
+          ]
+        },
+        {
+          "id": "cicero--C13-C1-Q2-2",
+          "text": "证据边界：保留 M/A 问答与通过论证重塑判断的治疗文类。",
+          "feedback": "正确项“证据边界：保留 M/A 问答与通过论证重塑判断的治疗文类。”如实对应已闭合证据 Tusculan Disputations 1.9–25, 74–119的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C13-C1-Q2-2",
+      "misconceptionId": "cicero--C13-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C13-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C13-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-13",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“grief, judgment, and consolation”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C13-C2-Q1-1",
+          "text": "文本判断：第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。",
+          "feedback": "正确项“文本判断：第三卷把悲痛与错误判断联系起来并讨论安慰方法；该论证不等于宣称受苦者应受责备或情感可瞬间消除。”与已闭合证据 Tusculan Disputations 3.24–31, 74–79、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C2"
+          ]
+        },
+        {
+          "id": "cicero--C13-C2-Q1-2",
+          "text": "错误改写：把悲痛理论改写为对每个哀悼者的道德谴责。",
+          "feedback": "错误项“错误改写：把悲痛理论改写为对每个哀悼者的道德谴责。”具体改变了该段的论证或发言归属；已闭合证据 Tusculan Disputations 3.24–31, 74–79不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C13-C2-Q1-1",
+      "misconceptionId": "cicero--C13-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C13-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-13",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C13-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C13-C2-Q2-1",
+          "text": "越界改写：把悲痛理论改写为对每个哀悼者的道德谴责。",
+          "feedback": "错误项“越界改写：把悲痛理论改写为对每个哀悼者的道德谴责。”越过了已闭合证据 Tusculan Disputations 3.24–31, 74–79所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C2"
+          ]
+        },
+        {
+          "id": "cicero--C13-C2-Q2-2",
+          "text": "证据边界：保留判断分析、训练过程与安慰目的。",
+          "feedback": "正确项“证据边界：保留判断分析、训练过程与安慰目的。”如实对应已闭合证据 Tusculan Disputations 3.24–31, 74–79的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c13-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C13-C2-Q2-2",
+      "misconceptionId": "cicero--C13-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c13-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C13-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C13-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-13",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Crassus against severing wisdom and eloquence”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C14-C1-Q1-1",
+          "text": "错误改写：把理想演说家描写成只需声量和技巧、不需要任何主题知识。",
+          "feedback": "错误项“错误改写：把理想演说家描写成只需声量和技巧、不需要任何主题知识。”具体改变了该段的论证或发言归属；已闭合证据 De Oratore 1.53–73不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C1"
+          ]
+        },
+        {
+          "id": "cicero--C14-C1-Q1-2",
+          "text": "文本判断：Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。",
+          "feedback": "正确项“文本判断：Crassus 反对把哲学知识与公共雄辩彻底割裂：有分量的演说需要理解法律、政治与人的动机。”与已闭合证据 De Oratore 1.53–73、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C14-C1-Q1-2",
+      "misconceptionId": "cicero--C14-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C14-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-14",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C14-C1-Q2-1",
+          "text": "证据边界：将论证归给 Crassus，并保留其对广博知识的要求。",
+          "feedback": "正确项“证据边界：将论证归给 Crassus，并保留其对广博知识的要求。”如实对应已闭合证据 De Oratore 1.53–73的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C1"
+          ]
+        },
+        {
+          "id": "cicero--C14-C1-Q2-2",
+          "text": "越界改写：把理想演说家描写成只需声量和技巧、不需要任何主题知识。",
+          "feedback": "错误项“越界改写：把理想演说家描写成只需声量和技巧、不需要任何主题知识。”越过了已闭合证据 De Oratore 1.53–73所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C14-C1-Q2-1",
+      "misconceptionId": "cicero--C14-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C14-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C14-P1"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-14",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Antonius’s practical counterposition”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C14-C2-Q1-1",
+          "text": "错误改写：声称 Antonius 与 Crassus 对哲学和演说关系毫无分歧。",
+          "feedback": "错误项“错误改写：声称 Antonius 与 Crassus 对哲学和演说关系毫无分歧。”具体改变了该段的论证或发言归属；已闭合证据 De Oratore 1.80–95, 209–262不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C2"
+          ]
+        },
+        {
+          "id": "cicero--C14-C2-Q1-2",
+          "text": "文本判断：Antonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。",
+          "feedback": "正确项“文本判断：Antonius 在同一对话中更强调实践经验和演说术的相对独立；作品用分歧推进问题，不应把 Antonius 与 Crassus 压成同一声音。”与已闭合证据 De Oratore 1.80–95, 209–262、dialogue-speaker 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C14-C2-Q1-2",
+      "misconceptionId": "cicero--C14-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C14-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-14",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C14-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C14-C2-Q2-1",
+          "text": "证据边界：保留 Antonius 的实践主义反向压力。",
+          "feedback": "正确项“证据边界：保留 Antonius 的实践主义反向压力。”如实对应已闭合证据 De Oratore 1.80–95, 209–262的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C2"
+          ]
+        },
+        {
+          "id": "cicero--C14-C2-Q2-2",
+          "text": "越界改写：声称 Antonius 与 Crassus 对哲学和演说关系毫无分歧。",
+          "feedback": "错误项“越界改写：声称 Antonius 与 Crassus 对哲学和演说关系毫无分歧。”越过了已闭合证据 De Oratore 1.80–95, 209–262所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c14-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C14-C2-Q2-1",
+      "misconceptionId": "cicero--C14-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c14-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C14-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C14-P2"
+      ],
+      "targetVoices": [
+        "dialogue-speaker"
+      ],
+      "lessonId": "cicero--cicero-14",
+      "voice": "dialogue-speaker"
+    },
+    {
+      "id": "cicero--C15-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“Cicero on enforced political leisure”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C15-C1-Q1-1",
+          "text": "文本判断：《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。",
+          "feedback": "正确项“文本判断：《论义务》第二卷序言说武装暴力迫使西塞罗离开共和国与法庭生活；哲学写作在这里被明确置于政治失能的情境。”与已闭合证据 On Duties 2.1–7、cicero-primary 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C1"
+          ]
+        },
+        {
+          "id": "cicero--C15-C1-Q1-2",
+          "text": "错误改写：把晚期哲学写作描述为与共和国危机毫无关系的纯私人消遣。",
+          "feedback": "错误项“错误改写：把晚期哲学写作描述为与共和国危机毫无关系的纯私人消遣。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 2.1–7不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C15-C1-Q1-1",
+      "misconceptionId": "cicero--C15-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C15-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-15",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C15-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C15-C1-Q2-1",
+          "text": "越界改写：把晚期哲学写作描述为与共和国危机毫无关系的纯私人消遣。",
+          "feedback": "错误项“越界改写：把晚期哲学写作描述为与共和国危机毫无关系的纯私人消遣。”越过了已闭合证据 On Duties 2.1–7所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C1"
+          ]
+        },
+        {
+          "id": "cicero--C15-C1-Q2-2",
+          "text": "证据边界：保留作者序言对被迫闲暇和政治隔绝的自述。",
+          "feedback": "正确项“证据边界：保留作者序言对被迫闲暇和政治隔绝的自述。”如实对应已闭合证据 On Duties 2.1–7的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C15-C1-Q2-2",
+      "misconceptionId": "cicero--C15-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C15-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C15-P1"
+      ],
+      "targetVoices": [
+        "cicero-primary"
+      ],
+      "lessonId": "cicero--cicero-15",
+      "voice": "cicero-primary"
+    },
+    {
+      "id": "cicero--C15-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“republican failure as route synthesis”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C15-C2-Q1-1",
+          "text": "文本判断：把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。",
+          "feedback": "正确项“文本判断：把西塞罗的一生概括成始终成功捍卫共和国，会抹掉独裁、内战和被排除于政治行动的可见证据；本课只作受原典约束的历史综合。”与已闭合证据 On Duties 2.2–4; 3.1–4、route-synthesis 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C2"
+          ]
+        },
+        {
+          "id": "cicero--C15-C2-Q1-2",
+          "text": "错误改写：把被迫离开政坛的自述改写成西塞罗已经成功恢复共和国。",
+          "feedback": "错误项“错误改写：把被迫离开政坛的自述改写成西塞罗已经成功恢复共和国。”具体改变了该段的论证或发言归属；已闭合证据 On Duties 2.2–4; 3.1–4不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C15-C2-Q1-1",
+      "misconceptionId": "cicero--C15-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "cicero--C15-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C15-C2-Q2-1",
+          "text": "越界改写：把被迫离开政坛的自述改写成西塞罗已经成功恢复共和国。",
+          "feedback": "错误项“越界改写：把被迫离开政坛的自述改写成西塞罗已经成功恢复共和国。”越过了已闭合证据 On Duties 2.2–4; 3.1–4所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C2"
+          ]
+        },
+        {
+          "id": "cicero--C15-C2-Q2-2",
+          "text": "证据边界：综合仅限作者序言可证的政治失能，不替他虚构胜利。",
+          "feedback": "正确项“证据边界：综合仅限作者序言可证的政治失能，不替他虚构胜利。”如实对应已闭合证据 On Duties 2.2–4; 3.1–4的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c15-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C15-C2-Q2-2",
+      "misconceptionId": "cicero--C15-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c15-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C15-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C1-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“cross-text natural-law synthesis”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C16-C1-Q1-1",
+          "text": "错误改写：把两个不同对话、不同传本状态的段落伪装成一段连续原文。",
+          "feedback": "错误项“错误改写：把两个不同对话、不同传本状态的段落伪装成一段连续原文。”具体改变了该段的论证或发言归属；已闭合证据 On the Republic and On the Laws Rep. 3.33 (Lactantius fragment); Leg. 1.18–23不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C1"
+          ]
+        },
+        {
+          "id": "cicero--C16-C1-Q1-2",
+          "text": "文本判断：《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。",
+          "feedback": "正确项“文本判断：《共和国》真正法律残篇和《法律篇》理性—自然论述可以共同说明西塞罗文本中的自然法语汇，但两处角色、传本和文类不能合并抹平。”与已闭合证据 On the Republic and On the Laws Rep. 3.33 (Lactantius fragment); Leg. 1.18–23、route-synthesis 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C16-C1-Q1-2",
+      "misconceptionId": "cicero--C16-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C16-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C1-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "options": [
+        {
+          "id": "cicero--C16-C1-Q2-1",
+          "text": "证据边界：综合时并列标出 Laelius 残篇与 Marcus 对话声部。",
+          "feedback": "正确项“证据边界：综合时并列标出 Laelius 残篇与 Marcus 对话声部。”如实对应已闭合证据 On the Republic and On the Laws Rep. 3.33 (Lactantius fragment); Leg. 1.18–23的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C1"
+          ]
+        },
+        {
+          "id": "cicero--C16-C1-Q2-2",
+          "text": "越界改写：把两个不同对话、不同传本状态的段落伪装成一段连续原文。",
+          "feedback": "错误项“越界改写：把两个不同对话、不同传本状态的段落伪装成一段连续原文。”越过了已闭合证据 On the Republic and On the Laws Rep. 3.33 (Lactantius fragment); Leg. 1.18–23所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c1"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C16-C1-Q2-1",
+      "misconceptionId": "cicero--C16-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c1"
+      ],
+      "objectNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C16-C1"
+      ],
+      "targetParagraphIds": [
+        "cicero--C16-P1"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C2-Q1",
+      "kind": "binary",
+      "prompt": "哪一项准确解释“limits of reception synthesis”且不混淆发言者？",
+      "targetNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C16-C2-Q1-1",
+          "text": "错误改写：声称西塞罗在《法律篇》中逐字预言了现代自然权利学说的全部内容。",
+          "feedback": "错误项“错误改写：声称西塞罗在《法律篇》中逐字预言了现代自然权利学说的全部内容。”具体改变了该段的论证或发言归属；已闭合证据 On the Laws 1.18–23 (primary anchor only; reception claim intentionally not asserted)不支持这种改写。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C2"
+          ]
+        },
+        {
+          "id": "cicero--C16-C2-Q1-2",
+          "text": "文本判断：路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。",
+          "feedback": "正确项“文本判断：路线以“后世自然法传统”命名接受方向，只能作为教学导航；若无后继文本的具体 source，不能把后世解释倒写成西塞罗自己的历史预言。”与已闭合证据 On the Laws 1.18–23 (primary anchor only; reception claim intentionally not asserted)、route-synthesis 声部一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C16-C2-Q1-2",
+      "misconceptionId": "cicero--C16-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "cicero--C16-C2-Q2",
+      "kind": "binary",
+      "prompt": "研读这条 claim 时应守住哪一条文类与证据边界？",
+      "targetNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "options": [
+        {
+          "id": "cicero--C16-C2-Q2-1",
+          "text": "证据边界：仅用原典锚定自然—理性关系，并明确不在此 claim 断言具体后继谱系。",
+          "feedback": "正确项“证据边界：仅用原典锚定自然—理性关系，并明确不在此 claim 断言具体后继谱系。”如实对应已闭合证据 On the Laws 1.18–23 (primary anchor only; reception claim intentionally not asserted)的 CLOSED 状态。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C2"
+          ]
+        },
+        {
+          "id": "cicero--C16-C2-Q2-2",
+          "text": "越界改写：声称西塞罗在《法律篇》中逐字预言了现代自然权利学说的全部内容。",
+          "feedback": "错误项“越界改写：声称西塞罗在《法律篇》中逐字预言了现代自然权利学说的全部内容。”越过了已闭合证据 On the Laws 1.18–23 (primary anchor only; reception claim intentionally not asserted)所能支持的范围。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "cicero--src-c16-c2"
+          ],
+          "claimNodeIds": [
+            "cicero--C16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "cicero--C16-C2-Q2-1",
+      "misconceptionId": "cicero--C16-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "cicero--src-c16-c2"
+      ],
+      "objectNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "cicero--C16-C2"
+      ],
+      "targetParagraphIds": [
+        "cicero--C16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "cicero--cicero-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

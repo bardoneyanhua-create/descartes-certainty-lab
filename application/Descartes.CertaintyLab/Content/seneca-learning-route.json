@@ -1,0 +1,5318 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "seneca--S01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。",
+      "explanation": "哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Seneca corpus genre and drama boundary"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Tacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。",
+      "explanation": "Tacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。",
+      "identity": "historical-person; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-tacitus"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Tacitus historical death narrative"
+      ],
+      "voiceClass": "historical-person"
+    },
+    {
+      "id": "seneca--S02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。",
+      "explanation": "早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。",
+      "identity": "early-middle-stoic-doctrine; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "shared Stoic doctrine of passions"
+      ],
+      "voiceClass": "early-middle-stoic-doctrine"
+    },
+    {
+      "id": "seneca--S02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Seneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。",
+      "explanation": "Seneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics",
+        "seneca--src-ira-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Seneca use of Stoic emotional analysis"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。",
+      "explanation": "De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anger and revenge"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。",
+      "explanation": "该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1",
+        "seneca--src-ira-2"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anger versus involuntary reaction"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。",
+      "explanation": "De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "first movement and assent"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。",
+      "explanation": "因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2",
+        "seneca--src-dl-stoics"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "emotion training without numbness"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。",
+      "explanation": "Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "delay as anger therapy"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。",
+      "explanation": "这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "reappraisal rather than postponed revenge"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。",
+      "explanation": "De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-brev-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "life squandered rather than merely short"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。",
+      "explanation": "Letter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "daily custody of time"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。",
+      "explanation": "Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-24"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "premeditation of feared outcomes"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。",
+      "explanation": "Letter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-26"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "death as test of philosophy"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。",
+      "explanation": "De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "philosophical access to past time"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。",
+      "explanation": "De Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14",
+        "seneca--src-marcia-19"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "philosophical and consolatory time"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。",
+      "explanation": "De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "adversity as exercise"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。",
+      "explanation": "路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2",
+        "seneca--src-sep-stoicism"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anti-romanticization of suffering"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。",
+      "explanation": "Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Cleanthes quotation and fate"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Seneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。",
+      "explanation": "Seneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107",
+        "seneca--src-dl-stoics"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Seneca appropriation of shared doctrine"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。",
+      "explanation": "Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "self-sufficiency with friendship"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。",
+      "explanation": "因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "self-sufficiency boundary"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。",
+      "explanation": "De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-benef-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "benefit as intention and act"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。",
+      "explanation": "De Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-benef-2"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "manner of giving"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。",
+      "explanation": "Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-47"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "human fellowship under slavery"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。",
+      "explanation": "现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "historical limit of Letter 47"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。",
+      "explanation": "De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-vb-22"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "wealth without sovereignty"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。",
+      "explanation": "Letter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-20"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "voluntary simplicity versus involuntary poverty"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。",
+      "explanation": "Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-16",
+        "seneca--src-ep-83"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "philosophy as conduct and review"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Letters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。",
+      "explanation": "Letters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-ep-94",
+        "seneca--src-ep-95",
+        "seneca--src-nq-pref"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "precept doctrine and natural perspective"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "seneca--S16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。",
+      "explanation": "De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-clem-1"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "counsel to Nero under imperial power"
+      ],
+      "voiceClass": "seneca-primary"
+    },
+    {
+      "id": "seneca--S16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "De Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。",
+      "explanation": "De Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。",
+      "identity": "seneca-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "seneca--src-otio",
+        "seneca--src-tranq-4"
+      ],
+      "abilityIds": [
+        "seneca-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "retirement as alternate service"
+      ],
+      "voiceClass": "seneca-primary"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "seneca--src-sep-seneca",
+      "workId": "Seneca; Love’s Limits in Paul of Tarsus and Seneca the Younger",
+      "edition": "Stanford Encyclopedia of Philosophy, archived Spring 2020 entry; Brendan Case, Religions 15.10 (2024), article 1169",
+      "locator": "SEP sections 1, 3–6: life, philosophical psychology, ethics, politics, literary corpus; Case 2024, discussion of Epistle/Letter 47: Roman slavery, moral inclusion, and the explicit non-abolitionist boundary",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Seneca; Love’s Limits in Paul of Tarsus and Seneca the Younger",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2020/entries/seneca/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "seneca--src-sep-stoicism",
+      "workId": "Stoicism",
+      "edition": "Stanford Encyclopedia of Philosophy, current entry",
+      "locator": "sections on ethics, passions, and indifferents",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Stoicism",
+      "stableUrl": "https://plato.stanford.edu/entries/stoicism/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "seneca--src-dl-stoics",
+      "workId": "Lives of Eminent Philosophers, Book VII",
+      "edition": "R. D. Hicks translation, Loeb Classical Library (1925)",
+      "locator": "VII.84–89 and VII.110–116: ethics, impulse, passions, and eupatheiai",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Lives of Eminent Philosophers, Book VII",
+      "stableUrl": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "early-middle-stoic-doctrine",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ira-1",
+      "workId": "De Ira",
+      "edition": "John W. Basore edition and translation, Moral Essays vol. 1 (1928)",
+      "locator": "I.1–2 and I.7–13, especially I.11: anger characterized as revenge-seeking and rejected as a necessary substitute or fuel for courage",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Ira",
+      "stableUrl": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0014",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ira-2",
+      "workId": "De Ira",
+      "edition": "John W. Basore edition and translation, Moral Essays vol. 1 (1928)",
+      "locator": "II.1–4: involuntary first movements distinguished from assented anger",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Ira",
+      "stableUrl": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0014",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ira-3",
+      "workId": "De Ira",
+      "edition": "John W. Basore edition and translation, Moral Essays vol. 1 (1928)",
+      "locator": "III.12–13: delay as a remedy and review of appearances",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Ira",
+      "stableUrl": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0014",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-brev-1",
+      "workId": "De Brevitate Vitae",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "1–3: life is sufficient when it is not squandered",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Brevitate Vitae",
+      "stableUrl": "https://en.wikisource.org/wiki/On_the_shortness_of_life",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-brev-14",
+      "workId": "De Brevitate Vitae",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "14–15: philosophical study makes past ages available",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Brevitate Vitae",
+      "stableUrl": "https://en.wikisource.org/wiki/On_the_shortness_of_life",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-1",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 1.1–5: reclaiming time and daily loss",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-24",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 24.11–26: rehearsing feared outcomes and death",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_24",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-26",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 26.8–10: death tests what philosophy has achieved",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_26",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-prov-2",
+      "workId": "De Providentia",
+      "edition": "John W. Basore edition and translation, Moral Essays vol. 1 (1928)",
+      "locator": "2.1–6: hardship as training and disclosure of character",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Providentia",
+      "stableUrl": "https://atlas.perseus.tufts.edu/library/urn:cts:latinLit:stoa0255.stoa012.perseus-lat2/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-107",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 107.7–12: consenting to necessity; Cleanthes verses explicitly quoted",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_107",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-9",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 9.5–18: self-sufficiency and the desire for friendship",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-benef-1",
+      "workId": "De Beneficiis",
+      "edition": "Aubrey Stewart translation (1887)",
+      "locator": "I.1–6: benefit resides in the giver’s intention, not the transferred thing",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Beneficiis",
+      "stableUrl": "https://en.wikisource.org/wiki/On_Benefits/Book_I",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-benef-2",
+      "workId": "De Beneficiis",
+      "edition": "Aubrey Stewart translation (1887)",
+      "locator": "II.1–5: timing and manner can preserve or spoil a benefit",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Beneficiis",
+      "stableUrl": "https://en.wikisource.org/wiki/On_Benefits/Book_II",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-47",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 47.1–11: enslaved persons as fellow human beings and moral interlocutors",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_47",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-20",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 20.8–13: periodic practice of simple living",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-vb-22",
+      "workId": "De Vita Beata",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "21–24: wealth may be possessed without being treated as the good",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Vita Beata",
+      "stableUrl": "https://www.tha.de/~harsch/Chronologia/Lspost01/Seneca/sen_di00.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-16",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 16.1–5: philosophy must shape conduct rather than decorate speech",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_16",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-83",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 83.1–2: daily self-observation and accounting",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_83",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-94",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 94.1–17: precepts and the correction of judgment",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_94",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-ep-95",
+      "workId": "Epistulae Morales ad Lucilium",
+      "edition": "Richard M. Gummere translation, Loeb Classical Library (1917–1925)",
+      "locator": "Letter 95.1–12 and 50–53: doctrines, precepts, and human fellowship",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Epistulae Morales ad Lucilium",
+      "stableUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_95",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-otio",
+      "workId": "De Otio",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "3.1–5 and 6.1–5: public service, withdrawal, and service to the larger commonwealth",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Otio",
+      "stableUrl": "https://www.tha.de/~harsch/Chronologia/Lspost01/Seneca/sen_di00.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-tranq-4",
+      "workId": "De Tranquillitate Animi",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "4.1–8: choosing forms of service suited to circumstance and capacity",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Tranquillitate Animi",
+      "stableUrl": "https://www.tha.de/~harsch/Chronologia/Lspost01/Seneca/sen_di00.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-tacitus",
+      "workId": "Annals",
+      "edition": "Alfred John Church and William Jackson Brodribb translation (1876)",
+      "locator": "XV.60–64: accusation, enforced death, and the literary death scene",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Annals",
+      "stableUrl": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "historical-person",
+      "year": null
+    },
+    {
+      "id": "seneca--src-marcia-19",
+      "workId": "Ad Marciam de Consolatione",
+      "edition": "John W. Basore translation, Moral Essays vol. 2 (1932)",
+      "locator": "19–21: grief, mortality, and the finite conditions shared by human lives",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Ad Marciam de Consolatione",
+      "stableUrl": "https://www.tha.de/~harsch/Chronologia/Lspost01/Seneca/sen_di00.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-clem-1",
+      "workId": "De Clementia",
+      "edition": "John W. Basore translation, Moral Essays vol. 1 (1928)",
+      "locator": "I.1–4: the ruler addressed through a moral mirror of power",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "De Clementia",
+      "stableUrl": "https://en.wikisource.org/wiki/Of_Clemency/Book_I",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    },
+    {
+      "id": "seneca--src-nq-pref",
+      "workId": "Naturales Quaestiones",
+      "edition": "Thomas H. Corcoran translation, Loeb Classical Library (1971–1972)",
+      "locator": "Book III, Preface 1–18: natural inquiry and moral enlargement of perspective",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Naturales Quaestiones",
+      "stableUrl": "https://archive.org/details/naturalquestions01sene",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "seneca-primary",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "seneca-judgment-time-practice",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "塞涅卡：判断怎样成为一种生活练习",
+      "lessonIds": [
+        "seneca--seneca-01",
+        "seneca--seneca-02",
+        "seneca--seneca-03",
+        "seneca--seneca-04",
+        "seneca--seneca-05",
+        "seneca--seneca-06",
+        "seneca--seneca-07",
+        "seneca--seneca-08",
+        "seneca--seneca-09",
+        "seneca--seneca-10",
+        "seneca--seneca-11",
+        "seneca--seneca-12",
+        "seneca--seneca-13",
+        "seneca--seneca-14",
+        "seneca--seneca-15",
+        "seneca--seneca-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Seneca",
+        "nameZh": "塞涅卡",
+        "sourceRouteId": "seneca-judgment-time-practice"
+      },
+      "summary": "1. 文类与路线边界"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "seneca--seneca-01",
+      "order": 1,
+      "title": "1. 文类与路线边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 文类与路线边界",
+      "coreExplanation": "哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。\n\nTacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。",
+      "sections": [
+        {
+          "heading": "1. 文类与路线边界",
+          "paragraphs": [
+            "哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。",
+            "Tacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca",
+            "seneca--src-tacitus"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S01-C1",
+        "seneca--S01-C2"
+      ],
+      "checkIds": [
+        "seneca--S01-Q1",
+        "seneca--S01-Q2",
+        "seneca--S01-Q3",
+        "seneca--S01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-02",
+      "sourceIds": [
+        "seneca--src-sep-seneca",
+        "seneca--src-tacitus"
+      ],
+      "essentialQuestion": "1. 文类与路线边界",
+      "initialFocusId": "seneca--seneca-01-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-02",
+      "order": 2,
+      "title": "2. 情感：共有学说与作者用法",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 情感：共有学说与作者用法",
+      "coreExplanation": "早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。\n\nSeneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。",
+      "sections": [
+        {
+          "heading": "2. 情感：共有学说与作者用法",
+          "paragraphs": [
+            "早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。",
+            "Seneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics",
+            "seneca--src-ira-1"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S02-C1",
+        "seneca--S02-C2"
+      ],
+      "checkIds": [
+        "seneca--S02-Q1",
+        "seneca--S02-Q2",
+        "seneca--S02-Q3",
+        "seneca--S02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-03",
+      "sourceIds": [
+        "seneca--src-dl-stoics",
+        "seneca--src-ira-1"
+      ],
+      "essentialQuestion": "2. 情感：共有学说与作者用法",
+      "initialFocusId": "seneca--seneca-02-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-03",
+      "order": 3,
+      "title": "3. 愤怒不是力量",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 愤怒不是力量",
+      "coreExplanation": "De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。\n\n该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。",
+      "sections": [
+        {
+          "heading": "3. 愤怒不是力量",
+          "paragraphs": [
+            "De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。",
+            "该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ira-1",
+            "seneca--src-ira-2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S03-C1",
+        "seneca--S03-C2"
+      ],
+      "checkIds": [
+        "seneca--S03-Q1",
+        "seneca--S03-Q2",
+        "seneca--S03-Q3",
+        "seneca--S03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-04",
+      "sourceIds": [
+        "seneca--src-ira-1",
+        "seneca--src-ira-2"
+      ],
+      "essentialQuestion": "3. 愤怒不是力量",
+      "initialFocusId": "seneca--seneca-03-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-04",
+      "order": 4,
+      "title": "4. 第一运动与同意",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 第一运动与同意",
+      "coreExplanation": "De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。\n\n因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。",
+      "sections": [
+        {
+          "heading": "4. 第一运动与同意",
+          "paragraphs": [
+            "De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。",
+            "因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ira-2",
+            "seneca--src-dl-stoics"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S04-C1",
+        "seneca--S04-C2"
+      ],
+      "checkIds": [
+        "seneca--S04-Q1",
+        "seneca--S04-Q2",
+        "seneca--S04-Q3",
+        "seneca--S04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-05",
+      "sourceIds": [
+        "seneca--src-ira-2",
+        "seneca--src-dl-stoics"
+      ],
+      "essentialQuestion": "4. 第一运动与同意",
+      "initialFocusId": "seneca--seneca-04-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-05",
+      "order": 5,
+      "title": "5. 给愤怒以时间",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 给愤怒以时间",
+      "coreExplanation": "Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。\n\n这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。",
+      "sections": [
+        {
+          "heading": "5. 给愤怒以时间",
+          "paragraphs": [
+            "Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。",
+            "这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S05-C1",
+        "seneca--S05-C2"
+      ],
+      "checkIds": [
+        "seneca--S05-Q1",
+        "seneca--S05-Q2",
+        "seneca--S05-Q3",
+        "seneca--S05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-06",
+      "sourceIds": [
+        "seneca--src-ira-3"
+      ],
+      "essentialQuestion": "5. 给愤怒以时间",
+      "initialFocusId": "seneca--seneca-05-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-06",
+      "order": 6,
+      "title": "6. 时间不是数量不足",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 时间不是数量不足",
+      "coreExplanation": "De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。\n\nLetter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。",
+      "sections": [
+        {
+          "heading": "6. 时间不是数量不足",
+          "paragraphs": [
+            "De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。",
+            "Letter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-brev-1",
+            "seneca--src-ep-1"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S06-C1",
+        "seneca--S06-C2"
+      ],
+      "checkIds": [
+        "seneca--S06-Q1",
+        "seneca--S06-Q2",
+        "seneca--S06-Q3",
+        "seneca--S06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-07",
+      "sourceIds": [
+        "seneca--src-brev-1",
+        "seneca--src-ep-1"
+      ],
+      "essentialQuestion": "6. 时间不是数量不足",
+      "initialFocusId": "seneca--seneca-06-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-07",
+      "order": 7,
+      "title": "7. 死亡作为尺度",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 死亡作为尺度",
+      "coreExplanation": "Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。\n\nLetter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。",
+      "sections": [
+        {
+          "heading": "7. 死亡作为尺度",
+          "paragraphs": [
+            "Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。",
+            "Letter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ep-24",
+            "seneca--src-ep-26"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S07-C1",
+        "seneca--S07-C2"
+      ],
+      "checkIds": [
+        "seneca--S07-Q1",
+        "seneca--S07-Q2",
+        "seneca--S07-Q3",
+        "seneca--S07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-08",
+      "sourceIds": [
+        "seneca--src-ep-24",
+        "seneca--src-ep-26"
+      ],
+      "essentialQuestion": "7. 死亡作为尺度",
+      "initialFocusId": "seneca--seneca-07-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-08",
+      "order": 8,
+      "title": "8. 过去也能成为资源",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 过去也能成为资源",
+      "coreExplanation": "De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。\n\nDe Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。",
+      "sections": [
+        {
+          "heading": "8. 过去也能成为资源",
+          "paragraphs": [
+            "De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。",
+            "De Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-brev-14",
+            "seneca--src-marcia-19"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S08-C1",
+        "seneca--S08-C2"
+      ],
+      "checkIds": [
+        "seneca--S08-Q1",
+        "seneca--S08-Q2",
+        "seneca--S08-Q3",
+        "seneca--S08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-09",
+      "sourceIds": [
+        "seneca--src-brev-14",
+        "seneca--src-marcia-19"
+      ],
+      "essentialQuestion": "8. 过去也能成为资源",
+      "initialFocusId": "seneca--seneca-08-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-09",
+      "order": 9,
+      "title": "9. 逆境与训练",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 逆境与训练",
+      "coreExplanation": "De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。\n\n路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。",
+      "sections": [
+        {
+          "heading": "9. 逆境与训练",
+          "paragraphs": [
+            "De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。",
+            "路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-prov-2",
+            "seneca--src-sep-stoicism"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S09-C1",
+        "seneca--S09-C2"
+      ],
+      "checkIds": [
+        "seneca--S09-Q1",
+        "seneca--S09-Q2",
+        "seneca--S09-Q3",
+        "seneca--S09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-10",
+      "sourceIds": [
+        "seneca--src-prov-2",
+        "seneca--src-sep-stoicism"
+      ],
+      "essentialQuestion": "9. 逆境与训练",
+      "initialFocusId": "seneca--seneca-09-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-10",
+      "order": 10,
+      "title": "10. 命运与同意",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 命运与同意",
+      "coreExplanation": "Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。\n\nSeneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。",
+      "sections": [
+        {
+          "heading": "10. 命运与同意",
+          "paragraphs": [
+            "Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。",
+            "Seneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ep-107",
+            "seneca--src-dl-stoics"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S10-C1",
+        "seneca--S10-C2"
+      ],
+      "checkIds": [
+        "seneca--S10-Q1",
+        "seneca--S10-Q2",
+        "seneca--S10-Q3",
+        "seneca--S10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-11",
+      "sourceIds": [
+        "seneca--src-ep-107",
+        "seneca--src-dl-stoics"
+      ],
+      "essentialQuestion": "10. 命运与同意",
+      "initialFocusId": "seneca--seneca-10-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-11",
+      "order": 11,
+      "title": "11. 友谊与自足",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 友谊与自足",
+      "coreExplanation": "Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。\n\n因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。",
+      "sections": [
+        {
+          "heading": "11. 友谊与自足",
+          "paragraphs": [
+            "Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。",
+            "因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S11-C1",
+        "seneca--S11-C2"
+      ],
+      "checkIds": [
+        "seneca--S11-Q1",
+        "seneca--S11-Q2",
+        "seneca--S11-Q3",
+        "seneca--S11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-12",
+      "sourceIds": [
+        "seneca--src-ep-9"
+      ],
+      "essentialQuestion": "11. 友谊与自足",
+      "initialFocusId": "seneca--seneca-11-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-12",
+      "order": 12,
+      "title": "12. 恩惠不是账本",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 恩惠不是账本",
+      "coreExplanation": "De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。\n\nDe Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。",
+      "sections": [
+        {
+          "heading": "12. 恩惠不是账本",
+          "paragraphs": [
+            "De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。",
+            "De Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-benef-1",
+            "seneca--src-benef-2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S12-C1",
+        "seneca--S12-C2"
+      ],
+      "checkIds": [
+        "seneca--S12-Q1",
+        "seneca--S12-Q2",
+        "seneca--S12-Q3",
+        "seneca--S12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-13",
+      "sourceIds": [
+        "seneca--src-benef-1",
+        "seneca--src-benef-2"
+      ],
+      "essentialQuestion": "12. 恩惠不是账本",
+      "initialFocusId": "seneca--seneca-12-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-13",
+      "order": 13,
+      "title": "13. 身份差异与共同人性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 身份差异与共同人性",
+      "coreExplanation": "Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。\n\n现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。",
+      "sections": [
+        {
+          "heading": "13. 身份差异与共同人性",
+          "paragraphs": [
+            "Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。",
+            "现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ep-47",
+            "seneca--src-sep-seneca"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S13-C1",
+        "seneca--S13-C2"
+      ],
+      "checkIds": [
+        "seneca--S13-Q1",
+        "seneca--S13-Q2",
+        "seneca--S13-Q3",
+        "seneca--S13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-14",
+      "sourceIds": [
+        "seneca--src-ep-47",
+        "seneca--src-sep-seneca"
+      ],
+      "essentialQuestion": "13. 身份差异与共同人性",
+      "initialFocusId": "seneca--seneca-13-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-14",
+      "order": 14,
+      "title": "14. 财富、贫困与练习",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 财富、贫困与练习",
+      "coreExplanation": "De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。\n\nLetter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。",
+      "sections": [
+        {
+          "heading": "14. 财富、贫困与练习",
+          "paragraphs": [
+            "De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。",
+            "Letter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-vb-22",
+            "seneca--src-ep-20"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S14-C1",
+        "seneca--S14-C2"
+      ],
+      "checkIds": [
+        "seneca--S14-Q1",
+        "seneca--S14-Q2",
+        "seneca--S14-Q3",
+        "seneca--S14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-15",
+      "sourceIds": [
+        "seneca--src-vb-22",
+        "seneca--src-ep-20"
+      ],
+      "essentialQuestion": "14. 财富、贫困与练习",
+      "initialFocusId": "seneca--seneca-14-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-15",
+      "order": 15,
+      "title": "15. 哲学必须进入日程",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 哲学必须进入日程",
+      "coreExplanation": "Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。\n\nLetters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。",
+      "sections": [
+        {
+          "heading": "15. 哲学必须进入日程",
+          "paragraphs": [
+            "Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。",
+            "Letters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-ep-16",
+            "seneca--src-ep-83",
+            "seneca--src-ep-94",
+            "seneca--src-ep-95",
+            "seneca--src-nq-pref"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S15-C1",
+        "seneca--S15-C2"
+      ],
+      "checkIds": [
+        "seneca--S15-Q1",
+        "seneca--S15-Q2",
+        "seneca--S15-Q3",
+        "seneca--S15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "seneca--seneca-16",
+      "sourceIds": [
+        "seneca--src-ep-16",
+        "seneca--src-ep-83",
+        "seneca--src-ep-94",
+        "seneca--src-ep-95",
+        "seneca--src-nq-pref"
+      ],
+      "essentialQuestion": "15. 哲学必须进入日程",
+      "initialFocusId": "seneca--seneca-15-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "seneca--seneca-16",
+      "order": 16,
+      "title": "16. 政治角色、退隐与更大的世界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 政治角色、退隐与更大的世界",
+      "coreExplanation": "De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。\n\nDe Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。",
+      "sections": [
+        {
+          "heading": "16. 政治角色、退隐与更大的世界",
+          "paragraphs": [
+            "De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。",
+            "De Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "seneca--src-clem-1",
+            "seneca--src-otio",
+            "seneca--src-tranq-4"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "seneca--S16-C1",
+        "seneca--S16-C2"
+      ],
+      "checkIds": [
+        "seneca--S16-Q1",
+        "seneca--S16-Q2",
+        "seneca--S16-Q3",
+        "seneca--S16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "seneca--src-clem-1",
+        "seneca--src-otio",
+        "seneca--src-tranq-4"
+      ],
+      "essentialQuestion": "16. 政治角色、退隐与更大的世界",
+      "initialFocusId": "seneca--seneca-16-title",
+      "routeId": "seneca-judgment-time-practice",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "seneca--S01-Q1",
+      "kind": "binary",
+      "prompt": "关于“Seneca corpus genre and drama boundary”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S01-Q1-1",
+          "text": "准确：哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。",
+          "feedback": "正确项“准确：哲学书信、对话、安慰文、自然研究、政治劝诫与悲剧各有交际场景；不能把它们压成无时间差的教条，更不能把戏剧人物台词直接当作 Seneca 的哲学自述。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C1"
+          ]
+        },
+        {
+          "id": "seneca--S01-Q1-2",
+          "text": "所有这些文类都只是 Seneca 同一套无时间差的哲学自述，悲剧人物台词也可直接代表他的立场。",
+          "feedback": "错误项“所有这些文类都只是 Seneca 同一套无时间差的哲学自述，悲剧人物台词也可直接代表他的立场。”抹平了书信、对话、安慰文、自然研究、政治劝诫与悲剧的交际场景，并把戏剧人物误当成作者自述。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S01-Q1-1",
+      "misconceptionId": "seneca--S01-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "objectNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "seneca--seneca-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S01-Q2",
+      "kind": "binary",
+      "prompt": "“Seneca corpus genre and drama boundary”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S01-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C1"
+          ]
+        },
+        {
+          "id": "seneca--S01-Q2-2",
+          "text": "保留 modern-interpretation 声部、modern-scholarship 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 modern-interpretation 声部、modern-scholarship 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S01-Q2-2",
+      "misconceptionId": "seneca--S01-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "objectNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S01-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "seneca--seneca-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S01-Q3",
+      "kind": "binary",
+      "prompt": "关于“Tacitus historical death narrative”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S01-Q3-1",
+          "text": "准确：Tacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。",
+          "feedback": "正确项“准确：Tacitus 对 Seneca 最后时刻的叙述是历史作者塑造的死亡场景；它可说明接受史与政治处境，却不能替代 Seneca 哲学文本的自我论证。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-tacitus"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C2"
+          ]
+        },
+        {
+          "id": "seneca--S01-Q3-2",
+          "text": "Tacitus 的死亡叙事就是 Seneca 本人的哲学论证，可替代 Seneca 作品中的第一人称立场。",
+          "feedback": "错误项“Tacitus 的死亡叙事就是 Seneca 本人的哲学论证，可替代 Seneca 作品中的第一人称立场。”混淆了历史作者塑造的死亡场景与 Seneca 自己的哲学文本。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-tacitus"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S01-Q3-1",
+      "misconceptionId": "seneca--S01-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-tacitus"
+      ],
+      "objectNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S01-P2"
+      ],
+      "targetVoices": [
+        "historical-person"
+      ],
+      "lessonId": "seneca--seneca-01",
+      "voice": "historical-person"
+    },
+    {
+      "id": "seneca--S01-Q4",
+      "kind": "binary",
+      "prompt": "“Tacitus historical death narrative”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S01-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-tacitus"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C2"
+          ]
+        },
+        {
+          "id": "seneca--S01-Q4-2",
+          "text": "保留 historical-person 声部、historical-testimony 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 historical-person 声部、historical-testimony 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-tacitus"
+          ],
+          "claimNodeIds": [
+            "seneca--S01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S01-Q4-2",
+      "misconceptionId": "seneca--S01-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-tacitus"
+      ],
+      "objectNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S01-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S01-P2"
+      ],
+      "targetVoices": [
+        "historical-person"
+      ],
+      "lessonId": "seneca--seneca-01",
+      "voice": "historical-person"
+    },
+    {
+      "id": "seneca--S02-Q1",
+      "kind": "binary",
+      "prompt": "关于“shared Stoic doctrine of passions”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S02-Q1-1",
+          "text": "准确：早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。",
+          "feedback": "正确项“准确：早期斯多亚传统把激情分析为与判断和冲动有关的失序状态，并同时承认理性的良好情感；这是一项共有学说，不是 Seneca 独创或逐字自述。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C1"
+          ]
+        },
+        {
+          "id": "seneca--S02-Q1-2",
+          "text": "激情与判断的理论由 Seneca 独创，而且早期斯多亚派不承认任何理性的良好情感。",
+          "feedback": "错误项“激情与判断的理论由 Seneca 独创，而且早期斯多亚派不承认任何理性的良好情感。”否认了共有学说的归属，也遗漏了早期传统中的理性良好情感。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S02-Q1-1",
+      "misconceptionId": "seneca--S02-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S02-P1"
+      ],
+      "targetVoices": [
+        "early-middle-stoic-doctrine"
+      ],
+      "lessonId": "seneca--seneca-02",
+      "voice": "early-middle-stoic-doctrine"
+    },
+    {
+      "id": "seneca--S02-Q2",
+      "kind": "binary",
+      "prompt": "“shared Stoic doctrine of passions”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S02-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C1"
+          ]
+        },
+        {
+          "id": "seneca--S02-Q2-2",
+          "text": "保留 early-middle-stoic-doctrine 声部、stoic-doxography 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 early-middle-stoic-doctrine 声部、stoic-doxography 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S02-Q2-2",
+      "misconceptionId": "seneca--S02-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S02-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S02-P1"
+      ],
+      "targetVoices": [
+        "early-middle-stoic-doctrine"
+      ],
+      "lessonId": "seneca--seneca-02",
+      "voice": "early-middle-stoic-doctrine"
+    },
+    {
+      "id": "seneca--S02-Q3",
+      "kind": "binary",
+      "prompt": "关于“Seneca use of Stoic emotional analysis”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S02-Q3-1",
+          "text": "准确：Seneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。",
+          "feedback": "正确项“准确：Seneca 在讨论愤怒时运用判断与冲动的框架，但路线只把有 De Ira 定位的表述归给他本人。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics",
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C2"
+          ]
+        },
+        {
+          "id": "seneca--S02-Q3-2",
+          "text": "只要内容符合斯多亚派的判断框架，即使没有 De Ira 定位也可直接归为 Seneca 的原话。",
+          "feedback": "错误项“只要内容符合斯多亚派的判断框架，即使没有 De Ira 定位也可直接归为 Seneca 的原话。”把共有理论误升格为 Seneca 的直接表述，绕过了 De Ira 的定位要求。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics",
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S02-Q3-1",
+      "misconceptionId": "seneca--S02-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics",
+        "seneca--src-ira-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S02-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-02",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S02-Q4",
+      "kind": "binary",
+      "prompt": "“Seneca use of Stoic emotional analysis”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S02-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics",
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C2"
+          ]
+        },
+        {
+          "id": "seneca--S02-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-dl-stoics",
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S02-Q4-2",
+      "misconceptionId": "seneca--S02-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-dl-stoics",
+        "seneca--src-ira-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S02-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S02-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-02",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S03-Q1",
+      "kind": "binary",
+      "prompt": "关于“anger and revenge”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S03-Q1-1",
+          "text": "准确：De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。",
+          "feedback": "正确项“准确：De Ira 把愤怒写成以报复为目标、会冲毁判断与关系的激情，而不是勇气的必要燃料。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C1"
+          ]
+        },
+        {
+          "id": "seneca--S03-Q1-2",
+          "text": "De Ira 主张勇敢行动必须由愤怒提供动力，理性本身不足以支撑勇气。",
+          "feedback": "错误项“De Ira 主张勇敢行动必须由愤怒提供动力，理性本身不足以支撑勇气。”与 I.7–13 尤其 I.11 对“以愤怒代勇气”的反驳相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S03-Q1-1",
+      "misconceptionId": "seneca--S03-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S03-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-03",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S03-Q2",
+      "kind": "binary",
+      "prompt": "“anger and revenge”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S03-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C1"
+          ]
+        },
+        {
+          "id": "seneca--S03-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S03-Q2-2",
+      "misconceptionId": "seneca--S03-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S03-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S03-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-03",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S03-Q3",
+      "kind": "binary",
+      "prompt": "关于“anger versus involuntary reaction”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S03-Q3-1",
+          "text": "准确：该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。",
+          "feedback": "正确项“准确：该论证针对可被理由维持的愤怒，不等于否认身体会先出现惊跳、脸热或紧张等非自愿反应。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1",
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C2"
+          ]
+        },
+        {
+          "id": "seneca--S03-Q3-2",
+          "text": "Seneca 把惊跳、脸热等自动身体反应本身也判定为已经同意报复的完整愤怒。",
+          "feedback": "错误项“Seneca 把惊跳、脸热等自动身体反应本身也判定为已经同意报复的完整愤怒。”取消了非自愿初动与由理由维持的愤怒之间的区别。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1",
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S03-Q3-1",
+      "misconceptionId": "seneca--S03-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1",
+        "seneca--src-ira-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S03-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-03",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S03-Q4",
+      "kind": "binary",
+      "prompt": "“anger versus involuntary reaction”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S03-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1",
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C2"
+          ]
+        },
+        {
+          "id": "seneca--S03-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-1",
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S03-Q4-2",
+      "misconceptionId": "seneca--S03-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-1",
+        "seneca--src-ira-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S03-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S03-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-03",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S04-Q1",
+      "kind": "binary",
+      "prompt": "关于“first movement and assent”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S04-Q1-1",
+          "text": "准确：De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。",
+          "feedback": "正确项“准确：De Ira II 区分最初的非自愿扰动与心灵随后赞同“应当报复”的愤怒；伦理训练主要介入后者。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C1"
+          ]
+        },
+        {
+          "id": "seneca--S04-Q1-2",
+          "text": "De Ira II 认为最初惊动一出现，心灵就已完成对“应当报复”的赞同，二者没有伦理区别。",
+          "feedback": "错误项“De Ira II 认为最初惊动一出现，心灵就已完成对“应当报复”的赞同，二者没有伦理区别。”颠倒了 II.1–4 对非自愿初动与后续赞同的区分。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S04-Q1-1",
+      "misconceptionId": "seneca--S04-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S04-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-04",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S04-Q2",
+      "kind": "binary",
+      "prompt": "“first movement and assent”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S04-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C1"
+          ]
+        },
+        {
+          "id": "seneca--S04-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S04-Q2-2",
+      "misconceptionId": "seneca--S04-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S04-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S04-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-04",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S04-Q3",
+      "kind": "binary",
+      "prompt": "关于“emotion training without numbness”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S04-Q3-1",
+          "text": "准确：因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。",
+          "feedback": "正确项“准确：因此，斯多亚训练不是要求人成为无感机器，而是训练对出现的印象是否给予维持行动的同意。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C2"
+          ]
+        },
+        {
+          "id": "seneca--S04-Q3-2",
+          "text": "斯多亚训练的目标是消灭一切初始感觉，使人对外界刺激完全无感。",
+          "feedback": "错误项“斯多亚训练的目标是消灭一切初始感觉，使人对外界刺激完全无感。”把针对赞同的训练误写成消除非自愿感觉。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S04-Q3-1",
+      "misconceptionId": "seneca--S04-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2",
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S04-Q4",
+      "kind": "binary",
+      "prompt": "“emotion training without numbness”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S04-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C2"
+          ]
+        },
+        {
+          "id": "seneca--S04-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-2",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S04-Q4-2",
+      "misconceptionId": "seneca--S04-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-2",
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S04-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S05-Q1",
+      "kind": "binary",
+      "prompt": "关于“delay as anger therapy”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S05-Q1-1",
+          "text": "准确：Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。",
+          "feedback": "正确项“准确：Seneca 建议延迟愤怒的行动，让最初的确信接受复查；延迟在这里是一种判断技术。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C1"
+          ]
+        },
+        {
+          "id": "seneca--S05-Q1-2",
+          "text": "Seneca 建议延迟只是为了等怒气更强后实施报复，无需重新审查最初判断。",
+          "feedback": "错误项“Seneca 建议延迟只是为了等怒气更强后实施报复，无需重新审查最初判断。”把判断复查技术曲解成蓄积怒气。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S05-Q1-1",
+      "misconceptionId": "seneca--S05-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "objectNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S05-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-05",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S05-Q2",
+      "kind": "binary",
+      "prompt": "“delay as anger therapy”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S05-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C1"
+          ]
+        },
+        {
+          "id": "seneca--S05-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S05-Q2-2",
+      "misconceptionId": "seneca--S05-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "objectNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S05-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S05-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-05",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S05-Q3",
+      "kind": "binary",
+      "prompt": "关于“reappraisal rather than postponed revenge”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S05-Q3-1",
+          "text": "准确：这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。",
+          "feedback": "正确项“准确：这项练习不是压下情绪后照旧报复，而是重新检验伤害、意图与惩罚的表象。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C2"
+          ]
+        },
+        {
+          "id": "seneca--S05-Q3-2",
+          "text": "这项练习只要求暂时压住情绪，伤害、意图和惩罚的判断都应保持不变。",
+          "feedback": "错误项“这项练习只要求暂时压住情绪，伤害、意图和惩罚的判断都应保持不变。”排除了练习的核心步骤：重新检验相关表象。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S05-Q3-1",
+      "misconceptionId": "seneca--S05-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "objectNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S05-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-05",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S05-Q4",
+      "kind": "binary",
+      "prompt": "“reappraisal rather than postponed revenge”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S05-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C2"
+          ]
+        },
+        {
+          "id": "seneca--S05-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ira-3"
+          ],
+          "claimNodeIds": [
+            "seneca--S05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S05-Q4-2",
+      "misconceptionId": "seneca--S05-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ira-3"
+      ],
+      "objectNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S05-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S05-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-05",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S06-Q1",
+      "kind": "binary",
+      "prompt": "关于“life squandered rather than merely short”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S06-Q1-1",
+          "text": "准确：De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。",
+          "feedback": "正确项“准确：De Brevitate Vitae 的中心反转是：生命并非天然太短，许多人是在欲望、忙碌与替他人安排中把它耗散。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C1"
+          ]
+        },
+        {
+          "id": "seneca--S06-Q1-2",
+          "text": "De Brevitate Vitae 认为无论怎样生活，人的主要困境都是自然分配的寿命绝对不足。",
+          "feedback": "错误项“De Brevitate Vitae 认为无论怎样生活，人的主要困境都是自然分配的寿命绝对不足。”否定了作品把问题从寿命短转向时间耗散的中心反转。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S06-Q1-1",
+      "misconceptionId": "seneca--S06-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S06-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-06",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S06-Q2",
+      "kind": "binary",
+      "prompt": "“life squandered rather than merely short”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S06-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C1"
+          ]
+        },
+        {
+          "id": "seneca--S06-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S06-Q2-2",
+      "misconceptionId": "seneca--S06-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S06-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S06-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-06",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S06-Q3",
+      "kind": "binary",
+      "prompt": "关于“daily custody of time”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S06-Q3-1",
+          "text": "准确：Letter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。",
+          "feedback": "正确项“准确：Letter 1 把时间写成最容易被夺走又最难偿还的所有物，要求逐日辨认损失，而非只在年末感叹。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C2"
+          ]
+        },
+        {
+          "id": "seneca--S06-Q3-2",
+          "text": "Letter 1 只要求在生命末尾总体回顾时间，对日常损失无需逐日追踪。",
+          "feedback": "错误项“Letter 1 只要求在生命末尾总体回顾时间，对日常损失无需逐日追踪。”与书信要求立即收回并逐日辨认时间损失相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S06-Q3-1",
+      "misconceptionId": "seneca--S06-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S06-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-06",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S06-Q4",
+      "kind": "binary",
+      "prompt": "“daily custody of time”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S06-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C2"
+          ]
+        },
+        {
+          "id": "seneca--S06-Q4-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S06-Q4-2",
+      "misconceptionId": "seneca--S06-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S06-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S06-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-06",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-Q1",
+      "kind": "binary",
+      "prompt": "关于“premeditation of feared outcomes”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S07-Q1-1",
+          "text": "准确：Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。",
+          "feedback": "正确项“准确：Letter 24 要求把恐惧的结局具体想完，从反复预演的想象灾难中取回判断，而不是许诺命运会放过自己。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-24"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C1"
+          ]
+        },
+        {
+          "id": "seneca--S07-Q1-2",
+          "text": "Letter 24 通过保证可怕结局不会发生来解除恐惧，因此不必具体设想死亡或痛苦。",
+          "feedback": "错误项“Letter 24 通过保证可怕结局不会发生来解除恐惧，因此不必具体设想死亡或痛苦。”把完成恐惧预演的练习误写成命运保证。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-24"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S07-Q1-1",
+      "misconceptionId": "seneca--S07-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-24"
+      ],
+      "objectNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S07-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-07",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-Q2",
+      "kind": "binary",
+      "prompt": "“premeditation of feared outcomes”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S07-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-24"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C1"
+          ]
+        },
+        {
+          "id": "seneca--S07-Q2-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-24"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S07-Q2-2",
+      "misconceptionId": "seneca--S07-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-24"
+      ],
+      "objectNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S07-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S07-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-07",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-Q3",
+      "kind": "binary",
+      "prompt": "关于“death as test of philosophy”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S07-Q3-1",
+          "text": "准确：Letter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。",
+          "feedback": "正确项“准确：Letter 26 把面对死亡视为哲学是否进入生活的检验；死亡意识因此校正现在的使用方式。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-26"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C2"
+          ]
+        },
+        {
+          "id": "seneca--S07-Q3-2",
+          "text": "Letter 26 把死亡思考视为脱离现实生活的纯理论练习，与当下如何生活无关。",
+          "feedback": "错误项“Letter 26 把死亡思考视为脱离现实生活的纯理论练习，与当下如何生活无关。”抹去了死亡作为哲学是否进入生活之检验的功能。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-26"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S07-Q3-1",
+      "misconceptionId": "seneca--S07-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-26"
+      ],
+      "objectNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S07-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-07",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S07-Q4",
+      "kind": "binary",
+      "prompt": "“death as test of philosophy”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S07-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-26"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C2"
+          ]
+        },
+        {
+          "id": "seneca--S07-Q4-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-26"
+          ],
+          "claimNodeIds": [
+            "seneca--S07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S07-Q4-2",
+      "misconceptionId": "seneca--S07-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-26"
+      ],
+      "objectNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S07-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S07-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-07",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S08-Q1",
+      "kind": "binary",
+      "prompt": "关于“philosophical access to past time”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S08-Q1-1",
+          "text": "准确：De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。",
+          "feedback": "正确项“准确：De Brevitate Vitae 14–15 认为哲学学习使人能够同前代思想者交往，从而不把时间缩成眼前事务。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C1"
+          ]
+        },
+        {
+          "id": "seneca--S08-Q1-2",
+          "text": "De Brevitate Vitae 14–15 要求人只处理眼前事务，避免通过前代思想者扩展时间经验。",
+          "feedback": "错误项“De Brevitate Vitae 14–15 要求人只处理眼前事务，避免通过前代思想者扩展时间经验。”与哲学学习使人同前代思想者交往的论述相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S08-Q1-1",
+      "misconceptionId": "seneca--S08-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14"
+      ],
+      "objectNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S08-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-08",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S08-Q2",
+      "kind": "binary",
+      "prompt": "“philosophical access to past time”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S08-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C1"
+          ]
+        },
+        {
+          "id": "seneca--S08-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S08-Q2-2",
+      "misconceptionId": "seneca--S08-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14"
+      ],
+      "objectNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S08-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S08-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-08",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S08-Q3",
+      "kind": "binary",
+      "prompt": "关于“philosophical and consolatory time”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S08-Q3-1",
+          "text": "准确：De Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。",
+          "feedback": "正确项“准确：De Brevitate Vitae 与《致玛尔西娅安慰书》分别从哲学交往和哀悼处境扩展时间视野；这不是延长生理寿命，而是重新安排人与过去、现在和死亡的关系。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14",
+            "seneca--src-marcia-19"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C2"
+          ]
+        },
+        {
+          "id": "seneca--S08-Q3-2",
+          "text": "两部作品都声称哲学与安慰可以实际延长生理寿命，所以无需重整人与过去和死亡的关系。",
+          "feedback": "错误项“两部作品都声称哲学与安慰可以实际延长生理寿命，所以无需重整人与过去和死亡的关系。”把时间视野的重排误写成生理寿命的增加。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14",
+            "seneca--src-marcia-19"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S08-Q3-1",
+      "misconceptionId": "seneca--S08-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14",
+        "seneca--src-marcia-19"
+      ],
+      "objectNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S08-Q4",
+      "kind": "binary",
+      "prompt": "“philosophical and consolatory time”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S08-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14",
+            "seneca--src-marcia-19"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C2"
+          ]
+        },
+        {
+          "id": "seneca--S08-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-brev-14",
+            "seneca--src-marcia-19"
+          ],
+          "claimNodeIds": [
+            "seneca--S08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S08-Q4-2",
+      "misconceptionId": "seneca--S08-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-brev-14",
+        "seneca--src-marcia-19"
+      ],
+      "objectNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S08-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S09-Q1",
+      "kind": "binary",
+      "prompt": "关于“adversity as exercise”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S09-Q1-1",
+          "text": "准确：De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。",
+          "feedback": "正确项“准确：De Providentia 把困难比作训练场：外在受挫能够暴露并锻炼品格，却不因此自动成为善。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C1"
+          ]
+        },
+        {
+          "id": "seneca--S09-Q1-2",
+          "text": "De Providentia 认为遭遇外在困难本身就是善，并足以证明承受者已经有德。",
+          "feedback": "错误项“De Providentia 认为遭遇外在困难本身就是善，并足以证明承受者已经有德。”把可用于锻炼品格的材料误升格为自动的善与德性证明。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S09-Q1-1",
+      "misconceptionId": "seneca--S09-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S09-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-09",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S09-Q2",
+      "kind": "binary",
+      "prompt": "“adversity as exercise”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S09-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C1"
+          ]
+        },
+        {
+          "id": "seneca--S09-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S09-Q2-2",
+      "misconceptionId": "seneca--S09-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S09-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S09-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-09",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S09-Q3",
+      "kind": "binary",
+      "prompt": "关于“anti-romanticization of suffering”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S09-Q3-1",
+          "text": "准确：路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。",
+          "feedback": "正确项“准确：路线必须保留限制：受苦本身不证明一个人有德，也不能用“命运训练”替他人的伤害开脱。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2",
+            "seneca--src-sep-stoicism"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C2"
+          ]
+        },
+        {
+          "id": "seneca--S09-Q3-2",
+          "text": "既然逆境能训练品格，便可用“命运训练”替施害者开脱，并从受苦直接推断德性。",
+          "feedback": "错误项“既然逆境能训练品格，便可用“命运训练”替施害者开脱，并从受苦直接推断德性。”违反了路线对施害责任和受苦不自动证明德性的双重限制。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2",
+            "seneca--src-sep-stoicism"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S09-Q3-1",
+      "misconceptionId": "seneca--S09-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2",
+        "seneca--src-sep-stoicism"
+      ],
+      "objectNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S09-Q4",
+      "kind": "binary",
+      "prompt": "“anti-romanticization of suffering”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S09-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2",
+            "seneca--src-sep-stoicism"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C2"
+          ]
+        },
+        {
+          "id": "seneca--S09-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-prov-2",
+            "seneca--src-sep-stoicism"
+          ],
+          "claimNodeIds": [
+            "seneca--S09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S09-Q4-2",
+      "misconceptionId": "seneca--S09-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-prov-2",
+        "seneca--src-sep-stoicism"
+      ],
+      "objectNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S09-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S10-Q1",
+      "kind": "binary",
+      "prompt": "关于“Cleanthes quotation and fate”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S10-Q1-1",
+          "text": "准确：Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。",
+          "feedback": "正确项“准确：Letter 107 引用并翻译 Cleanthes 的诗句来表达随从必然性的操练；被引诗属于早期斯多亚人物，不应改写成 Seneca 原创。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C1"
+          ]
+        },
+        {
+          "id": "seneca--S10-Q1-2",
+          "text": "Letter 107 中关于随从必然性的诗句是 Seneca 原创，Cleanthes 与该引文无关。",
+          "feedback": "错误项“Letter 107 中关于随从必然性的诗句是 Seneca 原创，Cleanthes 与该引文无关。”错误抹去了 Letter 107 明示的 Cleanthes 作者身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S10-Q1-1",
+      "misconceptionId": "seneca--S10-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107"
+      ],
+      "objectNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S10-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-10",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S10-Q2",
+      "kind": "binary",
+      "prompt": "“Cleanthes quotation and fate”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S10-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C1"
+          ]
+        },
+        {
+          "id": "seneca--S10-Q2-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S10-Q2-2",
+      "misconceptionId": "seneca--S10-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107"
+      ],
+      "objectNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S10-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S10-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-10",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S10-Q3",
+      "kind": "binary",
+      "prompt": "关于“Seneca appropriation of shared doctrine”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S10-Q3-1",
+          "text": "准确：Seneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。",
+          "feedback": "正确项“准确：Seneca 选择、翻译并部署这段共有传统，是他自己的实践性取用；引文作者与使用者必须同时可见。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C2"
+          ]
+        },
+        {
+          "id": "seneca--S10-Q3-2",
+          "text": "这段诗只有 Seneca 的使用方式重要，原作者 Cleanthes 的身份可以从解释中删除。",
+          "feedback": "错误项“这段诗只有 Seneca 的使用方式重要，原作者 Cleanthes 的身份可以从解释中删除。”破坏了引文作者与选择、翻译、部署者必须同时可见的归属边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S10-Q3-1",
+      "misconceptionId": "seneca--S10-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107",
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S10-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S10-Q4",
+      "kind": "binary",
+      "prompt": "“Seneca appropriation of shared doctrine”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S10-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C2"
+          ]
+        },
+        {
+          "id": "seneca--S10-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-107",
+            "seneca--src-dl-stoics"
+          ],
+          "claimNodeIds": [
+            "seneca--S10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S10-Q4-2",
+      "misconceptionId": "seneca--S10-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-107",
+        "seneca--src-dl-stoics"
+      ],
+      "objectNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S10-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S10-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S11-Q1",
+      "kind": "binary",
+      "prompt": "关于“self-sufficiency with friendship”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S11-Q1-1",
+          "text": "准确：Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。",
+          "feedback": "正确项“准确：Letter 9 的自足并不取消友谊：贤者不是因匮乏而利用朋友，却仍主动寻求、建立并维护友谊。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C1"
+          ]
+        },
+        {
+          "id": "seneca--S11-Q1-2",
+          "text": "Letter 9 的自足要求贤者拒绝建立友谊，因为寻求朋友必然表明德性不足。",
+          "feedback": "错误项“Letter 9 的自足要求贤者拒绝建立友谊，因为寻求朋友必然表明德性不足。”与贤者仍主动寻求、建立并维护友谊的论述相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S11-Q1-1",
+      "misconceptionId": "seneca--S11-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "objectNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S11-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-11",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S11-Q2",
+      "kind": "binary",
+      "prompt": "“self-sufficiency with friendship”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S11-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C1"
+          ]
+        },
+        {
+          "id": "seneca--S11-Q2-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S11-Q2-2",
+      "misconceptionId": "seneca--S11-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "objectNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S11-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S11-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-11",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S11-Q3",
+      "kind": "binary",
+      "prompt": "关于“self-sufficiency boundary”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S11-Q3-1",
+          "text": "准确：因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。",
+          "feedback": "正确项“准确：因此，“不依赖朋友才能幸福”不能被偷换为冷漠、孤立或拒绝互惠关系。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C2"
+          ]
+        },
+        {
+          "id": "seneca--S11-Q3-2",
+          "text": "不依赖朋友才能幸福等同于避免亲密、互惠与照料，孤立是贤者的积极目标。",
+          "feedback": "错误项“不依赖朋友才能幸福等同于避免亲密、互惠与照料，孤立是贤者的积极目标。”把幸福不以朋友为必要条件偷换成拒绝友谊关系。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S11-Q3-1",
+      "misconceptionId": "seneca--S11-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "objectNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S11-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-11",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S11-Q4",
+      "kind": "binary",
+      "prompt": "“self-sufficiency boundary”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S11-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C2"
+          ]
+        },
+        {
+          "id": "seneca--S11-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-9"
+          ],
+          "claimNodeIds": [
+            "seneca--S11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S11-Q4-2",
+      "misconceptionId": "seneca--S11-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-9"
+      ],
+      "objectNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S11-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S11-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-11",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S12-Q1",
+      "kind": "binary",
+      "prompt": "关于“benefit as intention and act”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S12-Q1-1",
+          "text": "准确：De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。",
+          "feedback": "正确项“准确：De Beneficiis I 把恩惠定位在给予者的善意与行动，而不只是转手的物品；同一物品可能以不同方式给出。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-benef-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C1"
+          ]
+        },
+        {
+          "id": "seneca--S12-Q1-2",
+          "text": "De Beneficiis I 认为恩惠只等于转手物品的市场价值，给予者的意图与行动方式无关。",
+          "feedback": "错误项“De Beneficiis I 认为恩惠只等于转手物品的市场价值，给予者的意图与行动方式无关。”与作品把恩惠定位于善意与行动的论述相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-benef-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S12-Q1-1",
+      "misconceptionId": "seneca--S12-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-benef-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S12-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-12",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S12-Q2",
+      "kind": "binary",
+      "prompt": "“benefit as intention and act”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S12-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-benef-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C1"
+          ]
+        },
+        {
+          "id": "seneca--S12-Q2-2",
+          "text": "保留 seneca-primary 声部、benefits-treatise 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、benefits-treatise 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-benef-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S12-Q2-2",
+      "misconceptionId": "seneca--S12-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-benef-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S12-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S12-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-12",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S12-Q3",
+      "kind": "binary",
+      "prompt": "关于“manner of giving”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S12-Q3-1",
+          "text": "准确：De Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。",
+          "feedback": "正确项“准确：De Beneficiis II 进一步说明迟疑、羞辱或炫耀会败坏给予方式，故恩惠不能简化成等额偿债。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-benef-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C2"
+          ]
+        },
+        {
+          "id": "seneca--S12-Q3-2",
+          "text": "只要物品价值相等，迟疑、羞辱或炫耀都不会影响恩惠，给予就是等额偿债。",
+          "feedback": "错误项“只要物品价值相等，迟疑、羞辱或炫耀都不会影响恩惠，给予就是等额偿债。”否认了 De Beneficiis II 对给予方式会败坏恩惠的分析。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-benef-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S12-Q3-1",
+      "misconceptionId": "seneca--S12-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-benef-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S12-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-12",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S12-Q4",
+      "kind": "binary",
+      "prompt": "“manner of giving”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S12-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-benef-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C2"
+          ]
+        },
+        {
+          "id": "seneca--S12-Q4-2",
+          "text": "保留 seneca-primary 声部、benefits-treatise 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、benefits-treatise 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-benef-2"
+          ],
+          "claimNodeIds": [
+            "seneca--S12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S12-Q4-2",
+      "misconceptionId": "seneca--S12-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-benef-2"
+      ],
+      "objectNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S12-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S12-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-12",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S13-Q1",
+      "kind": "binary",
+      "prompt": "关于“human fellowship under slavery”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S13-Q1-1",
+          "text": "准确：Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。",
+          "feedback": "正确项“准确：Letter 47 在罗马奴隶制内部要求把被奴役者当作同属人类、同受命运支配的交往者。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-47"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C1"
+          ]
+        },
+        {
+          "id": "seneca--S13-Q1-2",
+          "text": "Letter 47 把被奴役者排除在人类共同体之外，并主张命运只支配奴隶、不支配主人。",
+          "feedback": "错误项“Letter 47 把被奴役者排除在人类共同体之外，并主张命运只支配奴隶、不支配主人。”颠倒了信中关于共同人性与命运同样支配自由人和奴隶的论述。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-47"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S13-Q1-1",
+      "misconceptionId": "seneca--S13-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-47"
+      ],
+      "objectNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S13-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-13",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S13-Q2",
+      "kind": "binary",
+      "prompt": "“human fellowship under slavery”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S13-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-47"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C1"
+          ]
+        },
+        {
+          "id": "seneca--S13-Q2-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-47"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S13-Q2-2",
+      "misconceptionId": "seneca--S13-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-47"
+      ],
+      "objectNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S13-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S13-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-13",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S13-Q3",
+      "kind": "binary",
+      "prompt": "关于“historical limit of Letter 47”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S13-Q3-1",
+          "text": "准确：现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。",
+          "feedback": "正确项“准确：现代路线可以肯定其道德扩张，同时不能把这封信误写成现代废奴宣言或抹去其罗马制度语境。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C2"
+          ]
+        },
+        {
+          "id": "seneca--S13-Q3-2",
+          "text": "Letter 47 已要求废除罗马奴隶制度，因此可以直接称作符合现代意义的废奴宣言。",
+          "feedback": "错误项“Letter 47 已要求废除罗马奴隶制度，因此可以直接称作符合现代意义的废奴宣言。”超出了 Case 2024 明确保留的非废奴主义者边界，并抹去了罗马奴隶制语境。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S13-Q3-1",
+      "misconceptionId": "seneca--S13-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "objectNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S13-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "seneca--seneca-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S13-Q4",
+      "kind": "binary",
+      "prompt": "“historical limit of Letter 47”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S13-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C2"
+          ]
+        },
+        {
+          "id": "seneca--S13-Q4-2",
+          "text": "保留 modern-interpretation 声部、modern-scholarship 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 modern-interpretation 声部、modern-scholarship 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-sep-seneca"
+          ],
+          "claimNodeIds": [
+            "seneca--S13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S13-Q4-2",
+      "misconceptionId": "seneca--S13-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-sep-seneca"
+      ],
+      "objectNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S13-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S13-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "seneca--seneca-13",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "seneca--S14-Q1",
+      "kind": "binary",
+      "prompt": "关于“wealth without sovereignty”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S14-Q1-1",
+          "text": "准确：De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。",
+          "feedback": "正确项“准确：De Vita Beata 允许拥有财富，却拒绝让财富成为最高善或人格的主人；问题落在使用与依附关系。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-vb-22"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C1"
+          ]
+        },
+        {
+          "id": "seneca--S14-Q1-2",
+          "text": "De Vita Beata 断言拥有任何财富本身都与德性冲突，只有彻底无产者才可能幸福。",
+          "feedback": "错误项“De Vita Beata 断言拥有任何财富本身都与德性冲突，只有彻底无产者才可能幸福。”把对财富之使用与依附的限制误写成对一切占有的禁令。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-vb-22"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S14-Q1-1",
+      "misconceptionId": "seneca--S14-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-vb-22"
+      ],
+      "objectNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S14-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-14",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S14-Q2",
+      "kind": "binary",
+      "prompt": "“wealth without sovereignty”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S14-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-vb-22"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C1"
+          ]
+        },
+        {
+          "id": "seneca--S14-Q2-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-vb-22"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S14-Q2-2",
+      "misconceptionId": "seneca--S14-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-vb-22"
+      ],
+      "objectNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S14-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S14-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-14",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S14-Q3",
+      "kind": "binary",
+      "prompt": "关于“voluntary simplicity versus involuntary poverty”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S14-Q3-1",
+          "text": "准确：Letter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。",
+          "feedback": "正确项“准确：Letter 20 的简朴日练习用于检验欲望与恐惧，不是把非自愿贫困浪漫化为人人都该承受的治疗。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-20"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C2"
+          ]
+        },
+        {
+          "id": "seneca--S14-Q3-2",
+          "text": "Letter 20 的简朴练习证明非自愿贫困本身具有治疗性，因而人人都应被迫承受贫困。",
+          "feedback": "错误项“Letter 20 的简朴练习证明非自愿贫困本身具有治疗性，因而人人都应被迫承受贫困。”把自愿练习误用于浪漫化和强加非自愿贫困。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-20"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S14-Q3-1",
+      "misconceptionId": "seneca--S14-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-20"
+      ],
+      "objectNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S14-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-14",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S14-Q4",
+      "kind": "binary",
+      "prompt": "“voluntary simplicity versus involuntary poverty”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S14-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-20"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C2"
+          ]
+        },
+        {
+          "id": "seneca--S14-Q4-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-20"
+          ],
+          "claimNodeIds": [
+            "seneca--S14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S14-Q4-2",
+      "misconceptionId": "seneca--S14-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-20"
+      ],
+      "objectNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S14-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S14-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-14",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S15-Q1",
+      "kind": "binary",
+      "prompt": "关于“philosophy as conduct and review”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S15-Q1-1",
+          "text": "准确：Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。",
+          "feedback": "正确项“准确：Letter 16 要求哲学塑造行动规则而非充当言辞装饰；Letter 83 的每日回顾把这种要求落实为可重复检查。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-16",
+            "seneca--src-ep-83"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C1"
+          ]
+        },
+        {
+          "id": "seneca--S15-Q1-2",
+          "text": "Letter 16 把哲学主要当作辞藻装饰，Letter 83 也反对以每日回顾检查自己的行动。",
+          "feedback": "错误项“Letter 16 把哲学主要当作辞藻装饰，Letter 83 也反对以每日回顾检查自己的行动。”同时颠倒了行动规则与每日复查这两项实践要求。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-16",
+            "seneca--src-ep-83"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S15-Q1-1",
+      "misconceptionId": "seneca--S15-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-16",
+        "seneca--src-ep-83"
+      ],
+      "objectNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S15-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-15",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S15-Q2",
+      "kind": "binary",
+      "prompt": "“philosophy as conduct and review”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S15-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-16",
+            "seneca--src-ep-83"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C1"
+          ]
+        },
+        {
+          "id": "seneca--S15-Q2-2",
+          "text": "保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、moral-letter 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-16",
+            "seneca--src-ep-83"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S15-Q2-2",
+      "misconceptionId": "seneca--S15-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-16",
+        "seneca--src-ep-83"
+      ],
+      "objectNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S15-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S15-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-15",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S15-Q3",
+      "kind": "binary",
+      "prompt": "关于“precept doctrine and natural perspective”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S15-Q3-1",
+          "text": "准确：Letters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。",
+          "feedback": "正确项“准确：Letters 94–95 讨论教义与劝诫的配合，《自然问题》则把自然研究接回道德视野：哲学实践既需要判断框架，也需要改变日常尺度。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-94",
+            "seneca--src-ep-95",
+            "seneca--src-nq-pref"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C2"
+          ]
+        },
+        {
+          "id": "seneca--S15-Q3-2",
+          "text": "Letters 94–95 要求在教义与劝诫之间二选一，《自然问题》则与道德实践完全无关。",
+          "feedback": "错误项“Letters 94–95 要求在教义与劝诫之间二选一，《自然问题》则与道德实践完全无关。”否认了教义与劝诫的配合，也切断了自然研究与道德尺度的联系。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-94",
+            "seneca--src-ep-95",
+            "seneca--src-nq-pref"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S15-Q3-1",
+      "misconceptionId": "seneca--S15-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-94",
+        "seneca--src-ep-95",
+        "seneca--src-nq-pref"
+      ],
+      "objectNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S15-Q4",
+      "kind": "binary",
+      "prompt": "“precept doctrine and natural perspective”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S15-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-ep-94",
+            "seneca--src-ep-95",
+            "seneca--src-nq-pref"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C2"
+          ]
+        },
+        {
+          "id": "seneca--S15-Q4-2",
+          "text": "保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 route-synthesis 声部、route-synthesis 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-ep-94",
+            "seneca--src-ep-95",
+            "seneca--src-nq-pref"
+          ],
+          "claimNodeIds": [
+            "seneca--S15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S15-Q4-2",
+      "misconceptionId": "seneca--S15-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-ep-94",
+        "seneca--src-ep-95",
+        "seneca--src-nq-pref"
+      ],
+      "objectNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S15-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "seneca--seneca-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "seneca--S16-Q1",
+      "kind": "binary",
+      "prompt": "关于“counsel to Nero under imperial power”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S16-Q1-1",
+          "text": "准确：De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。",
+          "feedback": "正确项“准确：De Clementia 面向 Nero 的统治权力提出克制性劝诫；这是特定政治关系中的规劝文本，不是对 Nero 历史统治结果的认证。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-clem-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C1"
+          ]
+        },
+        {
+          "id": "seneca--S16-Q1-2",
+          "text": "De Clementia 是对 Nero 实际统治已经仁慈的历史认证，而不是面向权力的规范性劝诫。",
+          "feedback": "错误项“De Clementia 是对 Nero 实际统治已经仁慈的历史认证，而不是面向权力的规范性劝诫。”把特定政治关系中的劝诫误当成统治结果的历史证明。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-clem-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S16-Q1-1",
+      "misconceptionId": "seneca--S16-Q1-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-clem-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S16-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-16",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S16-Q2",
+      "kind": "binary",
+      "prompt": "“counsel to Nero under imperial power”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "options": [
+        {
+          "id": "seneca--S16-Q2-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-clem-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C1"
+          ]
+        },
+        {
+          "id": "seneca--S16-Q2-2",
+          "text": "保留 seneca-primary 声部、political-treatise 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、political-treatise 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-clem-1"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S16-Q2-2",
+      "misconceptionId": "seneca--S16-Q2-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-clem-1"
+      ],
+      "objectNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S16-C1"
+      ],
+      "targetParagraphIds": [
+        "seneca--S16-P1"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-16",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S16-Q3",
+      "kind": "binary",
+      "prompt": "关于“retirement as alternate service”，哪项由当前证据直接支持？",
+      "targetNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S16-Q3-1",
+          "text": "准确：De Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。",
+          "feedback": "正确项“准确：De Otio 与 De Tranquillitate 允许人在环境阻断时转换服务形式：退隐仍可面向更大共同体，而非把无所作为神圣化。”保持了当前 claim 的对象、声部和 locator。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-otio",
+            "seneca--src-tranq-4"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C2"
+          ]
+        },
+        {
+          "id": "seneca--S16-Q3-2",
+          "text": "De Otio 与 De Tranquillitate 把退隐等同于停止一切服务，并把无所作为本身神圣化。",
+          "feedback": "错误项“De Otio 与 De Tranquillitate 把退隐等同于停止一切服务，并把无所作为本身神圣化。”否认了环境受阻时仍可转向更大共同体的替代服务。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-otio",
+            "seneca--src-tranq-4"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S16-Q3-1",
+      "misconceptionId": "seneca--S16-Q3-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-otio",
+        "seneca--src-tranq-4"
+      ],
+      "objectNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S16-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-16",
+      "voice": "seneca-primary"
+    },
+    {
+      "id": "seneca--S16-Q4",
+      "kind": "binary",
+      "prompt": "“retirement as alternate service”的证据边界应如何保存？",
+      "targetNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "options": [
+        {
+          "id": "seneca--S16-Q4-1",
+          "text": "取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。",
+          "feedback": "错误项“取消边界，把共有学说、历史叙述、现代解释或路线综合当成 Seneca 直接自述。”制造了当前材料明确禁止的声部或归属混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "seneca--src-otio",
+            "seneca--src-tranq-4"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C2"
+          ]
+        },
+        {
+          "id": "seneca--S16-Q4-2",
+          "text": "保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。",
+          "feedback": "正确项“保留 seneca-primary 声部、dialogue 文类与当前 source locator 的边界。”与当前 claim 的 source、voice 和 genre 闭合。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "seneca--src-otio",
+            "seneca--src-tranq-4"
+          ],
+          "claimNodeIds": [
+            "seneca--S16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "seneca--S16-Q4-2",
+      "misconceptionId": "seneca--S16-Q4-misconception",
+      "evidenceLinkIds": [
+        "seneca--src-otio",
+        "seneca--src-tranq-4"
+      ],
+      "objectNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "seneca--S16-C2"
+      ],
+      "targetParagraphIds": [
+        "seneca--S16-P2"
+      ],
+      "targetVoices": [
+        "seneca-primary"
+      ],
+      "lessonId": "seneca--seneca-16",
+      "voice": "seneca-primary"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

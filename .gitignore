@@ -1,0 +1,41 @@
+# .NET build output
+**/bin/
+**/obj/
+artifacts/
+
+# Visual Studio / IDE state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Test and coverage output
+TestResults/
+coverage/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs, binary logs, temporary and staging output
+*.log
+*.binlog
+*.tmp
+*.temp
+*.zip
+work/
+outputs/
+tools/work/
+tools/regression-audit/work/
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+secrets.json
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

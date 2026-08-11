@@ -1,0 +1,4651 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "node-marx-01",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "国家的理念为何不能替现实和解",
+      "explanation": "马克思从黑格尔那里保留内在矛盾、社会整体与历史生成的问题，却拒绝让国家理念替现实关系完成和解；批判必须追问谁在何种物质关系中行动。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-01-src-hegel-right-critique",
+        "ev-marx-01-src-hegel-right-intro",
+        "ev-marx-01-src-1859-preface",
+        "ev-marx-01-src-brumaire"
+      ],
+      "abilityIds": [
+        "distinguish-concept-reality",
+        "trace-immanent-critique",
+        "separate-early-mature"
+      ]
+    },
+    {
+      "id": "node-marx-02",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "批判宗教之后为何还需要改变生活",
+      "explanation": "马克思借费尔巴哈把神圣力量还给人，却进一步指出抽象的“人”不能解释现实分裂；实践是受条件塑造又能改变条件的感性社会活动。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-02-src-hegel-right-intro",
+        "ev-marx-02-src-theses-feuerbach",
+        "ev-marx-02-src-german-ideology",
+        "ev-marx-02-src-1844-manuscripts"
+      ],
+      "abilityIds": [
+        "explain-religion-practice",
+        "distinguish-feuerbach-marx",
+        "avoid-contemplative-materialism"
+      ]
+    },
+    {
+      "id": "node-marx-03",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "劳动怎样在四种关系中与人分离",
+      "explanation": "一八四四年手稿从产品、生产活动、人的类能力和人与人关系说明异化；它揭示劳动经验的关系结构，却不能与成熟的剩余价值理论等同。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-03-src-1844-manuscripts",
+        "ev-marx-03-src-hegel-right-intro",
+        "ev-marx-03-src-theses-feuerbach",
+        "ev-marx-03-src-capital-v1-ch6-9"
+      ],
+      "abilityIds": [
+        "map-four-alienations",
+        "distinguish-objectification-alienation",
+        "separate-alienation-exploitation"
+      ]
+    },
+    {
+      "id": "node-marx-04",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "历史唯物主义不是经济自动剧本",
+      "explanation": "历史唯物主义从现实生产和再生产关系解释社会形式，但“制约”不是机械决定；矛盾必须通过阶级形成、政治组织、法律斗争与历史继承被实际处理。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-04-src-german-ideology",
+        "ev-marx-04-src-1859-preface",
+        "ev-marx-04-src-poverty-philosophy",
+        "ev-marx-04-src-brumaire",
+        "ev-marx-04-src-grundrisse"
+      ],
+      "abilityIds": [
+        "reconstruct-historical-materialism",
+        "reject-tech-determinism",
+        "trace-mediation"
+      ]
+    },
+    {
+      "id": "node-marx-05",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "阶级位置怎样变成政治力量",
+      "explanation": "阶级首先是对生产条件和剩余劳动的关系位置，却只有经过组织、代表与斗争才形成政治能力；生产力和生产关系的冲突必须由具体集体承担。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-05-src-manifesto",
+        "ev-marx-05-src-brumaire",
+        "ev-marx-05-src-german-ideology",
+        "ev-marx-05-src-capital-v1-ch6-9",
+        "ev-marx-05-src-civil-war-france"
+      ],
+      "abilityIds": [
+        "define-class-relation",
+        "distinguish-class-organization",
+        "analyze-political-mediation"
+      ]
+    },
+    {
+      "id": "node-marx-06",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "商品为什么会遮住人的社会劳动",
+      "explanation": "商品具有使用价值与价值的双重规定；价值量由社会必要劳动时间约束，价值必须在另一商品中取得形式，拜物教由私人劳动借物的关系成为社会劳动而产生。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-06-src-capital-v1-ch1",
+        "ev-marx-06-src-1859-preface",
+        "ev-marx-06-src-grundrisse",
+        "ev-marx-06-src-poverty-philosophy"
+      ],
+      "abilityIds": [
+        "distinguish-use-value-value",
+        "explain-value-form",
+        "diagnose-fetishism"
+      ]
+    },
+    {
+      "id": "node-marx-07",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "劳动力商品如何揭开剩余价值",
+      "explanation": "劳动力的价值由其再生产所需生活资料的社会劳动约束，使用价值却是创造新价值；必要劳动与剩余劳动的分割使等价交换与剥削能够同时成立。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-07-src-capital-v1-ch6-9",
+        "ev-marx-07-src-capital-v1-ch10",
+        "ev-marx-07-src-1844-manuscripts",
+        "ev-marx-07-src-gotha"
+      ],
+      "abilityIds": [
+        "explain-labour-power",
+        "derive-surplus-value",
+        "distinguish-exploitation-unfair-exchange"
+      ]
+    },
+    {
+      "id": "node-marx-08",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "机器、工作日与斗争怎样改写生产",
+      "explanation": "绝对与相对剩余价值是两种增殖路径；机器的社会效果由资本控制下的使用方式塑造，工作日界限则经工人斗争和法律形成。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-08-src-capital-v1-ch10",
+        "ev-marx-08-src-capital-v1-ch12-15",
+        "ev-marx-08-src-capital-v1-ch6-9",
+        "ev-marx-08-src-manifesto"
+      ],
+      "abilityIds": [
+        "distinguish-surplus-strategies",
+        "analyze-machinery-capital",
+        "explain-working-day-struggle"
+      ]
+    },
+    {
+      "id": "node-marx-09",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "积累为何同时扩大财富与不安全",
+      "explanation": "资本再生产不仅重复物品流通，也重复资本与雇佣劳动关系；积累改变资本构成并产生相对过剩人口，危机由生产、实现、信用和部门比例的矛盾共同形成。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-09-src-capital-v1-ch23-25",
+        "ev-marx-09-src-capital-v2",
+        "ev-marx-09-src-capital-v3",
+        "ev-marx-09-src-capital-v1-ch1",
+        "ev-marx-09-src-grundrisse"
+      ],
+      "abilityIds": [
+        "explain-reproduction",
+        "analyze-reserve-army",
+        "bound-crisis-immiseration"
+      ]
+    },
+    {
+      "id": "node-marx-10",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "资本为什么必须不断变换形态",
+      "explanation": "资本不是停驻在货币、机器或库存中的单一物，而是价值依次采取货币资本、生产资本和商品资本形态并返回增殖货币的运动。三种循环从不同起点显示同一运动，周转则把生产时间、流通时间和价值回流接成年度过程。固定资本与流动资本按价值怎样转移和返回划分，不能同不变资本与可变资本混同。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-10-src-capital-v2-circuits",
+        "ev-marx-10-src-capital-v2-turnover",
+        "ev-marx-10-src-capital-v1-ch6-9"
+      ],
+      "abilityIds": [
+        "trace-capital-circuits",
+        "analyze-turnover",
+        "separate-capital-classifications"
+      ]
+    },
+    {
+      "id": "node-marx-11",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "个别资本卖得出去，社会整体为何仍可能卡住",
+      "explanation": "社会总资本再生产不只要求商品在价值上售出，还要求生产资料与消费资料在物质用途上进入恰当位置。马克思用两大部类分析简单再生产和扩大再生产的交换条件。图式揭示比例和实现依赖，不证明市场自动均衡，也不是一份中央配给公式。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-11-src-capital-v2-reproduction",
+        "ev-marx-11-src-capital-v2-circuits",
+        "ev-marx-11-src-capital-v1-ch23-25"
+      ],
+      "abilityIds": [
+        "analyze-total-social-capital",
+        "separate-value-material-replacement",
+        "bound-realization-model"
+      ]
+    },
+    {
+      "id": "node-marx-12",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "剩余价值为什么在竞争中看起来像资本自然结出的利润",
+      "explanation": "剩余价值先表现为商品价值超过成本价格的余额，再因同全部预付资本相比而转化为利润。竞争使资本在行业间流动，把社会总剩余价值按资本量重新分配为平均利润，商品因而以成本价格加平均利润的生产价格为中心运动。这个转化解释表象，也留下投入价格与总量关系的长期争议。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-12-src-capital-v3-profit-production-price",
+        "ev-marx-12-src-capital-v1-ch1",
+        "ev-marx-12-src-capital-v1-ch6-9"
+      ],
+      "abilityIds": [
+        "derive-profit-form",
+        "explain-production-prices",
+        "bound-transformation-dispute"
+      ]
+    },
+    {
+      "id": "node-marx-13",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "利润率下降为何不是资本主义自动倒计时",
+      "explanation": "利润率把剩余价值同全部资本相比。若竞争推动生产资料相对活劳动增长，而剩余价值增幅不足以抵消总资本扩张，利润率会受到下降压力；利润总量仍可因资本规模扩大而增长。提高剥削程度、生产资料贬值、相对过剩人口、对外贸易等反作用会改变轨迹。趋势不是自动崩溃定律，危机也由多种机制相接。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-13-src-capital-v3-falling-rate",
+        "ev-marx-13-src-capital-v3-commercial-interest-credit",
+        "ev-marx-13-src-capital-v2-reproduction",
+        "ev-marx-13-src-capital-v1-ch23-25"
+      ],
+      "abilityIds": [
+        "derive-falling-rate-pressure",
+        "analyze-counteractions",
+        "bound-crisis-theory"
+      ]
+    },
+    {
+      "id": "node-marx-14",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "利润、利息和地租为什么像彼此独立的收入源",
+      "explanation": "商业资本承担商品和货币流通职能，从社会剩余价值中取得商业利润；利息生息资本把利润分成利息与企业主收入，使货币所有权表现为自行增殖；土地所有权又使部分剩余价值成为级差或绝对地租。三位一体公式把工资归于劳动、利润归于资本、地租归于土地，完成对历史社会关系的自然化遮蔽。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-14-src-capital-v3-commercial-interest-credit",
+        "ev-marx-14-src-capital-v3-ground-rent-trinity",
+        "ev-marx-14-src-capital-v3-profit-production-price",
+        "ev-marx-14-src-capital-v2-turnover"
+      ],
+      "abilityIds": [
+        "analyze-commercial-profit",
+        "analyze-interest-credit",
+        "analyze-rent-trinity"
+      ]
+    },
+    {
+      "id": "node-marx-15",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "政治解放为何真实却仍有限",
+      "explanation": "政治解放把人格从宗教与身份特权中解放出来，具有真实成就，却允许财产和私人依赖继续存在；国家、法律与意识形态既组织阶级关系，也具有相对自主和斗争空间。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-15-src-jewish-question",
+        "ev-marx-15-src-hegel-right-critique",
+        "ev-marx-15-src-brumaire",
+        "ev-marx-15-src-civil-war-france",
+        "ev-marx-15-src-1859-preface"
+      ],
+      "abilityIds": [
+        "distinguish-political-human-emancipation",
+        "analyze-state-autonomy",
+        "evaluate-rights-materially"
+      ]
+    },
+    {
+      "id": "node-marx-16",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "革命与过渡不能由几段文字封成蓝图",
+      "explanation": "巴黎公社使马克思强调打破官僚军事机器并以可罢免公共职能替代；无产阶级专政指过渡期阶级权力，却缺少完整制度细节，共产主义阶段论也只给原则边界。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-16-src-civil-war-france",
+        "ev-marx-16-src-gotha",
+        "ev-marx-16-src-manifesto",
+        "ev-marx-16-src-brumaire",
+        "ev-marx-16-src-capital-v1-ch23-25"
+      ],
+      "abilityIds": [
+        "bound-revolution-texts",
+        "explain-dictatorship-transition",
+        "distinguish-communist-phases"
+      ]
+    },
+    {
+      "id": "node-marx-17",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "在世界历史与当代批评中重画边界",
+      "explanation": "马克思把殖民暴力、奴隶制和自然条件纳入资本形成，并在查苏利奇草稿中拒绝把西欧路径普遍化；性别、种族和生态仍有显著盲点，需要后世扩展而不能倒写成作者完成理论。",
+      "identity": "project-reconstruction",
+      "evidenceLinkIds": [
+        "ev-marx-17-src-capital-v1-ch26-33",
+        "ev-marx-17-src-capital-v1-ch10",
+        "ev-marx-17-src-zasulich",
+        "ev-marx-17-src-ethnological-notebooks",
+        "ev-marx-17-src-manifesto",
+        "ev-marx-17-src-gotha",
+        "ev-marx-17-src-capital-v3"
+      ],
+      "abilityIds": [
+        "analyze-colonial-capital",
+        "bound-gender-ecology",
+        "separate-marx-marxisms"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "ev-marx-01-src-hegel-right-critique",
+      "workId": "《黑格尔法哲学批判》手稿",
+      "edition": "MECW 3；MIA 英译校对页",
+      "locator": "对《法哲学原理》国家部分的逐段评注，尤其 §§261–313",
+      "locatorVerified": true,
+      "identity": "marx-manuscript; unpublished-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-01-src-hegel-right-intro",
+      "workId": "《〈黑格尔法哲学批判〉导言》",
+      "edition": "Deutsch–Französische Jahrbücher 1844；MECW 3",
+      "locator": "从宗教批判转向法、政治与德国现实的全文",
+      "locatorVerified": true,
+      "identity": "marx-published-essay; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-01-src-1859-preface",
+      "workId": "《政治经济学批判》序言",
+      "edition": "柏林一八五九年初版；MECW 29",
+      "locator": "自述研究转向与生产关系、上层建筑、社会革命的概括段",
+      "locatorVerified": true,
+      "identity": "marx-published-preface; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-01-src-brumaire",
+      "workId": "《路易·波拿巴的雾月十八日》",
+      "edition": "一八五二年初版；马克思一八六九年第二版序言",
+      "locator": "第一章传统与行动；第三至七章阶级联盟、农民代表和国家机器",
+      "locatorVerified": true,
+      "identity": "marx-published-history; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-02-src-hegel-right-intro",
+      "workId": "《〈黑格尔法哲学批判〉导言》",
+      "edition": "Deutsch–Französische Jahrbücher 1844；MECW 3",
+      "locator": "从宗教批判转向法、政治与德国现实的全文",
+      "locatorVerified": true,
+      "identity": "marx-published-essay; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-02-src-theses-feuerbach",
+      "workId": "《关于费尔巴哈的提纲》",
+      "edition": "马克思一八四五年原稿；与恩格斯一八八八年编辑版对照",
+      "locator": "提纲一、二、三、六、八、十一",
+      "locatorVerified": true,
+      "identity": "marx-private-notes; posthumous-notes; paraphrase"
+    },
+    {
+      "id": "ev-marx-02-src-german-ideology",
+      "workId": "《德意志意识形态》",
+      "edition": "MECW 5；MIA 分段页",
+      "locator": "第一卷第一章“费尔巴哈”，现实前提、分工、意识形态和共产主义段落",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-02-src-1844-manuscripts",
+      "workId": "《一八四四年经济学哲学手稿》",
+      "edition": "MECW 3；MIA Milligan 英译",
+      "locator": "第一手稿“异化劳动”；第三手稿“私有财产与共产主义”“对黑格尔辩证法的批判”",
+      "locatorVerified": true,
+      "identity": "marx-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-03-src-1844-manuscripts",
+      "workId": "《一八四四年经济学哲学手稿》",
+      "edition": "MECW 3；MIA Milligan 英译",
+      "locator": "第一手稿“异化劳动”；第三手稿“私有财产与共产主义”“对黑格尔辩证法的批判”",
+      "locatorVerified": true,
+      "identity": "marx-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-03-src-hegel-right-intro",
+      "workId": "《〈黑格尔法哲学批判〉导言》",
+      "edition": "Deutsch–Französische Jahrbücher 1844；MECW 3",
+      "locator": "从宗教批判转向法、政治与德国现实的全文",
+      "locatorVerified": true,
+      "identity": "marx-published-essay; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-03-src-theses-feuerbach",
+      "workId": "《关于费尔巴哈的提纲》",
+      "edition": "马克思一八四五年原稿；与恩格斯一八八八年编辑版对照",
+      "locator": "提纲一、二、三、六、八、十一",
+      "locatorVerified": true,
+      "identity": "marx-private-notes; posthumous-notes; paraphrase"
+    },
+    {
+      "id": "ev-marx-03-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-04-src-german-ideology",
+      "workId": "《德意志意识形态》",
+      "edition": "MECW 5；MIA 分段页",
+      "locator": "第一卷第一章“费尔巴哈”，现实前提、分工、意识形态和共产主义段落",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-04-src-1859-preface",
+      "workId": "《政治经济学批判》序言",
+      "edition": "柏林一八五九年初版；MECW 29",
+      "locator": "自述研究转向与生产关系、上层建筑、社会革命的概括段",
+      "locatorVerified": true,
+      "identity": "marx-published-preface; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-04-src-poverty-philosophy",
+      "workId": "《哲学的贫困》",
+      "edition": "法文初版一八四七；MECW 6",
+      "locator": "第二章第一节“方法”与政治经济学范畴的历史性",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-04-src-brumaire",
+      "workId": "《路易·波拿巴的雾月十八日》",
+      "edition": "一八五二年初版；马克思一八六九年第二版序言",
+      "locator": "第一章传统与行动；第三至七章阶级联盟、农民代表和国家机器",
+      "locatorVerified": true,
+      "identity": "marx-published-history; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-04-src-grundrisse",
+      "workId": "《政治经济学批判大纲》",
+      "edition": "一八五七至一八五八年手稿；MECW 28–29",
+      "locator": "导言“政治经济学的方法”；资本部分；前资本主义生产形式",
+      "locatorVerified": true,
+      "identity": "marx-research-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-05-src-manifesto",
+      "workId": "《共产党宣言》",
+      "edition": "德文一八四八年版；一八八八年英译版序言",
+      "locator": "第一章资产者和无产者；第二章无产者和共产党人；一八七二年德文版序言",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-published; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-05-src-brumaire",
+      "workId": "《路易·波拿巴的雾月十八日》",
+      "edition": "一八五二年初版；马克思一八六九年第二版序言",
+      "locator": "第一章传统与行动；第三至七章阶级联盟、农民代表和国家机器",
+      "locatorVerified": true,
+      "identity": "marx-published-history; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-05-src-german-ideology",
+      "workId": "《德意志意识形态》",
+      "edition": "MECW 5；MIA 分段页",
+      "locator": "第一卷第一章“费尔巴哈”，现实前提、分工、意识形态和共产主义段落",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-05-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-05-src-civil-war-france",
+      "workId": "《法兰西内战》",
+      "edition": "国际工人协会总委员会第三篇宣言，一八七一年",
+      "locator": "第三至五章，国家机器与巴黎公社的政治形式",
+      "locatorVerified": true,
+      "identity": "marx-organizational-address; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-06-src-capital-v1-ch1",
+      "workId": "《资本论》第一卷",
+      "edition": "德文第一版一八六七；法文版与德文二版修订参照；MECW 35",
+      "locator": "第一章第一至四节，商品、劳动二重性、价值形式与拜物教",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-06-src-1859-preface",
+      "workId": "《政治经济学批判》序言",
+      "edition": "柏林一八五九年初版；MECW 29",
+      "locator": "自述研究转向与生产关系、上层建筑、社会革命的概括段",
+      "locatorVerified": true,
+      "identity": "marx-published-preface; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-06-src-grundrisse",
+      "workId": "《政治经济学批判大纲》",
+      "edition": "一八五七至一八五八年手稿；MECW 28–29",
+      "locator": "导言“政治经济学的方法”；资本部分；前资本主义生产形式",
+      "locatorVerified": true,
+      "identity": "marx-research-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-06-src-poverty-philosophy",
+      "workId": "《哲学的贫困》",
+      "edition": "法文初版一八四七；MECW 6",
+      "locator": "第二章第一节“方法”与政治经济学范畴的历史性",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-07-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-07-src-capital-v1-ch10",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第十章工作日，工作日界限、工厂法和工人斗争",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-07-src-1844-manuscripts",
+      "workId": "《一八四四年经济学哲学手稿》",
+      "edition": "MECW 3；MIA Milligan 英译",
+      "locator": "第一手稿“异化劳动”；第三手稿“私有财产与共产主义”“对黑格尔辩证法的批判”",
+      "locatorVerified": true,
+      "identity": "marx-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-07-src-gotha",
+      "workId": "《哥达纲领批判》",
+      "edition": "一八七五年致党内的批注；恩格斯一八九一年首次刊布",
+      "locator": "第一部分劳动、权利与共产主义两阶段；第四部分政治过渡期",
+      "locatorVerified": true,
+      "identity": "marx-private-party-critique; posthumous-publication; paraphrase"
+    },
+    {
+      "id": "ev-marx-08-src-capital-v1-ch10",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第十章工作日，工作日界限、工厂法和工人斗争",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-08-src-capital-v1-ch12-15",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第十二至十五章，相对剩余价值、协作、分工、机器和大工业",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-08-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-08-src-manifesto",
+      "workId": "《共产党宣言》",
+      "edition": "德文一八四八年版；一八八八年英译版序言",
+      "locator": "第一章资产者和无产者；第二章无产者和共产党人；一八七二年德文版序言",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-published; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-09-src-capital-v1-ch23-25",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第二十三至二十五章，简单再生产、积累、相对过剩人口与积累的一般规律",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-09-src-capital-v2",
+      "workId": "《资本论》第二卷",
+      "edition": "马克思多份手稿；恩格斯编成一八八五年版；MECW 36",
+      "locator": "第三篇社会总资本的再生产和流通，第二十至二十一章",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-09-src-capital-v3",
+      "workId": "《资本论》第三卷",
+      "edition": "马克思一八六四至一八六五年主要手稿；恩格斯编成一八九四年版；MECW 37",
+      "locator": "第三篇利润率趋向下降；第五篇信用；第七篇三位一体公式",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-09-src-capital-v1-ch1",
+      "workId": "《资本论》第一卷",
+      "edition": "德文第一版一八六七；法文版与德文二版修订参照；MECW 35",
+      "locator": "第一章第一至四节，商品、劳动二重性、价值形式与拜物教",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-09-src-grundrisse",
+      "workId": "《政治经济学批判大纲》",
+      "edition": "一八五七至一八五八年手稿；MECW 28–29",
+      "locator": "导言“政治经济学的方法”；资本部分；前资本主义生产形式",
+      "locatorVerified": true,
+      "identity": "marx-research-manuscript; posthumous-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-10-src-capital-v2-circuits",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第一篇第一至六章，货币资本、生产资本、商品资本循环，流通时间与流通费用",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-10-src-capital-v2-turnover",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第二篇第七至十七章，周转时间、固定与流动资本、生产和流通时间、可变资本周转",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-10-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-11-src-capital-v2-reproduction",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第三篇第十八至二十一章，社会总资本、简单再生产、积累与扩大再生产",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-11-src-capital-v2-circuits",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第一篇第一至六章，货币资本、生产资本、商品资本循环，流通时间与流通费用",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-11-src-capital-v1-ch23-25",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第二十三至二十五章，简单再生产、积累、相对过剩人口与积累的一般规律",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-12-src-capital-v3-profit-production-price",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思一八六四至一八六五年等手稿编辑，一八九四年德文初版",
+      "locator": "第一篇第一至七章与第二篇第八至十二章，成本价格、利润、一般利润率和生产价格",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-12-src-capital-v1-ch1",
+      "workId": "《资本论》第一卷",
+      "edition": "德文第一版一八六七；法文版与德文二版修订参照；MECW 35",
+      "locator": "第一章第一至四节，商品、劳动二重性、价值形式与拜物教",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-12-src-capital-v1-ch6-9",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第六章劳动力买卖；第七章劳动过程与价值增殖；第九章剩余价值率",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-13-src-capital-v3-falling-rate",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思一八六四至一八六五年等手稿编辑，一八九四年德文初版",
+      "locator": "第三篇第十三至十五章，一般利润率趋向下降、反作用因素和矛盾展开",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-13-src-capital-v3-commercial-interest-credit",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思手稿编辑，一八九四年德文初版",
+      "locator": "第四篇第十六至二十章与第五篇第二十一至三十六章，商业资本、利息生息资本和信用",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-13-src-capital-v2-reproduction",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第三篇第十八至二十一章，社会总资本、简单再生产、积累与扩大再生产",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-13-src-capital-v1-ch23-25",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第二十三至二十五章，简单再生产、积累、相对过剩人口与积累的一般规律",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-14-src-capital-v3-commercial-interest-credit",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思手稿编辑，一八九四年德文初版",
+      "locator": "第四篇第十六至二十章与第五篇第二十一至三十六章，商业资本、利息生息资本和信用",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-14-src-capital-v3-ground-rent-trinity",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思手稿编辑，一八九四年德文初版",
+      "locator": "第六篇第三十七至四十七章与第七篇第四十八至五十二章，地租及三位一体公式",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-14-src-capital-v3-profit-production-price",
+      "workId": "《资本论》第三卷",
+      "edition": "恩格斯据马克思一八六四至一八六五年等手稿编辑，一八九四年德文初版",
+      "locator": "第一篇第一至七章与第二篇第八至十二章，成本价格、利润、一般利润率和生产价格",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-14-src-capital-v2-turnover",
+      "workId": "《资本论》第二卷",
+      "edition": "恩格斯据马克思手稿编辑，一八八五年德文初版",
+      "locator": "第二篇第七至十七章，周转时间、固定与流动资本、生产和流通时间、可变资本周转",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    },
+    {
+      "id": "ev-marx-15-src-jewish-question",
+      "workId": "《论犹太人问题》",
+      "edition": "Deutsch–Französische Jahrbücher 1844；MECW 3",
+      "locator": "第一部分对布鲁诺·鲍威尔；第二部分对政治解放与人权的分析",
+      "locatorVerified": true,
+      "identity": "marx-published-essay; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-15-src-hegel-right-critique",
+      "workId": "《黑格尔法哲学批判》手稿",
+      "edition": "MECW 3；MIA 英译校对页",
+      "locator": "对《法哲学原理》国家部分的逐段评注，尤其 §§261–313",
+      "locatorVerified": true,
+      "identity": "marx-manuscript; unpublished-manuscript; paraphrase"
+    },
+    {
+      "id": "ev-marx-15-src-brumaire",
+      "workId": "《路易·波拿巴的雾月十八日》",
+      "edition": "一八五二年初版；马克思一八六九年第二版序言",
+      "locator": "第一章传统与行动；第三至七章阶级联盟、农民代表和国家机器",
+      "locatorVerified": true,
+      "identity": "marx-published-history; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-15-src-civil-war-france",
+      "workId": "《法兰西内战》",
+      "edition": "国际工人协会总委员会第三篇宣言，一八七一年",
+      "locator": "第三至五章，国家机器与巴黎公社的政治形式",
+      "locatorVerified": true,
+      "identity": "marx-organizational-address; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-15-src-1859-preface",
+      "workId": "《政治经济学批判》序言",
+      "edition": "柏林一八五九年初版；MECW 29",
+      "locator": "自述研究转向与生产关系、上层建筑、社会革命的概括段",
+      "locatorVerified": true,
+      "identity": "marx-published-preface; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-16-src-civil-war-france",
+      "workId": "《法兰西内战》",
+      "edition": "国际工人协会总委员会第三篇宣言，一八七一年",
+      "locator": "第三至五章，国家机器与巴黎公社的政治形式",
+      "locatorVerified": true,
+      "identity": "marx-organizational-address; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-16-src-gotha",
+      "workId": "《哥达纲领批判》",
+      "edition": "一八七五年致党内的批注；恩格斯一八九一年首次刊布",
+      "locator": "第一部分劳动、权利与共产主义两阶段；第四部分政治过渡期",
+      "locatorVerified": true,
+      "identity": "marx-private-party-critique; posthumous-publication; paraphrase"
+    },
+    {
+      "id": "ev-marx-16-src-manifesto",
+      "workId": "《共产党宣言》",
+      "edition": "德文一八四八年版；一八八八年英译版序言",
+      "locator": "第一章资产者和无产者；第二章无产者和共产党人；一八七二年德文版序言",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-published; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-16-src-brumaire",
+      "workId": "《路易·波拿巴的雾月十八日》",
+      "edition": "一八五二年初版；马克思一八六九年第二版序言",
+      "locator": "第一章传统与行动；第三至七章阶级联盟、农民代表和国家机器",
+      "locatorVerified": true,
+      "identity": "marx-published-history; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-16-src-capital-v1-ch23-25",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第二十三至二十五章，简单再生产、积累、相对过剩人口与积累的一般规律",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-capital-v1-ch26-33",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；法文版历史限定参照；MECW 35",
+      "locator": "第二十六至三十三章，所谓原始积累、殖民与生产者同生产资料分离",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-capital-v1-ch10",
+      "workId": "《资本论》第一卷",
+      "edition": "德文二版结构；MECW 35",
+      "locator": "第十章工作日，工作日界限、工厂法和工人斗争",
+      "locatorVerified": true,
+      "identity": "marx-published-book; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-zasulich",
+      "workId": "致维拉·查苏利奇复信及草稿",
+      "edition": "一八八一年四份草稿与三月八日简短复信；MECW 24",
+      "locator": "第一、第二、第三、第四草稿与正式复信对俄国农村公社的判断",
+      "locatorVerified": true,
+      "identity": "marx-letter-and-drafts; posthumous-drafts-and-letter; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-ethnological-notebooks",
+      "workId": "《人类学笔记》",
+      "edition": "一八八零至一八八二年摘录与评注；Krader 编本",
+      "locator": "对摩尔根、梅恩、菲尔等著作的摘录和边注",
+      "locatorVerified": true,
+      "identity": "marx-research-notes; posthumous-notes; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-manifesto",
+      "workId": "《共产党宣言》",
+      "edition": "德文一八四八年版；一八八八年英译版序言",
+      "locator": "第一章资产者和无产者；第二章无产者和共产党人；一八七二年德文版序言",
+      "locatorVerified": true,
+      "identity": "marx-engels-coauthored-published; published-lifetime; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-gotha",
+      "workId": "《哥达纲领批判》",
+      "edition": "一八七五年致党内的批注；恩格斯一八九一年首次刊布",
+      "locator": "第一部分劳动、权利与共产主义两阶段；第四部分政治过渡期",
+      "locatorVerified": true,
+      "identity": "marx-private-party-critique; posthumous-publication; paraphrase"
+    },
+    {
+      "id": "ev-marx-17-src-capital-v3",
+      "workId": "《资本论》第三卷",
+      "edition": "马克思一八六四至一八六五年主要手稿；恩格斯编成一八九四年版；MECW 37",
+      "locator": "第三篇利润率趋向下降；第五篇信用；第七篇三位一体公式",
+      "locatorVerified": true,
+      "identity": "marx-manuscripts-engels-edition; posthumous-edited-volume; paraphrase"
+    }
+  ],
+  "routes": [
+    {
+      "id": "marx-foundations",
+      "version": "2.0.0-completeness-expansion",
+      "title": "马克思：从现实关系到资本批判与解放边界",
+      "lessonIds": [
+        "marx-01",
+        "marx-02",
+        "marx-03",
+        "marx-04",
+        "marx-05",
+        "marx-06",
+        "marx-07",
+        "marx-08",
+        "marx-09",
+        "marx-10",
+        "marx-11",
+        "marx-12",
+        "marx-13",
+        "marx-14",
+        "marx-15",
+        "marx-16",
+        "marx-17"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "marx-01",
+      "order": 1,
+      "title": "国家的理念为何不能替现实和解",
+      "depth": "longform",
+      "guidingQuestion": "如果一部宪法把共同利益写得很完善，现实中的私人依赖、财产差距和政治无力是否已经得到克服？",
+      "coreExplanation": "马克思从黑格尔那里保留内在矛盾、社会整体与历史生成的问题，却拒绝让国家理念替现实关系完成和解；批判必须追问谁在何种物质关系中行动。",
+      "sections": [
+        {
+          "heading": "纸面普遍性遇见现实分裂",
+          "paragraphs": [
+            "一项法律可以把每个人称为平等公民，可同一个人在工作场所仍依赖雇主，在住房市场受财产条件支配，在公共讨论中缺乏时间与资源。若只看法律语句，国家似乎已经把私人差异提升为共同意志；若只看受压事实，又容易断言法律全是骗局。真正的困难是：政治普遍性为何能够真实存在，却同时没有消除日常生活中的分裂？",
+            "黑格尔的法哲学试图说明，家庭、市民社会和国家不是彼此外在的机构清单，而是自由逐步取得客观形式的整体。这个起点比把自由理解为孤立意愿更强，因为权利需要制度承载。不过，一旦国家被说成矛盾已经得到概念和解的完成形态，哲学就可能先替现实颁发合格证，再把现实冲突解释为次要缺陷。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "从黑格尔继承的四个问题",
+          "paragraphs": [
+            "马克思没有简单把黑格尔“倒过来”。他保留第一项压力：一个制度的矛盾要从它自己的规定中寻找。若国家宣称代表普遍利益，却让参与能力依附于财产和身份，批判不必从外部任意宣布它坏，而能显示它自己的普遍承诺怎样在执行中否定自身。这是内在矛盾的工作，不是把两个相反口号并排。",
+            "他也保留否定性、社会整体和历史生成。否定性指一种形式在运行中暴露不能容纳的关系，由失败逼出改写；社会整体要求把法律、家庭、交换、行政和劳动的相互依赖一并考察；历史生成则拒绝把现存制度当天然事实。这四点后来仍活在商品形式、资本积累和阶级政治的分析中。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "现实主体不能成为理念的注脚",
+          "paragraphs": [
+            "一八四三年的《黑格尔法哲学批判》逐段评论国家部分。马克思的核心指控可以重建为：黑格尔往往先把理念的运动当作真正主体，再让家庭、市民社会和政治机关成为理念展开的谓词。这样一来，现实中的人及其组织关系仿佛只负责演出概念早已完成的剧本。批判性的改写要把主谓重新放稳：是现实的人形成制度，不是制度理念生出现实的人。",
+            "把主体还给现实的人，并不等于把社会缩成个人选择之和。个人出生在已有的财产、职业、法律和家庭关系里，他们的行动能力由这些关系塑造。所谓现实主体因此是处在关系中的人及其实践。这里“实践”还未成为成熟概念，但转向已经发生：哲学必须解释有条件的社会活动怎样产生国家形式。"
+          ],
+          "identity": "marx-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "市民社会不是国家外面的杂乱地带",
+          "paragraphs": [
+            "黑格尔用“市民社会”指现代需要体系、劳动分工、交换、财产、司法和团体交织的领域，并非泛指有礼貌的民间组织。马克思抓住这个概念，是因为政治权利的实际能力取决于人们在该领域的位置。一个形式上有投票权的人若受债务、失业风险和照料负担控制，他的政治存在就与私人处境发生可分析的裂缝。",
+            "裂缝不能由一句“经济决定政治”解释。国家拥有行政组织、军队、法律程序和象征传统，能够重组阶级联盟，也可能在相互冲突的社会力量间取得一定自主。《雾月十八日》后来正是通过具体党派、农民代表方式、官僚机器和历史记忆说明政治中介，而不是把政变从收入表直接演算出来。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "平等章程怎样成为检验而非遮羞布",
+          "paragraphs": [
+            "设想一家合作平台宣布每位配送者都有发言权。正式投票确实让人能够否决一部分提案，这项权利不应被抹去；但算法规则由出资方掌握，停工者会失去收入，申诉材料又只以复杂格式提供。案例中的普遍承诺对应政治平等，算法、收入和申诉条件对应市民社会中的现实能力。",
+            "检验结果不是“章程为真”或“章程为假”的二选一。它表明权利具有真实效力，却未完成自身声称的平等。若平台开放规则、提供停工保障并让成员能修改算法，形式与能力的距离会缩小；若只改宣传语，距离不变。案例因此执行了一次内在批判，也说明制度改造必须进入物质条件。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "理念是否仍能提供规范尺度",
+          "paragraphs": [
+            "最强异议不是替黑格尔辩称现实已经完美，而是指出：若没有自由国家的概念，我们凭什么把现实排斥称为缺陷？单说“真实的人这样生活”只能描述事实，不能说明为什么应当改变。若马克思把理念全部降为现实关系的影子，他似乎也会失去批判所需的规范尺度。",
+            "这个异议击中一处真实债务。马克思早期常借人的共同能力、民主或无产阶级解放表达尺度，后来更多从社会合作的现实条件与资本关系的自我冲突展开批判，但没有写成一部完整规范伦理学。可辩护的回应是保住内在尺度：制度自己的平等承诺、合作所必需而又被阻断的能力、受支配者可提出的理由都能支持批判；仍欠的是这些理由为何具有最终规范权威。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "早期转向不能倒写成成熟答案",
+          "paragraphs": [
+            "一八四三年逐段批判是未刊手稿；一八四四年发表的《导言》则把宗教批判、德国现实和无产阶级解放连接起来。两者声音不同，不能拼成一部马克思亲定的国家学说。一八五九年序言回顾自己从法权关系转向市民社会和政治经济学，这是马克思的成熟自述，但它是压缩回顾，不会抹平十五年间概念改变。",
+            "因此可说的强结论是：马克思把理解国家的重心从国家理念自身转向物质生活关系，并继续使用黑格尔式的内在矛盾、否定性、整体和历史性。不能说的强结论是：早期手稿已经包含《资本论》的价值形式理论，或马克思从此认为政治只是经济的被动影子。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "从政治抽象走向实践问题",
+          "paragraphs": [
+            "到这里已建立三点。国家的普遍性可以真实却不充分；现实社会关系是检验这种普遍性的必要层次；黑格尔的批判动力被保留，但概念自运动被改写为有条件的社会实践。被排除的是“倒置”神话和政治无效论，而国家自主程度与规范尺度仍保持开放。",
+            "下一步出现的债务来自宗教批判。若观念不是自己悬在空中，而由现实生活产生，那么揭露宗教投射是否就够了？人为什么在知道投射之后仍需要它？只有解释生活关系怎样不断生产这种需要，并说明改变者自身也在关系中，批判才会从意识走向实践。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一家企业在章程中宣布所有成员平等，但临时雇员没有议价权，也无法影响决定。章程不是毫无作用；它恰好提供了检验现实是否兑现自身普遍承诺的尺度。",
+      "nodeIds": [
+        "node-marx-01"
+      ],
+      "checkIds": [
+        "marx-01-q1",
+        "marx-01-q2",
+        "marx-01-q3",
+        "marx-01-q4"
+      ],
+      "abilitySummary": [
+        "区分国家的概念规定与现实社会关系。",
+        "说明马克思怎样继承并改写黑格尔的内在批判。",
+        "把一八四三年手稿与成熟政治经济学批判分开。"
+      ],
+      "recommendedNextLessonId": "marx-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-02",
+      "order": 2,
+      "title": "批判宗教之后为何还需要改变生活",
+      "depth": "longform",
+      "guidingQuestion": "若宗教是人的投射，只要揭穿观念来源，人是否就会获得自由？",
+      "coreExplanation": "马克思借费尔巴哈把神圣力量还给人，却进一步指出抽象的“人”不能解释现实分裂；实践是受条件塑造又能改变条件的感性社会活动。",
+      "sections": [
+        {
+          "heading": "识破投射仍不能停止服从",
+          "paragraphs": [
+            "有人已经知道神圣权威由人赋予，却仍在恐惧、孤立和依赖中寻求它；有人看穿绩效榜是管理设计，却无法退出排名，因为收入和续约由排名决定。单纯揭露观念的来源能够削弱迷信，却解释不了观念为何被现实不断再生产。问题因而不是意识与现实二选一，而是某种生活怎样需要并维持某种意识。",
+            "《〈黑格尔法哲学批判〉导言》把宗教称为受压生灵的叹息，同时又要求从天国批判转到尘世批判。这一双重说法很重要：宗教既可能安慰真实痛苦，也可能把希望投向彼岸。只嘲笑信仰会忽略痛苦，只赞美安慰又会保留产生痛苦的关系。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "费尔巴哈怎样把神圣力量还给人",
+          "paragraphs": [
+            "费尔巴哈反对把神理解为独立超越者，主张人在神那里崇拜的是自己被对象化的类能力：爱、理性、意志被放大后同有限个人分离。这个还原推进了批判，因为神学属性不再需要从超自然实体解释，而能追问人的自我分裂。",
+            "可问题随即出现。若“人”被当作每个人共同拥有的抽象本质，为什么同一种人性会产生相反的社会位置、信仰形式和行动能力？抽象本质没有告诉我们谁控制土地和工具，谁承担照料，谁能组织公共生活。它能把神还给人，却还没有把人放回历史关系。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "实践不是忙碌，也不是理论的应用环节",
+          "paragraphs": [
+            "《关于费尔巴哈的提纲》引入的实践，是有对象、有身体、有他人并能改变条件的感性活动。它不同于单纯观看，因为行动者在劳动、交往和政治中使对象发生变化；也不同于盲目忙碌，因为活动包含目的、技能、协作和对结果的检验。一个观念是否把握现实，要在这种活动的阻力与成效中得到证明。",
+            "实践还不能被理解成理论写好方案后去执行。理论自身来自一定实践，使用的概念、证据和问题都受社会关系塑造；反过来，反思能够改变行动方向。于是理论与实践是可区分但相互校正的环节。把两者合一会取消批判距离，把两者分绝又会让理论无法接受现实检验。"
+          ],
+          "identity": "marx-private-notes-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "环境塑造人，而人也改变环境",
+          "paragraphs": [
+            "第三条提纲针对一种看似激进的环境论：若人只是教育和制度的产物，改革者仿佛站在关系外面，负责塑造其余人。马克思追问“教育者”由谁教育，迫使理论承认改变者自身也携带既有习惯、利益与盲点。没有这个回返，解放政治很容易变成少数专家管理多数对象。",
+            "反方向的错误则把改变环境说成意志可以任意创造条件。行动必须使用已有语言、工具、组织和时间，也会遭遇反抗。条件不是命运，因为它们由过去实践形成并能被重新组织；行动也不是无条件自发，因为可用资源和联盟决定可能性范围。历史行动正发生在这两者的张力中。"
+          ],
+          "identity": "marx-private-notes-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "绩效榜为什么在被识破后仍有效",
+          "paragraphs": [
+            "某配送员知道排行榜并非自然尺度，排名算法还偏向长时间在线者。但班次、奖金和续约都与名次相连，同伴也因稀缺班次互相隐瞒信息。榜单观念对应意识形式，合同、算法和资源稀缺对应生产它的关系；每个人的竞争行为又反过来让榜单显得客观。",
+            "若只发布一篇揭露算法偏见的文章，参与者可能更清醒，却仍被同一奖惩结构推动。若共同要求公开规则、保障基本班次并建立不依排名的协商机制，实践开始改变观念赖以生存的条件。案例不能证明观念宣传无用；它证明宣传的效果取决于能否接入组织和物质改变。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "意识形态问题从这里萌生",
+          "paragraphs": [
+            "《德意志意识形态》把现实个人、他们的活动和物质生活条件称为历史说明的前提。意识不再被当作自行创造历史的王国，但这也不意味着每个观念都是统治者故意编造。语言、法律和道德能够在分工中获得专门机构，行动者也可能真诚地把局部关系看成普遍秩序。",
+            "因此意识形态至少包含一种关系性误认：人们自己形成的社会力量以独立、自然或不可改变的力量面对他们。后来商品拜物教会把这一问题放进交换结构本身。当前只能得到种子，而不是统一定义；马克思在不同文本中对意识形态的用法并不完全相同。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "真理是否会被实践成功偷换",
+          "paragraphs": [
+            "强异议指出，若实践决定真理，一个高效但压迫性的制度似乎会因成功运转而变真；一个短期失败的正当行动则会被判假。这个异议攻击“实践检验”的含混处：成效、真实性和正当性不是同一指标，不能用赢得竞争替代对事实与理由的判断。",
+            "回应需要收缩结论。实践提供对象阻力、可重复后果和共同检验，使理论不能只靠概念自洽；它不自动给任何胜利者颁发真理。经验成效还要问实现了什么目的、由谁承担代价、证据能否公开修正。马克思留下了实践优先的方向，却没有以十一条短注完成一套知识论。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "十一条短注与合著手稿的边界",
+          "paragraphs": [
+            "《提纲》是一八四五年私人笔记，马克思未发表；常见版本来自恩格斯一八八八年的编辑，原稿直到一九二四年才刊出。《德意志意识形态》则是马克思与恩格斯的未完成合著，手稿编排复杂，一九三二年才整体面世。把两者当作一部生前定稿的“历史唯物主义教科书”，会抹掉声音与状态。",
+            "可重建的稳健论点是：社会生活要从现实个人的物质活动与关系说明，观念批判必须连接改变这些关系的实践。后世把它压缩成“存在决定意识”或固定基础—上层建筑图式，可能保存部分方向，却不是原文自身给出的无条件公式。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "实践批判还缺少劳动内部的经验",
+          "paragraphs": [
+            "这一推进保住费尔巴哈的反投射成果，又把抽象人性改写为关系中的感性活动。它排除了两种捷径：改变想法就等于改变生活，以及人只是环境的被动产物。理论、行动和条件构成循环，但循环怎样在资本主义劳动内部变成具体支配，尚未得到说明。",
+            "一八四四年手稿以异化劳动描述这种经验：产品、活动、人的共同能力和他人关系发生四重断裂。这个语言具有强大解释力，也带着早期人本主义和残缺手稿的边界。下一步要先在其内部讲懂，再问它与成熟剥削理论是否相同。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "工人知道绩效榜只是公司设计，却仍须按榜单竞争，因为排班、奖金和续约依赖排名。识破观念不等于取消生产观念的制度关系。",
+      "nodeIds": [
+        "node-marx-02"
+      ],
+      "checkIds": [
+        "marx-02-q1",
+        "marx-02-q2",
+        "marx-02-q3",
+        "marx-02-q4"
+      ],
+      "abilitySummary": [
+        "说明宗教批判为何必须进入现实生活关系。",
+        "区分费尔巴哈的人本还原与马克思的实践批判。",
+        "解释条件与行动者之间的双向关系。"
+      ],
+      "recommendedNextLessonId": "marx-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-03",
+      "order": 3,
+      "title": "劳动怎样在四种关系中与人分离",
+      "depth": "longform",
+      "guidingQuestion": "如果工人获得约定工资，为什么劳动仍可能以一种异己力量面对他？",
+      "coreExplanation": "一八四四年手稿从产品、生产活动、人的类能力和人与人关系说明异化；它揭示劳动经验的关系结构，却不能与成熟的剩余价值理论等同。",
+      "sections": [
+        {
+          "heading": "工资支付为何没有穷尽劳动关系",
+          "paragraphs": [
+            "一名护理员按合同领取工资，机构没有少付约定金额；但她完成的记录成为机构绩效资产，工作节奏由系统强制，真正照护被压缩，同事又因配额彼此竞争。若把问题只叫作“不喜欢工作”，就看不见产品所有权、活动控制和社会关系如何共同形成一种异己力量。",
+            "《一八四四年经济学哲学手稿》从政治经济学承认的私有财产、工资和竞争出发，追问工人与劳动的直接关系。这里“异化”不是单一情绪，而是一种关系倒转：人的活动成果和活动条件取得相对独立力量，反过来规定生产者。情绪痛苦可能是表现，却不是定义。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "第一重断裂发生在产品",
+          "paragraphs": [
+            "劳动首先对象化为一个结果。对象化本身是人把能力赋予世界的普通过程：木匠做成桌子，护理员留下可用记录，程序员写出软件。只有当结果归他人控制，并作为资本、指标或命令与生产者对立时，对象化才采取异化形式。若把任何成品都叫异化，就无法设想不异化的共同生产。",
+            "产品异化具有累积效果。单件产品离开工人未必构成深刻支配，但大量成果在产权与组织中汇成控制生产的力量：过去劳动成为机器、数据库和资本，决定谁能继续劳动以及以何种条件劳动。产品不是神秘地获得意志，而是通过所有权和组织权代表他人的决定。"
+          ],
+          "identity": "marx-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二重断裂进入生产活动",
+          "paragraphs": [
+            "若产品在结果处与工人对立，这种对立必须已存在于生产过程中。活动异化指劳动不作为自主能力的展开，而主要成为维持外部生存的手段；节奏、目的和方法由他人支配。重点不是每项任务都愉快，而是劳动者是否能把理由、技能和共同目的带进活动。",
+            "一台手术中的严格流程可以限制个人动作，却不必异化：限制可能由共同安全目的建立，参与者能够理解、修订和申诉。相反，一份表面自由的零工若算法单方面改变报酬并把全部风险转给劳动者，仍可能高度异化。自愿签约不能单独回答活动控制问题。"
+          ],
+          "identity": "marx-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "第三重断裂针对人的共同能力",
+          "paragraphs": [
+            "手稿用“类存在”说明人能够把自己的生命活动当作对象，跨越眼前需要进行有意识、共同和多样的生产。这个概念不是生物物种标签，也不是每个人预装的一份固定本质清单；它要指出，人能共同决定怎样生活，而不只被迫把生命活动缩成获得生存资料的手段。",
+            "异化劳动使这种开放能力反转：生产世界越丰富，生产者可支配的生活越贫乏；共同能力以资本和制度权力的形式站在个人之外。边界在于，这个早期概念容易被解释成预先规定的“真正人性”。较稳妥的重建把它理解为可发展的社会能力，而非一套跨历史职业偏好。"
+          ],
+          "identity": "marx-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "第四重断裂把人与人组织成对立",
+          "paragraphs": [
+            "产品和活动不可能只同孤立个人发生关系。若劳动成果属于一个不生产却控制生产条件的人，工人与产品的对立同时是工人与他人的社会关系。资本家在这里不是心理贪婪的化身，而占据对劳动条件和成果的制度位置；竞争又使工人彼此成为替代者。",
+            "这一步防止异化批判停在自我感受。改善工作心态可能缓解痛苦，却不会自动改变产权、决策和风险分配。反过来，改变所有权也不保证每项活动立即自主，因为技术分工、照料责任和组织规模仍需新的民主协调。四重关系互相支持，但不能压成同一件事。"
+          ],
+          "identity": "marx-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "护理记录怎样检验四重区分",
+          "paragraphs": [
+            "护理员的记录归机构并用于融资评估，这是产品控制；系统限定每次服务时长，使照护判断退居配额，这是活动控制；专业能力被压缩为填表速度，削弱共同决定照护目的的能力，这是类能力受阻；同事因排名隐瞒经验，管理者以数据库发令，这是人与人关系的异化形式。",
+            "若机构只把记录版权返还个人，活动节奏仍可能受算法控制；若只增加休息，产品和决策权仍未改变。案例的作用是让改革方案接受分项检验。它不能证明所有数字记录都异化，因为由护理团队共同设计、能修订且服务照护目的的记录，可能扩展而非削弱能力。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "黑格尔的对象化问题被怎样改写",
+          "paragraphs": [
+            "马克思继承黑格尔关于自我通过对象化形成自身、又在异己对象中经历否定的结构。因此他没有把自由设想成从不进入对象和制度。批判目标是对象化采取何种社会形式，以及生产者能否在成果中认出并掌握共同力量。",
+            "改写之处在运动承担者。黑格尔式精神能在认识中扬弃异化，马克思则要求改变私有财产、劳动组织和人与人的关系。观念上的重新认领不足以取消失去产品和活动控制的事实。这仍是早期改写；成熟分析会用劳动力、价值和资本再生产给出不同概念。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "异化是否把满足感当作自由尺度",
+          "paragraphs": [
+            "强异议指出，许多必要劳动重复、疲惫并受规则约束，即使在平等社会也不会成为自我实现。若异化批判要求工作总是愉悦或表达个性，它会贬低照料、清洁和应急协作，还可能把有特权者的创造偏好冒充共同人性。",
+            "回应必须收缩：非异化不等于每分钟愉悦，而是必要性如何被共同分担、目的与规则能否参与决定、能力是否被承认、退出和申诉是否真实。手稿的强烈措辞留下本质主义风险；可重建论证保住关系控制和能力发展的批判，不承诺消除所有劳苦。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "异化与剥削不能互相替代",
+          "paragraphs": [
+            "成熟《资本论》的剥削概念不以工人感到疏离为条件。劳动力按价值出售，交换表面等价，工人在生产中创造超过劳动力价值的新增价值，剩余部分由资本占有。一个有成就感、待遇良好的工人仍可能处于这种剩余劳动关系；一名自雇者可能高度孤立，却不以同一方式被资本剥削。",
+            "两套分析有联系：成果成为异己力量，与资本通过占有剩余劳动再生产自身相呼应；但证成路径不同。异化诉诸活动控制和人的社会能力，剥削诉诸劳动力商品、必要劳动与剩余劳动。把它们分开，才能观察二者何时重合、何时分离。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期经验语言逼出历史说明",
+          "paragraphs": [
+            "手稿残缺，第二手稿只余少量页，部分通行小标题为后加，马克思生前没有将其出版。它不能被提升为统一体系，也不能因不成熟而丢弃。四重关系准确提出了一个持续问题：人怎样在自己形成的社会力量面前失去控制。",
+            "下一债务是说明这种关系如何历史地产生和改变。若只说人失去本质，资本主义仿佛是抽象堕落；若只列技术变化，又会把历史变成自动演进。历史唯物主义的可辩护含义必须同时容纳生产条件、关系冲突、政治组织和实践能动性。"
+          ],
+          "identity": "source-boundary",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "护理员完成越多标准化记录，越少有时间照护病人；记录归机构所有，操作节奏由系统规定，同事因配额竞争。四重异化帮助分辨同一过程的不同断裂。",
+      "nodeIds": [
+        "node-marx-03"
+      ],
+      "checkIds": [
+        "marx-03-q1",
+        "marx-03-q2",
+        "marx-03-q3",
+        "marx-03-q4"
+      ],
+      "abilitySummary": [
+        "逐项说明产品、活动、类能力和他人关系的异化。",
+        "区分对象化与异化，避免把生产本身当作损失。",
+        "说明早期异化批判与成熟剥削理论的联系和差异。"
+      ],
+      "recommendedNextLessonId": "marx-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-04",
+      "order": 4,
+      "title": "历史唯物主义不是经济自动剧本",
+      "depth": "longform",
+      "guidingQuestion": "物质生产条件限制社会可能性，是否意味着技术一变，法律、政治和思想就按固定顺序随之改变？",
+      "coreExplanation": "历史唯物主义从现实生产和再生产关系解释社会形式，但“制约”不是机械决定；矛盾必须通过阶级形成、政治组织、法律斗争与历史继承被实际处理。",
+      "sections": [
+        {
+          "heading": "同一种技术为何产生不同制度",
+          "paragraphs": [
+            "网络平台降低了远距离协调成本，这是一项真实生产力变化。但同样的软件可以被垄断企业用来控制劳动，也可以由公共机构提供基础服务，或由合作组织共同治理。若技术自身已经规定制度，差异就无法解释；若技术毫无作用，又看不见它怎样改变规模、速度、技能和监督的可能范围。",
+            "历史唯物主义的任务是说明社会生活不能只从观念自述理解，人们必须生产并再生产生活，在此过程中进入不由个人任意选择的关系。这个起点把思想放回条件，却没有提供一条从机器型号到国家形式的自动传送带。条件、关系和斗争之间需要中介。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "现实前提不是抽象的物质清单",
+          "paragraphs": [
+            "《德意志意识形态》从现实个人、他们的活动和物质生活条件出发。所谓“物质”不只是自然物或技术设备，还包括身体需要、生产资料、分工、交往方式以及人们为维持生活必须建立的关系。把物质理解成机器，会遗漏所有权和协作；把个人理解成抽象人，又会遗漏历史位置。",
+            "生产同时是社会关系的再生产。每天上班不只制造物品，也重建雇主与雇员、技能等级和收入依赖；家庭照料补充劳动力，却常被工资统计遮蔽。历史说明因此要追踪活动怎样重复关系，以及冲突怎样使重复失效。它不是把文化从分析中删除，而是问文化实践靠什么组织和延续。"
+          ],
+          "identity": "coauthored-manuscript-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产力与生产关系怎样发生冲突",
+          "paragraphs": [
+            "生产力指进行生产的能力组合，包括劳动者的知识和协作、工具、基础设施、自然条件及科学应用。生产关系指人们围绕生产条件形成的控制、占有和组织关系。二者不是一边纯技术、一边纯法律：协作本身是生产力，产权又会塑造技术发展方向。",
+            "一八五九年序言说，生产关系会从生产力的发展形式变成桎梏。可辩护的意思不是每项技术迟早推翻某制度，而是既有控制关系可能阻碍或扭曲已形成的共同能力，由此产生持续冲突。冲突只提供变化压力，不替行动者选择新制度，也不保证结果更自由。"
+          ],
+          "identity": "marx-published-preface-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "基础与上层建筑是解释区分",
+          "paragraphs": [
+            "序言把生产关系总和称为经济结构，并说其上升起法律政治上层建筑。这一比喻强调法权形式不能仅凭自身解释，例如财产权的实际内容依赖生产关系。但“上层”不是无重量的影子：法律确定合同、公司和继承，国家征税、筑路、镇压或保障组织，都会反过来改造积累条件。",
+            "“制约”更接近设定压力和可能范围，而非逐项发令。经济关系使某些政治联盟更有资源，使某些冲突反复出现；法律和意识形态则组织这些冲突被理解和处理的方式。若没有具体机制，基础—上层建筑只是一张方位图，不能冒充完成的因果解释。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "平台技术的三条制度路线",
+          "paragraphs": [
+            "同一套派单技术由风险资本控制时，收益要求、数据产权和劳动合同推动密集监督；由市政机构运营时，预算规则、选举责任和公共服务目标改变决策；由劳动者合作组织掌握时，成员参与和共同承担风险又形成另一约束。技术提供实时协调能力，却没有替任何一方决定所有权。",
+            "若芯片短缺或网络中断，三种制度都会受生产力限制；若劳动者无法组织、公共财政枯竭或资本取得排他数据，路线选择又受力量关系影响。案例反驳的是单因决定，不是否认技术因果。改变一项所有权事实会改变相同工具的社会效果。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "阶级不会从收入表中自动行动",
+          "paragraphs": [
+            "处于相似生产关系的人拥有共同利益压力，却未必形成共同身份和组织。职业差异、地域、种族化分工、性别照料责任和既有政党会分割经验。阶级因此既是客观关系位置，也需要通过协会、工会、政党、报刊和斗争形成行动能力。后者不是给前者贴名字，而是改变能够做什么。",
+            "《雾月十八日》分析法国农民时指出，相似生活条件可以形成阶级位置，但缺乏横向联系会使他们由外部代表。波拿巴主义又借国家机器、历史象征和阶级联盟取得力量。这个具体分析是反机械决定论的内部证据：经济位置重要，却必须经过代表、组织和传统。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "历史生成从概念运动转到社会实践",
+          "paragraphs": [
+            "与黑格尔的连续处在于，社会形式不是静止事物，而由内在关系和冲突历史地产生；一种关系能在发展自身能力时制造否定自己的压力。与黑格尔的断裂处在于，这一运动不由概念保证完成，必须由有身体、有资源限制并彼此斗争的人承担。",
+            "否定性在这里不是任何坏事都会生出好结果。旧制度的冲突可能导致反动、崩溃或新支配；“否定之否定”不能代替联盟、制度设计和成败条件分析。马克思保留历史开放中的矛盾动力，却不提供一部由理念担保终点的世界史。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "成熟自述是否仍然过于决定论",
+          "paragraphs": [
+            "强异议直接针对一八五九年序言：社会存在决定意识、基础变化带动上层变革的语言确实可能压低政治和文化的相对自主，后来许多决定论读法并非凭空出现。若每次都用“复杂”化解，便会逃避马克思文本自身的强因果表述。",
+            "回应不能宣称争议不存在。较强做法是让纲要与具体分析互相限制：序言确定解释优先级和结构压力，《雾月十八日》等文本展示政治中介、偶然事件与传统形式。保住的是物质关系不可绕过；收缩的是逐项预测和单向自动性；仍欠的是不同情境中各机制权重怎样判定。"
+          ],
+          "identity": "modern-controversy",
+          "kind": "controversy"
+        },
+        {
+          "heading": "自述、重建与后世公式要分层",
+          "paragraphs": [
+            "“经济基础最终决定上层建筑”常被当作马克思原句使用，但其固定公式更多来自后世概括和恩格斯通信语境。马克思的自述证据是一八五九年序言；《德意志意识形态》是未完成合著；《大纲》是研究手稿；具体历史著作是另一种论证体裁。它们可以互证，不能揉成同一声音。",
+            "因此历史唯物主义在这里被重建为研究方案：从生活生产与关系再生产出发，追踪生产力、产权、分工、组织、国家和意识形式的具体中介。它拒绝观念自足，也拒绝技术宿命。这个方案可辩护，但不是马克思在某一部定稿中给出的完整方法论条文。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "历史条件必须进入阶级与组织",
+          "paragraphs": [
+            "现在可以说明为何关系比技术清单更基本：工具只有在控制、协作和分配中成为社会力量；矛盾只有经组织和政治才变成历史行动。被排除的是思想创造一切和经济自动剧本，两者都省略现实实践。",
+            "下一问题是生产关系内部有哪些稳定位置，以及这些位置怎样成为阶级。仅说有老板和工人还不够，需要说明财产、生产资料、剩余劳动与政治组织如何连接，也要解释阶级为何不会抹去种族、性别和其他支配轴线。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "同一种网络技术既可由平台垄断，也可由公共机构或合作组织使用。技术改变协调成本，却不能单独决定所有权、治理和劳动关系。",
+      "nodeIds": [
+        "node-marx-04"
+      ],
+      "checkIds": [
+        "marx-04-q1",
+        "marx-04-q2",
+        "marx-04-q3",
+        "marx-04-q4"
+      ],
+      "abilitySummary": [
+        "从现实前提重建历史唯物主义的解释方向。",
+        "区分生产力制约与技术决定论。",
+        "指出阶级、政治组织和传统在历史变化中的中介作用。"
+      ],
+      "recommendedNextLessonId": "marx-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-05",
+      "order": 5,
+      "title": "阶级位置怎样变成政治力量",
+      "depth": "longform",
+      "guidingQuestion": "许多人都依靠出售劳动力生活，为什么他们不会因此自然形成一个统一行动的阶级？",
+      "coreExplanation": "阶级首先是对生产条件和剩余劳动的关系位置，却只有经过组织、代表与斗争才形成政治能力；生产力和生产关系的冲突必须由具体集体承担。",
+      "sections": [
+        {
+          "heading": "相似处境为什么没有自动说同一种语言",
+          "paragraphs": [
+            "仓库正式工、派遣工和外包司机都受同一配送节奏支配，停机时一起损失收入，管理方也从整个链条取得收益。然而他们的合同、工作地点和晋升希望不同，甚至被安排相互责备延误。若阶级只是收入相近，他们似乎属于不同组；若阶级是共同口号，他们又尚未成为阶级。需要一个能连接结构位置与集体行动的概念。",
+            "马克思用阶级分析回答谁控制生产条件、谁必须出售劳动力、谁占有剩余劳动，但他并未在一部著作中留下固定分类表。不同文本分别处理现代资本主义的两极趋势、法国复杂阶级联盟、土地所有者和小生产者。阶级是关系概念，不能只按消费水平或文化品味划线。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "阶级首先回答人怎样进入生产",
+          "paragraphs": [
+            "资本主义工人并非因为贫穷才成为无产者，而是因为与生产资料分离，必须把劳动力作为商品出售。资本家也不只是拥有很多钱的人，而是以货币购买劳动力和生产资料，使价值增殖并再投入。关系位置比个人品德稳定：仁慈雇主仍受竞争和增殖压力，富裕雇员仍可能依赖出售劳动力。",
+            "这个定义有边界。小业主可能既劳动又雇人，经理可能没有资本所有权却代表资本组织劳动，土地所有者通过地租取得收入。关系分析允许混合和中间位置，而不是强迫每个人进入两格表。两极化是资本积累的结构趋势，不等于经验社会只剩两个身份。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同利益必须获得横向联系",
+          "paragraphs": [
+            "相似位置产生可共同处理的压力，例如工资、工作日和控制权，却不自动提供彼此信任、共同解释或行动手段。阶级形成需要把分散经验连接起来：会议、工会、互助、报刊、罢工和政治组织让人发现个人困境的共同结构，也建立承受报复的资源。",
+            "组织不是外加包装。它会改变阶级本身的能力和边界：把外包工纳入谈判，原先由合同制造的分割会减弱；只保护核心工，分割会加深。所谓“自在”与“自为”的后世说法可以帮助表达位置与组织差别，但不能假装马克思给出了一套无争议阶段法则。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "纲领文本中的两极化与联合",
+          "paragraphs": [
+            "《共产党宣言》把资产阶级的世界市场扩张、生产集中和周期震荡同无产阶级联合联系起来。它的论证不是贫困越深革命越近，而是资本把劳动者集中、标准化部分条件，也制造共同斗争对象；交通和传播又使局部斗争能够联结。",
+            "但《宣言》是马克思与恩格斯受共产主义者同盟委托写成的政治纲领，语言有动员性。一八七二年序言还明确说，公社经验使其中某些政治措施过时。它能说明阶级联合的方向，不能单独充当所有国家和时期的社会学预测。"
+          ],
+          "identity": "coauthored-published-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "一次停工怎样跨过合同分割",
+          "paragraphs": [
+            "仓库正式工若只要求自身加薪，管理方可把更多任务转给派遣工；外包司机若单独停运，又可能被替代。三方先共享排班和计件数据，识别延误源于统一算法，再建立共同救济金并同时提出最低保障，结构上的相互依赖才转为行动资源。",
+            "案例不证明统一总比差异重要。司机还面临车辆债务，派遣工面临身份和续签风险，正式工拥有不同谈判筹码。有效组织要让这些差异进入要求，而不是用抽象共同性压掉它们。若忽略差异，最脆弱者会承担联合成本，组织本身再生产支配。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "代表、国家与传统改变阶级行动",
+          "paragraphs": [
+            "《雾月十八日》展示相似经济位置怎样因地域分散而缺乏直接联系，并由外部政治人物代表。政党名称、革命记忆、宗教语言和官僚机器并非经济利益的透明标签，它们筛选可见联盟和可说要求。一个阶级可能支持最终损害其部分利益的政权，因为代表机制把冲突组织成另一形式。",
+            "这不意味着符号可以任意塑造阶级。代表之所以有效，要连接真实恐惧、债务、土地或秩序需要；国家机器也依靠税收、军队和行政层级。政治有相对自主，因为它能重组关系和时间顺序，却不悬浮于再生产条件之外。"
+          ],
+          "identity": "marx-published-history-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "阶级关系不会吸收种族化与性别支配",
+          "paragraphs": [
+            "劳动力市场从来不是无差别个人的市场。殖民身份、种族化法律、迁移限制和性别化照料安排会决定谁被放入最危险岗位、谁的再生产劳动不计酬、谁更难组织。这些关系服务积累时与阶级相连，却有自身制度、暴力和历史，不能只改称阶级现象。",
+            "反过来，只谈身份而不问生产位置，也会遗漏差异怎样被利润、产权和劳动纪律利用。较强分析追踪共同构成：某种种族分类如何降低一组人的谈判权，某种家庭规范如何把照料成本转入家庭，同时还承认反种族主义和性别解放具有不由工资要求穷尽的目标。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "阶级是否只是后来组织出来的身份",
+          "paragraphs": [
+            "强异议说，既然组织和叙事决定谁与谁联合，就不应再假设组织之前已有客观阶级利益；不同联盟会构造不同阶级。这个异议正确指出利益不是自动透明的，也迫使关系论解释为何某些联盟比另一些更稳定。",
+            "这里需要区分压力与解释。对生产资料和生计的关系会反复产生工资、时间和控制冲突，不能由话语随意消除；但这些压力如何被命名、同谁联合、愿承担何种代价，需要政治形成。保住客观约束，收缩预定主体，仍欠的是在具体冲突中怎样比较多种可行联盟。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "整体与否定性在组织中取得现实承担者",
+          "paragraphs": [
+            "马克思仍以整体关系理解局部：一份合同要放进产业链、国家法和世界市场；局部停工能暴露系统对看似边缘劳动的依赖。这延续黑格尔关于中介和内在否定的要求。不同之处是，矛盾不会以概念认识自行升格，组织必须承担风险并建造新的协调形式。",
+            "阶级组织于是既揭示已有整体，也实际重组整体。它把分散个人变成能谈判和立法的集体，却可能官僚化、排除边缘成员或把自身利益称为普遍利益。否定性不能保证组织无误，反而要求组织接受内部申诉和外部批判。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "阶级关系仍需价值形式的说明",
+          "paragraphs": [
+            "到这里，阶级已从标签变成位置、压力和组织能力的连接。被排除的是收入分类自动产生政治主体，也排除了组织能够任意创造利益。国家、传统和其他支配关系构成不可跳过的中介。",
+            "然而资本为什么必须增殖、分散劳动为何以市场价值互相比较，仍未解释。若只说资本家控制工人，容易把资本主义理解成个人统治。商品、价值形式和拜物教将显示，人们的社会劳动怎样通过物的交换关系取得客观约束。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "仓储正式工、派遣工和外包司机受同一配送体系支配，却由不同合同和身份分隔。共同停工需要把结构利益转成组织联系，而不是等待相似处境自行发声。",
+      "nodeIds": [
+        "node-marx-05"
+      ],
+      "checkIds": [
+        "marx-05-q1",
+        "marx-05-q2",
+        "marx-05-q3",
+        "marx-05-q4"
+      ],
+      "abilitySummary": [
+        "把阶级界定为生产关系位置而非收入标签。",
+        "说明共同处境为何还需要组织与代表。",
+        "分析阶级政治与其他分割关系的交织。"
+      ],
+      "recommendedNextLessonId": "marx-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-06",
+      "order": 6,
+      "title": "商品为什么会遮住人的社会劳动",
+      "depth": "longform",
+      "guidingQuestion": "为什么同一件有用物必须先取得可交换的价值形式，分散生产者的劳动才被社会承认？",
+      "coreExplanation": "商品具有使用价值与价值的双重规定；价值量由社会必要劳动时间约束，价值必须在另一商品中取得形式，拜物教由私人劳动借物的关系成为社会劳动而产生。",
+      "sections": [
+        {
+          "heading": "有用为什么还不足以成为商品",
+          "paragraphs": [
+            "一把椅子能坐，这是它的具体有用性；但在普遍交换中，它还必须能同布、粮食和货币按比例交换。不同用途没有天然共同单位，市场却不断把它们量化比较。若把价值解释成主观喜好，无法说明生产条件为何系统影响交换；若把价值等同价格，又会把每天波动当成生产结构本身。",
+            "《资本论》从商品开始，不是因为物品最简单，而是因为资本主义财富以商品堆积出现。商品是社会形式：某物为他人使用，并通过交换进入社会分工。自给者为自己做的椅子有使用价值，却不因包含劳动就自动具有商品价值。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "使用价值与价值不是两种物质",
+          "paragraphs": [
+            "使用价值指物在特定实践中满足需要的能力，受材料、技能和社会需要影响。价值则不是藏在物里的第二种成分，而是商品生产中私人劳动取得社会可比性的形式。二者属于同一商品的不同规定：没有有用性，劳动不被社会承认；但有用程度也不直接给出价值量。",
+            "劳动也有双重性。具体劳动以不同方式制造不同用途，抽象劳动则把这些差异约化为一般人类劳动力支出。这种约化不是分析者随意忽略细节，而由交换实践反复实行。价值理论因此研究一种历史社会关系，不是宣布劳动在任何社会都以同一方式计量。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "社会必要劳动时间淘汰个别浪费",
+          "paragraphs": [
+            "价值量由现有正常生产条件、平均熟练程度和强度下制造某种使用价值所需的社会必要劳动时间约束。两位制作者各工作十小时并不保证价值相等；若一位使用落后工具多耗一倍时间，交换不会因此奖励他的个别低效率。私人劳动只有事后通过市场表明是否算作社会劳动。",
+            "“社会必要”还包含社会需要的限度。即使每件都按正常效率生产，若整个行业生产过多，一部分劳动也无法充分实现为价值。这个判断使价值量不同于物理秒表总和，并为危机中的实现问题留下入口。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "价值为何必须在另一商品中表现",
+          "paragraphs": [
+            "商品不能独自在自己身体上宣布价值。说二十码布值一件上衣，布处于相对价值形式，上衣充当等价形式；布的价值借另一种使用价值表现。交换扩大后，一个商品面对许多等价物，随后形成一般等价物，货币则固定占据这一位置。",
+            "价值形式论的力量在于说明社会共同性为何必须通过物的关系出现。生产者没有在生产前共同分配总劳动，他们的私人产品在交换中互相验证。货币不是给已有自然价值贴标签，而是这种分散社会关系取得统一表现的必要形式。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "价格会围绕约束运动而非逐件相等",
+          "paragraphs": [
+            "价格是价值的货币表现，却能因供求、垄断、信用、税收和预期偏离价值。偏离不是理论意外：商品只有通过交换实现，货币形式本就允许量的脱节。成熟分析还要经过利润率平均化和生产价格，才能解释资本间竞争。因此不能拿某件古董高价直接反驳或证明劳动价值论。",
+            "劳动价值论也不说工资等于劳动创造的全部价值，更不把家务和生态价值都压成市场价值。它解释资本主义商品生产中的价值形式和增殖关系。对未商品化照料的社会重要性，需要另一个问题；把“有价值”日常用语与特定价值范畴混同，会制造虚假争论。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "十小时椅子怎样暴露个别计时错误",
+          "paragraphs": [
+            "甲用常见设备五小时完成一把合格椅子，乙用旧工具十小时完成同样椅子。若正常条件接近甲，乙增加的五小时不会形成同等追加价值。乙确实付出更多努力，也可能值得社会援助，但价值形式不按道德辛苦补偿个别劳动。",
+            "若新安全标准要求所有椅子增加必要工序，社会必要时间可能整体上升；若自动化普及，可能下降。案例改变生产条件便改变判断，说明这个尺度是社会历史的。它不能直接预测两把椅子的成交价，因为促销、品牌和库存仍会造成价格差。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "拜物教不是把购物看得太重要",
+          "paragraphs": [
+            "商品拜物教指生产者之间的社会关系以产品之间的自然属性出现。价格变动像物自身发令，市场“要求”企业裁员，人的共同劳动能力则看似从属于物。这不是单纯迷信，因为在私人生产和交换中，人们确实必须服从这些客观价格信号才能生存。",
+            "揭露背后有人并不能立即消除拜物教。只要生产仍由独立私人决定、社会联系事后经交换建立，物的形式就有现实效力。批判要同时解释表象为何颠倒和颠倒为何客观有效。这延续早期异化问题，却以更具体的价值形式代替一般投射语言。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "没有偏好与稀缺，劳动能否说明交换",
+          "paragraphs": [
+            "强异议指出，没人需要的商品无法出售，稀有物也可能价格极高；因此劳动时间似乎不足以解释交换。这个异议正确提醒使用价值、需求和稀缺不能省略，也击中把价值直接当价格的粗糙版本。",
+            "回应需要限定对象。价值理论分析可再生产商品在竞争性资本主义中的社会劳动约束，社会需要决定劳动能否被承认；市场价格还受供求和垄断影响。保住的是生产条件对价值结构的约束，收缩的是逐件价格预测。关于价值与价格的转化仍有长期解释争议，不能以一句“最终相等”封闭。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "内在关系如何变成可见形式",
+          "paragraphs": [
+            "价值形式分析保留黑格尔式的关系观点：价值不能作为孤立物的属性把握，只在与另一商品的关系中表现；形式的发展也由前一种表达的缺陷推动。这里的“矛盾”不是逻辑游戏，而是商品既是具体有用物，又必须作为可交换的一般社会劳动成立。",
+            "改写仍然关键。形式运动由分散生产者的实践、劳动分工和交换条件承担，不是价值概念自己生出货币。概念顺序重建现实关系的必要环节，却不声称历史每一步都按书中演绎顺序发生。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "等价交换怎样仍能产生利润",
+          "paragraphs": [
+            "我们已经把商品的有用性、社会劳动约束、价值表现和价格区分开，也说明拜物教是结构效果。被排除的是个人计时定价与纯心理幻觉论。商品交换看起来仍按等价物进行，于是新的困难出现：若买卖双方都按价值交换，资本如何持续得到更多价值？",
+            "答案不能靠商人普遍欺骗，因为交换中一方多得等于另一方少得，无法说明总价值增殖。马克思将寻找一种特殊商品：它的使用会创造新价值，而它自身也有由再生产所需劳动决定的价值，这就是劳动力。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "两位制作者各花十小时做同类椅子，一位使用落后工具。市场不会因个人多花时间就承认更高价值，这检验了社会必要劳动时间与个别劳动时数的区别。",
+      "nodeIds": [
+        "node-marx-06"
+      ],
+      "checkIds": [
+        "marx-06-q1",
+        "marx-06-q2",
+        "marx-06-q3",
+        "marx-06-q4"
+      ],
+      "abilitySummary": [
+        "区分使用价值、价值、交换价值和价格。",
+        "说明社会必要劳动时间为何不是个别计时。",
+        "把商品拜物教理解为真实社会形式而非单纯观念错误。"
+      ],
+      "recommendedNextLessonId": "marx-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-07",
+      "order": 7,
+      "title": "劳动力商品如何揭开剩余价值",
+      "depth": "longform",
+      "guidingQuestion": "若工人与资本家按合同等价交换，剥削为何仍能发生，而不必预设偷窃或少付工资？",
+      "coreExplanation": "劳动力的价值由其再生产所需生活资料的社会劳动约束，使用价值却是创造新价值；必要劳动与剩余劳动的分割使等价交换与剥削能够同时成立。",
+      "sections": [
+        {
+          "heading": "利润不能从普遍加价中凭空出现",
+          "paragraphs": [
+            "商人可以低买高卖，但若所有人都普遍多收，社会总价值不会仅因交换重新分配而增加。一方在流通中获得的额外价值，对另一方是损失。资本却表现为货币投入后系统性返回更多货币，必须找到一个不破坏等价交换又能创造新增价值的环节。",
+            "关键不能说“劳动是一种商品”。工人出售的不是已经完成的一定量劳动，而是在一定时间内工作的能力，即劳动力。劳动是劳动力被使用时的活动。若把二者混同，就会以为工资支付了全部劳动，剩余价值只能来自少付。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "劳动力成为商品需要双重自由",
+          "paragraphs": [
+            "劳动力能在市场出售，需要劳动者在法律上能支配自己，不是奴隶或农奴；同时又同生产资料和独立生活条件分离，不能靠自己的土地、工具长期生产。这种“双重自由”一面是真实人格自由，一面是不得不出售劳动力的物质压力。",
+            "因此雇佣合同既不是纯强迫，也不是无条件自由。工人可在雇主间选择并依法主张权利，这与奴役有重要差别；但作为阶级，他们必须进入劳动力市场。分析若只看签字瞬间会高估自由，若把合同等同暴力又会抹去法律形式和斗争空间。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "劳动力的价值指向再生产条件",
+          "paragraphs": [
+            "像其他商品一样，劳动力价值由再生产它所需生活资料的社会必要劳动时间约束，包括维持劳动者、形成技能并在世代上补充劳动力的历史社会需要。这个尺度不是生理最低热量；不同国家和时期的生活标准含有历史与道德要素，工人斗争会影响其内容。",
+            "再生产也不只发生在市场。做饭、清洁、养育和照料维持劳动力，其中大量劳动长期由家庭中女性无偿承担。《资本论》没有给出完整社会再生产理论，但劳动力价值概念迫使分析工资背后的生活条件。后世女性主义马克思主义在此扩展，并非可直接冒充马克思定论。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "劳动力的使用价值是创造价值",
+          "paragraphs": [
+            "资本家按劳动力价值支付工资后，在约定工作日内使用它。劳动力的特殊处在于，活劳动不仅把生产资料的既有价值转移到产品，还能创造新价值。它一天创造的价值可以超过维持这一天劳动力所需生活资料的价值。",
+            "这不是说工人的身体像魔法源泉。新价值来自在既有技术和社会分工中的活劳动，生产能否实现为价值还依赖商品出售。特殊使用价值只解决增殖的生产来源，不能取消流通、自然条件和其他劳动的必要性。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "工作日内部出现看不见的分割",
+          "paragraphs": [
+            "假设一天劳动力价值相当于四小时社会劳动，而工作日为八小时。前四小时创造的新增价值补偿工资，称为必要劳动时间；后四小时继续创造新价值，却没有形成额外工资，称为剩余劳动时间。剩余价值是这部分新价值被资本占有的形式。",
+            "时间分割不是上午真的替自己工作、下午替资本家工作，产品和流程通常连续。它是价值关系的分析划分。剩余价值率比较剩余劳动与必要劳动，揭示剥削程度；利润率则把剩余价值同全部预付资本相比，会遮住其来源。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "八小时合同怎样同时等价又被剥削",
+          "paragraphs": [
+            "某工人一天工资三百元，足以在既定社会标准下再生产一天劳动力；在现有生产率下，他四小时创造相当于三百元的新价值，另四小时再创造三百元。资本家没有违反劳动力买卖的价格，却取得后半部分新价值。",
+            "若工资上升而工作日不变，必要劳动比例增加，剩余劳动比例下降；若生产生活资料的效率提高，劳动力价值可能下降，必要时间缩短。案例不能从账面销售额直接算出个别工人的价值贡献，因为生产是协作的，价值实现和资本构成还需更复杂资料。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "剥削是社会关系判断，不是人格指控",
+          "paragraphs": [
+            "剥削在这里指一阶级凭生产条件控制占有另一阶级的剩余劳动。它可以与守法、礼貌和市场等价共存，也可以与违法欠薪叠加。欠薪是额外侵害，不是剥削概念的全部。把剥削等同恶意，会让改善管理风格看似解决结构。",
+            "这一概念也不是直接完成的道德判决。马克思揭示剩余劳动关系和自由平等表象的内在限度，但为什么任何特定剩余安排不正当，还涉及民主控制、需要、风险和共同生产的规范论证。结构诊断提供强理由，却不能把所有伦理债务藏在术语里。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "资本、创新和风险是否也创造价值",
+          "paragraphs": [
+            "强异议说，机器、管理和投资风险对产出不可缺少，把新增价值只归活劳动似乎忽视互补投入。尤其创新者承担失败，利润可被解释为延期消费和风险回报，而非剩余劳动占有。",
+            "马克思的回应区分物质贡献与新价值来源。机器提高生产率并把自身既有价值逐步转移，不因有用就自动创造新增价值；管理若是必要劳动，其执行者也在劳动。风险能影响收益分配，却不说明社会总剩余从何产生。争议仍在价值理论本身及无形资产上，不能把“不可缺少”直接等同“创造价值”。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "成熟剥削论怎样改写早期问题",
+          "paragraphs": [
+            "早期异化描述劳动活动和成果成为异己力量，成熟分析则解释这种力量如何通过劳动力商品和资本再生产成立。连续处是工人自己的活动形成与之对立的社会力量；变化处是论证不再依赖类存在概念，而从商品交换的内在矛盾推出剩余价值。",
+            "二者仍不能合并。工人参与有意义任务并拥有一定自治时，异化可能减轻，剩余劳动占有却仍存在；某些非雇佣活动可能异化，却没有资本主义剩余价值。分开概念让批判更精确，而非削弱整体联系。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "剩余劳动的长度与强度成为斗争对象",
+          "paragraphs": [
+            "剥削之谜现已从流通转到生产：劳动力按价值出售，其使用创造超过自身价值的新价值。被排除的是利润只来自欺骗和工资支付全部劳动的表象。可工作日多长、必要劳动怎样缩短，并非纯技术问题。",
+            "资本会延长工作日取得绝对剩余价值，也会借生产率提高缩短必要劳动取得相对剩余价值。机器既可能减轻劳动，也可能在资本关系中加强控制。工人斗争和工厂法将显示，经济规律通过对抗和政治制度实现，而非在市场后自动运行。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一天工资足以再生产劳动力所需生活资料，不等于整个工作日都在补偿工资。若四小时创造等同工资的价值，后四小时仍创造由资本占有的新价值。",
+      "nodeIds": [
+        "node-marx-07"
+      ],
+      "checkIds": [
+        "marx-07-q1",
+        "marx-07-q2",
+        "marx-07-q3",
+        "marx-07-q4"
+      ],
+      "abilitySummary": [
+        "区分劳动与劳动力。",
+        "逐步推出必要劳动、剩余劳动和剩余价值。",
+        "说明剥削为何不等于市场欺骗或道德贪婪。"
+      ],
+      "recommendedNextLessonId": "marx-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-08",
+      "order": 8,
+      "title": "机器、工作日与斗争怎样改写生产",
+      "depth": "longform",
+      "guidingQuestion": "机器提高生产率，为什么在资本主义条件下既可能缩短必要劳动，又可能延长或强化劳动？",
+      "coreExplanation": "绝对与相对剩余价值是两种增殖路径；机器的社会效果由资本控制下的使用方式塑造，工作日界限则经工人斗争和法律形成。",
+      "sections": [
+        {
+          "heading": "节省劳动为何没有自动变成自由时间",
+          "paragraphs": [
+            "自动分拣把每小时产量提高一倍，按物质可能性，同样产量只需更少劳动。但企业可能削减岗位、提高每人指标并延长设备运行，留下的人劳动更紧张。技术确实节省单位产品所需时间，却没有决定节省归谁。若赞美机器本身等于解放，会跳过控制关系；若责怪机器本身，又会把社会选择自然化。",
+            "资本追求剩余价值有两条相连路径。延长工作日或加强既有时段的劳动，可增加绝对剩余价值；提高生产率、降低劳动力再生产资料的价值，从而缩短必要劳动，可增加相对剩余价值。二者是分析区分，现实企业常同时使用。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "工作日长度没有商品交换给出的答案",
+          "paragraphs": [
+            "资本家购买一天劳动力，希望尽量使用其价值；工人出售劳动力，却必须保存身体与家庭生活，要求限制消耗。双方都能从交换权利提出要求：买方要求使用，卖方要求不毁坏商品。单靠等价交换原则不能决定一天究竟八小时还是十二小时。",
+            "《资本论》第十章由此说，在平等权利之间由力量决定。这里“力量”不只指暴力，还包括联合、罢工、舆论、调查和立法。工作日不是自然常数，而是阶级力量凝结成的制度界限。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "工厂法不是虚假外观",
+          "paragraphs": [
+            "英国工厂法限制童工、夜工和工作时长，执行不一，也常被企业规避，但它真实改变了可合法榨取的劳动时间。马克思把它描述为工人经过长期斗争赢得的社会屏障。这说明法律既受生产关系制约，也能反过来改变积累方式。",
+            "若把法律全称为资产阶级骗局，就无法解释资本为何反对限制，也无法评估执行差异。若把立法当作中立理性胜利，又会忘记组织力量。正确关系是：法律形式把冲突暂时稳定下来，保护可以真实，同时仍在资本主义关系内。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "相对剩余价值通过社会生产率形成",
+          "paragraphs": [
+            "个别企业率先采用新技术，会在市场价值尚未下降时取得超额收益；当技术普及，商品社会价值下降。若下降发生在工人生活资料部门，劳动力价值可能降低，必要劳动时间缩短，即使工作日不延长，剩余劳动比例也上升。",
+            "链条包含多个条件：技术要提高实际生产率，扩散要改变社会必要时间，相关商品要进入劳动力再生产。生产奢侈品的效率提高不会以同一方式降低劳动力价值。把“技术进步”直接连到剥削加深，会省略这些中间环节。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "机器体系重组劳动者而不只替代工具",
+          "paragraphs": [
+            "在手工业中，工人使用工具；在大工业机器体系中，劳动过程往往围绕设备连续运行重组，技能被拆分，监督和节奏集中。资本通过机器不仅提高产量，也更换可雇人群、削弱部分技能谈判力，并把科学和协作的共同力量表现为资本属性。",
+            "这并不证明技能只会下降。新设备也创造维护、设计和协调能力，工人会重新掌握技术。马克思分析的是资本控制下的总体倾向和冲突，而非每个岗位命运。机器的物质结构会限制选项，社会关系决定谁参与设计、谁得收益、谁承担风险。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "自动分拣的四种可变结果",
+          "paragraphs": [
+            "自动分拣上线后，企业可以保持工作日并提高指标，取得更多产出；可以裁员使在岗者更不安全；也可在工人有强组织时缩短工时而不降薪，或把节省时间用于轮岗培训。同一设备的结果随合同、组织力和需求改变。",
+            "若设备确实减少重体力伤害，这项改善不应因资本控制而否认；若同时加强监控，也不能用安全收益遮蔽。案例执行的是分项判断：物质减负、劳动强度、就业风险、时间分配和控制权各自需要证据。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "社会协作为何表现成资本生产力",
+          "paragraphs": [
+            "多人协作会产生超过孤立劳动相加的能力：同步、知识共享和规模效应形成社会生产力。但在资本主义工厂中，资本购买分散劳动力并组织协作，这一共同能力便表现为资本家的组织天赋和机器的属性。工人自己的社会联系以外在命令出现。",
+            "这里可见商品拜物教的生产版本，也连接早期异化。去神秘化不等于否认管理劳动，而是区分必要协调与由所有权垄断的指挥权。大规模生产需要协调，却不逻辑推出协调必须由资本单方面决定。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "竞争是否迫使每个资本家别无选择",
+          "paragraphs": [
+            "强异议说，竞争迫使企业采用增效技术和压缩成本，个别资本家即使愿意改善劳动也会被淘汰。因此对控制者提出责任似乎无效，只有系统变化才有意义。",
+            "回应要区分结构压力与行动空间。竞争限定可持续策略，却不决定每项安全投入、工资分配和政治游说；大型企业还能塑造市场。个人善意不能解决系统，但责任也不因压力消失。集体规则、工会和法律正是把单个企业不愿承担的成本改成共同约束。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "资本的矛盾通过斗争改变形式",
+          "paragraphs": [
+            "资本追求延长使用劳动力，却又依赖劳动力持续再生产；机器扩大共同生产能力，却把能力置于生产者之外。这些是关系内部的矛盾，不是两个外部价值观冲突。它们会产生反抗与调整压力。",
+            "但否定性没有替工人取得八小时制。只有组织、调查和立法把压力变为新界限。新界限又促使资本转向相对剩余价值和技术控制，冲突在改变形式中继续。这种历史生成没有预定终点。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产率提高把问题推向积累整体",
+          "paragraphs": [
+            "现在已说明技术不会自行分配时间，法律也不是经济的影子。绝对与相对剩余价值使资本不断重组劳动，工人斗争则真实改变工作日与机器使用条件。被排除的是技术乐观主义和技术罪责论。",
+            "个别企业的增效若扩展为全社会积累，会怎样改变就业、工资、部门比例和危机？简单看单个工厂容易得到“机器必然使人更穷”或“效率使所有人受益”的相反口号。下一步必须进入资本再生产和积累的总体运动。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "自动分拣使单位产量翻倍，却同时提高指标并削减岗位。技术节省的时间没有自动成为劳动者自由时间，必须追踪控制权和工作日制度。",
+      "nodeIds": [
+        "node-marx-08"
+      ],
+      "checkIds": [
+        "marx-08-q1",
+        "marx-08-q2",
+        "marx-08-q3",
+        "marx-08-q4"
+      ],
+      "abilitySummary": [
+        "区分绝对与相对剩余价值。",
+        "说明机器本身与资本主义机器使用的差异。",
+        "把工厂法理解为阶级斗争形成的真实制度结果。"
+      ],
+      "recommendedNextLessonId": "marx-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-09",
+      "order": 9,
+      "title": "积累为何同时扩大财富与不安全",
+      "depth": "longform",
+      "guidingQuestion": "资本积累带来更高生产率与更多财富，为什么仍会制造失业压力、部门失衡和周期危机？",
+      "coreExplanation": "资本再生产不仅重复物品流通，也重复资本与雇佣劳动关系；积累改变资本构成并产生相对过剩人口，危机由生产、实现、信用和部门比例的矛盾共同形成。",
+      "sections": [
+        {
+          "heading": "更多产品为什么仍可能卖不出去",
+          "paragraphs": [
+            "生产率提高能制造更多住房、衣物和机器，但资本主义生产的直接目标不是满足需要，而是价值增殖。房屋很有用，不等于按预期价格售出；工人有居住需要，也不等于拥有有效购买力。若把危机解释成东西太多，便忽略相对于有支付能力需求的“过剩”；若只说消费不足，又解释不了投资、利润和信用的作用。",
+            "个别资本家把利润再投资是合理竞争策略，所有资本同时扩张却可能造成部门比例失调、产能过剩和债务脆弱。总体结果不能从单个企业意图直接相加。马克思转向再生产，正是要看生产、流通和阶级关系怎样在社会整体中连续。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "重复生产也在重复阶级关系",
+          "paragraphs": [
+            "简单再生产假定剩余价值被资本家消费，生产规模不扩大。即便如此，工人用工资购买生活资料后又必须出售劳动力，资本家通过生产重新取得预付资本和剩余。过程反复进行，使最初看似一次合同的关系成为持续依赖。",
+            "从孤立交易看，双方自由交换；从连续过程看，工人生产的价值不仅补偿工资，还再生产控制其劳动的资本。这里没有说个人绝无储蓄或流动，而是揭示制度怎样通常重建阶级位置。再生产概念把结果与下一轮条件连接起来。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "积累把剩余价值转成新增资本",
+          "paragraphs": [
+            "当部分剩余价值用于购买更多生产资料和劳动力，简单再生产变成扩大再生产。资本积累提高规模、集中生产，并以竞争迫使企业更新技术。过去占有的剩余劳动成为支配更多活劳动的条件，资本关系因而在扩张中加深。",
+            "积累不等于资本家把个人消费省下来那么简单。信用会汇集社会资金，公司形式分离所有与管理，国家基础设施也影响扩张。马克思的抽象模型先抓住剩余价值资本化，再逐层加入竞争和信用；不能把第一层当作完整企业史。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "社会总资本需要部门比例",
+          "paragraphs": [
+            "《资本论》第二卷把社会生产区分为生产生产资料的部门与生产消费资料的部门，考察两者产品如何互相替换。一个部门的产出是另一部门的投入或消费对象，规模比例若不相容，个别商品即使含有价值也难以实现。",
+            "再生产图式不是中央计划配方，也不证明市场会自动均衡。它显示平衡所需条件，从而让失衡可定位。第二卷由恩格斯依据马克思多份手稿编成，尤其第三篇马克思认为仍需修订；使用图式必须保留编辑和未完成身份。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "相对过剩人口如何由积累产生",
+          "paragraphs": [
+            "技术和资本构成变化可能使资本增长快于劳动力需求，形成相对于资本当前增殖需要的过剩人口。这里“过剩”不指社会不需要这些人，也不指人口自然太多，而指他们暂时不能在有利可图的条件下被资本吸收。",
+            "失业、半失业和不稳定就业构成工资与纪律压力，也为扩张期提供可迅速吸纳的劳动力。这个机制不是每次自动压低实际工资；劳动力短缺、组织、福利和产业变化会抵消。它说明积累怎样内生制造不安全，而非把失业只归个人技能。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "住房扩张怎样转成连锁收缩",
+          "paragraphs": [
+            "低利率和房价预期推动多家企业借贷建房，供应链和就业随之扩张。工资增长慢于房价，购买依赖更高杠杆；当利率上升或预期转变，销售放缓，债务仍到期。企业减产、裁员，失业又进一步削弱需求，银行收紧信用。",
+            "案例同时包含生产扩张、价值实现、信用和相互反馈，不能用单一消费不足概括。若公共住房直接按需要配置，部分实现压力会改变，但材料、劳动力和财政约束仍在。案例不证明所有危机同型，只展示多重矛盾怎样放大。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "危机理论是分散机制群而非一条定律",
+          "paragraphs": [
+            "马克思讨论过商品买卖在时间上分离、生产与消费矛盾、部门比例、利润率压力、信用扩张和过度积累。这些机制能够互相连接，却散布于《资本论》各卷和研究手稿，没有一篇亲定的综合危机理论。把危机归为某一唯一原因，会超过文本边界。",
+            "较稳妥的共同点是：资本主义协调经事后市场实现，个别积累决策在总体上可能不相容；信用暂时跨越限制，也扩大未来清偿压力。危机既破坏价值，也通过贬值、失业和集中重建积累条件，因此不是自动通向解放。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "贫困化不能理解成每人收入直线下降",
+          "paragraphs": [
+            "《资本论》第一卷积累一般规律使用强烈的贫困、压迫和不安全语言，容易被读成实际工资必然持续下降。但马克思也分析工人斗争、工资历史要素和生产率提高。经验上某些时期实际工资上升，与资本控制、相对不平等和不安全扩大可以并存。",
+            "可辩护的命题是相对与结构贫困化：财富和生产能力增长不保证工人对条件的控制同步增长，积累会再生产失业压力和依赖。不能推出的是每个国家、每个群体的生活水平单调恶化。具体判断须区分绝对收入、相对份额、工作强度、公共服务和风险。"
+          ],
+          "identity": "modern-controversy",
+          "kind": "argument"
+        },
+        {
+          "heading": "福利国家是否反驳积累规律",
+          "paragraphs": [
+            "强异议指出，集体谈判、社会保险和公共服务能长期提高劳动者生活与安全，说明积累并不必然把人推入贫困。若理论把每次改善解释成暂时例外，它就失去可反驳性。",
+            "回应应承认制度会实质改变结果，不把保护降为假象。积累规律说明资本关系产生的压力，实际轨迹由组织、国家、世界分工和生产率共同决定。福利制度既能限制商品依赖，也可能以税基和就业增长依赖积累。保住趋势机制，放弃无条件预测，才允许经验检验。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "危机把经济关系推回国家与权利",
+          "paragraphs": [
+            "我们已经看到再生产重复阶级关系，积累制造不安全，危机来自多机制失配而非单一灾因。被排除的是机器必然贫困化、危机自动革命和每人工资直线下降。文本边界也要求区分第一卷亲定出版与第二、三卷恩格斯编本。",
+            "第一卷对生产过程与积累的分析还没有穷尽资本怎样连续运动。下一步要进入资本循环与周转，追问价值如何依次采取货币、生产要素和商品形态，并受生产时间、流通时间及固定资本周期制约；有了这层时间中介，论证才能从个别资本走向社会总资本，并继续辨认竞争与分配怎样把剩余价值表现为彼此独立的利润、利息和地租。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "住房企业在信贷扩张中同时加建，工资与购买力却未同步；房屋有用并不保证价值顺利实现。需求收缩、债务到期和相互减产把局部失衡放大为危机。",
+      "nodeIds": [
+        "node-marx-09"
+      ],
+      "checkIds": [
+        "marx-09-q1",
+        "marx-09-q2",
+        "marx-09-q3",
+        "marx-09-q4"
+      ],
+      "abilitySummary": [
+        "区分简单再生产、积累和社会总资本再生产。",
+        "说明相对过剩人口与工资压力的机制。",
+        "辨别危机理论与线性贫困化命题的边界。"
+      ],
+      "recommendedNextLessonId": "marx-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-10",
+      "order": 10,
+      "title": "资本为什么必须不断变换形态",
+      "depth": "longform",
+      "guidingQuestion": "剩余价值在生产中产生，资本为何仍须经过购买、生产和出售，并受周转速度与价值回流方式约束？",
+      "coreExplanation": "资本不是停驻在货币、机器或库存中的单一物，而是价值依次采取货币资本、生产资本和商品资本形态并返回增殖货币的运动。三种循环从不同起点显示同一运动，周转则把生产时间、流通时间和价值回流接成年度过程。固定资本与流动资本按价值怎样转移和返回划分，不能同不变资本与可变资本混同。",
+      "sections": [
+        {
+          "heading": "工厂里的增殖为何会被仓库截住",
+          "paragraphs": [
+            "一批商品已经在工厂中完成，劳动者也创造了超过工资价值的新增价值，可货物若长期堆在仓库，企业便没有货币购买下一批原料和支付下一轮工资。生产中的增殖并没有消失，却尚未以可重新投入的货币返回。只盯着生产现场，会漏掉资本连续存在所需的形态转换。",
+            "反过来，若只看买卖，又会以为低买高卖就是增殖来源。马克思必须同时保住两点：剩余价值在生产中产生，资本却只有经过流通实现并重新进入生产，才作为资本持续运动。这项张力构成《资本论》第二卷的入口。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "货币资本循环先显示预付与返回",
+          "paragraphs": [
+            "货币资本循环从货币购买劳动力和生产资料开始，经过生产形成含有剩余价值的商品，再通过出售返回更多货币。它最清楚地展示增殖目的，却容易让人误以为货币自身在流通中长大。",
+            "购买阶段不是普通消费。货币必须买到能共同进入生产的要素，尤其劳动力与生产资料；商品阶段也不是已经完成的成功，商品还须有人以货币购买。循环中的每一停顿都会影响下一阶段。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产资本与商品资本循环改变观察起点",
+          "paragraphs": [
+            "生产资本循环从正在运作的生产条件出发，突出再生产：产出的价值一部分补偿耗费，一部分形成剩余，并须重新组合为下一轮生产。它使资本关系的重复比一次货币回报更醒目。",
+            "商品资本循环从待实现的总商品价值出发，突出一个资本的出售同时是别人购买生产资料或消费资料。三种循环不是三类企业，而是同一产业资本同时经历的三种形态；连续生产要求不同批次资本错开处于各阶段。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产时间与流通时间共同组成周转",
+          "paragraphs": [
+            "资本处在劳动过程时，活劳动能够创造新价值；处在等待发酵、自然生长或库存保存时，生产时间可能继续，却不一定每刻都有劳动加入。进入出售和重新购买的流通时间后，资本又暂时不能执行生产职能。",
+            "周转时间把生产时间与流通时间相加，周转次数则说明同一预付资本一年能够完成多少轮。缩短运输或销售不会改变一小时活劳动创造新价值的关系，却会减少资本被束缚的时间，使同一预付额更快重新承担生产职能。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "固定与流动说的是价值怎样回流",
+          "paragraphs": [
+            "机器在多轮生产中保持物质形态，只把一部分价值逐次转移到产品，因而以固定资本方式周转。原料通常在一轮中消耗，其价值随产品出售整体返回；工资预付也需在产品出售后重新以货币补回，二者在回流方式上属于流动资本。",
+            "固定不等于物理上不移动。运输工具可以移动，却把价值分期转移；牲畜在不同生产中也可能具有不同回流方式。分类依据是价值转移和返回的时间结构，而不是物体是否钉在地面。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "两组资本分类不能互相替换",
+          "paragraphs": [
+            "不变资本与可变资本回答价值增殖来源：生产资料把已有价值转移，劳动力的使用能创造超过自身价值的新价值。固定资本与流动资本回答预付价值怎样分期或整批返回。机器是固定且不变，原料是流动且不变，工资预付是流动且可变。",
+            "若把流动资本都当成可变资本，原料便被错误地赋予创造新价值的能力；若把固定资本同不变资本画等号，又会漏掉流动的不变资本。马克思批评古典政治经济学的混同，正因为分类错位会遮蔽剩余价值来源。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "concept"
+        },
+        {
+          "heading": "可变资本周转改变年度比例",
+          "paragraphs": [
+            "假设一次生产预付十万元工资，剩余价值率为百分之一百。若一年只周转一次，年度剩余价值是十万元；若同一预付额完成五次周转，每轮关系不变，年度内被动员的劳动和形成的剩余价值会累计为五倍。",
+            "这里提高的是年度剩余价值相对于预付可变资本的比率，不是每轮必要劳动与剩余劳动的划分自动改变。把两者混合，会把时间重复的效果误写成单次剥削强度提高。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "库存时间怎样改变预付需要",
+          "paragraphs": [
+            "两家家具厂使用同样设备，每轮生产都需一个月。甲厂平均半个月售出，乙厂平均五个月售出。乙厂若要不停工，必须准备更多货币、原料和仓储；即使单件利润关系相同，更多资本会被库存和等待占用。",
+            "若乙厂通过可靠订单把销售等待降到一个月，释放出的资本可以维持更多轮生产。但若所谓提速只是把库存压给供应商或迫使劳动者无偿待命，社会成本没有消失，只是改变了承担位置。周转分析不能替代权力和风险分析。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "流通不创造价值为何仍能提高收益",
+          "paragraphs": [
+            "强异议说，若更快销售和运输能提高年度收益，流通显然也创造价值。这个推论把价值来源同资本一年执行生产职能的次数混在一起。道路缩短没有在卡车移动中凭空增加一批剩余价值，却可能让同一货币更早购买下一轮劳动力。",
+            "运输和保存还需进一步区分。改变商品空间位置或维持使用价值有时是生产过程的必要延续，会有劳动和生产资料耗费；广告竞价、所有权转手等纯流通费用则主要分配或实现既有价值。现实活动可能交叠，不能按行业名称一刀切。"
+          ],
+          "identity": "strong-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "时间中介保住来源论也限制来源论",
+          "paragraphs": [
+            "回应保住的结论是，活劳动仍是新增价值来源，流通速度却决定资本能否连续利用这种来源。资本因此既受生产关系约束，也受市场、交通、支付和库存时间约束。来源和实现属于不同环节，缺一都不能说明总运动。",
+            "回应同时收缩一种过强断言：生产之外的活动并非都无生产意义，周转加快也不天然等于社会进步。判断必须追踪劳动是否改变使用价值、成本由谁承担、时间节省怎样分配。"
+          ],
+          "identity": "project-response",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二卷是手稿研究经恩格斯编成的文本",
+          "paragraphs": [
+            "《资本论》第二卷一八八五年由恩格斯依据马克思多批手稿编辑。三种循环、周转和固定流动资本的分析确属马克思研究，但成书顺序、连接和个别表述没有得到作者最终批准。",
+            "因此可以重建稳定的概念依赖，却不能用目录顺序证明每一步已达到第一卷同等定稿强度。不同手稿的时间和完成度应保留，恩格斯的编辑劳动也不能隐藏。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "个别循环完成仍留下社会整体问题",
+          "paragraphs": [
+            "现在能够说明，一个资本为何必须在三种形态间运动，周转为何改变预付需要和年度增殖，固定流动分类又为何不同于价值增殖分类。被排除的是资本等同货币存量，以及流通不生产剩余价值便无关紧要。",
+            "但每个资本都完成自己的循环，仍不保证社会总产品找到买方。一个部门卖出的生产资料必须进入另一部门的生产，消费资料也须对应工资和剩余价值支出。下一步要把观察点从个别资本移到社会总资本。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "两家工厂使用相同设备和劳动强度，一家产品两周售出，另一家库存半年。单次生产中的剩余价值率可以相同，后者却需预付更多资金维持连续生产，年度增殖能力也受到更长周转约束。",
+      "nodeIds": [
+        "node-marx-10"
+      ],
+      "checkIds": [
+        "marx-10-q1",
+        "marx-10-q2",
+        "marx-10-q3",
+        "marx-10-q4"
+      ],
+      "abilitySummary": [
+        "沿三种循环追踪资本形态转换和连续生产条件。",
+        "区分生产时间、流通时间、周转次数与年度剩余价值率。",
+        "区分固定和流动资本与不变和可变资本两组分类。"
+      ],
+      "recommendedNextLessonId": "marx-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-11",
+      "order": 11,
+      "title": "个别资本卖得出去，社会整体为何仍可能卡住",
+      "depth": "longform",
+      "guidingQuestion": "每个企业都想出售商品并购买投入，为何这些个别行动不能自行保证社会总产品完成价值补偿与物质替换？",
+      "coreExplanation": "社会总资本再生产不只要求商品在价值上售出，还要求生产资料与消费资料在物质用途上进入恰当位置。马克思用两大部类分析简单再生产和扩大再生产的交换条件。图式揭示比例和实现依赖，不证明市场自动均衡，也不是一份中央配给公式。",
+      "sections": [
+        {
+          "heading": "每个人都卖给别人却没有最后的外部买家",
+          "paragraphs": [
+            "个别企业可以把销售问题想成找到另一个买家，但从社会整体看，每个买家同时处在收入、消费或再生产关系中。生产资料最终要由某些生产者使用，消费资料最终要由工资和剩余价值收入购买。把困难一直推给外部市场，只会把问题移远。",
+            "因此，第二卷第三篇不再追踪一个资本怎样返回，而问社会年产品怎样同时补偿耗费的价值、替换用掉的机器原料，并供不同阶级消费。价值总额和物质形态必须在同一次再生产中相遇。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "两大部类按产品用途区分",
+          "paragraphs": [
+            "第一部类生产生产资料，例如机器、能源和工业原料；第二部类生产消费资料，例如食物、衣物和日常服务所需物品。划分不是企业法律身份，而看产品在下一轮社会生产中承担什么用途。",
+            "一台机器的价值不能靠工人把它吃掉实现，面包也不能替换磨损的机床。货币支付能让交换发生，却不能取消产品用途。社会再生产因而既是价值运动，也是物质使用价值的替换。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "简单再生产先固定规模观察替换",
+          "paragraphs": [
+            "简单再生产假定资本家消费剩余价值，生产规模不扩大。两部类内部要补偿各自耗费，部类之间还要交换：第一部类劳动者和资本家的消费需求对应第二部类产品，第二部类耗费的生产资料又由第一部类补上。",
+            "这种抽象不是说资本主义通常静止，而是先隔离重复条件。若连固定规模都无法说明价值和物质怎样替换，扩大规模只会把缺口放大。图式的作用是暴露依赖，不是描画每日交易。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "扩大再生产改变剩余产品的去向",
+          "paragraphs": [
+            "积累要求一部分剩余价值不被消费，而转为追加生产资料和新增劳动力。第一部类必须提供更多机器原料，第二部类也要提供新增劳动者的生活资料。一个资本的储蓄意愿只有经过这些物质条件才成为实际扩张。",
+            "若第一部类迅速扩张而第二部类没有相应收入和需求，新增设备可能找不到持续使用位置；若消费资料增长却缺少生产资料补偿，产出同样不能维持。比例不是道德和谐，而是相互依赖的约束。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产出价值不等于已经实现价值",
+          "paragraphs": [
+            "商品在生产中形成包含剩余价值的价值结构，但私人生产者只有通过出售才知道其劳动是否以社会需要的数量获得承认。生产过多的商品仍有使用价值，也耗费劳动，却可能无法按预期货币量实现。",
+            "实现问题不能反过来证明价值只由购买欲望创造。生产条件约束商品价值，支付能力、比例和竞争决定其能否实现及以何种价格实现。来源、形式和实现必须区分又连接。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "钢材扩张如何碰到住宅销售",
+          "paragraphs": [
+            "钢材企业因低息信贷同时扩产，设备订单和就业先上升；住宅企业也增加建设。若工资和公共住房投入没有相应增长，住宅销售后来放缓，开发商削减新项目，钢材订单随之下降。每家企业先前的扩张在局部都有理由。",
+            "改变条件会改变链条。若公共住房按真实需要稳定采购，部分实现压力下降；但土地、材料、财政和维护能力仍会形成约束。案例展示部类与支付关系怎样连接，不证明公共购买能够消除每类失配。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "货币中介不会制造所需使用价值",
+          "paragraphs": [
+            "货币让跨期和跨部门交换更灵活，也允许收入暂不支出。正因买卖可分离，商品卖出与另一次购买不必同时发生，支付储藏便可能中断循环。货币既解决物物交换限制，也打开危机的形式可能。",
+            "信用能够暂时跨越支付间隔，使扩张早于最终销售，但未来清偿要求仍在。若信用只延迟暴露不相容比例，它会把局部失配连接成更大支付压力。这里尚不能断言危机必然发生，只能定位一种中介。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "图式是否证明供给会创造需求",
+          "paragraphs": [
+            "强异议说，既然两部类等式能写出平衡条件，市场只需调整价格便会回到均衡。这个推论把可再生产的条件同实际达到条件的机制混为一谈。私人投资事前没有共同协调，调整还会通过破产、失业和贬值发生。",
+            "相反，把任何不等式都叫作危机也过快。库存、价格、贸易、信贷和产能利用可以吸收部分差异；图式高度抽象，还省略许多部门。它提供诊断坐标，不给每次波动下定义。"
+          ],
+          "identity": "strong-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "总体视角保住实现问题而拒绝单因论",
+          "paragraphs": [
+            "能够保住的结论是，资本主义社会生产由独立决策事后协调，个别资本的合理积累可能在总体上互不相容。价值实现依赖收入、部类交换和物质替换，不能由商品已经生产出来保证。",
+            "必须收缩的是把危机归为消费不足或部类比例失衡的唯一原因。利润率、周转、信用、世界市场和阶级分配会改变同一比例的后果；后面的分析只能增加机制，不能把第二卷图式升级成总钥匙。"
+          ],
+          "identity": "project-response",
+          "kind": "argument"
+        },
+        {
+          "heading": "再生产图式没有作者最终定稿",
+          "paragraphs": [
+            "第二卷第三篇由恩格斯根据多份手稿编排，马克思本人认为相关材料仍需修订。等式与次序可用于理解研究方向，却不具有作者生前定稿的封闭性。",
+            "后来围绕消费不足、均衡、计划和帝国主义的理论借用这些图式，属于新的论证。它们可能富有解释力，但必须以各自前提负责，不能倒写成马克思已经给出的统一答案。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "社会总资本实现后还要解释竞争表象",
+          "paragraphs": [
+            "现在已从个别循环进入社会总资本，说明两部类为何要同时完成价值补偿与物质替换，简单和扩大再生产又怎样暴露实现条件。被排除的是有买卖便有社会协调，以及写出平衡式便证明自动均衡。",
+            "仍有一个更贴近日常账目的难题。企业不按剩余价值率比较自己，而按全部投资计算利润；资本构成不同的行业又趋向取得平均利润。若不解释这种表象转化，价值分析与竞争现实会断开。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "钢材企业扩产成功，住宅企业却因家庭无力购房而缩减订单。钢材含有价值并不保证实现；投资品与消费需求之间的连锁失配会使个别扩张在社会整体上互不相容。",
+      "nodeIds": [
+        "node-marx-11"
+      ],
+      "checkIds": [
+        "marx-11-q1",
+        "marx-11-q2",
+        "marx-11-q3",
+        "marx-11-q4"
+      ],
+      "abilitySummary": [
+        "从个别资本循环转向社会总资本再生产。",
+        "同时检验两部类的价值补偿与物质替换。",
+        "区分再生产条件、自动均衡断言和统一危机理论。"
+      ],
+      "recommendedNextLessonId": "marx-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-12",
+      "order": 12,
+      "title": "剩余价值为什么在竞争中看起来像资本自然结出的利润",
+      "depth": "longform",
+      "guidingQuestion": "若剩余价值来自活劳动，企业为何按总投资取得利润，资本构成不同的行业又为何趋向平均利润率与生产价格？",
+      "coreExplanation": "剩余价值先表现为商品价值超过成本价格的余额，再因同全部预付资本相比而转化为利润。竞争使资本在行业间流动，把社会总剩余价值按资本量重新分配为平均利润，商品因而以成本价格加平均利润的生产价格为中心运动。这个转化解释表象，也留下投入价格与总量关系的长期争议。",
+      "sections": [
+        {
+          "heading": "企业账本为何看不见必要劳动与剩余劳动",
+          "paragraphs": [
+            "企业购买机器、原料和劳动力，账面都表现为成本。商品出售收入超过这些支出，余额便叫利润。账本没有把劳动日切成补偿工资和创造剩余的部分，于是利润看起来像全部投资共同产生。",
+            "这个表象不是会计人员的错觉。资本家确实预付总资本，也以利润相对总资本判断投资。马克思若只重复剩余价值来源，而不说明它为何必然采取利润形式，就无法解释竞争中的行动尺度。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "成本价格省略了未支付劳动",
+          "paragraphs": [
+            "商品价值包含转移的生产资料价值、劳动力价值和剩余价值。对资本家而言，实际预付成本只包括购买生产资料和劳动力的支出。商品价值超过成本价格的余额就是剩余价值的首个转化入口。",
+            "成本价格把不变资本与可变资本都表现为同类支出，抹去两者在增殖中的不同作用。工资仿佛购买全部劳动，余额便仿佛来自节约成本、经营能力或资本本身。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "利润是剩余价值的转化形式",
+          "paragraphs": [
+            "把同一余额与全部预付资本相联系，剩余价值便表现为利润。转化不是在生产后又创造一份收入，而是关系改变：来源于剩余劳动的价值，以总资本产出的形式出现。",
+            "剩余价值率以剩余价值同可变资本相比，分析必要劳动与剩余劳动；利润率以剩余价值同不变资本和可变资本总和相比，反映资本家的投资尺度。通常利润率低于剩余价值率，两者不能互换。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "不同资本构成造成竞争难题",
+          "paragraphs": [
+            "若两个资本总额相同，机器密集企业使用的活劳动较少，按价值来源计算会形成较少剩余价值；劳动密集企业则形成较多。假如各自保留本企业创造的剩余价值，利润率会长期不同。",
+            "资本会倾向从低利润行业流向高利润行业，改变供给、价格和投资条件。竞争不能创造社会总剩余价值，却能改变它在不同资本之间怎样分配。一般利润率由此成为价值分析面对竞争的中介。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "一般利润率重分社会总剩余价值",
+          "paragraphs": [
+            "在抽象模型中，各部门剩余价值合计后与社会总资本相比，形成一般利润率。同量资本不再取得本部门恰好生产的剩余价值，而按一般利润率取得平均利润。",
+            "机器密集部门可能取得超过本部门剩余价值的利润，劳动密集部门则让出一部分。这个重新分配依赖资本和竞争关系，不意味着劳动来源论被逐个企业账目直接看见。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产价格把平均利润加入成本",
+          "paragraphs": [
+            "商品的生产价格由成本价格加平均利润构成。市场价格会因供求和垄断波动，生产价格提供竞争条件下的重心。它不要求每件商品按自身价值出售。",
+            "因此，价值规律不能被写成个别价格等于个别劳动时间。马克思试图说明，社会劳动总关系通过平均利润的再分配以改变后的形式表现。价值与生产价格的连接发生在社会总体，而非逐件对应。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "等量资本为何要求解释利润均化",
+          "paragraphs": [
+            "甲企业预付一百万元，机器占比很高；乙企业也预付一百万元，却使用更多活劳动。若乙的利润率长期显著更高，新增投资会涌入乙行业，扩产压低价格；甲行业投资减少又会抬高价格。竞争压力推动利润率靠近。",
+            "改变条件便会限制均化。专利、资源垄断、进入壁垒和资本固定期限会让高利润持续；风险与周转差异也影响比较。一般利润率是抽象趋势，不是每家企业每年获得同一数字。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "投入品也有生产价格造成转形争议",
+          "paragraphs": [
+            "一个著名困难是，企业购买的机器和原料本身也往往按生产价格而非价值进入成本。若只转化产出价格、仍把投入按价值计算，数值关系可能不一致。总价格等于总价值、总利润等于总剩余价值等主张也需说明适用条件。",
+            "这不是一句竞争重新分配便自动解决的算术细节。后世提出同时方程、迭代、时间次序和价值形式等不同解法，彼此结论不一。它们可用于检验马克思计划，不能倒写成作者已经选择的答案。"
+          ],
+          "identity": "dispute-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "数值转形有困难是否推翻价值分析",
+          "paragraphs": [
+            "强异议说，若生产价格不能从劳动价值无争议地推导，劳动价值论便没有解释作用。异议击中成熟体系的真实连接债务，不能用作者权威挡回。",
+            "较窄回应是区分两个层次：关系分析说明利润总额依赖生产中的剩余劳动，竞争分析说明个别价格和利润经过重新分配；精确数值转形是否一致仍需独立证明。保住关系命题不等于宣布数值问题无关。"
+          ],
+          "identity": "strong-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "利润表象真实却不自足",
+          "paragraphs": [
+            "利润率确实支配投资比较，生产价格也比逐件价值更接近竞争现实。称它们为表象不是说它们虚假，而是说它们没有在自身形式中展示剩余价值来源和社会再分配。",
+            "回应必须同时收缩一种强说法：劳动价值不能充当逐件成交价计算器，也不能凭总量口号免除数学一致性检验。解释力量与未决困难应并列保存。"
+          ],
+          "identity": "project-response",
+          "kind": "argument"
+        },
+        {
+          "heading": "第三卷的竞争链来自未完成手稿",
+          "paragraphs": [
+            "第三卷主要依据马克思一八六四至一八六五年手稿，由恩格斯在一八九四年编辑出版。成本价格、利润、平均利润和生产价格构成明确研究链，但连接和例证没有作者最后定稿。",
+            "引用时应说马克思在手稿中试图怎样解决，而不说一部生前完成的第三卷已经封闭争论。后世转形问题属于解释史，必须与原手稿和恩格斯编辑层分开。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "利润率形成后仍会随积累承受压力",
+          "paragraphs": [
+            "现在能够从剩余价值到利润，再到一般利润率和生产价格，说明活劳动来源为何在竞争表面上变成等量资本取得平均回报。被排除的是利润纯由欺骗产生，也排除了逐件价格等于劳动时间。",
+            "但一般利润率不是静止常数。资本追求相对剩余价值会提高生产率并改变资本构成，可能使剩余价值相对总资本增长不足。下一步要检验利润率下降趋势及其反作用，而不是把它写成倒计时。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "两家企业都预付一百万元，一家机器多、活劳动少，另一家活劳动多。若都按本行业实际剩余价值取得利润，利润率差距会持续吸引资本转移；竞争会改变供给和价格，使利润趋向按总资本重新分配。",
+      "nodeIds": [
+        "node-marx-12"
+      ],
+      "checkIds": [
+        "marx-12-q1",
+        "marx-12-q2",
+        "marx-12-q3",
+        "marx-12-q4"
+      ],
+      "abilitySummary": [
+        "从成本价格与剩余价值推出利润表象。",
+        "说明一般利润率和生产价格怎样重新分配社会剩余价值。",
+        "公开转形问题的数值和文本争议。"
+      ],
+      "recommendedNextLessonId": "marx-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-13",
+      "order": 13,
+      "title": "利润率下降为何不是资本主义自动倒计时",
+      "depth": "longform",
+      "guidingQuestion": "资本不断提高生产率，为何马克思仍分析一般利润率下降压力；反作用和危机又怎样限制这一趋势的结论强度？",
+      "coreExplanation": "利润率把剩余价值同全部资本相比。若竞争推动生产资料相对活劳动增长，而剩余价值增幅不足以抵消总资本扩张，利润率会受到下降压力；利润总量仍可因资本规模扩大而增长。提高剥削程度、生产资料贬值、相对过剩人口、对外贸易等反作用会改变轨迹。趋势不是自动崩溃定律，危机也由多种机制相接。",
+      "sections": [
+        {
+          "heading": "效率提高为何可能伴随盈利压力",
+          "paragraphs": [
+            "企业采用机器通常因为能降低单位成本、取得暂时超额利润。若每家企业都这样做，社会生产能力上升似乎应让利润更加充足。马克思却提出一般利润率下降趋势，表面上像是在否认技术优势。",
+            "矛盾来自观察层次不同。个别企业率先创新可以获利，技术普及后社会必要劳动时间下降；若生产资料相对活劳动不断增加，新增价值来源相对总资本可能缩小。需要说明的是结构压力，不是机器一开动利润就下降。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "利润率的分母包含全部预付资本",
+          "paragraphs": [
+            "利润率以剩余价值同不变资本和可变资本总额相比。只要剩余价值增长慢于总资本，比例便可能下降，即使工人创造的剩余价值绝对量增加。",
+            "因此，利润率与利润量能够反向变化。更大资本以较低比率取得更多利润并不矛盾；积累扩大分母，也扩大生产规模。把比率下降听成资本家收入立刻减少，会误读分析对象。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "相对剩余价值追求改变资本构成",
+          "paragraphs": [
+            "竞争迫使企业提高生产率，用更多机器、基础设施和科学组织相对减少单位产品所需活劳动。若这种变化表现为价值构成中不变资本相对可变资本上升，产生剩余价值的活劳动相对总资本比重下降。",
+            "但技术构成与价值构成不能机械画等号。机器变得更便宜会使更多设备未必对应同等价值增长；服务业、软件和全球供应链也改变测量。趋势论证必须经过价值量，而不是只数机器。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "提高剩余价值率可以抵消压力",
+          "paragraphs": [
+            "延长劳动时间、提高强度或降低劳动力价值，会使同量可变资本形成更多剩余价值，从而抬高利润率。生产率提高生活资料部门时，也可能缩短必要劳动时间。",
+            "这种反作用不是外来例外，而与资本追求相对剩余价值的同一过程相连。它能延缓或改变下降，却受身体、工作日、组织斗争和社会生活标准限制。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产资料贬值与过剩人口改变分母",
+          "paragraphs": [
+            "提高生产率也可能让机器和原料变便宜，使不变资本要素贬值。企业使用更多物质设备时，预付价值不一定同比增加，这会抵消资本构成上升对利润率的压力。",
+            "相对过剩人口则使某些行业能够以较低工资、劳动密集方式扩张，延缓普遍机械化。它不是社会真的多出无用人口，而是相对于资本当前盈利吸收条件的过剩。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "对外贸易和股份形式带来更多中介",
+          "paragraphs": [
+            "较便宜的进口生产资料和生活资料可以降低不变资本要素或劳动力价值，对利润率形成支撑。贸易中的不平等交换、殖民强制和汇率条件又会改变收益分配，不能把世界市场只当价格优惠。",
+            "股份资本和大规模信用把许多资金集中使用，使产权收益与经营职能分离。某些低回报基础部门仍可运行，也会改变一般利润率统计。反作用因素不是一份固定清单，而是一组需具体追踪的关系。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "平台自动化为何不能由一年利润裁决",
+          "paragraphs": [
+            "平台投入更昂贵服务器和自动系统，单笔服务所需劳动下降。市场扩张使总交易量翻倍，总利润上升，但总投入增长更快，利润率反而下降。这种组合符合比率与总量分离。",
+            "随后服务器价格下跌、平台压低外包工资并进入海外市场，利润率回升。案例没有证明长期趋势消失，只表明判断需要时间范围、资本价值构成、剩余价值率、周转与世界市场证据。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "利润率压力怎样接入过度积累",
+          "paragraphs": [
+            "当大量资本找不到足以维持既定利润率的投资领域，资本可能转向投机、闲置或过度扩张。过度积累不是物质需要已经满足，而是相对于增殖条件出现资本过剩。",
+            "利润率压力能同产能过剩、支付链和信用扩张相接，却不能独自解释每次危机。高利润时期也可能因债务期限错配或需求崩塌发生危机，具体机制必须由证据区分。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "反作用会不会使理论无法失败",
+          "paragraphs": [
+            "强异议说，只要利润率未下降便诉诸反作用，下降便归于趋势，理论将无法被反驳。这个攻击要求把趋势从口号变成可检验机制，而非用复杂性保护。",
+            "回应必须预先说明测量对象、时期、资本构成、剩余价值率、生产资料价格、周转和部门范围。若这些关系不能解释观察结果，就应修订具体判断。趋势不是免于经验的方向词。"
+          ],
+          "identity": "strong-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "多机制危机论拒绝唯一钥匙",
+          "paragraphs": [
+            "商品买卖在时间上分离提供危机形式可能，周转和支付造成时间约束，两部类暴露比例与实现问题，利润率压力影响投资，信用又把局部承诺连接成支付网络。这些机制可以互相加强。",
+            "它们没有在马克思的一部定稿中组成统一危机理论。可保住的是资本积累内生地产生失配和脆弱性；必须放弃的是消费不足、利润率或信用任一因素自动解释每场危机。"
+          ],
+          "identity": "project-response",
+          "kind": "argument"
+        },
+        {
+          "heading": "第三卷趋势与危机材料保持未完成身份",
+          "paragraphs": [
+            "利润率趋向下降及反作用主要见第三卷第三篇，文本由恩格斯根据马克思手稿编成。危机材料还散布于三卷和研究手稿，没有作者亲定的综合卷。",
+            "后世围绕趋势经验、危机原因和崩溃论形成多种立场。使用这些成果时要标明谁增加了何种前提，不能把某一传统的模型署回马克思名下。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "趋势分析还没有解释收益分配形态",
+          "paragraphs": [
+            "现在能够说明，利润率下降压力来自剩余价值相对总资本的关系，利润量却可继续增长；反作用会改变轨迹，多种危机机制也不能压成自动倒计时。被排除的是技术越进步利润必然逐年下降。",
+            "现实收益还不只以产业利润出现。商品销售由商业资本专门承担，资本所有权取得利息，土地所有权取得地租。若这些收入仿佛各有自然来源，剩余价值关系会被进一步遮蔽。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一家平台用自动化让单笔服务所需劳动下降，同时业务规模扩大。单位资本利润率可能承压，总利润却因市场扩张增加；压低工资、廉价服务器和海外采购又会抵消部分压力，不能凭一个年度数字判定趋势。",
+      "nodeIds": [
+        "node-marx-13"
+      ],
+      "checkIds": [
+        "marx-13-q1",
+        "marx-13-q2",
+        "marx-13-q3",
+        "marx-13-q4"
+      ],
+      "abilitySummary": [
+        "区分利润率下降、利润量增长和资本规模扩张。",
+        "逐项说明反作用因素怎样改变趋势。",
+        "把利润率、实现、比例、信用和过度积累作为可连接机制而非单因。"
+      ],
+      "recommendedNextLessonId": "marx-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-14",
+      "order": 14,
+      "title": "利润、利息和地租为什么像彼此独立的收入源",
+      "depth": "longform",
+      "guidingQuestion": "产业生产中的剩余价值怎样分成商业利润、企业主收入、利息和地租，并让资本、货币与土地仿佛各自生出收入？",
+      "coreExplanation": "商业资本承担商品和货币流通职能，从社会剩余价值中取得商业利润；利息生息资本把利润分成利息与企业主收入，使货币所有权表现为自行增殖；土地所有权又使部分剩余价值成为级差或绝对地租。三位一体公式把工资归于劳动、利润归于资本、地租归于土地，完成对历史社会关系的自然化遮蔽。",
+      "sections": [
+        {
+          "heading": "同一营业收入为何分给多种产权请求",
+          "paragraphs": [
+            "一家农业企业出售产品后，要补偿种子机器和工资，还要向销售商支付费用、向银行付息、向地主交租，余下部分才归经营者。每项收入都有合同和机构支撑，看起来像销售、货币、土地和经营分别创造了价值。",
+            "若用一句剩余价值把差别抹平，便解释不了这些产权为何取得份额；若把每项份额都当成独立价值源，又会失去社会总余额从何而来。第三卷后半试图在生产来源与分配形式之间建立中介。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "商业资本把流通职能独立出来",
+          "paragraphs": [
+            "产业资本必须出售商品并重新购买要素。专门商人集中仓储、销售、结算和市场信息，可以减少产业资本各自维持流通部门的成本，并加快商品资本转回货币。",
+            "职能有用不等于纯买卖创造社会总剩余价值。商业资本购买商品再出售，主要从产业剩余价值中取得商业利润；它参与一般利润率，使产业资本愿意让出一部分余额来缩短流通。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "商业劳动不能按职业名称一次裁决",
+          "paragraphs": [
+            "运输、包装和保存可能改变商品空间位置或维持使用价值，属于生产过程在流通中的延续；纯粹促成所有权转手、记账和竞价的劳动则主要实现或分配既有价值。现实企业常把两类活动组织在一起。",
+            "商业雇员也会被资本控制并从事超过工资补偿所需的劳动，但这不允许把每项销售活动都说成新价值生产。需要分别判断劳动功能、成本节约和商业资本从总剩余价值取得的份额。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "资本所有权与经营职能分离出利息",
+          "paragraphs": [
+            "货币所有者把资金借给经营资本家，后者用于购买生产条件并取得利润。总利润随后分为利息和企业主收入；双方会把自己的份额分别解释成所有权回报和经营报酬。",
+            "这种分割使利润来源更难看见。利息仿佛由货币的时间属性产生，企业主收入又仿佛只是监督工资。实际上，分割比例由信用市场、力量和风险条件变化，总额仍受生产与实现约束。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "利息生息资本把中介压缩成货币生货币",
+          "paragraphs": [
+            "在借贷表面上，货币从所有者手中出去，按期带着增量返回，形式接近 `M—M'`。生产、劳动力和商品出售都从合同两端消失，资本似乎像树木结果一样具有天然增殖能力。",
+            "马克思称这种形式把资本关系神秘化到高度完成，不是否认借贷合同真实，也不说利息只是骗局。它指出合同自身不能解释整个社会从哪里取得可支付利息的新增价值。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "信用既加速积累也连接支付脆弱性",
+          "paragraphs": [
+            "信用汇集分散闲置货币，使企业在自有资金不足时扩大生产，也能缩短等待、支持长期固定资本项目和形成股份企业。它改变资本规模、周转和所有权结构，不能被当成纯寄生外壳。",
+            "同一机制也把未来销售提前写成今日支付承诺。票据、银行贷款和证券把多家资产负债表连接起来；一处销售失败会通过到期债务传播。信用暂时越过限制，也可能放大限制突然显现时的冲击。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "土地自然差异不会自己收取地租",
+          "paragraphs": [
+            "农业地块在肥力、位置和交通条件上不同，同量投资会产生不同结果。若市场价格由较差条件下仍需生产的成本调节，较优土地可能形成超额利润；土地所有权使地主能够把它作为级差地租取得。",
+            "追加投资在同一土地上产生不同生产率时，又形成另一种级差关系。自然条件参与产出，却不会签订租约或排除使用者；地租要求土地所有权作为制度中介。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "绝对地租提出更有争议的价值条件",
+          "paragraphs": [
+            "马克思还试图说明，即使最差土地没有级差优势，土地垄断也可能阻止农业剩余完全进入一般利润均化，使土地获得绝对地租。论证同农业资本构成、价值和生产价格关系相连。",
+            "这一部分的经验适用和理论一致性争议较大。不能把任何最低租金都拿来证明绝对地租，也不能因级差地租较清楚便假装绝对地租没有额外前提。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "农业企业的四项支付怎样分层",
+          "paragraphs": [
+            "农业企业销售收入中，工资购买劳动力，银行利息对应资金所有权，平台商业利润来自流通职能和总剩余分配，地主租金依赖土地进入权。经营利润则是总利润扣除利息等份额后的形式。",
+            "若改为合作社自有土地并由公共银行低息融资，利息、租金和企业主收入的分配会改变，生产所需劳动和自然条件仍在。制度变化证明收入形式不是自然贡献的简单镜像。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "三位一体公式完成收入来源的自然化",
+          "paragraphs": [
+            "日常表象把工资说成劳动的价格、利润说成资本的产物、地租说成土地的果实。劳动、资本和土地仿佛是三种并列要素，各自凭自然属性生出收入。",
+            "这种表象既有现实基础，也发生错置。工资形式遮蔽无偿劳动，利润形式遮蔽剩余价值来源，地租形式遮蔽土地所有权。分配关系被倒写为物的生产能力，历史制度便显得不可改变。"
+          ],
+          "identity": "marx-manuscripts-engels-edition-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "管理、等待、风险和土地稀缺难道没有贡献",
+          "paragraphs": [
+            "强异议指出，经营协调、延期使用资金、承担失败风险和提供稀缺土地都影响产出与投资，马克思若把收入全叫作分走剩余价值，似乎取消真实贡献。",
+            "异议要求区分物质或组织贡献、价格形成、风险承担和新增价值来源。必要管理可以是劳动，风险会改变收益要求，土地条件影响产量；这些事实不自动证明资本所有权或土地所有权本身创造价值。"
+          ],
+          "identity": "strong-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "分配形式需要制度解释而非道德缩写",
+          "paragraphs": [
+            "回应保住的结论是，商业利润、利息和地租各有不同制度中介，却共享一个限制：它们不能在社会总体上分配超过生产与实现所形成的余额而不引入转移、债务或资产价格变化。",
+            "回应也收缩“都来自剥削”的粗略说法。具体份额、必要职能、风险和权力必须逐项说明，价值来源论不替代制度正当性判断，也不预先决定任何利率或租金数值。"
+          ],
+          "identity": "project-response",
+          "kind": "argument"
+        },
+        {
+          "heading": "信用与地租部分的手稿层次尤其明显",
+          "paragraphs": [
+            "第三卷第四至七篇由恩格斯从马克思手稿整理，信用部分包含摘录、材料堆叠和编辑连接，地租论证也没有作者最后修订。稳定概念与试探性综合应保持不同强度。",
+            "当代平台、证券和中央银行案例只能检验概念迁移，不能宣称马克思已经分析现代金融。后世金融化和租值理论需要以新的制度证据承担结论。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "完成的收入表象把问题重新带回政治",
+          "paragraphs": [
+            "现在已说明商业资本为何有用却不创造社会总剩余价值，利息与信用怎样分割并放大资本关系，地租又怎样经过自然差异和土地垄断取得形式。三位一体表象把这些历史关系自然化。",
+            "政治问题因此不能被经济分析取代。合同、产权、货币、银行和土地制度由公共权力承载，权利又能保护个人并维持资本关系。下一步重返政治解放，正是要检验这些形式的真实成就与限度。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一家农业企业支付工资、向银行付息、向平台支付销售费用并向地主交租。四项支出承担不同制度功能，却不能因此被当成四种彼此独立的新价值来源；必须追踪生产的剩余价值怎样经竞争、信用与土地垄断分配。",
+      "nodeIds": [
+        "node-marx-14"
+      ],
+      "checkIds": [
+        "marx-14-q1",
+        "marx-14-q2",
+        "marx-14-q3",
+        "marx-14-q4"
+      ],
+      "abilitySummary": [
+        "说明商业资本职能与商业利润的剩余价值来源。",
+        "区分利息、企业主收入、信用扩张与新价值创造。",
+        "区分级差地租、绝对地租并拆解三位一体表象。"
+      ],
+      "recommendedNextLessonId": "marx-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-15",
+      "order": 15,
+      "title": "政治解放为何真实却仍有限",
+      "depth": "longform",
+      "guidingQuestion": "获得平等权利和世俗国家后，社会支配是否已经消失；若没有，这些权利是否只是幻象？",
+      "coreExplanation": "政治解放把人格从宗教与身份特权中解放出来，具有真实成就，却允许财产和私人依赖继续存在；国家、法律与意识形态既组织阶级关系，也具有相对自主和斗争空间。",
+      "sections": [
+        {
+          "heading": "权利有效与社会不平等可以同时为真",
+          "paragraphs": [
+            "一个宗教少数群体取得平等公民资格，免于国家强迫改宗，这是实质解放；同一成员仍可能因财产、劳动和社会偏见处于依赖。若说政治权利已实现完整自由，会遮蔽私人支配；若说权利只是纸面，又会抹掉投票、诉讼和结社为行动打开的真实空间。",
+            "《论犹太人问题》正从这种双重性出发批评布鲁诺·鲍威尔。鲍威尔把犹太人放弃宗教当作政治解放条件，马克思则指出世俗国家能够在公民层面不设宗教资格，同时让宗教留在社会生活。这比要求被压群体先改变身份更彻底，却仍不是人类关系的全面解放。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "政治解放改变国家承认方式",
+          "paragraphs": [
+            "政治解放把特定宗教、财产等级或出生身份同公民资格分开，使人以抽象平等公民出现。“抽象”不等于虚假，而指国家暂时搁置私人差异，以普遍规则承认人格。这种形式是现代自由不可放弃的成就。",
+            "限度在于，国家在政治领域取消差异，并不自动取消差异在市民社会中的效力。财产不再是投票资格，也仍能决定教育、媒体和时间资源。政治共同体承认人平等，私人生活却继续由竞争和依赖组织，个人因此分成公民与私人占有者两种角色。"
+          ],
+          "identity": "marx-published-essay-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "人权批判针对孤立形式而非取消权利",
+          "paragraphs": [
+            "马克思批评一七九三年人权文本中的自由、财产和安全常把个人设想为彼此分隔的私人所有者，自由边界像围栏一样由不侵犯他人划定。这揭示现代权利怎样适配竞争社会。但若从中推出马克思反对言论、宗教或人身安全权，就超过论证。",
+            "权利一方面保护个人免受国家和他人侵害，另一方面可能把实际能力所需的资源留在私人分配之外。较强回应不是废除权利，而是问哪些社会条件使权利可用，并让共同决定、照料和物质保障进入自由概念。马克思本人对此没有完成权利制度设计。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "申诉权怎样接受能力检验",
+          "paragraphs": [
+            "平台工人被算法停权后依法可以申诉，胜诉会恢复账号并补偿收入，所以权利具有真实效力。但证据掌握在平台，申诉期间没有生活保障，程序只接受复杂书面材料。形式入口存在，行使能力却按资源不平等分布。",
+            "若提供即时临时救济、数据查阅、语言协助和集体代表，申诉权的实际能力增强；若取消申诉而声称直接改造经济关系，工人会失去防护。案例反驳两种极端：权利足够论和权利无用论。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "国家既嵌入阶级关系又有自身机器",
+          "paragraphs": [
+            "国家保障财产、合同和货币秩序，为资本积累提供普遍条件，也通过税收和警察处理冲突。这使国家具有阶级结构，不等于每项命令由某个资本家直接下达。官僚机构、政党竞争、领土安全和财政需要会形成自身利益与时间逻辑。",
+            "《雾月十八日》的波拿巴国家借阶级分裂扩大行政自主，同时仍在总体上维持现存社会关系。相对自主不是中立：国家可以约束个别资本以保护总体积累，也能在群众压力下提供福利。分析要问具体联盟、机构和财政机制。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "意识形态既解释秩序又可能暴露矛盾",
+          "paragraphs": [
+            "法律把所有人称为自由契约者，这一表述会遮蔽物质强制，却也提供工人要求平等适用和反对任意处分的语言。意识形态因此不能只理解成谎言清单。它把特殊关系表达为普遍合理，也可能因无法兑现普遍性而成为内在批判入口。",
+            "统治思想获得优势，部分因为统治阶级控制物质和思想生产资料，部分因为制度日常运作使其范畴显得自然。受支配者并非没有反思，他们会借自身经验和组织产生反解释。观念斗争真实重要，但必须连接改变关系的能力。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "人类解放是否威胁个人差异",
+          "paragraphs": [
+            "强异议担心，把公民与私人个人重新统一，会让国家或共同体吞没宗教、隐私和个人选择。早期马克思关于类共同性的语言若缺少权利边界，确实可能被集体主义政治滥用。",
+            "回应不能用未来和谐消除风险。可保住的目标是让社会共同力量受共同控制，使个人权利获得物质能力；必须同时保留免受集体强制、退出、异议和多样生活的制度保护。马克思指出政治解放的限度，却没有充分提供这组防护，债务应明确承认。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "文本中的反犹修辞必须正面处理",
+          "paragraphs": [
+            "《论犹太人问题》反对鲍威尔以放弃犹太身份为平等条件，这一点支持政治解放；但第二部分把“犹太性”同金钱和自利联系的修辞延续了反犹刻板印象，造成真实伤害。不能因作者有犹太家庭背景或批判资本就替这些措辞免责。",
+            "负责任的处理分开论证与修辞：保留政治解放不要求宗教同化的观点，拒绝用族群名称代表商业社会的做法，并让后来反犹主义历史检验其危险。承认缺陷不等于整篇失效，也不允许把批评缩成时代背景。"
+          ],
+          "identity": "modern-controversy",
+          "kind": "argument"
+        },
+        {
+          "heading": "普遍性要在现实制度中兑现",
+          "paragraphs": [
+            "马克思继续使用黑格尔的普遍与特殊张力：国家以普遍人格承认个人，私人财产关系却使普遍能力分配不平等。批判不是抛弃普遍权利，而是让其在社会条件中兑现。否定性来自普遍承诺自身不能容纳现实排斥。",
+            "与黑格尔的分歧是，国家概念不会自行调和裂缝。需要权利斗争、组织和生产关系改变；同时，现实变革也不能用“更高共同体”取消法律防护。马克思提供批判方向，现代制度回应必须补上他没有完成的边界。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "政治形式的限度把问题推向革命",
+          "paragraphs": [
+            "这一单元保住政治权利的真实成就，又显示其与私人支配并存。国家不是木偶或中立裁判，意识形态也不是单纯谎言。反犹修辞的缺陷不能被理论贡献遮蔽，个人差异保护仍是马克思留下的规范债务。",
+            "若现存国家机器深嵌资本关系，改变是否能只靠占据它？巴黎公社使马克思修正早期纲领的政治设想；《哥达纲领批判》又有限讨论过渡与共产主义阶段。下一步必须守住这些文本边界，避免把几个短段扩写成完整专政蓝图。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "法律赋予平台工人申诉权，但申诉期间停工、材料难取且算法保密。权利不是虚假，因为胜诉能改变处分；权利也不充分，因为行使能力由社会条件限制。",
+      "nodeIds": [
+        "node-marx-15"
+      ],
+      "checkIds": [
+        "marx-15-q1",
+        "marx-15-q2",
+        "marx-15-q3",
+        "marx-15-q4"
+      ],
+      "abilitySummary": [
+        "区分政治解放与更广的人类解放。",
+        "避免把国家理解成中立裁判或资本家木偶。",
+        "从行使条件检验法律权利的实际能力。"
+      ],
+      "recommendedNextLessonId": "marx-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-16",
+      "order": 16,
+      "title": "革命与过渡不能由几段文字封成蓝图",
+      "depth": "longform",
+      "guidingQuestion": "工人阶级取得政治权力后，为什么不能直接接管现成国家机器，又凭什么限制新的权力不再脱离社会？",
+      "coreExplanation": "巴黎公社使马克思强调打破官僚军事机器并以可罢免公共职能替代；无产阶级专政指过渡期阶级权力，却缺少完整制度细节，共产主义阶段论也只给原则边界。",
+      "sections": [
+        {
+          "heading": "换人为何可能保留旧权力",
+          "paragraphs": [
+            "一个劳动者政党赢得选举，却接管了不可罢免官僚、封闭警察系统和常备军。新领导可以发布不同命令，机器的档案、层级和职业利益仍会筛选执行。若国家只是中性工具，换手足够；若国家只能压迫，任何公共协调又无从建立。",
+            "马克思在一八五二年已写旧革命完善国家机器，一八七一年公社经验使问题更具体：工人阶级不能简单掌握现成机器用于自身目的。需要改变公共权力同社会的关系，而非取消一切共同职能。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "公社提供政治形式而非完成模型",
+          "paragraphs": [
+            "《法兰西内战》强调公社废除常备军、让代表可罢免、以普通工人工资执行公共职能，并把立法与执行责任结合。其方向是让国家权力被社会重新吸收，减少独立官僚集团，使公共职能持续受控制。",
+            "这些制度来自内战中的短暂实验，不能直接回答大范围协调、少数权利、司法独立或长期防务。马克思称公社为终于发现的政治形式，说明它为经济解放提供条件，不等于形式自身已经完成经济变革。"
+          ],
+          "identity": "marx-organizational-address-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "打破机器不等于摧毁公共能力",
+          "paragraphs": [
+            "要打破的是与社会分离、以常备军和职业官僚统治社会的机器，不是道路、卫生、统计和协调等公共职能本身。《哥达纲领批判》还追问共产主义中哪些类似现今国家的社会职能会保留，表明国家消亡不是第二天停止组织。",
+            "区别在权力是否作为专门力量站在社会之上，职能是否可问责、可罢免并由参与者控制。大规模社会如何同时避免官僚固化和决策碎片化，是公社原则留下的问题，不可用“自治”一词跳过。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "无产阶级专政的文本强度",
+          "paragraphs": [
+            "《哥达纲领批判》第四部分说，资本主义与共产主义之间有革命转变期，与之相应的政治过渡国家只能是无产阶级的革命专政。这里“专政”首先标示阶级权力：被剥削多数压制旧统治阶级恢复，而非在现代词义中自动等于个人独裁。",
+            "但这句话也不能自动保证民主。谁属于无产阶级、怎样保护反对者、紧急权力如何终止，文本没有充分规定。公社的选举、罢免和低薪原则可限制解释，却仍不足以构成完整宪制。后世以党国实践解释或批判这个概念，必须标成后世分歧。"
+          ],
+          "identity": "marx-private-party-critique-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "共产主义两个阶段围绕分配原则展开",
+          "paragraphs": [
+            "在刚从资本主义产生的共产主义社会中，生产者按贡献领取消费资料，扣除公共基金。形式平等仍以劳动尺度衡量不同个体，因能力、家庭需要不同而产生实质不平等，马克思称其仍带有资产阶级权利的狭窄界限。",
+            "只有当分工的奴役性、脑体对立和匮乏条件得到克服，共同财富充分发展，才可能从各尽所能走向按需分配。这不是日期表，也不是把“社会主义”和“共产主义”固定成两个国家制度名称；文本说的是社会条件与分配原则的变化。"
+          ],
+          "identity": "marx-private-party-critique-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "赢得选举却不改机器会发生什么",
+          "paragraphs": [
+            "新政府承诺劳动民主，却保留部门首长终身任职、警务秘密预算和地方无罢免权。官僚以安全和程序理由延迟改革，社会运动无法检查。案例显示领导意图被机器结构中介，换人没有触及独立权力。",
+            "若立即取消全部专业岗位，也可能使复杂服务崩溃并把实际权力交给非正式专家。改造方案要公开信息、缩短委任链、建立罢免和申诉，同时保存可审查的专业能力。案例不能证明所有层级都压迫，只检验层级是否脱离问责。"
+          ],
+          "identity": "project-case",
+          "kind": "case"
+        },
+        {
+          "heading": "革命不是单次夺取也不是历史自动性",
+          "paragraphs": [
+            "革命至少包含阶级联盟形成、旧权力危机、政治突破和生产关系重组。夺取政府是关键节点，却不等于社会关系已经改变。资本、技术和世界市场仍会施加约束，新的公共制度还需学习协调。",
+            "历史唯物主义不保证危机产生革命，更不保证革命产生解放。失败、反革命和新官僚化都是真实可能。马克思的实践观要求行动者改变条件并被结果校正，这一原则也应反过来约束革命组织。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "过渡权力为何不会永久化",
+          "paragraphs": [
+            "最强异议是，无论以哪个阶级名义集中强制，掌权组织都会形成自身利益，并以旧阶级威胁延长紧急状态。缺乏独立权利和权力轮替，所谓社会重新吸收国家可能变成国家吸收社会。二十世纪经验使这个异议不可回避。",
+            "马克思文本能提供的回应有限：公社式罢免、低薪、武装力量社会化和公共职能去特权化构成反官僚原则。但少数保护、司法审查、媒体自由和多党竞争没有完整论证。负责任的重建必须把这些作为补充条件，而非声称原文已预先解决。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "马克思、恩格斯与后世马克思主义必须分开",
+          "paragraphs": [
+            "《共产党宣言》是马克思与恩格斯合著纲领，《法兰西内战》由马克思起草但以国际工人协会总委员会名义发表，《哥达纲领批判》是党内传阅批注，恩格斯一八九一年才刊布。三种体裁不能拼成一部国家制度专著。",
+            "列宁、卢森堡、考茨基、委员会共产主义、社会民主主义和后来的国家实践对专政、政党和民主有激烈分歧。这些是马克思主义史，不是马克思本人声音。比较可以检验文本缺口，不能把某一传统倒写为唯一正统。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "未来边界还要经非西欧历史检验",
+          "paragraphs": [
+            "我们得到的是有限政治原则：现成国家机器不能只换手，公共权力应去特权并受持续控制，过渡权力旨在改变阶级关系，分配原则依赖社会条件。被排除的是无政府真空、党国蓝图和自动终点论。",
+            "最后的检验来自马克思材料的边缘与盲点。殖民扩张、奴隶制、种族化、性别再生产、自然耗竭和俄国公社都挑战一条西欧单线历史。它们会显示理论可扩展处、作者修正处以及后世必须承担而不能冒充原意的工作。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一个运动赢得选举却沿用不可问责的官僚、警察与常备军，政策可能被机器自身改写。替换领导人不同于改变权力的组织形式。",
+      "nodeIds": [
+        "node-marx-16"
+      ],
+      "checkIds": [
+        "marx-16-q1",
+        "marx-16-q2",
+        "marx-16-q3",
+        "marx-16-q4"
+      ],
+      "abilitySummary": [
+        "说明公社经验怎样改变国家机器问题。",
+        "把无产阶级专政限制在文本可支持的过渡含义。",
+        "区分共产主义低阶与高阶原则，不制造未来蓝图。"
+      ],
+      "recommendedNextLessonId": "marx-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "marx-17",
+      "order": 17,
+      "title": "在世界历史与当代批评中重画边界",
+      "depth": "longform",
+      "guidingQuestion": "马克思的资本批判能否处理殖民、奴隶制、种族、性别与生态；俄国公社又是否打破单线发展道路？",
+      "coreExplanation": "马克思把殖民暴力、奴隶制和自然条件纳入资本形成，并在查苏利奇草稿中拒绝把西欧路径普遍化；性别、种族和生态仍有显著盲点，需要后世扩展而不能倒写成作者完成理论。",
+      "sections": [
+        {
+          "heading": "普遍理论要接受被放在边缘的经验",
+          "paragraphs": [
+            "一块绿色电池在使用阶段减少排放，却可能依赖原住民土地上的采矿、种族化危险劳动和家庭中的无偿照料。只分析市场价格会漏掉征地与生态损害；只批评殖民偏见又会漏掉世界价值链的增殖压力。若资本批判自称解释现代社会，它必须接受这些经验改变概念边界。",
+            "马克思的材料既比“欧洲工厂理论”更广，又没有完成当代交叉分析。他研究殖民掠夺、奴隶制、爱尔兰、土壤耗竭和俄国公社，也使用过欧洲中心和种族化措辞，对性别支配缺少独立理论。负责任的结尾不能把盲点洗成预见，也不能把可用资源一并丢弃。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "所谓原始积累包含国家与殖民暴力",
+          "paragraphs": [
+            "《资本论》第一卷反驳勤俭者积累、懒惰者失产的寓言，追踪生产者同土地和工具分离。圈地、流浪法、国债、税制、殖民掠夺和奴隶贸易共同形成资本与自由劳动力的历史条件。市场自由的前史包含有组织强制。",
+            "“原始”不是已经结束的纯过去。征地、债务和私有化会在新地区反复制造分离，但机制和法律不能机械复制英国史。法文版对西欧路径的限定以及查苏利奇材料，都反对把英国过程写成所有社会必经阶段。"
+          ],
+          "identity": "marx-published-book-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "奴隶制与种族化不是资本外部残余",
+          "paragraphs": [
+            "大西洋奴隶制为棉花、信贷和世界市场提供关键条件，殖民法律又把劳动控制固定为种族身份。雇佣劳动的“自由”不能靠把奴役放到资本主义外部来纯化。资本可以把不同劳动制度连接进同一积累网络。",
+            "马克思对此有重要洞见，也有不稳定之处：部分新闻写作曾把殖民破坏视为历史进步的残酷工具，私人通信还出现种族侮辱。后期关注爱尔兰和非西欧道路显示修正，却不自动消除早期欧洲中心主义。文本必须逐处判断。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "劳动力再生产打开性别问题但没有完成它",
+          "paragraphs": [
+            "资本需要劳动力持续再生产，工资背后有生育、养育、做饭、清洁、情感支持和照料。工厂制度又把妇女儿童纳入工资劳动，改变家庭权力并加重多重负担。《资本论》记录这些过程，却主要从劳动力价值和工厂劳动考察。",
+            "父权制、性暴力、身体自主和家庭内部权力不能只由资本需要推导。恩格斯《家庭、私有制和国家的起源》不是马克思著作，虽使用摩尔根材料和双方讨论，也不能替马克思补齐理论。社会再生产女性主义是后世扩展，须以自身论证负责。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "劳动不是财富的唯一自然来源",
+          "paragraphs": [
+            "《哥达纲领批判》明确反对“劳动是一切财富源泉”，指出自然同样是使用价值来源。《资本论》讨论大农业破坏人与土地之间的物质交换，使土壤养分被运往城市而无法回补。这些材料支持把资本积累看作对人和自然条件的同时消耗。",
+            "但“代谢断裂”是后世重建用语，马克思没有留下完整气候、物种和环境正义理论。价值范畴也不能衡量生态全部意义，因为未进入交换的生态损害可非常真实。扩展要连接物质流、产权、殖民和代际规范，不能声称劳动价值论已经给出环境价格。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "俄国公社打破西欧必经阶段",
+          "paragraphs": [
+            "查苏利奇询问俄国农村公社是否必须先瓦解并走资本主义道路。马克思草稿反复限定《资本论》关于生产者被剥夺的分析针对西欧，并考察公社在世界市场同时存在的条件下，能否吸收现代技术而保存共同土地。",
+            "寄出的简短信没有保证公社必然成功，只说对公社的专门研究使他相信，它可以成为社会再生支点，但必须清除有害影响并有俄国革命配合。草稿展现开放可能，正式信保持谨慎。两者共同反对历史宿命，也不支持浪漫化现存公社。"
+          ],
+          "identity": "marx-letter-and-drafts-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "人类学笔记是研究现场而非晚年体系",
+          "paragraphs": [
+            "马克思晚年摘录摩尔根、梅恩、菲尔等人的亲属、财产和共同体研究，并写下边注。这些笔记显示他关注多样历史道路、殖民国家和共同所有，但材料是摘录、缩写和批注，不能被当作完成的晚年转向专著。",
+            "使用笔记要分清被摘录作者的声音、马克思的边注和现代编者重构。某句话出现在本子里，不等于马克思赞同；没有批注也不等于反对。笔记能修改“他从未研究”的断言，却不能单独证明一套成熟主张。"
+          ],
+          "identity": "source-boundary",
+          "kind": "argument"
+        },
+        {
+          "heading": "后世马克思主义为何必然分歧",
+          "paragraphs": [
+            "第二、第三卷由恩格斯编订，随后马克思主义在政党、革命、福利国家、殖民解放和学术争论中发展。卢森堡讨论积累与帝国主义，列宁讨论国家与帝国主义，葛兰西讨论霸权，法兰克福学派、分析马克思主义、自治主义、女性主义与生态马克思主义又各自改写问题。",
+            "这些传统不是对同一完整教义的注释。它们选择不同文本、历史经验和规范承诺，彼此会冲突。判断时要分三层：马克思明确写了什么，可从论证重建什么，后世为新问题增加了什么。任何一层都不能借“马克思主义”总称越权。"
+          ],
+          "identity": "reception-history",
+          "kind": "argument"
+        },
+        {
+          "heading": "当代批评应攻击最强前提",
+          "paragraphs": [
+            "自由主义批评会问阶级权力如何保护个人权利，女性主义批评会问生产中心主义怎样遮蔽照料，反种族主义和后殖民批评会问欧洲经验为何取得普遍地位，生态批评会问增殖与自然限度，经济学批评会问价值、价格和创新。它们击中的不是同一前提，不能用一个阶级口号统一挡回。",
+            "马克思资源能保住关系分析、内在矛盾、社会整体和历史生成，也必须收缩经济单因、革命保证与普遍阶段。仍欠的部分需要新的经验、权利理论和生态规范。承认债务不是把批判变成意见，而是让它保持可修正。"
+          ],
+          "identity": "modern-objection",
+          "kind": "argument"
+        },
+        {
+          "heading": "从黑格尔问题到现实实践的整条线",
+          "paragraphs": [
+            "这条思想线保留黑格尔的四个问题：规定如何产生内在矛盾，否定性如何迫使形式改变，局部怎样嵌入社会整体，制度怎样历史生成。马克思的关键改写是让这些运动由有物质条件的社会实践承担：劳动、交换、组织、国家和斗争，而非概念自行实现。",
+            "早期法哲学和异化手稿提出国家与人的力量倒转；实践与历史材料把倒转放进现实关系；《资本论》以商品、劳动力、机器和积累说明资本如何客观再生产；政治文本探索改变权力形式。连续性是真问题的延续，变化是概念和证成方式的重建。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "已得结论与仍开放的债务",
+          "paragraphs": [
+            "已经建立的结论是：资本不是物品而是经商品形式、劳动力和生产条件控制再生产的社会关系；阶级行动必须组织；权利真实而有限；历史条件制约却不自动决定；殖民、性别和自然关系不能留在外围。被排除的是倒置黑格尔、个别工时定价、技术宿命和革命蓝图。",
+            "仍开放的是价值与价格争议、规范正当性的完整根据、过渡权力的民主防护、不同支配轴线的相对自主以及生态限度。马克思最有生命力的遗产不是一张替未来作答的表，而是一种把社会自称的自由同其现实再生产条件对照、并让受支配者实践参与修正的批判工作。"
+          ],
+          "identity": "project-reconstruction",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "绿色电池减少使用阶段排放，却依赖殖民式采矿、性别化照料和高强度劳动。资本批判能追踪价值链和积累压力，但环境正义与族群权利还需额外规范和历史分析。",
+      "nodeIds": [
+        "node-marx-17"
+      ],
+      "checkIds": [
+        "marx-17-q1",
+        "marx-17-q2",
+        "marx-17-q3",
+        "marx-17-q4"
+      ],
+      "abilitySummary": [
+        "说明资本主义形成中的殖民与奴隶制暴力。",
+        "用俄国公社材料反驳单线历史宿命。",
+        "区分马克思材料、可重建扩展与后世马克思主义分歧。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "marx-01-q1",
+      "kind": "concept",
+      "prompt": "这里所说的“把主体还给现实的人”最准确地改变了什么？",
+      "targetNodeIds": [
+        "node-marx-01"
+      ],
+      "options": [
+        {
+          "id": "marx-01-q1-b",
+          "text": "把制度看作关系中的人通过有条件实践形成的结果，不让理念预先充当现实主体。",
+          "feedback": "决定性关系是主谓次序与社会中介同时改变：人及其实践形成制度，但这些人本身处在既有关系中，因而既非理念的注脚，也非孤立原子。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-01-q1-a",
+          "text": "把国家解释为许多个体意愿相加，制度关系只是记录既有选择的公共档案与执行工具。",
+          "feedback": "错步在把“现实的人”换成彼此孤立的选择者。修正时必须保留人受财产、家庭、法律和组织关系塑造这一中介，制度也不能化约为意愿总和。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-01-q1-b",
+      "misconceptionId": "individual-choice-reduction"
+    },
+    {
+      "id": "marx-01-q2",
+      "kind": "argument",
+      "prompt": "从形式平等推进到现实能力检查，论证需要哪一个中间步骤？",
+      "targetNodeIds": [
+        "node-marx-01"
+      ],
+      "options": [
+        {
+          "id": "marx-01-q2-a",
+          "text": "承认权利有实际效力，再追问财产、时间和组织条件是否让人能够行使并修改它。",
+          "feedback": "这一步同时保住权利的真实效果与其未完成性。若跳过行使条件，批判只能在赞美法条和宣告骗局之间摆动，无法指出应改造的具体关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-01-q2-b",
+          "text": "先把权利归为统治修辞，再从受压事实推出投票、申诉和组织程序同样没有独立作用。",
+          "feedback": "唯一错步是把不充分偷换成无效。受压事实能反驳“权利已完成平等”，却不能取消投票、申诉和组织程序可能带来的真实差异。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-01-q2-a",
+      "misconceptionId": "law-as-pure-illusion"
+    },
+    {
+      "id": "marx-01-q3",
+      "kind": "transfer",
+      "prompt": "平台章程案例中，哪一种变化最能检验内在批判是否进入物质条件？",
+      "targetNodeIds": [
+        "node-marx-01"
+      ],
+      "options": [
+        {
+          "id": "marx-01-q3-a",
+          "text": "把“人人平等”改写成更具鼓舞性的宣言，同时维持停工损失和规则控制方式。",
+          "feedback": "错在只增强普遍承诺的表达，却没有改变使承诺无法兑现的依赖关系。修正路径是检查收入保障、规则可修改性和申诉入口是否发生变化。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-01-q3-b",
+          "text": "让成员能取得并修改算法规则，同时提供参与决策所需的停工保障与申诉条件。",
+          "feedback": "关键不在口号强度，而在平等承诺获得可行使的组织与物质条件。规则权、时间和风险分配被改变，形式与实际能力才可能接近。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-01-q3-b",
+      "misconceptionId": "symbolic-revision"
+    },
+    {
+      "id": "marx-01-q4",
+      "kind": "voice",
+      "prompt": "关于马克思从黑格尔法哲学转向现实关系，哪一种来源表述更合格？",
+      "targetNodeIds": [
+        "node-marx-01"
+      ],
+      "options": [
+        {
+          "id": "marx-01-q4-b",
+          "text": "以一八五九年序言作为早期手稿的最终解释，因此早期国家批判已具有成熟经济范畴。",
+          "feedback": "错步是让后来自述倒写早期文本的概念内容。序言证明转向路径，不证明一八四三年已经具备劳动力商品、价值形式或积累理论。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-01-q4-a",
+          "text": "以一八四三年未刊手稿说明早期批判，以一八五九年序言核对成熟自述，同时保留概念变化。",
+          "feedback": "这一区分让手稿身份、发表状态和后来自述各守边界。成熟回顾能确认研究转向，却不能把早期文本改写成后来理论的完整预告。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-01-q4-a",
+      "misconceptionId": "early-mature-collapse"
+    },
+    {
+      "id": "marx-02-q1",
+      "kind": "concept",
+      "prompt": "这里的“实践”为什么不能等同于把既成理论付诸执行？",
+      "targetNodeIds": [
+        "node-marx-02"
+      ],
+      "options": [
+        {
+          "id": "marx-02-q1-a",
+          "text": "理论的问题和概念也来自社会活动，行动结果会反过来校正理论，两者可区分而相互塑造。",
+          "feedback": "决定性关系是双向校正：实践不只是理论之后的步骤，因为理论自身已有实践条件；同时保留区分，才能让反思批判行动而非只追随成效。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-02-q1-b",
+          "text": "理论先在意识中取得完整真理，实践负责选择有效手段把结论转成现实并检验执行效率。",
+          "feedback": "错步是预设理论可在关系外先行完成。修正时要把概念来源、对象阻力和行动后果纳入真理检验，同时不把事实判断缩成执行效率。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-02-q1-a",
+      "misconceptionId": "theory-then-application"
+    },
+    {
+      "id": "marx-02-q2",
+      "kind": "argument",
+      "prompt": "“教育者也必须受教育”针对环境论补上了哪一环？",
+      "targetNodeIds": [
+        "node-marx-02"
+      ],
+      "options": [
+        {
+          "id": "marx-02-q2-a",
+          "text": "改革者拥有更完整的人性认识，所以能在现有关系之外为他人设计新环境。",
+          "feedback": "错在让改革者逃离了同一解释框架。若他不受制度、利益和习惯塑造，环境论就只用于被改革者，并把解放变成单向管理。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-02-q2-b",
+          "text": "改变条件的人也由既有条件形成，必须通过共同实践检验并改造自己的位置。",
+          "feedback": "这一回返取消了站在社会外的塑造者，却没有取消行动能力。共同实践既改变制度，也暴露改革者携带的盲点和权力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-02-q2-b",
+      "misconceptionId": "external-reformer"
+    },
+    {
+      "id": "marx-02-q3",
+      "kind": "transfer",
+      "prompt": "绩效榜被参与者识破后仍支配行动，最能支持哪一步判断？",
+      "targetNodeIds": [
+        "node-marx-02"
+      ],
+      "options": [
+        {
+          "id": "marx-02-q3-b",
+          "text": "参与者既已识破榜单，继续竞争主要说明他们尚未真正理解算法的虚构性质，需要更多观念澄清。",
+          "feedback": "唯一错步是把制度性约束重新解释为认识不足。即使理解充分，失去班次和收入的风险仍存在；修正必须进入奖惩结构。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-02-q3-a",
+          "text": "观念效力还由合同、奖惩和竞争行为再生产，揭露必须接入改变这些关系的组织实践。",
+          "feedback": "案例映射显示意识与制度不是两条平行线：规则塑造竞争，竞争又确认榜单。改变关系不是取消说明，而是让说明获得可持续后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-02-q3-a",
+      "misconceptionId": "awareness-suffices"
+    },
+    {
+      "id": "marx-02-q4",
+      "kind": "boundary",
+      "prompt": "实践检验理论时，哪一项边界必须保留？",
+      "targetNodeIds": [
+        "node-marx-02"
+      ],
+      "options": [
+        {
+          "id": "marx-02-q4-b",
+          "text": "实践提供对象阻力和可修正后果，但成效、事实真实性与规范理由仍须分别审查。",
+          "feedback": "这项区分保住实践对空洞思辨的约束，也避免胜利者真理论。目的、代价和证据公开性必须进入后续判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-02-q4-a",
+          "text": "能够持续运行并战胜竞争方案的制度，为其事实判断和正当性提供同一种证明。",
+          "feedback": "错在把运行成效同时扩张为事实真与规范正当。高效压迫能够成功，仍可能依赖错误描述或不可辩护的代价分配。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-02-q4-b",
+      "misconceptionId": "success-equals-truth"
+    },
+    {
+      "id": "marx-03-q1",
+      "kind": "concept",
+      "prompt": "为什么“对象化”不能直接等于“异化”？",
+      "targetNodeIds": [
+        "node-marx-03"
+      ],
+      "options": [
+        {
+          "id": "marx-03-q1-a",
+          "text": "产品一旦离开生产者的身体便取得独立性，因此各种生产成果都会凭外在存在本身反过来支配生产者。",
+          "feedback": "错步是从成果具有外在形态跳到成果具有社会支配权。修正必须加入所有权、组织控制和再进入生产条件的关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-03-q1-b",
+          "text": "对象化是能力进入外部世界，只有成果在特定所有权和组织中与生产者对立时才成为异化。",
+          "feedback": "决定性区分在社会形式而非成品是否外在。它既允许共同生产留下成果，也能定位成果怎样通过产权和组织反过来发令。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-03-q1-b",
+      "misconceptionId": "objectification-equals-loss"
+    },
+    {
+      "id": "marx-03-q2",
+      "kind": "transfer",
+      "prompt": "若护理机构只增加休息时间，四重异化分析会怎样判断？",
+      "targetNodeIds": [
+        "node-marx-03"
+      ],
+      "options": [
+        {
+          "id": "marx-03-q2-b",
+          "text": "休息改善了工作感受，因此产品、共同能力和同事关系也随活动体验一起改变。",
+          "feedback": "唯一错步是把活动体验的改善扩张到其余三种关系。修正时要为每一项指出独立的制度变化，而不能由感受代推。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-03-q2-a",
+          "text": "活动负担可能减轻，但产品控制、照护目的决定权与竞争关系仍须分别检验。",
+          "feedback": "四重区分要求改革逐项映射。休息触及活动强度，却不自行改变记录归属、专业能力是否参与定目的以及同事间配额竞争。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-03-q2-a",
+      "misconceptionId": "single-dimension-remedy"
+    },
+    {
+      "id": "marx-03-q3",
+      "kind": "boundary",
+      "prompt": "哪一项最准确地区分异化与剥削？",
+      "targetNodeIds": [
+        "node-marx-03"
+      ],
+      "options": [
+        {
+          "id": "marx-03-q3-b",
+          "text": "异化考察活动和能力控制，剥削考察剩余劳动占有，二者可能重合或分离。",
+          "feedback": "这项关系同时保住两种批判的对象与证成路径。它允许分析待遇优厚但仍生产剩余价值的岗位，也允许分析不由雇佣资本造成的疏离。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-03-q3-a",
+          "text": "当劳动者主观感到工作不属于自己时，剩余价值占有才构成资本主义剥削关系。",
+          "feedback": "错在把剥削的成立条件放到主观感受。成熟论证考察劳动力价值、必要劳动和剩余劳动，即使工作有成就感也可成立。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-03-q3-b",
+      "misconceptionId": "alienation-exploitation-collapse"
+    },
+    {
+      "id": "marx-03-q4",
+      "kind": "voice",
+      "prompt": "使用《一八四四年经济学哲学手稿》时，哪种说法守住文本身份？",
+      "targetNodeIds": [
+        "node-marx-03"
+      ],
+      "options": [
+        {
+          "id": "marx-03-q4-a",
+          "text": "把四重异化视为残缺工作手稿中的早期论证，再与成熟经济范畴比较其连续和改变。",
+          "feedback": "这既不因手稿未刊而丢弃思想，也不把后来的概念倒写进去。比较必须说明证成路径变化，而非宣布两套术语同义。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-03-q4-b",
+          "text": "把四重异化视为马克思亲定体系，后来的劳动力与剩余价值只是同一理论换名。",
+          "feedback": "错步是把手稿身份和概念差异一并抹平。成熟剥削论允许等价交换并以价值生产说明占有，不只是异化语言的重命名。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-03-q4-a",
+      "misconceptionId": "manuscript-final-system"
+    },
+    {
+      "id": "marx-04-q1",
+      "kind": "concept",
+      "prompt": "生产力与生产关系的区分为何不是技术与法律的简单二分？",
+      "targetNodeIds": [
+        "node-marx-04"
+      ],
+      "options": [
+        {
+          "id": "marx-04-q1-b",
+          "text": "生产力由物理设备构成，生产关系由法律名称构成，冲突发生在设备升级早于修法。",
+          "feedback": "错步是把两边都缩成单一成分。修正要纳入技能、协作、自然条件、实际控制和组织关系，而不仅比较更新时间。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-04-q1-a",
+          "text": "知识和协作本身属于生产能力，产权与组织又会选择技术方向，两者在实践中相互塑造。",
+          "feedback": "决定性关系是交叉构成：生产力含社会协作，生产关系也影响工具被研发和使用的方向，因而冲突不能画成机器撞上法条。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-04-q1-a",
+      "misconceptionId": "technology-law-dualism"
+    },
+    {
+      "id": "marx-04-q2",
+      "kind": "argument",
+      "prompt": "从生产关系成为桎梏到社会制度改变之间，还缺少什么？",
+      "targetNodeIds": [
+        "node-marx-04"
+      ],
+      "options": [
+        {
+          "id": "marx-04-q2-a",
+          "text": "确认旧关系阻碍生产能力之后，新关系就会凭效率优势形成相应组织力量并取得政治形式。",
+          "feedback": "唯一错步是让冲突自行选择并实现新制度。效率压力可能导致镇压、妥协或不同所有制，必须分析行动者和力量关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-04-q2-b",
+          "text": "还要说明共同利益怎样形成组织、取得资源、处理传统并在政治斗争中建立新规则。",
+          "feedback": "这组中介把结构压力转成实际历史而不取消条件限制。组织既受关系塑造，也改变冲突被表达和解决的方式。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-04-q2-b",
+      "misconceptionId": "contradiction-automatic-transition"
+    },
+    {
+      "id": "marx-04-q3",
+      "kind": "transfer",
+      "prompt": "同一派单软件在企业、市政和合作组织中产生不同效果，案例能推出什么？",
+      "targetNodeIds": [
+        "node-marx-04"
+      ],
+      "options": [
+        {
+          "id": "marx-04-q3-a",
+          "text": "技术改变协调与监督的可能范围，但所有权、目标和组织能力中介其社会后果。",
+          "feedback": "案例保留技术的真实约束，同时用制度差异反驳唯一结果论。网络中断仍会限制三者，说明这不是文化任意主义。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-04-q3-b",
+          "text": "不同治理能够改写软件用途，因此生产技术对劳动关系没有独立的限制作用。",
+          "feedback": "错在从“不能单独决定”跳到“没有因果限制”。修正应同时追踪技术能力与产权、预算、成员组织的组合。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-04-q3-a",
+      "misconceptionId": "technology-no-causality"
+    },
+    {
+      "id": "marx-04-q4",
+      "kind": "dispute",
+      "prompt": "面对一八五九年序言的决定论争议，哪种回应最有解释力？",
+      "targetNodeIds": [
+        "node-marx-04"
+      ],
+      "options": [
+        {
+          "id": "marx-04-q4-b",
+          "text": "让序言给出解释优先级，让具体历史分析显示政治中介，并保留二者权重的开放争议。",
+          "feedback": "这个回答既不放弃物质关系的结构压力，也不让纲要替代机制。它明确保住、收缩和仍欠判断的部分。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-04-q4-a",
+          "text": "把序言的强因果语言归为表达修辞，依据后来复杂案例消除两类文本之间需要解释的决定论张力。",
+          "feedback": "错步是用具体文本抹掉纲要文本的真实张力。负责任的解释应承认后世机械读法有文字抓手，再限定其范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-04-q4-b",
+      "misconceptionId": "deny-textual-tension"
+    },
+    {
+      "id": "marx-05-q1",
+      "kind": "concept",
+      "prompt": "阶级作为关系位置，首先依据什么区分？",
+      "targetNodeIds": [
+        "node-marx-05"
+      ],
+      "options": [
+        {
+          "id": "marx-05-q1-b",
+          "text": "依据人同生产条件、劳动力出售和剩余劳动占有的关系，同时允许混合位置。",
+          "feedback": "决定性关系不是财富多少，而是进入生产和再生产的方式。允许经理、小业主等中间位置，避免把结构趋势做成僵硬名单。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-05-q1-a",
+          "text": "依据收入与消费方式的接近程度，把生活水平相似者归入同一行动群体。",
+          "feedback": "错步是从可观察生活水平直接推出生产关系和行动统一。修正要问生产资料控制、劳动力出售和剩余劳动占有，再另行分析组织。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-05-q1-b",
+      "misconceptionId": "income-classification"
+    },
+    {
+      "id": "marx-05-q2",
+      "kind": "argument",
+      "prompt": "共同阶级位置为何还不足以形成政治力量？",
+      "targetNodeIds": [
+        "node-marx-05"
+      ],
+      "options": [
+        {
+          "id": "marx-05-q2-b",
+          "text": "共同压力已经包含统一目标，组织主要负责把现成要求传达到国家和公众。",
+          "feedback": "错在预设目标与边界已经透明。合同差异、种族化分工和照料责任会改变要求，组织过程必须处理而非只传递。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-05-q2-a",
+          "text": "共同压力还须经横向联系、解释、救济资源和代表机制，才能成为可持续行动能力。",
+          "feedback": "中间环节把结构利益转成能承受风险的集体实践。组织还会改变边界，因此不是给既成主体添加名称。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-05-q2-a",
+      "misconceptionId": "interest-speaks-itself"
+    },
+    {
+      "id": "marx-05-q3",
+      "kind": "transfer",
+      "prompt": "仓储链条的联合行动怎样避免用共同性压掉差异？",
+      "targetNodeIds": [
+        "node-marx-05"
+      ],
+      "options": [
+        {
+          "id": "marx-05-q3-a",
+          "text": "先采用正式工最能赢得的统一加薪要求，其他合同风险待共同胜利后处理。",
+          "feedback": "错步是把最强群体的可赢要求当成共同利益。这样可能把任务转给外包者，让联合成本落到最脆弱者。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-05-q3-b",
+          "text": "把车辆债务、续签风险和转包威胁写入共同要求，并建立按风险分配的救济。",
+          "feedback": "差异被当作联合设计条件而非噪音。共同算法和产业依赖仍提供连接，但救济与要求需回应不对称代价。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-05-q3-b",
+      "misconceptionId": "unity-erases-difference"
+    },
+    {
+      "id": "marx-05-q4",
+      "kind": "boundary",
+      "prompt": "阶级分析与种族、性别分析之间应保持什么关系？",
+      "targetNodeIds": [
+        "node-marx-05"
+      ],
+      "options": [
+        {
+          "id": "marx-05-q4-a",
+          "text": "追踪它们怎样共同组织劳动力和再生产，同时承认每种支配还有不可由工资关系穷尽的目标。",
+          "feedback": "这项关系既解释积累如何利用分类，也保留反种族主义和性别解放的独立规范与制度对象，避免双向化约。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-05-q4-b",
+          "text": "把种族化和性别分工理解为阶级组织未完成的表现，认为阶级形成统一行动后这些制度会随之消退。",
+          "feedback": "唯一错步是把有自身法律、暴力和家庭结构的支配降为组织缺陷。修正必须分别追踪机制及其交织。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-05-q4-a",
+      "misconceptionId": "class-reduction"
+    },
+    {
+      "id": "marx-06-q1",
+      "kind": "concept",
+      "prompt": "社会必要劳动时间与个别劳动时数的决定性差别是什么？",
+      "targetNodeIds": [
+        "node-marx-06"
+      ],
+      "options": [
+        {
+          "id": "marx-06-q1-b",
+          "text": "前者把全行业实际耗时相加后平均，后者决定每件商品在市场上的最终成交价。",
+          "feedback": "错步有明确焦点：把社会必要条件降为事后算术平均，并让个别耗时直接定价。修正还要纳入正常技术和有效社会需要。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-06-q1-a",
+          "text": "前者以正常条件和社会需要约束私人劳动能否被承认，后者只记录某个生产者实际耗时。",
+          "feedback": "决定性关系是私人劳动须经社会尺度验证。个别多耗时间可以是真实辛苦，却不会凭辛苦本身变成同量社会价值。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-06-q1-a",
+      "misconceptionId": "individual-hours-value"
+    },
+    {
+      "id": "marx-06-q2",
+      "kind": "argument",
+      "prompt": "价值为什么需要价值形式，而不能由商品单独显示？",
+      "targetNodeIds": [
+        "node-marx-06"
+      ],
+      "options": [
+        {
+          "id": "marx-06-q2-b",
+          "text": "价值表达的是私人劳动的社会可比性，必须借另一商品的等价形式并最终由货币统一表现。",
+          "feedback": "这一论证从分散生产方式推出表现形式。货币不是外加标签，而承担私人劳动事后成为社会劳动的统一关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-06-q2-a",
+          "text": "价值已由商品内部凝结的劳动量构成，另一商品和货币只是观察、计量和交换这个既成属性的技术工具。",
+          "feedback": "错在把社会关系先当成孤立物的内部属性。商品的私人劳动只有通过与别的商品交换，才取得社会可比的表现。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-06-q2-b",
+      "misconceptionId": "value-as-natural-property"
+    },
+    {
+      "id": "marx-06-q3",
+      "kind": "transfer",
+      "prompt": "乙用旧工具多花五小时做同样椅子，为什么不能直接得到更高价值？",
+      "targetNodeIds": [
+        "node-marx-06"
+      ],
+      "options": [
+        {
+          "id": "marx-06-q3-a",
+          "text": "价值承认按现有正常生产条件形成，个别低效率增加的劳动不因此成为社会必要劳动。",
+          "feedback": "案例检验的是社会尺度与个别辛苦的分离。援助乙可以有道德和政策理由，但不能把补偿理由偷换成价值量机制。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-06-q3-b",
+          "text": "乙的劳动不够熟练，所以其五小时不属于人类劳动支出，也不进入社会价值评价。",
+          "feedback": "错步是取消那些小时作为真实劳动。修正应说它们没有被按同量价值承认，而不是说活动根本不构成劳动。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-06-q3-a",
+      "misconceptionId": "reward-effort"
+    },
+    {
+      "id": "marx-06-q4",
+      "kind": "boundary",
+      "prompt": "商品拜物教为何不能只靠揭露“背后是人”来消除？",
+      "targetNodeIds": [
+        "node-marx-06"
+      ],
+      "options": [
+        {
+          "id": "marx-06-q4-a",
+          "text": "生产者尚未形成正确意识；理解价格源于共同劳动后，物的支配会变成可由认识解除的观念误会。",
+          "feedback": "错在把客观交换依赖降为认识错误。即使看清来源，分散生产者仍须通过价格实现产品并取得生活资料。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-06-q4-b",
+          "text": "私人劳动仍通过交换事后建立社会联系，物的关系因此具有现实约束，不只是错误信念。",
+          "feedback": "决定性条件是社会联系的组织形式。批判需改变生产者建立联系的方式，认识揭露只能构成其中一个环节。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-06-q4-b",
+      "misconceptionId": "fetishism-as-belief"
+    },
+    {
+      "id": "marx-07-q1",
+      "kind": "concept",
+      "prompt": "劳动与劳动力的区分解决了哪一个核心困难？",
+      "targetNodeIds": [
+        "node-marx-07"
+      ],
+      "options": [
+        {
+          "id": "marx-07-q1-a",
+          "text": "工资购买已经完成的劳动成果，资本家取得产品后再通过市场加价把劳动转成利润。",
+          "feedback": "错步是把工资对象换成完成劳动，并把增殖放回流通。修正要看劳动力被使用时创造的新价值超过其自身价值。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-07-q1-b",
+          "text": "工资购买一定时期的工作能力，其使用能创造超过劳动力再生产价值的新价值。",
+          "feedback": "决定性关系是商品价值与使用价值的差：劳动力按价值交换仍可在生产中创造剩余，等价交换与剥削因而并存。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-07-q1-b",
+      "misconceptionId": "wage-pays-labour"
+    },
+    {
+      "id": "marx-07-q2",
+      "kind": "argument",
+      "prompt": "必要劳动时间为何不等于工人为自己实际单独工作的时段？",
+      "targetNodeIds": [
+        "node-marx-07"
+      ],
+      "options": [
+        {
+          "id": "marx-07-q2-a",
+          "text": "它是工作日中创造相当于劳动力价值的新价值所需时间，属于价值关系的分析分割。",
+          "feedback": "这一区分解释连续协作生产中看不见的分界。必要与剩余不是钟表上的岗位切换，而是新增价值如何分配。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-07-q2-b",
+          "text": "它是工人在厂内制造个人消费资料价值的时段，剩余劳动阶段才形成企业出售商品的价值。",
+          "feedback": "错在把价值分割物理化成两类产品。现实流程可以始终制造同一种商品，分析仍能区分补偿工资与形成剩余的时间。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-07-q2-a",
+      "misconceptionId": "literal-time-block"
+    },
+    {
+      "id": "marx-07-q3",
+      "kind": "transfer",
+      "prompt": "在八小时案例中，工资上升而其他条件不变会先改变什么？",
+      "targetNodeIds": [
+        "node-marx-07"
+      ],
+      "options": [
+        {
+          "id": "marx-07-q3-b",
+          "text": "必要劳动所占比例增加，剩余劳动比例下降，因而剩余价值率受到压缩。",
+          "feedback": "案例中工作日和生产率保持不变，工资代表的劳动力价值上升会把时间分界向后移动，结构关系随之改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-07-q3-a",
+          "text": "只改变工人消费，不改变工作日内部必要劳动与剩余劳动的比例。",
+          "feedback": "唯一错步是否认劳动力价值变化对必要时间的影响。在工作日固定时，补偿更高价值需要更多必要劳动。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-07-q3-b",
+      "misconceptionId": "wage-no-effect-on-exploitation"
+    },
+    {
+      "id": "marx-07-q4",
+      "kind": "boundary",
+      "prompt": "为什么守法且待遇良好的企业仍可能存在剥削？",
+      "targetNodeIds": [
+        "node-marx-07"
+      ],
+      "options": [
+        {
+          "id": "marx-07-q4-b",
+          "text": "资本家取得利润就表明合同中的等价交换只是表面形式，实际工资也失去真实价值根据。",
+          "feedback": "错步是用剥削取消等价交换的真实层次。劳动力可以按其价值出售，正因为使用价值特殊，剩余仍可产生。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-07-q4-a",
+          "text": "剥削判断针对生产条件控制和剩余劳动占有，不以欠薪、恶意或痛苦感受为成立条件。",
+          "feedback": "结构关系与额外违法被分开。待遇能改变劳动力价值和剩余比例，却不因管理友善就取消资本占有剩余劳动。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-07-q4-a",
+      "misconceptionId": "exploitation-as-illegality"
+    },
+    {
+      "id": "marx-08-q1",
+      "kind": "concept",
+      "prompt": "绝对剩余价值与相对剩余价值的区分依据是什么？",
+      "targetNodeIds": [
+        "node-marx-08"
+      ],
+      "options": [
+        {
+          "id": "marx-08-q1-a",
+          "text": "前者扩大或强化给定必要劳动之外的时间，后者通过生产率变化缩短必要劳动比例。",
+          "feedback": "决定性差别在工作日内部边界怎样移动。现实可同时延时和增效，分析区分用于追踪两种机制。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-08-q1-b",
+          "text": "前者来自手工生产中的加班，后者来自机器增加的产量，两者由技术类型区分。",
+          "feedback": "错步是按工具类型分类。机器条件下也可延长工作日，手工协作提高生活资料生产率也可能影响必要时间。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-08-q1-a",
+      "misconceptionId": "machine-only-surplus"
+    },
+    {
+      "id": "marx-08-q2",
+      "kind": "argument",
+      "prompt": "为什么等价交换原则不能独自决定工作日长度？",
+      "targetNodeIds": [
+        "node-marx-08"
+      ],
+      "options": [
+        {
+          "id": "marx-08-q2-b",
+          "text": "买方要求使用已购能力，卖方要求保存其再生产条件，两种平等权利需要力量与制度裁定。",
+          "feedback": "论证不是权利无效，而是权利冲突没有内生时长答案。联合和立法把力量关系凝成可执行界限。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-08-q2-a",
+          "text": "因为劳动力没有可确定的价值尺度，工作时长只能由国家在市场之外另行规定。",
+          "feedback": "错在取消劳动力价值及其再生产界限。争议来自买方使用权与卖方保存劳动力的权利都能在交换形式内提出。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-08-q2-b",
+      "misconceptionId": "contract-fixes-hours"
+    },
+    {
+      "id": "marx-08-q3",
+      "kind": "transfer",
+      "prompt": "自动分拣减少重伤却加强监控，应如何判断？",
+      "targetNodeIds": [
+        "node-marx-08"
+      ],
+      "options": [
+        {
+          "id": "marx-08-q3-b",
+          "text": "机器降低主要身体风险以后，增强监控就是实现安全标准并维持生产效率所必需的配套管理方式。",
+          "feedback": "唯一错步是未经证明把监控当成安全必要条件。修正要比较是否有更少侵入的设计以及劳动者能否修改规则。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-08-q3-a",
+          "text": "分别确认物质减负与控制强化，再检查工时、收益和设计参与权，不能让一项吞掉其余项。",
+          "feedback": "分项检验使技术的真实收益和资本使用方式同时可见。结论取决于多项关系证据，不由总体好坏印象代替。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-08-q3-a",
+      "misconceptionId": "single-balance-verdict"
+    },
+    {
+      "id": "marx-08-q4",
+      "kind": "boundary",
+      "prompt": "工厂法在马克思分析中处于什么位置？",
+      "targetNodeIds": [
+        "node-marx-08"
+      ],
+      "options": [
+        {
+          "id": "marx-08-q4-a",
+          "text": "它是国家中立调和阶级利益的证据，工作日矛盾由公共理性在市场外解决。",
+          "feedback": "错在抹去长期组织斗争和执行冲突。法律有公共效力，却不是脱离力量关系自动出现的中立答案。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-08-q4-b",
+          "text": "它把斗争形成的力量暂时固定为真实保护，又在资本关系内推动增殖策略转形。",
+          "feedback": "这项关系同时说明法律为何有效、为何有限以及为何反过来改变经济策略，避免骗局论与中立进步论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-08-q4-b",
+      "misconceptionId": "law-illusion-or-neutral"
+    },
+    {
+      "id": "marx-09-q1",
+      "kind": "concept",
+      "prompt": "简单再生产为何已经包含阶级关系再生产？",
+      "targetNodeIds": [
+        "node-marx-09"
+      ],
+      "options": [
+        {
+          "id": "marx-09-q1-a",
+          "text": "工资消费使工人再次出售劳动力，生产又补偿资本并形成剩余，双方位置在连续过程中重建。",
+          "feedback": "决定性步骤是把一次交换放入下一轮条件。即使规模不扩大，资本与劳动力的依赖关系也由过程自身重复。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-09-q1-b",
+          "text": "重复生产同类商品会维持职业分工和雇佣结构，因此每个人继续处于原有社会身份。",
+          "feedback": "错步是从商品种类重复推出个人身份固定。再生产概念针对关系条件，个人可以流动而阶级结构仍被重建。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-09-q1-a",
+      "misconceptionId": "reproduction-only-goods"
+    },
+    {
+      "id": "marx-09-q2",
+      "kind": "argument",
+      "prompt": "相对过剩人口为何不是自然人口过多？",
+      "targetNodeIds": [
+        "node-marx-09"
+      ],
+      "options": [
+        {
+          "id": "marx-09-q2-b",
+          "text": "劳动力相对于资本在现有盈利条件下的需求过剩，并不表示其能力对社会需要多余。",
+          "feedback": "“相对”所指的参照物是资本吸收条件。这个区分使失业能够与丰富生产能力和未满足需要并存。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-09-q2-a",
+          "text": "社会能够提供的生活资料有限，当人口超过物质承载量时便形成失业人口。",
+          "feedback": "错在把相对于资本增殖需要的过剩偷换成相对于自然资料的绝对过剩。社会可能有未满足需要和闲置劳动力同时存在。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-09-q2-b",
+      "misconceptionId": "natural-overpopulation"
+    },
+    {
+      "id": "marx-09-q3",
+      "kind": "transfer",
+      "prompt": "住房案例为何不能只称作消费不足危机？",
+      "targetNodeIds": [
+        "node-marx-09"
+      ],
+      "options": [
+        {
+          "id": "marx-09-q3-b",
+          "text": "房屋未售说明其没有使用价值，生产资料部门因此无法与消费资料部门交换。",
+          "feedback": "错步是把不能按预期价格实现价值等同没有用途。住房可高度有用，支付能力和债务关系仍会阻断销售。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-09-q3-a",
+          "text": "需求约束同投资扩张、债务期限、信用收紧和裁员反馈相连，多个环节共同放大失衡。",
+          "feedback": "案例中的因果链不能由低购买力独自完成。信用先延缓实现问题，随后又通过清偿要求加重收缩。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-09-q3-a",
+      "misconceptionId": "single-cause-crisis"
+    },
+    {
+      "id": "marx-09-q4",
+      "kind": "dispute",
+      "prompt": "“贫困化”最稳健的解释边界是什么？",
+      "targetNodeIds": [
+        "node-marx-09"
+      ],
+      "options": [
+        {
+          "id": "marx-09-q4-a",
+          "text": "资本积累最终使各地工人的实际工资下降，阶段性改善主要是统计尺度造成。",
+          "feedback": "错在把结构趋势变成跨时期单调预测，并预先排除反证。实际工资、公共服务和风险必须分别用经验判断。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-09-q4-b",
+          "text": "财富增长可与控制权落后、不安全和相对份额恶化并存，不推出每人生活水平持续下降。",
+          "feedback": "这项限定保住积累制造依赖和后备劳动力的机制，也让工资与福利改善成为理论必须解释的真实变化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-09-q4-b",
+      "misconceptionId": "linear-wage-decline"
+    },
+    {
+      "id": "marx-10-q1",
+      "kind": "concept",
+      "prompt": "为什么三种资本循环不是三类不同企业？",
+      "targetNodeIds": [
+        "node-marx-10"
+      ],
+      "options": [
+        {
+          "id": "marx-10-q1-a",
+          "text": "它们从货币、生产和商品三个起点观察同一产业资本的连续形态转换。",
+          "feedback": "关键在观察起点与同一运动。现实资本会让不同批次同时处在三种形态，不能按企业标签分组。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-10-q1-b",
+          "text": "它们分别属于金融、制造和商业企业，并由市场交换把三类资本连接起来。",
+          "feedback": "错步是把循环形态实体化为企业类型。产业资本自身就必须购买、生产和出售，三环不能外包成三个定义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-10-q1-a",
+      "misconceptionId": "circuits-as-firms"
+    },
+    {
+      "id": "marx-10-q2",
+      "kind": "argument",
+      "prompt": "固定资本与不变资本为何不能画等号？",
+      "targetNodeIds": [
+        "node-marx-10"
+      ],
+      "options": [
+        {
+          "id": "marx-10-q2-a",
+          "text": "前者主要指耐用机器，后者还包括原料，所以两者只在物品范围上存在差别。",
+          "feedback": "错步是把概念差别缩成物品清单。决定性区别在分类根据：回流方式与增殖作用并非同一关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-10-q2-b",
+          "text": "前者按价值回流时间划分，后者按是否创造新增价值划分，两组问题不同。",
+          "feedback": "机器可同时固定且不变，原料则流动且不变；交叉实例证明两组分类不能互相替换。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-10-q2-b",
+      "misconceptionId": "classification-as-inventory"
+    },
+    {
+      "id": "marx-10-q3",
+      "kind": "transfer",
+      "prompt": "销售等待从五个月降到一个月首先改变什么？",
+      "targetNodeIds": [
+        "node-marx-10"
+      ],
+      "options": [
+        {
+          "id": "marx-10-q3-b",
+          "text": "它在流通中增添新的剩余价值，使商品即使不再生产也能持续自行增殖。",
+          "feedback": "唯一错步是把更快实现当成新价值来源。流通释放被束缚资本，却没有取消生产中活劳动的中介。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-10-q3-a",
+          "text": "它缩短流通时间，使同一预付资本更早返回并重新承担生产职能。",
+          "feedback": "案例改变的是回流速度与连续生产需要的预付额，不必假定每轮剩余价值率随之提高。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-10-q3-a",
+      "misconceptionId": "circulation-creates-surplus"
+    },
+    {
+      "id": "marx-10-q4",
+      "kind": "boundary",
+      "prompt": "周转加快怎样影响年度剩余价值率？",
+      "targetNodeIds": [
+        "node-marx-10"
+      ],
+      "options": [
+        {
+          "id": "marx-10-q4-b",
+          "text": "它增加同一预付可变资本一年重复使用次数，不等于单轮剥削率必然提高。",
+          "feedback": "这个回答分开年度累计与单轮必要剩余劳动比例，保住了时间效果而没有偷换剥削强度。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-10-q4-a",
+          "text": "它缩短商品出售时间，因而把每轮更多必要劳动自动转化为剩余劳动。",
+          "feedback": "错步是从流通时间跳到工作日内部划分。单轮剩余价值率还取决于工资价值、生产率和劳动时长。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-10-q4-b",
+      "misconceptionId": "annual-equals-single-rate"
+    },
+    {
+      "id": "marx-11-q1",
+      "kind": "concept",
+      "prompt": "两大部类为什么按产品用途而非企业名称划分？",
+      "targetNodeIds": [
+        "node-marx-11"
+      ],
+      "options": [
+        {
+          "id": "marx-11-q1-b",
+          "text": "两大部类代表重工业和轻工业，企业规模与技术密度决定产品进入哪个部类。",
+          "feedback": "错步是用产业俗称替代使用价值位置。消费资料也可由大型技术企业生产，规模不是划分根据。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-11-q1-a",
+          "text": "再生产要判断产品能否替换生产资料或进入个人消费，法律名称不能完成这种区分。",
+          "feedback": "关键在物质替换。相同企业可生产不同用途产品，社会再生产关心下一轮使用位置而非登记标签。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-11-q1-a",
+      "misconceptionId": "departments-as-industries"
+    },
+    {
+      "id": "marx-11-q2",
+      "kind": "argument",
+      "prompt": "再生产图式为何不证明市场自动均衡？",
+      "targetNodeIds": [
+        "node-marx-11"
+      ],
+      "options": [
+        {
+          "id": "marx-11-q2-a",
+          "text": "它只处理物质数量而不处理价值，所以任何货币市场结论都与图式无关。",
+          "feedback": "错步是把价值维度删掉。图式同时处理价值补偿和物质替换，局限在抽象层级而非没有价值关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-11-q2-b",
+          "text": "它说明再生产成立所需比例，却没有给出私人决策必然达到这些比例的机制。",
+          "feedback": "条件式与实现机制被正确分开；现实调整还会经过价格、库存、破产、信用和失业。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-11-q2-b",
+      "misconceptionId": "schemes-only-physical"
+    },
+    {
+      "id": "marx-11-q3",
+      "kind": "transfer",
+      "prompt": "住宅销售放缓为什么会反过来影响钢材企业？",
+      "targetNodeIds": [
+        "node-marx-11"
+      ],
+      "options": [
+        {
+          "id": "marx-11-q3-a",
+          "text": "消费资料和投资品的实现通过订单与收入相连，个别扩张可能在总体上失配。",
+          "feedback": "案例把部门依赖和支付能力接在一起，没有把钢材的物质有用性误当成已实现的价值。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-11-q3-b",
+          "text": "住宅属于第二部类而钢材属于第一部类，前者需求下降会依法同比取消后者价值。",
+          "feedback": "错步是把结构依赖写成固定同比法则。库存、出口、其他投资和价格变化会改变传导幅度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-11-q3-a",
+      "misconceptionId": "department-mechanical-ratio"
+    },
+    {
+      "id": "marx-11-q4",
+      "kind": "boundary",
+      "prompt": "实现问题能支持到什么强度？",
+      "targetNodeIds": [
+        "node-marx-11"
+      ],
+      "options": [
+        {
+          "id": "marx-11-q4-b",
+          "text": "它表明私人生产须经支付关系获得社会承认，却不把消费不足定为危机唯一原因。",
+          "feedback": "这个边界保住生产与销售分离，也给利润率、信用、周转和世界市场机制留下位置。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-11-q4-a",
+          "text": "它表明商品价值直到出售时才由需求形成，因此危机主要来自购买能力不足。",
+          "feedback": "错步是把实现改写成价值来源，并由此锁定单因危机论。生产约束与实现条件不能互相替代。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-11-q4-b",
+      "misconceptionId": "realization-creates-value"
+    },
+    {
+      "id": "marx-12-q1",
+      "kind": "concept",
+      "prompt": "利润为什么被称为剩余价值的转化形式？",
+      "targetNodeIds": [
+        "node-marx-12"
+      ],
+      "options": [
+        {
+          "id": "marx-12-q1-b",
+          "text": "剩余价值在商品售出后转化成新的价值，因而由生产和流通共同创造利润。",
+          "feedback": "错步是把表现转化写成再次创造。出售实现已有价值关系，没有另生一份社会总剩余。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-12-q1-a",
+          "text": "同一余额改为同总预付资本相比，来源于剩余劳动却表现为总资本产出。",
+          "feedback": "关键不是第二次创造，而是关系和分母改变；这解释了真实账本为何遮蔽可变资本的特殊作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-12-q1-a",
+      "misconceptionId": "profit-second-creation"
+    },
+    {
+      "id": "marx-12-q2",
+      "kind": "argument",
+      "prompt": "一般利润率怎样连接不同资本构成？",
+      "targetNodeIds": [
+        "node-marx-12"
+      ],
+      "options": [
+        {
+          "id": "marx-12-q2-a",
+          "text": "竞争使各行业劳动生产率相等，所以等量资本在生产中创造相同剩余价值。",
+          "feedback": "错步是把分配均化改写成生产条件相同。资本构成和劳动量仍不同，均化发生在利润分配层。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-12-q2-b",
+          "text": "竞争把社会总剩余价值按资本量重新分配，使等量资本趋向取得平均利润。",
+          "feedback": "回答保住总剩余价值来源，也解释个别部门利润为何不等于本部门形成的剩余价值。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-12-q2-b",
+      "misconceptionId": "competition-equalizes-production"
+    },
+    {
+      "id": "marx-12-q3",
+      "kind": "transfer",
+      "prompt": "专利让某行业长期高利润时，应怎样理解平均利润？",
+      "targetNodeIds": [
+        "node-marx-12"
+      ],
+      "options": [
+        {
+          "id": "marx-12-q3-a",
+          "text": "进入壁垒会限制资本流动，使一般利润率作为趋势受到具体制度条件修正。",
+          "feedback": "案例改变了均化机制而非抹除社会剩余分配问题，结论强度因此被恰当收缩。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-12-q3-b",
+          "text": "专利利润证明价值由稀缺权利创造，剩余劳动不再参与该行业利润来源。",
+          "feedback": "错步是从价格与分配偏离跳到新价值来源。垄断能改变占有份额，不会凭权利文本生产社会总价值。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-12-q3-a",
+      "misconceptionId": "monopoly-creates-value"
+    },
+    {
+      "id": "marx-12-q4",
+      "kind": "dispute",
+      "prompt": "面对转形问题，哪种结论最稳健？",
+      "targetNodeIds": [
+        "node-marx-12"
+      ],
+      "options": [
+        {
+          "id": "marx-12-q4-b",
+          "text": "保留利润源于剩余劳动的关系论证，同时承认投入转化和数值一致性仍有争议。",
+          "feedback": "这项结论没有把数值债务藏进总量口号，也没有因争议便取消生产与分配关系的区分。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-12-q4-a",
+          "text": "总利润等于总剩余价值足以解决转形问题，投入价格差异属于会计层面的误差。",
+          "feedback": "错步是把待证明的总量关系当作证明，并忽略投入也按生产价格购买造成的系统困难。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-12-q4-b",
+      "misconceptionId": "totals-solve-transformation"
+    },
+    {
+      "id": "marx-13-q1",
+      "kind": "concept",
+      "prompt": "利润率下降为何能与利润量增长并存？",
+      "targetNodeIds": [
+        "node-marx-13"
+      ],
+      "options": [
+        {
+          "id": "marx-13-q1-b",
+          "text": "利润率下降只发生在个别商品，资本总利润按销售数量计算所以不受影响。",
+          "feedback": "错步是把社会资本比率缩成商品指标。总利润仍受剩余价值和总资本关系约束，不是另一个体系。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-13-q1-a",
+          "text": "资本总量扩张可使较低比率作用于更大基数，从而取得更高利润总额。",
+          "feedback": "回答分开比例与总量，避免把一般利润率压力误听成资本家收入当期必然减少。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-13-q1-a",
+      "misconceptionId": "rate-only-per-commodity"
+    },
+    {
+      "id": "marx-13-q2",
+      "kind": "argument",
+      "prompt": "生产资料贬值怎样构成反作用？",
+      "targetNodeIds": [
+        "node-marx-13"
+      ],
+      "options": [
+        {
+          "id": "marx-13-q2-b",
+          "text": "更多设备可能以较低价值购得，使不变资本价值增长慢于物质技术规模。",
+          "feedback": "关键是物质构成与价值构成不同比例变化；这会减轻利润率分母扩大的压力。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-13-q2-a",
+          "text": "机器降价会把原有固定资本价值转成剩余价值，因而增加利润来源。",
+          "feedback": "错步是把资产贬值当成新价值创造。它改变预付与账面价值，不会把损失魔法般变成剩余劳动。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-13-q2-b",
+      "misconceptionId": "devaluation-creates-surplus"
+    },
+    {
+      "id": "marx-13-q3",
+      "kind": "transfer",
+      "prompt": "平台总利润上升而利润率下降说明什么？",
+      "targetNodeIds": [
+        "node-marx-13"
+      ],
+      "options": [
+        {
+          "id": "marx-13-q3-a",
+          "text": "业务规模和资本基数增长快于剩余价值，比例与绝对量应分别判断。",
+          "feedback": "案例要求同时查看分子、分母和规模，不能由盈利总额反推利润率趋势不存在。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-13-q3-b",
+          "text": "平台扩张证明利润率下降不适用于数字产业，因为软件复制不再需要劳动。",
+          "feedback": "错步是从一个期间和行业跳到范围豁免。还需核算基础设施、劳动、外包与资本价值构成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-13-q3-a",
+      "misconceptionId": "digital-sector-exemption"
+    },
+    {
+      "id": "marx-13-q4",
+      "kind": "dispute",
+      "prompt": "为何不能把利润率趋降写成统一危机理论？",
+      "targetNodeIds": [
+        "node-marx-13"
+      ],
+      "options": [
+        {
+          "id": "marx-13-q4-a",
+          "text": "反作用已经取消下降趋势，所以危机只能由消费不足和信用失灵解释。",
+          "feedback": "错步是从趋势受中介跳到趋势失效，并用另外两项机制重新建立单因论。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-13-q4-b",
+          "text": "危机还涉及实现、比例、周转和信用等机制，文本也没有完成单因综合。",
+          "feedback": "这项结论既保留利润率压力的作用，也让不同危机接受具体机制和文本身份检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-13-q4-b",
+      "misconceptionId": "counteractions-cancel-law"
+    },
+    {
+      "id": "marx-14-q1",
+      "kind": "concept",
+      "prompt": "商业资本为何能取得利润却不在纯买卖中创造总剩余价值？",
+      "targetNodeIds": [
+        "node-marx-14"
+      ],
+      "options": [
+        {
+          "id": "marx-14-q1-b",
+          "text": "它通过低买高卖增加商品价值，产业资本再从商业服务中分享新增余额。",
+          "feedback": "错步是把交换中的个别得失当成社会总增殖。普遍低买高卖只能重新分配，不能让总价值凭买卖增加。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-14-q1-a",
+          "text": "它集中并加速流通，从产业剩余价值分配中取得参与一般利润率的份额。",
+          "feedback": "回答同时承认流通职能和社会总来源，没有把有用性偷换成新增价值创造。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-14-q1-a",
+      "misconceptionId": "merchant-profit-from-markup"
+    },
+    {
+      "id": "marx-14-q2",
+      "kind": "argument",
+      "prompt": "为什么 `M—M'` 会强化资本的神秘外观？",
+      "targetNodeIds": [
+        "node-marx-14"
+      ],
+      "options": [
+        {
+          "id": "marx-14-q2-b",
+          "text": "借贷合同只显示货币出去并带增量返回，把生产、劳动和实现中介压缩掉。",
+          "feedback": "形式压缩解释了利息为何像货币自然果实，同时没有否认合同和偿付关系真实存在。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-14-q2-a",
+          "text": "借贷不经过商品交换，所以利息由时间偏好创造，与产业利润来源没有关系。",
+          "feedback": "错步是从合同形式缺少商品环节跳到独立价值来源。借款用于何种生产和收入仍决定社会偿付基础。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-14-q2-b",
+      "misconceptionId": "interest-independent-source"
+    },
+    {
+      "id": "marx-14-q3",
+      "kind": "transfer",
+      "prompt": "合作社自有土地后租金消失首先说明什么？",
+      "targetNodeIds": [
+        "node-marx-14"
+      ],
+      "options": [
+        {
+          "id": "marx-14-q3-a",
+          "text": "土地所有权安排参与收入分配，自然条件本身不会独立提出收租请求。",
+          "feedback": "案例改变产权中介而保留土地物质作用，清楚区分产量贡献与地租占有形式。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-14-q3-b",
+          "text": "土地不再产生级差收益，所以合作社产品价值只由当前劳动形成。",
+          "feedback": "错步是把租金消失等同自然差异消失，也忽略生产资料既有价值和社会生产条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-14-q3-a",
+      "misconceptionId": "rent-removal-erases-difference"
+    },
+    {
+      "id": "marx-14-q4",
+      "kind": "boundary",
+      "prompt": "三位一体公式批判能支持到什么程度？",
+      "targetNodeIds": [
+        "node-marx-14"
+      ],
+      "options": [
+        {
+          "id": "marx-14-q4-a",
+          "text": "它证明劳动、资本和土地都没有独立作用，三种收入只是剩余价值的不同名称。",
+          "feedback": "错步是从收入来源遮蔽跳到物质和组织作用不存在，并省略不同产权中介。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-14-q4-b",
+          "text": "它揭示工资、利润和地租如何自然化历史关系，但仍需分别分析职能与制度。",
+          "feedback": "这个边界防止把来源批判变成收入同义化，也让管理、信用和土地机制接受具体判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-14-q4-b",
+      "misconceptionId": "trinity-erases-functions"
+    },
+    {
+      "id": "marx-15-q1",
+      "kind": "concept",
+      "prompt": "政治解放为何既真实又有限？",
+      "targetNodeIds": [
+        "node-marx-15"
+      ],
+      "options": [
+        {
+          "id": "marx-15-q1-b",
+          "text": "它取消公民资格中的身份特权，却允许财产和私人依赖继续造成行使能力差异。",
+          "feedback": "决定性双重关系是国家层面的普遍承认与市民社会中的不平等并存，任何一边都不能抹去另一边。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-15-q1-a",
+          "text": "它只改变国家使用的语言，私人财产仍存在说明公民平等没有实际效果。",
+          "feedback": "错步是从没有消除全部支配跳到没有效果。宗教自由、投票和诉讼会实质改变国家对人格的承认与行动空间。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-15-q1-b",
+      "misconceptionId": "rights-illusion"
+    },
+    {
+      "id": "marx-15-q2",
+      "kind": "transfer",
+      "prompt": "怎样加强平台申诉权而不把权利当作充分解放？",
+      "targetNodeIds": [
+        "node-marx-15"
+      ],
+      "options": [
+        {
+          "id": "marx-15-q2-b",
+          "text": "用更简短的申诉表替代复杂材料，其余资源差异留给市场中的个人选择。",
+          "feedback": "错在只降低文字门槛而保留证据垄断和生计压力。修正需处理决定能否启动并坚持程序的物质条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-15-q2-a",
+          "text": "保留可诉入口，并增加停工救济、数据查阅、语言协助和集体代表。",
+          "feedback": "这些条件把形式资格转成实际能力，同时没有宣称程序能替代对算法所有权和劳动关系的进一步改变。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-15-q2-a",
+      "misconceptionId": "formal-access-only"
+    },
+    {
+      "id": "marx-15-q3",
+      "kind": "boundary",
+      "prompt": "国家“相对自主”最准确的含义是什么？",
+      "targetNodeIds": [
+        "node-marx-15"
+      ],
+      "options": [
+        {
+          "id": "marx-15-q3-a",
+          "text": "国家在阶级之上形成独立公共利益，因此能够以中立制度持续纠正经济权力。",
+          "feedback": "错步是把相对自主提升为脱离社会结构的中立。国家仍保障总体关系，其独立机制只说明不能逐项还原。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-15-q3-b",
+          "text": "国家机构有自身利益和中介能力，可约束个别资本或响应斗争，却仍嵌入总体再生产。",
+          "feedback": "这一关系允许解释福利、监管与行政扩张，也不把这些现象误作国家已脱离阶级结构的证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-15-q3-b",
+      "misconceptionId": "state-neutrality"
+    },
+    {
+      "id": "marx-15-q4",
+      "kind": "dispute",
+      "prompt": "处理《论犹太人问题》的反犹修辞，哪种方式最负责任？",
+      "targetNodeIds": [
+        "node-marx-15"
+      ],
+      "options": [
+        {
+          "id": "marx-15-q4-a",
+          "text": "保留反同化的政治解放论证，明确拒绝族群—金钱联结，并说明其后世危险。",
+          "feedback": "分层判断既不因有贡献而免责，也不因有伤害而省略仍可辩护的论证。文本缺陷获得明确历史和规范位置。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-15-q4-b",
+          "text": "把相关措辞视为资本批判的时代比喻，作者立场足以阻止它产生反犹含义。",
+          "feedback": "错步是用意图和时代语境取消语言效果。修正必须让刻板联结本身接受批判，而不是替作者推定无害。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-15-q4-a",
+      "misconceptionId": "excuse-or-dismiss"
+    },
+    {
+      "id": "marx-16-q1",
+      "kind": "concept",
+      "prompt": "“打破国家机器”在这里不意味着什么？",
+      "targetNodeIds": [
+        "node-marx-16"
+      ],
+      "options": [
+        {
+          "id": "marx-16-q1-a",
+          "text": "它不意味着停止公共协调，而是改变同社会分离的官僚军事权力及其不可问责形式。",
+          "feedback": "决定性区分在职能与脱离社会的权力形式。卫生、交通和统计可以保留，但委任、信息与强制需受共同控制。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-16-q1-b",
+          "text": "它意味着由新的阶级领导接管原有专业机构，在保留官僚军事组织形态的条件下提高转型效率。",
+          "feedback": "错步是把换领导当作改变机器。若层级、秘密和不可罢免性保留，旧权力关系可改写新政策。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-16-q1-a",
+      "misconceptionId": "abolish-public-functions"
+    },
+    {
+      "id": "marx-16-q2",
+      "kind": "voice",
+      "prompt": "关于无产阶级专政，文本能支持到什么强度？",
+      "targetNodeIds": [
+        "node-marx-16"
+      ],
+      "options": [
+        {
+          "id": "marx-16-q2-b",
+          "text": "它标示资本主义到共产主义之间的阶级权力过渡，公社原则限制其解释，但民主细节仍欠缺。",
+          "feedback": "这个边界既不把专政直接等同个人独裁，也不以阶级名义保证民主；可用证据和未解债务都被保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-16-q2-a",
+          "text": "《哥达纲领批判》给出过渡国家的完整制度安排，公社只是这一模型在特殊时期的历史实例。",
+          "feedback": "错在把一个原则句扩写成宪制蓝图，并倒置公社与后来批注的证据关系。制度细节大量缺失。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-16-q2-b",
+      "misconceptionId": "complete-dictatorship-model"
+    },
+    {
+      "id": "marx-16-q3",
+      "kind": "argument",
+      "prompt": "共产主义低阶为何仍带有资产阶级权利的界限？",
+      "targetNodeIds": [
+        "node-marx-16"
+      ],
+      "options": [
+        {
+          "id": "marx-16-q3-b",
+          "text": "按劳动分配仍使用货币交换，所以私人资本关系尚未发生变化。",
+          "feedback": "错步是把劳动凭证或贡献尺度直接等同商品货币交换。文本批评的是平等权利尺度的局限，不是断言资本仍存在。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-16-q3-a",
+          "text": "以同一劳动尺度分配形式平等，却未补偿能力、家庭需要等个体差异。",
+          "feedback": "中间步骤是相同尺度作用于不同个体会产生实质差异。马克思由此说明权利不能高于社会生产和文化条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-16-q3-a",
+      "misconceptionId": "equal-labour-full-equality"
+    },
+    {
+      "id": "marx-16-q4",
+      "kind": "boundary",
+      "prompt": "面对过渡权力永久化异议，最诚实的回应是什么？",
+      "targetNodeIds": [
+        "node-marx-16"
+      ],
+      "options": [
+        {
+          "id": "marx-16-q4-a",
+          "text": "阶级多数的权力与个人独裁不同，因此代表劳动者的组织可以排除自身利益成为主要风险。",
+          "feedback": "错在用代表名义预先排除组织固化。多数身份不能替代罢免、公开、申诉和权力终止机制。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-16-q4-b",
+          "text": "公社原则提供反官僚方向，但少数保护和权力审查不足，现代重建须明确补充。",
+          "feedback": "这项回应说明保住什么、欠缺什么，也让后世灾难经验成为真实反证压力，而非被正统标签排除。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-16-q4-b",
+      "misconceptionId": "text-pre-solves-authoritarianism"
+    },
+    {
+      "id": "marx-17-q1",
+      "kind": "argument",
+      "prompt": "俄国公社材料怎样限制单线历史观？",
+      "targetNodeIds": [
+        "node-marx-17"
+      ],
+      "options": [
+        {
+          "id": "marx-17-q1-b",
+          "text": "它证明保存共同土地的社会可以绕过资本主义阶段，并采用世界市场已有的现代生产力。",
+          "feedback": "错步是把有条件可能提升为已证明路线。公社受国家、债务和内部危机侵蚀，马克思明确要求清除有害影响并依赖政治变革。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-17-q1-a",
+          "text": "它把《资本论》的剥夺路径限定于西欧，并把公社转化视为依赖革命与世界条件的可能。",
+          "feedback": "决定性限定同时是否定必经阶段和拒绝成功保证。草稿展开条件，寄出信保持谨慎，两种文本身份共同约束结论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-17-q1-a",
+      "misconceptionId": "commune-guaranteed-path"
+    },
+    {
+      "id": "marx-17-q2",
+      "kind": "voice",
+      "prompt": "如何使用晚年人类学笔记才不混淆声音？",
+      "targetNodeIds": [
+        "node-marx-17"
+      ],
+      "options": [
+        {
+          "id": "marx-17-q2-b",
+          "text": "分别标记原作者、马克思边注和现代编者重构，只用笔记证明研究方向与局部判断。",
+          "feedback": "这一方法让研究现场发挥证据作用而不冒充定稿。它能反驳“从未关注”，却不能自动建立完整晚年体系。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-17-q2-a",
+          "text": "把本子收录的命题视为马克思晚年赞同，因为摘录本身表明其理论选择。",
+          "feedback": "错在把被摘录作者的话直接归给摘录者。必须辨认引文、缩写、边注和编者补足，沉默也不构成立场。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-17-q2-b",
+      "misconceptionId": "notebook-endorsement"
+    },
+    {
+      "id": "marx-17-q3",
+      "kind": "transfer",
+      "prompt": "绿色电池案例要求资本批判增加哪种判断？",
+      "targetNodeIds": [
+        "node-marx-17"
+      ],
+      "options": [
+        {
+          "id": "marx-17-q3-a",
+          "text": "沿价值链追踪采矿征地、劳动分工、照料成本与生态损害，并加入族群和代际权利。",
+          "feedback": "案例把积累关系与不能由价值量穷尽的损害连接起来。使用阶段减排是证据之一，不足以替整条关系作结论。",
+          "isCorrect": true
+        },
+        {
+          "id": "marx-17-q3-b",
+          "text": "计算电池生产的社会必要劳动时间，若价值下降即可说明生态效率提高。",
+          "feedback": "唯一错步是用价值量下降代替物质生态与权利判断。更少劳动可以伴随更高采矿破坏，指标对象不同。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "marx-17-q3-a",
+      "misconceptionId": "green-use-phase-only"
+    },
+    {
+      "id": "marx-17-q4",
+      "kind": "boundary",
+      "prompt": "怎样区分马克思、可重建论证与后世马克思主义？",
+      "targetNodeIds": [
+        "node-marx-17"
+      ],
+      "options": [
+        {
+          "id": "marx-17-q4-a",
+          "text": "后世理论若延续资本批判目标并处理马克思未见的新问题，就可以视为马克思思想本身的明确展开。",
+          "feedback": "错在用目标连续性取消作者和论证责任。女性主义、生态和国家理论的扩展必须以自身证据成立，不能借名义越权。",
+          "isCorrect": false
+        },
+        {
+          "id": "marx-17-q4-b",
+          "text": "分别说明原文断言、从多文本重建的关系以及新历史问题促成的扩展，并允许三者冲突。",
+          "feedback": "三层边界使继承既不僵化也不伪托。冲突被保留后，证据与规范承担者才清楚，传统总称不会替判断作答。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "marx-17-q4-b",
+      "misconceptionId": "marxism-single-voice"
+    }
+  ]
+}

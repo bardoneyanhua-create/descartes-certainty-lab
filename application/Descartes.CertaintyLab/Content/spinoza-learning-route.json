@@ -1,0 +1,3495 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "spinoza-01-claim",
+      "kind": "question",
+      "status": "teachingReady",
+      "readerTitle": "笛卡尔留下的实体与心身难题",
+      "explanation": "斯宾诺莎不是从零开始宣布一元论。他接受笛卡尔要求清楚说明依赖关系的压力，却认为把思想与广延安置在多种实体中，会让统一经验和因果秩序难以解释。唯一实体因此不是节省名词，而是重新规定什么能够凭自身存在和被理解。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-01-evidence"
+      ],
+      "abilityIds": [
+        "分开概念差异、存在独立与因果交互三项主张。",
+        "说明唯一实体如何回应笛卡尔心身区分留下的代价，同时指出尚未解决的属性与个体难题。"
+      ]
+    },
+    {
+      "id": "spinoza-02-claim",
+      "kind": "concept",
+      "status": "teachingReady",
+      "readerTitle": "实体、属性与样态的三层秩序",
+      "explanation": "实体不是所有东西堆成的总和，而是无需借别物便能存在和被理解的根本实在；属性是知性把握为构成实体本质的方式；样态是在实体之内、通过实体被理解的具体变化。三者不是大箱子、观察角度和箱内小物的松散关系，而是独立与依赖的严格层级。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-02-evidence"
+      ],
+      "abilityIds": [
+        "用存在依赖与概念依赖分清实体和样态。",
+        "解释属性为何构成实体本质，并保留属性实在性争议与未知属性边界。"
+      ]
+    },
+    {
+      "id": "spinoza-03-claim",
+      "kind": "concept",
+      "status": "teachingReady",
+      "readerTitle": "神即自然不是人格神的放大",
+      "explanation": "神是绝对无限、由无限多属性构成的唯一实体；万物在神之内并由神的本性必然随出。这个神不在自然之外制定计划，不因人的祈求改变决定，也不以奖惩表达喜怒。神即自然因此是内在因果论，不是把传统人格神扩大到宇宙尺寸。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-03-evidence"
+      ],
+      "abilityIds": [
+        "用唯一实体、内在因和必然随出解释神即自然。",
+        "拒绝把非人格神缩成泛神论口号，并分开有限样态、全部自然与神的无限本质。"
+      ]
+    },
+    {
+      "id": "spinoza-04-claim",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "几何学次序怎样工作又在哪里停下",
+      "explanation": "几何学次序把承诺公开排列：定义固定术语，公理提供共同起点，命题由先前材料证明，附释则补充例子、批评与语境。它迫使异议指出具体前提，却不保证定义真实、证明无缺口或生活经验已被穷尽。形式是可检查的论证机器，不是免除判断的权威。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-04-evidence"
+      ],
+      "abilityIds": [
+        "分清几何文本中定义、公理、命题、证明、附释和序言的不同作用。",
+        "既沿引用链检查推演，也审查起点与解释边界，不把形式整齐误作自动真理。"
+      ]
+    },
+    {
+      "id": "spinoza-05-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "因果必然与目的论的诱惑",
+      "explanation": "必然性不是外部命运强迫事物，而是结果由确定原因随出；偶然往往表示我们不知道完整原因。目的论错误则把人的欲求投射到自然整体，先把有用之物当成特为人安排，再想象一位按目的治理的主宰。理解原因不会取消行动，行动本身正是因果秩序的一部分。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-05-evidence"
+      ],
+      "abilityIds": [
+        "分清因果必然、认识上的偶然与不顾行动差异的宿命论。",
+        "把自然目的投射改写为可追踪原因，同时保留有限行动者的真实目标。"
+      ]
+    },
+    {
+      "id": "spinoza-06-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "心灵作为身体的观念",
+      "explanation": "思想与广延是同一实体的不同属性，人的心灵则是一个实际身体的观念。心身不是两件同步装置，而是同一样态的两种表达；共同概念从身体共有结构中形成恰当认识。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-06-evidence"
+      ],
+      "abilityIds": [
+        "用身体的观念与同一事物解释心身统一，避免跨属性因果。",
+        "分开受影响的局部观念与把握共有结构的共同概念。"
+      ]
+    },
+    {
+      "id": "spinoza-07-claim",
+      "kind": "concept",
+      "status": "teachingReady",
+      "readerTitle": "三种知识与错误的生成",
+      "explanation": "第一种知识随零散经验、符号和传闻形成，第二种借共同概念把握必然关系，第三种从属性本质进到个别本质。错误是不充分观念中的缺失，纠正则是重排观念的因果联系。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-07-evidence"
+      ],
+      "abilityIds": [
+        "按观念形成方式分清想象、理性与直观，不把直观混成强烈预感。",
+        "用认识缺失解释错误，并说明纠正为何增加原因理解而非抹去感觉。"
+      ]
+    },
+    {
+      "id": "spinoza-08-claim",
+      "kind": "concept",
+      "status": "teachingReady",
+      "readerTitle": "努力、欲望与情感模仿",
+      "explanation": "每一有限事物都努力保持自身存在；在人身上，被意识到的努力称为欲望。喜悦与悲伤标示行动力量的增减，情感模仿则把个体欲望连接成社会动力。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-08-evidence"
+      ],
+      "abilityIds": [
+        "把努力、食欲、欲望和行动力量连接起来，不把自我保存误成静止不变。",
+        "解释情感模仿如何把个体身体连成社会动力，并为被动与自由的区分建立入口。"
+      ]
+    },
+    {
+      "id": "spinoza-09-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从被动情感到必然性中的自由",
+      "explanation": "自由不是无因选择，而是由自身本性和恰当观念成为行动的较充分原因。理性必须形成更强的情感与共同关系；必然性中的自由不是宿命论，而是有程度的因果成就。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-09-evidence"
+      ],
+      "abilityIds": [
+        "用恰当原因分清主动与被动，并把自由理解为有程度的因果成就。",
+        "说明理性为何必须成为更强情感和共同关系，明确必然性不是宿命论。"
+      ]
+    },
+    {
+      "id": "spinoza-10-claim",
+      "kind": "controversy",
+      "status": "teachingReady",
+      "readerTitle": "在永恒相下与心灵的永恒",
+      "explanation": "在永恒相下，是按事物从神的属性必然随出的本质来理解。第五部主张心灵有表达身体本质的永恒之物，但永恒不等于持续；它是否保留人格记忆与个体意识仍有争议。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-10-evidence"
+      ],
+      "abilityIds": [
+        "分开永恒、无限持续、个人记忆与后世影响。",
+        "准确定位第五部心灵永恒论证，并保留其是否支持人格不朽的开放争议。"
+      ]
+    },
+    {
+      "id": "spinoza-11-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经文、神学与思想表达的自由",
+      "explanation": "《神学政治论》要求从语言、历史和编纂语境解释经文。先知想象引导服从与正义，不承担哲学证明；分开神学与哲学，才能说明思想表达自由为何既不破坏虔敬又保护国家。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-11-evidence"
+      ],
+      "abilityIds": [
+        "分清经文历史解释、先知想象、哲学证明和信仰服从的不同证据责任。",
+        "说明思想表达自由如何抑制神学争权，同时保留行为与公共安全边界。"
+      ]
+    },
+    {
+      "id": "spinoza-12-claim",
+      "kind": "controversy",
+      "status": "teachingReady",
+      "readerTitle": "自然权利、国家与民主的未完成问题",
+      "explanation": "自然权利与实际力量同延，却不是道德许可证。国家把个体力量组织为共同力量，目的在安全与自由；民主较接近自然平等，但未完成的《政治论》没有替服从与反抗给出无条件公式。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "spinoza-12-evidence"
+      ],
+      "abilityIds": [
+        "分清自然权利的力量描述与道德正当化，说明国家权力怎样由多数关系构成。",
+        "在民主、服从与反抗之间同时评估法律、思想自由、实际能力和《政治论》未完成边界。"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "spinoza-01-evidence",
+      "workId": "Ethics; Principles of Cartesian Philosophy; Letters",
+      "edition": "Gebhardt, Spinoza Opera, G I-II; standard letter numbering",
+      "locator": "Ethics I d3-d5, p5-p15; Principles of Cartesian Philosophy I-II; Letters 2, 4, 12",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-letter; project-interpretation"
+    },
+    {
+      "id": "spinoza-02-evidence",
+      "workId": "Ethics; Letters",
+      "edition": "Gebhardt, Spinoza Opera, G II; standard letter numbering",
+      "locator": "Ethics I d3-d6, p4-p10, p14-p15, p25c; Letters 2, 9, 12",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-letter; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-03-evidence",
+      "workId": "Ethics; Letters",
+      "edition": "Gebhardt, Spinoza Opera, G II-IV; standard letter numbering",
+      "locator": "Ethics I d6, p11-p18, p29, p33, Appendix; Letters 21, 73",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-letter; later-interpretation; project-interpretation"
+    },
+    {
+      "id": "spinoza-04-evidence",
+      "workId": "Ethics; Treatise on the Emendation of the Intellect",
+      "edition": "Gebhardt, Spinoza Opera, G II",
+      "locator": "Ethics I-V geometrical apparatus, especially I p11s, II p40s2, V Preface; Treatise on the Emendation of the Intellect §§33-49, 91-110",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-treatise-intellect; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-05-evidence",
+      "workId": "Ethics",
+      "edition": "Gebhardt, Spinoza Opera, G II",
+      "locator": "Ethics I p16-p18, p29, p32-p33 and Appendix; IV Preface, d1-d2",
+      "locatorVerified": true,
+      "identity": "primary-ethics; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-06-evidence",
+      "workId": "Ethics; Letters",
+      "edition": "Gebhardt, Spinoza Opera, G II-IV; standard letter numbering",
+      "locator": "Ethics II p7, p11-p13, physical digression after p13, p19-p23, p35, p38-p40; III p2s; Letter 32",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-letter; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-07-evidence",
+      "workId": "Ethics; Treatise on the Emendation of the Intellect",
+      "edition": "Gebhardt, Spinoza Opera, G II",
+      "locator": "Ethics II p17s, p35, p40s1-s2, p41-p47; Treatise on the Emendation of the Intellect §§19-30, 33-49, 50-90",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-treatise-intellect; project-interpretation"
+    },
+    {
+      "id": "spinoza-08-evidence",
+      "workId": "Ethics",
+      "edition": "Gebhardt, Spinoza Opera, G II",
+      "locator": "Ethics III Preface, d1-d3, p4-p13, p27-p35, p56-p59; Definitions of the Affects 1-3, 48",
+      "locatorVerified": true,
+      "identity": "primary-ethics; project-interpretation"
+    },
+    {
+      "id": "spinoza-09-evidence",
+      "workId": "Ethics",
+      "edition": "Gebhardt, Spinoza Opera, G II",
+      "locator": "Ethics IV Preface, d7-d8, p3-p4, p18s, p23-p28, p35-p37, p59, p63, p66-p73; V p1-p10",
+      "locatorVerified": true,
+      "identity": "primary-ethics; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-10-evidence",
+      "workId": "Ethics; Letters",
+      "edition": "Gebhardt, Spinoza Opera, G II-IV; standard letter numbering",
+      "locator": "Ethics I d8; II p44c2; V p20s, p22-p23, p25, p29-p36, p38-p40; Letters 12, 56",
+      "locatorVerified": true,
+      "identity": "primary-ethics; primary-letter; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-11-evidence",
+      "workId": "Theological-Political Treatise",
+      "edition": "Gebhardt, Spinoza Opera, G III; 1670 first edition chapter division",
+      "locator": "Preface; chapters 1-7, 12-15, 19-20",
+      "locatorVerified": true,
+      "identity": "primary-theological-political; project-interpretation; later-interpretation"
+    },
+    {
+      "id": "spinoza-12-evidence",
+      "workId": "Theological-Political Treatise; Political Treatise",
+      "edition": "Gebhardt, Spinoza Opera, G III; Political Treatise posthumous 1677 text",
+      "locator": "Theological-Political Treatise chapters 16-20; Political Treatise chapters 1-5 and 11, especially II §§3-17, III §§2-9, IV §§4-6, V §§2-6, XI §§1-4",
+      "locatorVerified": true,
+      "identity": "primary-theological-political; primary-political; project-interpretation; later-interpretation"
+    }
+  ],
+  "routes": [
+    {
+      "id": "spinoza-foundations",
+      "version": "2026.07.26",
+      "title": "斯宾诺莎：从唯一实体到共同自由",
+      "lessonIds": [
+        "spinoza-01",
+        "spinoza-02",
+        "spinoza-03",
+        "spinoza-04",
+        "spinoza-05",
+        "spinoza-06",
+        "spinoza-07",
+        "spinoza-08",
+        "spinoza-09",
+        "spinoza-10",
+        "spinoza-11",
+        "spinoza-12"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "spinoza-01",
+      "order": 1,
+      "title": "笛卡尔留下的实体与心身难题",
+      "depth": "long",
+      "guidingQuestion": "如果心灵与身体真是彼此独立的实体，一个决定怎样成为手臂的运动，而一次受伤又怎样成为疼痛？",
+      "coreExplanation": "斯宾诺莎不是从零开始宣布一元论。他接受笛卡尔要求清楚说明依赖关系的压力，却认为把思想与广延安置在多种实体中，会让统一经验和因果秩序难以解释。唯一实体因此不是节省名词，而是重新规定什么能够凭自身存在和被理解。",
+      "sections": [
+        {
+          "heading": "一次举手为何牵动整个形而上学",
+          "paragraphs": [
+            "设想你听见名字后举起手。这里至少有声音的振动、身体的变化、对名字的理解、举手的决定和肌肉的运动。日常经验把它们视为一件连贯的事，理论却必须说明这种连贯凭什么成立。",
+            "若思想与身体只是同一实体的两种性质，连贯似乎容易理解；但笛卡尔把心灵规定为思维实体，把身体规定为广延实体。两者的主要属性互不相同，于是经验中的结合反而成为需要额外说明的事实。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "笛卡尔意义上的多种实体",
+          "paragraphs": [
+            "“实体”先不要理解成一团神秘材料。它指能够作为性质承担者并具有某种独立性的东西。笛卡尔严格说只有神完全不依赖别物，受造心灵和身体仍依赖神，却可以彼此分开而存在。",
+            "心灵的主要属性是思想，身体的主要属性是广延，也就是占有空间、具有形状并能运动。感觉和意愿属于思想的变化，形状和速度属于广延的变化。实体区分由此不是肉眼能否看见，而是概念上能否独立成立。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "清楚区分如何制造交互代价",
+          "paragraphs": [
+            "区分本来承担认识任务：即使怀疑身体，我仍不能怀疑当下的思考；思想也没有长度或位置。因此心灵似乎能够在不借用身体概念时被把握，身体也能由几何和运动来说明。",
+            "然而，概念独立若被提升为多种实体，因果便遇到压力。身体变化通常借位置、接触和运动传递来解释，意愿却没有接触面。若改说意愿以另一种方式推动身体，就必须说明这种方式为何不是给难题换名。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "疼痛不是两份报告",
+          "paragraphs": [
+            "手碰到热炉时，我们并非先观察皮肤受损，再像旁观者那样推断心灵应当疼痛。疼痛直接把身体呈现为“我的身体”。这种联合经验比两件独立物偶然交换信号更紧密。",
+            "笛卡尔本人知道这一点，所以强调心灵不是船中的舵手，而与身体紧密结合。可“紧密结合”描述了经验，并未自动解释两种实体怎样构成一个行动者。斯宾诺莎接过的正是这项未清偿的责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "差异不必等于分家",
+          "paragraphs": [
+            "有人会说，软件规则与电路状态性质完全不同，却仍属于同一运行过程，因此思想与广延的差异也不成问题。这个例子提醒我们，描述方式不同不必推出对象彼此分离。",
+            "但它不能直接证明斯宾诺莎，因为软件与硬件的关系仍依赖现代技术背景。它只攻击一个前提：从不可互换的概念立刻跳到多种实体。真正的工作仍是给出另一套实体、属性和个体理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "《伦理学》第一部从定义收紧入口",
+          "paragraphs": [
+            "《伦理学》第一部定义三把实体说成“在自身内并通过自身被理解”的东西。一个概念若必须借另一个概念才能形成，它就不符合这个强条件。定义五随即把样态说成在他物内并通过他物被理解。",
+            "这比笛卡尔对受造实体的宽松用法更严格。若心灵和身体都依赖神而存在，并且必须在更根本的秩序中被理解，它们就更像依赖性的样态，而不是各自站立的实体。定义的改变已经改变问题地形。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "继承不等于照抄",
+          "paragraphs": [
+            "斯宾诺莎曾以几何方式陈述《笛卡尔哲学原理》，说明他熟悉并能在笛卡尔框架内推演。但那部著作不是他成熟立场的直接自述，旁边的《形而上学思想》也带有早期和说明性的身份。",
+            "因此不能从他写过笛卡尔体系便断言他接受多种实体，也不能把后来《伦理学》的结论倒写进早期每一句话。可靠的比较要分别问：他保留了哪项问题压力，又在哪个定义上切断了原来的答案。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "伊丽莎白的追问在此继续发力",
+          "paragraphs": [
+            "波希米亚的伊丽莎白曾追问笛卡尔：没有广延的心灵怎样决定身体运动？她攻击的不是心灵存在，而是从实体区分到因果联合之间缺少可理解的桥梁。",
+            "斯宾诺莎的方向不是寻找更精巧的桥，而是质疑河流是否被错误地画成两岸。如果心灵和身体不是多种实体，就不必让一个无空间之物跨界推动另一个有空间之物；但新的理论仍须解释二者何以一一对应。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从多种实体逼向唯一实体",
+          "paragraphs": [
+            "第一部命题五主张，同一属性不能有两个或多个实体。命题八又说实体必然是无限的。随着论证推进，有限心灵和有限身体越来越无法满足实体的强定义。",
+            "命题十四才给出著名结论：除神以外不能有也不能被设想有任何实体。这不是先喊“万物是一”，再寻找理由；它依赖关于区分、原因、自因和无限性的连续推演，任何一步都可以成为异议入口。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "同一问题的两种修理方式",
+          "paragraphs": [
+            "笛卡尔保留心灵与身体的实在区分，再用联合、感觉和生理机制说明人的生活。斯宾诺莎则保留思想与广延的不可互换性，却把它们放在同一无限实体的不同属性下。",
+            "前者的优势是认真对待第一人称思考与空间物体的差异，代价是交互难题。后者免除跨实体因果，代价是必须说明属性差异、个体性和人的责任如何不被唯一实体吞没。没有一种立场只收获而不付费。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "检查一个实体主张",
+          "paragraphs": [
+            "遇到“心灵是一种独立东西”这样的判断，可以先问三件事：独立是指无需身体概念，还是无需身体存在；它是否仍依赖神或自然秩序；概念差异为何足以推出存在分离。",
+            "再看解释责任是否被转移。若答案用“神秘联系”“涌现”或“信息”收尾，就要继续追问这些词给出了机制、依赖关系还是仅仅命名未知。斯宾诺莎的严格处，正在于不让依赖性的东西轻易冒充实体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "实体一元论是否真的免除困难",
+          "paragraphs": [
+            "一种异议说，即使心身是同一事物的两种表达，我们仍不知道为何某个身体变化对应这个而非另一个观念。同一性排除了跨界推动，却没有自动给出所有具体对应规律。",
+            "回应可以诉诸同一因果秩序和心灵以身体为对象，但这仍要求第二部的详细论证。所得是把错误问题移除，而不是预先回答全部心理和身体科学。",
+            "另一异议担心唯一实体吞没个体责任。若“都是自然所为”被用来逃避后果，说明样态的有限因果力量尚未被理解；依赖自然不等于一个人没有区别于他人的行动关系。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从依赖性检验两种心身答案",
+          "paragraphs": [
+            "交互论要说明两种实体如何交换作用，偶因论让神在每次对应中承担原因，预定和谐让两列事件由先前安排同步。三者都保留多个独立序列。",
+            "斯宾诺莎更激进：他否认需要协调的多个实体序列。这个选择节省外部桥梁，却承担属性内因果和同一样态个体化的新责任，不能只以简洁为胜。",
+            "比较理论时，应记录它消除了哪项解释债务，又新欠下什么。只数实体数量会错过真正代价，正如只数机器零件不能说明整机是否可运行。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "语言差异与对象差异",
+          "paragraphs": [
+            "同一场事故可由力学描述碰撞，也可由法律描述责任。两套语句不可互译为同一词表，但未必指向两场事故。描述差异给心身同一提供有限类比。",
+            "类比的限度同样重要：法律性质依赖社会规范，而思想与广延被斯宾诺莎称为构成实体本质的属性。它只能阻止仓促分家，不能证明属性理论。",
+            "经过这些检验，唯一实体的动机变得更清楚：不是迷恋数字一，而是要让依赖、因果和经验统一在同一自然中获得可追踪位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "问题已经换了重心",
+          "paragraphs": [
+            "起初的问题仿佛是心灵怎样推动身体。经过实体定义的收紧，问题变成：为何先把思想与广延的差异理解成多种实体，又为何把人的有限存在理解成能凭自身站立的东西。",
+            "唯一实体目前只是受压力逼出的方向，还不是完成的答案。接下来必须逐一分清实体、属性和样态，否则“一切属于同一整体”只会成为比二元论更含混的口号。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一次举手同时可由意愿的理由和身体的运动来说明。斯宾诺莎的挑战是保留两种说明的差别，却不制造两件需要跨界推动的实体。",
+      "nodeIds": [
+        "spinoza-01-claim"
+      ],
+      "checkIds": [
+        "spinoza-01-check-1",
+        "spinoza-01-check-2",
+        "spinoza-01-check-3",
+        "spinoza-01-check-4"
+      ],
+      "abilitySummary": [
+        "分开概念差异、存在独立与因果交互三项主张。",
+        "说明唯一实体如何回应笛卡尔心身区分留下的代价，同时指出尚未解决的属性与个体难题。"
+      ],
+      "recommendedNextLessonId": "spinoza-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-02",
+      "order": 2,
+      "title": "实体、属性与样态的三层秩序",
+      "depth": "long",
+      "guidingQuestion": "若只有一个实体，桌子、身体、念头和制度究竟是什么，它们的差异会不会被一句“一切为一”抹掉？",
+      "coreExplanation": "实体不是所有东西堆成的总和，而是无需借别物便能存在和被理解的根本实在；属性是知性把握为构成实体本质的方式；样态是在实体之内、通过实体被理解的具体变化。三者不是大箱子、观察角度和箱内小物的松散关系，而是独立与依赖的严格层级。",
+      "sections": [
+        {
+          "heading": "唯一为什么没有取消繁多",
+          "paragraphs": [
+            "我们面对的是许多事物：这张桌子会损坏，那个人会离开，这个念头会被另一个念头取代。若说只有一个实体，最直接的担忧是这些差异都变成幻觉，有限个体再也没有真实位置。",
+            "斯宾诺莎并不说只有一个东西、其余全是假象。他说只有一个东西以最强意义凭自身存在，而有限事物以依赖方式真实存在。差别不在真实与虚假，而在存在和理解是否必须经过别物。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "实体是依赖链的终点",
+          "paragraphs": [
+            "实体的定义同时包含“在自身内”和“通过自身被理解”。前者谈存在的承载，后者谈概念的形成。若解释雨滴必须借水、气流和整个自然秩序，雨滴就不是这条依赖链的终点。",
+            "这不意味着我们每次认识雨滴都先想到无限实体，而是说雨滴之所以是它、能做它所做的事，并不由一个封闭的小本质独自给足。强实体概念拒绝把有限依赖者当成自足起点。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "同一属性下为何不能有两个实体",
+          "paragraphs": [
+            "第一部命题四提出区分事物的两条路：或者属性不同，或者同一属性下的样态不同。若两种所谓实体具有同一属性，又拿掉它们的样态差异，就没有剩余原则把它们区分开。",
+            "命题五据此否认同一属性下有两个实体。这一步受到不少争论，因为它依赖实体能否脱离样态来个体化。但论证意图清楚：不能先把有限变化当作区分实体的凭据，再宣称实体不依赖那些变化。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "波浪不是海的零件清单",
+          "paragraphs": [
+            "波浪有可辨的形状、速度和持续时间，可以撞击船体，也可能在岸边消散。它不是虚幻的；然而离开水体、风力和周围波浪，不能说明它是什么或为何如此运动。",
+            "这个比喻有帮助，因为样态既真实又依赖。但实体也不能简单等于一片物质海洋，思想属性不能被水的图像容纳。比喻只能显示依赖，不能替代属性理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "把实体想成大容器会出错",
+          "paragraphs": [
+            "若唯一实体只是装下万物的最大容器，容器与内容仍是两类彼此外在的东西。那样一来，样态可以被搬出容器而保持原样，依赖关系便退化为空间位置。",
+            "斯宾诺莎说样态“在”实体内，不是说铅笔在抽屉里。这里的“在”指存在论依赖：没有实体的属性和因果力量，样态根本不能是它。空间包含只是广延内部的一种关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "属性构成而非装饰实体",
+          "paragraphs": [
+            "定义四把属性说成知性知觉为构成实体本质的东西。思想与广延因此不是贴在同一核心外面的两张标签，也不是主体任意选择的观看角度；它们表达实体是什么。",
+            "困难在“知性知觉”四字。有人强调属性在实在中真正不同，有人强调差异与知性的表达相关。无论采取哪一边，都不能把属性缩成偶然性质，因为没有属性就没有可理解的实体本质。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "我们只知思想与广延并非神只有两面",
+          "paragraphs": [
+            "定义六说神由无限多属性构成，每一属性表达永恒无限本质。人通常明确把握思想与广延，却不能由此推出实体实际上只有这两个属性。",
+            "为什么有限的人只能把握这两种，是体系中的难题之一。稳妥说法是：成熟论证要求属性无限多，而人的认识在文本中围绕思想与广延展开。把未知属性编造成清单，同样越过证据。",
+            "这里还要避免另一种推断：既然人不知道其余属性，思想与广延就只是暂时假说。我们对两者的把握来自自身作为心身样态的实际结构；认识有边界，不等于边界以内也失去根据。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "boundary"
+        },
+        {
+          "heading": "有限个体由关系保持而非由小实体支撑",
+          "paragraphs": [
+            "身体作为样态仍能成为一个个体。《伦理学》第二部的物理插论把个体理解为许多身体按一定运动与静止比例互相传递运动，并在成分更换中保持这种关系。",
+            "这提示个体性不需要一颗不可分的小实体。人体不断交换物质仍可保持组织，思想生活也随身体关系形成相应秩序。个体真实，却是一种动态维持的结构。",
+            "由关系维持个体，也说明损伤为何具有程度。一次成分替换可能不改变整体比例，另一变化却会使协调能力崩解。样态理论不是说任何变化都无所谓，而是把同一性的判据从材料搬到组织。",
+            "这个判据也防止把唯一实体误解成抹平差异的总称。两个身体同属广延样态，却可因运动与静止的组织关系不同而拥有不同能力；共同依赖说明它们何以存在，具体关系说明它们何以成为这一个而非另一个。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "属性让唯一实体拥有可分辨的表达",
+          "paragraphs": [
+            "唯一实体若没有属性，只是一句空洞的“一”。属性说明同一无限实在能够作为思想被理解，也能够作为广延被理解；各属性内部又有无限和有限的样态。",
+            "于是繁多没有被抹去，而被重新定位：不是多个自足世界并排存在，而是同一实在在不同属性中形成具体秩序。下一项压力是，这个实体为何被称为神，以及它与传统人格神相距多远。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "性质、部分与样态不是一回事",
+          "paragraphs": [
+            "红色可以被说成苹果的性质，果核可以被说成苹果的部分，苹果本身又可能被视为自然中的样态。这三种关系各有尺度，不能因为都使用“属于”便混为一谈。",
+            "属性不是有限实体的一项普通性质，样态也不是把神切开的碎片。若神由可分割部分拼成，部分会先于整体并限制整体；这与实体的无限和不可分割不相容。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "沿着理解依赖向后追",
+          "paragraphs": [
+            "面对一件具体事物，可以问：要说明它的存在和作用，需要借助哪些关系？说明一块冰要借温度、分子结构和环境，说明一个信念要借身体受影响的历史与观念联系。",
+            "这种追问不要求日常语言停用“东西”。它只是防止把方便的语法主语误当成自足实体。依赖越清楚，有限个体的真实力量反而越能被准确描述。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "属性差异究竟在哪里",
+          "paragraphs": [
+            "主观解释强调“知性知觉”，认为属性差异与理解实体的方式相关；客观解释强调属性构成本质，认为差异并非有限心灵投射。两边各抓住定义四的一半压力。",
+            "若属性只是观看角度，难以解释各属性为何有不可跨越的因果完整性；若属性像多个彼此外在本质，又要说明唯一实体如何真正是一。这项争议没有靠一个比喻终止。",
+            "正文采取最低共同点：属性不是普通性质，也不是任意名称；思想和广延各自完整表达同一实体。超出这一点的实在区分程度需要另外论证。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "样态依赖并未抹去差异",
+          "paragraphs": [
+            "两种样态可以因关系、力量和持续结构不同而真实区别，即使都依赖同一实体。依赖同一个原因不推出结果彼此相同，就像同一语言规则允许许多不同句子。",
+            "更进一步，有限样态相互决定，形成具体因果链。唯一实体不是跳过近因的万能解释；说“因为自然”不能替代说明这个身体为何在此刻以此方式变化。",
+            "因此实体论提供最深依赖框架，具体科学和生活解释仍要追踪样态关系。体系若被用来停止调查，就违背它从原因理解结果的要求。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "修复中的身体显示动态个体",
+          "paragraphs": [
+            "骨折愈合时，旧组织被吸收，新组织生成，个体没有因材料更换便成为另一个人。保持的是复杂关系和连续调节，而不是每颗粒子的身份。",
+            "但变化也可能越过阈值，使原有能力永久丧失。动态个体并非任意可塑；哪些关系构成其形式，需要生理、心理与社会证据共同说明。",
+            "样态概念由此为脆弱性留下位置：个体有真实力量，也始终暴露于更大自然。伦理问题将在这种有限力量上展开，而非回到不受影响的灵魂。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "三层秩序各自承担什么",
+          "paragraphs": [
+            "实体回答什么凭自身存在和被理解；属性回答实体的本质怎样得到不可还原的表达；样态回答有限而具体的事物怎样在属性秩序中存在。三个词不能互相代换。",
+            "这一结构既拒绝多种实体，也拒绝把有限事物降为幻象。尚未解决的是：把唯一实体叫作“神”究竟增加了什么，是否仍包含意志、计划、奖惩和对人的特殊关怀。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "波浪的形状和作用都真实，却不能离开海水与周围运动而被说明。这个例子只显示样态的依赖，不能把思想属性还原成物质海洋。",
+      "nodeIds": [
+        "spinoza-02-claim"
+      ],
+      "checkIds": [
+        "spinoza-02-check-1",
+        "spinoza-02-check-2",
+        "spinoza-02-check-3",
+        "spinoza-02-check-4"
+      ],
+      "abilitySummary": [
+        "用存在依赖与概念依赖分清实体和样态。",
+        "解释属性为何构成实体本质，并保留属性实在性争议与未知属性边界。"
+      ],
+      "recommendedNextLessonId": "spinoza-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-03",
+      "order": 3,
+      "title": "神即自然不是人格神的放大",
+      "depth": "long",
+      "guidingQuestion": "当斯宾诺莎说“神即自然”时，他是在说每棵树都是一小块神，还是在彻底改变“神”这个词的含义？",
+      "coreExplanation": "神是绝对无限、由无限多属性构成的唯一实体；万物在神之内并由神的本性必然随出。这个神不在自然之外制定计划，不因人的祈求改变决定，也不以奖惩表达喜怒。神即自然因此是内在因果论，不是把传统人格神扩大到宇宙尺寸。",
+      "sections": [
+        {
+          "heading": "一场祈雨把两种神观分开",
+          "paragraphs": [
+            "若人们祈雨后果然降雨，很容易说神听见请求并改变天气。这个解释把神设为拥有意图、理解语言、评估请求并能从自然秩序外介入的行动者。",
+            "斯宾诺莎会先问雨由哪些自然原因必然产生，再问祈祷怎样改变人的情感和共同生活。他不需要一个在因果链外临时改令的意志。宗教经验可以有心理和政治作用，却不能据此证明自然被暂停。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "绝对无限的神",
+          "paragraphs": [
+            "第一部定义六把神说成绝对无限的存在，也就是由无限多属性构成、每一属性表达永恒无限本质的实体。这里的无限不是尺寸无边，而是不受同类之物限制。",
+            "命题十一论证神必然存在，命题十四排除其他实体。神并非唯一实体旁边最强大的一个成员，而就是存在本身的自足根基。若把神与世界并列，便已经重新制造了神外之物。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "内在因取代外在制造者",
+          "paragraphs": [
+            "命题十六说无限多事物以无限多方式从神性必然随出，命题十八称神为万物的内在因而非及物因。及物因像木匠造桌，作品完成后可与制造者分开。",
+            "内在因则不离开结果所处的实在。万物不是从神外取得材料，也不是造好后搬离神；它们就是神的属性以确定方式表现出来。神的非人格意义正在这里显现，因果关系不需要跨越超自然与自然的边界。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "三角形没有向性质发布命令",
+          "paragraphs": [
+            "三角形内角性质从其定义和几何关系推出，并非三角形先考虑多种方案，再选择让内角如此。这个例子帮助理解“从本性随出”与意志命令的差别。",
+            "但自然不是一张静止图形，例子也不能证明所有具体事件如何推出。它只说明必然性不等于外来强迫：某物可以因为它是什么而产生结果，而不是因为另一个人格发出命令。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "每块石头都是神的一部分吗",
+          "paragraphs": [
+            "把神即自然说成“每块石头都是一小片神”似乎直观，却暗含神可以像拼图那样分割。这样一来，石头与神的其余部分彼此外在，唯一实体反而成了部分总和。",
+            "更准确的说法是石头是广延属性的有限样态，它在神之内并通过神被理解。它表达神的力量，却不等于拥有神的全部无限本质。样态关系不能缩成部分关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "“能产的自然”与“被产的自然”",
+          "paragraphs": [
+            "第一部命题二十九附释区分 Natura naturans 与 Natura naturata，常译为“能产的自然”和“被产的自然”。前者指作为自由因的神及其属性，后者指从神性必然随出的全部样态。",
+            "这不是两个自然。区分的是同一实在作为无限因果力量与作为全部结果秩序的两个层次。若把能产自然想成工厂、被产自然想成产品，仍会落回外在制造模型。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "“泛神论”标签能说多少",
+          "paragraphs": [
+            "后世常用“泛神论”概括神与自然的同一，也有人用“泛在神论”强调万物在神内而神不等于有限万物总和。这些标签能提示方向，却不能替代命题链。",
+            "争议取决于“自然”指唯一实体还是全部有限样态，也取决于同一关系怎样理解。稳妥做法是先说内在因、唯一实体和必然随出，再说明标签是解释选择而非原文口号。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "神学词汇为何没有被简单抛弃",
+          "paragraphs": [
+            "斯宾诺莎保留神、完满、永恒和自由等词，却逐一改写。神的自由不是在多个可能世界间任意选择，而是仅由自身本性行动；神的完满不是道德人格的善意，而是实在性与力量。",
+            "这种策略既能与当时神学争论正面交锋，也容易造成误读。熟悉的词仍在，语法却变了。若把传统含义未经检查地带回文本，便会让内在自然再次人格化。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "非人格神怎样通向必然性",
+          "paragraphs": [
+            "若神不依据目的选择创造方案，万物就不是可能如此也可能不如此的自由作品。它们从神性以确定秩序随出，神也不能违背自己的本性另作决定。",
+            "这一步把神即自然与因果必然性连在一起，也会引出人的焦虑：若一切必然发生，努力和自由还有什么意义？在回答之前，还需先理解几何学次序怎样展示这种必然联系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "超越者与内在因",
+          "paragraphs": [
+            "传统创造论常把神理解为世界之外的超越原因，世界依赖神却不等于神。斯宾诺莎的神不处于空间外某地，而是所有存在与可理解性的内在根据。",
+            "两者都可以说万物依赖神，依赖结构却不同。外在创造允许造物与造物主有存在距离，内在因果取消这段距离。争论不能靠双方共同使用“神”字便假装消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "识别自然解释中的人格投射",
+          "paragraphs": [
+            "当人说暴风“惩罚”城市、疾病“挑选”软弱者或宇宙“想教我一课”，可以检查句子是否把自然过程拟成会评估人的行动者。隐喻有表达作用，不能直接充当原因说明。",
+            "反过来，也不必禁止一切目的语言。解释某人为何赴约，可以引用他的意图；解释器官功能也可能使用经过约束的功能概念。斯宾诺莎攻击的是把整套自然安排成人类利益的计划。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "自然是否就是可见宇宙",
+          "paragraphs": [
+            "若把自然只理解为当前物理宇宙的全部有限物，神即自然似乎把神缩成宇宙总和。但斯宾诺莎的自然还包括无限属性与能产力量，不能由可枚举天体穷尽。",
+            "另一方面，把神说成远超一切自然又会重新建立超越领域。较稳妥的说法是：有限宇宙属于被产自然，神作为唯一实体不能被有限结果总和耗尽。",
+            "这也是泛神论标签争论的根源。不同标签常在回答“神是否多于有限万物总和”，而非争论万物是否依赖唯一实体。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "非人格不等于没有理智秩序",
+          "paragraphs": [
+            "神不作选择、不因祈求改意，不表示自然混乱无理。恰恰相反，万物按必然因果秩序随出，思想属性中也有对全部事物的观念秩序。",
+            "不过，无限知性在《伦理学》中属于神的样态，不应未经说明就当成一位在属性之外思考的宇宙人格。词语“知性”仍需放在体系位置中理解。",
+            "所得是一种可理解而非有计划的自然：秩序来自本性随出，不来自先设目的。它保留理性说明，同时拒绝把说明者想成超自然君主。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "感恩不必以宇宙意图为对象",
+          "paragraphs": [
+            "人在康复后感到感恩，可以感谢医护、亲友和支撑生命的自然条件。感恩作为喜悦关系真实存在，不必证明宇宙有意把疾病安排成礼物。",
+            "这种转向没有把价值赶出世界，而是把价值放回有限者彼此增强的关系。非人格自然可以孕育敬畏，却不会承诺按人的道德愿望分配事件。",
+            "因此批评人格投射与承认宗教情感可以并存，前提是情感不冒充自然原因，也不取得强迫他人接受同一解释的权力。",
+            "当人说自然值得敬畏，敬畏可以来自对无限因果秩序的理解；当人说自然要求某项祭献，便增加了一个会发布规范的主体。两句话情感相近，形而上学承诺却不同。",
+            "这种分辨使非人格神不等于情感贫瘠。它只是要求喜悦、爱与敬畏由实际关系说明，而非把自然写成按人的语言作出回应的君主。",
+            "同样，称自然完满并不是说每件事符合人的善恶愿望。完满在此表示实在性和力量；灾害对人有害，与它依自然原因发生可以同时为真。",
+            "所以非人格意义不是把所有价值判断都宣布为幻觉。它只拒绝从人的受益反推宇宙意图；在人的关系范围内，仍可根据某件事增强还是削弱共同生活的能力，说明它为何值得追求或避免。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "神即自然真正改变了什么",
+          "paragraphs": [
+            "神不再是自然之外的立法人格，而是绝对无限的唯一实体；万物不是被外在制造后独立存在，而是在神内由神性必然随出。能产自然与被产自然标示因果力量和结果秩序。",
+            "因此“神即自然”既不是无内容的宇宙赞歌，也不是每件东西各占一份神性。它要求我们放弃神意解释，转向内在原因，同时保留标签与传统神学之间真正的分歧。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "祈雨可以改变祈祷者的希望、恐惧和共同关系，却不能因此证明天气秩序被超自然意志暂停。内在因要求追踪自然自身的充分原因。",
+      "nodeIds": [
+        "spinoza-03-claim"
+      ],
+      "checkIds": [
+        "spinoza-03-check-1",
+        "spinoza-03-check-2",
+        "spinoza-03-check-3",
+        "spinoza-03-check-4"
+      ],
+      "abilitySummary": [
+        "用唯一实体、内在因和必然随出解释神即自然。",
+        "拒绝把非人格神缩成泛神论口号，并分开有限样态、全部自然与神的无限本质。"
+      ],
+      "recommendedNextLessonId": "spinoza-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-04",
+      "order": 4,
+      "title": "几何学次序怎样工作又在哪里停下",
+      "depth": "long",
+      "guidingQuestion": "哲学真的能像几何证明一样从定义推出，还是《伦理学》的命题编号只给争议披上一层确定外观？",
+      "coreExplanation": "几何学次序把承诺公开排列：定义固定术语，公理提供共同起点，命题由先前材料证明，附释则补充例子、批评与语境。它迫使异议指出具体前提，却不保证定义真实、证明无缺口或生活经验已被穷尽。形式是可检查的论证机器，不是免除判断的权威。",
+      "sections": [
+        {
+          "heading": "一句命题背后有多少债务",
+          "paragraphs": [
+            "普通散文可以在同一段里悄悄改变词义，也可能把关键前提藏在修辞中。几何形式要求命题标明它借用了哪些定义、公理和先前结果，好像每笔推理都留下账目。",
+            "可账目清楚不等于交易合理。若最初定义带入未经辩护的承诺，后面推得再整齐也只显示承诺的后果。因此既要沿引用向后检查，也要问起点为何值得接受。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "定义、公理、命题与证明各司其职",
+          "paragraphs": [
+            "定义说明术语在论证中怎样使用，例如自因、实体、属性和样态。公理陈述被当作共同起点的关系，例如认识结果依赖认识原因。命题则是要建立的判断。",
+            "证明把命题连回先前依据；推论展示直接后果；附释常转为较自由的散文，处理误解、传统对手和生活例子。序言与附录更会揭示为何要建立整套体系。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "形式让反对变得精确",
+          "paragraphs": [
+            "若反对“只有一个实体”，不能只说结论离奇。可以攻击实体定义过强，质疑命题四的区分是否穷尽，或否认命题五从不可区分推出不能有两个实体。",
+            "这种精确性是几何次序的重要收获。它把情绪上的不适转换为可定位争论，也允许后续判断哪些部分在某一前提被拒绝后仍能保留。体系的透明依赖比不可触碰的确定感更有价值。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "一座按图施工却歪斜的桥",
+          "paragraphs": [
+            "工程图上的每一步计算都可能正确，但若最初测量的地基数据错误，桥仍会歪斜。反过来，一座暂时站立的桥也不能证明所有计算可靠，可能只是安全余量掩盖了错误。",
+            "几何文本同样要分开推演有效与起点恰当。检查证明是在问结论是否随出，检查定义与公理则是在问这是否抓住所研究的实在。两类审查不能相互替代。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "编号不会自动生产真理",
+          "paragraphs": [
+            "任何人都能把偏见写成“定义一”，再给结论编上命题号。形式上的模仿不提供内容上的正当性，也不能阻止循环论证或含混词语。",
+            "所以把《伦理学》当作必须背诵的定理表，恰好背离其可检查精神。编号的作用是让推理路径暴露，不是让人停止询问。怀疑某一步并不等于拒绝全部理性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "附释为何不能当作装饰",
+          "paragraphs": [
+            "一些最著名的说明出现在附释，例如第二部命题七附释用“同一事物”解释思想与广延，第二部命题四十附释二列出三种知识，第五部命题二十三附释谈心灵永恒的感受。",
+            "附释不具有与证明完全相同的形式角色，却常决定命题如何理解。只抽取粗体命题会失去限定和例子；只读附释又可能看不见它依赖的证明链。两种阅读必须往返。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "《知性改进论》留下的方法边界",
+          "paragraphs": [
+            "未完成的《知性改进论》讨论真观念、定义和知性工具，认为方法不是先寻找另一把无限验证真理的尺，而是从已有真观念反思其秩序。",
+            "这能照亮《伦理学》的方法抱负，却不能当成后来几何文本的完整说明书。手稿停在未完成状态，术语也有演变。连续性需要论证，不能由写作先后自动保证。"
+          ],
+          "identity": "primary-treatise-intellect",
+          "kind": "boundary"
+        },
+        {
+          "heading": "形式次序与发现次序未必相同",
+          "paragraphs": [
+            "作者可能先在书信、争论和生活经验中形成洞见，最后才按定义与命题重新排列。展示的逻辑次序不必复制心理上的发现经过。",
+            "因此几何形式既可能是论证，也可能是重构。它说明一套观念如何相互依赖，不必声称任何人实际都从定义一开始思考。把展示和发现分开，能避免神化形式。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "由定义推向因果必然",
+          "paragraphs": [
+            "几何学次序不只是写作风格，它与内容互相支撑：若事物从神性必然随出，那么恰当认识也应显示结果怎样由原因推出。",
+            "这会把解释理想推向因果必然性。下一步必须问，自然中的“必然”是否等于一切努力无意义，以及目的语言为何在斯宾诺莎看来遮蔽了真正原因。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与笛卡尔沉思体的距离",
+          "paragraphs": [
+            "笛卡尔的《第一哲学沉思集》让思想沿怀疑、我思和上帝保证展开，保留一个正在经历不确定的第一人称声音。《伦理学》则把人置入非人格的定义和命题秩序。",
+            "前者让问题的发现过程可感，后者让依赖结构可查。斯宾诺莎并非没有修辞，他把有力批评放进序言、附释和附录。体裁差异改变了说服方式，不决定谁自动正确。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "沿引用链逆向审核",
+          "paragraphs": [
+            "面对一个证明，可先写出结论、直接依据和更早前提，再检查同一个词在各处是否保持含义。若某一步依赖未证明的唯一解释，就把异议落在那里。",
+            "也要正向检查：暂时接受某一定义，会有哪些意外后果？几何次序的力量在于允许这种双向移动。它不是要求服从，而是要求反对者同样承担清楚说明的责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "定义是在约定还是发现本质",
+          "paragraphs": [
+            "若定义只是任意规定词义，从“神”的定义推出存在便像从“独角兽”定义推出独角兽。若定义声称把握真实本质，它又需要说明这种把握如何获得。",
+            "《知性改进论》要求好定义表达事物内在本质，并使全部性质可由之推出。这比词典约定更强，也把认识本质的责任放在证明之前。",
+            "反对者可承认条件推演有效，却拒绝起点对应实在。几何形式最诚实的地方，是让这种拒绝成为明确争点，而不是用形式威望压过去。",
+            "例如有人接受从实体定义推出唯一性，却质疑定义为何要求实体只能通过自身被理解。他攻击的是起点对自足性的规定，不是证明中的某次演算。把异议放准位置，双方才知道还需提供哪种存在论理由。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "证明与附释形成双重声音",
+          "paragraphs": [
+            "证明常以压缩形式展示必要联系，附释则承认实际理解需要反例、历史对手和语言澄清。两种声音共同构成作品，而非一个严肃一个多余。",
+            "若只读证明，可能知道使用哪些前提却不知道为何有人抵抗；若只读附释，可能被有力比喻说服却无法判断结论是否真正随出。",
+            "耐心阅读要在二者间往返：先让附释提出可感问题，再回证明检查骨架，最后让异议落到具体前提。形式与自然讲解并不敌对。",
+            "定义、公理和证明也并非同一种句子。定义规定讨论对象如何被把握，公理提出推演所依赖的普遍关系，证明则展示当前命题怎样借这些材料随出。若把三者都当成事实报告，就会漏掉各自不同的辩护责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "错误证明怎样帮助理解方法",
+          "paragraphs": [
+            "若一份证明在第三步偷换“无限”含义，后续十步都可能形式正确。定位第三步比笼统说整份文本难懂更有推进力。",
+            "修正也要有限：补清一个词义只能修复由该词义造成的缺口，不能顺便证明所有定义真实。每次改动都应重新运行依赖链。",
+            "这种审查习惯与后续伦理相连。更恰当观念不是更强确信，而是能显示自身原因和边界；方法的纪律本身就是从被动印象走向主动理解。",
+            "编号还能保存局部成果。若一项后期命题只依赖某几条较弱前提，另一处定义受到挑战，并不必然使整部著作同时倒塌。依赖图越清楚，批评越能区分需要重建的支点与仍可保留的推论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "一种严格而不封闭的形式",
+          "paragraphs": [
+            "定义固定承诺，公理给出起点，命题和证明展示随出关系，附释与序言恢复争论语境。形式使复杂体系可以逐点检验，也让概念初次出现时承受更大压力。",
+            "形式的透明也不保证内容穷尽经验。关于情感强度、历史处境和政治恐惧的理解，常需附释中的叙述才能进入论证。几何次序给出可追踪的骨架，不能代替骨架所要解释的生活材料。",
+            "《知性改进论》的未完成也提醒人区分项目线索与成熟证明。它能显示斯宾诺莎为何寻求一种使真观念显出自身根据的方法，却不能凭相似词语替《伦理学》的定义和公理完成辩护。",
+            "它不能证明起点天然真实，不能把例子和历史变成多余，也不能保证所有经验都被形式化。最好的使用方式不是敬畏编号，而是借编号看清何处必须继续追问。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "按图施工的桥可能因地基测量错误而歪斜。证明链条无误只回答结论是否随出，不能替代对定义、公理和经验适切性的检查。",
+      "nodeIds": [
+        "spinoza-04-claim"
+      ],
+      "checkIds": [
+        "spinoza-04-check-1",
+        "spinoza-04-check-2",
+        "spinoza-04-check-3",
+        "spinoza-04-check-4"
+      ],
+      "abilitySummary": [
+        "分清几何文本中定义、公理、命题、证明、附释和序言的不同作用。",
+        "既沿引用链检查推演，也审查起点与解释边界，不把形式整齐误作自动真理。"
+      ],
+      "recommendedNextLessonId": "spinoza-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-05",
+      "order": 5,
+      "title": "因果必然与目的论的诱惑",
+      "depth": "long",
+      "guidingQuestion": "如果一切都从自然的必然性发生，后悔、计划和改变还有意义吗，还是每件事都早已写好？",
+      "coreExplanation": "必然性不是外部命运强迫事物，而是结果由确定原因随出；偶然往往表示我们不知道完整原因。目的论错误则把人的欲求投射到自然整体，先把有用之物当成特为人安排，再想象一位按目的治理的主宰。理解原因不会取消行动，行动本身正是因果秩序的一部分。",
+      "sections": [
+        {
+          "heading": "错过列车后的两个句子",
+          "paragraphs": [
+            "错过列车的人可能说：“既然事情必然如此，我早起也没用。”这句话把必然理解成无论原因怎样变化，结果都相同，仿佛一个独立命运在所有路径尽头等待。",
+            "但若迟到由起床时间、路况和步行速度共同造成，改变其中一个原因便属于另一条因果链。必然性说同样的充分原因不会任意产生相反结果，不是说任何行动条件都对结果无关。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "必然、可能与偶然",
+          "paragraphs": [
+            "第一部命题二十九说自然中没有偶然之物，一切都由神性必然被决定以特定方式存在和行动。这里的“决定”是因果限定，不是一位裁判预先写下命令。",
+            "我们称某事偶然，常因不知道其本质是否包含矛盾，也不知道使它发生或不发生的原因。偶然性可以是认识状态；它不必是事物内部一种脱离因果的摇摆力量。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "神的本性为何没有备选方案",
+          "paragraphs": [
+            "命题十六把万物从神性随出类比为性质从定义推出。命题三十三进一步说事物不能由神以不同于现有秩序的另一方式产生，因为神的本性不是可以替换的决定。",
+            "若神先看见多个完整世界再任选其一，选择就需要理由；若没有理由便是任意，有理由便又受理由决定。斯宾诺莎以此拒绝无因意志，把神的自由改成仅由自身本性行动。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "天气预报不是命运宣告",
+          "paragraphs": [
+            "预报暴雨会使人带伞、改道或加固屋顶。若预报本身进入人的决定，它就改变后续因果条件。可预测性没有使应对无用，反而让应对更有根据。",
+            "同样，理解愤怒的身体和观念原因，可以让新的观念、环境和习惯加入链条。认识不是站在因果世界外取消结果，而是成为更有组织的原因。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "宿命论偷换了原因的作用",
+          "paragraphs": [
+            "宿命论常说，无论采取什么手段，某个结果都会到来。斯宾诺莎的必然论却说，手段、犹豫、劝告和制度都是自然中的真实原因；结果正通过这些条件而发生。",
+            "所以“既然必然，就不必治疗”自相矛盾。治疗是否出现同样有原因，且会改变身体过程。必然性中的行动不是徒劳插曲，而是结果得以不同的必要条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "第一部附录拆解目的偏见",
+          "paragraphs": [
+            "附录从一个日常事实出发：人意识到自己的欲求，却不知道决定欲求的原因，因此相信自己自由；人又为有用之物寻找手段，便推想自然万物也是为某个目的安排。",
+            "看见眼睛有助于视觉，人便容易说眼睛“为了看”而被设计；看见灾害，又发明神怒或罪过解释。目的偏见随后生产善恶、秩序、混乱等以人为中心的判断。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "批判目的不等于禁用所有理由",
+          "paragraphs": [
+            "人确实会为赴约而出门，也会为避免疼痛而治疗。斯宾诺莎不是否认行动者拥有目标，而是把目标本身放回欲望、身体状态和观念的因果解释。",
+            "生物功能语言也可在明确条件下描述结构贡献。危险在于从局部功能跳到整个自然专为人类利益安排，再用未知目的代替可追踪原因。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "错误的自由感从无知中产生",
+          "paragraphs": [
+            "人知道自己想喝水，却未必知道盐分、习惯、身体状态和当下图像怎样形成欲望，于是把意识到欲望误认为无因地创造欲望。",
+            "斯宾诺莎并未说意识虚假，而是说意识内容不完整。自由问题由此转向：不是寻找无原因的选择，而是增加对决定我们的原因之恰当认识。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "因果秩序如何穿过心与身",
+          "paragraphs": [
+            "若自然只有一套必然秩序，心灵不能成为身体链条外的例外王国，身体也不能凭碰撞单独解释思想内容。两种属性必须各自表达同一秩序。",
+            "这会把笛卡尔的交互问题改造成对应问题：一个身体事件与一个观念为何既不互相推动，又不是偶然同步。第二部关于观念秩序的命题正从这里接手。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "决定论与宿命论的分水岭",
+          "paragraphs": [
+            "决定论强调每一事件有充分的因果条件；宿命论强调某结果不因行动差异而改变。前者让行动成为条件之一，后者把行动从结果中抽空。",
+            "斯宾诺莎更接近前者，但还增加实体论背景：因果必然性来自神或自然的本性，不是一串外在机械推力。人的理由也属于思想属性中的真实因果解释。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "把“为了”改写成可检验原因",
+          "paragraphs": [
+            "听到“这场挫折是宇宙为了让我成长”，可以分别问：哪些事件造成挫折，成长由哪些反思与支持实现，所谓宇宙目的还有什么独立证据。",
+            "改写不会夺走经历的意义。人仍可赋予事件方向，却不必把自己的后来解释投射为自然最初计划。意义实践与自然原因可以分开承担责任。",
+            "这里必须区分行动目的与自然终极目的。一个人因想见朋友而出门，意图确实属于他的观念因果；但不能由此推出暴雨、道路和身体都为了这次会面被安排。有限者有目标，不等于整个自然预先服从该目标。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "是否可能有真正的开放未来",
+          "paragraphs": [
+            "现代人可能用量子不确定或复杂系统反对严格决定论，但随机性即使存在，也不会自动成为由自身本性行动的自由。无规则结果仍不等于负责选择。",
+            "斯宾诺莎的论证立足其实体与因果概念，不应假装已经预判现代物理。科学变化可对自然必然的具体模型施压，却需另行说明对伦理自由定义有何影响。",
+            "因此开放未来与自由是两个问题。前者问事件是否由先前状态唯一确定，后者问行动多大程度表达行动者的恰当理解；不能靠一个答案包办。",
+            "宿命论通常把结果看成无论中间发生什么都会到来，因而行动与结果脱节。必然因果恰好相反：结果经由具体条件发生，劝说、训练、制度和治疗都能成为条件。删去这些原因，得到的已不是同一条因果链。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "目的解释怎样倒置因果",
+          "paragraphs": [
+            "人先欲求健康，再把有利健康之物称为善，随后容易想象这些事物原本就是为了健康而存在。评价从人的关系产生，却被倒写成自然的制造计划。",
+            "当未知原因被一句“神如此安排”填满，调查便停止；若结果有害，又只好继续发明隐藏目的。目的论因此能吸收任何反例，失去失败条件。",
+            "有效解释应说明若条件不同结果将怎样变化，并允许证据推翻。不可失败的目的故事可以安慰，却不能承担与自然原因相同的认识职能。",
+            "这也解释为何追责仍有位置。惩罚若只表达报复，容易把行为者想成无因起点；若保护他人、改变诱因并帮助形成较强能力，它本身进入未来原因。理解决定因素会改变责任方式，不会取消后果判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "预防措施正属于必然链",
+          "paragraphs": [
+            "知道火灾由电路老化和可燃物造成，会促使检查线路、安装警报。若这些措施成功，不能说原预测错误；知识已经成为改变条件的原因。",
+            "同理，理解某种情感冲突的常见原因可形成制度预防。必然性越被具体把握，行动入口越清楚，而不是越少。",
+            "这说明斯宾诺莎的伦理为何依赖认识论。自由无法从因果空白取得，只能从较充分原因所组织的身体、观念和共同生活中增长。",
+            "异议会问：若我的理解也被决定，凭什么称它为我的行动？回答不靠否认决定，而靠原因结构的差别。一个判断越能由个体较完整的观念和稳定能力说明，它越少只是当前外物留下的被动痕迹。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "必然性没有让世界静止",
+          "paragraphs": [
+            "万物依确定原因发生，偶然常反映原因知识不足。人的计划、劝告与改变同样是原因，因此必然论不是无论做什么结果都相同的宿命论。",
+            "这一区分仍留下尺度问题：何种原因足以叫作较完整，不能只由行动者自称。它要接受身体后果、观念连贯性和共同关系的检验。必然性提供解释框架，具体自由程度仍需逐案分析。",
+            "目的论批判要求从人格化安排回到自然因果，却不否认有限行动者有目标。接下来要看同一必然秩序怎样分别在思想和广延中表达。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "天气预报进入行动并改变损失，显示认识和应对本身属于因果链。结果必然由具体条件随出，不表示更换真实条件仍必得同一结果。",
+      "nodeIds": [
+        "spinoza-05-claim"
+      ],
+      "checkIds": [
+        "spinoza-05-check-1",
+        "spinoza-05-check-2",
+        "spinoza-05-check-3",
+        "spinoza-05-check-4"
+      ],
+      "abilitySummary": [
+        "分清因果必然、认识上的偶然与不顾行动差异的宿命论。",
+        "把自然目的投射改写为可追踪原因，同时保留有限行动者的真实目标。"
+      ],
+      "recommendedNextLessonId": "spinoza-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-06",
+      "order": 6,
+      "title": "心灵作为身体的观念",
+      "depth": "long",
+      "guidingQuestion": "若心灵不推动身体、身体也不把运动跨界传给心灵，疼痛、决定和认识怎样仍属于同一个人？",
+      "coreExplanation": "思想与广延是同一实体的不同属性，人的心灵则是一个实际身体的观念。心身不是两件同步装置，而是同一样态的两种表达；共同概念从身体共有结构中形成恰当认识。",
+      "sections": [
+        {
+          "heading": "疼痛既有位置又有意义",
+          "paragraphs": [
+            "针刺手指时，神经与组织发生变化，同时出现“我的手正在痛”的意识。若说身体把运动传给无空间心灵，跨属性交互难题重现；若说二者毫无关系，经验统一又消失。",
+            "斯宾诺莎寻找更强的关系：不是两个事件彼此造成，而是同一个具体存在在广延下表现为身体变化，在思想下表现为相应观念。因果链不跨越属性，统一也不靠偶然巧合。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "观念首先是一种行动",
+          "paragraphs": [
+            "在第二部定义三中，观念是心灵因其为思维之物而形成的概念。斯宾诺莎偏用“概念”而非“知觉”，要强调心灵并非只被动接收图像。",
+            "观念也不是脑内一幅与对象相似的小画。它是思想属性中的确定样态，具有所关于的对象，并可与其他观念形成原因和根据的联系。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "秩序与联系为何相同",
+          "paragraphs": [
+            "第二部命题七说，观念的秩序和联系与事物的秩序和联系相同。其根据是各属性表达同一实体和同一因果必然，而不是神在两列事件之间逐项校准时钟。",
+            "同一结果在广延中由身体原因说明，在思想中由观念原因说明。不能用意愿作为额外推力插入身体链，也不能用脑内碰撞直接充当一个判断的逻辑理由。",
+            "所谓次序相同，不是说每个观念都在时间上等待一个身体事件发号施令。它说两条说明链具有对应的因果结构：广延中的原因关系，在思想中有相应观念关系，而两边都不需要越界借用另一属性完成解释。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "抬手决定的双重表达",
+          "paragraphs": [
+            "决定抬手可以由理由、期待和先前观念来说明；同一行动也可由肌肉、神经与身体环境来说明。两种解释并非争夺一段空位。",
+            "若理由说明完整，不意味着身体原因缺席；若身体说明完整，也不意味着理由只是幻觉。它们在各自属性内表达同一具体秩序，不能混成一种半心理半机械的跨界推力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "两只校准时钟仍然太弱",
+          "paragraphs": [
+            "把心与身比作永远同步的两只钟，能显示无直接交互的对应，却暗示它们仍是两件独立装置，只因某种预先安排保持一致。",
+            "斯宾诺莎的“同一事物”更强：不是两个对象具有相同时间表，而是一个对象在思想与广延下被理解。平行论这个后世名称若只留下平行，会遮蔽同一性。",
+            "同一性也不等于把思想翻译成神经运动。翻译预设一种语言可由另一种语言替换，属性理论却坚持思想作为思想、广延作为广延各有完整说明。统一发生在样态身份上，不发生在概念词汇的相互还原上。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "心灵是一个实际身体的观念",
+          "paragraphs": [
+            "第二部命题十三说，构成人的心灵之实际存在的对象是身体，也就是一个实际存在的广延样态。心灵不是先自足存在再临时住进身体。",
+            "因此身体越能以多种方式受影响并影响外物，心灵就越能知觉更多。身体结构不是认识的牢笼背景，而是心灵复杂性与认识范围的条件。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "心灵直接知道的是身体受影响",
+          "paragraphs": [
+            "命题十九至二十三指出，心灵借身体受影响的观念认识自身身体和外部身体。一次感觉同时包含外物性质与自身身体状态，不是外物完整本质的透明复制。",
+            "这解释错觉为何可能：观念真实表达一次受影响，却可能不足以恰当地说明外物原因。有限视角不是凭空虚构，而是关系信息不完整。",
+            "例如手碰到冰块时，寒冷观念首先表达身体在这次接触中怎样改变。它并不虚假，却没有单凭自身给出冰块温度、神经过程和环境条件的充分原因。经验的真实性与解释的充分性必须分开。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "boundary"
+        },
+        {
+          "heading": "共同概念从共有结构出现",
+          "paragraphs": [
+            "若某种性质为一切身体共同具有，并在部分和整体中同样存在，它就不能只由某个偶然相遇的偏斜角度理解。第二部命题三十八据此建立共同概念的恰当性。",
+            "共同概念不是大家投票同意的观念，而是把握身体间真实共有的结构。它让认识从“这个外物此刻怎样影响我”转向“所有相关身体按什么共同关系行动”。",
+            "因此两座城的人都同意某项说法，并不会使它成为共同概念；共识可能来自同一传闻。反过来，即使无人说出惯性或身体可受影响的关系，只要这种结构真实共同存在，理性便可能逐步形成对它的恰当观念。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "从身体观念走向知识等级",
+          "paragraphs": [
+            "感觉观念常由外物与自身身体的局部相遇形成，因此可能零散而不充分；共同概念则把握共有因果结构，构成理性的基础。",
+            "这已经预告知识三种类：想象不是纯粹错误，理性不是脱离身体，直观也不是神秘直觉。区别在观念怎样包含其原因和对象。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "斯宾诺莎怎样改变笛卡尔",
+          "paragraphs": [
+            "笛卡尔强调心灵比身体更容易被清楚认识，并以实在区分保障心灵独立。斯宾诺莎让人的心灵以身体为对象，心灵能知道多少与身体关系能力紧密相连。",
+            "他保留思想与广延不可互换，却拒绝多种实体和跨实体交互。自由也不再是心灵意志统治身体，而将成为整个个体在恰当观念下行动的力量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "给两种说明各自留出空间",
+          "paragraphs": [
+            "解释一次惊恐时，可以追踪声音、心率和逃跑动作，也可以追踪“有危险”的判断、记忆和期待。两条说明可互相约束，却不应把一种词汇粗暴替换成另一种。",
+            "若只说激素便以为理由已消失，或只说意志便忽略身体条件，都重演属性混淆。更好的问题是两种说明是否指向同一事件结构。",
+            "这一框架还改变治疗的提问。药物调整身体关系，谈话重组观念关系，二者可能针对同一人的同一变化，却不能因此说一个只是表面、另一个才是真因。各自效果仍须在相应因果链中检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "心身同一是否就是现代身份论",
+          "paragraphs": [
+            "现代心脑身份论常把心理状态等同脑状态，使用同一物理世界中的科学还原。斯宾诺莎却坚持思想与广延属性不可用彼此概念说明。",
+            "二者都拒绝两种实体，却对还原有不同态度。把斯宾诺莎直接称为物理主义者，会忽略思想属性的完整性；称他为传统唯心主义又忽略广延同样构成本质。",
+            "较准确的连接是非还原同一：同一具体事物允许两种不可化约说明。它与当代理论相似到足以比较，不相同到不能直接认领。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "为何属性之间没有因果通道",
+          "paragraphs": [
+            "第一部命题十说，每一属性必须通过自身被理解。若身体原因需要思想概念才能完成，广延就不再通过自身构成完整秩序。",
+            "第二部命题六说明，各属性样态以其所属属性下的神为原因。思想样态由思想秩序解释，广延样态由广延秩序解释，同一实体保证对应。",
+            "这项封闭并不禁止心理与身体证据互相提示研究方向，只禁止把一种属性的概念直接塞入另一属性的证明缺口。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "幻肢痛显示身体观念的复杂性",
+          "paragraphs": [
+            "失去肢体的人仍可能感到该处疼痛，说明心灵表达的不是外部身体部位的简单照片，而是整个身体关系怎样受影响。",
+            "若据此说疼痛不真实，就混淆体验真实性与外部原因判断。疼痛观念真实发生，但它对肢体当前存在状态的说明不充分。",
+            "这一例子把心身同一与错误理论接在一起：身体结构产生真实观念，恰当认识则需进一步说明观念为何以这种方式出现。",
+            "仍有未决之处：若属性无限多而人只知思想与广延，为何这两种表达足以说明人的完整经验？体系给出人作为心身样态的根据，却没有把未知属性变成人可随意补写的心理层次。承认边界比虚构第三条因果通道更稳妥。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "统一不靠跨界推动",
+          "paragraphs": [
+            "心灵是身体的观念，心身是同一样态在思想与广延下的表达。观念链与身体链各在自身属性内因果展开，却因唯一实体而具有同一秩序。",
+            "身体受影响的观念说明有限经验，共同概念则把认识引向共有结构。下一项任务是分清三种知识及错误怎样从片面观念发生。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "抬手可以由理由和期待说明，也可以由身体运动说明。二者不是争夺同一因果空位，而是同一事物在思想与广延属性下的完整表达。",
+      "nodeIds": [
+        "spinoza-06-claim"
+      ],
+      "checkIds": [
+        "spinoza-06-check-1",
+        "spinoza-06-check-2",
+        "spinoza-06-check-3",
+        "spinoza-06-check-4"
+      ],
+      "abilitySummary": [
+        "用身体的观念与同一事物解释心身统一，避免跨属性因果。",
+        "分开受影响的局部观念与把握共有结构的共同概念。"
+      ],
+      "recommendedNextLessonId": "spinoza-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-07",
+      "order": 7,
+      "title": "三种知识与错误的生成",
+      "depth": "long",
+      "guidingQuestion": "既然每个观念都在自然中真实发生，错误从哪里来，理性和直观又凭什么比传闻或感觉更可靠？",
+      "coreExplanation": "第一种知识随零散经验、符号和传闻形成，第二种借共同概念把握必然关系，第三种从属性本质进到个别本质。错误是不充分观念中的缺失，纠正则是重排观念的因果联系。",
+      "sections": [
+        {
+          "heading": "太阳看起来只有一小步远",
+          "paragraphs": [
+            "太阳在视野中显得很近，即使知道天文学距离，视觉图像仍不会消失。若错误就是拥有这个图像，知识便应让图像被抹去；实际情况并非如此。",
+            "改变的是对图像原因和限度的理解。我们知道它表达眼睛和太阳的关系，不表达真实距离。错误因此不在图像存在，而在没有足够理由时把局部呈现当作完整对象。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "第一种知识来自零散相遇",
+          "paragraphs": [
+            "第二部命题四十附释二把传闻、符号和漫无秩序的经验归入第一种知识，也称意见或想象。听见一个词便想起对象，受一次伤便害怕相似场景，都属于这种形成方式。",
+            "想象并非全无价值。它使日常定向、记忆和语言成为可能。问题是观念次序更多跟随身体遭遇，而不是对象的充分原因，所以容易把偶然邻接误成必然联系。",
+            "一个群聊连续两次在坏消息前转发同一张图，成员便可能把图与事件原因连在一起。联想有真实传播史，却没有说明图怎样造成事件。第一种知识保存遭遇顺序，第二种知识追问可重复的因果关系。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "第二种知识把握共同原因",
+          "paragraphs": [
+            "理性由共同概念和事物性质的恰当观念形成。它不只记录甲总在乙之后出现，而说明二者为何依共同结构和规则联系。",
+            "因为共同性质在相关身体的部分与整体中同样存在，从它形成的观念不会只偏向一次偶然相遇。第二种知识因此必然真实，并以因果关系把分散经验重新组织。",
+            "共同性质也不是把个别差异平均掉。理解所有身体都具有运动与受影响能力，不会告诉我们这一个身体的全部历史；它提供可靠关系，使个别遭遇不再孤立。理性的普遍性有内容边界，不是无所不知。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "比例数的三种把握",
+          "paragraphs": [
+            "给出一、二、三，求第四个数使比例相同。有人记得老师说交叉相乘，有人理解比例共同性质并完成推理，这分别显示传闻规则与理性证明。",
+            "熟练者可能从一、二、三直接看出六，不逐步计算，却不是盲猜。斯宾诺莎用这种把握个别比例的直接性提示第三种知识。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "case"
+        },
+        {
+          "heading": "直观不是强烈预感",
+          "paragraphs": [
+            "日常所谓直觉可能只是快速习惯、情绪确信或无法说出理由的猜测。强烈和迅速都不能保证观念恰当，偏见同样可以瞬间出现。",
+            "第三种知识有严格来源：从神的某属性之形式本质的恰当观念，进到事物本质的恰当认识。它不是绕过原因，而是更直接地把个别事物理解为必然表达。",
+            "这里的直接不能理解成第一印象很强。强烈确信也可能由反复宣传造成。第三种知识之所以高，不在速度或情绪强度，而在个别本质被把握为神或自然之必然力量的确定表达。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "错误是一种缺失",
+          "paragraphs": [
+            "第二部命题三十五说，虚假在于不充分、残缺和混乱观念所包含的认识缺失。缺失不是头脑里另一块叫“错误”的正面内容。",
+            "一个儿童看见太阳近，这个受影响观念有确定自然原因；若没有关于距离和视觉机制的更完整观念，便缺少限制判断的部分。新增恰当观念纠正断言，而非删除原有感受。",
+            "所以错误不是另一种与真理对抗的实体。它像一封只保留局部来信的报告：所写内容有原因，却省略决定判断边界的关系。补足原因后，原图像仍可出现，只是不再独占结论。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期四种知觉不能机械对齐",
+          "paragraphs": [
+            "《知性改进论》段落十九至三十区分传闻、零散经验、由原因推结果但不充分的推理，以及由本质把握事物。它与后来三种知识明显相连。",
+            "但早期第二、第三方式如何并入成熟分类并不简单，手稿也未完成。可以用它观察问题形成，不能制作一张逐格完全相等的术语兑换表。"
+          ],
+          "identity": "primary-treatise-intellect",
+          "kind": "boundary"
+        },
+        {
+          "heading": "知道真理也知道自己知道",
+          "paragraphs": [
+            "斯宾诺莎认为拥有真观念的人同时知道观念真实，真理是真理与虚假的标准。这并非说主观确信会自我认证，而是恰当观念包含形成它的充分原因。",
+            "理解一个证明时，人不必再找另一证明证明自己理解，再无限后退。反思观念可以把握已有真观念的结构，方法由真观念内部开始。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "知识改变情感力量",
+          "paragraphs": [
+            "如果错误与被动都涉及对原因的不充分把握，那么增加恰当观念不会只增加信息，还会改变一个人由什么原因行动。",
+            "但知识不会像命令按钮瞬间消除恐惧。情感具有身体力量，必须由更强的相反情感和更完整的因果组织来改变。于是认识论自然进入情感论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与笛卡尔判断错误说的差别",
+          "paragraphs": [
+            "笛卡尔把错误解释为意志越过有限理解，对不清楚内容作出判断。斯宾诺莎拒绝独立自由意志，把肯定和否定视为观念本身所含的力量。",
+            "错误不再是意志误用一种无限选择能力，而是观念因有限因果位置而残缺。纠正的重点从约束无因意志转为形成更恰当的观念联系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "检查一条流言怎样获得力量",
+          "paragraphs": [
+            "一条流言可能因熟人转发、图像鲜明和反复出现而显得可信。这些因素解释观念怎样进入身体记忆，却不提供事件真实原因。",
+            "可以追问原始证据、传播链、可重复关系和反例条件，把零散相遇改造成原因审查。理性不是嘲笑想象，而是说明它为何这样出现及何处不足。",
+            "这也说明纠错为何需要新条件。若只命令一个人不要相信传闻，原有图像和群体情感仍在；提供来源、反例和可重复关系，才让更完整观念进入同一因果网络，并可能形成更强判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "第三种知识是否超出人的能力",
+          "paragraphs": [
+            "第三种知识的定义宏大：从神的属性本质进到个别事物本质。异议者会问，有限心灵凭什么把握如此完整的因果来源。",
+            "一种回应强调它不是知道个别事物全部历史细节，而是理解该物作为神性必然表达的本质。可“本质”包含多少个别性，仍是解释争议。",
+            "因此不能把第三种知识写成全知体验，也不能把困难当作不存在。它在体系中承担最高认识理想，其人类可达范围要由第五部具体命题限制。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "错误为何不能成为独立力量",
+          "paragraphs": [
+            "每个观念作为思想样态都有真实原因。若另加一种正面“错误性质”，就要说明神或自然为何产生专门反真理的存在，这与实在性理解冲突。",
+            "缺失解释更经济：局部观念真实呈现关系，却没有包含限制断言所需的其他原因。错误发生在有限整体中，而非观念某一部分散发虚假。",
+            "这也改变纠错态度。面对偏见，不只责备意志，而要提供缺少的关系、证据和反例，使原图像在更大因果网络中重新定位。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "地图误差与道路存在",
+          "paragraphs": [
+            "一张旧地图把已封道路标成通行。纸上的线条真实存在，也可能准确记录过去；错误在于缺少道路现状并把旧关系用于当前判断。",
+            "更新地图不必擦掉全部旧资料，而要增加时间、来源和适用条件。太阳图像、传闻和记忆也可这样被更完整观念包围。",
+            "认识进步因此不是从绝对黑暗跃到全知，而是让观念越来越能由自身原因与对象结构解释，减少被偶然联想支配。",
+            "三种知识也不是三类人的固定身份。同一个人可凭记忆找路、凭共同关系理解身体，又在少数对象上形成更直接的本质认识。分类针对观念的生成与根据，不是给人格排永久等级。",
+            "这种可变结构为后面的情感转化留下入口。新知识不会抹去记忆，却能改变记忆与欲望的连接；认识越能说明原因，它越可能参与组织身体，而不只是贴在旧反应上的正确标签。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "从图像到原因再到个别本质",
+          "paragraphs": [
+            "第一种知识随身体遭遇形成图像和符号，第二种知识借共同概念把握必然关系，第三种知识从属性本质直接理解个别事物的必然表达。",
+            "错误是片面观念中的缺失，不是独立实体。恰当认识保留经验图像，却限制其断言。接下来要看身体和观念怎样以努力、欲望与情感组织行动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "知道太阳距离后，视觉上的近小图像仍存在。纠正发生在对图像原因和适用范围的认识，而不是把自然产生的感受从心灵删除。",
+      "nodeIds": [
+        "spinoza-07-claim"
+      ],
+      "checkIds": [
+        "spinoza-07-check-1",
+        "spinoza-07-check-2",
+        "spinoza-07-check-3",
+        "spinoza-07-check-4"
+      ],
+      "abilitySummary": [
+        "按观念形成方式分清想象、理性与直观，不把直观混成强烈预感。",
+        "用认识缺失解释错误，并说明纠正为何增加原因理解而非抹去感觉。"
+      ],
+      "recommendedNextLessonId": "spinoza-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-08",
+      "order": 8,
+      "title": "努力、欲望与情感模仿",
+      "depth": "long",
+      "guidingQuestion": "人为什么明知某事有害仍被它吸引，又为什么别人的恐惧、喜悦和敌意会迅速进入自己的身体？",
+      "coreExplanation": "每一有限事物都努力保持自身存在；在人身上，被意识到的努力称为欲望。喜悦与悲伤标示行动力量的增减，情感模仿则把个体欲望连接成社会动力。",
+      "sections": [
+        {
+          "heading": "一个通知声怎样夺走注意",
+          "paragraphs": [
+            "人可能已决定专心工作，却在通知声响起时立刻查看。事后说“我意志薄弱”只给现象贴名，没有说明期待、习惯、身体兴奋和社交需要怎样组成当下欲望。",
+            "斯宾诺莎不把人当成自然中的王国。决定、分心和后悔都依同样因果法则发生。要理解改变的可能，先要看个体怎样维持自身并被外物增强或削弱。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "努力不是脑中持续喊出的计划",
+          "paragraphs": [
+            "第三部命题六说，每一事物尽其所能努力保持自身存在。这里的 conatus 可译为努力或自我保存趋力，并不要求事物有意识地设定目标。",
+            "石头、植物、动物和人以不同结构维持自身。努力不是额外塞进事物的一股神秘冲动，而是其现实本质作为有限力量持续产生作用。",
+            "努力也不是每件事物心里都有一句“我要活下去”。对没有意识的个体，它表现为结构在因果关系中继续作用；在人这里，思想与身体的同一结构还会以欲望被经验。意识是努力的一种表达，不是努力的创造者。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "没有事物仅凭自身追求毁灭",
+          "paragraphs": [
+            "命题四说事物只能由外在原因毁灭，命题五说性质相反的东西不能在同一主体中相容。由此，事物自身的肯定力量不会仅凭自身导向自我消除。",
+            "这不否认自杀或自损事实。斯宾诺莎会分析一个人怎样被外在关系、冲突观念和身体改变压倒，以至原有结构受更强原因驱动。解释并不轻视痛苦。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "疲惫者并非简单选择熬夜",
+          "paragraphs": [
+            "一个人明知睡眠有益，却继续刷新消息。即时联结带来的喜悦、错过信息的恐惧和长期健康观念具有不同强度；较弱的抽象判断未必抵挡当下身体情感。",
+            "改变可能需要关掉提醒、重排环境、形成更生动的未来观念并借他人支持增加力量。理性不是在身体外下令，而要成为足以改变关系的情感原因。",
+            "例如会议中一人的惊慌会经语气、表情和想象扩散，其他人尚未核对事实便已紧张。此时补充数据若没有足够情感力量，未必立刻改变群体；可信关系与可执行安排能让较恰当观念取得身体支撑。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "保存不等于维持原状",
+          "paragraphs": [
+            "若自我保存只是保持每一成分不变，生长、修复和学习都将成为反例。实际个体通过交换物质、改变技能和调整关系维持组织。",
+            "努力指保持并展开使个体成为该个体的力量，不是拒绝一切变化。某些改变增强行动能力，另一些改变分解原有关系；判断必须落在具体结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "欲望是被意识到的食欲",
+          "paragraphs": [
+            "第三部命题九附释说，心身合看时努力称为食欲，人意识到食欲时称为欲望。欲望是人的本质本身，而不是从本质外附加的道德污点。",
+            "意识没有创造欲望，它只让某一努力被经验到。我们可能知道自己想要什么，却不知道欲望的全部原因，因此“我想”不等于“我无因选择”。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "喜悦与悲伤是力量过渡",
+          "paragraphs": [
+            "喜悦是人从较小完满过渡到较大完满，悲伤则相反。完满在这里指现实性或行动力量，不是道德奖章，也不是持续愉快的主观评分。",
+            "一次辛苦训练可能当下不舒服却增加长期能力，一次刺激消费可能愉快却形成依赖。简单快感不能单独判定什么真正增强整体行动力量。",
+            "喜悦在严格意义上是向较大完满性的过渡，不等于任何被称作愉快的瞬间感受。若一种刺激削弱身体协调、让未来行动越来越依赖外物，它的局部快感与整体能力变化便可能方向不同。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "boundary"
+        },
+        {
+          "heading": "相似者的情感进入我们",
+          "paragraphs": [
+            "第三部命题二十七说，若想象与我们相似而我们无特别情感之物受到某种情感，我们也会受到相似情感。看见他人惊恐，自己的身体会按危险图像组织。",
+            "这种情感模仿可成为同情、竞逐、嫉妒和群体敌意的起点。它不要求先作道德判断，社会联系在反思之前已经进入身体和想象。",
+            "模仿本身没有固定道德方向。看见相似者受苦可能引出援助，也可能因竞争关系转成幸灾乐祸；关键在我们怎样想象彼此相似、谁被视作威胁，以及哪些共同关系增强了某种情感。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "被动情感怎样提出自由问题",
+          "paragraphs": [
+            "当我们的变化主要由外物通过不充分观念决定，我们只是所发生之事的部分原因，情感便具有被动性质。被动不等于毫无反应，而是因果来源不充分地属于自身。",
+            "自由将不再是消灭情感，而是增加由自身本性和恰当观念产生行动的程度。要做到这一点，必须比较情感力量，而不是只宣讲正确原则。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与压抑欲望的道德图景分开",
+          "paragraphs": [
+            "某些道德说法把欲望视为低级敌人，理性则像外来统治者。斯宾诺莎认为理性自身也表达努力，追求理解和有利共同关系同样是欲望的组织形式。",
+            "问题不是有没有欲望，而是哪种欲望由何种观念和关系产生，是否增强持续行动能力。理性若没有情感力量，就只是容易被当前刺激压倒的词句。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "绘出一项欲望的因果地图",
+          "paragraphs": [
+            "分析反复查看消息，可以分别写出触发声音、身体兴奋、错失想象、社交奖励和长期目标，再看哪些关系彼此强化。",
+            "这种地图不替人开脱，而是让责任获得作用点。若只用“自制力差”概括，几乎没有可改变条件；若看见原因，就能设计更强的相反关系。",
+            "但原因地图也不能由旁观者替当事人宣布。身体历史、损伤和可用支持不同，同一建议可能增强一人却压垮另一人。对努力的解释必须追踪具体关系，不能把“自我保存”变成责备脆弱者的口号。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "自我保存能否解释自我牺牲",
+          "paragraphs": [
+            "有人为朋友冒生命危险，看似反驳每物保存自身。若把“自身”缩成当下生物存活，确实很难说明这种行动。",
+            "斯宾诺莎可回答，人的本质包含观念、承诺和与他人结合的力量；为共同善行动可能表达一个更完整自我。但死亡结果仍要求分析外因怎样压倒保存。",
+            "回应得到的是更复杂个体观，并未证明任何牺牲都理性。被操纵的牺牲、绝望自毁和理解下的勇敢必须按原因和能力分别判断。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "情感名称由关系变化产生",
+          "paragraphs": [
+            "爱是伴随外在原因观念的喜悦，恨是伴随外在原因观念的悲伤。情感不只是身体强度，还包含我们怎样想象原因。",
+            "同一身体兴奋若被归因于帮助者，可成为感激；若被归因于威胁者，可能成为恐惧。改变因果观念会改变情感组织，却不等于身体成分无关。",
+            "第三部把大量情感从欲望、喜悦和悲伤推演出来，目的不是把生活塞进三格，而是显示复杂情感怎样由少数关系组合。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "掌声如何转成竞逐",
+          "paragraphs": [
+            "看见相似者因作品获赞，我们可能模仿其喜悦，也可能欲求同一对象；若相信赞许只能一人获得，喜悦便转为嫉妒和竞争。",
+            "这条变化不需假定人天生邪恶。资源结构、相似认同和外在原因观念共同塑造情感，改变制度也会改变模仿方向。",
+            "共同体若让他人能力增强也增加我的机会，情感模仿可支持合作。社会伦理不能只向个体发布克制命令，还要组织非排他的喜悦。",
+            "非排他的喜悦不同于只有别人失败我才获得的地位满足。知识、信任和稳定合作可以随分享而扩大共同能力；嫉妒式比较却让他人的增强被体验为我的损失。制度会决定哪一种关系更容易重复。",
+            "由此看，自我保存不是孤立个体守住原状。一个人的身体和观念始终靠食物、语言、照料与合作维持；更可靠的保存往往要求改变旧关系，并与他人的力量组成更稳定的个体。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "个体力量已经进入共同世界",
+          "paragraphs": [
+            "努力是有限事物维持和展开自身的现实本质，欲望是这种努力被意识到的形式。喜悦与悲伤标示行动力量的增减过渡。",
+            "情感模仿使他人的处境直接改变我们的身体和想象，个体从来不是封闭孤岛。自由问题因此既关乎恰当认识，也关乎能否形成更强的共同关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "通知声触发的查看行为由身体习惯、期待和社交关系共同形成。改变不是命令欲望消失，而是让更有组织的欲望和环境条件获得更大力量。",
+      "nodeIds": [
+        "spinoza-08-claim"
+      ],
+      "checkIds": [
+        "spinoza-08-check-1",
+        "spinoza-08-check-2",
+        "spinoza-08-check-3",
+        "spinoza-08-check-4"
+      ],
+      "abilitySummary": [
+        "把努力、食欲、欲望和行动力量连接起来，不把自我保存误成静止不变。",
+        "解释情感模仿如何把个体身体连成社会动力，并为被动与自由的区分建立入口。"
+      ],
+      "recommendedNextLessonId": "spinoza-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-09",
+      "order": 9,
+      "title": "从被动情感到必然性中的自由",
+      "depth": "long",
+      "guidingQuestion": "若没有脱离原因的自由意志，一个人还能对情感和行动负责吗，所谓自由会不会只剩听从必然？",
+      "coreExplanation": "自由不是无因选择，而是由自身本性和恰当观念成为行动的较充分原因。理性必须形成更强的情感与共同关系；必然性中的自由不是宿命论，而是有程度的因果成就。",
+      "sections": [
+        {
+          "heading": "知道不该愤怒为何仍会爆发",
+          "paragraphs": [
+            "有人在冲突中明知立即回复会恶化关系，却仍被羞辱感推动。事后把失败归为“没有选择自由”太快，因为抽象判断和当下情感并不具有相同力量。",
+            "反过来，把自由说成心灵能无因中断身体链，也无法说明为何疲惫、恐惧和习惯持续影响决定。更有用的自由概念必须进入真实原因，而不是站到原因之外。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "主动与被动由原因充分性区分",
+          "paragraphs": [
+            "第三部定义二说，当某事在我们之内或之外发生，而我们是它的恰当原因时，我们行动；若我们只是部分原因，便承受或被动。",
+            "恰当原因意味着结果能通过该原因被清楚分明地理解。人不可能成为自身全部条件的唯一来源，因此主动与被动是程度结构，不是两类永不相混的人。",
+            "一个决定可同时含有主动与被动成分。某人理解饮酒怎样损害身体，又在孤立和压力中依赖酒精；认识已经构成一部分原因，却尚未强到重组习惯。称其不自由，是分析力量比例，不是宣布他没有任何能动性。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "无因选择为何不是自由的基础",
+          "paragraphs": [
+            "第一部定义七把自由事物说成仅由自身本性必然存在、仅由自身决定行动。自由与必然并非反义；自由的对立面是被外物强制，而不是有原因。",
+            "若选择完全无因，它既不表达人的性格、理由和理解，也不能由行动者负责地说明。斯宾诺莎宁可把自由系于更充分的自我原因，而不是系于偶然断裂。",
+            "这里的自身原因不是有限者成为自因。人仍依赖自然，只是某项行动能在多大程度上由他的整体结构、恰当观念和稳定欲望说明。自由增加的是解释中的主动份额，不是把人提升为实体。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "延迟发送怎样改变愤怒",
+          "paragraphs": [
+            "人在愤怒时先写下回复，约定十分钟后重读。等待让身体兴奋减弱，也让对方处境、长期关系和自身目标的观念重新进入。",
+            "这个做法不是证明意志战胜身体，而是安排新的原因，使较完整观念获得力量。自由增长表现为行动更能从个体整体本性解释，而非被单一刺激牵走。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "理解原因不会自动解除束缚",
+          "paragraphs": [
+            "知道自己因童年经历害怕冲突，并不保证下一次就能平静。一个关于原因的语言标签可能仍很抽象，未形成足以对抗恐惧的身体与观念关系。",
+            "第四部命题七指出，情感只能由相反且更强的情感抑制。理性若要有力，必须成为对真实好处的生动欲望，并借习惯、友谊和制度获得支持。",
+            "因此一句正确警告可能输给眼前诱惑，并不证明理由毫无作用。它说明理由尚未形成足够强的情感和条件。把未来后果具体化、减少诱因、让同伴参与，都可能使同一理解获得新的因果重量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "自由人并非没有危险",
+          "paragraphs": [
+            "第四部后段描绘自由人：较少想到死亡，以理解生活为智慧；在德性引导下避免危险与战胜危险同样自由；与他人交往时守信并寻求共同利益。",
+            "这些命题给出理性力量的尺度，不是现实中完全摆脱外因的超人。任何有限者都受更强自然力量影响，所谓自由人是持续增加主动程度的方向。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "善恶是关系判断而非宇宙标签",
+          "paragraphs": [
+            "第四部序言把善说成我们确知有助于接近人性模型之物，恶则阻碍它。善恶不属于自然事物脱离关系后的绝对性质。",
+            "这不等于任意偏好。人的身体和共同生活有可分析的能力条件，某些关系确实增强理解与合作，另一些关系造成分解。评价来自明确模型和后果关系。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "boundary"
+        },
+        {
+          "heading": "理性把自利引向共同利益",
+          "paragraphs": [
+            "第四部命题三十五至三十七主张，人依理性而生活时彼此最为有用；每个人追求自身真正利益，也会希望他人享有自己追求的善。",
+            "这是因为理解、友谊和稳定合作不是排他物，别人更有理性通常增强我的行动条件。自我保存由此不必走向孤立竞争，而能形成共同力量。",
+            "共同力量也不是多数愿望的简单相加。若群体靠恐惧压制少数，短期服从可能增强控制，却削弱信任、纠错和合作能力。理性共同体要问关系能否持续增加参与者的理解与安全，而非只问谁人数更多。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "当下自由怎样通向永恒视角",
+          "paragraphs": [
+            "第五部前十个命题继续说明怎样把情感与共同原因、时间秩序和神的必然性联系，使被动情感不再独占想象。",
+            "当事物不只按此刻得失，而按其从永恒必然秩序随出被理解，自由获得更深形式。这也引出最困难的心灵永恒问题。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "自由不是任意也不是顺从",
+          "paragraphs": [
+            "任意论把自由想成在完全相同条件下仍能无因选择相反项；宿命论则说无论行动如何，结果注定相同。斯宾诺莎同时拒绝两者。",
+            "他的自由让行动由更完整的自身结构产生，也承认这结构处于自然关系中。理解必然不是消极服从，而是把盲目外因转化为可组织的共同原因。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "把责任变成增加原因能力",
+          "paragraphs": [
+            "面对反复伤人的行为，可以追究后果、设置边界，同时调查触发条件和可改变关系。原因解释并不取消责任，反而指出责任怎样产生实际改变。",
+            "只说“他本可无因选择别的”无法设计预防；只说“都是原因造成”又可能放弃保护。斯宾诺莎式责任关注谁能成为更恰当原因，以及共同体怎样重组力量。",
+            "这使宽恕与防护可以并存。理解伤害者为何行动，可能减少仇恨；若其关系仍会造成危险，限制行动又是保护共同能力的原因。放弃报复情感不等于否认受害，也不等于取消必要边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "理性自利是否忽略脆弱者",
+          "paragraphs": [
+            "若合作只因他人对我有用，无法回报者似乎缺少被关怀理由。这个异议攻击把共同利益缩成即时交换的前提。",
+            "斯宾诺莎的人类相似、情感模仿与共同力量提供更广联系，但没有自动产生现代平等权利理论。对照当代规范时必须补出制度中介。",
+            "所得是自利与共同善不必敌对，未决的是共同体怎样确保最弱者不被“有用”尺度排除。坦白这点比把体系美化成现成答案更严谨。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "预先形成原则的情感力量",
+          "paragraphs": [
+            "第五部建议把常见伤害与理性准则反复联系，使我们在危险出现前便形成稳定观念次序。临场才想起抽象规则，往往太弱。",
+            "这种预先组织类似习惯训练，却不要求盲目重复。原则必须来自对共同利益的恰当理解，反复思考使它获得更强身体联结。",
+            "自由由此包含时间工作：不是某一瞬间凭空选择，而是长期形成能在关键时刻成为原因的观念和关系。",
+            "这正是必然性中的自由与宿命论分开的地方。宿命论把努力视为与结果无关，斯宾诺莎却把努力、理解和联合都纳入结果的充分原因。行动不是必然性之外的例外，而是自然借有限者形成新秩序的方式。",
+            "自由人因此不是从不受伤、从不恐惧的人，而是更能理解情感原因并组织相反力量的人。外因仍可能压倒他，这不会推翻自由尺度，只说明有限力量没有被夸成对自然的主权。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "离开操控关系需要共同力量",
+          "paragraphs": [
+            "遭受操控的人可能清楚知道关系有害，却因恐惧、经济依赖和孤立无法离开。把自由只说成个人理解，会误判真实力量。",
+            "安全住所、可信朋友、法律支持和收入来源改变因果条件，使恰当判断能够成为行动。共同制度在此不是自由外部限制，而是自由能力的组成。",
+            "这也显示“自由人”只能是关系中的尺度。没有人靠纯粹内心独立便免受更强外因，理性政治必须建设可依靠的共同力量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "自由是一种因果成就",
+          "paragraphs": [
+            "被动表示我们只是变化的部分原因，主动表示结果更能由自身本性和恰当观念说明。有限者不可能绝对独立，因此自由始终有程度。",
+            "理性必须形成比被动情感更强的情感与关系。必然性中的自由不是宿命论，也不是给现状辩护，而是理解原因后增加共同的行动力量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "愤怒时延迟发送不是心灵跳出因果链，而是让身体平复、长期目标和他人处境进入新的原因组合，使行动更能由完整自身说明。",
+      "nodeIds": [
+        "spinoza-09-claim"
+      ],
+      "checkIds": [
+        "spinoza-09-check-1",
+        "spinoza-09-check-2",
+        "spinoza-09-check-3",
+        "spinoza-09-check-4"
+      ],
+      "abilitySummary": [
+        "用恰当原因分清主动与被动，并把自由理解为有程度的因果成就。",
+        "说明理性为何必须成为更强情感和共同关系，明确必然性不是宿命论。"
+      ],
+      "recommendedNextLessonId": "spinoza-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-10",
+      "order": 10,
+      "title": "在永恒相下与心灵的永恒",
+      "depth": "long",
+      "guidingQuestion": "当《伦理学》说人的心灵有某种永恒部分，它是在承诺死后仍记得姓名与经历，还是说恰当认识具有不按时间衡量的存在方式？",
+      "coreExplanation": "在永恒相下，是按事物从神的属性必然随出的本质来理解。第五部主张心灵有表达身体本质的永恒之物，但永恒不等于持续；它是否保留人格记忆与个体意识仍有争议。",
+      "sections": [
+        {
+          "heading": "一张照片保存的是谁",
+          "paragraphs": [
+            "谈死后存在时，人通常关心是否仍记得亲友、能否认出自己、是否继续经历时间。若这些都不保留，“我永恒”似乎与日常的我相距很远。",
+            "第五部却从恰当认识和身体本质出发，不从记忆连续写来世故事。必须先分清持续、无尽时间和永恒，否则熟悉愿望会替原文回答。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "永恒不是没有终点的时间",
+          "paragraphs": [
+            "第一部定义八把永恒说成存在本身，只要它被理解为由永恒事物的定义必然随出。它不能由持续或时间解释，即使想象无限长的持续也不行。",
+            "“永远活下去”仍是在时间轴上不断增加时刻；永恒则从本质必然性把握存在。两者差异使第五部不能直接翻成灵魂在未来无穷岁月继续生活。",
+            "一首旋律可在三分钟内持续，谱式关系却不靠把三分钟延长为无穷才成立。这个类比只帮助分开时间长度与必然结构；人的永恒部分是否像谱式、又保留多少个体性，仍须由第五部文本回答。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "concept"
+        },
+        {
+          "heading": "在永恒相下怎样看具体事物",
+          "paragraphs": [
+            "第二部命题四十四推论二说，理性的本性是在永恒相下理解事物，因为理性把握的是必然关系，不按某次偶然遭遇排列。",
+            "第五部命题二十九进一步把心灵在永恒相下认识，与其把身体本质理解为包含在神内并由神性随出联系起来。视角不是离开世界，而是深入事物的必然依赖。",
+            "“在永恒相下”也不是从高处冷眼旁观暂时苦难。它改变的是解释方式：不只按眼前遭遇和记忆排列事物，而按其本质怎样由自然必然性随出来把握。具体伤害仍在时间中需要照料。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "证明不随着纸张烧毁而变成曾经为真",
+          "paragraphs": [
+            "写有几何证明的纸可以烧毁，某个人理解证明的记忆也会消失；但证明所把握的必然关系不因此从真变成过去曾真。",
+            "这个例子提示恰当认识为何有非时间维度，却不能证明个人心灵与几何真理完全相同。人的永恒部分还与特定身体本质怎样表达有关。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "模糊记忆不能承担永恒",
+          "paragraphs": [
+            "若心灵永恒只是有人仍记得死者，那么无人记得时永恒便消失；若是无限延长个人记忆，又需要解释没有实际身体时记忆如何保存。",
+            "斯宾诺莎在第五部命题二十一后才转入“不涉及身体持续”的讨论，并不以想象和记忆为根据。把永恒等同纪念或记忆延续都过于简单。",
+            "这一区分构成解释底线。若一项说法让死者继续记得姓名、经历和亲友，它已经加入时间性人格条件；除非另有文本依据，不能仅凭“心灵有永恒之物”推出这些条件完整保存。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "命题二十三留下的震动",
+          "paragraphs": [
+            "第五部命题二十三说，人的心灵不能随身体绝对毁灭，其中仍有某种永恒之物。证明诉诸神内必然有表达这个人体本质的观念。",
+            "附释又说我们不记得在身体之前存在，却感觉并经验到心灵是永恒的。这里的“感觉”不是感官图像，而与证明中所把握的本质存在相连，解释难度并未因此消失。",
+            "若把这句话当作私人神秘体验，证明链便失去作用；若把它只当修辞，又无法说明斯宾诺莎为何称之为经验。较谨慎的理解把它连到恰当认识所带来的确定性，同时承认“感觉”一词仍有争议。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "人格不朽争议必须保持开放",
+          "paragraphs": [
+            "一些解释强调永恒心灵仍表达这个身体的本质，因而保留某种个体性；另一些解释认为记忆、想象和时间意识随身体持续结束，传统人格不朽并未得到支持。",
+            "还有解释尝试从第三种知识的程度理解永恒部分大小。文本材料允许争论，却不允许把开放问题包装成确定的死后传记。最稳妥结论是永恒不等于持续。",
+            "一条解释强调个体身体本质在神的观念中有永恒表达，另一条更强调人实际形成第三种知识的程度。二者都能引用第五部，却对永恒部分的个体性和差异给出不同答案；不能把争议藏在“不朽”一词里。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "第三种知识与理智爱",
+          "paragraphs": [
+            "第五部命题二十五说心灵的最高努力是以第三种知识理解事物，命题三十二至三十六把这种认识连到对神的理智爱。",
+            "这种爱不是向人格神期待回报，而是理解自身和万物为神性必然表达时产生的喜悦。爱者、所爱与神对自身的爱在同一认识活动中联系。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "connection"
+        },
+        {
+          "heading": "永恒视角怎样返回政治生活",
+          "paragraphs": [
+            "在永恒相下理解不会让人轻视有限生命。恰恰因为个体是自然关系的一部分，改善身体、友谊和制度就是增加理解力量的条件。",
+            "非人格神和必然自然也迫使宗教重新定位：信仰不能靠奇迹和神意垄断真理，国家却仍要处理经文、服从与自由的公共后果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "永恒、持续与后世记忆",
+          "paragraphs": [
+            "持续是有限事物在时间中的存在，后世记忆是其他人身体和观念中的延续，永恒是由本质必然性理解的存在。三者可以相关却不相等。",
+            "一项思想被长期传承不证明作者心灵永恒，一个人的记忆消失也不直接反驳永恒命题。每种主张需要自己的证据和存在条件。",
+            "同样，身体本质不是一份可与身体分开的物件清单。它指这个身体在神或自然中被必然理解的形式结构。如何让这种结构足以维持“这个人”的指称，正是人格解释必须承担而不能预设的工作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "给“永远”追问时间含义",
+          "paragraphs": [
+            "听到“这份爱永远存在”，可以问它指持续不结束、影响被后人承接，还是关系本质具有不依某一时刻的真理。不同含义承受不同反例。",
+            "这种分辨不是削弱表达，而是防止情感愿望冒充形而上学证明。斯宾诺莎最困难的段落正要求我们让希望与文本责任同时在场。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "永恒部分是否有程度",
+          "paragraphs": [
+            "第五部命题三十八至四十把心灵越多以第二、第三种知识理解，与较少受坏情感影响及拥有更大永恒部分联系。这里似乎出现程度。",
+            "若永恒不是时间，所谓部分大小便不能理解成死后持续年限。它更可能指心灵中由恰当认识构成、可在永恒相下理解的比例。",
+            "但如何量化这种比例，文本没有给日常尺度。解释应保留命题方向，避免把它变成可计算的灵魂保险或道德等级。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "身体本质为何没有被第五部抛下",
+          "paragraphs": [
+            "命题二十二说，神内必然有一个观念在永恒相下表达这个人体的本质。命题二十三的心灵永恒正由此而来。",
+            "所以第五部不是让纯心灵逃离身体，而是从身体本质的永恒表达说明心灵。与第二部心灵是身体观念的主张仍有连续。",
+            "争议在于“这个身体的本质”怎样个体化，以及不涉及身体持续时还保留哪些人格条件。同一性问题被重写，没有被取消。"
+          ],
+          "identity": "primary-ethics",
+          "kind": "argument"
+        },
+        {
+          "heading": "面对死亡的两种安慰",
+          "paragraphs": [
+            "一种安慰承诺未来重逢和记忆延续，另一种安慰来自理解自己始终是无限自然的必然表达。二者满足不同希望，不能用同一词偷换。",
+            "斯宾诺莎更接近第二种，但这不要求人在丧失中没有悲伤。恰当认识改变悲伤的位置和力量，不会使有限关系从未存在。",
+            "若用永恒论要求他人立刻超越哀痛，理论就成了新的外在命令。自由增长仍需身体时间、共同支持和真实情感转化。",
+            "理智爱也不能成为逃避有限关系的借口。它来自理解个别事物怎样表达自然，而非把个别者宣布无足轻重。越能在永恒相下理解依赖，越应看见时间中的照料也是自然力量的真实组成。",
+            "所得不是一张死后生活地图，而是一种当前认识的改变：个体不再只按偶然遭遇理解自身。未决仍是这种永恒认识保留何种人格同一性，文本责任要求把问题留在开放位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "最难的结论仍保留裂缝",
+          "paragraphs": [
+            "在永恒相下是按事物从神性必然随出的本质理解，而非从无限未来俯视。永恒不是无终时间，心灵永恒也不能直接等同记忆继续。",
+            "第五部确实主张心灵有表达身体本质的永恒之物，并将其连到第三种知识和理智爱；是否足以支持人格不朽，仍是必须公开的解释争议。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "承载证明的纸张和个人记忆都会消失，证明的必然关系却不变。这个例子只显示非时间真理，不能单独证明个人意识在死后持续。",
+      "nodeIds": [
+        "spinoza-10-claim"
+      ],
+      "checkIds": [
+        "spinoza-10-check-1",
+        "spinoza-10-check-2",
+        "spinoza-10-check-3",
+        "spinoza-10-check-4"
+      ],
+      "abilitySummary": [
+        "分开永恒、无限持续、个人记忆与后世影响。",
+        "准确定位第五部心灵永恒论证，并保留其是否支持人格不朽的开放争议。"
+      ],
+      "recommendedNextLessonId": "spinoza-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-11",
+      "order": 11,
+      "title": "经文、神学与思想表达的自由",
+      "depth": "long",
+      "guidingQuestion": "如果经文不提供自然科学和哲学证明，它还具有什么权威，国家又为什么不应强迫所有人相信同一种解释？",
+      "coreExplanation": "《神学政治论》要求从语言、历史和编纂语境解释经文。先知想象引导服从与正义，不承担哲学证明；分开神学与哲学，才能说明思想表达自由为何既不破坏虔敬又保护国家。",
+      "sections": [
+        {
+          "heading": "同一句经文为何产生敌对命令",
+          "paragraphs": [
+            "两个群体都声称按神意生活，却从同一经文推出相反制度，并指责对方不虔敬。若解释权与政治强制结合，语义分歧会变成服从审判。",
+            "斯宾诺莎不是只问哪一派解释正确，而是先建立解释方法，再限制经文权威的对象：它引导正义和仁爱，不承担自然哲学的证明责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "预言借想象而非超自然科学",
+          "paragraphs": [
+            "《神学政治论》第一、二章把预言与先知的生动想象联系。先知可具有卓越虔敬和道德确定，却不因此在自然知识上超过同时代人。",
+            "经文中的风、天体和神的形象会适应听众理解。承认适应不是指责欺骗，而是区分劝导服从的语言与证明事物本性的概念。",
+            "适应原则也限制解释者。若叙事面向特定听众，不能从它的日常图像直接抽出精密形而上学；但也不能以哲学优越感抹去叙事要培养的正义与仁爱。体裁目标决定证据承担什么工作。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "concept"
+        },
+        {
+          "heading": "经文必须由自身历史来解释",
+          "paragraphs": [
+            "第七章提出一种近似研究自然的方法：收集语言用法、文本语境、作者和编纂历史，再从这些材料决定含义，不先让教义结论支配解释。",
+            "当一句话含混时，不能凭个人理性偏好强迫它说出哲学真理，也不能借奇迹填补历史证据。解释应从文本可得材料推进，并公开无法确定处。",
+            "这要求比较用词、作者处境、传播语言和整部文本的清楚段落。某个现代词与古词表面相似，只是线索；若缺少当时语法和历史用途，解释者不能把后来争论偷偷放进先知口中。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "约书亚命太阳停住怎样阅读",
+          "paragraphs": [
+            "经文叙述太阳停住，可以按当时普通人的视觉语言理解，不必把它当作天文学教材，也不必因此断言经文在道德目的上全无价值。",
+            "若用后来科学术语责备古代叙事，混淆体裁；若用叙事压制天文学，又让虔敬承担它不需要的证明。分开领域反而保护两者。",
+            "奇迹问题正好检验边界。叙事可把罕见事件呈现为神意标记，以推动服从；自然哲学却要问见证是否可靠、原因是否未知以及规律是否真被破坏。宗教意义不能替代后两项证明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "分开神学与哲学不是双重真理",
+          "paragraphs": [
+            "有人担心，同一句话在神学中真、在哲学中假，会让矛盾合法化。斯宾诺莎并非建立两套互相否定的事实世界。",
+            "他的区分更接近目标和证据不同：哲学追求真理并由理性论证，信仰要求服从并以正义仁爱检验。经文若不教天文学，就没有另一套天文学与科学竞争。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "信仰的最小共同核心",
+          "paragraphs": [
+            "第十三至十五章强调，经文旨在使人服从，真正服从表现为爱邻人与行正义。许多思辨教义只要不破坏这种实践，可容许不同理解。",
+            "这不是说行为让真理无关，而是说宗教共同体不应以无法证明的形而上学细节决定谁可生活。神学权威在实践目标内成立，不能越界统治理性。",
+            "最低信仰条目因此服务于服从和仁爱，而不是把整套哲学变成入会考试。一个人对神的本性持不同理论，只要实践正义，不应仅因推理分歧被视作不虔；这正是领域区分的政治锋芒。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "表达自由仍有行为边界",
+          "paragraphs": [
+            "第二十章认为人的判断不可能完全转让，试图控制思想既无效又危险。人可主张法律不智，却仍以行动服从法律程序，不以私人权力强行废法。",
+            "文本没有把任何言说都自动免除后果。煽动、另立权力和直接破坏共同安全如何界定仍需政治判断。核心是不能把纯粹意见差异当成犯罪。",
+            "言论与行动的边界不能只看一句话是否令统治者不安。要问它是否组织直接暴力、破坏共同契约或建立竞争主权，也要问限制是否比表达本身制造更大危险。否则公共安全会成为无法反驳的空白许可。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "boundary"
+        },
+        {
+          "heading": "迷信怎样依靠恐惧生长",
+          "paragraphs": [
+            "序言指出，人在不确定中容易随希望与恐惧摆动，并把偶然征兆解释成神意。掌权者也可能利用这种情感，把自身命令装成神圣要求。",
+            "这与《伦理学》的情感分析相连：迷信不是单纯无知，而是恐惧、想象和权力关系的稳定组合。开放讨论能让封闭解释遇到反证。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "connection"
+        },
+        {
+          "heading": "解释自由为何需要政治结构",
+          "paragraphs": [
+            "若思想无法转让，禁止意见只会制造伪善和怨恨；但共同生活又需要可执行规则。言论自由的问题便从真理权威转向主权怎样处理不可消除的判断差异。",
+            "自然权利、国家目的和民主由此进入。表达自由不能只靠统治者善意，它要与多数力量、法律服从和国家稳定形成可持续关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "哲学家与先知承担不同任务",
+          "paragraphs": [
+            "哲学家需要给出概念原因并接受反驳，先知以想象语言推动正义服从。一个人可能道德坚定却在自然知识上普通，也可能推理卓越却缺乏仁爱。",
+            "这种区分阻止知识精英垄断虔敬，也阻止宗教职位裁决科学。它不保证二者永无冲突，只给冲突提供正确的证据边界。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "面对神圣文本的三次询问",
+          "paragraphs": [
+            "先问词句在原语言和历史处境中可能是什么意思，再问它承担叙事、法律、劝诫还是哲学功能，最后问当下应用经过了哪些额外价值判断。",
+            "若直接从现代政策跳回一句古文，往往省略全部中介。公开中介不是削弱信仰，而是防止个人权力藏在“文本自己说”的假象后。",
+            "这种历史方法也约束斯宾诺莎的后继者。不能因他捍卫思想自由，就让他自动说出后来宪法中的全部权利；必须说明哪些原则来自文本，哪些保障由后世在新制度中补入。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "宽容是否只是一项统治技术",
+          "paragraphs": [
+            "一种批评说，斯宾诺莎捍卫表达自由主要因为压制无效且危害国家，并未建立不依效果的个人权利。这会使自由在统治者认为有用时才安全。",
+            "另一面是思想事实上不可转让，国家目的又被规定为自由，这些主张给自由比纯粹效率更深的基础。二者张力不能靠现代权利词汇抹平。",
+            "稳妥结论是，他把自由与国家稳定内在连接，却未提供后来宪法权利的全部保障机制。历史贡献与现代不足可以同时成立。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "奇迹批判怎样保护自然知识",
+          "paragraphs": [
+            "第六章认为奇迹只相对于人的无知显得违反自然；若真有事件破坏自然秩序，人反而无法由自然认识神的恒常力量。",
+            "经文奇迹叙事可承担唤起敬畏与服从的功能，不必作为自然法则中断的实验报告。历史解释和因果解释由此各自归位。",
+            "这种做法不是预先否认异常事件，而是拒绝用“异常”跳过证据。越罕见的主张越需要可靠的文本、见证与自然原因审查。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "意见、批评与另立权力",
+          "paragraphs": [
+            "公民写文批评税法并请求依法修改，仍承认共同程序；若自行组织武力阻止征税，行动已改变权力关系。两者不能只因都含反对语言便等同。",
+            "真实情境当然有灰区，例如号召抵制、泄露伤害或持续不服从。第二十章提供区分方向，却不替每种制度完成界定。",
+            "最重要的防线是国家不能把尴尬意见一律命名为煽动。若边界只由被批评者单方扩张，思想不可转让的事实将以更危险方式返回。",
+            "思想不可转让不是说人不受宣传和恐惧影响，而是国家无法像取得财物那样取得他人判断本身。强迫公开同意会生产伪善和怨恨；允许理由公开竞争，反而让错误有机会被共同证据纠正。",
+            "这项辩护并不预设公开讨论自然公平。恐惧、职位和传播渠道会让某些声音更强，因此自由还需要保护表达条件。斯宾诺莎给出压制为何反噬国家的理由，具体保障仍是后续政治工作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "自由不是宗教的敌人",
+          "paragraphs": [
+            "经文需要历史语文学解释，先知想象与哲学证明功能不同，信仰的核心是正义仁爱的服从实践。领域分开使虔敬不必与自然知识争权。",
+            "思想无法被彻底转让，压制意见既危险又助长伪善。表达自由仍须与行为边界和公共安全一起判断，这将问题推向国家权力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "“太阳停住”的叙事可按古代视觉语言和宗教目的理解，不必充当天文学命题。尊重文本体裁与允许自然研究并不互相排斥。",
+      "nodeIds": [
+        "spinoza-11-claim"
+      ],
+      "checkIds": [
+        "spinoza-11-check-1",
+        "spinoza-11-check-2",
+        "spinoza-11-check-3",
+        "spinoza-11-check-4"
+      ],
+      "abilitySummary": [
+        "分清经文历史解释、先知想象、哲学证明和信仰服从的不同证据责任。",
+        "说明思想表达自由如何抑制神学争权，同时保留行为与公共安全边界。"
+      ],
+      "recommendedNextLessonId": "spinoza-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "spinoza-12",
+      "order": 12,
+      "title": "自然权利、国家与民主的未完成问题",
+      "depth": "long",
+      "guidingQuestion": "若自然权利与实际力量同延，强者是否做什么都正当，公民又在何种意义上应服从、能够反抗并共同成为民主主权者？",
+      "coreExplanation": "自然权利与实际力量同延，却不是道德许可证。国家把个体力量组织为共同力量，目的在安全与自由；民主较接近自然平等，但未完成的《政治论》没有替服从与反抗给出无条件公式。",
+      "sections": [
+        {
+          "heading": "权利等于力量会不会替暴力辩护",
+          "paragraphs": [
+            "听到“每物有多少力量便有多少权利”，很容易理解成强者行为天然正当，受害者只能接受。这样会把描述能力偷换成道德赞许。",
+            "斯宾诺莎的自然权利首先取消超出自然因果的规范法庭：鱼有游泳和大鱼吃小鱼的权利，正如它们有相应本性。人的政治判断随后要问哪种共同力量使生活更安全自由。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "自然权利与自然力量同延",
+          "paragraphs": [
+            "《神学政治论》第十六章和《政治论》第二章都把自然权利扩展到每一自然事物。权利边界由实际力量决定，不由事物是否先服从理性决定。",
+            "人受情感支配时仍在自然内，不会因“不理性”便失去自然权利。政治不能按理想人设计，而要从真实欲望、恐惧与合作能力出发。",
+            "因此自然权利在这里首先是描述性力量范围，不是现代意义上国家不得侵犯的道德清单。若把两种权利直接等同，会误以为凡有能力做的都正当；政治规范还需从安全、自由和共同能力中另作评价。"
+          ],
+          "identity": "primary-political",
+          "kind": "concept"
+        },
+        {
+          "heading": "国家力量来自多数的组合",
+          "paragraphs": [
+            "孤立个人容易被外力压倒，联合后可以共同保卫、分工和制定规则。国家权利不是悬在人民上方的神秘资格，而是多数力量被引导得如同一心。",
+            "若制度长期激起共同愤怒并失去执行支持，纸面命令仍在，主权力量却已削弱。国家实际能做什么与它依法宣称能做什么不可完全分离。",
+            "这个现实主义并非向强者投降。它提醒规范设计必须拥有可持续的共同力量：一条保护弱者的法律若没有执行关系仍会失败，真正的任务是组织支持、程序和信任，使正当要求成为实际能力。"
+          ],
+          "identity": "primary-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "无人执行的禁令还剩多少权力",
+          "paragraphs": [
+            "一项禁令若被普遍认为荒谬，执法者也拒绝执行，它可能仍印在法典，却无法稳定决定行为。这个例子显示权力依赖共同关系。",
+            "但偶尔违法不能证明国家立刻消失。要判断主权变化，需看组织能力、服从预期和替代秩序。力量不是一次冲突的肌肉大小，而是持续协调能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "社会契约不是一次永久交出",
+          "paragraphs": [
+            "若个体在建国瞬间把全部权利像物品一样永久转让，后来无论国家是否保护他们都只能服从。但思想不能转让，自我保存努力也不会被签字取消。",
+            "斯宾诺莎更像把转让理解为力量的实际重新组织。人服从是因希望更大利益或避免更大损失；当基础关系彻底改变，原来的约束力也会变化。",
+            "有些判断和表达能力尤其难以转让。国家可以约束公开行为，却不能命令人真心相信矛盾命题。若法律要求内心一致，它获得的多半是表面服从，并以伪善和愤怒损耗维系统治的关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "国家目的不是统治思想",
+          "paragraphs": [
+            "《神学政治论》第二十章说，国家目的不是把有理性的人变成野兽或机器，而是使他们安全运用身心，国家真正目的在自由。",
+            "这不表示取消法律。稳定秩序使人免于持续恐惧，才有发展理解与合作的条件。服从共同规则可以是自由基础，而非自由的简单反面。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "反抗没有一条脱离力量的公式",
+          "paragraphs": [
+            "《政治论》第四章承认主权者不能真正命令荒谬之事而不危及自身，并讨论违反国家基础的统治行为。但文本没有给个人一张随时宣布正义反抗的许可证。",
+            "反抗是否形成更自由稳定的共同力量，要看多数关系、风险和替代制度。道德愤怒可以有理由，却不自动拥有改变主权的能力。",
+            "同样，服从也不能仅凭现有权力便获得正当性。短期顺从可能来自恐惧，长期却积累分解力量。判断应同时问现秩序保护了什么、压制了什么，以及改变方式是否能组成较少恐惧的持续制度。"
+          ],
+          "identity": "primary-political",
+          "kind": "boundary"
+        },
+        {
+          "heading": "服从为何可以与判断自由并存",
+          "paragraphs": [
+            "公民可以公开说明法律有害，同时在合法改变前不以私人暴力取代公共决定。这样既保留不可转让的判断，也避免每个人按私意重新立法。",
+            "当表达渠道被彻底关闭，国家不仅伤害个人，也失去获得纠错信息和维持信任的能力。思想自由因此是主权稳定的一项现实条件。",
+            "设想一座城市关闭申诉渠道，却宣称沉默证明政策获得同意。这里混淆了被迫不表达与实际赞同。压制可以减少可见异议，却同时让统治者失去错误信息，因而降低共同力量的可校正性。"
+          ],
+          "identity": "primary-theological-political",
+          "kind": "connection"
+        },
+        {
+          "heading": "民主最自然却没有完成蓝图",
+          "paragraphs": [
+            "《神学政治论》第十六章称民主最自然，因为没有人把权利转给某个外在者，而是转给自己作为其中成员的整体，平等状态得到较多保存。",
+            "《政治论》第十一章开始讨论民主，却在排除与资格问题尚未展开完时中断。不能把残篇补写成现代普选制度，也不能忽略其明确的排除限制。"
+          ],
+          "identity": "primary-political",
+          "kind": "bridge"
+        },
+        {
+          "heading": "民主不是多数瞬间欲望",
+          "paragraphs": [
+            "若民主只等于某次计票中人数较多的一方想做什么便做什么，少数安全和长期共同力量可能迅速崩解。多数统治仍需制度关系维持。",
+            "斯宾诺莎重视广泛参与，因为更大范围的力量组合较少依赖单一统治者任性；但他没有提供当代权利审查的完整理论。连接必须标明历史距离。",
+            "《政治论》的民主讨论还保留明显排除，不能因民主倾向便替文本删除。后世若主张平等参与，需要说明自己如何借自然平等和共同力量推进，又在何处用新的规范理由纠正原有资格限制。",
+            "因此民主较自然，不是因为每个多数决定都正当，而是因为主权较少被一个人的欲望私占，并更接近共同力量的实际构成。多数仍可能受恐惧支配，制度需要持续保存异议和纠错能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "分析一项服从要求",
+          "paragraphs": [
+            "可依次问：命令由哪个合法机构发出，它保护何种共同条件，执行能力来自哪里，是否压制无法转让的判断，以及拒绝会形成什么替代关系。",
+            "这些问题既不预设所有法律都正当，也不预设真诚反对就足以废法。政治判断必须同时面对规范理由和实际力量，避免把其中一边藏起来。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "权利力量论的双刃",
+          "paragraphs": [
+            "力量论揭穿纸面权利缺少执行便可能落空，也让被排除者的组织能力成为政治事实。它能解释制度为何必须有真实保障。",
+            "但若没有规范补充，它也可能让现有压迫看似自然。斯宾诺莎可用共同安全、自由和理性利益评价制度，却未把权利与力量重新完全分开。",
+            "这项张力应保留：理论强于解释权力怎样存在，弱于提供不可侵犯权利的独立语言。后世应用必须明确补入何种规范。"
+          ],
+          "identity": "later-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "坏国家怎样削弱自己",
+          "paragraphs": [
+            "依靠持续恐惧的国家可能暂时服从率很高，却破坏信任、主动合作和纠错信息。命令越多不等于共同力量越强。",
+            "《政治论》第五章把最好国家的目的放在和平与生活，而和平不只是没有战争，更不是臣民像牲畜般无力。稳定要包含人的精神力量。",
+            "因此自由并非国家安全之后才添加的奢侈品。压制自由会损害构成主权的关系，国家可能在追求绝对控制时侵蚀自身能力。"
+          ],
+          "identity": "primary-political",
+          "kind": "argument"
+        },
+        {
+          "heading": "多数力量需要制度记忆",
+          "paragraphs": [
+            "一次广场集会能显示共同意愿，却未必能持续分配职责、处理异议和兑现决定。民主需要程序、记录和可更替职位把瞬间力量变成稳定能力。",
+            "制度也可能僵化并排除新成员，因此稳定不是终点。思想表达自由让制度听见失配，参与渠道则让批评转化为合法改变。",
+            "《政治论》的中断使这些机制没有完整答案。未完成不是空白许可证，而是提醒我们区分斯宾诺莎的原则、项目解释与现代制度选择。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "共同自由仍是一项制度任务",
+          "paragraphs": [
+            "自然权利与力量同延是自然主义描述，不是替强者颁发道德奖章。国家把多数力量组织起来，其稳定依赖安全、信任和可执行关系。",
+            "民主较接近自然平等，思想自由帮助主权纠错；服从与反抗都要按共同力量判断。《政治论》未完成提醒我们，体系终点仍留下真实政治工作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一项无人愿意执行的禁令可能保有纸面地位却失去实际权力。政治权利依赖持续的共同协调，不能只由法条或一次反抗动作决定。",
+      "nodeIds": [
+        "spinoza-12-claim"
+      ],
+      "checkIds": [
+        "spinoza-12-check-1",
+        "spinoza-12-check-2",
+        "spinoza-12-check-3",
+        "spinoza-12-check-4"
+      ],
+      "abilitySummary": [
+        "分清自然权利的力量描述与道德正当化，说明国家权力怎样由多数关系构成。",
+        "在民主、服从与反抗之间同时评估法律、思想自由、实际能力和《政治论》未完成边界。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "spinoza-01-check-1",
+      "kind": "distinction",
+      "prompt": "笛卡尔的心身区分为何会产生交互压力？",
+      "targetNodeIds": [
+        "spinoza-01-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-01-check-1-correct",
+          "text": "因为思想与广延被规定为彼此独立的多种实体，却又必须解释意愿和身体运动的联合。",
+          "feedback": "难点来自实在区分与联合经验同时成立，而不是来自取消身体。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-01-check-1-misconception",
+          "text": "因为心灵与身体虽由不同属性说明，却被视为同一实体的两种表达。",
+          "feedback": "这里把斯宾诺莎的“同一实体由两种属性表达”倒填给笛卡尔。如此便取消了两个独立实体如何联合的压力；应回到多实体区分与经验联合同时成立的冲突。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-01-check-1-correct",
+      "misconceptionId": "descartes-denies-body"
+    },
+    {
+      "id": "spinoza-01-check-2",
+      "kind": "inference",
+      "prompt": "斯宾诺莎收紧实体定义后，有限心灵最可能被放在哪个位置？",
+      "targetNodeIds": [
+        "spinoza-01-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-01-check-2-correct",
+          "text": "它是依赖唯一实体而存在并被理解的样态。",
+          "feedback": "有限心灵的存在与理解都依赖更根本的思想秩序。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-01-check-2-misconception",
+          "text": "它是依赖广延实体存在、却能由自身概念被理解的有限属性。",
+          "feedback": "错误项把有限心灵误作属性，又让它一面依赖广延、一面能凭自身被理解。属性表达实体本质，样态才是依赖者；还须守住思想与广延不可交叉归属的区分。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-01-check-2-correct",
+      "misconceptionId": "finite-mind-substance"
+    },
+    {
+      "id": "spinoza-01-check-3",
+      "kind": "boundary",
+      "prompt": "《笛卡尔哲学原理》在比较中能证明什么？",
+      "targetNodeIds": [
+        "spinoza-01-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-01-check-3-correct",
+          "text": "它证明斯宾诺莎熟悉并能重构笛卡尔体系，但不能直接代表《伦理学》的成熟结论。",
+          "feedback": "说明性陈述与作者成熟自述具有不同文本身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-01-check-3-misconception",
+          "text": "它证明斯宾诺莎接受笛卡尔的问题设置，因此《伦理学》沿用其实体结论。",
+          "feedback": "这把重构他人体系等同于接受该体系，并把早期说明作品归给成熟《伦理学》。比较时应区分“能准确陈述笛卡尔”与“以本人名义主张多实体”。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-01-check-3-correct",
+      "misconceptionId": "presentation-equals-endorsement"
+    },
+    {
+      "id": "spinoza-01-check-4",
+      "kind": "application",
+      "prompt": "某理论用心理词和神经词描述同一次疼痛，仅凭词汇不同便断言有两个实体，它缺少哪一步？",
+      "targetNodeIds": [
+        "spinoza-01-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-01-check-4-correct",
+          "text": "缺少从概念不可互换到存在能够彼此独立的论证。",
+          "feedback": "概念差异本身不自动提供存在分离和因果独立。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-01-check-4-misconception",
+          "text": "缺少证明两套描述能够在同一次经验中同时成立的观察。",
+          "feedback": "两套词能共同描述疼痛并不推出两个承载者，错误项漏掉的正是这一步存在论推论。应检查概念不可互换为何足以证明对象彼此独立，而非再确认两种说法能并存。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-01-check-4-correct",
+      "misconceptionId": "conceptual-to-real-distinction"
+    },
+    {
+      "id": "spinoza-02-check-1",
+      "kind": "definition",
+      "prompt": "样态的真实为何不要求它成为实体？",
+      "targetNodeIds": [
+        "spinoza-02-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-02-check-1-correct",
+          "text": "因为依赖实体而存在的具体变化仍能真实地产生作用。",
+          "feedback": "真实与自足是两项不同条件，有限依赖者不因依赖便归于虚无。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-02-check-1-misconception",
+          "text": "因为样态依赖实体取得实在性，所以它只在认识中而不在存在中成立。",
+          "feedback": "这里把“依赖实体”误作“只存在于认识”。样态与实体的差别是自足方式，不是真实与幻象的差别；有限变化仍在因果秩序中产生作用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-02-check-1-correct",
+      "misconceptionId": "mode-as-illusion"
+    },
+    {
+      "id": "spinoza-02-check-2",
+      "kind": "distinction",
+      "prompt": "属性与普通性质最关键的差别是什么？",
+      "targetNodeIds": [
+        "spinoza-02-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-02-check-2-correct",
+          "text": "属性被把握为构成实体本质，而普通性质可以只是有限事物的变化。",
+          "feedback": "定义四让属性承担实体可理解本质的表达。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-02-check-2-misconception",
+          "text": "属性是实体在特定时刻呈现的变化，普通性质才构成实体本质。",
+          "feedback": "错误项颠倒了属性与有限性质的身份：构成实体可理解本质的是属性，随时刻变化的是样态性质。回到《伦理学》第一部定义四即可修正这次倒置。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-02-check-2-correct",
+      "misconceptionId": "attribute-as-label"
+    },
+    {
+      "id": "spinoza-02-check-3",
+      "kind": "boundary",
+      "prompt": "人明确把握思想与广延，能否推出神只有两个属性？",
+      "targetNodeIds": [
+        "spinoza-02-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-02-check-3-correct",
+          "text": "不能，定义要求无限多属性，文本只让人的论证集中于思想与广延。",
+          "feedback": "认识范围的限制不能直接改写对象的本体规定。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-02-check-3-misconception",
+          "text": "能，因为人的知性只形成思想与广延概念，未知属性不进入实体定义。",
+          "feedback": "这把人的认识边界误作神的本体边界。我们只明确把握思想与广延，不等于无限实体只含这两种属性；应区分认识可达范围和定义所规定的对象范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-02-check-3-correct",
+      "misconceptionId": "known-equals-all"
+    },
+    {
+      "id": "spinoza-02-check-4",
+      "kind": "application",
+      "prompt": "一位设计者把唯一实体比作装下万物的仓库，这个新模型最关键的错误是什么？",
+      "targetNodeIds": [
+        "spinoza-02-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-02-check-4-correct",
+          "text": "因为容器与内容仍可彼此外在，而样态对实体是存在与理解上的内在依赖。",
+          "feedback": "这里的在不是空间位置，而是没有所依赖者便不能成立。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-02-check-4-misconception",
+          "text": "因为仓库只能表达广延属性，无法为思想样态安排相应空间。",
+          "feedback": "仓库比喻的问题不只是漏掉思想，而是把实体与样态误作容器和内容两物。空间容纳允许内容离开容器，内在依赖却意味着样态脱离实体便不能存在或被理解。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-02-check-4-correct",
+      "misconceptionId": "substance-container"
+    },
+    {
+      "id": "spinoza-03-check-1",
+      "kind": "definition",
+      "prompt": "神作为内在因与木匠造桌有何差别？",
+      "targetNodeIds": [
+        "spinoza-03-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-03-check-1-correct",
+          "text": "万物在神内并由神性随出，不像成品那样与制造者分开。",
+          "feedback": "内在因不与结果形成两个彼此外在的存在领域。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-03-check-1-misconception",
+          "text": "万物由神性产生后仍依赖神维持，但在存在位置上与神分开。",
+          "feedback": "错误项仍把神和万物分置为制造者与成品，只添加持续维持关系。内在因取消的正是这种存在外在性；样态始终在神或自然之内随出。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-03-check-1-correct",
+      "misconceptionId": "god-transitive-cause"
+    },
+    {
+      "id": "spinoza-03-check-2",
+      "kind": "distinction",
+      "prompt": "能产的自然与被产的自然是否是两个实体？",
+      "targetNodeIds": [
+        "spinoza-03-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-03-check-2-correct",
+          "text": "不是，它们区分同一自然的无限因果力量与随出样态秩序。",
+          "feedback": "区分发生在因果层次而不是实体数目，两者仍属于同一自然。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-03-check-2-misconception",
+          "text": "是，能产自然指唯一实体，被产自然指与它并列的有限实体总和。",
+          "feedback": "这里把因果层次误作两个并列实体。能产自然说同一实在的无限力量，被产自然说由此随出的样态秩序；两名称没有把自然切成两个自足者。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-03-check-2-correct",
+      "misconceptionId": "two-natures"
+    },
+    {
+      "id": "spinoza-03-check-3",
+      "kind": "boundary",
+      "prompt": "为什么不能只用“泛神论”结束说明？",
+      "targetNodeIds": [
+        "spinoza-03-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-03-check-3-correct",
+          "text": "因为标签没有说明实体、有限样态、内在因与传统人格神之间的具体关系。",
+          "feedback": "解释分歧正集中在标签所压缩的多重关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-03-check-3-misconception",
+          "text": "因为泛神论只说明神遍在于有限事物，没有说明万物如何依赖神。",
+          "feedback": "错误项把泛神论固定解释成“神遍在万物”，却正好预设了神与事物可分。争议要回到唯一实体、内在因和有限样态三者的身份关系，而非用另一个标签释义收尾。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-03-check-3-correct",
+      "misconceptionId": "pantheism-slogan"
+    },
+    {
+      "id": "spinoza-03-check-4",
+      "kind": "application",
+      "prompt": "一座城市洪水过后，有人说自然用灾害警告该城；要把这句话变成因果解释，最先需要补什么？",
+      "targetNodeIds": [
+        "spinoza-03-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-03-check-4-correct",
+          "text": "缺少暴风自身的自然原因，并把自然过程未经证明地人格化。",
+          "feedback": "惩罚语法预设会评估目的和过错的行动者。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-03-check-4-misconception",
+          "text": "需要确认城内多数人是否共同把洪水理解成具有警告意义。",
+          "feedback": "多数人的共同解释只能说明信念传播，不能证明洪水具有意图。这里把社会共识误作自然目的的原因证据；应追查气象的自然原因，并检验人格化警告者是否有根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-03-check-4-correct",
+      "misconceptionId": "anthropomorphic-nature"
+    },
+    {
+      "id": "spinoza-04-check-1",
+      "kind": "distinction",
+      "prompt": "证明有效与定义恰当为何是两项审查？",
+      "targetNodeIds": [
+        "spinoza-04-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-04-check-1-correct",
+          "text": "前者问结论是否由前提随出，后者问起点是否抓住所研究的实在。",
+          "feedback": "有效推演可以从不恰当的起点推出条件性结论。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-04-check-1-misconception",
+          "text": "证明有效保证结论随前提推出，定义恰当只需保证术语全篇一致。",
+          "feedback": "这把定义恰当误作术语前后一致。一致性只保证同一词没有漂移，尚未说明定义抓住真实对象；应区分推演有效、用词稳定与起点对应实在三项审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-04-check-1-correct",
+      "misconceptionId": "validity-equals-truth"
+    },
+    {
+      "id": "spinoza-04-check-2",
+      "kind": "reading",
+      "prompt": "为什么不能只读命题而跳过附释？",
+      "targetNodeIds": [
+        "spinoza-04-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-04-check-2-correct",
+          "text": "附释常提供限定、例子和争论对象，决定命题应怎样理解。",
+          "feedback": "形式角色不同不表示附释只是装饰或与论证无关。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-04-check-2-misconception",
+          "text": "附释给出的历史例子能独立证明命题，因此可以代替形式证明。",
+          "feedback": "错误项把附释的解释作用误作独立证明能力。附释帮助识别限定、例子和对手，却不能取消命题对定义与先前证明的依赖；阅读应在散文说明和形式证明之间往返。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-04-check-2-correct",
+      "misconceptionId": "scholia-optional-or-destructive"
+    },
+    {
+      "id": "spinoza-04-check-3",
+      "kind": "boundary",
+      "prompt": "《知性改进论》与《伦理学》的关系应怎样把握？",
+      "targetNodeIds": [
+        "spinoza-04-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-04-check-3-correct",
+          "text": "它能说明方法背景，但未完成状态和术语演变阻止我们把它当成完整说明书。",
+          "feedback": "早期方法探索与成熟几何体系既有连续也有文本边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-04-check-3-misconception",
+          "text": "未完成状态只影响篇幅，不影响早期分类与成熟术语逐项对应。",
+          "feedback": "这里把早期手稿与成熟著作的术语误作逐项同一，并把未完成仅当篇幅问题。《知性改进论》能提供方法背景，但分类变化要求逐处论证连续性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-04-check-3-correct",
+      "misconceptionId": "early-text-identical"
+    },
+    {
+      "id": "spinoza-04-check-4",
+      "kind": "application",
+      "prompt": "一位反对者只列举两种直觉便否定唯一实体论，他还需要做什么才能形成精确反驳？",
+      "targetNodeIds": [
+        "spinoza-04-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-04-check-4-correct",
+          "text": "指出实体定义、区分原则或由前提到结论的具体缺口。",
+          "feedback": "几何形式的价值就在于让异议能落到确定依赖处。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-04-check-4-misconception",
+          "text": "把原来的直觉换成更熟悉的例子，使结论听起来更容易接受。",
+          "feedback": "更熟悉的例子只改变说服感，错误项漏掉了反驳必须攻击的推理位置。应指出实体定义、区分原则或证明步骤中的缺口，才能让直觉异议进入几何依赖链。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-04-check-4-correct",
+      "misconceptionId": "reaction-as-refutation"
+    },
+    {
+      "id": "spinoza-05-check-1",
+      "kind": "distinction",
+      "prompt": "为什么必然论不推出“治疗无用”？",
+      "targetNodeIds": [
+        "spinoza-05-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-05-check-1-correct",
+          "text": "因为治疗是改变身体进程的真实原因，是否治疗属于不同因果条件。",
+          "feedback": "结果通过包括行动在内的确定条件发生，治疗正是其中一项原因。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-05-check-1-misconception",
+          "text": "治疗能改变患者感受却不改变疾病的必然进程，因此只承担安慰作用。",
+          "feedback": "错误项把疾病进程当作无论条件怎样都不变的命运，于是把治疗降成感受安慰。必然因果要求结果经由具体原因发生；治疗进入身体链便构成另一组条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-05-check-1-correct",
+      "misconceptionId": "necessity-equals-futility"
+    },
+    {
+      "id": "spinoza-05-check-2",
+      "kind": "definition",
+      "prompt": "斯宾诺莎语境中的偶然通常表示什么？",
+      "targetNodeIds": [
+        "spinoza-05-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-05-check-2-correct",
+          "text": "表示我们不知道使事物发生或不发生的完整原因。",
+          "feedback": "偶然常被定位为有限认识对因果条件的缺失。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-05-check-2-misconception",
+          "text": "表示原因链在当前知识中尚未完成，所以事物保留两种同等可能趋势。",
+          "feedback": "这里把认识者不知道完整原因，误作事物内部同时保留两条趋势。斯宾诺莎所谓偶然标记知识缺口，并未在对象中加入脱离因果的摇摆能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-05-check-2-correct",
+      "misconceptionId": "chance-as-power"
+    },
+    {
+      "id": "spinoza-05-check-3",
+      "kind": "boundary",
+      "prompt": "目的论批判是否禁止说明人的行动目的？",
+      "targetNodeIds": [
+        "spinoza-05-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-05-check-3-correct",
+          "text": "不禁止，但人的目的本身也要放回欲望与观念的原因中。",
+          "feedback": "批判针对把整个自然拟成人格计划，而非删除有限意向。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-05-check-3-misconception",
+          "text": "禁止，因为目的把未来结果当成当前原因，人的行动意图也不例外。",
+          "feedback": "这把对自然终极目的的批判越过边界，误伤了有限行动者的意图。人的赴约目标属于欲望和观念的因果说明；被拒绝的是整个自然预先为人安排结果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-05-check-3-correct",
+      "misconceptionId": "all-purpose-language-banned"
+    },
+    {
+      "id": "spinoza-05-check-4",
+      "kind": "application",
+      "prompt": "一次事故后，当事人说宇宙借此提醒自己改变生活；这项自然目的主张最需要补什么证据？",
+      "targetNodeIds": [
+        "spinoza-05-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-05-check-4-correct",
+          "text": "需要证明自然整体具有该目的，而不只是我后来赋予经历意义。",
+          "feedback": "事件发生与事件被某人格意图安排是两项不同主张。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-05-check-4-misconception",
+          "text": "需要证明当事人后来确实因事故改变了自己的生活方向。",
+          "feedback": "事后改变只能证明事故进入个人意义形成，不能证明宇宙预先发出提醒。错误项把后来赋义等同于自然原有目的；两种因果方向必须分开取证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-05-check-4-correct",
+      "misconceptionId": "event-proves-purpose"
+    },
+    {
+      "id": "spinoza-06-check-1",
+      "kind": "definition",
+      "prompt": "“心灵是身体的观念”最直接排除了什么？",
+      "targetNodeIds": [
+        "spinoza-06-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-06-check-1-correct",
+          "text": "排除了心灵先独立存在、后来才住进身体的模型。",
+          "feedback": "人的心灵实际存在以一个实际身体为对象。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-06-check-1-misconception",
+          "text": "排除了心灵具有不同于身体的说明方式，因为观念只是身体状态副本。",
+          "feedback": "错误项把“心灵以身体为对象”误作思想可还原为身体副本。该命题取消的是先有灵魂再入住身体的身份模型，仍保留思想与广延各自不可替代的说明方式。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-06-check-1-correct",
+      "misconceptionId": "mind-in-body-container"
+    },
+    {
+      "id": "spinoza-06-check-2",
+      "kind": "distinction",
+      "prompt": "平行论为何不能只理解为两只同步时钟？",
+      "targetNodeIds": [
+        "spinoza-06-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-06-check-2-correct",
+          "text": "因为心身是同一事物的两种属性表达，不是两件被校准的装置。",
+          "feedback": "同一性比外在同步更强，同时保留属性内部因果。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-06-check-2-misconception",
+          "text": "因为两列事件由同一实体预先校准，之后便各按自身顺序运行。",
+          "feedback": "预先校准仍假定心与身是两件装置，只解释同步而未解释同一。斯宾诺莎把两列归给同一样态在不同属性下的表达；应回到身份同一与外在对应的区分。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-06-check-2-correct",
+      "misconceptionId": "parallelism-as-two-things"
+    },
+    {
+      "id": "spinoza-06-check-3",
+      "kind": "inference",
+      "prompt": "感觉为何可能真实却不充分？",
+      "targetNodeIds": [
+        "spinoza-06-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-06-check-3-correct",
+          "text": "它真实表达身体受影响，却未必包含外物的完整原因。",
+          "feedback": "受影响观念包含关系信息但常只有局部视角。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-06-check-3-misconception",
+          "text": "它充分表达外物的本质，却没有呈现身体自身如何受到影响。",
+          "feedback": "这里颠倒了感觉提供的信息：它首先呈现身体如何受影响，并不直接给足外物本质。真实来自这次关系确有其事，不充分则来自外物原因尚未被包含。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-06-check-3-correct",
+      "misconceptionId": "inadequate-equals-nothing"
+    },
+    {
+      "id": "spinoza-06-check-4",
+      "kind": "application",
+      "prompt": "两座城市都接受同一说法，研究者据此称它为共同概念；还需检查什么？",
+      "targetNodeIds": [
+        "spinoza-06-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-06-check-4-correct",
+          "text": "因为它把握身体间真实共有的结构，而非统计同意。",
+          "feedback": "恰当性来自对象及原因结构在部分和整体中的共同性。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-06-check-4-misconception",
+          "text": "只需证明两城多数意见由相似传播渠道形成，而非偶然同时出现。",
+          "feedback": "相似传播渠道只说明共识怎样生成，错误项仍把共同概念误作多数意见。还要检查该观念是否把握对象在部分与整体中真实共有的结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-06-check-4-correct",
+      "misconceptionId": "common-notion-as-consensus"
+    },
+    {
+      "id": "spinoza-07-check-1",
+      "kind": "definition",
+      "prompt": "第一种知识为何不等于纯粹虚假？",
+      "targetNodeIds": [
+        "spinoza-07-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-07-check-1-correct",
+          "text": "它真实表达身体遭遇并支持日常定向，只是常不包含充分原因。",
+          "feedback": "不充分观念仍有自然原因和部分内容，缺的是对象的充分关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-07-check-1-misconception",
+          "text": "它虽来自身体遭遇，却已包含对象的充分原因，只是表达不够清晰。",
+          "feedback": "错误项把表达不清与原因不充分混为一谈。第一种知识可以清楚呈现一次遭遇，却仍漏掉对象和身体关系的充分原因；缺失不只是措辞模糊。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-07-check-1-correct",
+      "misconceptionId": "imagination-all-false-or-all-true"
+    },
+    {
+      "id": "spinoza-07-check-2",
+      "kind": "distinction",
+      "prompt": "第三种知识与日常强烈预感的差别是什么？",
+      "targetNodeIds": [
+        "spinoza-07-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-07-check-2-correct",
+          "text": "它从属性本质的恰当观念进到个别本质，而非凭确信强度。",
+          "feedback": "第三种知识的直接性仍建立在严格的恰当来源上。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-07-check-2-misconception",
+          "text": "它把快速经验判断整理成稳定习惯，不必从属性本质进入个别本质。",
+          "feedback": "稳定习惯仍可能只是反复想象，不能取得第三种知识的身份。错误项漏掉从神的属性本质到个别本质的恰当根据，把直接认识降成快速而熟练的判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-07-check-2-correct",
+      "misconceptionId": "intuition-as-hunch"
+    },
+    {
+      "id": "spinoza-07-check-3",
+      "kind": "boundary",
+      "prompt": "早期四种知觉与成熟三种知识应怎样比较？",
+      "targetNodeIds": [
+        "spinoza-07-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-07-check-3-correct",
+          "text": "承认连续性，同时保留未完成手稿和分类变化，不能逐格等同。",
+          "feedback": "文本发展提供关联也提供不可抹平的差别。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-07-check-3-misconception",
+          "text": "两套分类处理的对象相同，因此未完成状态不影响术语逐项转换。",
+          "feedback": "讨论对象相近并不保证分类身份逐格相同。这里抹去了未完成手稿与成熟《伦理学》之间的术语演变；比较只能论证连续处，不能预设兑换表。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-07-check-3-correct",
+      "misconceptionId": "four-equals-three-mechanically"
+    },
+    {
+      "id": "spinoza-07-check-4",
+      "kind": "application",
+      "prompt": "某条消息在群聊中重复十次且转发率稳定，怎样把它从想象推进到理性审查？",
+      "targetNodeIds": [
+        "spinoza-07-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-07-check-4-correct",
+          "text": "追踪原始证据、传播原因、共同关系和反例条件。",
+          "feedback": "理性要求从遭遇频率转向产生判断的充分关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-07-check-4-misconception",
+          "text": "比较转发次数与相信人数，比例稳定时便把它视为共同概念。",
+          "feedback": "转发稳定衡量的是传播频率，不是观念的因果充分性。错误项把群体重复等同于共同概念；修正要转向原始证据、可重复关系与反例条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-07-check-4-correct",
+      "misconceptionId": "repetition-equals-cause"
+    },
+    {
+      "id": "spinoza-08-check-1",
+      "kind": "definition",
+      "prompt": "努力为何不要求有意识目标？",
+      "targetNodeIds": [
+        "spinoza-08-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-08-check-1-correct",
+          "text": "因为它是有限事物维持自身的现实力量，意识只在人欲望中出现。",
+          "feedback": "自我维持先于并广于人对欲望的自觉，无意识事物也能持续作用。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-08-check-1-misconception",
+          "text": "努力是事物对未来自我保存的表象，没有表象时由自然替它设定目标。",
+          "feedback": "这里把现实的维持力量误作面向未来的心理表象，又给无意识事物补上自然设定的目的。努力先是有限本质的实际作用，意识只在人的欲望中表达它。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-08-check-1-correct",
+      "misconceptionId": "conatus-as-conscious-plan"
+    },
+    {
+      "id": "spinoza-08-check-2",
+      "kind": "boundary",
+      "prompt": "自我保存是否意味着拒绝所有改变？",
+      "targetNodeIds": [
+        "spinoza-08-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-08-check-2-correct",
+          "text": "不，个体可通过成分更换和能力增长维持其组织关系。",
+          "feedback": "保存针对构成关系和行动力量而非每一材料静止。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-08-check-2-misconception",
+          "text": "是，保存同一个体要求维持主要成分，只容许不改变能力的细小变化。",
+          "feedback": "错误项把个体身份固定在原有材料，因而把能力增长排除为不再保存。正文的判据是运动与静止的组织关系；成分可替换，关键是关系是否维持或增强。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-08-check-2-correct",
+      "misconceptionId": "preservation-as-stasis"
+    },
+    {
+      "id": "spinoza-08-check-3",
+      "kind": "distinction",
+      "prompt": "为什么即时快感不总等于力量增加？",
+      "targetNodeIds": [
+        "spinoza-08-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-08-check-3-correct",
+          "text": "因为要看它对整体而持续的行动能力造成什么关系变化。",
+          "feedback": "喜悦作为力量过渡不能被单一瞬间感受完全衡量。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-08-check-3-misconception",
+          "text": "因为快感只衡量主观强度，力量增加只由外部行为是否成功决定。",
+          "feedback": "这把快感留给纯主观，把力量交给外部成败，错误地切开同一个体的身心变化。应考察刺激怎样改变整体且持续的行动能力，而非只看瞬时强度或一次成果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-08-check-3-correct",
+      "misconceptionId": "pleasure-equals-power"
+    },
+    {
+      "id": "spinoza-08-check-4",
+      "kind": "application",
+      "prompt": "会场里几个人看见邻座慌张后也奔向出口，这个新情境怎样体现情感模仿？",
+      "targetNodeIds": [
+        "spinoza-08-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-08-check-4-correct",
+          "text": "对相似者恐惧的想象会在自身形成相似情感并继续传播。",
+          "feedback": "身体与想象的相似反应可先于明确判断发生。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-08-check-4-misconception",
+          "text": "它说明每个人独立评估同一出口风险后形成了相同判断。",
+          "feedback": "独立评估会让相同反应来自共同证据，不能说明情感模仿。此处被漏掉的因果步骤是：看见相似者恐惧，想象先在自身形成恐惧并继续感染他人。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-08-check-4-correct",
+      "misconceptionId": "affect-imitation-as-deliberation"
+    },
+    {
+      "id": "spinoza-09-check-1",
+      "kind": "definition",
+      "prompt": "自由与必然在斯宾诺莎那里为何不冲突？",
+      "targetNodeIds": [
+        "spinoza-09-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-09-check-1-correct",
+          "text": "自由事物正由自身本性必然行动，而不是被外物强制。",
+          "feedback": "区分点在原因是否充分来自自身本性，而非有无原因。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-09-check-1-misconception",
+          "text": "自由要求行动由充分理由决定，但理由可以不属于行动者自身本性。",
+          "feedback": "有充分理由还不够，错误项漏掉理由属于谁的本性。若行动主要由外物原因解释，它仍是被动；自由要求必然性更多从行动者自身的恰当结构发出。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-09-check-1-correct",
+      "misconceptionId": "freedom-as-uncaused"
+    },
+    {
+      "id": "spinoza-09-check-2",
+      "kind": "distinction",
+      "prompt": "为什么这不是宿命论？",
+      "targetNodeIds": [
+        "spinoza-09-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-09-check-2-correct",
+          "text": "因为行动、理解和制度都是改变结果的真实因果条件。",
+          "feedback": "必然结果随具体条件变化，行动并未被从条件中删除。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-09-check-2-misconception",
+          "text": "行动仍是因果链一环，但链条结局在行动前已与行动内容无关。",
+          "feedback": "这里把因果必然偷换成结局不受中间条件影响的宿命。若行动内容改变，原因链已经不同；理解、制度和实践正是结果借以发生的真实条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-09-check-2-correct",
+      "misconceptionId": "necessity-as-fate"
+    },
+    {
+      "id": "spinoza-09-check-3",
+      "kind": "boundary",
+      "prompt": "理解恐惧原因为什么可能仍不足以改变恐惧？",
+      "targetNodeIds": [
+        "spinoza-09-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-09-check-3-correct",
+          "text": "因为抽象认识未必形成比当下情感更强的身体和观念关系。",
+          "feedback": "情感的改变取决于力量关系而非标签出现。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-09-check-3-misconception",
+          "text": "认识只改变心灵判断，而恐惧属于身体，所以二者不能形成对应变化。",
+          "feedback": "错误项把恐惧只归给身体、认识只归给心灵，重新制造跨属性断裂。问题不是二者不能对应，而是抽象观念尚未形成足以压过当下恐惧的情感力量。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-09-check-3-correct",
+      "misconceptionId": "insight-instant-cure"
+    },
+    {
+      "id": "spinoza-09-check-4",
+      "kind": "application",
+      "prompt": "某人反复酒后伤人，社区解释成瘾原因并设置限制；责任分析还需要关注什么？",
+      "targetNodeIds": [
+        "spinoza-09-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-09-check-4-correct",
+          "text": "关心后果、原因和怎样使人及共同体成为更恰当的行动原因。",
+          "feedback": "原因理解为实际改变和保护提供作用点，责任因此获得可介入的条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-09-check-4-misconception",
+          "text": "确认行为由成瘾原因造成后，应把后果承担交给医学说明处理。",
+          "feedback": "医学说明成瘾原因，不会替社区承担保护和重组条件的责任。错误项把因果解释误作免除后果；修正应同时保留伤害边界、治疗条件与未来行动能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-09-check-4-correct",
+      "misconceptionId": "causation-cancels-responsibility"
+    },
+    {
+      "id": "spinoza-10-check-1",
+      "kind": "definition",
+      "prompt": "永恒为何不是无限长的持续？",
+      "targetNodeIds": [
+        "spinoza-10-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-10-check-1-correct",
+          "text": "因为永恒由事物本质的必然存在来理解，不由时间长度解释。",
+          "feedback": "定义八明确把永恒从持续和时间中区分出来。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-10-check-1-misconception",
+          "text": "永恒是不依钟表测量的持续，其没有可见终点便超出通常时间。",
+          "feedback": "不使用钟表仍可能是在谈持续，错误项误把未测量的时间当成永恒。定义八把永恒与持续区分：前者由本质的必然存在理解，不由有没有终点决定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-10-check-1-correct",
+      "misconceptionId": "eternity-as-endless-time"
+    },
+    {
+      "id": "spinoza-10-check-2",
+      "kind": "reading",
+      "prompt": "命题二十三最稳妥地建立了什么？",
+      "targetNodeIds": [
+        "spinoza-10-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-10-check-2-correct",
+          "text": "心灵有表达身体本质的永恒之物，但其人格含义仍需争论。",
+          "feedback": "证明落在神内表达身体本质的观念，而非未来记忆叙事。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-10-check-2-misconception",
+          "text": "命题二十三建立身体消亡后仍有个体心灵，记忆持续则留给后文决定。",
+          "feedback": "这里把“有永恒之物”越过文本边界解释成死后个体心灵继续存在。命题二十三只确立表达身体本质的永恒面向，记忆和人格连续并未随之得到证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-10-check-2-correct",
+      "misconceptionId": "eternal-mind-as-personal-afterlife"
+    },
+    {
+      "id": "spinoza-10-check-3",
+      "kind": "distinction",
+      "prompt": "在永恒相下理解是否等于站在未来尽头？",
+      "targetNodeIds": [
+        "spinoza-10-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-10-check-3-correct",
+          "text": "不是，它是按事物从神的属性必然随出来理解。",
+          "feedback": "视角改变涉及因果和本质，不涉及移动到某个时间位置。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-10-check-3-misconception",
+          "text": "它从无限时间中回看事物，把各个时刻连接成不再变化的整体。",
+          "feedback": "错误项仍把永恒相放在时间轴上，只把观察点推到无限远。该视角改变的是根据：按事物怎样从神的属性必然随出来理解，而不是把全部时刻拼成静止画面。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-10-check-3-correct",
+      "misconceptionId": "sub-specie-as-future-view"
+    },
+    {
+      "id": "spinoza-10-check-4",
+      "kind": "boundary",
+      "prompt": "为何必须公开人格不朽争议？",
+      "targetNodeIds": [
+        "spinoza-10-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-10-check-4-correct",
+          "text": "因为文本同时保留个体身体本质与取消记忆持续依据，解释存在真实分歧。",
+          "feedback": "争议来自相关命题的张力而非材料缺席，个体化与记忆依据指向不同解释。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-10-check-4-misconception",
+          "text": "因为文本肯定身体本质的永恒表达，并把人格记忆视为它的直接结果。",
+          "feedback": "这把身体本质的永恒表达误作人格记忆的直接原因，文本没有给出这一步。争议恰来自个体化语言仍在，而记忆持续的依据被取消；两组材料不能悄悄合并。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-10-check-4-correct",
+      "misconceptionId": "controversy-as-no-text"
+    },
+    {
+      "id": "spinoza-11-check-1",
+      "kind": "definition",
+      "prompt": "先知具有道德确定是否保证自然科学无误？",
+      "targetNodeIds": [
+        "spinoza-11-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-11-check-1-correct",
+          "text": "不保证，预言主要借想象并适应听众，虔敬与自然知识不同。",
+          "feedback": "文本明确区分预言想象和理性自然知识，道德确定不能跨界担保自然描述。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-11-check-1-misconception",
+          "text": "保证，先知的道德确定使其自然描述在宗教目的内也有认识权威。",
+          "feedback": "错误项把先知在正义与虔敬上的道德确定，归给其自然描述的认识权威。《神学政治论》区分想象性的预言适应与理性自然知识，前者不能担保后者。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-11-check-1-correct",
+      "misconceptionId": "prophecy-as-science"
+    },
+    {
+      "id": "spinoza-11-check-2",
+      "kind": "method",
+      "prompt": "经文由自身解释首先要求什么？",
+      "targetNodeIds": [
+        "spinoza-11-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-11-check-2-correct",
+          "text": "收集语言用法、语境和编纂历史，再决定可支持的含义。",
+          "feedback": "解释证据必须先于希望文本承担的体系结果。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-11-check-2-misconception",
+          "text": "先确定经文维护的共同信仰，再用语言史筛选支持该信仰的含义。",
+          "feedback": "这里倒置了证据与结论的次序：先定共同信仰，再筛语言材料，只会让解释循环支持预设。经文由自身解释要求语言、语境和编纂历史先约束可接受含义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-11-check-2-correct",
+      "misconceptionId": "doctrine-first-hermeneutics"
+    },
+    {
+      "id": "spinoza-11-check-3",
+      "kind": "distinction",
+      "prompt": "神学与哲学分开是否建立两套相反事实？",
+      "targetNodeIds": [
+        "spinoza-11-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-11-check-3-correct",
+          "text": "不是，区分的是实践服从与理性求真的目标和证据。",
+          "feedback": "领域差异不要求矛盾命题各自在封闭世界成立。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-11-check-3-misconception",
+          "text": "是，神学以服从为真理标准，哲学以因果为标准，同一事实可各自成立。",
+          "feedback": "错误项把目标和证据的分工误作两套事实世界。神学检验正义服从，哲学追问真假与原因；领域不同不允许同一矛盾命题在两边同时为真。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-11-check-3-correct",
+      "misconceptionId": "two-truths"
+    },
+    {
+      "id": "spinoza-11-check-4",
+      "kind": "boundary",
+      "prompt": "表达自由为何不等于任何行为都免受约束？",
+      "targetNodeIds": [
+        "spinoza-11-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-11-check-4-correct",
+          "text": "思想不能转让，但另立权力、煽动和直接伤害涉及共同安全。",
+          "feedback": "纯粹意见与改变权力关系的行动必须分别判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-11-check-4-misconception",
+          "text": "国家可限制削弱服从预期的意见，即使这些意见尚未转化为行动。",
+          "feedback": "这把令统治者不安的意见等同于破坏共同安全的行动，边界因而可无限扩张。正文要求分别判断思想表达与煽动、另立权力或直接伤害，不能用服从预期替代行为证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-11-check-4-correct",
+      "misconceptionId": "speech-freedom-no-boundary-or-no-protection"
+    },
+    {
+      "id": "spinoza-12-check-1",
+      "kind": "definition",
+      "prompt": "权利与力量同延是否表示强者行为都道德正确？",
+      "targetNodeIds": [
+        "spinoza-12-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-12-check-1-correct",
+          "text": "不表示，它先描述自然中的实际能力，政治评价还要考察共同安全与自由。",
+          "feedback": "自然权利概念取消超自然法庭却未把力量大小变成德性尺度。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-12-check-1-misconception",
+          "text": "表示，实际优势为强者行为提供初步正当性，除非法律另有限制。",
+          "feedback": "错误项把描述性的力量范围误作规范正当性的起点。自然权利说明行动者实际能做什么；行为是否值得维护，还需按共同安全、自由和制度后果另行评价。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-12-check-1-correct",
+      "misconceptionId": "might-makes-moral-right"
+    },
+    {
+      "id": "spinoza-12-check-2",
+      "kind": "inference",
+      "prompt": "国家为何不能只靠纸面命令维持？",
+      "targetNodeIds": [
+        "spinoza-12-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-12-check-2-correct",
+          "text": "因为主权力量来自多数持续协调、执行和服从预期。",
+          "feedback": "制度权力是稳定关系而非文字自身的魔力。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-12-check-2-misconception",
+          "text": "因为法条只有在多数明确同意时才有力量，少数不服从足以撤销权威。",
+          "feedback": "这里把主权依赖多数持续协调，偷换成每条法令都须明示同意；又把少数反对误作立即撤销权威。纸面命令的力量来自长期执行、组织能力和服从预期的组合。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-12-check-2-correct",
+      "misconceptionId": "law-as-paper-or-instant-collapse"
+    },
+    {
+      "id": "spinoza-12-check-3",
+      "kind": "boundary",
+      "prompt": "《政治论》能否提供完整现代民主蓝图？",
+      "targetNodeIds": [
+        "spinoza-12-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-12-check-3-correct",
+          "text": "不能，民主章未完成且带有历史排除，连接现代制度必须标明中介。",
+          "feedback": "残篇只开启民主制度讨论，未包含现代机制的完整论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-12-check-3-misconception",
+          "text": "能，民主章虽未完成，但前十章已给出可直接套用的现代制度原则。",
+          "feedback": "这把前十章的一般政治原则误作完整现代制度设计，并用它填补未完成的民主章。《政治论》的历史排除仍在；现代连接必须说明新增的权利和制度中介。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-12-check-3-correct",
+      "misconceptionId": "unfinished-modern-blueprint"
+    },
+    {
+      "id": "spinoza-12-check-4",
+      "kind": "application",
+      "prompt": "某城市关闭申诉渠道后出现拒绝执法与替代议会，判断反抗是否成立还需考察什么？",
+      "targetNodeIds": [
+        "spinoza-12-claim"
+      ],
+      "options": [
+        {
+          "id": "spinoza-12-check-4-correct",
+          "text": "还要看共同力量、风险、替代制度及能否形成更安全自由的秩序。",
+          "feedback": "政治改变依赖可持续的多数关系而非单一情感强度。",
+          "isCorrect": true
+        },
+        {
+          "id": "spinoza-12-check-4-misconception",
+          "text": "先判断命令是否违反抽象正义；一旦违反便不必评估共同力量和替代秩序。",
+          "feedback": "抽象正义可支持反抗的正当理由，却不能单独建立反抗的现实能力。错误项混淆规范判断与共同力量条件；还须评估风险、替代制度及新秩序能否持续。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "spinoza-12-check-4-correct",
+      "misconceptionId": "anger-alone-or-absolute-obedience"
+    }
+  ]
+}

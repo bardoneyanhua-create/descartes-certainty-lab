@@ -1,0 +1,3845 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "pascal-01-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "一本没有完成的书如何发言",
+      "explanation": "如果《思想录》既不是帕斯卡尔完成的书，又保存着有意分类的护教材料，解释者怎样既不把纸片当孤立格言，也不伪造一部确定终稿？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "MS-RO",
+        "MS-COPIES",
+        "ED-PR",
+        "ED-MODERN",
+        "P-ORDER"
+      ],
+      "abilityIds": [
+        "pascal-01-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-02-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "几何为什么严格，却不能从零开始",
+      "explanation": "几何似乎通过定义和证明取得确定性；但若每个词还需定义、每个命题还需证明，严格性会不会陷入无限倒退？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "GEO-SPIRIT",
+        "ART-PERSUADE",
+        "CONICS"
+      ],
+      "abilityIds": [
+        "pascal-02-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-03-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "眼睛、理性与权威：真空争论的裁判权",
+      "explanation": "液柱上方看似空无，古代学说却说自然不容真空；观察能推翻权威到什么程度，又能否一次决定不可见原因？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "VACUUM-NEW",
+        "VACUUM-PREFACE",
+        "PUY",
+        "FLUIDS",
+        "PROVINCIALS",
+        "IEP-PASCAL"
+      ],
+      "abilityIds": [
+        "pascal-03-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-04-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从机器运算到概率：不确定也可以有理性",
+      "explanation": "若严格推理只承认证明，尚未结束的赌局与未来事件似乎只能交给任性；理性怎样在结果未知时仍比较行动？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "MACHINE",
+        "FERMAT",
+        "P-WAGER",
+        "SEP-WAGER"
+      ],
+      "abilityIds": [
+        "pascal-04-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-05-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "两个无限之间：人怎样认识自己的不相称",
+      "explanation": "人在无穷大的宇宙与无穷小的层次之间几乎不可见；这种尺度上的微小为何不直接等于价值上的虚无？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-DISPROPORTION",
+        "P-REED",
+        "MS-COPIES",
+        "VACUUM-NEW"
+      ],
+      "abilityIds": [
+        "pascal-05-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-06-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "伟大与悲惨为什么必须同时为真",
+      "explanation": "人能求真、立法并追求幸福，却持续犯错、受欲望支配且知道自己会死；删掉任何一边还能解释同一个人吗？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-GREAT-MISERY",
+        "P-REED",
+        "ED-PR",
+        "SEP-PASCAL"
+      ],
+      "abilityIds": [
+        "pascal-06-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-07-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "想象、自爱与习惯怎样制造可信的错误",
+      "explanation": "若错误只是证据不足，聪明而训练有素的人为何仍会因衣袍、声望、利益和熟悉感改变判断？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-IMAGINATION",
+        "P-JUSTICE",
+        "ED-MODERN"
+      ],
+      "abilityIds": [
+        "pascal-07-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-08-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "没有可见的绝对正义，为什么仍有政治秩序",
+      "explanation": "法律随边界和时代改变，力量又常把自己称作正义；揭露这种偶然后，人还有什么有限服从理由？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-JUSTICE",
+        "P-IMAGINATION",
+        "ED-PR",
+        "P-ORDERS"
+      ],
+      "abilityIds": [
+        "pascal-08-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-09-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "消遣：我们追逐的真是猎物吗",
+      "explanation": "人声称想要休息和幸福，真正得到安静却急于寻找赌博、职位、战争与噪声；欲望对象和欲望功能为何分裂？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-DIVERSION",
+        "P-GREAT-MISERY",
+        "P-IMAGINATION"
+      ],
+      "abilityIds": [
+        "pascal-09-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-10-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "Epictetus与Montaigne为什么各赢一半",
+      "explanation": "斯多亚主义相信理性意志可自我治理，怀疑论揭露理性摇摆；一个高估能力，一个难以生活，怎样裁决而不折中稀释？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "SACY",
+        "P-GREAT-MISERY",
+        "GEO-SPIRIT"
+      ],
+      "abilityIds": [
+        "pascal-10-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-11-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "“心有其理”不等于放弃理由",
+      "explanation": "推理必须从未被同一推理证明的起点出发；若把起点交给“心”，怎样避免任意直觉和宗教自证？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-HEART",
+        "GEO-SPIRIT",
+        "ART-PERSUADE",
+        "SEP-PASCAL"
+      ],
+      "abilityIds": [
+        "pascal-11-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-12-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自由若跟随欲望，恩典怎样不取消责任",
+      "explanation": "若堕落的人不能凭自然力量爱最高善，而有效恩典又必然改变意愿，行动还算自由、罪责还属于行动者吗？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "GRACE",
+        "PROVINCIALS",
+        "SEP-PASCAL"
+      ],
+      "abilityIds": [
+        "pascal-12-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-13-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "良心怎样被推理技术放宽",
+      "explanation": "个案复杂确实需要道德辨析，但同一技术也能把欲望预先想做的事包装成许可；怎样区分审慎与诡辩？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "PROVINCIALS",
+        "GRACE",
+        "VACUUM-PREFACE"
+      ],
+      "abilityIds": [
+        "pascal-13-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-14-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "上帝为什么既留下踪迹又保持隐匿",
+      "explanation": "若上帝愿人认识自己，为何不提供不可抗拒的证据；若证据始终歧义，信仰又如何区别于愿望投射？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-HIDDEN",
+        "MEMORIAL",
+        "SEP-PASCAL"
+      ],
+      "abilityIds": [
+        "pascal-14-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-15-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "预言、象征与奇迹怎样成为证据",
+      "explanation": "历史文本和异常事件可能支持宗教解释，也可能被回溯选择、循环释经或不同传统竞争性占用；累积征象何时超过巧合？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-FIGURES",
+        "P-MIRACLES",
+        "ED-PR",
+        "P-HIDDEN"
+      ],
+      "abilityIds": [
+        "pascal-15-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-16-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "赌局不是证明：无法不下注意味着什么",
+      "explanation": "上帝存在不能由理性证明，信念又不能按按钮产生；为什么行动者仍可能被说成已经置身赌局？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-WAGER",
+        "FERMAT",
+        "SEP-WAGER",
+        "P-HIDDEN",
+        "GRACE"
+      ],
+      "abilityIds": [
+        "pascal-16-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-17-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "为什么答案必须经过耶稣基督",
+      "explanation": "赌局最多推动寻求，历史征象也不能单独解释人为何同时伟大和悲惨；基督中介增加了什么不可替代的内容？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-CHRIST",
+        "P-GREAT-MISERY",
+        "P-HIDDEN",
+        "P-WAGER"
+      ],
+      "abilityIds": [
+        "pascal-17-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-18-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "身体、精神与爱德为什么不能兑换",
+      "explanation": "财富可以买服从，才智赢得敬佩，但它们能否购买真理或爱；所谓更高秩序又会不会成为宗教越权的借口？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "P-ORDERS",
+        "P-CHRIST",
+        "P-JUSTICE",
+        "VACUUM-PREFACE"
+      ],
+      "abilityIds": [
+        "pascal-18-reasoning"
+      ]
+    },
+    {
+      "id": "pascal-19-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从习惯到祈祷：人能为转化做什么",
+      "explanation": "人不能凭证明或意志制造救赎性信仰；若如此，劝说、礼仪、习惯、祈祷和面对疾病还有什么非虚假的作用？",
+      "identity": "Pascal longform authored synthesis",
+      "evidenceLinkIds": [
+        "MEMORIAL",
+        "PRAYER",
+        "P-WAGER",
+        "GRACE",
+        "GEO-SPIRIT",
+        "VACUUM-PREFACE"
+      ],
+      "abilityIds": [
+        "pascal-19-reasoning"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "MS-RO",
+      "workId": "Recueil des papiers originaux des Pensées, BnF fr. 9202",
+      "edition": "autograph-and-secretarial-papers-later-mounted",
+      "locator": "741张纸片，现装订次序为身后物质安排",
+      "locatorVerified": true,
+      "identity": "autograph-and-secretarial-papers-later-mounted"
+    },
+    {
+      "id": "MS-COPIES",
+      "workId": "Copies C1 et C2 des papiers de Pascal",
+      "edition": "posthumous-family-commissioned-copies",
+      "locator": "BnF fr. 9203与fr. 12449内抄本",
+      "locatorVerified": true,
+      "identity": "posthumous-family-commissioned-copies"
+    },
+    {
+      "id": "ED-PR",
+      "workId": "Pensées, éditions de Port-Royal 1669/1670/1678",
+      "edition": "posthumous-editorial-recomposition",
+      "locator": "预印本、初版与增订版",
+      "locatorVerified": true,
+      "identity": "posthumous-editorial-recomposition"
+    },
+    {
+      "id": "ED-MODERN",
+      "workId": "Faugère, Brunschvicg, Lafuma, Sellier等现代编排史",
+      "edition": "modern-editorial-history",
+      "locator": "现代版本总览与编号关系",
+      "locatorVerified": true,
+      "identity": "modern-editorial-history"
+    },
+    {
+      "id": "P-ORDER",
+      "workId": "《思想录》分类纸束“秩序”及护教计划片段",
+      "edition": "classified-autograph-fragments",
+      "locator": "Ordre纸束；以incipit与Sellier/Lafuma对照定位",
+      "locatorVerified": true,
+      "identity": "classified-autograph-fragments"
+    },
+    {
+      "id": "GEO-SPIRIT",
+      "workId": "De l’esprit géométrique",
+      "edition": "posthumous-methodological-draft",
+      "locator": "第一部分：几何方法；定义与原理",
+      "locatorVerified": true,
+      "identity": "posthumous-methodological-draft"
+    },
+    {
+      "id": "ART-PERSUADE",
+      "workId": "De l’art de persuader",
+      "edition": "posthumous-methodological-draft",
+      "locator": "说服依赖心灵与意志的段落",
+      "locatorVerified": true,
+      "identity": "posthumous-methodological-draft"
+    },
+    {
+      "id": "CONICS",
+      "workId": "Essai pour les coniques (1640)",
+      "edition": "published-mathematical-text",
+      "locator": "射影几何六边形命题及方法背景",
+      "locatorVerified": true,
+      "identity": "published-mathematical-text"
+    },
+    {
+      "id": "MACHINE",
+      "workId": "Pascaline相关献词、说明与特许材料",
+      "edition": "published-and-archival-technical-material",
+      "locator": "算术机的进位、运算与行政用途",
+      "locatorVerified": true,
+      "identity": "published-and-archival-technical-material"
+    },
+    {
+      "id": "VACUUM-NEW",
+      "workId": "Expériences nouvelles touchant le vide (1647)",
+      "edition": "published-scientific-text",
+      "locator": "真空实验及所列命题",
+      "locatorVerified": true,
+      "identity": "published-scientific-text"
+    },
+    {
+      "id": "VACUUM-PREFACE",
+      "workId": "Préface sur le traité du vide",
+      "edition": "unfinished-posthumous-preface",
+      "locator": "古代权威与可进步知识段落",
+      "locatorVerified": true,
+      "identity": "unfinished-posthumous-preface"
+    },
+    {
+      "id": "PUY",
+      "workId": "Récit de la grande expérience de l’équilibre des liqueurs (1648)",
+      "edition": "published-collaborative-experiment-report",
+      "locator": "Puy-de-Dôme不同海拔液柱比较",
+      "locatorVerified": true,
+      "identity": "published-collaborative-experiment-report"
+    },
+    {
+      "id": "FLUIDS",
+      "workId": "Traités de l’équilibre des liqueurs et de la pesanteur de la masse de l’air",
+      "edition": "posthumously-published-scientific-treatises",
+      "locator": "研究早于1662，1663年身后出版",
+      "locatorVerified": true,
+      "identity": "posthumously-published-scientific-treatises"
+    },
+    {
+      "id": "FERMAT",
+      "workId": "Correspondance Pascal–Fermat sur le problème des partis (1654)",
+      "edition": "private-mathematical-correspondence",
+      "locator": "未决赌局的公平分配与组合计算",
+      "locatorVerified": true,
+      "identity": "private-mathematical-correspondence"
+    },
+    {
+      "id": "P-DISPROPORTION",
+      "workId": "“Disproportion de l’homme”纸片群",
+      "edition": "classified-pensees-fragments",
+      "locator": "以‘Que l’homme contemple donc la nature entière’开头；通行对照Lafuma 199 / Sellier 230",
+      "locatorVerified": true,
+      "identity": "classified-pensees-fragments"
+    },
+    {
+      "id": "P-REED",
+      "workId": "“Roseau pensant”相关纸片",
+      "edition": "pensees-fragments",
+      "locator": "通行对照Lafuma 200 / Sellier 231及相邻纸片",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "P-GREAT-MISERY",
+      "workId": "“Grandeur”“Misère”“Contrariétés”分类纸束",
+      "edition": "classified-pensees-fragments",
+      "locator": "人的伟大、悲惨与矛盾纸片群",
+      "locatorVerified": true,
+      "identity": "classified-pensees-fragments"
+    },
+    {
+      "id": "P-IMAGINATION",
+      "workId": "“Imagination”与欺骗力量纸片",
+      "edition": "pensees-fragments",
+      "locator": "以‘Cette maîtresse d’erreur et de fausseté’著名段落为核心；通行对照Lafuma 44 / Sellier 78",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "P-JUSTICE",
+      "workId": "正义、习俗、力量与等级纸片群",
+      "edition": "pensees-fragments",
+      "locator": "‘Justice, force’与河流两侧正义等段落；版本双编号复核",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "P-DIVERSION",
+      "workId": "“Divertissement”分类纸束",
+      "edition": "classified-pensees-fragments",
+      "locator": "王者无消遣便悲惨、猎物与追逐等纸片；通行对照Lafuma 136 / Sellier 168",
+      "locatorVerified": true,
+      "identity": "classified-pensees-fragments"
+    },
+    {
+      "id": "SACY",
+      "workId": "Entretien avec M. de Sacy",
+      "edition": "mediated-posthumous-testimony",
+      "locator": "Fontaine回忆并整理的Epictète/Montaigne对读",
+      "locatorVerified": true,
+      "identity": "mediated-posthumous-testimony"
+    },
+    {
+      "id": "P-HEART",
+      "workId": "“Le cœur a ses raisons”与第一原理纸片",
+      "edition": "pensees-fragments",
+      "locator": "通行对照Lafuma 423 / Sellier 680；结合第一原理片段",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "GRACE",
+      "workId": "Écrits sur la grâce",
+      "edition": "unfinished-posthumous-theological-manuscripts",
+      "locator": "三种意见、有效恩典、欲望与自由论述",
+      "locatorVerified": true,
+      "identity": "unfinished-posthumous-theological-manuscripts"
+    },
+    {
+      "id": "PROVINCIALS",
+      "workId": "Les Provinciales (1656–1657)",
+      "edition": "published-pseudonymous-polemical-letters",
+      "locator": "Louis de Montalte化名；恩典、诡辩术、事实/权利争论",
+      "locatorVerified": true,
+      "identity": "published-pseudonymous-polemical-letters"
+    },
+    {
+      "id": "P-HIDDEN",
+      "workId": "“Dieu caché”与寻求上帝纸片群",
+      "edition": "classified-and-unclassified-pensees-fragments",
+      "locator": "隐匿、征象歧义、反对冷漠者纸片",
+      "locatorVerified": true,
+      "identity": "classified-and-unclassified-pensees-fragments"
+    },
+    {
+      "id": "P-FIGURES",
+      "workId": "律法、犹太传统、象征与预言纸片群",
+      "edition": "pensees-fragments",
+      "locator": "‘Loi figurative’‘Prophéties’等纸束",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "P-MIRACLES",
+      "workId": "奇迹与证词纸片群",
+      "edition": "pensees-fragments-and-polemical-context",
+      "locator": "‘Miracles’纸束及圣荆事件背景",
+      "locatorVerified": true,
+      "identity": "pensees-fragments-and-polemical-context"
+    },
+    {
+      "id": "P-WAGER",
+      "workId": "“Infini—rien”赌局纸片",
+      "edition": "revised-autograph-pensees-fragment",
+      "locator": "通行对照Lafuma 418 / Sellier 680；多次修订层",
+      "locatorVerified": true,
+      "identity": "revised-autograph-pensees-fragment"
+    },
+    {
+      "id": "P-CHRIST",
+      "workId": "“Jésus-Christ”与“Le mystère de Jésus”纸片",
+      "edition": "pensees-fragments-and-private-meditation",
+      "locator": "基督中介、耶稣之奥秘、相关护教纸片",
+      "locatorVerified": true,
+      "identity": "pensees-fragments-and-private-meditation"
+    },
+    {
+      "id": "P-ORDERS",
+      "workId": "身体、精神、爱德三种秩序纸片",
+      "edition": "pensees-fragments",
+      "locator": "通行对照Lafuma 308 / Sellier 339；ordre du corps, de l’esprit, de la charité",
+      "locatorVerified": true,
+      "identity": "pensees-fragments"
+    },
+    {
+      "id": "MEMORIAL",
+      "workId": "Mémorial (1654)",
+      "edition": "private-autograph-spiritual-record",
+      "locator": "原件曾缝在衣物内；纸本原件与羊皮纸抄本",
+      "locatorVerified": true,
+      "identity": "private-autograph-spiritual-record"
+    },
+    {
+      "id": "PRAYER",
+      "workId": "Prière pour demander à Dieu le bon usage des maladies",
+      "edition": "posthumously-published-spiritual-prayer",
+      "locator": "疾病、欲望与依赖的祈祷文本",
+      "locatorVerified": true,
+      "identity": "posthumously-published-spiritual-prayer"
+    },
+    {
+      "id": "BIO-GILBERTE",
+      "workId": "Gilberte Périer, Vie de M. Pascal",
+      "edition": "family-biography-and-hagiographic-testimony",
+      "locator": "生平、疾病、研究与灵修见证",
+      "locatorVerified": true,
+      "identity": "family-biography-and-hagiographic-testimony"
+    },
+    {
+      "id": "SEP-PASCAL",
+      "workId": "Stanford Encyclopedia of Philosophy: Blaise Pascal",
+      "edition": "modern-scholarly-reference",
+      "locator": "自然与恩典、自由、知识、伦理政治与人类处境",
+      "locatorVerified": true,
+      "identity": "modern-scholarly-reference"
+    },
+    {
+      "id": "SEP-WAGER",
+      "workId": "Stanford Encyclopedia of Philosophy: Pascal’s Wager",
+      "edition": "modern-analytic-reconstruction",
+      "locator": "支配、期望、广义期望与异议",
+      "locatorVerified": true,
+      "identity": "modern-analytic-reconstruction"
+    },
+    {
+      "id": "IEP-PASCAL",
+      "workId": "Internet Encyclopedia of Philosophy: Blaise Pascal",
+      "edition": "modern-scholarly-reference",
+      "locator": "科学方法、真空、恩典与作品史",
+      "locatorVerified": true,
+      "identity": "modern-scholarly-reference"
+    }
+  ],
+  "routes": [
+    {
+      "id": "pascal-longform",
+      "version": "candidate-2",
+      "title": "帕斯卡尔：确定性、人的矛盾与隐匿的上帝",
+      "lessonIds": [
+        "pascal-01",
+        "pascal-02",
+        "pascal-03",
+        "pascal-04",
+        "pascal-05",
+        "pascal-06",
+        "pascal-07",
+        "pascal-08",
+        "pascal-09",
+        "pascal-10",
+        "pascal-11",
+        "pascal-12",
+        "pascal-13",
+        "pascal-14",
+        "pascal-15",
+        "pascal-16",
+        "pascal-17",
+        "pascal-18",
+        "pascal-19"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pascal-01",
+      "order": 1,
+      "title": "一本没有完成的书如何发言",
+      "depth": "longform",
+      "guidingQuestion": "如果《思想录》既不是帕斯卡尔完成的书，又保存着有意分类的护教材料，解释者怎样既不把纸片当孤立格言，也不伪造一部确定终稿？",
+      "coreExplanation": "人们翻开一本题为《思想录》的印刷书，目录、页码和连续排版会自然造成一个印象：帕斯卡尔曾把这些话安排成书，只是没有修饰完。然而他在1662年去世时留下的是剪裁过的纸片、较长草稿、秘书誊写和若干已经归入纸束的材料。若把印刷物的整齐直接归给作者，护教计划显得过分完成；若反过来把一切都叫作杂记，纸束关系和反复修订又失去意义。解释必须在“完成作品”与“无序遗物”之间找到有证据的层次。 高风险纸片在引用时同时记录拉富玛编号（Laf.）与塞利耶编号（Sel.），并把双编号绑定到本段的纸片身份；编号只帮助跨版本定位，不把编辑次序升级为作者目录。",
+      "sections": [
+        {
+          "heading": "纸片与书的距离",
+          "paragraphs": [
+            "人们翻开一本题为《思想录》的印刷书，目录、页码和连续排版会自然造成一个印象：帕斯卡尔曾把这些话安排成书，只是没有修饰完。然而他在1662年去世时留下的是剪裁过的纸片、较长草稿、秘书誊写和若干已经归入纸束的材料。若把印刷物的整齐直接归给作者，护教计划显得过分完成；若反过来把一切都叫作杂记，纸束关系和反复修订又失去意义。解释必须在“完成作品”与“无序遗物”之间找到有证据的层次。 高风险纸片在引用时同时记录拉富玛编号（Laf.）与塞利耶编号（Sel.），并把双编号绑定到本段的纸片身份；编号只帮助跨版本定位，不把编辑次序升级为作者目录。",
+            "先辨认材料身份：纸片本身。BnF法文手稿9202保存帕斯卡尔亲笔或秘书所写的纸张，但现今看到的巨册是身后把纸片粘贴、装订形成的物质对象。纸张上的删改、续写、针孔和剪裁痕迹能显示写作动作；册页先后却不能自动显示护教全书的顺序。由此得到一个基本区分：文字归属与装订归属不是同一件事。前者可以很强，后者必须追问谁在何时安排。",
+            "再检验推断跨度：家属命人制作的C1、C2抄本。它们大体保存纸片在重新装订前的排列，因而能帮助识别分类纸束与未分类材料。这里生成“局部秩序”这个必要概念：同一纸束内部的相邻关系可能有作者工作痕迹，却不等于各纸束已经被排成唯一全书。局部秩序足以支持一段问题运动，例如从人的悲惨走向寻求；它不授权解释者填出所有缺失过渡。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "编辑介入以后",
+          "paragraphs": [
+            "第三层是Port-Royal的出版。1669预印本、1670初版和1678增订本并非今天意义上的忠实校勘，而是选择、合并、改写、加标题和重新编排。编辑者希望得到可公开辩护的基督教著作，也要顾及教会审查与Port-Royal处境。这样制成的书对帕斯卡尔接受史极重要，却包含另一个声音。把编辑过渡写成“帕斯卡尔接着证明”会把身后共同体的决定藏进作者名下。",
+            "现代版本并没有消除这项困难。Brunschvicg按主题重组纸片，留下通行编号；Lafuma和Sellier更多依据抄本、纸束与物质次序，却也采用不同判断。因此正文定位不能只给一个裸数字，而应说明所用版本，以Sellier/Lafuma双编号或incipit交叉确认。这里的谨慎不是书目礼节，而会改变论证：赌局纸片的反复修订、相邻材料和写作层次都会影响人们究竟在重建几个论证。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "怎样重构而不冒充",
+          "paragraphs": [
+            "设想档案室发现一位建筑师的草图：一些房间画得很细，几张纸用线穿成组，另有事务所同事在其身后做成展览模型。把模型称为建筑师最终大楼当然过强；把每张草图互不相干也不合理。较好的做法是分别标出亲笔线条、成组关系、同事补足和当代复原，并让结论强度随证据变化。《思想录》的解释也应如此：可以重建局部工程，但必须让接缝可见。",
+            "最强异议是，层层限定会使任何整体解释都无法开始。帕斯卡尔显然计划过一部基督教护教著作；如果每句话都停在版本说明，就只剩档案学，没有哲学。这个异议击中了过度谨慎的代价：来源边界若不服务于论证，只会成为防错仪式。问题因而不是要不要重构，而是重构能否说明自己用了哪些局部关系、舍弃了哪些竞争安排。",
+            "回应是允许可撤回的结构判断。分类纸束、反复出现的两阶段护教设想、同一难题的连续改写，可以支持“先扰动自足，再呈现基督教解释”这样的方向；它们不能证明十九个现今题目是帕斯卡尔目录。我们保留整体，因为没有整体就看不见纸片互相施压；同时收缩作者归属，把这条路线明说为受原件约束的现代问题重构。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "声音边界留下的方法问题",
+          "paragraphs": [
+            "这项纪律还保护不同声音。《与德·萨西先生的谈话》是Fontaine的回忆性整理，《纪念》是缝在衣物中的私人记录，《致外省人书》以Louis de Montalte化名展开讽刺，《论恩典文稿》则未完成。它们都可帮助理解帕斯卡尔，却不是同一种言语行为。公开论战、私人祈祷、方法草稿和护教纸片若被压成一个无缝独白，表面统一会以证据失真为代价。",
+            "于是第一项成果不是一份恢复的目录，而是一条裁判规则：先问材料是谁写、为谁写、何时发表、由谁排列，再问它能承担多强的哲学结论。可这也留下新的债务。若文本类型各异，是否仍有一套共同的严格性贯穿数学、实验和护教？要回答它，必须从帕斯卡尔最能公开控制的方法开始：几何如何证明，以及它为何不能从零起步。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "人们翻开一本题为《思想录》的印刷书，目录、页码和连续排版会自然造成一个印象：帕斯卡尔曾把这些话安排成书，只是没有修饰完。然而他在1662年去世时留下的是剪裁过的纸片、较长草稿、秘书誊写和若干已经归入纸束的材料。若把印刷物的整齐直接归给作者，护教计划显得过分完成；若反过来把一切都叫作杂记，纸束关系和反复修订又失去意义。解释必须在“完成作品”与“无序遗物”之间找到有证据的层次。 高风险纸片在引用时同时记录拉富玛编号（Laf.）与塞利耶编号（Sel.），并把双编号绑定到本段的纸片身份；编号只帮助跨版本定位，不把编辑次序升级为作者目录。",
+      "nodeIds": [
+        "pascal-01-teaching"
+      ],
+      "checkIds": [
+        "pascal-01-q1",
+        "pascal-01-q2",
+        "pascal-01-q3",
+        "pascal-01-q4"
+      ],
+      "abilitySummary": [
+        "能够重建一本没有完成的书如何发言的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-02",
+      "order": 2,
+      "title": "几何为什么严格，却不能从零开始",
+      "depth": "longform",
+      "guidingQuestion": "几何似乎通过定义和证明取得确定性；但若每个词还需定义、每个命题还需证明，严格性会不会陷入无限倒退？",
+      "coreExplanation": "从遗稿转向几何，似乎终于进入没有编辑歧义的坚硬地面。几何命题按步骤推出，反对者不能靠声望改变结论。可是严格方法若要求所有词都定义、所有判断都证明，就会立即失败：定义中的词还要定义，证明所依赖的命题还要证明。若任意停下，确定性像是以武断为地基；若永不停止，任何证明都无法开始。帕斯卡尔的任务不是宣称几何无前提，而是说明有限心灵怎样透明地管理前提。",
+      "sections": [
+        {
+          "heading": "无限倒退怎样停止",
+          "paragraphs": [
+            "从遗稿转向几何，似乎终于进入没有编辑歧义的坚硬地面。几何命题按步骤推出，反对者不能靠声望改变结论。可是严格方法若要求所有词都定义、所有判断都证明，就会立即失败：定义中的词还要定义，证明所依赖的命题还要证明。若任意停下，确定性像是以武断为地基；若永不停止，任何证明都无法开始。帕斯卡尔的任务不是宣称几何无前提，而是说明有限心灵怎样透明地管理前提。",
+            "他先区分名称定义与对象本性。几何学者可以约定把某个表达用来指一项清楚构造，这能固定语言用途，防止争论在同词异义中滑动；约定却不会创造对象的全部性质。给“偶数”规定名称，不等于已经证明偶数的所有定理。由此可见，定义的力量是控制符号关系，而非凭一句话把世界变成自己希望的样子。",
+            "再向下追问，定义链必须停在人人已经理解、再解释反而更含混的词，例如数、空间、运动。帕斯卡尔把这种无需继续定义的把握视为方法的起点。与此相应，证明链停在清楚原理；后续命题的可靠性来自每一步都能回到这些起点。这里生成的“几何精神”不是爱算式的性格，而是明确术语、排列依赖、只断言已经由原理推出之物的能力。",
+            "这个方案同时承认两种限制。第一，起点不是由同一演绎方法证明，否则仍会倒退；第二，几何只能处理其对象允许明确分解和排列的关系。严格性因而是有边界的确定性：在公开起点和有效推导之间，它可以要求必然；面对起点怎样被把握、复杂人心如何被说服，它必须借助别的能力。限制不是几何的失败，反而是避免把局部成功冒充普遍统治。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "方法稿的身份",
+          "paragraphs": [
+            "这些论述主要见于约1655年的《几何精神》与《说服的艺术》，两者都是身后流传、完成度有争议的方法稿。早年的《论圆锥曲线的尝试》显示帕斯卡尔实际运用几何构造，却不能单独证明他当时已拥有后来全部认识论。将实践、方法反思和后期护教分层，可以看到连续问题，又不把后来的“心”预先写进少年数学文本。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "棋盘上的定义边界",
+          "paragraphs": [
+            "设想一套桌游规则写着“相邻格”和“占领”。设计者可以清楚规定“占领”的记号，却若用“相邻格就是彼此相邻的格”解释相邻，语言并未前进。参与者必须先能直接识别棋盘上的邻接，再从规则推出合法动作。若有人把“占领”偷偷改成“道德上应当拥有”，形式推导会因对象偷换而失效。案例显示，明确约定、直接起点和有效推导缺一不可。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同起点是否只是习惯",
+          "paragraphs": [
+            "强异议是：所谓自然明白的词与清楚原理可能只是共同习惯。不同文化、不同数学体系若选择不同起点，帕斯卡尔的几何确定性是否把熟悉感误当真理？这项批评直接攻击停止倒退的方式。如果起点只因多数人不再追问便获得权威，几何方法与他后来批评的习俗统治并无本质差别。",
+            "回应必须收缩。帕斯卡尔不能仅凭“自然”保证所有人对起点的现代哲学说明一致；他能保住的是操作上的公开性：争论者可检查是否理解同一构造、是否接受同一原理、推导是否保真。若起点发生争议，结论的条件性也应显露，而非靠形式外观掩盖。几何精神提供的是依赖透明，不是一个消除一切基础争论的神谕。",
+            "这也解释了为何《说服的艺术》不能只是《几何精神》的附录。证明面对的是愿意遵守共同起点的心智；实际说服还遇到意志偏好、词语联想和利益。一个论证可能形式有效，却因对象未共享或欲望抵抗而没有现实效果。帕斯卡尔并不因此允许以操纵代替证明，而是承认“使真理可见”与“使某人愿意注视”是不同工作。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "从构造走向实验",
+          "paragraphs": [
+            "我们因此获得第二项规则：确定性不是无前提，而是起点、定义和推导的角色不混淆。新的债务随之出现。自然研究面对的不是纯粹构造，而是液柱、气压和看不见的原因；那里既有观察，也有竞争解释。几何的透明链条进入实验后，感官、装置、权威和假说怎样分配裁判权，必须由真空争论来检验。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "从遗稿转向几何，似乎终于进入没有编辑歧义的坚硬地面。几何命题按步骤推出，反对者不能靠声望改变结论。可是严格方法若要求所有词都定义、所有判断都证明，就会立即失败：定义中的词还要定义，证明所依赖的命题还要证明。若任意停下，确定性像是以武断为地基；若永不停止，任何证明都无法开始。帕斯卡尔的任务不是宣称几何无前提，而是说明有限心灵怎样透明地管理前提。",
+      "nodeIds": [
+        "pascal-02-teaching"
+      ],
+      "checkIds": [
+        "pascal-02-q1",
+        "pascal-02-q2",
+        "pascal-02-q3",
+        "pascal-02-q4"
+      ],
+      "abilitySummary": [
+        "能够重建几何为什么严格，却不能从零开始的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-03",
+      "order": 3,
+      "title": "眼睛、理性与权威：真空争论的裁判权",
+      "depth": "longform",
+      "guidingQuestion": "液柱上方看似空无，古代学说却说自然不容真空；观察能推翻权威到什么程度，又能否一次决定不可见原因？",
+      "coreExplanation": "几何对象可以按定义构造，真空却不能靠约定出现。十七世纪气压计中，水银柱下降后留下的空间看似没有通常物质；亚里士多德传统、笛卡尔式细微物质和“自然厌恶真空”的解释仍可争夺它。若只凭眼睛说“我看见空”，便把不可见之物当作直接观察；若只凭古书说“绝不可能空”，则让权威预先取消实验。压力在于：必须既尊重事实，又不让事实陈述偷带全部理论。",
+      "sections": [
+        {
+          "heading": "液柱留下的空处",
+          "paragraphs": [
+            "几何对象可以按定义构造，真空却不能靠约定出现。十七世纪气压计中，水银柱下降后留下的空间看似没有通常物质；亚里士多德传统、笛卡尔式细微物质和“自然厌恶真空”的解释仍可争夺它。若只凭眼睛说“我看见空”，便把不可见之物当作直接观察；若只凭古书说“绝不可能空”，则让权威预先取消实验。压力在于：必须既尊重事实，又不让事实陈述偷带全部理论。",
+            "帕斯卡尔首先安排可比较条件。Florin Périer在多姆山不同高度测量水银柱，随着海拔变化，液柱高度系统改变；同地重复与不同液体实验进一步排除偶然操作。这一步得到的不是一幅戏剧性景象，而是一组条件关系：上方空气柱变少时，支持液柱的效果也改变。实验的力量来自差异设计和可重复记录，不来自某位天才亲眼看过一次。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁有资格裁决什么",
+          "paragraphs": [
+            "由此可以把裁判权分层。经文和古代作者的原意适合由文本证据判断；几何关系由理性证明；当下物理事实则由感官在受控装置中检验。帕斯卡尔在《真空论序言》和《致外省人书》相关论述中反复攻击对象错置：古人的崇高不能使液柱停止变化，教会权威也不会因判定启示真理而在一个书中是否出现五命题的问题上免于查阅。",
+            "但从液柱变化到“绝对真空存在”还需一步解释。大气重量能很好说明高度差；笛卡尔一方仍可说所谓空处充满不被通常感官捕捉的细微物质。这里必须生成“事实—假说”区分：事实是装置在条件变化下可观察的结果，假说是组织这些结果并提出不可见机制的说明。",
+            "一个假说解释力更强，不等于其每个本体承诺都由眼睛直接看见。",
+            "文本身份强化这一区分。《关于真空的新实验》是1647年的公开文本，《大气重量实验记》报告由Périer实际执行的合作实验；《真空论序言》则是未完成、身后保存的方法草稿，《液体平衡论》和《空气重量论》到1663年才身后出版。把它们合称“一次决定性实验”会抹去时间、协作和论证成熟过程，也把不同强度的主张揉成胜利叙事。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "让竞争解释真正分叉",
+          "paragraphs": [
+            "设想两只密封透明箱都显示传感器读数接近零。一位研究者说箱内无气体，另一位说有一种传感器检测不到的粒子。开箱前，读数是共同事实；“无任何物质”与“有隐匿粒子”是竞争解释。若改变温度、加入能与粒子反应的材料，两个解释可能给出不同预测。功能案例说明：更好实验不是重复喊事实，而是寻找能让假说分叉的条件。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "接受欠决定的代价",
+          "paragraphs": [
+            "强异议是，帕斯卡尔有时把实验支持写得像已经建立真空，从而低估理论欠决定。他反对细微物质时要求对手提供证据，却可能把自己的“没有可感物质”推进到“没有任何物质”。如果同一结果允许多种机制，感官裁决事实的口号不足以决定本体论。这一异议会损伤把他塑成现代实验方法完美先驱的叙事。",
+            "应接受这项损失。可保住的主张较窄而更坚固：海拔实验有力支持空气重量参与液柱平衡，并削弱把现象仅归于自然厌恶真空或古代权威的解释；对上方空间的绝对本体说明仍需更多论证。帕斯卡尔的贡献不在从此消灭假说，而在迫使假说服从可区分的观察后果，并让权威回到适合它的对象。",
+            "科学与宗教的关系也因此不应写成战争或接力。帕斯卡尔可以同时主张：自然事实不能被神学命令改写，启示奥秘也不能由气压计裁决。两边共享的是反对越权，而不是共享一种证明。后期将科学置于较低价值等级，不会使水银数据变假；实验成功也不会使恩典变成物理机制。领域区分既保护科学，也阻止科学被偷用为护教捷径。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "确定性之外仍要行动",
+          "paragraphs": [
+            "第三项成果是证据制度的边界：观察、推理和权威各自只有在适合对象上才有效，理论解释要承担超过裸事实的债务。可是生活经常无法等到一个假说被完全决定。未完成赌局如何公平分配、未来事件怎样比较，要求理性在不确定中行动。下一步必须从实验的“尚未决定”转向概率的“仍可比较”。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "几何对象可以按定义构造，真空却不能靠约定出现。十七世纪气压计中，水银柱下降后留下的空间看似没有通常物质；亚里士多德传统、笛卡尔式细微物质和“自然厌恶真空”的解释仍可争夺它。若只凭眼睛说“我看见空”，便把不可见之物当作直接观察；若只凭古书说“绝不可能空”，则让权威预先取消实验。压力在于：必须既尊重事实，又不让事实陈述偷带全部理论。",
+      "nodeIds": [
+        "pascal-03-teaching"
+      ],
+      "checkIds": [
+        "pascal-03-q1",
+        "pascal-03-q2",
+        "pascal-03-q3",
+        "pascal-03-q4"
+      ],
+      "abilitySummary": [
+        "能够重建眼睛、理性与权威：真空争论的裁判权的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-04",
+      "order": 4,
+      "title": "从机器运算到概率：不确定也可以有理性",
+      "depth": "longform",
+      "guidingQuestion": "若严格推理只承认证明，尚未结束的赌局与未来事件似乎只能交给任性；理性怎样在结果未知时仍比较行动？",
+      "coreExplanation": "真空争论留下一个现实困境：解释可能尚未唯一决定，行动却不能总是暂停。赌博尤其尖锐。两人约定先赢若干局者取得赌金，比赛中途被迫停止；最终赢家没有出现，直接按当前胜局分配又可能忽略落后一方仍有翻盘机会。若公平只等于已经发生的结果，未来机会无价值；若每种可能都只叫未知，任何分配都可任意。帕斯卡尔与费马必须把未发生之事转成当前可比较的权利。",
+      "sections": [
+        {
+          "heading": "比赛停止时公平在哪里",
+          "paragraphs": [
+            "真空争论留下一个现实困境：解释可能尚未唯一决定，行动却不能总是暂停。赌博尤其尖锐。两人约定先赢若干局者取得赌金，比赛中途被迫停止；最终赢家没有出现，直接按当前胜局分配又可能忽略落后一方仍有翻盘机会。若公平只等于已经发生的结果，未来机会无价值；若每种可能都只叫未知，任何分配都可任意。帕斯卡尔与费马必须把未发生之事转成当前可比较的权利。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "规则、运算与期望",
+          "paragraphs": [
+            "算术机先展示另一种有限理性。齿轮可以执行进位、减法和重复操作，把一部分计算从心算负担中分离出来。机器的可靠性来自机构忠实实现规则，却不决定应输入什么、税额是否正当或问题是否建模正确。这里的第一项必要区分是：区分运算与判断：规则可机械化，选择规则、解释对象和评价结果仍不是齿轮本身的产物。",
+            "分赌金问题随后区分实际收益与公平期望。双方在每种可能续局中会获得不同结果；当规则与机会对称，可以枚举足够的未来路径，再按各自能确保或有机会取得的份额计算当前分配。未发生的胜利没有被当作事实，却以结构化可能进入理由。理性不再只有“必然证明”或“完全无知”两档，而能在给定模型中度量不确定。",
+            "由此生成“期望”而非预言。期望把可能状态的价值与相应机会结合，用来比较现在的选择；它不声称预测哪一局必然发生。这个概念依赖三个容易被隐藏的判断：哪些状态被列入、机会如何分配、结果对行动者价值多大。算术可以忠实处理设定，却不能从数字内部证明设定完整。概率理性因此比任性强，也比几何必然弱。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "三类材料不可直线相加",
+          "paragraphs": [
+            "来源身份阻止我们把现代体系倒写回去。算术机相关献词与特许材料属于技术和行政实践；1654年与费马的私人通信围绕具体分赌金难题，尚非一套现代概率公理。《思想录》的“无限—虚无”纸片后来借用赌局语言，却改变了价值尺度与宗教语境。把三类材料串成“帕斯卡尔先发明概率，再数学证明上帝”会跨过两个文本和一个对象断层。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "当机会条件改变",
+          "paragraphs": [
+            "设想两名选手约定先胜三局者得120枚筹码，比赛在甲二胜、乙一胜时停止。把筹码按2比1分配只看过去；把甲全拿又把领先等同必胜。较合理的计算列出下一些同概率路径，看每人在哪些路径最终获胜。若后来发现一方受伤，机会不再对称，旧计算就失效。案例表明，期望判断随相关条件变化，精确数字不能替代条件核验。",
+            "强异议是，所谓机会相等常只是无知的包装。现实事件很少像硬币或规则明确的游戏；如果概率没有可靠来源，期望公式只会给主观偏好披上精确外衣。更严重的是，结果价值可能无法用同一尺度表示。这个异议若成立，会破坏从赌局计算直接推广到人生选择的企图。",
+            "回应应保留条件性。分赌金论证在游戏规则、路径和对称机会明确时非常有力；离开这种环境，必须另行说明概率从频率、对称、证据或主观置信何来。期望不是无需论证的机器，而是一种把争议位置暴露出来的框架。它最可靠的贡献是迫使行动者列出状态、机会和价值，而非承诺任何问题都能得到唯一数字。这也为后来的赌局预先设置边界。宗教选择涉及无限价值、未知概率、多个竞争宗教和信念形成，远比牌局复杂。概率背景说明不确定并不自动许可冷漠，却不能提供基督教内容，也不能把无限奖赏当作普通筹码。若提前把“期望最大”当结论，赌局真正困难的前提会被算法外观遮住。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "赌局尚未获得宗教结论",
+          "paragraphs": [
+            "我们现在知道，形式理性能够处理有结构的不确定，却仍依赖模型边界。新的问题不是计算更多路径，而是行动者自身处于什么尺度。能够操纵数、构造机器的人，在宇宙中只是转瞬即逝的身体；无限概念既扩展思想，又暴露人的不相称。要理解赌局为何最终成为生存压力，必须先进入两个无限之间。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "真空争论留下一个现实困境：解释可能尚未唯一决定，行动却不能总是暂停。赌博尤其尖锐。两人约定先赢若干局者取得赌金，比赛中途被迫停止；最终赢家没有出现，直接按当前胜局分配又可能忽略落后一方仍有翻盘机会。若公平只等于已经发生的结果，未来机会无价值；若每种可能都只叫未知，任何分配都可任意。帕斯卡尔与费马必须把未发生之事转成当前可比较的权利。",
+      "nodeIds": [
+        "pascal-04-teaching"
+      ],
+      "checkIds": [
+        "pascal-04-q1",
+        "pascal-04-q2",
+        "pascal-04-q3",
+        "pascal-04-q4"
+      ],
+      "abilitySummary": [
+        "能够重建从机器运算到概率：不确定也可以有理性的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-05",
+      "order": 5,
+      "title": "两个无限之间：人怎样认识自己的不相称",
+      "depth": "longform",
+      "guidingQuestion": "人在无穷大的宇宙与无穷小的层次之间几乎不可见；这种尺度上的微小为何不直接等于价值上的虚无？",
+      "coreExplanation": "概率把无限可能带入计算，帕斯卡尔的“人的不相称”却让无限反过来审视计算者。仰望可见世界，人无法找到最后边界；向一滴液体或细小生物内部追问，又可设想层层结构。身体既不是万物中心，也不能占据最小单位。若价值随体积或力量增加，人便接近无物；可正是这个微小存在能够提出无限问题。物理位置与认识地位于是发生冲突。",
+      "sections": [
+        {
+          "heading": "参照点失去中心",
+          "paragraphs": [
+            "概率把无限可能带入计算，帕斯卡尔的“人的不相称”却让无限反过来审视计算者。仰望可见世界，人无法找到最后边界；向一滴液体或细小生物内部追问，又可设想层层结构。身体既不是万物中心，也不能占据最小单位。若价值随体积或力量增加，人便接近无物；可正是这个微小存在能够提出无限问题。物理位置与认识地位于是发生冲突。",
+            "先辨认材料身份：取消尺度中心。人习惯把可用身体把握的范围当作自然尺寸，把更大叫辽阔、更小叫细微。帕斯卡尔通过连续放大和缩小，使这个参照点显出偶然：宇宙并不围绕人的感官分辨率组织。两个无限不是他证明现实中有两个完成的数学对象，而是让任何自封中心的尺度继续被超越。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "芦苇何以仍会思想",
+          "paragraphs": [
+            "第二步区分被压倒与知道自己被压倒。宇宙可以用力量毁灭一个人，却不知道自己在毁灭；人即使脆弱，仍能认识自己的必死和宇宙的优势。“会思想的芦苇”由此产生一种不以占据空间衡量的尊严。思想不是护甲，也不会使身体免死；它改变的是比较维度：物理因果优势与反思能力不再能用同一把尺相减。",
+            "这里生成“不相称”而非单纯渺小。人能把握某些关系，却无法从整体外部掌握自身位置；能形成无限概念，却不能穷尽无限；能要求确定，却生活在局部视角。这项不相称同时反对两种自满：因为能思考便自称万物主人，或因为身体微小便宣布一切价值幻灭。",
+            "真正压力是两种判断各抓到一项事实，却都越过了自己的尺度。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "护教纸片与宇宙意象",
+          "paragraphs": [
+            "核心材料是《思想录》中“人的不相称”“会思想的芦苇”及相邻纸片。它们属于护教计划中的分类与散片，不是完成的现代宇宙学论文。早期真空和无穷小研究提供敏感背景，却不能把每个宇宙意象都当科学测量。反过来，护教目的也不能取消其哲学力量：即使不接受基督教解释，尺度转换仍会破坏从大小到价值的简单推论。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "换一把尺会发生什么",
+          "paragraphs": [
+            "设想一座数据中心以每秒万亿次运算比较一名病人的大脑速度。若问题是排序大量数字，机器占绝对优势；若问题是病人是否同意一项有风险的治疗，运算量本身不会生成同意权。改变评价条件，优势排序随之改变。人的身体与宇宙同样如此：力量、体积、认识和规范资格是不同维度，不能因为一项极小便把其他项归零。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "尊严推论需要收缩",
+          "paragraphs": [
+            "强异议是，这种反思尊严可能循环：人因为重视思想，便宣布思想构成更高尺度。宇宙不知道人，为什么“不知道”是缺陷而不是人的自恋？如果没有独立价值前提，从事实上的反思能力不能直接推出规范尊严。该异议会阻止“会思想”被轻易转换成人类中心主义。",
+            "回应必须承认，纸片没有提供一套脱离价值承诺的尊严证明。可以保住的较窄结论是：物理大小不足以独自决定价值，能认识真相和自身有限至少使人不同于纯粹受力物。是否由此得到平等权利或最高价值，还需额外规范论证。帕斯卡尔要先打断错误尺度，而不是已经完成现代人格伦理。",
+            "这一收缩也防止把“无限”浪漫化。无限不是让有限成就都显得无意义的黑洞。实验在有限条件内仍真，公平分配在有限规则下仍有理由；不相称只是禁止把这些局部成功当成整体自足。科学与宗教的关系在这里成为价值重排：知道更多不会自动知道为何活，承认终极无知也不许可忽略可知事实。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "从尺度矛盾到人性矛盾",
+          "paragraphs": [
+            "尺度分析留下更尖锐的债务。人不仅有限，还能知道自己没有达到所追求的真理、正义与幸福；这种失败感似乎本身保存着更高尺度。若只说人伟大，会忘记死亡和自欺；若只说悲惨，又无法解释他为何能够辨认悲惨。后一篇必须让这两个判断同时成立，而不是折中成普通优缺点。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "概率把无限可能带入计算，帕斯卡尔的“人的不相称”却让无限反过来审视计算者。仰望可见世界，人无法找到最后边界；向一滴液体或细小生物内部追问，又可设想层层结构。身体既不是万物中心，也不能占据最小单位。若价值随体积或力量增加，人便接近无物；可正是这个微小存在能够提出无限问题。物理位置与认识地位于是发生冲突。",
+      "nodeIds": [
+        "pascal-05-teaching"
+      ],
+      "checkIds": [
+        "pascal-05-q1",
+        "pascal-05-q2",
+        "pascal-05-q3",
+        "pascal-05-q4"
+      ],
+      "abilitySummary": [
+        "能够重建两个无限之间：人怎样认识自己的不相称的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-06",
+      "order": 6,
+      "title": "伟大与悲惨为什么必须同时为真",
+      "depth": "longform",
+      "guidingQuestion": "人能求真、立法并追求幸福，却持续犯错、受欲望支配且知道自己会死；删掉任何一边还能解释同一个人吗？",
+      "coreExplanation": "两个无限展示了一个反差，人的日常生活把它扩大成矛盾。我们能要求理由、谴责不义、设想不会失去的幸福；同一个人却会因微小侮辱失控，用消遣遮蔽死亡，在明知更好时选择更坏。若说人本来完满，只需多一点知识，顽固自欺难以解释；若说人只是欲望机器，他为何又能把自己的状态判为失败？帕斯卡尔要求理论同时承担伟大与悲惨。",
+      "sections": [
+        {
+          "heading": "同一个人中的冲突证据",
+          "paragraphs": [
+            "两个无限展示了一个反差，人的日常生活把它扩大成矛盾。我们能要求理由、谴责不义、设想不会失去的幸福；同一个人却会因微小侮辱失控，用消遣遮蔽死亡，在明知更好时选择更坏。若说人本来完满，只需多一点知识，顽固自欺难以解释；若说人只是欲望机器，他为何又能把自己的状态判为失败？帕斯卡尔要求理论同时承担伟大与悲惨。",
+            "伟大的证据不是帝国、发明或社会地位，而是认识和规范距离。人能够发现自己错误，能够以真、公正和幸福衡量现状，并把未实现之善当作对自己的要求。承认“我判断错了”需要一个不等同于当前判断的尺度。即使不能完全占有真理，面向真理的能力也使人不只是环境反射。伟大首先在能认识悲惨，而非在成功消灭悲惨。",
+            "悲惨也不是一份疾病和贫困清单。它是欲望与能力的结构错位：人要稳定幸福，却把希望放在会失去的对象；要被公正看待，却用自爱扭曲他人；能设想死亡，又无法靠设想解除死亡。这里“悲惨”生成于所求与所得之间的裂口。没有伟大尺度，失败只是另一种状态；正因人还理解应当如何，悲惨才带有被剥夺或偏离的意义。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "不是优缺点相抵",
+          "paragraphs": [
+            "两项事实于是不能相互抵消。把人写成半伟大半悲惨，好像优点抵去缺点，会失去依赖关系：悲惨以对善的残余认识为条件，伟大则在无法自救的处境中显出受限。帕斯卡尔用“矛盾”迫使独断主义与怀疑主义都承认遗漏。一个只赞美理性能力，一个只揭露理性摇摆；两者各自的胜利正暴露自己解释不了另一半。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "纸束提供的护教压力",
+          "paragraphs": [
+            "主要证据来自《思想录》“人的伟大”“人的悲惨”“矛盾”等分类纸束。纸束标题显示护教布局会有意把两边并置，但具体纸片成熟度不一。Port-Royal版曾重排并缓和某些尖锐处，后世存在主义阅读又常把悲惨从原罪语境中抽出。我们可以提取矛盾结构，却必须标明帕斯卡尔自己的最终解释将依赖创造、堕落与救赎。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "能认错为何同时增加尊严与责任",
+          "paragraphs": [
+            "设想一名医生因误诊伤害病人。若他完全没有诊断标准，也不理解伤害，错误只是因果事件；若他能复盘证据、承认本应发现的征象，失败才成为可归责的专业悲惨。可是能承认错误不表示他可独自保证永不再错。条件改变后判断也变化：认识规范提升了尊严和责任，同时让偏离更痛切。这个案例显示伟大不是悲惨的反面奖励，而是其条件之一。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "原罪不是描述本身已证明的答案",
+          "paragraphs": [
+            "强异议有两面。世俗解释可用进化、社会比较和认知失调说明人为何追求又失败，无需诉诸失落的原初状态；同时，帕斯卡尔把普遍脆弱解释为堕落，可能把历史制度造成的痛苦自然化。若压迫、贫困和疾病都被归入“人类悲惨”，具体责任者便容易隐身。",
+            "应接受解释竞争与政治风险。此处能保住的只是现象学压力：任何完整人论都要解释规范超越与反复失败为何共居一身。原罪是帕斯卡尔随后提出的神学解释，不是这一描述已经证明的唯一原因。外部制度造成的苦难仍需因果和正义分析，不能用共同堕落替施害者卸责。回应因此保留问题统一，收缩答案独占。",
+            "这项边界也改变护教策略。帕斯卡尔不是先以形而上学证明上帝，再把人类学当例证；他让自足理论在内部受压，然后提出基督教是否更能保存两边。这样的“解释力”依旧不同于几何必然。一个框架能组织矛盾，不等于竞争解释已经被实验排除。后面谈基督中介时，必须重新面对这项条件性。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "错误为何还能显得可信",
+          "paragraphs": [
+            "目前的债务更接近日常：若人能认识尺度，为何如此常见的判断仍被衣饰、熟悉感、欲望和自我形象牵引？只说“人会犯错”没有解释错误为何显得可信。后一篇必须拆开想象、习惯、自爱与感官，让悲惨从抽象结论变成可观察的致误机制，并由此进入社会权威。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "两个无限展示了一个反差，人的日常生活把它扩大成矛盾。我们能要求理由、谴责不义、设想不会失去的幸福；同一个人却会因微小侮辱失控，用消遣遮蔽死亡，在明知更好时选择更坏。若说人本来完满，只需多一点知识，顽固自欺难以解释；若说人只是欲望机器，他为何又能把自己的状态判为失败？帕斯卡尔要求理论同时承担伟大与悲惨。",
+      "nodeIds": [
+        "pascal-06-teaching"
+      ],
+      "checkIds": [
+        "pascal-06-q1",
+        "pascal-06-q2",
+        "pascal-06-q3",
+        "pascal-06-q4"
+      ],
+      "abilitySummary": [
+        "能够重建伟大与悲惨为什么必须同时为真的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-07",
+      "order": 7,
+      "title": "想象、自爱与习惯怎样制造可信的错误",
+      "depth": "longform",
+      "guidingQuestion": "若错误只是证据不足，聪明而训练有素的人为何仍会因衣袍、声望、利益和熟悉感改变判断？",
+      "coreExplanation": "伟大与悲惨若只停在两项结论，仍解释不了错误怎样进入判断。法官换上红袍，话语仿佛更有重量；医师穿着得体，人们更愿意相信疗法；自己的过失总能找到比他人过失更多的情境理由。相关证据没有因此改变，可信感却改变了。帕斯卡尔把这种现象归入多种“欺骗力量”，不是为了宣告理性不存在，而是要追踪理性实际工作时受什么牵引。",
+      "sections": [
+        {
+          "heading": "证据不变，可信感为何改变",
+          "paragraphs": [
+            "伟大与悲惨若只停在两项结论，仍解释不了错误怎样进入判断。法官换上红袍，话语仿佛更有重量；医师穿着得体，人们更愿意相信疗法；自己的过失总能找到比他人过失更多的情境理由。相关证据没有因此改变，可信感却改变了。帕斯卡尔把这种现象归入多种“欺骗力量”，不是为了宣告理性不存在，而是要追踪理性实际工作时受什么牵引。",
+            "感官限制首先提供材料不全：距离、疾病和注意范围使对象以偏斜方式出现。想象则不只制造幻象，它给标志附上力量，把衣饰、口音和仪式组织成可信场景。一个判断者可以知道衣袍不构成证明，却仍在语调和身体反应上先被说服。错误因此不必以明确假命题进入，也可通过“什么值得先听”改变证据入口。",
+            "习惯进一步把反复经验变成“第二天性”。熟悉的秩序不再显得需要理由，陌生方案则先被标成危险。自爱与它不同：自爱主动保护一个有利的自我图像，放大免责信息，缩小受害者视角。这里必须生成机制区分。想象配置显著性，习惯沉淀默认，自爱筛选利害；把三者统称情绪，会看不见它们需要不同纠正。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同想象的现实力量",
+          "paragraphs": [
+            "这些机制能够互相加强。职位服饰先使权威可见，长期重复让等级显得自然，自爱又使受益者相信自己的地位来自内在卓越。最后形成的不是私人幻觉，而是共同现实：人们真的会服从，资源真的会按标志分配。由此“想象”不能被轻蔑地理解为不真实；它的对象归属可能错误，社会效果却很真实。",
+            "主要材料来自《思想录》“想象”、自爱、习惯、感官与虚荣纸片。著名的“错误与虚假的主人”段落具有强烈修辞，不能自动当作一套完成心理学。纸片把法官、医师、君王和荣誉并置，显示认识与社会秩序相连；现代偏差术语可以帮助比较，却不可冒充帕斯卡尔已经建立实验分类。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "把声望标签拿掉",
+          "paragraphs": [
+            "设想同一份匿名研究报告先后贴上名校与无名机构标签。评审若在名校标签下忽略样本不足，在无名标签下放大同一缺陷，改变的不是报告证据，而是注意阈值。拿掉标签并进行盲审，差异若缩小，便定位到声望想象；若评审仍偏爱与自己旧论文一致的结果，自爱和习惯还在工作。条件变化使不同机制可分别受压。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "线索何时变成统治",
+          "paragraphs": [
+            "强异议是，帕斯卡尔的批判本身可能过度。衣袍、资历和习惯有时是低成本线索：无法重新验证每项专业判断时，社会必须依靠角色与声誉。若把一切权威标志都叫欺骗，怀疑会使合作瘫痪；而且批评他人自爱的人同样可能用“我看穿了”维护优越感。",
+            "回应不是消灭线索，而是限制它们的推论。资历可提高最初可信度，不能使反证失效；仪式可协调行动，不能证明职位者本质高贵；习惯可节省判断成本，必须在高风险和异常出现时重新开放审查。异议被接受的部分是社会认知需要代理线索，保住的批评则是线索一旦禁止纠错，便从可撤回信任变成想象统治。这种收缩也防止把帕斯卡尔写成简单怀疑论者。他并非说所有判断都同样受骗，而是说证据之外的力量会改变注意、信任和自我说明。公开方法、盲审、角色问责和反证通道可以降低影响，虽不能消除自爱。人的伟大在能设计纠错，悲惨在纠错制度本身也会被地位占用。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "从判断进入政制",
+          "paragraphs": [
+            "当想象、习惯与自爱从个人判断进入共同服从，问题便变成政治性的。法律为何在一条河这边正当、另一边可笑？力量为何要披上正义名称？下一步不能把所有秩序都揭露成骗局，也不能让稳定本身变成正义。需要区分真正正义、实定习俗、执行力量和有限服从。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "伟大与悲惨若只停在两项结论，仍解释不了错误怎样进入判断。法官换上红袍，话语仿佛更有重量；医师穿着得体，人们更愿意相信疗法；自己的过失总能找到比他人过失更多的情境理由。相关证据没有因此改变，可信感却改变了。帕斯卡尔把这种现象归入多种“欺骗力量”，不是为了宣告理性不存在，而是要追踪理性实际工作时受什么牵引。",
+      "nodeIds": [
+        "pascal-07-teaching"
+      ],
+      "checkIds": [
+        "pascal-07-q1",
+        "pascal-07-q2",
+        "pascal-07-q3",
+        "pascal-07-q4"
+      ],
+      "abilitySummary": [
+        "能够重建想象、自爱与习惯怎样制造可信的错误的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-08",
+      "order": 8,
+      "title": "没有可见的绝对正义，为什么仍有政治秩序",
+      "depth": "longform",
+      "guidingQuestion": "法律随边界和时代改变，力量又常把自己称作正义；揭露这种偶然后，人还有什么有限服从理由？",
+      "coreExplanation": "想象一旦稳定为共同默认，就进入法律、等级和王权。帕斯卡尔以河流两岸的差异讽刺人类正义：这边合法的行为，越过边界便可受罚。若法律因地点改变，它似乎不是永恒正义；可若只因不是永恒便拒绝服从，社会会落入相互争夺。政治问题因此不能在“现行法就是正义”与“现行法都无效”之间二选一。",
+      "sections": [
+        {
+          "heading": "法律差异先制造压力",
+          "paragraphs": [
+            "想象一旦稳定为共同默认，就进入法律、等级和王权。帕斯卡尔以河流两岸的差异讽刺人类正义：这边合法的行为，越过边界便可受罚。若法律因地点改变，它似乎不是永恒正义；可若只因不是永恒便拒绝服从，社会会落入相互争夺。政治问题因此不能在“现行法就是正义”与“现行法都无效”之间二选一。",
+            "第一步区分真正正义与实定规则。人仍以真正正义为尺度，正因如此才能说某法不公；但堕落、利益与认识有限使共同体难以无争议地占有这尺度。实定法通过可识别程序结束部分争执，其存在解释了行动怎样协调，却不能从存在推出道德完美。合法有效与本质正当是两个判断。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "力量、职位与文本身份",
+          "paragraphs": [
+            "第二步分析力量。正义若没有执行，容易败给暴力；力量若只以恐惧维持，又不断寻求正义名称。帕斯卡尔所谓“使正者强或使强者被称为正”，揭露了二者纠缠。力量提供可执行性，想象提供承认，习惯提供持续。政治稳定不是纯理念的胜利，也不是赤裸暴力单独造成。",
+            "由此生成“职位尊重”与“人格尊崇”的区分。为了交通、裁判和交接，人们可服从一项公开职位；这不要求相信任职者天生比他人高贵。有限服从的理由是避免任意冲突、保存可预期合作和给纠错留接口。",
+            "若职位命令直接制造重大不义，秩序理由的重量会下降；帕斯卡尔没有给出现代公民抗命理论，但他的区分阻止服从变成道德赞美。",
+            "材料来自《思想录》正义、习俗、力量、等级和“世界的经济”纸片。它们是护教中的世俗秩序诊断，不是一部完成政治论。Port-Royal曾因敏感性删改部分正义文字，版本选择会改变帕斯卡尔看似保守或激进的程度。现代国家合法性概念只能作为比较框架，不能把他写成宪政或革命理论家。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "保守与激进异议先行",
+          "paragraphs": [
+            "强异议来自两边。保守解释会说揭露偶然只会削弱必要权威；激进解释则说帕斯卡尔最终仍以避免内战为名保护既得力量，没有为受压者提供改变制度的规范资源。若真正正义被放到人不可把握之处，谁都可用谦卑阻止批判。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "用撤离条件检验服从",
+          "paragraphs": [
+            "设想灾害现场由临时指挥者规定撤离路线。其职位可能来自偶然轮值，而非人格更高；统一路线仍能避免人群相撞。若指挥者要求把某一群体留在危险区，仅说“秩序需要服从”便不够，因为命令已改变风险分配。案例条件从一般协调变为严重不义时，服从理由随之收缩，显示秩序不是空白支票。",
+            "回应只能有限。帕斯卡尔确实优先担忧秩序崩解，他的纸片不足以构成完整改革方案；这一缺口必须保留。可他仍提供两项批判资源：事实力量不能自产正义，职位承认不能变成人格价值。接受其政治保守边界后，可保住一种去魅判断：服从可能出于审慎，却不能抹除命令来源、受益结构和伤害分配的审查。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "秩序边界引出消遣",
+          "paragraphs": [
+            "这也与三种秩序预先呼应。身体力量可以使人让路，却不能使一个数学命题为真；才智可赢得敬佩，却不能自动取得统治权。不同资格若被混换，政治想象便把有效命令装成全面卓越。后面谈爱德秩序时，还要防止反向越权：宗教上的更高也不能直接替代世俗制度判断。",
+            "政治秩序说明人为何共同维持权威，却没有解释个体为何主动追逐忙碌、荣誉和风险。即使没有外在命令，人也很难安静独处。下一步转向消遣：不是先问猎物多有价值，而是问追逐过程替人遮住了什么。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "想象一旦稳定为共同默认，就进入法律、等级和王权。帕斯卡尔以河流两岸的差异讽刺人类正义：这边合法的行为，越过边界便可受罚。若法律因地点改变，它似乎不是永恒正义；可若只因不是永恒便拒绝服从，社会会落入相互争夺。政治问题因此不能在“现行法就是正义”与“现行法都无效”之间二选一。",
+      "nodeIds": [
+        "pascal-08-teaching"
+      ],
+      "checkIds": [
+        "pascal-08-q1",
+        "pascal-08-q2",
+        "pascal-08-q3",
+        "pascal-08-q4"
+      ],
+      "abilitySummary": [
+        "能够重建没有可见的绝对正义，为什么仍有政治秩序的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-09",
+      "order": 9,
+      "title": "消遣：我们追逐的真是猎物吗",
+      "depth": "longform",
+      "guidingQuestion": "人声称想要休息和幸福，真正得到安静却急于寻找赌博、职位、战争与噪声；欲望对象和欲望功能为何分裂？",
+      "coreExplanation": "政治荣誉解释一部分奔忙，却解释不了为何拥有财富和安全的人仍不断制造任务。帕斯卡尔观察打猎：猎人说想要野兔，若有人直接送来一只，他却未必满足；他要的是追逐、风险和等待。对象并非毫无价值，但它承担了另一种未被明说的功能。人通过活动占满注意，使静止时会显出的死亡、空虚和不能自足暂时退场。",
+      "sections": [
+        {
+          "heading": "野兔为何不能替代追逐",
+          "paragraphs": [
+            "政治荣誉解释一部分奔忙，却解释不了为何拥有财富和安全的人仍不断制造任务。帕斯卡尔观察打猎：猎人说想要野兔，若有人直接送来一只，他却未必满足；他要的是追逐、风险和等待。对象并非毫无价值，但它承担了另一种未被明说的功能。人通过活动占满注意，使静止时会显出的死亡、空虚和不能自足暂时退场。",
+            "第一步区分目标价值与注意价值。获得职位、赢得比赛或完成工程可以有真实成果；同一活动也能让人不必问“成果之后呢”。若只看目标，反复追逐似乎是计算失误；加入注意功能后，过程比猎物重要便可理解。帕斯卡尔把这种让人转开视线的结构称为消遣，其词义不是一般娱乐，而是被带离自身处境。",
+            "第二步解释静止为何难以忍受。没有任务时，无聊不是单纯缺少刺激，而是欲望找不到能永久安顿它的对象；身体衰败、关系可失和死亡限制开始显露。于是人宁愿选择带来痛苦的忙碌，也不要无保护地面对有限。消遣生成一个循环：活动暂缓不安，成功很快失效，新的活动必须接上。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "忙碌怎样获得终极外观",
+          "paragraphs": [
+            "这并不说明人清楚知道自己在逃避。想象把职位描绘为终点，习惯把忙碌变成正常，自爱把疲惫解释为重要性的证明。消遣因此连接前两篇：社会提供可追逐的荣誉，心理机制使它们像最后的善。猎物的公开理由与逃避的实际功能可以同时存在，不能因为发现后者便否认所有前者。",
+            "主要证据是《思想录》“消遣”分类纸束及王者、赌博、打猎与职位纸片。它们处在先扰动世俗自足的护教运动中，修辞有意把通常被赞美的活动重新描述。不能把纸片当现代成瘾诊断，也不能将每次游戏都归为罪。其主张强度取决于活动是否系统性阻止人面对真实债务，而非活动名称。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "哀痛中的活动条件",
+          "paragraphs": [
+            "设想一名照护者在亲人去世后立即把日程排满。短期工作使他维持生活，这可能是必要保护；若数月后每当哀痛出现便新增项目，并拒绝任何安静，活动功能发生变化。把条件改为有计划地工作同时留出哀悼和关系支持，忙碌便不再只是逃避。案例显示，判断取决于活动与被回避真相的关系，而非工作量本身。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "活动不是罪名",
+          "paragraphs": [
+            "强异议是，帕斯卡尔把静止和自省理想化。持续反刍可能加重痛苦，体育、艺术、公共服务和游戏能形成关系与意义；并非所有幸福都要在孤独中通过。把他人的热情诊断为逃避还可能成为傲慢的宗教审讯。",
+            "异议要求明确收缩：活动有恢复、创造和共同善的真实价值，暂时转移注意也可能是健康调节。消遣批判只在一种更窄结构成立——活动的主要功能是让某项必须面对的真相永远不能进入，而新刺激不断替换失效刺激。回应接受人的有限承受力，保留对系统性逃避的诊断，并拒绝外人仅凭活动表面读取动机。",
+            "这个边界使“坐在房间里”不再是字面处方。关键能力是承受事实进入判断，而不是保持身体不动。一个安静冥想者也可沉迷自我形象，一名忙碌医生也可清楚面对死亡。帕斯卡尔的锋芒在于拆开我们宣称追求的对象和活动实际承担的注意功能，而非制定统一生活节奏。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "两种哲学疗法即将相遇",
+          "paragraphs": [
+            "消遣揭露自然疗法的不足，却还没有证明哪种哲学能医治它。斯多亚主义会要求把善置于意志可控之内，Montaigne式怀疑则拆解人对确定性的骄傲。后一篇要让两者以最强形态相遇：一个保存伟大却高估能力，一个保存悲惨却难以安顿行动。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "政治荣誉解释一部分奔忙，却解释不了为何拥有财富和安全的人仍不断制造任务。帕斯卡尔观察打猎：猎人说想要野兔，若有人直接送来一只，他却未必满足；他要的是追逐、风险和等待。对象并非毫无价值，但它承担了另一种未被明说的功能。人通过活动占满注意，使静止时会显出的死亡、空虚和不能自足暂时退场。",
+      "nodeIds": [
+        "pascal-09-teaching"
+      ],
+      "checkIds": [
+        "pascal-09-q1",
+        "pascal-09-q2",
+        "pascal-09-q3",
+        "pascal-09-q4"
+      ],
+      "abilitySummary": [
+        "能够重建消遣：我们追逐的真是猎物吗的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-10",
+      "order": 10,
+      "title": "Epictetus与Montaigne为什么各赢一半",
+      "depth": "longform",
+      "guidingQuestion": "斯多亚主义相信理性意志可自我治理，怀疑论揭露理性摇摆；一个高估能力，一个难以生活，怎样裁决而不折中稀释？",
+      "coreExplanation": "消遣提出治疗问题。Epictetus式斯多亚主义把善恶集中在判断与意志：外物会失去，真正自由在于不把不可控之物当作最高善。这准确击中荣誉和猎物的脆弱。Montaigne则让习俗、感官差异和理性冲突轮番拆解人的自信，提醒任何自称已经掌握善的人可能只是在维护习惯。两者都能揭露一种逃避，也都可能制造另一种。",
+      "sections": [
+        {
+          "heading": "两种疗法各自命中什么",
+          "paragraphs": [
+            "消遣提出治疗问题。Epictetus式斯多亚主义把善恶集中在判断与意志：外物会失去，真正自由在于不把不可控之物当作最高善。这准确击中荣誉和猎物的脆弱。Montaigne则让习俗、感官差异和理性冲突轮番拆解人的自信，提醒任何自称已经掌握善的人可能只是在维护习惯。两者都能揭露一种逃避，也都可能制造另一种。",
+            "先以最强方式重建Epictetus。他不是说疼痛不存在，而是说外部事件不能单独决定人格善恶；行动者可训练同意，拒绝把命运变化变成灵魂奴役。这保存了人的伟大和责任。但从“应把善置于意志”到“堕落意志有能力做到”存在跨越。知道正确区分并不保证欲望服从，失败者还可能被责为训练不够。",
+            "再重建Montaigne。他不是简单嘲笑真理，而是让相互冲突的风俗、哲学和感官报告削弱独断。悬置能够使骄傲松动，让人不再把局部视角封为自然。但若怀疑扩展到所有判断，日常行动仍要在没有最终保证时发生；“随习俗生活”又可能把刚被揭露的习惯重新请回裁判席。怀疑能拆屋，不一定能安顿人。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "让洞见互成反例",
+          "paragraphs": [
+            "这里生成“双重纠正”。怀疑论以悲惨纠正斯多亚的能力骄傲，斯多亚以规范要求纠正怀疑的麻木；不是把二者平均，而是让每方最强洞见成为对另一方的反例。帕斯卡尔认为基督教的人论能解释为何人仍认识善却无法自足实现。这个答案此时只是候选，因为双重失败本身还没有证明创造与堕落。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "一场被回忆整理的谈话",
+          "paragraphs": [
+            "关键来源《与德·萨西先生的谈话》尤其需要身份警戒。现存文字由Nicolas Fontaine根据回忆整理并身后发表，包含Sacy、Fontaine和被归于帕斯卡尔的声音，不是现场录音。《思想录》也有哲学家、怀疑派与独断派纸片。用谈话重建对读可以成立，逐句当作帕斯卡尔校定立场则过强。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "复发案例中的责任与能力",
+          "paragraphs": [
+            "设想戒除赌博者面对复发。斯多亚建议区分诱因与同意，能恢复行动责任；若他把每次复发都视为纯粹意志失败，便忽略环境与成瘾机制。怀疑者指出自控叙事可能自欺，能阻止傲慢；若因此说任何承诺都无根据，治疗又无从开始。更好的判断保存责任、承认能力受损，并引入超出单次意志的支持。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "拒绝把对手做成角色牌",
+          "paragraphs": [
+            "强异议是，帕斯卡尔为了为基督教腾出位置，可能刻意让两位思想家各缺一半。斯多亚传统包含共同体、操练和情感训练，并非只靠瞬间意志；Montaigne也能依概率、经验和温和习俗生活，不是瘫痪怀疑。若对手被削弱，所谓第三框架只赢了自设比赛。",
+            "这项异议应实质接受。正文不能让Epictetus与Montaigne成为“骄傲”和“懒散”的角色牌。保住的帕斯卡尔论点应缩为：即便纳入训练和温和实践，单靠自然哲学能否解释规范渴望与顽固失序仍是开放问题。基督教获得的是参与比较的资格，而不是因两个漫画对手退场便自动胜出。这场对读同时说明说服为何不同于证明。几何可从共享原理推出结论，生活疗法涉及行动者承认何种失败、愿意接受何种改变。批评骄傲的人也可能用批评保持骄傲。理性需要识别自己的界限，却不能因界限而停止判断。下一步必须说明帕斯卡尔所谓“心”是否提供非推演起点，还是仅给宗教确信特权。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "第三框架还欠起点说明",
+          "paragraphs": [
+            "我们留下两笔债务：一是自然哲学的丰富版本能否比帕斯卡尔承认的更有治疗力；二是第三框架如何避免循环自证。要继续，必须回到第二篇尚未清偿的问题：证明链依赖什么起点。只有把第一原理之心、敏锐判断与宗教信仰分层，才不会用一句名言跳过全部理由。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "消遣提出治疗问题。Epictetus式斯多亚主义把善恶集中在判断与意志：外物会失去，真正自由在于不把不可控之物当作最高善。这准确击中荣誉和猎物的脆弱。Montaigne则让习俗、感官差异和理性冲突轮番拆解人的自信，提醒任何自称已经掌握善的人可能只是在维护习惯。两者都能揭露一种逃避，也都可能制造另一种。",
+      "nodeIds": [
+        "pascal-10-teaching"
+      ],
+      "checkIds": [
+        "pascal-10-q1",
+        "pascal-10-q2",
+        "pascal-10-q3",
+        "pascal-10-q4"
+      ],
+      "abilitySummary": [
+        "能够重建Epictetus与Montaigne为什么各赢一半的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-11",
+      "order": 11,
+      "title": "“心有其理”不等于放弃理由",
+      "depth": "longform",
+      "guidingQuestion": "推理必须从未被同一推理证明的起点出发；若把起点交给“心”，怎样避免任意直觉和宗教自证？",
+      "coreExplanation": "Epictetus与Montaigne的冲突把理性逼到一个边界：若一切都要证明，证明无法开始；若任何强烈确信都可作起点，偏见也会称自己为心。“心有其理，理性并不知道”常被读成情感胜过逻辑，但这会让帕斯卡尔从几何严格突然跳到主观感觉。真正问题是推演理性依赖哪些非推演把握，以及不同对象中的“心”是否具有相同资格。",
+      "sections": [
+        {
+          "heading": "证明从何处开始",
+          "paragraphs": [
+            "Epictetus与Montaigne的冲突把理性逼到一个边界：若一切都要证明，证明无法开始；若任何强烈确信都可作起点，偏见也会称自己为心。“心有其理，理性并不知道”常被读成情感胜过逻辑，但这会让帕斯卡尔从几何严格突然跳到主观感觉。真正问题是推演理性依赖哪些非推演把握，以及不同对象中的“心”是否具有相同资格。",
+            "先回到几何。数、空间、运动及某些第一原理并非由后续定理证明，人却能直接把握它们并在推导中反复检验。这里“心”指一种起点把握，而不是喜怒。若没有它，理性没有材料；若没有理性，起点之间也不能展开关系。心与理性不是两个敌对人格，而是起始与推演的功能差异。",
+            "敏锐精神扩展了问题。面对人的语气、处境和许多细微关系，判断者不能像几何那样逐项定义，却可在长期熟悉中同时看见大量线索。它可能更贴近复杂对象，也更容易受想象和自爱污染。因此非推演并不自动无误。可靠程度要看对象、训练、交叉检查和错误后能否修正。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "同词异职与纸片身份",
+          "paragraphs": [
+            "宗教语境必须再分一层。帕斯卡尔说上帝使人由心认识上帝，涉及恩典所赐的信仰，不只是人人共有的自然第一原理。这里生成“同词异职”的边界：同一个cœur可以指基础把握、整体现察、意志倾向或信仰接受。",
+            "各处有家族相似，不等于可以用几何起点的确定性替宗教确信担保。",
+            "证据来自《几何精神》《说服的艺术》与《思想录》第一原理、心、几何精神和敏锐精神纸片。后世常把一句“心有其理”从相邻论证抽成反理性格言；另一些解释又把它完全技术化，抹去救赎语境。双编号与纸片位置能提醒这是一组不同用途的材料，而非帕斯卡尔自己编好的认识能力表。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "心证循环异议先提出",
+          "paragraphs": [
+            "强异议是，宗教之心似乎有免疫结构：相信者把确信归于恩典，怀疑者缺少同样确信又被解释为心未受改变。若没有公共区分标准，任何传统都可声称拥有超越理性的心证。这个异议攻击的不只是说服力，还攻击概念是否循环。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "护士案例与可纠错回应",
+          "paragraphs": [
+            "设想一位有经验的护士在指标尚未越界时察觉病人恶化。她不能只说“直觉如此”，而要回看肤色、呼吸节律和行为变化；经验让她整合细微信号，后续检查可证实或纠正。若她因讨厌某病人而产生同样不安，交叉检查会暴露偏差。案例显示敏锐把握可以是理由入口，却必须允许展开和纠错。",
+            "帕斯卡尔不能用自然第一原理完全回答它。应承认救赎信仰并非像几何公理那样对所有合格判断者公开强制。可保留的主张是较弱的：推演不是全部认识，宗教信仰在其体系中是一种受恩典解释的接受；它仍要接受文本身份、生活后果和竞争传统的外部质询。称其非推演不能自动把质询判为越权。",
+            "这项收缩也保护理性。理性可以发现一个宗教主张自相矛盾、史料误引或把物理事实说错；它不能仅因无法穷尽奥秘就断言对象不存在。反过来，奥秘也不能成为修补任意矛盾的口袋。帕斯卡尔的领域纪律若认真执行，心不是取消理由，而是说明某些理由链如何开始、又在哪里需要不同验证。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "认识善尚未产生爱善",
+          "paragraphs": [
+            "剩余债务转向意志：即使心把握某种善，人为何不能直接命令自己爱它？几何起点的直接性不等于救赎选择的直接性。下一步必须进入恩典与自由，区分自愿行动、欲望来源和改变所爱之物，否则赌局后来谈习惯时会被误写成自我操控信仰。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "Epictetus与Montaigne的冲突把理性逼到一个边界：若一切都要证明，证明无法开始；若任何强烈确信都可作起点，偏见也会称自己为心。“心有其理，理性并不知道”常被读成情感胜过逻辑，但这会让帕斯卡尔从几何严格突然跳到主观感觉。真正问题是推演理性依赖哪些非推演把握，以及不同对象中的“心”是否具有相同资格。",
+      "nodeIds": [
+        "pascal-11-teaching"
+      ],
+      "checkIds": [
+        "pascal-11-q1",
+        "pascal-11-q2",
+        "pascal-11-q3",
+        "pascal-11-q4"
+      ],
+      "abilitySummary": [
+        "能够重建“心有其理”不等于放弃理由的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-12",
+      "order": 12,
+      "title": "自由若跟随欲望，恩典怎样不取消责任",
+      "depth": "longform",
+      "guidingQuestion": "若堕落的人不能凭自然力量爱最高善，而有效恩典又必然改变意愿，行动还算自由、罪责还属于行动者吗？",
+      "coreExplanation": "心的分层把问题推进到能力。一个人可能知道应停止报复，行动时却仍真心想报复；若强迫他不报复，他会感到外力阻挡自己的意愿。帕斯卡尔的恩典论不把自由简单定义为面对善恶保持中性，而把行动与当下最强欲望相连。压力随即出现：若欲望秩序由堕落或恩典决定，人似乎自愿行动，却不能成为自己最深意愿的起源。",
+      "sections": [
+        {
+          "heading": "自愿并不等于自我奠基",
+          "paragraphs": [
+            "心的分层把问题推进到能力。一个人可能知道应停止报复，行动时却仍真心想报复；若强迫他不报复，他会感到外力阻挡自己的意愿。帕斯卡尔的恩典论不把自由简单定义为面对善恶保持中性，而把行动与当下最强欲望相连。压力随即出现：若欲望秩序由堕落或恩典决定，人似乎自愿行动，却不能成为自己最深意愿的起源。",
+            "第一步区分外在强迫与自愿。有人被推倒并非按自己的欲望行动；有人因愤怒主动伤人，则行为从他的意愿发出。帕斯卡尔可据此保留责任：堕落者不是每次都被外力操纵，他做自己所欲。然而“做所欲”还没有回答为何欲望偏向某物，也没有证明行动者能凭一个中立按钮重排最高爱。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "欲望秩序与有效恩典",
+          "paragraphs": [
+            "第二步把堕落理解为欲望秩序失调。问题不只是信息不足，而是可变对象被当作最高善，自爱不断重组理由。命令与论证可以呈现善，却未必产生对善的有效喜爱。这样，自然无力与日常选择并不矛盾：人在许多局部事务中权衡，面对救赎性转向却不能自给其决定性倾向。",
+            "第三步引入有效恩典。恩典不是在原有欲望旁添加一个较弱建议，而是使善以新的可爱性出现，改变行动者所乐意追随的对象。因此它不以外在暴力压迫意志，却具有实际效果。这里生成的自由是“无强迫地依所爱而行”，不同于现代常见的“在完全相同条件下本可选相反项”。差异必须公开，不能用同一词掩盖争议。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "两种文体中的恩典争论",
+          "paragraphs": [
+            "《论恩典文稿》是未完成、身后整理的神学材料，《致外省人书》则在公开论战中以化名和讽刺处理有效恩典、充分恩典等争议。两者不能合成一篇冷静体系。帕斯卡尔与Port-Royal、Augustinus关系密切，但“詹森主义者”标签会混合敌对命名、教会裁决和细部差异；每项主张仍需定位到文本。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "改变环境与改变所爱",
+          "paragraphs": [
+            "设想一个长期依赖酒精的人在清醒时真诚想戒酒，诱因出现时又主动饮酒。锁门阻止他是外在限制；治疗、关系支持和环境改变使酒不再占据同样吸引力，则行动仍从其改变后的意愿发出。这个现代案例不能等同恩典，却帮助区分“行为自愿”“欲望自主形成”和“具备稳定改变能力”三件事。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "神圣正义留下的硬债务",
+          "paragraphs": [
+            "最强异议是神圣正义。若有效恩典决定性改变欲望，而并非人人获得同样改变，把未获恩典者归罪似乎不公。说他们按自己欲望行动，仍未回答欲望来源和援助分配。另一个异议是，这种理论可能削弱现实干预：若只有恩典能改变，教育、制度和治疗是否都无意义？",
+            "帕斯卡尔可以回答第二项更多：自然手段能约束伤害、改变情境、传递真理并准备注意，只是不能自称救赎的充分原因。第一项更难。《论恩典文稿》诉诸堕落共同罪责与上帝不欠恩典，但这对现代公平直觉仍有巨大压力。正文应保留未偿债务，不用“奥秘”假装解决。可守住的是其自由概念内部一致性，不是所有人都会接受其正义。",
+            "这项边界也限制赌局。习惯、礼仪和与信徒同行可以改变注意环境，却若被说成必然生产真信仰，便与有效恩典论冲突。行动者能停止某些逃避、查验材料和进入实践；是否发生救赎性信仰，不由技术保证。将“跪下就会相信”写成行为工程，会把帕斯卡尔最重视的恩典变成条件反射。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "术语将进入良心",
+          "paragraphs": [
+            "恩典论仍需进入公共语言检验。神学家怎样用“充分”“可能”“意向”等术语描述责任，会实际改变良心判断。下一篇转向《致外省人书》的道德争论：复杂个案确实需要辨析，但辨析技术也可能被欲望反向选择，使最低许可冒充正当。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "心的分层把问题推进到能力。一个人可能知道应停止报复，行动时却仍真心想报复；若强迫他不报复，他会感到外力阻挡自己的意愿。帕斯卡尔的恩典论不把自由简单定义为面对善恶保持中性，而把行动与当下最强欲望相连。压力随即出现：若欲望秩序由堕落或恩典决定，人似乎自愿行动，却不能成为自己最深意愿的起源。",
+      "nodeIds": [
+        "pascal-12-teaching"
+      ],
+      "checkIds": [
+        "pascal-12-q1",
+        "pascal-12-q2",
+        "pascal-12-q3",
+        "pascal-12-q4"
+      ],
+      "abilitySummary": [
+        "能够重建自由若跟随欲望，恩典怎样不取消责任的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-13",
+      "order": 13,
+      "title": "良心怎样被推理技术放宽",
+      "depth": "longform",
+      "guidingQuestion": "个案复杂确实需要道德辨析，但同一技术也能把欲望预先想做的事包装成许可；怎样区分审慎与诡辩？",
+      "coreExplanation": "恩典争论并非只在修道院内，它进入告解、借贷、暴力和日常许可。《致外省人书》最尖锐的指控是：道德推理可以不公开否认严格规范，却通过选择较宽意见、重写行为意向和细分术语，让行动者获得想要的许可。若一切个案都机械套规则，会忽略情境；若任何可引用意见都足够，良心又会变成寻找最低门槛的市场。",
+      "sections": [
+        {
+          "heading": "复杂性如何成为许可工具",
+          "paragraphs": [
+            "恩典争论并非只在修道院内，它进入告解、借贷、暴力和日常许可。《致外省人书》最尖锐的指控是：道德推理可以不公开否认严格规范，却通过选择较宽意见、重写行为意向和细分术语，让行动者获得想要的许可。若一切个案都机械套规则，会忽略情境；若任何可引用意见都足够，良心又会变成寻找最低门槛的市场。",
+            "第一步区分不确定中的诚实判断与结论导向的选择。面对医学风险，专家意见分歧时采用有理由的较宽方案可以正当；若行动者先决定结果，再只寻找一个能授权它的名字，意见的功能就从证据变成免责。问题不在存在多种意见，而在选择程序是否也会被反证和受害者处境约束。",
+            "第二步分析意向。行为的道德意义确实与目的相关，误伤和故意伤害不同；但若只需口头把目的描述为善，就能让可预见手段消失，意向便成遮蔽工具。帕斯卡尔讽刺那些把夺财写成保全荣誉的技术，击中的是“命名目的即可洗净手段”的跨越，而非否认任何内心目的都相关。",
+            "第三步生成“诡辩术”这一较窄概念：它不是复杂推理本身，而是利用复杂性系统性降低欲望所面对的规范阻力。典型迹象包括只收集有利权威、把例外扩成常规、从行为描述中删掉可预见伤害、让咨询者的利益决定术语。良心被放宽不是因为推理太多，而是推理的纠错方向被反转。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "化名、引文与讽刺的声音",
+          "paragraphs": [
+            "《致外省人书》以Louis de Montalte化名发表，叙述者借天真询问、逐步震惊和讽刺引导判断。引述的道德神学文本必须核查语境与代表性，对手也曾指控帕斯卡尔断章取义。不能把化名叙述者每个反应、被引神父的话和帕斯卡尔最终立场压成同声，更不能从若干案例推出全体耶稣会士同样主张。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "少数意见何时值得采用",
+          "paragraphs": [
+            "设想企业准备排放废水，先咨询十位专家，九位认为会伤害下游，一位用狭窄模型认为风险可忽略。若企业因模型更全面而采用少数意见，必须公开证据；若只因它允许排放便选中，程序已被结果反向决定。把条件改为少数模型后来经新数据验证，采用它可能变得审慎。案例压力落在选择理由，而非多数或少数本身。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "严格主义也要受同一标准审查",
+          "paragraphs": [
+            "强异议是，《致外省人书》本身也在做选择性修辞。讽刺把技术传统中最宽松、最荒谬的例子集中展示，容易让公众把一整套处理冲突义务的学问视为腐败。严格主义同样可能伤人：拒绝情境、概率和减害，会以纯洁之名要求不可能的行为。",
+            "回应必须接受论战代表性的限制。不能以帕斯卡尔的引文清单取代对整个传统的历史判断；个案辨析、概率意见和意向分析各有合法用途。仍可保住的结构批评是：任何体系若允许行动者按想要的结论筛选权威、删除可预见伤害，便失去纠错。标准应同样审查严格派和宽松派，避免把阵营名称当真值。第十八封关于事实与权利的区分又把道德争论接回真空方法。一个命题是否在Jansenius书中，是可查文本事实；命题是否合乎信仰，是教义判断。教会权威在后一问题的角色，不能使前一问题免于翻书。帕斯卡尔最连贯的纪律仍是对象分权：道德术语若改变了事实描述，规范判断已在起点受损。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "事实边界把问题带向隐匿",
+          "paragraphs": [
+            "良心论战说明理由可以被欲望操控，却还没回答为什么上帝不给出足以强制所有人的清楚证据。若信仰只靠模糊征象，它似乎给诡辩留下更大空间；若证据不可抗拒，信仰又像被迫承认。下一步进入隐匿的上帝，检验“足以寻求而不足以强迫”是否解释还是循环。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "恩典争论并非只在修道院内，它进入告解、借贷、暴力和日常许可。《致外省人书》最尖锐的指控是：道德推理可以不公开否认严格规范，却通过选择较宽意见、重写行为意向和细分术语，让行动者获得想要的许可。若一切个案都机械套规则，会忽略情境；若任何可引用意见都足够，良心又会变成寻找最低门槛的市场。",
+      "nodeIds": [
+        "pascal-13-teaching"
+      ],
+      "checkIds": [
+        "pascal-13-q1",
+        "pascal-13-q2",
+        "pascal-13-q3",
+        "pascal-13-q4"
+      ],
+      "abilitySummary": [
+        "能够重建良心怎样被推理技术放宽的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-14",
+      "order": 14,
+      "title": "上帝为什么既留下踪迹又保持隐匿",
+      "depth": "longform",
+      "guidingQuestion": "若上帝愿人认识自己，为何不提供不可抗拒的证据；若证据始终歧义，信仰又如何区别于愿望投射？",
+      "coreExplanation": "良心可能筛选理由，宗教证据因此面临双重要求：不能只是信者想看什么便看到什么，也不能强到像几何结论那样取消回应空间。帕斯卡尔拒绝把自然秩序直接当作救赎之神的充分证明；世界的美、苦难、沉默和偶然并不只允许一种解释。可若完全没有迹象，寻求便毫无根据。隐匿命题试图解释一种介于明显与全无之间的证据状态。",
+      "sections": [
+        {
+          "heading": "显现为何不能成为强迫",
+          "paragraphs": [
+            "良心可能筛选理由，宗教证据因此面临双重要求：不能只是信者想看什么便看到什么，也不能强到像几何结论那样取消回应空间。帕斯卡尔拒绝把自然秩序直接当作救赎之神的充分证明；世界的美、苦难、沉默和偶然并不只允许一种解释。可若完全没有迹象，寻求便毫无根据。隐匿命题试图解释一种介于明显与全无之间的证据状态。",
+            "论证的起点是：限制形而上学证明。即便从秩序推出某种第一原因，也未得到亚伯拉罕、以撒、雅各的上帝，更未得到恩典与基督。抽象原因与救赎关系之间存在内容断层。帕斯卡尔并非说理性不能谈任何神圣问题，而是说这些证明遥远、短暂且不足以改变所爱。它们不能承担护教全部重量。",
+            "第二步重建隐匿结构。世界中有足以使寻求不荒谬的征象，也有足以使拒绝不被物理强迫的遮蔽。帕斯卡尔把这种状态与人的欲望联系：证据不只被中立计算，也在自爱、消遣和诚实寻求中被不同注意。这里的“隐匿”不是上帝完全缺席，而是显现方式不取消人的取向。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "认识距离与私人记录",
+          "paragraphs": [
+            "第三步生成“认识距离”。证据与结论之间保留距离，使护教更多像累积解释而非单项演绎。可是距离也给投射留下空间；人的取向能影响注意，不等于不信者必因恶意而拒绝。",
+            "若把所有反对都诊断为心败坏，隐匿论会变成免疫系统。它必须允许诚实不信与信者误读的可能，才不至于取消讨论。",
+            "材料散见“寻求上帝”“使人认识上帝”“隐匿”及反对冷漠者纸束。它们属于护教策略，不是中性的宗教现象学报告。著名《纪念》记录的“亚伯拉罕、以撒、雅各的上帝”是私人灵性事件，能够说明帕斯卡尔所追求的对象不是抽象神，却不能作为公众已经共享的证据。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "不可证伪的异议先占位置",
+          "paragraphs": [
+            "最强异议正是不可证伪。证据强时，信者说上帝显现；证据弱时，又说上帝隐匿。无论世界怎样，理论都可解释，因而没有区分力。更道德性的异议问：若永恒后果重大，以歧义保存自由是否正当？清楚证据并不必然强迫爱，正如知道一个人存在不等于爱他。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "匿名求助信怎样限制回应",
+          "paragraphs": [
+            "设想一封匿名求助信含有只有朋友可能知道的细节，但也有可由公开资料拼出的内容。它足以让收信人认真核查，不足以立刻转账。若后来取得笔迹、通话和第三方见证，累积证据增强；若每个矛盾都被解释成“朋友故意隐藏”，假说便无法受反证。改变条件显示：歧义可合理启动寻求，却不能自动完成信任。",
+            "这些异议不能靠重复隐匿来消除。可保住的结论应收缩为护教内部的期望说明：接受帕斯卡尔的神学目标后，可以理解他为何不把公共证据预期为几何强制；这不是该神学为真的独立证据。清楚知识与自由之爱的关系仍需更细论证，诚实不信不能被自动道德化。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "历史材料必须接手压力",
+          "paragraphs": [
+            "隐匿结构也重新连接科学。实验者面对欠决定会设计让假说分叉的新条件；宗教历史中的预言、象征和奇迹则试图提供累积征象。但这些材料不像液柱可轻易重复，解释规则常与教义相互支持。下一步必须逐类拆开，不许把“有许多迹象”当成一个总证据。",
+            "因此未偿债务是具体的：哪些历史材料构成独立支持，哪些只是信仰内部重读？犹太经文、预言、象征和奇迹各有不同证据形态，也各有回溯选择、证词可靠与替代论风险。后一篇检验这条累积链，避免隐匿成为吸收一切的口袋。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "良心可能筛选理由，宗教证据因此面临双重要求：不能只是信者想看什么便看到什么，也不能强到像几何结论那样取消回应空间。帕斯卡尔拒绝把自然秩序直接当作救赎之神的充分证明；世界的美、苦难、沉默和偶然并不只允许一种解释。可若完全没有迹象，寻求便毫无根据。隐匿命题试图解释一种介于明显与全无之间的证据状态。",
+      "nodeIds": [
+        "pascal-14-teaching"
+      ],
+      "checkIds": [
+        "pascal-14-q1",
+        "pascal-14-q2",
+        "pascal-14-q3",
+        "pascal-14-q4"
+      ],
+      "abilitySummary": [
+        "能够重建上帝为什么既留下踪迹又保持隐匿的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-15",
+      "order": 15,
+      "title": "预言、象征与奇迹怎样成为证据",
+      "depth": "longform",
+      "guidingQuestion": "历史文本和异常事件可能支持宗教解释，也可能被回溯选择、循环释经或不同传统竞争性占用；累积征象何时超过巧合？",
+      "coreExplanation": "隐匿若不是空洞公式，就要由具体材料承受压力。帕斯卡尔诉诸犹太经文的保存、预言、律法的双重意义和奇迹见证，试图说明基督事件并非无历史准备。可是四类材料不具有同一逻辑：保存事实关乎传承，预言关乎时间先后，象征关乎解释规则，奇迹关乎异常事件与证词。把它们统称“证据很多”会隐藏每一步的不同风险。",
+      "sections": [
+        {
+          "heading": "四类材料不能合成一个词",
+          "paragraphs": [
+            "隐匿若不是空洞公式，就要由具体材料承受压力。帕斯卡尔诉诸犹太经文的保存、预言、律法的双重意义和奇迹见证，试图说明基督事件并非无历史准备。可是四类材料不具有同一逻辑：保存事实关乎传承，预言关乎时间先后，象征关乎解释规则，奇迹关乎异常事件与证词。把它们统称“证据很多”会隐藏每一步的不同风险。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "预言、象征与奇迹各自怎样工作",
+          "paragraphs": [
+            "第一步考察预言。若文本在事件前可独立定年，内容足够具体，事件实现又不由信徒自行安排，它能提供支持。若预言语言宽泛、文本定年不稳或只挑中符合片段，回溯匹配会显著增强。预言的力量不是来自“古老”本身，而来自时间、独立性和可区分性共同工作。",
+            "第二步考察象征。帕斯卡尔把律法、祭仪和历史人物读成既有字面层又指向基督的“象征”。这能解释为何旧文本既被保存又在新事件中重读；却也容易循环：先以基督决定哪些细节重要，再以这些细节证明基督。象征解释需要说明为何某条对应优于大量同样可造的对应。",
+            "第三步分开奇迹事件、见证可靠性和教义解释。即便某次治愈异常，也还需判断病情记录、自然恢复、欺骗和证人链；即便事件无法自然解释，也不能只由异常推出特定教义。这里生成“累积但非同质”的证据观：不同材料可以互相增强，却不能用数量掩盖共同依赖同一解释前提。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "犹太传统不是护教道具",
+          "paragraphs": [
+            "来源是《思想录》“律法的永存”“犹太人”“象征”“预言”“奇迹”等纸束，以及Port-Royal围绕圣荆事件的论战背景。Port-Royal版删改过敏感文字，帕斯卡尔的论证又常把犹太传统作为基督教证明的载体。正文必须给犹太经文自身解释独立位置，不能让后来的基督教阅读冒充文本唯一原义。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "把未命中的句子也放回档案",
+          "paragraphs": [
+            "设想研究者从一百年前的日记中找到“红光越过北方，城门将闭”。若日记定年可靠，而后来恰有极光与封城，仍要问文字是否足够特定、两事件是否被任意捆绑。若同本日记还有九十九条未实现含混句，只公布命中一条会夸大力量。加入全量文本、预先解释规则和竞争读法后，证据评价才改变。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "选择性与替代论边界",
+          "paragraphs": [
+            "强异议首先是选择性，再是替代论。基督教解释可能只保留犹太传统作为通往基督的证明工具，忽略犹太共同体持续的自我理解；这不仅是技术性循环，也有历史伤害。多宗教环境还显示，其他传统同样能组织预言、奇迹与象征。若没有对称比较，累积论证只在内部显得强。",
+            "回应不能宣布旧约“真正意义”已消灭犹太阅读。可保住的有限结论是：帕斯卡尔展示了一种基督教如何把分散历史材料组织成可读整体的方式；其支持力取决于定年、文本完整性、见证与解释规则，且必须与竞争传统对称比较。接受替代论风险意味着一些护教论证需要规范拒绝，而非只加脚注。",
+            "这一收缩并不使历史理由等于零。公共行动常依赖证词、档案和最佳解释，而非可重复实验；关键是让材料链、遗漏和竞争方案可见。帕斯卡尔的累积策略可以说明信仰并非纯粹无理由，却不能产生几何强制。它把人带到一种仍有不确定性的选择处境。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "历史理由留下实践选择",
+          "paragraphs": [
+            "下一笔债务正是选择。若证据既非全无也非证明，继续冷漠是否也是一种生活投入？概率背景使帕斯卡尔能够把不决定转成实践压力。但赌局不能借历史征象跳过多神、无限效用和信念非自愿。后一篇必须逐层拆出纸片中的不同论证。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "隐匿若不是空洞公式，就要由具体材料承受压力。帕斯卡尔诉诸犹太经文的保存、预言、律法的双重意义和奇迹见证，试图说明基督事件并非无历史准备。可是四类材料不具有同一逻辑：保存事实关乎传承，预言关乎时间先后，象征关乎解释规则，奇迹关乎异常事件与证词。把它们统称“证据很多”会隐藏每一步的不同风险。",
+      "nodeIds": [
+        "pascal-15-teaching"
+      ],
+      "checkIds": [
+        "pascal-15-q1",
+        "pascal-15-q2",
+        "pascal-15-q3",
+        "pascal-15-q4"
+      ],
+      "abilitySummary": [
+        "能够重建预言、象征与奇迹怎样成为证据的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-16",
+      "order": 16,
+      "title": "赌局不是证明：无法不下注意味着什么",
+      "depth": "longform",
+      "guidingQuestion": "上帝存在不能由理性证明，信念又不能按按钮产生；为什么行动者仍可能被说成已经置身赌局？",
+      "coreExplanation": "历史征象没有消除不确定，赌局纸片便从这里开始，而非从“上帝已证明”开始。人可以悬置命题判断，却仍安排时间、习惯、关系和追求；这些实践会使某些生活可能变近、另一些变远。帕斯卡尔说人“已经上船”，意在取消一种假中立：不决定信什么，不等于没有把有限生命投向任何方向。可实践投入与内心信念仍需区分。",
+      "sections": [
+        {
+          "heading": "不表态仍会塑造生活",
+          "paragraphs": [
+            "历史征象没有消除不确定，赌局纸片便从这里开始，而非从“上帝已证明”开始。人可以悬置命题判断，却仍安排时间、习惯、关系和追求；这些实践会使某些生活可能变近、另一些变远。帕斯卡尔说人“已经上船”，意在取消一种假中立：不决定信什么，不等于没有把有限生命投向任何方向。可实践投入与内心信念仍需区分。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "三条不可合并的赌局路线",
+          "paragraphs": [
+            "第一层可称支配论证。在某些简化假设下，选择为上帝而活若上帝存在可获无限善，若不存在只损失有限享乐；相反选择没有更好结果。若一项行动在所有状态都不差并在一项更好，它支配另一项。但真实矩阵是否如此并不显然：宗教实践可能有重大有限代价，不同宗教也提出不同结果。",
+            "第二层是期望论证。若上帝存在有正概率，而所得无限，极小概率与无限价值结合似乎压过所有有限选择。这里每个词都带压力：概率如何赋值，无限效用能否像筹码相乘，有限人生中的损益是否被正确列入。与费马牌局不同，状态空间、机会来源和价值尺度均有争议。公式不能替前提回答。",
+            "第三层把结论从“相信命题”收缩到“采取形成信仰的步骤”。信念往往不受直接意志控制，但人能阅读、交谈、参加实践、停止某些遮蔽。由此生成实践赌注：理性计算若有力量，也只是让持续冷漠变得需要辩护，并推动诚实寻求；它不能生产救赎性信仰，更不能仅凭矩阵选出基督教全部内容。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "修订纸片与现代形式化",
+          "paragraphs": [
+            "“无限—虚无”是有删改、重写和多层笔迹的纸片，不是一页整洁决策表。现代分析区分支配、期望和广义期望，有助于看见其中至少三条路线，却属于后世重构。引用时必须标明版本与纸片修订，不能把现代utility、probability术语当作帕斯卡尔亲自给出的公理体系。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "高利害不能替选项作证",
+          "paragraphs": [
+            "设想一种药可能治愈致命病，但疗效概率未知，副作用有限却真实，市场上还有多种相互冲突的药。仅说“生命价值无限，所以任一种药都该吃”会同时支持互斥行动。合理选择要求比较证据、相容性与副作用；若信息不足，先做检测可能优于立刻吞药。条件变化显示，高价值能制造审查紧迫性，却不能单独确定具体选项。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "把赌局收缩到诚实寻求",
+          "paragraphs": [
+            "强异议成群出现。多神异议让不同无限奖惩互相抵消；零概率或不可赋概率攻击期望起点；无限效用可使矩阵失真；道德异议认为为奖赏而信不诚实；信念非自愿异议指出决定参加仪式并不等于相信。任何一个都足以破坏“算完便皈依”的简化版。",
+            "回应必须逐项收缩，而不能以“赌一把无妨”带过。多神要求先用前面的历史与内容理由缩小选项；概率不明使精确期望退居启发；无限价值说明利害重大，不保证数学运算良定；实践只能安排寻求，不能伪装确信。最终可保住的是：若某宗教具有非零可信依据且后果重大，长期不检查自己的实际投入也需要理由。这个结论比通行口号弱，却更符合恩典边界。人可以停止把消遣当中立，可以测试自己是否只因代价逃避，也可以接近某种生活；真信仰若是恩典，不能由利益计算制造。赌局的作用是扰动冷漠，不是证明上帝，不是许可自欺，也不是把信仰贬成保险。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "奖赏还不是基督",
+          "paragraphs": [
+            "赌局仍未回答赌的是哪位上帝。抽象无限奖赏不能推出三位一体、道成肉身或基督中介。下一篇回到伟大与悲惨的未偿矛盾，检验基督教具体内容怎样统一创造、堕落与救赎；若没有这一步，赌局只会指向一个可交换的最高奖赏。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "历史征象没有消除不确定，赌局纸片便从这里开始，而非从“上帝已证明”开始。人可以悬置命题判断，却仍安排时间、习惯、关系和追求；这些实践会使某些生活可能变近、另一些变远。帕斯卡尔说人“已经上船”，意在取消一种假中立：不决定信什么，不等于没有把有限生命投向任何方向。可实践投入与内心信念仍需区分。",
+      "nodeIds": [
+        "pascal-16-teaching"
+      ],
+      "checkIds": [
+        "pascal-16-q1",
+        "pascal-16-q2",
+        "pascal-16-q3",
+        "pascal-16-q4"
+      ],
+      "abilitySummary": [
+        "能够重建赌局不是证明：无法不下注意味着什么的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-17",
+      "order": 17,
+      "title": "为什么答案必须经过耶稣基督",
+      "depth": "longform",
+      "guidingQuestion": "赌局最多推动寻求，历史征象也不能单独解释人为何同时伟大和悲惨；基督中介增加了什么不可替代的内容？",
+      "coreExplanation": "赌局若只承诺无限幸福，任何能填入最高奖赏的宗教模型都可占位。帕斯卡尔的护教却坚持“哲学家和学者的上帝”不足够，因为人的困难不只是缺少宇宙原因，而是与真理、正义和善的关系破裂。一个抽象第一原因可以解释世界依赖，却未说明人为何认识善、反复背叛善，又如何可能被恢复。基督中介试图把这些分散债务放进同一关系事件。",
+      "sections": [
+        {
+          "heading": "最高奖赏仍缺少关系内容",
+          "paragraphs": [
+            "赌局若只承诺无限幸福，任何能填入最高奖赏的宗教模型都可占位。帕斯卡尔的护教却坚持“哲学家和学者的上帝”不足够，因为人的困难不只是缺少宇宙原因，而是与真理、正义和善的关系破裂。一个抽象第一原因可以解释世界依赖，却未说明人为何认识善、反复背叛善，又如何可能被恢复。基督中介试图把这些分散债务放进同一关系事件。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "创造、堕落与中介",
+          "paragraphs": [
+            "第一步以创造保存伟大。人面向真理、能够判断正义并渴望不朽之善，不是偶然残渣，而是受造关系留下的方向。这个主张赋予伟大来源，却不等于人当前完满。若只讲创造，悲惨会被降成可由教育修补的小故障，无法解释自爱和死亡为何如此根深。",
+            "第二步以堕落解释悲惨不是原初本性全部。欲望失序、认识受骗和不能自救由此可被理解为既真实又不构成人的最终定义。堕落叙事保存责任与损伤，却面对历史、遗传和神圣正义的巨大异议。它的优势是统一两边，不是已经以独立证据证明一场可定位的原始事件。",
+            "第三步引入中介。基督不只是传递额外命题，而在帕斯卡尔体系中同时显明神圣正义、人类悲惨与怜悯：没有对悲惨的承认，恩典变成装饰；没有受造伟大，救赎对象失去价值。",
+            "这里生成的“中介”是一种修复关系，不能由自然神论的最高存在或赌局的无限奖赏替换。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "祈祷与护教声音分开",
+          "paragraphs": [
+            "证据来自《思想录》基督中心纸片与“耶稣的奥秘”等材料。后者具有祈祷和默想声音，不能逐句作为公共论证前提；Port-Royal编排又容易把分散纸片做成完成教义展开。正文必须分别标明护教重构、私人祈祷和教会教义，避免“帕斯卡尔证明了”覆盖三种不同言说。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "解释独占异议先于类比",
+          "paragraphs": [
+            "强异议首先攻击解释独占。心理学、进化与社会历史也能说明规范渴望和失序；基督教用创造解释优点、用堕落解释缺点，可能成为不会失败的双面公式。其次，道成肉身、赎罪和恩典依赖启示承诺，并不能从伟大与悲惨的描述演绎出来。解释整齐可能只是事后适配。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "关系修复案例及收缩回应",
+          "paragraphs": [
+            "设想一个人既能读懂道歉的全部理由，也因被长期背叛而无法恢复信任。第三方只说明双方存在，不能修复关系；赔偿规则可确认责任，也未必重新建立共同生活。若背叛者承担损失、受害者自由接受和解，关系才可能改变。这个类比不证明道成肉身，却显示“知道事实”与“关系修复”是不同问题，中介概念试图处理后者。",
+            "回应必须承认从人类学压力到基督内容不存在几何必然。可保留的是条件性统一力：在基督教前提下，创造、堕落与中介能让伟大和悲惨各自保持最大强度，而不把任何一边消掉。它必须与竞争解释比较具体预测、伦理后果和文本依据；不能因能容纳两边就宣布唯一真实。",
+            "这一收缩并不把基督变回可交换符号。恰恰因为结论有具体内容，赌局无法独立到达它，预言和象征也必须受来源审查。帕斯卡尔的“上帝”是关系性的、要求转化的对象，不只是填补宇宙空白。接受这种对象意味着价值次序会改变，而非只在原生活上增加一项概率意见。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "价值秩序接过未偿问题",
+          "paragraphs": [
+            "剩余问题是价值次序怎样改变而不产生新越权。若爱德被称为更高秩序，宗教权力会不会借此支配科学事实和政治制度？下一步借身体、精神、爱德三种秩序说明不可换算：更高不是更大量，也不是取得所有较低领域的直接管辖。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "赌局若只承诺无限幸福，任何能填入最高奖赏的宗教模型都可占位。帕斯卡尔的护教却坚持“哲学家和学者的上帝”不足够，因为人的困难不只是缺少宇宙原因，而是与真理、正义和善的关系破裂。一个抽象第一原因可以解释世界依赖，却未说明人为何认识善、反复背叛善，又如何可能被恢复。基督中介试图把这些分散债务放进同一关系事件。",
+      "nodeIds": [
+        "pascal-17-teaching"
+      ],
+      "checkIds": [
+        "pascal-17-q1",
+        "pascal-17-q2",
+        "pascal-17-q3",
+        "pascal-17-q4"
+      ],
+      "abilitySummary": [
+        "能够重建为什么答案必须经过耶稣基督的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-18",
+      "order": 18,
+      "title": "身体、精神与爱德为什么不能兑换",
+      "depth": "longform",
+      "guidingQuestion": "财富可以买服从，才智赢得敬佩，但它们能否购买真理或爱；所谓更高秩序又会不会成为宗教越权的借口？",
+      "coreExplanation": "基督中介若改变价值中心，就必须说明“更高”不是同一尺度上的更多。一个君王拥有军队，数学家拥有证明，仁爱者以他者之善为所爱。军队可以迫使数学家沉默，却不能使错误等式为真；数学天赋可以赢得赞叹，却不能让某人因此值得无条件爱。帕斯卡尔用身体、精神、爱德三种秩序解释这些错位。",
+      "sections": [
+        {
+          "heading": "更多力量不能变成更多真理",
+          "paragraphs": [
+            "基督中介若改变价值中心，就必须说明“更高”不是同一尺度上的更多。一个君王拥有军队，数学家拥有证明，仁爱者以他者之善为所爱。军队可以迫使数学家沉默，却不能使错误等式为真；数学天赋可以赢得赞叹，却不能让某人因此值得无条件爱。帕斯卡尔用身体、精神、爱德三种秩序解释这些错位。",
+            "第一步按对象区分卓越。身体秩序包括财富、力量、职位和可见规模；精神秩序包括真理把握、创造与判断；爱德秩序则不是知识量更大，而是欲望中心朝向上帝与他者。每一秩序都有自己的可见性：群众容易看见王权，少数人理解证明，爱德甚至可能在世俗评价中不显眼。",
+            "第二步说明不可换算。若两种价值属于不同秩序，增加低阶数量不会越过门槛：再多士兵也不能证明定理，再多论文也不能强制爱。不可换算不是说秩序互不接触，身体条件会影响研究，知识会改善制度；它说因果影响不能被误写为正当资格。能造成结果与有权要求某种承认不同。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "更高不是管辖全能",
+          "paragraphs": [
+            "第三步解释爱德的“更高”。它之所以更高，不是可命令更多领域，而是重新规定人把什么当最终目的。这里生成“价值优先而非管辖全能”的边界：爱德可以要求科学诚实、政治顾及他者，却不能凭虔诚决定液柱读数或跳过制度后果。否则帕斯卡尔早先划分裁判权的工作会被宗教自己破坏。",
+            "三种秩序材料是《思想录》纸片，不是一部完成价值论。纸片中的ordre还可能在政治等级、论述安排等语境出现，不能见到同一词就归入三分体系。现代“价值多元”可作比较，但帕斯卡尔仍以爱德给出终极等级，并非主张所有秩序同等。解释必须同时保存异质性与神学优先。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "资助能买到什么",
+          "paragraphs": [
+            "设想一位富有捐助者资助实验室，随后要求研究团队把无效药物写成有效。他的钱确实使研究发生，却没有购买结论真值；团队可感谢资助并拒绝改数据。若研究者反过来以专业声望要求病人爱戴自己，也发生另一种越界。条件改变显示，跨秩序资源可支持行动，却不能自动转换成相应承认资格。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "等级语言必须反过来受审查",
+          "paragraphs": [
+            "强异议是，等级语言本身危险。宗教机构可声称代表爱德，进而要求政治和科学服从；帕斯卡尔把爱德置顶，是否只把旧王权换成更难检验的灵性权威？另一个异议指出，身体条件并非低到可以忽略：饥饿、疾病和制度压迫会直接限制思想与关系。",
+            "回应要拒绝两种误读。首先，没有个人或机构仅凭自称便占有爱德；其行动仍要接受是否服务他者、是否诚实、是否制造伤害的检验。其次，“较低”不是不重要，身体需要和政治正义具有不可替代的局部要求。可保住的是终极目的不可由财富或才智购买，而不是物质处境可以被灵性话语忽略。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "重新排序不等于取消领域",
+          "paragraphs": [
+            "三种秩序回收了整条科学—宗教关系。几何和实验在精神秩序中有真实尊严，宗教不能改写其证据；政治以身体和共同规则组织生活，也不能自称最高善；爱德批判二者的终极化，却必须通过诚实和正义而非越权表现。重新排序与取消领域因此不同。",
+            "价值结构仍未告诉行动者能做什么。若爱德不能被财富、才智或计算兑换，习惯和祈祷是否还有作用？末篇必须区分准备与生产、私人见证与公共论证、善用不可避免的疾病与赞美痛苦，让转化保持行动空间而不变成技术控制。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "基督中介若改变价值中心，就必须说明“更高”不是同一尺度上的更多。一个君王拥有军队，数学家拥有证明，仁爱者以他者之善为所爱。军队可以迫使数学家沉默，却不能使错误等式为真；数学天赋可以赢得赞叹，却不能让某人因此值得无条件爱。帕斯卡尔用身体、精神、爱德三种秩序解释这些错位。",
+      "nodeIds": [
+        "pascal-18-teaching"
+      ],
+      "checkIds": [
+        "pascal-18-q1",
+        "pascal-18-q2",
+        "pascal-18-q3",
+        "pascal-18-q4"
+      ],
+      "abilitySummary": [
+        "能够重建身体、精神与爱德为什么不能兑换的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": "pascal-19",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "pascal-19",
+      "order": 19,
+      "title": "从习惯到祈祷：人能为转化做什么",
+      "depth": "longform",
+      "guidingQuestion": "人不能凭证明或意志制造救赎性信仰；若如此，劝说、礼仪、习惯、祈祷和面对疾病还有什么非虚假的作用？",
+      "coreExplanation": "三种秩序切断了购买爱德的幻想，却可能留下瘫痪：若信仰是恩典，行动者是否只能等待？帕斯卡尔的赌局又劝人采取实践、接近信徒、减少激情阻碍。两项承诺若不区分，会变成矛盾：习惯一面被说成不能生产信仰，一面又像信仰机器。末尾问题不是找一项保证技术，而是界定有限行动怎样准备、检验并承认自己不能控制结果。",
+      "sections": [
+        {
+          "heading": "等待与操控之间",
+          "paragraphs": [
+            "三种秩序切断了购买爱德的幻想，却可能留下瘫痪：若信仰是恩典，行动者是否只能等待？帕斯卡尔的赌局又劝人采取实践、接近信徒、减少激情阻碍。两项承诺若不区分，会变成矛盾：习惯一面被说成不能生产信仰，一面又像信仰机器。末尾问题不是找一项保证技术，而是界定有限行动怎样准备、检验并承认自己不能控制结果。",
+            "第一步区分直接信念命令与间接注意治理。人很难仅凭一句“现在相信”改变判断，却能决定查阅何种材料、与谁交谈、是否持续用消遣阻断问题。习惯会改变显著性和行动惯性，正如它也曾稳定偏见。它可以让证据被看见或让承诺接受生活检验，不能从重复动作推出所信对象为真。",
+            "第二步区分准备与生产。祈祷、礼仪和共同实践可表达寻求、训练注意、暴露自爱；若被当成输入后必得恩典的程序，实践便成为与神交易。帕斯卡尔的恩典论要求结果不由技术欠给行动者。准备仍有意义，因为诚实寻求与系统逃避不同，但它不能成为功绩账本。",
+            "第三步生成“可负责而不可控制”的行动空间。行动者对是否伪造确信、是否核查来源、是否伤害他人和是否把怀疑隐藏在仪式后负有责任；他不能保证产生救赎性之爱。这个结构既拒绝“什么也做不了”，也拒绝“照做便必信”。剩余不确定不是流程缺陷，而是帕斯卡尔自由与恩典关系的组成部分。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "三种言语行为不能合成流程",
+          "paragraphs": [
+            "文本身份在此尤其关键。《纪念》是缝在衣物中的私人灵性记录，见证“火”之夜对帕斯卡尔的意义，不是为公众设计的证明。《为求善用疾病而作的祈祷》是灵修言语，身后出版；它表达在不可避免痛苦中重排欲望，不是医学建议。《思想录》赌局的习惯劝说又属于护教草稿。三者不能合成一套操作说明。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁有权解释疾病",
+          "paragraphs": [
+            "设想一名因重病失去原有生活的人。他可以接受治疗、表达愤怒，也可在不能消除的限制中重新判断关系与欲望。若旁人说“痛苦会使你更好，所以不必止痛”，便把祈祷的第一人称请求变成外部强迫；若病者自己把重新排序当作诚实回应，也不表示疾病本身善。改变言说者与可避免条件，规范判断随之改变。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "实践必须允许反证与退出",
+          "paragraphs": [
+            "强异议是实践会制造自欺。长期参加仪式、只接触信者和按共同体语言解释经验，可能通过社会压力生成表面确信；“先做后信”也可能奖励机会主义。疾病灵修还可能浪漫化痛苦，使制度忽视治疗和照护。若这些风险不进入判断，转化话语会复制想象与权威的旧机制。",
+            "回应需要反向使用整条路线的纠错资源：来源公开、竞争解释、受害后果、退出可能和不信者声音都要保留。实践若禁止提问、要求伪称确信或制造可避免伤害，便失去诚实寻求资格。可保住的是在开放纠错的条件下，习惯能稳定注意，祈祷能表达依赖，共同生活能让信念后果接受检验；它们仍不保证恩典。因此帕斯卡尔的科学与宗教并非早期理性被晚期信仰吞没。几何教人公开依赖，实验教人按对象分配裁判权，概率教人在不确定中列出前提；人类学揭露前提会被自爱和消遣扭曲，宗教则提出一种无法由这些方法自产的转化。后者若违背证据纪律，便背叛而非完成前者。连续性在谦抑与纠错，断裂在对象和救赎能力。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "连续性、断裂与最后债务",
+          "paragraphs": [
+            "结尾不清偿最后债务。帕斯卡尔能说明为什么自然知识不等于最高善、为什么冷漠也是实践位置、为什么信仰不能由计算制造；他没有让恩典分配的正义、宗教多元或历史征象争议消失。路线能诚实结束的地方，是一项双重边界：有限人仍有查验、停止逃避和不伤害的责任，最终转化却不可由任何候选包、论证或习惯保证。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "三种秩序切断了购买爱德的幻想，却可能留下瘫痪：若信仰是恩典，行动者是否只能等待？帕斯卡尔的赌局又劝人采取实践、接近信徒、减少激情阻碍。两项承诺若不区分，会变成矛盾：习惯一面被说成不能生产信仰，一面又像信仰机器。末尾问题不是找一项保证技术，而是界定有限行动怎样准备、检验并承认自己不能控制结果。",
+      "nodeIds": [
+        "pascal-19-teaching"
+      ],
+      "checkIds": [
+        "pascal-19-q1",
+        "pascal-19-q2",
+        "pascal-19-q3",
+        "pascal-19-q4"
+      ],
+      "abilitySummary": [
+        "能够重建从习惯到祈祷：人能为转化做什么的论证、异议与适用边界。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "pascal-01-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "为什么现存原始纸片汇编的册页次序不能直接当作作者目录？",
+      "targetNodeIds": [
+        "pascal-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-01-q1-a",
+          "text": "因为手稿只保存秘书誊写，没有帕斯卡尔亲笔可供判断；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是抹掉大量亲笔纸片；问题在装订身份，不在缺少作者文字。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-01-q1-b",
+          "text": "因为纸片文字与身后粘贴装订是两种归属，后者没有自动的作者权威",
+          "feedback": "你把亲笔材料的强证据与现册编排的身后身份分开了。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-01-q1-b",
+      "misconceptionId": "pascal-01-q1-misconception"
+    },
+    {
+      "id": "pascal-01-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "C1、C2抄本最适合支持哪一种结论？",
+      "targetNodeIds": [
+        "pascal-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-01-q2-a",
+          "text": "纸片重新装订前存在可用于判断纸束关系的次序证据",
+          "feedback": "它支持局部关系，却不自动恢复唯一终稿。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-01-q2-b",
+          "text": "帕斯卡尔已经逐页确定了完整护教书的最终次序；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把身后抄本保存的排列提升为作者校定全书。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-01-q2-a",
+      "misconceptionId": "pascal-01-q2-misconception"
+    },
+    {
+      "id": "pascal-01-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "Port-Royal版为何既重要又不能直接代表帕斯卡尔定稿？",
+      "targetNodeIds": [
+        "pascal-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-01-q3-a",
+          "text": "它只改变了印刷字体，正文与次序均由帕斯卡尔亲定；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把实质性的编辑介入缩成版式差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-01-q3-b",
+          "text": "它塑造了接受史，却包含选择、合并、改写与重新编排",
+          "feedback": "出版史价值与作者归属强度可以同时保留。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-01-q3-b",
+      "misconceptionId": "pascal-01-q3-misconception"
+    },
+    {
+      "id": "pascal-01-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "怎样在遗稿身份下仍进行整体解释？",
+      "targetNodeIds": [
+        "pascal-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-01-q4-a",
+          "text": "公开局部证据与竞争编排，把路线声明为受原件约束的现代重构",
+          "feedback": "整体得以保留，但不冒充作者失落目录。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-01-q4-b",
+          "text": "拒绝所涉各项跨纸片联系，避免相关各类现代重构；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把可撤回重构的风险扩大为禁止解释，连分类纸束也失去作用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-01-q4-a",
+      "misconceptionId": "pascal-01-q4-misconception"
+    },
+    {
+      "id": "pascal-02-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "名称定义在帕斯卡尔的几何方法中能完成什么？",
+      "targetNodeIds": [
+        "pascal-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-02-q1-a",
+          "text": "只要名称足够精确，就能创造对象并保证全部结论",
+          "feedback": "错步是把语言约定扩大成对象生产和结论证明。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-02-q1-b",
+          "text": "通过约定固定用语，但不能由名称穷尽对象性质；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "定义控制符号使用，定理仍需证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-02-q1-b",
+      "misconceptionId": "pascal-02-q1-misconception"
+    },
+    {
+      "id": "pascal-02-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "几何证明为何必须承认未由同一方法证明的起点？",
+      "targetNodeIds": [
+        "pascal-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-02-q2-a",
+          "text": "因为几何结论最终依赖传统权威而非推导；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把避免倒退的直接起点改写成古代权威。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-02-q2-b",
+          "text": "因为若每个原理都再由同类证明支持，证明无法实际开始",
+          "feedback": "停止倒退是演绎结构的条件，不是放弃检查。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-02-q2-b",
+      "misconceptionId": "pascal-02-q2-misconception"
+    },
+    {
+      "id": "pascal-02-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "“几何精神”最准确的功能是什么？",
+      "targetNodeIds": [
+        "pascal-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-02-q3-a",
+          "text": "把所涉各项伦理、政治和信仰问题还原成同一种计算；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从局部严格跨越到对象无差别的普遍方法。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-02-q3-b",
+          "text": "把术语、起点和推导依赖公开排列，在限定对象内要求严格",
+          "feedback": "它是一种依赖透明的判断能力，而非万能性格。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-02-q3-b",
+      "misconceptionId": "pascal-02-q3-misconception"
+    },
+    {
+      "id": "pascal-02-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "面对“自然明白的起点也许只是习惯”的异议，可保留什么？",
+      "targetNodeIds": [
+        "pascal-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-02-q4-a",
+          "text": "保留起点与推导可公开检查，并让结论条件性随争议显露",
+          "feedback": "回应收缩了基础保证，同时守住方法透明。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-02-q4-b",
+          "text": "保留所涉各项起点绝对无争议的主张；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是重复被攻击的保证，没有处理起点差异。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-02-q4-a",
+      "misconceptionId": "pascal-02-q4-misconception"
+    },
+    {
+      "id": "pascal-03-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "多姆山实验首先建立了哪一种关系？",
+      "targetNodeIds": [
+        "pascal-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-03-q1-a",
+          "text": "只凭一次观看就直接看见绝对无物的空间；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把可观察液柱变化扩大成不可见本体的直接视觉。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-03-q1-b",
+          "text": "海拔与液柱高度的系统变化支持空气重量参与平衡",
+          "feedback": "差异条件产生了可重复的事实关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-03-q1-b",
+      "misconceptionId": "pascal-03-q1-misconception"
+    },
+    {
+      "id": "pascal-03-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "事实—假说区分为什么必要？",
+      "targetNodeIds": [
+        "pascal-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-03-q2-a",
+          "text": "为了说明所涉各项自然解释都同样好，实验无法比较它们；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从欠决定跳到不可比较；新条件可以使预测分叉。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-03-q2-b",
+          "text": "为了防止共同观察结果被当成某个不可见机制已经直接出现",
+          "feedback": "解释要承担额外推理和竞争检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-03-q2-b",
+      "misconceptionId": "pascal-03-q2-misconception"
+    },
+    {
+      "id": "pascal-03-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "对帕斯卡尔真空主张的强异议成立后，应收缩到什么？",
+      "targetNodeIds": [
+        "pascal-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-03-q3-a",
+          "text": "实验有力支持空气重量并削弱旧解释，但绝对本体结论仍需论证",
+          "feedback": "它保住实验贡献，同时承认理论欠决定。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-03-q3-b",
+          "text": "实验没有相关各类认识价值，只剩互不相干的意见；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把不能决定一切扩大成什么也不能支持。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-03-q3-a",
+      "misconceptionId": "pascal-03-q3-misconception"
+    },
+    {
+      "id": "pascal-03-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "科学与宗教文本在裁判权上最重要的共同纪律是什么？",
+      "targetNodeIds": [
+        "pascal-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-03-q4-a",
+          "text": "宗教命题只要真诚即可改写实验事实；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是让启示权威越权进入物理事实。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-03-q4-b",
+          "text": "每种证据在适合对象上工作，不能借一个领域的成功替另一个领域下结论",
+          "feedback": "对象分层同时保护实验和信仰边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-03-q4-b",
+      "misconceptionId": "pascal-03-q4-misconception"
+    },
+    {
+      "id": "pascal-04-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "算术机最能支持哪一项区分？",
+      "targetNodeIds": [
+        "pascal-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-04-q1-a",
+          "text": "规则运算可以机械执行，但建模与价值判断不由齿轮决定",
+          "feedback": "操作可靠性没有越权成为问题选择的正当性。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-04-q1-b",
+          "text": "机器能计算税额，所以也能决定税制是否正义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从运算正确跨越到规范判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-04-q1-a",
+      "misconceptionId": "pascal-04-q1-misconception"
+    },
+    {
+      "id": "pascal-04-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "分赌金问题中的期望为何不是预言？",
+      "targetNodeIds": [
+        "pascal-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-04-q2-a",
+          "text": "它用可能状态及机会评价当前选择，不指定哪一状态被当作充分推出发生",
+          "feedback": "期望处理结构化可能，而非预测确定结果。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-04-q2-b",
+          "text": "它宣布领先者下一局必胜；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把可能状态的比较改成单一未来断言。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-04-q2-a",
+      "misconceptionId": "pascal-04-q2-misconception"
+    },
+    {
+      "id": "pascal-04-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "受伤信息为何会改变分配判断？",
+      "targetNodeIds": [
+        "pascal-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-04-q3-a",
+          "text": "因为相关各类新信息都会使概率推理彻底无效；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把模型修订扩大成取消概率比较。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-04-q3-b",
+          "text": "因为它改变了机会条件，原先对称路径的概率设定不再适用",
+          "feedback": "精确计算必须随相关条件更新。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-04-q3-b",
+      "misconceptionId": "pascal-04-q3-misconception"
+    },
+    {
+      "id": "pascal-04-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "为何不能从费马通信直接推出宗教赌局成立？",
+      "targetNodeIds": [
+        "pascal-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-04-q4-a",
+          "text": "因为数学通信从未出现相关各类关于机会的推理；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认其核心贡献；断层在对象与前提，而非没有概率推理。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-04-q4-b",
+          "text": "因为无限价值、宗教竞争与信念形成引入了牌局模型没有的新前提",
+          "feedback": "数学背景提供工具，不提供神学结论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-04-q4-b",
+      "misconceptionId": "pascal-04-q4-misconception"
+    },
+    {
+      "id": "pascal-05-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“两个无限”首先破坏了哪一种默认？",
+      "targetNodeIds": [
+        "pascal-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-05-q1-a",
+          "text": "人的感官尺度天然是万物的中心尺度",
+          "feedback": "连续放大缩小使人的参照点显出偶然。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-05-q1-b",
+          "text": "相关各类有限范围内的知识都不可能成立",
+          "feedback": "错步是从非中心扩大到局部知识全部无效。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-05-q1-a",
+      "misconceptionId": "pascal-05-q1-misconception"
+    },
+    {
+      "id": "pascal-05-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“会思想的芦苇”区分了什么？",
+      "targetNodeIds": [
+        "pascal-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-05-q2-a",
+          "text": "身体脆弱与反思能力，使物理力量不再是排他的比较维度",
+          "feedback": "思想不免死，却改变价值比较的结构。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-05-q2-b",
+          "text": "思想能在物理上阻止宇宙毁灭身体；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把认识尊严误作因果防护。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-05-q2-a",
+      "misconceptionId": "pascal-05-q2-misconception"
+    },
+    {
+      "id": "pascal-05-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "尊严异议成立后，最稳妥的保留是什么？",
+      "targetNodeIds": [
+        "pascal-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-05-q3-a",
+          "text": "反思能力已经无前提证明所涉各项现代权利；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是跳过额外规范前提，把差异直接等同完整权利论。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-05-q3-b",
+          "text": "物理大小不足以独自决定价值，完整规范结论仍需补充论证",
+          "feedback": "它守住尺度批判而不夸大证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-05-q3-b",
+      "misconceptionId": "pascal-05-q3-misconception"
+    },
+    {
+      "id": "pascal-05-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "不相称为何不取消实验知识？",
+      "targetNodeIds": [
+        "pascal-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-05-q4-a",
+          "text": "因为有限条件内的真理可成立，只是不能被提升为整体自足",
+          "feedback": "局部有效与终极有限可以并存。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-05-q4-b",
+          "text": "因为实验知识其实已经穷尽两个无限；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是用局部成功否认不相称本身。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-05-q4-a",
+      "misconceptionId": "pascal-05-q4-misconception"
+    },
+    {
+      "id": "pascal-06-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "帕斯卡尔意义上的伟大首先表现在哪里？",
+      "targetNodeIds": [
+        "pascal-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-06-q1-a",
+          "text": "能够认识错误与悲惨，并以未实现的尺度衡量现状",
+          "feedback": "伟大不以力量或成功为首要标准。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-06-q1-b",
+          "text": "凭理性已经能够稳定取得全部幸福；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把面向尺度的能力扩大成自足实现。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-06-q1-a",
+      "misconceptionId": "pascal-06-q1-misconception"
+    },
+    {
+      "id": "pascal-06-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "为何伟大与悲惨不能按优缺点互相抵消？",
+      "targetNodeIds": [
+        "pascal-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-06-q2-a",
+          "text": "因为悲惨只指身体痛苦，与思想没有关系；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把结构性错位缩成身体事件。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-06-q2-b",
+          "text": "悲惨以对善的残余认识为条件，二者存在依赖而非简单相减",
+          "feedback": "能判定失落本身显示尺度仍在。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-06-q2-b",
+      "misconceptionId": "pascal-06-q2-misconception"
+    },
+    {
+      "id": "pascal-06-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "面对世俗竞争解释，应怎样收缩原罪结论？",
+      "targetNodeIds": [
+        "pascal-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-06-q3-a",
+          "text": "保留矛盾作为共同解释压力，把原罪视为待比较的帕斯卡尔答案",
+          "feedback": "问题统一被保存，答案独占被撤回。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-06-q3-b",
+          "text": "人的矛盾描述已经排除所涉各项自然和社会解释；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把需要解释的现象当成唯一神学原因的证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-06-q3-a",
+      "misconceptionId": "pascal-06-q3-misconception"
+    },
+    {
+      "id": "pascal-06-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "为何不能用共同悲惨替具体施害者卸责？",
+      "targetNodeIds": [
+        "pascal-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-06-q4-a",
+          "text": "因为帕斯卡尔否认人类存在相关各类共同处境；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认路线核心；边界是共同处境不吞没具体责任。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-06-q4-b",
+          "text": "因为制度与行动的具体因果仍需独立判断，普遍脆弱不取消责任差异",
+          "feedback": "神学人类学不能遮蔽政治和道德归责。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-06-q4-b",
+      "misconceptionId": "pascal-06-q4-misconception"
+    },
+    {
+      "id": "pascal-07-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "想象在这里为何不只是凭空幻想？",
+      "targetNodeIds": [
+        "pascal-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-07-q1-a",
+          "text": "它能配置注意与权威标志，并产生真实的社会服从效果",
+          "feedback": "归属可能错误，社会后果却可以很实在。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-07-q1-b",
+          "text": "它只发生在睡梦中，与公共判断无关；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把显著性和社会标志作用缩成私人幻觉。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-07-q1-a",
+      "misconceptionId": "pascal-07-q1-misconception"
+    },
+    {
+      "id": "pascal-07-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "习惯与自爱最重要的区别是什么？",
+      "targetNodeIds": [
+        "pascal-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-07-q2-a",
+          "text": "习惯只影响身体，自爱只影响数学；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是虚构对象分工，没有解释文本中的判断机制。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-07-q2-b",
+          "text": "习惯沉淀默认，自爱按有利自我图像筛选理由",
+          "feedback": "两者可以合作，但纠错入口不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-07-q2-b",
+      "misconceptionId": "pascal-07-q2-misconception"
+    },
+    {
+      "id": "pascal-07-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "权威标志的异议要求怎样收缩批评？",
+      "targetNodeIds": [
+        "pascal-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-07-q3-a",
+          "text": "承认资历可作初始线索，但不能禁止反证和问责",
+          "feedback": "可撤回信任与本质优越被分开。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-07-q3-b",
+          "text": "承认有职位的人所言都无需再检验；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从线索价值跨越到免于纠错。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-07-q3-a",
+      "misconceptionId": "pascal-07-q3-misconception"
+    },
+    {
+      "id": "pascal-07-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "盲审案例主要测试什么？",
+      "targetNodeIds": [
+        "pascal-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-07-q4-a",
+          "text": "声望标签是否改变同一证据被审查的阈值",
+          "feedback": "条件改变定位的是注意与信任机制。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-07-q4-b",
+          "text": "研究结论是否一定为真；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把偏差诊断扩大成结论真值的充分检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-07-q4-a",
+      "misconceptionId": "pascal-07-q4-misconception"
+    },
+    {
+      "id": "pascal-08-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "实定法存在首先说明什么？",
+      "targetNodeIds": [
+        "pascal-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-08-q1-a",
+          "text": "共同体可借公开规则协调行动，不等于规则本质完美",
+          "feedback": "有效性与正当性被分开。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-08-q1-b",
+          "text": "只要法律生效，它就等同真正正义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从存在与执行跨越到道德真值。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-08-q1-a",
+      "misconceptionId": "pascal-08-q1-misconception"
+    },
+    {
+      "id": "pascal-08-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "职位尊重为何不等于人格崇拜？",
+      "targetNodeIds": [
+        "pascal-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-08-q2-a",
+          "text": "因为相关各类职位命令都无需服从；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从拒绝崇拜扩大成取消协调理由。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-08-q2-b",
+          "text": "公开职位可承担协调功能，而任职者不因此获得全面卓越",
+          "feedback": "功能资格没有扩展成人格等级。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-08-q2-b",
+      "misconceptionId": "pascal-08-q2-misconception"
+    },
+    {
+      "id": "pascal-08-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "强异议揭示帕斯卡尔政治思想的哪项缺口？",
+      "targetNodeIds": [
+        "pascal-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-08-q3-a",
+          "text": "他不留例外地没有谈论力量与正义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认核心材料；缺口在改革规范资源不足。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-08-q3-b",
+          "text": "去魅诊断未充分给出受压者如何正当改变制度",
+          "feedback": "承认这一边界并不取消其力量批判。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-08-q3-b",
+      "misconceptionId": "pascal-08-q3-misconception"
+    },
+    {
+      "id": "pascal-08-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "撤离案例为何不是无条件服从证明？",
+      "targetNodeIds": [
+        "pascal-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-08-q4-a",
+          "text": "因为协调命令与歧视性风险分配具有不同正当性条件",
+          "feedback": "条件变化使秩序理由收缩。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-08-q4-b",
+          "text": "因为灾害中不存在相关各类协调需要；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是抹掉案例最初使有限服从合理的条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-08-q4-a",
+      "misconceptionId": "pascal-08-q4-misconception"
+    },
+    {
+      "id": "pascal-09-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "消遣概念加入了活动的哪一种价值？",
+      "targetNodeIds": [
+        "pascal-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-09-q1-a",
+          "text": "所涉各项活动都被当作充分推出没有相关各类目标价值；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从双重功能扩大成取消真实成果。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-09-q1-b",
+          "text": "让注意离开有限处境的功能，不只看公开目标",
+          "feedback": "过程可能承担猎物之外的心理作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-09-q1-b",
+      "misconceptionId": "pascal-09-q1-misconception"
+    },
+    {
+      "id": "pascal-09-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "为何直接送给猎人野兔可能不能满足他？",
+      "targetNodeIds": [
+        "pascal-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-09-q2-a",
+          "text": "因为野兔在物理上并不存在；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认对象，而非解释欲望功能。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-09-q2-b",
+          "text": "因为追逐过程本身占据注意并暂缓不安",
+          "feedback": "目标与过程功能由此分开。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-09-q2-b",
+      "misconceptionId": "pascal-09-q2-misconception"
+    },
+    {
+      "id": "pascal-09-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "对活动价值的异议要求保留什么边界？",
+      "targetNodeIds": [
+        "pascal-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-09-q3-a",
+          "text": "只要忙碌就可由外人确定为逃避；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从结构诊断跳到表面读心。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-09-q3-b",
+          "text": "只有活动系统性阻止必要真相进入时，消遣批判才充分成立",
+          "feedback": "恢复、创造和短期调节仍可有价值。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-09-q3-b",
+      "misconceptionId": "pascal-09-q3-misconception"
+    },
+    {
+      "id": "pascal-09-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "“安静”最重要的含义是什么？",
+      "targetNodeIds": [
+        "pascal-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-09-q4-a",
+          "text": "允许不受欢迎的事实进入判断，而非用刺激无限替换",
+          "feedback": "忙碌与诚实面对可以相容。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-09-q4-b",
+          "text": "身体永远停止工作和交往；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把注意能力字面化为静止姿势。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-09-q4-a",
+      "misconceptionId": "pascal-09-q4-misconception"
+    },
+    {
+      "id": "pascal-10-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "Epictetus路线的关键跨越在哪里？",
+      "targetNodeIds": [
+        "pascal-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-10-q1-a",
+          "text": "从应把善置于意志，跨到受损意志已有能力稳定做到",
+          "feedback": "规范方向与实际能力不能直接等同。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-10-q1-b",
+          "text": "从承认疼痛存在跨到否认相关各类责任；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是反转其立场；他恰恰保留责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-10-q1-a",
+      "misconceptionId": "pascal-10-q1-misconception"
+    },
+    {
+      "id": "pascal-10-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "Montaigne式怀疑的未偿困难是什么？",
+      "targetNodeIds": [
+        "pascal-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-10-q2-a",
+          "text": "它无法指出相关各类习俗差异；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认其主要批判资源。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-10-q2-b",
+          "text": "拆解独断后，行动仍需理由，随习俗又可能恢复被批判的默认",
+          "feedback": "拆屋能力不自动提供安顿原则。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-10-q2-b",
+      "misconceptionId": "pascal-10-q2-misconception"
+    },
+    {
+      "id": "pascal-10-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "“双重纠正”为何不是折中？",
+      "targetNodeIds": [
+        "pascal-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-10-q3-a",
+          "text": "因为它把两边主张平均成温和意见；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正是把互相反例化误作数值平均。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-10-q3-b",
+          "text": "因为每方洞见攻击另一方遗漏，同时保留冲突解释压力",
+          "feedback": "两边没有被稀释，而被用作彼此检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-10-q3-b",
+      "misconceptionId": "pascal-10-q3-misconception"
+    },
+    {
+      "id": "pascal-10-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "对手漫画化异议成立后，基督教框架保留什么地位？",
+      "targetNodeIds": [
+        "pascal-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-10-q4-a",
+          "text": "作为仍需比较其解释力的候选，而非自动胜者；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "自然哲学的丰富版本必须被公平重建。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-10-q4-b",
+          "text": "因谈话由Fontaine整理，所以相关各类比较都不可能",
+          "feedback": "错步是把来源边界扩大成取消可审查重构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-10-q4-a",
+      "misconceptionId": "pascal-10-q4-misconception"
+    },
+    {
+      "id": "pascal-11-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "第一原理语境中的“心”首先承担什么功能？",
+      "targetNodeIds": [
+        "pascal-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-11-q1-a",
+          "text": "允许相关各类强烈感觉成为不可质疑公理；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从非推演扩大成任意确信免疫。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-11-q1-b",
+          "text": "直接把握推导所需起点，而非以情绪替代全部推理",
+          "feedback": "起点把握与后续演绎互相需要。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-11-q1-b",
+      "misconceptionId": "pascal-11-q1-misconception"
+    },
+    {
+      "id": "pascal-11-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "敏锐精神为何仍可能出错？",
+      "targetNodeIds": [
+        "pascal-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-11-q2-a",
+          "text": "因为它只能处理纯几何对象；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是反转其适用处境。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-11-q2-b",
+          "text": "它整合复杂线索时仍会受想象、自爱与训练质量影响",
+          "feedback": "贴近复杂对象不等于无误。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-11-q2-b",
+      "misconceptionId": "pascal-11-q2-misconception"
+    },
+    {
+      "id": "pascal-11-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "“同词异职”边界防止什么跨越？",
+      "targetNodeIds": [
+        "pascal-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-11-q3-a",
+          "text": "用几何第一原理的公开确定性直接担保宗教心证",
+          "feedback": "家族相似不能取消对象和验证差异。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-11-q3-b",
+          "text": "在不同文本中辨认cœur一词；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把必要分层当成禁止比较。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-11-q3-a",
+      "misconceptionId": "pascal-11-q3-misconception"
+    },
+    {
+      "id": "pascal-11-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "面对心证循环异议，最稳妥的回应是什么？",
+      "targetNodeIds": [
+        "pascal-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-11-q4-a",
+          "text": "承认它不具几何强制性，并保留文本、后果和竞争传统质询",
+          "feedback": "非推演没有变成免责通行证。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-11-q4-b",
+          "text": "只要称为恩典，所涉各项竞争信仰都不需再比较；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是用被质疑的命名重复自证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-11-q4-a",
+      "misconceptionId": "pascal-11-q4-misconception"
+    },
+    {
+      "id": "pascal-12-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“自愿”在此为何不等于欲望完全自我创造？",
+      "targetNodeIds": [
+        "pascal-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-12-q1-a",
+          "text": "因为自愿行为都由外力推动；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是取消自愿与强迫的区分。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-12-q1-b",
+          "text": "行为可从当下意愿发出，而意愿来源仍需另问",
+          "feedback": "行动归属与欲望起源是两个问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-12-q1-b",
+      "misconceptionId": "pascal-12-q1-misconception"
+    },
+    {
+      "id": "pascal-12-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "有效恩典怎样不同于外在强迫？",
+      "targetNodeIds": [
+        "pascal-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-12-q2-a",
+          "text": "它只限制身体，不触及欲望；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把恩典改写成外部禁令。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-12-q2-b",
+          "text": "它改变善的可爱性，使行动者依改变后的所爱而行",
+          "feedback": "效果来自意愿转化，不是身体被迫。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-12-q2-b",
+      "misconceptionId": "pascal-12-q2-misconception"
+    },
+    {
+      "id": "pascal-12-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "最难清偿的正义异议是什么？",
+      "targetNodeIds": [
+        "pascal-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-12-q3-a",
+          "text": "若决定性援助分配不同，未获援助者的归责为何公平",
+          "feedback": "仅说按欲望行动尚未回答援助分配。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-12-q3-b",
+          "text": "有效恩典是否能让机器进位；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步把神学责任问题换成无关技术对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-12-q3-a",
+      "misconceptionId": "pascal-12-q3-misconception"
+    },
+    {
+      "id": "pascal-12-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "自然手段在恩典论中仍可有什么作用？",
+      "targetNodeIds": [
+        "pascal-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-12-q4-a",
+          "text": "约束伤害、改变情境和准备注意，但不保证救赎结果",
+          "feedback": "有限行动空间与恩典优先可以并存。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-12-q4-b",
+          "text": "作为充分原因保证救赎信仰；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把准备与约束扩大成救赎生产。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-12-q4-a",
+      "misconceptionId": "pascal-12-q4-misconception"
+    },
+    {
+      "id": "pascal-13-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "诡辩术在此为何不等于一切复杂推理？",
+      "targetNodeIds": [
+        "pascal-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-13-q1-a",
+          "text": "因为只有简单口号才可能错误；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把形式复杂度当作真值标准。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-13-q1-b",
+          "text": "它特指利用复杂性系统性降低既定欲望的规范阻力",
+          "feedback": "问题在纠错方向被结果反转。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-13-q1-b",
+      "misconceptionId": "pascal-13-q1-misconception"
+    },
+    {
+      "id": "pascal-13-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "意向分析何时变成遮蔽？",
+      "targetNodeIds": [
+        "pascal-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-13-q2-a",
+          "text": "当相关各类人区分故意与误伤；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认意向本来具有的合法道德作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-13-q2-b",
+          "text": "当善意名称被用来删除手段的可预见伤害",
+          "feedback": "目的相关不等于目的词能洗净手段。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-13-q2-b",
+      "misconceptionId": "pascal-13-q2-misconception"
+    },
+    {
+      "id": "pascal-13-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "企业少数意见案例的判断关键是什么？",
+      "targetNodeIds": [
+        "pascal-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-13-q3-a",
+          "text": "采用理由是否独立于想要的许可并向反证开放",
+          "feedback": "新数据改变后，同一少数意见可获得不同地位。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-13-q3-b",
+          "text": "少数意见被当作充分推出错误；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是用人数替代证据与选择程序。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-13-q3-a",
+      "misconceptionId": "pascal-13-q3-misconception"
+    },
+    {
+      "id": "pascal-13-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "对《致外省人书》代表性异议的合适回应是什么？",
+      "targetNodeIds": [
+        "pascal-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-13-q4-a",
+          "text": "因存在讽刺，所涉各项引文和论证均无意义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从需核查扩大成全部失效。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-13-q4-b",
+          "text": "接受论战选择性，保留对筛选权威和删除伤害的结构批评",
+          "feedback": "历史泛化被收缩，机制判断仍可检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-13-q4-b",
+      "misconceptionId": "pascal-13-q4-misconception"
+    },
+    {
+      "id": "pascal-14-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "抽象第一原因为何不足以完成帕斯卡尔护教？",
+      "targetNodeIds": [
+        "pascal-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-14-q1-a",
+          "text": "它没有自动给出恩典、基督和救赎关系的具体内容",
+          "feedback": "自然神与基督教对象之间有内容断层。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-14-q1-b",
+          "text": "因为相关各类理性推理都被当作充分推出无意义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把证明限度扩大成取消理性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-14-q1-a",
+      "misconceptionId": "pascal-14-q1-misconception"
+    },
+    {
+      "id": "pascal-14-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“认识距离”概念要保留什么？",
+      "targetNodeIds": [
+        "pascal-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-14-q2-a",
+          "text": "征象可启动寻求而不强制结论，同时仍允许投射风险",
+          "feedback": "距离既解释空间，也制造审查责任。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-14-q2-b",
+          "text": "相关各类微弱征象都足以完成宗教证明；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把开始核查扩大成完成信任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-14-q2-a",
+      "misconceptionId": "pascal-14-q2-misconception"
+    },
+    {
+      "id": "pascal-14-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "隐匿论的不可证伪异议攻击什么？",
+      "targetNodeIds": [
+        "pascal-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-14-q3-a",
+          "text": "理论无法解释相关各类证据状态；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正好相反；问题是它似乎解释得过多。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-14-q3-b",
+          "text": "理论可把强证据和弱证据都吸收，缺少区分力",
+          "feedback": "若无可能失败条件，解释优势会变空。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-14-q3-b",
+      "misconceptionId": "pascal-14-q3-misconception"
+    },
+    {
+      "id": "pascal-14-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "回应后隐匿论能保留什么地位？",
+      "targetNodeIds": [
+        "pascal-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-14-q4-a",
+          "text": "作为证明所涉各项不信者恶意拒绝的工具；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把证据歧义转成对人格的自动归罪。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-14-q4-b",
+          "text": "作为神学内部的证据预期说明，而非该神学独立证明",
+          "feedback": "主张被明确收缩。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-14-q4-b",
+      "misconceptionId": "pascal-14-q4-misconception"
+    },
+    {
+      "id": "pascal-15-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "预言证据为何不能只凭古老成立？",
+      "targetNodeIds": [
+        "pascal-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-15-q1-a",
+          "text": "还需定年、具体性、事件独立性与完整选择范围",
+          "feedback": "古老只是条件之一。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-15-q1-b",
+          "text": "因为相关各类早于事件的文本都被当作充分推出伪造；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从需核验扩大成先验否定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-15-q1-a",
+      "misconceptionId": "pascal-15-q1-misconception"
+    },
+    {
+      "id": "pascal-15-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "象征解释最容易形成什么循环？",
+      "targetNodeIds": [
+        "pascal-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-15-q2-a",
+          "text": "用基督挑选重要细节，再用所选细节证明基督",
+          "feedback": "解释规则与结论会相互担保。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-15-q2-b",
+          "text": "拒绝在文本中发现相关各类重复；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步没有命中象征论的真实风险。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-15-q2-a",
+      "misconceptionId": "pascal-15-q2-misconception"
+    },
+    {
+      "id": "pascal-15-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "异常治愈为何不能直接证明特定教义？",
+      "targetNodeIds": [
+        "pascal-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-15-q3-a",
+          "text": "因为疾病从不会自然改善；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步既事实错误，也反向强化了直接推论。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-15-q3-b",
+          "text": "事件、证词可靠与教义解释是不同推理台阶",
+          "feedback": "异常本身没有携带完整教义标签。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-15-q3-b",
+      "misconceptionId": "pascal-15-q3-misconception"
+    },
+    {
+      "id": "pascal-15-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "替代论边界要求怎样处理犹太解释？",
+      "targetNodeIds": [
+        "pascal-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-15-q4-a",
+          "text": "赋予其独立声音，并对基督教重读的选择与伤害进行审查",
+          "feedback": "历史比较与规范边界同时进入。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-15-q4-b",
+          "text": "把它当作基督教证明过程中可以删除的旧外壳；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正是把持续传统工具化。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-15-q4-a",
+      "misconceptionId": "pascal-15-q4-misconception"
+    },
+    {
+      "id": "pascal-16-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“已经上船”最稳妥地取消什么？",
+      "targetNodeIds": [
+        "pascal-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-16-q1-a",
+          "text": "取消相关各类人继续调查证据的权利；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把实践压力扩大成禁止审查。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-16-q1-b",
+          "text": "取消命题悬置与实际生活投入不留例外地等同的假中立",
+          "feedback": "悬置信念仍会伴随资源与习惯方向。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-16-q1-b",
+      "misconceptionId": "pascal-16-q1-misconception"
+    },
+    {
+      "id": "pascal-16-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "期望论证为何不能直接复制分赌金计算？",
+      "targetNodeIds": [
+        "pascal-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-16-q2-a",
+          "text": "宗教状态、概率来源和无限价值尺度都更具争议",
+          "feedback": "牌局的明确模型条件并未自动保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-16-q2-b",
+          "text": "因为分赌金从不涉及未来可能；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认分赌金的核心结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-16-q2-a",
+      "misconceptionId": "pascal-16-q2-misconception"
+    },
+    {
+      "id": "pascal-16-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "多种互斥药物案例说明什么？",
+      "targetNodeIds": [
+        "pascal-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-16-q3-a",
+          "text": "高价值提高审查紧迫性，但不单独确定采取哪一项",
+          "feedback": "利害与选项支持是两个台阶。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-16-q3-b",
+          "text": "高价值足以让任一具体选项自动胜出；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正是忽略竞争选项与证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-16-q3-a",
+      "misconceptionId": "pascal-16-q3-misconception"
+    },
+    {
+      "id": "pascal-16-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "赌局经异议收缩后最能保留什么？",
+      "targetNodeIds": [
+        "pascal-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-16-q4-a",
+          "text": "矩阵已经证明基督教全部教义；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从实践理由跨越到具体启示内容。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-16-q4-b",
+          "text": "在有非零可信依据和重大后果时，长期不审查实际投入也需辩护",
+          "feedback": "它推动寻求，不冒充信仰生产。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-16-q4-b",
+      "misconceptionId": "pascal-16-q4-misconception"
+    },
+    {
+      "id": "pascal-17-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "抽象第一原因为何不能替代基督中介？",
+      "targetNodeIds": [
+        "pascal-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-17-q1-a",
+          "text": "因为第一原因在帕斯卡尔那里等同物理机器",
+          "feedback": "错步是虚构等同，没有命中内容断层。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-17-q1-b",
+          "text": "它未处理人同真理与善的破裂及关系修复；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "宇宙依赖与救赎关系是不同问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-17-q1-b",
+      "misconceptionId": "pascal-17-q1-misconception"
+    },
+    {
+      "id": "pascal-17-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "创造与堕落在双重人性解释中分别保留什么？",
+      "targetNodeIds": [
+        "pascal-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-17-q2-a",
+          "text": "创造保留伟大方向，堕落解释真实失序而不把它当最终定义",
+          "feedback": "两项前提各承担不同证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-17-q2-b",
+          "text": "创造证明人已完满，堕落证明人毫无价值；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步把两边都推成帕斯卡尔要避免的极端。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-17-q2-a",
+      "misconceptionId": "pascal-17-q2-misconception"
+    },
+    {
+      "id": "pascal-17-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "关系修复案例为何不能证明道成肉身？",
+      "targetNodeIds": [
+        "pascal-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-17-q3-a",
+          "text": "因为关系从来不需要相关各类中介；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是否认案例实际展示的修复结构。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-17-q3-b",
+          "text": "它只区分事实知识与和解功能，神学内容仍需独立依据",
+          "feedback": "案例承担概念区分而非启示证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-17-q3-b",
+      "misconceptionId": "pascal-17-q3-misconception"
+    },
+    {
+      "id": "pascal-17-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "经异议收缩后，基督教框架能保留什么？",
+      "targetNodeIds": [
+        "pascal-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-17-q4-a",
+          "text": "在其前提下统一伟大与悲惨的解释力，仍须与竞争方案比较",
+          "feedback": "条件性被明确保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-17-q4-b",
+          "text": "仅凭能容纳两边就获得几何式排他的证明；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把解释统一提升为演绎独占。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-17-q4-a",
+      "misconceptionId": "pascal-17-q4-misconception"
+    },
+    {
+      "id": "pascal-18-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "三种秩序为何不能按同一尺度相加？",
+      "targetNodeIds": [
+        "pascal-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-18-q1-a",
+          "text": "因为财富、真理和爱在相关各类处境都毫无联系；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步把不可换算扩大成互不影响。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-18-q1-b",
+          "text": "它们的卓越对象与承认资格不同，数量增加不能自动越界",
+          "feedback": "因果力量与正当资格被分开。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-18-q1-b",
+      "misconceptionId": "pascal-18-q1-misconception"
+    },
+    {
+      "id": "pascal-18-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "爱德“更高”最稳妥的含义是什么？",
+      "targetNodeIds": [
+        "pascal-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-18-q2-a",
+          "text": "它重排最终目的，却不直接取代科学和政治判断规则",
+          "feedback": "价值优先与管辖全能被区分。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-18-q2-b",
+          "text": "宗教机构可以不经检验决定所涉各项事实；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把终极等级转换成机构免责。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-18-q2-a",
+      "misconceptionId": "pascal-18-q2-misconception"
+    },
+    {
+      "id": "pascal-18-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "捐助者案例说明了哪项边界？",
+      "targetNodeIds": [
+        "pascal-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-18-q3-a",
+          "text": "资金可支持研究，却不能购买结论真值",
+          "feedback": "跨秩序因果支持没有生成认识资格。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-18-q3-b",
+          "text": "研究永远不应接受相关各类资助；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是从拒绝越权扩大成取消支持关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-18-q3-a",
+      "misconceptionId": "pascal-18-q3-misconception"
+    },
+    {
+      "id": "pascal-18-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "“身体秩序较低”为何不许可忽略贫困？",
+      "targetNodeIds": [
+        "pascal-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-18-q4-a",
+          "text": "因为较低意味着不存在相关各类局部义务；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正是把终极等级误成现实不重要。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-18-q4-b",
+          "text": "因为身体需要与制度伤害仍有不可替代的正义要求",
+          "feedback": "爱德必须经诚实照料表现，不能绕开物质处境。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-18-q4-b",
+      "misconceptionId": "pascal-18-q4-misconception"
+    },
+    {
+      "id": "pascal-19-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "注意治理为何不等于直接命令信念？",
+      "targetNodeIds": [
+        "pascal-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-19-q1-a",
+          "text": "它能改变接触材料和行动惯性，却不能由重复动作推出对象为真",
+          "feedback": "准备条件与真值生产被分开。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-19-q1-b",
+          "text": "因为人不留例外地不能决定查阅相关各类材料；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步是把信念非直接自愿扩大成没有行动空间。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-19-q1-a",
+      "misconceptionId": "pascal-19-q1-misconception"
+    },
+    {
+      "id": "pascal-19-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“可负责而不可控制”保留哪两项边界？",
+      "targetNodeIds": [
+        "pascal-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-19-q2-a",
+          "text": "既不需负责，也可凭流程控制恩典；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步同时取消了两边。",
+          "isCorrect": false
+        },
+        {
+          "id": "pascal-19-q2-b",
+          "text": "对诚实查验和不伤害负责，但不能保证救赎性转化",
+          "feedback": "责任没有被结果控制欲吞没。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "pascal-19-q2-b",
+      "misconceptionId": "pascal-19-q2-misconception"
+    },
+    {
+      "id": "pascal-19-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "疾病案例为何要求区分第一人称祈祷与外部命令？",
+      "targetNodeIds": [
+        "pascal-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-19-q3-a",
+          "text": "病者在不可避免限制中重排欲望，不授权旁人赞美痛苦或拒绝治疗",
+          "feedback": "言说者与可避免条件改变规范判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-19-q3-b",
+          "text": "因为疾病在相关各类条件下都具有自动救赎价值；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步正是把灵修回应本体化为痛苦善。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-19-q3-a",
+      "misconceptionId": "pascal-19-q3-misconception"
+    },
+    {
+      "id": "pascal-19-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "整条路线最后保留的科学—宗教关系是什么？",
+      "targetNodeIds": [
+        "pascal-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "pascal-19-q4-a",
+          "text": "共享谦抑与纠错纪律，但对象、证据制度和救赎能力不同",
+          "feedback": "连续性与断裂被同时保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "pascal-19-q4-b",
+          "text": "宗教可随意改写实验，只要目标更高；这项判断还须接受题干所涉文本关系与适用范围的检验",
+          "feedback": "错步把价值优先误作证据越权。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "pascal-19-q4-a",
+      "misconceptionId": "pascal-19-q4-misconception"
+    }
+  ]
+}

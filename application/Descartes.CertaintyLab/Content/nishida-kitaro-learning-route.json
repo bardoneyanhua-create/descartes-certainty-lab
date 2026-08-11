@@ -1,0 +1,5217 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "nishida-kitaro--N01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。",
+      "explanation": "西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "developmental stages without sealed systems"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。",
+      "explanation": "本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route question"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "nishida-kitaro--N02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。",
+      "explanation": "《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch1"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pure experience before judgment and subject-object division"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。",
+      "explanation": "在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "experience prior to the individual"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。",
+      "explanation": "《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "thinking articulates a prior experiential whole"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。",
+      "explanation": "同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch3"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "will is not identical with completed external motion"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。",
+      "explanation": "《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-good"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "good as realization of personality"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。",
+      "explanation": "其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-religion"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "religion as transformation rather than instrument"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。",
+      "explanation": "西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-irsc-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "self-awareness as self-reflecting activity"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。",
+      "explanation": "现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "self-awareness grounds reflection without abolishing it"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。",
+      "explanation": "自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "no pregiven substantial ego in self-awareness"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。",
+      "explanation": "西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "abandonment of absolute-will formulation"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。",
+      "explanation": "“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-predicate"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "predicate direction and the place of judgment"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。",
+      "explanation": "西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-levels"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "places of being relative nothingness and absolute nothingness"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。",
+      "explanation": "绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-absolute"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "absolute nothingness as non-objectifiable place"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。",
+      "explanation": "把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-place"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "anti-nihilist boundary of absolute nothingness"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。",
+      "explanation": "“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-logic-life-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "prelogical origin of logic in historical life"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "OUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。",
+      "explanation": "OUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-oup-place-record"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "edition-based development from place to history"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。",
+      "explanation": "行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-acting-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "acting intuition as embodied making-and-seeing"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Sugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。",
+      "explanation": "Sugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-jstage-acting"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Sugimoto anti-mystical historicity reading"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。",
+      "explanation": "西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-fundamental-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "from the created to the creating"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。",
+      "explanation": "绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "absolute present as historical openness"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。",
+      "explanation": "“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-i-thou-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "I-Thou reciprocal individuation"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。",
+      "explanation": "历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "mutual formation of embodied individuals and world"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。",
+      "explanation": "龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。",
+      "identity": "buddhist-comparison; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nagarjuna-empty"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Madhyamaka comparison without identity claim"
+      ],
+      "voiceClass": "buddhist-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。",
+      "explanation": "詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。",
+      "identity": "western-comparison; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-james-pure"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Jamesian comparison without identity claim"
+      ],
+      "voiceClass": "western-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。",
+      "explanation": "西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。",
+      "identity": "kyoto-successor; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nishitani-successor"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Nishitani as successor rather than Nishida"
+      ],
+      "voiceClass": "kyoto-successor"
+    },
+    {
+      "id": "nishida-kitaro--N14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。",
+      "explanation": "现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-critique"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Kyoto School plurality and attribution boundary"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。",
+      "explanation": "西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。",
+      "identity": "modern-critique; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-politics"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "wartime political ambiguity"
+      ],
+      "voiceClass": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Yoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。",
+      "explanation": "Yoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。",
+      "identity": "modern-critique; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-arisaka"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Arisaka postcolonial critique of universalism"
+      ],
+      "voiceClass": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。",
+      "explanation": "晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。",
+      "identity": "nishida-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-last-primary"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "death finite self and inverse correlation"
+      ],
+      "voiceClass": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。",
+      "explanation": "现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-religion",
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "abilityIds": [
+        "nishida-kitaro-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "late shift without fabricated new system"
+      ],
+      "voiceClass": "successor-interpretation"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "nishida-kitaro--src-sep-stages",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§8.2, “Stages in Nishida’s Thought”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-self-awareness",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§2.2, “Self-Awareness”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-place",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§3 and §3.1, “Theory of Universals and the Logic of Place” and “Absolute Nothingness”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-history",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§4 and §4.1, “Theory of the Historical World” and “Enactive Intuition”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-religion",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§5, “Nishida’s Theology: the Finite Self meets the Absolute”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-critique",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§10–11, “Critiques of Nishida’s Philosophy” and “Nishida’s Influence”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-sep-politics",
+      "workId": "Nishida Kitarō",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2020 archived edition",
+      "locator": "§1, “Biography”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Nishida Kitarō",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-critique",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-zen-ch1",
+      "workId": "善の研究",
+      "edition": "青空文庫 XHTML; 底本：岩波文庫『善の研究』1999年第86刷（1979年第48刷改版）",
+      "locator": "第一編「純粋経験」第一章「純粋経験」",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "善の研究",
+      "stableUrl": "https://www.aozora.gr.jp/cards/000182/files/946_74853.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-zen-ch2",
+      "workId": "善の研究",
+      "edition": "青空文庫 XHTML; 底本：岩波文庫『善の研究』1999年第86刷（1979年第48刷改版）",
+      "locator": "第一編「純粋経験」第二章「思惟」",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "善の研究",
+      "stableUrl": "https://www.aozora.gr.jp/cards/000182/files/946_74853.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-zen-ch3",
+      "workId": "善の研究",
+      "edition": "青空文庫 XHTML; 底本：岩波文庫『善の研究』1999年第86刷（1979年第48刷改版）",
+      "locator": "第一編「純粋経験」第三章「意志」",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "善の研究",
+      "stableUrl": "https://www.aozora.gr.jp/cards/000182/files/946_74853.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-zen-good",
+      "workId": "善の研究",
+      "edition": "青空文庫 XHTML; 底本：岩波文庫『善の研究』1999年第86刷（1979年第48刷改版）",
+      "locator": "第三編「善」第十三章「完全なる善行」",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "善の研究",
+      "stableUrl": "https://www.aozora.gr.jp/cards/000182/files/946_74853.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-zen-religion",
+      "workId": "善の研究",
+      "edition": "青空文庫 XHTML; 底本：岩波文庫『善の研究』1999年第86刷（1979年第48刷改版）",
+      "locator": "第四編「宗教」第一章「宗教的要求」",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "善の研究",
+      "stableUrl": "https://www.aozora.gr.jp/cards/000182/files/946_74853.html",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-oup-place-record",
+      "workId": "Place and Dialectic: Two Essays by Nishida Kitarō",
+      "edition": "John W. M. Krummel and Shigenori Nagatomo, trans., Oxford University Press, 2012",
+      "locator": "publisher contents and abstract: ch. 2 “Basho”; ch. 3 “Logic and Life”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Place and Dialectic: Two Essays by Nishida Kitarō",
+      "stableUrl": "https://academic.oup.com/book/6968",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-jstage-acting",
+      "workId": "“Acting Intuition” and the Problem of Historicity in Nishida Kitaro",
+      "edition": "Koichi Sugimoto, Studies in the Philosophy of Religion 21 (2004), pp. 49–61",
+      "locator": "article abstract and bibliographic record",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "“Acting Intuition” and the Problem of Historicity in Nishida Kitaro",
+      "stableUrl": "https://doi.org/10.20679/sprj.21.0_49",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-arisaka",
+      "workId": "Beyond “East and West”: Nishida’s Universalism and Postcolonial Critique",
+      "edition": "Yoko Arisaka, The Review of Politics 59.3 (1997), pp. 541–560",
+      "locator": "article abstract and bibliographic record",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Beyond “East and West”: Nishida’s Universalism and Postcolonial Critique",
+      "stableUrl": "https://doi.org/10.1017/S0034670500027716",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-critique",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-irsc-primary",
+      "workId": "Intuition and Reflection in Self-Consciousness",
+      "edition": "Valdo H. Viglielmo, Takeuchi Yoshinori, and Joseph S. O’Leary, trans., SUNY Press, 1987",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact section and page for the unity of intuition and reflection",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Intuition and Reflection in Self-Consciousness",
+      "stableUrl": "https://sunypress.edu/Books/I/Intuition-and-Reflection-in-Self-Consciousness2",
+      "boundaryZh": "Exact section and page for the unity of intuition and reflection",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-basho-predicate",
+      "workId": "“Basho”",
+      "edition": "in Place and Dialectic, John W. M. Krummel and Shigenori Nagatomo, trans., Oxford University Press, 2012",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page span for judgment, subject, predicate, and encompassing place",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“Basho”",
+      "stableUrl": "https://academic.oup.com/book/6968/chapter/151224701",
+      "boundaryZh": "Exact page span for judgment, subject, predicate, and encompassing place",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-basho-levels",
+      "workId": "“Basho”",
+      "edition": "in Place and Dialectic, John W. M. Krummel and Shigenori Nagatomo, trans., Oxford University Press, 2012",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page span for places of being, relative nothingness, and absolute nothingness",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“Basho”",
+      "stableUrl": "https://academic.oup.com/book/6968/chapter/151224701",
+      "boundaryZh": "Exact page span for places of being, relative nothingness, and absolute nothingness",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-basho-absolute",
+      "workId": "“Basho”",
+      "edition": "in Place and Dialectic, John W. M. Krummel and Shigenori Nagatomo, trans., Oxford University Press, 2012",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page span for absolute nothingness as the place that is not another determinate being",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“Basho”",
+      "stableUrl": "https://academic.oup.com/book/6968/chapter/151224701",
+      "boundaryZh": "Exact page span for absolute nothingness as the place that is not another determinate being",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-logic-life-primary",
+      "workId": "“Logic and Life”",
+      "edition": "in Place and Dialectic, John W. M. Krummel and Shigenori Nagatomo, trans., Oxford University Press, 2012",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page span for the prelogical origin of logic in historical-social life",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“Logic and Life”",
+      "stableUrl": "https://academic.oup.com/book/6968/chapter/151243222",
+      "boundaryZh": "Exact page span for the prelogical origin of logic in historical-social life",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-acting-primary",
+      "workId": "“The Standpoint of Active Intuition”",
+      "edition": "Nishida Kitarō, selected English translation; edition identity requires direct collation",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact English edition identity and page span for acting intuition as embodied making and seeing",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“The Standpoint of Active Intuition”",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": "Exact English edition identity and page span for acting intuition as embodied making and seeing",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-fundamental-primary",
+      "workId": "Fundamental Problems of Philosophy: The World of Action and the Dialectical World",
+      "edition": "David A. Dilworth, trans., Sophia University, 1970",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact essay section and page for “from the created to the creating”",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Fundamental Problems of Philosophy: The World of Action and the Dialectical World",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": "Exact essay section and page for “from the created to the creating”",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-i-thou-primary",
+      "workId": "“I and Thou”",
+      "edition": "Nishida Kitarō, selected English translation; edition identity requires direct collation",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact English edition identity and page span for reciprocal self-determination of I and Thou",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“I and Thou”",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2020/entries/nishida-kitaro/",
+      "boundaryZh": "Exact English edition identity and page span for reciprocal self-determination of I and Thou",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-james-pure",
+      "workId": "Essays in Radical Empiricism",
+      "edition": "William James, critical English edition to be selected",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact essay and page for James’s “pure experience” used only as a Western comparison object",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Essays in Radical Empiricism",
+      "stableUrl": "https://www.gutenberg.org/ebooks/32547",
+      "boundaryZh": "Exact essay and page for James’s “pure experience” used only as a Western comparison object",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "western-comparison",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-nagarjuna-empty",
+      "workId": "Mūlamadhyamakakārikā",
+      "edition": "Mark Siderits and Shōryū Katsura, trans., Wisdom Publications, 2013",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Chapter 24, verse 18; exact edition page requires direct collation",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Mūlamadhyamakakārikā",
+      "stableUrl": "https://wisdomexperience.org/product/nagarjunas-middle-way/",
+      "boundaryZh": "Chapter 24, verse 18; exact edition page requires direct collation",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "buddhist-comparison",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-nishitani-successor",
+      "workId": "Religion and Nothingness",
+      "edition": "Jan Van Bragt, trans., University of California Press, 1982",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page where Nishitani develops his own standpoint of emptiness; not a Nishida locator",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Religion and Nothingness",
+      "stableUrl": "https://www.ucpress.edu/books/religion-and-nothingness/paper",
+      "boundaryZh": "Exact page where Nishitani develops his own standpoint of emptiness; not a Nishida locator",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "kyoto-successor",
+      "year": null
+    },
+    {
+      "id": "nishida-kitaro--src-last-primary",
+      "workId": "“The Logic of the Place of Nothingness and the Religious Worldview”",
+      "edition": "in Last Writings, David A. Dilworth, trans., University of Hawai‘i Press, 1987",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Exact page span for death, finite self, and inverse correlation",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "“The Logic of the Place of Nothingness and the Religious Worldview”",
+      "stableUrl": "https://uhpress.hawaii.edu/title/last-writings-nothingness-and-the-religious-worldview/",
+      "boundaryZh": "Exact page span for death, finite self, and inverse correlation",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "nishida-primary",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "nishida-experience-place-historical-world",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "西田幾多郎：经验、场所与历史世界",
+      "lessonIds": [
+        "nishida-kitaro--nishida-01",
+        "nishida-kitaro--nishida-02",
+        "nishida-kitaro--nishida-03",
+        "nishida-kitaro--nishida-04",
+        "nishida-kitaro--nishida-05",
+        "nishida-kitaro--nishida-06",
+        "nishida-kitaro--nishida-07",
+        "nishida-kitaro--nishida-08",
+        "nishida-kitaro--nishida-09",
+        "nishida-kitaro--nishida-10",
+        "nishida-kitaro--nishida-11",
+        "nishida-kitaro--nishida-12",
+        "nishida-kitaro--nishida-13",
+        "nishida-kitaro--nishida-14",
+        "nishida-kitaro--nishida-15",
+        "nishida-kitaro--nishida-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Nishida Kitarō",
+        "nameZh": "西田幾多郎",
+        "sourceRouteId": "nishida-experience-place-historical-world"
+      },
+      "summary": "1. 从阶段地图开始"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "nishida-kitaro--nishida-01",
+      "order": 1,
+      "title": "1. 从阶段地图开始",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 从阶段地图开始",
+      "coreExplanation": "西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。\n\n本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。",
+      "sections": [
+        {
+          "heading": "1. 从阶段地图开始",
+          "paragraphs": [
+            "西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。",
+            "本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N01-C1",
+        "nishida-kitaro--N01-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N01-Q1",
+        "nishida-kitaro--N01-Q2",
+        "nishida-kitaro--N01-Q3",
+        "nishida-kitaro--N01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-02",
+      "sourceIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "essentialQuestion": "1. 从阶段地图开始",
+      "initialFocusId": "nishida-kitaro--nishida-01-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-02",
+      "order": 2,
+      "title": "2. 纯粹经验不是内在影像",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 纯粹经验不是内在影像",
+      "coreExplanation": "《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。\n\n在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。",
+      "sections": [
+        {
+          "heading": "2. 纯粹经验不是内在影像",
+          "paragraphs": [
+            "《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。",
+            "在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch1",
+            "nishida-kitaro--src-zen-ch2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N02-C1",
+        "nishida-kitaro--N02-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N02-Q1",
+        "nishida-kitaro--N02-Q2",
+        "nishida-kitaro--N02-Q3",
+        "nishida-kitaro--N02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-03",
+      "sourceIds": [
+        "nishida-kitaro--src-zen-ch1",
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "essentialQuestion": "2. 纯粹经验不是内在影像",
+      "initialFocusId": "nishida-kitaro--nishida-02-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-03",
+      "order": 3,
+      "title": "3. 思惟与意志仍在经验之中",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 思惟与意志仍在经验之中",
+      "coreExplanation": "《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。\n\n同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。",
+      "sections": [
+        {
+          "heading": "3. 思惟与意志仍在经验之中",
+          "paragraphs": [
+            "《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。",
+            "同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2",
+            "nishida-kitaro--src-zen-ch3"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N03-C1",
+        "nishida-kitaro--N03-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N03-Q1",
+        "nishida-kitaro--N03-Q2",
+        "nishida-kitaro--N03-Q3",
+        "nishida-kitaro--N03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-04",
+      "sourceIds": [
+        "nishida-kitaro--src-zen-ch2",
+        "nishida-kitaro--src-zen-ch3"
+      ],
+      "essentialQuestion": "3. 思惟与意志仍在经验之中",
+      "initialFocusId": "nishida-kitaro--nishida-03-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-04",
+      "order": 4,
+      "title": "4. 《善的研究》的善与宗教",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 《善的研究》的善与宗教",
+      "coreExplanation": "《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。\n\n其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。",
+      "sections": [
+        {
+          "heading": "4. 《善的研究》的善与宗教",
+          "paragraphs": [
+            "《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。",
+            "其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-good",
+            "nishida-kitaro--src-zen-religion"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N04-C1",
+        "nishida-kitaro--N04-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N04-Q1",
+        "nishida-kitaro--N04-Q2",
+        "nishida-kitaro--N04-Q3",
+        "nishida-kitaro--N04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-05",
+      "sourceIds": [
+        "nishida-kitaro--src-zen-good",
+        "nishida-kitaro--src-zen-religion"
+      ],
+      "essentialQuestion": "4. 《善的研究》的善与宗教",
+      "initialFocusId": "nishida-kitaro--nishida-04-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-05",
+      "order": 5,
+      "title": "5. 自觉连接直观与反省",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 自觉连接直观与反省",
+      "coreExplanation": "西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。\n\n现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。",
+      "sections": [
+        {
+          "heading": "5. 自觉连接直观与反省",
+          "paragraphs": [
+            "西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。",
+            "现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-irsc-primary",
+            "nishida-kitaro--src-sep-self-awareness"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N05-C1",
+        "nishida-kitaro--N05-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N05-Q1",
+        "nishida-kitaro--N05-Q2",
+        "nishida-kitaro--N05-Q3",
+        "nishida-kitaro--N05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-06",
+      "sourceIds": [
+        "nishida-kitaro--src-irsc-primary",
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "essentialQuestion": "5. 自觉连接直观与反省",
+      "initialFocusId": "nishida-kitaro--nishida-05-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-06",
+      "order": 6,
+      "title": "6. 自觉不是实体自我",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 自觉不是实体自我",
+      "coreExplanation": "自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。\n\n西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。",
+      "sections": [
+        {
+          "heading": "6. 自觉不是实体自我",
+          "paragraphs": [
+            "自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。",
+            "西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N06-C1",
+        "nishida-kitaro--N06-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N06-Q1",
+        "nishida-kitaro--N06-Q2",
+        "nishida-kitaro--N06-Q3",
+        "nishida-kitaro--N06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-07",
+      "sourceIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "essentialQuestion": "6. 自觉不是实体自我",
+      "initialFocusId": "nishida-kitaro--nishida-06-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-07",
+      "order": 7,
+      "title": "7. 判断发生在“场所”中",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 判断发生在“场所”中",
+      "coreExplanation": "“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。\n\n西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。",
+      "sections": [
+        {
+          "heading": "7. 判断发生在“场所”中",
+          "paragraphs": [
+            "“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。",
+            "西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-predicate",
+            "nishida-kitaro--src-basho-levels"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N07-C1",
+        "nishida-kitaro--N07-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N07-Q1",
+        "nishida-kitaro--N07-Q2",
+        "nishida-kitaro--N07-Q3",
+        "nishida-kitaro--N07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-08",
+      "sourceIds": [
+        "nishida-kitaro--src-basho-predicate",
+        "nishida-kitaro--src-basho-levels"
+      ],
+      "essentialQuestion": "7. 判断发生在“场所”中",
+      "initialFocusId": "nishida-kitaro--nishida-07-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-08",
+      "order": 8,
+      "title": "8. 绝对无不是虚无主义",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 绝对无不是虚无主义",
+      "coreExplanation": "绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。\n\n把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。",
+      "sections": [
+        {
+          "heading": "8. 绝对无不是虚无主义",
+          "paragraphs": [
+            "绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。",
+            "把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-absolute",
+            "nishida-kitaro--src-sep-place"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N08-C1",
+        "nishida-kitaro--N08-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N08-Q1",
+        "nishida-kitaro--N08-Q2",
+        "nishida-kitaro--N08-Q3",
+        "nishida-kitaro--N08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-09",
+      "sourceIds": [
+        "nishida-kitaro--src-basho-absolute",
+        "nishida-kitaro--src-sep-place"
+      ],
+      "essentialQuestion": "8. 绝对无不是虚无主义",
+      "initialFocusId": "nishida-kitaro--nishida-08-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-09",
+      "order": 9,
+      "title": "9. 从 basho 到生命逻辑",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 从 basho 到生命逻辑",
+      "coreExplanation": "“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。\n\nOUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。",
+      "sections": [
+        {
+          "heading": "9. 从 basho 到生命逻辑",
+          "paragraphs": [
+            "“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。",
+            "OUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-logic-life-primary",
+            "nishida-kitaro--src-oup-place-record"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N09-C1",
+        "nishida-kitaro--N09-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N09-Q1",
+        "nishida-kitaro--N09-Q2",
+        "nishida-kitaro--N09-Q3",
+        "nishida-kitaro--N09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-10",
+      "sourceIds": [
+        "nishida-kitaro--src-logic-life-primary",
+        "nishida-kitaro--src-oup-place-record"
+      ],
+      "essentialQuestion": "9. 从 basho 到生命逻辑",
+      "initialFocusId": "nishida-kitaro--nishida-09-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-10",
+      "order": 10,
+      "title": "10. 行动直观：做中见",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 行动直观：做中见",
+      "coreExplanation": "行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。\n\nSugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。",
+      "sections": [
+        {
+          "heading": "10. 行动直观：做中见",
+          "paragraphs": [
+            "行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。",
+            "Sugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-acting-primary",
+            "nishida-kitaro--src-jstage-acting"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N10-C1",
+        "nishida-kitaro--N10-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N10-Q1",
+        "nishida-kitaro--N10-Q2",
+        "nishida-kitaro--N10-Q3",
+        "nishida-kitaro--N10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-11",
+      "sourceIds": [
+        "nishida-kitaro--src-acting-primary",
+        "nishida-kitaro--src-jstage-acting"
+      ],
+      "essentialQuestion": "10. 行动直观：做中见",
+      "initialFocusId": "nishida-kitaro--nishida-10-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-11",
+      "order": 11,
+      "title": "11. 历史世界从被造到创造",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 历史世界从被造到创造",
+      "coreExplanation": "西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。\n\n绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。",
+      "sections": [
+        {
+          "heading": "11. 历史世界从被造到创造",
+          "paragraphs": [
+            "西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。",
+            "绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-fundamental-primary",
+            "nishida-kitaro--src-sep-history"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N11-C1",
+        "nishida-kitaro--N11-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N11-Q1",
+        "nishida-kitaro--N11-Q2",
+        "nishida-kitaro--N11-Q3",
+        "nishida-kitaro--N11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-12",
+      "sourceIds": [
+        "nishida-kitaro--src-fundamental-primary",
+        "nishida-kitaro--src-sep-history"
+      ],
+      "essentialQuestion": "11. 历史世界从被造到创造",
+      "initialFocusId": "nishida-kitaro--nishida-11-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-12",
+      "order": 12,
+      "title": "12. 个体、身体与他者",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 个体、身体与他者",
+      "coreExplanation": "“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。\n\n历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。",
+      "sections": [
+        {
+          "heading": "12. 个体、身体与他者",
+          "paragraphs": [
+            "“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。",
+            "历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-i-thou-primary",
+            "nishida-kitaro--src-sep-history"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N12-C1",
+        "nishida-kitaro--N12-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N12-Q1",
+        "nishida-kitaro--N12-Q2",
+        "nishida-kitaro--N12-Q3",
+        "nishida-kitaro--N12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-13",
+      "sourceIds": [
+        "nishida-kitaro--src-i-thou-primary",
+        "nishida-kitaro--src-sep-history"
+      ],
+      "essentialQuestion": "12. 个体、身体与他者",
+      "initialFocusId": "nishida-kitaro--nishida-12-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-13",
+      "order": 13,
+      "title": "13. 佛教与西方比较都要限界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 佛教与西方比较都要限界",
+      "coreExplanation": "龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。\n\n詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。",
+      "sections": [
+        {
+          "heading": "13. 佛教与西方比较都要限界",
+          "paragraphs": [
+            "龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。",
+            "詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nagarjuna-empty",
+            "nishida-kitaro--src-james-pure"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N13-C1",
+        "nishida-kitaro--N13-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N13-Q1",
+        "nishida-kitaro--N13-Q2",
+        "nishida-kitaro--N13-Q3",
+        "nishida-kitaro--N13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-14",
+      "sourceIds": [
+        "nishida-kitaro--src-nagarjuna-empty",
+        "nishida-kitaro--src-james-pure"
+      ],
+      "essentialQuestion": "13. 佛教与西方比较都要限界",
+      "initialFocusId": "nishida-kitaro--nishida-13-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-14",
+      "order": 14,
+      "title": "14. 京都学派不是一个人的声音",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 京都学派不是一个人的声音",
+      "coreExplanation": "西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。\n\n现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。",
+      "sections": [
+        {
+          "heading": "14. 京都学派不是一个人的声音",
+          "paragraphs": [
+            "西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。",
+            "现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nishitani-successor",
+            "nishida-kitaro--src-sep-critique"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N14-C1",
+        "nishida-kitaro--N14-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N14-Q1",
+        "nishida-kitaro--N14-Q2",
+        "nishida-kitaro--N14-Q3",
+        "nishida-kitaro--N14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-15",
+      "sourceIds": [
+        "nishida-kitaro--src-nishitani-successor",
+        "nishida-kitaro--src-sep-critique"
+      ],
+      "essentialQuestion": "14. 京都学派不是一个人的声音",
+      "initialFocusId": "nishida-kitaro--nishida-14-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-15",
+      "order": 15,
+      "title": "15. 政治语境必须具名争论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 政治语境必须具名争论",
+      "coreExplanation": "西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。\n\nYoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。",
+      "sections": [
+        {
+          "heading": "15. 政治语境必须具名争论",
+          "paragraphs": [
+            "西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。",
+            "Yoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-politics",
+            "nishida-kitaro--src-arisaka"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N15-C1",
+        "nishida-kitaro--N15-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N15-Q1",
+        "nishida-kitaro--N15-Q2",
+        "nishida-kitaro--N15-Q3",
+        "nishida-kitaro--N15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "nishida-kitaro--nishida-16",
+      "sourceIds": [
+        "nishida-kitaro--src-sep-politics",
+        "nishida-kitaro--src-arisaka"
+      ],
+      "essentialQuestion": "15. 政治语境必须具名争论",
+      "initialFocusId": "nishida-kitaro--nishida-15-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "nishida-kitaro--nishida-16",
+      "order": 16,
+      "title": "16. 宗教与晚期自我",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 宗教与晚期自我",
+      "coreExplanation": "晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。\n\n现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。",
+      "sections": [
+        {
+          "heading": "16. 宗教与晚期自我",
+          "paragraphs": [
+            "晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。",
+            "现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-last-primary",
+            "nishida-kitaro--src-sep-religion",
+            "nishida-kitaro--src-sep-stages"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "nishida-kitaro--N16-C1",
+        "nishida-kitaro--N16-C2"
+      ],
+      "checkIds": [
+        "nishida-kitaro--N16-Q1",
+        "nishida-kitaro--N16-Q2",
+        "nishida-kitaro--N16-Q3",
+        "nishida-kitaro--N16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "nishida-kitaro--src-last-primary",
+        "nishida-kitaro--src-sep-religion",
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "essentialQuestion": "16. 宗教与晚期自我",
+      "initialFocusId": "nishida-kitaro--nishida-16-title",
+      "routeId": "nishida-experience-place-historical-world",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "nishida-kitaro--N01-Q1",
+      "kind": "binary",
+      "prompt": "关于“developmental stages without sealed systems”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N01-Q1-1",
+          "text": "准确：西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。",
+          "feedback": "正确项“准确：西田的“纯粹经验—自觉—场所—历史世界”可作为启发式阶段地图，但它不是四套彼此隔绝的体系。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N01-Q1-2",
+          "text": "错误：把“developmental stages without sealed systems”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“developmental stages without sealed systems”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N01-Q1-1",
+      "misconceptionId": "nishida-kitaro--N01-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N01-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-01",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N01-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N01-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N01-Q2-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§8.2, “Stages in Nishida’s Thought””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§8.2, “Stages in Nishida’s Thought””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N01-Q2-2",
+      "misconceptionId": "nishida-kitaro--N01-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N01-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N01-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-01",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N01-Q3",
+      "kind": "binary",
+      "prompt": "关于“bounded route question”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N01-Q3-1",
+          "text": "准确：本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。",
+          "feedback": "正确项“准确：本路线追问“自我如何在经验、行动与世界中形成”，这是有边界的教学综合，不冒充西田未写出的单一公式。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N01-Q3-2",
+          "text": "错误：把“bounded route question”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“bounded route question”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N01-Q3-1",
+      "misconceptionId": "nishida-kitaro--N01-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "nishida-kitaro--nishida-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "nishida-kitaro--N01-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N01-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N01-Q4-2",
+          "text": "保留 route-synthesis 声部与已闭合的“§8.2, “Stages in Nishida’s Thought””定位。",
+          "feedback": "正确项“保留 route-synthesis 声部与已闭合的“§8.2, “Stages in Nishida’s Thought””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N01-Q4-2",
+      "misconceptionId": "nishida-kitaro--N01-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N01-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "nishida-kitaro--nishida-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "nishida-kitaro--N02-Q1",
+      "kind": "binary",
+      "prompt": "关于“pure experience before judgment and subject-object division”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N02-Q1-1",
+          "text": "准确：《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。",
+          "feedback": "正确项“准确：《善的研究》把纯粹经验规定为尚未加入判断、尚未分出主客的直接经验。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch1"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N02-Q1-2",
+          "text": "错误：把“pure experience before judgment and subject-object division”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“pure experience before judgment and subject-object division”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch1"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N02-Q1-1",
+      "misconceptionId": "nishida-kitaro--N02-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch1"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N02-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-02",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N02-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N02-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch1"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N02-Q2-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第一章「純粋経験」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第一章「純粋経験」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch1"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N02-Q2-2",
+      "misconceptionId": "nishida-kitaro--N02-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch1"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N02-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N02-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-02",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N02-Q3",
+      "kind": "binary",
+      "prompt": "关于“experience prior to the individual”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N02-Q3-1",
+          "text": "准确：在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。",
+          "feedback": "正确项“准确：在这一开端中，不是先有一个封闭个人再“拥有”经验；西田明确让经验在个人区分之前。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N02-Q3-2",
+          "text": "错误：把“experience prior to the individual”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“experience prior to the individual”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N02-Q3-1",
+      "misconceptionId": "nishida-kitaro--N02-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N02-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-02",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N02-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N02-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N02-Q4-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第二章「思惟」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第二章「思惟」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N02-Q4-2",
+      "misconceptionId": "nishida-kitaro--N02-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N02-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N02-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-02",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-Q1",
+      "kind": "binary",
+      "prompt": "关于“thinking articulates a prior experiential whole”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N03-Q1-1",
+          "text": "准确：《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。",
+          "feedback": "正确项“准确：《善的研究》第二章认为判断分析一个先行的统一表象，因此思惟并非从外部拼接孤立感觉。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N03-Q1-2",
+          "text": "错误：把“thinking articulates a prior experiential whole”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“thinking articulates a prior experiential whole”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N03-Q1-1",
+      "misconceptionId": "nishida-kitaro--N03-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N03-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-03",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N03-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N03-Q2-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第二章「思惟」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第二章「思惟」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch2"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N03-Q2-2",
+      "misconceptionId": "nishida-kitaro--N03-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch2"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N03-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N03-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-03",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-Q3",
+      "kind": "binary",
+      "prompt": "关于“will is not identical with completed external motion”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N03-Q3-1",
+          "text": "准确：同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。",
+          "feedback": "正确项“准确：同书第三章从纯粹经验的立场讨论意志，并区分意志与是否成功发生的外部动作。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch3"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N03-Q3-2",
+          "text": "错误：把“will is not identical with completed external motion”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“will is not identical with completed external motion”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch3"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N03-Q3-1",
+      "misconceptionId": "nishida-kitaro--N03-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch3"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N03-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-03",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N03-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N03-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch3"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N03-Q4-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第三章「意志」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第一編「純粋経験」第三章「意志」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-ch3"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N03-Q4-2",
+      "misconceptionId": "nishida-kitaro--N03-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-ch3"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N03-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N03-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-03",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-Q1",
+      "kind": "binary",
+      "prompt": "关于“good as realization of personality”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N04-Q1-1",
+          "text": "准确：《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。",
+          "feedback": "正确项“准确：《善的研究》把善概括为人格的实现，而不是把善缩成遵守一张外在规则清单。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-good"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N04-Q1-2",
+          "text": "错误：把“good as realization of personality”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“good as realization of personality”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-good"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N04-Q1-1",
+      "misconceptionId": "nishida-kitaro--N04-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-good"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N04-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-04",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N04-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-good"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N04-Q2-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第三編「善」第十三章「完全なる善行」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第三編「善」第十三章「完全なる善行」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-good"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N04-Q2-2",
+      "misconceptionId": "nishida-kitaro--N04-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-good"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N04-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N04-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-04",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-Q3",
+      "kind": "binary",
+      "prompt": "关于“religion as transformation rather than instrument”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N04-Q3-1",
+          "text": "准确：其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。",
+          "feedback": "正确项“准确：其“宗教的要求”被写成自我生命的转变要求，而不是取得现世利益或心理安慰的工具。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-religion"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N04-Q3-2",
+          "text": "错误：把“religion as transformation rather than instrument”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“religion as transformation rather than instrument”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-religion"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N04-Q3-1",
+      "misconceptionId": "nishida-kitaro--N04-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-religion"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N04-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-04",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N04-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N04-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-religion"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N04-Q4-2",
+          "text": "保留 nishida-primary 声部与已闭合的“第四編「宗教」第一章「宗教的要求」”定位。",
+          "feedback": "正确项“保留 nishida-primary 声部与已闭合的“第四編「宗教」第一章「宗教的要求」”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-zen-religion"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N04-Q4-2",
+      "misconceptionId": "nishida-kitaro--N04-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-zen-religion"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N04-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N04-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-04",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N05-Q1",
+      "kind": "binary",
+      "prompt": "关于“self-awareness as self-reflecting activity”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N05-Q1-1",
+          "text": "准确：西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。",
+          "feedback": "正确项“准确：西田的自觉（jikaku）不是简单地回头观察一个既成自我，而是反映者与被反映者在活动中的统一。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-irsc-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N05-Q1-2",
+          "text": "错误：把“self-awareness as self-reflecting activity”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“self-awareness as self-reflecting activity”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-irsc-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N05-Q1-1",
+      "misconceptionId": "nishida-kitaro--N05-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-irsc-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N05-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-05",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N05-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N05-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-irsc-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N05-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-irsc-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N05-Q2-2",
+      "misconceptionId": "nishida-kitaro--N05-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-irsc-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N05-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N05-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-05",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N05-Q3",
+      "kind": "binary",
+      "prompt": "关于“self-awareness grounds reflection without abolishing it”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N05-Q3-1",
+          "text": "准确：现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。",
+          "feedback": "正确项“准确：现代研究据此把自觉解释为纯粹经验如何发展出反省思维的回答，而非取消反省。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N05-Q3-2",
+          "text": "错误：把“self-awareness grounds reflection without abolishing it”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“self-awareness grounds reflection without abolishing it”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N05-Q3-1",
+      "misconceptionId": "nishida-kitaro--N05-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N05-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-05",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N05-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N05-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N05-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N05-Q4-2",
+      "misconceptionId": "nishida-kitaro--N05-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N05-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N05-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-05",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-Q1",
+      "kind": "binary",
+      "prompt": "关于“no pregiven substantial ego in self-awareness”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N06-Q1-1",
+          "text": "准确：自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。",
+          "feedback": "正确项“准确：自觉并不预设一个偶尔观看自身的实体性个人；它描述的是显现与自我反映的结构。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N06-Q1-2",
+          "text": "错误：把“no pregiven substantial ego in self-awareness”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“no pregiven substantial ego in self-awareness”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N06-Q1-1",
+      "misconceptionId": "nishida-kitaro--N06-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N06-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N06-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N06-Q2-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N06-Q2-2",
+      "misconceptionId": "nishida-kitaro--N06-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N06-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N06-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-Q3",
+      "kind": "binary",
+      "prompt": "关于“abandonment of absolute-will formulation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N06-Q3-1",
+          "text": "准确：西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。",
+          "feedback": "正确项“准确：西田后来放弃以“绝对意志”作为统一源头的表述，因此不能把早期术语当作其终身不变的最终立场。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N06-Q3-2",
+          "text": "错误：把“abandonment of absolute-will formulation”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“abandonment of absolute-will formulation”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N06-Q3-1",
+      "misconceptionId": "nishida-kitaro--N06-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N06-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N06-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N06-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N06-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§2.2, “Self-Awareness””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-self-awareness"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N06-Q4-2",
+      "misconceptionId": "nishida-kitaro--N06-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-self-awareness"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N06-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N06-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N07-Q1",
+      "kind": "binary",
+      "prompt": "关于“predicate direction and the place of judgment”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N07-Q1-1",
+          "text": "准确：“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。",
+          "feedback": "正确项“准确：“场所”论文把判断从孤立主词的逻辑转向使主词能够被规定的谓词方向与包摄场所。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-predicate"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N07-Q1-2",
+          "text": "错误：把“predicate direction and the place of judgment”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“predicate direction and the place of judgment”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-predicate"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N07-Q1-1",
+      "misconceptionId": "nishida-kitaro--N07-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-predicate"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N07-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-07",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N07-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N07-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-predicate"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N07-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-predicate"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N07-Q2-2",
+      "misconceptionId": "nishida-kitaro--N07-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-predicate"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N07-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N07-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-07",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N07-Q3",
+      "kind": "binary",
+      "prompt": "关于“places of being relative nothingness and absolute nothingness”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N07-Q3-1",
+          "text": "准确：西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。",
+          "feedback": "正确项“准确：西田区分有的场所、相对无的场所与绝对无的场所；这些层次不是三个可并列摆放的物体。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-levels"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N07-Q3-2",
+          "text": "错误：把“places of being relative nothingness and absolute nothingness”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“places of being relative nothingness and absolute nothingness”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-levels"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N07-Q3-1",
+      "misconceptionId": "nishida-kitaro--N07-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-levels"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N07-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-07",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N07-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N07-Q4-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-levels"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N07-Q4-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-levels"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N07-Q4-2",
+      "misconceptionId": "nishida-kitaro--N07-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-levels"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N07-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N07-P2"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-07",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N08-Q1",
+      "kind": "binary",
+      "prompt": "关于“absolute nothingness as non-objectifiable place”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N08-Q1-1",
+          "text": "准确：绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。",
+          "feedback": "正确项“准确：绝对无不是世界背后的某个“无之物”，而是不能再由另一确定者限定的终极场所。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-absolute"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N08-Q1-2",
+          "text": "错误：把“absolute nothingness as non-objectifiable place”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“absolute nothingness as non-objectifiable place”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-absolute"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N08-Q1-1",
+      "misconceptionId": "nishida-kitaro--N08-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-absolute"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N08-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-08",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N08-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N08-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-absolute"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N08-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-basho-absolute"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N08-Q2-2",
+      "misconceptionId": "nishida-kitaro--N08-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-basho-absolute"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N08-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N08-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-08",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N08-Q3",
+      "kind": "binary",
+      "prompt": "关于“anti-nihilist boundary of absolute nothingness”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N08-Q3-1",
+          "text": "准确：把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。",
+          "feedback": "正确项“准确：把绝对无解释成一切皆无意义的虚无主义会误读它；西田让它通过自我否定包容并形成现实的诸规定。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-place"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N08-Q3-2",
+          "text": "错误：把“anti-nihilist boundary of absolute nothingness”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“anti-nihilist boundary of absolute nothingness”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-place"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N08-Q3-1",
+      "misconceptionId": "nishida-kitaro--N08-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-place"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N08-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-08",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N08-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N08-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-place"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N08-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§3 and §3.1, “Theory of Universals and the Logic of Place” and “Absolute Nothingness””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§3 and §3.1, “Theory of Universals and the Logic of Place” and “Absolute Nothingness””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-place"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N08-Q4-2",
+      "misconceptionId": "nishida-kitaro--N08-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-place"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N08-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N08-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-08",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N09-Q1",
+      "kind": "binary",
+      "prompt": "关于“prelogical origin of logic in historical life”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N09-Q1-1",
+          "text": "准确：“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。",
+          "feedback": "正确项“准确：“Logic and Life”把逻辑的根源追到历史—社会生命的辩证展开，而不把逻辑只当作悬空的形式演算。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-logic-life-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N09-Q1-2",
+          "text": "错误：把“prelogical origin of logic in historical life”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“prelogical origin of logic in historical life”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-logic-life-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N09-Q1-1",
+      "misconceptionId": "nishida-kitaro--N09-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-logic-life-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N09-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-09",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N09-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N09-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-logic-life-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N09-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-logic-life-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N09-Q2-2",
+      "misconceptionId": "nishida-kitaro--N09-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-logic-life-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N09-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N09-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-09",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N09-Q3",
+      "kind": "binary",
+      "prompt": "关于“edition-based development from place to history”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N09-Q3-1",
+          "text": "准确：OUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。",
+          "feedback": "正确项“准确：OUP 版的作品说明把“Basho”与“Logic and Life”区分为两个时期的论文，后者显示场所论如何转向外部历史世界。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-oup-place-record"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N09-Q3-2",
+          "text": "错误：把“edition-based development from place to history”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“edition-based development from place to history”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-oup-place-record"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N09-Q3-1",
+      "misconceptionId": "nishida-kitaro--N09-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-oup-place-record"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N09-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-09",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N09-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N09-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-oup-place-record"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N09-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“publisher contents and abstract: ch. 2 “Basho”; ch. 3 “Logic and Life””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“publisher contents and abstract: ch. 2 “Basho”; ch. 3 “Logic and Life””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-oup-place-record"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N09-Q4-2",
+      "misconceptionId": "nishida-kitaro--N09-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-oup-place-record"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N09-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N09-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-09",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N10-Q1",
+      "kind": "binary",
+      "prompt": "关于“acting intuition as embodied making-and-seeing”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N10-Q1-1",
+          "text": "准确：行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。",
+          "feedback": "正确项“准确：行动直观指身体借助工具在制作世界时认识世界的相互形成，不是脱离行动的私密神秘凝视。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-acting-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N10-Q1-2",
+          "text": "错误：把“acting intuition as embodied making-and-seeing”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“acting intuition as embodied making-and-seeing”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-acting-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N10-Q1-1",
+      "misconceptionId": "nishida-kitaro--N10-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-acting-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N10-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-10",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N10-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N10-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-acting-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N10-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-acting-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N10-Q2-2",
+      "misconceptionId": "nishida-kitaro--N10-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-acting-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N10-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N10-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-10",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N10-Q3",
+      "kind": "binary",
+      "prompt": "关于“Sugimoto anti-mystical historicity reading”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N10-Q3-1",
+          "text": "准确：Sugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。",
+          "feedback": "正确项“准确：Sugimoto 的具名解释反对把行动直观当作超越历史的神秘直觉，并强调其内含人的历史性。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-jstage-acting"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N10-Q3-2",
+          "text": "错误：把“Sugimoto anti-mystical historicity reading”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Sugimoto anti-mystical historicity reading”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-jstage-acting"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N10-Q3-1",
+      "misconceptionId": "nishida-kitaro--N10-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-jstage-acting"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N10-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-10",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N10-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N10-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-jstage-acting"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N10-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“article abstract and bibliographic record”定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“article abstract and bibliographic record”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-jstage-acting"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N10-Q4-2",
+      "misconceptionId": "nishida-kitaro--N10-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-jstage-acting"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N10-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N10-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-10",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N11-Q1",
+      "kind": "binary",
+      "prompt": "关于“from the created to the creating”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N11-Q1-1",
+          "text": "准确：西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。",
+          "feedback": "正确项“准确：西田以“从被创造者到创造者”描述历史世界：既有形成物反过来参与新的创造。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-fundamental-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N11-Q1-2",
+          "text": "错误：把“from the created to the creating”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“from the created to the creating”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-fundamental-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N11-Q1-1",
+      "misconceptionId": "nishida-kitaro--N11-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-fundamental-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N11-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-11",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N11-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N11-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-fundamental-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N11-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-fundamental-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N11-Q2-2",
+      "misconceptionId": "nishida-kitaro--N11-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-fundamental-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N11-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N11-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-11",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N11-Q3",
+      "kind": "binary",
+      "prompt": "关于“absolute present as historical openness”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N11-Q3-1",
+          "text": "准确：绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。",
+          "feedback": "正确项“准确：绝对现在不是逃离时间的永恒点；它包摄已定的过去，同时为尚未决定的未来保持开放。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N11-Q3-2",
+          "text": "错误：把“absolute present as historical openness”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“absolute present as historical openness”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N11-Q3-1",
+      "misconceptionId": "nishida-kitaro--N11-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N11-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-11",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N11-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N11-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N11-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§4 and §4.1, “Theory of the Historical World” and “Enactive Intuition””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§4 and §4.1, “Theory of the Historical World” and “Enactive Intuition””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N11-Q4-2",
+      "misconceptionId": "nishida-kitaro--N11-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N11-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N11-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-11",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N12-Q1",
+      "kind": "binary",
+      "prompt": "关于“I-Thou reciprocal individuation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N12-Q1-1",
+          "text": "准确：“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。",
+          "feedback": "正确项“准确：“我与你”的关系不是先有两个自足实体再外加联系；相互承认参与形成各自的个体性。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-i-thou-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N12-Q1-2",
+          "text": "错误：把“I-Thou reciprocal individuation”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“I-Thou reciprocal individuation”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-i-thou-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N12-Q1-1",
+      "misconceptionId": "nishida-kitaro--N12-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-i-thou-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N12-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-12",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N12-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N12-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-i-thou-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N12-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-i-thou-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N12-Q2-2",
+      "misconceptionId": "nishida-kitaro--N12-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-i-thou-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N12-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N12-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-12",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N12-Q3",
+      "kind": "binary",
+      "prompt": "关于“mutual formation of embodied individuals and world”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N12-Q3-1",
+          "text": "准确：历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。",
+          "feedback": "正确项“准确：历史世界通过具身个体的相互行动形成，个体也在同一互动中被世界形成。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N12-Q3-2",
+          "text": "错误：把“mutual formation of embodied individuals and world”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“mutual formation of embodied individuals and world”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N12-Q3-1",
+      "misconceptionId": "nishida-kitaro--N12-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N12-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-12",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N12-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N12-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N12-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§4 and §4.1, “Theory of the Historical World” and “Enactive Intuition””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§4 and §4.1, “Theory of the Historical World” and “Enactive Intuition””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-history"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N12-Q4-2",
+      "misconceptionId": "nishida-kitaro--N12-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-history"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N12-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N12-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-12",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N13-Q1",
+      "kind": "binary",
+      "prompt": "关于“Madhyamaka comparison without identity claim”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N13-Q1-1",
+          "text": "准确：龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。",
+          "feedback": "正确项“准确：龙树的空性可作为关系性与非自性的比较对象，但不能仅凭相似词汇就宣布它等同于西田的绝对无。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nagarjuna-empty"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N13-Q1-2",
+          "text": "错误：把“Madhyamaka comparison without identity claim”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Madhyamaka comparison without identity claim”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nagarjuna-empty"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N13-Q1-1",
+      "misconceptionId": "nishida-kitaro--N13-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nagarjuna-empty"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N13-P1"
+      ],
+      "targetVoices": [
+        "buddhist-comparison"
+      ],
+      "lessonId": "nishida-kitaro--nishida-13",
+      "voice": "buddhist-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N13-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N13-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nagarjuna-empty"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N13-Q2-2",
+          "text": "保留 buddhist-comparison 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 buddhist-comparison 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nagarjuna-empty"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N13-Q2-2",
+      "misconceptionId": "nishida-kitaro--N13-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nagarjuna-empty"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N13-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N13-P1"
+      ],
+      "targetVoices": [
+        "buddhist-comparison"
+      ],
+      "lessonId": "nishida-kitaro--nishida-13",
+      "voice": "buddhist-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N13-Q3",
+      "kind": "binary",
+      "prompt": "关于“Jamesian comparison without identity claim”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N13-Q3-1",
+          "text": "准确：詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。",
+          "feedback": "正确项“准确：詹姆斯的“纯粹经验”是西田所接触的西方比较对象；共同用词不证明两人的经验论完全相同。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-james-pure"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N13-Q3-2",
+          "text": "错误：把“Jamesian comparison without identity claim”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Jamesian comparison without identity claim”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-james-pure"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N13-Q3-1",
+      "misconceptionId": "nishida-kitaro--N13-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-james-pure"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N13-P2"
+      ],
+      "targetVoices": [
+        "western-comparison"
+      ],
+      "lessonId": "nishida-kitaro--nishida-13",
+      "voice": "western-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N13-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N13-Q4-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-james-pure"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N13-Q4-2",
+          "text": "保留 western-comparison 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 western-comparison 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-james-pure"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N13-Q4-2",
+      "misconceptionId": "nishida-kitaro--N13-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-james-pure"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N13-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N13-P2"
+      ],
+      "targetVoices": [
+        "western-comparison"
+      ],
+      "lessonId": "nishida-kitaro--nishida-13",
+      "voice": "western-comparison"
+    },
+    {
+      "id": "nishida-kitaro--N14-Q1",
+      "kind": "binary",
+      "prompt": "关于“Nishitani as successor rather than Nishida”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N14-Q1-1",
+          "text": "准确：西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。",
+          "feedback": "正确项“准确：西谷启治后来对空与虚无的展开属于后继京都学派文本，不能倒灌为西田原典中的既成命题。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nishitani-successor"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N14-Q1-2",
+          "text": "错误：把“Nishitani as successor rather than Nishida”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Nishitani as successor rather than Nishida”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nishitani-successor"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N14-Q1-1",
+      "misconceptionId": "nishida-kitaro--N14-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nishitani-successor"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N14-P1"
+      ],
+      "targetVoices": [
+        "kyoto-successor"
+      ],
+      "lessonId": "nishida-kitaro--nishida-14",
+      "voice": "kyoto-successor"
+    },
+    {
+      "id": "nishida-kitaro--N14-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N14-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nishitani-successor"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N14-Q2-2",
+          "text": "保留 kyoto-successor 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 kyoto-successor 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-nishitani-successor"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N14-Q2-2",
+      "misconceptionId": "nishida-kitaro--N14-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-nishitani-successor"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N14-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N14-P1"
+      ],
+      "targetVoices": [
+        "kyoto-successor"
+      ],
+      "lessonId": "nishida-kitaro--nishida-14",
+      "voice": "kyoto-successor"
+    },
+    {
+      "id": "nishida-kitaro--N14-Q3",
+      "kind": "binary",
+      "prompt": "关于“Kyoto School plurality and attribution boundary”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N14-Q3-1",
+          "text": "准确：现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。",
+          "feedback": "正确项“准确：现代研究把“京都学派”描述为边界模糊且政治取向多样的群体；其成员立场不能整体归给西田。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-critique"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N14-Q3-2",
+          "text": "错误：把“Kyoto School plurality and attribution boundary”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Kyoto School plurality and attribution boundary”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-critique"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N14-Q3-1",
+      "misconceptionId": "nishida-kitaro--N14-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-critique"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N14-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-14",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N14-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N14-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-critique"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N14-Q4-2",
+          "text": "保留 successor-interpretation 声部与已闭合的“§10–11, “Critiques of Nishida’s Philosophy” and “Nishida’s Influence””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部与已闭合的“§10–11, “Critiques of Nishida’s Philosophy” and “Nishida’s Influence””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-critique"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N14-Q4-2",
+      "misconceptionId": "nishida-kitaro--N14-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-critique"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N14-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N14-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-14",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N15-Q1",
+      "kind": "binary",
+      "prompt": "关于“wartime political ambiguity”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N15-Q1-1",
+          "text": "准确：西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。",
+          "feedback": "正确项“准确：西田战时政治写作既被右派批评为支持不足，也被战后左派批评为民族主义；现有材料不支持把争议压成单一无争事实。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-politics"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N15-Q1-2",
+          "text": "错误：把“wartime political ambiguity”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“wartime political ambiguity”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-politics"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N15-Q1-1",
+      "misconceptionId": "nishida-kitaro--N15-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-politics"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N15-P1"
+      ],
+      "targetVoices": [
+        "modern-critique"
+      ],
+      "lessonId": "nishida-kitaro--nishida-15",
+      "voice": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N15-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N15-Q2-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-politics"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N15-Q2-2",
+          "text": "保留 modern-critique 声部与已闭合的“§1, “Biography””定位。",
+          "feedback": "正确项“保留 modern-critique 声部与已闭合的“§1, “Biography””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-politics"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N15-Q2-2",
+      "misconceptionId": "nishida-kitaro--N15-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-politics"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N15-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N15-P1"
+      ],
+      "targetVoices": [
+        "modern-critique"
+      ],
+      "lessonId": "nishida-kitaro--nishida-15",
+      "voice": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N15-Q3",
+      "kind": "binary",
+      "prompt": "关于“Arisaka postcolonial critique of universalism”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N15-Q3-1",
+          "text": "准确：Yoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。",
+          "feedback": "正确项“准确：Yoko Arisaka 的后殖民批评指出：哲学上的普遍主义本身并不自动反帝，甚至可能参与帝国意识形态。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-arisaka"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N15-Q3-2",
+          "text": "错误：把“Arisaka postcolonial critique of universalism”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“Arisaka postcolonial critique of universalism”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-arisaka"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N15-Q3-1",
+      "misconceptionId": "nishida-kitaro--N15-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-arisaka"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N15-P2"
+      ],
+      "targetVoices": [
+        "modern-critique"
+      ],
+      "lessonId": "nishida-kitaro--nishida-15",
+      "voice": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N15-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N15-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-arisaka"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N15-Q4-2",
+          "text": "保留 modern-critique 声部与已闭合的“article abstract and bibliographic record”定位。",
+          "feedback": "正确项“保留 modern-critique 声部与已闭合的“article abstract and bibliographic record”定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-arisaka"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N15-Q4-2",
+      "misconceptionId": "nishida-kitaro--N15-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-arisaka"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N15-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N15-P2"
+      ],
+      "targetVoices": [
+        "modern-critique"
+      ],
+      "lessonId": "nishida-kitaro--nishida-15",
+      "voice": "modern-critique"
+    },
+    {
+      "id": "nishida-kitaro--N16-Q1",
+      "kind": "binary",
+      "prompt": "关于“death finite self and inverse correlation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N16-Q1-1",
+          "text": "准确：晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。",
+          "feedback": "正确项“准确：晚期西田以死亡、有限自我与“逆对应”来思考宗教关系：自我越面对自身否定，个体差异越不能被抹平。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-last-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N16-Q1-2",
+          "text": "错误：把“death finite self and inverse correlation”改写成后继解释、比较对象或无来源的现代概括。",
+          "feedback": "错误项“错误：把“death finite self and inverse correlation”改写成后继解释、比较对象或无来源的现代概括。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-last-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N16-Q1-1",
+      "misconceptionId": "nishida-kitaro--N16-Q1-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-last-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N16-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-16",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N16-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N16-Q2-1",
+          "text": "虚构页码或把 pending 伪装成 verified。",
+          "feedback": "错误项“虚构页码或把 pending 伪装成 verified。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-last-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C1"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N16-Q2-2",
+          "text": "保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。",
+          "feedback": "正确项“保留 nishida-primary 声部，并承认该 claim 的 edition/page 定位仍为 pending。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-last-primary"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N16-Q2-2",
+      "misconceptionId": "nishida-kitaro--N16-Q2-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-last-primary"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N16-C1"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N16-P1"
+      ],
+      "targetVoices": [
+        "nishida-primary"
+      ],
+      "lessonId": "nishida-kitaro--nishida-16",
+      "voice": "nishida-primary"
+    },
+    {
+      "id": "nishida-kitaro--N16-Q3",
+      "kind": "binary",
+      "prompt": "关于“late shift without fabricated new system”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N16-Q3-1",
+          "text": "准确：现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。",
+          "feedback": "正确项“准确：现代分期研究认为最后论文强化死亡、有限性与佛教参照，但材料过短，不宜武断宣布它构成一个全新的第四体系。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-religion",
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N16-Q3-2",
+          "text": "错误：把“late shift without fabricated new system”冒充为西田原典的无争原话。",
+          "feedback": "错误项“错误：把“late shift without fabricated new system”冒充为西田原典的无争原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-religion",
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N16-Q3-1",
+      "misconceptionId": "nishida-kitaro--N16-Q3-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-religion",
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N16-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-16",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "nishida-kitaro--N16-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "options": [
+        {
+          "id": "nishida-kitaro--N16-Q4-1",
+          "text": "取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。",
+          "feedback": "错误项“取消声部边界，或声称已闭合定位支持了当前 claim 之外的更强结论。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-religion",
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C2"
+          ]
+        },
+        {
+          "id": "nishida-kitaro--N16-Q4-2",
+          "text": "保留 successor-interpretation 声部，并共同绑定已闭合的“§5, “Nishida’s Theology: the Finite Self meets the Absolute””与“§8.2, “Stages in Nishida’s Thought””定位。",
+          "feedback": "正确项“保留 successor-interpretation 声部，并共同绑定已闭合的“§5, “Nishida’s Theology: the Finite Self meets the Absolute””与“§8.2, “Stages in Nishida’s Thought””定位。”与当前 claim 的对象、声部及证据状态一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "nishida-kitaro--src-sep-religion",
+            "nishida-kitaro--src-sep-stages"
+          ],
+          "claimNodeIds": [
+            "nishida-kitaro--N16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "nishida-kitaro--N16-Q4-2",
+      "misconceptionId": "nishida-kitaro--N16-Q4-misconception",
+      "evidenceLinkIds": [
+        "nishida-kitaro--src-sep-religion",
+        "nishida-kitaro--src-sep-stages"
+      ],
+      "objectNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "nishida-kitaro--N16-C2"
+      ],
+      "targetParagraphIds": [
+        "nishida-kitaro--N16-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "nishida-kitaro--nishida-16",
+      "voice": "successor-interpretation"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

@@ -1,0 +1,4512 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "sartre-01-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "意识为何没有一个藏在内部的主人",
+      "explanation": "现象学的意向性首先说意识是在指向对象的活动中存在，而非先有封闭容器再向外伸手。萨特进一步区分未把自己当对象的前反思自觉与把经历回收成“我”的反思；经验可以有自我显现而不必由实体自我占据。超越的自我是反思在世界中把行动、性格和历史组织成的对象。",
+      "identity": "sartre-01-argument",
+      "evidenceLinkIds": [
+        "S-TE",
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-01-reconstruct",
+        "sartre-01-boundary"
+      ]
+    },
+    {
+      "id": "sartre-02-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "世界如何被非现实化或魔术性转换",
+      "explanation": "想象意识把对象设为缺席、不存在或在别处，因而非现实化当前知觉场。《情绪理论纲要》则把情绪解释为一种魔术性世界转换：当工具性道路失败，意识借身体把困难世界改写为可逃避、可忍受或仿佛已被解决的世界。身体不是附带症状，而是这种相信并实行转换的中介。",
+      "identity": "sartre-02-argument",
+      "evidenceLinkIds": [
+        "S-IM",
+        "S-TEO",
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-02-reconstruct",
+        "sartre-02-boundary"
+      ]
+    },
+    {
+      "id": "sartre-03-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "存在为何不需要理由",
+      "explanation": "萨特拒绝现象与本体的双层楼，把现象理解为存在的显现。自在存在不是意识对象的总和，而是饱满地是其所是；它没有缺口、目的或充分理由。偶然性不是知识暂缺，而是存在并不从某个必然概念推出。",
+      "identity": "sartre-03-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-NAUSEA"
+      ],
+      "abilityIds": [
+        "sartre-03-reconstruct",
+        "sartre-03-boundary"
+      ]
+    },
+    {
+      "id": "sartre-04-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "自为为何不与自己重合",
+      "explanation": "“不是它所是、是它所不是”不是文字游戏：自为已经是自己的过去和处境，却以面向未来的计划使它们不能封闭定义自己；它尚未是目标，却由目标回照当前。缺失因此不先是世界中的洞，而由一个超出既成的存在带入。",
+      "identity": "sartre-04-argument",
+      "evidenceLinkIds": [
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-04-reconstruct",
+        "sartre-04-boundary"
+      ]
+    },
+    {
+      "id": "sartre-05-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "“没有”怎样进入世界",
+      "explanation": "提问先悬置一个答案，让世界可能回答“不是”；期待则从场域中勾勒应出现者。意识以虚无化从饱满存在中拉开距离，使某个缺席、失败或界限显现。否定依赖存在，又不是自在自己裂开。",
+      "identity": "sartre-05-argument",
+      "evidenceLinkIds": [
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-05-reconstruct",
+        "sartre-05-boundary"
+      ]
+    },
+    {
+      "id": "sartre-06-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "人为何既是过去又不止于过去",
+      "explanation": "事实性是我不能不从中出发的既成，超越是我以计划朝向可能并赋予既成以实践意义。过去不能更改，但“它对我意味着什么”依当前与未来取向变化。时间不是相同现在的容器，而是自为在已是、在场和未是之间的不重合。",
+      "identity": "sartre-06-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-BN-II"
+      ],
+      "abilityIds": [
+        "sartre-06-reconstruct",
+        "sartre-06-boundary"
+      ]
+    },
+    {
+      "id": "sartre-07-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "自由为何不是能力或任性",
+      "explanation": "理由不会像外力把主体推出去；饥饿、命令或恐惧只有在某种计划中成为忍耐、服从或反抗的理由。自由是采取立场和组织目的的结构，处境则规定工具、风险和可达范围。没有处境的自由为空，没有超越的处境为死因果。",
+      "identity": "sartre-07-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-EH",
+        "S-CDR1"
+      ],
+      "abilityIds": [
+        "sartre-07-reconstruct",
+        "sartre-07-boundary"
+      ]
+    },
+    {
+      "id": "sartre-08-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "焦虑为何揭露自由",
+      "explanation": "站在悬崖边，我既怕脚滑，也焦虑自己可能跳下；前者来自对象，后者来自我与未来行为之间没有因果保证。过去的决心仍是理由，却必须由现在重新承担。焦虑显出价值需要行动维持。",
+      "identity": "sartre-08-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-EH"
+      ],
+      "abilityIds": [
+        "sartre-08-reconstruct",
+        "sartre-08-boundary"
+      ]
+    },
+    {
+      "id": "sartre-09-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "人怎样对自己隐瞒而不分裂心灵",
+      "explanation": "恶意利用事实性与超越的双面结构：服务员把自己演成只能如此的角色，约会者又把身体当作无关事实。意识并非同时持有两句清楚相反的命题，而是维持一种不愿明确的证据风格，在相关处滑动身份标准。",
+      "identity": "sartre-09-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-BN-II"
+      ],
+      "abilityIds": [
+        "sartre-09-reconstruct",
+        "sartre-09-boundary"
+      ]
+    },
+    {
+      "id": "sartre-10-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "他人怎样不是我推论出的对象",
+      "explanation": "钥匙孔旁的窥视者沉入自己的计划，脚步声使他突然以“正在偷看的人”出现。羞耻不是先推理出观察者再评价自己，而是对为他存在的直接揭露。他人自由从我无法收回其视角的事实出现。",
+      "identity": "sartre-10-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-NOEXIT"
+      ],
+      "abilityIds": [
+        "sartre-10-reconstruct",
+        "sartre-10-boundary"
+      ]
+    },
+    {
+      "id": "sartre-11-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "身体为何既是我又由他人交还",
+      "explanation": "萨特区分为己身体、为他身体与我从他人那里经验到的为己为他身体。前者不是被观察的工具清单，而是距离、方向和能力的起点；后两者使我面对可见外貌、诊断与评价，并把它们重新纳入生活。",
+      "identity": "sartre-11-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-BEAUVOIR-SS"
+      ],
+      "abilityIds": [
+        "sartre-11-reconstruct",
+        "sartre-11-boundary"
+      ]
+    },
+    {
+      "id": "sartre-12-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "爱为何想要一个不可能对象",
+      "explanation": "爱者试图成为对方价值世界的根据，不满足于外部服从。但任何保证若由强迫、契约或操控获得，就取消了其想要的自由承认；若保留自由，保证便始终可撤回。这是不稳定结构，不是对每段亲密关系的经验预言。",
+      "identity": "sartre-12-argument",
+      "evidenceLinkIds": [
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-12-reconstruct",
+        "sartre-12-boundary"
+      ]
+    },
+    {
+      "id": "sartre-13-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "欲望怎样使身体成为肉身",
+      "explanation": "欲望使我自己的身体变成感受着的肉身，也召唤他人的身体显为肉身；但我想触及的仍是自由，因而对象化随时破坏目标。冷漠否认他人主体性，施虐试图以痛苦俘获自由，仇恨想取消他人作为视角的存在，各自暴露同一不可占有性。",
+      "identity": "sartre-13-argument",
+      "evidenceLinkIds": [
+        "S-BN-I"
+      ],
+      "abilityIds": [
+        "sartre-13-reconstruct",
+        "sartre-13-boundary"
+      ]
+    },
+    {
+      "id": "sartre-14-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "存在先于本质为何仍不能自动给出伦理",
+      "explanation": "公式针对人的存在：我们先被投入世界，再通过行动形成可归责的身份；它不否认身体需要、历史分类或物的功能本质。选择一个计划也把某种可赞许的人生形象带入世界，所以自由伴随责任和价值创造。",
+      "identity": "sartre-14-argument",
+      "evidenceLinkIds": [
+        "S-EH",
+        "S-BN-I",
+        "S-NE"
+      ],
+      "abilityIds": [
+        "sartre-14-reconstruct",
+        "sartre-14-boundary"
+      ]
+    },
+    {
+      "id": "sartre-15-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "行动为何呈现贯穿生命的计划",
+      "explanation": "根本计划不是童年刻下的隐蔽物，而是在多种行动中持续重作的意义统一。传记解释应从作品、关系和处境回溯一个人怎样追求存在方式。后期方法加入家庭、阶级与历史中介，使计划不再像孤立意识的秘密。",
+      "identity": "sartre-15-argument",
+      "evidenceLinkIds": [
+        "S-BN-I",
+        "S-BAUDELAIRE",
+        "S-SF"
+      ],
+      "abilityIds": [
+        "sartre-15-reconstruct",
+        "sartre-15-boundary"
+      ]
+    },
+    {
+      "id": "sartre-16-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "写作怎样召唤作者与阅读主体的自由",
+      "explanation": "《什么是文学？》把散文写作理解为揭示世界并向阅读主体提出自由回应。作者安排空白、视角和证据，阅读主体在受文本约束的活动中实现作品。介入不是塞入结论，而是使某种可争议现实进入公共可见性。",
+      "identity": "sartre-16-argument",
+      "evidenceLinkIds": [
+        "S-WIL",
+        "S-ASJ"
+      ],
+      "abilityIds": [
+        "sartre-16-reconstruct",
+        "sartre-16-boundary"
+      ]
+    },
+    {
+      "id": "sartre-17-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "压迫怎样既是态度又是制度",
+      "explanation": "萨特把反犹主义分析为一种选择激情与社会共谋：它把复杂世界归咎一个想象敌人，并让多数者借群体角色逃避自由。被标记者不得不在他人制造的处境中回应“犹太人”身份，抽象同化又要求他放弃具体历史。",
+      "identity": "sartre-17-argument",
+      "evidenceLinkIds": [
+        "S-ASJ",
+        "S-RM"
+      ],
+      "abilityIds": [
+        "sartre-17-reconstruct",
+        "sartre-17-boundary"
+      ]
+    },
+    {
+      "id": "sartre-18-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "存在主义为何既需要又反抗马克思主义",
+      "explanation": "《方法问题》承认马克思主义提供不可绕过的历史框架，同时批评僵化解释把人当预制范畴的实例。渐进—回溯方法从具体计划前进到客观结果，再回溯家庭、阶级与时代中介，循环修正解释。",
+      "identity": "sartre-18-argument",
+      "evidenceLinkIds": [
+        "S-SM",
+        "S-CDR1"
+      ],
+      "abilityIds": [
+        "sartre-18-reconstruct",
+        "sartre-18-boundary"
+      ]
+    },
+    {
+      "id": "sartre-19-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "人的行动怎样反过来统治人",
+      "explanation": "晚期“实践”延续早期否定性：需要者把尚未存在的满足设为目标，改造给定物质。修正处在结果端：多个实践在匮乏场中交错，结果会以反最终性背离各自目的，再凝固为实践惰性；工具携带旧目的并重排新行动。实质行动能力因此随工具可得、物质阻力和集体协调而变化，不是人人拥有同量能力。",
+      "identity": "sartre-19-argument",
+      "evidenceLinkIds": [
+        "S-CDR1-B1"
+      ],
+      "abilityIds": [
+        "sartre-19-reconstruct",
+        "sartre-19-boundary"
+      ]
+    },
+    {
+      "id": "sartre-20-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "人群何时成为共同实践",
+      "explanation": "《辩证理性批判》第一卷第二编“从群体到历史”区分系列、融合群体、誓约群体、组织和制度。共同危险使每个人通过他人行动，融合群体以共同实践突破系列无力；危机消退后，群体以誓约抵抗重新系列化，以组织分配可复用的功能和权限，再以制度让职位在成员更替后持续。连续机制保存共同能力，也让主权从共同实践移入代表、规章与制裁。",
+      "identity": "sartre-20-argument",
+      "evidenceLinkIds": [
+        "S-CDR1-B2",
+        "S-CDR2"
+      ],
+      "abilityIds": [
+        "sartre-20-reconstruct",
+        "sartre-20-boundary"
+      ]
+    },
+    {
+      "id": "sartre-21-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "殖民主义为何是体系",
+      "explanation": "萨特把殖民主义描述为体系：低工资、征地和市场安排制造匮乏，种族主义把制度结果伪装成被统治者本性，暴力维护不平等秩序。反殖民行动因此不是在中性法律内追加意见，而是挑战生产主体与客体的位置。",
+      "identity": "sartre-21-argument",
+      "evidenceLinkIds": [
+        "S-COL",
+        "S-FANON"
+      ],
+      "abilityIds": [
+        "sartre-21-reconstruct",
+        "sartre-21-boundary"
+      ]
+    },
+    {
+      "id": "sartre-22-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "介入是否保证判断正确",
+      "explanation": "萨特的政治轨迹包含接近共产党而不入党、对苏联镇压后公开决裂、支持反殖民与后来的激进运动。介入的理由是言说已在处境中产生效果，不是主体获得无误特权。修正应公开先前判断如何形成及伤害何在。",
+      "identity": "sartre-22-argument",
+      "evidenceLinkIds": [
+        "S-POL-PCF",
+        "S-POL-HUNGARY",
+        "S-POL-DIALOGUE",
+        "S-CDR1"
+      ],
+      "abilityIds": [
+        "sartre-22-reconstruct",
+        "sartre-22-boundary"
+      ]
+    },
+    {
+      "id": "sartre-23-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "波伏瓦与萨特究竟怎样互相影响",
+      "explanation": "比较必须落到文本任务：萨特的事实性、超越和凝视为共同词汇，波伏瓦在《皮洛士与西内阿斯》《模棱两可的伦理学》《第二性》中把自由置于相互依赖、具体压迫和性别生成中。她既借用也批判，并反过来迫使共同存在主义面对伦理与身体。",
+      "identity": "sartre-23-argument",
+      "evidenceLinkIds": [
+        "S-BEAUVOIR-EC",
+        "S-BEAUVOIR-EA",
+        "S-BEAUVOIR-SS",
+        "S-LETTERS",
+        "S-SECONDARY-FULLBROOK"
+      ],
+      "abilityIds": [
+        "sartre-23-reconstruct",
+        "sartre-23-boundary"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "S-TE",
+      "workId": "S-TE",
+      "edition": "La Transcendance de l'Ego, Vrin, 1966",
+      "locator": "Introduction；I. Le Je；II. Constitution de l'Ego；Conclusion",
+      "locatorVerified": true,
+      "identity": "《自我的超越性》：意向性、前反思意识与作为世界对象的自我"
+    },
+    {
+      "id": "S-IM",
+      "workId": "S-IM",
+      "edition": "L'Imaginaire, Gallimard, 1940",
+      "locator": "Première partie, chap. I-II；Quatrième partie, chap. I, « La conscience imageante »",
+      "locatorVerified": true,
+      "identity": "《想象物》：想象意识把对象设为缺席、不存在或在别处"
+    },
+    {
+      "id": "S-TEO",
+      "workId": "S-TEO",
+      "edition": "Esquisse d'une théorie des émotions, Hermann, 1939",
+      "locator": "§I « Les théories classiques »；§II « La théorie psychanalytique »；§III « Esquisse d'une théorie phénoménologique »；§IV « Le monde magique »",
+      "locatorVerified": true,
+      "identity": "《情绪理论纲要》：魔术性世界转换、身体中介及对詹姆斯与弗洛伊德的异议"
+    },
+    {
+      "id": "S-BN-I",
+      "workId": "S-BN-I",
+      "edition": "L'Être et le Néant, Gallimard, 1943",
+      "locator": "Introduction, §VI；Première partie, chap. I-II；Deuxième partie, chap. I-III；Troisième partie, chap. I-III",
+      "locatorVerified": true,
+      "identity": "《存在与虚无》：自在、自为、虚无化、时间、恶意、他人和关系"
+    },
+    {
+      "id": "S-BN-II",
+      "workId": "S-BN-II",
+      "edition": "L'Être et le Néant, Gallimard, 1943",
+      "locator": "Quatrième partie, chap. I, §§I-III；chap. II, §§I-II",
+      "locatorVerified": true,
+      "identity": "《存在与虚无》：事实性、处境、自由与行动"
+    },
+    {
+      "id": "S-NAUSEA",
+      "workId": "S-NAUSEA",
+      "edition": "La Nausée, Gallimard, 1938",
+      "locator": "Journal de Roquentin：Bouville公共花园栗树根场景，自“Je me laissai tomber sur le banc”至存在偶然性反思",
+      "locatorVerified": true,
+      "identity": "《恶心》：偶然性与过剩存在的文学呈现"
+    },
+    {
+      "id": "S-NOEXIT",
+      "workId": "S-NOEXIT",
+      "edition": "Huis clos, Gallimard, 1947 edition",
+      "locator": "Scène V终段：Garcin要求Inès确认其勇气，至“L'enfer, c'est les Autres”及结尾",
+      "locatorVerified": true,
+      "identity": "《禁闭》：相互凝视与关系冲突的戏剧实验，不作关系总论"
+    },
+    {
+      "id": "S-EH",
+      "workId": "S-EH",
+      "edition": "L'existentialisme est un humanisme, Nagel, 1946",
+      "locator": "从裁纸刀本质例证至“l'existence précède l'essence”；学生抉择例证；对主观主义与价值创造异议的答复",
+      "locatorVerified": true,
+      "identity": "《存在主义是一种人道主义》：存在先于本质、责任与公开辩护的限度"
+    },
+    {
+      "id": "S-NE",
+      "workId": "S-NE",
+      "edition": "Cahiers pour une morale, Gallimard, 1983",
+      "locator": "Cahier I：conversion、appel与réciprocité条目；Cahier II：oppression与fin/moyen条目；身后未完成笔记身份",
+      "locatorVerified": true,
+      "identity": "《伦理学笔记》：真实性、互惠与伦理方案的未完成状态"
+    },
+    {
+      "id": "S-BAUDELAIRE",
+      "workId": "S-BAUDELAIRE",
+      "edition": "Baudelaire, Gallimard, 1947",
+      "locator": "开篇“Il n'a pas eu la vie qu'il méritait”至choix originel分析；结尾对自由与自我创造的归结",
+      "locatorVerified": true,
+      "identity": "《波德莱尔》：存在精神分析的传记尝试"
+    },
+    {
+      "id": "S-SF",
+      "workId": "S-SF",
+      "edition": "L'Idiot de la famille, Gallimard, 1971-1972",
+      "locator": "Tome I, Livre I « La constitution »；Tome II, Livre II « La personnalisation »；Tome III对客观精神与作品的中介分析",
+      "locatorVerified": true,
+      "identity": "《家庭中的白痴》：家庭、阶级、历史与个人计划的中介分析"
+    },
+    {
+      "id": "S-WIL",
+      "workId": "S-WIL",
+      "edition": "Qu'est-ce que la littérature?, Situations II, Gallimard, 1948",
+      "locator": "chap. I « Qu'est-ce qu'écrire? »；chap. II « Pourquoi écrire? »；chap. III « Pour qui écrit-on? »；chap. IV « Situation de l'écrivain en 1947 »",
+      "locatorVerified": true,
+      "identity": "《什么是文学？》：作者与阅读主体的自由、揭示与介入"
+    },
+    {
+      "id": "S-ASJ",
+      "workId": "S-ASJ",
+      "edition": "Réflexions sur la question juive, Morihien, 1946",
+      "locator": "Première partie反犹主义者的激情选择；Deuxième partie民主主义者；Troisième至Quatrième partie具体犹太处境与真实性",
+      "locatorVerified": true,
+      "identity": "《反犹太人与犹太人》：反犹主义选择、被强加身份与同化问题"
+    },
+    {
+      "id": "S-RM",
+      "workId": "S-RM",
+      "edition": "« Matérialisme et révolution », Situations III, Gallimard, 1949",
+      "locator": "Première partie对机械唯物论的批评；Deuxième partie革命者、处境与超越的论证",
+      "locatorVerified": true,
+      "identity": "《唯物主义与革命》：革命实践与机械唯物论争"
+    },
+    {
+      "id": "S-SM",
+      "workId": "S-SM",
+      "edition": "Questions de méthode, Gallimard, 1960",
+      "locator": "I « Marxisme et existentialisme »；II « Le problème des médiations »；III « La méthode progressive-régressive »；Conclusion",
+      "locatorVerified": true,
+      "identity": "《方法问题》：马克思主义、具体个人与渐进—回溯方法"
+    },
+    {
+      "id": "S-CDR1",
+      "workId": "S-CDR1",
+      "edition": "Critique de la raison dialectique, tome I, Gallimard, 1960",
+      "locator": "Introduction « Dogmatisme et critique »；Livre I开篇对需要、实践和匮乏的规定",
+      "locatorVerified": true,
+      "identity": "《辩证理性批判》第一卷：实践、物质中介、历史可理解性"
+    },
+    {
+      "id": "S-CDR1-B1",
+      "workId": "S-CDR1-B1",
+      "edition": "Critique de la raison dialectique, tome I, livre I, Gallimard, 1960",
+      "locator": "Livre I « De la praxis individuelle au pratico-inerte »：需要与匮乏；matière ouvrée；contre-finalité；pratico-inerte各节",
+      "locatorVerified": true,
+      "identity": "《辩证理性批判》第一卷第一编：个体实践、反最终性与实践惰性"
+    },
+    {
+      "id": "S-CDR1-B2",
+      "workId": "S-CDR1-B2",
+      "edition": "Critique de la raison dialectique, tome I, livre II, Gallimard, 1960",
+      "locator": "Livre II « Du groupe à l'Histoire »：série；groupe en fusion；serment；organisation；institution各连续小节",
+      "locatorVerified": true,
+      "identity": "《辩证理性批判》第一卷第二编（Book II: From Groups to History）"
+    },
+    {
+      "id": "S-CDR2",
+      "workId": "S-CDR2",
+      "edition": "Critique de la raison dialectique, tome II, Gallimard, 1985",
+      "locator": "éditeur Arlette Elkaïm-Sartre说明；Livre I « L'intelligibilité de l'Histoire »现存稿，按身后未完成身份使用",
+      "locatorVerified": true,
+      "identity": "《辩证理性批判》第二卷身后出版未完成稿，不与第一卷第二编混同"
+    },
+    {
+      "id": "S-COL",
+      "workId": "S-COL",
+      "edition": "Situations V: Colonialisme et néo-colonialisme, Gallimard, 1964",
+      "locator": "« Le colonialisme est un système » (1956)；« Vous êtes formidables » (1957)；« Une victoire » (1958)",
+      "locatorVerified": true,
+      "identity": "《殖民主义与新殖民主义》：殖民体系、剥削、种族化与酷刑"
+    },
+    {
+      "id": "S-FANON",
+      "workId": "S-FANON",
+      "edition": "Préface à Frantz Fanon, Les Damnés de la terre, Maspero, 1961",
+      "locator": "序言自欧洲受众称谓、殖民暴力回返论证至结尾对欧洲人责任的召唤",
+      "locatorVerified": true,
+      "identity": "《大地上受苦的人》序：反殖民暴力修辞及其争议"
+    },
+    {
+      "id": "S-POL-PCF",
+      "workId": "S-POL-PCF",
+      "edition": "« Les communistes et la paix », Situations VI, Gallimard, 1964",
+      "locator": "第一篇对工人阶级、党与和平运动的关系；第三篇对批评性结盟边界的说明",
+      "locatorVerified": true,
+      "identity": "萨特与法国共产党接近但不入党的论证"
+    },
+    {
+      "id": "S-POL-HUNGARY",
+      "workId": "S-POL-HUNGARY",
+      "edition": "« Le fantôme de Staline », Situations VII, Gallimard, 1965",
+      "locator": "L'Express访谈改写文本：苏军进入匈牙利、党内官僚制与知识分子责任三段论证",
+      "locatorVerified": true,
+      "identity": "匈牙利事件后对苏联与斯大林主义的公开决裂"
+    },
+    {
+      "id": "S-POL-DIALOGUE",
+      "workId": "S-POL-DIALOGUE",
+      "edition": "On a raison de se révolter, Gallimard, 1974",
+      "locator": "« L'intellectuel révolutionnaire »；« Organisation et spontanéité »；结尾关于发言位置与群众实践的对谈",
+      "locatorVerified": true,
+      "identity": "萨特与Philippe Gavi、Pierre Victor关于革命组织与公共介入的对谈"
+    },
+    {
+      "id": "S-BEAUVOIR-EC",
+      "workId": "S-BEAUVOIR-EC",
+      "edition": "Pyrrhus et Cinéas, Gallimard, 1944",
+      "locator": "Première partie皮洛士对话与行动目的；Deuxième partie他人自由、appel与暴力边界",
+      "locatorVerified": true,
+      "identity": "波伏瓦《皮洛士与西内阿斯》：自由、他人和行动目的"
+    },
+    {
+      "id": "S-BEAUVOIR-EA",
+      "workId": "S-BEAUVOIR-EA",
+      "edition": "Pour une morale de l'ambiguïté, Gallimard, 1947",
+      "locator": "Première partie « L'ambiguïté et la liberté »；Deuxième partie各自由类型；Troisième partie « Les antinomies de l'action »",
+      "locatorVerified": true,
+      "identity": "波伏瓦《模棱两可的伦理学》：相互依赖、压迫与伦理"
+    },
+    {
+      "id": "S-BEAUVOIR-SS",
+      "workId": "S-BEAUVOIR-SS",
+      "edition": "Le Deuxième Sexe, Gallimard, 1949",
+      "locator": "Tome I, Introduction与« Mythes »；Tome II, Introduction“On ne naît pas femme”及« Formation »各章",
+      "locatorVerified": true,
+      "identity": "波伏瓦《第二性》：身体、处境、性别生成与独立论证任务"
+    },
+    {
+      "id": "S-LETTERS",
+      "workId": "S-LETTERS",
+      "edition": "Lettres au Castor et à quelques autres, 1926-1963, Gallimard, 1983",
+      "locator": "Tome I, 1929-1940书信中对手稿互读的日期链；Tome II, 1940-1963中对伦理与政治写作的互评日期链",
+      "locatorVerified": true,
+      "identity": "萨特已出版书信：仅作交流史证据，不替代公开文本归属"
+    },
+    {
+      "id": "S-SECONDARY-FULLBROOK",
+      "workId": "S-SECONDARY-FULLBROOK",
+      "edition": "Edward Fullbrook and Kate Fullbrook, Sartre and Beauvoir: A Twentieth-Century Legend in the Making, Basic Books, 1994",
+      "locator": "chap. 2-5对1930至1940年代手稿、出版日期与概念归属的比较；与双方公开文本交叉核对",
+      "locatorVerified": true,
+      "identity": "关于萨特—波伏瓦概念先后与归属争议的后设研究，不作原典替代"
+    }
+  ],
+  "routes": [
+    {
+      "id": "sartre-longform-23",
+      "version": "candidate-1",
+      "title": "萨特：自由、处境与历史的二十三次推进",
+      "lessonIds": [
+        "sartre-01",
+        "sartre-02",
+        "sartre-03",
+        "sartre-04",
+        "sartre-05",
+        "sartre-06",
+        "sartre-07",
+        "sartre-08",
+        "sartre-09",
+        "sartre-10",
+        "sartre-11",
+        "sartre-12",
+        "sartre-13",
+        "sartre-14",
+        "sartre-15",
+        "sartre-16",
+        "sartre-17",
+        "sartre-18",
+        "sartre-19",
+        "sartre-20",
+        "sartre-21",
+        "sartre-22",
+        "sartre-23"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sartre-01",
+      "order": 1,
+      "title": "意识为何没有一个藏在内部的主人",
+      "depth": "longform",
+      "guidingQuestion": "如果意识总是朝向某物，它还需要一个住在里面的自我来统一经验吗？",
+      "coreExplanation": "paragraph-ref:sartre-01-p04",
+      "sections": [
+        {
+          "heading": "盒子里多出来的解释者",
+          "paragraphs": [
+            "日常语言把意识说成装着表象的盒子，再在盒中安放一个自我当主人。这样做看似解释了经验的统一，却只是把需要解释的统一者搬进内部，并使意识与世界之间多出一道无法跨越的墙。",
+            "这里的困难还在于，若每次意识都由另一个意识确认，就会出现无穷后退；若确认者不被意识到，它又不能承担透明统一的职责。问题因而不是删去主语，而是改变主语成立的层次。",
+            "这里需要保住一个细小却决定性的差别：没有实体式主人，不等于经验无人承担。意向活动在发生时已经以非对象化方式显现自身；若再添一个观察它的我，就还要解释那个我怎样知道自己正在观察，于是统一问题只会无限后退。前反思自觉正是在这里获得必要性。"
+          ],
+          "identity": "sartre-01-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "经验怎样先于“我的经验”",
+          "paragraphs": [
+            "现象学的意向性首先说意识是在指向对象的活动中存在，而非先有封闭容器再向外伸手。萨特进一步区分未把自己当对象的前反思自觉与把经历回收成“我”的反思；经验可以有自我显现而不必由实体自我占据。超越的自我是反思在世界中把行动、性格和历史组织成的对象。",
+            "前反思自觉不是后来附加的知识判断。疼痛、阅读或奔跑在指向对象时已经以非位置方式显现自身；反思才把这份显现改造成可描述、可归属、也可能被误认的对象。",
+            "《自我的超越性》的论证对象是经验中自我的地位，不是一份关于脑机制的实验报告；《存在与虚无》第一部分后来把这种非实体意识接到虚无化上。把两部文本连用可以重建概念延伸，却不能说早期短论已经包含后期全部本体论。",
+            "专心读一封坏消息时，注意力在句意、发件人与后果上，并没有另一个小人在内部逐句监督。稍后说“我刚才很害怕”，反思才把散布在姿势、判断和期待中的经历归到一个我名下。这个例子让无人格主体与无人经历的区别显出来。"
+          ],
+          "identity": "sartre-01-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "记忆与责任会不会随自我一起消失",
+          "paragraphs": [
+            "强异议认为，没有持续自我便无法说明记忆归属、承诺延续和责任；前反思自觉也可能只是换名后的微型自我。",
+            "责任异议迫使理论说明跨时统一。萨特不能只说自我虚假，而需说明承诺如何通过身体习惯、他人记忆与公共记录持续，这也预告自由始终有社会支架。",
+            "责任于是需要换一种解释单位：不是一个不变实体跨时段搬运同一性质，而是行动者能够把过去行为认作自己的、让承诺约束现在，并在他人追问时给出理由。这个任务尚未完成，但它不再依赖心内主人。",
+            "回应只需证明经验不靠实体自我才成为经验，并不否认人格、记忆和责任的现实功能。萨特把它们放在反思、身体和社会历史中形成，代价是统一问题不会由一个简单实体一次解决。",
+            "例子的作用不是证明人从不想到自己，而是把投入活动与回望活动分开。同一封信在阅读时是威胁，在回忆时成为“我的恐惧证据”，对象结构随反思行动改变。",
+            "一旦意识不是盛放内容的东西，想象和情绪便不能再被当成内部图片或被动震荡；下一篇考察意识怎样以非现实化和魔术性转换改变它与世界的关系。"
+          ],
+          "identity": "sartre-01-essay-03",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-01-p07",
+      "nodeIds": [
+        "sartre-01-node"
+      ],
+      "checkIds": [
+        "sartre-01-q1",
+        "sartre-01-q2",
+        "sartre-01-q3",
+        "sartre-01-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-02",
+      "order": 2,
+      "title": "世界如何被非现实化或魔术性转换",
+      "depth": "longform",
+      "guidingQuestion": "想象与情绪只是心中的图像和生理扰动，还是意识改变世界意义的方式？",
+      "coreExplanation": "paragraph-ref:sartre-02-p03",
+      "sections": [
+        {
+          "heading": "一张照片并不把朋友装在纸上",
+          "paragraphs": [
+            "上一篇已经把意识从内部容器中释放出来，本篇才有条件问：面前并不存在的对象为何仍能被准确指向。若照片只是眼前色块，缺席者便无从出现；若情绪只是体内信号，令人窒息的询问也不会因昏厥而改变意义。于是“非现实化”与“魔术性转换”不是两种神秘能力，而是两条由对象结构逼出的解释线。",
+            "若把想象理解为褪色知觉，把情绪理解为体内震荡，我们就无法解释一张照片为何以缺席者为对象，也无法解释人在无路可走时为何以恐惧、昏厥或愤怒重新布置可行动的世界。问题不是多添一种心理内容，而是说明意识怎样面对不在场与受阻。",
+            "想象意识把对象设为缺席、不存在或在别处，因而非现实化当前知觉场。《情绪理论纲要》则把情绪解释为一种魔术性世界转换：当工具性道路失败，意识借身体把困难世界改写为可逃避、可忍受或仿佛已被解决的世界。身体不是附带症状，而是这种相信并实行转换的中介。"
+          ],
+          "identity": "sartre-02-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "道路受阻时，身体怎样改写场面",
+          "paragraphs": [
+            "非现实化不是否认眼前物，而是在同一场域中让缺席对象支配意义。照片仍被看见，却作为通向不在场者的材料退到背景；这比“脑中复制一幅图”更能解释对象身份。",
+            "魔术性并非迷信标签，而是与工具性行动对照。可操作路径受阻时，情绪让距离、危险或价值仿佛改变；身体的颤抖、退缩和昏厥使这种新世界具有被生活出来的重量。",
+            "够不到高处的葡萄时，恼怒者说葡萄本来就酸；面临无法回答的指控时，昏厥使询问者和责任场景暂时失去迫近力量。这并非冷静设计的计策，身体变化使世界真的以另一种价值结构呈现。照片中的朋友也不是纸面色块，而以不在场者身份被意向。",
+            "葡萄案例若只被读作借口，就会漏掉转换的非反思性质。恼怒并非先计算欺骗收益再命令身体，而是在受挫中直接把对象体验为“不值得”，由此暂时解除失败压力。"
+          ],
+          "identity": "sartre-02-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "从生理序列到意义对象",
+          "paragraphs": [
+            "詹姆斯式解释会把情绪还原为身体变化的感受，弗洛伊德式解释则以无意识因果揭露主体不知的意义；两者都质疑意识能否在不自知时组织情绪。",
+            "《想象物》分析的是影像意识如何设定对象，《情绪理论纲要》则是早期现象学纲要，作者本人没有把它写成成熟临床理论。詹姆斯与弗洛伊德在这里是被萨特批评的理论位置；今天借创伤和习惯反驳萨特，是后来的压力测试，不能倒写成原书已经接受的结论。",
+            "詹姆斯解释了身体序列，却未说明为何同一心跳指向羞耻而非喜悦；弗洛伊德解释隐藏意义，却引入审查者如何识别意义的新问题。萨特的胜点是对象指向，弱点是因果厚度。"
+          ],
+          "identity": "sartre-02-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期方案必须缩到哪里",
+          "paragraphs": [
+            "萨特的异议是：生理序列没有说明情绪指向何物，机械无意识又容易重新制造心内实体。但他的早期方案低估了习惯、创伤和非自愿调节；称情绪为自由入口，不等于说人随意选择心跳或症状。",
+            "非现实化显示意识能与既成现实拉开距离。第三篇必须转向被拉开距离的存在本身：自在为何饱满、偶然且没有由意识赐予的理由。"
+          ],
+          "identity": "sartre-02-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-02-p06",
+      "nodeIds": [
+        "sartre-02-node"
+      ],
+      "checkIds": [
+        "sartre-02-q1",
+        "sartre-02-q2",
+        "sartre-02-q3",
+        "sartre-02-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-03",
+      "order": 3,
+      "title": "存在为何不需要理由",
+      "depth": "longform",
+      "guidingQuestion": "现象显现是否还要求一个藏在背后的本体来担保它？",
+      "coreExplanation": "paragraph-ref:sartre-03-p06",
+      "sections": [
+        {
+          "heading": "非现实化不能吞掉现实",
+          "paragraphs": [
+            "想象能够把对象设为不在场，并不意味着意识制造了所有存在。恰恰相反，非现实化需要一个不听命于它的背景。萨特把这种抵抗意义、不能从目的推出的在场称作自在；这个词首先承担刹车功能，阻止现象学滑向“世界只是我的表象”。",
+            "传统二分常让现象成为遮蔽物，仿佛真正存在躲在显现之后。若把背后的东西无限后撤，解释永远不能抵达；若由意识创造存在，又把坚硬世界误写成主体作品。",
+            "说存在没有理由，并不是说关于事物的科学说明无效。科学可以解释树根如何生长，却不能从一条规范或目的推出“存在本身应当在”；因果说明与存在许可不是同一问题。"
+          ],
+          "identity": "sartre-03-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "树根的过剩",
+          "paragraphs": [
+            "《恶心》中树根失去“树根”这一熟悉用途标签后，以过剩、黏稠而无理由的存在逼近。经验并没有证明树根不真实，反而显示分类与用途遮住了存在无需许可便在场。",
+            "树根场景属于小说人物洛根丁的经验，而不是萨特以第一人称提交的形而上学观察报告。《恶心》让偶然性获得感性厚度；自在与现象之存在的严格区分仍应回到《存在与虚无》导论。文学声音可以显现问题，不能单独担保本体论结论。"
+          ],
+          "identity": "sartre-03-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "从显现抵达自在",
+          "paragraphs": [
+            "萨特拒绝现象与本体的双层楼，把现象理解为存在的显现。自在存在不是意识对象的总和，而是饱满地是其所是；它没有缺口、目的或充分理由。偶然性不是知识暂缺，而是存在并不从某个必然概念推出。",
+            "第一步只是否定显现背后还需一层永不显现的本体；第二步才是说明显现本身指向不依赖我许可的存在。若把两步合并，反二元论会被误读成唯心论。",
+            "自在的饱满也不是一张可以观察的物质照片，而是一条本体论禁令：不能把否定、可能或价值当作物自身携带的属性。它们需要由与自身有距离的存在带入。"
+          ],
+          "identity": "sartre-03-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "偶然性究竟说得有多强",
+          "paragraphs": [
+            "强异议认为，把自在说成纯饱满只能用否定语汇描述，仍由自为反向塑造；所谓偶然性也可能只是我们不知道自然规律。",
+            "即使自然规律解释树根怎样长成，仍没有给出“它为何值得存在”的规范性理由。偶然性在此并不与因果说明竞争，而是拒绝把因果秩序误写成目的或价值担保。",
+            "异议提醒我们自在只能从自为语言进入。回应不能假装站到意识之外，而应承认概念是限制性的：它阻止意义吞没存在，却不提供存在的正面内部画像。",
+            "回应是自在概念承担限制功能：它禁止把世界化约为意义。但萨特不能由此给出自然科学本体论，也不能把文学体验当作宇宙学证明；偶然性的强度主要指存在没有规范性理由。",
+            "饱满自在没有距离，意识却能把自己所是放在问题中。下一篇由这种不重合解释自为、缺失和时间，而不把自为另造为第二种物质。"
+          ],
+          "identity": "sartre-03-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-03-p04",
+      "nodeIds": [
+        "sartre-03-node"
+      ],
+      "checkIds": [
+        "sartre-03-q1",
+        "sartre-03-q2",
+        "sartre-03-q3",
+        "sartre-03-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-04",
+      "order": 4,
+      "title": "自为为何不与自己重合",
+      "depth": "longform",
+      "guidingQuestion": "意识怎样既在场又与自己保持距离？",
+      "coreExplanation": "paragraph-ref:sartre-04-p03",
+      "sections": [
+        {
+          "heading": "一条不能封口的时间裂缝",
+          "paragraphs": [
+            "如果意识像石头一样完全等同于当下状态，它无法质疑、承诺或改变；如果它是脱离世界的灵魂，又无法说明身体与过去怎样约束它。自为概念要描述一种依赖存在却不与既成规定重合的存在方式。",
+            "自在的饱满若直接套到意识上，任何怀疑都会成为不可能：一个完全等同于“我正在戒酒”的存在既不能失败，也不能重新承诺。意识实际把过去作为已经发生的事实承受，又让尚未实现的目标反照现在。萨特用“自为”命名的，正是这个不能封口的不重合，而不是第二团精神材料。",
+            "“不是它所是、是它所不是”不是文字游戏：自为已经是自己的过去和处境，却以面向未来的计划使它们不能封闭定义自己；它尚未是目标，却由目标回照当前。缺失因此不先是世界中的洞，而由一个超出既成的存在带入。"
+          ],
+          "identity": "sartre-04-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "戒酒者的过去如何在场",
+          "paragraphs": [
+            "正在戒酒的人确实有长期饮酒史，不能把事实抹掉；但“酒鬼”也不能穷尽他，因为今晚拒绝或再饮的可能正组织他怎么看待那段历史。未来不是后来才加上的时刻，而已在当前诱惑的意义中工作。",
+            "未来计划不是脑内蓝图，而是让当前对象呈现用途和阻碍的组织方式。戒酒目标使酒杯成为诱惑或威胁；放弃目标后，同一物的实践意义随之改变。",
+            "案例还区分“不能被定义穷尽”与“没有稳定倾向”。长期饮酒提高复饮概率，影响身体和关系，但概率不能代替今晚这次行动的第一人称理由。"
+          ],
+          "identity": "sartre-04-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "悖论公式的语法限度",
+          "paragraphs": [
+            "“不是它所是，是它所不是”出自《存在与虚无》对自为的公式化描述。它容易被截成漂亮悖论；只有放回时间性和缺失的推理中，才知道“不是”不是否认过去，“是”也不是把未来当成已经完成。后来的预测科学异议属于检验范围，不是原典对话者。",
+            "自为的不重合若被说成可以随时改头换面，就会沦为轻率自由。真正压力来自相反方向：我无法撤销已经做过的事，却也无法让过去替我完成现在的立场。"
+          ],
+          "identity": "sartre-04-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "预测并没有因此失效",
+          "paragraphs": [
+            "异议认为这种不重合把人神秘化，或者把所有稳定身份都说成幻觉；心理与社会科学仍能可靠预测行为。",
+            "萨特只否认预测等于本体封闭，不否认概率、习惯和制度力量。不重合留下重新取向的空间，却不保证成功，也不使每次微小动作都经过清晰反思。",
+            "预测异议迫使萨特承认解释层次。第三人称规律可以有效，行动者层面的承诺也仍不可省；问题不是二选一，而是规律为何不能自动成为规范结论。",
+            "自为的距离怎样进入共同世界，必须通过否定与提问说明。下一篇追踪“没有”不是从纯无涌出，而是在期待受挫的结构中显现。"
+          ],
+          "identity": "sartre-04-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-04-p04",
+      "nodeIds": [
+        "sartre-04-node"
+      ],
+      "checkIds": [
+        "sartre-04-q1",
+        "sartre-04-q2",
+        "sartre-04-q3",
+        "sartre-04-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-05",
+      "order": 5,
+      "title": "“没有”怎样进入世界",
+      "depth": "longform",
+      "guidingQuestion": "否定只是句子的逻辑形式，还是意识与存在交涉的实际方式？",
+      "coreExplanation": "paragraph-ref:sartre-05-p05",
+      "sections": [
+        {
+          "heading": "十点十分，满屋子都是一个人的缺席",
+          "paragraphs": [
+            "约好十点见面，十点十分走进咖啡馆时，我并非逐一肯定每位陌生人再作演绎；我直接在寻找结构中看到皮埃尔的缺席。空位、门声和服务员都围绕未出现者取得意义。",
+            "若否定只由肯定命题组合，咖啡馆里“皮埃尔不在”就只是关于桌椅人群的附加判断；但经验中他的缺席会组织整个场景，其他顾客退成背景。我们要解释这个有结构的无。",
+            "皮埃尔案例不能被缩成语句真假。关键是知觉的图形背景变化：陌生面孔被迅速略过，空位获得重量，门声不断重新点燃期待，缺席以时间结构持续。"
+          ],
+          "identity": "sartre-05-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "期待怎样让现实能够说“不”",
+          "paragraphs": [
+            "自为与自身不重合，还不足以说明一个具体的“没有”怎样出现。否定必须被某个期待定向：约会把十点、咖啡馆和皮埃尔连成应当兑现的结构，随后现实才可能以缺席作答。“虚无化”因此不是制造一团无，而是意识从饱满在场中划出有关与无关、兑现与落空。",
+            "提问先悬置一个答案，让世界可能回答“不是”；期待则从场域中勾勒应出现者。意识以虚无化从饱满存在中拉开距离，使某个缺席、失败或界限显现。否定依赖存在，又不是自在自己裂开。",
+            "虚无化也发生在自我关系中。说“我还不是医生”既依赖已有训练，又让未来资格反过来组织当下；否定在存在上打出实践差距，而非制造一团独立的无。"
+          ],
+          "identity": "sartre-05-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "差异检测够不够",
+          "paragraphs": [
+            "语言哲学异议会说，缺席只是描述选择，没有必要假设特殊的虚无化活动；动物和自动系统也能检测缺失。",
+            "自动系统异议说明差异检测不专属于人。萨特能坚持的较窄主张是，人的否定带着可承担的规范和计划；他没有由此证明机器或动物缺少其他形式的相关性。",
+            "咖啡馆中的皮埃尔是《存在与虚无》第一部分的示范性场景。萨特用它分析人的否定，不曾据此完成动物认知或自动检测系统的比较理论。若把今天的技术反例写成作者已经讨论的对象，就会越过来源边界；它只能迫使这一结构主张收缩。",
+            "回应不需把虚无化变成神秘力量，而是指出检测总由任务、规范或期待划定相关差异。萨特对前语言生物和技术系统论述不足，不能由人的提问结构断言一切否定都相同。"
+          ],
+          "identity": "sartre-05-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "从缺席通向处境",
+          "paragraphs": [
+            "若世界本身装着负属性，任何场景都含无数“不在”：咖啡馆没有鲸鱼、没有王冠、没有昨天。只有与当前期待有关的缺席才凸显，这说明相关性先由计划筛选。",
+            "否定能力让人不被当前状态封闭，但它始终针对过去、身体和世界。下一篇把这种双重性展开为事实性与超越，而非自由和决定论二选一。"
+          ],
+          "identity": "sartre-05-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-05-p01",
+      "nodeIds": [
+        "sartre-05-node"
+      ],
+      "checkIds": [
+        "sartre-05-q1",
+        "sartre-05-q2",
+        "sartre-05-q3",
+        "sartre-05-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-06",
+      "order": 6,
+      "title": "人为何既是过去又不止于过去",
+      "depth": "longform",
+      "guidingQuestion": "事实性和超越怎样同时成立而不互相抵消？",
+      "coreExplanation": "paragraph-ref:sartre-06-p07",
+      "sections": [
+        {
+          "heading": "过去既不能撤销，也不能替我行动",
+          "paragraphs": [
+            "出生、身体、阶级、既往选择不可撤销，未来计划却不断重释它们。决定论把前者变成结论，抽象自由论又把后者写成无条件起点，两边都错过处境中的行动。",
+            "前一篇证明否定总在既有世界上工作，因而自由不能从零开始。出生、身体和过去选择构成不可跳过的事实性；面向未来的计划则让这些事实取得可改变的实践意义。称后者为超越，并不是把限制想没，而是说明同一限制为何在不同计划中成为不同种类的障碍。",
+            "事实性不是静态清单。过去选择已经改变身体、信用和他人期待，成为新的出发条件；超越的结果会沉积为下一轮事实，这让自由承担后果而不是不断清零。"
+          ],
+          "identity": "sartre-06-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "一段台阶的四种意义",
+          "paragraphs": [
+            "失去一条腿既不因乐观计划消失，也不自动规定余生。康复设施、收入、他人态度与本人目标共同决定台阶是训练、羞辱、危险还是无法进入的边界。处境由事实和取向交叉，而非二者相加。",
+            "条件改变会改变判断：同一台阶在有坡道、助手与稳定收入时可能成为可训练的困难，在缺乏这些支持时却是排除性的边界。计划并未单方面创造障碍的意义，公共设施已经参与意义的分配。",
+            "残障案例检验“障碍”不是纯主观，也不是纯物理。没有坡道是材料事实，它对去教室的计划构成排除；若目标和制度改变，意义会变，但台阶不会因诠释消失。"
+          ],
+          "identity": "sartre-06-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "时间不是装着现在的盒子",
+          "paragraphs": [
+            "事实性是我不能不从中出发的既成，超越是我以计划朝向可能并赋予既成以实践意义。过去不能更改，但“它对我意味着什么”依当前与未来取向变化。时间不是相同现在的容器，而是自为在已是、在场和未是之间的不重合。",
+            "时间结构由此具有方向：过去是不能再选却仍被承担的，未来是尚未存在却已赋义的，现在则是两者张力中的行动。三个维度不能像盒中物那样彼此外置。",
+            "事实性与超越的成对分析主要来自《存在与虚无》第二、第四部分。借残障设施说明处境，是把原典结构迁移到萨特没有充分处理的制度可及性问题；它揭示早期框架所需的社会补充，不能冒充作者已经给出的残障政治学。"
+          ],
+          "identity": "sartre-06-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "“赋予意义”会不会责怪受阻者",
+          "paragraphs": [
+            "异议认为“赋予意义”会把贫困、残障和创伤心理化，仿佛受压者只需换解释；反向异议则担心事实性吞没自由。",
+            "政治异议迫使处境概念加入分配问题。说每个人都从事实出发还不够，还要问谁控制建筑、资金和分类标准；这正是晚期物质与集体分析将扩大的部分。",
+            "萨特式回应必须承认物质障碍和他人权力不由意义取消，同时说明它们只有在具体计划中成为某种障碍。这个框架还需社会理论补足条件如何分配，不能把受阻归咎个人。"
+          ],
+          "identity": "sartre-06-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "自由问题因此被重新规定",
+          "paragraphs": [
+            "事实性与超越为自由规定了正确问题：不是有没有无限能力，而是行动怎样在给定条件中以目的组织理由。"
+          ],
+          "identity": "sartre-06-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-06-p04",
+      "nodeIds": [
+        "sartre-06-node"
+      ],
+      "checkIds": [
+        "sartre-06-q1",
+        "sartre-06-q2",
+        "sartre-06-q3",
+        "sartre-06-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-07",
+      "order": 7,
+      "title": "自由为何不是能力或任性",
+      "depth": "longform",
+      "guidingQuestion": "当障碍真实存在时，萨特为何仍说行动结构包含自由？",
+      "coreExplanation": "paragraph-ref:sartre-07-p05",
+      "sections": [
+        {
+          "heading": "高墙并不因为自由而变矮",
+          "paragraphs": [
+            "囚犯可以筹划逃跑、保持沉默或合作，但高墙、监控和报复使这些路径的成本与成功率极不相同。称其自由不等于责怪他未逃脱，而是区分被迫面对选择结构与拥有同等实质行动能力。",
+            "“人是自由的”常被误听成想做什么便能做到什么。这既侮辱受压者，也无法解释失败。萨特讨论的不是能力库存，而是行为何以成为行动：它由一个尚未实现的目的照亮当前不足。",
+            "囚犯案例的功能是阻断责备推论。承认他仍面对立场，不允许旁观者把高墙改写成借口不足；恰恰因为实质能力受压，政治评价应指向压迫条件。"
+          ],
+          "identity": "sartre-07-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "从目的反照理由",
+          "paragraphs": [
+            "事实性与超越的交叉，使“自由”不能再等同于能力库存。行动之所以是行动，是因为一个尚未实现的目的把现状显成不足，并把饥饿、命令或恐惧组织成理由。自由命名的是这种采取立场的结构；成功率、工具和免受胁迫的程度则属于处境中的实质能力。",
+            "理由不会像外力把主体推出去；饥饿、命令或恐惧只有在某种计划中成为忍耐、服从或反抗的理由。自由是采取立场和组织目的的结构，处境则规定工具、风险和可达范围。没有处境的自由为空，没有超越的处境为死因果。",
+            "能力论误读把自由当可支配资源，仿佛选项越多越自由。萨特更基础地问，一个举动为何是为了某事而做；即使选项很少，目的与理由的结构仍存在，但实质能力可能接近零。"
+          ],
+          "identity": "sartre-07-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "决定论与政治异议从两边夹击",
+          "paragraphs": [
+            "决定论异议认为理由本身由脑、成长和阶级造成；政治异议则指出结构性不平等使“人人自由”成为特权者话语。",
+            "结构异议推动早晚期区分。早期语言突出不可替代的承担，晚期说明工具、匮乏与组织如何放大或缩小行动效力；二者连续于目的性，修正于能力条件。"
+          ],
+          "identity": "sartre-07-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期结构、晚期修正",
+          "paragraphs": [
+            "《存在与虚无》和公开讲演给出自由结构，《辩证理性批判》则把物质中介与集体历史推到前景。用后期文本修正早期表达，不能伪装成两期毫无变化；反过来，把后期当作撤销自由，也会丢掉实践仍以目的组织条件的连续线。",
+            "理由依计划取得力量，不表示行动者凭空选择理由。饥饿的身体强度、枪口和法律制裁都真实改变风险；它们没有像物理撞击那样独自写出“因此我应当服从”。",
+            "回应只能坚持因果描述不能替代行动者层面的理由组织，并承认实质能力极端不均。自由不保证可行选项、成功或免于胁迫；后期萨特会借物质和集体分析修正早期表达。",
+            "一旦行动没有外部保证，主体会在自己的可能性面前失去借口。下一篇的焦虑不是普通恐惧，而是这种无保证承担的显现。"
+          ],
+          "identity": "sartre-07-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-07-p01",
+      "nodeIds": [
+        "sartre-07-node"
+      ],
+      "checkIds": [
+        "sartre-07-q1",
+        "sartre-07-q2",
+        "sartre-07-q3",
+        "sartre-07-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-08",
+      "order": 8,
+      "title": "焦虑为何揭露自由",
+      "depth": "longform",
+      "guidingQuestion": "焦虑与对外在危险的恐惧有何不同？",
+      "coreExplanation": "paragraph-ref:sartre-08-p06",
+      "sections": [
+        {
+          "heading": "银行卡交出去以后",
+          "paragraphs": [
+            "戒赌者把银行卡交给家人，仍知道自己可能寻找别的借口。防护安排真实降低风险，却不能以逻辑必然替他行动。焦虑正发生在制度支持有效与主体仍须回应之间。",
+            "支持安排的功能恰可由条件变化检验：银行卡托管使某些冲动难以兑现，却不把未来行动变成逻辑必然；若同时加入自我排除制度和治疗，可能性空间再次改变。自由结构与风险干预并不互相排斥。",
+            "戒赌案例保留两个层次：交卡行为本身是自由地重塑未来条件，而条件随后真实降低机会。支持不是自由的反面，而是自由借事实性约束自己的方式。",
+            "恐惧可把危险定位在悬崖、武器或疾病上，焦虑却在我发现自己的规则、性格和决心不能替我完成下一步时出现。若把它只当症状，便错过它揭示的规范结构。"
+          ],
+          "identity": "sartre-08-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "规则为什么不能自己执行",
+          "paragraphs": [
+            "自由若不是成功能力，它最尖锐的经验就不是“我什么都能”，而是“没有任何既成决定替我完成下一步”。恐惧把威胁放在悬崖或疾病上；焦虑却显出我和自己的规则之间仍隔着一次承担。萨特因此从无保证，而非从情绪强度，生成焦虑的存在论含义。",
+            "站在悬崖边，我既怕脚滑，也焦虑自己可能跳下；前者来自对象，后者来自我与未来行为之间没有因果保证。过去的决心仍是理由，却必须由现在重新承担。焦虑显出价值需要行动维持。",
+            "这种无保证也解释为何人会逃向权威、角色和征兆。若命令被说成具有自动力量，主体便可把执行写成事件；焦虑让这条自我卸责路径短暂失效。"
+          ],
+          "identity": "sartre-08-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "悬崖例证能证明什么",
+          "paragraphs": [
+            "焦虑不是面向选项数量，而是发现没有一个既成事实能替我担保价值。规则可以提供方向，却仍需在新情境中解释；性格可以增加倾向，却不会作为签字者替我行动。",
+            "悬崖例证属于《存在与虚无》的存在分析，公开讲演又把承担转成责任语言。临床焦虑的病因、治疗和风险评估不由这两处文本裁定。把存在论结构迁移到戒赌支持时，必须明确这是功能案例，不是对患者的道德诊断。"
+          ],
+          "identity": "sartre-08-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "不要把症状浪漫化",
+          "paragraphs": [
+            "异议认为许多焦虑是临床病理或神经反应，不能被浪漫化为自由启示；过度强调承担还会加重患者羞耻。",
+            "萨特的分析是存在结构而非诊断学，不能替代治疗，也不说明焦虑越强越真实。社会支持、药物与习惯可改变行动条件；无保证不等于没有帮助。",
+            "临床异议限制了哲学语汇的使用。把惊恐发作称作自由启示可能造成伤害；存在论只讨论无保证结构，诊断和治疗必须听从独立的医学与个人证据。"
+          ],
+          "identity": "sartre-08-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "逃避承担的下一种形状",
+          "paragraphs": [
+            "人常试图逃离这种承担，把自己说成固定角色或纯粹超越。下一篇考察恶意怎样利用意识的不重合来遮蔽它。"
+          ],
+          "identity": "sartre-08-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-08-p01",
+      "nodeIds": [
+        "sartre-08-node"
+      ],
+      "checkIds": [
+        "sartre-08-q1",
+        "sartre-08-q2",
+        "sartre-08-q3",
+        "sartre-08-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-09",
+      "order": 9,
+      "title": "人怎样对自己隐瞒而不分裂心灵",
+      "depth": "longform",
+      "guidingQuestion": "自欺者若知道又不知道真相，是否必须假定一个无意识审查者？",
+      "coreExplanation": "paragraph-ref:sartre-09-p04",
+      "sections": [
+        {
+          "heading": "一个人怎样既遮蔽又不彻底失忆",
+          "paragraphs": [
+            "说谎通常要求说谎者知道而听者不知道，自欺却发生在同一人身上。若把心灵切成两个完整主体，审查者仍须识别被压抑内容，悖论只是后退一步。",
+            "自欺悖论若只问命题存不存在，会错过注意方式。人可以让证据保持模糊、延迟命名、在不同语境更换标准；他不是同时清楚宣布两句矛盾命题。",
+            "焦虑留下的无保证很难长期直视，于是主体会借自身的双重结构躲开它：在责任处把自己缩成角色，在可能处又把角色说成毫无约束。恶意不是简单持有两句相反命题，而是控制何时让哪一面成为证据；这个“证据风格”让自欺无需再安置一个全知的内部骗子。"
+          ],
+          "identity": "sartre-09-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "服务员、约会者与签字者",
+          "paragraphs": [
+            "恶意利用事实性与超越的双面结构：服务员把自己演成只能如此的角色，约会者又把身体当作无关事实。意识并非同时持有两句清楚相反的命题，而是维持一种不愿明确的证据风格，在相关处滑动身份标准。",
+            "管理者说“制度要求我裁员”，把自己的签字写成纯事实；谈功劳时却强调个人判断。他没有忘记两组事实，而是在责任出现处把行动者缩成角色，在荣誉出现处恢复超越。",
+            "管理者案例把恶意放进制度。制度确实施压，个人也参与维护；他在责任与功劳之间切换同一角色的重量，正显示选择性标准而非简单无知。"
+          ],
+          "identity": "sartre-09-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "无意识异议没有被一句话消灭",
+          "paragraphs": [
+            "弗洛伊德异议认为症状、梦和口误显示无意识机制，意向性描述不足以解释不受控制的重复；真诚也可能把人固定成“真正的我”。",
+            "服务员与约会者是《存在与虚无》中的原典人物，管理者裁员是对同一推理的迁移。弗洛伊德在萨特笔下是被批评的心灵分区方案，但今天的非透明心理过程并不因此被原典逐一驳倒。规范结构与心理因果必须分层。",
+            "无意识异议要求承认非透明因果。萨特可以批评“心内小人”，却需为创伤重复和语言滑误留下解释空间；存在论责任不能替代心理机制研究。"
+          ],
+          "identity": "sartre-09-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "真诚也可能成为陷阱",
+          "paragraphs": [
+            "服务员例子也不应嘲笑职业技能。问题不在动作熟练，而在把社会角色当成穷尽存在的本体证明；角色真实规定期待，却不能消除扮演者对执行方式的参与。",
+            "萨特揭示自欺的规范动作，却没有穷尽心理因果。拒绝实体式无意识不等于否认非透明过程；真诚若追求固定本质同样落入陷阱，较好的真实性只能是承担两面而非找到纯我。"
+          ],
+          "identity": "sartre-09-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "他人的目光将固定带到外部",
+          "paragraphs": [
+            "恶意不仅是独处中的错误，他人的评价能把我固定成我无法完全掌控的对象。凝视由此进入。"
+          ],
+          "identity": "sartre-09-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-09-p05",
+      "nodeIds": [
+        "sartre-09-node"
+      ],
+      "checkIds": [
+        "sartre-09-q1",
+        "sartre-09-q2",
+        "sartre-09-q3",
+        "sartre-09-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-10",
+      "order": 10,
+      "title": "他人怎样不是我推论出的对象",
+      "depth": "longform",
+      "guidingQuestion": "羞耻为何能让他人的存在以第一人称经验显现？",
+      "coreExplanation": "paragraph-ref:sartre-10-p03",
+      "sections": [
+        {
+          "heading": "脚步声打断了谁的世界",
+          "paragraphs": [
+            "若他人只是我从可见身体推断出的隐藏心灵，怀疑永远可持续。萨特从凝视的结构出发：我突然发现自己的世界可被另一个中心组织，并以我不能主宰的方式把我对象化。",
+            "恶意仍可能被理解为我独自操纵身份标准，凝视则破坏这种主权。脚步声出现时，窥视者不是先完成“外部身体—隐藏心灵”的推论，而是突然以他人可见的偷看者出现。他人由此不是我知识中的又一对象，而是能重新组织我和世界关系的自由中心。",
+            "钥匙孔旁的窥视者沉入自己的计划，脚步声使他突然以“正在偷看的人”出现。羞耻不是先推理出观察者再评价自己，而是对为他存在的直接揭露。他人自由从我无法收回其视角的事实出现。",
+            "凝视的力量不依赖对方评价正确。一个误解也能改变我的处境，因为它进入记录、流言和行动；我可以反驳其内容，却不能令另一视角从世界中撤销。"
+          ],
+          "identity": "sartre-10-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "羞耻不是一项旁观者证明",
+          "paragraphs": [
+            "羞耻因此不同于私下判断“我做错了”。它首先暴露我有一个为他的外部，随后才可能转成认错、愤怒或抗议。情感内容会变，对象化结构仍在。",
+            "在会议中失言后，即使无人明说，发言者也会意识到录屏、沉默和目光可把一句话固定为履历的一部分。他能解释，却不能决定别人如何保存它。"
+          ],
+          "identity": "sartre-10-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "录屏之后，解释权还剩多少",
+          "paragraphs": [
+            "异议认为羞耻依赖内化规范，不证明现实观察者；匿名摄像头或想象观众也会产生类似体验。",
+            "内化规范异议是有效限制：羞耻可由想象观众触发，所以不能从体验推出某个观察者正在场。理论证明的是主体间可见性，不是侦测事实的工具。"
+          ],
+          "identity": "sartre-10-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "一句戏剧台词的边界",
+          "paragraphs": [
+            "钥匙孔场景来自《存在与虚无》；《禁闭》的“他人即地狱”由戏剧人物加尔散在特定相互囚禁中说出。把人物台词提升为萨特对一切关系的论文结论，会抹掉声音身份与场景条件。会议录屏是当代迁移，不是原典例证。",
+            "回应是凝视是主体间结构，不必每次锁定一双实际眼睛；但这也意味着单次羞耻不能证明某个具体人的判断。“他人即地狱”只揭示被固定的冲突可能，不是所有关系总论。",
+            "凝视通过身体发生，却不能把身体只当可见物。下一篇区分我活出的身体、他人看到的身体及我从他人那里重新领回的身体。"
+          ],
+          "identity": "sartre-10-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-10-p06",
+      "nodeIds": [
+        "sartre-10-node"
+      ],
+      "checkIds": [
+        "sartre-10-q1",
+        "sartre-10-q2",
+        "sartre-10-q3",
+        "sartre-10-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-11",
+      "order": 11,
+      "title": "身体为何既是我又由他人交还",
+      "depth": "longform",
+      "guidingQuestion": "身体怎样同时是行动视点、可见对象和被社会命名的身份？",
+      "coreExplanation": "paragraph-ref:sartre-11-p02",
+      "sections": [
+        {
+          "heading": "身体不是随身携带的对象",
+          "paragraphs": [
+            "把身体只看作生理机器，会漏掉它作为我行动世界的无声视点；把身体只说成体验，又忽略疾病、影像和他人分类把我对象化。",
+            "萨特区分为己身体、为他身体与我从他人那里经验到的为己为他身体。前者不是被观察的工具清单，而是距离、方向和能力的起点；后两者使我面对可见外貌、诊断与评价，并把它们重新纳入生活。",
+            "凝视通过身体把我交给他人，但身体不能因此只剩一件被观看的物。伸手、转身和疼痛首先是我通向世界的视点；镜像、诊断和评价又把它作为对象交还。两者碰撞时，我还会从他人的命名中重新活出身体。三重身体不是三件东西，而是同一身体在不同关系中的存在方式。"
+          ],
+          "identity": "sartre-11-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "诊断室中的三次变形",
+          "paragraphs": [
+            "演讲者起初透过嗓音和手势直达听众，听到麦克风回声后突然把自己的声音当成别人听到的对象。医生的诊断又把疼痛命名成公共类别，既提供帮助，也改变患者如何居住在身体中。",
+            "若诊断被解释清楚、患者可以复核记录并参与决定，为他身体仍存在，却不再以同样方式压倒活出的身体；若记录被保险制度用来拒保，对象化便获得新的物质后果。案例的条件变化让三重关系而非单纯感受成为分析单位。",
+            "活出的身体通常不作为对象出现。伸手拿杯时，我不是先测量手臂长度再决定动作；身体以“我能到那里”的方式组织近远。疾病或技术故障才使这层透明支架突显。",
+            "麦克风回声不是普通干扰，它让说话者从穿过声音行动转为听见“那个人的声音”。案例展示三种身体维度能在几秒内互相转换，而非三个分离物。"
+          ],
+          "identity": "sartre-11-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "他人的命名有多大力量",
+          "paragraphs": [
+            "为他身体带来不可撤回的外部性。照片、病历和分类能在我不在场时流通，它们既可能提供照护，也可能固定身份；身体由此成为制度处理的入口。",
+            "异议指出三重区分仍以无障碍男性经验为默认，并可能低估性别、种族与医学制度怎样先行塑造身体。"
+          ],
+          "identity": "sartre-11-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "波伏瓦不是补注",
+          "paragraphs": [
+            "三重区分的原典根据来自《存在与虚无》。波伏瓦《第二性》对性别化身体的历史与制度分析是独立推进，不应写成萨特该节的例注。用诊断案例补足医疗权力，是后来的解释延伸，也暴露早期分析对种族、性别和残障历史不足。",
+            "默认身体异议要求改变证据范围。无障碍环境、性别暴力和种族化监视说明“我能”的空间从一开始就被公共安排塑造，不能等到讨论他人时才补上。",
+            "回应需要承认原始分析给出结构却未充分历史化。身体不是纯私人材料，也不完全等于他人标签；波伏瓦与反殖民分析会展示社会分类如何沉入姿态、机会和风险。"
+          ],
+          "identity": "sartre-11-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "肉身关系仍留下冲突问题",
+          "paragraphs": [
+            "身体与他人自由交会时，爱企图解决对象化：我要被另一个自由自由地选中。这个要求为何自相牵扯，是下一篇的问题。"
+          ],
+          "identity": "sartre-11-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-11-p04",
+      "nodeIds": [
+        "sartre-11-node"
+      ],
+      "checkIds": [
+        "sartre-11-q1",
+        "sartre-11-q2",
+        "sartre-11-q3",
+        "sartre-11-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-12",
+      "order": 12,
+      "title": "爱为何想要一个不可能对象",
+      "depth": "longform",
+      "guidingQuestion": "爱为何既要他人自由，又想确保这自由永远选择我？",
+      "coreExplanation": "paragraph-ref:sartre-12-p03",
+      "sections": [
+        {
+          "heading": "我想要的恰好不能被保证",
+          "paragraphs": [
+            "身体的三重性说明他人既不能被我吞并，也不能与我毫无关系。爱把这一张力推到极端：我所要的不是被迫服从，而是一个自由者自愿把我当作不可替代者；可是只要那份选择仍是自由的，它就保留撤回可能。爱的困难由目标内部产生，不是技巧不足。",
+            "若爱只要占有身体，它不能得到对方承认；若只尊重对方任意离开，又失去被稳定选择的保证。爱的计划把两个要求绑在一起：他人的自由必须自由地把我设为不可替代。",
+            "爱者试图成为对方价值世界的根据，不满足于外部服从。但任何保证若由强迫、契约或操控获得，就取消了其想要的自由承认；若保留自由，保证便始终可撤回。这是不稳定结构，不是对每段亲密关系的经验预言。"
+          ],
+          "identity": "sartre-12-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "强迫为什么毁掉承认",
+          "paragraphs": [
+            "爱的矛盾不是因为承诺毫无价值。承诺可以改变事实条件、建立信任和责任；它不能做的是把一个未来自由变成不会改变的物，同时仍保留其自由价值。",
+            "想成为对方世界的根据，表示爱者不仅求行为，还求自身在他人价值秩序中不可替代。正是这个过高目标让普通的不确定被体验成存在威胁。",
+            "伴侣要求对方“自愿”交出全部账号以证明忠诚。交付若来自威胁，证明失效；若确属自由决定，它也不能担保未来不改变。技术监督扩大控制，却无法生产所求的自由选择。"
+          ],
+          "identity": "sartre-12-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "确认信息的压力测试",
+          "paragraphs": [
+            "账号案例把自由证明的自毁结构显形。监督取得的信息越多，越难判断顺从来自信任还是压力；控制手段强化证据需求，却削弱证据所需的自愿性。",
+            "照护伦理异议认为，爱也包含信任、共同实践和相互扶持，不只是争夺存在根据；萨特把冲突普遍化。"
+          ],
+          "identity": "sartre-12-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "冲突模型不是关系宿命",
+          "paragraphs": [
+            "这里重建的是《存在与虚无》关于占有性爱的冲突模型，不是萨特对照料、友爱、开放关系或长期协商的经验研究。把模型当成所有亲密关系的命运，会越过原典所分析的策略范围；反例因此要求收缩，而不是简单否认承认难题。",
+            "照护异议不是外加善意，而是提供反例：共同生活可把不可保证当作信任条件，而非必须消除的缺陷。萨特的冲突模型因此应限定到占有性计划。",
+            "应把分析限定为占有性爱的悖论。它能诊断以自由名义索求控制，却不能证明互惠关系不可能；萨特自己的其他文本与波伏瓦提供更丰富资源。",
+            "爱的失败把身体欲望推到前台。下一篇考察欲望如何使自己与他人的身体成为肉身，并区分多种关系策略。"
+          ],
+          "identity": "sartre-12-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-12-p06",
+      "nodeIds": [
+        "sartre-12-node"
+      ],
+      "checkIds": [
+        "sartre-12-q1",
+        "sartre-12-q2",
+        "sartre-12-q3",
+        "sartre-12-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-13",
+      "order": 13,
+      "title": "欲望怎样使身体成为肉身",
+      "depth": "longform",
+      "guidingQuestion": "性欲、冷漠、施虐和仇恨是同一关系命题的不同策略吗？",
+      "coreExplanation": "paragraph-ref:sartre-13-p03",
+      "sections": [
+        {
+          "heading": "从会做事的身体到肉身",
+          "paragraphs": [
+            "纯生理模型把欲望变成刺激释放，纯浪漫模型又忽略身体的黏滞、暴露与对象化。萨特关心的是主体怎样试图通过肉身触及另一个自由。",
+            "爱试图保证自由承认，欲望则让身体本身成为争夺场。日常工具性身体暂时松动时，自己与他人的身体以肉身显现；但一旦把对方固定为可占有的肉，施虐者就失去他真正想见证的自由。冷漠表面退出，实际仍依赖他人持续在场以维持无关。",
+            "欲望使我自己的身体变成感受着的肉身，也召唤他人的身体显为肉身；但我想触及的仍是自由，因而对象化随时破坏目标。冷漠否认他人主体性，施虐试图以痛苦俘获自由，仇恨想取消他人作为视角的存在，各自暴露同一不可占有性。",
+            "把约会对象当作可滑动筛选的图像，看似避开被评价风险，却依赖对方回应来确认吸引力。冷漠策略仍被他人自由支配；一旦收到拒绝，原先假装无关的凝视重新出现。"
+          ],
+          "identity": "sartre-13-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "施虐为何在成功处失败",
+          "paragraphs": [
+            "肉身不是生理组织的别名，而是身体在感受与可触中失去纯工具透明性的方式。欲望者也被自己的身体卷入，不能像工程师在外部操纵一台机器。",
+            "每种策略都试图处理他人自由的不可把握。施虐希望在痛苦反应中看到自由屈服，仇恨希望取消那道视角；目标越指向自由，单纯物化越无法完成它。",
+            "滑动筛选案例说明技术界面没有取消主体间性。将人压成图像暂时降低风险，但匹配、拒绝和沉默仍由另一行动者产生，因而对象化不能封闭关系。"
+          ],
+          "identity": "sartre-13-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "冷漠没有真正退出关系",
+          "paragraphs": [
+            "异议认为这套分类带有时代性的异性恋与性别偏见，把快感、同意、游戏和互惠压缩为斗争。",
+            "性别偏见异议要求我们分开结构洞见与经验总表。若不加入同意、酷儿关系和照护实践，早期分类会把历史性脚本误写成人际本体命运。"
+          ],
+          "identity": "sartre-13-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "这组策略不能冒充性伦理全图",
+          "paragraphs": [
+            "欲望、冷漠、施虐与仇恨的序列来自《存在与虚无》第三部分，带有作者时代和个人经验的明显限度。它没有充分讨论同意制度、酷儿关系或互惠照料。后来的例子可以检验模型的解释力，却不能把缺失的政治伦理归到原典名下。",
+            "这些概念适合诊断对象化策略，不足以穷尽性经验。必须以同意、权力差异和多样身体修正应用；冲突是持续可能，不是每次欲望的必然终点。"
+          ],
+          "identity": "sartre-13-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "规范缺口由此暴露",
+          "paragraphs": [
+            "关系分析显示价值不能从孤立主体推出。下一篇转向公共公式“存在先于本质”，并追问它为何仍不能自动给出伦理。"
+          ],
+          "identity": "sartre-13-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-13-p04",
+      "nodeIds": [
+        "sartre-13-node"
+      ],
+      "checkIds": [
+        "sartre-13-q1",
+        "sartre-13-q2",
+        "sartre-13-q3",
+        "sartre-13-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-14",
+      "order": 14,
+      "title": "存在先于本质为何仍不能自动给出伦理",
+      "depth": "longform",
+      "guidingQuestion": "没有预定人性时，责任怎样出现，而规范又为何仍有缺口？",
+      "coreExplanation": "paragraph-ref:sartre-14-p04",
+      "sections": [
+        {
+          "heading": "没有蓝图以后，责任从哪里来",
+          "paragraphs": [
+            "“存在先于本质”常被缩成励志口号，仿佛人能随意改造自己；也有人由没有先定价值推到任何选择都同样好。两种读法都跳过处境、公共意义和规范论证。",
+            "关系冲突揭露一个不能回避的缺口：描述人没有预定本质，并不会自动告诉人应当怎样对待其他自由。存在先于本质先排除用固定人性为选择卸责，再说明行动会形成可追认的身份；它产生责任压力，却还没有从事实中推出一套完备规范。",
+            "推理必须分两级：没有预制本质，所以行动者不能把选择交给一张先验说明书；选择又会把一种做人方式带入共同世界，所以行动者不能把它缩成私人瞬间。第二级产生可追责性，却仍未给出冲突价值的排序规则。",
+            "公式针对人的存在：我们先被投入世界，再通过行动形成可归责的身份；它不否认身体需要、历史分类或物的功能本质。选择一个计划也把某种可赞许的人生形象带入世界，所以自由伴随责任和价值创造。"
+          ],
+          "identity": "sartre-14-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "行动形成身份，却控制不了全部后果",
+          "paragraphs": [
+            "记者在审查制度下决定刊发证据。她并非从无条件起点选择：消息源安全、家庭风险和媒体结构限定路径；但这些条件也不自动替她决定。她的行动公开承诺了“何种风险值得承担”的价值。",
+            "记者案例将责任与能力分开。她应为选择及可预见后果负责，却不控制审查者、受众和政权反应；责任范围需依知识、权力和角色具体判断。",
+            "价值创造也不是任意贴标签。行动要在共享世界中经受后果、他人回应和自身后续实践；今天宣称勇敢，不能抵消明天持续逃避所形成的身份。"
+          ],
+          "identity": "sartre-14-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "责任压力并非规范答案",
+          "paragraphs": [
+            "公式首先否定的是预先写好的人类使命，不是否认遗传、身体或社会分类。人在这些条件中形成身份；“先存在”不是来到真空，而是没有一份本质能提前完成规范选择。",
+            "最强异议是规范缺口：从价值需要自由承担，推不出我必须珍视每个他人的自由；一个压迫者也能坚定创造价值。早期真实性语言容易把承担方式误当善的充分条件。",
+            "压迫者反例使伦理缺口无法回避。承担自己选择只能排除某种自欺，不能从逻辑上排除支配计划；若要珍视他人自由，还需额外的互惠和政治论证。"
+          ],
+          "identity": "sartre-14-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "一套没有完成的伦理尝试",
+          "paragraphs": [
+            "著名公式的公开声音来自《存在主义是一种人道主义》，其对象是对存在主义的辩护；《伦理学笔记》则是身后出版的未完成材料。借后者谈互惠与转换必须保留草稿身份，不能把未完成探索包装成萨特已出版的伦理体系。",
+            "若异议成立，存在论自由最多说明规范问题不可逃避，不能单独证明互惠、平等或解放。回应因此保住责任入口，同时收缩“价值创造”能够完成伦理学的强说法。",
+            "萨特可揭露逃避责任、检验价值是否靠自欺维持，却没有在此自动完成普遍伦理。后来的互惠、历史和共同解放尝试补题但不构成无缝演绎；不能让波伏瓦替萨特悄悄填平缺口。",
+            "既然选择通过持续行动形成身份，下一篇以存在精神分析追踪贯穿多种行为的根本计划，同时检验它怎样被历史化。"
+          ],
+          "identity": "sartre-14-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-14-p05",
+      "nodeIds": [
+        "sartre-14-node"
+      ],
+      "checkIds": [
+        "sartre-14-q1",
+        "sartre-14-q2",
+        "sartre-14-q3",
+        "sartre-14-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-15",
+      "order": 15,
+      "title": "行动为何呈现贯穿生命的计划",
+      "depth": "longform",
+      "guidingQuestion": "存在精神分析怎样解释行为统一，又如何避免把人生锁成密码？",
+      "coreExplanation": "paragraph-ref:sartre-15-p05",
+      "sections": [
+        {
+          "heading": "一生是否藏着一把钥匙",
+          "paragraphs": [
+            "把每个行为拆成独立欲望会失去生命取向，把它们归因固定性格又取消自为。存在精神分析寻找行为如何共同表达一个选择世界与自我的方式。",
+            "根本计划不是藏在行为背后的单句答案，而是解释者在材料间提出的可修正假设。它必须说明看似分散的选择为何在特定世界观中相互支持。",
+            "伦理缺口使单次选择不能孤立评价；萨特于是追问，一生中相距很远的行为为何会显出某种取向。根本计划不是藏在行为背后的密码，而是解释者从多种处境行动中回溯出的意义组织。它必须能遭遇反例、改变和历史中介，否则便重新变成人格本质。"
+          ],
+          "identity": "sartre-15-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "迟到与写作不能被同一种原因抹平",
+          "paragraphs": [
+            "一个研究者在选题、署名冲突和学术指导中反复追求“不可替代”。这不是找到单一欲望便结束，而要检验制度奖励、家庭经验与每次重新承担怎样共同维持该取向。反例可以迫使解释改写。",
+            "根本计划不是童年刻下的隐蔽物，而是在多种行动中持续重作的意义统一。传记解释应从作品、关系和处境回溯一个人怎样追求存在方式。后期方法加入家庭、阶级与历史中介，使计划不再像孤立意识的秘密。",
+            "研究者案例要求解释同时处理支持与反例。若他在匿名合作中持续满足，单一“不可替代”假设就需缩窄；好的传记不把反例重命名后吞掉。"
+          ],
+          "identity": "sartre-15-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "从波德莱尔到福楼拜，方法改变了什么",
+          "paragraphs": [
+            "《波德莱尔》展示较早的传记性归一，《家庭中的白痴》则把家庭、阶级、时代与作品纳入更庞大的中介分析。两部文本的尺度和成熟度不同；福楼拜研究并非一份由单一公式演绎人生的完成科学，且项目本身保留未竟性质。",
+            "历史化不是给自由外加背景。家庭语言、学校评价和职业结构提供一个人可以理解自己的词汇与路径，计划正通过这些中介成形，并在实践中改造它们。"
+          ],
+          "identity": "sartre-15-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "反例若总能被吸收，解释就失去风险",
+          "paragraphs": [
+            "异议认为解释者容易事后把任何材料塞入统一故事，缺乏可证伪性；对波德莱尔、热内或福楼拜的阅读也可能压过当事人多重声音。",
+            "可证伪异议揭示方法风险。存在精神分析需公开选择材料的理由，区分当事人语言与解释者重构，并容许多个计划模型竞争，否则统一只是文学权威。",
+            "存在精神分析是解释纲领，不是临床测量法。它必须公开材料、允许竞争解释并承认断裂；根本计划不是终身不变本质。"
+          ],
+          "identity": "sartre-15-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "个人计划必须进入公共媒介",
+          "paragraphs": [
+            "当计划通过文字面向公共世界，作者不能独占作品意义。下一篇考察文学如何召唤阅读主体的自由并介入处境。"
+          ],
+          "identity": "sartre-15-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-15-p04",
+      "nodeIds": [
+        "sartre-15-node"
+      ],
+      "checkIds": [
+        "sartre-15-q1",
+        "sartre-15-q2",
+        "sartre-15-q3",
+        "sartre-15-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-16",
+      "order": 16,
+      "title": "写作怎样召唤作者与阅读主体的自由",
+      "depth": "longform",
+      "guidingQuestion": "文学介入为何不是把小说降为宣传工具？",
+      "coreExplanation": "paragraph-ref:sartre-16-p03",
+      "sections": [
+        {
+          "heading": "作品在书架上还没有完成",
+          "paragraphs": [
+            "文字既是物质痕迹又要由阅读主体完成意义。若作者完全控制解释，阅读只是接收；若意义任意漂流，作品的形式选择与历史责任又消失。",
+            "存在精神分析把行动放回一生的意义组织，写作则把这种计划交到他人的自由中。文字只是纸上痕迹，必须由阅读实现；但阅读主体也不是任意赋义，因为句法、叙事视角和省略已经安排可走的路径。萨特用“召唤”说明作品既要求自由回应，又通过形式限制回应。",
+            "《什么是文学？》把散文写作理解为揭示世界并向阅读主体提出自由回应。作者安排空白、视角和证据，阅读主体在受文本约束的活动中实现作品。介入不是塞入结论，而是使某种可争议现实进入公共可见性。"
+          ],
+          "identity": "sartre-16-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "省略如何让阅读主体卷入判断",
+          "paragraphs": [
+            "一篇关于监狱的小说不直接列政策，却让阅读主体在被限制的视角中体验等待、程序和沉默。它没有强迫同意，却改变什么可被忽略。形式本身成为召唤，而非论点包装。",
+            "把结尾解释全部删去时，阅读主体必须从视角限制和事件次序中判断责任；若再删去关键线索，开放就会退化为任意。条件变化显示，召唤自由与文本约束同时成立，形式本身正在承担介入。",
+            "监狱小说案例检验宣传误读。作品不提交政策答案，却让程序性等待成为可经验对象；阅读主体仍可反对作者判断，召唤的正是这种不能被强迫的回应。",
+            "揭示具有行动效果，因为命名会改变可见与可辩范围。作者不是从世界外描述，他选择何者值得公开、由谁说话、留下什么空白，这些形式选择已经介入。"
+          ],
+          "identity": "sartre-16-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "形式不是立场的包装纸",
+          "paragraphs": [
+            "阅读自由不是想怎样读就怎样读。句法、叙述顺序和缺省信息给出阻力，阅读主体在这些限制中主动综合；因此作品既不由纸面自动完成，也不由作者意图单独完成。",
+            "异议认为介入论偏爱散文与当代政治，低估诗、形式实验和作品脱离作者处境后的多义性，也可能要求文学提供正确立场。"
+          ],
+          "identity": "sartre-16-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "散文理论的对象边界",
+          "paragraphs": [
+            "《什么是文学？》主要讨论散文及战后作家处境，不能直接代表诗、音乐和一切艺术；《反犹太人与犹太人》提供介入写作的一个政治实例。把小说等同于口号，是对介入论的简化，不是原典要求。",
+            "诗与形式实验异议限制散文中心论。语言也能突出自身物质性而不以透明指称为目的；介入框架若据此贬低它们，就把一种写作责任误作艺术等级表。",
+            "萨特的框架能说明公开写作的责任，不能裁定所有艺术价值。召唤自由不保证阅读主体接受，也不保证作者判断正确；形式自主与政治后果需要具体权衡。"
+          ],
+          "identity": "sartre-16-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "写作介入必须进入制度冲突",
+          "paragraphs": [
+            "公共揭示会遇到被制度制造的身份。下一篇从反犹主义说明压迫不仅是错误意见，也是借制度和共谋维持的社会选择。"
+          ],
+          "identity": "sartre-16-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-16-p04",
+      "nodeIds": [
+        "sartre-16-node"
+      ],
+      "checkIds": [
+        "sartre-16-q1",
+        "sartre-16-q2",
+        "sartre-16-q3",
+        "sartre-16-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-17",
+      "order": 17,
+      "title": "压迫怎样既是态度又是制度",
+      "depth": "longform",
+      "guidingQuestion": "反犹主义为何不能只用无知或个体偏见解释？",
+      "coreExplanation": "paragraph-ref:sartre-17-p05",
+      "sections": [
+        {
+          "heading": "为什么更多事实未必治好偏见",
+          "paragraphs": [
+            "若仇恨只是错误信息，提供事实便应足够；但反犹主义者常在反证前改变标准，因为偏见同时保护一种免于不确定与责任的生活方式。受害者还被法律、就业和公共叙事强加身份。",
+            "偏见的韧性来自它同时解决认知与身份问题。承认复杂因果会迫使多数者检查自身利益；固定敌人则提供简单世界和无辜自我，因此反证常被重新解释。",
+            "写作的召唤不会自动消除拒绝阅读的社会机制。反犹主义面对反证仍能存活，说明它不只是一个等待知识纠正的错误判断，而是一种选择世界秩序、寻找替罪者并通过制度执行的态度。个人激情与住房、职业、警务的门槛在这里互相放大。"
+          ],
+          "identity": "sartre-17-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "一封简历怎样让态度进入制度",
+          "paragraphs": [
+            "招聘者在数据反驳后把“文化不合”换成“客户观感”。判断标准移动，显示事实并非唯一问题；组织惯例和同事沉默让偏见获得执行能力。",
+            "萨特把反犹主义分析为一种选择激情与社会共谋：它把复杂世界归咎一个想象敌人，并让多数者借群体角色逃避自由。被标记者不得不在他人制造的处境中回应“犹太人”身份，抽象同化又要求他放弃具体历史。"
+          ],
+          "identity": "sartre-17-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "被强加身份以后，回应还有没有空间",
+          "paragraphs": [
+            "被强加身份并非纯外部名称。法律、就业和暴力会改变行动路径，使被命名者必须考虑他人分类；但他仍可通过文化、组织和自我解释回应，不是被动表面。",
+            "异议指出早期文本仍由非犹太哲学家替犹太经验发言，且对宗教、文化和抵抗主体性着墨不足；把偏见称为自由选择也可能忽略制度传承。"
+          ],
+          "identity": "sartre-17-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "萨特能说到哪里",
+          "paragraphs": [
+            "《反犹太人与犹太人》对反犹主义激情和被强加身份的分析极具穿透力，也带有战后法国材料与同化框架的限度；《唯物主义与革命》延伸到革命实践。受压者如何命名自身不能由萨特代言完毕，后来的身份政治批评属于必要修正。",
+            "代言异议要求来源位置自觉。萨特能分析多数者恶意，却不能把自己的结构描述当作犹太生活的充分声音；受影响者文本应改变问题，而非仅作例证。",
+            "态度分析必须与制度机制并置。选择不等于凭空发明偏见，制度也不取消执行者参与；解释受压身份时要保留当事人的自我理解，不能只写成被凝视的对象。"
+          ],
+          "identity": "sartre-17-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "制度分析要求更大的历史地平",
+          "paragraphs": [
+            "要把个人选择、制度和历史放在同一方法中，萨特必须与马克思主义交涉。下一篇说明他为何称马克思主义为时代哲学又拒绝消解具体个人。"
+          ],
+          "identity": "sartre-17-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-17-p04",
+      "nodeIds": [
+        "sartre-17-node"
+      ],
+      "checkIds": [
+        "sartre-17-q1",
+        "sartre-17-q2",
+        "sartre-17-q3",
+        "sartre-17-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-18",
+      "order": 18,
+      "title": "存在主义为何既需要又反抗马克思主义",
+      "depth": "longform",
+      "guidingQuestion": "具体个人如何进入阶级历史而不被化约？",
+      "coreExplanation": "paragraph-ref:sartre-18-p03",
+      "sections": [
+        {
+          "heading": "阶级位置不能替这个人行动",
+          "paragraphs": [
+            "只写个人计划会遗漏生产关系和集体冲突，只用阶级位置推导行为又解释不了同阶级者的差异及历史的新颖性。方法问题是怎样往返于结构和生活。",
+            "压迫既是态度又是制度，迫使存在主义离开孤立意识；但若阶级结构直接替个人行动发言，具体差异又会消失。萨特把马克思主义视为时代不可绕开的历史地平，同时要求用家庭、地方制度和个人计划等中介解释一个人怎样成为这一阶级位置中的这个行动者。",
+            "《方法问题》承认马克思主义提供不可绕过的历史框架，同时批评僵化解释把人当预制范畴的实例。渐进—回溯方法从具体计划前进到客观结果，再回溯家庭、阶级与时代中介，循环修正解释。"
+          ],
+          "identity": "sartre-18-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "从罢工差异回溯中介",
+          "paragraphs": [
+            "解释工人参加罢工，不能只说“阶级利益”，也不能只访问个人勇气。轮班制度、家庭债务、工会记忆、同伴信任与当事人对尊严的理解共同使某次参与成为可能。",
+            "“时代哲学”不是宣布马克思主义教条正确，而是承认生产、阶级和殖民关系构成解释者也无法跳出的历史地平。存在主义若忽略它们，会把社会结果个人化。",
+            "罢工案例让“阶级利益”成为待解释中介。债务可能使参与更危险，工会记忆可能使风险可承担；相同位置不自动生成相同时间点的行动。"
+          ],
+          "identity": "sartre-18-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "再由条件向可能前进",
+          "paragraphs": [
+            "回溯先从行动差异追到家庭训练、地方组织和阶级关系，渐进再问行动者怎样利用这些条件投向可能。两步不可合并：只回溯会把人化成结果，只渐进会把计划从物质历史中拔出。",
+            "渐进与回溯构成往返，而非先做心理学再补社会背景。从计划追到客观后果，再由制度条件回到计划的可理解性，每轮都可能改写先前概念。",
+            "“渐进—回溯方法”在《方法问题》中被系统说明，随后成为《辩证理性批判》的入口。它是萨特对马克思主义内部机械化倾向的争论立场，不代表马克思本人或所有马克思主义传统。所谓综合保持开放，也不能被报告成已经完成的统一理论。"
+          ],
+          "identity": "sartre-18-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "开放综合会不会只是无限延期",
+          "paragraphs": [
+            "马克思主义异议认为存在主义仍保留资产阶级主体；反向异议认为承认时代哲学会牺牲个人自由，方法循环也可能无穷。",
+            "双重异议说明综合没有舒适终点。若个人只剩结构实例，新颖实践不可理解；若结构只剩选择素材，积累权力不可理解。《辩证理性批判》将把张力搬进物质实践。",
+            "萨特试图把主体理解为历史关系中的实践，而非两套理论拼接。该综合未完成，不能宣称消除了结构与能动性的张力；它为《辩证理性批判》的物质分析提出任务。",
+            "下一篇从需要和匮乏出发，看人的实践如何沉积在工具与制度中并反过来统治行动者。"
+          ],
+          "identity": "sartre-18-essay-04",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-18-p04",
+      "nodeIds": [
+        "sartre-18-node"
+      ],
+      "checkIds": [
+        "sartre-18-q1",
+        "sartre-18-q2",
+        "sartre-18-q3",
+        "sartre-18-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-19",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-19",
+      "order": 19,
+      "title": "人的行动怎样反过来统治人",
+      "depth": "longform",
+      "guidingQuestion": "实践惰性如何延续早期否定性，又改变自由的实质条件？",
+      "coreExplanation": "paragraph-ref:sartre-19-p05",
+      "sections": [
+        {
+          "heading": "一张无人想要却人人执行的表格",
+          "paragraphs": [
+            "为提高效率建立的排班软件把旧管理目标写进字段和权限。各部门分别压低冗余以完成本部门指标，合成结果却是人员流失、跨班等待和照护风险，反过来迫使后来主管继续以短缺方式排班；员工个别拒绝还可能增加同伴负担，除非集体取得工具权限并改变规则。",
+            "行动者通过目的否定当前不足，但行动留下道路、机器、债务和规则；这些沉积物会把过去目的变成后来者不能忽略的要求。只谈意识自由解释不了为什么结果反过来支配人。",
+            "排班软件案例显示实质能力不是内在常量。没有权限者看见问题也改不了字段，个人善意受预算接口约束；共同组织取得访问权、预算和替班资源后，同一主体才获得改变安排的能力。"
+          ],
+          "identity": "sartre-19-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "行动怎样沉进物质",
+          "paragraphs": [
+            "渐进—回溯方法若要解释历史，必须说明行动产物为何会脱离行动者意图。加工过的物质保存旧实践，又以道路、价格、表格和机器的形式规定后来者。萨特把这个既由人制造、又像物一样反压人的领域称作实践惰性；它不是取消自由，而是改写行动所能借用的工具与风险。",
+            "晚期“实践”延续早期否定性：需要者把尚未存在的满足设为目标，改造给定物质。修正处在结果端：多个实践在匮乏场中交错，结果会以反最终性背离各自目的，再凝固为实践惰性；工具携带旧目的并重排新行动。实质行动能力因此随工具可得、物质阻力和集体协调而变化，不是人人拥有同量能力。",
+            "需要包含一个否定判断：现有状态无法维持生命或计划。实践把可能的满足投向未来并改造物，这延续了自为不与给定重合的早期结构；真正的新压力是，成功改造也可能成为下一轮行动不得不承受的反向条件。"
+          ],
+          "identity": "sartre-19-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "反最终性不是命运",
+          "paragraphs": [
+            "反最终性不是简单失败。每个部门都可能达成局部节省，多个节省经同一预算和工具合成后却制造整体短缺；无人把短缺设为目的，结果仍以新的事实性返回行动者。实践惰性正把这种反目的结果保存下来。",
+            "异议认为实践惰性把物拟人化，仿佛软件和资本自己行动；反最终性也可能被写成一只看不见的历史之手。另有人担心晚期物质决定论取消早期自由。"
+          ],
+          "identity": "sartre-19-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期自由在这里被怎样改写",
+          "paragraphs": [
+            "实践惰性和反最终性的主论证位于《辩证理性批判》第一卷第一编。与《存在与虚无》的否定性相比，这里出现了明显修正：早期结构仍在，物质稀缺和累积历史却获得不能被当下计划化解的中介地位。连续性与断裂都属于解释判断。",
+            "决定论异议因而不能用“晚期仍说自由”敷衍，也不能把反最终性神秘化成历史意志。连续性只在目标性否定，修正在行动效力由匮乏、物质沉积和集体力量重新分配。",
+            "回应是物不具有意识目的，反最终性也不是历史预设的反向目的；它命名多个有目的实践经物质中介合成无人选择的结果。沉积结构通过成本和依赖传递过去实践。晚期没有取消否定性，而是说明其有效范围由物质和共同力量分配；连续性与修正都不可省。"
+          ],
+          "identity": "sartre-19-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "物的统治仍需群体形式解释",
+          "paragraphs": [
+            "当分散者受同一物质结构支配，他们先形成系列而非群体。下一篇进入《辩证理性批判》第一卷第二编，追踪共同实践如何出现和退化。"
+          ],
+          "identity": "sartre-19-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-19-p01",
+      "nodeIds": [
+        "sartre-19-node"
+      ],
+      "checkIds": [
+        "sartre-19-q1",
+        "sartre-19-q2",
+        "sartre-19-q3",
+        "sartre-19-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-20",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-20",
+      "order": 20,
+      "title": "人群何时成为共同实践",
+      "depth": "longform",
+      "guidingQuestion": "系列如何转为融合群体，又为何沉积为组织与制度？",
+      "coreExplanation": "paragraph-ref:sartre-20-p04",
+      "sections": [
+        {
+          "heading": "车站上的并列不是共同体",
+          "paragraphs": [
+            "同在车站排队的人受同一班车和时刻表支配，却未共享行动；危机可能让他们共同拆除障碍。把两者都叫群体，会漏掉共同实践的生成与衰退。",
+            "洪水中互不相识的居民传递沙袋，任何一人行动都依赖队列。水退后，他们先以轮值承诺防止队伍解散，再把采购、预警和账目交给不同小组，最后设常任代表和预算规则。每一步解决上一步的持续难题，也使信息和决定权更集中；后来成员面对的已是制度。",
+            "实践惰性解释分散者为何被同一物质装置排列，却还不能解释共同实践。等车者彼此可替换地面向稀缺座位，是系列；当共同危险使每个人的行动直接承担他人的行动时，系列才可能融合。随后誓约、分工与纪律保存共同力量，也一步步把活实践沉积为组织和制度。"
+          ],
+          "identity": "sartre-20-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "危险怎样改变每个人与他人的关系",
+          "paragraphs": [
+            "《辩证理性批判》第一卷第二编“从群体到历史”区分系列、融合群体、誓约群体、组织和制度。共同危险使每个人通过他人行动，融合群体以共同实践突破系列无力；危机消退后，群体以誓约抵抗重新系列化，以组织分配可复用的功能和权限，再以制度让职位在成员更替后持续。连续机制保存共同能力，也让主权从共同实践移入代表、规章与制裁。",
+            "若罢工者只是同时困在同一交通线，他们仍可保持系列关系；只有当彼此行动成为共同目标的直接条件，才越过融合门槛。这个反事实变化防止把拥挤、情绪同步或人数本身误当成群体。",
+            "洪水案例拒绝把制度化写成单向堕落。轮值保存承诺，账目保存资源记忆，代表协调远方援助；同一连续机制也集中信息和制裁。判断点不是制度是否出现，而是谁能改规则、退出或重新发动共同实践。",
+            "系列成员并非没有联系，他们通过稀缺物和规则被外在统一。排队者的等待由每个他人的等待加重，但彼此仍可替换；融合发生在共同危险把“他人阻碍我”改造成“他人的行动就是我方行动的一环”。"
+          ],
+          "identity": "sartre-20-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "誓约保存力量，也制造压力",
+          "paragraphs": [
+            "共同危险消失后，群体若要延续就以誓约要求每个人保证他人的保证；分工随后提高效能，也制造代表与被代表者的距离。制度不是突然背叛融合时刻，而是保存共同实践时逐层产生的新问题。",
+            "誓约不是融合后的标签，而是对群体可能散失的回应：成员以相互承诺和制裁让未来的自己仍可被信赖。组织再把这种可预期性分配为采购、预警和协调功能；制度则让职位脱离最初成员而持续。",
+            "异议认为阶段叙述过于戏剧化，群体不都从危机融合开始，誓约也可能以内部威胁制造服从；组织的专业化并非自然通向制度，制度更不必然背叛共同目标。权力、性别和种族差异在“我们”形成前已存在。",
+            "强异议迫使阶段链保持可逆：稳定未必是背叛，融合也可能排除既有弱势者。系列、誓约、组织和制度可以交叠或回返，不能当作每个群体都要走完的进化时间表。"
+          ],
+          "identity": "sartre-20-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "卷、编与身后文本不能混写",
+          "paragraphs": [
+            "系列、融合群体、誓约、组织与制度属于《辩证理性批判》第一卷第二编的连续论证；它不是身后出版的第二卷。第二卷是1985年出版的未完成稿，讨论历史可理解性。把“第一卷第二编”误写成“第二卷”，会同时破坏原典位置和完成状态。"
+          ],
+          "identity": "sartre-20-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "制度化以后还剩什么能动性",
+          "paragraphs": [
+            "这些形态应当作为可逆、可交叠的机制，不是普遍时间表：组织可重新融合，制度也可保持参与渠道；分析的边界在于追问共同实践由谁保存、以何种制裁保存以及谁被重新系列化。第一卷第二编不是身后出版的第二卷；S-CDR2必须继续标为未完成遗稿，不能拿它替第一卷身份背书。",
+            "群体能力与制度退化为政治介入提供尺度。殖民体系显示暴力、经济和种族化怎样构成跨地域实践惰性。"
+          ],
+          "identity": "sartre-20-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-20-p02",
+      "nodeIds": [
+        "sartre-20-node"
+      ],
+      "checkIds": [
+        "sartre-20-q1",
+        "sartre-20-q2",
+        "sartre-20-q3",
+        "sartre-20-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-21",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-21",
+      "order": 21,
+      "title": "殖民主义为何是体系",
+      "depth": "longform",
+      "guidingQuestion": "殖民暴力为何不能归结为少数人的偏见或失控？",
+      "coreExplanation": "paragraph-ref:sartre-21-p03",
+      "sections": [
+        {
+          "heading": "坏官员解释不了可重复的收益",
+          "paragraphs": [
+            "殖民统治同时组织土地、劳动、法律和身份。若把酷刑写成偶发过度，便看不到经济剥削怎样需要种族化分隔和政治无权。",
+            "群体沉积为制度的分析，使殖民主义不能再被归咎于少数坏人。土地、税制、工资、警察和教育共同制造一个可重复获利的体系；种族叙事随后把体系造成的贫困说成被统治者的天性。观念不是附带偏见，而是让制度结果看似合理的循环环节。",
+            "萨特把殖民主义描述为体系：低工资、征地和市场安排制造匮乏，种族主义把制度结果伪装成被统治者本性，暴力维护不平等秩序。反殖民行动因此不是在中性法律内追加意见，而是挑战生产主体与客体的位置。"
+          ],
+          "identity": "sartre-21-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "种族叙事怎样倒置因果",
+          "paragraphs": [
+            "体系概念要求把看似分散的措施读成相互支撑：征地制造劳动力，迁徙限制压低谈判能力，种族叙事再把被制造的贫困解释为需要统治的证据。",
+            "若取消种族化说辞而保留土地征收、差别工资和警察权力，体系仍会生产不平等；若只做反偏见宣传而不改这些机制，结果也不会消失。这个条件变化说明叙事参与再生产，却不是唯一发动机。",
+            "酷刑在此不是秩序偶尔偏航，而可能成为取得情报、制造恐惧和维持政治无权的技术。指出功能不表示每个执行者没有选择，反而显示个人行为嵌入何种目标链。",
+            "殖民政府以“治安”限制迁徙，使劳工只能进入特定行业；贫困随后被解释为文化缺陷。行政表格、道路布局与警察权把偏见变成每日可执行条件。"
+          ],
+          "identity": "sartre-21-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "一座检查站改变的不只是通行",
+          "paragraphs": [
+            "行政案例说明实践惰性如何殖民化。表格分类延续旧政策，道路把资源导向定居者区域；后来官员可在没有公开仇恨语言时继续执行同一差别结构。",
+            "最强异议针对萨特为法农作序时对净化性暴力的修辞：它可能浪漫化伤害、抹去非暴力组织，并让欧洲知识分子再次代言。"
+          ],
+          "identity": "sartre-21-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "序言者不能取代被压迫者",
+          "paragraphs": [
+            "“殖民主义是一个体系”来自萨特的政治论文；关于解殖暴力最激烈的声音则出现在他为法农《大地上受苦的人》所写的序言中。序言作者是萨特，核心著作作者是法农，受压者经验更不能被欧洲介入者取代。解释暴力来源与批准每次暴力必须分开。",
+            "暴力异议必须改变写法。不能以“历史必要”跳过平民伤害，也不能把受压者行动去政治化；正当性判断需比较手段、替代路径、代表性和后果。",
+            "解释反殖民暴力的结构来源不等于赞许每种手段。必须区分理解、正当化与策略判断，并把被殖民者内部差异和声音放回中心；介入文本要承担其修辞后果。"
+          ],
+          "identity": "sartre-21-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "介入的修辞债务",
+          "paragraphs": [
+            "殖民介入说明站队仍可能判断错误。下一篇以具体政治转向检验公共知识分子如何修正而不抹除责任。"
+          ],
+          "identity": "sartre-21-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-21-p07",
+      "nodeIds": [
+        "sartre-21-node"
+      ],
+      "checkIds": [
+        "sartre-21-q1",
+        "sartre-21-q2",
+        "sartre-21-q3",
+        "sartre-21-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-22",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-22",
+      "order": 22,
+      "title": "介入是否保证判断正确",
+      "depth": "longform",
+      "guidingQuestion": "公共承担怎样同时容纳阵营压力、错误和修正？",
+      "coreExplanation": "paragraph-ref:sartre-22-p04",
+      "sections": [
+        {
+          "heading": "沉默不是处境之外的空白",
+          "paragraphs": [
+            "若知识分子等待纯洁信息才发言，沉默本身会支持现状；若介入自动等于正确，法国共产党、苏联与革命运动中的误判便无法批判。",
+            "殖民论争显示沉默同样会在处境中产生效果，但承担发言后果不等于获得真理特权。介入者必须在信息不完备时判断，又可能因阵营忠诚压低反证。错误发生后，责任不止于更换结论，还包括公开说明原先怎样参与、什么证据被忽略以及新的边界在哪里。",
+            "沉默也处在传播结构中。名望者不发言可能被政权利用，仓促发言也可能压过证人；介入问题不是说与不说的抽象道德，而是不同位置产生何种可预见效果。"
+          ],
+          "identity": "sartre-22-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "承担为何不能给判断加冕",
+          "paragraphs": [
+            "萨特的政治轨迹包含接近共产党而不入党、对苏联镇压后公开决裂、支持反殖民与后来的激进运动。介入的理由是言说已在处境中产生效果，不是主体获得无误特权。修正应公开先前判断如何形成及伤害何在。",
+            "萨特的转向不能被编成稳定进步传记。对盟友的策略性宽容、事件后的断裂和新的激进联盟各有证据压力；同一自由理论不会自动算出每次政治答案。",
+            "一位作家为抵抗审查而暂缓批评盟友，后来证据显示盟友实施镇压。继续沉默会把策略变共谋，立刻切割也可能遮蔽自己的参与；负责任修正需要说明证据、权衡和受影响者。"
+          ],
+          "identity": "sartre-22-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "一场公开修正需要交代什么",
+          "paragraphs": [
+            "作家案例使修正承担时间责任。新声明若只展示当前正确，会把旧沉默造成的伤害留给别人；说明先前信息、联盟考虑和错误标准，才让修正成为公共学习。",
+            "异议认为萨特常被事件牵引，二元阵营选择压低民主制度与渐进改革价值；他的名望还会挤压基层声音。",
+            "名望异议进一步限定“知识分子”。专业能力与传播平台不授予代表权；介入者应说明证据来源、让出空间，并接受其诊断被基层经验改写。"
+          ],
+          "identity": "sartre-22-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "把不同年份的声音放回原位",
+          "paragraphs": [
+            "萨特与法国共产党的接近、匈牙利事件后的决裂，以及晚年对谈，分属政治论文、访谈改写文本和多人对话。对话中的声音必须区分萨特、加维与皮埃尔·维克多；立场变化要按日期链重建，不能把晚年说法倒灌到早期。",
+            "介入伦理只能要求可追责、可修正和注意发言位置，不能保证政策答案。评价应逐案区分诊断、联盟、修辞与后果，不把一生压成英雄或反复无常。"
+          ],
+          "identity": "sartre-22-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "最后的归属问题不能由名望裁定",
+          "paragraphs": [
+            "这种位置问题也适用于萨特与波伏瓦的思想关系。最后一篇必须比较文本和归属，而不是用私人关系替理论证据。"
+          ],
+          "identity": "sartre-22-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-22-p06",
+      "nodeIds": [
+        "sartre-22-node"
+      ],
+      "checkIds": [
+        "sartre-22-q1",
+        "sartre-22-q2",
+        "sartre-22-q3",
+        "sartre-22-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": "sartre-23",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "sartre-23",
+      "order": 23,
+      "title": "波伏瓦与萨特究竟怎样互相影响",
+      "depth": "longform",
+      "guidingQuestion": "如何承认共同问题场与不对称归属，而不把一人写成另一人的附录？",
+      "coreExplanation": "paragraph-ref:sartre-23-p04",
+      "sections": [
+        {
+          "heading": "共同生活不是共同作者署名",
+          "paragraphs": [
+            "两人长期对话、互读手稿并共享现象学与政治问题，但发表时间、概念用途和生活经验并不重合。单向“影响”叙事会把波伏瓦的独立伦理、性别身体与压迫分析归给萨特。",
+            "公共名望不能裁定思想归属，同样的警惕应当用于萨特与波伏瓦。两人长期互读并共享问题场，不足以证明一人的概念只是另一人的应用。比较必须落到公开文本的问题、推理与证据：波伏瓦怎样把自由放进相互依赖、压迫和性别生成，萨特又在哪些地方改变了自己的历史分析。",
+            "思想关系不能由谁先说出相似句子独自裁定。概念在不同问题中会改变功能：同样谈处境，一处可能解释行动限制，另一处则分析性别制度如何生产主体。"
+          ],
+          "identity": "sartre-23-essay-01",
+          "kind": "argument"
+        },
+        {
+          "heading": "波伏瓦解决了不同的问题",
+          "paragraphs": [
+            "比较必须落到文本任务：萨特的事实性、超越和凝视为共同词汇，波伏瓦在《皮洛士与西内阿斯》《模棱两可的伦理学》《第二性》中把自由置于相互依赖、具体压迫和性别生成中。她既借用也批判，并反过来迫使共同存在主义面对伦理与身体。",
+            "“女人不是天生的，而是成为的”不能简化为存在先于本质的例句。它分析教育、神话、劳动和身体怎样制造受限的成为路径；与萨特公式相邻，却承担不同证据和政治任务。"
+          ],
+          "identity": "sartre-23-essay-02",
+          "kind": "argument"
+        },
+        {
+          "heading": "性别生成不是自由公式的例子",
+          "paragraphs": [
+            "异议一端把全部原创性归萨特，另一端为纠偏又把共同概念都归波伏瓦；私人书信也容易被当作决定公开论证归属的捷径。"
+          ],
+          "identity": "sartre-23-essay-03",
+          "kind": "argument"
+        },
+        {
+          "heading": "书信能证明日期，不能替代论证",
+          "paragraphs": [
+            "《皮洛士与西内阿斯》《模棱两可的伦理学》和《第二性》都是波伏瓦自己的公开著作；萨特书信只能证明交流日期，富尔布鲁克夫妇的研究是第二手归属争论。私人材料与后设研究可以校正神话，却不能越过公开文本直接把思想所有权判给任何一方。",
+            "归属异议要求保持两种警惕：既不让学术声望吞掉波伏瓦，也不以纠偏取消真实互读。逐项来源表比私人关系故事更慢，却能让争议保持可检验。",
+            "最稳妥做法是逐概念标注先后、功能和证据，承认互惠交流与学术权力不对称。不能用伴侣身份替代引用，也不能让波伏瓦为萨特未完成的伦理提供无署名答案。"
+          ],
+          "identity": "sartre-23-essay-04",
+          "kind": "argument"
+        },
+        {
+          "heading": "二十三次推进留下的债务",
+          "paragraphs": [
+            "这条路线最终保留一笔方法债务：以后比较思想关系时，必须同时检查文本日期、问题差异、推理中介和接受史，不能再用伴侣身份、名望或单个术语的先后代替归属论证。",
+            "路线在此回望：从无实体自我的意识，经身体、他人和价值，进入物质历史与共同实践。连续性在否定与计划，修正在实质能力和制度条件；开放问题保留给阅读主体判断，而非以和解收尾。"
+          ],
+          "identity": "sartre-23-essay-05",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "paragraph-ref:sartre-23-p05",
+      "nodeIds": [
+        "sartre-23-node"
+      ],
+      "checkIds": [
+        "sartre-23-q1",
+        "sartre-23-q2",
+        "sartre-23-q3",
+        "sartre-23-q4"
+      ],
+      "abilitySummary": [
+        "识别问题压力",
+        "重建推理中介",
+        "用案例检验边界",
+        "回应强异议"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "sartre-01-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-01-node"
+      ],
+      "prompt": "在本篇对「意向性的起点」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "意向性让已由自我统一的意识再转向对象；该判断把对象与条件一并纳入",
+          "feedback": "本题在「意向性的起点」处的局部错步是：把「意向性让意识在指向对象时存在；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「意向性让已由自我统一的意识再转向对象；该判断把对象与条件一并纳入」；对照项保留「意向性让意识在指向对象时存在；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "意向性让意识在指向对象时存在；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「意向性让意识在指向对象时存在；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「意向性的起点」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-01-q1-single-error"
+    },
+    {
+      "id": "sartre-01-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-01-node"
+      ],
+      "prompt": "在本篇对「前反思自觉的身份」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "前反思自觉不依赖反思却保留实体核心；该判断把对象与条件一并纳入",
+          "feedback": "本题在「前反思自觉的身份」处的局部错步是：把「前反思自觉不等于内部实体自我；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「前反思自觉不依赖反思却保留实体核心；该判断把对象与条件一并纳入」；对照项保留「前反思自觉不等于内部实体自我；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "前反思自觉不等于内部实体自我；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「前反思自觉不等于内部实体自我；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「前反思自觉的身份」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-01-q2-single-error"
+    },
+    {
+      "id": "sartre-01-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-01-node"
+      ],
+      "prompt": "在本篇对「反思与自我的关系」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "反思把经历组织为世界中的我；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「反思把经历组织为世界中的我；该判断把对象与条件一并纳入」；它保留了「反思与自我的关系」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "反思发现经验中持续在场的我并加以命名；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「反思与自我的关系」处的局部错步是：把「反思把经历组织为世界中的我；该判断把对象与条件一并纳入」改写成「反思发现经验中持续在场的我并加以命名；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「反思把经历组织为世界中的我；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-01-q3-single-error"
+    },
+    {
+      "id": "sartre-01-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-01-node"
+      ],
+      "prompt": "在本篇对「无实体自我后的责任」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "责任不以反思判断而以持续的意识核心为前提；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「无实体自我后的责任」处的局部错步是：把「责任不以微型观察者为前提；该判断把对象与条件一并纳入」改写成「责任不以反思判断而以持续的意识核心为前提；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「责任不以微型观察者为前提；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "责任不以微型观察者为前提；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「责任不以微型观察者为前提；该判断把对象与条件一并纳入」；它保留了「无实体自我后的责任」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-01-q4-single-error"
+    },
+    {
+      "id": "sartre-02-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-02-node"
+      ],
+      "prompt": "在本篇对「想象对象的身份」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "想象以较弱的知觉材料保存对象的现实在场；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「想象对象的身份」处的局部错步是：把「想象把对象设为缺席或不现实；该判断把对象与条件一并纳入」改写成「想象以较弱的知觉材料保存对象的现实在场；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「想象把对象设为缺席或不现实；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "想象把对象设为缺席或不现实；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「想象把对象设为缺席或不现实；该判断把对象与条件一并纳入」；它保留了「想象对象的身份」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-02-q1-single-error"
+    },
+    {
+      "id": "sartre-02-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-02-node"
+      ],
+      "prompt": "在本篇对「情绪的世界转换」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "情绪可魔术性重排世界的价值；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「情绪可魔术性重排世界的价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「情绪的世界转换」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "情绪先由身体定调再给世界附加相应价值；该判断把对象与条件一并纳入",
+          "feedback": "本题在「情绪的世界转换」处的局部错步是：把「情绪可魔术性重排世界的价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「情绪先由身体定调再给世界附加相应价值；该判断把对象与条件一并纳入」；对照项保留「情绪可魔术性重排世界的价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-02-q2-single-error"
+    },
+    {
+      "id": "sartre-02-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-02-node"
+      ],
+      "prompt": "在本篇对「情绪中的身体」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "身体是情绪转换的实行中介；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「身体是情绪转换的实行中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「情绪中的身体」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "身体传递已完成的情绪判断并将它表达出来；该判断把对象与条件一并纳入",
+          "feedback": "本题在「情绪中的身体」处的局部错步是：把「身体是情绪转换的实行中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「身体传递已完成的情绪判断并将它表达出来；该判断把对象与条件一并纳入」；对照项保留「身体是情绪转换的实行中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-02-q3-single-error"
+    },
+    {
+      "id": "sartre-02-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-02-node"
+      ],
+      "prompt": "在本篇对「早期自由与非自愿症状」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "早期自由说明症状可由清楚决定加以中止；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「早期自由与非自愿症状」处的局部错步是：把「早期理论不等于随意选择症状；该判断把对象与条件一并纳入」改写成「早期自由说明症状可由清楚决定加以中止；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「早期理论不等于随意选择症状；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "早期理论不等于随意选择症状；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「早期理论不等于随意选择症状；该判断把对象与条件一并纳入」；它保留了「早期自由与非自愿症状」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-02-q4-single-error"
+    },
+    {
+      "id": "sartre-03-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-03-node"
+      ],
+      "prompt": "在本篇对「现象与存在」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "现象指向其后不直接显现的存在根据；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「现象与存在」处的局部错步是：把「现象是存在的显现而非遮幕；该判断把对象与条件一并纳入」改写成「现象指向其后不直接显现的存在根据；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「现象是存在的显现而非遮幕；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "现象是存在的显现而非遮幕；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「现象是存在的显现而非遮幕；该判断把对象与条件一并纳入」；它保留了「现象与存在」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-03-q1-single-error"
+    },
+    {
+      "id": "sartre-03-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-03-node"
+      ],
+      "prompt": "在本篇对「自在概念的功能」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "自在以饱满存在限制唯心论；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「自在以饱满存在限制唯心论；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「自在概念的功能」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "自在说明意识怎样把饱满形式投向对象；该判断把对象与条件一并纳入",
+          "feedback": "本题在「自在概念的功能」处的局部错步是：把「自在以饱满存在限制唯心论；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「自在说明意识怎样把饱满形式投向对象；该判断把对象与条件一并纳入」；对照项保留「自在以饱满存在限制唯心论；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-03-q2-single-error"
+    },
+    {
+      "id": "sartre-03-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-03-node"
+      ],
+      "prompt": "在本篇对「偶然性的强度」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "偶然性主要标示自然因果尚待补足的部分；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「偶然性的强度」处的局部错步是：把「偶然性指存在无规范性理由；该判断把对象与条件一并纳入」改写成「偶然性主要标示自然因果尚待补足的部分；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「偶然性指存在无规范性理由；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "偶然性指存在无规范性理由；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「偶然性指存在无规范性理由；该判断把对象与条件一并纳入」；它保留了「偶然性的强度」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-03-q3-single-error"
+    },
+    {
+      "id": "sartre-03-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-03-node"
+      ],
+      "prompt": "在本篇对「树根场景的证据作用」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "树根场景借知觉失真削弱外部世界的实在性；该判断把对象与条件一并纳入",
+          "feedback": "本题在「树根场景的证据作用」处的局部错步是：把「恶心经历显出用途标签的遮蔽；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「树根场景借知觉失真削弱外部世界的实在性；该判断把对象与条件一并纳入」；对照项保留「恶心经历显出用途标签的遮蔽；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "恶心经历显出用途标签的遮蔽；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「恶心经历显出用途标签的遮蔽；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「树根场景的证据作用」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-03-q4-single-error"
+    },
+    {
+      "id": "sartre-04-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-04-node"
+      ],
+      "prompt": "在本篇对「自为的不重合」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "自为以未来计划回照当前处境；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「自为以未来计划回照当前处境；该判断把对象与条件一并纳入」；它保留了「自为的不重合」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "自为以独立于身体的意识层维持自我距离；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「自为的不重合」处的局部错步是：把「自为以未来计划回照当前处境；该判断把对象与条件一并纳入」改写成「自为以独立于身体的意识层维持自我距离；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「自为以未来计划回照当前处境；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-04-q1-single-error"
+    },
+    {
+      "id": "sartre-04-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-04-node"
+      ],
+      "prompt": "在本篇对「过去的约束方式」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "过去真实却不能封闭定义行动者；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「过去真实却不能封闭定义行动者；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「过去的约束方式」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "过去约束行动但不进入未来计划赋予的意义；该判断把对象与条件一并纳入",
+          "feedback": "本题在「过去的约束方式」处的局部错步是：把「过去真实却不能封闭定义行动者；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「过去约束行动但不进入未来计划赋予的意义；该判断把对象与条件一并纳入」；对照项保留「过去真实却不能封闭定义行动者；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-04-q2-single-error"
+    },
+    {
+      "id": "sartre-04-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-04-node"
+      ],
+      "prompt": "在本篇对「缺失的发生条件」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "缺失先作为世界裂隙出现再被期待识别；该判断把对象与条件一并纳入",
+          "feedback": "本题在「缺失的发生条件」处的局部错步是：把「缺失依赖超出既成的期待结构；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「缺失先作为世界裂隙出现再被期待识别；该判断把对象与条件一并纳入」；对照项保留「缺失依赖超出既成的期待结构；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "缺失依赖超出既成的期待结构；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「缺失依赖超出既成的期待结构；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「缺失的发生条件」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-04-q3-single-error"
+    },
+    {
+      "id": "sartre-04-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-04-node"
+      ],
+      "prompt": "在本篇对「不重合与行为预测」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "不重合不否认习惯与行为概率；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「不重合不否认习惯与行为概率；该判断把对象与条件一并纳入」；它保留了「不重合与行为预测」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "不重合保留概率但使其难以形成有效解释；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「不重合与行为预测」处的局部错步是：把「不重合不否认习惯与行为概率；该判断把对象与条件一并纳入」改写成「不重合保留概率但使其难以形成有效解释；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「不重合不否认习惯与行为概率；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-04-q4-single-error"
+    },
+    {
+      "id": "sartre-05-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-05-node"
+      ],
+      "prompt": "在本篇对「提问与否定」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "提问先确认可能答案再以否定形式筛除一项；该判断把对象与条件一并纳入",
+          "feedback": "本题在「提问与否定」处的局部错步是：把「提问预先开放肯定与否定答案；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「提问先确认可能答案再以否定形式筛除一项；该判断把对象与条件一并纳入」；对照项保留「提问预先开放肯定与否定答案；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "提问预先开放肯定与否定答案；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「提问预先开放肯定与否定答案；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「提问与否定」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-05-q1-single-error"
+    },
+    {
+      "id": "sartre-05-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-05-node"
+      ],
+      "prompt": "在本篇对「期待怎样显出缺席」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "期待让具体缺席组织知觉场；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「期待让具体缺席组织知觉场；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「期待怎样显出缺席」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "期待在知觉完成后把缺席作为判断添加进去；该判断把对象与条件一并纳入",
+          "feedback": "本题在「期待怎样显出缺席」处的局部错步是：把「期待让具体缺席组织知觉场；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「期待在知觉完成后把缺席作为判断添加进去；该判断把对象与条件一并纳入」；对照项保留「期待让具体缺席组织知觉场；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-05-q2-single-error"
+    },
+    {
+      "id": "sartre-05-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-05-node"
+      ],
+      "prompt": "在本篇对「虚无化与存在」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "虚无化依赖存在并与之拉开距离；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「虚无化依赖存在并与之拉开距离；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「虚无化与存在」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "虚无化发现自在内部可供意识使用的裂隙；该判断把对象与条件一并纳入",
+          "feedback": "本题在「虚无化与存在」处的局部错步是：把「虚无化依赖存在并与之拉开距离；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「虚无化发现自在内部可供意识使用的裂隙；该判断把对象与条件一并纳入」；对照项保留「虚无化依赖存在并与之拉开距离；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-05-q3-single-error"
+    },
+    {
+      "id": "sartre-05-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-05-node"
+      ],
+      "prompt": "在本篇对「否定和差异检测」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "任务规范使差异检测获得与人的否定相同结构；该判断把对象与条件一并纳入",
+          "feedback": "本题在「否定和差异检测」处的局部错步是：把「任务规范帮助划定相关的缺失；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「任务规范使差异检测获得与人的否定相同结构；该判断把对象与条件一并纳入」；对照项保留「任务规范帮助划定相关的缺失；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "任务规范帮助划定相关的缺失；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「任务规范帮助划定相关的缺失；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「否定和差异检测」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-05-q4-single-error"
+    },
+    {
+      "id": "sartre-06-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-06-node"
+      ],
+      "prompt": "在本篇对「事实性的地位」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "事实性是行动不能跳过的既成条件；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「事实性是行动不能跳过的既成条件；该判断把对象与条件一并纳入」；它保留了「事实性的地位」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "事实性给出行动应当沿用的既成方向；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「事实性的地位」处的局部错步是：把「事实性是行动不能跳过的既成条件；该判断把对象与条件一并纳入」改写成「事实性给出行动应当沿用的既成方向；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「事实性是行动不能跳过的既成条件；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-06-q1-single-error"
+    },
+    {
+      "id": "sartre-06-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-06-node"
+      ],
+      "prompt": "在本篇对「超越怎样处理限制」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "超越重释限制并由此减弱其物质约束；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「超越怎样处理限制」处的局部错步是：把「超越以计划重释既成的实践意义；该判断把对象与条件一并纳入」改写成「超越重释限制并由此减弱其物质约束；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「超越以计划重释既成的实践意义；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "超越以计划重释既成的实践意义；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「超越以计划重释既成的实践意义；该判断把对象与条件一并纳入」；它保留了「超越怎样处理限制」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-06-q2-single-error"
+    },
+    {
+      "id": "sartre-06-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-06-node"
+      ],
+      "prompt": "在本篇对「萨特的时间结构」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "时间体现已是与未是的不重合；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「时间体现已是与未是的不重合；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「萨特的时间结构」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "时间由相继现在承载已是与未是的内容；该判断把对象与条件一并纳入",
+          "feedback": "本题在「萨特的时间结构」处的局部错步是：把「时间体现已是与未是的不重合；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「时间由相继现在承载已是与未是的内容；该判断把对象与条件一并纳入」；对照项保留「时间体现已是与未是的不重合；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-06-q3-single-error"
+    },
+    {
+      "id": "sartre-06-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-06-node"
+      ],
+      "prompt": "在本篇对「处境的构成」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "处境是客观条件经过行动者评价后的总和；该判断把对象与条件一并纳入",
+          "feedback": "本题在「处境的构成」处的局部错步是：把「处境由条件与取向交叉形成；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「处境是客观条件经过行动者评价后的总和；该判断把对象与条件一并纳入」；对照项保留「处境由条件与取向交叉形成；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "处境由条件与取向交叉形成；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「处境由条件与取向交叉形成；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「处境的构成」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-06-q4-single-error"
+    },
+    {
+      "id": "sartre-07-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-07-node"
+      ],
+      "prompt": "在本篇对「自由的行动结构」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "自由是以目的组织理由的行动结构；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「自由是以目的组织理由的行动结构；该判断把对象与条件一并纳入」；它保留了「自由的行动结构」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "自由以可取得结果的范围衡量理由组织能力；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「自由的行动结构」处的局部错步是：把「自由是以目的组织理由的行动结构；该判断把对象与条件一并纳入」改写成「自由以可取得结果的范围衡量理由组织能力；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「自由是以目的组织理由的行动结构；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-07-q1-single-error"
+    },
+    {
+      "id": "sartre-07-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-07-node"
+      ],
+      "prompt": "在本篇对「处境和实质能力」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "处境规定工具风险和可达范围；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「处境规定工具风险和可达范围；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「处境和实质能力」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "处境规定风险但不改变行动的实质能力；该判断把对象与条件一并纳入",
+          "feedback": "本题在「处境和实质能力」处的局部错步是：把「处境规定工具风险和可达范围；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「处境规定风险但不改变行动的实质能力；该判断把对象与条件一并纳入」；对照项保留「处境规定工具风险和可达范围；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-07-q2-single-error"
+    },
+    {
+      "id": "sartre-07-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-07-node"
+      ],
+      "prompt": "在本篇对「囚禁案例的功能」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "囚犯保有立场因而也保有成功逃离的能力；该判断把对象与条件一并纳入",
+          "feedback": "本题在「囚禁案例的功能」处的局部错步是：把「囚禁中的自由不等于逃跑能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「囚犯保有立场因而也保有成功逃离的能力；该判断把对象与条件一并纳入」；对照项保留「囚禁中的自由不等于逃跑能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "囚禁中的自由不等于逃跑能力；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「囚禁中的自由不等于逃跑能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「囚禁案例的功能」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-07-q3-single-error"
+    },
+    {
+      "id": "sartre-07-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-07-node"
+      ],
+      "prompt": "在本篇对「早晚期自由论关系」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "晚期只扩充早期例证而未修正条件说明；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「早晚期自由论关系」处的局部错步是：把「晚期分析修正实质能力的说明；该判断把对象与条件一并纳入」改写成「晚期只扩充早期例证而未修正条件说明；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「晚期分析修正实质能力的说明；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "晚期分析修正实质能力的说明；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「晚期分析修正实质能力的说明；该判断把对象与条件一并纳入」；它保留了「早晚期自由论关系」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-07-q4-single-error"
+    },
+    {
+      "id": "sartre-08-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-08-node"
+      ],
+      "prompt": "在本篇对「焦虑与恐惧」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "焦虑面对的是自身可能性的无保证；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「焦虑面对的是自身可能性的无保证；该判断把对象与条件一并纳入」；它保留了「焦虑与恐惧」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "焦虑是主体把外部危险解释成自身可能性；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「焦虑与恐惧」处的局部错步是：把「焦虑面对的是自身可能性的无保证；该判断把对象与条件一并纳入」改写成「焦虑是主体把外部危险解释成自身可能性；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「焦虑面对的是自身可能性的无保证；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-08-q1-single-error"
+    },
+    {
+      "id": "sartre-08-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-08-node"
+      ],
+      "prompt": "在本篇对「决心为何需重担」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "过去决心在当前提供近似因果保证；该判断把对象与条件一并纳入",
+          "feedback": "本题在「决心为何需重担」处的局部错步是：把「过去决心须由当前行动重新承担；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「过去决心在当前提供近似因果保证；该判断把对象与条件一并纳入」；对照项保留「过去决心须由当前行动重新承担；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "过去决心须由当前行动重新承担；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「过去决心须由当前行动重新承担；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「决心为何需重担」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-08-q2-single-error"
+    },
+    {
+      "id": "sartre-08-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-08-node"
+      ],
+      "prompt": "在本篇对「支持和自由」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "支持安排降低风险却不替代回应；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「支持安排降低风险却不替代回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「支持和自由」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "支持通过接管回应来降低行动风险；该判断把对象与条件一并纳入",
+          "feedback": "本题在「支持和自由」处的局部错步是：把「支持安排降低风险却不替代回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「支持通过接管回应来降低行动风险；该判断把对象与条件一并纳入」；对照项保留「支持安排降低风险却不替代回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-08-q3-single-error"
+    },
+    {
+      "id": "sartre-08-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-08-node"
+      ],
+      "prompt": "在本篇对「存在分析的临床边界」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "存在分析不能代替临床诊断治疗；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「存在分析不能代替临床诊断治疗；该判断把对象与条件一并纳入」；它保留了「存在分析的临床边界」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "存在分析为临床焦虑提供优先的意义诊断；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「存在分析的临床边界」处的局部错步是：把「存在分析不能代替临床诊断治疗；该判断把对象与条件一并纳入」改写成「存在分析为临床焦虑提供优先的意义诊断；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「存在分析不能代替临床诊断治疗；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-08-q4-single-error"
+    },
+    {
+      "id": "sartre-09-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-09-node"
+      ],
+      "prompt": "在本篇对「恶意的结构」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "恶意是主体向自己陈述已知为假的命题；该判断把对象与条件一并纳入",
+          "feedback": "本题在「恶意的结构」处的局部错步是：把「恶意在事实性与超越之间选择性滑动；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「恶意是主体向自己陈述已知为假的命题；该判断把对象与条件一并纳入」；对照项保留「恶意在事实性与超越之间选择性滑动；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "恶意在事实性与超越之间选择性滑动；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「恶意在事实性与超越之间选择性滑动；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「恶意的结构」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-09-q1-single-error"
+    },
+    {
+      "id": "sartre-09-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-09-node"
+      ],
+      "prompt": "在本篇对「自欺悖论的解法」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "自欺以功能分区而非完整人格解决悖论；该判断把对象与条件一并纳入",
+          "feedback": "本题在「自欺悖论的解法」处的局部错步是：把「自欺不要求两个完整心灵主体；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「自欺以功能分区而非完整人格解决悖论；该判断把对象与条件一并纳入」；对照项保留「自欺不要求两个完整心灵主体；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "自欺不要求两个完整心灵主体；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「自欺不要求两个完整心灵主体；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「自欺悖论的解法」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-09-q2-single-error"
+    },
+    {
+      "id": "sartre-09-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-09-node"
+      ],
+      "prompt": "在本篇对「角色借口与参与」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "角色借口可遮蔽自身参与的决定；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「角色借口可遮蔽自身参与的决定；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「角色借口与参与」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "制度角色降低个人参与却保留事后责任；该判断把对象与条件一并纳入",
+          "feedback": "本题在「角色借口与参与」处的局部错步是：把「角色借口可遮蔽自身参与的决定；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「制度角色降低个人参与却保留事后责任；该判断把对象与条件一并纳入」；对照项保留「角色借口可遮蔽自身参与的决定；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-09-q3-single-error"
+    },
+    {
+      "id": "sartre-09-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-09-node"
+      ],
+      "prompt": "在本篇对「真实性的限度」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "真实性在持续反思中逐步确认稳定本质；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「真实性的限度」处的局部错步是：把「真实性承担两面而非寻找固定纯我；该判断把对象与条件一并纳入」改写成「真实性在持续反思中逐步确认稳定本质；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「真实性承担两面而非寻找固定纯我；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "真实性承担两面而非寻找固定纯我；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「真实性承担两面而非寻找固定纯我；该判断把对象与条件一并纳入」；它保留了「真实性的限度」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-09-q4-single-error"
+    },
+    {
+      "id": "sartre-10-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-10-node"
+      ],
+      "prompt": "在本篇对「凝视怎样给出他人」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "凝视显出我成为他人世界中的对象；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「凝视显出我成为他人世界中的对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「凝视怎样给出他人」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "凝视把身体线索汇总成对他人主体的高可信推断；该判断把对象与条件一并纳入",
+          "feedback": "本题在「凝视怎样给出他人」处的局部错步是：把「凝视显出我成为他人世界中的对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「凝视把身体线索汇总成对他人主体的高可信推断；该判断把对象与条件一并纳入」；对照项保留「凝视显出我成为他人世界中的对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-10-q1-single-error"
+    },
+    {
+      "id": "sartre-10-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-10-node"
+      ],
+      "prompt": "在本篇对「羞耻的发生次序」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "羞耻先于对观察者的完整推理；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「羞耻先于对观察者的完整推理；该判断把对象与条件一并纳入」；它保留了「羞耻的发生次序」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "羞耻在确认观察者判断后直接呈现为他评价；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「羞耻的发生次序」处的局部错步是：把「羞耻先于对观察者的完整推理；该判断把对象与条件一并纳入」改写成「羞耻在确认观察者判断后直接呈现为他评价；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「羞耻先于对观察者的完整推理；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-10-q2-single-error"
+    },
+    {
+      "id": "sartre-10-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-10-node"
+      ],
+      "prompt": "在本篇对「他人视角的外部性」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "充分说明处境可让他人撤回对我的对象化；该判断把对象与条件一并纳入",
+          "feedback": "本题在「他人视角的外部性」处的局部错步是：把「他人视角不能由我单方面收回；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「充分说明处境可让他人撤回对我的对象化；该判断把对象与条件一并纳入」；对照项保留「他人视角不能由我单方面收回；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "他人视角不能由我单方面收回；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「他人视角不能由我单方面收回；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「他人视角的外部性」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-10-q3-single-error"
+    },
+    {
+      "id": "sartre-10-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-10-node"
+      ],
+      "prompt": "在本篇对「他人即地狱的适用范围」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "他人即地狱只描述被固定的冲突结构；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「他人即地狱只描述被固定的冲突结构；该判断把对象与条件一并纳入」；它保留了「他人即地狱的适用范围」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "他人即地狱描述关系在长期互动中的一般归宿；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「他人即地狱的适用范围」处的局部错步是：把「他人即地狱只描述被固定的冲突结构；该判断把对象与条件一并纳入」改写成「他人即地狱描述关系在长期互动中的一般归宿；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「他人即地狱只描述被固定的冲突结构；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-10-q4-single-error"
+    },
+    {
+      "id": "sartre-11-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-11-node"
+      ],
+      "prompt": "在本篇对「为己身体」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "为己身体是行动前可被内省到的能力图式；该判断把对象与条件一并纳入",
+          "feedback": "本题在「为己身体」处的局部错步是：把「为己身体是行动世界的无声视点；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「为己身体是行动前可被内省到的能力图式；该判断把对象与条件一并纳入」；对照项保留「为己身体是行动世界的无声视点；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "为己身体是行动世界的无声视点；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「为己身体是行动世界的无声视点；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「为己身体」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-11-q1-single-error"
+    },
+    {
+      "id": "sartre-11-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-11-node"
+      ],
+      "prompt": "在本篇对「为他身体」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "为他身体以他人评价成为对象；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「为他身体以他人评价成为对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「为他身体」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "为他身体是我根据他人反应构造的外部形象；该判断把对象与条件一并纳入",
+          "feedback": "本题在「为他身体」处的局部错步是：把「为他身体以他人评价成为对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「为他身体是我根据他人反应构造的外部形象；该判断把对象与条件一并纳入」；对照项保留「为他身体以他人评价成为对象；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-11-q2-single-error"
+    },
+    {
+      "id": "sartre-11-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-11-node"
+      ],
+      "prompt": "在本篇对「诊断和身体经验」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "诊断既能帮助也会重塑身体经验；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「诊断既能帮助也会重塑身体经验；该判断把对象与条件一并纳入」；它保留了「诊断和身体经验」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "诊断改变知识却保持患者原有的身体居住方式；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「诊断和身体经验」处的局部错步是：把「诊断既能帮助也会重塑身体经验；该判断把对象与条件一并纳入」改写成「诊断改变知识却保持患者原有的身体居住方式；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「诊断既能帮助也会重塑身体经验；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-11-q3-single-error"
+    },
+    {
+      "id": "sartre-11-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-11-node"
+      ],
+      "prompt": "在本篇对「三重身体的历史限度」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "三重身体已包含性别和种族制度的生成机制；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「三重身体的历史限度」处的局部错步是：把「身体结构分析仍需要社会历史化；该判断把对象与条件一并纳入」改写成「三重身体已包含性别和种族制度的生成机制；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「身体结构分析仍需要社会历史化；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "身体结构分析仍需要社会历史化；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「身体结构分析仍需要社会历史化；该判断把对象与条件一并纳入」；它保留了「三重身体的历史限度」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-11-q4-single-error"
+    },
+    {
+      "id": "sartre-12-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-12-node"
+      ],
+      "prompt": "在本篇对「爱所要求的承认」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "爱企图获得他人自由给出的稳定选择；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「爱企图获得他人自由给出的稳定选择；该判断把对象与条件一并纳入」；它保留了「爱所要求的承认」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "爱以稳定控制对方行动来间接获得承认；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「爱所要求的承认」处的局部错步是：把「爱企图获得他人自由给出的稳定选择；该判断把对象与条件一并纳入」改写成「爱以稳定控制对方行动来间接获得承认；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「爱企图获得他人自由给出的稳定选择；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-12-q1-single-error"
+    },
+    {
+      "id": "sartre-12-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-12-node"
+      ],
+      "prompt": "在本篇对「强迫与自由承认」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "受强迫的服从无法提供自由承认；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「受强迫的服从无法提供自由承认；该判断把对象与条件一并纳入」；它保留了「强迫与自由承认」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "强迫可提供承认但降低其情感可信度；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「强迫与自由承认」处的局部错步是：把「受强迫的服从无法提供自由承认；该判断把对象与条件一并纳入」改写成「强迫可提供承认但降低其情感可信度；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「受强迫的服从无法提供自由承认；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-12-q2-single-error"
+    },
+    {
+      "id": "sartre-12-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-12-node"
+      ],
+      "prompt": "在本篇对「承认的可撤回性」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "自由承认会因承诺而固定未来选择范围；该判断把对象与条件一并纳入",
+          "feedback": "本题在「承认的可撤回性」处的局部错步是：把「自由承认保留未来撤回的可能；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「自由承认会因承诺而固定未来选择范围；该判断把对象与条件一并纳入」；对照项保留「自由承认保留未来撤回的可能；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "自由承认保留未来撤回的可能；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「自由承认保留未来撤回的可能；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「承认的可撤回性」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-12-q3-single-error"
+    },
+    {
+      "id": "sartre-12-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-12-node"
+      ],
+      "prompt": "在本篇对「占有性爱之外的关系」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "占有性爱的悖论可推广为互惠照护的结构；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「占有性爱之外的关系」处的局部错步是：把「占有性爱分析不等于关系总论；该判断把对象与条件一并纳入」改写成「占有性爱的悖论可推广为互惠照护的结构；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「占有性爱分析不等于关系总论；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "占有性爱分析不等于关系总论；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「占有性爱分析不等于关系总论；该判断把对象与条件一并纳入」；它保留了「占有性爱之外的关系」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-12-q4-single-error"
+    },
+    {
+      "id": "sartre-13-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-13-node"
+      ],
+      "prompt": "在本篇对「欲望与肉身」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "欲望让身体显为感受着的肉身；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「欲望让身体显为感受着的肉身；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「欲望与肉身」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "欲望由生理刺激启动后把身体解释为肉身；该判断把对象与条件一并纳入",
+          "feedback": "本题在「欲望与肉身」处的局部错步是：把「欲望让身体显为感受着的肉身；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「欲望由生理刺激启动后把身体解释为肉身；该判断把对象与条件一并纳入」；对照项保留「欲望让身体显为感受着的肉身；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-13-q1-single-error"
+    },
+    {
+      "id": "sartre-13-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-13-node"
+      ],
+      "prompt": "在本篇对「施虐面对的自由」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "施虐借痛苦取得对他人自由的可靠知识；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「施虐面对的自由」处的局部错步是：把「施虐试图借痛苦俘获他人自由；该判断把对象与条件一并纳入」改写成「施虐借痛苦取得对他人自由的可靠知识；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「施虐试图借痛苦俘获他人自由；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "施虐试图借痛苦俘获他人自由；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「施虐试图借痛苦俘获他人自由；该判断把对象与条件一并纳入」；它保留了「施虐面对的自由」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-13-q2-single-error"
+    },
+    {
+      "id": "sartre-13-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-13-node"
+      ],
+      "prompt": "在本篇对「冷漠策略的依赖」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "冷漠通过降低回应期待削弱他人评价的作用；该判断把对象与条件一并纳入",
+          "feedback": "本题在「冷漠策略的依赖」处的局部错步是：把「冷漠仍依赖被否认的他人回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「冷漠通过降低回应期待削弱他人评价的作用；该判断把对象与条件一并纳入」；对照项保留「冷漠仍依赖被否认的他人回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "冷漠仍依赖被否认的他人回应；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「冷漠仍依赖被否认的他人回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「冷漠策略的依赖」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-13-q3-single-error"
+    },
+    {
+      "id": "sartre-13-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-13-node"
+      ],
+      "prompt": "在本篇对「冲突论的边界」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "冲突是持续可能而非预定终点；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「冲突是持续可能而非预定终点；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「冲突论的边界」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "冲突在亲密欲望中形成最稳定的实践结局；该判断把对象与条件一并纳入",
+          "feedback": "本题在「冲突论的边界」处的局部错步是：把「冲突是持续可能而非预定终点；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「冲突在亲密欲望中形成最稳定的实践结局；该判断把对象与条件一并纳入」；对照项保留「冲突是持续可能而非预定终点；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-13-q4-single-error"
+    },
+    {
+      "id": "sartre-14-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-14-node"
+      ],
+      "prompt": "在本篇对「存在先于本质的对象域」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "公式也适用于工具因使用过程改变其功能本质；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「存在先于本质的对象域」处的局部错步是：把「公式针对没有预定使命的人的存在；该判断把对象与条件一并纳入」改写成「公式也适用于工具因使用过程改变其功能本质；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「公式针对没有预定使命的人的存在；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "公式针对没有预定使命的人的存在；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「公式针对没有预定使命的人的存在；该判断把对象与条件一并纳入」；它保留了「存在先于本质的对象域」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-14-q1-single-error"
+    },
+    {
+      "id": "sartre-14-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-14-node"
+      ],
+      "prompt": "在本篇对「行动怎样形成身份」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "行动形成身份并公开承诺价值；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「行动形成身份并公开承诺价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「行动怎样形成身份」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "公开宣言与首次行动共同形成稳定身份；该判断把对象与条件一并纳入",
+          "feedback": "本题在「行动怎样形成身份」处的局部错步是：把「行动形成身份并公开承诺价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「公开宣言与首次行动共同形成稳定身份；该判断把对象与条件一并纳入」；对照项保留「行动形成身份并公开承诺价值；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-14-q2-single-error"
+    },
+    {
+      "id": "sartre-14-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-14-node"
+      ],
+      "prompt": "在本篇对「责任与后果控制」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "责任随行动者可控制的后果范围确定；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「责任与后果控制」处的局部错步是：把「自由责任仍受处境和风险限定；该判断把对象与条件一并纳入」改写成「责任随行动者可控制的后果范围确定；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「自由责任仍受处境和风险限定；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "自由责任仍受处境和风险限定；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「自由责任仍受处境和风险限定；该判断把对象与条件一并纳入」；它保留了「责任与后果控制」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-14-q3-single-error"
+    },
+    {
+      "id": "sartre-14-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-14-node"
+      ],
+      "prompt": "在本篇对「价值创造的伦理缺口」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "价值创造不能自动推出普遍伦理；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「价值创造不能自动推出普遍伦理；该判断把对象与条件一并纳入」；它保留了「价值创造的伦理缺口」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "真诚承担价值已为普遍伦理提供最低根据；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「价值创造的伦理缺口」处的局部错步是：把「价值创造不能自动推出普遍伦理；该判断把对象与条件一并纳入」改写成「真诚承担价值已为普遍伦理提供最低根据；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「价值创造不能自动推出普遍伦理；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-14-q4-single-error"
+    },
+    {
+      "id": "sartre-15-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-15-node"
+      ],
+      "prompt": "在本篇对「根本计划如何持续」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "根本计划在多种行动中持续重作；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「根本计划在多种行动中持续重作；该判断把对象与条件一并纳入」；它保留了「根本计划如何持续」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "根本计划由早期选择形成后在多种行动中重复；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「根本计划如何持续」处的局部错步是：把「根本计划在多种行动中持续重作；该判断把对象与条件一并纳入」改写成「根本计划由早期选择形成后在多种行动中重复；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「根本计划在多种行动中持续重作；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-15-q1-single-error"
+    },
+    {
+      "id": "sartre-15-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-15-node"
+      ],
+      "prompt": "在本篇对「传记解释的历史中介」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "传记先重建个人动机再用阶级材料校正背景；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「传记解释的历史中介」处的局部错步是：把「传记解释须纳入家庭阶级历史中介；该判断把对象与条件一并纳入」改写成「传记先重建个人动机再用阶级材料校正背景；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「传记解释须纳入家庭阶级历史中介；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "传记解释须纳入家庭阶级历史中介；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「传记解释须纳入家庭阶级历史中介；该判断把对象与条件一并纳入」；它保留了「传记解释的历史中介」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-15-q2-single-error"
+    },
+    {
+      "id": "sartre-15-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-15-node"
+      ],
+      "prompt": "在本篇对「反例怎样约束统一解释」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "反例可作为计划的反向表达纳入原有统一故事；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「反例怎样约束统一解释」处的局部错步是：把「竞争材料可以迫使统一解释改写；该判断把对象与条件一并纳入」改写成「反例可作为计划的反向表达纳入原有统一故事；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「竞争材料可以迫使统一解释改写；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "竞争材料可以迫使统一解释改写；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「竞争材料可以迫使统一解释改写；该判断把对象与条件一并纳入」；它保留了「反例怎样约束统一解释」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-15-q3-single-error"
+    },
+    {
+      "id": "sartre-15-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-15-node"
+      ],
+      "prompt": "在本篇对「根本计划与人格本质」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "根本计划不是终身不变的人格密码；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「根本计划不是终身不变的人格密码；该判断把对象与条件一并纳入」；它保留了「根本计划与人格本质」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "根本计划在解释充分时可视为稳定人格结构；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「根本计划与人格本质」处的局部错步是：把「根本计划不是终身不变的人格密码；该判断把对象与条件一并纳入」改写成「根本计划在解释充分时可视为稳定人格结构；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「根本计划不是终身不变的人格密码；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-15-q4-single-error"
+    },
+    {
+      "id": "sartre-16-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-16-node"
+      ],
+      "prompt": "在本篇对「作者与阅读主体共同实现作品」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "作者预先封闭可接受解释范围，阅读主体只补齐其中细节；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「作者与阅读主体共同实现作品」处的局部错步是：把文本约束偷换成作者预先封闭可接受解释的范围；对照项保留「散文通过受文本约束的阅读被实现；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "散文通过受文本约束的阅读被实现；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「散文通过受文本约束的阅读被实现；该判断把对象与条件一并纳入」；它保留了「作者与阅读主体共同实现作品」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-16-q1-single-error"
+    },
+    {
+      "id": "sartre-16-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-16-node"
+      ],
+      "prompt": "在本篇对「形式怎样介入」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "文学形式通过承载公共论点实现介入；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「形式怎样介入」处的局部错步是：把「文学介入可由形式揭示公共现实；该判断把对象与条件一并纳入」改写成「文学形式通过承载公共论点实现介入；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「文学介入可由形式揭示公共现实；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "文学介入可由形式揭示公共现实；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「文学介入可由形式揭示公共现实；该判断把对象与条件一并纳入」；它保留了「形式怎样介入」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-16-q2-single-error"
+    },
+    {
+      "id": "sartre-16-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-16-node"
+      ],
+      "prompt": "在本篇对「阅读主体的自由和文本限制」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "召唤阅读主体的自由需要弱化文本对解释的约束；该判断把对象与条件一并纳入",
+          "feedback": "本题在「阅读主体的自由和文本限制」处的局部错步是：把「召唤阅读主体的自由不等于强迫同意；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「召唤阅读主体的自由需要弱化文本对解释的约束；该判断把对象与条件一并纳入」；对照项保留「召唤阅读主体的自由不等于强迫同意；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "召唤阅读主体的自由不等于强迫同意；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「召唤阅读主体的自由不等于强迫同意；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「阅读主体的自由和文本限制」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-16-q3-single-error"
+    },
+    {
+      "id": "sartre-16-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-16-node"
+      ],
+      "prompt": "在本篇对「介入论与艺术价值」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "政治介入为比较形式价值提供优先尺度；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「介入论与艺术价值」处的局部错步是：把「介入论不足以裁定各种艺术价值；该判断把对象与条件一并纳入」改写成「政治介入为比较形式价值提供优先尺度；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「介入论不足以裁定各种艺术价值；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "介入论不足以裁定各种艺术价值；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「介入论不足以裁定各种艺术价值；该判断把对象与条件一并纳入」；它保留了「介入论与艺术价值」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-16-q4-single-error"
+    },
+    {
+      "id": "sartre-17-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-17-node"
+      ],
+      "prompt": "在本篇对「反犹主义面对反证」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "反犹主义会在反证前移动判断标准；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「反犹主义会在反证前移动判断标准；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「反犹主义面对反证」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "反犹主义在反证前保持同一判断标准，只调整各证据的权重；该判断把对象与条件一并纳入",
+          "feedback": "本题在「反犹主义面对反证」处的局部错步是：把移动判断标准偷换成维持同一标准而只调整证据权重；对照项保留「反犹主义会在反证前移动判断标准；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-17-q1-single-error"
+    },
+    {
+      "id": "sartre-17-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-17-node"
+      ],
+      "prompt": "在本篇对「偏见与制度执行」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "社会共谋放大已形成的个体偏见但不改变其性质；该判断把对象与条件一并纳入",
+          "feedback": "本题在「偏见与制度执行」处的局部错步是：把「偏见借社会共谋获得制度执行能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「社会共谋放大已形成的个体偏见但不改变其性质；该判断把对象与条件一并纳入」；对照项保留「偏见借社会共谋获得制度执行能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "偏见借社会共谋获得制度执行能力；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「偏见借社会共谋获得制度执行能力；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「偏见与制度执行」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-17-q2-single-error"
+    },
+    {
+      "id": "sartre-17-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-17-node"
+      ],
+      "prompt": "在本篇对「受压身份中的回应」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "受压身份包含被强加与自我回应；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「受压身份包含被强加与自我回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「受压身份中的回应」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "受压者以重新解释他人命名来取得身份主动性；该判断把对象与条件一并纳入",
+          "feedback": "本题在「受压身份中的回应」处的局部错步是：把「受压身份包含被强加与自我回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「受压者以重新解释他人命名来取得身份主动性；该判断把对象与条件一并纳入」；对照项保留「受压身份包含被强加与自我回应；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-17-q3-single-error"
+    },
+    {
+      "id": "sartre-17-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-17-node"
+      ],
+      "prompt": "在本篇对「态度和制度的解释次序」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "态度分析须与制度传承共同说明；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「态度分析须与制度传承共同说明；该判断把对象与条件一并纳入」；它保留了「态度和制度的解释次序」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "态度选择解释执行者而制度传承解释结果；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「态度和制度的解释次序」处的局部错步是：把「态度分析须与制度传承共同说明；该判断把对象与条件一并纳入」改写成「态度选择解释执行者而制度传承解释结果；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「态度分析须与制度传承共同说明；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-17-q4-single-error"
+    },
+    {
+      "id": "sartre-18-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-18-node"
+      ],
+      "prompt": "在本篇对「马克思主义的历史地平」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "阶级位置给出行动方向而个人计划解释速度差异；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「马克思主义的历史地平」处的局部错步是：把「马克思主义提供不可绕过的历史框架；该判断把对象与条件一并纳入」改写成「阶级位置给出行动方向而个人计划解释速度差异；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「马克思主义提供不可绕过的历史框架；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "马克思主义提供不可绕过的历史框架；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「马克思主义提供不可绕过的历史框架；该判断把对象与条件一并纳入」；它保留了「马克思主义的历史地平」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-18-q1-single-error"
+    },
+    {
+      "id": "sartre-18-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-18-node"
+      ],
+      "prompt": "在本篇对「渐进回溯方法」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "方法从个人计划前进到历史背景后停止回溯；该判断把对象与条件一并纳入",
+          "feedback": "本题在「渐进回溯方法」处的局部错步是：把「渐进回溯法往返计划与历史中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「方法从个人计划前进到历史背景后停止回溯；该判断把对象与条件一并纳入」；对照项保留「渐进回溯法往返计划与历史中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "渐进回溯法往返计划与历史中介；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「渐进回溯法往返计划与历史中介；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「渐进回溯方法」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-18-q2-single-error"
+    },
+    {
+      "id": "sartre-18-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-18-node"
+      ],
+      "prompt": "在本篇对「同阶级者的行动差异」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "同阶级行动差异需要具体解释；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「同阶级行动差异需要具体解释；该判断把对象与条件一并纳入」；它保留了「同阶级者的行动差异」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "个人差异主要修正生产关系的局部预测；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「同阶级者的行动差异」处的局部错步是：把「同阶级行动差异需要具体解释；该判断把对象与条件一并纳入」改写成「个人差异主要修正生产关系的局部预测；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「同阶级行动差异需要具体解释；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-18-q3-single-error"
+    },
+    {
+      "id": "sartre-18-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-18-node"
+      ],
+      "prompt": "在本篇对「综合的完成状态」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "萨特以实践概念解决了结构与能动性的核心张力；该判断把对象与条件一并纳入",
+          "feedback": "本题在「综合的完成状态」处的局部错步是：把「存在主义与马克思主义综合仍未完成；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「萨特以实践概念解决了结构与能动性的核心张力；该判断把对象与条件一并纳入」；对照项保留「存在主义与马克思主义综合仍未完成；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "存在主义与马克思主义综合仍未完成；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「存在主义与马克思主义综合仍未完成；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「综合的完成状态」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-18-q4-single-error"
+    },
+    {
+      "id": "sartre-19-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-19-node"
+      ],
+      "prompt": "在本篇对「晚期实践与早期否定性」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "晚期实践延续以目标否定当前不足；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「晚期实践延续以目标否定当前不足；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「晚期实践与早期否定性」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "晚期实践以物质自身的反向目的取代意识否定；该判断把对象与条件一并纳入",
+          "feedback": "本题在「晚期实践与早期否定性」处的局部错步是：把「晚期实践延续以目标否定当前不足；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「晚期实践以物质自身的反向目的取代意识否定；该判断把对象与条件一并纳入」；对照项保留「晚期实践延续以目标否定当前不足；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-19-q1-single-error"
+    },
+    {
+      "id": "sartre-19-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-19-node"
+      ],
+      "prompt": "在本篇对「实践惰性的形成」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "实践惰性是工具偏离设计者意图后的功能故障；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「实践惰性的形成」处的局部错步是：把「行动结果可凝固为实践惰性结构；该判断把对象与条件一并纳入」改写成「实践惰性是工具偏离设计者意图后的功能故障；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「行动结果可凝固为实践惰性结构；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "行动结果可凝固为实践惰性结构；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「行动结果可凝固为实践惰性结构；该判断把对象与条件一并纳入」；它保留了「实践惰性的形成」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-19-q2-single-error"
+    },
+    {
+      "id": "sartre-19-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-19-node"
+      ],
+      "prompt": "在本篇对「实质行动能力的条件」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "工具物质集体条件改变实质能力；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「工具物质集体条件改变实质能力；该判断把对象与条件一并纳入」；它保留了「实质行动能力的条件」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "工具和集体条件改变成功率而不改变实质能力；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「实质行动能力的条件」处的局部错步是：把「工具物质集体条件改变实质能力；该判断把对象与条件一并纳入」改写成「工具和集体条件改变成功率而不改变实质能力；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「工具物质集体条件改变实质能力；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-19-q3-single-error"
+    },
+    {
+      "id": "sartre-19-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-19-node"
+      ],
+      "prompt": "在本篇对「连续性与修正」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "晚期修正并未取消早期否定性；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「晚期修正并未取消早期否定性；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「连续性与修正」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "晚期保留自由词汇却舍弃早期否定结构；该判断把对象与条件一并纳入",
+          "feedback": "本题在「连续性与修正」处的局部错步是：把「晚期修正并未取消早期否定性；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「晚期保留自由词汇却舍弃早期否定结构；该判断把对象与条件一并纳入」；对照项保留「晚期修正并未取消早期否定性；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-19-q4-single-error"
+    },
+    {
+      "id": "sartre-20-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-20-node"
+      ],
+      "prompt": "在本篇对「系列与群体的分界」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "系列成员在共享物质安排时已具有最低共同实践；该判断把对象与条件一并纳入",
+          "feedback": "本题在「系列与群体的分界」处的局部错步是：把「系列由共同物质安排联结而未共同行动；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「系列成员在共享物质安排时已具有最低共同实践；该判断把对象与条件一并纳入」；对照项保留「系列由共同物质安排联结而未共同行动；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "系列由共同物质安排联结而未共同行动；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「系列由共同物质安排联结而未共同行动；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「系列与群体的分界」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-20-q1-single-error"
+    },
+    {
+      "id": "sartre-20-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-20-node"
+      ],
+      "prompt": "在本篇对「融合群体的共同实践」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "融合群体借共同实践突破系列无力；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「融合群体借共同实践突破系列无力；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「融合群体的共同实践」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "融合群体先以固定分工稳定彼此行动再突破系列；该判断把对象与条件一并纳入",
+          "feedback": "本题在「融合群体的共同实践」处的局部错步是：把「融合群体借共同实践突破系列无力；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「融合群体先以固定分工稳定彼此行动再突破系列；该判断把对象与条件一并纳入」；对照项保留「融合群体借共同实践突破系列无力；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-20-q2-single-error"
+    },
+    {
+      "id": "sartre-20-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-20-node"
+      ],
+      "prompt": "在本篇对「誓约到制度的连续机制」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "誓约和组织保存融合经验而制度属于另一生成序列；该判断把对象与条件一并纳入",
+          "feedback": "本题在「誓约到制度的连续机制」处的局部错步是：把「誓约组织既保存能力也产生新风险；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「誓约和组织保存融合经验而制度属于另一生成序列；该判断把对象与条件一并纳入」；对照项保留「誓约组织既保存能力也产生新风险；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "誓约组织既保存能力也产生新风险；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「誓约组织既保存能力也产生新风险；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「誓约到制度的连续机制」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-20-q3-single-error"
+    },
+    {
+      "id": "sartre-20-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-20-node"
+      ],
+      "prompt": "在本篇对「第一卷第二编的原典身份」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "第一卷第二编不同于身后未完成第二卷；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「第一卷第二编不同于身后未完成第二卷；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「第一卷第二编的原典身份」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "第一卷第二编是未完成第二卷的先行草案；该判断把对象与条件一并纳入",
+          "feedback": "本题在「第一卷第二编的原典身份」处的局部错步是：把「第一卷第二编不同于身后未完成第二卷；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「第一卷第二编是未完成第二卷的先行草案；该判断把对象与条件一并纳入」；对照项保留「第一卷第二编不同于身后未完成第二卷；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-20-q4-single-error"
+    },
+    {
+      "id": "sartre-21-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-21-node"
+      ],
+      "prompt": "在本篇对「殖民主义的体系结构」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "殖民体系由行政偏见累积后才连接经济结构；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「殖民主义的体系结构」处的局部错步是：把「殖民主义联结经济法律种族化暴力；该判断把对象与条件一并纳入」改写成「殖民体系由行政偏见累积后才连接经济结构；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「殖民主义联结经济法律种族化暴力；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "殖民主义联结经济法律种族化暴力；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「殖民主义联结经济法律种族化暴力；该判断把对象与条件一并纳入」；它保留了「殖民主义的体系结构」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-21-q1-single-error"
+    },
+    {
+      "id": "sartre-21-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-21-node"
+      ],
+      "prompt": "在本篇对「种族叙事的功能」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "种族叙事把文化差异用作制度贫困的补充解释；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「种族叙事的功能」处的局部错步是：把「种族叙事会把制度结果伪装成本性；该判断把对象与条件一并纳入」改写成「种族叙事把文化差异用作制度贫困的补充解释；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「种族叙事会把制度结果伪装成本性；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "种族叙事会把制度结果伪装成本性；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「种族叙事会把制度结果伪装成本性；该判断把对象与条件一并纳入」；它保留了「种族叙事的功能」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-21-q2-single-error"
+    },
+    {
+      "id": "sartre-21-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-21-node"
+      ],
+      "prompt": "在本篇对「解释暴力与辩护暴力」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "结构解释不等于认可每种暴力手段；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「结构解释不等于认可每种暴力手段；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「解释暴力与辩护暴力」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "结构来源可为受压者暴力提供初步道德许可；该判断把对象与条件一并纳入",
+          "feedback": "本题在「解释暴力与辩护暴力」处的局部错步是：把「结构解释不等于认可每种暴力手段；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「结构来源可为受压者暴力提供初步道德许可；该判断把对象与条件一并纳入」；对照项保留「结构解释不等于认可每种暴力手段；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-21-q3-single-error"
+    },
+    {
+      "id": "sartre-21-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-21-node"
+      ],
+      "prompt": "在本篇对「介入者的修辞责任」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "介入者必须承担其修辞政治后果；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「介入者必须承担其修辞政治后果；该判断把对象与条件一并纳入」；它保留了「介入者的修辞责任」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "欧洲介入可暂时代替受压者难以公开的声音；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「介入者的修辞责任」处的局部错步是：把「介入者必须承担其修辞政治后果；该判断把对象与条件一并纳入」改写成「欧洲介入可暂时代替受压者难以公开的声音；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「介入者必须承担其修辞政治后果；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-21-q4-single-error"
+    },
+    {
+      "id": "sartre-22-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-22-node"
+      ],
+      "prompt": "在本篇对「言说与沉默的处境效果」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "介入来自言说沉默都产生处境效果；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「介入来自言说沉默都产生处境效果；该判断把对象与条件一并纳入」；它保留了「言说与沉默的处境效果」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "信息趋于完备时介入才具有可追责的处境效果；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「言说与沉默的处境效果」处的局部错步是：把「介入来自言说沉默都产生处境效果；该判断把对象与条件一并纳入」改写成「信息趋于完备时介入才具有可追责的处境效果；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「介入来自言说沉默都产生处境效果；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-22-q1-single-error"
+    },
+    {
+      "id": "sartre-22-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-22-node"
+      ],
+      "prompt": "在本篇对「介入和判断正确性」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "政治承担并不授予无误判断特权；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「政治承担并不授予无误判断特权；该判断把对象与条件一并纳入」；它保留了「介入和判断正确性」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "A",
+          "text": "政治承担提高判断可信度但不提供理论证明；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「介入和判断正确性」处的局部错步是：把「政治承担并不授予无误判断特权；该判断把对象与条件一并纳入」改写成「政治承担提高判断可信度但不提供理论证明；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「政治承担并不授予无误判断特权；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-22-q2-single-error"
+    },
+    {
+      "id": "sartre-22-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-22-node"
+      ],
+      "prompt": "在本篇对「公开修正的责任」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "改变立场需说明新证据而不必重述先前参与；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「公开修正的责任」处的局部错步是：把「公开修正须说明证据参与及伤害；该判断把对象与条件一并纳入」改写成「改变立场需说明新证据而不必重述先前参与；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「公开修正须说明证据参与及伤害；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "公开修正须说明证据参与及伤害；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「公开修正须说明证据参与及伤害；该判断把对象与条件一并纳入」；它保留了「公开修正的责任」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-22-q3-single-error"
+    },
+    {
+      "id": "sartre-22-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-22-node"
+      ],
+      "prompt": "在本篇对「评价公共介入的维度」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "评价介入应区分诊断联盟修辞后果；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「评价介入应区分诊断联盟修辞后果；该判断把对象与条件一并纳入」；它保留了「评价公共介入的维度」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "名望可以补足基层经验尚未公开的证据缺口；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「评价公共介入的维度」处的局部错步是：把「评价介入应区分诊断联盟修辞后果；该判断把对象与条件一并纳入」改写成「名望可以补足基层经验尚未公开的证据缺口；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「评价介入应区分诊断联盟修辞后果；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-22-q4-single-error"
+    },
+    {
+      "id": "sartre-23-q1",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-23-node"
+      ],
+      "prompt": "在本篇对「思想关系的比较单位」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "思想关系须按文本任务逐项比较；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「思想关系须按文本任务逐项比较；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「思想关系的比较单位」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "长期互读使概念先后足以决定思想归属；该判断把对象与条件一并纳入",
+          "feedback": "本题在「思想关系的比较单位」处的局部错步是：把「思想关系须按文本任务逐项比较；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「长期互读使概念先后足以决定思想归属；该判断把对象与条件一并纳入」；对照项保留「思想关系须按文本任务逐项比较；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-23-q1-single-error"
+    },
+    {
+      "id": "sartre-23-q2",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-23-node"
+      ],
+      "prompt": "在本篇对「波伏瓦伦理的独立任务」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "波伏瓦以女性经验扩充萨特既有自由公式；该判断把对象与条件一并纳入",
+          "feedback": "本题在「波伏瓦伦理的独立任务」处的局部错步是：把「波伏瓦把自由置于压迫与相互依赖；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「波伏瓦以女性经验扩充萨特既有自由公式；该判断把对象与条件一并纳入」；对照项保留「波伏瓦把自由置于压迫与相互依赖；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "波伏瓦把自由置于压迫与相互依赖；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「波伏瓦把自由置于压迫与相互依赖；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「波伏瓦伦理的独立任务」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "sartre-23-q2-single-error"
+    },
+    {
+      "id": "sartre-23-q3",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-23-node"
+      ],
+      "prompt": "在本篇对「性别生成论的证据」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "B",
+          "text": "归属纠偏应优先把共同概念交还波伏瓦；该判断把对象与条件一并纳入",
+          "feedback": "本题在「性别生成论的证据」处的局部错步是：把「性别生成论有独立证据和政治任务；该判断把对象与发生条件、关系次序与适用边界一并纳入」改写成「归属纠偏应优先把共同概念交还波伏瓦；该判断把对象与条件一并纳入」；对照项保留「性别生成论有独立证据和政治任务；该判断把对象与发生条件、关系次序与适用边界一并纳入」。",
+          "isCorrect": false
+        },
+        {
+          "id": "A",
+          "text": "性别生成论有独立证据和政治任务；该判断把对象与发生条件、关系次序与适用边界一并纳入",
+          "feedback": "本题的局部根据是「性别生成论有独立证据和政治任务；该判断把对象与发生条件、关系次序与适用边界一并纳入」；它保留了「性别生成论的证据」的限定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-23-q3-single-error"
+    },
+    {
+      "id": "sartre-23-q4",
+      "kind": "singleChoice",
+      "targetNodeIds": [
+        "sartre-23-node"
+      ],
+      "prompt": "在本篇对「私人材料与思想归属」的推进中，哪项保留了关键限定？",
+      "options": [
+        {
+          "id": "A",
+          "text": "私人关系不能替代公开论证归属；该判断把对象与条件一并纳入",
+          "feedback": "本题的局部根据是「私人关系不能替代公开论证归属；该判断把对象与条件一并纳入」；它保留了「私人材料与思想归属」的限定。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "私人书信比公开文本更能裁定概念的作者身份；该判断把对象与条件、次序及适用范围一并纳入",
+          "feedback": "本题在「私人材料与思想归属」处的局部错步是：把「私人关系不能替代公开论证归属；该判断把对象与条件一并纳入」改写成「私人书信比公开文本更能裁定概念的作者身份；该判断把对象与条件、次序及适用范围一并纳入」；对照项保留「私人关系不能替代公开论证归属；该判断把对象与条件一并纳入」。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "sartre-23-q4-single-error"
+    }
+  ]
+}

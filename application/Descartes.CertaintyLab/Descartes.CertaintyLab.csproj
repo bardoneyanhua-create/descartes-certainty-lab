@@ -1,0 +1,111 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Content\certainty-collapse-pack.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\arendt-right-to-rights-pack.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\knowledge-reader-catalog.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\learning-route-registry.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\kant-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\epicurus-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\mill-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\mencius-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\kierkegaard-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\husserl-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\xunzi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\schopenhauer-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\sartre-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\socrates-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\laozi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\mozi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\francis-bacon-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\berkeley-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\heidegger-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\nagarjuna-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\plotinus-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\zhu-xi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\pascal-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\dewey-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\foucault-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\buddha-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\epictetus-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\hanfei-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\descartes-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\arendt-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\hume-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\plato-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\nietzsche-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\aristotle-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\spinoza-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\hegel-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\zhuangzi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\locke-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\rousseau-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\marx-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\confucius-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\aquinas-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\wittgenstein-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\beauvoir-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\augustine-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\leibniz-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\frege-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\avicenna-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\du-bois-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\maimonides-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\wollstonecraft-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\shankara-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\fanon-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\machiavelli-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\peirce-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\rawls-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\al-farabi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\hobbes-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\habermas-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\ramanuja-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\ibn-arabi-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\merleau-ponty-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\dogen-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\gadamer-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\austin-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\deleuze-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\thomas-kuhn-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\levinas-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\wang-yangming-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\averroes-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\heraclitus-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\parmenides-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\bertrand-russell-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\henri-bergson-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\al-ghazali-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\schelling-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\william-james-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\anscombe-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\vasubandhu-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\ibn-khaldun-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\elisabeth-of-bohemia-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\margaret-cavendish-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\cicero-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\sextus-empiricus-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\william-of-ockham-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\quine-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\seneca-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\popper-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\simone-weil-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\nishida-kitaro-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\emilie-du-chatelet-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\judith-butler-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\enrique-dussel-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Content\kwasi-wiredu-learning-route.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4078.44" />
+  </ItemGroup>
+</Project>

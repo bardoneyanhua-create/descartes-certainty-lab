@@ -1,0 +1,4369 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "mill-01-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "从边沁出发，但不止于计算",
+      "explanation": "为什么判断一条法律好坏时，不能只说它古老、神圣或符合习俗？边沁的回答是把争论拉回可受影响者的快乐与痛苦。这个尺度具有批判锋芒：每个人的苦乐都进入账面，身份本身不构成加权理由。但“计算”不是拿出一台能精确读数的机器。它首先要求追问后果落在谁身上、持续多久、制度会形成什么习惯。若把它缩成即时总量，恰好丢掉改革判断最困难的部分。",
+      "identity": "mill-01-argument",
+      "evidenceLinkIds": [
+        "mill-01-s1",
+        "mill-01-s2"
+      ],
+      "abilityIds": [
+        "mill-01-reconstruct",
+        "mill-01-boundary"
+      ]
+    },
+    {
+      "id": "mill-02-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "哪一种快乐值得选择",
+      "explanation": "若两种生活带来的愉快强度和持续时间相近，人是否仍有理由偏好其中一种？密尔说，运用理解、想象和道德感的活动可以在种类上更可欲。这不是把快乐之外的禁欲义务强加进来，而是说快乐属于整种生活经验；主体运用了哪些能力，本身改变满足的性质。",
+      "identity": "mill-02-argument",
+      "evidenceLinkIds": [
+        "mill-02-s1",
+        "mill-02-s2"
+      ],
+      "abilityIds": [
+        "mill-02-reconstruct",
+        "mill-02-boundary"
+      ]
+    },
+    {
+      "id": "mill-03-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "幸福能被“证明”吗",
+      "explanation": "终极目的若还要由更高目的证明，就不再是终极。密尔因此先限制“证明”的含义：这里不是从更高规范前提演绎，而是问实践目的能够得到何种经验证据。",
+      "identity": "mill-03-argument",
+      "evidenceLinkIds": [
+        "mill-03-s1",
+        "mill-03-s2"
+      ],
+      "abilityIds": [
+        "mill-03-reconstruct",
+        "mill-03-boundary"
+      ]
+    },
+    {
+      "id": "mill-04-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "为什么正义像权利而非建议",
+      "explanation": "知道什么使总体幸福增加，不等于已经有行动动力。密尔把道德标准与制裁区分：前者说明何者正确，后者说明义务为何被体验为有约束力。外在制裁包括法律、舆论和宗教期待；内在制裁是违背义务时的良心痛苦。二者都能支持好规则，也能被坏习俗利用。",
+      "identity": "mill-04-argument",
+      "evidenceLinkIds": [
+        "mill-04-s1",
+        "mill-04-s2"
+      ],
+      "abilityIds": [
+        "mill-04-reconstruct",
+        "mill-04-boundary"
+      ]
+    },
+    {
+      "id": "mill-05-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "社会何时可以强迫一个人",
+      "explanation": "密尔问的不是何种生活最明智，而是社会何时可以违背一个人的意志使用强力。对有能力指导生活的成年人，唯一正当目的，是防止对他人的伤害。本人的利益可以支持劝说、警告和回避，却不足以单独支持惩罚。否则多数会把自己的善生活观变成所有人的法律。",
+      "identity": "mill-05-argument",
+      "evidenceLinkIds": [
+        "mill-05-s1",
+        "mill-05-s2"
+      ],
+      "abilityIds": [
+        "mill-05-reconstruct",
+        "mill-05-boundary"
+      ]
+    },
+    {
+      "id": "mill-06-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "错误意见为什么仍应被听见",
+      "explanation": "压制意见者等于替全人类宣布不可错。人数、善意和权威都不能取消错误可能；历史上受尊敬的多数曾迫害后来被承认真诚或正确的声音。",
+      "identity": "mill-06-argument",
+      "evidenceLinkIds": [
+        "mill-06-s1",
+        "mill-06-s2"
+      ],
+      "abilityIds": [
+        "mill-06-reconstruct",
+        "mill-06-boundary"
+      ]
+    },
+    {
+      "id": "mill-07-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "活得不同有什么公共价值",
+      "explanation": "即使社会允许人说不同意见，若每个人仍照习俗生活，自由的价值只实现了一半。判断、计划、欲望调节和责任承担只能在实际选择中发展。替一个人选好所有道路，也许减少若干错误，却让他的能力像不用的肌肉一样萎缩。密尔关心的不只是选项数量，而是主体能否成为自己生活的作者。",
+      "identity": "mill-07-argument",
+      "evidenceLinkIds": [
+        "mill-07-s1",
+        "mill-07-s2"
+      ],
+      "abilityIds": [
+        "mill-07-reconstruct",
+        "mill-07-boundary"
+      ]
+    },
+    {
+      "id": "mill-08-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "公民为何必须参与统治",
+      "explanation": "若好政府只以办事效率衡量，最聪明的专制者似乎可能胜过民主。密尔增加第二标准：制度会提升还是压低公民的智力、道德与实践能力。公共决定的质量和参与者的成长都重要。只看前者会把人民变成被照料对象，只看后者又可能忽略治理失败对弱者的真实伤害。",
+      "identity": "mill-08-argument",
+      "evidenceLinkIds": [
+        "mill-08-s1",
+        "mill-08-s2"
+      ],
+      "abilityIds": [
+        "mill-08-reconstruct",
+        "mill-08-boundary"
+      ]
+    },
+    {
+      "id": "mill-09-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "怎样让多数决定而不让少数消失",
+      "explanation": "民主需要最终作出决定，但单一选区多数制可能让全国接近一半的人在每处都落败，议会中完全无声。密尔称这是假民主的一种结构。",
+      "identity": "mill-09-argument",
+      "evidenceLinkIds": [
+        "mill-09-s1",
+        "mill-09-s2"
+      ],
+      "abilityIds": [
+        "mill-09-reconstruct",
+        "mill-09-boundary"
+      ]
+    },
+    {
+      "id": "mill-10-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "政府应在何种尺度行动",
+      "explanation": "中央可以汇集统计、统一最低标准并聘用专业人员，看起来比许多地方机关更有效。若所有事务都上收，公民却失去处理身边公共问题的实践。尺度判断不能只问谁知道更多，也要问知识如何获得、权力向谁负责以及能力在哪里形成。",
+      "identity": "mill-10-argument",
+      "evidenceLinkIds": [
+        "mill-10-s1",
+        "mill-10-s2"
+      ],
+      "abilityIds": [
+        "mill-10-reconstruct",
+        "mill-10-boundary"
+      ]
+    },
+    {
+      "id": "mill-11-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "“女人的本性”如何被制度制造",
+      "explanation": "当妇女长期受教育、职业、财产和政治限制时，从其表现推断“天然适合服从”是不合格归纳。制度先制造观察结果，再把结果归因于自然。密尔并非断言男女必在一切方面相同，而是说在自由条件缺席时，人们没有足够证据规定差异的范围和社会命运。",
+      "identity": "mill-11-argument",
+      "evidenceLinkIds": [
+        "mill-11-s1",
+        "mill-11-s2"
+      ],
+      "abilityIds": [
+        "mill-11-reconstruct",
+        "mill-11-boundary"
+      ]
+    },
+    {
+      "id": "mill-12-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "家庭能否是自由社会中的小专制",
+      "explanation": "婚姻看似由双方同意，但当法律人格、财产、收入和离婚机会不平等时，一次形式同意会把长期支配合法化。自由契约需要持续的法律地位与可行退出。",
+      "identity": "mill-12-argument",
+      "evidenceLinkIds": [
+        "mill-12-s1",
+        "mill-12-s2"
+      ],
+      "abilityIds": [
+        "mill-12-reconstruct",
+        "mill-12-boundary"
+      ]
+    },
+    {
+      "id": "mill-13-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "财富规律有多少是人造的",
+      "explanation": "经济现象由欲望、技术、习俗和权力共同造成。政治经济学先抽出追求财富等主要动因，推导其他条件相同时的趋势，再回到现实加入反作用。这种抽象不是完整人性画像。若把模型中的动因当成永恒本性，工具会把资本主义行为自然化。",
+      "identity": "mill-13-argument",
+      "evidenceLinkIds": [
+        "mill-13-s1",
+        "mill-13-s2"
+      ],
+      "abilityIds": [
+        "mill-13-reconstruct",
+        "mill-13-boundary"
+      ]
+    },
+    {
+      "id": "mill-14-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "社会进步是否等于无限增长",
+      "explanation": "工业社会容易把更多资本、人口和产出等同进步。密尔问：若增长伴随拥挤、自然损失、极端财富和无休竞争，人究竟获得了什么？功利主义在这里反过来审查经济量。产出只是手段，评价要回到生活质量、闲暇、平等和能力。",
+      "identity": "mill-14-argument",
+      "evidenceLinkIds": [
+        "mill-14-s1",
+        "mill-14-s2"
+      ],
+      "abilityIds": [
+        "mill-14-reconstruct",
+        "mill-14-boundary"
+      ]
+    },
+    {
+      "id": "mill-15-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "劳动者能否共同治理生产",
+      "explanation": "工资劳动不只是收入交换。资本所有者决定生产方向，劳动者服从管理并与成果分离，长期会塑造依赖性格。",
+      "identity": "mill-15-argument",
+      "evidenceLinkIds": [
+        "mill-15-s1",
+        "mill-15-s2"
+      ],
+      "abilityIds": [
+        "mill-15-reconstruct",
+        "mill-15-boundary"
+      ]
+    },
+    {
+      "id": "mill-16-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "经验如何找到原因",
+      "explanation": "经验科学不能只记录已经发生的事，还要把有限观察用于新情形。密尔认为推理的实质根据最终来自具体经验及自然存在可重复结构的假定。三段论整理和传递已有概括，却不能凭定义创造世界事实。大前提本身需要经验支持。",
+      "identity": "mill-16-argument",
+      "evidenceLinkIds": [
+        "mill-16-s1",
+        "mill-16-s2"
+      ],
+      "abilityIds": [
+        "mill-16-reconstruct",
+        "mill-16-boundary"
+      ]
+    },
+    {
+      "id": "mill-17-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "人与社会能成为科学对象吗",
+      "explanation": "人的行动受欲望、信念、习惯和处境影响，不等于每次行为都可精确预测。密尔说的是条件性心理倾向，而非把人变成无反思物体。知道某种压力通常怎样作用，还要知道其他动机和制度条件。规律与实践改变可以相容，因为新知识本身会成为新原因。",
+      "identity": "mill-17-argument",
+      "evidenceLinkIds": [
+        "mill-17-s1",
+        "mill-17-s2"
+      ],
+      "abilityIds": [
+        "mill-17-reconstruct",
+        "mill-17-boundary"
+      ]
+    },
+    {
+      "id": "mill-18-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "自然与宗教能提供什么道德根据",
+      "explanation": "若自然指一切发生之事，人不可能不顺应；若指未经人干预之事，医疗、教育和正义改革都在改变自然。仅说“自然”不能提供行动方向。",
+      "identity": "mill-18-argument",
+      "evidenceLinkIds": [
+        "mill-18-s1",
+        "mill-18-s2"
+      ],
+      "abilityIds": [
+        "mill-18-reconstruct",
+        "mill-18-boundary"
+      ]
+    },
+    {
+      "id": "mill-19-node",
+      "kind": "argumentStep",
+      "status": "teachingReady",
+      "readerTitle": "自由原则为何止步于帝国边界",
+      "explanation": "密尔为成熟成年人规定强力限界，却把其称为尚未文明的社会排除，允许以进步为目的的专制。自由由普遍推定变成由统治者审核的资格。问题不因“阶段可变而非生物固定”消失。可变等级仍让一方规定他者何时成熟，并正当化当下支配。",
+      "identity": "mill-19-argument",
+      "evidenceLinkIds": [
+        "mill-19-s1",
+        "mill-19-s2",
+        "mill-19-s3",
+        "mill-19-s4",
+        "mill-19-s5",
+        "mill-19-s6"
+      ],
+      "abilityIds": [
+        "mill-19-reconstruct",
+        "mill-19-boundary"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "mill-01-s1",
+      "workId": "Utilitarianism",
+      "edition": "Project Gutenberg 1879 reprint",
+      "locator": "Chapter II",
+      "locatorVerified": true,
+      "identity": "M/B"
+    },
+    {
+      "id": "mill-01-s2",
+      "workId": "Bentham",
+      "edition": "Collected Works / essay locator",
+      "locator": "essay Bentham",
+      "locatorVerified": true,
+      "identity": "M/B"
+    },
+    {
+      "id": "mill-02-s1",
+      "workId": "Utilitarianism",
+      "edition": "Project Gutenberg 1879 reprint",
+      "locator": "Chapter II, competent judges",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-02-s2",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter III, individuality",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-03-s1",
+      "workId": "Utilitarianism",
+      "edition": "Project Gutenberg 1879 reprint",
+      "locator": "Chapter IV",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-03-s2",
+      "workId": "A System of Logic",
+      "edition": "Project Gutenberg Works index",
+      "locator": "Book VI / proof boundary context",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-04-s1",
+      "workId": "Utilitarianism",
+      "edition": "Project Gutenberg 1879 reprint",
+      "locator": "Chapters III and V",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-04-s2",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter I, utility foundation",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-05-s1",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter I and Chapters IV-V",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-05-s2",
+      "workId": "Considerations on Representative Government",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter XVIII, dependencies",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-06-s1",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter II, liberty of thought and discussion",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-06-s2",
+      "workId": "A System of Logic",
+      "edition": "Project Gutenberg Works index",
+      "locator": "Book III, fallibility and induction context",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-07-s1",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters III-IV",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-07-s2",
+      "workId": "Autobiography",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters VI-VII, collaboration statements",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-08-s1",
+      "workId": "Considerations on Representative Government",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters II-III",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-08-s2",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter III",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-09-s1",
+      "workId": "Considerations on Representative Government",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters VII-VIII",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-09-s2",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter I, tyranny of majority",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-10-s1",
+      "workId": "Considerations on Representative Government",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter XV, local representative bodies",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-10-s2",
+      "workId": "Principles of Political Economy",
+      "edition": "Project Gutenberg edition",
+      "locator": "Book V, functions of government",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-11-s1",
+      "workId": "The Subjection of Women",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter I",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-11-s2",
+      "workId": "The Enfranchisement of Women",
+      "edition": "Harriet Taylor Mill text",
+      "locator": "full essay",
+      "locatorVerified": true,
+      "identity": "MT"
+    },
+    {
+      "id": "mill-12-s1",
+      "workId": "The Subjection of Women",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters II-IV",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-12-s2",
+      "workId": "The Enfranchisement of Women",
+      "edition": "Harriet Taylor Mill text",
+      "locator": "political and social equality",
+      "locatorVerified": true,
+      "identity": "MT"
+    },
+    {
+      "id": "mill-13-s1",
+      "workId": "Essays on Some Unsettled Questions of Political Economy",
+      "edition": "Project Gutenberg edition",
+      "locator": "Essay V, definition and method",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-13-s2",
+      "workId": "Principles of Political Economy",
+      "edition": "Project Gutenberg edition",
+      "locator": "Book II, Chapter I",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-14-s1",
+      "workId": "Principles of Political Economy",
+      "edition": "Project Gutenberg edition",
+      "locator": "Book IV, Chapter VI, stationary state",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-14-s2",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter III, human development",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-15-s1",
+      "workId": "Principles of Political Economy",
+      "edition": "Project Gutenberg edition",
+      "locator": "Book IV, Chapter VII",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-15-s2",
+      "workId": "Socialism",
+      "edition": "Project Gutenberg edition",
+      "locator": "chapters on socialist objections",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-16-s1",
+      "workId": "A System of Logic",
+      "edition": "Project Gutenberg eBook 27942, eighth edition",
+      "locator": "Books II-III, induction and causation",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-16-s2",
+      "workId": "A System of Logic",
+      "edition": "Project Gutenberg eBook 27942, eighth edition",
+      "locator": "Book III, Chapter VIII, Of the Four Methods of Experimental Inquiry; Chapters IX-X for examples and plurality of causes",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-17-s1",
+      "workId": "A System of Logic, Vol. II",
+      "edition": "Project Gutenberg edition",
+      "locator": "Book VI, Chapters IX-X",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-17-s2",
+      "workId": "Auguste Comte and Positivism",
+      "edition": "Project Gutenberg edition",
+      "locator": "social science and progress discussion",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-18-s1",
+      "workId": "Three Essays on Religion",
+      "edition": "Collected Works / primary text",
+      "locator": "Nature and Utility of Religion",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-18-s2",
+      "workId": "Three Essays on Religion",
+      "edition": "Collected Works / primary text",
+      "locator": "Theism",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-19-s1",
+      "workId": "On Liberty",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapter I, civilized exception",
+      "locatorVerified": true,
+      "identity": "M/MT"
+    },
+    {
+      "id": "mill-19-s2",
+      "workId": "Considerations on Representative Government",
+      "edition": "Project Gutenberg edition",
+      "locator": "Chapters XVI and XVIII",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-19-s3",
+      "workId": "A Few Words on Non-Intervention",
+      "edition": "Collected Works, Vol. XXI / primary text",
+      "locator": "essay: A Few Words on Non-Intervention",
+      "locatorVerified": true,
+      "identity": "M"
+    },
+    {
+      "id": "mill-19-s4",
+      "workId": "The East India Company’s Charter",
+      "edition": "Collected Works, Vol. XXX / primary text",
+      "locator": "document title: The East India Company’s Charter (1852)",
+      "locatorVerified": true,
+      "identity": "M/EIC"
+    },
+    {
+      "id": "mill-19-s5",
+      "workId": "The Petition of the East-India Company",
+      "edition": "Collected Works, Vol. XXX / primary text",
+      "locator": "document title: The Petition of the East-India Company (1858)",
+      "locatorVerified": true,
+      "identity": "M/EIC"
+    },
+    {
+      "id": "mill-19-s6",
+      "workId": "Memorandum of the Improvements in the Administration of India During the Last Thirty Years",
+      "edition": "Collected Works, Vol. XXX / primary text",
+      "locator": "document title: Memorandum of the Improvements in the Administration of India During the Last Thirty Years (1858)",
+      "locatorVerified": true,
+      "identity": "M/EIC"
+    }
+  ],
+  "routes": [
+    {
+      "id": "john-stuart-mill-longform",
+      "version": "1.0",
+      "title": "自由、幸福与被排除的声音",
+      "lessonIds": [
+        "mill-01",
+        "mill-02",
+        "mill-03",
+        "mill-04",
+        "mill-05",
+        "mill-06",
+        "mill-07",
+        "mill-08",
+        "mill-09",
+        "mill-10",
+        "mill-11",
+        "mill-12",
+        "mill-13",
+        "mill-14",
+        "mill-15",
+        "mill-16",
+        "mill-17",
+        "mill-18",
+        "mill-19"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "mill-01",
+      "order": 1,
+      "title": "从边沁出发，但不止于计算",
+      "depth": "longform",
+      "guidingQuestion": "为什么判断一条法律好坏时，不能只说它古老、神圣或符合习俗？边沁的回答是把争论拉回可受影响者的快乐与痛苦。这个尺度具有批判锋芒：每个人的苦乐都进入账面，身份本身不构成加权理由。",
+      "coreExplanation": "paragraph-ref:mill-01-p03",
+      "sections": [
+        {
+          "heading": "改革需要共同尺度",
+          "paragraphs": [
+            "为什么判断一条法律好坏时，不能只说它古老、神圣或符合习俗？边沁的回答是把争论拉回可受影响者的快乐与痛苦。这个尺度具有批判锋芒：每个人的苦乐都进入账面，身份本身不构成加权理由。但“计算”不是拿出一台能精确读数的机器。它首先要求追问后果落在谁身上、持续多久、制度会形成什么习惯。若把它缩成即时总量，恰好丢掉改革判断最困难的部分。",
+            "共同尺度的第一步不是把不同人的快乐化为一个现成数字，而是取消身份特权：法律造成的痛苦不能因为落在工人、妇女或无选举权者身上就少算。第二步才是比较影响；而比较必须经过持续时间、可逆性、习惯形成和权力后果。若省略第一步，计算会继承旧等级；若省略第二步，平等考虑只剩口号。"
+          ],
+          "identity": "mill-01-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "密尔保留了什么",
+          "paragraphs": [
+            "密尔没有放弃幸福作为最终标准。他仍认为行动、规则和制度必须凭其对人类幸福的影响接受检验，也拒绝让直觉或传统免于说明后果。",
+            "他改变的是幸福的厚度以及通往它的中介。性格、感情、想象、自由与稳定规则不只是计算外的装饰，而是人能否拥有较好生活的条件。"
+          ],
+          "identity": "mill-01-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "为什么不能逐案相加",
+          "paragraphs": [
+            "若每次行动都从零估算一切后果，判断者既无信息也无时间，还会为眼前利益合理化例外。长期经验沉淀出的规则、权利期待和品格因而具有独立的实践位置。",
+            "这些中介仍受幸福标准约束，却不能随一次便利轻易撤销。密尔的功利主义由此不是“看见更大数字便立即越权”，而是考察维持何种社会实践才让人普遍安全而有发展。",
+            "《功利主义》把既有道德规则称作人类长期经验的结晶。这并不等于规则功利主义的完整教科书版本，却给出明确的两层关系：日常判断依靠次级原则，原则冲突或制度重建时才回到幸福标准。这样既避免逐案任意，也保留批判恶劣传统的入口。"
+          ],
+          "identity": "mill-01-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "边沁批评的限度",
+          "paragraphs": [
+            "在《边沁》中，密尔赞赏边沁拆解制度迷信的能力，同时批评他对人性材料理解过窄。一个人不仅追逐外在利益，也会忠诚、敬爱、羞耻、形成自我理想。",
+            "这项批评并不证明边沁只承认粗俗享乐，也不等于两人彻底决裂。准确的说法是：密尔在同一改革传统内，要求价值心理学容纳更复杂的能力与情感。"
+          ],
+          "identity": "mill-01-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个制度案例",
+          "paragraphs": [
+            "设想工厂延长工时可在一年内提高总产出。若只记商品数量，方案似乎有利；若计入健康、家庭关系、参与公共事务的能力和长期依赖，它的后果结构便改变。",
+            "案例的作用不是预先宣布缩短工时必胜，而是显示“结果”包含主体会成为什么样的人，以及制度将怎样分配谈判权。",
+            "把工时再改一个条件：若增产收益全部用于安全设备，短期延时也由工人可撤回地同意，判断会比强制加班缓和；若退出会失去住房和医疗，形式同意便不能消除依赖。案例由此检验的不是“工时长短”这个标签，而是后果、控制权和退出条件怎样共同改变幸福。"
+          ],
+          "identity": "mill-01-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "留下的张力",
+          "paragraphs": [
+            "价值内容越丰富，比较就越难。自由、尊严和品格若都由幸福解释，何以显得不可随意交换？若它们有独立价值，功利主义的单一标准是否已被改写？",
+            "后面的讨论不会用标签消除这项张力。它将检验密尔能否从幸福内部说明质的差异、权利的稳定性与个性的公共价值。",
+            "最尖锐的异议不是说密尔完全忘了后果，而是说他用幸福这个名称包住自由、尊严、品格和安全之后，已经无法说明冲突时怎样排序。异议若成立，单一终极标准就只有名义统一，不能承担裁决工作。",
+            "可以接受这里没有精确换算表，同时保住较弱主张：所有制度都须说明其对可受影响者生活的影响，传统身份不能免检，稳定规则也不能被一次便利击穿。需要收缩的是“幸福足以机械决定每个案件”。下一步必须考察快乐本身是否有质的差别，否则厚幸福仍只是未展开的清单。"
+          ],
+          "identity": "mill-01-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "同一改革传统内部的分岔",
+          "paragraphs": [
+            "《边沁》中的声音是密尔对一位改革前辈的评价，不是边沁替自己作的供词。密尔承认边沁能追问制度究竟给谁造成利益与痛苦，又认为他的心理图景不足以理解诗、忠诚、自我文化和历史性格。两种判断必须同时保留，才能看见继承与修正为何发生。",
+            "因此“密尔的功利主义”不是从边沁体系外突然加入若干高贵词语，而是由改革实践逼出的扩展：若制度会塑造判断能力和愿望，后果就包含人的形成。这个扩展也留下债务——形成后的偏好凭什么比未经培养的偏好更好。"
+          ],
+          "identity": "mill-01-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "尚不能换算的价值",
+          "paragraphs": [
+            "引入自由和尊严等厚价值，可能表明密尔已经偷渡了独立于幸福的标准。",
+            "可把这些价值理解为幸福的构成与可靠条件，但文本没有提供把一切价值换算为单一数值的程序。"
+          ],
+          "identity": "mill-01-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "延长工时的制度案例迫使判断者把能力、关系和长期权力写进后果，而非只看当期产量。",
+      "nodeIds": [
+        "mill-01-node"
+      ],
+      "checkIds": [
+        "mill-01-q1",
+        "mill-01-q2",
+        "mill-01-q3",
+        "mill-01-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《从边沁出发，但不止于计算》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-02",
+      "order": 2,
+      "title": "哪一种快乐值得选择",
+      "depth": "longform",
+      "guidingQuestion": "若两种生活带来的愉快强度和持续时间相近，人是否仍有理由偏好其中一种？密尔说，运用理解、想象和道德感的活动可以在种类上更可欲。",
+      "coreExplanation": "paragraph-ref:mill-02-p03",
+      "sections": [
+        {
+          "heading": "同量快乐仍有差别",
+          "paragraphs": [
+            "若两种生活带来的愉快强度和持续时间相近，人是否仍有理由偏好其中一种？密尔说，运用理解、想象和道德感的活动可以在种类上更可欲。这不是把快乐之外的禁欲义务强加进来，而是说快乐属于整种生活经验；主体运用了哪些能力，本身改变满足的性质。",
+            "问题压力来自两项不能原样并存的承诺：功利主义要以快乐为尺度，又不能把阅读悲剧、承担友谊责任和即时感官刺激看成只差数量。密尔先改变比较单位，从孤立感受移到运用不同能力的生活活动；只有这样，“更高”才不是偷偷引入与快乐无关的戒律。"
+          ],
+          "identity": "mill-02-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "有经验的判断者",
+          "paragraphs": [
+            "比较资格来自对两类快乐都有切身经验。若这样的人在不受道德强迫时稳定偏好一类，即使它带来更多不满，这种选择构成质量判断的证据。判断者不是社会头衔或学历名单。关键是双边经验与实际选择，否则“精英喜欢什么”会冒充“什么在质上更好”。",
+            "原典的判断程序包含三个相连条件：比较者实际熟悉双方；偏好不是由道德义务感强迫出来；选择在充分经验中保持稳定。第一项排除无知，第二项避免把应当冒充喜欢，第三项排除偶然心境。结论仍只是有分量的经验裁决，不是不可推翻的专家命令。"
+          ],
+          "identity": "mill-02-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "循环为什么尖锐",
+          "paragraphs": [
+            "谁算有资格，似乎要看他是否偏好较高快乐；而何者较高，又由有资格者的偏好决定。教育也可能制造身份偏见，让人因羞耻而否认另一种享受。",
+            "密尔可以要求充分经验、稳定选择和排除义务压力来减弱循环，却没有给出完全独立的资格测试。这个缺口必须保留。",
+            "循环异议打击的正是资格来源。若“合格者”只是那些已经选出所谓高级快乐的人，程序没有独立证据；若资格由教育头衔确定，社会阶级又会藏进价值排序。异议成立会使质量区分退化为受教育者品味的自我认证。"
+          ],
+          "identity": "mill-02-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力与尊严",
+          "paragraphs": [
+            "人一旦发展出较高能力，往往不愿永久降到只求舒适的生活。尊严感使他把“以何种能力活着”纳入自己的幸福，而不仅统计愉快时刻。",
+            "所谓宁做不满足的苏格拉底，不是在给职业排等级；它比较的是能否思考、自定计划并理解自己生活的整体形态。"
+          ],
+          "identity": "mill-02-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "适应性偏好的挑战",
+          "paragraphs": [
+            "长期被剥夺机会的人可能不再欲求从未体验的活动。若只问当前偏好，受压抑的能力会从评价中消失；若由外部人替他判断，又可能走向家长主义。",
+            "密尔的经验判断提供了一条线索，却没有完成现代偏好校正理论。后世能力进路只能作为扩展，不能倒写为密尔原话。",
+            "设想两人都长期接触音乐创作和轻松娱乐，一人经自由尝试后选择后者，另一人因疲惫暂时放弃创作。双边经验相同，选择的形成条件却不同；判断不能只数最后一票，还要问能力是否可持续、机会是否真实、选择是否由可逆实验形成。"
+          ],
+          "identity": "mill-02-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "价值多元的压力",
+          "paragraphs": [
+            "质量差异让功利主义免于“推猪哲学”的指控，却也让幸福不再容易聚合。不同能力、关系和生活计划之间可能没有共同刻度。",
+            "可以说较高活动构成幸福，而非幸福之外的价值；但这只是概念位置的说明，不是无争议的比较算法。",
+            "密尔能够保住的是“满足的性质与能力运用有关”以及“双边经验优于外部臆断”。他应收缩的是由判断者偏好推出普遍无条件等级的力度。尚未清偿的债务是：若尊严和能力进入幸福，如何避免家长主义替别人规定生活；下一篇关于最终目的的证据必须承受这一压力。"
+          ],
+          "identity": "mill-02-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "资格判断留下的缺口",
+          "paragraphs": [
+            "有资格判断者可能由其结论来界定，形成循环，并把受教育群体的品味普遍化。",
+            "双边经验和稳定选择能减弱偏差，却不能提供完全独立的资格标准；现代能力论须标为扩展。"
+          ],
+          "identity": "mill-02-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "让一个人以永久放弃思考和自我决定换取稳定舒适，显示比较对象是完整生活形态。",
+      "nodeIds": [
+        "mill-02-node"
+      ],
+      "checkIds": [
+        "mill-02-q1",
+        "mill-02-q2",
+        "mill-02-q3",
+        "mill-02-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《哪一种快乐值得选择》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-03",
+      "order": 3,
+      "title": "幸福能被“证明”吗",
+      "depth": "longform",
+      "guidingQuestion": "终极目的若还要由更高目的证明，就不再是终极。密尔因此先限制“证明”的含义：这里不是从更高规范前提演绎，而是问实践目的能够得到何种经验证据。",
+      "coreExplanation": "paragraph-ref:mill-03-p03",
+      "sections": [
+        {
+          "heading": "终极目的的困难",
+          "paragraphs": [
+            "终极目的若还要由更高目的证明，就不再是终极。密尔因此先限制“证明”的含义：这里不是从更高规范前提演绎，而是问实践目的能够得到何种经验证据。",
+            "这个退让很重要。若把后文写成数学证明，所有跳跃都会被遮住；若说完全无论证，又看不见密尔在解释欲望与目的的关系。",
+            "这里至少有两个不可合并的任务。第一项是说明幸福确实在人类欲望中占有终极位置；第二项是说明共同幸福为何具有规范权威。前一项即便成功，也不会自动完成后一项。把它们写成一句“人人欲求幸福，所以总体幸福值得追求”，恰好遮掉论证最有争议的跨越。"
+          ],
+          "identity": "mill-03-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "从欲求到可欲",
+          "paragraphs": [
+            "密尔类比说，可见之物的证据是人实际看见它，可欲之物的证据是人实际欲求它。第一处压力随即出现：被欲求是心理事实，值得欲求是规范判断。",
+            "较宽厚的读法把“可欲”理解为终极目的所能诉诸的证据，而非把任何冲动自动认证为善；即便如此，事实与规范之间仍未完全搭桥。",
+            "“可见之物的证据是被看见”这一类比在原文中承担证据标准的限定：终极目的不能再从更高目的演绎，只能诉诸实际欲求。但视觉能力定义了可见，欲望却未必定义可欲；上瘾、操纵和残酷愿望都说明心理发生与规范认可不是同一关系。"
+          ],
+          "identity": "mill-03-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "从个人到总体",
+          "paragraphs": [
+            "每个人的幸福对那个人是善，密尔继而说所有人的幸福是总体的善。第二处压力是聚合：各自追求自己的幸福，并不自动推出任何人应公平促进总和。",
+            "要补上普遍观点、平等考虑与社会情感，论证才向总体移动。这些资源散见制裁和正义论，不能假装第四章一句话已经完成。",
+            "再把聚合问题具体化：甲追求甲的幸福、乙追求乙的幸福，只能得到两个关于各自目的的事实。要得出甲也应计入乙的幸福，必须加入不偏私的立场、同等考虑或社会感情。密尔在别处提供这些资源，却不能说它们已由“总和”一词逻辑地产生。"
+          ],
+          "identity": "mill-03-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "从一个目的到唯一目的",
+          "paragraphs": [
+            "即使幸福确实被欲求，也只证明它是目的之一。第三处压力是排他性：知识、自由、德性会不会作为独立目的被欲求？",
+            "密尔的回答不是否认这些欲望，而是说原为手段的对象可以经联结成为幸福的组成部分。这引出第四处压力：称为“部分”是否只是重新命名价值多元。"
+          ],
+          "identity": "mill-03-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "金钱和德性的例子",
+          "paragraphs": [
+            "金钱起初为了购买别物，后来可能自身成为欲望对象。德性也可从促进幸福的手段，变成没有它便不幸福的组成。",
+            "例子能说明欲望结构会改变，却不能证明所有成熟欲望都正当，更不能单独证明总体幸福具有优先权。",
+            "金钱例子的条件变化能显示它的限度。若一个人把金钱当作生活组成，说明手段会通过联结变成目的；若他因此伤害别人或毁掉所有关系，事实上的强烈欲望并没有获得正当性。例子解释欲望结构怎样生成，不能独自筛选哪些结构值得维持。"
+          ],
+          "identity": "mill-03-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "证明的合理边界",
+          "paragraphs": [
+            "最稳妥的结论是：密尔提供终极目的的经验辩护和心理形成说明，而非无前提的演绎证明。自然主义、合成与排他性异议都保留。",
+            "这不意味着文本毫无价值。它迫使任何终极标准说明自己依赖何种人类经验，也迫使功利主义承认规范中介不可省略。",
+            "回应可以接受自然主义异议指出的缺口，并把“证明”收缩为经验辩护：幸福是广泛而可整合诸多目的的终极对象，反对者也须说明其标准如何连接人类动机。保住的是辩护负担，不是严格推导。剩余债务随即转向正义：若总体幸福可能要求牺牲少数，何种中介使安全与权利获得特殊强度。"
+          ],
+          "identity": "mill-03-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "四处跨越不能互相代付",
+          "paragraphs": [
+            "事实到规范、个人到总体、一个目的到唯一目的、手段到组成部分，是四张不同的欠条。用“幸福”一词贯穿它们不等于逐张偿还；尤其不能拿德性成为幸福部分的心理解释，代替公平考虑为何约束行动者的政治道德理由。",
+            "这种拆分不是宣布论证毫无价值。它精确说明哪些结论来自密尔原文，哪些较强修补需要后世解释。若不守住边界，后面的权利论会被误写成已经由第四章无缝推出。"
+          ],
+          "identity": "mill-03-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "不能由名称完成的统一",
+          "paragraphs": [
+            "把知识、德性和自由称作幸福的“部分”，可以说明人为何不必在每次选择中把它们只当工具；但若两个部分冲突，名称本身不告诉我们应牺牲哪一个。组成关系解释心理整合，排序仍需要独立论证。"
+          ],
+          "identity": "mill-03-s08",
+          "kind": "argument"
+        },
+        {
+          "heading": "经验辩护的限度",
+          "paragraphs": [
+            "论证被批评在事实到规范、个人到总体、一个目的到唯一目的以及“组成部分”重命名四处跳跃。",
+            "可将其理解为经验辩护而非严格演绎；这样降低过度声称，却不能消除规范和聚合缺口。"
+          ],
+          "identity": "mill-03-s09",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "金钱由手段变成欲望对象，说明德性可进入幸福，却没有证明每种实际欲望都值得满足。",
+      "nodeIds": [
+        "mill-03-node"
+      ],
+      "checkIds": [
+        "mill-03-q1",
+        "mill-03-q2",
+        "mill-03-q3",
+        "mill-03-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《幸福能被“证明”吗》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-04",
+      "order": 4,
+      "title": "为什么正义像权利而非建议",
+      "depth": "longform",
+      "guidingQuestion": "知道什么使总体幸福增加，不等于已经有行动动力。密尔把道德标准与制裁区分：前者说明何者正确，后者说明义务为何被体验为有约束力。",
+      "coreExplanation": "paragraph-ref:mill-04-p03",
+      "sections": [
+        {
+          "heading": "标准与动机不是一件事",
+          "paragraphs": [
+            "知道什么使总体幸福增加，不等于已经有行动动力。密尔把道德标准与制裁区分：前者说明何者正确，后者说明义务为何被体验为有约束力。外在制裁包括法律、舆论和宗教期待；内在制裁是违背义务时的良心痛苦。二者都能支持好规则，也能被坏习俗利用。",
+            "上一处缺口使正义问题变得尖锐：即使幸福是最终尺度，行动者为何体验到某些要求像可强制的权利，而不是一般慈善建议？密尔不能只重复“正义也有好后果”，还须解释义务感的强度和权利语言指向谁。"
+          ],
+          "identity": "mill-04-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "社会情感如何工作",
+          "paragraphs": [
+            "人与同类合一的愿望可经共同生活和教育增强，使个人难以把自己想成永远例外。功利道德因而不只靠奖惩，也试图培养对所有人利益的关切。",
+            "但“可培养”不等于“培养方向正确”。同一机制也能制造性别服从或帝国优越感，所以动机仍需接受平等与伤害标准检验。",
+            "《功利主义》第三章讨论外在与内在制裁。惩罚、赞许和宗教期待属于外在压力；良心的不适以及与同类结合的情感属于内在制裁。它们解释人为何能被道德推动，却不直接决定什么是正确。若把动机来源当作标准来源，任何被强烈社会化的偏见都可能冒充正义。"
+          ],
+          "identity": "mill-04-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "正义的特殊语法",
+          "paragraphs": [
+            "没有额外行善与侵犯明确债权都可能降低幸福，后者却带有可指认者的权利和应受制裁的感觉。密尔用权利对象加制裁情感解释正义为何比一般善行更严格。",
+            "报复冲动本身不是正义。它要经对共同利益的同情而普遍化，才从私人怨恨转为保护任何人都需要的安全。",
+            "密尔分析正义观念时把两项材料合在一起：某人遭受了可归责的伤害，以及受害者具有可要求社会保护的权利。单有愤怒不够，因为报复感可能偏私；单有一般效用也不够，因为权利语法标出了确定的义务承担者。"
+          ],
+          "identity": "mill-04-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "安全为何居首",
+          "paragraphs": [
+            "若人不能确信身体、财产、承诺和基本行动范围受到稳定保护，其他计划都难以展开。安全利益普遍、长期且不可缺少，因此保护权利具有极高功利。",
+            "这让权利不是逐案数字游戏里的轻量筹码。破坏无辜者的权利会损害制度信赖和每个人对未来的安排能力。",
+            "欠薪案例能显示条件变化。雇主因灾难性停业暂时延付，仍负说明和补偿义务；若他有能力却选择把工资挪作投机，侵害更直接；若合同条款本身由胁迫形成，照合同付款也未必穷尽正义。安全期待不是对纸面规则的盲从，而是对可依赖合作条件的保护。"
+          ],
+          "identity": "mill-04-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "极端例外的难题",
+          "paragraphs": [
+            "功利根据毕竟不是绝对自然权利。若理论允许在极端灾难中越权，权利保障是否只是通常有效？若完全禁止权衡，又似乎离开最终幸福标准。",
+            "密尔没有给出消灭这一难题的公式。可以强调规则、信赖与安全的高权重，却应承认绝对性争议仍在。",
+            "异议会攻击功利中介的稳定性：若极端总效用最终能够推翻权利，权利是否只是一张随时可撤的优惠券？异议成立，正义的特殊强度就没有得到解释，少数人的安全仍暴露在多数计算之下。"
+          ],
+          "identity": "mill-04-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "自由的桥梁",
+          "paragraphs": [
+            "后面出现的自由原则不会凭空降临。它以安全、发展和免受多数任意强制的长期利益为桥，同时采用比逐案计算更强的规则形态。",
+            "理解这座桥，才能看见密尔既不是把权利当随手可牺牲的偏好，也没有把它们宣布为与幸福无关的先验事实。",
+            "回应应区分接受、保住和收缩。接受极端冲突无法被一句“权利绝对”消除；保住日常与制度层面稳定安全具有压倒性的长期效用，不能由局部收益轻易覆盖；收缩为权利具有极强推定而非形而上不可破。它把问题推向强制边界：社会何时能以保护他人为名越过个人选择。"
+          ],
+          "identity": "mill-04-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "权利为何仍是强推定",
+          "paragraphs": [
+            "若总体收益足够大仍可牺牲无辜者，功利主义似乎不能给予权利真正保障。",
+            "安全、信赖和普遍规则使越权代价极高，但理论是否允许极端例外仍是开放争议。"
+          ],
+          "identity": "mill-04-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "明确债务与额外慈善的对照显示，正义包含可指认权利与可执行义务，而不只是“更多善”。",
+      "nodeIds": [
+        "mill-04-node"
+      ],
+      "checkIds": [
+        "mill-04-q1",
+        "mill-04-q2",
+        "mill-04-q3",
+        "mill-04-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《为什么正义像权利而非建议》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-05",
+      "order": 5,
+      "title": "社会何时可以强迫一个人",
+      "depth": "longform",
+      "guidingQuestion": "密尔问的不是何种生活最明智，而是社会何时可以违背一个人的意志使用强力。对有能力指导生活的成年人，唯一正当目的，是防止对他人的伤害。",
+      "coreExplanation": "paragraph-ref:mill-05-p03",
+      "sections": [
+        {
+          "heading": "强制需要特殊理由",
+          "paragraphs": [
+            "密尔问的不是何种生活最明智，而是社会何时可以违背一个人的意志使用强力。对有能力指导生活的成年人，唯一正当目的，是防止对他人的伤害。本人的利益可以支持劝说、警告和回避，却不足以单独支持惩罚。否则多数会把自己的善生活观变成所有人的法律。",
+            "自由原则面对两项承诺：成年人应能承担自己的错误，社会又必须防止一个人的行动把风险强加给别人。若把任何不良后果都叫伤害，第一项会被吞没；若只认已经发生的身体损害，第二项又无法处理欺诈、失职和可预见危险。"
+          ],
+          "identity": "mill-05-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "伤害不是不喜欢",
+          "paragraphs": [
+            "冒犯、厌恶、竞争落败或看见别人犯错，不自动构成伤害。干预需指向可识别利益、权利、明确义务或足够具体的风险。伤害概念若宽到包含任何不快，原则便失去限权作用；若窄到只认即时身体损伤，又看不见欺诈、依赖与累积风险。",
+            "“伤害”因此不是不快、冒犯或道德反感的同义词。它指向可识别的他人利益、承担的义务或被剥夺的控制权。命名这个边界的必要性来自强制本身也会造成恶：它压缩实验、固化多数偏见，并让掌权者把自己的善生活当作公共安全。"
+          ],
+          "identity": "mill-05-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "桥上的人",
+          "paragraphs": [
+            "有人正走向一座已损坏而他不知情的桥。短暂拦住他可以查明意愿是否知情，并不等于替他决定风险；一旦他理解情况且只由自己承担后果，继续阻止需要新理由。",
+            "案例区分确保选择条件与家长式替代选择。它也显示信息、能力和第三方后果会改变干预性质。",
+            "桥上案例的推理有时间结构。看见一个不知桥已断的人，先警告是在补足信息；来不及说明时短暂拉住他，是为了让选择重新成为知情选择；危险过去后继续拘束，就从保存能动性变成替他决定。相同动作的正当性随信息和时限改变。"
+          ],
+          "identity": "mill-05-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "自涉与涉他并非两只盒子",
+          "paragraphs": [
+            "饮酒本身可能主要自涉；负有值勤职责者醉酒，则因角色义务进入涉他范围。一个选择对家人有情感影响，不等于家庭可以全面接管；但确定的照护义务也不能以自由之名消失。",
+            "划界必须分析因果、角色、同意和可预见风险，不能只给行为贴标签。社会关联普遍存在，却不能因此让社会获得无限管辖。",
+            "再看酒后行为：私人饮酒本身主要是自涉的；承担列车调度或照护任务后，同一饮酒行为进入既有义务网络，风险落到特定他人。这里不是把人分进“自涉盒”或“涉他盒”，而是追踪角色、概率、损害大小和退出安排怎样改变关系。"
+          ],
+          "identity": "mill-05-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力条件",
+          "paragraphs": [
+            "儿童尚未形成稳定判断能力，教育与保护可有不同根据。密尔却把类似逻辑扩展到其称为未文明的社会，容许以进步为名的专制。",
+            "把整个成人政治共同体类比儿童，会让统治者垄断成熟标准，并制造“因无自治经验所以不配自治”的循环。"
+          ],
+          "identity": "mill-05-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "原则的地位",
+          "paragraphs": [
+            "伤害原则可读作广义功利下对强制的强推定，而非每次从零计算的建议。它保护个性和社会学习，也受明确义务与他人权利约束。",
+            "能力例外和文明例外说明文本内部并不平整。帝国问题必须在末尾重新打开，而不能在这里用一句背景说明封住。",
+            "具体异议是慢性、累积和结构性风险难以指认单一受害者。若原则只能处理一拳一伤，它会漏掉污染、传染、金融欺诈和家庭依赖。回应可把可预见风险与公共条件纳入他人利益，却必须收缩：不能仅凭政府宣称“为你好”或多数人厌恶就成立。剩余债务是意见表达本身何时从讨论转为威胁、骚扰或协调伤害。"
+          ],
+          "identity": "mill-05-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "原则保护的不是孤立选择",
+          "paragraphs": [
+            "儿童、暂时失去判断能力者和处于不可逆即时危险者构成能力条件，而不是证明国家可永久审核成年人的成熟。援助应尽量恢复信息、时间和退出能力；例外越长期，越需要说明谁判断、如何复核以及何时终止。",
+            "殖民文本把整个社会置于能力例外，暴露出原则内部的危险接口。此处先记录而不调和：从短暂保护一个无法知情行动的人，不能直接推出无限期替一个群体统治。这个债务将在末篇回收。"
+          ],
+          "identity": "mill-05-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "从保护到统治的危险斜坡",
+          "paragraphs": [
+            "社会中没有纯自涉行为；若任何间接影响都算伤害，原则会空洞，若全不算又忽略依赖。",
+            "以权利、义务、因果接近和风险具体性划界，但结构性伤害与能力判断仍需现代扩展并防止无限管辖。"
+          ],
+          "identity": "mill-05-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "损坏桥梁与值勤醉酒分别区分信息保护、自主承担风险和角色义务。",
+      "nodeIds": [
+        "mill-05-node"
+      ],
+      "checkIds": [
+        "mill-05-q1",
+        "mill-05-q2",
+        "mill-05-q3",
+        "mill-05-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《社会何时可以强迫一个人》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-06",
+      "order": 6,
+      "title": "错误意见为什么仍应被听见",
+      "depth": "longform",
+      "guidingQuestion": "压制意见者等于替全人类宣布不可错。人数、善意和权威都不能取消错误可能；历史上受尊敬的多数曾迫害后来被承认真诚或正确的声音。",
+      "coreExplanation": "paragraph-ref:mill-06-p03",
+      "sections": [
+        {
+          "heading": "确信不等于无误",
+          "paragraphs": [
+            "压制意见者等于替全人类宣布不可错。人数、善意和权威都不能取消错误可能；历史上受尊敬的多数曾迫害后来被承认真诚或正确的声音。",
+            "论点并非所有意见同样可信，而是内容错误本身不足以授予强制消音权。证据评价与允许表达是不同问题。",
+            "压制意见的压力并非来自“所有意见同样可靠”，而是来自行动者不能同时坚持自己的判断可能出错，又把政治权力当作绝无错误的判断机关。个人确信可以很强；从确信跨到禁止别人发言，还需要证明讨论本身构成何种可识别伤害。"
+          ],
+          "identity": "mill-06-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "被压制者可能为真",
+          "paragraphs": [
+            "若异议为真，压制直接剥夺纠错机会。社会还会失去发现自身概念盲点的外部视角。",
+            "这条理由最直观，却不是全部；否则一旦多数确信异议为假，自由便失去根据。",
+            "《论自由》第二章的第一条路线是假设被压制意见可能为真。若它为真，禁令让社会失去纠错机会；即便概率很低，掌权者也没有超出人类可错性的资格。这里的阶段结论只支持开放检验，尚未说明错误意见为何也值得保留。"
+          ],
+          "identity": "mill-06-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "错误中可能有部分真理",
+          "paragraphs": [
+            "社会争论常不是整块真理对整块谬误。主流原则可能在一个语境正确，却忽略被压制经验；碰撞使片面真理重新组合。",
+            "因此反驳不能只找一个错误句便宣布整种立场无价值，也不能把“部分真”理解为每个说法都含有同等份额的真。",
+            "第二条路线处理部分真理。政治和道德争论常把一项真实考虑夸成全部：秩序可能被自由论者低估，自由也可能被秩序论者牺牲。反方的错误不能抹去它保有的事实；交锋使双方重新分配证据，而不是机械各打五十大板。"
+          ],
+          "identity": "mill-06-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "真理也会变成死教条",
+          "paragraphs": [
+            "即使主流结论完全正确，若不再理解反对理由，它会成为口号。人们能背诵结论，却无法在新情境判断概念边界。",
+            "争论的认识收益包括理解理由、感受意义和保持应用能力，而不只是发现新命题。",
+            "第三条路线更强：即使通行意见完全正确，若它只靠背诵而不与反对理由交手，人们拥有的是口号而非活的信念。原典所担心的“死教条”不是记忆不足，而是理由链断裂，正确命题因而不能指导新情境。"
+          ],
+          "identity": "mill-06-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "语境会改变言语作用",
+          "paragraphs": [
+            "说“粮商使穷人挨饿”在论文中是可争论主张；在其住宅前面对激动人群，可能成为迫近伤害的煽动。限制依据转向语境、听众和行动风险，而非观点被判错误。",
+            "这为威胁、欺诈和直接煽动留下规制空间，却不能用抽象的可能危险吞没普通争论。",
+            "粮商案例改变了言语条件。在报纸上主张“粮商使穷人挨饿”，主要是可争辩意见；面对被煽动的人群、在特定商人住宅前指认目标并推动即时行动，言语进入协调伤害的环境。判断变化来自受众、地点、时机和可预见作用，不来自句子突然变成假。"
+          ],
+          "identity": "mill-06-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "现代放大的边界",
+          "paragraphs": [
+            "算法放大、协调操纵和认识资源不平等使“更多言论自然纠错”受到挑战。它们要求分析传播结构，而不是简单废弃可错性论证。",
+            "这些是现代扩展。密尔没有写平台治理方案，后续应用必须明确外推条件和权力对称问题。",
+            "异议指出数字平台的推荐、机器人扩散和定向骚扰会放大操纵，开放讨论未必自动纠真。应接受传播结构影响言语作用，保住反对仅凭内容异端进行封禁的推定，并把主张收缩为：限制须针对可说明的威胁、欺诈、骚扰或操纵机制。仍欠下的问题是社会非法律压力如何使合法表达失去实际生活空间。"
+          ],
+          "identity": "mill-06-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "开放讨论的条件边界",
+          "paragraphs": [
+            "规模化虚假信息会污染认识环境，形式上的发言自由也可能被资源不平等支配。",
+            "可规制直接煽动、欺诈和威胁，同时保留内容错误不足以压制的核心；平台方案属于现代扩展。"
+          ],
+          "identity": "mill-06-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "粮商命题在论文和激动人群前具有不同风险，说明限制依据是语境性行动危险。",
+      "nodeIds": [
+        "mill-06-node"
+      ],
+      "checkIds": [
+        "mill-06-q1",
+        "mill-06-q2",
+        "mill-06-q3",
+        "mill-06-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《错误意见为什么仍应被听见》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-07",
+      "order": 7,
+      "title": "活得不同有什么公共价值",
+      "depth": "longform",
+      "guidingQuestion": "即使社会允许人说不同意见，若每个人仍照习俗生活，自由的价值只实现了一半。判断、计划、欲望调节和责任承担只能在实际选择中发展。",
+      "coreExplanation": "paragraph-ref:mill-07-p03",
+      "sections": [
+        {
+          "heading": "选择能力要靠使用",
+          "paragraphs": [
+            "即使社会允许人说不同意见，若每个人仍照习俗生活，自由的价值只实现了一半。判断、计划、欲望调节和责任承担只能在实际选择中发展。替一个人选好所有道路，也许减少若干错误，却让他的能力像不用的肌肉一样萎缩。密尔关心的不只是选项数量，而是主体能否成为自己生活的作者。",
+            "即使国家不禁止选择，习俗也可能替每个人预先写好职业、婚姻和生活节奏。自由于是不能只被理解成免受警察干预；它还需要判断、欲望和承担后果的能力，而这些能力只有在真实选择中才会形成。这里承接了上一处“死教条”的问题，把它从意见移到生活。"
+          ],
+          "identity": "mill-07-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "生活实验",
+          "paragraphs": [
+            "不同性格和条件未必适合同一种生活安排。允许多种生活方式，个人可发现适合自己的善，社会也能比较哪些习俗真正有益。",
+            "实验不是把别人当材料。它受同意、伤害和明确义务限制；失败成本若由无权退出者承担，就不能只称为自我实验。",
+            "“生活实验”这个现代常用概括抓住《论自由》第三章的推理：人类对好生活的知识不完备，不同个性需要不同条件，亲自选择会发展能力。因此偏离习俗既可能给本人找到适配方式，也给社会提供反例。它不是密尔承诺每次实验都会成功。"
+          ],
+          "identity": "mill-07-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "天才不是唯一理由",
+          "paragraphs": [
+            "密尔有时强调原创人物带动社会，但个性价值不限于少数天才。普通人依自身经验调整生活，也是在抵抗机械顺从。",
+            "若把个性写成精英创新者的特权，就会重现快乐判断者的身份问题，并忽略所有人运用能力的利益。",
+            "具体地说，一群人尝试共同居住。若成员可获得财务信息、保有退出资源并能改变规则，失败主要由他们承担，也产生可迁移知识；若发起者控制住房、收入和社交，退出会失去生计，“实验”就可能成为对他人的支配。条件改变后，自由评价随之改变。"
+          ],
+          "identity": "mill-07-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "多数暴政",
+          "paragraphs": [
+            "民主政府并不结束专制。多数可借法律压制少数，也可借舆论、职业门槛和羞耻深入生活细节。社会强制有时比刑罚更难逃，因为它塑造人想要什么。",
+            "习俗的危险不在它总错误，而在它以“大家都这样”代替理由，并把偏离本身当作伤害。",
+            "多数暴政并不要求正式法律。雇主黑名单、家庭断绝资源、邻里持续羞辱可以让一种选择在纸面合法而实际上不可行。批评仍是批评者的自由；但协调性排斥若剥夺工作、住所或安全，就不能仅以“社会意见”免于伤害审查。"
+          ],
+          "identity": "mill-07-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "批评与迫害的界线",
+          "paragraphs": [
+            "自由不要求别人赞同或亲近每种生活。劝说、批评和选择交往对象仍有位置；但协调排斥若切断基本机会，便可能产生近似强制的效果。",
+            "密尔没有给出完整的社会权力刻度。应分析制裁强度、机会结构与权力不对称，而非把所有不赞同都称作暴政。",
+            "异议攻击个性的公共价值：怪异选择可能浪费资源、伤害亲近者，甚至只是自恋。若成立，“实验”不能成为免检护符。回应应接受他人承担的成本须进入边界，保住可逆、自担且不欺骗的偏离具有认识与发展价值，并收缩对所有不从众行为的浪漫化。"
+          ],
+          "identity": "mill-07-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "积极价值与限权相接",
+          "paragraphs": [
+            "伤害原则给生活实验空间，个性论说明这空间为何对幸福有正面价值，多数暴政则指出空间会怎样被非国家力量侵蚀。",
+            "三者必须连读。只讲“别干涉”会漏掉能力发展，只讲自我实现又可能忘记第三方伤害。",
+            "本篇留下两笔债务。第一，社会要怎样给少数生活方式提供真实而非纸面空间；第二，个体选择能力若靠参与形成，政治制度能否只追求高效服务而不让公民实践判断。下一步由代议政府接手第二笔，同时保留第一笔对少数代表的要求。"
+          ],
+          "identity": "mill-07-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "个性并非天才特权",
+          "paragraphs": [
+            "密尔赞扬原创者，不是因为少数天才可支配普通人，而是因为人的需要与能力有差异。普通人选择工作节奏、信念共同体或家庭形式，同样在使用自己的判断。若把个性缩成伟人创新，绝大多数人的自由会再次沦为他人进步的工具。",
+            "原典声音仍带十九世纪“强健性格”的价值语汇；现代关于多元身份与无障碍环境的论证可以与它对话，却不能假装已由密尔逐项提出。来源边界的保留，也防止后世概念替原文偿还所有排除问题。"
+          ],
+          "identity": "mill-07-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "实验失败由谁承担",
+          "paragraphs": [
+            "实验自由可能把弱者承担的成本隐形化；社会抵制也有表达和结社自由。",
+            "以同意、退出、基本机会和制裁强度划界，但密尔没有完成结构性权力理论。"
+          ],
+          "identity": "mill-07-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一种家庭或职业安排只有在受影响者真正同意并可退出时，才可作为生活实验而非支配。",
+      "nodeIds": [
+        "mill-07-node"
+      ],
+      "checkIds": [
+        "mill-07-q1",
+        "mill-07-q2",
+        "mill-07-q3",
+        "mill-07-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《活得不同有什么公共价值》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-08",
+      "order": 8,
+      "title": "公民为何必须参与统治",
+      "depth": "longform",
+      "guidingQuestion": "若好政府只以办事效率衡量，最聪明的专制者似乎可能胜过民主。密尔增加第二标准：制度会提升还是压低公民的智力、道德与实践能力。",
+      "coreExplanation": "paragraph-ref:mill-08-p03",
+      "sections": [
+        {
+          "heading": "政府不只是服务商",
+          "paragraphs": [
+            "若好政府只以办事效率衡量，最聪明的专制者似乎可能胜过民主。密尔增加第二标准：制度会提升还是压低公民的智力、道德与实践能力。公共决定的质量和参与者的成长都重要。只看前者会把人民变成被照料对象，只看后者又可能忽略治理失败对弱者的真实伤害。",
+            "政府若只是一家替顾客交付结果的公司，最优制度似乎就是让最能干者集中决定。密尔却同时要求好政府改善被治理者的能力。两项承诺发生冲突：专业化可能提高当期行政质量，却让公民长期失去判断、合作和追责的实践。"
+          ],
+          "identity": "mill-08-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "参与是一种能力实践",
+          "paragraphs": [
+            "选举、陪审和地方议事迫使人听取不同利益、说明理由并承担共同后果。公共精神不是先天资格，而会在参与中形成。这与生活实验相连：自治能力若必须先完美才可参与，人便永远得不到实践它的机会。",
+            "参与的教育作用不是先通过考试再获得资格。地方议事、陪审、投票和公共讨论本身让人学习考虑陌生人的利益、核对理由并承担共同决定。若等能力成熟后才准参与，制度会切断能力生成所需的因果条件。"
+          ],
+          "identity": "mill-08-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "被动性的问题",
+          "paragraphs": [
+            "长期由官僚或恩主替自己决定的人，可能只学会请求照顾而非合作解决。即使管理暂时高效，制度也会削弱抵抗滥权和纠正错误的能力。",
+            "参与的教育作用不是浪漫地说每次会议都高尚。党派、偏见与资源差异也会在参与中放大。",
+            "设想城市把水务全部交给不可撤换的专家委员会。技术故障率可能下降，但居民无法得知优先次序、质疑费用分配或罢免失职者；若委员会公开证据、由代表设目标并接受审计，专业知识与公共控制可以分工。案例比较的是职责结构，不是“专家或群众”二选一。"
+          ],
+          "identity": "mill-08-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "专业知识仍然必要",
+          "paragraphs": [
+            "承认参与价值，不等于所有人亲自执行每项技术工作。代表机关可监督、授权和公开审议，专业行政负责连续执行。",
+            "关键不是“人民或专家”二选一，而是专业权力能否在公开责任链中受检验。",
+            "密尔让代表机关讨论、授权和监督，而不要求它亲自执行所有技术细节。推理台阶是：治理需要知识；知识不等于政治授权；因此专业执行必须嵌入可公开追责的代表结构。少任何一步，分工都会滑向反专业主义或官僚托管。"
+          ],
+          "identity": "mill-08-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力过滤的阴影",
+          "paragraphs": [
+            "密尔担心无知多数压低决定质量，因此提出教育加权等方案。这暴露参与教育与先验能力排序的冲突：若参与本身育成能力，为何已有教育者应有更多票？",
+            "不能只赞美参与而略去精英主义。复数投票将在比例代表讨论中正面接受政治平等批评。",
+            "异议指出广泛参与可能冷漠、偏见化并被有闲者垄断。接受参与质量依赖时间、教育与制度设计，保住能力不能靠永久排除来培养，再把主张收缩为分层参与、透明信息和可纠错代表，而非要求人人处理每项技术事务。"
+          ],
+          "identity": "mill-08-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "殖民回声",
+          "paragraphs": [
+            "参与是自治能力的学校，这一论证将在帝国问题中反噬文明例外。若被殖民者因缺经验而受专制，他们又从哪里获得自治经验？",
+            "这不是外加的道德谴责，而是密尔自己的能力论和参与论对殖民行政提出的内部压力。",
+            "《代议制政府论》中的参与理想与殖民论述的能力排除并不一致。此处不能拿“训练”一词遮蔽：被统治者若无权设定训练目标、监督教师或结束托管，训练就是统治者单方面定义的成熟。债务先转给少数代表问题，最终还要回到帝国边界。"
+          ],
+          "identity": "mill-08-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力不能靠排除培养",
+          "paragraphs": [
+            "参与可能被资源充足者垄断并放大偏见，不能由“教育作用”直接证明所有参与形式都好。",
+            "参与须与公开性、专业分工和机会平等结合；复数投票显示密尔未解决能力与平等的冲突。"
+          ],
+          "identity": "mill-08-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "地方议事既产生道路或救济决定，也训练证据判断与对共同后果负责。",
+      "nodeIds": [
+        "mill-08-node"
+      ],
+      "checkIds": [
+        "mill-08-q1",
+        "mill-08-q2",
+        "mill-08-q3",
+        "mill-08-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《公民为何必须参与统治》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-09",
+      "order": 9,
+      "title": "怎样让多数决定而不让少数消失",
+      "depth": "longform",
+      "guidingQuestion": "民主需要最终作出决定，但单一选区多数制可能让全国接近一半的人在每处都落败，议会中完全无声。密尔称这是假民主的一种结构。",
+      "coreExplanation": "paragraph-ref:mill-09-p03",
+      "sections": [
+        {
+          "heading": "多数决定不等于只有多数发言",
+          "paragraphs": [
+            "民主需要最终作出决定，但单一选区多数制可能让全国接近一半的人在每处都落败，议会中完全无声。密尔称这是假民主的一种结构。",
+            "让少数获得比例声音，不等于赋予其否决多数的权力。代表公平与决策规则是两个不同层次。",
+            "多数决解决谁在分歧后作出决定，却不自动解决哪些声音能进入决定过程。若席位按地方赢家通吃，接近一半选民可能在每个选区都败而全国无席位。形式上一人一票与实质上可被听见之间出现了压力。"
+          ],
+          "identity": "mill-09-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "黑尔方案的理由",
+          "paragraphs": [
+            "密尔支持托马斯·黑尔的可转移投票构想，使分散各地的选民能联合选出真正代表其意见的人。议会由此更像社会多种判断的缩影。",
+            "制度复杂性和地方联系会受影响，所以支持理由必须是减少代表消失，而不是宣称一种公式解决全部民主难题。",
+            "密尔借用托马斯·黑尔的方案，是明确的来源身份：比例代表构想不是密尔独自发明，他在《代议制政府论》中为其辩护。论证从选票分散导致代表消失，走到按较大选区和可转移支持聚合，再得出少数可获得与人数相称的发言位置。"
+          ],
+          "identity": "mill-09-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "代表机关的工作",
+          "paragraphs": [
+            "议会适合公开审议、质询行政和表达利益，不宜由全体议员亲自做全部技术执行。公开冲突能迫使政策理由暴露。",
+            "党纪、财富和媒体仍可能使审议变成表演。比例席位不自动等于平等发言能力。",
+            "把条件具体化：一个占全国百分之二十的群体若均匀分布，在单一选区制中可能零席；在比例制度中可获近似份额。若该群体只在一地集中，它在旧制也可能有代表。制度判断因此依赖分布与计票规则，不能把“少数”当作固定身份标签。"
+          ],
+          "identity": "mill-09-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "复数投票",
+          "paragraphs": [
+            "密尔同时主张受教育者拥有额外票数，希望提高判断质量，又设想不让任何阶层独占。这个方案直接冲撞“一人一票”的政治平等。",
+            "不能用“他只是重视能力”消除问题。票的权重本身表达谁的判断更有公共地位，而教育机会又受阶级结构影响。",
+            "比例代表保住发言，不赋予少数否决多数。代表机关的功能是公开理由、揭示受影响利益并决定一般方向；行政执行仍需责任链。这样既承接生活实验对少数空间的要求，也不把议会变成每项技术操作的集体办公室。"
+          ],
+          "identity": "mill-09-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "能力与平等的两难",
+          "paragraphs": [
+            "若无视知识差异，复杂决策可能受操纵；若用学历给权，既得资源便转成更大政治权。更可辩护的方向也许是改善公共教育、信息和审议，而非永久加权人格。",
+            "后一方向是现代扩展，不应冒充密尔最终方案。原典中的精英主义限制必须留下。",
+            "复数投票制造另一冲突。密尔希望较有教育者多一票以提高判断质量，却又试图保证任何人不被完全排除。异议击中政治地位：教育机会本就不平等，多票会把既有特权转写为能力证书，并让被统治者在共同法律下获得较少分量。"
+          ],
+          "identity": "mill-09-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "真实但不完美的民主",
+          "paragraphs": [
+            "密尔的贡献在于把少数代表和参与质量放进民主定义；其限制在于没有完全接受平等选票，并对谁具备能力保留等级判断。",
+            "路线应同时呈现两面，让制度创新与排除风险在同一论证中相互检验。",
+            "回应能接受知识差异真实存在，却无法由此推出政治权重差异。可以保住代表讨论、公开理由与专业咨询，收缩或放弃复数投票。后世平等投票方案是批评性重构，不应冒充密尔原立场。剩余债务是代表结构还需选择治理尺度：哪些事务集中，哪些留给地方。"
+          ],
+          "identity": "mill-09-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "同等地位与判断改进不能混写",
+          "paragraphs": [
+            "如果更好的判断足以增加选票，那么财富、职业考试或官方认证都可能争夺加权资格；而决定认证标准的人又会影响自己的政治权重。认识上的可靠性问题与共同受制于法律者的平等地位问题，必须由不同制度工具处理。",
+            "专家证言、二院复核、公开听证和延迟决定都可改善判断而不改变基本票值。这些是从冲突中推出的制度方向，不是宣称密尔已经放弃复数投票。"
+          ],
+          "identity": "mill-09-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "代表平等仍未完成",
+          "paragraphs": [
+            "比例制可能复杂并削弱地方联系；复数投票把教育不平等转成政治权重不平等。",
+            "比例代表回应声音消失而非所有资源差异；复数投票的精英主义不能由能力关切完全辩护。"
+          ],
+          "identity": "mill-09-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "全国四成选民在每区均以少数落败，席位为零，显示多数决可使代表结构失真。",
+      "nodeIds": [
+        "mill-09-node"
+      ],
+      "checkIds": [
+        "mill-09-q1",
+        "mill-09-q2",
+        "mill-09-q3",
+        "mill-09-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《怎样让多数决定而不让少数消失》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-10",
+      "order": 10,
+      "title": "政府应在何种尺度行动",
+      "depth": "longform",
+      "guidingQuestion": "中央可以汇集统计、统一最低标准并聘用专业人员，看起来比许多地方机关更有效。若所有事务都上收，公民却失去处理身边公共问题的实践。",
+      "coreExplanation": "paragraph-ref:mill-10-p03",
+      "sections": [
+        {
+          "heading": "集权的诱惑",
+          "paragraphs": [
+            "中央可以汇集统计、统一最低标准并聘用专业人员，看起来比许多地方机关更有效。若所有事务都上收，公民却失去处理身边公共问题的实践。尺度判断不能只问谁知道更多，也要问知识如何获得、权力向谁负责以及能力在哪里形成。",
+            "中央集权看似同时带来统一标准、专业知识和规模效率，但它也会抽走地方试验与公民实践。地方自治反过来可能贴近情境，却保护地方多数对内部少数的压迫。问题不能由“大政府或小政府”一句口号解决。"
+          ],
+          "identity": "mill-10-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "地方治理的理由",
+          "paragraphs": [
+            "道路、卫生、救济等事务包含在地信息，地方参与者更能观察后果。共同处理还训练协商、监督和公共责任。",
+            "地方性不是浪漫的天然善。小共同体也可能由家族、地主或宗教多数控制。",
+            "密尔的第一台阶是知识分布：道路、卫生和救济的执行条件常由当地人更清楚。第二台阶是能力形成：地方职位让更多人实际承担公共责任。由此推出执行宜尽量靠近地方，并不推出中央对权利侵害保持沉默。"
+          ],
+          "identity": "mill-10-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "中央的纠错位置",
+          "paragraphs": [
+            "中央可公开比较各地表现、提供专业建议、设基本权利底线，并在地方严重侵害时介入。它不必替地方做每个决定。",
+            "最低标准若无限扩张，会重新吞没地方自主；完全不介入又会让地方压迫者借自治免审。",
+            "设想地方委员会因偏见拒绝给少数宗教社区供水。若中央直接永久接管所有水务，可能消除眼前歧视却损失地方问责；若中央规定平等底线、提供申诉并在违约时临时介入，地方知识与权利保障可以同时保留。条件差别决定介入强度。"
+          ],
+          "identity": "mill-10-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "专业官僚的风险",
+          "paragraphs": [
+            "专业人员拥有连续知识，却可能形成只向同僚负责的阶层。密尔希望把技术执行置于代表监督、公开理由和可撤换责任链下。",
+            "现代行政规模远超密尔设想，不能从原则直接推出固定机构图。但公开性与责任链仍是可迁移标准。",
+            "中央的正当位置由三项功能生成：汇集可比较信息、设定普遍权利底线、纠正地方无力处理的跨域外部性。执行细节仍需地方反馈。这里的“监督”若没有公开理由和退出条件，也会变成以统一之名持续夺权。"
+          ],
+          "identity": "mill-10-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "地方少数案例",
+          "paragraphs": [
+            "若地方多数禁止少数宗教使用公共设施，中央纠错可基于平等权利；若中央只是偏好另一种道路铺设方式，越俎代庖的理由较弱。",
+            "案例显示介入强度应随基本权利、外部性和地方能力改变，而非中央或地方一方永久优先。",
+            "异议指出地方参与可能被名望家族和有闲阶层垄断。应接受地方并不天然民主，保住接近信息和参与训练的价值，再把原则收缩为有透明程序、少数申诉和中央最低保障的分层治理。"
+          ],
+          "identity": "mill-10-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "帝国反面",
+          "paragraphs": [
+            "殖民行政也声称专业并掌握地方知识，却不由当地人民授权或撤换。它暴露“知道得更多”不足以生成统治合法性。",
+            "末篇将用这一反例检验密尔的专业行政论：责任链若只向帝国中心开放，就不是参与与地方治理的延伸。",
+            "殖民行政看似拥有地方知识，却缺少被治理者授权；这证明认识优势和政治合法性是两条轴。不能用熟悉地方风俗替代可撤换性，也不能用中央议会遥远监督替代当地声音。该债务等待末篇，眼前先转向家庭与性别：最“地方”的权力是否反而最难被看见。"
+          ],
+          "identity": "mill-10-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "尺度选择不是授权替代物",
+          "paragraphs": [
+            "地方自治可能固化地方寡头，中央专业治理也可能形成不受问责的官僚层。",
+            "按权利、外部性、知识与责任链分层，没有一方获得无条件优先；殖民行政是反面检验。"
+          ],
+          "identity": "mill-10-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "地方少数被剥夺基本公共机会时，中央可按权利底线纠错；普通技术偏好不足以全面上收。",
+      "nodeIds": [
+        "mill-10-node"
+      ],
+      "checkIds": [
+        "mill-10-q1",
+        "mill-10-q2",
+        "mill-10-q3",
+        "mill-10-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《政府应在何种尺度行动》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-11",
+      "order": 11,
+      "title": "“女人的本性”如何被制度制造",
+      "depth": "longform",
+      "guidingQuestion": "当妇女长期受教育、职业、财产和政治限制时，从其表现推断“天然适合服从”是不合格归纳。制度先制造观察结果，再把结果归因于自然。",
+      "coreExplanation": "paragraph-ref:mill-11-p03",
+      "sections": [
+        {
+          "heading": "自然断言的证据问题",
+          "paragraphs": [
+            "当妇女长期受教育、职业、财产和政治限制时，从其表现推断“天然适合服从”是不合格归纳。制度先制造观察结果，再把结果归因于自然。密尔并非断言男女必在一切方面相同，而是说在自由条件缺席时，人们没有足够证据规定差异的范围和社会命运。",
+            "“女性天性如此”同时声称描述事实并为制度分工辩护，但可观察样本来自法律从属、教育限制和经济依赖。若制度先筛选了经验，观察到的顺从就不能独立证明天性。问题不是先断言男女完全相同，而是现有证据无权支持固定本性结论。"
+          ],
+          "identity": "mill-11-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "欲望也会被塑造",
+          "paragraphs": [
+            "支配不只靠恐惧。若奖赏温顺、惩罚自立，被支配者可能把取悦强者内化为理想。表面偏好因此不能直接证明制度合意。这一点把快乐判断者的循环推进到社会权力：谁有机会体验不同生活，决定了哪些欲望能出现。",
+            "推理有两个不可合并的台阶。第一，因果识别：受压条件下形成的性格不能用来证明脱离条件仍会如此。第二，规范平等：即使平均差异日后被更好证据确认，也不推出按性别预先封闭每个个体的职业和政治机会。第一步拆自然化，第二步阻断从平均到权利的跳跃。"
+          ],
+          "identity": "mill-11-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "平等的三种理由",
+          "paragraphs": [
+            "法律平等首先解除人格臣属；开放能力发展让个体发现自身道路；社会也不再浪费一半人口的才智。权利、个性和效用论证在文本中并存。",
+            "不能只保留“人才利用”，否则平等像效率下降时可撤回的工具；也不能把密尔无争议改写成现代绝对权利论。",
+            "设想学校长期只让男生学习数学，再以考试差距证明女生没有数学能力。若开放同等训练后差距缩小，制度原因得到支持；若仍有平均差异，也不能据此拒绝成绩合格的具体女生。案例把群体平均、机会条件和个体资格分开。"
+          ],
+          "identity": "mill-11-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "泰勒的直接文本",
+          "paragraphs": [
+            "哈丽雅特·泰勒署名的《妇女的选举权》提供可直接归属的平等论述。密尔则公开署名《妇女的屈从》，并在自述中强调两人的长期思想合作。",
+            "可直接署名、强合作证据和现代作者身份研究是三层。缺少逐句手稿证据时，不得凭思想风格分配句子。",
+            "《妇女的屈从》提出平等的多重理由：强制臣属伤害人格自由，浪费社会才能，也使婚姻在权力而非友谊上组织。这些理由互相支持却不能相互替代；若只保留人才收益，少数“不够高效”的女性仍可能被牺牲。"
+          ],
+          "identity": "mill-11-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "合作证据的边界",
+          "paragraphs": [
+            "密尔的合作声明可能带有纪念和评价性质，却不能因此被当作毫无证据；传统署名制度又可能系统性压低女性合作者。",
+            "稳妥做法是标明证据类型和强度。既不把泰勒降为私人灵感，也不把所有激进命题自动归她。",
+            "哈丽雅特·泰勒的《妇女的选举权》是可直接署名的文本，密尔自传又明确说明长期合作影响。能据此标出合作区，却不能凭文风把每个句子精确分给二人。来源诚实要求在证据止步处停止，而不是用亲密关系抹掉作者身份。"
+          ],
+          "identity": "mill-11-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "方法与政治相接",
+          "paragraphs": [
+            "对性别本性的批评展示社会科学为何必须控制制度干预因素。若把受压抑性格当自然事实，经验主义会服务于支配。",
+            "后面的人文科学将把这一方法风险一般化；家庭篇则考察形式同意为何不足以证明真实自由。",
+            "异议会说制度塑造论也可能夸大可塑性，并忽视身体差异。接受经验问题需开放调查，保住差异不能自动生成法律臣属，收缩为反对预先封闭机会而非保证所有结果相同。剩余债务进入家庭：形式同意在资源依赖下是否足以证明关系自由。"
+          ],
+          "identity": "mill-11-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "欲望也不是制度之外的证人",
+          "paragraphs": [
+            "被奖励的顺从和被惩罚的雄心会进入人的自我理解，所以“许多人自己愿意这样生活”不能直接结束审查。若没有可接近的替代方案、收入与退出安全，偏好可能适应约束；但外部改革者也不能因此宣布当事人的表达一概虚假。",
+            "可行的收缩是同时改善选择条件和保留发言权：开放教育、财产权、职业与政治参与，让偏好在较少支配的环境中显现。现代“适应性偏好”术语是后世分析，不能倒写成密尔原句。"
+          ],
+          "identity": "mill-11-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "反自然化之后",
+          "paragraphs": [
+            "密尔的平等辩护仍含工具性语言；作者合作证据又不足以逐句拆分贡献。",
+            "保留权利、能力与效用三路理由，并按直接归属、强合作证据、现代争议分层作者身份。"
+          ],
+          "identity": "mill-11-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "以受限制教育和职业下的表现证明妇女不适合公共生活，是先制造样本再把结果自然化。",
+      "nodeIds": [
+        "mill-11-node"
+      ],
+      "checkIds": [
+        "mill-11-q1",
+        "mill-11-q2",
+        "mill-11-q3",
+        "mill-11-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《“女人的本性”如何被制度制造》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-12",
+      "order": 12,
+      "title": "家庭能否是自由社会中的小专制",
+      "depth": "longform",
+      "guidingQuestion": "婚姻看似由双方同意，但当法律人格、财产、收入和离婚机会不平等时，一次形式同意会把长期支配合法化。自由契约需要持续的法律地位与可行退出。",
+      "coreExplanation": "paragraph-ref:mill-12-p03",
+      "sections": [
+        {
+          "heading": "契约外观",
+          "paragraphs": [
+            "婚姻看似由双方同意，但当法律人格、财产、收入和离婚机会不平等时，一次形式同意会把长期支配合法化。自由契约需要持续的法律地位与可行退出。",
+            "若退出意味着贫困、失去子女或社会排斥，不能只说“她可以离开”。选项存在与选项可行是不同事实。",
+            "婚姻以契约形式出现，似乎只要双方说“同意”便属于私人选择；但法律曾把妻子的财产、住所和子女权利置于丈夫控制下。自由承诺与制度性依赖不能原样并存：退出代价由法律制造时，同意不再是关系平等的充分证据。"
+          ],
+          "identity": "mill-12-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "法律臣属",
+          "paragraphs": [
+            "密尔批评妻子在当时婚姻法中的臣属地位，主张伙伴关系而非主仆关系。家庭不是国家不可触碰的私人黑箱，因为其中的权力会伤害具体成员。",
+            "把家庭权力纳入涉他范围，不等于国家应管理亲密生活每个细节。介入根据仍是人格、财产、安全和真实同意。",
+            "第一台阶是识别法律臣属，而非把每个家庭冲突都归为私人性格。第二台阶是追踪臣属怎样塑造愿望与谈判能力：长期无收入、无财产和无公共身份的人，即使没有每日暴力，也难以拒绝安排。由此才生成“家庭权力”这个分析对象。"
+          ],
+          "identity": "mill-12-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "家庭塑造公民",
+          "paragraphs": [
+            "儿童首先在家庭看见权力。如果一方依法命令、另一方被训练服从，自由社会便在日常生活中复制专制性格。",
+            "平等家庭的公共价值不只是更和睦，也在于成员实践协商、相互承认和共同责任。",
+            "把案例条件逐一改变。一位照护者若有独立收入、共有财产、可负担住所和子女照护，选择留在家庭可有真实自愿；若离开即失去孩子、住所与名誉，同一句“我选择留下”承受完全不同压力。判断不能只读取口头形式。"
+          ],
+          "identity": "mill-12-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "职业和政治出口",
+          "paragraphs": [
+            "开放职业使妇女获得独立收入与替代生活，选举权让其利益不再自动由男性代表。公共参与与私人退出条件互相支撑。",
+            "仅宣布法律机会平等仍不足。照顾责任、贫困和教育差异可能让形式开放无法成为实质选择。",
+            "家庭还具有公民形成作用。儿童每天观察谁发命令、谁无偿照料、谁能离开，这些习惯会迁移到公共生活。一个宣称政治平等的社会若在家庭内训练服从，其制度会从内部复制自己否认的等级。"
+          ],
+          "identity": "mill-12-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "密尔的剩余限制",
+          "paragraphs": [
+            "密尔某些表述仍预期性别化家务安排，对无偿照顾、性暴力与阶级差异处理不足。不能把他的突破直接等同完整的现代反父权理论。",
+            "配额、照顾基础设施和交叉性属于现代扩展。它们可揭示原框架盲点，却必须保留身份标记。",
+            "异议指出公共介入家庭可能伤害亲密、文化差异和照护安排。接受国家不能把一种生活方式定为唯一模板，保住暴力、财产剥夺和不可退出依赖不是“隐私”护符，再把主张收缩为保障平等法律地位与真实出口。"
+          ],
+          "identity": "mill-12-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "抽象自由被校正",
+          "paragraphs": [
+            "伤害原则若只看孤立个人，会漏掉关系如何制造依赖。家庭分析迫使自由论询问谁控制资源、谁能拒绝、拒绝的代价由谁承担。",
+            "这不是取消自主，而是说明自主需要法律身份、物质出口与免受报复的条件。",
+            "密尔仍保留某些性别化家庭期待，这限制了他的平等论。现代照护伦理可揭示相互依赖不是应被消除的缺陷，而是应公平组织的关系；这是后世深化。下一篇把同样方法带进经济：所谓生产与分配规律有多少来自自然，有多少来自制度。"
+          ],
+          "identity": "mill-12-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "亲密不取消正义",
+          "paragraphs": [
+            "强调退出条件可能被用来否定弱者一切选择；国家介入亲密领域也可能扩张监护。",
+            "不把受限选择判为全无效，而是检验法律人格、资源、报复风险和持续同意；现代照顾方案另标扩展。"
+          ],
+          "identity": "mill-12-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "没有独立财产、收入与可行离婚的配偶即使曾说同意，也不能由此证明持续权力关系平等。",
+      "nodeIds": [
+        "mill-12-node"
+      ],
+      "checkIds": [
+        "mill-12-q1",
+        "mill-12-q2",
+        "mill-12-q3",
+        "mill-12-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《家庭能否是自由社会中的小专制》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-13",
+      "order": 13,
+      "title": "财富规律有多少是人造的",
+      "depth": "longform",
+      "guidingQuestion": "经济现象由欲望、技术、习俗和权力共同造成。政治经济学先抽出追求财富等主要动因，推导其他条件相同时的趋势，再回到现实加入反作用。",
+      "coreExplanation": "paragraph-ref:mill-13-p03",
+      "sections": [
+        {
+          "heading": "抽象方法",
+          "paragraphs": [
+            "经济现象由欲望、技术、习俗和权力共同造成。政治经济学先抽出追求财富等主要动因，推导其他条件相同时的趋势，再回到现实加入反作用。这种抽象不是完整人性画像。若把模型中的动因当成永恒本性，工具会把资本主义行为自然化。",
+            "政治经济学需要抽象，否则无从识别反复作用的动因；但抽象若被误当完整世界，就会把产权和权力藏成自然背景。密尔一面使用追求财富的简化假设，一面承认现实行动还受习俗、正义感和制度约束。这两层必须保持。"
+          ],
+          "identity": "mill-13-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "倾向而非预言",
+          "paragraphs": [
+            "利润动机可能推动资本流向较高回报，但法律、风险、忠诚和信息会改变结果。理论要说明条件，也要允许经验失败迫使修正。",
+            "把每个反例都称作偶然干扰，会让理论不可证伪；把任何偏离都当作规律不存在，也忽略复杂原因。",
+            "“倾向”不是预言。它表示在其他条件给定时某种原因把结果推向一个方向；现实结果由多种倾向合成。工资没有按模型下降，研究者不能只说“有干扰”便免责，而要指出反作用来自工会、迁移成本、法律底线还是信息不对称。"
+          ],
+          "identity": "mill-13-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "生产与分配",
+          "paragraphs": [
+            "密尔说生产受物质性质和技术知识较强约束，分配则依社会法律与习俗。土地能产多少与收成归谁，不是同一种必然。",
+            "区分的政治锋芒在于：贫富结构不能假装像重力一样不可改变。产权、继承与契约都可接受公共判断。",
+            "生产规律受物质条件约束，例如同一技术与土地条件下投入的产出边界；分配规律则依赖财产、继承、税制和契约。这个区分的功能是打开改革空间，不是宣称物质生产与制度永不互动。"
+          ],
+          "identity": "mill-13-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "区分不能绝对化",
+          "paragraphs": [
+            "制度改变会反过来影响投资、劳动组织和技术；生产过程本身也包含产权和权力。分配不是任意改写而无生产后果，生产也非纯自然。",
+            "最合适的读法是反自然化的分析起点，而不是两块永不相交的领域。",
+            "土地案例说明互动：自然肥力影响产出，租佃期限又决定承租人是否愿意改良土壤；改良反过来改变未来生产力。若租约让地主立即攫取全部增益，投资减少。所谓“自然产能”于是经过权利结构才进入实际结果。"
+          ],
+          "identity": "mill-13-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个土地案例",
+          "paragraphs": [
+            "土壤、降雨和知识限制可能产量；地租由谁收取、收益如何继承则由制度安排。改变租佃法还会影响改良投入，显示两侧相互作用。",
+            "案例同时保留物质约束和制度可变性，避免“万物自然”与“万物任意”两个极端。",
+            "异议攻击抽象方法的选择性：只把财富欲望视为主要动力，会把无偿照护、殖民取得和家庭依赖排除在模型外。异议成立，经济规律就可能只描述享有正式市场权力者。回应可保住受控抽象，但要求公开遗漏条件并在反例出现时改写范围。"
+          ],
+          "identity": "mill-13-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "权力进入模型",
+          "paragraphs": [
+            "工资契约表面自愿，却受财产分布、失业风险和家庭照顾责任影响。若抽象只看交换双方，谈判权会从解释中消失。",
+            "密尔提供制度可变性的入口，却没有完成现代权力与再生产劳动分析；后者只能作为批评扩展。",
+            "必须收缩“生产自然、分配人造”的绝对版本，保住较谨慎结论：制度对分配有巨大可变空间，且会反馈生产。剩余债务是，若分配和制度可改，经济进步是否仍只能以资本与产量无限增长衡量。"
+          ],
+          "identity": "mill-13-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "从方法假设回到支配关系",
+          "paragraphs": [
+            "同一工资可以来自平等谈判，也可以来自工人无储蓄、无法迁移且雇主联合的条件。价格数字本身不显示选择空间；研究必须把替代机会和组织权写回解释，否则“自愿交换”会遮住强制背景。",
+            "这一补充是从密尔制度可变性推出来的分析，不把现代劳动力市场理论冒充原典完成品。原典给予的是修改分配安排与比较制度的入口，而不是对所有权力机制的最终模型。"
+          ],
+          "identity": "mill-13-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "抽象必须交代遗漏",
+          "paragraphs": [
+            "生产/分配二分可能低估生产关系的制度性，也可能让任意分配忽略激励后果。",
+            "把区分保留为反自然化起点，并明确双向作用；现代制度和再生产批评标为扩展。"
+          ],
+          "identity": "mill-13-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "土地案例区分物质产量条件和租金归属，同时显示租佃制度会反过来改变生产投入。",
+      "nodeIds": [
+        "mill-13-node"
+      ],
+      "checkIds": [
+        "mill-13-q1",
+        "mill-13-q2",
+        "mill-13-q3",
+        "mill-13-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《财富规律有多少是人造的》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-14",
+      "order": 14,
+      "title": "社会进步是否等于无限增长",
+      "depth": "longform",
+      "guidingQuestion": "工业社会容易把更多资本、人口和产出等同进步。密尔问：若增长伴随拥挤、自然损失、极端财富和无休竞争，人究竟获得了什么？",
+      "coreExplanation": "paragraph-ref:mill-14-p03",
+      "sections": [
+        {
+          "heading": "积累不是终极目的",
+          "paragraphs": [
+            "工业社会容易把更多资本、人口和产出等同进步。密尔问：若增长伴随拥挤、自然损失、极端财富和无休竞争，人究竟获得了什么？功利主义在这里反过来审查经济量。产出只是手段，评价要回到生活质量、闲暇、平等和能力。",
+            "若财富增长只是为了继续增长，经济手段会篡位成终极目的。密尔的稳态讨论把两项承诺分开：物质匮乏需要生产改善，但较好生活并不要求资本、人口和土地占用永远同速扩张。只有分开，停止增长才不会被等同于文明停顿。"
+          ],
+          "identity": "mill-14-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "稳态不等于停滞",
+          "paragraphs": [
+            "资本和人口不再快速增长，并不意味着思想、艺术、制度和人格停止发展。若分配改善，稳定总量可以容纳更好的生活。“静止”指经济数量，不是人的精神冻结。把它写成普遍反技术，会错失论证对象。",
+            "“静止状态”命名的是资本与人口不再扩张，不是知识、艺术、道德和制度停止变化。这个术语由问题生成：古典经济学常把稳态当作令人畏惧的终点，密尔反问若分配较公正、劳动较少而自然空间得以保存，为何它必然更坏。"
+          ],
+          "identity": "mill-14-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "自然空间",
+          "paragraphs": [
+            "密尔担心每一块自然空间都被耕作、道路和人口占满。独处、审美和不被人类完全改造的世界也是幸福条件。",
+            "这不是完整生态伦理。他主要从人类生活品质发言，尚未建立非人自然的独立价值理论。",
+            "设想一座城市产出增加百分之十，却靠更长通勤、污染河流和住房拥挤实现；另一方案产出不变，却减少工时、修复公共空间并改善最贫困者住所。若只看总量，前者胜；若看分配、闲暇和环境条件，评价可能逆转。条件映射显示增长与福利不是同义词。"
+          ],
+          "identity": "mill-14-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "贫困条件",
+          "paragraphs": [
+            "对仍处匮乏的社会，停止生产提高可能冻结贫困。稳态理想依赖足够生产力、人口条件和更平等分配。",
+            "因此不能把“增长不好”当无条件公式。批评对象是把无限积累当作唯一进步标准。",
+            "稳态并不允许浪漫化贫困。若基本营养、住所和医疗不足，停止生产改善会把匮乏冻结。推理顺序必须先问资源是否足以支持有尊严生活，再问新增产出归谁、以何种自然与时间代价取得。"
+          ],
+          "identity": "mill-14-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "分配先于总量崇拜",
+          "paragraphs": [
+            "若少数占有新增财富，多数继续长工时，增长数字掩盖生活停滞。改善继承、教育和劳动安排可让既有产出支持更多能力发展。",
+            "这承接生产/分配区分：社会可选择增长成果如何转化为实际生活。",
+            "异议指出密尔低估技术创新与增长对减贫的作用。接受某些增长可扩大选择，保住增长须由生活质量和分配检验，收缩为反对无条件总量崇拜而非要求所有经济体立即零增长。"
+          ],
+          "identity": "mill-14-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "现代回声的身份",
+          "paragraphs": [
+            "生态经济学和去增长会在密尔这里找到先声，却处理了碳预算、全球不平等等新问题。可以比较，不能直接称密尔已提出当代方案。",
+            "原典的力量在于把进步从数量中解放；其边界在于物质和全球分析仍有限。",
+            "“去增长”“生态经济学”等是现代回声，不是密尔自称。原典声音能支持对稳态的非灾难化和自然空间关切，却没有现代碳预算理论。尚欠的问题是生产组织本身：即使总量合适，劳动者若仍受单向命令，较好生活是否实现。"
+          ],
+          "identity": "mill-14-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "稳态不是统一处方",
+          "paragraphs": [
+            "稳态可能冻结贫困，且密尔的人类中心自然观不足以覆盖现代生态正义。",
+            "理想有充足生产力与公平分配条件；它批评增长崇拜，不是无条件反生产或现成去增长方案。"
+          ],
+          "identity": "mill-14-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "总产出稳定而分配改善、工时缩短、自然空间保存，可能比无尽积累更促进能力和幸福。",
+      "nodeIds": [
+        "mill-14-node"
+      ],
+      "checkIds": [
+        "mill-14-q1",
+        "mill-14-q2",
+        "mill-14-q3",
+        "mill-14-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《社会进步是否等于无限增长》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-15",
+      "order": 15,
+      "title": "劳动者能否共同治理生产",
+      "depth": "longform",
+      "guidingQuestion": "工资劳动不只是收入交换。资本所有者决定生产方向，劳动者服从管理并与成果分离，长期会塑造依赖性格。",
+      "coreExplanation": "paragraph-ref:mill-15-p03",
+      "sections": [
+        {
+          "heading": "工资关系的权力结构",
+          "paragraphs": [
+            "工资劳动不只是收入交换。资本所有者决定生产方向，劳动者服从管理并与成果分离，长期会塑造依赖性格。",
+            "若自由只存在于下班后的私人领域，生产中的日常命令便逃过个性与参与原则的检验。",
+            "工资关系不仅分配收入，也分配发令、监督、获取信息和决定剩余用途的权力。若经济自由只看劳动合同是否签字，就会重复家庭契约的错误：缺乏储蓄和替代岗位的人可能形式同意，却没有共同治理生产的地位。"
+          ],
+          "identity": "mill-15-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "合作社的双重价值",
+          "paragraphs": [
+            "劳动者共同拥有和治理企业，可让收益与努力更一致，也让成员实践选择管理者、分担风险和说明规则。它既是分配安排，也是自治实践。",
+            "合作不会自动成功。资本不足、内部多数压迫和市场竞争都可能重新制造纪律与不平等。",
+            "合作社的第一项价值是收益关系改变，劳动者分享剩余；第二项不可合并的价值是性格与能力改变，成员实践协商、管理和对共同结果负责。只证明分红更多，不足以证明支配减少；只赞扬教育作用，也不能忽略经营失败的物质代价。"
+          ],
+          "identity": "mill-15-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "制度实验的对称比较",
+          "paragraphs": [
+            "不能拿理想化私产制与初创合作社的困难比较。密尔要求把现存财产制度也视作历史实验，检查继承特权、贫困和人格后果。",
+            "同样，不能因资本主义有缺陷就宣布任何社会主义方案必胜。比较应包括激励、自由、权力集中和过渡成本。",
+            "比较一家新合作社与成熟大企业时，若前者承担融资歧视、缺少供应网络却被要求立即同等效率，试验并不对称。相反，若合作社由管理层控制信息、成员无法罢免领导，即使名义共有也未实现自治。案例要求同时比较起点条件与内部权力。"
+          ],
+          "identity": "mill-15-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "对社会主义更开放",
+          "paragraphs": [
+            "密尔逐渐更认真接受社会主义对竞争和财产的批评，并设想自愿联合的发展。他仍警惕中央统一管理压缩个性，偏好渐进和可比较实验。",
+            "这既不是自由放任，也不是已经接受取消市场的完整体系。版本变化与身后编定的社会主义文章要标明文本状态。",
+            "密尔后期对社会主义实验较开放，但没有因此接受取消市场的一套唯一蓝图。他区分对当时私产制度的批评、对合作生产的期待和对集中权力的担忧。把“愿意实验”翻译成“已证明某制度必胜”，会抹掉他的经验主义。"
+          ],
+          "identity": "mill-15-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "泰勒合作层",
+          "paragraphs": [
+            "成熟期关于竞争、劳动和生活品质的批评处在两人长期交流区域。可记录密尔的合作声明和泰勒署名文本的相邻观点，不能据此逐句分配政治经济学修订。",
+            "作者身份的谨慎不是回避贡献，而是避免把不可核验推断写成事实。",
+            "泰勒合作影响这一更平等方向，但具体句子归属仍须服从署名与可核证材料。激进程度不是作者鉴定法。来源边界在这里有实质功能：它防止用合作传闻增强论证权威，也防止反过来把共同思想全部从密尔名下删除。"
+          ],
+          "identity": "mill-15-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "开放的制度选择",
+          "paragraphs": [
+            "合作社提示自由可以进入生产组织，而不只限制国家。它也留下问题：怎样融资、保护少数、分散风险并抵抗市场外部压力？",
+            "现代市场社会主义和合作治理可继续这些问题，但属于扩展。密尔提供方向和比较标准，不提供完成图纸。",
+            "异议会说市场竞争迫使合作社自我剥削，内部会议也可能由能言者垄断。接受所有权形式不自动消除权力，保住可撤换管理、信息共享与收益参与提供不同制度可能，收缩为需要比较和修正的实验。下一步转向方法：这种制度实验凭什么支持因果结论。"
+          ],
+          "identity": "mill-15-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "开放选择仍有判准",
+          "paragraphs": [
+            "制度多元不等于任何安排同样好。可以追踪成员是否拥有退出与发言、风险如何分担、生产知识是否共享、照护成本是否被外包。判准来自前面已经取得的自由、平等和幸福中介，而不是在经济篇突然另立价值。",
+            "这也留下未偿债务：复杂制度中多种原因同时变化，成功究竟来自所有权、规模、融资还是成员筛选。若没有因果方法，合作社案例只会成为赞成者与反对者各取所需的故事。"
+          ],
+          "identity": "mill-15-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "制度实验仍须比较",
+          "paragraphs": [
+            "合作社可能复制市场纪律和内部多数压迫；渐进主义也可能低估资本权力。",
+            "保留制度实验的开放性和风险，既不把密尔归为自由放任，也不把他改写成完整社会主义体系。"
+          ],
+          "identity": "mill-15-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "劳动者合作企业同时改变收益分配和决策权，因此是经济组织与公民能力的共同实验。",
+      "nodeIds": [
+        "mill-15-node"
+      ],
+      "checkIds": [
+        "mill-15-q1",
+        "mill-15-q2",
+        "mill-15-q3",
+        "mill-15-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《劳动者能否共同治理生产》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-16",
+      "order": 16,
+      "title": "经验如何找到原因",
+      "depth": "longform",
+      "guidingQuestion": "经验科学不能只记录已经发生的事，还要把有限观察用于新情形。密尔认为推理的实质根据最终来自具体经验及自然存在可重复结构的假定。",
+      "coreExplanation": "paragraph-ref:mill-16-p03",
+      "sections": [
+        {
+          "heading": "从个案到未观察情形",
+          "paragraphs": [
+            "经验科学不能只记录已经发生的事，还要把有限观察用于新情形。密尔认为推理的实质根据最终来自具体经验及自然存在可重复结构的假定。三段论整理和传递已有概括，却不能凭定义创造世界事实。大前提本身需要经验支持。",
+            "经验告诉我们的总是已经观察到的个案，科学判断却要越到未观察情形。归纳问题由此产生：过去太阳升起、某药有效或某制度失败，为何能支持下一次判断？仅仅增加次数不能排除共同遗漏条件。"
+          ],
+          "identity": "mill-16-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "归纳不只是数次数",
+          "paragraphs": [
+            "多次共现可能只是共同原因或选择偏差。可靠归纳要问什么变化导致什么变化，并主动比较有差别的案例。",
+            "自然齐一性不是由一次更高归纳无循环证明的定理。密尔的方法保留归纳问题，而非宣布怀疑已终结。",
+            "密尔拒绝把三段论看成凭空发现新事实。一般命题本身来自个案经验，演绎把其中承诺应用到新案。归纳与演绎因此不是竞争者：前者建立可推广关系，后者澄清若关系成立在特定条件下应推出什么。"
+          ],
+          "identity": "mill-16-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "原因是条件组合",
+          "paragraphs": [
+            "密尔把原因理解为无条件而恒常的前件组合。单个因素常只在其他条件具备时起作用，所以复杂现象需要拆分多因、共同结果和反作用。",
+            "“无条件”不是说原因不需要背景，而是完整条件组一旦具备，结果按规律出现。现代概率因果会进一步修正这一强表述。",
+            "“原因”不是孤立的一颗按钮，而常是足以产生结果的条件组合。火柴燃烧需要摩擦、氧气、可燃材料等背景；研究者把某一变化称为原因，是在特定问题下突出差异因素。忘记背景会把局部规律误当无条件必然。"
+          ],
+          "identity": "mill-16-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "比较实验方法",
+          "paragraphs": [
+            "契合法找共同因素，差异法比较只差一个条件的案例，二者并用加强排除；剩余法扣除已知影响，共变法追踪量的同步变化。",
+            "这些方法提供发现与检验规则，不是无需背景知识的机器。未测混杂和多路径因果会破坏排除。",
+            "契合法寻找多个结果案例的共同因素，差异法比较尽量只差一个条件的情形，剩余法从已解释部分扣除，伴随变化法追踪量的共同变动。它们是组织比较的操作，不是看到一个共同点就自动宣判因果。"
+          ],
+          "identity": "mill-16-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "病例案例",
+          "paragraphs": [
+            "多组病例共有某暴露只提供线索；若相似群体只在暴露上不同且结果随之改变，因果证据增强。样本选择、潜伏期和共同环境仍需检查。",
+            "案例展示方法如何逐步排除，而不是把“相关不等于因果”当作停止研究的口号。",
+            "病例案例可以压力测试：五名患者服药后都康复，若他们同时年轻且病程轻，契合因素不唯一；加入相似患者未服药的对照，证据增强；若剂量上升与康复同时上升但副作用也增加，因果与决策仍需分开。"
+          ],
+          "identity": "mill-16-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "社会复杂性的门槛",
+          "paragraphs": [
+            "实验方法在社会中难以控制全部条件。下一步必须结合心理倾向、制度假设和历史回勘，形成直接与逆向演绎。",
+            "因此不能把自然科学方法直接复制到民族性格或制度优劣；方法的限制正是人文科学的起点。",
+            "异议指出归纳依赖自然齐一性，而齐一性本身似乎只能归纳支持。接受这里没有无循环的终极保证，保住多方法交叉、反例搜索和条件明确能提高可靠性，收缩为可错而可修正的方法论。复杂社会难以隔离变量，下一篇必须说明如何从这种方法进入历史制度。"
+          ],
+          "identity": "mill-16-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "可错方法的力量",
+          "paragraphs": [
+            "归纳依赖齐一性而可能循环，复杂和概率因果也超出简单比较法。",
+            "方法是有背景条件的排除规则，不是因果自动机；现代因果图和试验属于扩展。"
+          ],
+          "identity": "mill-16-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "病例的共同暴露只是契合线索；加入近似差异比较后证据增强，但混杂与选择仍可能破坏结论。",
+      "nodeIds": [
+        "mill-16-node"
+      ],
+      "checkIds": [
+        "mill-16-q1",
+        "mill-16-q2",
+        "mill-16-q3",
+        "mill-16-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《经验如何找到原因》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-17",
+      "order": 17,
+      "title": "人与社会能成为科学对象吗",
+      "depth": "longform",
+      "guidingQuestion": "人的行动受欲望、信念、习惯和处境影响，不等于每次行为都可精确预测。密尔说的是条件性心理倾向，而非把人变成无反思物体。",
+      "coreExplanation": "paragraph-ref:mill-17-p03",
+      "sections": [
+        {
+          "heading": "规律是否取消自由",
+          "paragraphs": [
+            "人的行动受欲望、信念、习惯和处境影响，不等于每次行为都可精确预测。密尔说的是条件性心理倾向，而非把人变成无反思物体。知道某种压力通常怎样作用，还要知道其他动机和制度条件。规律与实践改变可以相容，因为新知识本身会成为新原因。",
+            "人的行动若受原因影响，社会研究似乎可能；人的反思若能改变行动，把规律写成物理式预言又会失败。密尔要同时保住可解释性与实践自由，于是把规律理解为在给定动机、信念和环境下的条件性倾向。"
+          ],
+          "identity": "mill-17-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "从一般倾向到制度结果",
+          "paragraphs": [
+            "仅说人追求利益，无法推出某种工资、家庭或投票制度。研究者必须加入产权、教育、习俗和权力条件，推导这些倾向如何合成。这叫直接演绎的方向：从较一般规律向复杂后果移动。复杂度越高，遗漏条件风险越大。",
+            "第一条推理方向从较一般心理倾向出发，加入产权、教育、习俗和权力条件，推出可能的制度结果。仅说“人追求利益”不能推出某种工资制度，因为同一动机在不同退出机会与法律结构中会形成不同均衡。"
+          ],
+          "identity": "mill-17-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "逆向演绎",
+          "paragraphs": [
+            "社会研究常先发现历史经验规律，再回溯哪些心理与制度机制能解释它，并用这些机制检验规律是否可迁移。观察与理论在两个方向来回。",
+            "这不是看到一个历史顺序便称作进步法则。若缺少机制和反例，经验概括仍可能只是局部巧合。",
+            "第二条方向从历史中观察到的经验规律回溯可能机制，再用机制检查它能否迁移到别的时空。密尔称之为逆向演绎的思路。若只有年代顺序而没有机制，所谓发展规律仍可能是把欧洲一段历史当作普遍路线。"
+          ],
+          "identity": "mill-17-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "性格是制度产物",
+          "paragraphs": [
+            "密尔设想民族性格学研究制度、教育和习俗怎样塑造稳定性格。它能反驳把女性服从或劳动者依赖直接当作天性。",
+            "同一概念也危险：研究者可能把殖民印象写成民族本质，用欧洲尺度排列成熟程度。",
+            "用受压迫群体的服从证明其天性，正好颠倒因果。若撤除法律臣属、开放教育后行为改变，制度塑造得到证据；若变化不完全，也需比较持续习惯与新条件，而不能立刻回到民族或性别本质。"
+          ],
+          "identity": "mill-17-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "欧洲中心风险",
+          "paragraphs": [
+            "若“文明阶段”由欧洲历史提供唯一顺序，差异会被解释为落后，统治则被包装成帮助加速。方法上的条件论没有自动阻止政治等级化。",
+            "因此科学性不只要求因果形式，还要求检查样本、比较尺度、研究者权力和被研究者的解释地位。后几项是现代深化。",
+            "民族性格学的异议并非外加政治礼貌，而是攻击样本与分类本身：殖民官员既制造制度条件又记录被统治者，行政利益可能决定何种行为被称作懒惰、幼稚或不理性。异议成立，方法的“事实”入口就已被权力污染。"
+          ],
+          "identity": "mill-17-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "科学的谦抑结论",
+          "paragraphs": [
+            "社会可以研究，因为行为存在可理解的倾向和制度机制；社会不能被当作简单实验室，因为原因复合、主体会反思、历史条件会改变规律。",
+            "这篇只建立人文科学的可能与风险。自然规范性和宗教证据另由下一篇承受，避免把不同原典声音压在一起。",
+            "回应可保住倾向、机制和历史复核使社会可研究，接受反思主体与研究权力增加不确定性，并收缩一条欧洲发展序列的普遍声称。现代关于立场与结构涌现的分析须另标。尚欠两步：自然事实能否给规范，以及这种科学谦抑为何在殖民判断中失效。"
+          ],
+          "identity": "mill-17-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "规律知识本身会进入因果链",
+          "paragraphs": [
+            "若工人知道某种合同安排普遍导致债务依赖，他们可能组织起来改变合同；预测公开后，原有规律因行动者回应而失效。这不是证明没有规律，而是说明社会规律包含会学习的对象，适用条件会被知识改变。",
+            "因此实践自由不要求行动无原因，只要求反思、理由与制度变更能够成为新的原因。这个相容论方向属于密尔方法论的重要承诺，却没有解决谁控制知识生产和分类权。"
+          ],
+          "identity": "mill-17-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "科学性不能洗净分类权",
+          "paragraphs": [
+            "心理主义可能忽略结构涌现；民族性格学尤其容易把殖民分类科学化。",
+            "以倾向、机制与历史验证保持可研究性，同时承认样本、尺度和研究权力风险；不声称方法自动免疫欧洲中心主义。"
+          ],
+          "identity": "mill-17-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "用受压迫群体的服从证明其民族或性别天性，混淆了制度造成的性格与跨情境本质。",
+      "nodeIds": [
+        "mill-17-node"
+      ],
+      "checkIds": [
+        "mill-17-q1",
+        "mill-17-q2",
+        "mill-17-q3",
+        "mill-17-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《人与社会能成为科学对象吗》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-18",
+      "order": 18,
+      "title": "自然与宗教能提供什么道德根据",
+      "depth": "longform",
+      "guidingQuestion": "若自然指一切发生之事，人不可能不顺应；若指未经人干预之事，医疗、教育和正义改革都在改变自然。仅说“自然”不能提供行动方向。",
+      "coreExplanation": "paragraph-ref:mill-18-p03",
+      "sections": [
+        {
+          "heading": "自然一词的歧义",
+          "paragraphs": [
+            "若自然指一切发生之事，人不可能不顺应；若指未经人干预之事，医疗、教育和正义改革都在改变自然。仅说“自然”不能提供行动方向。",
+            "这项分析阻断从事实到规范的捷径，也回照所谓女性本性和经济自然规律。",
+            "“顺应自然”看似提供一个不依赖争论的道德标准，但自然有两种含义。若指一切实际发生，人的干预也在其中，命令无法被违反；若指未经人改造，医疗、教育和司法正是对自然过程的有意改变。歧义消除后，规范结论没有被留下。"
+          ],
+          "identity": "mill-18-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "自然之恶",
+          "paragraphs": [
+            "疾病、灾害、捕食和无谓痛苦都是自然事实。若模仿自然就是善，道德改善反而失去意义；若把自然全归全能全善设计，苦难构成神义压力。",
+            "密尔不是否认自然约束，而是否认自然发生本身具有道德授权。现代生态价值不能由此被简单排除。",
+            "自然之恶把问题进一步推进。疾病、地震、捕食和无辜痛苦若都来自自然，模仿自然不能等于善。密尔并非主张人可无视生态限制，而是否认发生事实本身授予道德权威；从“存在”到“应当保存”还需要关于生命、依赖或不可逆损失的理由。"
+          ],
+          "identity": "mill-18-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "宗教的功能问题",
+          "paragraphs": [
+            "宗教可以提供共同象征、牺牲动机和跨越个人生命的意义。功能存在不等于教义为真；真理问题与心理社会效用必须分开。",
+            "面向人类进步的共同理想可能承担部分动机功能，却也可能像传统宗教一样制造舆论强制。",
+            "宗教必须拆成三个问题：教义是否为真，信仰具有什么心理社会功能，某种希望在证据不足时是否仍可被想象。共同象征能促成牺牲，只回答功能；它既不能证明超自然对象，也不能保证牺牲目标正当。"
+          ],
+          "identity": "mill-18-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "内在制裁的回声",
+          "paragraphs": [
+            "功利主义依靠社会情感和良心，不必只靠永恒奖惩。人可因认同跨世代的人类改善而超越狭窄私利。",
+            "这种“人类宗教”仍需要自由批评，否则共同理想会变成新的死教条。",
+            "设想一个共同理想鼓励人们为后代保护环境。若它允许证据批评、成员可退出并承认多种生活，该功能可能支持道德动机；若领袖以“人类进步”压制异议，同一理想复制死教条。条件变化把动机资源与真理、权力分开。"
+          ],
+          "identity": "mill-18-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "有限神论",
+          "paragraphs": [
+            "从秩序和适应性至多可谨慎推测设计者，却无法由充满缺陷的世界推出全能全善。能力有限的神可减轻恶与全能的冲突，但其证据和宗教安慰都较弱。",
+            "密尔保留希望与想象空间，不把它当知识。称他为确定无神论者或正统有神论者都会压平证据边界。",
+            "有限神论试图从有秩序却缺陷重重的世界，只推到能力有限的设计可能。它缓和全能与恶的逻辑压力，却同时削弱传统安慰，也没有把可能提升为知识。异议若成立，设计推测既证据不足又宗教功能有限。"
+          ],
+          "identity": "mill-18-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "文本身份与结论",
+          "paragraphs": [
+            "《自然》《宗教的功用》《有神论》身后出版，声音兼有批判、功能分析与审慎希望。出版状态必须明示，却不使论证失效。",
+            "合理结论是：自然事实不直接给出道德，宗教功能不证明教义，有限设计推测也达不到确定信仰。",
+            "回应应保住三重边界：自然事实不直接立法，功能不证明真理，希望不冒充知识。接受共同理想也会强制、有限设计证据薄弱，并收缩对宗教替代物的乐观。《自然》《宗教的功用》《有神论》身后出版的状态必须明示。最后债务是：既然证据应如此谦抑，文明等级为何能支撑现实统治。"
+          ],
+          "identity": "mill-18-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "希望不能冒充知识",
+          "paragraphs": [
+            "人类共同理想可能复制宗教强制；有限神论证据薄弱，也不能提供传统全能神的安慰。",
+            "分开规范、功能与真理三问，保留审慎希望但不冒充知识；现代环境伦理另标扩展。"
+          ],
+          "identity": "mill-18-s07",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "治疗疾病是在改变自然却服务善，说明“未经干预”不能直接成为道德标准。",
+      "nodeIds": [
+        "mill-18-node"
+      ],
+      "checkIds": [
+        "mill-18-q1",
+        "mill-18-q2",
+        "mill-18-q3",
+        "mill-18-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《自然与宗教能提供什么道德根据》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": "mill-19",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mill-19",
+      "order": 19,
+      "title": "自由原则为何止步于帝国边界",
+      "depth": "longform",
+      "guidingQuestion": "密尔为成熟成年人规定强力限界，却把其称为尚未文明的社会排除，允许以进步为目的的专制。自由由普遍推定变成由统治者审核的资格。",
+      "coreExplanation": "paragraph-ref:mill-19-p03",
+      "sections": [
+        {
+          "heading": "普遍原则的断点",
+          "paragraphs": [
+            "密尔为成熟成年人规定强力限界，却把其称为尚未文明的社会排除，允许以进步为目的的专制。自由由普遍推定变成由统治者审核的资格。问题不因“阶段可变而非生物固定”消失。可变等级仍让一方规定他者何时成熟，并正当化当下支配。",
+            "前面的论证共同给出三项结果：能力通过自由实验与参与形成，性格须连同制度条件解释，强制例外必须说明受害者、时限和复核。但密尔在《论自由》开篇把所谓未文明社会排除在原则外，允许以改善为目的的专制。体系自己的结果在这里相撞。"
+          ],
+          "identity": "mill-19-s01",
+          "kind": "problem"
+        },
+        {
+          "heading": "性格分类的政治化",
+          "paragraphs": [
+            "人文科学本可说明制度塑造性格；殖民框架却常把被统治者缺少自治经验当作民族性格证据。统治造成的结果被反过来证明统治必要。",
+            "这形成循环：没有参与所以不成熟，因为不成熟所以继续没有参与。科学分类与行政利益在此难以分离。",
+            "阶段论即使不是固定生物种族论，也保留了资格垄断：统治者定义成熟指标、控制参与机会，再用缺少参与经验证明不成熟。制度制造证据，证据延长制度；“将来可以成熟”不能回答当下谁授权、如何申诉和何时结束。"
+          ],
+          "identity": "mill-19-s02",
+          "kind": "argument"
+        },
+        {
+          "heading": "专业殖民行政",
+          "paragraphs": [
+            "密尔为东印度公司式专业行政辩护，担心英国党争或定居者利益带来更坏治理。他重视知识、连续性和改善。",
+            "但官员不由当地人民授权或撤换。专业和地方知识能比较治理方案的危害，却不能自动生成统治合法性。",
+            "东印度公司语境中的章程辩护、请愿和行政备忘录是机构性文本。它们显示密尔重视专业知识、连续性和避免定居者私利，却不能逐句等同《论自由》的抽象规范声音。反过来，机构角色也不消除他参与行政辩护的责任。"
+          ],
+          "identity": "mill-19-s03",
+          "kind": "argument"
+        },
+        {
+          "heading": "不干涉的双重标准",
+          "paragraphs": [
+            "在欧洲国家间，密尔强调自由须由人民自己争取和维持；对其称为野蛮的社会，他为干预留下例外。自治训练原则因此在帝国边界暂停。",
+            "面对屠杀和奴役，绝对不干涉也有道德代价；然而文明化例外若无严格问责，极易被自利帝国解释。",
+            "设想行政确实降低饥荒风险，却不给当地人预算信息、代表权和撤换渠道。绩效改善可比较治理后果，但不能生成政治授权；若建立有时限的紧急干预、独立申诉和当地决定权，正当性问题会改变。紧急防害与无限文明托管不是同一例外。"
+          ],
+          "identity": "mill-19-s04",
+          "kind": "argument"
+        },
+        {
+          "heading": "种族与文明等级",
+          "paragraphs": [
+            "应区分生物种族主义、文明阶段论和行政家长主义。密尔未必在每处诉诸固定生物种族，但其欧洲尺度和政治排除与种族等级话语相互强化。",
+            "不能因第一种证据有别就洗白后两种，也不能用现代标签替代具体文本。帝国自由主义是批评性分析，不是密尔自称。",
+            "最具体的异议是绝对不干涉可能纵容奴役或屠杀，而密尔的阶段分类也未必诉诸生物种族。接受两点可防止批评偷懒；保住的指控是文明尺度与行政家长主义仍造成政治排除；必须收缩的是把所有文本压成同一种种族理论。"
+          ],
+          "identity": "mill-19-s05",
+          "kind": "argument"
+        },
+        {
+          "heading": "不调和的结尾",
+          "paragraphs": [
+            "自由需要生活实验，参与形成能力，社会科学应把制度条件写进性格解释；殖民行政却剥夺实验、暂停参与并把结果归为不成熟。密尔体系自己的理由在这里彼此冲突。",
+            "“时代局限”只能说明普遍偏见如何可能，不能完成规范回应。路线应以未被轻易调和的压力收束：谁有权宣布他人尚不配自由？",
+            "“时代局限”只能因果解释密尔为何共享偏见，不能提供被统治者为何应服从的规范理由。若用历史背景完成调和，自由原则就会在最需要约束权力处失效。这里不伪造和解：自由、参与、社会科学与殖民行政之间的冲突仍未清偿。"
+          ],
+          "identity": "mill-19-s06",
+          "kind": "argument"
+        },
+        {
+          "heading": "把整条路线的债务集中起来",
+          "paragraphs": [
+            "功利尺度要求每个人的利益被同等计入，快乐质量要求实际经验，伤害原则限制家长主义，代议理论说参与生成能力，性别论拒绝用受压样本证明天性。帝国例外却分别削弱同等计入、经验发言、限权、参与和因果识别；问题不是外围瑕疵，而是多条主干在同一点断裂。",
+            "现代“帝国自由主义”是批评性名称，不是密尔自称。它帮助标记规范普遍性与殖民治理的结合，但不能代替对《论自由》《代议制政府论》《论不干涉》和印度行政文本逐层定位。",
+            "最终只能保住有限结论：专业知识可以减少某些治理错误，紧急干预可能面对真实道德理由；两者都不能在没有同意、问责、申诉与终止条件时自动合法化持续统治。剩余债务不交给另一篇，而留作对任何以“能力不足”暂停自由的制度持续检验。"
+          ],
+          "identity": "mill-19-s07",
+          "kind": "argument"
+        },
+        {
+          "heading": "拒绝伪造和解",
+          "paragraphs": [
+            "干预有时可能防止严重暴行，且密尔的文明等级未必等同固定生物种族论。",
+            "区分紧急伤害防止与无限文明托管，也区分三类等级话语；这些澄清不能为缺少同意和问责的统治补足合法性。"
+          ],
+          "identity": "mill-19-s08",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "殖民统治剥夺自治经验，再以经验不足证明继续统治，展示能力例外的自我维持循环。",
+      "nodeIds": [
+        "mill-19-node"
+      ],
+      "checkIds": [
+        "mill-19-q1",
+        "mill-19-q2",
+        "mill-19-q3",
+        "mill-19-q4"
+      ],
+      "abilitySummary": [
+        "能够重建《自由原则为何止步于帝国边界》的关键推理，区分密尔原典、泰勒合作、边沁传统与现代扩展，并指出论证仍承受的压力。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "mill-01-q1",
+      "kind": "singleChoice",
+      "prompt": "密尔对边沁的修正最准确落在哪里？",
+      "targetNodeIds": [
+        "mill-01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "保留幸福标准，同时扩充幸福内容及规则、性格和制度中介。",
+          "feedback": "继承与修正必须同时出现。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "保留幸福标准，但把尊严改作无须由幸福说明的独立终点。",
+          "feedback": "把修正误写成了完全决裂。 正确链条须保留：保留幸福标准，同时扩充幸福内容及规则、性格和制度中介。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-01-q1-local-error"
+    },
+    {
+      "id": "mill-01-q2",
+      "kind": "singleChoice",
+      "prompt": "工时案例为什么不是简单的产量比较？",
+      "targetNodeIds": [
+        "mill-01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "制度虽改变健康与关系，长期谈判权却不属于功利后果。",
+          "feedback": "把长期谈判权排除在制度后果之外。 正确链条须保留：制度还改变健康、关系、参与能力与长期谈判权。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "制度还改变健康、关系、参与能力与长期谈判权。",
+          "feedback": "后果必须包含主体和权力的长期变化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-01-q2-local-error"
+    },
+    {
+      "id": "mill-01-q3",
+      "kind": "singleChoice",
+      "prompt": "规则在这种功利主义中有什么位置？",
+      "targetNodeIds": [
+        "mill-01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "规则源自经验，故可脱离幸福复核。",
+          "feedback": "把中介误成了不受检验的终极来源。 正确链条须保留：规则沉淀经验并保护期待，不能因一次便利随手撤销。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "规则沉淀经验并保护期待，不能因一次便利随手撤销。",
+          "feedback": "规则是受最终标准约束的实践中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-01-q3-local-error"
+    },
+    {
+      "id": "mill-01-q4",
+      "kind": "singleChoice",
+      "prompt": "哪项困难仍未解决？",
+      "targetNodeIds": [
+        "mill-01-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "幸福概念为不同价值提供共同且可换算的度量。",
+          "feedback": "把共同名称当成了测量程序。 正确链条须保留：厚价值如何在幸福内部比较，仍缺少统一无争议的度量。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "厚价值如何在幸福内部比较，仍缺少统一无争议的度量。",
+          "feedback": "丰富价值会带来比较压力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-01-q4-local-error"
+    },
+    {
+      "id": "mill-02-q1",
+      "kind": "singleChoice",
+      "prompt": "判断较高快乐时，哪项证据最接近密尔？",
+      "targetNodeIds": [
+        "mill-02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "充分经历两类快乐者在非义务压力下的稳定偏好。",
+          "feedback": "资格依赖经验与选择。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "由同时体验两类快乐者一次明确的选择判定高下。",
+          "feedback": "把一次选择误当成了跨经验的稳定偏好。 正确链条须保留：充分经历两类快乐者在非义务压力下的稳定偏好。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-02-q1-local-error"
+    },
+    {
+      "id": "mill-02-q2",
+      "kind": "singleChoice",
+      "prompt": "“不满足的苏格拉底”主要比较什么？",
+      "targetNodeIds": [
+        "mill-02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "比较哲学生活与感官生活在同一时段产生的快乐强度。",
+          "feedback": "把完整生活的能力运用压缩成了同一时段的快乐强度。 正确链条须保留：运用较高能力的完整生活与只求舒适的生活。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "运用较高能力的完整生活与只求舒适的生活。",
+          "feedback": "比较对象是生活形态。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-02-q2-local-error"
+    },
+    {
+      "id": "mill-02-q3",
+      "kind": "singleChoice",
+      "prompt": "判断者循环指向哪一处？",
+      "targetNodeIds": [
+        "mill-02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "较高快乐由合格者选择，而合格者又可能靠该选择识别。",
+          "feedback": "资格与结论可能互相定义。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "广泛经验确定资格，偏好无需另证。",
+          "feedback": "指出了维度，却没有命中循环。 正确链条须保留：较高快乐由合格者选择，而合格者又可能靠该选择识别。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-02-q3-local-error"
+    },
+    {
+      "id": "mill-02-q4",
+      "kind": "singleChoice",
+      "prompt": "能力论可如何进入这里？",
+      "targetNodeIds": [
+        "mill-02-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "作为现代扩展解释受压抑偏好，不能冒充密尔完成的方案。",
+          "feedback": "身份边界必须保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "能力论给出了密尔用来测定快乐质量的操作程序。",
+          "feedback": "把后世重构倒写成原典。 正确链条须保留：作为现代扩展解释受压抑偏好，不能冒充密尔完成的方案。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-02-q4-local-error"
+    },
+    {
+      "id": "mill-03-q1",
+      "kind": "singleChoice",
+      "prompt": "为什么“证明”不能按数学演绎理解？",
+      "targetNodeIds": [
+        "mill-03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "终极目的的非派生地位排除了经验辩护的需要。",
+          "feedback": "把非演绎误成无论证。 正确链条须保留：终极目的若由更高目的推出，就失去终极地位。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "终极目的若由更高目的推出，就失去终极地位。",
+          "feedback": "限制证明类型不等于放弃辩护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-03-q1-local-error"
+    },
+    {
+      "id": "mill-03-q2",
+      "kind": "singleChoice",
+      "prompt": "从个人幸福到总体幸福缺少什么？",
+      "targetNodeIds": [
+        "mill-03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "普遍观点、平等考虑与把各人利益联结起来的中介。",
+          "feedback": "聚合需要规范中介。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "个人幸福欲望的汇总构成总体幸福义务所需的中介。",
+          "feedback": "把共同心理事实当成总体义务。 正确链条须保留：普遍观点、平等考虑与把各人利益联结起来的中介。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-03-q2-local-error"
+    },
+    {
+      "id": "mill-03-q3",
+      "kind": "singleChoice",
+      "prompt": "德性成为幸福部分回应了什么？",
+      "targetNodeIds": [
+        "mill-03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "德性能够成为幸福部分，表明被稳定欲求的对象具有道德价值。",
+          "feedback": "把心理形成误成规范认证。 正确链条须保留：其他目的可被容纳，而不必一概排除为虚假欲望。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "其他目的可被容纳，而不必一概排除为虚假欲望。",
+          "feedback": "回应的是多种目的的容纳。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-03-q3-local-error"
+    },
+    {
+      "id": "mill-03-q4",
+      "kind": "singleChoice",
+      "prompt": "最合适的结论是哪项？",
+      "targetNodeIds": [
+        "mill-03-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "这是有实质内容但保留四个跳跃的经验辩护。",
+          "feedback": "证据强度与剩余缺口须并写。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "这是连续完成四步跳跃的经验论证。",
+          "feedback": "抹去了文本明示的证明限度。 正确链条须保留：这是有实质内容但保留四个跳跃的经验辩护。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-03-q4-local-error"
+    },
+    {
+      "id": "mill-04-q1",
+      "kind": "singleChoice",
+      "prompt": "制裁问题与道德标准有何区别？",
+      "targetNodeIds": [
+        "mill-04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "标准判断何者正确，制裁解释人为何感到义务有约束力。",
+          "feedback": "动机与标准是两个问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "内在制裁既说明义务感，也确立道德标准。",
+          "feedback": "用动力事实替代价值论证。 正确链条须保留：标准判断何者正确，制裁解释人为何感到义务有约束力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-04-q1-local-error"
+    },
+    {
+      "id": "mill-04-q2",
+      "kind": "singleChoice",
+      "prompt": "正义为何比一般行善更严格？",
+      "targetNodeIds": [
+        "mill-04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它涉及可指认者的权利和可执行的制裁要求。",
+          "feedback": "权利对象是关键中介。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "正义要求较强，是因为正义行为通常产生较大的即时收益。",
+          "feedback": "把稳定义务缩成逐案收益。 正确链条须保留：它涉及可指认者的权利和可执行的制裁要求。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-04-q2-local-error"
+    },
+    {
+      "id": "mill-04-q3",
+      "kind": "singleChoice",
+      "prompt": "安全在权利论中承担什么作用？",
+      "targetNodeIds": [
+        "mill-04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "安全的长期重要性把权利转化为不受情境审查的规范。",
+          "feedback": "把强根据误成先验绝对性。 正确链条须保留：它是各种生活计划所依赖的普遍而长期条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它是各种生活计划所依赖的普遍而长期条件。",
+          "feedback": "安全说明高等级功利根据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-04-q3-local-error"
+    },
+    {
+      "id": "mill-04-q4",
+      "kind": "singleChoice",
+      "prompt": "哪项边界必须保留？",
+      "targetNodeIds": [
+        "mill-04-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "例外空间把权利降为通常有效的实践规则。",
+          "feedback": "把一种风险夸成每次判断的结论。 正确链条须保留：规则可强力保护权利，却未消灭极端例外的理论争议。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "规则可强力保护权利，却未消灭极端例外的理论争议。",
+          "feedback": "既不能轻量化权利，也不能虚构绝对答案。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-04-q4-local-error"
+    },
+    {
+      "id": "mill-05-q1",
+      "kind": "singleChoice",
+      "prompt": "伤害原则直接限制的是什么？",
+      "targetNodeIds": [
+        "mill-05-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "违背成年人意志的强制，而非一切批评和劝说。",
+          "feedback": "对象是强制权限。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "限制国家强制也限制社会批评。",
+          "feedback": "把社会意见与国家强制完全等同。 正确链条须保留：违背成年人意志的强制，而非一切批评和劝说。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-05-q1-local-error"
+    },
+    {
+      "id": "mill-05-q2",
+      "kind": "singleChoice",
+      "prompt": "损坏桥梁案例说明哪一区分？",
+      "targetNodeIds": [
+        "mill-05-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "临时警告成立，持续阻止也成立。",
+          "feedback": "把信息条件误成全面家长主义。 正确链条须保留：确保选择知情不同于持续替主体选择。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "确保选择知情不同于持续替主体选择。",
+          "feedback": "短暂干预服务于真实意愿。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-05-q2-local-error"
+    },
+    {
+      "id": "mill-05-q3",
+      "kind": "singleChoice",
+      "prompt": "值勤者醉酒为何可进入涉他范围？",
+      "targetNodeIds": [
+        "mill-05-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "涉他范围取决于饮酒风险，而非值勤角色。",
+          "feedback": "把情境理由换成行为本质。 正确链条须保留：角色产生对他人的明确义务与可预见风险。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "角色产生对他人的明确义务与可预见风险。",
+          "feedback": "涉他性来自义务结构。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-05-q3-local-error"
+    },
+    {
+      "id": "mill-05-q4",
+      "kind": "singleChoice",
+      "prompt": "文明例外为何危险？",
+      "targetNodeIds": [
+        "mill-05-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "政治统治不改变儿童例外结构。",
+          "feedback": "忽略了政治支配制造能力证据。 正确链条须保留：统治造成经验匮乏，又以匮乏证明不配自治。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "统治造成经验匮乏，又以匮乏证明不配自治。",
+          "feedback": "成人共同体类比会自我维持。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-05-q4-local-error"
+    },
+    {
+      "id": "mill-06-q1",
+      "kind": "singleChoice",
+      "prompt": "哪条理由在异议确为错误时仍成立？",
+      "targetNodeIds": [
+        "mill-06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "反驳能防止真理退化为不懂理由的死教条。",
+          "feedback": "自由论证不只依赖异议可能为真。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "被证伪意见的表达空间不再具有认识价值。",
+          "feedback": "把第一条理由当成全部论证。 正确链条须保留：反驳能防止真理退化为不懂理由的死教条。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-06-q1-local-error"
+    },
+    {
+      "id": "mill-06-q2",
+      "kind": "singleChoice",
+      "prompt": "粮商案例为何允许不同处理？",
+      "targetNodeIds": [
+        "mill-06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "语境使陈述转化为迫近行动风险，而非命题突然变假。",
+          "feedback": "规制根据是语境和风险。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "粮商住宅前的冒犯程度构成强制处理根据。",
+          "feedback": "把伤害风险换成单纯冒犯。 正确链条须保留：语境使陈述转化为迫近行动风险，而非命题突然变假。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-06-q2-local-error"
+    },
+    {
+      "id": "mill-06-q3",
+      "kind": "singleChoice",
+      "prompt": "“部分真理”意味着什么？",
+      "targetNodeIds": [
+        "mill-06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "双方各含部分真理，对应证据应获相同权重。",
+          "feedback": "把可能包含真理误成平均真理主义。 正确链条须保留：对立立场可能各抓住被另一方遗漏的经验或条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "对立立场可能各抓住被另一方遗漏的经验或条件。",
+          "feedback": "部分性要求具体重组。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-06-q3-local-error"
+    },
+    {
+      "id": "mill-06-q4",
+      "kind": "singleChoice",
+      "prompt": "平台操纵应如何进入密尔框架？",
+      "targetNodeIds": [
+        "mill-06-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "作为传播结构的现代扩展，并检验权力与行动风险。",
+          "feedback": "现代迁移要标身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "平台操纵只是言论数量变化。",
+          "feedback": "把传播结构和权力问题缩成了言论数量变化。 正确链条须保留：作为传播结构的现代扩展，并检验权力与行动风险。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-06-q4-local-error"
+    },
+    {
+      "id": "mill-07-q1",
+      "kind": "singleChoice",
+      "prompt": "个性为何不只是偏好任性？",
+      "targetNodeIds": [
+        "mill-07-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "判断与计划能力要在实际选择和承担后果中发展。",
+          "feedback": "价值在能力运用。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "个性的发展价值提高了偏离习俗选择的正确概率。",
+          "feedback": "把实验空间误成异端必真。 正确链条须保留：判断与计划能力要在实际选择和承担后果中发展。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-07-q1-local-error"
+    },
+    {
+      "id": "mill-07-q2",
+      "kind": "singleChoice",
+      "prompt": "生活实验受哪项限制？",
+      "targetNodeIds": [
+        "mill-07-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "不能把无权同意或退出者当作失败成本承担者。",
+          "feedback": "实验仍受伤害与同意约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "发起者承担实验风险时，旁人的退出能力不影响实验边界。",
+          "feedback": "用命名取消了第三方利益。 正确链条须保留：不能把无权同意或退出者当作失败成本承担者。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-07-q2-local-error"
+    },
+    {
+      "id": "mill-07-q3",
+      "kind": "singleChoice",
+      "prompt": "多数暴政为何不限于政府？",
+      "targetNodeIds": [
+        "mill-07-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "多数意见形成广泛赞同时，其人数优势本身构成社会强制。",
+          "feedback": "把意见存在与强制效果混为一谈。 正确链条须保留：舆论和机会结构也能以惩罚塑造生活与欲望。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "舆论和机会结构也能以惩罚塑造生活与欲望。",
+          "feedback": "社会制裁是另一种权力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-07-q3-local-error"
+    },
+    {
+      "id": "mill-07-q4",
+      "kind": "singleChoice",
+      "prompt": "三条论证如何衔接？",
+      "targetNodeIds": [
+        "mill-07-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "限权给空间，个性说明价值，多数暴政指出社会威胁。",
+          "feedback": "三者分工且互相约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "生活实验的积极价值放宽了伤害边界。",
+          "feedback": "用积极价值吞没了限权条件。 正确链条须保留：限权给空间，个性说明价值，多数暴政指出社会威胁。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-07-q4-local-error"
+    },
+    {
+      "id": "mill-08-q1",
+      "kind": "singleChoice",
+      "prompt": "好政府的第二项标准是什么？",
+      "targetNodeIds": [
+        "mill-08-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "制度是否发展公民的判断、责任和公共能力。",
+          "feedback": "人之发展与管理质量并列。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "好政府发展公民能力，主要方式是由专业行政替公民作出判断。",
+          "feedback": "把公民被动化当成制度优点。 正确链条须保留：制度是否发展公民的判断、责任和公共能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-08-q1-local-error"
+    },
+    {
+      "id": "mill-08-q2",
+      "kind": "singleChoice",
+      "prompt": "参与为何不是已有能力的奖励？",
+      "targetNodeIds": [
+        "mill-08-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "参与以既有判断能力为准入条件。",
+          "feedback": "把结果当成进入条件。 正确链条须保留：参与本身会形成说明理由和承担共同后果的能力。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "参与本身会形成说明理由和承担共同后果的能力。",
+          "feedback": "能力也由实践生成。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-08-q2-local-error"
+    },
+    {
+      "id": "mill-08-q3",
+      "kind": "singleChoice",
+      "prompt": "专业行政与参与应如何结合？",
+      "targetNodeIds": [
+        "mill-08-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "公众代表监督审议，专业人员执行并保持可问责。",
+          "feedback": "分工不取消责任链。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "行政连续性与技术专业性要求代表监督退出技术事项。",
+          "feedback": "把专业性误成免受问责。 正确链条须保留：公众代表监督审议，专业人员执行并保持可问责。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-08-q3-local-error"
+    },
+    {
+      "id": "mill-08-q4",
+      "kind": "singleChoice",
+      "prompt": "参与论怎样压力测试殖民例外？",
+      "targetNodeIds": [
+        "mill-08-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "殖民训练先成能力再开放参与。",
+          "feedback": "颠倒了参与教育的方向。 正确链条须保留：剥夺参与会制造被用来证明继续剥夺的经验不足。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "剥夺参与会制造被用来证明继续剥夺的经验不足。",
+          "feedback": "能力形成与排除构成循环。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-08-q4-local-error"
+    },
+    {
+      "id": "mill-09-q1",
+      "kind": "singleChoice",
+      "prompt": "比例代表首先要修复什么？",
+      "targetNodeIds": [
+        "mill-09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "分散少数在每个选区落败而无法取得代表席位的结构。",
+          "feedback": "代表声音与决策权须区分。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "比例代表保障少数进入议会，也给予少数阻止多数决定的权力。",
+          "feedback": "把被代表偷换成绝对否决。 正确链条须保留：分散少数在每个选区落败而无法取得代表席位的结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-09-q1-local-error"
+    },
+    {
+      "id": "mill-09-q2",
+      "kind": "singleChoice",
+      "prompt": "代表机关与行政如何分工？",
+      "targetNodeIds": [
+        "mill-09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "代表机关公开审议监督，专业行政连续执行。",
+          "feedback": "公开责任与专业执行并存。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "公开负责使议会也应亲自执行政策。",
+          "feedback": "用参与取消了必要分工。 正确链条须保留：代表机关公开审议监督，专业行政连续执行。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-09-q2-local-error"
+    },
+    {
+      "id": "mill-09-q3",
+      "kind": "singleChoice",
+      "prompt": "复数投票的核心异议是什么？",
+      "targetNodeIds": [
+        "mill-09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "教育带来的判断优势消除了复数投票的平等异议。",
+          "feedback": "把争议方案描述成其反面。 正确链条须保留：教育资源差异被转化为人格化的政治权重差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "教育资源差异被转化为人格化的政治权重差异。",
+          "feedback": "精英主义体现在票权加权。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-09-q3-local-error"
+    },
+    {
+      "id": "mill-09-q4",
+      "kind": "singleChoice",
+      "prompt": "现代改善公共能力的方案应怎样标记？",
+      "targetNodeIds": [
+        "mill-09-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "可作扩展提出，但不能说密尔已用它取代复数投票。",
+          "feedback": "扩展不能抹去原典限制。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "平等方案可证明复数投票并非密尔立场。",
+          "feedback": "以较可取方案改写历史文本。 正确链条须保留：可作扩展提出，但不能说密尔已用它取代复数投票。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-09-q4-local-error"
+    },
+    {
+      "id": "mill-10-q1",
+      "kind": "singleChoice",
+      "prompt": "地方治理的积极理由有哪些？",
+      "targetNodeIds": [
+        "mill-10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "在地知识使地方监督显得多余。",
+          "feedback": "把条件性优点绝对化。 正确链条须保留：在地知识与公民能力实践同时存在。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "在地知识与公民能力实践同时存在。",
+          "feedback": "知识和参与是双重理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-10-q1-local-error"
+    },
+    {
+      "id": "mill-10-q2",
+      "kind": "singleChoice",
+      "prompt": "中央纠错最强的根据是什么？",
+      "targetNodeIds": [
+        "mill-10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "中央更专业的判断可作为中央纠错根据。",
+          "feedback": "由中央的专业优势越级推出了干预权限。 正确链条须保留：保护基本权利和处理跨地方外部性。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "保护基本权利和处理跨地方外部性。",
+          "feedback": "介入需要更强公共理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-10-q2-local-error"
+    },
+    {
+      "id": "mill-10-q3",
+      "kind": "singleChoice",
+      "prompt": "专业行政为何仍需代表监督？",
+      "targetNodeIds": [
+        "mill-10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "知识优势本身不能产生免问责的统治权。",
+          "feedback": "能力与合法性不是同一概念。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "专业可靠性同时提供政治授权。",
+          "feedback": "把认识优势偷换成政治授权。 正确链条须保留：知识优势本身不能产生免问责的统治权。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-10-q3-local-error"
+    },
+    {
+      "id": "mill-10-q4",
+      "kind": "singleChoice",
+      "prompt": "殖民行政如何构成反例？",
+      "targetNodeIds": [
+        "mill-10-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它声称专业和地方知识，却缺少当地授权与撤换链。",
+          "feedback": "知识声明不能替代问责。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "殖民行政的地方知识和官员训练实现了地方参与功能。",
+          "feedback": "把非自治统治写成参与治理。 正确链条须保留：它声称专业和地方知识，却缺少当地授权与撤换链。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-10-q4-local-error"
+    },
+    {
+      "id": "mill-11-q1",
+      "kind": "singleChoice",
+      "prompt": "反“女性本性”论证首先攻击什么？",
+      "targetNodeIds": [
+        "mill-11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "受限样本不能证明自然差异，由此可推定个体能力没有差异。",
+          "feedback": "把反不当归纳夸成同一性证明。 正确链条须保留：受制度限制的样本不足以支持自然差异结论。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "受制度限制的样本不足以支持自然差异结论。",
+          "feedback": "攻击的是证据条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-11-q1-local-error"
+    },
+    {
+      "id": "mill-11-q2",
+      "kind": "singleChoice",
+      "prompt": "表面偏好为何不足以证明制度合意？",
+      "targetNodeIds": [
+        "mill-11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "奖惩和依赖可能塑造人可想象、可欲求的生活。",
+          "feedback": "偏好形成需要权力分析。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "受奖惩塑造的偏好不能反映制度合意。",
+          "feedback": "把条件影响改成绝对决定论。 正确链条须保留：奖惩和依赖可能塑造人可想象、可欲求的生活。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-11-q2-local-error"
+    },
+    {
+      "id": "mill-11-q3",
+      "kind": "singleChoice",
+      "prompt": "泰勒合作应如何表述？",
+      "targetNodeIds": [
+        "mill-11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "合作证据不足时，可用论述风格判断具体句子的作者。",
+          "feedback": "用风格猜测代替文献证据。 正确链条须保留：分开署名文本、密尔合作声明与后世推断。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "分开署名文本、密尔合作声明与后世推断。",
+          "feedback": "证据层级先于归属结论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-11-q3-local-error"
+    },
+    {
+      "id": "mill-11-q4",
+      "kind": "singleChoice",
+      "prompt": "平等论证为何不能只谈人才利用？",
+      "targetNodeIds": [
+        "mill-11-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "否则人格自由会变成效率下降时可撤回的工具。",
+          "feedback": "多路理由应同时保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "人才利用的社会收益取代了人格自由论证。",
+          "feedback": "用一种理由取消文本中的另一种。 正确链条须保留：否则人格自由会变成效率下降时可撤回的工具。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-11-q4-local-error"
+    },
+    {
+      "id": "mill-12-q1",
+      "kind": "singleChoice",
+      "prompt": "形式同意为何不足以证明婚姻平等？",
+      "targetNodeIds": [
+        "mill-12-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "依赖条件使形式同意失去规范效力。",
+          "feedback": "把条件性批评改成普遍否定。 正确链条须保留：持续地位、资源与可行退出决定拒绝是否真实。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "持续地位、资源与可行退出决定拒绝是否真实。",
+          "feedback": "批评针对同意条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-12-q1-local-error"
+    },
+    {
+      "id": "mill-12-q2",
+      "kind": "singleChoice",
+      "prompt": "家庭为何不是完全免于公共审查？",
+      "targetNodeIds": [
+        "mill-12-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "其中的人格、财产和安全侵害具有明确受影响者。",
+          "feedback": "涉他利益提供有限介入根据。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "明确受害者的存在支持公共权力管理家庭决定。",
+          "feedback": "用防止支配支持全面管理。 正确链条须保留：其中的人格、财产和安全侵害具有明确受影响者。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-12-q2-local-error"
+    },
+    {
+      "id": "mill-12-q3",
+      "kind": "singleChoice",
+      "prompt": "职业与选举权如何影响家庭？",
+      "targetNodeIds": [
+        "mill-12-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "职业与选举权扩大公共身份，但不改变家庭中的退出资源。",
+          "feedback": "忽略了资源和代表的作用。 正确链条须保留：它们扩大独立资源、退出可能与利益表达。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它们扩大独立资源、退出可能与利益表达。",
+          "feedback": "公共机会改变私人谈判结构。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-12-q3-local-error"
+    },
+    {
+      "id": "mill-12-q4",
+      "kind": "singleChoice",
+      "prompt": "现代照顾伦理应怎样出现？",
+      "targetNodeIds": [
+        "mill-12-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "照顾伦理关注依赖关系，可视为《妇女的屈从》的既成方案。",
+          "feedback": "把后世问题意识倒写成原文。 正确链条须保留：作为补充密尔盲点的扩展，不冒充原典既有方案。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "作为补充密尔盲点的扩展，不冒充原典既有方案。",
+          "feedback": "需标明历史身份。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-12-q4-local-error"
+    },
+    {
+      "id": "mill-13-q1",
+      "kind": "singleChoice",
+      "prompt": "政治经济学的抽象应如何理解？",
+      "targetNodeIds": [
+        "mill-13-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "隔离主要动因的条件性趋势，仍需经验和制度修正。",
+          "feedback": "抽象是方法装置。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "对财富动因的抽象隔离等同于完整行为预测。",
+          "feedback": "把分析假设自然化为完整人性。 正确链条须保留：隔离主要动因的条件性趋势，仍需经验和制度修正。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-13-q1-local-error"
+    },
+    {
+      "id": "mill-13-q2",
+      "kind": "singleChoice",
+      "prompt": "生产/分配区分的批判作用是什么？",
+      "targetNodeIds": [
+        "mill-13-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "揭示财产与收益规则可由社会改变，不像物质条件般固定。",
+          "feedback": "区分服务于反自然化。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "分配可变使两类规律在理论上彼此分离。",
+          "feedback": "把分析区分绝对化。 正确链条须保留：揭示财产与收益规则可由社会改变，不像物质条件般固定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-13-q2-local-error"
+    },
+    {
+      "id": "mill-13-q3",
+      "kind": "singleChoice",
+      "prompt": "土地案例为何包含双向作用？",
+      "targetNodeIds": [
+        "mill-13-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "租佃规则改变收益归属，也可能改变改良投入。",
+          "feedback": "制度和物质条件相互约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "改良投入表明土壤生产力来自制度。",
+          "feedback": "用制度作用取消物质约束。 正确链条须保留：租佃规则改变收益归属，也可能改变改良投入。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-13-q3-local-error"
+    },
+    {
+      "id": "mill-13-q4",
+      "kind": "singleChoice",
+      "prompt": "反例对倾向规律有何作用？",
+      "targetNodeIds": [
+        "mill-13-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "反例属于干扰条件时，原有倾向规律无需调整适用范围。",
+          "feedback": "用干扰语言让理论免疫。 正确链条须保留：检查遗漏条件，迫使修正而非径直推翻或豁免。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "检查遗漏条件，迫使修正而非径直推翻或豁免。",
+          "feedback": "条件性规律仍要可检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-13-q4-local-error"
+    },
+    {
+      "id": "mill-14-q1",
+      "kind": "singleChoice",
+      "prompt": "稳态中的“静止”指什么？",
+      "targetNodeIds": [
+        "mill-14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "资本与人口停止增长时，知识和制度创新也进入静止状态。",
+          "feedback": "把一个维度扩成全面停滞。 正确链条须保留：资本和人口数量不再快速增长，不是思想与制度停止。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "资本和人口数量不再快速增长，不是思想与制度停止。",
+          "feedback": "经济数量与人类发展须区分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-14-q1-local-error"
+    },
+    {
+      "id": "mill-14-q2",
+      "kind": "singleChoice",
+      "prompt": "密尔为何批评无限增长？",
+      "targetNodeIds": [
+        "mill-14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "增长若不改善分配、闲暇和能力，就不是终极进步。",
+          "feedback": "产出要接受生活标准检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "产出提高与生活质量下降属于增长批评的同一结论。",
+          "feedback": "把条件批评变成绝对反增长。 正确链条须保留：增长若不改善分配、闲暇和能力，就不是终极进步。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-14-q2-local-error"
+    },
+    {
+      "id": "mill-14-q3",
+      "kind": "singleChoice",
+      "prompt": "贫困社会构成什么边界？",
+      "targetNodeIds": [
+        "mill-14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "在匮乏未解时冻结产出可能固化贫困。",
+          "feedback": "稳态有物质前提。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "匮乏使分配改革应推迟。",
+          "feedback": "用生产需要取消分配问题。 正确链条须保留：在匮乏未解时冻结产出可能固化贫困。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-14-q3-local-error"
+    },
+    {
+      "id": "mill-14-q4",
+      "kind": "singleChoice",
+      "prompt": "与现代去增长如何关联？",
+      "targetNodeIds": [
+        "mill-14-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "稳态与去增长问题结构相同。",
+          "feedback": "把后世问题写成原典内容。 正确链条须保留：可作有边界的思想比较，不能等同。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "可作有边界的思想比较，不能等同。",
+          "feedback": "现代议题需要身份标记。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-14-q4-local-error"
+    },
+    {
+      "id": "mill-15-q1",
+      "kind": "singleChoice",
+      "prompt": "合作社为何不只是分配工具？",
+      "targetNodeIds": [
+        "mill-15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "合作社改变收益分配，但生产中的命令关系保持不变。",
+          "feedback": "忽略了治理结构。 正确链条须保留：共同决策还训练自治并改变生产中的命令关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "共同决策还训练自治并改变生产中的命令关系。",
+          "feedback": "经济与能力效果相连。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-15-q1-local-error"
+    },
+    {
+      "id": "mill-15-q2",
+      "kind": "singleChoice",
+      "prompt": "对称比较要求什么？",
+      "targetNodeIds": [
+        "mill-15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "对现存私产制和社会主义方案同样检验真实激励、权力与自由。",
+          "feedback": "比较基线必须对称。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "比较制度可用成熟私产制为基准，检验合作社早期表现。",
+          "feedback": "为现状设置了特权基线。 正确链条须保留：对现存私产制和社会主义方案同样检验真实激励、权力与自由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-15-q2-local-error"
+    },
+    {
+      "id": "mill-15-q3",
+      "kind": "singleChoice",
+      "prompt": "密尔的社会主义位置如何概括？",
+      "targetNodeIds": [
+        "mill-15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "接受实验即认可取消市场的制度。",
+          "feedback": "把探索态度改成最终教条。 正确链条须保留：对批评和实验更开放，同时警惕集中权力与个性压缩。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "对批评和实验更开放，同时警惕集中权力与个性压缩。",
+          "feedback": "开放变化与保留边界并存。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-15-q3-local-error"
+    },
+    {
+      "id": "mill-15-q4",
+      "kind": "singleChoice",
+      "prompt": "泰勒贡献如何标记？",
+      "targetNodeIds": [
+        "mill-15-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "合作语境很强时，可按论述激进程度推断具体作者。",
+          "feedback": "用思想风格替代文献证据。 正确链条须保留：承认强合作语境，同时拒绝无证据的逐句归属。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "承认强合作语境，同时拒绝无证据的逐句归属。",
+          "feedback": "证据层级同样适用于经济文本。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-15-q4-local-error"
+    },
+    {
+      "id": "mill-16-q1",
+      "kind": "singleChoice",
+      "prompt": "三段论在密尔那里为何不是知识最终来源？",
+      "targetNodeIds": [
+        "mill-16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "经验来源使三段论失去传递已有知识的效力。",
+          "feedback": "把来源问题夸成演绎无效。 正确链条须保留：大前提关于世界的内容仍需由经验支持。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "大前提关于世界的内容仍需由经验支持。",
+          "feedback": "批评针对事实来源，不是否定形式有效性。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-16-q1-local-error"
+    },
+    {
+      "id": "mill-16-q2",
+      "kind": "singleChoice",
+      "prompt": "契合法能单独证明什么？",
+      "targetNodeIds": [
+        "mill-16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它提供共同因素线索，仍需排除混杂和多因。",
+          "feedback": "共现只是调查起点。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "契合法中的共同因素本身完成了因果判定。",
+          "feedback": "把共同因素线索升级为完整因果判定。 正确链条须保留：它提供共同因素线索，仍需排除混杂和多因。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-16-q2-local-error"
+    },
+    {
+      "id": "mill-16-q3",
+      "kind": "singleChoice",
+      "prompt": "原因作为条件组合意味着什么？",
+      "targetNodeIds": [
+        "mill-16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "一个作用因素构成完整原因，背景条件不参与结果生成。",
+          "feedback": "删除了背景条件。 正确链条须保留：单一因素常须与背景条件共同产生结果。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "单一因素常须与背景条件共同产生结果。",
+          "feedback": "复杂因果需要组合分析。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-16-q3-local-error"
+    },
+    {
+      "id": "mill-16-q4",
+      "kind": "singleChoice",
+      "prompt": "社会研究为何需要下一步方法？",
+      "targetNodeIds": [
+        "mill-16-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "条件难控制，须结合倾向推导与历史验证。",
+          "feedback": "复杂性改变方法，不取消解释。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "难以控制社会条件使社会因果研究失去可能性。",
+          "feedback": "把受限研究误成不可研究。 正确链条须保留：条件难控制，须结合倾向推导与历史验证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-16-q4-local-error"
+    },
+    {
+      "id": "mill-17-q1",
+      "kind": "singleChoice",
+      "prompt": "社会规律为何不等于严格宿命？",
+      "targetNodeIds": [
+        "mill-17-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "相同条件下的社会倾向给出确定行动。",
+          "feedback": "把条件性倾向误写成相同条件下的确定行动。 正确链条须保留：它们描述条件性倾向，反思和制度改变也会成为原因。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它们描述条件性倾向，反思和制度改变也会成为原因。",
+          "feedback": "规律依赖条件组合。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-17-q1-local-error"
+    },
+    {
+      "id": "mill-17-q2",
+      "kind": "singleChoice",
+      "prompt": "逆向演绎如何工作？",
+      "targetNodeIds": [
+        "mill-17-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "从历史经验规律回溯机制，再用机制检验迁移范围。",
+          "feedback": "经验与机制须往返。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "历史经验规律反复出现时，重复本身可以替代机制解释。",
+          "feedback": "省略了机制和验证。 正确链条须保留：从历史经验规律回溯机制，再用机制检验迁移范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-17-q2-local-error"
+    },
+    {
+      "id": "mill-17-q3",
+      "kind": "singleChoice",
+      "prompt": "民族性格学为何双刃？",
+      "targetNodeIds": [
+        "mill-17-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "制度塑造论可以排除本质化风险。",
+          "feedback": "删除了方法的政治危险。 正确链条须保留：它可解释制度塑造，也可把殖民印象固化为本质。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它可解释制度塑造，也可把殖民印象固化为本质。",
+          "feedback": "同一工具有反自然化和分类风险。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-17-q3-local-error"
+    },
+    {
+      "id": "mill-17-q4",
+      "kind": "singleChoice",
+      "prompt": "这篇为何不并入宗教？",
+      "targetNodeIds": [
+        "mill-17-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "人文科学处理事实规律，宗教处理价值问题，两者彼此独立。",
+          "feedback": "把结构拆分误成主题断绝。 正确链条须保留：人文科学的方法压力已独立完整，宗教另有事实规范和证据问题。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "人文科学的方法压力已独立完整，宗教另有事实规范和证据问题。",
+          "feedback": "拆分来自问题负载。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-17-q4-local-error"
+    },
+    {
+      "id": "mill-18-q1",
+      "kind": "singleChoice",
+      "prompt": "“顺应自然”为什么含混？",
+      "targetNodeIds": [
+        "mill-18-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "自然若指一切便不可违，若指未干预则改善活动常反其道。",
+          "feedback": "两种含义都不能直接给规范。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "自然包含未经干预的过程，因此这类过程具有初步道德权威。",
+          "feedback": "把事实存在当成应当模仿。 正确链条须保留：自然若指一切便不可违，若指未干预则改善活动常反其道。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-18-q1-local-error"
+    },
+    {
+      "id": "mill-18-q2",
+      "kind": "singleChoice",
+      "prompt": "宗教功能与真理是什么关系？",
+      "targetNodeIds": [
+        "mill-18-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "能提供动机和意义，不足以证明教义为真。",
+          "feedback": "功能证据与真理证据不同。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "宗教提供稳定动机与意义，这种功能构成教义真实性证据。",
+          "feedback": "用心理效果替代存在证据。 正确链条须保留：能提供动机和意义，不足以证明教义为真。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-18-q2-local-error"
+    },
+    {
+      "id": "mill-18-q3",
+      "kind": "singleChoice",
+      "prompt": "有限神论回应了什么？",
+      "targetNodeIds": [
+        "mill-18-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "有限设计对世界缺陷的解释支持传统神。",
+          "feedback": "把有限可能夸成确定正统信仰。 正确链条须保留：它避免由缺陷世界推出全能全善设计者。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它避免由缺陷世界推出全能全善设计者。",
+          "feedback": "推测强度被有意限制。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-18-q3-local-error"
+    },
+    {
+      "id": "mill-18-q4",
+      "kind": "singleChoice",
+      "prompt": "身后出版应怎样处理？",
+      "targetNodeIds": [
+        "mill-18-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "身后出版使合作对象承接文本立场。",
+          "feedback": "用出版时间制造无证据归属。 正确链条须保留：明示文本状态，并继续按论证和证据强度审查。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "明示文本状态，并继续按论证和证据强度审查。",
+          "feedback": "出版身份不等于作者可随意改写。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-18-q4-local-error"
+    },
+    {
+      "id": "mill-19-q1",
+      "kind": "singleChoice",
+      "prompt": "文明阶段可变为何仍有问题？",
+      "targetNodeIds": [
+        "mill-19-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "统治者仍垄断成熟标准并据此正当化当下支配。",
+          "feedback": "可变性不消除授权问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "可变的文明等级不构成持续政治支配。",
+          "feedback": "把可改变误成无支配。 正确链条须保留：统治者仍垄断成熟标准并据此正当化当下支配。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-19-q1-local-error"
+    },
+    {
+      "id": "mill-19-q2",
+      "kind": "singleChoice",
+      "prompt": "自治经验循环如何形成？",
+      "targetNodeIds": [
+        "mill-19-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "参与不足先于殖民统治，继续统治回应既有能力差距。",
+          "feedback": "颠倒了循环的因果方向。 正确链条须保留：统治剥夺参与，又以参与不足证明继续统治。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "统治剥夺参与，又以参与不足证明继续统治。",
+          "feedback": "制度制造了自己的证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-19-q2-local-error"
+    },
+    {
+      "id": "mill-19-q3",
+      "kind": "singleChoice",
+      "prompt": "专业行政为何不足以合法化殖民？",
+      "targetNodeIds": [
+        "mill-19-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "知识与连续性不能替代当地授权、问责和撤换。",
+          "feedback": "认识能力不等于统治权。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "专业行政提高治理知识，这种资格也构成当地政治授权。",
+          "feedback": "把资格证明偷换成授权。 正确链条须保留：知识与连续性不能替代当地授权、问责和撤换。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "mill-19-q3-local-error"
+    },
+    {
+      "id": "mill-19-q4",
+      "kind": "singleChoice",
+      "prompt": "结尾为何不能用时代局限调和？",
+      "targetNodeIds": [
+        "mill-19-node"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "时代偏见对帝国例外的解释缓和了内部规范冲突。",
+          "feedback": "用背景事实替代合法性理由。 正确链条须保留：历史解释不回答支配为何规范上正当，也不消除内部冲突。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "历史解释不回答支配为何规范上正当，也不消除内部冲突。",
+          "feedback": "因果说明与规范辩护不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "mill-19-q4-local-error"
+    }
+  ]
+}

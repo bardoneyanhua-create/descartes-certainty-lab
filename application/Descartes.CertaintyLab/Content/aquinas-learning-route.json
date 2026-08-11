@@ -1,0 +1,5458 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "aquinas-01",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "当信仰已经回答，理性为何还要追问",
+      "explanation": "阿奎那不是让信仰替理性停工，而是区分真理的来源、可达路径与认识者所处的限度。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q1",
+        "scg-i-3-9"
+      ],
+      "abilityIds": [
+        "区分信仰所接受与自然理性可论证的命题",
+        "识别经院论辩中异议、主答与回应的不同职责"
+      ]
+    },
+    {
+      "id": "aquinas-02",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "知道一物是什么，为何还不知道它存在",
+      "explanation": "本质回答它是什么，存在使该本质实际成立；在有限者中二者可由理智区分，在上帝中不以此方式组合。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "dee-4",
+        "st-i-q2"
+      ],
+      "abilityIds": [
+        "区分本质、存在与偶性的不同",
+        "说明区分如何支持依赖论证而不物化成两个部件"
+      ]
+    },
+    {
+      "id": "aquinas-03",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "五路究竟证明了哪一种第一",
+      "explanation": "五路是从经验效果追问当前解释条件的形上论证，其结论有限，且每一路有独立前提和争议。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q2",
+        "scg-i-13-15",
+        "later-five-ways"
+      ],
+      "abilityIds": [
+        "还原五路的论证类型与共同边界",
+        "检验无穷倒退异议攻击的是哪一类因果序列"
+      ]
+    },
+    {
+      "id": "aquinas-04",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "说上帝良善时，我们究竟说了什么",
+      "explanation": "人从受造效果命名第一原因，经由因果、卓越与否定说真话，但不能以受造方式框住神圣本质。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q13",
+        "dee-4"
+      ],
+      "abilityIds": [
+        "区分类比、单义与纯同名",
+        "说明否定神学与肯定命名怎样合作"
+      ]
+    },
+    {
+      "id": "aquinas-05",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "创造不是宇宙最早的一次变化",
+      "explanation": "创造不预设材料，是整个存在者对第一原因的依赖；自然施因在已受造的条件内产生变化。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q44-46",
+        "church-doctrine-creation-grace"
+      ],
+      "abilityIds": [
+        "区分创造、变化与时间开端",
+        "说明第一因果为何不排斥受造原因的真实作用"
+      ]
+    },
+    {
+      "id": "aquinas-06",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "我不是困在身体里的灵魂",
+      "explanation": "人是灵魂与身体的实质统一体；理智活动显示灵魂有超越身体器官的能力，却不把身体降为可替换工具。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q75-76",
+        "aristotle-de-anima-ii",
+        "church-doctrine-creation-grace"
+      ],
+      "abilityIds": [
+        "区分形式质料统一与两个完整实体的联结",
+        "评估理智不依赖器官的论证及其边界"
+      ]
+    },
+    {
+      "id": "aquinas-07",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "自然法不是写在身体里的法规表",
+      "explanation": "自然法是理性受造者对永恒法的参与；最一般原则稳定，具体结论会受事实、习惯与共同善判断影响。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-ii-q90-97",
+        "st-i-ii-q49-67"
+      ],
+      "abilityIds": [
+        "区分第一原则、次级结论和人法确定化",
+        "判断不正义法律的缺陷类型与服从边界"
+      ]
+    },
+    {
+      "id": "aquinas-08",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "好行动为何需要成为一种稳定的人",
+      "explanation": "德性使能力稳定地趋向好行动；审慎判断具体可行之善，爱德在阿奎那的神学结构中重排终极目的。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-ii-q49-67",
+        "aristotle-ne-ii-vi"
+      ],
+      "abilityIds": [
+        "区分德性、单次行为与熟练技巧",
+        "说明审慎与道德德性相互需要的理由"
+      ]
+    },
+    {
+      "id": "aquinas-09",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "自由不是没有原因的任意转弯",
+      "explanation": "意志必然趋向一般幸福，却不会被有限选项单独必然化；审议使人能在多种手段间自我决定。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q83",
+        "st-i-ii-q49-67",
+        "st-i-ii-q109-114"
+      ],
+      "abilityIds": [
+        "区分终极善的形式趋向与具体对象选择",
+        "说明受因果影响为何不等于受强迫"
+      ]
+    },
+    {
+      "id": "aquinas-10",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "恩典若帮助自由，为何不是替自由行动",
+      "explanation": "恩典预先推动、医治并提升人的能力，使人真实地自由行动；功德建立在神先设立并给予的秩序中。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-ii-q109-114",
+        "st-i-q83",
+        "church-doctrine-creation-grace"
+      ],
+      "abilityIds": [
+        "区分自然帮助、医治恩典与提升恩典",
+        "说明恩典优先与人的真实功德如何同时成立"
+      ]
+    },
+    {
+      "id": "aquinas-11",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "公共权威何时可以动用强制",
+      "explanation": "政治权威以共同善为职责，战争须同时满足权威、理由和意向；这些必要条件仍需接受制度与现代规范审查。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-ii-ii-q40",
+        "st-i-ii-q90-97",
+        "de-regno-common-good-tyranny",
+        "de-regno-text-history"
+      ],
+      "abilityIds": [
+        "区分私人暴力与公共权威的职责",
+        "把正义战争三条件用于案例并指出历史边界"
+      ]
+    },
+    {
+      "id": "aquinas-12",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "在现代异议之后，阿奎那还留下什么",
+      "explanation": "现代批评不应整体嘲讽或整体护教，而应逐项审查依赖、目的、自然、权威和声音身份。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "later-five-ways",
+        "st-i-q1",
+        "scg-i-3-9",
+        "church-doctrine-creation-grace"
+      ],
+      "abilityIds": [
+        "把现代异议定位到具体前提而非整套贴标签",
+        "分层评价阿奎那、亚里士多德来源、教义背景与后世托马斯主义"
+      ]
+    },
+    {
+      "id": "aquinas-13",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "从神圣单纯到统一：属性为何形成依赖链",
+      "explanation": "属性论从上帝不是由部分组成出发，借因果与否定逐步说明完善、无限、不变、永恒和统一；每一步依赖前一步，却都受类比语言限制。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q3-a7",
+        "st-i-q4-a1-q6-a1-q7-a1",
+        "st-i-q9-a1-q10-a2-q11-a1",
+        "st-i-q13"
+      ],
+      "abilityIds": [
+        "重建ST I qq.3-11的属性依赖链",
+        "区分属性论、神名方法与经验对象描述"
+      ]
+    },
+    {
+      "id": "aquinas-14",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "神知、意志与能力：为何不能按人的心理拼装",
+      "explanation": "阿奎那把神知、意志与能力放在单纯和因果框架中：知识不被对象完善，意愿不由匮乏推动，爱与正义怜悯指向善的秩序，能力也不包括自相矛盾。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q14-a2-a5-a8",
+        "st-i-q19-a1-a3",
+        "st-i-q20-a1-q21-a1-a3-q25-a3"
+      ],
+      "abilityIds": [
+        "区分神知、意志、爱与天意治理",
+        "说明全能、正义和怜悯的边界"
+      ]
+    },
+    {
+      "id": "aquinas-15",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "天意、治理与次级原因：秩序如何容纳偶然",
+      "explanation": "天意是智慧中的秩序，治理是该秩序的施行；第一因不取消次级因，而使不同事物按必要、偶然和自由的方式真实地产生效果。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-q22-a1-a3",
+        "st-i-q103-a1-q104-a1-q105-a5",
+        "st-i-ii-q79-a1-a2-a4"
+      ],
+      "abilityIds": [
+        "区分天意、治理、保存与直接干预",
+        "用第一因与次级因说明偶然及责任"
+      ]
+    },
+    {
+      "id": "aquinas-16",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "恶、缺失与许可：解释为何不能归责受害者",
+      "explanation": "恶不是与善对等的实体，而是某主体本应有之完善的缺失；恶的行动依附善的能力与对象，缺陷来自有限原因，许可则不能被改写为受害者应得。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "davies-reality-evil",
+        "st-i-q48-a1-q49-a1-a2",
+        "st-i-ii-q79-a1-a2-a4"
+      ],
+      "abilityIds": [
+        "区分恶的本体论、因果、受苦经验与责任",
+        "说明许可论证的解释力和不可越界处"
+      ]
+    },
+    {
+      "id": "aquinas-17",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "从感觉到理解：理智如何形成概念",
+      "explanation": "人的认识从感官与内感官保存的表象起步，主动理智使其中可理解形式成为现实，可能理智领受普遍概念，并在判断中回返表象；这不是抽走一张无内容标签。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "pasnau-cognition",
+        "st-i-q78-a4-q79-a3-a4",
+        "sententia-anima-ii-lect13",
+        "sententia-anima-iii-lect10",
+        "st-i-q84-a7-q85-a1-a2"
+      ],
+      "abilityIds": [
+        "重建感觉—表象—抽象—领受—判断链",
+        "区分阿奎那、亚里士多德与现代认知重构的声音"
+      ]
+    },
+    {
+      "id": "aquinas-18",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "终极幸福：有限善为何不能让欲求停息",
+      "explanation": "每个有意行动趋向某种善，完整幸福要求使欲求不再因更根本缺失而继续；财富、荣誉、权力和身体善都有限，完满幸福最终在理智面对第一真理的活动中，今生只能不完全参与。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-i-ii-q1-a4-q2-a1-a8",
+        "st-i-ii-q4-a1-a6-q5-a3",
+        "st-i-ii-q3-a2-a8",
+        "finnis-aquinas-common-good"
+      ],
+      "abilityIds": [
+        "重建ST I-II qq.1-5的幸福论证",
+        "区分自然实现、超自然享见与今生不完满"
+      ]
+    },
+    {
+      "id": "aquinas-19",
+      "kind": "philosopher-longform",
+      "status": "ready-for-review",
+      "readerTitle": "正义、权利与财产：占有为何不等于任意使用",
+      "explanation": "正义把行动导向他者所应得之物；分配与交换按不同关系实现平等，侵占造成持续亏欠并要求归还。财产可由个人管理，但使用应服从共同需要，极端紧急时取用维生之物不按通常偷窃判断。",
+      "identity": "aquinas-authorial-and-layered-interpretation",
+      "evidenceLinkIds": [
+        "st-ii-ii-q57-a1",
+        "st-ii-ii-q61-a1-a2",
+        "st-ii-ii-q62-a1",
+        "st-ii-ii-q66-a2-a7",
+        "finnis-aquinas-common-good"
+      ],
+      "abilityIds": [
+        "区分客观权利对象、分配与交换正义及归还",
+        "解释q.66的占有、使用、偷窃与紧急需要边界"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "st-i-q1",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, q.1, aa.1-8",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1001.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-sacred-doctrine",
+      "quotationMode": "close-paraphrase",
+      "locatorVerified": true,
+      "boundaryZh": "用于神圣学问、理性与启示的关系；《神学大全》未由阿奎那完成，不能称为作者最终完稿。"
+    },
+    {
+      "id": "scg-i-3-9",
+      "workId": "summa-contra-gentiles",
+      "title": "Summa contra Gentiles",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "lib. I, cc.3-9",
+      "stableUrl": "https://www.corpusthomisticum.org/scg1001.html",
+      "workStage": "middle-period",
+      "publicationState": "authorial-work",
+      "identity": "aquinas-apologetic-order",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于双重神圣真理与全书次序；不是《神学大全》的早期草稿，两书受众和论证安排不同。"
+    },
+    {
+      "id": "dee-4",
+      "workId": "de-ente-et-essentia",
+      "title": "De ente et essentia",
+      "edition": "Corpus Thomisticum, Baur/Koch text",
+      "locator": "cap. 4",
+      "stableUrl": "https://www.corpusthomisticum.org/oee.html",
+      "workStage": "early-work",
+      "publicationState": "authorial-treatise",
+      "identity": "aquinas-metaphysical-analysis",
+      "quotationMode": "close-paraphrase",
+      "locatorVerified": true,
+      "boundaryZh": "用于受造物本质与存在的区分、上帝中二者同一；不得把逻辑可分直接写成两个可分离部件。"
+    },
+    {
+      "id": "st-i-q2",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, q.2, aa.2-3",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1002.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-five-ways",
+      "quotationMode": "argument-reconstruction",
+      "locatorVerified": true,
+      "boundaryZh": "用于从效果到原因的证明与五路；只证明第一原因之存在，后续问题才分析其属性。"
+    },
+    {
+      "id": "scg-i-13-15",
+      "workId": "summa-contra-gentiles",
+      "title": "Summa contra Gentiles",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "lib. I, cc.13-15",
+      "stableUrl": "https://www.corpusthomisticum.org/scg1013.html",
+      "workStage": "middle-period",
+      "publicationState": "authorial-work",
+      "identity": "aquinas-first-cause-arguments",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于更展开的第一推动者与第一因论证；不能把不同论证压成五路的逐字平行版本。"
+    },
+    {
+      "id": "st-i-q13",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, q.13, aa.1-6",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1003.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-names",
+      "quotationMode": "close-paraphrase",
+      "locatorVerified": true,
+      "boundaryZh": "用于否定、卓越、因果与类比命名；类比不是含糊折中，也不是单义共享一个种概念。"
+    },
+    {
+      "id": "st-i-q44-46",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, qq.44-46",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1044.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-creation",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于普遍存在依赖、从无创造与世界开端；阿奎那明确区分创造依赖和时间起点。"
+    },
+    {
+      "id": "st-i-q75-76",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, qq.75-76",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1075.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-soul-body",
+      "quotationMode": "argument-reconstruction",
+      "locatorVerified": true,
+      "boundaryZh": "用于灵魂作为身体形式与理智活动；不是笛卡尔式两个完整实体暂时相接。"
+    },
+    {
+      "id": "aristotle-de-anima-ii",
+      "workId": "aristotle-de-anima",
+      "title": "De anima",
+      "edition": "Bekker reference",
+      "locator": "II.1, 412a20-28",
+      "stableUrl": "https://classics.mit.edu/Aristotle/soul.2.ii.html",
+      "workStage": "ancient-source",
+      "publicationState": "received-ancient-text",
+      "identity": "aristotle-source",
+      "quotationMode": "source-comparison",
+      "locatorVerified": true,
+      "boundaryZh": "用于灵魂是有生命自然身体的第一现实；阿奎那接受并重构该框架，不能把亚里士多德原句冒充基督教复活教义。"
+    },
+    {
+      "id": "st-i-q83",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I, q.83, aa.1-4",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1077.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-free-choice",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于审议、意志与自由选择；自由不是没有原因，也不是每次都能任意选择终极幸福。"
+    },
+    {
+      "id": "st-i-ii-q49-67",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I-II, qq.49-67",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2049.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-habits-and-virtues",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于习性、德性、审慎与诸德联结；亚里士多德伦理框架在神学德性与恩典处被改造。"
+    },
+    {
+      "id": "aristotle-ne-ii-vi",
+      "workId": "aristotle-nicomachean-ethics",
+      "title": "Nicomachean Ethics",
+      "edition": "Bekker reference",
+      "locator": "II.1-6; VI.5",
+      "stableUrl": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+      "workStage": "ancient-source",
+      "publicationState": "received-ancient-text",
+      "identity": "aristotle-source",
+      "quotationMode": "source-comparison",
+      "locatorVerified": true,
+      "boundaryZh": "用于习惯、德性中道与实践智慧；不能把阿奎那的爱德和注入德性归给亚里士多德。"
+    },
+    {
+      "id": "st-i-ii-q90-97",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I-II, qq.90-97",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2090.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-law",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于法律、自然法、人法与不正义法律；一般原则与具体规定的确定化必须区分。"
+    },
+    {
+      "id": "st-i-ii-q109-114",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "I-II, qq.109-114",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2109.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-grace",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于自然能力、治愈与提升的恩典、功德和坚忍；不能把自然理性写成罪后彻底无效。"
+    },
+    {
+      "id": "st-ii-ii-q40",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum, Leonine text",
+      "locator": "II-II, q.40, aa.1-4",
+      "stableUrl": "https://www.corpusthomisticum.org/sth3040.html",
+      "workStage": "mature-synthesis",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-war",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于正当权威、正当理由和正当意向；三条件不是现代战争法的完整替代。"
+    },
+    {
+      "id": "de-regno-i",
+      "workId": "de-regno",
+      "title": "De regno ad regem Cypri",
+      "edition": "Corpus Thomisticum text",
+      "locator": "lib. I, cc.1-6",
+      "stableUrl": "https://www.corpusthomisticum.org/orp.html",
+      "workStage": "middle-period",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-political-rule",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "用于共同善、政体和暴政；作品未完成，后部续写身份须另行辨别。"
+    },
+    {
+      "id": "later-five-ways",
+      "workId": "modern-five-ways-debate",
+      "title": "Modern reconstructions and objections to the Five Ways",
+      "edition": "interpretive debate map",
+      "locator": "infinite regress, causal principle, explanatory termination",
+      "stableUrl": "https://plato.stanford.edu/entries/cosmological-argument/",
+      "workStage": "modern-reception",
+      "publicationState": "later-interpretation",
+      "identity": "modern-objection",
+      "quotationMode": "interpretive-summary",
+      "locatorVerified": true,
+      "boundaryZh": "只用于呈现现代宇宙论论证争议；不得倒写为阿奎那明说的物理学。"
+    },
+    {
+      "id": "church-doctrine-creation-grace",
+      "workId": "catholic-doctrinal-context",
+      "title": "Doctrinal context of creation, grace, and resurrection",
+      "edition": "historical doctrinal layer",
+      "locator": "creation ex nihilo; grace; resurrection of the body",
+      "stableUrl": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "workStage": "doctrinal-reception",
+      "publicationState": "church-doctrine",
+      "identity": "church-doctrine",
+      "quotationMode": "context-only",
+      "locatorVerified": true,
+      "boundaryZh": "用于标明阿奎那论证所处的教义背景；教义身份不能替代阿奎那逐步给出的哲学论证。"
+    },
+    {
+      "id": "de-regno-common-good-tyranny",
+      "workId": "de-regno",
+      "title": "De regno ad regem Cypri",
+      "edition": "Corpus Thomisticum text",
+      "locator": "lib. I, cc.1, 3-6",
+      "stableUrl": "https://www.corpusthomisticum.org/orp.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-political-rule",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "只承担阿奎那关于共同善、政体比较与暴政的作者论证。"
+    },
+    {
+      "id": "de-regno-text-history",
+      "workId": "de-regno-critical-history",
+      "title": "De regno: critical editorial history",
+      "edition": "Leonine/critical-edition editorial attribution",
+      "locator": "Aquinas text through lib. II, c.4; continuation from lib. II, c.5 attributed to Ptolemy of Lucca",
+      "stableUrl": "https://www.corpusthomisticum.org/orp.html",
+      "workStage": "modern-critical-edition",
+      "publicationState": "critical-editorial-record",
+      "identity": "critical-editor-text-history",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "仅承担作品未完成、阿奎那文本终点与托勒密续写身份；不替作者正文发言。"
+    },
+    {
+      "id": "st-i-q3-a7",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.3, a.7, corpus and ad 1",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1003.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-attributes",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担神圣单纯与非组成。"
+    },
+    {
+      "id": "st-i-q4-a1-q6-a1-q7-a1",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.4, a.1; q.6, a.1; q.7, a.1",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1004.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-attributes",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担完善、善与无限，不能互相代偿。"
+    },
+    {
+      "id": "st-i-q9-a1-q10-a2-q11-a1",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.9, a.1; q.10, a.2; q.11, a.1",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1009.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-attributes",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担不变、永恒与统一的论证次序。"
+    },
+    {
+      "id": "st-i-q14-a2-a5-a8",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.14, aa.2, 5, 8",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1014.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-operation",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担神自知、对他物的知识及神知的因果关系。"
+    },
+    {
+      "id": "st-i-q19-a1-a3",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.19, aa.1, 3",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1019.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-operation",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担神意志及其非受造式必然。"
+    },
+    {
+      "id": "st-i-q20-a1-q21-a1-a3-q25-a3",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.20, a.1; q.21, aa.1, 3; q.25, a.3",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1020.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-divine-operation",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担爱、正义与怜悯、能力不及矛盾对象。"
+    },
+    {
+      "id": "st-i-q22-a1-a3",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.22, aa.1, 3",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1022.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-providence-governance",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担天意为智慧中秩序及其对偶然事物的涵摄。"
+    },
+    {
+      "id": "st-i-q103-a1-q104-a1-q105-a5",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.103, a.1; q.104, a.1; q.105, a.5",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1103.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-providence-governance",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担治理、保存与受造次因的真实作用。"
+    },
+    {
+      "id": "st-i-ii-q79-a1-a2-a4",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I-II, q.79, aa.1, 2, 4, including ad 2 in a.1",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2079.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-defect-and-responsibility",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担罪行之行动存在与意志缺陷的分轨，以及许可不等于罪责作者。"
+    },
+    {
+      "id": "st-i-q48-a1-q49-a1-a2",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.48, a.1; q.49, aa.1-2",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1048.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-evil-privation",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担恶为应有善之缺失、行动存在与缺陷因果的基础区分。"
+    },
+    {
+      "id": "davies-reality-evil",
+      "workId": "davies-reality-of-god",
+      "title": "The Reality of God and the Problem of Evil",
+      "edition": "Continuum, 2006",
+      "locator": "chs. 1-3, 8: privation, divine causality, suffering and moral blame",
+      "stableUrl": "https://www.bloomsbury.com/us/reality-of-god-and-the-problem-of-evil-9781441163113/",
+      "workStage": "modern-scholarship",
+      "publicationState": "published-study",
+      "identity": "modern-normative-reconstruction",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "现代规范限界：缺失论不取消受苦事实，也不把许可转成受害者应得或旁观者免责。"
+    },
+    {
+      "id": "st-i-q78-a4-q79-a3-a4",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.78, a.4; q.79, aa.3-4",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1078.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-cognition",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担内感官、主动理智与可能理智。"
+    },
+    {
+      "id": "st-i-q84-a7-q85-a1-a2",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I, q.84, a.7; q.85, aa.1-2",
+      "stableUrl": "https://www.corpusthomisticum.org/sth1084.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-cognition",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担回返表象、从表象抽象及所知对象的边界。"
+    },
+    {
+      "id": "sententia-anima-ii-lect13",
+      "workId": "sententia-libri-de-anima",
+      "title": "Sententia libri De anima",
+      "edition": "Corpus Thomisticum text",
+      "locator": "lib. II, lect.13: internal sense powers and phantasia",
+      "stableUrl": "https://www.corpusthomisticum.org/can2.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-commentator-on-aristotle",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "阿奎那注释声：承担内感官与表象，不冒充亚里士多德原句。"
+    },
+    {
+      "id": "sententia-anima-iii-lect10",
+      "workId": "sententia-libri-de-anima",
+      "title": "Sententia libri De anima",
+      "edition": "Corpus Thomisticum text",
+      "locator": "lib. III, lect.10: possible and agent intellect",
+      "stableUrl": "https://www.corpusthomisticum.org/can3.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-commentator-on-aristotle",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "阿奎那注释声：承担可能/主动理智的注释展开。"
+    },
+    {
+      "id": "pasnau-cognition",
+      "workId": "pasnau-theories-of-cognition",
+      "title": "Theories of Cognition in the Later Middle Ages",
+      "edition": "Cambridge University Press, 1997",
+      "locator": "chs. 5-7: phantasms, abstraction, intellectual cognition",
+      "stableUrl": "https://doi.org/10.1017/CBO9780511582793",
+      "workStage": "modern-scholarship",
+      "publicationState": "published-study",
+      "identity": "modern-history-of-philosophy",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "现代学术重构，只用于比较和澄清；不作为中世纪原典或现代神经实验。"
+    },
+    {
+      "id": "st-i-ii-q1-a4-q2-a1-a8",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I-II, q.1, a.4; q.2, aa.1-8",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2001.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-happiness",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "分别承担终极目的与财富、荣誉、权力、身体善等候选之不足。"
+    },
+    {
+      "id": "st-i-ii-q3-a2-a8",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I-II, q.3, aa.2, 8",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2003.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-happiness",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担幸福是活动及最终幸福在神圣本质的享见。"
+    },
+    {
+      "id": "st-i-ii-q4-a1-a6-q5-a3",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "I-II, q.4, aa.1, 6; q.5, a.3",
+      "stableUrl": "https://www.corpusthomisticum.org/sth2004.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-happiness",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担幸福伴随条件、身体善的有限位置及今生不完满。"
+    },
+    {
+      "id": "finnis-aquinas-common-good",
+      "workId": "finnis-aquinas",
+      "title": "Aquinas: Moral, Political, and Legal Theory",
+      "edition": "Oxford University Press, 1998",
+      "locator": "chs. VII-VIII: common good, justice, political authority and property",
+      "stableUrl": "https://doi.org/10.1093/0198780859.001.0001",
+      "workStage": "modern-scholarship",
+      "publicationState": "published-study",
+      "identity": "modern-political-reconstruction",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "现代政治重构：制度义务与当代应用不倒写为阿奎那原声。"
+    },
+    {
+      "id": "st-ii-ii-q57-a1",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "II-II, q.57, a.1",
+      "stableUrl": "https://www.corpusthomisticum.org/sth3057.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-justice-property",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担 ius 作为正义之客观对象。"
+    },
+    {
+      "id": "st-ii-ii-q61-a1-a2",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "II-II, q.61, aa.1-2",
+      "stableUrl": "https://www.corpusthomisticum.org/sth3061.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-justice-property",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担分配正义与交换正义及其不同比例。"
+    },
+    {
+      "id": "st-ii-ii-q62-a1",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "II-II, q.62, aa.1-8 (a.1 obligation; aa.2-3 recipient and amount; aa.4-8 circumstances and liability)",
+      "stableUrl": "https://www.corpusthomisticum.org/sth3062.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-justice-property",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "a.1承担归还作为交换正义的要求；aa.2-3承担受领人与数额；aa.4-8承担附带损失、参与者及危险情形。"
+    },
+    {
+      "id": "st-ii-ii-q66-a2-a7",
+      "workId": "summa-theologiae",
+      "title": "Summa Theologiae",
+      "edition": "Corpus Thomisticum text",
+      "locator": "II-II, q.66, aa.2, 7, including ad 2 in a.7",
+      "stableUrl": "https://www.corpusthomisticum.org/sth3066.html",
+      "workStage": "mature-unfinished",
+      "publicationState": "unfinished-authorial-work",
+      "identity": "aquinas-justice-property",
+      "quotationMode": "argument-summary",
+      "locatorVerified": true,
+      "boundaryZh": "承担占有/使用区分及极端急需中的取用边界。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "aquinas-reason-and-order",
+      "version": "1.2.0-unified-revision",
+      "title": "托马斯·阿奎那：理性、存在与行动的秩序",
+      "lessonIds": [
+        "aquinas-01",
+        "aquinas-02",
+        "aquinas-03",
+        "aquinas-04",
+        "aquinas-05",
+        "aquinas-06",
+        "aquinas-07",
+        "aquinas-08",
+        "aquinas-09",
+        "aquinas-10",
+        "aquinas-11",
+        "aquinas-12",
+        "aquinas-13",
+        "aquinas-14",
+        "aquinas-15",
+        "aquinas-16",
+        "aquinas-17",
+        "aquinas-18",
+        "aquinas-19"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "aquinas-01",
+      "order": 1,
+      "title": "当信仰已经回答，理性为何还要追问",
+      "depth": "longform",
+      "guidingQuestion": "启示若提供真理，哲学论证还有什么不可替代的工作？",
+      "coreExplanation": "阿奎那不是让信仰替理性停工，而是区分真理的来源、可达路径与认识者所处的限度。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "两个都显得过快的答案",
+          "paragraphs": [
+            "面对上帝、创造或人的终极目的，一种回答说：既然这些事情属于信仰，推理只会多余。另一种回答正相反：只要一项主张不能由公共理性独立证明，它便没有认识价值。两种回答都把复杂关系压成了单选题。前者无法解释阿奎那为什么反复提出论证，后者则预先排除了超出自然理性能力的真理。",
+            "真正的压力不是在信仰和理性之间选边，而是说明同一真理怎样可能以不同根据进入人的认识。若根据不同仍能保持真理一致，就要交代两条路径怎样分工；若它们发生表面冲突，也要知道先检查推理、释义还是权威理解，而不能直接宣布真理自相矛盾。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "distinction",
+          "heading": "两类神圣真理不是两个上帝",
+          "paragraphs": [
+            "《反异教大全》第一卷第三至第九章把神圣事物的真理分为两类。某些命题，如有第一原因，可以由自然理性从受造效果推进；另一些命题，如三位一体，超过这种推进所能抵达的范围。差别位于我们的认识方式，不位于上帝本身，好像上帝有两套互不相干的真相。",
+            "这一划分保住了理性的实质工作，也给它划定边界。理性可以澄清信仰不矛盾、反驳某些反对、展示一些前导命题；它不能仅凭受造效果穷尽神圣本质。反过来，启示也不是为了取消自然知识，而是把人引向本来难以、缓慢或只有少数人能够达到的真理。"
+          ],
+          "identity": "aquinas-apologetic-order"
+        },
+        {
+          "kind": "text-identity",
+          "heading": "两部大全为何不能互当目录",
+          "paragraphs": [
+            "《神学大全》从神圣学问的性质出发，按上帝、受造物、人的归向与基督论安排材料，并以初学神学者的秩序为目标。《反异教大全》则先处理理性可探究的神圣真理，再转向超越理性的信仰奥秘。后者常更连续地展开哲学论证，但不能因此称为前者的粗稿。",
+            "区分作品身份会改变解释。若一段论证出现在面向反驳异议的次序中，它的论证负担与简明条目中的压缩表达不同；若把两书段落拼成一条没有体裁差别的声音，就会错过阿奎那如何随任务改变论证长度，却仍维持基本区分。"
+          ],
+          "identity": "source-layering"
+        },
+        {
+          "kind": "method",
+          "heading": "异议先行不是故意设稻草人",
+          "paragraphs": [
+            "《神学大全》的问题通常先列看来支持反面的理由，再给出权威性的反向提示，随后由主答建立区分，最后逐条回应。异议的功能不是供主答轻易击败，而是揭示当前命题若不加限定会撞上哪些真实困难。主答也不是投票裁决，它必须提供足以改变问题结构的新理由。",
+            "逐条回应最能检验区分是否真的工作。若主答说了许多漂亮原则，却不能指出第一项异议混淆了何种范围、第二项遗漏了何种因果层次，那么问题仍未解决。经院形式的强处正在于让反对理由留下可追踪的债务，而不是用结论覆盖它。"
+          ],
+          "identity": "aquinas-scholastic-form"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "权威会不会让论证成为装饰",
+          "paragraphs": [
+            "强异议可以这样提出：既然神圣学问以启示权威为原则，哲学论证至多是事后辩护；无论推理成败，结论都不会改变，因此论证并不真诚。这个异议击中的是论证的认识职责，而不是简单指责有信仰的人带着前见。",
+            "回应不能说阿奎那没有预先承诺。更准确的收缩是：在神圣学问内部，启示原则确有首要地位；但当他声称某项前导真理可由自然理性达到时，具体论证仍须接受有效性审查。回应保住了局部论证的真实负担，却不把整个神学秩序改写成中立起点。仍欠的问题是，不共享启示原则的人应接受哪些前提，这会把我们带向存在与原因。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "一个人因可信见证接受远方城市存在，另一个人依据地图与航程推知它存在；结论相同，认知根据并不相同。",
+      "nodeIds": [
+        "aquinas-01"
+      ],
+      "checkIds": [
+        "aquinas-01-q1",
+        "aquinas-01-q2",
+        "aquinas-01-q3",
+        "aquinas-01-q4"
+      ],
+      "abilitySummary": [
+        "区分信仰所接受与自然理性可论证的命题",
+        "识别经院论辩中异议、主答与回应的不同职责"
+      ],
+      "sourceIds": [
+        "st-i-q1",
+        "scg-i-3-9"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 10,
+        "bodyCharacterCount": 1146,
+        "bodyCjkCount": 1050,
+        "generalVisibleAuxiliaryCharacterCount": 222,
+        "generalVisibleAuxiliaryCjkCount": 211,
+        "assessmentCharacterCount": 486,
+        "assessmentCjkCount": 455,
+        "fullVisibleAuxiliaryCharacterCount": 708,
+        "fullVisibleAuxiliaryCjkCount": 666,
+        "metadataValueCharacterCount": 394
+      },
+      "recommendedNextLessonId": "aquinas-02"
+    },
+    {
+      "id": "aquinas-02",
+      "order": 2,
+      "title": "知道一物是什么，为何还不知道它存在",
+      "depth": "longform",
+      "guidingQuestion": "本质与存在的区分怎样揭示受造物的依赖，却又不把一物劈成两件东西？",
+      "coreExplanation": "本质回答它是什么，存在使该本质实际成立；在有限者中二者可由理智区分，在上帝中不以此方式组合。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "定义为何不能替现实签字",
+          "paragraphs": [
+            "我们可以准确说明三角形、凤凰或一种尚未制造的机器是什么，却不能仅由说明断定它们在眼前现实中成立。这个差距不是语言偶然留下的空白。它显示回答“是什么”与回答“是否有”承担不同工作：前者给出可理解结构，后者要求现实根据。",
+            "若把两问混同，存在便像定义中又一个性质，仿佛在概念表上添一项就能把对象送入现实。若把它们分得过猛，又会把一只真实的猫写成“猫本质”和“存在”两件拼装物。阿奎那需要的是不等同而又不分家的关系。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "concept",
+          "heading": "本质限定怎样存在",
+          "paragraphs": [
+            "《论存在者与本质》从可定义之物进入。本质说明一物属于何种存在方式：人不是靠后来附加的肤色成为人，铜像也不因位置变化失去铜像所需的结构。存在则不是另一个种类特征，而是这一本质实际成立的现实性。",
+            "因此“存在与本质有别”首先是形上依赖判断。有限本质没有仅凭自己就必须现实成立的理由；它所具有的存在是被领受、因而受其本质限定的。这里的“领受”不是时间上有人递交一份东西，而是解释次序：有限者不能成为自身存在的充分根据。"
+          ],
+          "identity": "aquinas-metaphysical-analysis"
+        },
+        {
+          "kind": "case",
+          "heading": "凤凰例子证明到哪里",
+          "paragraphs": [
+            "凤凰例子能证明的是：理解某种本质并不包含知道它在自然中存在。它不能单独证明每个现实事物都由某个外在施动者在某一时刻造成，更不能直接证明第一原因具有经典神论的全部属性。",
+            "把例子迁移到一项已实现的软件设计也会看出边界。设计说明可以先于实例，但猫的本质并不是漂浮在实例之外的一张蓝图。例子的功能是分开两个认识问题，不是规定所有本质都以同一种方式先存。"
+          ],
+          "identity": "aquinas-metaphysical-analysis"
+        },
+        {
+          "kind": "limit",
+          "heading": "上帝不是最大的一项本质",
+          "paragraphs": [
+            "在阿奎那的论证中，若第一原因也从与自身有别的来源领受存在，它就仍需要解释。解释终点不能只是更强大的同类事物，而须是不以领受方式存在者。因此他称上帝的本质就是其存在本身。",
+            "这不等于“存在这个最普遍概念就是上帝”。普遍存在概念可用于许多事物，保持开放而抽象；阿奎那所说的自存存在不是一个大家共享的种，而是不受限于被领受本质的第一现实。把两者等同会滑向万物只是同一存在的片段，这不是他的结论。"
+          ],
+          "identity": "aquinas-metaphysical-analysis"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "现代语言分析能否消解这个区分",
+          "paragraphs": [
+            "强异议认为，存在并非对象的一种性质，所以谈“存在的现实性”只是把语法误当部件。这个异议正确阻止我们把存在画成附着在本质旁边的薄层，也提醒概念分析不能自动变成实体清单。",
+            "阿奎那式回应可以保住较窄主张：区分不是给对象增加性质，而是追问有限现实为何不由其定义获得充分解释。回应收缩了“两个成分”的图像，却仍欠一个问题：从受造物的依赖结构能否有效推进到第一原因。五路正是在这里接手。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "我们能理解凤凰是什么，却不能由定义判断自然界真有凤凰；定义给出可理解内容，现实成立仍需别的根据。",
+      "nodeIds": [
+        "aquinas-02"
+      ],
+      "checkIds": [
+        "aquinas-02-q1",
+        "aquinas-02-q2",
+        "aquinas-02-q3",
+        "aquinas-02-q4"
+      ],
+      "abilitySummary": [
+        "区分本质、存在与偶性的不同",
+        "说明区分如何支持依赖论证而不物化成两个部件"
+      ],
+      "sourceIds": [
+        "dee-4",
+        "st-i-q2"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 10,
+        "bodyCharacterCount": 956,
+        "bodyCjkCount": 876,
+        "generalVisibleAuxiliaryCharacterCount": 230,
+        "generalVisibleAuxiliaryCjkCount": 218,
+        "assessmentCharacterCount": 440,
+        "assessmentCjkCount": 411,
+        "fullVisibleAuxiliaryCharacterCount": 670,
+        "fullVisibleAuxiliaryCjkCount": 629,
+        "metadataValueCharacterCount": 426
+      },
+      "recommendedNextLessonId": "aquinas-03"
+    },
+    {
+      "id": "aquinas-03",
+      "order": 3,
+      "title": "五路究竟证明了哪一种第一",
+      "depth": "longform",
+      "guidingQuestion": "从运动、原因、偶然、等级和目的秩序出发，怎样的证明既不是现代科学实验，也不是一句“万物都有原因”？",
+      "coreExplanation": "五路是从经验效果追问当前解释条件的形上论证，其结论有限，且每一路有独立前提和争议。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "一句流行概括为何会毁掉论证",
+          "paragraphs": [
+            "“万物都有原因，所以宇宙有一个原因”看似概括了五路，其实立刻制造反问：上帝的原因是什么？阿奎那并未把“有原因”当作每个存在者无差别具有的性质。他分析的是从潜能到现实、从被致成到施因、从可有可无到必要、从有限完善到尺度、从无认知事物的定向到秩序根据等不同依赖。",
+            "若不先分开这五个入口，反对者只需击中一句粗糙口号，支持者也只会不断换例子。更耐心的做法是逐路问：观察到什么效果，采用哪项因果原则，排除哪种倒退，最后得到多强的结论。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "argument",
+          "heading": "运动之路谈的是现实化",
+          "paragraphs": [
+            "第一路的“运动”比空间位移更宽，指潜能被实现。木材能够变热而尚未热；火的现实热使这项潜能实现。同一事物不能在同一方面同时以同一方式既只是潜在热又已经现实热，因此潜能的现实化要求某种现实者。",
+            "关键争议位于本质排序的施动系列。如果每一项此刻只有借另一项才有现实化能力，却没有不以借来方式施动的根源，整个系列就像许多只有传动而没有动力的齿轮。这里排除的不是经过无限久的历史，而是一个全体成员都只有工具性能力的当前解释。"
+          ],
+          "identity": "aquinas-five-ways"
+        },
+        {
+          "kind": "comparison",
+          "heading": "五个入口不是五次重复",
+          "paragraphs": [
+            "第二路从施因次序推进，不让某物成为自身存在的充分施因；第三路从可生可灭者的非必然性追问不从他者取得必要性的根据；第四路借不同程度的真、善与高贵追问尺度和因果根源；第五路从缺乏认知的自然事物稳定趋向结果，追问这种定向的原因。",
+            "共同点是从效果走向不能以同种依赖继续解释的第一项。差别同样重要：第三路的中间推理受到“若一切都可不存在，曾经便一无所有”的时间读法质疑；第四路依赖的完善等级形上学在现代最不直观；第五路不是从复杂生物直接跳向设计者，而从目的定向的可理解性推进。"
+          ],
+          "identity": "aquinas-five-ways"
+        },
+        {
+          "kind": "boundary",
+          "heading": "第一原因还不是全部神学属性",
+          "paragraphs": [
+            "五路末尾常以“众人称之为上帝”收束，但这不是把全套神圣属性藏进称呼。第一推动者是否唯一、是否有知性、是否良善、如何创造，仍由后续问题另行论证。若把这些性质预装进结论，论证就会循环借用尚未建立的前提。",
+            "五路也不是现代物理学关于大爆炸之前事件的假说。阿奎那甚至认为世界在时间中开始不能由自然理性严格证明，需由信仰得知。由此可见，把第一因简单等同于最早事件，会同时误读创造与因果。"
+          ],
+          "identity": "aquinas-five-ways"
+        },
+        {
+          "kind": "case",
+          "heading": "列车与祖先为什么给出不同倒退",
+          "paragraphs": [
+            "祖先系列中，早先父母可以停止存在，后代仍保有自己的施因能力。这类偶然排序是否能无限延伸，与当前车厢的牵引不同：若每节车厢此刻只传递前方拉力，增加车厢不产生拉力来源。案例用于区分因果次序，不证明现实世界恰好像列车。",
+            "改变案例事实会改变判断。若每节车厢都有独立发动机，便不再是纯工具系列；若所谓第一项仍只从别处借来能力，解释债务也没有结束。有效异议必须攻击本质排序是否真实、因果原则是否成立或终止项是否足够，而不是只数成员。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "无穷系列为何仍是开放压力",
+          "paragraphs": [
+            "强异议说，即使每个成员的施因能力来自前项，也未证明整个无穷系列需要系列之外的根据；要求终止可能只是人偏爱封闭解释。这个异议攻击充分理由与工具因系列的原则，不是误把阿奎那说成害怕大数字。",
+            "阿奎那式回应会说，纯工具项的能力由参与关系构成，多少工具都不能把借来的能力变成非借来的根源。回应保住本质排序的终止要求，却仍须证明现实中的运动或存在确属这种排序。现代重构常在此加入更明确的依赖形上学；那是解释推进，不应冒充原文已经完成的形式证明。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "一列车厢此刻彼此牵引，与追问第一节车厢何时制造不同；前者关心当前依赖，后者关心时间开端。",
+      "nodeIds": [
+        "aquinas-03"
+      ],
+      "checkIds": [
+        "aquinas-03-q1",
+        "aquinas-03-q2",
+        "aquinas-03-q3",
+        "aquinas-03-q4"
+      ],
+      "abilitySummary": [
+        "还原五路的论证类型与共同边界",
+        "检验无穷倒退异议攻击的是哪一类因果序列"
+      ],
+      "sourceIds": [
+        "st-i-q2",
+        "scg-i-13-15",
+        "later-five-ways"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1258,
+        "bodyCjkCount": 1158,
+        "generalVisibleAuxiliaryCharacterCount": 251,
+        "generalVisibleAuxiliaryCjkCount": 236,
+        "assessmentCharacterCount": 441,
+        "assessmentCjkCount": 419,
+        "fullVisibleAuxiliaryCharacterCount": 692,
+        "fullVisibleAuxiliaryCjkCount": 655,
+        "metadataValueCharacterCount": 428
+      },
+      "recommendedNextLessonId": "aquinas-04"
+    },
+    {
+      "id": "aquinas-04",
+      "order": 4,
+      "title": "说上帝良善时，我们究竟说了什么",
+      "depth": "longform",
+      "guidingQuestion": "神圣语言若既非单义又非纯粹同名，类比怎样保留真断言与认识限度？",
+      "coreExplanation": "人从受造效果命名第一原因，经由因果、卓越与否定说真话，但不能以受造方式框住神圣本质。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "沉默与过度熟悉之间",
+          "paragraphs": [
+            "若“良善”用于上帝和人时意思完全相同，上帝就像与人同属一个更大类别，只是程度最高。若二者意思毫无关联，“上帝良善”便不提供可理解断言，只剩声音相同。两端都失败：单义压低超越性，纯同名取消知识。",
+            "阿奎那必须说明我们为何能从受造物出发真实命名，又为何这些名称不表达上帝本质在自身中究竟如何。类比不是两端之间含糊妥协，而是一种有次序的相关意义。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "concept",
+          "heading": "从效果命名原因",
+          "paragraphs": [
+            "我们认识良善、智慧和存在，首先从有限事物中的实现方式开始。若第一原因给予这些完善，效果以有限方式呈现的完善不能使原因更贫乏。因此名称可沿因果关系指向第一原因，同时移除受造方式中的限制。",
+            "这里包含三种动作。因果说明名称为何不任意；卓越说明第一原因以更高方式具有完善；否定移除物质、有限和组合的方式。三者缺一，肯定语句就会变成把大型受造物投射到天上，或变成没有内容的敬畏。"
+          ],
+          "identity": "aquinas-divine-names"
+        },
+        {
+          "kind": "case",
+          "heading": "健康类比能做什么",
+          "paragraphs": [
+            "动物健康、药物健康和尿液健康并非共享一个完全相同的内在性质。药物因造成健康而得名，尿液因显示健康而得名，诸义围绕动物的健康建立次序。这个例子说明一个词可以既有共同指向，又按不同关系使用。",
+            "但神圣名称并不与健康例子完全同构。受造物的完善来自第一原因，因此在因果次序中首先属于上帝；我们的名称和概念却从受造物开始，因此在认识次序中先熟悉受造用法。若忽略两个次序，便会把语言起点误当本体优先。"
+          ],
+          "identity": "aquinas-divine-names"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "类比是否让任何反证都失效",
+          "paragraphs": [
+            "强异议说，神学家只要在遇到矛盾时声称词义是类比的，就能逃避检验。例如既说上帝良善，又把明显残酷的行为归给上帝，再以“神圣良善不同”撤回通常含义。这样类比会成为免疫策略。",
+            "有效回应必须保住推论约束。类比并不允许意义随意漂移；它以受造完善、因果关系和否定限制为根据。若一个解释取消了良善中可识别的完善关系，它也会失去命名根据。回应收缩了我们能推出的具体方式，却不许可同时断言相反关系。恶的问题仍会继续施压，这个单元没有解决它。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "boundary",
+          "heading": "知道真却不包围本质",
+          "paragraphs": [
+            "阿奎那区分名称所指的完善与名称表达它的受造方式。说上帝良善可以真正指向神圣实在，却不能像定义“人是理性动物”那样把神圣本质装进概念。有限认识不是全错，而是不相称。",
+            "因此否定神学不是在肯定之后逐项擦除。它告诉我们哪些受造限制不能带入；肯定命名则保留效果对原因的真实依赖。二者合作产生有内容而不过度的语言，为创造关系铺路：第一原因怎样在效果中临在而不成为效果的一部分。"
+          ],
+          "identity": "aquinas-divine-names"
+        }
+      ],
+      "caseText": "“健康”用于动物、药物和尿液时并非同一性质平均分配：一者具有健康，一者造成健康，一者显示健康，意义由次序关联。",
+      "nodeIds": [
+        "aquinas-04"
+      ],
+      "checkIds": [
+        "aquinas-04-q1",
+        "aquinas-04-q2",
+        "aquinas-04-q3",
+        "aquinas-04-q4"
+      ],
+      "abilitySummary": [
+        "区分类比、单义与纯同名",
+        "说明否定神学与肯定命名怎样合作"
+      ],
+      "sourceIds": [
+        "st-i-q13",
+        "dee-4"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 10,
+        "bodyCharacterCount": 934,
+        "bodyCjkCount": 856,
+        "generalVisibleAuxiliaryCharacterCount": 214,
+        "generalVisibleAuxiliaryCjkCount": 198,
+        "assessmentCharacterCount": 429,
+        "assessmentCjkCount": 403,
+        "fullVisibleAuxiliaryCharacterCount": 643,
+        "fullVisibleAuxiliaryCjkCount": 601,
+        "metadataValueCharacterCount": 395
+      },
+      "recommendedNextLessonId": "aquinas-05"
+    },
+    {
+      "id": "aquinas-05",
+      "order": 5,
+      "title": "创造不是宇宙最早的一次变化",
+      "depth": "longform",
+      "guidingQuestion": "若创造指万物存在的普遍依赖，它与自然原因、时间起点和持续保存怎样区分？",
+      "coreExplanation": "创造不预设材料，是整个存在者对第一原因的依赖；自然施因在已受造的条件内产生变化。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "在“之前”追问会发生什么",
+          "paragraphs": [
+            "把创造想成上帝在空旷时间里制作宇宙，会立刻问：创造之前有什么，上帝为何等到那一刻，空无又怎样成为材料。这些问题假定时间和可操作材料已经在场，因而把创造降成一次规模巨大的变化。",
+            "阿奎那所说的创造更根本：不是某物从一种状态变到另一种状态，而是整个存在者连同其材料、形式和时间秩序都依赖第一原因。无中生有的“无”不是原料名称，而是否认有预先材料。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "distinction",
+          "heading": "自然变化预设，创造给予存在",
+          "paragraphs": [
+            "木匠造桌子时，木材已经存在；火加热水时，水及其潜能已经存在。自然与技艺的施因使一个现有主体取得新形式或状态。创造不在这条变化链中再加一道隐蔽动作，而是说明主体及其施因能力为何有存在。",
+            "因此阿奎那拒绝每次自然生成都夹带一次新创造。形式在复合物生成时成为现实，不作为一个独立实体被单独创造。把每个自然结果直接归给上帝，会抹掉火、种子、选择和制度作为次级原因的真正贡献。"
+          ],
+          "identity": "aquinas-creation"
+        },
+        {
+          "kind": "argument",
+          "heading": "第一原因与次级原因不争同一位置",
+          "paragraphs": [
+            "若第一原因只是因果链中力量最大的一个成员，它与受造原因就会竞争：解释越多给上帝，留给自然越少。阿奎那的层次不同。第一原因使受造者及其因果能力存在；次级原因在自身秩序中真实地产生特定效果。",
+            "一个医生治愈、药物发挥作用和身体恢复可以同时成立，不能以第一原因保存这些能力为由说医生没有治疗。反过来，自然说明越完整，也没有回答这些原因为何存在并能施动。两层说明可以相容，却不能相互替换。"
+          ],
+          "identity": "aquinas-creation"
+        },
+        {
+          "kind": "boundary",
+          "heading": "永恒世界假设为何不取消创造",
+          "paragraphs": [
+            "阿奎那接受世界在时间中有开端作为信仰命题，但认为自然理性不能严格证明这一开端。他甚至讨论一个没有最早时刻的世界是否仍可被创造。答案取决于创造是时间起点还是存在依赖。",
+            "若一盏灯从来没有未亮时刻，它的光仍可能在每一时刻依赖电源；无最初黑暗不等于无当下依赖。类比只显示两个问题可分，不证明永恒受造世界实际存在。这里教会教义给出时间开端，哲学分析则说明开端不构成创造概念的全部。"
+          ],
+          "identity": "aquinas-creation"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "持续创造会不会消除稳定自然",
+          "paragraphs": [
+            "强异议认为，若万物每刻都依赖第一原因，受造物便像没有自身性质的幻影；任何规律都可能被随意打断。这个异议攻击依赖与自主因果能否相容，而不是单纯否认第一原因。",
+            "回应要强调依赖所给予的正是稳定本性和因果能力。第一原因不是代替火燃烧，而是使火成为有特定能力的原因。回应保住受造因果的现实性，却不能从形上结构单独推出每个经验规律绝无例外；自然事实仍须由相应探究决定。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "灯光依赖持续供电不同于房屋早晨才开灯：前者说明当下存在条件，后者说明时间中的开始。",
+      "nodeIds": [
+        "aquinas-05"
+      ],
+      "checkIds": [
+        "aquinas-05-q1",
+        "aquinas-05-q2",
+        "aquinas-05-q3",
+        "aquinas-05-q4"
+      ],
+      "abilitySummary": [
+        "区分创造、变化与时间开端",
+        "说明第一因果为何不排斥受造原因的真实作用"
+      ],
+      "sourceIds": [
+        "st-i-q44-46",
+        "church-doctrine-creation-grace"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 10,
+        "bodyCharacterCount": 899,
+        "bodyCjkCount": 832,
+        "generalVisibleAuxiliaryCharacterCount": 227,
+        "generalVisibleAuxiliaryCjkCount": 214,
+        "assessmentCharacterCount": 452,
+        "assessmentCjkCount": 421,
+        "fullVisibleAuxiliaryCharacterCount": 679,
+        "fullVisibleAuxiliaryCjkCount": 635,
+        "metadataValueCharacterCount": 435
+      },
+      "recommendedNextLessonId": "aquinas-06"
+    },
+    {
+      "id": "aquinas-06",
+      "order": 6,
+      "title": "我不是困在身体里的灵魂",
+      "depth": "longform",
+      "guidingQuestion": "灵魂作为身体的形式怎样解释同一个人既感知又理解，同时留下分离生存与复活的难题？",
+      "coreExplanation": "人是灵魂与身体的实质统一体；理智活动显示灵魂有超越身体器官的能力，却不把身体降为可替换工具。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "谁在感觉，谁在思考",
+          "paragraphs": [
+            "若人本质上只是灵魂，身体便像临时载具；感官、情绪和受伤很难进入人格核心。若人只是身体机器，抽象理解与自由判断似乎又被还原成器官运动。阿奎那从一个更近的事实起步：同一个人经验自己既在感觉，也在理解。",
+            "解释任务因此不是把两类现象分别交给两个住客，而是说明一个人的不同能力怎样属于同一生命体。亚里士多德的形式与质料框架给出起点，基督教关于灵魂存续和身体复活的承诺则增加新压力。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "source-layer",
+          "heading": "亚里士多德提供的第一现实",
+          "paragraphs": [
+            "《论灵魂》把灵魂称为有生命潜能之自然身体的第一现实。这里的形式不是外形，而是使这具材料成为会营养、感知或思考的活物之原则。眼若是一只完整动物，视觉会是它的灵魂；失明的眼仍叫眼，却已失去眼的充分功能。",
+            "阿奎那接受灵魂是身体形式，借此拒绝人只是使用身体的灵魂。可是他还要论证理智灵魂能够在身体败坏后存续。这一步不能直接归给亚里士多德，更不能拿教义要求当作哲学论证已经完成。"
+          ],
+          "identity": "aristotle-source"
+        },
+        {
+          "kind": "argument",
+          "heading": "理智为何不以身体器官为直接工具",
+          "paragraphs": [
+            "感官总以特定物质方式接收对象：眼见颜色，耳听声音。理智能掌握普遍性质，并反思不同物质实例共有的结构。阿奎那由此主张，理解活动不是某个身体器官作为器官的行为；若器官的特定物质性质预先限定对象，它难以开放地把握普遍形式。",
+            "从活动方式，他推进到活动原则能独立存续。但“独立存续”不等于灵魂是完整的人。分离灵魂缺少其自然身体，人的完满要求复活。这样他同时保住理智不被器官穷尽和身体属于人格本性。"
+          ],
+          "identity": "aquinas-soul-body"
+        },
+        {
+          "kind": "case",
+          "heading": "脑损伤带来的具体压力",
+          "paragraphs": [
+            "脑损伤会改变记忆、语言、判断和性情。这不是可由一句“理智非物质”略过的表面现象。它显示人在现世中的理解依靠感觉表象、记忆与器官条件；形式不是绕开身体的备用处理器。",
+            "阿奎那可以区分理智行为的形式对象与行为在具体人身上的条件。这个区分保住非还原论，却必须承认身体损伤真实限制理性表现。它没有提供神经机制，也不能用来否定医学证据。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "形式会不会只是给未知贴名",
+          "paragraphs": [
+            "强异议认为，“形式”只是把生命体的组织和能力重新命名，没有增加因果解释；现代生物学描述组织机制后，这个概念便无事可做。异议攻击的是形式作为解释原则的独立贡献。",
+            "回应可以收缩形式的角色：它不与细胞或神经机制竞争，也不预测具体生理过程；它说明为何部分和过程属于同一活物、为何能力归属于整体。若这种整体归属可被更好的本体论完全说明，形式论仍受挑战。回应保住一个形上问题，不宣称已经解决经验科学。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "transition",
+          "heading": "由人的统一走向行动秩序",
+          "paragraphs": [
+            "若行动者是身体化的理性动物，伦理就不能只向纯意志发命令。欲望、习惯、共同生活和物质条件都参与选择形成。自然法因此不是从外部压在身体上的密码，而要从人的多层倾向与理性共同善出发。",
+            "这一推进也留下警告：从“人有某种自然倾向”不能直接跳到“任何实现倾向的行为都正当”。理性必须比较对象、关系和共同善，下一步要解释的正是规范中项。"
+          ],
+          "identity": "modern-reconstruction"
+        }
+      ],
+      "caseText": "不是眼睛独自看见后把结果交给另一个住客，而是这个人借眼睛看见；器官是人的能力实现方式。",
+      "nodeIds": [
+        "aquinas-06"
+      ],
+      "checkIds": [
+        "aquinas-06-q1",
+        "aquinas-06-q2",
+        "aquinas-06-q3",
+        "aquinas-06-q4"
+      ],
+      "abilitySummary": [
+        "区分形式质料统一与两个完整实体的联结",
+        "评估理智不依赖器官的论证及其边界"
+      ],
+      "sourceIds": [
+        "st-i-q75-76",
+        "aristotle-de-anima-ii",
+        "church-doctrine-creation-grace"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1073,
+        "bodyCjkCount": 981,
+        "generalVisibleAuxiliaryCharacterCount": 242,
+        "generalVisibleAuxiliaryCjkCount": 233,
+        "assessmentCharacterCount": 454,
+        "assessmentCjkCount": 429,
+        "fullVisibleAuxiliaryCharacterCount": 696,
+        "fullVisibleAuxiliaryCjkCount": 662,
+        "metadataValueCharacterCount": 476
+      },
+      "recommendedNextLessonId": "aquinas-07"
+    },
+    {
+      "id": "aquinas-07",
+      "order": 7,
+      "title": "自然法不是写在身体里的法规表",
+      "depth": "longform",
+      "guidingQuestion": "从“善应追求”到具体人法，中间需要哪些推理与确定化，何时法律会因不正义失去约束力？",
+      "coreExplanation": "自然法是理性受造者对永恒法的参与；最一般原则稳定，具体结论会受事实、习惯与共同善判断影响。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "从事实到应当缺少哪一步",
+          "paragraphs": [
+            "人会保存生命、组成家庭、寻求真理并共同生活，这些倾向是行动的事实基础。但从“有倾向”直接推出“满足倾向就是正当”，会把冲动强度冒充规范理由。自然法若只是本能清单，无法处理倾向冲突，也无法解释人为何会误判。",
+            "阿奎那把法律定义为理性为共同善作出的秩序，由负责共同体者制定并公布。自然法之所以是法，不是身体藏有条文，而是理性能够把人的善理解为行动原则。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "argument",
+          "heading": "第一原则怎样展开",
+          "paragraphs": [
+            "实践理性的第一把握是善应追求、恶应避免。它类似思辨理性的不可证明起点，不是一条能单独决定每个案件的法规。人的基本倾向使生命、繁衍与照料、真理、社会关系等呈现为善的领域。",
+            "从这些一般对象到具体行动仍需推理。保护生命并不自动决定每次医疗选择，社会性也不使现行习俗天然正当。实践理性要考虑对象、环境、他人权利和共同善，次级结论因此比第一原则更易受激情、坏习惯与事实误认遮蔽。"
+          ],
+          "identity": "aquinas-law"
+        },
+        {
+          "kind": "case",
+          "heading": "返还武器检验一般规则",
+          "paragraphs": [
+            "守信与返还所有物通常是自然法的近端结论。可是把武器交给正在寻求伤人的借主，会让一般规则反过来破坏生命与正义。这个例子不是给例外主义通行证，而是显示具体应用必须保存规则的理由。",
+            "若借主已经恢复冷静，或存在安全移交程序，事实变化会改变结论。案例执行的是原则权重与事实判断，不是宣告每个人可以凭主观善意免除义务。"
+          ],
+          "identity": "aquinas-law"
+        },
+        {
+          "kind": "distinction",
+          "heading": "人法为何既从自然法来又可多样",
+          "paragraphs": [
+            "有些人法像结论：禁止无故杀人更直接地从不伤害无辜者推出。有些则是确定化：共同体必须规定安全行驶，但选择左侧还是右侧不能由自然法概念唯一演绎。不同规定可以在不背叛共同善的情况下并存。",
+            "这一区分避免两种错误。一种把每条现行法规神圣化，另一种因法规包含人为选择就否认其正当权威。确定化仍须由适格权威、公共理由和合比例方式完成，不是任意意志。"
+          ],
+          "identity": "aquinas-law"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "文化差异是否反驳自然法",
+          "paragraphs": [
+            "强异议指出，不同社会对财产、家庭、惩罚和政治服从有深刻分歧。若自然法真的由人人共享的理性把握，这种分歧似乎比偶然无知更严重，甚至显示所谓自然只是某种历史秩序的投射。",
+            "阿奎那可以区分最一般原则、较远结论与具体确定化，并承认后两者更易变化和败坏。回应保住一种薄而真实的共同规范起点，却收缩了从中直接推出单一制度的能力。它仍欠对权力如何塑造“自然”判断的分析，现代批评在此具有独立分量。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "boundary",
+          "heading": "不正义法律何时仍可能被忍受",
+          "paragraphs": [
+            "偏离共同善、越权或不合比例的规定，是法律的败坏而非完善实例。它在良心中的约束力受损。但阿奎那也考虑抗拒可能造成更大混乱或伤害；因此“不是正义法律”与“此刻必须公开违抗”并非同一句。",
+            "若规定要求直接违背神圣善，服从边界更硬；若主要是分配不公，行动判断会涉及后果与共同体秩序。这个框架保留反抗可能，却没有自动给每个现代政治争议现成答案。"
+          ],
+          "identity": "aquinas-law"
+        }
+      ],
+      "caseText": "返还借物通常合乎正义，但若借主正处于狂怒并索回武器去伤人，机械返还会背叛原则所保护的善。",
+      "nodeIds": [
+        "aquinas-07"
+      ],
+      "checkIds": [
+        "aquinas-07-q1",
+        "aquinas-07-q2",
+        "aquinas-07-q3",
+        "aquinas-07-q4"
+      ],
+      "abilitySummary": [
+        "区分第一原则、次级结论和人法确定化",
+        "判断不正义法律的缺陷类型与服从边界"
+      ],
+      "sourceIds": [
+        "st-i-ii-q90-97",
+        "st-i-ii-q49-67"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1027,
+        "bodyCjkCount": 939,
+        "generalVisibleAuxiliaryCharacterCount": 245,
+        "generalVisibleAuxiliaryCjkCount": 232,
+        "assessmentCharacterCount": 431,
+        "assessmentCjkCount": 410,
+        "fullVisibleAuxiliaryCharacterCount": 676,
+        "fullVisibleAuxiliaryCjkCount": 642,
+        "metadataValueCharacterCount": 415
+      },
+      "recommendedNextLessonId": "aquinas-08"
+    },
+    {
+      "id": "aquinas-08",
+      "order": 8,
+      "title": "好行动为何需要成为一种稳定的人",
+      "depth": "longform",
+      "guidingQuestion": "规则知识为什么不足以产生好行动，习性、审慎、道德德性和爱德怎样共同塑造选择？",
+      "coreExplanation": "德性使能力稳定地趋向好行动；审慎判断具体可行之善，爱德在阿奎那的神学结构中重排终极目的。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "知道规则仍会失败",
+          "paragraphs": [
+            "一个人可以背出诚实、勇敢和节制的原则，却在压力到来时看不清眼前哪件事值得做，或虽看清仍被恐惧与欲望拖走。伦理若只提供正确句子，就无法解释判断与行动之间的裂缝。",
+            "阿奎那沿用亚里士多德的习性概念：能力经过稳定塑造，才会容易、坚定并以合宜方式行动。习性不是机械习惯；它使行动者更能看见相关理由，也更愿意依理由行动。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "concept",
+          "heading": "德性是能力的完善",
+          "paragraphs": [
+            "德性不是一串可储存的行为积分，而是使某项能力稳定趋向好对象的品质。技艺可以使人高效造出有害工具，因其好坏按作品衡量；道德德性涉及行动者的欲望、选择和目的，不能只按技术成功判断。",
+            "重复行为有助于获得德性，却不是次数自动累加。若每次行动出于恐惧、误解或偶然，稳定品格未必形成。形成德性还需要明白对象、愿意选择并以相对稳定的方式去做。"
+          ],
+          "identity": "aquinas-habits-and-virtues"
+        },
+        {
+          "kind": "argument",
+          "heading": "审慎为什么不能独自运转",
+          "paragraphs": [
+            "审慎不是谨小慎微，而是关于可行动之善的正确理性。它把一般目的带入具体环境，判断何时、如何、以何手段行动。没有审慎，勇敢可能变成冒进，诚实可能变成不顾后果的泄露。",
+            "但审慎也需要道德德性。一个被贪欲塑造的人会把有利于自己看成情境中最重要的理由，推理技巧越强，合理化可能越精巧。德性使目的显得正确，审慎使通向目的的具体选择正确；二者相互依赖而非各自封闭。"
+          ],
+          "identity": "aquinas-habits-and-virtues"
+        },
+        {
+          "kind": "case",
+          "heading": "揭露真相不是只查一条规则",
+          "paragraphs": [
+            "一名工作人员发现机构隐瞒危险。立即公开可能阻止伤害，也可能暴露无辜者并毁掉证据；内部通报可能有效，也可能被压下。案例要求诚实、正义、勇敢与审慎共同判断，而不是给每种德性分配互不相干的按钮。",
+            "若存在可靠保护程序，或危险已经迫近，适当手段会变化。案例不能证明某个固定答案，而是显示具体事实如何进入德性判断，以及为什么勇敢不等于承担最大风险。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "source-layer",
+          "heading": "亚里士多德框架在何处被改造",
+          "paragraphs": [
+            "习惯德性、中道和实践智慧深受《尼各马可伦理学》影响。阿奎那并非只给亚里士多德加宗教词语；他把人的终极幸福置于对上帝的享见，并加入信、望、爱等神学德性和由恩典注入的德性。",
+            "因此不能把爱德归给亚里士多德，也不能说自然获得的德性在阿奎那那里毫无价值。自然德性真实完善人的能力，却不足以按超自然终点重排整个生命。两层关系将在恩典问题中进一步受检验。"
+          ],
+          "identity": "source-layering"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "德性统一会不会压扁道德冲突",
+          "paragraphs": [
+            "强异议认为，若完满德性在审慎和爱德中联结，真实生活中相互冲突的价值就会被理论提前宣布和谐；悲剧选择和制度性恶因而被低估。这个异议攻击德性整体论对冲突经验的解释力。",
+            "回应可以说，德性联结不是保证每种善都能同时实现，而是保证选择不由坏目的系统扭曲。行动者仍可能在不可兼得的善之间承担损失。回应保住品格整合，却收缩了无冲突承诺；它仍欠对结构性限制的更充分说明。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "一个人知道诚实规则，却在恐惧中反复扭曲事实；问题不只是缺少命题知识，也在欲望与判断尚未形成稳定秩序。",
+      "nodeIds": [
+        "aquinas-08"
+      ],
+      "checkIds": [
+        "aquinas-08-q1",
+        "aquinas-08-q2",
+        "aquinas-08-q3",
+        "aquinas-08-q4"
+      ],
+      "abilitySummary": [
+        "区分德性、单次行为与熟练技巧",
+        "说明审慎与道德德性相互需要的理由"
+      ],
+      "sourceIds": [
+        "st-i-ii-q49-67",
+        "aristotle-ne-ii-vi"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1001,
+        "bodyCjkCount": 917,
+        "generalVisibleAuxiliaryCharacterCount": 242,
+        "generalVisibleAuxiliaryCjkCount": 230,
+        "assessmentCharacterCount": 429,
+        "assessmentCjkCount": 401,
+        "fullVisibleAuxiliaryCharacterCount": 671,
+        "fullVisibleAuxiliaryCjkCount": 631,
+        "metadataValueCharacterCount": 456
+      },
+      "recommendedNextLessonId": "aquinas-09"
+    },
+    {
+      "id": "aquinas-09",
+      "order": 9,
+      "title": "自由不是没有原因的任意转弯",
+      "depth": "longform",
+      "guidingQuestion": "意志趋向善、理智提出判断、上帝作为第一原因，这三者怎样仍给具体选择留下自由？",
+      "coreExplanation": "意志必然趋向一般幸福，却不会被有限选项单独必然化；审议使人能在多种手段间自我决定。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "若意志总追求善，它还能拒绝吗",
+          "paragraphs": [
+            "阿奎那说意志以善为对象，这容易被听成每次选择都由“最善”自动触发。可现实中人会在相互竞争的好处之间犹豫，也会把表面善误当真实善。若意志不受任何理由吸引，选择又会退成随机事件，不能归责于行动者。",
+            "自由的难题因此不是摆脱所有原因，而是何种因果使行动真正出于这个会理解理由的人。阿奎那把理智、意志、欲望和习性放进同一行动过程。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "distinction",
+          "heading": "一般幸福与有限好处",
+          "paragraphs": [
+            "意志不能把恶当作恶来追求；即使作恶者也在其中看见快感、利益、报复或别的表面善。它对一般幸福有形式上的必然趋向，但这不指定财富、名誉、友谊或诚实哪一项在具体处境中实现幸福。",
+            "有限对象同时呈现可欲与不足，理智能从不同方面考虑它。正因没有一个有限善以完整幸福的方式必然吸引，意志可以继续审议、转移注意并选择。自由空间来自对象的不完满和理性比较，不来自行动没有理由。"
+          ],
+          "identity": "aquinas-free-choice"
+        },
+        {
+          "kind": "argument",
+          "heading": "自由选择为何属于理性欲求",
+          "paragraphs": [
+            "非理性动物也趋向对象，但人的行动能比较手段、评估后果并反思自己的欲望。自由选择涉及审议后的判断与意志接受，因此既不是纯认知结论，也不是盲目欲力。",
+            "意志能推动理智考虑某一面，理智又向意志呈现某物为何可欲。二者相互作用说明拖延、重新描述和悔改何以可能。它也解释责任为何会受无知、强迫、恐惧和根深习性影响，而不是只有自由或不自由两档。"
+          ],
+          "identity": "aquinas-free-choice"
+        },
+        {
+          "kind": "case",
+          "heading": "成瘾如何改变而不必消灭责任",
+          "paragraphs": [
+            "成瘾者可能真诚判断长期健康更好，却在强烈欲望、注意偏向和身体依赖中选择即时满足。说他与未受这些条件影响者同样轻松地选择，会忽略能力差异；说行动与他毫无关系，又会取消其参与恢复和形成新习性的可能。",
+            "阿奎那框架允许把责任按自愿程度、既往选择和当前控制细分。案例不提供医学诊断，也不能把疾病道德化。它只检验自由是否必须等于毫无阻力的选项对称。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "第一原因会不会预先拿走自由",
+          "paragraphs": [
+            "强异议指出，若上帝使意志存在并推动其行动，而第一原因不可能失败，那么人的选择似乎已由更高原因充分决定。把上帝只写成旁观者会保住自由，却牺牲普遍因果；把人写成工具则会牺牲责任。",
+            "阿奎那回应说第一原因使事物按其本性行动，包括使自由原因以自由方式产生效果。神圣因果与人的因果不是同层竞争。这个回应保住两层因果相容，却没有让奥秘消失：无误的神圣知识、恩典推动与可作他选之间如何精确协调，后世托马斯主义内部仍有争论。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "transition",
+          "heading": "自由能力为何仍需要医治",
+          "paragraphs": [
+            "有自由不表示人能凭现状稳定完成一切善。无知会遮蔽判断，坏习性会使表面善占据注意，意志也可能不能持久。阿奎那因此谈恩典，不是先宣布自然能力为零，而是区分创造性的自然帮助、罪后医治和向超自然终点的提升。",
+            "若恩典只是额外命令，它无法医治行动者；若恩典替人行动，德性与责任又会失去位置。下一步要检验的是一种帮助怎样内在地使自由行动成为可能。"
+          ],
+          "identity": "aquinas-grace"
+        }
+      ],
+      "caseText": "所有人都以某种好处为行动理由，不表示他们对何为好处、哪种手段合宜或眼前对象是否真正善意见一致。",
+      "nodeIds": [
+        "aquinas-09"
+      ],
+      "checkIds": [
+        "aquinas-09-q1",
+        "aquinas-09-q2",
+        "aquinas-09-q3",
+        "aquinas-09-q4"
+      ],
+      "abilitySummary": [
+        "区分终极善的形式趋向与具体对象选择",
+        "说明受因果影响为何不等于受强迫"
+      ],
+      "sourceIds": [
+        "st-i-q83",
+        "st-i-ii-q49-67",
+        "st-i-ii-q109-114"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1034,
+        "bodyCjkCount": 951,
+        "generalVisibleAuxiliaryCharacterCount": 243,
+        "generalVisibleAuxiliaryCjkCount": 232,
+        "assessmentCharacterCount": 427,
+        "assessmentCjkCount": 403,
+        "fullVisibleAuxiliaryCharacterCount": 670,
+        "fullVisibleAuxiliaryCjkCount": 635,
+        "metadataValueCharacterCount": 444
+      },
+      "recommendedNextLessonId": "aquinas-10"
+    },
+    {
+      "id": "aquinas-10",
+      "order": 10,
+      "title": "恩典若帮助自由，为何不是替自由行动",
+      "depth": "longform",
+      "guidingQuestion": "自然能力、罪后医治、超自然提升和功德怎样分层，才能既拒绝自救也拒绝被动木偶？",
+      "coreExplanation": "恩典预先推动、医治并提升人的能力，使人真实地自由行动；功德建立在神先设立并给予的秩序中。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "两种都取消行动者的说法",
+          "paragraphs": [
+            "一种说法把人看成凭自然能力即可达到任何终点，恩典只是可有可无的鼓励。另一种说法把罪后的人看成完全没有任何真理和善行动，恩典像外力搬动无生命物体。前者取消神圣主动，后者取消被帮助者的行动。",
+            "阿奎那的区分更细。他承认人凭自然能力能认识许多真理、完成某些相称的善；同时主张人不能凭自然能力达到超自然享见，也不能在受损状态中稳定完成整个善秩序。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "distinction",
+          "heading": "帮助并非只有一种",
+          "paragraphs": [
+            "一切受造行动首先依赖上帝保存存在与能力，这是普遍的神圣帮助。恩典在更专门意义上医治被罪扭曲的能力，并把人提升到超出自然比例的终点。若把三层混成一个词，就会把普通认知也说成没有特殊恩典便不可能，或把享见降成自然潜能的自行成熟。",
+            "医治与提升也不能截然分成先后两段。爱德既纠正意志的秩序，也使行动指向与上帝友谊相称的终点。自然没有被摧毁，而是在自身真实能力上被恢复并带向更高关系。"
+          ],
+          "identity": "aquinas-grace"
+        },
+        {
+          "kind": "argument",
+          "heading": "预先推动如何产生自由行为",
+          "paragraphs": [
+            "人不能在没有神圣帮助时先独立准备自己，再凭准备要求恩典，因为那会让第一步成为自救功劳。恩典在善意愿之前主动推动。但推动的效果不是没有意志的动作，而是意志开始愿意并合作。",
+            "第一原因能够比外在强迫更内在地触及意志，因为它给予意志的存在与行动能力。外在强迫使行为违背意愿，恩典则使意愿被医治而自由趋向善。这个说明依赖上一单元的两层因果；不接受该形上框架者会继续质疑。"
+          ],
+          "identity": "aquinas-grace"
+        },
+        {
+          "kind": "case",
+          "heading": "医治视力的类比及其限度",
+          "paragraphs": [
+            "治愈眼病使眼睛自己看见，医生并不代替视觉主体。这个类比说明帮助可以恢复能力而不抢走行动。可是眼睛没有审议，恩典与意志的关系又涉及人格与爱，因此类比不能承担全部解释。",
+            "训练运动员的类比增加合作维度，却可能误导成恩典只是技能指导。两个类比交叉使用：一者强调医治，另一者强调真实参与；二者都不能证明超自然提升的存在，只帮助区分“帮助行动”与“替代行动”。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "merit",
+          "heading": "功德为何既真实又不成为债权",
+          "paragraphs": [
+            "若恩典先行，人做出的善为何还能称为有功德？阿奎那的回答不是把贡献切成神一半、人一半。神先自由设立应许与友谊秩序，并给予爱德；人在这秩序中真实自由地行动，因此行动可以与所应许的赏报相称。",
+            "功德不是受造者凭自然产出使上帝负债。其基础是神的恩赐和承诺，同时行动确实属于被恩典更新的人。删除任一侧都会变形：只剩恩赐会消除回应，只剩功劳会把恩典变成工资。"
+          ],
+          "identity": "aquinas-grace"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "合作语言会不会隐藏不对称",
+          "paragraphs": [
+            "强异议说，“合作”听起来像两个独立行动者平等谈判，掩盖了神连人的愿意都作为第一原因推动。若最终差别完全来自恩典，为何一人同意、一人拒绝，也成为尖锐难题。",
+            "阿奎那式回应必须承认不对称：恩典绝非对自然先行贡献的回报；人的同意却不是虚构。回应保住主动与责任，但对有效恩典、许可拒绝和预定的精确关系仍留有争议。后世学派给出的方案不能反写成阿奎那已消除所有张力。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "恢复视力不是替眼睛看，训练也不是替运动员跑；类比各有边界，却都显示帮助可以改变能力本身。",
+      "nodeIds": [
+        "aquinas-10"
+      ],
+      "checkIds": [
+        "aquinas-10-q1",
+        "aquinas-10-q2",
+        "aquinas-10-q3",
+        "aquinas-10-q4"
+      ],
+      "abilitySummary": [
+        "区分自然帮助、医治恩典与提升恩典",
+        "说明恩典优先与人的真实功德如何同时成立"
+      ],
+      "sourceIds": [
+        "st-i-ii-q109-114",
+        "st-i-q83",
+        "church-doctrine-creation-grace"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1051,
+        "bodyCjkCount": 969,
+        "generalVisibleAuxiliaryCharacterCount": 245,
+        "generalVisibleAuxiliaryCjkCount": 231,
+        "assessmentCharacterCount": 408,
+        "assessmentCjkCount": 383,
+        "fullVisibleAuxiliaryCharacterCount": 653,
+        "fullVisibleAuxiliaryCjkCount": 614,
+        "metadataValueCharacterCount": 442
+      },
+      "recommendedNextLessonId": "aquinas-11"
+    },
+    {
+      "id": "aquinas-11",
+      "order": 11,
+      "title": "公共权威何时可以动用强制",
+      "depth": "longform",
+      "guidingQuestion": "共同善、正当权威、战争理由与正当意向如何限制政治强制，又为何不足以直接解决现代战争？",
+      "coreExplanation": "政治权威以共同善为职责，战争须同时满足权威、理由和意向；这些必要条件仍需接受制度与现代规范审查。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "和平理想为何没有自动排除武力",
+          "paragraphs": [
+            "若一切武力都违背和平，公共权威便不能保护遭受攻击者；若维护秩序本身足以正当化武力，权威又会把任何反对称为威胁。阿奎那要在两种危险之间说明：强制不是私人意志的延伸，而应受共同善目的约束。",
+            "这个框架产生的不是战争许可证，而是一组同时必要的限制。缺一项就不能以其余条件补偿；条件齐备也不表示所有比例、区分和平民保护问题已经得到回答。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "political-order",
+          "heading": "统治为何以共同善而非统治者利益为尺度",
+          "paragraphs": [
+            "《论君主政治》把共同趋向善的秩序与为统治者私利服务的暴政区分。权威的理由来自照料共同体，而非占据职位本身。一个程序合法却系统服务少数私利的政权，会在目的上损害自身正当性。",
+            "阿奎那偏好统一治理以避免分裂，却也担心君主制败坏成最强暴政。他讨论制度约束与抵抗时相当谨慎，尤其警惕私人行动引发更大伤害。不能把这种谨慎等同于无条件服从，也不能直接移植成现代民主理论。"
+          ],
+          "identity": "aquinas-political-rule"
+        },
+        {
+          "kind": "text-identity",
+          "heading": "政体、反暴政与文本身份的窄边界",
+          "paragraphs": [
+            "《论君主政治》第一卷比较一人、少数与多数治理的正当和败坏形式：尺度不是人数本身，而是统治是否朝向共同善。统一治理有协调优势，但最优形式败坏时也可能成为最坏暴政，因此制度安排应兼顾统一、参与与对权力的约束。这里可以谈混合与节制的方向，不能把中世纪政体词汇直接翻译成现代宪政制度。",
+            "反抗暴政的判断不是“服从或革命”二选一。阿奎那反对私人凭一己判断刺杀统治者，担心行动失败、继承更恶和共同体分裂；他把公共授权、伤害比较和可行后果纳入审慎。此谨慎不把暴政变成合法，也不授予统治者无限权力。",
+            "文本身份须另行注明：《论君主政治》未完成，阿奎那正文至第二卷第四章；第二卷第五章起的续写归于卢卡的托勒密。这个文本史判断只划定署名边界，不能替前段作者论证发言。"
+          ],
+          "identity": "aquinas-political-rule",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "《论君主政治》第一卷比较一人、少数与多数治理的正当和败坏形式：尺度不是人数本身，而是统治是否朝向",
+              "sourceIds": [
+                "de-regno-common-good-tyranny"
+              ],
+              "identity": "aquinas-political-rule"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "反抗暴政的判断不是“服从或革命”二选一。阿奎那反对私人凭一己判断刺杀统治者，担心行动失败、继承更",
+              "sourceIds": [
+                "de-regno-common-good-tyranny"
+              ],
+              "identity": "aquinas-political-rule"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "文本身份须另行注明：《论君主政治》未完成，阿奎那正文至第二卷第四章；第二卷第五章起的续写归于卢卡的托勒密。",
+              "sourceIds": [
+                "de-regno-text-history"
+              ],
+              "identity": "critical-editor-text-history"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "战争的三项必要条件",
+          "paragraphs": [
+            "第一，发动战争须有照料共同体的公共权威，私人不能自行召集战争。第二，须有正当理由，例如回应真实侵害，而非扩张利益。第三，须有正当意向，以促进善、避免恶和恢复和平为目标，不以残酷或贪欲驱动。",
+            "三项条件分属行动者身份、所回应的事实与行动目的。合法权威不能把不正理由洗白，真实侵害也不能授权私人任意开战，良好意愿更不能补偿手段与后果的严重失衡。"
+          ],
+          "identity": "aquinas-war"
+        },
+        {
+          "kind": "case",
+          "heading": "表面保护与资源夺取",
+          "paragraphs": [
+            "某政府确有合法程序，对方也曾侵犯边界，但决策记录显示主要目标是夺取资源，并故意扩大冲突以巩固统治。三条件检查会得出：权威身份和某项理由不自动净化意向，战争仍可能不正义。",
+            "若行动同时有保护平民和获取利益等混合动机，判断会更难。需问不正目的是否决定行动方案、手段是否合比例、和平是否真是结束条件。阿奎那的意向分析提供入口，却没有现代证据制度和战争法的全部工具。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "modern-boundary",
+          "heading": "中世纪条件不是现代战争法全套",
+          "paragraphs": [
+            "无人机、核威慑、国际组织、非国家武装和大规模平民风险改变了判断环境。只背三条件无法解决区分战斗员、成功可能性、最后手段、战后责任和跨国合法性。把阿奎那写成已经给出现代清单，会用后世发展替他补话。",
+            "反过来，历史距离也不使三条件失去批判作用。它们仍迫使权力说明谁有资格决定、实际侵害是什么、真正目的为何。现代重构可以增加比例与区分原则，但必须标成后世规范发展。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "objection-response",
+          "heading": "正当权威会不会循环自证",
+          "paragraphs": [
+            "强异议指出，国家常由自身宣布合法，再用强制压制对合法性的质疑。若“有权威者可以用武力，而能用武力者就是权威”，条件便循环。这个异议攻击权威来源，而非否认公共协调的必要。",
+            "阿奎那可用共同善、法律秩序和反暴政标准打破纯事实循环：占有力量不等于拥有正当照料权。回应保住规范尺度，却对现代代表、殖民国家和国际授权问题给得不够。结论必须收缩为一套审查起点，而非现成裁决机。"
+          ],
+          "identity": "modern-objection"
+        }
+      ],
+      "caseText": "合法政府以保护平民为名发动攻击，若真实目的在夺取资源，即使理由表面成立，意向仍使行动失序。",
+      "nodeIds": [
+        "aquinas-11"
+      ],
+      "checkIds": [
+        "aquinas-11-q1",
+        "aquinas-11-q2",
+        "aquinas-11-q3",
+        "aquinas-11-q4"
+      ],
+      "abilitySummary": [
+        "区分私人暴力与公共权威的职责",
+        "把正义战争三条件用于案例并指出历史边界"
+      ],
+      "sourceIds": [
+        "st-ii-ii-q40",
+        "st-i-ii-q90-97",
+        "de-regno-common-good-tyranny",
+        "de-regno-text-history"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 15,
+        "bodyCharacterCount": 1360,
+        "bodyCjkCount": 1239,
+        "generalVisibleAuxiliaryCharacterCount": 270,
+        "generalVisibleAuxiliaryCjkCount": 257,
+        "assessmentCharacterCount": 426,
+        "assessmentCjkCount": 400,
+        "fullVisibleAuxiliaryCharacterCount": 696,
+        "fullVisibleAuxiliaryCjkCount": 657,
+        "metadataValueCharacterCount": 543
+      },
+      "recommendedNextLessonId": "aquinas-12"
+    },
+    {
+      "id": "aquinas-12",
+      "order": 12,
+      "title": "在现代异议之后，阿奎那还留下什么",
+      "depth": "longform",
+      "guidingQuestion": "科学、语言、政治与宗教多元的批评如何击中具体前提，哪些结构仍值得保留，哪些结论必须收缩？",
+      "coreExplanation": "现代批评不应整体嘲讽或整体护教，而应逐项审查依赖、目的、自然、权威和声音身份。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "整体接受与整体拒绝都太容易",
+          "paragraphs": [
+            "阿奎那体系连接神学、形上学、心理学、伦理和政治，容易诱发两种总判决。支持者把局部区分的精密当作全体系已经成立，批评者则用一项过时自然观宣布所有论证失效。两种做法都没有指出哪条结论依赖哪项前提。",
+            "较严格的评价要画出依赖关系。五路某项因果原则受损，不会直接证明自然法错误；中世纪政治层级受到批评，也不自动取消灵魂身体统一的洞见。反过来，一个仍有用的区分也不能为所有神学结论担保。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "modern-objection",
+          "heading": "科学解释是否挤走第一原因",
+          "paragraphs": [
+            "现代科学能以物理、化学、生物和认知机制解释大量过去未知现象。若上帝只填补机制空白，知识增长确会不断缩小其位置。这个异议有效击中把第一原因当作链中未知成员的用法。",
+            "阿奎那的第一原因意在回答为何有具备因果能力的现实秩序，而不是替代次级机制。这个区别保住问题类型，却不自动证明第一原因答案正确。批评者仍可否认充分理由原则、目的秩序或依赖必须终止。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "modern-objection",
+          "heading": "进化与目的语言的重新压力",
+          "paragraphs": [
+            "自然选择解释了复杂适应如何在无预见设计者的局部机制中出现，使以生物复杂性直接推设计者的论证失去力量。第五路若被写成这种论证，就会受到决定性打击。",
+            "阿奎那更关心无认知自然过程为何有稳定趋向和可描述的因果结果。进化机制本身也包含规律性与倾向语言，但这只重开目的是否可还原的问题，不证明神圣知性。现代重构若用统计规律替换亚里士多德目的因，必须承认概念已经变化。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "political-critique",
+          "heading": "自然与共同善会不会替权力说话",
+          "paragraphs": [
+            "自然法和共同善语言可能被掌权者用来固定性别角色、宗教特权与社会等级。只说滥用不伤理论还不够，因为关于人类功能和社会秩序的实质判断本就可能带入历史偏见。",
+            "阿奎那资源内部也提供审查：法律须按共同善而非私利，不正义规定会失去法律的完善性质，理性须从一般原则经过事实判断。现代批评保住这些反权力工具，同时要求扩大谁能参与界定共同善，并以平等、经验伤害和制度问责检验自然主张。后半属于现代规范重构。"
+          ],
+          "identity": "modern-objection"
+        },
+        {
+          "kind": "voice-layering",
+          "heading": "四种声音必须一直分开",
+          "paragraphs": [
+            "亚里士多德提供现实与潜能、形式与质料、德性与审慎等资源；教会教义规定创造、恩典、复活与享见等背景；阿奎那用自己的论证把这些材料重组；后世托马斯主义又发展预定、类比和政治问题的不同方案。",
+            "把四层压成“阿奎那认为”会制造虚假权威。某命题可能是他接受的教义、为之提供的论证、从亚里士多德改造而来的概念，或后世为解决遗留难题提出的方案。准确评价先要确定身份，再判断理由。"
+          ],
+          "identity": "source-layering"
+        },
+        {
+          "kind": "method",
+          "heading": "经院结构留给现代讨论的纪律",
+          "paragraphs": [
+            "最可迁移的未必是每项结论，而是一种讨论纪律：先让反方理由以强形式出现，主答增加区分或前提，回应逐项偿还债务，并明确结论只保住到哪里。这样可以避免把信仰与理性、身体与灵魂、自然与恩典写成互相取消的口号。",
+            "这套纪律也会反过来审查阿奎那。若某项回应只是重申权威，若自然目的的前提无法获得独立支持，若政治秩序排除了受其影响者的声音，就应记录真实损失，而不是靠体系完整性遮盖。"
+          ],
+          "identity": "modern-reconstruction"
+        },
+        {
+          "kind": "close",
+          "heading": "保住结构，收缩结论，留下债务",
+          "paragraphs": [
+            "现在可以保住几项结构：认识路径应分层，有限存在提出依赖问题，第一与次级原因不必竞争，人是身体化统一体，规则应用需要审慎，权威以共同善受审查。它们仍需分别辩护，不能因为彼此连接就共享证明。",
+            "需要收缩的包括把五路当现代科学证明、把类比当免疫手段、把自然法当详细法典、把三项战争条件当完备战争法。仍开放的债务更重要：依赖是否必须终止，目的是否可还原，神圣因果如何容纳可作他选，多元社会如何公共地辩护共同善。阿奎那留下的不是一个无需再问的封闭答案，而是一张要求理由彼此负责的问题网络。"
+          ],
+          "identity": "modern-reconstruction"
+        }
+      ],
+      "caseText": "同一位研究者可以拒绝第四路的完善尺度论证，却保留本质与存在的解释区分；局部失败不自动决定整个体系。",
+      "nodeIds": [
+        "aquinas-12"
+      ],
+      "checkIds": [
+        "aquinas-12-q1",
+        "aquinas-12-q2",
+        "aquinas-12-q3",
+        "aquinas-12-q4"
+      ],
+      "abilitySummary": [
+        "把现代异议定位到具体前提而非整套贴标签",
+        "分层评价阿奎那、亚里士多德来源、教义背景与后世托马斯主义"
+      ],
+      "sourceIds": [
+        "later-five-ways",
+        "st-i-q1",
+        "scg-i-3-9",
+        "church-doctrine-creation-grace"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 14,
+        "bodyCharacterCount": 1323,
+        "bodyCjkCount": 1220,
+        "generalVisibleAuxiliaryCharacterCount": 283,
+        "generalVisibleAuxiliaryCjkCount": 265,
+        "assessmentCharacterCount": 451,
+        "assessmentCjkCount": 426,
+        "fullVisibleAuxiliaryCharacterCount": 734,
+        "fullVisibleAuxiliaryCjkCount": 691,
+        "metadataValueCharacterCount": 518
+      },
+      "recommendedNextLessonId": "aquinas-13"
+    },
+    {
+      "id": "aquinas-13",
+      "order": 13,
+      "title": "从神圣单纯到统一：属性为何形成依赖链",
+      "depth": "longform",
+      "guidingQuestion": "单纯、完善、善、无限、不变、永恒与统一为何不是七张互不相干的标签？",
+      "coreExplanation": "属性论从上帝不是由部分组成出发，借因果与否定逐步说明完善、无限、不变、永恒和统一；每一步依赖前一步，却都受类比语言限制。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "为什么“列出属性”还不是解释",
+          "paragraphs": [
+            "说上帝单纯、完善、善、无限、不变、永恒且唯一，只是给出清单。真正的问题是这些判断凭什么相连，以及有限理智在何种意义上能说它们。阿奎那从受造因果和对复合限制的否定推进，而不是先把最高程度的日常性质堆在一个对象上。",
+            "因此属性链不能与神名问题混为一谈。q.13问名称怎样指称，qq.3—11问论证为何归给上帝这些属性；命名的类比边界贯穿属性论，却不替代各属性的理由。"
+          ],
+          "identity": "modern-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "说上帝单纯、完善、善、无限、不变、永恒且唯一，只是给出清单。真正的问题是这些判断凭什么相连，以及",
+              "sourceIds": [
+                "st-i-q3-a7"
+              ],
+              "identity": "modern-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "因此属性链不能与神名问题混为一谈。q.13问名称怎样指称，qq.3—11问论证为何归给上帝这些属",
+              "sourceIds": [
+                "st-i-q3-a7"
+              ],
+              "identity": "modern-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "单纯如何排除受造式组成",
+          "paragraphs": [
+            "任何由部分组成者都依赖组成原则，并且其整体在解释上后于部分。若第一原理本身由物质与形式、本质与存在或实体与偶性拼成，它便不是终极解释。阿奎那据此否认上帝中的这些受造组成。",
+            "这种单纯不是说上帝像几何点那样内容稀薄，而是说其存在与所是并非由更基本成分取得。把单纯想成“属性很少”，仍以受造物拥有性质的方式理解上帝。"
+          ],
+          "identity": "aquinas-divine-attributes",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "任何由部分组成者都依赖组成原则，并且其整体在解释上后于部分。若第一原理本身由物质与形式、本质与存",
+              "sourceIds": [
+                "st-i-q3-a7"
+              ],
+              "identity": "aquinas-divine-attributes"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这种单纯不是说上帝像几何点那样内容稀薄，而是说其存在与所是并非由更基本成分取得。把单纯想成“属性",
+              "sourceIds": [
+                "st-i-q3-a7"
+              ],
+              "identity": "aquinas-divine-attributes"
+            }
+          ]
+        },
+        {
+          "kind": "transition",
+          "heading": "完善、善与无限怎样接续",
+          "paragraphs": [
+            "若第一原理不是从外部领受有限的一份存在，它便不因领受方式而缺少存在的完善。完善在这里不是各类技能的总和，而是作为原因不以受造缺陷方式拥有其所产生的完善；善则说明完善作为可欲对象的面向。",
+            "无限也不是空间无边或数量无限。它是否定存在被某种领受能力界定。因果语言容许从受造完善上升，否定语言同时排除受造方式，卓越语言则标示原因不以较低形态拥有完善。"
+          ],
+          "identity": "aquinas-divine-attributes",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "若第一原理不是从外部领受有限的一份存在，它便不因领受方式而缺少存在的完善。完善在这里不是各类技能",
+              "sourceIds": [
+                "st-i-q4-a1-q6-a1-q7-a1"
+              ],
+              "identity": "aquinas-divine-attributes"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "无限也不是空间无边或数量无限。它是否定存在被某种领受能力界定。因果语言容许从受造完善上升，否定语",
+              "sourceIds": [
+                "st-i-q4-a1-q6-a1-q7-a1"
+              ],
+              "identity": "aquinas-divine-attributes"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "不变、永恒与统一的次序",
+          "paragraphs": [
+            "变化意味着从潜能到实现，或在某方面获得先前没有的规定。若第一原理纯粹实现且不由成分构成，就没有通过变化完成自身的潜能。永恒因此不是无限长的时间，而是对不变生命之整体同时拥有的表达。",
+            "统一则不是在同类中数出“一个个体”。复合与分割被排除、存在不由限制原则领受时，第一原理不能与另一个同级第一原理凭差异原则并列。统一收束前面的链，而非另加一项可分离性质。"
+          ],
+          "identity": "aquinas-divine-attributes",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "变化意味着从潜能到实现，或在某方面获得先前没有的规定。若第一原理纯粹实现且不由成分构成，就没有通",
+              "sourceIds": [
+                "st-i-q9-a1-q10-a2-q11-a1"
+              ],
+              "identity": "aquinas-divine-attributes"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "统一则不是在同类中数出“一个个体”。复合与分割被排除、存在不由限制原则领受时，第一原理不能与另一",
+              "sourceIds": [
+                "st-i-q9-a1-q10-a2-q11-a1"
+              ],
+              "identity": "aquinas-divine-attributes"
+            }
+          ]
+        },
+        {
+          "kind": "objection-response",
+          "heading": "属性会不会重新破坏单纯",
+          "paragraphs": [
+            "异议说：若我们真实地区分完善、善、不变与永恒，上帝内部岂不又有许多性质？阿奎那的回答是，这些名称在我们的概念中依不同受造关系而区分，却不要求所指对象由相应部分组成。概念多样反映认识路径，不等于对象复合。",
+            "回应保住单纯，但也限定认识主张：我们并未穷尽神圣本质，只能从效果出发，以否定和类比形成不充分却非纯虚假的判断。",
+            "属性链的价值正在于控制推论顺序。完善不能先被理解成性质总和再拿来证明单纯，无限也不能绕过完善而变成空间想象；每个结论既承接前项，也留下命名和认识限度。",
+            "尤其不能从“五路抵达第一原因”一步跳到全套属性。q.2只建立后续追问的起点，qq.3—11才逐项排除复合、潜能和限制。若缺少这些中介，结论即使与阿奎那相同，也不是他的论证。链条本身就是证成的一部分。"
+          ],
+          "identity": "modern-objection",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "异议说：若我们真实地区分完善、善、不变与永恒，上帝内部岂不又有许多性质？阿奎那的回答是，这些名称",
+              "sourceIds": [
+                "st-i-q3-a7",
+                "st-i-q13"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "回应保住单纯，但也限定认识主张：我们并未穷尽神圣本质，只能从效果出发，以否定和类比形成不充分却非",
+              "sourceIds": [
+                "st-i-q3-a7",
+                "st-i-q13"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "属性链的价值正在于控制推论顺序。完善不能先被理解成性质总和再拿来证明单纯，无限也不能绕过完善而变",
+              "sourceIds": [
+                "st-i-q3-a7",
+                "st-i-q13"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "尤其不能从“五路抵达第一原因”一步跳到全套属性。q.2只建立后续追问的起点，qq.3—11才逐项",
+              "sourceIds": [
+                "st-i-q3-a7",
+                "st-i-q13"
+              ],
+              "identity": "modern-objection"
+            }
+          ]
+        }
+      ],
+      "caseText": "若把“单纯”理解为贫乏无内容，就会误以为完善必须靠不断添加性质；论证恰恰否认受造物式拼装。",
+      "nodeIds": [
+        "aquinas-13"
+      ],
+      "checkIds": [
+        "aquinas-13-q1",
+        "aquinas-13-q2",
+        "aquinas-13-q3",
+        "aquinas-13-q4"
+      ],
+      "abilitySummary": [
+        "重建ST I qq.3-11的属性依赖链",
+        "区分属性论、神名方法与经验对象描述"
+      ],
+      "sourceIds": [
+        "st-i-q3-a7",
+        "st-i-q4-a1-q6-a1-q7-a1",
+        "st-i-q9-a1-q10-a2-q11-a1",
+        "st-i-q13"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 1007,
+        "bodyCjkCount": 904,
+        "generalVisibleAuxiliaryCharacterCount": 251,
+        "generalVisibleAuxiliaryCjkCount": 215,
+        "assessmentCharacterCount": 325,
+        "assessmentCjkCount": 308,
+        "fullVisibleAuxiliaryCharacterCount": 576,
+        "fullVisibleAuxiliaryCjkCount": 523,
+        "metadataValueCharacterCount": 455
+      },
+      "recommendedNextLessonId": "aquinas-14"
+    },
+    {
+      "id": "aquinas-14",
+      "order": 14,
+      "title": "神知、意志与能力：为何不能按人的心理拼装",
+      "depth": "longform",
+      "guidingQuestion": "神如何知道、意愿、爱、施行正义与怜悯，又为何这些不是相继发生的心理状态？",
+      "coreExplanation": "阿奎那把神知、意志与能力放在单纯和因果框架中：知识不被对象完善，意愿不由匮乏推动，爱与正义怜悯指向善的秩序，能力也不包括自相矛盾。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "为什么人的心理模型会失灵",
+          "paragraphs": [
+            "人先遇见对象、获得知识，再因缺乏某物而形成欲望，最后行动改变世界。若把这条时间序列放大到上帝，就会让第一原理受对象影响、在未完成与完成之间变化。阿奎那因此不是给上帝安装无限强的人类心理。",
+            "讨论顺序仍有逻辑作用：先说明知识的对象与方式，再讨论意志如何趋善、爱如何欲他者之善、正义与怜悯如何表述秩序，最后说明能力的对象。顺序属于我们的理解，不表示上帝内部发生事件。"
+          ],
+          "identity": "modern-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "人先遇见对象、获得知识，再因缺乏某物而形成欲望，最后行动改变世界。若把这条时间序列放大到上帝，就",
+              "sourceIds": [
+                "st-i-q14-a2-a5-a8",
+                "st-i-q19-a1-a3",
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "modern-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "讨论顺序仍有逻辑作用：先说明知识的对象与方式，再讨论意志如何趋善、爱如何欲他者之善、正义与怜悯如",
+              "sourceIds": [
+                "st-i-q14-a2-a5-a8",
+                "st-i-q19-a1-a3",
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "modern-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "知识为何不从对象取得完善",
+          "paragraphs": [
+            "受造知识常由对象使认识者从潜能成为现实。阿奎那认为神知以自身本质为认识原则，并在认识自身时认识自身作为万物原因的方式。于是对象不是外在教师，神知也不是对未来事件的被动等待。",
+            "这不等于把受造差异压成一个模糊概念。普遍与个别、必要与偶然都在原因所涵盖的秩序中被认识；困难在于如何说明这种认识不使偶然事件变成必然。该问题要与天意篇相接。"
+          ],
+          "identity": "aquinas-divine-operation",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "受造知识常由对象使认识者从潜能成为现实。阿奎那认为神知以自身本质为认识原则，并在认识自身时认识自",
+              "sourceIds": [
+                "st-i-q14-a2-a5-a8"
+              ],
+              "identity": "aquinas-divine-operation"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这不等于把受造差异压成一个模糊概念。普遍与个别、必要与偶然都在原因所涵盖的秩序中被认识；困难在于",
+              "sourceIds": [
+                "st-i-q14-a2-a5-a8"
+              ],
+              "identity": "aquinas-divine-operation"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "意志与爱为何不源于匮乏",
+          "paragraphs": [
+            "意志以被理智把握的善为对象。上帝必然意愿自身的善，却不因完成自身而必然创造这个特定世界；受造物的存在不是填补神的需要。神爱受造物，意思也不是情绪被其吸引，而是意愿其善并作为善的原因。",
+            "这样既保留创造的自由，也防止把爱写成冷漠标签。爱与因果相连：受造物的善不是先独立存在再赢得神爱。不过，这种本体论说明不能被用来否认受苦者经验或免除行动者责任。"
+          ],
+          "identity": "aquinas-divine-operation",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "意志以被理智把握的善为对象。上帝必然意愿自身的善，却不因完成自身而必然创造这个特定世界；受造物的",
+              "sourceIds": [
+                "st-i-q19-a1-a3",
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "aquinas-divine-operation"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这样既保留创造的自由，也防止把爱写成冷漠标签。爱与因果相连：受造物的善不是先独立存在再赢得神爱。",
+              "sourceIds": [
+                "st-i-q19-a1-a3",
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "aquinas-divine-operation"
+            }
+          ]
+        },
+        {
+          "kind": "distinction",
+          "heading": "正义、怜悯与能力的边界",
+          "paragraphs": [
+            "神圣正义指行动符合智慧所定秩序；怜悯指消除受造缺陷的善意效果，并不要求上帝先承受被动情绪。阿奎那又说怜悯在根源上支撑正义，因为受造者能有任何应得关系，先依赖白白给予的存在与秩序。",
+            "全能的对象是一切可为之事。矛盾语句没有指向一种可能事态，因此“造一个自己不能举起的石头”不揭示能力缺陷。能力也不意味着上帝能违背自身善与智慧，因为恶不是能力的额外成就。"
+          ],
+          "identity": "aquinas-divine-operation",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "神圣正义指行动符合智慧所定秩序；怜悯指消除受造缺陷的善意效果，并不要求上帝先承受被动情绪。阿奎那",
+              "sourceIds": [
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "aquinas-divine-operation"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "全能的对象是一切可为之事。矛盾语句没有指向一种可能事态，因此“造一个自己不能举起的石头”不揭示能",
+              "sourceIds": [
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "aquinas-divine-operation"
+            }
+          ]
+        },
+        {
+          "kind": "objection-response",
+          "heading": "自由创造是否成了无理由任意",
+          "paragraphs": [
+            "若创造不是填补需要，也不由必然性推出，异议会问它是否纯属任意。阿奎那区分某一效果不是绝对必然，与行动没有智慧理由；神可为了善的秩序意愿受造物，却不因此被迫选择唯一可行世界。",
+            "回应没有提供现代“最佳世界”算法，也不能从结果反推每一灾难是特别安排。它只建立意志、智慧与非匮乏创造的概念边界；天意、许可与恶仍须另论。",
+            "同样，神知所及与神意所欲不能简单画等号。知道一个可失败次因会产生何种结果，不等于把该缺陷当作直接目的；意愿、允许与治理必须在后续论证中分别定位。",
+            "正义与怜悯也不是两个相反冲动的妥协。前者标示智慧秩序中的应得关系，后者标示给予与补足缺陷的根源；说怜悯支撑正义，是把应得本身置于更先的给予中，而不是取消秩序。"
+          ],
+          "identity": "modern-objection",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "若创造不是填补需要，也不由必然性推出，异议会问它是否纯属任意。阿奎那区分某一效果不是绝对必然，与",
+              "sourceIds": [
+                "st-i-q19-a1-a3",
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "回应没有提供现代“最佳世界”算法，也不能从结果反推每一灾难是特别安排。它只建立意志、智慧与非匮乏",
+              "sourceIds": [
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "同样，神知所及与神意所欲不能简单画等号。知道一个可失败次因会产生何种结果，不等于把该缺陷当作直接",
+              "sourceIds": [
+                "st-i-q14-a2-a5-a8",
+                "st-i-q19-a1-a3"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "正义与怜悯也不是两个相反冲动的妥协。前者标示智慧秩序中的应得关系，后者标示给予与补足缺陷的根源；",
+              "sourceIds": [
+                "st-i-q20-a1-q21-a1-a3-q25-a3"
+              ],
+              "identity": "modern-objection"
+            }
+          ]
+        }
+      ],
+      "caseText": "若说“全能就是能让过去没有发生”，就把逻辑不可能误作一种尚待施展的能力。",
+      "nodeIds": [
+        "aquinas-14"
+      ],
+      "checkIds": [
+        "aquinas-14-q1",
+        "aquinas-14-q2",
+        "aquinas-14-q3",
+        "aquinas-14-q4"
+      ],
+      "abilitySummary": [
+        "区分神知、意志、爱与天意治理",
+        "说明全能、正义和怜悯的边界"
+      ],
+      "sourceIds": [
+        "st-i-q14-a2-a5-a8",
+        "st-i-q19-a1-a3",
+        "st-i-q20-a1-q21-a1-a3-q25-a3"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 12,
+        "bodyCharacterCount": 991,
+        "bodyCjkCount": 912,
+        "generalVisibleAuxiliaryCharacterCount": 243,
+        "generalVisibleAuxiliaryCjkCount": 222,
+        "assessmentCharacterCount": 317,
+        "assessmentCjkCount": 296,
+        "fullVisibleAuxiliaryCharacterCount": 560,
+        "fullVisibleAuxiliaryCjkCount": 518,
+        "metadataValueCharacterCount": 454
+      },
+      "recommendedNextLessonId": "aquinas-15"
+    },
+    {
+      "id": "aquinas-15",
+      "order": 15,
+      "title": "天意、治理与次级原因：秩序如何容纳偶然",
+      "depth": "longform",
+      "guidingQuestion": "普遍天意若及于万物，偶然事件、受造行动和自由选择还真实吗？",
+      "coreExplanation": "天意是智慧中的秩序，治理是该秩序的施行；第一因不取消次级因，而使不同事物按必要、偶然和自由的方式真实地产生效果。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "全包秩序为何容易变成竞争模型",
+          "paragraphs": [
+            "若把神和受造原因想成同一层面的两个行动者，就会觉得一方做得越多，另一方越少：神若安排万物，火便不真燃烧，人也不真选择。阿奎那的第一因与次级因关系拒绝这种零和模型。",
+            "拒绝竞争不等于只说“层次不同”便结束。必须说明天意、治理、保存和具体因果各自承担什么，以及偶然性是否只是我们无知的名称。"
+          ],
+          "identity": "modern-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "若把神和受造原因想成同一层面的两个行动者，就会觉得一方做得越多，另一方越少：神若安排万物，火便不",
+              "sourceIds": [
+                "st-i-q22-a1-a3"
+              ],
+              "identity": "modern-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "拒绝竞争不等于只说“层次不同”便结束。必须说明天意、治理、保存和具体因果各自承担什么，以及偶然性",
+              "sourceIds": [
+                "st-i-q22-a1-a3"
+              ],
+              "identity": "modern-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "distinction",
+          "heading": "天意与治理为何不能混名",
+          "paragraphs": [
+            "天意首先指智慧中把事物导向目的的秩序；治理则指该秩序在事物中的施行。二者在讨论中相关，却像计划的理解与秩序的实现一样有对象层差异。保存说明受造存在持续依赖第一因，也不是偶尔修补一个自足世界。",
+            "这个区分也阻止把每一具体事件都描述成神的直接单独动作。治理可通过次级原因施行；直接性在因果依赖意义上，不等于排除中介。"
+          ],
+          "identity": "aquinas-providence-governance",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "天意首先指智慧中把事物导向目的的秩序；治理则指该秩序在事物中的施行。二者在讨论中相关，却像计划的",
+              "sourceIds": [
+                "st-i-q22-a1-a3",
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这个区分也阻止把每一具体事件都描述成神的直接单独动作。治理可通过次级原因施行；直接性在因果依赖意",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "第一因为什么不挤掉次级因",
+          "paragraphs": [
+            "第一因给予受造物存在和因果能力，使火按其性质加热、理智按理由判断、意志在可选善之间行动。次级因不是遮蔽真正原因的舞台道具，而是秩序本身要求的真实参与者。",
+            "因此同一效果可在不同因果层面完整归因：一项选择作为存在的行动依赖第一因，作为这项有意选择则出自人的理智与意志。归因并非把百分比分给两个同层原因。"
+          ],
+          "identity": "aquinas-providence-governance",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "第一因给予受造物存在和因果能力，使火按其性质加热、理智按理由判断、意志在可选善之间行动。次级因不",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "因此同一效果可在不同因果层面完整归因：一项选择作为存在的行动依赖第一因，作为这项有意选择则出自人",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "偶然为何在秩序内仍是偶然",
+          "paragraphs": [
+            "普遍秩序若只产生必要结果，世界中多样的因果方式反而被抹平。阿奎那主张，有些效果经可失败的近因发生，因此就其近因方式而言真实偶然；天意涵盖的不仅结果，也涵盖结果以何种方式发生。",
+            "对自由行动同样如此：被第一因维持和推动不等于外在强迫。自由要求行动从理智呈现的可选善和意志出发；它不要求成为不依赖存在、能力和对象的第一原点。"
+          ],
+          "identity": "aquinas-providence-governance",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "普遍秩序若只产生必要结果，世界中多样的因果方式反而被抹平。阿奎那主张，有些效果经可失败的近因发生",
+              "sourceIds": [
+                "st-i-q22-a1-a3"
+              ],
+              "identity": "aquinas-providence-governance"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "对自由行动同样如此：被第一因维持和推动不等于外在强迫。自由要求行动从理智呈现的可选善和意志出发；",
+              "sourceIds": [
+                "st-i-q22-a1-a3"
+              ],
+              "identity": "aquinas-providence-governance"
+            }
+          ]
+        },
+        {
+          "kind": "objection-response",
+          "heading": "这会不会让责任逃到更高层",
+          "paragraphs": [
+            "异议指出，若一切行动最终依赖第一因，作恶者可能说自己只是执行秩序。回应必须坚持因果对象的区分：第一因给予行动之存在与能力，缺陷则从有限次因未按应有尺度行动而来。依赖不会把近因的意向与失序转交给更高层。",
+            "这项形上区分仍没有消除恶的问题。为何允许可失败秩序、具体受害为何遭遇伤害，必须在恶与许可篇继续处理；不能用“次因真实”作为对受苦者的完整答复。",
+            "因果层级也不应成为经验研究的替代物。解释疾病、灾害或政治暴力时，仍须追查生理、自然与制度近因；形上依赖说明这些原因何以能行动，不提供跳过证据的捷径。",
+            "保存与治理的区分进一步限制“神迹式”想象。受造物每刻依赖第一因而存在，是普遍的保存关系；某一稀有事件是否超出通常自然秩序，则是另一问题。不能把持续依赖误写成每刻都取消自然机制。",
+            "治理还包含不同受造者彼此服务于秩序的关系。经由中介并非效率缺陷，而是让受造原因真正参与共同秩序；中介若失败，仍要按其自身能力与对象解释失败。"
+          ],
+          "identity": "modern-objection",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "异议指出，若一切行动最终依赖第一因，作恶者可能说自己只是执行秩序。回应必须坚持因果对象的区分：第",
+              "sourceIds": [
+                "st-i-ii-q79-a1-a2-a4"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这项形上区分仍没有消除恶的问题。为何允许可失败秩序、具体受害为何遭遇伤害，必须在恶与许可篇继续处",
+              "sourceIds": [
+                "st-i-ii-q79-a1-a2-a4"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "因果层级也不应成为经验研究的替代物。解释疾病、灾害或政治暴力时，仍须追查生理、自然与制度近因；形",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "modern-reconstruction"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "保存与治理的区分进一步限制“神迹式”想象。受造物每刻依赖第一因而存在，是普遍的保存关系；某一稀有",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            },
+            {
+              "paragraphIndex": 4,
+              "claimSummary": "治理还包含不同受造者彼此服务于秩序的关系。经由中介并非效率缺陷，而是让受造原因真正参与共同秩序；",
+              "sourceIds": [
+                "st-i-q103-a1-q104-a1-q105-a5"
+              ],
+              "identity": "aquinas-providence-governance"
+            }
+          ]
+        }
+      ],
+      "caseText": "医生的治疗既依赖其判断，也依赖药物和病人身体；承认更高层秩序并不会让近因变成幻象。",
+      "nodeIds": [
+        "aquinas-15"
+      ],
+      "checkIds": [
+        "aquinas-15-q1",
+        "aquinas-15-q2",
+        "aquinas-15-q3",
+        "aquinas-15-q4"
+      ],
+      "abilitySummary": [
+        "区分天意、治理、保存与直接干预",
+        "用第一因与次级因说明偶然及责任"
+      ],
+      "sourceIds": [
+        "st-i-q22-a1-a3",
+        "st-i-q103-a1-q104-a1-q105-a5",
+        "st-i-ii-q79-a1-a2-a4"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 13,
+        "bodyCharacterCount": 1004,
+        "bodyCjkCount": 924,
+        "generalVisibleAuxiliaryCharacterCount": 236,
+        "generalVisibleAuxiliaryCjkCount": 221,
+        "assessmentCharacterCount": 324,
+        "assessmentCjkCount": 307,
+        "fullVisibleAuxiliaryCharacterCount": 560,
+        "fullVisibleAuxiliaryCjkCount": 528,
+        "metadataValueCharacterCount": 491
+      },
+      "recommendedNextLessonId": "aquinas-16"
+    },
+    {
+      "id": "aquinas-16",
+      "order": 16,
+      "title": "恶、缺失与许可：解释为何不能归责受害者",
+      "depth": "longform",
+      "guidingQuestion": "说恶是善的缺失，究竟说明了什么，又没有说明什么？",
+      "coreExplanation": "恶不是与善对等的实体，而是某主体本应有之完善的缺失；恶的行动依附善的能力与对象，缺陷来自有限原因，许可则不能被改写为受害者应得。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "“缺失”为什么听起来像淡化伤害",
+          "paragraphs": [
+            "当受害者面对暴力、疾病或丧失时，说恶“只是缺失”很容易显得否认其现实。这个反应抓住了一个重要边界：本体论分类回答恶以何种方式存在，并不衡量痛苦强度，也不决定谁应负责修复。",
+            "阿奎那的主张不是“伤害不真实”，而是恶没有独立于善的自足本性。伤口真实地在身体和生活中造成损失；它作为恶，正是应有完整性的缺失。"
+          ],
+          "identity": "modern-normative-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "当受害者面对暴力、疾病或丧失时，说恶“只是缺失”很容易显得否认其现实。这个反应抓住了一个重要边界",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "阿奎那的主张不是“伤害不真实”，而是恶没有独立于善的自足本性。伤口真实地在身体和生活中造成损失；",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "恶为何寄生于善",
+          "paragraphs": [
+            "任何被称为恶的东西仍须有某种存在、能力和对象：错误判断运用真实理智能力，残酷行动追逐某种被呈现的善，疾病发生在活的机体中。若恶是完全无有，它不能造成效果；若是纯粹恶实体，它又没有任何可行动的善。",
+            "缺失因此是“应有完善的欠缺”，不是任意的没有。石头不会看不构成失明，人眼不能看才构成缺失。应有尺度把恶与单纯差异区分开。"
+          ],
+          "identity": "aquinas-evil-privation",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "任何被称为恶的东西仍须有某种存在、能力和对象：错误判断运用真实理智能力，残酷行动追逐某种被呈现的",
+              "sourceIds": [
+                "st-i-q48-a1-q49-a1-a2"
+              ],
+              "identity": "aquinas-evil-privation"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "缺失因此是“应有完善的欠缺”，不是任意的没有。石头不会看不构成失明，人眼不能看才构成缺失。应有尺",
+              "sourceIds": [
+                "st-i-q48-a1-q49-a1-a2"
+              ],
+              "identity": "aquinas-evil-privation"
+            }
+          ]
+        },
+        {
+          "kind": "causal-relation",
+          "heading": "行动的存在与行动的缺陷如何分轨",
+          "paragraphs": [
+            "有缺陷的行动作为行动仍有存在和因果力量；其缺陷来自有限行动者未依应有规则行动。阿奎那用跛行类比：移动能力使行走发生，器官缺陷使步态失序。类比只解释双重归因，不能把道德行动者当无责任器官。",
+            "在故意伤害中，意向、选择和可避免性使行动者承担规范责任。第一因是行动存在和能力的原因，不因此成为行动缺陷的同类作者。"
+          ],
+          "identity": "aquinas-evil-privation",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "有缺陷的行动作为行动仍有存在和因果力量；其缺陷来自有限行动者未依应有规则行动。阿奎那用跛行类比：",
+              "sourceIds": [
+                "st-i-q48-a1-q49-a1-a2",
+                "st-i-ii-q79-a1-a2-a4"
+              ],
+              "identity": "aquinas-evil-privation"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "在故意伤害中，意向、选择和可避免性使行动者承担规范责任。第一因是行动存在和能力的原因，不因此成为",
+              "sourceIds": [
+                "st-i-ii-q79-a1-a2-a4"
+              ],
+              "identity": "aquinas-evil-privation"
+            }
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "许可不等于命令、赞同或应得",
+          "paragraphs": [
+            "允许某恶是没有阻止它，不是把恶本身当作目的。阿奎那认为普遍秩序可容纳可失败次因，并能从某些损失中产生别的善；但由此不能推出每一具体伤害都是受害者应得，或旁观者可以不救助。",
+            "知道可能有更广秩序，也不等于我们知道某一灾难的具体理由。有限认识者尤其不能用天意语言替加害者洗责，或把修复义务推给不可见计划。"
+          ],
+          "identity": "modern-normative-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "允许某恶是没有阻止它，不是把恶本身当作目的。阿奎那认为普遍秩序可容纳可失败次因，并能从某些损失中",
+              "sourceIds": [
+                "st-i-ii-q79-a1-a2-a4",
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "知道可能有更广秩序，也不等于我们知道某一灾难的具体理由。有限认识者尤其不能用天意语言替加害者洗责",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "objection-response",
+          "heading": "从恶中有善是否工具化受害者",
+          "paragraphs": [
+            "强异议说，若别人的伤害被当作整体和谐的材料，受害者便被工具化。阿奎那框架能回答：恶本身不成为善，行动者仍须避免和修复恶；从恶中引出善属于另一因果意向，不能使原缺陷正确。",
+            "回应仍留下情感与证成压力。它提供恶不与第一善对等、责任不被许可消除的结构，却不是对每个受苦者遭遇的可接受理由。负责任的说明必须保留这一未闭合边界。",
+            "因此实践次序不能倒置：先保护遭害者、制止加害并修复损失，再讨论许可的形上条件。缺失论若被拿来要求受害者接受伤害，就越过了它的对象层并制造新的规范错误。",
+            "还要区分自然缺陷与道德过错。疾病可由可失败自然原因产生，而故意残酷涉及理智和意志未守应有尺度；两者都可称恶，却不能因此给予相同归责。",
+            "因果分类若忽略行动能力与意向，只会把形上同名变成伦理混乱。对自然恶追问预防和照护，对道德恶还须追问选择、共谋与赔偿；同一缺失框架不取消这些实践差异，也不降低修复的紧迫性。"
+          ],
+          "identity": "modern-normative-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "强异议说，若别人的伤害被当作整体和谐的材料，受害者便被工具化。阿奎那框架能回答：恶本身不成为善，",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "回应仍留下情感与证成压力。它提供恶不与第一善对等、责任不被许可消除的结构，却不是对每个受苦者遭遇",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "因此实践次序不能倒置：先保护遭害者、制止加害并修复损失，再讨论许可的形上条件。缺失论若被拿来要求",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "还要区分自然缺陷与道德过错。疾病可由可失败自然原因产生，而故意残酷涉及理智和意志未守应有尺度；两",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            },
+            {
+              "paragraphIndex": 4,
+              "claimSummary": "因果分类若忽略行动能力与意向，只会把形上同名变成伦理混乱。对自然恶追问预防和照护，对道德恶还须追",
+              "sourceIds": [
+                "davies-reality-evil"
+              ],
+              "identity": "modern-normative-reconstruction"
+            }
+          ]
+        }
+      ],
+      "caseText": "失明不是一种与视力对称的器官，而是应有视觉能力的缺失；但这个定义不会减轻失明者的痛苦。",
+      "nodeIds": [
+        "aquinas-16"
+      ],
+      "checkIds": [
+        "aquinas-16-q1",
+        "aquinas-16-q2",
+        "aquinas-16-q3",
+        "aquinas-16-q4"
+      ],
+      "abilitySummary": [
+        "区分恶的本体论、因果、受苦经验与责任",
+        "说明许可论证的解释力和不可越界处"
+      ],
+      "sourceIds": [
+        "davies-reality-evil",
+        "st-i-q48-a1-q49-a1-a2",
+        "st-i-ii-q79-a1-a2-a4"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 13,
+        "bodyCharacterCount": 988,
+        "bodyCjkCount": 903,
+        "generalVisibleAuxiliaryCharacterCount": 247,
+        "generalVisibleAuxiliaryCjkCount": 229,
+        "assessmentCharacterCount": 303,
+        "assessmentCjkCount": 283,
+        "fullVisibleAuxiliaryCharacterCount": 550,
+        "fullVisibleAuxiliaryCjkCount": 512,
+        "metadataValueCharacterCount": 485
+      },
+      "recommendedNextLessonId": "aquinas-17"
+    },
+    {
+      "id": "aquinas-17",
+      "order": 17,
+      "title": "从感觉到理解：理智如何形成概念",
+      "depth": "longform",
+      "guidingQuestion": "身体感觉、表象、主动理智和可能理智如何共同解释人的认识？",
+      "coreExplanation": "人的认识从感官与内感官保存的表象起步，主动理智使其中可理解形式成为现实，可能理智领受普遍概念，并在判断中回返表象；这不是抽走一张无内容标签。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "非器官理智为何仍需要身体",
+          "paragraphs": [
+            "L06说明理智活动不能被某个身体器官的物质形式完全限定，却不能因此跳到“人无需感官便认识”。阿奎那反复主张，此生人的理智从感官材料开始，并在实际思考时需要转向表象。",
+            "在阿奎那的认识论结构中，记忆、想象与表象属于此生理智活动不可跳过的身体条件；非器官理智的主张并不等于这些能力对实际认识无关。Pasnau在第5—7章重构的正是表象、抽象与理智认识之间的历史论证，而不是现代神经实验。"
+          ],
+          "identity": "modern-history-of-philosophy",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "L06说明理智活动不能被某个身体器官的物质形式完全限定，却不能因此跳到“人无需感官便认识”。阿奎",
+              "sourceIds": [
+                "pasnau-cognition"
+              ],
+              "identity": "modern-history-of-philosophy"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "脑损伤会影响记忆、想象、注意和表达，这对认识活动构成真实条件。灵魂能力的形上区分并不授权忽视这些",
+              "sourceIds": [
+                "pasnau-cognition"
+              ],
+              "identity": "modern-history-of-philosophy"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "外感官与内感官怎样形成表象",
+          "paragraphs": [
+            "外感官接受可感形式而不接受对象的物质本身；共同感把不同感官对象组织为同一经验，想象保存不在场对象的形式，估量和记忆则把意向与经验关联。这里的“内感官”仍是身体能力，不是隐藏的纯理智。",
+            "表象因此不是贫乏照片，而是带有个别、情境和感性结构的认识材料。它使理智面对具体经验，而非凭空制造概念。"
+          ],
+          "identity": "aquinas-cognition",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "外感官接受可感形式而不接受对象的物质本身；共同感把不同感官对象组织为同一经验，想象保存不在场对象",
+              "sourceIds": [
+                "st-i-q78-a4-q79-a3-a4",
+                "sententia-anima-ii-lect13"
+              ],
+              "identity": "aquinas-cognition"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "表象因此不是贫乏照片，而是带有个别、情境和感性结构的认识材料。它使理智面对具体经验，而非凭空制造",
+              "sourceIds": [
+                "st-i-q78-a4-q79-a3-a4"
+              ],
+              "identity": "aquinas-cognition"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "主动理智与可能理智如何分工",
+          "paragraphs": [
+            "可感形式在表象中仍受个别物质条件限定，尚不是现实可理解的普遍形式。主动理智使其可理解结构显明，常被称为抽象；可能理智则作为能领受形式的能力，从潜在认识成为现实认识。",
+            "二者不是脑内两个人：一个递交图片，另一个阅读。它们是同一人类理智活动的原则，用来说明材料如何成为普遍理解，以及认识者如何被形式现实化。"
+          ],
+          "identity": "aquinas-cognition",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "可感形式在表象中仍受个别物质条件限定，尚不是现实可理解的普遍形式。主动理智使其可理解结构显明，常",
+              "sourceIds": [
+                "st-i-q78-a4-q79-a3-a4",
+                "sententia-anima-iii-lect10"
+              ],
+              "identity": "aquinas-cognition"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "二者不是脑内两个人：一个递交图片，另一个阅读。它们是同一人类理智活动的原则，用来说明材料如何成为",
+              "sourceIds": [
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "aquinas-cognition"
+            }
+          ]
+        },
+        {
+          "kind": "distinction",
+          "heading": "概念、判断与回返表象",
+          "paragraphs": [
+            "形成“人”或“三角形”的概念还不等于断定某人诚实或这个图形具某性质。判断把概念组合或分开，可能正确也可能错误。真理与错误因此主要出现在判断层，而不是把每个简单概念都当真假句。",
+            "当理智认识个别对象时，它不能把普遍形式孤立保存后忘记材料，而要回返表象，在具体感性条件中应用普遍理解。这解释了为何疲劳、损伤和想象贫乏会影响思考。"
+          ],
+          "identity": "aquinas-cognition",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "形成“人”或“三角形”的概念还不等于断定某人诚实或这个图形具某性质。判断把概念组合或分开，可能正",
+              "sourceIds": [
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "aquinas-cognition"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "当理智认识个别对象时，它不能把普遍形式孤立保存后忘记材料，而要回返表象，在具体感性条件中应用普遍",
+              "sourceIds": [
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "aquinas-cognition"
+            }
+          ]
+        },
+        {
+          "kind": "voice-layering",
+          "heading": "注释声与底本声如何分开",
+          "paragraphs": [
+            "阿奎那的《论灵魂注》逐段解释亚里士多德，是重要证据，却仍是十三世纪注释者的声音。《论灵魂》底本提出灵魂与能力问题，《神学大全》则把这些材料放进自身人论和神学结构。三者相连，不可互换署名。",
+            "现代认知科学可以另行质疑能力划分或提出神经机制，但这些不是Pasnau第5—7章所校勘的中世纪论证，也不能说成阿奎那已发现；本节只保留历史哲学重构的边界。",
+            "认识链不应被读成两个代理人接力的流水线。按Pasnau对表象与抽象的重构，回返表象说明普遍理解在此生仍须以个别感性材料为条件；这里不提出独立的现代记忆或注意实验结论。",
+            "个别认识尤其显示这种回返的必要。普遍概念本身不含这个人在此时此地的全部物质条件，理智须借表象把普遍谓词应用于个体。这个结构也解释经验为何能纠正仓促概括，而不是只给既定概念添加例子。",
+            "错误并非感官或想象单独承担。感官可在不利条件下呈现失真材料，想象可重组经验，理智则可能在组合判断时超出证据。分层追踪错误来源，比把所有失败统称为“感觉欺骗”更准确，也更能说明校正应发生在哪一层。"
+          ],
+          "identity": "explicitly-layered-voices",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "阿奎那的《论灵魂注》逐段解释亚里士多德，是重要证据，却仍是十三世纪注释者的声音。《论灵魂》底本提",
+              "sourceIds": [
+                "sententia-anima-ii-lect13",
+                "sententia-anima-iii-lect10"
+              ],
+              "identity": "aquinas-commentator-on-aristotle"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "现代认知科学可以质疑能力划分或提出神经机制，但这些是现代证据与重构，不能说成阿奎那已发现。历史论",
+              "sourceIds": [
+                "pasnau-cognition",
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "modern-history-of-philosophy"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "认识链也不是一次完成的流水线。既有表象会受记忆和注意改变，概念在新的判断与经验中得到校正；回返表",
+              "sourceIds": [
+                "pasnau-cognition",
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "modern-history-of-philosophy"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "个别认识尤其显示这种回返的必要。普遍概念本身不含这个人在此时此地的全部物质条件，理智须借表象把普",
+              "sourceIds": [
+                "pasnau-cognition",
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "modern-history-of-philosophy"
+            },
+            {
+              "paragraphIndex": 4,
+              "claimSummary": "错误并非感官或想象单独承担。感官可在不利条件下呈现失真材料，想象可重组经验，理智则可能在组合判断",
+              "sourceIds": [
+                "pasnau-cognition",
+                "st-i-q84-a7-q85-a1-a2"
+              ],
+              "identity": "modern-history-of-philosophy"
+            }
+          ]
+        }
+      ],
+      "caseText": "看到许多不同三角形后形成三角形概念，不是把共同颜色剪贴出来，而是把可理解结构从个别材料条件中把握。",
+      "nodeIds": [
+        "aquinas-17"
+      ],
+      "checkIds": [
+        "aquinas-17-q1",
+        "aquinas-17-q2",
+        "aquinas-17-q3",
+        "aquinas-17-q4"
+      ],
+      "abilitySummary": [
+        "重建感觉—表象—抽象—领受—判断链",
+        "区分阿奎那、亚里士多德与现代认知重构的声音"
+      ],
+      "sourceIds": [
+        "pasnau-cognition",
+        "st-i-q78-a4-q79-a3-a4",
+        "sententia-anima-ii-lect13",
+        "sententia-anima-iii-lect10",
+        "st-i-q84-a7-q85-a1-a2"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 13,
+        "bodyCharacterCount": 1080,
+        "bodyCjkCount": 964,
+        "generalVisibleAuxiliaryCharacterCount": 259,
+        "generalVisibleAuxiliaryCjkCount": 241,
+        "assessmentCharacterCount": 298,
+        "assessmentCjkCount": 281,
+        "fullVisibleAuxiliaryCharacterCount": 557,
+        "fullVisibleAuxiliaryCjkCount": 522,
+        "metadataValueCharacterCount": 506
+      },
+      "recommendedNextLessonId": "aquinas-18"
+    },
+    {
+      "id": "aquinas-18",
+      "order": 18,
+      "title": "终极幸福：有限善为何不能让欲求停息",
+      "depth": "longform",
+      "guidingQuestion": "行动的终极目的、幸福候选、幸福活动与神圣本质的享见如何相连？",
+      "coreExplanation": "每个有意行动趋向某种善，完整幸福要求使欲求不再因更根本缺失而继续；财富、荣誉、权力和身体善都有限，完满幸福最终在理智面对第一真理的活动中，今生只能不完全参与。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "“人人追求幸福”是否只是空话",
+          "paragraphs": [
+            "若幸福只是“每个人想要的东西”，命题无法区分欲望是否失序。阿奎那更具体地说，有意行动在某种善的表象下趋向目的，并且目的组织手段；终极目的则为整个行动序列提供不再作为纯手段的尺度。",
+            "人可以在具体对象上犯错，也可把工具当终点。因此共同趋向幸福不表示人人正确知道幸福是什么。"
+          ],
+          "identity": "modern-objection",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "若幸福只是“每个人想要的东西”，命题无法区分欲望是否失序。阿奎那更具体地说，有意行动在某种善的表",
+              "sourceIds": [
+                "st-i-ii-q1-a4-q2-a1-a8"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "人可以在具体对象上犯错，也可把工具当终点。因此共同趋向幸福不表示人人正确知道幸福是什么。",
+              "sourceIds": [
+                "st-i-ii-q1-a4-q2-a1-a8"
+              ],
+              "identity": "modern-objection"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "终极目的怎样统一行动",
+          "paragraphs": [
+            "一次行动可有近目的与远目的：工作为收入，收入为生活，生活又受关于何为好生活的判断支配。若目的链永远只指向下一工具，当前选择就没有最终理由。终极目的不是时间上最后发生的事件，而是意向秩序中的最高为何。",
+            "一个人的行动可能彼此冲突，显示他没有一致地按真正终点安排生活；这不取消目的结构，而揭示实践理性的失序。"
+          ],
+          "identity": "aquinas-happiness",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "一次行动可有近目的与远目的：工作为收入，收入为生活，生活又受关于何为好生活的判断支配。若目的链永",
+              "sourceIds": [
+                "st-i-ii-q1-a4-q2-a1-a8"
+              ],
+              "identity": "aquinas-happiness"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "一个人的行动可能彼此冲突，显示他没有一致地按真正终点安排生活；这不取消目的结构，而揭示实践理性的",
+              "sourceIds": [
+                "st-i-ii-q1-a4-q2-a1-a8"
+              ],
+              "identity": "aquinas-happiness"
+            }
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "财富、荣誉、权力与身体善为何不足",
+          "paragraphs": [
+            "财富主要是工具，可为别的活动服务；荣誉依赖他人的判断并见证某种优秀，不制造优秀；权力可用于善恶且伴随脆弱；身体健康和感官愉悦是人的真实善，却不能穷尽理智与意志的对象。",
+            "排除候选不是贬低有限善。它们作为部分善值得维护，错误在于要求其承担让全部欲求安息的终极角色。"
+          ],
+          "identity": "aquinas-happiness",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "财富主要是工具，可为别的活动服务；荣誉依赖他人的判断并见证某种优秀，不制造优秀；权力可用于善恶且",
+              "sourceIds": [
+                "st-i-ii-q1-a4-q2-a1-a8"
+              ],
+              "identity": "aquinas-happiness"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "排除候选不是贬低有限善。它们作为部分善值得维护，错误在于要求其承担让全部欲求安息的终极角色。",
+              "sourceIds": [
+                "st-i-ii-q4-a1-a6-q5-a3"
+              ],
+              "identity": "aquinas-happiness"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "幸福为何是活动并指向享见",
+          "paragraphs": [
+            "幸福作为人的完成主要在最高能力的现实活动，而非静态拥有一件外物。理智欲知原因时不会在有限原因处绝对停止；完满幸福因此被表述为直接认识第一本原，即神圣本质的享见。",
+            "这一步超出自然能力的比例，需要神使理智能够参与。它不是把神变成感官对象，也不是靠更多推理结论累积而成。"
+          ],
+          "identity": "aquinas-happiness",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "幸福作为人的完成主要在最高能力的现实活动，而非静态拥有一件外物。理智欲知原因时不会在有限原因处绝",
+              "sourceIds": [
+                "st-i-ii-q3-a2-a8"
+              ],
+              "identity": "aquinas-happiness"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这一步超出自然能力的比例，需要神使理智能够参与。它不是把神变成感官对象，也不是靠更多推理结论累积",
+              "sourceIds": [
+                "st-i-ii-q3-a2-a8"
+              ],
+              "identity": "aquinas-happiness"
+            }
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "今生幸福为何真实却不完满",
+          "paragraphs": [
+            "今生可以在德性、沉思、友爱和共同善中真实参与幸福，但身体脆弱、知识间接、意志不稳与外在损失使其不能完全排除恶或让欲求彻底安息。称其不完满，不等于今生善没有价值。",
+            "享见的神学结论也不能用来取消政治和物质责任。若有限善是人的真实部分善，就有理由保护健康、友谊、教育与公正制度，而不是用来世补偿合理化现世剥夺。",
+            "这也解释德性与恩典为何邻接却不等同于幸福本身：它们整顿并提升行动者，使其适合趋向终点；终点的现实活动不能被准备条件取代。",
+            "终点与手段的区分还约束政治承诺。国家可以保护促进良好生活的外在条件，却不能凭强制制造神圣本质的享见；政治共同善是真实但有限的共同善。把最终幸福政治化，会扩大权力对象并压平良心与恩典的界限。",
+            "相反，承认终点超越政治也不表示公共制度无关紧要。贫困、暴力和排斥会破坏人实践德性、学习真理和维持友爱的条件。有限善不能使欲求最终安息，却仍按人的复合本性构成不可任意剥夺的善。",
+            "阿奎那还区分幸福的本质与伴随条件。最高活动是核心，意志的喜悦、身体完善与朋友等善可按不同方式伴随；这种区分避免把愉悦当作幸福本身，也避免把完满写成孤立理智的抽象瞬间。"
+          ],
+          "identity": "explicitly-layered-voices",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "今生可以在德性、沉思、友爱和共同善中真实参与幸福，但身体脆弱、知识间接、意志不稳与外在损失使其不",
+              "sourceIds": [
+                "st-i-ii-q4-a1-a6-q5-a3"
+              ],
+              "identity": "aquinas-happiness"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "享见的神学结论也不能用来取消政治和物质责任。若有限善是人的真实部分善，就有理由保护健康、友谊、教",
+              "sourceIds": [
+                "finnis-aquinas-common-good",
+                "st-i-ii-q4-a1-a6-q5-a3"
+              ],
+              "identity": "modern-political-reconstruction"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "这也解释德性与恩典为何邻接却不等同于幸福本身：它们整顿并提升行动者，使其适合趋向终点；终点的现实",
+              "sourceIds": [
+                "st-i-ii-q4-a1-a6-q5-a3"
+              ],
+              "identity": "aquinas-happiness"
+            },
+            {
+              "paragraphIndex": 3,
+              "claimSummary": "终点与手段的区分还约束政治承诺。国家可以保护促进良好生活的外在条件，却不能凭强制制造神圣本质的享",
+              "sourceIds": [
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            },
+            {
+              "paragraphIndex": 4,
+              "claimSummary": "相反，承认终点超越政治也不表示公共制度无关紧要。贫困、暴力和排斥会破坏人实践德性、学习真理和维持",
+              "sourceIds": [
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            },
+            {
+              "paragraphIndex": 5,
+              "claimSummary": "阿奎那还区分幸福的本质与伴随条件。最高活动是核心，意志的喜悦、身体完善与朋友等善可按不同方式伴随",
+              "sourceIds": [
+                "st-i-ii-q4-a1-a6-q5-a3"
+              ],
+              "identity": "aquinas-happiness"
+            }
+          ]
+        }
+      ],
+      "caseText": "一个人拥有财富、声望和健康却仍追问这些为何值得，显示工具性与脆弱善不能单独成为最终尺度。",
+      "nodeIds": [
+        "aquinas-18"
+      ],
+      "checkIds": [
+        "aquinas-18-q1",
+        "aquinas-18-q2",
+        "aquinas-18-q3",
+        "aquinas-18-q4"
+      ],
+      "abilitySummary": [
+        "重建ST I-II qq.1-5的幸福论证",
+        "区分自然实现、超自然享见与今生不完满"
+      ],
+      "sourceIds": [
+        "st-i-ii-q1-a4-q2-a1-a8",
+        "st-i-ii-q4-a1-a6-q5-a3",
+        "st-i-ii-q3-a2-a8",
+        "finnis-aquinas-common-good"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 14,
+        "bodyCharacterCount": 1018,
+        "bodyCjkCount": 939,
+        "generalVisibleAuxiliaryCharacterCount": 273,
+        "generalVisibleAuxiliaryCjkCount": 240,
+        "assessmentCharacterCount": 295,
+        "assessmentCjkCount": 277,
+        "fullVisibleAuxiliaryCharacterCount": 568,
+        "fullVisibleAuxiliaryCjkCount": 517,
+        "metadataValueCharacterCount": 447
+      },
+      "recommendedNextLessonId": "aquinas-19"
+    },
+    {
+      "id": "aquinas-19",
+      "order": 19,
+      "title": "正义、权利与财产：占有为何不等于任意使用",
+      "depth": "longform",
+      "guidingQuestion": "正义的对象、应得关系、分配交换、归还与财产的占有和使用怎样组成一条规范链？",
+      "coreExplanation": "正义把行动导向他者所应得之物；分配与交换按不同关系实现平等，侵占造成持续亏欠并要求归还。财产可由个人管理，但使用应服从共同需要，极端紧急时取用维生之物不按通常偷窃判断。",
+      "sections": [
+        {
+          "kind": "pressure",
+          "heading": "“给每个人应得之物”如何避免空转",
+          "paragraphs": [
+            "若“应得”完全由现有法律或强者定义，正义便只重复既成秩序。阿奎那把ius首先放在行动所指向的正当对象与关系：某物或某行为按平等尺度应属于他者。法律可以确定化这些关系，却也可能偏离自然与共同善尺度。",
+            "这里的ius不能无说明地翻译成现代主观权利清单。它可与现代权利语言对话，但文本重心首先是“正当之物”和他者间的客观关系。"
+          ],
+          "identity": "modern-objection",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "若“应得”完全由现有法律或强者定义，正义便只重复既成秩序。阿奎那把ius首先放在行动所指向的正当",
+              "sourceIds": [
+                "st-ii-ii-q57-a1"
+              ],
+              "identity": "modern-objection"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这里的ius不能无说明地翻译成现代主观权利清单。它可与现代权利语言对话，但文本重心首先是“正当之",
+              "sourceIds": [
+                "st-ii-ii-q57-a1"
+              ],
+              "identity": "modern-objection"
+            }
+          ]
+        },
+        {
+          "kind": "distinction",
+          "heading": "分配与交换为何使用不同平等",
+          "paragraphs": [
+            "分配正义处理共同体把共同负担或利益分给成员，比例取决于相关资格与共同善；交换正义处理个人之间的交易和损害，要求恢复物与物、损失与补偿的等量关系。二者不能用一个机械公式替代。",
+            "相关资格本身可能受制度偏见污染，因此比例语言不自动证明历史等级合理。阿奎那给出关系结构，现代应用仍须公开审查哪些差异与共同善真正相关。"
+          ],
+          "identity": "explicitly-layered-voices",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "分配正义处理共同体把共同负担或利益分给成员，比例取决于相关资格与共同善；交换正义处理个人之间的交",
+              "sourceIds": [
+                "st-ii-ii-q61-a1-a2"
+              ],
+              "identity": "aquinas-justice-property"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "相关资格本身可能受制度偏见污染，因此比例语言不自动证明历史等级合理。阿奎那给出关系结构，现代应用",
+              "sourceIds": [
+                "st-ii-ii-q61-a1-a2",
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "归还为何不只是额外慈善",
+          "paragraphs": [
+            "非法取得或扣留他者之物，会使占有人持续处在不平等关系中。停止新的侵害还不够，归还旨在恢复对方所缺和关系中的平等；它属于交换正义，而非可做可不做的慷慨。",
+            "归还对象、受领人、金额和附带损失会因事实复杂化。无法原物返还时需寻找等价修复；若返还本身造成新的不义，也须按关系和后果审慎处理。"
+          ],
+          "identity": "aquinas-justice-property",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "非法取得或扣留他者之物，会使占有人持续处在不平等关系中。停止新的侵害还不够，归还旨在恢复对方所缺",
+              "sourceIds": [
+                "st-ii-ii-q62-a1"
+              ],
+              "identity": "aquinas-justice-property"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "归还对象、受领人、金额和附带损失会因事实复杂化。无法原物返还时需寻找等价修复；若返还本身造成新的",
+              "sourceIds": [
+                "st-ii-ii-q62-a1"
+              ],
+              "identity": "aquinas-justice-property"
+            }
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "财产占有与使用为何分开",
+          "paragraphs": [
+            "个人管理财产可促进照料、秩序与和平，因为责任较明确、事务较有组织。但就使用而言，人不应把外物视为只服务自己的绝对封闭领域，而应愿意与处于需要者分享。管理理由由共同善支撑，也受共同善限制。",
+            "这不是否认一切私人占有，也不是直接提出现代税制。它区分管理权限与使用义务，使“合法拥有”不能自动回答每一种拒绝救助是否正当。"
+          ],
+          "identity": "explicitly-layered-voices",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "个人管理财产可促进照料、秩序与和平，因为责任较明确、事务较有组织。但就使用而言，人不应把外物视为",
+              "sourceIds": [
+                "st-ii-ii-q66-a2-a7"
+              ],
+              "identity": "aquinas-justice-property"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这不是否认一切私人占有，也不是直接提出现代税制。它区分管理权限与使用义务，使“合法拥有”不能自动",
+              "sourceIds": [
+                "st-ii-ii-q66-a2-a7",
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "紧急需要为何改变偷窃判断",
+          "paragraphs": [
+            "在明显且迫切的极端需要中，维持生命所必需之物按共同用途成为需要者可取用之物，因此取用不按通常意义视为偷窃。关键是紧迫性、必要性与适量，而不是普通欲望为自己宣布例外。",
+            "这条边界不能被地主用来归责贫者，也不能让制度把救济责任推给危机中的个人。相反，它暴露所有权秩序的目的限制，并要求共同体建立不让人反复陷入极端紧急的安排。"
+          ],
+          "identity": "explicitly-layered-voices",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "在明显且迫切的极端需要中，维持生命所必需之物按共同用途成为需要者可取用之物，因此取用不按通常意义",
+              "sourceIds": [
+                "st-ii-ii-q66-a2-a7"
+              ],
+              "identity": "aquinas-justice-property"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "这条边界不能被地主用来归责贫者，也不能让制度把救济责任推给危机中的个人。相反，它暴露所有权秩序的",
+              "sourceIds": [
+                "st-ii-ii-q66-a2-a7",
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            }
+          ]
+        },
+        {
+          "kind": "objection-response",
+          "heading": "共同用途会不会消灭稳定产权",
+          "paragraphs": [
+            "异议说，只要需要可改变使用边界，财产便无稳定性。回应是：常态管理规则与极端必要条件承担不同功能；明确的紧迫、维生和适量门槛并不使所有偏好等同。稳定本身服务和平与照料，而非凌驾生命的无条件目的。",
+            "反面异议则把q.66直接读成现代社会主义或自由主义。两者都越过文本：阿奎那提供占有正当化、使用义务与紧急边界的组合，具体制度仍需后世公开论证。",
+            "权力边界也由此与L11相接。财产规则和公共强制都以共同善获得理由，因而都不能靠合法形式自我封闭；但何种征收、救济与程序正当，仍须由具体法律和事实判断承担。"
+          ],
+          "identity": "modern-political-reconstruction",
+          "claimSourceMap": [
+            {
+              "paragraphIndex": 0,
+              "claimSummary": "异议说，只要需要可改变使用边界，财产便无稳定性。回应是：常态管理规则与极端必要条件承担不同功能；",
+              "sourceIds": [
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            },
+            {
+              "paragraphIndex": 1,
+              "claimSummary": "反面异议则把q.66直接读成现代社会主义或自由主义。两者都越过文本：阿奎那提供占有正当化、使用义",
+              "sourceIds": [
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            },
+            {
+              "paragraphIndex": 2,
+              "claimSummary": "权力边界也由此与L11相接。财产规则和公共强制都以共同善获得理由，因而都不能靠合法形式自我封闭；",
+              "sourceIds": [
+                "finnis-aquinas-common-good"
+              ],
+              "identity": "modern-political-reconstruction"
+            }
+          ]
+        }
+      ],
+      "caseText": "仓库存粮归私人管理并有合法取得记录，但灾荒中邻人面临立即死亡；占有权不能自动使拒绝一切救济成为正义。",
+      "nodeIds": [
+        "aquinas-19"
+      ],
+      "checkIds": [
+        "aquinas-19-q1",
+        "aquinas-19-q2",
+        "aquinas-19-q3",
+        "aquinas-19-q4"
+      ],
+      "abilitySummary": [
+        "区分客观权利对象、分配与交换正义及归还",
+        "解释q.66的占有、使用、偷窃与紧急需要边界"
+      ],
+      "sourceIds": [
+        "st-ii-ii-q57-a1",
+        "st-ii-ii-q61-a1-a2",
+        "st-ii-ii-q62-a1",
+        "st-ii-ii-q66-a2-a7",
+        "finnis-aquinas-common-good"
+      ],
+      "contentStatistics": {
+        "paragraphCount": 13,
+        "bodyCharacterCount": 1007,
+        "bodyCjkCount": 913,
+        "generalVisibleAuxiliaryCharacterCount": 308,
+        "generalVisibleAuxiliaryCjkCount": 284,
+        "assessmentCharacterCount": 309,
+        "assessmentCjkCount": 290,
+        "fullVisibleAuxiliaryCharacterCount": 617,
+        "fullVisibleAuxiliaryCjkCount": 574,
+        "metadataValueCharacterCount": 526
+      },
+      "recommendedNextLessonId": null
+    }
+  ],
+  "checks": [
+    {
+      "id": "aquinas-01-q1",
+      "kind": "concept-relation",
+      "prompt": "“两类神圣真理”的区分首先落在哪里？",
+      "targetNodeIds": [
+        "aquinas-01"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "落在人的认识路径与能力范围上",
+          "feedback": "决定性关系是同一神圣真理面对不同认识能力，而不是神自身分裂成两套真相。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "落在上帝内部两种真理的分区上",
+          "feedback": "错步是把认识者的路径差别转成对象内部差别；阿奎那明说变化在我们的认识关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "two-truths-in-god"
+    },
+    {
+      "id": "aquinas-01-q2",
+      "kind": "text-identity",
+      "prompt": "怎样处理两部大全的关系最稳妥？",
+      "targetNodeIds": [
+        "aquinas-01"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "把《反异教大全》视为《神学大全》的早期目录",
+          "feedback": "错步是以年代先后抹掉受众和论证次序；两书有关联，却各有独立任务。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "比较共同命题，同时保留受众与安排差别",
+          "feedback": "这种处理让相互照明不取消体裁身份，因而不会把较长论证误称为后来条目的草稿。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "scg-as-draft"
+    },
+    {
+      "id": "aquinas-01-q3",
+      "kind": "method",
+      "prompt": "经院条目中的逐条回应主要检验什么？",
+      "targetNodeIds": [
+        "aquinas-01"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "权威提示能否在形式上压过各项异议",
+          "feedback": "错步是把权威提示当成论证胜负；回应仍需指出异议的具体混淆或遗漏。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "主答作出的区分能否真正处理各项异议",
+          "feedback": "逐项回应把主答的区分重新放回具体压力中，检验它是否偿还了异议留下的债务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "reply-as-repetition"
+    },
+    {
+      "id": "aquinas-01-q4",
+      "kind": "objection-evaluation",
+      "prompt": "面对“预先信仰使论证不真诚”的异议，回应保住了什么？",
+      "targetNodeIds": [
+        "aquinas-01"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "保住局部哲学论证仍承担有效性负担",
+          "feedback": "回应承认神学有启示原则，同时要求可由理性达到的前导命题接受具体审查。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "保住所有神学结论都从中立前提推出",
+          "feedback": "错步是把局部可论证性扩大成整个神学的中立演绎；回应明确收缩了这一范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "neutral-start"
+    },
+    {
+      "id": "aquinas-02-q1",
+      "kind": "concept-boundary",
+      "prompt": "凤凰例子直接显示什么？",
+      "targetNodeIds": [
+        "aquinas-02"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "理解本质已经包含实例在现实中成立",
+          "feedback": "错步是把定义的可理解性当成现实根据；凤凰正用于阻断这项推移。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "理解本质不等于知道实例在现实中成立",
+          "feedback": "例子分开“是什么”和“是否有”，其力量停在认识与解释的这一步。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "definition-entails-existence"
+    },
+    {
+      "id": "aquinas-02-q2",
+      "kind": "metaphysical-relation",
+      "prompt": "“受造物领受存在”最合适的理解是什么？",
+      "targetNodeIds": [
+        "aquinas-02"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "有限本质使其存在方式受限并依赖根据",
+          "feedback": "这保留了本质的限定作用与存在的现实性，又不制造两个先成部件。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "存在在时间中像物品一样交给本质",
+          "feedback": "错步是把解释依赖物化成时间事件；领受说明有限者不是自身存在的充分根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "temporal-transfer"
+    },
+    {
+      "id": "aquinas-02-q3",
+      "kind": "boundary",
+      "prompt": "“上帝是自存存在”不能推出哪种看法？",
+      "targetNodeIds": [
+        "aquinas-02"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "万物只是同一个普遍存在的片段",
+          "feedback": "这才是不能推出的看法；普遍概念与不受限的自存存在并非同一身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "上帝不以领受方式获得存在",
+          "feedback": "这是论证要保住的解释终点：第一现实不再依赖另一个存在根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "universal-being"
+    },
+    {
+      "id": "aquinas-02-q4",
+      "kind": "objection-response",
+      "prompt": "语言分析异议迫使阿奎那式回应收缩什么？",
+      "targetNodeIds": [
+        "aquinas-02"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "收缩有限现实需要一个外在解释根据的主张",
+          "feedback": "错步是让异议越过其目标；它反对性质化图像，尚未消除依赖问题。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "收缩把存在描述成附加在本质旁的部件",
+          "feedback": "异议有效击中物化图像，回应改以有限现实的充分根据来表达区分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "existence-as-piece"
+    },
+    {
+      "id": "aquinas-03-q1",
+      "kind": "argument-type",
+      "prompt": "第一路排除的倒退主要是哪一种？",
+      "targetNodeIds": [
+        "aquinas-03"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "当下各项只传递借来能力的系列",
+          "feedback": "这一系列若没有非工具性根源，成员增加也不产生现实化能力的来源。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "过去事件按时间不断延伸的系列",
+          "feedback": "错步是把当前现实化依赖改成历史长度；第一路关注本质排序的施动能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "temporal-regress"
+    },
+    {
+      "id": "aquinas-03-q2",
+      "kind": "boundary",
+      "prompt": "五路结论之后还需另行论证什么？",
+      "targetNodeIds": [
+        "aquinas-03"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "经验世界中确有运动与因果变化",
+          "feedback": "错步是把论证入口说成结论后的债务；五路从这些经验效果开始。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "第一原因的唯一、知性与良善等属性",
+          "feedback": "五路建立的是有限起点，后续问题才逐项分析第一原因具有什么性质。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "all-attributes-preloaded"
+    },
+    {
+      "id": "aquinas-03-q3",
+      "kind": "case-transfer",
+      "prompt": "若每节车厢都有独立发动机，原案例怎样变化？",
+      "targetNodeIds": [
+        "aquinas-03"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "它仍原样展示纯工具性牵引系列",
+          "feedback": "错步是忽略施因能力来源已改变；独立发动机会破坏原案例的纯传递结构。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "它不再直接展示成员都只借来拉力",
+          "feedback": "案例的判断依赖每项是否只有工具能力，改变这一事实就需重新分析。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "case-insensitive"
+    },
+    {
+      "id": "aquinas-03-q4",
+      "kind": "modern-objection",
+      "prompt": "无穷系列异议最强时攻击哪项前提？",
+      "targetNodeIds": [
+        "aquinas-03"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "纯依赖系列必须有非依赖根据的原则",
+          "feedback": "这正触及解释终止的核心，而不是把无穷误当成难以想象的巨大有限数。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "人无法逐个数完系列中每一个成员的事实",
+          "feedback": "错步是把形上依赖争论降为心理计数能力；成员是否可数不决定因果来源。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "mere-large-number"
+    },
+    {
+      "id": "aquinas-04-q1",
+      "kind": "concept-distinction",
+      "prompt": "类比命名为何不同于纯同名？",
+      "targetNodeIds": [
+        "aquinas-04"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "各用法只共享词形而没有意义关联",
+          "feedback": "错步是取消类比的共同指向；没有关联就无法从受造效果命名原因。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "各用法由因果与完善次序保持关联",
+          "feedback": "类比的可理解性来自有根据的关系次序，不是只共享一个声音。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "analogy-as-equivocation"
+    },
+    {
+      "id": "aquinas-04-q2",
+      "kind": "order-distinction",
+      "prompt": "神圣名称中的本体次序与认识次序怎样不同？",
+      "targetNodeIds": [
+        "aquinas-04"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "完善先在受造物，名称再转给第一原因",
+          "feedback": "错步是把我们的认识起点改成本体来源；受造完善依赖第一原因。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "完善先属于原因，我们却从效果学会名称",
+          "feedback": "这一区分同时保住因果优先与人的认识路径。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "order-collapse"
+    },
+    {
+      "id": "aquinas-04-q3",
+      "kind": "objection-response",
+      "prompt": "类比回应怎样避免成为免疫策略？",
+      "targetNodeIds": [
+        "aquinas-04"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "要求不同用法保持可说明的推论约束",
+          "feedback": "类比收缩具体方式，却不能把良善改成与完善关系相反的任意含义。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "把不同用法分开，使反例只作用于受造用法",
+          "feedback": "错步是把意义差别扩大成推论隔离；类比仍须保持可检验的关系约束。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "analogy-immunity"
+    },
+    {
+      "id": "aquinas-04-q4",
+      "kind": "boundary",
+      "prompt": "“不相称的知识”保留了什么？",
+      "targetNodeIds": [
+        "aquinas-04"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "断言只表达认识者态度，不能真实指向对象",
+          "feedback": "错步是从不能穷尽本质跳到不能指称对象；有限概念仍可形成真实断言。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "断言可以为真，但概念不穷尽神圣本质",
+          "feedback": "阿奎那同时拒绝彻底沉默和完整定义，有限性限制穷尽而非取消真理。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "finite-means-false"
+    },
+    {
+      "id": "aquinas-05-q1",
+      "kind": "concept-boundary",
+      "prompt": "“从无创造”中的“无”指什么？",
+      "targetNodeIds": [
+        "aquinas-05"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "受造存在不以预先材料作为起点",
+          "feedback": "这一理解把创造与自然变化分开，后者总在既有主体上发生。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "一种没有既定形式、却先于受造物的原初材料",
+          "feedback": "错步是把否定词物化成预存材料；创造恰是否认这样的材料条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "nothing-as-material"
+    },
+    {
+      "id": "aquinas-05-q2",
+      "kind": "causal-layer",
+      "prompt": "第一原因与次级原因怎样相容？",
+      "targetNodeIds": [
+        "aquinas-05"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "第一原因给予存在与能力，次级原因产生特定效果",
+          "feedback": "两者回答不同层次的为什么，因此医生治疗与存在依赖可以同时为真。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "第一原因承担的因果份额越多，次级原因就承担越少",
+          "feedback": "错步是把层次原因变成同一链条中的竞争份额，抹掉受造能力的真实性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "causal-competition"
+    },
+    {
+      "id": "aquinas-05-q3",
+      "kind": "argument-boundary",
+      "prompt": "假设世界没有最早时刻，创造概念会怎样？",
+      "targetNodeIds": [
+        "aquinas-05"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "存在依赖随最早时刻一并失去意义",
+          "feedback": "错步是把依赖关系缩成首次事件；阿奎那明确区分两项问题。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "存在依赖问题仍可成立，时间开端另问",
+          "feedback": "创造说明万物为何有存在，不以曾经有一段空白时间为定义条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "creation-equals-beginning"
+    },
+    {
+      "id": "aquinas-05-q4",
+      "kind": "objection-response",
+      "prompt": "回应“持续依赖消除自然稳定”时保住什么？",
+      "targetNodeIds": [
+        "aquinas-05"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "经验规律的稳定主要由形上依赖本身说明",
+          "feedback": "错步是把存在条件当成具体规律的充分说明；经验稳定仍须由相应考察建立。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "受造物的稳定本性本身也是被给予的能力",
+          "feedback": "依赖并非抽走因果能力，而是使具有此能力的自然者现实成立。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "dependence-erases-nature"
+    },
+    {
+      "id": "aquinas-06-q1",
+      "kind": "concept-distinction",
+      "prompt": "灵魂是身体形式意味着什么？",
+      "targetNodeIds": [
+        "aquinas-06"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "灵魂使这具材料成为一个有生命的人",
+          "feedback": "形式说明整体的生命与能力归属，身体不是灵魂临时驾驶的外在器具。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "灵魂作为完整的人暂时操纵一具身体",
+          "feedback": "错步是把实质统一改成两个完整实体的使用关系，身体因而被排除出人格本性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "soul-as-pilot"
+    },
+    {
+      "id": "aquinas-06-q2",
+      "kind": "source-identity",
+      "prompt": "哪项不能直接归给亚里士多德的《论灵魂》？",
+      "targetNodeIds": [
+        "aquinas-06"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "人的完满要求基督教意义的身体复活",
+          "feedback": "复活属于教义背景及阿奎那的神学综合，不能倒写成亚里士多德原有命题。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "灵魂是有生命自然身体的第一现实",
+          "feedback": "这是阿奎那明确承接的亚里士多德框架。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "aristotle-resurrection"
+    },
+    {
+      "id": "aquinas-06-q3",
+      "kind": "case-evaluation",
+      "prompt": "脑损伤事实对阿奎那立场提出什么限制？",
+      "targetNodeIds": [
+        "aquinas-06"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "身体条件只限制理解的外在表达阶段",
+          "feedback": "错步是把身体依赖缩到表达；感觉表象、记忆与器官也参与具体理解的形成。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "具体理解活动深受身体条件真实限制",
+          "feedback": "这要求非物质理智论认真处理感觉表象、记忆和器官在现世活动中的作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "embodiment-irrelevant"
+    },
+    {
+      "id": "aquinas-06-q4",
+      "kind": "objection-response",
+      "prompt": "面对“形式只是重命名”的异议，回应保住哪项工作？",
+      "targetNodeIds": [
+        "aquinas-06"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "形式说明部分和能力为何归于同一活物",
+          "feedback": "回应把形式收缩为整体与归属的形上解释，同时保留现代本体论的竞争压力。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "形式直接预测具体神经活动与各种细胞过程",
+          "feedback": "错步是让形上原则承担经验机制任务；形式不与生理模型竞争预测。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "form-as-mechanism"
+    },
+    {
+      "id": "aquinas-07-q1",
+      "kind": "normative-step",
+      "prompt": "人的自然倾向为何不能直接充当具体义务？",
+      "targetNodeIds": [
+        "aquinas-07"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "只需确认某种倾向在心理上足够强烈",
+          "feedback": "错步是从事实强度跳到规范理由；强烈欲望同样可能背离人的善。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "还需理性比较对象、关系与共同善",
+          "feedback": "规范中项把倾向所指的善放入整体行动秩序，避免以冲动强度决定正当。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "inclination-to-duty"
+    },
+    {
+      "id": "aquinas-07-q2",
+      "kind": "case-transfer",
+      "prompt": "返还武器案例检验的是什么？",
+      "targetNodeIds": [
+        "aquinas-07"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "个人善意可以替代共同规则及其公共理由",
+          "feedback": "错步是把有限例外扩大成主观豁免；案例仍要求可说明的事实与原则关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "一般规则的应用必须保存其正义理由",
+          "feedback": "暂缓返还不是抛弃守信，而是避免规则在特殊事实中直接服务伤害。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "rule-without-rationale"
+    },
+    {
+      "id": "aquinas-07-q3",
+      "kind": "law-distinction",
+      "prompt": "交通靠左或靠右主要属于哪类人法关系？",
+      "targetNodeIds": [
+        "aquinas-07"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "在共同善约束下作出的确定化",
+          "feedback": "多种方案可行，但适格权威和公共协调使其中一项取得约束力。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "由自然法唯一演绎出的结论",
+          "feedback": "错步是把协调需要与唯一方案混同；自然法不决定具体选择哪一侧。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "determination-as-deduction"
+    },
+    {
+      "id": "aquinas-07-q4",
+      "kind": "objection-response",
+      "prompt": "文化差异异议使自然法主张怎样收缩？",
+      "targetNodeIds": [
+        "aquinas-07"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "共同起点不能直接指定唯一制度安排",
+          "feedback": "回应保住一般规范，同时承认远端结论与确定化受历史事实影响。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "共同起点已经包含所有制度的详细形式",
+          "feedback": "错步是把薄起点扩成完备法典，正好忽略差异异议击中的推理距离。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "one-institution"
+    },
+    {
+      "id": "aquinas-08-q1",
+      "kind": "concept-boundary",
+      "prompt": "德性为何不同于行为次数累积？",
+      "targetNodeIds": [
+        "aquinas-08"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "德性只由相同行为出现的次数决定",
+          "feedback": "错步是删去行动理由与自愿选择；偶然或受迫重复不等于品格完善。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "德性还要求认识对象并稳定地依理由选择",
+          "feedback": "重复可参与形成，但稳定品质包含判断、欲望与选择的秩序。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "habit-as-count"
+    },
+    {
+      "id": "aquinas-08-q2",
+      "kind": "argument-relation",
+      "prompt": "审慎与道德德性为何相互需要？",
+      "targetNodeIds": [
+        "aquinas-08"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "德性校正目的，审慎判断具体手段与环境",
+          "feedback": "目的若被欲望扭曲，推理会合理化；只有好意没有判断，也会误用手段。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "审慎只提升效率，德性只增加行为次数",
+          "feedback": "错步是把实践理性降成技术并把德性降成频率，二者都失去规范对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "prudence-as-technique"
+    },
+    {
+      "id": "aquinas-08-q3",
+      "kind": "source-identity",
+      "prompt": "哪项属于阿奎那对亚里士多德框架的神学改造？",
+      "targetNodeIds": [
+        "aquinas-08"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "爱德按超自然终点重排诸德",
+          "feedback": "神学德性与享见终点改变了德性体系，不能倒写进《尼各马可伦理学》。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "习惯德性需要在行动中形成",
+          "feedback": "这一点有明确的亚里士多德来源，不能作为阿奎那独有改造。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "charity-as-aristotle"
+    },
+    {
+      "id": "aquinas-08-q4",
+      "kind": "objection-response",
+      "prompt": "回应价值冲突异议时，德性联结保住什么？",
+      "targetNodeIds": [
+        "aquinas-08"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "所有重要善在每次行动中都能同时实现",
+          "feedback": "错步是把品格整合扩成结果和谐；悲剧选择仍可能牺牲真实的善。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "选择不由坏目的系统性地扭曲理由",
+          "feedback": "联结约束行动者的目的结构，却不保证环境允许无损实现所有善。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "virtue-no-loss"
+    },
+    {
+      "id": "aquinas-09-q1",
+      "kind": "concept-distinction",
+      "prompt": "意志必然趋向一般幸福为何不取消具体自由？",
+      "targetNodeIds": [
+        "aquinas-09"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "有限对象不能单独等同完整幸福",
+          "feedback": "一般趋向不指定哪项有限好处及何种手段，理性比较因而仍有空间。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "一般幸福已经指定每个处境的唯一选项",
+          "feedback": "错步是从形式目的跳到具体对象；有限善恰以不同方面竞争。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "general-to-specific"
+    },
+    {
+      "id": "aquinas-09-q2",
+      "kind": "causal-relation",
+      "prompt": "理智与意志在选择中是什么关系？",
+      "targetNodeIds": [
+        "aquinas-09"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "理智呈现理由，意志参与取舍并推动考虑",
+          "feedback": "相互作用使选择既有理由又真正出于行动者，而非纯计算或随机冲动。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "理智独自完成决定，意志随后只执行既定结论",
+          "feedback": "错步是取消意志对注意和审议的推动，也无法解释拒绝与重新考虑。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "faculty-isolation"
+    },
+    {
+      "id": "aquinas-09-q3",
+      "kind": "case-evaluation",
+      "prompt": "成瘾案例反对哪种二分？",
+      "targetNodeIds": [
+        "aquinas-09"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "医学事实与行动判断需要彼此配合",
+          "feedback": "错步是把案例支持的配合关系当成被反对项；它反对的是粗糙二分。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "责任只有完整自由或完全无关两种状态",
+          "feedback": "案例显示控制、知识和既往形成可有程度，责任判断需要相应细分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "binary-freedom"
+    },
+    {
+      "id": "aquinas-09-q4",
+      "kind": "objection-response",
+      "prompt": "两层因果回应仍留下什么债务？",
+      "targetNodeIds": [
+        "aquinas-09"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "无误神知、恩典推动与可作他选如何协调",
+          "feedback": "两层框架保住相容方向，却未消除关于自由模态的后续争论。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "第一原因与受造原因能否处于同一竞争层",
+          "feedback": "回应已经否认同层竞争；这不是它仍欠的精确协调问题。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "mystery-erased"
+    },
+    {
+      "id": "aquinas-10-q1",
+      "kind": "layer-distinction",
+      "prompt": "哪项最能区分普遍帮助与提升恩典？",
+      "targetNodeIds": [
+        "aquinas-10"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "前者和后者都只是外在提供行为建议",
+          "feedback": "错步是把存在依赖、医治与提升压成信息提示，取消能力本身的改变。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "前者保存受造行动，后者导向超自然终点",
+          "feedback": "分层避免把普通真理认知全归特殊恩典，也不把享见化为自然成熟。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "grace-layer-collapse"
+    },
+    {
+      "id": "aquinas-10-q2",
+      "kind": "causal-relation",
+      "prompt": "恩典预先推动为何不等于外在强迫？",
+      "targetNodeIds": [
+        "aquinas-10"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "恩典绕过意志直接完成同一个人类行为",
+          "feedback": "错步是让第一原因替代受造原因；这样合作、德性和责任都无法成立。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "恩典使意志自身被医治并开始愿意善",
+          "feedback": "效果是主体的真实意愿，而非违背意愿的身体动作。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "grace-as-coercion"
+    },
+    {
+      "id": "aquinas-10-q3",
+      "kind": "analogy-boundary",
+      "prompt": "视力医治类比不能单独证明什么？",
+      "targetNodeIds": [
+        "aquinas-10"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "恩典与自由意志关系的全部人格结构",
+          "feedback": "眼睛不审议也不爱，类比只能区分帮助与替代，不能穷尽合作。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "帮助可以恢复能力而不替代其活动",
+          "feedback": "这正是类比能够照亮的关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "analogy-overreach"
+    },
+    {
+      "id": "aquinas-10-q4",
+      "kind": "merit-boundary",
+      "prompt": "功德为何不使上帝成为自然债务人？",
+      "targetNodeIds": [
+        "aquinas-10"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "功德建立在神先给予并应许的秩序中",
+          "feedback": "人的行动真实，却连能力、爱德和赏报秩序都以先行恩赐为基础。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "功德先独立产生，随后迫使神偿还相等报酬",
+          "feedback": "错步是把恩典秩序改成自然交易，颠倒了主动与回应的关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "merit-as-wage"
+    },
+    {
+      "id": "aquinas-11-q1",
+      "kind": "condition-mapping",
+      "prompt": "战争三条件分别约束什么？",
+      "targetNodeIds": [
+        "aquinas-11"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "同一个良好目的的三种重复说法",
+          "feedback": "错步是把身份和事实条件都缩成动机，因而无法检验越权与虚构侵害。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "行动者身份、回应事实与行动目的",
+          "feedback": "权威、理由与意向分担不同审查任务，任何一项都不能吞并另外两项。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "condition-collapse"
+    },
+    {
+      "id": "aquinas-11-q2",
+      "kind": "case-transfer",
+      "prompt": "合法政府以夺取资源为主发动战争，哪项首先受损？",
+      "targetNodeIds": [
+        "aquinas-11"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "正当意向，且权威身份不能补偿它",
+          "feedback": "案例专门改变目的条件；合法身份没有把贪欲转成恢复和平。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "公共权威，因为任何混合目的都取消职位",
+          "feedback": "错步是把意向缺陷转成身份不存在；两条件相关却不能混成一项。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "authority-cleans-intent"
+    },
+    {
+      "id": "aquinas-11-q3",
+      "kind": "historical-boundary",
+      "prompt": "怎样使用三条件最负责任？",
+      "targetNodeIds": [
+        "aquinas-11"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "把它当审查起点并另补现代规范问题",
+          "feedback": "这样既保留历史论证的批判力，也不让三个条件越权替代后世制度。",
+          "isCorrect": true
+        },
+        {
+          "id": "a",
+          "text": "把它当现代战争法已经完备的原始版本",
+          "feedback": "错步是把比例、区分和平民保护等后世发展倒写成阿奎那明文。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "modern-law-preloaded"
+    },
+    {
+      "id": "aquinas-11-q4",
+      "kind": "objection-response",
+      "prompt": "怎样打破“有力量者自称权威”的循环？",
+      "targetNodeIds": [
+        "aquinas-11"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "把成功控制领土并维持秩序直接视为正当授权",
+          "feedback": "错步是让事实力量自行产生规范资格，正好完成异议指出的循环。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "用共同善与法律秩序审查力量的正当资格",
+          "feedback": "规范尺度使占有强制能力不再自动等于有权使用它。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "power-equals-authority"
+    },
+    {
+      "id": "aquinas-12-q1",
+      "kind": "objection-scope",
+      "prompt": "科学机制解释最直接击中哪种神论用法？",
+      "targetNodeIds": [
+        "aquinas-12"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "关于现实存在依赖及充分根据的形上追问",
+          "feedback": "错步是让机制说明越界承担存在根据；它可促使质疑，却未自动回答后一问题。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "把上帝当作机制链中填补空白的成员",
+          "feedback": "机制增长会挤压这种用法；阿奎那式第一因主张则属于另一解释层。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "science-refutes-all"
+    },
+    {
+      "id": "aquinas-12-q2",
+      "kind": "concept-change",
+      "prompt": "用统计规律重构第五路时必须承认什么？",
+      "targetNodeIds": [
+        "aquinas-12"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "现代规律语言与原有目的因概念发生变化",
+          "feedback": "重构可以有价值，但概念替换须显明，不能冒充阿奎那逐字已说。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "现代规律语言与原有目的因完全同义",
+          "feedback": "错步是抹掉历史概念差别，因而无法判断重构究竟保住了哪项前提。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "modern-rewrite-as-original"
+    },
+    {
+      "id": "aquinas-12-q3",
+      "kind": "voice-identity",
+      "prompt": "为何要区分亚里士多德来源与教会教义？",
+      "targetNodeIds": [
+        "aquinas-12"
+      ],
+      "options": [
+        {
+          "id": "b",
+          "text": "两者都是阿奎那亲自提出的原始概念",
+          "feedback": "错步是把接收、教义承诺和个人论证合成作者原创，造成虚假归属。",
+          "isCorrect": false
+        },
+        {
+          "id": "a",
+          "text": "两者在阿奎那综合中承担不同根据与身份",
+          "feedback": "形式质料资源与复活承诺进入综合的方式不同，评价必须先辨明来源层。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "voice-collapse"
+    },
+    {
+      "id": "aquinas-12-q4",
+      "kind": "synthesis-boundary",
+      "prompt": "最合适的总体评价方式是什么？",
+      "targetNodeIds": [
+        "aquinas-12"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "以一项成功或失败替整套体系作总判决",
+          "feedback": "错步是取消论证依赖图；不同结论使用的前提和声音身份并不相同。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "逐项定位前提，记录保留、收缩与未决",
+          "feedback": "这种方式让局部洞见不替其他结论担保，也让具体失败获得真实后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "whole-system-verdict"
+    },
+    {
+      "id": "aquinas-13-q1",
+      "kind": "argument-relation",
+      "prompt": "为何单纯是属性链的起点？",
+      "targetNodeIds": [
+        "aquinas-13"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为复合会引入对部分和组成原则的依赖",
+          "feedback": "它先排除第一原理由更基本成分构成。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为单纯表示属性数量最少",
+          "feedback": "把单纯解释成属性稀少，混淆对象结构与概念数量。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "attribute-list"
+    },
+    {
+      "id": "aquinas-13-q2",
+      "kind": "concept-distinction",
+      "prompt": "这里的无限首先否定什么？",
+      "targetNodeIds": [
+        "aquinas-13"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "空间边界之外还有更多空间",
+          "feedback": "空间想象把非物质属性降成数量延伸。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "存在被领受方式或限制原则界定",
+          "feedback": "论证处理存在的有限领受，不在测量物理尺度。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "spatial-infinity"
+    },
+    {
+      "id": "aquinas-13-q3",
+      "kind": "argument-relation",
+      "prompt": "不变为何通向永恒？",
+      "targetNodeIds": [
+        "aquinas-13"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "永恒表达不变生命的整体同时拥有",
+          "feedback": "论证先排除变化，再说明并非逐刻获得生命。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "永恒只是时间持续没有终点",
+          "feedback": "无限时长仍把永恒放在时间序列中。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "endless-time"
+    },
+    {
+      "id": "aquinas-13-q4",
+      "kind": "boundary",
+      "prompt": "多个属性名称是否推出对象内部有多个部分？",
+      "targetNodeIds": [
+        "aquinas-13"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "推出；真实名称必须对应独立组成部分",
+          "feedback": "这会让认识方式未经论证地决定对象结构。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "不推出；概念按不同关系区分而对象不因此复合",
+          "feedback": "类比名称的概念差异不等同于实体组成。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "names-make-parts"
+    },
+    {
+      "id": "aquinas-14-q1",
+      "kind": "order-distinction",
+      "prompt": "论证顺序为何不表示神内发生心理事件？",
+      "targetNodeIds": [
+        "aquinas-14"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "顺序属于有限理智的论证路径",
+          "feedback": "我们分步理解，不推出对象从知识走向意志的时间变化。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为各词完全同义而无须区分",
+          "feedback": "词义有逻辑差异；否认差异不能解释论证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "temporal-psychology"
+    },
+    {
+      "id": "aquinas-14-q2",
+      "kind": "concept-relation",
+      "prompt": "神爱受造物在此首先意味着什么？",
+      "targetNodeIds": [
+        "aquinas-14"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "受造物先有独立价值而引发神的情绪",
+          "feedback": "这把神爱改造成受造心理反应。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "意愿其善并成为其善的原因",
+          "feedback": "爱不是被外在对象从潜能推动。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "reactive-love"
+    },
+    {
+      "id": "aquinas-14-q3",
+      "kind": "concept-boundary",
+      "prompt": "全能为何不包含实现矛盾？",
+      "targetNodeIds": [
+        "aquinas-14"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "矛盾没有指向可实现的事态",
+          "feedback": "能力以可能之事为对象，语词拼接不自动产生对象。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为有另一种更强能力阻止它",
+          "feedback": "不存在需要另一能力压制的真实任务。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "contradiction-task"
+    },
+    {
+      "id": "aquinas-14-q4",
+      "kind": "boundary",
+      "prompt": "自由创造是否等于无理由任意？",
+      "targetNodeIds": [
+        "aquinas-14"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "等于；只要并非必然就没有理由",
+          "feedback": "这把“有理由”错误缩成“被唯一结果强迫”。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "不等于；非绝对必然仍可依智慧意愿善的秩序",
+          "feedback": "自由与智慧理由可以并存。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "freedom-randomness"
+    },
+    {
+      "id": "aquinas-15-q1",
+      "kind": "concept-distinction",
+      "prompt": "天意与治理的差别是什么？",
+      "targetNodeIds": [
+        "aquinas-15"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "智慧中的目的秩序与该秩序的施行",
+          "feedback": "前者是秩序的构想，后者是秩序的实现。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "不可知未来与事后补救",
+          "feedback": "这把两个术语换成与文本无关的时间猜测。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "plan-execution-collapse"
+    },
+    {
+      "id": "aquinas-15-q2",
+      "kind": "causal-layer",
+      "prompt": "第一因与次级因是否分摊同层百分比？",
+      "targetNodeIds": [
+        "aquinas-15"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "是；神占比越高，受造因占比越低",
+          "feedback": "零和模型会把次级因降为假象。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "不是；它们在不同依赖层面解释同一效果",
+          "feedback": "不同层归因不是竞争性切片。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "causal-share"
+    },
+    {
+      "id": "aquinas-15-q3",
+      "kind": "concept-boundary",
+      "prompt": "偶然在天意内为何仍可真实？",
+      "targetNodeIds": [
+        "aquinas-15"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为秩序也涵盖效果经可失败近因发生的方式",
+          "feedback": "近因的可失败方式不是观察者无知。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为偶然只表示人不知道隐藏的必然链",
+          "feedback": "这取消了文本试图保存的真实偶然性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "ignorance-contingency"
+    },
+    {
+      "id": "aquinas-15-q4",
+      "kind": "objection-response",
+      "prompt": "因果依赖为何不免除作恶者责任？",
+      "targetNodeIds": [
+        "aquinas-15"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为恶行在存在上完全不依赖任何第一因",
+          "feedback": "把行动切成完全独立存在会破坏既定因果框架。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "有意失序来自有限行动者作为近因的选择",
+          "feedback": "依赖行动存在，不把意向缺陷转移出去。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "responsibility-transfer"
+    },
+    {
+      "id": "aquinas-16-q1",
+      "kind": "concept-distinction",
+      "prompt": "恶作为缺失中的“缺失”是哪一种没有？",
+      "targetNodeIds": [
+        "aquinas-16"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "主体本应具有之完善的欠缺",
+          "feedback": "应有尺度使失明不同于石头不看。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "任何没有被观察到的性质",
+          "feedback": "任意缺少不能构成恶。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "mere-absence"
+    },
+    {
+      "id": "aquinas-16-q2",
+      "kind": "causal-relation",
+      "prompt": "有缺陷行动为何仍能真实造成效果？",
+      "targetNodeIds": [
+        "aquinas-16"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为恶本身是独立实体并提供全部力量",
+          "feedback": "把恶实体化会使其无需任何善即可行动。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "行动的存在和能力是善，失序是应有规则的缺失",
+          "feedback": "寄生结构说明效果依靠仍存的善。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "evil-substance"
+    },
+    {
+      "id": "aquinas-16-q3",
+      "kind": "boundary",
+      "prompt": "“许可”能否推出受害者应得伤害？",
+      "targetNodeIds": [
+        "aquinas-16"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "不能；许可不等于命令、赞同或应得",
+          "feedback": "许可只描述未阻止及秩序边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "能；秩序容纳就证明伤害对个人公平",
+          "feedback": "这是从普遍容纳非法跳到个人归责。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "victim-desert"
+    },
+    {
+      "id": "aquinas-16-q4",
+      "kind": "objection-scope",
+      "prompt": "缺失论没有直接回答什么？",
+      "targetNodeIds": [
+        "aquinas-16"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "恶是否与善同为独立本原",
+          "feedback": "它恰好直接反对善恶二元本原。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "具体受苦为何发生并构成何种可接受理由",
+          "feedback": "缺失论不等于每个事件的完整神义论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "privation-completes-theodicy"
+    },
+    {
+      "id": "aquinas-17-q1",
+      "kind": "order-distinction",
+      "prompt": "人的认识链从何处起步？",
+      "targetNodeIds": [
+        "aquinas-17"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "身体感官经验及内感官形成的表象",
+          "feedback": "此生理智以感性材料为起点。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "脱离一切表象的现成普遍概念",
+          "feedback": "这跳过了阿奎那明确保留的身体依赖。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "innate-concepts"
+    },
+    {
+      "id": "aquinas-17-q2",
+      "kind": "concept-relation",
+      "prompt": "主动理智和可能理智如何分工？",
+      "targetNodeIds": [
+        "aquinas-17"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "前者储存记忆，后者控制外感官",
+          "feedback": "这把理论术语改写成任意心理模块。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "前者使形式现实可理解，后者领受而成为现实认识",
+          "feedback": "分工处理可理解性与领受。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "two-agents"
+    },
+    {
+      "id": "aquinas-17-q3",
+      "kind": "concept-distinction",
+      "prompt": "错误为何主要出现在判断层？",
+      "targetNodeIds": [
+        "aquinas-17"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为组合或分开概念会对事物作可错断定",
+          "feedback": "判断才把概念用于断言。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为所有简单概念本身都是完整真假句",
+          "feedback": "简单概念并未自动断言事实。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "concepts-are-propositions"
+    },
+    {
+      "id": "aquinas-17-q4",
+      "kind": "voice-identity",
+      "prompt": "怎样使用《论灵魂注》最准确？",
+      "targetNodeIds": [
+        "aquinas-17"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "把其中每句话都署给亚里士多德本人",
+          "feedback": "这抹除了底本与接受者身份。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "把它标为阿奎那解释亚里士多德的注释声",
+          "feedback": "注释可传递底本，也包含注释者的选择。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "commentary-is-source"
+    },
+    {
+      "id": "aquinas-18-q1",
+      "kind": "concept-distinction",
+      "prompt": "终极目的为何不是时间上最后事件？",
+      "targetNodeIds": [
+        "aquinas-18"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "它是组织其他目的的最高“为何”",
+          "feedback": "终极性属于意向与解释秩序。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "它必须是死前发生的最后动作",
+          "feedback": "时间末位不能自动赋予规范首位。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "last-event"
+    },
+    {
+      "id": "aquinas-18-q2",
+      "kind": "argument-relation",
+      "prompt": "财富为何不能单独构成完满幸福？",
+      "targetNodeIds": [
+        "aquinas-18"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为一切财物本身都是恶",
+          "feedback": "这把候选排除误成对部分善的否定。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "它主要是工具，仍指向别的善",
+          "feedback": "不足以终极化不等于没有真实价值。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "wealth-evil"
+    },
+    {
+      "id": "aquinas-18-q3",
+      "kind": "concept-relation",
+      "prompt": "完满幸福为何被说成活动？",
+      "targetNodeIds": [
+        "aquinas-18"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "人的能力要在现实运用中达到完成",
+          "feedback": "活动论解释能力如何现实化。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "因为幸福只是外物被动占有",
+          "feedback": "纯占有不能说明人的最高能力怎样完成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "possession-only"
+    },
+    {
+      "id": "aquinas-18-q4",
+      "kind": "boundary",
+      "prompt": "今生不完满是否取消现世善的价值？",
+      "targetNodeIds": [
+        "aquinas-18"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "取消；只要不是终极善就可任意牺牲",
+          "feedback": "把非终极误作无价值，会反转论证。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "不取消；有限善是真实部分善并产生保护义务",
+          "feedback": "层级区分支持而非消灭部分善。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "afterlife-cancels-earth"
+    },
+    {
+      "id": "aquinas-19-q1",
+      "kind": "concept-boundary",
+      "prompt": "这里的ius首先指向什么？",
+      "targetNodeIds": [
+        "aquinas-19"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "他者关系中作为正义对象的正当之物",
+          "feedback": "客观正当关系是本段起点。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "一套已写成的现代个人权利清单",
+          "feedback": "这把后世权利形态倒写成文本原词的唯一意义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "modern-rights-backfill"
+    },
+    {
+      "id": "aquinas-19-q2",
+      "kind": "law-distinction",
+      "prompt": "分配与交换正义为何不能用同一公式？",
+      "targetNodeIds": [
+        "aquinas-19"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "因为分配不受任何平等要求",
+          "feedback": "否认分配平等会使比例任意化。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "前者按共同关系的比例，后者恢复交易或损害的等量",
+          "feedback": "两者都追求平等，却针对不同关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "one-equality"
+    },
+    {
+      "id": "aquinas-19-q3",
+      "kind": "normative-step",
+      "prompt": "侵占停止后为何还可能必须归还？",
+      "targetNodeIds": [
+        "aquinas-19"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "持续的不平等仍需恢复对方所缺",
+          "feedback": "归还修复关系，不是奖励守法。",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "停止侵害已自动抹去既有亏欠",
+          "feedback": "这忽略了被扣留对象和既有损失。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "a",
+      "misconceptionId": "cessation-enough"
+    },
+    {
+      "id": "aquinas-19-q4",
+      "kind": "case-evaluation",
+      "prompt": "何时紧急取用维生物不按通常偷窃判断？",
+      "targetNodeIds": [
+        "aquinas-19"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "text": "只要取用者主观喜欢并声称有用",
+          "feedback": "普通偏好不能自行取消占有秩序。",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "明显迫切的极端需要且取用限于必要适量",
+          "feedback": "紧迫、维生与适量共同收窄例外。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "b",
+      "misconceptionId": "need-anything"
+    }
+  ],
+  "contentStatistics": {
+    "bodyCharacterCount": 20157,
+    "bodyCjkCount": 18447,
+    "generalVisibleAuxiliaryCharacterCount": 4731,
+    "generalVisibleAuxiliaryCjkCount": 4409,
+    "assessmentCharacterCount": 7445,
+    "assessmentCjkCount": 7003,
+    "fullVisibleAuxiliaryCharacterCount": 12176,
+    "fullVisibleAuxiliaryCjkCount": 11412,
+    "metadataValueCharacterCount": 8736,
+    "metadataScope": "lesson/check identifiers, kinds, identities, source references, option identifiers and booleans",
+    "editorialTransportCharacterCount": 131152,
+    "closureTransportCharacterCount": 25430
+  },
+  "integrationContract": {
+    "readerTechnology": "WebView2 semantic HTML",
+    "allowedBodyElements": [
+      "main",
+      "article",
+      "h1",
+      "h2",
+      "p"
+    ],
+    "forbiddenBodyElements": [
+      "ul",
+      "li"
+    ],
+    "openKey": "Enter",
+    "initialFocus": "article-title",
+    "returnKey": "Escape",
+    "restoreExactResult": true,
+    "blockExternalNavigation": true,
+    "hostInterceptsArrowKeys": false,
+    "machineVerifiedArrowReading": false,
+    "machineStatus": "正文已加载；真人保益悦听体验待用户验证",
+    "humanGate": "真人使用保益悦听完成 Enter、方向键连续阅读与 Escape 精确返回"
+  }
+}

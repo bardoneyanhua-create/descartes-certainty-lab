@@ -1,0 +1,5401 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "henri-bergson--claim-01",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "意识状态的强度首先呈现为性质变化；把情感、努力或疼痛直接当作同质数量，会把原因、身体伴随物与体验本身混在一起。",
+      "explanation": "意识状态的强度首先呈现为性质变化；把情感、努力或疼痛直接当作同质数量，会把原因、身体伴随物与体验本身混在一起。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-01-tfw-intensity"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "qualitative intensity"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-02",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏格森由此区分同质的数量多样性与彼此渗透的质性多样性；后一种多样性不能像排开的物体那样逐项计数。",
+      "explanation": "柏格森由此区分同质的数量多样性与彼此渗透的质性多样性；后一种多样性不能像排开的物体那样逐项计数。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-02-tfw-multiplicity"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "qualitative multiplicity"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-03",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "纯绵延不是一串相互外在的瞬间，而是先后状态相互保存、渗透并改变整体色调的连续进展。",
+      "explanation": "纯绵延不是一串相互外在的瞬间，而是先后状态相互保存、渗透并改变整体色调的连续进展。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-03-tfw-duration"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "duration as interpenetration"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-04",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "钟表测量与科学计算有其正当用途；错误发生在把空间中的并列模型直接当成意识绵延本身。",
+      "explanation": "钟表测量与科学计算有其正当用途；错误发生在把空间中的并列模型直接当成意识绵延本身。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-04-tfw-space"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "spatialization of time"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-05",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自由行动来自正在绵延的整个人格，而不是一个与人格分离、在同质选项间任意跳动的无原因点。",
+      "explanation": "自由行动来自正在绵延的整个人格，而不是一个与人格分离、在同质选项间任意跳动的无原因点。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-05-tfw-freedom"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "free action and whole personality"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-06",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "决定论者和反决定论者若把已经完成的过程画成分叉路线，就会把事后空间图倒投到尚在生成的行动上。",
+      "explanation": "决定论者和反决定论者若把已经完成的过程画成分叉路线，就会把事后空间图倒投到尚在生成的行动上。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-06-tfw-prediction"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "retrospective reconstruction of choice"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-07",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《物质与记忆》从“图像”的中间语汇出发：世界既不先被缩成心内表象，也不先被设为与经验毫无关系的不可知物。",
+      "explanation": "《物质与记忆》从“图像”的中间语汇出发：世界既不先被缩成心内表象，也不先被设为与经验毫无关系的不可知物。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-07-mm-images"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "world of images"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-08",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "我的身体是图像之一，却因能接收刺激并延迟、选择反应而成为行动的中心，不是制造整个世界表象的仓库。",
+      "explanation": "我的身体是图像之一，却因能接收刺激并延迟、选择反应而成为行动的中心，不是制造整个世界表象的仓库。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-08-mm-body"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "body as centre of action"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-09",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "纯知觉是一个极限构造：它从图像总体中切取与身体可能行动有关的面向；具体知觉还总被记忆渗入。",
+      "explanation": "纯知觉是一个极限构造：它从图像总体中切取与身体可能行动有关的面向；具体知觉还总被记忆渗入。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-09-mm-perception"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "pure perception and selection"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-10",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "情感发生在身体所受刺激不再只是向外反射、而涉及身体自身时；它标示知觉与行动回路中的身体厚度。",
+      "explanation": "情感发生在身体所受刺激不再只是向外反射、而涉及身体自身时；它标示知觉与行动回路中的身体厚度。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-10-mm-affection"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "affection and the body"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-11",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "反复背诵形成的习惯记忆落实为动作机制，而独特事件的回忆保留日期和情境；两者功能不同，不能都叫作脑中同类痕迹。",
+      "explanation": "反复背诵形成的习惯记忆落实为动作机制，而独特事件的回忆保留日期和情境；两者功能不同，不能都叫作脑中同类痕迹。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-11-mm-two-memories"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "habit memory and recollection"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-12",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏格森主张过去本身保存，并在当前行动需要下以回忆图像方式现实化；这不是说每段过去都持续以清晰现前表象出现。",
+      "explanation": "柏格森主张过去本身保存，并在当前行动需要下以回忆图像方式现实化；这不是说每段过去都持续以清晰现前表象出现。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-12-mm-past"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "survival of the past"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-13",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "脑损伤可破坏回忆的调用、选择或运动表达，而不必据此推出所有过去内容都作为静态副本储存在脑组织中。",
+      "explanation": "脑损伤可破坏回忆的调用、选择或运动表达，而不必据此推出所有过去内容都作为静态副本储存在脑组织中。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-13-mm-brain"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "brain as action mechanism"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-14",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "心身关系被描述为不同张力或行动层次的协调：身体把精神生活导向当前行动，而不是以机械生产取代记忆的生存。",
+      "explanation": "心身关系被描述为不同张力或行动层次的协调：身体把精神生活导向当前行动，而不是以机械生产取代记忆的生存。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-14-mm-mind-body"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "mind-body relation by degree of tension"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-15",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "直觉意味着进入对象独特的运动，从内部把握其不可替代性；它不是未经训练的猜测，也不是反证据的灵感。",
+      "explanation": "直觉意味着进入对象独特的运动，从内部把握其不可替代性；它不是未经训练的猜测，也不是反证据的灵感。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-15-intro-intuition"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "intuition and entering into an object"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-16",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "分析以概念和符号从外部呈现对象，尤其适合行动与科学；形而上学的任务不是摧毁分析，而是防止符号替代流动实在。",
+      "explanation": "分析以概念和符号从外部呈现对象，尤其适合行动与科学；形而上学的任务不是摧毁分析，而是防止符号替代流动实在。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-16-intro-analysis"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "analysis as symbolic and useful"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-17",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "机械论用既成要素解释一切，彻底目的论则让未来蓝图预先支配过程；柏格森认为两者都削弱了时间中的真正生成。",
+      "explanation": "机械论用既成要素解释一切，彻底目的论则让未来蓝图预先支配过程；柏格森认为两者都削弱了时间中的真正生成。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-17-ce-mechanism"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "critique of mechanism and finalism"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-18",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "生命史包含不可预见的新形式；“创造”不是无条件奇迹，而是说结果不能被完整压缩为先前可能性的展开。",
+      "explanation": "生命史包含不可预见的新形式；“创造”不是无条件奇迹，而是说结果不能被完整压缩为先前可能性的展开。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-18-ce-creation"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "unforeseeable creation"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-19",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "生命冲力是描述生命运动在物质阻力中持续分化的概念，不是一个能替代具体生物学机制的可测神秘物质。",
+      "explanation": "生命冲力是描述生命运动在物质阻力中持续分化的概念，不是一个能替代具体生物学机制的可测神秘物质。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-19-ce-elan"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "vital impetus"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-20",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "演化不是沿单一阶梯走向人类，而在迟钝、植物性、直觉与智性等倾向上分叉；每条现实路线都带有损失与专门化。",
+      "explanation": "演化不是沿单一阶梯走向人类，而在迟钝、植物性、直觉与智性等倾向上分叉；每条现实路线都带有损失与专门化。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-20-ce-divergence"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "divergent evolutionary tendencies"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-21",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "智性在处理固体、工具、可重复关系和空间结构时特别强；这种进化形成的方向解释其效力，也说明其面对生成时的偏向。",
+      "explanation": "智性在处理固体、工具、可重复关系和空间结构时特别强；这种进化形成的方向解释其效力，也说明其面对生成时的偏向。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-21-ce-intelligence"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "intelligence and inert matter"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-22",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏格森并不否定科学事实；他区分科学对可测关系的正当把握与把“电影式”静态切片当作全部实在的形而上学扩张。",
+      "explanation": "柏格森并不否定科学事实；他区分科学对可测关系的正当把握与把“电影式”静态切片当作全部实在的形而上学扩张。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-22-ce-science"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "scope of science and metaphysics"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-23",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "滑稽常在有生命者身上显出机械般的僵硬、重复或自动性；笑又具有社会纠偏功能，群体借笑惩戒不灵活行为。后一点暴露理论的规范压力，不能把“纠偏”自动等同于道德正当。",
+      "explanation": "滑稽常在有生命者身上显出机械般的僵硬、重复或自动性；笑又具有社会纠偏功能，群体借笑惩戒不灵活行为。后一点暴露理论的规范压力，不能把“纠偏”自动等同于道德正当。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "mechanical rigidity and social correction"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-24",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "封闭道德依靠习惯、压力与群体保存，开放道德由典范人物和创造激情发出召唤；相应地，静态宗教以神话功能抵消智性带来的瓦解风险，动态宗教联系于神秘经验和创造行动。两组区分都不能简化成强弱或真假标签。",
+      "explanation": "封闭道德依靠习惯、压力与群体保存，开放道德由典范人物和创造激情发出召唤；相应地，静态宗教以神话功能抵消智性带来的瓦解风险，动态宗教联系于神秘经验和创造行动。两组区分都不能简化成强弱或真假标签。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "closed/open morality and static/dynamic religion"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-25",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1914 年战时演说把法国与德国冲突塑造成生命与机械物质的道德对抗，并使用强烈民族化修辞；路线保留其动员语境，不以晚年开放道德替它消毒。",
+      "explanation": "1914 年战时演说把法国与德国冲突塑造成生命与机械物质的道德对抗，并使用强烈民族化修辞；路线保留其动员语境，不以晚年开放道德替它消毒。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-27-war-address"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "wartime nationalist rhetoric"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-26",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1932 年战争分析把封闭社会、敌我结构、工业技术与灭绝危险联系起来，并把开放召唤置于超越部落封闭的方向；它与 1914 演说构成需要解释的张力。",
+      "explanation": "1932 年战争分析把封闭社会、敌我结构、工业技术与灭绝危险联系起来，并把开放召唤置于超越部落封闭的方向；它与 1914 演说构成需要解释的张力。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-28-two-war"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "war and closed society"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-29-einstein",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "爱因斯坦在 1922 年会议中维护物理学操作定义和测量时间的权限；此处只记录他的发言对象，不将其改写成柏格森的哲学主张。",
+      "explanation": "爱因斯坦在 1922 年会议中维护物理学操作定义和测量时间的权限；此处只记录他的发言对象，不将其改写成柏格森的哲学主张。",
+      "identity": "einstein-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-einstein-pending"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Einstein on physical time"
+      ],
+      "voiceClass": "einstein-primary"
+    },
+    {
+      "id": "henri-bergson--claim-29-bergson",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏格森在同一会议追问测量时间与经验绵延的关系；此处只记录他的回应，不将其冒充爱因斯坦对相对论的技术定义。",
+      "explanation": "柏格森在同一会议追问测量时间与经验绵延的关系；此处只记录他的回应，不将其冒充爱因斯坦对相对论的技术定义。",
+      "identity": "bergson-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-bergson-pending"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Bergson on lived and measured time"
+      ],
+      "voiceClass": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--claim-29-route",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "路线比较认为双方发言对象并不完全相同，因此不把会议压成一句谁“证明”了谁；这一判断同时依赖分别待闭合的双方发言。",
+      "explanation": "路线比较认为双方发言对象并不完全相同，因此不把会议压成一句谁“证明”了谁；这一判断同时依赖分别待闭合的双方发言。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-route-einstein-pending",
+        "henri-bergson--src-29-route-bergson-pending"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "route adjudication of the 1922 exchange"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-30",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《绵延与同时性》试图从哲学上解释相对论并保存单一可经验时间。课程把这一伯格森主张与相对论的物理结论分开，不在缺少批评者来源时断言其接受史。",
+      "explanation": "《绵延与同时性》试图从哲学上解释相对论并保存单一可经验时间。课程把这一伯格森主张与相对论的物理结论分开，不在缺少批评者来源时断言其接受史。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-30-duration-simultaneity"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "philosophical interpretation of relativity"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-31",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "William James 把柏格森视为反智性主义与多元论的重要盟友；Bertrand Russell 则批评其直觉方法与反智性主义。两种评价属于各自哲学立场，不能冒充柏格森自述。",
+      "explanation": "William James 把柏格森视为反智性主义与多元论的重要盟友；Bertrand Russell 则批评其直觉方法与反智性主义。两种评价属于各自哲学立场，不能冒充柏格森自述。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-31a-james",
+        "henri-bergson--src-31b-russell-pending"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "James and Russell reception contrast"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--claim-32",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Deleuze 在《柏格森主义》中以方法、绵延、记忆和生命冲力重构一条概念进程，尤其强调虚拟性与分化；这是有创造性的后继解释，不是 1889 或 1896 年文本的隐藏原句。",
+      "explanation": "Deleuze 在《柏格森主义》中以方法、绵延、记忆和生命冲力重构一条概念进程，尤其强调虚拟性与分化；这是有创造性的后继解释，不是 1889 或 1896 年文本的隐藏原句。",
+      "identity": "later-interpreter; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "henri-bergson--src-32-deleuze-pending"
+      ],
+      "abilityIds": [
+        "henri-bergson-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Deleuze reconstruction of Bergsonism"
+      ],
+      "voiceClass": "later-interpreter"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "henri-bergson--src-01-tfw-intensity",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, opening and concluding discussion of intensity.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, opening and concluding discussion of intensity.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "qualitative intensity",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-02-tfw-multiplicity",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, discussion of two kinds of multiplicity.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, discussion of two kinds of multiplicity.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "qualitative multiplicity",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-03-tfw-duration",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, pure duration and interpenetrating states.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, pure duration and interpenetrating states.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "duration as interpenetration",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-04-tfw-space",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, projection of time into space.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, projection of time into space.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "spatialization of time",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-05-tfw-freedom",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, free acts and the fundamental self.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, free acts and the fundamental self.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "free action and whole personality",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-06-tfw-prediction",
+      "workId": "Time and Free Will",
+      "edition": "F. L. Pogson trans., George Allen & Company / Macmillan, 1913 Project Gutenberg scan",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, criticism of prediction and alternative possibilities.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Time and Free Will",
+      "stableUrl": "https://www.gutenberg.org/files/56852/56852-h/56852-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, criticism of prediction and alternative possibilities.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "retrospective reconstruction of choice",
+      "voice": "bergson-primary",
+      "year": "1889-time-free-will"
+    },
+    {
+      "id": "henri-bergson--src-07-mm-images",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, opening image hypothesis.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, opening image hypothesis.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "world of images",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-08-mm-body",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, body and possible action.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, body and possible action.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "body as centre of action",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-09-mm-perception",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, pure perception and selection by action.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, pure perception and selection by action.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "pure perception and selection",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-10-mm-affection",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, affection between perception and action.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, affection between perception and action.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "affection and the body",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-11-mm-two-memories",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, the two forms of memory.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, the two forms of memory.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "habit memory and recollection",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-12-mm-past",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, survival and recognition of images.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, survival and recognition of images.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "survival of the past",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-13-mm-brain",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, brain lesions and motor mechanisms.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, brain lesions and motor mechanisms.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "brain as action mechanism",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-14-mm-mind-body",
+      "workId": "Matter and Memory",
+      "edition": "Paul and Palmer trans., George Allen, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter IV, relation of soul and body.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Matter and Memory",
+      "stableUrl": "https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_toc.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter IV, relation of soul and body.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "mind-body relation by degree of tension",
+      "voice": "bergson-primary",
+      "year": "1896-matter-memory"
+    },
+    {
+      "id": "henri-bergson--src-15-intro-intuition",
+      "workId": "An Introduction to Metaphysics",
+      "edition": "T. E. Hulme trans., G. P. Putnam, 1912",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Opening distinction between relative analysis and absolute intuition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "An Introduction to Metaphysics",
+      "stableUrl": "https://web.mit.edu/kaclark/www/bergson_introduction_to_metaphysics.pdf",
+      "boundaryZh": "Close fixed-edition page span for Opening distinction between relative analysis and absolute intuition.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "intuition and entering into an object",
+      "voice": "bergson-primary",
+      "year": "1903-intuition"
+    },
+    {
+      "id": "henri-bergson--src-16-intro-analysis",
+      "workId": "An Introduction to Metaphysics",
+      "edition": "T. E. Hulme trans., G. P. Putnam, 1912",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Middle sections on concepts, symbols, and reversal of habitual thought.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "An Introduction to Metaphysics",
+      "stableUrl": "https://web.mit.edu/kaclark/www/bergson_introduction_to_metaphysics.pdf",
+      "boundaryZh": "Close fixed-edition page span for Middle sections on concepts, symbols, and reversal of habitual thought.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "analysis as symbolic and useful",
+      "voice": "bergson-primary",
+      "year": "1903-intuition"
+    },
+    {
+      "id": "henri-bergson--src-17-ce-mechanism",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, mechanism and finalism.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, mechanism and finalism.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "critique of mechanism and finalism",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-18-ce-creation",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, duration and creation of form.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, duration and creation of form.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "unforeseeable creation",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-19-ce-elan",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, original impetus and divergent lines.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, original impetus and divergent lines.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "vital impetus",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-20-ce-divergence",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, torpor, instinct, and intelligence.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, torpor, instinct, and intelligence.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "divergent evolutionary tendencies",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-21-ce-intelligence",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter II, natural destination of intelligence.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter II, natural destination of intelligence.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "intelligence and inert matter",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-22-ce-science",
+      "workId": "Creative Evolution",
+      "edition": "Arthur Mitchell trans., Henry Holt, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, science, cinematographical mechanism, and becoming.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Creative Evolution",
+      "stableUrl": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, science, cinematographical mechanism, and becoming.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "scope of science and metaphysics",
+      "voice": "bergson-primary",
+      "year": "1907-creative-evolution"
+    },
+    {
+      "id": "henri-bergson--src-23-laughter-mechanical",
+      "workId": "Laughter: An Essay on the Meaning of the Comic",
+      "edition": "Brereton and Rothwell trans., Macmillan, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, sections I–II.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Laughter: An Essay on the Meaning of the Comic",
+      "stableUrl": "https://www.gutenberg.org/files/4352/4352-h/4352-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, sections I–II.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "mechanical encrusted on living",
+      "voice": "bergson-primary",
+      "year": "1900-laughter"
+    },
+    {
+      "id": "henri-bergson--src-24-laughter-social",
+      "workId": "Laughter: An Essay on the Meaning of the Comic",
+      "edition": "Brereton and Rothwell trans., Macmillan, 1911",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, concluding discussion of social correction.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Laughter: An Essay on the Meaning of the Comic",
+      "stableUrl": "https://www.gutenberg.org/files/4352/4352-h/4352-h.htm",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, concluding discussion of social correction.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "social function of laughter",
+      "voice": "bergson-primary",
+      "year": "1900-laughter"
+    },
+    {
+      "id": "henri-bergson--src-25-two-closed-open",
+      "workId": "Les Deux Sources de la morale et de la religion",
+      "edition": "Félix Alcan, 20th ed., 1937 transcription",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter I, “La société close” and “Morale close et morale ouverte”.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Les Deux Sources de la morale et de la religion",
+      "stableUrl": "https://fr.wikisource.org/wiki/Les_Deux_Sources_de_la_morale_et_de_la_religion",
+      "boundaryZh": "Close fixed-edition page span for Chapter I, “La société close” and “Morale close et morale ouverte”.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "closed and open morality",
+      "voice": "bergson-primary",
+      "year": "1932-two-sources"
+    },
+    {
+      "id": "henri-bergson--src-26-two-religion",
+      "workId": "Les Deux Sources de la morale et de la religion",
+      "edition": "Félix Alcan, 20th ed., 1937 transcription",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapters II–III, static religion and dynamic religion.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Les Deux Sources de la morale et de la religion",
+      "stableUrl": "https://fr.wikisource.org/wiki/Les_Deux_Sources_de_la_morale_et_de_la_religion",
+      "boundaryZh": "Close fixed-edition page span for Chapters II–III, static religion and dynamic religion.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "static and dynamic religion",
+      "voice": "bergson-primary",
+      "year": "1932-two-sources"
+    },
+    {
+      "id": "henri-bergson--src-27-war-address",
+      "workId": "The Meaning of the War: Life and Matter in Conflict",
+      "edition": "H. Wildon Carr trans., T. Fisher Unwin, 1915",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for “Life and Matter at War,” address of 12 December 1914.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Meaning of the War: Life and Matter in Conflict",
+      "stableUrl": "https://www.gutenberg.org/files/17111/17111-h/17111-h.htm",
+      "boundaryZh": "Close fixed-edition page span for “Life and Matter at War,” address of 12 December 1914.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "wartime nationalist rhetoric",
+      "voice": "bergson-primary",
+      "year": "1914-war-address"
+    },
+    {
+      "id": "henri-bergson--src-28-two-war",
+      "workId": "Les Deux Sources de la morale et de la religion",
+      "edition": "Félix Alcan, 20th ed., 1937 transcription",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter IV, war, industrial society, and open aspiration.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Les Deux Sources de la morale et de la religion",
+      "stableUrl": "https://fr.wikisource.org/wiki/Les_Deux_Sources_de_la_morale_et_de_la_religion",
+      "boundaryZh": "Close fixed-edition page span for Chapter IV, war, industrial society, and open aspiration.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "war and closed society",
+      "voice": "bergson-primary",
+      "year": "1932-two-sources"
+    },
+    {
+      "id": "henri-bergson--src-29-einstein-pending",
+      "workId": "Société française de philosophie meeting on relativity",
+      "edition": "Bulletin de la Société française de philosophie, 6 April 1922",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact pages for Einstein’s reply in the 1922 bulletin.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Société française de philosophie meeting on relativity",
+      "stableUrl": "https://www.sofrphilo.fr/la-societe/les-seances-de-la-societe/1922/1922-04-06/",
+      "boundaryZh": "Close exact pages for Einstein’s reply in the 1922 bulletin.",
+      "author": "Albert Einstein",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Einstein on physical time",
+      "voice": "einstein-primary",
+      "year": "1922-einstein-encounter"
+    },
+    {
+      "id": "henri-bergson--src-29-bergson-pending",
+      "workId": "Société française de philosophie meeting on relativity",
+      "edition": "Bulletin de la Société française de philosophie, 6 April 1922",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact pages for Bergson’s intervention in the 1922 bulletin.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Société française de philosophie meeting on relativity",
+      "stableUrl": "https://www.sofrphilo.fr/la-societe/les-seances-de-la-societe/1922/1922-04-06/",
+      "boundaryZh": "Close exact pages for Bergson’s intervention in the 1922 bulletin.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Bergson on lived and measured time",
+      "voice": "bergson-primary",
+      "year": "1922-einstein-encounter"
+    },
+    {
+      "id": "henri-bergson--src-29-route-einstein-pending",
+      "workId": "Société française de philosophie meeting on relativity",
+      "edition": "Bulletin de la Société française de philosophie, 6 April 1922",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact pages for Einstein’s reply used by the route comparison.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Société française de philosophie meeting on relativity",
+      "stableUrl": "https://www.sofrphilo.fr/la-societe/les-seances-de-la-societe/1922/1922-04-06/",
+      "boundaryZh": "Close exact pages for Einstein’s reply used by the route comparison.",
+      "author": "Albert Einstein",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Einstein side of route comparison",
+      "voice": "einstein-primary",
+      "year": "1922-einstein-encounter"
+    },
+    {
+      "id": "henri-bergson--src-29-route-bergson-pending",
+      "workId": "Société française de philosophie meeting on relativity",
+      "edition": "Bulletin de la Société française de philosophie, 6 April 1922",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact pages for Bergson’s intervention used by the route comparison.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Société française de philosophie meeting on relativity",
+      "stableUrl": "https://www.sofrphilo.fr/la-societe/les-seances-de-la-societe/1922/1922-04-06/",
+      "boundaryZh": "Close exact pages for Bergson’s intervention used by the route comparison.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Bergson side of route comparison",
+      "voice": "bergson-primary",
+      "year": "1922-einstein-encounter"
+    },
+    {
+      "id": "henri-bergson--src-30-duration-simultaneity",
+      "workId": "Durée et simultanéité: À propos de la théorie d’Einstein",
+      "edition": "PUF, 1968, 7e édition; UQAM electronic transcription",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Chapter III, “De la nature du temps”.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Durée et simultanéité: À propos de la théorie d’Einstein",
+      "stableUrl": "https://classiques.uqam.ca/classiques/bergson_henri/duree_simultaneite/duree.html",
+      "boundaryZh": "Close fixed-edition page span for Chapter III, “De la nature du temps”.",
+      "author": "Henri Bergson",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "philosophical interpretation of relativity",
+      "voice": "bergson-primary",
+      "year": "1922-duration-simultaneity"
+    },
+    {
+      "id": "henri-bergson--src-31a-james",
+      "workId": "A Pluralistic Universe",
+      "edition": "Longmans, Green, 1909",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close fixed-edition page span for Lecture VI, “Bergson and his Critique of Intellectualism”.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "A Pluralistic Universe",
+      "stableUrl": "https://www.gutenberg.org/cache/epub/11984/pg11984.html",
+      "boundaryZh": "Close fixed-edition page span for Lecture VI, “Bergson and his Critique of Intellectualism”.",
+      "author": "William James",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "James reception of Bergson",
+      "voice": "critical-interlocutor",
+      "year": "1909-james-reception"
+    },
+    {
+      "id": "henri-bergson--src-31b-russell-pending",
+      "workId": "A History of Western Philosophy",
+      "edition": "Simon and Schuster, 1945",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close edition-specific pages in Chapter XXVIII, “Bergson,” for the intellect/intuition critique.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "A History of Western Philosophy",
+      "stableUrl": "https://www.uni-hildesheim.de/media/koselleck/Geschichten_der_Philosophie/Englisch/20._Jahrhundert/1._Kontinente/1.3.0_Europaeisch_westliche/1947_Russel/1947_Russel__Bertrand_History_of_Western_Philosophy.pdf",
+      "boundaryZh": "Close edition-specific pages in Chapter XXVIII, “Bergson,” for the intellect/intuition critique.",
+      "author": "Bertrand Russell",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Russell criticism of Bergson",
+      "voice": "critical-interlocutor",
+      "year": "1945-russell-critique"
+    },
+    {
+      "id": "henri-bergson--src-32-deleuze-pending",
+      "workId": "Le bergsonisme",
+      "edition": "Presses Universitaires de France, 1966",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close first-edition pages for Chapters I, III, and V; chapter identities are known.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Le bergsonisme",
+      "stableUrl": "https://books.google.com/books/about/Le_bergsonisme.html?id=CcZLpVv3tIMC",
+      "boundaryZh": "Close first-edition pages for Chapters I, III, and V; chapter identities are known.",
+      "author": "Gilles Deleuze",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "Deleuze reconstruction of Bergsonism",
+      "voice": "later-interpreter",
+      "year": "1966-deleuze-reception"
+    }
+  ],
+  "routes": [
+    {
+      "id": "henri-bergson-duration-memory-creation",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "柏格森：绵延、记忆与创造中的行动",
+      "lessonIds": [
+        "henri-bergson--lesson-01",
+        "henri-bergson--lesson-02",
+        "henri-bergson--lesson-03",
+        "henri-bergson--lesson-04",
+        "henri-bergson--lesson-05",
+        "henri-bergson--lesson-06",
+        "henri-bergson--lesson-07",
+        "henri-bergson--lesson-08",
+        "henri-bergson--lesson-09",
+        "henri-bergson--lesson-10",
+        "henri-bergson--lesson-11",
+        "henri-bergson--lesson-12",
+        "henri-bergson--lesson-13",
+        "henri-bergson--lesson-14",
+        "henri-bergson--lesson-15",
+        "henri-bergson--lesson-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Henri Bergson",
+        "nameZh": "柏格森",
+        "sourceRouteId": "henri-bergson-single-route-v18-authoring"
+      },
+      "summary": "若时间不是已排好的点列，我们应如何理解自由、记忆、生命、科学与共同生活？"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "henri-bergson--lesson-01",
+      "order": 1,
+      "title": "强度不是隐藏的数字",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "强度不是隐藏的数字",
+      "coreExplanation": "意识状态的强度首先呈现为性质变化；把情感、努力或疼痛直接当作同质数量，会把原因、身体伴随物与体验本身混在一起。\n\n柏格森由此区分同质的数量多样性与彼此渗透的质性多样性；后一种多样性不能像排开的物体那样逐项计数。",
+      "sections": [
+        {
+          "heading": "强度不是隐藏的数字",
+          "paragraphs": [
+            "意识状态的强度首先呈现为性质变化；把情感、努力或疼痛直接当作同质数量，会把原因、身体伴随物与体验本身混在一起。",
+            "柏格森由此区分同质的数量多样性与彼此渗透的质性多样性；后一种多样性不能像排开的物体那样逐项计数。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-01-tfw-intensity",
+            "henri-bergson--src-02-tfw-multiplicity"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-01",
+        "henri-bergson--claim-02"
+      ],
+      "checkIds": [
+        "henri-bergson--check-01",
+        "henri-bergson--check-02",
+        "henri-bergson--check-03",
+        "henri-bergson--check-04"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-02",
+      "sourceIds": [
+        "henri-bergson--src-01-tfw-intensity",
+        "henri-bergson--src-02-tfw-multiplicity"
+      ],
+      "essentialQuestion": "强度不是隐藏的数字",
+      "initialFocusId": "henri-bergson--lesson-01-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-02",
+      "order": 2,
+      "title": "绵延与空间化时间",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "绵延与空间化时间",
+      "coreExplanation": "纯绵延不是一串相互外在的瞬间，而是先后状态相互保存、渗透并改变整体色调的连续进展。\n\n钟表测量与科学计算有其正当用途；错误发生在把空间中的并列模型直接当成意识绵延本身。",
+      "sections": [
+        {
+          "heading": "绵延与空间化时间",
+          "paragraphs": [
+            "纯绵延不是一串相互外在的瞬间，而是先后状态相互保存、渗透并改变整体色调的连续进展。",
+            "钟表测量与科学计算有其正当用途；错误发生在把空间中的并列模型直接当成意识绵延本身。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-03-tfw-duration",
+            "henri-bergson--src-04-tfw-space"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-03",
+        "henri-bergson--claim-04"
+      ],
+      "checkIds": [
+        "henri-bergson--check-05",
+        "henri-bergson--check-06",
+        "henri-bergson--check-07",
+        "henri-bergson--check-08"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-03",
+      "sourceIds": [
+        "henri-bergson--src-03-tfw-duration",
+        "henri-bergson--src-04-tfw-space"
+      ],
+      "essentialQuestion": "绵延与空间化时间",
+      "initialFocusId": "henri-bergson--lesson-02-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-03",
+      "order": 3,
+      "title": "自由行动如何形成",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "自由行动如何形成",
+      "coreExplanation": "自由行动来自正在绵延的整个人格，而不是一个与人格分离、在同质选项间任意跳动的无原因点。\n\n决定论者和反决定论者若把已经完成的过程画成分叉路线，就会把事后空间图倒投到尚在生成的行动上。",
+      "sections": [
+        {
+          "heading": "自由行动如何形成",
+          "paragraphs": [
+            "自由行动来自正在绵延的整个人格，而不是一个与人格分离、在同质选项间任意跳动的无原因点。",
+            "决定论者和反决定论者若把已经完成的过程画成分叉路线，就会把事后空间图倒投到尚在生成的行动上。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-05-tfw-freedom",
+            "henri-bergson--src-06-tfw-prediction"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-05",
+        "henri-bergson--claim-06"
+      ],
+      "checkIds": [
+        "henri-bergson--check-09",
+        "henri-bergson--check-10",
+        "henri-bergson--check-11",
+        "henri-bergson--check-12"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-04",
+      "sourceIds": [
+        "henri-bergson--src-05-tfw-freedom",
+        "henri-bergson--src-06-tfw-prediction"
+      ],
+      "essentialQuestion": "自由行动如何形成",
+      "initialFocusId": "henri-bergson--lesson-03-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-04",
+      "order": 4,
+      "title": "物质、图像与身体",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "物质、图像与身体",
+      "coreExplanation": "《物质与记忆》从“图像”的中间语汇出发：世界既不先被缩成心内表象，也不先被设为与经验毫无关系的不可知物。\n\n我的身体是图像之一，却因能接收刺激并延迟、选择反应而成为行动的中心，不是制造整个世界表象的仓库。",
+      "sections": [
+        {
+          "heading": "物质、图像与身体",
+          "paragraphs": [
+            "《物质与记忆》从“图像”的中间语汇出发：世界既不先被缩成心内表象，也不先被设为与经验毫无关系的不可知物。",
+            "我的身体是图像之一，却因能接收刺激并延迟、选择反应而成为行动的中心，不是制造整个世界表象的仓库。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-07-mm-images",
+            "henri-bergson--src-08-mm-body"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-07",
+        "henri-bergson--claim-08"
+      ],
+      "checkIds": [
+        "henri-bergson--check-13",
+        "henri-bergson--check-14",
+        "henri-bergson--check-15",
+        "henri-bergson--check-16"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-05",
+      "sourceIds": [
+        "henri-bergson--src-07-mm-images",
+        "henri-bergson--src-08-mm-body"
+      ],
+      "essentialQuestion": "物质、图像与身体",
+      "initialFocusId": "henri-bergson--lesson-04-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-05",
+      "order": 5,
+      "title": "知觉、选择与情感",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "知觉、选择与情感",
+      "coreExplanation": "纯知觉是一个极限构造：它从图像总体中切取与身体可能行动有关的面向；具体知觉还总被记忆渗入。\n\n情感发生在身体所受刺激不再只是向外反射、而涉及身体自身时；它标示知觉与行动回路中的身体厚度。",
+      "sections": [
+        {
+          "heading": "知觉、选择与情感",
+          "paragraphs": [
+            "纯知觉是一个极限构造：它从图像总体中切取与身体可能行动有关的面向；具体知觉还总被记忆渗入。",
+            "情感发生在身体所受刺激不再只是向外反射、而涉及身体自身时；它标示知觉与行动回路中的身体厚度。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-09-mm-perception",
+            "henri-bergson--src-10-mm-affection"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-09",
+        "henri-bergson--claim-10"
+      ],
+      "checkIds": [
+        "henri-bergson--check-17",
+        "henri-bergson--check-18",
+        "henri-bergson--check-19",
+        "henri-bergson--check-20"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-06",
+      "sourceIds": [
+        "henri-bergson--src-09-mm-perception",
+        "henri-bergson--src-10-mm-affection"
+      ],
+      "essentialQuestion": "知觉、选择与情感",
+      "initialFocusId": "henri-bergson--lesson-05-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-06",
+      "order": 6,
+      "title": "两种记忆与过去的生存",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "两种记忆与过去的生存",
+      "coreExplanation": "反复背诵形成的习惯记忆落实为动作机制，而独特事件的回忆保留日期和情境；两者功能不同，不能都叫作脑中同类痕迹。\n\n柏格森主张过去本身保存，并在当前行动需要下以回忆图像方式现实化；这不是说每段过去都持续以清晰现前表象出现。",
+      "sections": [
+        {
+          "heading": "两种记忆与过去的生存",
+          "paragraphs": [
+            "反复背诵形成的习惯记忆落实为动作机制，而独特事件的回忆保留日期和情境；两者功能不同，不能都叫作脑中同类痕迹。",
+            "柏格森主张过去本身保存，并在当前行动需要下以回忆图像方式现实化；这不是说每段过去都持续以清晰现前表象出现。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-11-mm-two-memories",
+            "henri-bergson--src-12-mm-past"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-11",
+        "henri-bergson--claim-12"
+      ],
+      "checkIds": [
+        "henri-bergson--check-21",
+        "henri-bergson--check-22",
+        "henri-bergson--check-23",
+        "henri-bergson--check-24"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-07",
+      "sourceIds": [
+        "henri-bergson--src-11-mm-two-memories",
+        "henri-bergson--src-12-mm-past"
+      ],
+      "essentialQuestion": "两种记忆与过去的生存",
+      "initialFocusId": "henri-bergson--lesson-06-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-07",
+      "order": 7,
+      "title": "大脑不是记忆仓库",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "大脑不是记忆仓库",
+      "coreExplanation": "脑损伤可破坏回忆的调用、选择或运动表达，而不必据此推出所有过去内容都作为静态副本储存在脑组织中。\n\n心身关系被描述为不同张力或行动层次的协调：身体把精神生活导向当前行动，而不是以机械生产取代记忆的生存。",
+      "sections": [
+        {
+          "heading": "大脑不是记忆仓库",
+          "paragraphs": [
+            "脑损伤可破坏回忆的调用、选择或运动表达，而不必据此推出所有过去内容都作为静态副本储存在脑组织中。",
+            "心身关系被描述为不同张力或行动层次的协调：身体把精神生活导向当前行动，而不是以机械生产取代记忆的生存。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-13-mm-brain",
+            "henri-bergson--src-14-mm-mind-body"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-13",
+        "henri-bergson--claim-14"
+      ],
+      "checkIds": [
+        "henri-bergson--check-25",
+        "henri-bergson--check-26",
+        "henri-bergson--check-27",
+        "henri-bergson--check-28"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-08",
+      "sourceIds": [
+        "henri-bergson--src-13-mm-brain",
+        "henri-bergson--src-14-mm-mind-body"
+      ],
+      "essentialQuestion": "大脑不是记忆仓库",
+      "initialFocusId": "henri-bergson--lesson-07-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-08",
+      "order": 8,
+      "title": "直觉与分析的分工",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "直觉与分析的分工",
+      "coreExplanation": "直觉意味着进入对象独特的运动，从内部把握其不可替代性；它不是未经训练的猜测，也不是反证据的灵感。\n\n分析以概念和符号从外部呈现对象，尤其适合行动与科学；形而上学的任务不是摧毁分析，而是防止符号替代流动实在。",
+      "sections": [
+        {
+          "heading": "直觉与分析的分工",
+          "paragraphs": [
+            "直觉意味着进入对象独特的运动，从内部把握其不可替代性；它不是未经训练的猜测，也不是反证据的灵感。",
+            "分析以概念和符号从外部呈现对象，尤其适合行动与科学；形而上学的任务不是摧毁分析，而是防止符号替代流动实在。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-15-intro-intuition",
+            "henri-bergson--src-16-intro-analysis"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-15",
+        "henri-bergson--claim-16"
+      ],
+      "checkIds": [
+        "henri-bergson--check-29",
+        "henri-bergson--check-30",
+        "henri-bergson--check-31",
+        "henri-bergson--check-32"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-09",
+      "sourceIds": [
+        "henri-bergson--src-15-intro-intuition",
+        "henri-bergson--src-16-intro-analysis"
+      ],
+      "essentialQuestion": "直觉与分析的分工",
+      "initialFocusId": "henri-bergson--lesson-08-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-09",
+      "order": 9,
+      "title": "创造进化：超出机械论和目的论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "创造进化：超出机械论和目的论",
+      "coreExplanation": "机械论用既成要素解释一切，彻底目的论则让未来蓝图预先支配过程；柏格森认为两者都削弱了时间中的真正生成。\n\n生命史包含不可预见的新形式；“创造”不是无条件奇迹，而是说结果不能被完整压缩为先前可能性的展开。",
+      "sections": [
+        {
+          "heading": "创造进化：超出机械论和目的论",
+          "paragraphs": [
+            "机械论用既成要素解释一切，彻底目的论则让未来蓝图预先支配过程；柏格森认为两者都削弱了时间中的真正生成。",
+            "生命史包含不可预见的新形式；“创造”不是无条件奇迹，而是说结果不能被完整压缩为先前可能性的展开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-17-ce-mechanism",
+            "henri-bergson--src-18-ce-creation"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-17",
+        "henri-bergson--claim-18"
+      ],
+      "checkIds": [
+        "henri-bergson--check-33",
+        "henri-bergson--check-34",
+        "henri-bergson--check-35",
+        "henri-bergson--check-36"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-10",
+      "sourceIds": [
+        "henri-bergson--src-17-ce-mechanism",
+        "henri-bergson--src-18-ce-creation"
+      ],
+      "essentialQuestion": "创造进化：超出机械论和目的论",
+      "initialFocusId": "henri-bergson--lesson-09-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-10",
+      "order": 10,
+      "title": "生命冲力与分化",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "生命冲力与分化",
+      "coreExplanation": "生命冲力是描述生命运动在物质阻力中持续分化的概念，不是一个能替代具体生物学机制的可测神秘物质。\n\n演化不是沿单一阶梯走向人类，而在迟钝、植物性、直觉与智性等倾向上分叉；每条现实路线都带有损失与专门化。",
+      "sections": [
+        {
+          "heading": "生命冲力与分化",
+          "paragraphs": [
+            "生命冲力是描述生命运动在物质阻力中持续分化的概念，不是一个能替代具体生物学机制的可测神秘物质。",
+            "演化不是沿单一阶梯走向人类，而在迟钝、植物性、直觉与智性等倾向上分叉；每条现实路线都带有损失与专门化。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-19-ce-elan",
+            "henri-bergson--src-20-ce-divergence"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-19",
+        "henri-bergson--claim-20"
+      ],
+      "checkIds": [
+        "henri-bergson--check-37",
+        "henri-bergson--check-38",
+        "henri-bergson--check-39",
+        "henri-bergson--check-40"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-11",
+      "sourceIds": [
+        "henri-bergson--src-19-ce-elan",
+        "henri-bergson--src-20-ce-divergence"
+      ],
+      "essentialQuestion": "生命冲力与分化",
+      "initialFocusId": "henri-bergson--lesson-10-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-11",
+      "order": 11,
+      "title": "智性、直觉与科学",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "智性、直觉与科学",
+      "coreExplanation": "智性在处理固体、工具、可重复关系和空间结构时特别强；这种进化形成的方向解释其效力，也说明其面对生成时的偏向。\n\n柏格森并不否定科学事实；他区分科学对可测关系的正当把握与把“电影式”静态切片当作全部实在的形而上学扩张。",
+      "sections": [
+        {
+          "heading": "智性、直觉与科学",
+          "paragraphs": [
+            "智性在处理固体、工具、可重复关系和空间结构时特别强；这种进化形成的方向解释其效力，也说明其面对生成时的偏向。",
+            "柏格森并不否定科学事实；他区分科学对可测关系的正当把握与把“电影式”静态切片当作全部实在的形而上学扩张。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-21-ce-intelligence",
+            "henri-bergson--src-22-ce-science"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-21",
+        "henri-bergson--claim-22"
+      ],
+      "checkIds": [
+        "henri-bergson--check-41",
+        "henri-bergson--check-42",
+        "henri-bergson--check-43",
+        "henri-bergson--check-44"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-12",
+      "sourceIds": [
+        "henri-bergson--src-21-ce-intelligence",
+        "henri-bergson--src-22-ce-science"
+      ],
+      "essentialQuestion": "智性、直觉与科学",
+      "initialFocusId": "henri-bergson--lesson-11-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-12",
+      "order": 12,
+      "title": "笑：生命中的机械僵硬",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "笑：生命中的机械僵硬",
+      "coreExplanation": "滑稽常在有生命者身上显出机械般的僵硬、重复或自动性；笑又具有社会纠偏功能，群体借笑惩戒不灵活行为。后一点暴露理论的规范压力，不能把“纠偏”自动等同于道德正当。",
+      "sections": [
+        {
+          "heading": "笑：生命中的机械僵硬",
+          "paragraphs": [
+            "滑稽常在有生命者身上显出机械般的僵硬、重复或自动性；笑又具有社会纠偏功能，群体借笑惩戒不灵活行为。后一点暴露理论的规范压力，不能把“纠偏”自动等同于道德正当。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "checkIds": [
+        "henri-bergson--check-45",
+        "henri-bergson--check-46",
+        "henri-bergson--check-47",
+        "henri-bergson--check-48"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-13",
+      "sourceIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "essentialQuestion": "笑：生命中的机械僵硬",
+      "initialFocusId": "henri-bergson--lesson-12-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-13",
+      "order": 13,
+      "title": "道德与宗教的两种来源",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "道德与宗教的两种来源",
+      "coreExplanation": "封闭道德依靠习惯、压力与群体保存，开放道德由典范人物和创造激情发出召唤；相应地，静态宗教以神话功能抵消智性带来的瓦解风险，动态宗教联系于神秘经验和创造行动。两组区分都不能简化成强弱或真假标签。",
+      "sections": [
+        {
+          "heading": "道德与宗教的两种来源",
+          "paragraphs": [
+            "封闭道德依靠习惯、压力与群体保存，开放道德由典范人物和创造激情发出召唤；相应地，静态宗教以神话功能抵消智性带来的瓦解风险，动态宗教联系于神秘经验和创造行动。两组区分都不能简化成强弱或真假标签。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "checkIds": [
+        "henri-bergson--check-49",
+        "henri-bergson--check-50",
+        "henri-bergson--check-51",
+        "henri-bergson--check-52"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-14",
+      "sourceIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "essentialQuestion": "道德与宗教的两种来源",
+      "initialFocusId": "henri-bergson--lesson-13-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-14",
+      "order": 14,
+      "title": "战争与政治语境",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "战争与政治语境",
+      "coreExplanation": "1914 年战时演说把法国与德国冲突塑造成生命与机械物质的道德对抗，并使用强烈民族化修辞；路线保留其动员语境，不以晚年开放道德替它消毒。\n\n1932 年战争分析把封闭社会、敌我结构、工业技术与灭绝危险联系起来，并把开放召唤置于超越部落封闭的方向；它与 1914 演说构成需要解释的张力。",
+      "sections": [
+        {
+          "heading": "战争与政治语境",
+          "paragraphs": [
+            "1914 年战时演说把法国与德国冲突塑造成生命与机械物质的道德对抗，并使用强烈民族化修辞；路线保留其动员语境，不以晚年开放道德替它消毒。",
+            "1932 年战争分析把封闭社会、敌我结构、工业技术与灭绝危险联系起来，并把开放召唤置于超越部落封闭的方向；它与 1914 演说构成需要解释的张力。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-27-war-address",
+            "henri-bergson--src-28-two-war"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-25",
+        "henri-bergson--claim-26"
+      ],
+      "checkIds": [
+        "henri-bergson--check-53",
+        "henri-bergson--check-54",
+        "henri-bergson--check-55",
+        "henri-bergson--check-56"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-15",
+      "sourceIds": [
+        "henri-bergson--src-27-war-address",
+        "henri-bergson--src-28-two-war"
+      ],
+      "essentialQuestion": "战争与政治语境",
+      "initialFocusId": "henri-bergson--lesson-14-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-15",
+      "order": 15,
+      "title": "相对论争论：科学结论与哲学时间",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "相对论争论：科学结论与哲学时间",
+      "coreExplanation": "爱因斯坦在 1922 年会议中维护物理学操作定义和测量时间的权限；此处只记录他的发言对象，不将其改写成柏格森的哲学主张。\n\n柏格森在同一会议追问测量时间与经验绵延的关系；此处只记录他的回应，不将其冒充爱因斯坦对相对论的技术定义。\n\n路线比较认为双方发言对象并不完全相同，因此不把会议压成一句谁“证明”了谁；这一判断同时依赖分别待闭合的双方发言。\n\n《绵延与同时性》试图从哲学上解释相对论并保存单一可经验时间。课程把这一伯格森主张与相对论的物理结论分开，不在缺少批评者来源时断言其接受史。",
+      "sections": [
+        {
+          "heading": "相对论争论：科学结论与哲学时间",
+          "paragraphs": [
+            "爱因斯坦在 1922 年会议中维护物理学操作定义和测量时间的权限；此处只记录他的发言对象，不将其改写成柏格森的哲学主张。",
+            "柏格森在同一会议追问测量时间与经验绵延的关系；此处只记录他的回应，不将其冒充爱因斯坦对相对论的技术定义。",
+            "路线比较认为双方发言对象并不完全相同，因此不把会议压成一句谁“证明”了谁；这一判断同时依赖分别待闭合的双方发言。",
+            "《绵延与同时性》试图从哲学上解释相对论并保存单一可经验时间。课程把这一伯格森主张与相对论的物理结论分开，不在缺少批评者来源时断言其接受史。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-einstein-pending",
+            "henri-bergson--src-29-bergson-pending",
+            "henri-bergson--src-29-route-einstein-pending",
+            "henri-bergson--src-29-route-bergson-pending",
+            "henri-bergson--src-30-duration-simultaneity"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-29-einstein",
+        "henri-bergson--claim-29-bergson",
+        "henri-bergson--claim-29-route",
+        "henri-bergson--claim-30"
+      ],
+      "checkIds": [
+        "henri-bergson--check-57",
+        "henri-bergson--check-58",
+        "henri-bergson--check-59",
+        "henri-bergson--check-60"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "henri-bergson--lesson-16",
+      "sourceIds": [
+        "henri-bergson--src-29-einstein-pending",
+        "henri-bergson--src-29-bergson-pending",
+        "henri-bergson--src-29-route-einstein-pending",
+        "henri-bergson--src-29-route-bergson-pending",
+        "henri-bergson--src-30-duration-simultaneity"
+      ],
+      "essentialQuestion": "相对论争论：科学结论与哲学时间",
+      "initialFocusId": "henri-bergson--lesson-15-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "henri-bergson--lesson-16",
+      "order": 16,
+      "title": "接受与批评：James、Russell、Deleuze",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "接受与批评：James、Russell、Deleuze",
+      "coreExplanation": "William James 把柏格森视为反智性主义与多元论的重要盟友；Bertrand Russell 则批评其直觉方法与反智性主义。两种评价属于各自哲学立场，不能冒充柏格森自述。\n\nDeleuze 在《柏格森主义》中以方法、绵延、记忆和生命冲力重构一条概念进程，尤其强调虚拟性与分化；这是有创造性的后继解释，不是 1889 或 1896 年文本的隐藏原句。",
+      "sections": [
+        {
+          "heading": "接受与批评：James、Russell、Deleuze",
+          "paragraphs": [
+            "William James 把柏格森视为反智性主义与多元论的重要盟友；Bertrand Russell 则批评其直觉方法与反智性主义。两种评价属于各自哲学立场，不能冒充柏格森自述。",
+            "Deleuze 在《柏格森主义》中以方法、绵延、记忆和生命冲力重构一条概念进程，尤其强调虚拟性与分化；这是有创造性的后继解释，不是 1889 或 1896 年文本的隐藏原句。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "henri-bergson--src-31a-james",
+            "henri-bergson--src-31b-russell-pending",
+            "henri-bergson--src-32-deleuze-pending"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "henri-bergson--claim-31",
+        "henri-bergson--claim-32"
+      ],
+      "checkIds": [
+        "henri-bergson--check-61",
+        "henri-bergson--check-62",
+        "henri-bergson--check-63",
+        "henri-bergson--check-64"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "henri-bergson--src-31a-james",
+        "henri-bergson--src-31b-russell-pending",
+        "henri-bergson--src-32-deleuze-pending"
+      ],
+      "essentialQuestion": "接受与批评：James、Russell、Deleuze",
+      "initialFocusId": "henri-bergson--lesson-16-title",
+      "routeId": "henri-bergson-duration-memory-creation",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "henri-bergson--check-01",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“qualitative intensity”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-01-1",
+          "text": "强度首先呈现为性质变化",
+          "feedback": "正确：“强度首先呈现为性质变化”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-01-tfw-intensity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-01"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-01-2",
+          "text": "强度只是空间长度",
+          "feedback": "错误：“强度只是空间长度”与当前 claim 冲突；应选择“强度首先呈现为性质变化”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-01-tfw-intensity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-01"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-01-1",
+      "misconceptionId": "henri-bergson--check-01-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-01-tfw-intensity"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-01"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-01",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-02",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“qualitative intensity”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-02-1",
+          "text": "所有感受天然同质",
+          "feedback": "错误：“所有感受天然同质”与当前 claim 冲突；应选择“须区分体验与其可测伴随物”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-01-tfw-intensity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-01"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-02-2",
+          "text": "须区分体验与其可测伴随物",
+          "feedback": "正确：“须区分体验与其可测伴随物”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-01-tfw-intensity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-01"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-02-2",
+      "misconceptionId": "henri-bergson--check-02-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-01-tfw-intensity"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-01"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-01"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-01",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-03",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“qualitative multiplicity”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-03-1",
+          "text": "质性多样性允许状态相互渗透",
+          "feedback": "正确：“质性多样性允许状态相互渗透”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-02-tfw-multiplicity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-02"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-03-2",
+          "text": "质性多样性等于一排物体",
+          "feedback": "错误：“质性多样性等于一排物体”与当前 claim 冲突；应选择“质性多样性允许状态相互渗透”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-02-tfw-multiplicity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-02"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-03-1",
+      "misconceptionId": "henri-bergson--check-03-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-02-tfw-multiplicity"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-02"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-01",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-04",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“qualitative multiplicity”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-04-1",
+          "text": "它只需增加计数精度",
+          "feedback": "错误：“它只需增加计数精度”与当前 claim 冲突；应选择“它不能无损拆成外在单位”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-02-tfw-multiplicity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-02"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-04-2",
+          "text": "它不能无损拆成外在单位",
+          "feedback": "正确：“它不能无损拆成外在单位”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-02-tfw-multiplicity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-02"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-04-2",
+      "misconceptionId": "henri-bergson--check-04-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-02-tfw-multiplicity"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-02"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-02"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-01",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-05",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“duration as interpenetration”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-05-1",
+          "text": "绵延中的状态相互保存和渗透",
+          "feedback": "正确：“绵延中的状态相互保存和渗透”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-03-tfw-duration"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-03"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-05-2",
+          "text": "绵延是互不接触的点列",
+          "feedback": "错误：“绵延是互不接触的点列”与当前 claim 冲突；应选择“绵延中的状态相互保存和渗透”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-03-tfw-duration"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-03"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-05-1",
+      "misconceptionId": "henri-bergson--check-05-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-03-tfw-duration"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-03"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-02",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-06",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“duration as interpenetration”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-06-1",
+          "text": "每个瞬间完全自足",
+          "feedback": "错误：“每个瞬间完全自足”与当前 claim 冲突；应选择“连续进展会改变整体”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-03-tfw-duration"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-03"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-06-2",
+          "text": "连续进展会改变整体",
+          "feedback": "正确：“连续进展会改变整体”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-03-tfw-duration"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-03"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-06-2",
+      "misconceptionId": "henri-bergson--check-06-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-03-tfw-duration"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-03"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-03"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-02",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-07",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“spatialization of time”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-07-1",
+          "text": "问题是模型被移植到意识本身",
+          "feedback": "正确：“问题是模型被移植到意识本身”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-04-tfw-space"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-04"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-07-2",
+          "text": "一切钟表测量都无效",
+          "feedback": "错误：“一切钟表测量都无效”与当前 claim 冲突；应选择“问题是模型被移植到意识本身”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-04-tfw-space"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-04"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-07-1",
+      "misconceptionId": "henri-bergson--check-07-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-04-tfw-space"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-04"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-02",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-08",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“spatialization of time”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-08-1",
+          "text": "他要求物理学停止计时",
+          "feedback": "错误：“他要求物理学停止计时”与当前 claim 冲突；应选择“柏格森批评的是范畴误置”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-04-tfw-space"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-04"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-08-2",
+          "text": "柏格森批评的是范畴误置",
+          "feedback": "正确：“柏格森批评的是范畴误置”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-04-tfw-space"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-04"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-08-2",
+      "misconceptionId": "henri-bergson--check-08-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-04-tfw-space"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-04"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-04"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-02",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-09",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“free action and whole personality”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-09-1",
+          "text": "自由行动表达整个人格",
+          "feedback": "正确：“自由行动表达整个人格”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-05-tfw-freedom"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-05"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-09-2",
+          "text": "自由等于无缘无故的随机",
+          "feedback": "错误：“自由等于无缘无故的随机”与当前 claim 冲突；应选择“自由行动表达整个人格”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-05-tfw-freedom"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-05"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-09-1",
+      "misconceptionId": "henri-bergson--check-09-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-05-tfw-freedom"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-05"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-03",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-10",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“free action and whole personality”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-10-1",
+          "text": "行动与过去人格无关",
+          "feedback": "错误：“行动与过去人格无关”与当前 claim 冲突；应选择“人格在行动中成熟”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-05-tfw-freedom"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-05"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-10-2",
+          "text": "人格在行动中成熟",
+          "feedback": "正确：“人格在行动中成熟”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-05-tfw-freedom"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-05"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-10-2",
+      "misconceptionId": "henri-bergson--check-10-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-05-tfw-freedom"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-05"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-05"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-03",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-11",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“retrospective reconstruction of choice”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-11-1",
+          "text": "分叉图可能是事后倒投",
+          "feedback": "正确：“分叉图可能是事后倒投”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-06-tfw-prediction"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-06"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-11-2",
+          "text": "分叉图逐字记录生成过程",
+          "feedback": "错误：“分叉图逐字记录生成过程”与当前 claim 冲突；应选择“分叉图可能是事后倒投”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-06-tfw-prediction"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-06"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-11-1",
+      "misconceptionId": "henri-bergson--check-11-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-06-tfw-prediction"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-06"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-03",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-12",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“retrospective reconstruction of choice”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-12-1",
+          "text": "柏格森只是在增加第三条路线",
+          "feedback": "错误：“柏格森只是在增加第三条路线”与当前 claim 冲突；应选择“争论共享了空间化假设”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-06-tfw-prediction"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-06"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-12-2",
+          "text": "争论共享了空间化假设",
+          "feedback": "正确：“争论共享了空间化假设”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-06-tfw-prediction"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-06"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-12-2",
+      "misconceptionId": "henri-bergson--check-12-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-06-tfw-prediction"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-06"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-06"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-03",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-13",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“world of images”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-13-1",
+          "text": "图像语汇避开两种预设极端",
+          "feedback": "正确：“图像语汇避开两种预设极端”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-07-mm-images"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-07"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-13-2",
+          "text": "图像只指私人幻觉",
+          "feedback": "错误：“图像只指私人幻觉”与当前 claim 冲突；应选择“图像语汇避开两种预设极端”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-07-mm-images"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-07"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-13-1",
+      "misconceptionId": "henri-bergson--check-13-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-07-mm-images"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-07"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-04",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-14",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“world of images”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-14-1",
+          "text": "起点是否认外部世界",
+          "feedback": "错误：“起点是否认外部世界”与当前 claim 冲突；应选择“起点是经验中的图像总体”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-07-mm-images"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-07"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-14-2",
+          "text": "起点是经验中的图像总体",
+          "feedback": "正确：“起点是经验中的图像总体”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-07-mm-images"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-07"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-14-2",
+      "misconceptionId": "henri-bergson--check-14-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-07-mm-images"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-07"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-07"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-04",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-15",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“body as centre of action”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-15-1",
+          "text": "身体组织和选择可能行动",
+          "feedback": "正确：“身体组织和选择可能行动”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-08-mm-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-08"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-15-2",
+          "text": "身体储存宇宙的复制品",
+          "feedback": "错误：“身体储存宇宙的复制品”与当前 claim 冲突；应选择“身体组织和选择可能行动”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-08-mm-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-08"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-15-1",
+      "misconceptionId": "henri-bergson--check-15-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-08-mm-body"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-08"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-04",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-16",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“body as centre of action”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-16-1",
+          "text": "中心地位证明唯我论",
+          "feedback": "错误：“中心地位证明唯我论”与当前 claim 冲突；应选择“中心地位是实践性的”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-08-mm-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-08"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-16-2",
+          "text": "中心地位是实践性的",
+          "feedback": "正确：“中心地位是实践性的”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-08-mm-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-08"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-16-2",
+      "misconceptionId": "henri-bergson--check-16-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-08-mm-body"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-08"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-08"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-04",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-17",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“pure perception and selection”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-17-1",
+          "text": "纯知觉按可能行动选择",
+          "feedback": "正确：“纯知觉按可能行动选择”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-09-mm-perception"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-09"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-17-2",
+          "text": "纯知觉创造外界存在",
+          "feedback": "错误：“纯知觉创造外界存在”与当前 claim 冲突；应选择“纯知觉按可能行动选择”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-09-mm-perception"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-09"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-17-1",
+      "misconceptionId": "henri-bergson--check-17-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-09-mm-perception"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-09"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-05",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-18",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“pure perception and selection”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-18-1",
+          "text": "具体知觉完全没有过去",
+          "feedback": "错误：“具体知觉完全没有过去”与当前 claim 冲突；应选择“具体知觉混入记忆”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-09-mm-perception"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-09"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-18-2",
+          "text": "具体知觉混入记忆",
+          "feedback": "正确：“具体知觉混入记忆”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-09-mm-perception"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-09"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-18-2",
+      "misconceptionId": "henri-bergson--check-18-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-09-mm-perception"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-09"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-09"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-05",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-19",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“affection and the body”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-19-1",
+          "text": "情感涉及身体自身受影响",
+          "feedback": "正确：“情感涉及身体自身受影响”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-10-mm-affection"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-10"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-19-2",
+          "text": "情感等于无身体的抽象判断",
+          "feedback": "错误：“情感等于无身体的抽象判断”与当前 claim 冲突；应选择“情感涉及身体自身受影响”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-10-mm-affection"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-10"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-19-1",
+      "misconceptionId": "henri-bergson--check-19-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-10-mm-affection"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-10"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-05",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-20",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“affection and the body”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-20-1",
+          "text": "它证明身体只是观念",
+          "feedback": "错误：“它证明身体只是观念”与当前 claim 冲突；应选择“它位于知觉与行动关系中”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-10-mm-affection"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-10"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-20-2",
+          "text": "它位于知觉与行动关系中",
+          "feedback": "正确：“它位于知觉与行动关系中”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-10-mm-affection"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-10"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-20-2",
+      "misconceptionId": "henri-bergson--check-20-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-10-mm-affection"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-10"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-10"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-05",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-21",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“habit memory and recollection”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-21-1",
+          "text": "习惯与回忆有功能差异",
+          "feedback": "正确：“习惯与回忆有功能差异”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-11-mm-two-memories"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-11"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-21-2",
+          "text": "两者都是同一种动作",
+          "feedback": "错误：“两者都是同一种动作”与当前 claim 冲突；应选择“习惯与回忆有功能差异”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-11-mm-two-memories"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-11"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-21-1",
+      "misconceptionId": "henri-bergson--check-21-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-11-mm-two-memories"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-11"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-06",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-22",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“habit memory and recollection”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-22-1",
+          "text": "习惯记忆必有唯一日期",
+          "feedback": "错误：“习惯记忆必有唯一日期”与当前 claim 冲突；应选择“事件回忆保留独特情境”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-11-mm-two-memories"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-11"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-22-2",
+          "text": "事件回忆保留独特情境",
+          "feedback": "正确：“事件回忆保留独特情境”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-11-mm-two-memories"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-11"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-22-2",
+      "misconceptionId": "henri-bergson--check-22-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-11-mm-two-memories"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-11"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-11"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-06",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-23",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“survival of the past”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-23-1",
+          "text": "过去保存但不总清晰现前",
+          "feedback": "正确：“过去保存但不总清晰现前”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-12-mm-past"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-12"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-23-2",
+          "text": "过去只在被想起时才存在",
+          "feedback": "错误：“过去只在被想起时才存在”与当前 claim 冲突；应选择“过去保存但不总清晰现前”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-12-mm-past"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-12"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-23-1",
+      "misconceptionId": "henri-bergson--check-23-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-12-mm-past"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-12"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-06",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-24",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“survival of the past”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-24-1",
+          "text": "所有过去始终像当前知觉",
+          "feedback": "错误：“所有过去始终像当前知觉”与当前 claim 冲突；应选择“回忆图像是现实化方式”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-12-mm-past"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-12"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-24-2",
+          "text": "回忆图像是现实化方式",
+          "feedback": "正确：“回忆图像是现实化方式”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-12-mm-past"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-12"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-24-2",
+      "misconceptionId": "henri-bergson--check-24-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-12-mm-past"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-12"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-12"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-06",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-25",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“brain as action mechanism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-25-1",
+          "text": "损伤可破坏调用与表达",
+          "feedback": "正确：“损伤可破坏调用与表达”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-13-mm-brain"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-13"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-25-2",
+          "text": "损伤直接证明静态副本理论",
+          "feedback": "错误：“损伤直接证明静态副本理论”与当前 claim 冲突；应选择“损伤可破坏调用与表达”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-13-mm-brain"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-13"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-25-1",
+      "misconceptionId": "henri-bergson--check-25-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-13-mm-brain"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-13"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-07",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-26",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“brain as action mechanism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-26-1",
+          "text": "论证否认脑损伤事实",
+          "feedback": "错误：“论证否认脑损伤事实”与当前 claim 冲突；应选择“论证区分保存与运用”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-13-mm-brain"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-13"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-26-2",
+          "text": "论证区分保存与运用",
+          "feedback": "正确：“论证区分保存与运用”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-13-mm-brain"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-13"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-26-2",
+      "misconceptionId": "henri-bergson--check-26-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-13-mm-brain"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-13"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-13"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-07",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-27",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mind-body relation by degree of tension”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-27-1",
+          "text": "身体把精神导向当前行动",
+          "feedback": "正确：“身体把精神导向当前行动”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-14-mm-mind-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-14"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-27-2",
+          "text": "身体凭空制造全部过去",
+          "feedback": "错误：“身体凭空制造全部过去”与当前 claim 冲突；应选择“身体把精神导向当前行动”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-14-mm-mind-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-14"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-27-1",
+      "misconceptionId": "henri-bergson--check-27-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-14-mm-mind-body"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-14"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-07",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-28",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mind-body relation by degree of tension”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-28-1",
+          "text": "关系等于两个绝不接触实体",
+          "feedback": "错误：“关系等于两个绝不接触实体”与当前 claim 冲突；应选择“关系不是简单平行或还原”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-14-mm-mind-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-14"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-28-2",
+          "text": "关系不是简单平行或还原",
+          "feedback": "正确：“关系不是简单平行或还原”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-14-mm-mind-body"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-14"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-28-2",
+      "misconceptionId": "henri-bergson--check-28-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-14-mm-mind-body"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-14"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-14"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-07",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-29",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“intuition and entering into an object”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-29-1",
+          "text": "直觉要求进入对象的独特运动",
+          "feedback": "正确：“直觉要求进入对象的独特运动”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-15-intro-intuition"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-15"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-29-2",
+          "text": "直觉只是随意猜测",
+          "feedback": "错误：“直觉只是随意猜测”与当前 claim 冲突；应选择“直觉要求进入对象的独特运动”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-15-intro-intuition"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-15"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-29-1",
+      "misconceptionId": "henri-bergson--check-29-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-15-intro-intuition"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-15"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-08",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-30",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“intuition and entering into an object”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-30-1",
+          "text": "它拒绝一切训练和证据",
+          "feedback": "错误：“它拒绝一切训练和证据”与当前 claim 冲突；应选择“它需要方法性努力”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-15-intro-intuition"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-15"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-30-2",
+          "text": "它需要方法性努力",
+          "feedback": "正确：“它需要方法性努力”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-15-intro-intuition"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-15"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-30-2",
+      "misconceptionId": "henri-bergson--check-30-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-15-intro-intuition"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-15"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-15"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-08",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-31",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“analysis as symbolic and useful”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-31-1",
+          "text": "分析有实践与科学用途",
+          "feedback": "正确：“分析有实践与科学用途”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-16-intro-analysis"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-16"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-31-2",
+          "text": "分析在任何领域都毫无价值",
+          "feedback": "错误：“分析在任何领域都毫无价值”与当前 claim 冲突；应选择“分析有实践与科学用途”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-16-intro-analysis"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-16"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-31-1",
+      "misconceptionId": "henri-bergson--check-31-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-16-intro-analysis"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-16"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-08",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-32",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“analysis as symbolic and useful”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-32-1",
+          "text": "问题是概念存在本身",
+          "feedback": "错误：“问题是概念存在本身”与当前 claim 冲突；应选择“问题是符号冒充全部实在”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-16-intro-analysis"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-16"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-32-2",
+          "text": "问题是符号冒充全部实在",
+          "feedback": "正确：“问题是符号冒充全部实在”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-16-intro-analysis"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-16"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-32-2",
+      "misconceptionId": "henri-bergson--check-32-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-16-intro-analysis"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-16"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-16"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-08",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-33",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“critique of mechanism and finalism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-33-1",
+          "text": "两者都可能抹平真正生成",
+          "feedback": "正确：“两者都可能抹平真正生成”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-17-ce-mechanism"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-17"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-33-2",
+          "text": "柏格森只反对机械论",
+          "feedback": "错误：“柏格森只反对机械论”与当前 claim 冲突；应选择“两者都可能抹平真正生成”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-17-ce-mechanism"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-17"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-33-1",
+      "misconceptionId": "henri-bergson--check-33-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-17-ce-mechanism"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-17"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-09",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-34",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“critique of mechanism and finalism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-34-1",
+          "text": "目的论必然等于创造",
+          "feedback": "错误：“目的论必然等于创造”与当前 claim 冲突；应选择“目的论也会预定结果”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-17-ce-mechanism"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-17"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-34-2",
+          "text": "目的论也会预定结果",
+          "feedback": "正确：“目的论也会预定结果”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-17-ce-mechanism"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-17"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-34-2",
+      "misconceptionId": "henri-bergson--check-34-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-17-ce-mechanism"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-17"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-17"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-09",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-35",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“unforeseeable creation”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-35-1",
+          "text": "新形式不只是既定可能的展开",
+          "feedback": "正确：“新形式不只是既定可能的展开”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-18-ce-creation"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-18"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-35-2",
+          "text": "创造意味着拒绝因果研究",
+          "feedback": "错误：“创造意味着拒绝因果研究”与当前 claim 冲突；应选择“新形式不只是既定可能的展开”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-18-ce-creation"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-18"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-35-1",
+      "misconceptionId": "henri-bergson--check-35-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-18-ce-creation"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-18"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-09",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-36",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“unforeseeable creation”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-36-1",
+          "text": "不可预见等于毫无连续性",
+          "feedback": "错误：“不可预见等于毫无连续性”与当前 claim 冲突；应选择“不可预见不等于任意”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-18-ce-creation"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-18"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-36-2",
+          "text": "不可预见不等于任意",
+          "feedback": "正确：“不可预见不等于任意”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-18-ce-creation"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-18"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-36-2",
+      "misconceptionId": "henri-bergson--check-36-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-18-ce-creation"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-18"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-18"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-09",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-37",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“vital impetus”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-37-1",
+          "text": "生命冲力描述分化运动",
+          "feedback": "正确：“生命冲力描述分化运动”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-19-ce-elan"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-19"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-37-2",
+          "text": "生命冲力是一种实验室流体",
+          "feedback": "错误：“生命冲力是一种实验室流体”与当前 claim 冲突；应选择“生命冲力描述分化运动”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-19-ce-elan"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-19"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-37-1",
+      "misconceptionId": "henri-bergson--check-37-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-19-ce-elan"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-19"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-10",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-38",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“vital impetus”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-38-1",
+          "text": "它给出每个物种的工程蓝图",
+          "feedback": "错误：“它给出每个物种的工程蓝图”与当前 claim 冲突；应选择“它不能替代具体机制研究”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-19-ce-elan"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-19"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-38-2",
+          "text": "它不能替代具体机制研究",
+          "feedback": "正确：“它不能替代具体机制研究”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-19-ce-elan"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-19"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-38-2",
+      "misconceptionId": "henri-bergson--check-38-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-19-ce-elan"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-19"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-19"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-10",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-39",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“divergent evolutionary tendencies”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-39-1",
+          "text": "演化沿分叉倾向展开",
+          "feedback": "正确：“演化沿分叉倾向展开”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-20-ce-divergence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-20"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-39-2",
+          "text": "演化是单线人类阶梯",
+          "feedback": "错误：“演化是单线人类阶梯”与当前 claim 冲突；应选择“演化沿分叉倾向展开”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-20-ce-divergence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-20"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-39-1",
+      "misconceptionId": "henri-bergson--check-39-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-20-ce-divergence"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-20"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-10",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-40",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“divergent evolutionary tendencies”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-40-1",
+          "text": "所有谱系实现全部倾向",
+          "feedback": "错误：“所有谱系实现全部倾向”与当前 claim 冲突；应选择“分化伴随专门化和损失”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-20-ce-divergence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-20"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-40-2",
+          "text": "分化伴随专门化和损失",
+          "feedback": "正确：“分化伴随专门化和损失”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-20-ce-divergence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-20"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-40-2",
+      "misconceptionId": "henri-bergson--check-40-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-20-ce-divergence"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-20"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-20"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-10",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-41",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“intelligence and inert matter”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-41-1",
+          "text": "智性擅长固体和可重复关系",
+          "feedback": "正确：“智性擅长固体和可重复关系”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-21-ce-intelligence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-21"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-41-2",
+          "text": "智性只适合神秘体验",
+          "feedback": "错误：“智性只适合神秘体验”与当前 claim 冲突；应选择“智性擅长固体和可重复关系”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-21-ce-intelligence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-21"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-41-1",
+      "misconceptionId": "henri-bergson--check-41-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-21-ce-intelligence"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-21"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-11",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-42",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“intelligence and inert matter”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-42-1",
+          "text": "其效力证明概念穷尽生命",
+          "feedback": "错误：“其效力证明概念穷尽生命”与当前 claim 冲突；应选择“其效力与限度来自同一方向”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-21-ce-intelligence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-21"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-42-2",
+          "text": "其效力与限度来自同一方向",
+          "feedback": "正确：“其效力与限度来自同一方向”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-21-ce-intelligence"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-21"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-42-2",
+      "misconceptionId": "henri-bergson--check-42-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-21-ce-intelligence"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-21"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-21"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-11",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-43",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“scope of science and metaphysics”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-43-1",
+          "text": "批评针对形而上学扩张",
+          "feedback": "正确：“批评针对形而上学扩张”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-22-ce-science"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-22"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-43-2",
+          "text": "批评要求废除科学实验",
+          "feedback": "错误：“批评要求废除科学实验”与当前 claim 冲突；应选择“批评针对形而上学扩张”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-22-ce-science"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-22"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-43-1",
+      "misconceptionId": "henri-bergson--check-43-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-22-ce-science"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-22"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-11",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-44",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“scope of science and metaphysics”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-44-1",
+          "text": "有哲学限度就没有科学真理",
+          "feedback": "错误：“有哲学限度就没有科学真理”与当前 claim 冲突；应选择“科学效力与哲学限度可并存”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-22-ce-science"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-22"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-44-2",
+          "text": "科学效力与哲学限度可并存",
+          "feedback": "正确：“科学效力与哲学限度可并存”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-22-ce-science"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-22"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-44-2",
+      "misconceptionId": "henri-bergson--check-44-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-22-ce-science"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-22"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-22"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-11",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-45",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mechanical rigidity and social correction”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-45-1",
+          "text": "滑稽线索是生命中的机械僵硬",
+          "feedback": "正确：“滑稽线索是生命中的机械僵硬”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-45-2",
+          "text": "滑稽只来自语言双关",
+          "feedback": "错误：“滑稽只来自语言双关”与当前 claim 冲突；应选择“滑稽线索是生命中的机械僵硬”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-45-1",
+      "misconceptionId": "henri-bergson--check-45-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-23"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-46",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mechanical rigidity and social correction”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-46-1",
+          "text": "它覆盖每种历史笑法",
+          "feedback": "错误：“它覆盖每种历史笑法”与当前 claim 冲突；应选择“它是分析线索而非全能定义”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-46-2",
+          "text": "它是分析线索而非全能定义",
+          "feedback": "正确：“它是分析线索而非全能定义”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-46-2",
+      "misconceptionId": "henri-bergson--check-46-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-23"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-47",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mechanical rigidity and social correction”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-47-1",
+          "text": "理论把笑与社会纠偏相连",
+          "feedback": "正确：“理论把笑与社会纠偏相连”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-47-2",
+          "text": "理论把笑写成纯私人反射",
+          "feedback": "错误：“理论把笑写成纯私人反射”与当前 claim 冲突；应选择“理论把笑与社会纠偏相连”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-47-1",
+      "misconceptionId": "henri-bergson--check-47-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-23"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-48",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“mechanical rigidity and social correction”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-48-1",
+          "text": "群体嘲笑必然公正",
+          "feedback": "错误：“群体嘲笑必然公正”与当前 claim 冲突；应选择“纠偏功能不自动等于正当”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-48-2",
+          "text": "纠偏功能不自动等于正当",
+          "feedback": "正确：“纠偏功能不自动等于正当”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-23-laughter-mechanical",
+            "henri-bergson--src-24-laughter-social"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-23"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-48-2",
+      "misconceptionId": "henri-bergson--check-48-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-23-laughter-mechanical",
+        "henri-bergson--src-24-laughter-social"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-23"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-23"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-12",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-49",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“closed/open morality and static/dynamic religion”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-49-1",
+          "text": "封闭压力与开放召唤不同",
+          "feedback": "正确：“封闭压力与开放召唤不同”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-49-2",
+          "text": "两种道德只有强度差别",
+          "feedback": "错误：“两种道德只有强度差别”与当前 claim 冲突；应选择“封闭压力与开放召唤不同”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-49-1",
+      "misconceptionId": "henri-bergson--check-49-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-24"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-50",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“closed/open morality and static/dynamic religion”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-50-1",
+          "text": "开放道德只强化本族服从",
+          "feedback": "错误：“开放道德只强化本族服从”与当前 claim 冲突；应选择“开放道德突破固定群体边界”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-50-2",
+          "text": "开放道德突破固定群体边界",
+          "feedback": "正确：“开放道德突破固定群体边界”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-50-2",
+      "misconceptionId": "henri-bergson--check-50-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-24"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-51",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“closed/open morality and static/dynamic religion”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-51-1",
+          "text": "静态与动态宗教承担不同功能",
+          "feedback": "正确：“静态与动态宗教承担不同功能”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-51-2",
+          "text": "静态宗教毫无社会作用",
+          "feedback": "错误：“静态宗教毫无社会作用”与当前 claim 冲突；应选择“静态与动态宗教承担不同功能”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-51-1",
+      "misconceptionId": "henri-bergson--check-51-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-24"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-52",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“closed/open morality and static/dynamic religion”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-52-1",
+          "text": "动态宗教只是一套固定习俗",
+          "feedback": "错误：“动态宗教只是一套固定习俗”与当前 claim 冲突；应选择“区分不是简单真假二分”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-52-2",
+          "text": "区分不是简单真假二分",
+          "feedback": "正确：“区分不是简单真假二分”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-25-two-closed-open",
+            "henri-bergson--src-26-two-religion"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-24"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-52-2",
+      "misconceptionId": "henri-bergson--check-52-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-25-two-closed-open",
+        "henri-bergson--src-26-two-religion"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-24"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-24"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-53",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“wartime nationalist rhetoric”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-53-1",
+          "text": "演说使用民族化道德对抗",
+          "feedback": "正确：“演说使用民族化道德对抗”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-27-war-address"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-25"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-53-2",
+          "text": "演说是中立战争统计",
+          "feedback": "错误：“演说是中立战争统计”与当前 claim 冲突；应选择“演说使用民族化道德对抗”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-27-war-address"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-25"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-53-1",
+      "misconceptionId": "henri-bergson--check-53-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-27-war-address"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-25"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-14",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-54",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“wartime nationalist rhetoric”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-54-1",
+          "text": "可用后期著作抹去它",
+          "feedback": "错误：“可用后期著作抹去它”与当前 claim 冲突；应选择“应保留其动员语境”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-27-war-address"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-25"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-54-2",
+          "text": "应保留其动员语境",
+          "feedback": "正确：“应保留其动员语境”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-27-war-address"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-25"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-54-2",
+      "misconceptionId": "henri-bergson--check-54-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-27-war-address"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-25"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-25"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-14",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-55",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“war and closed society”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-55-1",
+          "text": "战争被连到封闭社会和技术危险",
+          "feedback": "正确：“战争被连到封闭社会和技术危险”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-28-two-war"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-26"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-55-2",
+          "text": "战争只源于个人记忆错误",
+          "feedback": "错误：“战争只源于个人记忆错误”与当前 claim 冲突；应选择“战争被连到封闭社会和技术危险”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-28-two-war"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-26"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-55-1",
+      "misconceptionId": "henri-bergson--check-55-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-28-two-war"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-26"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-56",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“war and closed society”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-56-1",
+          "text": "两文本完全同声同调",
+          "feedback": "错误：“两文本完全同声同调”与当前 claim 冲突；应选择“1932 与 1914 之间存在张力”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-28-two-war"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-26"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-56-2",
+          "text": "1932 与 1914 之间存在张力",
+          "feedback": "正确：“1932 与 1914 之间存在张力”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-28-two-war"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-26"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-56-2",
+      "misconceptionId": "henri-bergson--check-56-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-28-two-war"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-26"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-26"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-57",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“Einstein on physical time”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-29-einstein"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-57-1",
+          "text": "爱因斯坦论述物理测量时间",
+          "feedback": "正确：“爱因斯坦论述物理测量时间”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-einstein-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-einstein"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-57-2",
+          "text": "爱因斯坦在此定义纯绵延",
+          "feedback": "错误：“爱因斯坦在此定义纯绵延”与当前 claim 冲突；应选择“爱因斯坦论述物理测量时间”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-einstein-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-einstein"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-57-1",
+      "misconceptionId": "henri-bergson--check-57-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-einstein-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-29-einstein"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-29-einstein"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-29-einstein"
+      ],
+      "targetVoices": [
+        "einstein-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-15",
+      "voice": "einstein-primary"
+    },
+    {
+      "id": "henri-bergson--check-58",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“Bergson on lived and measured time”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-29-bergson"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-58-1",
+          "text": "柏格森只重复操作定义",
+          "feedback": "错误：“柏格森只重复操作定义”与当前 claim 冲突；应选择“柏格森追问测量与绵延关系”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-bergson-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-bergson"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-58-2",
+          "text": "柏格森追问测量与绵延关系",
+          "feedback": "正确：“柏格森追问测量与绵延关系”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-bergson-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-bergson"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-58-2",
+      "misconceptionId": "henri-bergson--check-58-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-bergson-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-29-bergson"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-29-bergson"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-29-bergson"
+      ],
+      "targetVoices": [
+        "bergson-primary"
+      ],
+      "lessonId": "henri-bergson--lesson-15",
+      "voice": "bergson-primary"
+    },
+    {
+      "id": "henri-bergson--check-59",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“route adjudication of the 1922 exchange”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-29-route"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-59-1",
+          "text": "比较保留双方不同问题对象",
+          "feedback": "正确：“比较保留双方不同问题对象”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-route-einstein-pending",
+            "henri-bergson--src-29-route-bergson-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-route"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-59-2",
+          "text": "比较把双方合成同一声部",
+          "feedback": "错误：“比较把双方合成同一声部”与当前 claim 冲突；应选择“比较保留双方不同问题对象”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-29-route-einstein-pending",
+            "henri-bergson--src-29-route-bergson-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-29-route"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-59-1",
+      "misconceptionId": "henri-bergson--check-59-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-29-route-einstein-pending",
+        "henri-bergson--src-29-route-bergson-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-29-route"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-29-route"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-29-route"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-60",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“philosophical interpretation of relativity”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-30"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-60-1",
+          "text": "二者逐字完全相同",
+          "feedback": "错误：“二者逐字完全相同”与当前 claim 冲突；应选择“应区分伯格森解释与相对论本身”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-30-duration-simultaneity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-30"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-60-2",
+          "text": "应区分伯格森解释与相对论本身",
+          "feedback": "正确：“应区分伯格森解释与相对论本身”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-30-duration-simultaneity"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-30"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-60-2",
+      "misconceptionId": "henri-bergson--check-60-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-30-duration-simultaneity"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-30"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-30"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-30"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-61",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“James and Russell reception contrast”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-61-1",
+          "text": "James赞赏而Russell批评",
+          "feedback": "正确：“James赞赏而Russell批评”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-31a-james",
+            "henri-bergson--src-31b-russell-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-31"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-61-2",
+          "text": "二人都只是转录柏格森原话",
+          "feedback": "错误：“二人都只是转录柏格森原话”与当前 claim 冲突；应选择“James赞赏而Russell批评”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-31a-james",
+            "henri-bergson--src-31b-russell-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-31"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-61-1",
+      "misconceptionId": "henri-bergson--check-61-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-31a-james",
+        "henri-bergson--src-31b-russell-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-31"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-62",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“James and Russell reception contrast”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-62-1",
+          "text": "两种评价可标为bergson-primary",
+          "feedback": "错误：“两种评价可标为bergson-primary”与当前 claim 冲突；应选择“两种评价属于批评者声部”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-31a-james",
+            "henri-bergson--src-31b-russell-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-31"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-62-2",
+          "text": "两种评价属于批评者声部",
+          "feedback": "正确：“两种评价属于批评者声部”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-31a-james",
+            "henri-bergson--src-31b-russell-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-31"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-62-2",
+      "misconceptionId": "henri-bergson--check-62-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-31a-james",
+        "henri-bergson--src-31b-russell-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-31"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-31"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "henri-bergson--lesson-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "henri-bergson--check-63",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“Deleuze reconstruction of Bergsonism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-63-1",
+          "text": "Deleuze提供后继概念重构",
+          "feedback": "正确：“Deleuze提供后继概念重构”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-32-deleuze-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-32"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-63-2",
+          "text": "Deleuze只是逐字抄录",
+          "feedback": "错误：“Deleuze只是逐字抄录”与当前 claim 冲突；应选择“Deleuze提供后继概念重构”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-32-deleuze-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-32"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-63-1",
+      "misconceptionId": "henri-bergson--check-63-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-32-deleuze-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-32"
+      ],
+      "targetVoices": [
+        "later-interpreter"
+      ],
+      "lessonId": "henri-bergson--lesson-16",
+      "voice": "later-interpreter"
+    },
+    {
+      "id": "henri-bergson--check-64",
+      "kind": "binary",
+      "prompt": "依据本课正文，如何判断“Deleuze reconstruction of Bergsonism”？",
+      "targetNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "options": [
+        {
+          "id": "henri-bergson--check-64-1",
+          "text": "后继解释可自动标成伯格森原话",
+          "feedback": "错误：“后继解释可自动标成伯格森原话”与当前 claim 冲突；应选择“虚拟与分化框架不得倒灌原典”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "henri-bergson--src-32-deleuze-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-32"
+          ]
+        },
+        {
+          "id": "henri-bergson--check-64-2",
+          "text": "虚拟与分化框架不得倒灌原典",
+          "feedback": "正确：“虚拟与分化框架不得倒灌原典”与当前 claim、正文和定位证据一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "henri-bergson--src-32-deleuze-pending"
+          ],
+          "claimNodeIds": [
+            "henri-bergson--claim-32"
+          ]
+        }
+      ],
+      "correctOptionId": "henri-bergson--check-64-2",
+      "misconceptionId": "henri-bergson--check-64-misconception",
+      "evidenceLinkIds": [
+        "henri-bergson--src-32-deleuze-pending"
+      ],
+      "objectNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "promptClaimNodeIds": [
+        "henri-bergson--claim-32"
+      ],
+      "targetParagraphIds": [
+        "henri-bergson--paragraph-32"
+      ],
+      "targetVoices": [
+        "later-interpreter"
+      ],
+      "lessonId": "henri-bergson--lesson-16",
+      "voice": "later-interpreter"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

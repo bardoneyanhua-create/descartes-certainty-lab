@@ -1,0 +1,2605 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "mencius-01-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "谁在说话：从宫廷答问到传世《孟子》",
+      "explanation": "今本《孟子》提供的是经传承整理的思想现场。可靠的理解既不把场景当逐字速记，也不因编纂复杂便取消一切归属，而是按言说者、叙事功能、反复程度和传承层次分级判断。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-1A1",
+        "M-ALL",
+        "E-SHIJI",
+        "E-HANSHU",
+        "E-ZHAOQI",
+        "R-ZHUXI"
+      ],
+      "abilityIds": [
+        "understand-mencius-01"
+      ]
+    },
+    {
+      "id": "mencius-02-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "义利之辨：为什么先问“利”会改变共同体",
+      "explanation": "孟子并不否定生计、后果或政策收益。他反对的是理由次序：若上位者公开把各自所得设为最高尺度，下位关系也会用同一尺度回应，仁义所提供的共同限制便被侵蚀。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-1A1",
+        "M-6A10",
+        "M-7A17"
+      ],
+      "abilityIds": [
+        "understand-mencius-02"
+      ]
+    },
+    {
+      "id": "mencius-03-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "性善究竟断言什么：与告子的四组交锋",
+      "explanation": "性善不是“人人实际完善”，而是人具有可长成仁义礼智的端绪与趋向。告子的杞柳、湍水、食色和义外从不同方向挑战这一步，孟子的回应必须分别检验，不能缩成一句天生善良。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-6A1-6",
+        "M-6A7-8",
+        "M-6A15",
+        "X-XINGE"
+      ],
+      "abilityIds": [
+        "understand-mencius-03"
+      ]
+    },
+    {
+      "id": "mencius-04-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "四端与扩充：从一瞬恻隐到稳定德性",
+      "explanation": "孟子以动机排除显示恻隐并非纯粹谋利，再把恻隐、羞恶、辞让、是非称为仁义礼智之端。“端”只是开头，必须经辨认、保存、事实校正和反复实践扩而充之。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-2A6",
+        "M-1A7",
+        "M-6A1-6"
+      ],
+      "abilityIds": [
+        "understand-mencius-04"
+      ]
+    },
+    {
+      "id": "mencius-05-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "亲亲、推恩与兼爱：远者会不会永远被留在门外",
+      "explanation": "孟子认为道德动机通常从具体关系生长，扩展不要求所有感情等量；但关系差等不能成为排除远者的许可证。夷之厚葬只显示理论与实践张力，不能单独驳倒普遍关切。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-3A5",
+        "M-7A45",
+        "M-1A7",
+        "E-MOZI"
+      ],
+      "abilityIds": [
+        "understand-mencius-05"
+      ]
+    },
+    {
+      "id": "mencius-06-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知言、持志与浩然之气：不动心不是把感觉压住",
+      "explanation": "志与气双向作用，道德判断必须在长期行义中形成具身承受力。浩然之气由集义而生，不能一次袭取；知言负责识别偏辞，勿忘勿助长排除放任和强作。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-2A2",
+        "R-ZHUXI-QI"
+      ],
+      "abilityIds": [
+        "understand-mencius-06"
+      ]
+    },
+    {
+      "id": "mencius-07-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "反求诸己、求放心与教育：责任不等于责怪受害者",
+      "explanation": "反求诸己检查行动者可控的理由、能力和方式；牛山与求放心说明善端会被环境反复损害且可恢复；多种教育方式把个人努力放进师友、生计和共同实践。内省不能取消结构责任。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-2A7",
+        "M-4A4",
+        "M-6A7-8",
+        "M-6A11",
+        "M-6A15",
+        "M-7A40"
+      ],
+      "abilityIds": [
+        "understand-mencius-07"
+      ]
+    },
+    {
+      "id": "mencius-08-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "尽心、知天与命：努力应在何处停止占有结果",
+      "explanation": "尽心知性把道德自知连接到更宽的规范秩序，存心养性把关联落实为实践；夭寿不贰、修身俟命要求在结果不确定时守责，危墙之辨又排除主动制造风险。它不是经验宇宙论证明。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-7A1-2",
+        "M-7A3",
+        "M-7A2",
+        "R-ZHUXI",
+        "R-WANG"
+      ],
+      "abilityIds": [
+        "understand-mencius-08"
+      ]
+    },
+    {
+      "id": "mencius-09-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从不忍之心到不忍之政：情感怎样变成公共准则",
+      "explanation": "见牛证明君王已有可扩充的关切，孟子以“非不能，是不为”施加一致性压力；度量、权衡、推恩、与民同乐和不嗜杀把情感转化为可重复的政策理由，但仍缺现代参与问责。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-1A5-7",
+        "M-1B1-4",
+        "M-2A6"
+      ],
+      "abilityIds": [
+        "understand-mencius-09"
+      ]
+    },
+    {
+      "id": "mencius-10-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "恒产与恒心：贫困、刑罚和制度责任",
+      "explanation": "少数士可无恒产而有恒心，多数人需要稳定生计才能持续守心。饥寒并不取消个人责任，却增加国家制造诱因、再惩罚的责任；制民之产、农时、税役、养老与教育共同构成仁政条件。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-1A3",
+        "M-1A7",
+        "M-3A3"
+      ],
+      "abilityIds": [
+        "understand-mencius-10"
+      ]
+    },
+    {
+      "id": "mencius-11-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "王道与霸道：服从来自正当支持还是力量包装",
+      "explanation": "以力假仁依赖优势与仁义外观迫人服从，以德行仁则以民生、教育和不忍人之政形成中心悦诚服。王霸是规范类型，现实政体会混合；军事胜负与宣传支持都不能单独证明正当。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-2A3",
+        "M-2B1",
+        "M-4A1-2",
+        "M-2B1"
+      ],
+      "abilityIds": [
+        "understand-mencius-11"
+      ]
+    },
+    {
+      "id": "mencius-12-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "民贵君轻与放伐：君位何时失去服从资格",
+      "explanation": "人民生活与支持是秩序价值基础，社稷和君位均可因失职更置；残仁贼义者失去“君”的规范身份。但文本的行动主体多为贵戚、贤者或另一王者，未建立现代平等公民与和平更替程序。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-1B8",
+        "M-5B9",
+        "M-7B14"
+      ],
+      "abilityIds": [
+        "understand-mencius-12"
+      ]
+    },
+    {
+      "id": "mencius-13-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "天命与历史正当性：旧君失格不等于新王有权",
+      "explanation": "孟子以荐于天而天受、暴之于民而民受，把德行、祭祀、政事和人民安定连接为天命征象，限制血统与君主私授。但征象可被力量制造，古史可由胜者书写，因而不能把成功、民调或神谕单独化约为天命。",
+      "identity": "received-text-and-argument-reconstruction",
+      "evidenceLinkIds": [
+        "M-5A5-9",
+        "M-7B14",
+        "E-SHIJI",
+        "R-ZHUXI"
+      ],
+      "abilityIds": [
+        "understand-mencius-13"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "M-ALL",
+      "workId": "今本《孟子》七篇",
+      "edition": "linked received or reception witness",
+      "locator": "今本对话、叙事与短章材料的总体身份。场景不作逐字速记。",
+      "locatorVerified": true,
+      "identity": "received-text；今本对话、叙事与短章材料的总体身份。场景不作逐字速记。"
+    },
+    {
+      "id": "M-1A1",
+      "workId": "《梁惠王上》1A1",
+      "edition": "linked received or reception witness",
+      "locator": "梁惠王问利与孟子仁义回应。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；梁惠王问利与孟子仁义回应。"
+    },
+    {
+      "id": "M-1A3",
+      "workId": "《梁惠王上》1A3",
+      "edition": "linked received or reception witness",
+      "locator": "不违农时、资源节律、养生丧死与王道。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；不违农时、资源节律、养生丧死与王道。"
+    },
+    {
+      "id": "M-1A5-7",
+      "workId": "《梁惠王上》1A5—1A7",
+      "edition": "linked received or reception witness",
+      "locator": "不嗜杀、齐宣王见牛、推恩、恒产与仁政。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；不嗜杀、齐宣王见牛、推恩、恒产与仁政。"
+    },
+    {
+      "id": "M-1A7",
+      "workId": "《梁惠王上》1A7",
+      "edition": "linked received or reception witness",
+      "locator": "见牛、以羊易牛、非不能是不为、推恩及制民之产。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；见牛、以羊易牛、非不能是不为、推恩及制民之产。"
+    },
+    {
+      "id": "M-1B1-4",
+      "workId": "《梁惠王下》1B1—1B4",
+      "edition": "linked received or reception witness",
+      "locator": "与民同乐及君民苦乐关系。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；与民同乐及君民苦乐关系。"
+    },
+    {
+      "id": "M-1B8",
+      "workId": "《梁惠王下》1B8",
+      "edition": "linked received or reception witness",
+      "locator": "汤武放伐与诛一夫纣。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；汤武放伐与诛一夫纣。"
+    },
+    {
+      "id": "M-2A2",
+      "workId": "《公孙丑上》2A2",
+      "edition": "linked received or reception witness",
+      "locator": "不动心、知言、志气、浩然之气、集义与揠苗。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；不动心、知言、志气、浩然之气、集义与揠苗。"
+    },
+    {
+      "id": "M-2A3",
+      "workId": "《公孙丑上》2A3",
+      "edition": "linked received or reception witness",
+      "locator": "以力假仁与以德行仁的王霸区分。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；以力假仁与以德行仁的王霸区分。"
+    },
+    {
+      "id": "M-2A6",
+      "workId": "《公孙丑上》2A6",
+      "edition": "linked received or reception witness",
+      "locator": "孺子入井、四端、扩而充之与不忍人之政。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；孺子入井、四端、扩而充之与不忍人之政。"
+    },
+    {
+      "id": "M-2A7",
+      "workId": "《公孙丑上》2A7",
+      "edition": "linked received or reception witness",
+      "locator": "射者反求诸己的比喻。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；射者反求诸己的比喻。"
+    },
+    {
+      "id": "M-2B1",
+      "workId": "《公孙丑下》2B1",
+      "edition": "linked received or reception witness",
+      "locator": "得道多助、失道寡助。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；得道多助、失道寡助。"
+    },
+    {
+      "id": "M-3A3",
+      "workId": "《滕文公上》3A3",
+      "edition": "linked received or reception witness",
+      "locator": "恒产恒心、井田与庠序之教。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；恒产恒心、井田与庠序之教。"
+    },
+    {
+      "id": "M-3A5",
+      "workId": "《滕文公上》3A5",
+      "edition": "linked received or reception witness",
+      "locator": "夷之爱无差等、施由亲始及孟子二本批评。",
+      "locatorVerified": true,
+      "identity": "received-debate；夷之爱无差等、施由亲始及孟子二本批评。"
+    },
+    {
+      "id": "M-4A1-2",
+      "workId": "《离娄上》4A1—4A2",
+      "edition": "linked received or reception witness",
+      "locator": "法先王、仁政与得民的材料。",
+      "locatorVerified": true,
+      "identity": "received-text；法先王、仁政与得民的材料。"
+    },
+    {
+      "id": "M-4A4",
+      "workId": "《离娄上》4A4",
+      "edition": "linked received or reception witness",
+      "locator": "行有不得皆反求诸己。",
+      "locatorVerified": true,
+      "identity": "received-text；行有不得皆反求诸己。"
+    },
+    {
+      "id": "M-5A5-9",
+      "workId": "《万章上》5A5—5A9",
+      "edition": "linked received or reception witness",
+      "locator": "尧荐舜、天与人与、禅让继承及古史证成。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；尧荐舜、天与人与、禅让继承及古史证成。"
+    },
+    {
+      "id": "M-5B9",
+      "workId": "《万章下》5B9",
+      "edition": "linked received or reception witness",
+      "locator": "贵戚之卿谏诤与易位。",
+      "locatorVerified": true,
+      "identity": "received-dialogue；贵戚之卿谏诤与易位。"
+    },
+    {
+      "id": "M-6A1-6",
+      "workId": "《告子上》6A1—6A6",
+      "edition": "linked received or reception witness",
+      "locator": "杞柳、湍水、生之谓性、食色、义内义外和四心。",
+      "locatorVerified": true,
+      "identity": "received-debate；杞柳、湍水、生之谓性、食色、义内义外和四心。"
+    },
+    {
+      "id": "M-6A7-8",
+      "workId": "《告子上》6A7—6A8",
+      "edition": "linked received or reception witness",
+      "locator": "口味共同性与牛山失养。",
+      "locatorVerified": true,
+      "identity": "received-text；口味共同性与牛山失养。"
+    },
+    {
+      "id": "M-6A10",
+      "workId": "《告子上》6A10",
+      "edition": "linked received or reception witness",
+      "locator": "鱼与熊掌、生与义的价值排序。",
+      "locatorVerified": true,
+      "identity": "received-text；鱼与熊掌、生与义的价值排序。"
+    },
+    {
+      "id": "M-6A11",
+      "workId": "《告子上》6A11",
+      "edition": "linked received or reception witness",
+      "locator": "求放心。",
+      "locatorVerified": true,
+      "identity": "received-text；求放心。"
+    },
+    {
+      "id": "M-6A15",
+      "workId": "《告子上》6A15",
+      "edition": "linked received or reception witness",
+      "locator": "大体小体、心之思与耳目之欲。",
+      "locatorVerified": true,
+      "identity": "received-text；大体小体、心之思与耳目之欲。"
+    },
+    {
+      "id": "M-7A1-2",
+      "workId": "《尽心上》7A1—7A2",
+      "edition": "linked received or reception witness",
+      "locator": "尽心知性知天、存心养性、修身俟命。",
+      "locatorVerified": true,
+      "identity": "received-text；尽心知性知天、存心养性、修身俟命。"
+    },
+    {
+      "id": "M-7A3",
+      "workId": "《尽心上》7A3",
+      "edition": "linked received or reception witness",
+      "locator": "求在我者与求在外者。",
+      "locatorVerified": true,
+      "identity": "received-text；求在我者与求在外者。"
+    },
+    {
+      "id": "M-7A2",
+      "workId": "《尽心上》7A2",
+      "edition": "linked received or reception witness",
+      "locator": "正命与可避免风险的边界。",
+      "locatorVerified": true,
+      "identity": "received-text；正命与可避免风险的边界。"
+    },
+    {
+      "id": "M-7A17",
+      "workId": "《尽心上》7A17等",
+      "edition": "linked received or reception witness",
+      "locator": "所欲、善与价值排序的互证材料。",
+      "locatorVerified": true,
+      "identity": "received-text；所欲、善与价值排序的互证材料。"
+    },
+    {
+      "id": "M-7A40",
+      "workId": "《尽心上》7A40",
+      "edition": "linked received or reception witness",
+      "locator": "君子五教。",
+      "locatorVerified": true,
+      "identity": "received-text；君子五教。"
+    },
+    {
+      "id": "M-7A45",
+      "workId": "《尽心上》7A45",
+      "edition": "linked received or reception witness",
+      "locator": "亲亲、仁民、爱物的层次。",
+      "locatorVerified": true,
+      "identity": "received-text；亲亲、仁民、爱物的层次。"
+    },
+    {
+      "id": "M-7B14",
+      "workId": "《尽心下》7B14",
+      "edition": "linked received or reception witness",
+      "locator": "民为贵、社稷次之、君为轻。",
+      "locatorVerified": true,
+      "identity": "received-text；民为贵、社稷次之、君为轻。"
+    },
+    {
+      "id": "E-SHIJI",
+      "workId": "《史记·孟子荀卿列传》",
+      "edition": "linked received or reception witness",
+      "locator": "汉代人物与著述传统；不作孟子自述。",
+      "locatorVerified": true,
+      "identity": "early-reception；汉代人物与著述传统；不作孟子自述。"
+    },
+    {
+      "id": "E-HANSHU",
+      "workId": "《汉书·艺文志》",
+      "edition": "linked received or reception witness",
+      "locator": "著录《孟子》十一篇的汉代书目证据。",
+      "locatorVerified": true,
+      "identity": "bibliographic-witness；著录《孟子》十一篇的汉代书目证据。"
+    },
+    {
+      "id": "E-ZHAOQI",
+      "workId": "赵岐《孟子题辞》传统",
+      "edition": "linked received or reception witness",
+      "locator": "内外篇与传本说明，属于后世传承证据。",
+      "locatorVerified": true,
+      "identity": "commentarial-witness；内外篇与传本说明，属于后世传承证据。"
+    },
+    {
+      "id": "E-MOZI",
+      "workId": "今本《墨子·兼爱》篇组",
+      "edition": "linked received or reception witness",
+      "locator": "重建兼相爱、交相利与公共效果，不能与夷之发言无证据等同。",
+      "locatorVerified": true,
+      "identity": "opponent-comparison；重建兼相爱、交相利与公共效果，不能与夷之发言无证据等同。"
+    },
+    {
+      "id": "X-XINGE",
+      "workId": "《荀子·性恶》",
+      "edition": "linked received or reception witness",
+      "locator": "稍后性恶论的强比较，不冒充孟子在场对话。",
+      "locatorVerified": true,
+      "identity": "later-comparison；稍后性恶论的强比较，不冒充孟子在场对话。"
+    },
+    {
+      "id": "R-ZHUXI",
+      "workId": "朱熹《四书章句集注》孟子集注",
+      "edition": "linked received or reception witness",
+      "locator": "宋代理气心性与四书解释层，不倒写成战国原文。",
+      "locatorVerified": true,
+      "identity": "later-interpretation；宋代理气心性与四书解释层，不倒写成战国原文。"
+    },
+    {
+      "id": "R-ZHUXI-QI",
+      "workId": "宋明浩然之气解释传统",
+      "edition": "linked received or reception witness",
+      "locator": "理气框架中的后世展开，不能替代2A2内部论证次序。",
+      "locatorVerified": true,
+      "identity": "later-interpretation；理气框架中的后世展开，不能替代2A2内部论证次序。"
+    },
+    {
+      "id": "R-WANG",
+      "workId": "陆王心学及后世心性解释",
+      "edition": "linked received or reception witness",
+      "locator": "心即理、良知等重构属于接受史比较。",
+      "locatorVerified": true,
+      "identity": "later-interpretation；心即理、良知等重构属于接受史比较。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "mencius-longform",
+      "version": "1.0.0-candidate",
+      "title": "孟子：从善端到政治正当性的十三个问题",
+      "lessonIds": [
+        "mencius-01",
+        "mencius-02",
+        "mencius-03",
+        "mencius-04",
+        "mencius-05",
+        "mencius-06",
+        "mencius-07",
+        "mencius-08",
+        "mencius-09",
+        "mencius-10",
+        "mencius-11",
+        "mencius-12",
+        "mencius-13"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "mencius-01",
+      "order": 1,
+      "title": "谁在说话：从宫廷答问到传世《孟子》",
+      "depth": "longform",
+      "guidingQuestion": "一部充满问答、传闻和短章的书，怎样容许我们谈“孟子思想”，又不把所有声音压成作者亲笔独白？",
+      "coreExplanation": "今本《孟子》提供的是经传承整理的思想现场。可靠的理解既不把场景当逐字速记，也不因编纂复杂便取消一切归属，而是按言说者、叙事功能、反复程度和传承层次分级判断。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "梁惠王开口问的是利国，齐宣王在宫廷里谈牛、音乐和战争，告子连续提出关于性的比喻，公孙丑与万章则把疑难追问到底。这样的文字首先是一组战国论辩现场，而不是孟子坐下来按十三个主题写出的论文。对象不同，可共同承认的前提也不同：面对君主，孟子常从对方已经流露的欲望或不忍推进；面对告子，他必须逐层拆解比喻；面对弟子，他可以讨论师承、古史与自己的行动。若抹去对象，论证为何这样开始就会消失。",
+            "场景真实并不等于逐字速记。口语可能经过记忆、剪裁和修辞整理，叙事者还会安排谁先问、谁沉默、哪一句成为收束。最稳妥的归属因此是：“今本《孟子》中归于孟子的言说主张某事。”当同一结构在多处出现，例如仁义高于逐利、善端需要扩充、民生影响恒心，我们可以提高信心，称之为今本孟子思想的稳定重心；若只有一则孤立轶事，归属强度就应降低。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "《史记》把七篇与孟子及弟子联系起来，提供的是汉代所见的著述传统，不是孟子本人留下的出版说明。《汉书·艺文志》著录十一篇，赵岐又区分内篇与已不传或被视为外篇的材料，这些差异提醒人们：七篇传本经历过选择。今本每篇又分上下，共十四部分；这一目录适合定位，却不能自动证明思想依次成熟。按问题重新安排路线是现代解释工作，必须公开自己的重构原则。",
+            "声音分层还能阻止一种常见捷径：把对手的话先改弱，再让孟子获胜。告子的水、杞柳、食色和义外并非同一句“人性无善恶”；夷之的爱无差等也不能只靠其厚葬亲人便宣告破产。对手的发言至少要按文本中的最强可能意思重建，再判断孟子的回答是否击中前提。叙事者若写“皆悦而愿为之氓”，也不能不经检验地当成全体人民的直接证词。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "后世解释构成另一层声音。韩愈把孟子放进道统，朱熹以理、气、心、性重排其概念优先级，陆九渊、王阳明和戴震又分别强调心、良知或情欲。这些传统改变了人们理解“性善”“尽心”的方式，却不能倒写成战国文本已经明说的宇宙论。现代人以德性伦理、民主、福利国家或人权比较孟子，同样必须标明是比较，而非翻译同义。",
+            "可以想象一场法庭审理：同一事件有当事人口述、书记员记录、后来的汇编和评论者解释。合理做法不是挑一份当绝对透明，也不是说既有编辑便什么都不知道，而是让主张强度随证据变化。今本反复展开的论证可承担主干，人物对话保留其现场限制，汉宋材料说明传承，现代概念只承担比较。这样，“孟子说”就成为可追溯的判断，而不是无来源的权威口吻。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议是：过度谨慎会把一位思想家拆散，人们再也无法理解整体。回应不在于取消重构，而在于使重构可核验。只要每条联系说明来自哪些章句、为何可以互释、哪里仍有张力，就能谈一个有连续问题意识的今本孟子，同时不假装作者亲定了次序。编纂复杂性限制断言强度，却不必摧毁哲学解释。",
+            "这种身份纪律会贯穿后面的每一步。下一场争论从梁惠王的“何以利吾国”开始。我们既要听见君主处在竞争中的现实焦虑，也要检查孟子是否真的反对一切利益。若先把一句名言抽离宫廷问答，义利之辨就会变成空洞口号。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "把1A1写成“孟子在专著第一章定义义利”会误导；较准确的说法是，今本以梁惠王的富国询问安排开场，让孟子在游说现场改变公共理由的优先次序。",
+      "nodeIds": [
+        "mencius-01-node"
+      ],
+      "checkIds": [
+        "mencius-01-q1",
+        "mencius-01-q2",
+        "mencius-01-q3",
+        "mencius-01-q4"
+      ],
+      "abilitySummary": [
+        "能够区分人物发言、叙事安排、传本身份、后世注解和现代比较，并据此调整“孟子主张”的断言强度。"
+      ],
+      "recommendedNextLessonId": "mencius-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-02",
+      "order": 2,
+      "title": "义利之辨：为什么先问“利”会改变共同体",
+      "depth": "longform",
+      "guidingQuestion": "梁惠王询问怎样有利于国家，孟子为何不直接提供富国方案，而要先拒绝以利作为最高公共理由？",
+      "coreExplanation": "孟子并不否定生计、后果或政策收益。他反对的是理由次序：若上位者公开把各自所得设为最高尺度，下位关系也会用同一尺度回应，仁义所提供的共同限制便被侵蚀。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "梁惠王身处诸侯竞争，问“亦将有以利吾国乎”并非荒唐。他需要财富、军备和人口，也可能刚经历战争损失。孟子却回答“何必曰利，亦有仁义而已矣”。这不是经济无知的炫耀，而是先检查提问所允许的理由：若国家的利本身就是最高答案，卿大夫可问怎样利家，士庶可问怎样利身，每一层都能复制上层的语言。",
+            "这条论证不是说利益一定互斥，而是说利益缺乏自身的正当边界。夺取邻国土地可能利一国，增加征敛可能利国库，背约可能利眼前战局；仅凭“有利于我方”无法说明为什么不该做。义提出合宜与应当的限制，仁让他人的生存和苦乐进入理由。利益计算仍可在这个框架内工作，却不能自行决定谁可被牺牲。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "孟子描述的扩散机制还包含榜样与制度。君主若以争利动员，不只是内心动机不纯，而是把一种可公开模仿的规则交给所有关系。下位者用同一规则反过来谋取自身，并不比上位者更无理。于是臣弑其君、子夺其父并非由一个词魔法般导致，而是共同规范被竞争性理由持续挤出的极端图景。",
+            "“鱼与熊掌”把同一结构推进到生与义的冲突。人固然欲生，却可能有比生更不可放弃的判断；这说明欲求并非唯一尺度。这里也不能反过来赞美无谓牺牲。比喻的作用是证明价值排序可能约束最强利益，而不是要求每一件小事都以死亡表忠。何时值得承受代价仍须说明具体的义。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "一位地方官面对旱灾，可以计算修渠成本、税收损失和受益人口。这些数字不可少。但若他先把“本地区财政净收益”设为唯一标准，最贫困而不能付费的村落就可能从计算中消失。仁义并不替代工程测算，而是规定哪些人的处境必须计入、哪些手段不可采用、收益怎样分配才算正当。孟子的争论因此是对决策框架的审查。",
+            "最强异议是：拒绝谈利会让政治沦为空泛道德，甚至使自称仁义者免于结果问责。孟子自己的民生论构成重要回应。他谈农时、税役、饥荒、养老和稳定生业，显然承认物质后果。能成立的主张只是，政策结果必须在仁义规定的对象与限制内评价；若百姓饿死，口头仁义不能使政策合格。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "另一边界是动机。义利之辨不能写成“只要心里不想获利就正当”。公共制度必须容纳正常自利并防止滥用，仁义也要接受可执行性和副作用检验。孟子没有给出现代成本效益方法，却迫使人们先回答：谁被算入共同体，哪些利益不能以强力取得，胜利为何不等于正当。",
+            "义利次序提出了更深问题：仁义凭什么不是另一套外加命令？若人本无道德方向，或许只需更有效地规训逐利者。下一场与告子的多轮争论会把根据推进到“性”：人是否有朝向仁义的内在开端。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "救灾预算需要比较成本，但若只计算国库回报而不把最脆弱者的生存当作理由，问题不在算术错误，而在最初的正当性框架遗漏了人。",
+      "nodeIds": [
+        "mencius-02-node"
+      ],
+      "checkIds": [
+        "mencius-02-q1",
+        "mencius-02-q2",
+        "mencius-02-q3",
+        "mencius-02-q4"
+      ],
+      "abilitySummary": [
+        "能够区分反对利益至上与反对一切利益分析，并解释逐利理由如何沿权力层级扩散。"
+      ],
+      "recommendedNextLessonId": "mencius-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-03",
+      "order": 3,
+      "title": "性善究竟断言什么：与告子的四组交锋",
+      "depth": "longform",
+      "guidingQuestion": "人在现实中会残酷、欺骗和偏私，孟子仍说性善；这个“善”指完成事实、内在能力，还是有条件发展的方向？",
+      "coreExplanation": "性善不是“人人实际完善”，而是人具有可长成仁义礼智的端绪与趋向。告子的杞柳、湍水、食色和义外从不同方向挑战这一步，孟子的回应必须分别检验，不能缩成一句天生善良。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "告子先把人性比作杞柳，把仁义比作杯棬：木材成为器皿需要制作，人形成道德也需要外力。孟子的反击抓住“制作是否伤害材料”。若必须扭折杞柳才能成器，这个比喻会把仁义描述成对人的损伤；然而告子要证明的只是后天塑形，不必承诺暴力。最强版本可以改说，工匠顺着木材可塑性成形。于是争点转为：材料的可塑性是否已经包含特定道德方向。",
+            "湍水比喻更锋利。水决向东便东、决向西便西，似乎人性同样无善不善。孟子回答水无分东西，却有就下之势；外力可以使它搏而过额，却不因此取消重力方向。类比要证明的是“会被环境改变”与“没有自然趋势”不同。它不能单独证明道德趋势存在，只能说明告子从可变性推到无方向太快。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "“生之谓性”和“食色性也”把讨论拉回共同欲求。如果犬、牛、人都能生、食、色，人之所以异在哪里？孟子并不否认感官欲望属于自然，而是拒绝用跨物种共有部分穷尽人的性。人能对羞耻、敬让和是非作出回应，这些能力也需纳入描述。若只把最基础的生物倾向称为性，结论会由定义预先决定。",
+            "义内义外之争则检验道德判断从哪里来。敬年长者似乎取决于对象的年龄，像白色属于白马一样在外。孟子一方追问：敬自己的兄长与敬陌生长者的具体方式为何不同？宴饮时又可依职位而非年龄。对象提供事实，心仍须理解关系、理由和适当行动。义不是任意感觉，也不是对象表面属性自动发号施令，而是在主体判断中形成的规范回应。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "孟子用口味共同性、牛山之木和大体小体补足方向论证。人对味道有可交流的共同结构，提示心也可能有共同所同然；山木被斧斤、牛羊反复损害后显得濯濯，不能据此断言山从无生机；感官欲望若未经思考支配整体，并不证明欲望本身邪恶。这些材料共同把性善写成会受养护、选择和环境影响的倾向。",
+            "现实反例仍然强大。若善向普遍，为何长期残酷如此常见？“失养”能解释一部分，却有变成万能借口的危险：善行证明性善，恶行又被解释为环境，理论似乎不可反驳。可接受的回应必须提出更具体预期，例如在未经利害计算的情境中，人应普遍显示某些道德可感性；适当养护应提高稳定善行，而不是只在事后重新命名。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "还要承认孟子与告子可能在争夺“性”的定义。若孟子把可发展的道德能力算入性，告子只把生物欲求算入性，两边会部分错位。但这不意味着争论纯属文字，因为定义背后有实践后果：若善只能外铄，教育更像材料加工；若有端绪，教育需要唤醒、养护和扩充，同时防止环境摧残。",
+            "因此性善的规范锋芒与经验边界必须同时保留。它反对把人当成只能靠外力压制的材料，也不保证每个人自动成为君子。下一步需要比水势更接近经验的证据：孺子将入井时的恻隐为何能显示端绪，它又怎样从一瞬反应成长为仁义礼智。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "一片被反复砍伐的山看似从不生树，只能证明当前状态受损；但要证明山本有恢复能力，还需观察休养条件下是否重新萌发。孟子用它说明恶行不能直接穷尽性，也留下可检验压力。",
+      "nodeIds": [
+        "mencius-03-node"
+      ],
+      "checkIds": [
+        "mencius-03-q1",
+        "mencius-03-q2",
+        "mencius-03-q3",
+        "mencius-03-q4"
+      ],
+      "abilitySummary": [
+        "能够分别重建杞柳、湍水、食色与义外的论证，并把性善限定为可受损、需养护的发展方向。"
+      ],
+      "recommendedNextLessonId": "mencius-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-04",
+      "order": 4,
+      "title": "四端与扩充：从一瞬恻隐到稳定德性",
+      "depth": "longform",
+      "guidingQuestion": "看到孺子将入井时的一瞬惊惧，为什么不只是惊吓或亲幼本能？即使它有道德意义，又怎样抵达远者和制度？",
+      "coreExplanation": "孟子以动机排除显示恻隐并非纯粹谋利，再把恻隐、羞恶、辞让、是非称为仁义礼智之端。“端”只是开头，必须经辨认、保存、事实校正和反复实践扩而充之。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "孺子将入于井的场景之所以有力，在于反应来得早：旁观者骤然惊惧恻隐，还来不及盘算结交孩子父母、博取乡党称誉或逃避哭声。孟子列出这些动机并加以排除，想显示人能够因另一个生命将受伤而直接被触动。论证不是说任何救助都无混合动机，而是寻找一处不容易被纯逐利解释穷尽的经验。",
+            "这一步只得到“端”。端像线头、初芽和泉源，不是完成的布、树或河流。恻隐是仁之端，羞恶是义之端，辞让是礼之端，是非是智之端；拥有开端不等于每次都能正确行动。人可能看见孩子却冻住，也可能对熟悉者敏感、对远方灾难麻木，还可能把社会偏见误认成羞恶。性善因此需要发展论，而非现状赞美。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "“扩而充之”常被误解为把感情强度无限放大。更准确的结构包含两步：先识别当前反应所承认的理由，再把同类理由延伸到被距离、身份或利益遮蔽的情境。齐宣王见牛觳觫而不忍，已经承认无辜者在恐惧中赴死值得关切；孟子要求他看见百姓遭兵役、饥饿和刑罚时也处在相似痛苦中。扩充是理由的一致化，不只是情绪传染。",
+            "四端之间也互相校正。单有恻隐可能纵容眼前一人却损害更多人；是非之心要求判断事实和后果。羞恶能抵抗卑劣，却可能被名誉文化扭曲；辞让能安排关系，却可能固化不义等级。仁义礼智不是四个按钮，而是一组需在行动中磨合的能力。孟子用“火之始然，泉之始达”强调动力，也用“不扩充则不足以事父母”强调失败可能。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "设想一名管理者看到一位员工当面哭泣，立即减轻其负担，却对排班制度长期压迫看不见。最初不忍有道德价值，但若只追随可见情绪，就会让沉默者继续受害。扩充要求询问：哭泣揭示的理由是否也适用于未被看见的人？数据、申诉和制度审查在这里不是冷酷替代，而是帮助端绪越过注意力偏差。",
+            "最强异议来自经验科学与文化差异。亲幼反应可能是进化偏好，辞让和羞恶又深受社会训练；一次思想实验不足以证明四种端绪普遍，更不能从恻隐直接推出仁义礼智完整分类。孟子能较稳地证明的是，人可能具有非纯工具性的道德可感性。四端的精确数量、普遍强度与跨文化形式仍需额外证据。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "另一个危险是把自发感受当成真理证书。偏见同样能自发，群体仇恨也可带来强烈羞恶。扩充必须同时接受“知言”与事实检验：反应针对的对象是否真的相似，因果判断是否可靠，行动是否把成本转嫁给更弱者。孟子未写出现代偏差校正程序，但他的“是非之心”和反求结构允许我们拒绝情绪即正确。",
+            "四端为性善提供经验入口，也把政治推恩准备出来，却马上遇到范围难题：若关切由亲近经验生长，是否永远偏向家人？墨者夷之提出爱无差等，迫使差等之爱说明远者为何不被排除。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "见到一个具体受害者而改变一次决定只是端绪；把同一伤害理由写进规则，使不在场者也受保护，才接近扩充。",
+      "nodeIds": [
+        "mencius-04-node"
+      ],
+      "checkIds": [
+        "mencius-04-q1",
+        "mencius-04-q2",
+        "mencius-04-q3",
+        "mencius-04-q4"
+      ],
+      "abilitySummary": [
+        "能够区分道德反应、完成德性与扩充过程，并用一致性和事实校正检验情绪。"
+      ],
+      "recommendedNextLessonId": "mencius-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-05",
+      "order": 5,
+      "title": "亲亲、推恩与兼爱：远者会不会永远被留在门外",
+      "depth": "longform",
+      "guidingQuestion": "若仁从亲亲开始，怎样避免任人唯亲？墨者夷之主张爱无差等，孟子的“二本”批评能否真正回应普遍关切？",
+      "coreExplanation": "孟子认为道德动机通常从具体关系生长，扩展不要求所有感情等量；但关系差等不能成为排除远者的许可证。夷之厚葬只显示理论与实践张力，不能单独驳倒普遍关切。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "夷之通过徐辟与孟子论辩，文本把他的立场概括为“爱无差等，施由亲始”。这并非简单矛盾：一个人可以承认所有人都应受关切，同时认为行动从身边最能承担的关系开始。墨家兼爱最强的版本也不必要求对父母与陌生人具有完全相同的感情，而是反对以关系为由让他人利益没有分量，并强调兼相爱、交相利的公共后果。",
+            "孟子抓住夷之厚葬父母，追问其实际哀痛是否真把父母视同路人。他的“天之生物也，使之一本”把亲子关系视为道德情感的根。这个回应有心理现实感：照料、哀悼与感恩通常不是先由抽象规则制造，人若要求自己一步跳过具体依恋，可能只获得口头普遍主义。但心理起点不自动等于规范终点。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "以行为不一致反驳理论也有严格边界。夷之厚葬可能说明他未能完全实践自己的主张，或说明“无差等”本就不是情感等量；都不能直接证明普遍关切错误。孟子若只说“你也偏爱父母”，最多暴露动机结构的张力。真正需要回答的是：差等关系为何正当、差异可以到什么程度、远者有哪些不可被越过的最低要求。",
+            "“亲亲而仁民，仁民而爱物”提供层次，却不能被读成价值递减到远者近乎为零。亲亲承担特殊照料，仁民要求把百姓作为人纳入政治关切，爱物又规定对物的合宜使用。不同关系可以产生不同职责，普遍底线仍可限制偏私。父母生病时优先陪护，不等于可以侵占公共药品；任命官员时以亲属优先，则把私人关系越界到公共权力。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "推恩在此成为桥梁。它不是把亲情原样复制给天下人，而是从亲情中辨认“不忍其无助”“愿其有养”等理由，再让相同理由约束对陌生人的制度。关系差等决定谁承担额外职责，普遍关切决定谁不能被当作无价值。两者可能冲突，却不是逻辑上只能二选一。",
+            "最强异议是父权与裙带风险。以家庭作为伦理根，会把既有等级、性别分工和血缘特权自然化；历史上“亲亲”确实可能掩护腐败。孟子没有现代利益冲突、平等公职和反歧视制度。可保住的只是发展心理上的起点与特殊义务，不是让家庭规范支配所有公共分配。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "反过来，普遍主义也有实施难题。如果它只宣布每个人同等重要，却不说明谁在何种关系中承担照料，责任可能稀释成无人负责。墨家会以组织纪律、功利后果和公共标准回答，孟子则以情感根基和扩充回答。公平比较必须承认两边都在处理动机、范围与协调，而不是“冷酷算计”对“温暖亲情”。",
+            "范围争论把修养推向压力情境：即使知道远者也有分量，人在威胁、利诱和争辩中仍可能退缩。孟子接下来讨论不动心、知言、持志与浩然之气，试图说明长期行义怎样让判断获得具身的承受力。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "照料重病父母可以是特殊义务；利用公职把稀缺床位暗中给亲属则越过普遍底线。差等之爱需要说明职责差异，不能把公共不公正改名为亲情。",
+      "nodeIds": [
+        "mencius-05-node"
+      ],
+      "checkIds": [
+        "mencius-05-q1",
+        "mencius-05-q2",
+        "mencius-05-q3",
+        "mencius-05-q4"
+      ],
+      "abilitySummary": [
+        "能够同时给出兼爱与亲亲的最强版本，区分感情强度、特殊义务、普遍价值和公共权力。"
+      ],
+      "recommendedNextLessonId": "mencius-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-06",
+      "order": 6,
+      "title": "知言、持志与浩然之气：不动心不是把感觉压住",
+      "depth": "longform",
+      "guidingQuestion": "人在威胁与利诱中为何会明知而动摇？孟子怎样把言辞判断、心志、身体之气和长期集义连成一种不动心？",
+      "coreExplanation": "志与气双向作用，道德判断必须在长期行义中形成具身承受力。浩然之气由集义而生，不能一次袭取；知言负责识别偏辞，勿忘勿助长排除放任和强作。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "公孙丑问孟子若居齐卿相、能否使国家称霸称王，他是否会动心。回答没有直接端出一个术语，而先比较北宫黝、孟施舍和曾子的勇。有人不受侮辱，有人把胜负置外，有人先问自己是否理直。比较显示“不怕”可能来自不同结构：身体强硬、风险态度或正当判断，不能仅看外表镇定。",
+            "告子主张不得于言勿求于心、不得于心勿求于气，像是切断扰动来源。孟子认为其中有可取与不可取：心志是气之帅，气又能反过来动志。奔跑跌倒会使气壅而反动其心，恐惧、疲惫和羞辱也会影响判断。道德行动不是一颗脱离身体的理性核；只命令自己“不许动摇”可能让被压住的状态以别的方式回来。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "浩然之气“至大至刚，以直养而无害”，但关键不在壮阔形容，而在生成条件。“是集义所生者，非义袭而取之也”：它来自许多具体行动持续合义，不是做一次英雄举动便把正义力量夺来。若一件事使心中不慊，气便馁；身体信心取决于行动者能否把自己所做的事看作经得起理由检查。",
+            "“勿忘，勿助长”用宋人揠苗的故事排除两端。忘记意味着停止实践，让端绪枯萎；助长意味着为了快速呈现道德力量，强迫自己扮演无畏，反而伤害生长。集义的时间性很重要：稳定不是情绪高昂，而是一次次可说明的选择形成习惯、姿态和承压能力。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "知言为这股力量设置认识门。孟子说能知詖辞、淫辞、邪辞、遁辞，辨认片面、过度、偏离和逃避的言说，并追到它们如何生于心、害于政、发于事。若没有这一门，自认正义者同样可能养成危险无畏。知言不是凭语气识坏人，而是找出话语在哪一步遮蔽前提、逃避反例或把局部推成全部。",
+            "设想一名揭露安全隐患的工程师。她需要证据判断，也需要在上级压力和同事疏远中保持行动；只有愤怒可能误判，只有正确报告却没有承压能力又可能撤回。长期按同一安全理由记录、复核和发声，会形成一种身体上不轻易崩解的稳定。但这种稳定仍须允许新证据纠正，否则就变成顽固。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议是“气”的含义含混。它可能混合呼吸、情绪唤起、社会自信与道德正当，无法当作独立实体测量。较稳妥的现代解释是具身道德力量：长期实践改变注意、姿态、情绪调节和行动预期。不过这只是受原文约束的重构，不能把浩然之气等同神秘能量，也不能缩成健身或呼吸技巧。",
+            "不动心的边界因此是可纠正的稳定。孟子用义与知言反对蛮勇，用气反作用提醒纯认知不足，用集义反对一次表演。下一步会处理行动失败：若没有回应、心已放失或环境持续砍伐善端，反求诸己怎样既承担责任又不把制度伤害归咎个人。",
+            "还应区分勇气的对象与勇气的根据。一个人敢于承受代价，只说明某种欲望没有压倒他；只有当行动理由能经受事实、对手和后果审查时，勇才与义相连。若新证据推翻原判断，能够撤回反而是不动心的成熟表现，因为稳定守护的是求义过程，不是自己的面子。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "坚持一份经复核的安全报告需要证据和承压能力；若把身体坚定当成报告正确性的证明，就把浩然之气从实践结果误升为真理来源。",
+      "nodeIds": [
+        "mencius-06-node"
+      ],
+      "checkIds": [
+        "mencius-06-q1",
+        "mencius-06-q2",
+        "mencius-06-q3",
+        "mencius-06-q4"
+      ],
+      "abilitySummary": [
+        "能够解释志气双向、集义时间性、知言认识门和勿助长边界，并拒绝神秘化与顽固化。"
+      ],
+      "recommendedNextLessonId": "mencius-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-07",
+      "order": 7,
+      "title": "反求诸己、求放心与教育：责任不等于责怪受害者",
+      "depth": "longform",
+      "guidingQuestion": "事情未得回应时先反求诸己有什么价值？在贫困、暴政与坏环境真实存在时，这一要求怎样不变成把所有失败归罪个人？",
+      "coreExplanation": "反求诸己检查行动者可控的理由、能力和方式；牛山与求放心说明善端会被环境反复损害且可恢复；多种教育方式把个人努力放进师友、生计和共同实践。内省不能取消结构责任。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "射者正己而后发，发而不中，不怨胜己者，反求诸己。这个比喻要求人在行动失败时先检查可控环节：判断是否清楚、能力是否足够、表达是否合宜、是否把自己的期待当成他人义务。它不是说靶场风向不存在，也不是说胜者永远正确；“先反求”只规定纠错入口，而非全部因果归属。",
+            "“爱人不亲反其仁，治人不治反其智，礼人不答反其敬”把检查扩到关系与治理。若关切没有被感受，可能方式带有控制；若治理无效，可能信息与能力不足；若礼遇未回应，可能所谓敬只是姿态。但检查后仍可能发现对方恶意、制度阻挡或资源不足。反求诸己要求不把第一次失败全推给外界，也不要求永远替外界免责。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "牛山曾经林木美盛，却因靠近大国郊野，斧斤日日砍伐、牛羊又从而牧之，才显得濯濯。夜气与雨露仍使萌蘖出现，却再次受损。比喻把恶行的形成写成时间过程：偶尔恢复不足以抵抗持续摧残。若只看最后的荒山便说它从无生机，就把制度性损害误认成本性。",
+            "求放心不是把心当遗失物一次找回。操则存、舍则亡表示注意与实践会改变善端是否可用；从其大体不是仇视身体，而是让能思的心判断感官欲求在整体生活中的位置。饥饿、疲惫和安全需要本身不恶，问题是某个即时冲动是否未经衡量便替整体发令。后面的恒产恒心会进一步说明，持续匮乏会使这种判断极难。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "孟子说君子有五教：如时雨化之、成德、达财、答问，还有以不屑之教形成刺激。这里显示教育不只有讲授命题，也有环境熏陶、品格塑造、能力成全与针对性问答。“不屑”尤其危险，可能变成羞辱；只能在关系可靠、目的清楚且不损害人格时作有限理解，不能当成普遍施教许可。",
+            "设想一名在歧视性组织里屡次升职失败的人。反求诸己可以帮助检查材料、技能和沟通，却不能据此否认评审偏见。较完整的做法是同时收集比较数据、审查规则和改进自身可控部分。若组织让受害者无休止自省而拒绝审计制度，便把修养语言变成权力工具。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议正是责备受害者。孟子有时把失败者拉回自身，容易被权力者利用。然而牛山、恒产恒心和暴政批评表明环境有真实因果与责任。可保留的命题是：行动者不应放弃自己仍能修改的环节；不能推出每个后果都由其品格造成。内省与制度批判可同时成立。",
+            "修养于是获得恢复结构：发现放失、检查可控错误、改善环境、通过师友与实践重新养护。可控努力仍有终点，因为夭寿、时势与他人选择并不由一人掌握。下一步的尽心、知性、知天与命，会为坚持和不可控结果划界。",
+            "恢复也不是孤立个人的秘密工程。若斧斤日日至，要求萌芽独自抵抗只会重复责怪。师友可以提供反证和榜样，制度可以减少反复伤害，行动者则保留回应与选择。三者共同解释为何同一人会在不同环境中表现悬殊，也提醒人们不能用一次善行或恶行穷尽其人格。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "求职失败后改进材料是反求诸己；若数据揭示系统性歧视，继续把所有责任压给求职者便越界。个人纠错与制度审计不是互斥解释。",
+      "nodeIds": [
+        "mencius-07-node"
+      ],
+      "checkIds": [
+        "mencius-07-q1",
+        "mencius-07-q2",
+        "mencius-07-q3",
+        "mencius-07-q4"
+      ],
+      "abilitySummary": [
+        "能够把反求诸己限定为可控环节检查，并结合牛山、求放心和教育说明环境损害与恢复条件。"
+      ],
+      "recommendedNextLessonId": "mencius-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-08",
+      "order": 8,
+      "title": "尽心、知天与命：努力应在何处停止占有结果",
+      "depth": "longform",
+      "guidingQuestion": "“尽其心者知其性，知其性则知天”如何成立？承认命是坚定责任，还是把不正义现实包装成宿命？",
+      "coreExplanation": "尽心知性把道德自知连接到更宽的规范秩序，存心养性把关联落实为实践；夭寿不贰、修身俟命要求在结果不确定时守责，危墙之辨又排除主动制造风险。它不是经验宇宙论证明。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "“尽其心者，知其性也；知其性，则知天矣”从心跃向天，最容易被后世体系填满。若只按今本内部读，尽心首先是把恻隐、羞恶、辞让、是非等能力发展到可认识的程度；知性是认识这种人的规范可能；知天则把它理解为不由个人私意创造的更宽秩序。原句表达关联，却没有逐步证明一个完整宇宙模型。",
+            "紧接着“存其心，养其性，所以事天也”防止知天停在玄想。事天不是预测天意，而是保存并养护已经认识的道德能力。心若在实践中放失，口头谈天不能替代它。这里的天既不宜简单等同人格神，也不能直接翻成自然规律或纯心理投射；每种现代解释都需标明自己增加了什么。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "“夭寿不贰，修身以俟之，所以立命也”常被读成听天由命。更有力的意思是，寿命与成败不完全可控，行动者不因预期结果改变基本操守。俟命不是等待奇迹，而是不把正当行动的全部价值押在成功上。它限制的是对结果的占有欲，而非取消改进条件的努力。",
+            "危墙之辨进一步划出责任。“莫非命也，顺受其正”；尽道而死者是正命，桎梏死者非正命，主动站在将倒危墙下也不能把后果全推给命。不可控遭遇与可避免风险不同。承认命要求准确区分控制范围，而不是把自己造成的危险神圣化。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "一位公共辩护者可能尽力调查、陈述与救济，判决仍受他人决定。修身俟命让他不以输赢倒推行动是否值得，同时也要求继续使用可行程序。若明知证据可补却拒绝准备，再称结果是命，就混淆了可控疏忽与不可控结局。命的语言只有在努力边界清楚时才不滑向宿命。",
+            "最强异议是从内心倾向到天缺乏独立证明。即使人人有道德端绪，也不能因此推出宇宙支持它。这个异议不能靠引用名句消除。较谨慎的结论是：孟子把道德实践安置在一个超越个人任意的规范视野中；这能表达严肃性与安顿，却未满足现代形而上证明标准。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "政治风险也需隔离。受压迫者若被告知“顺受其命”，不正义就会逃避改革。孟子的暴君失格、恒产责任和放伐论表明他不把现存权力都视为天定。个人俟命处理已尽可控责任后的结果，政治天命则处理统治资格与传承；二者共享天字，却不能互相偷渡。",
+            "至此，人的内在端绪、范围扩充、具身承压、纠错和结果边界形成一条修养链。接下来必须把它放进政治：齐宣王对牛的不忍是否能跨过可见偏爱，成为对百姓、战争和刑罚的稳定治理责任。",
+            "命还阻止一种反向迷信：以成功证明自己先前必然正确。尽责者可能失败，侥幸者也可能得利；结果只能成为继续检验判断的证据之一，不能独占价值判定。这样理解既保留行动韧性，也为下一步审查统治者的政绩自证留下空间。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "完成所有可行救济后仍败诉，不必把失败当作行动无价值；若遗漏关键证据却称命定，则把可控责任藏进不可控结果。",
+      "nodeIds": [
+        "mencius-08-node"
+      ],
+      "checkIds": [
+        "mencius-08-q1",
+        "mencius-08-q2",
+        "mencius-08-q3",
+        "mencius-08-q4"
+      ],
+      "abilitySummary": [
+        "能够区分道德实践中的事天俟命、可避免风险与政治天命，并控制形而上断言强度。"
+      ],
+      "recommendedNextLessonId": "mencius-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-09",
+      "order": 9,
+      "title": "从不忍之心到不忍之政：情感怎样变成公共准则",
+      "depth": "longform",
+      "guidingQuestion": "齐宣王不忍见牛发抖，为什么这不是一次选择性心软？私人恻隐怎样承担对不可见百姓的治理责任？",
+      "coreExplanation": "见牛证明君王已有可扩充的关切，孟子以“非不能，是不为”施加一致性压力；度量、权衡、推恩、与民同乐和不嗜杀把情感转化为可重复的政策理由，但仍缺现代参与问责。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "齐宣王见牛将被衅钟，因其觳觫如无罪而就死地，命人以羊易之。百姓可能解释为吝啬，孟子却说“是心足以王矣”。他并非认为换一只羊已经仁政，而是从君王自己承认的反应出发：至少在一个近距离场景中，无辜者的恐惧进入了他的理由。若完全没有这种入口，劝说只能外加命令。",
+            "以羊易牛也暴露选择性。牛在眼前，羊未被看见；不忍随可见性移动，并未减少牺牲。孟子没有把这一缺口藏起来，而说君子之于禽兽，见其生不忍见其死，闻其声不忍食其肉。这说明距离影响感受。政治推恩必须反过来克服注意力偏差，让看不见的百姓也进入衡量。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "“有复于王者曰：吾力足以举百钧，而不足以举一羽；明足以察秋毫之末，而不见舆薪”，把问题改成能力与行动的区分。齐王并非认知或资源绝对不足，而是没有把已有尺度用于百姓。“非不能也，是不为也”不是否认所有治理难度，而是指出在他已承认相似理由、又具行动位置时，选择性不作为需要解释。",
+            "推恩要经过度量与权衡。恩足以及禽兽，功不至于百姓，不能只靠再感动一次；必须比较兵役、刑罚、税负和饥饿如何造成可预见痛苦。与民同乐又把统治者享受放进共同处境：宫乐与苑囿本身不必禁止，若人民因征敛与战争愁苦，君主的快乐便建立在分裂之上。公共情感需要制度化的信息与后果。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "不嗜杀人者能一之，表达战争年代的最低政治吸引力。人民并非因统治者有温柔人格便归附，而是寻求免于死亡、离散与饥饿。减轻刑罚、保民而王，把恻隐转成对国家强制的限制。仁政于是不同于私人慈善：它要改变谁承担风险、何时征用资源、哪些生命不应被工具化。",
+            "设想一位市长因媒体报道救助一名露宿者，却维持使大量人失所的驱逐政策。个案善意不是虚假，但若同一无家可归的伤害在制度中反复发生，推恩要求把已承认的理由写进预算、安置和执法规则。可重复准则比领导者偶然看见谁更可靠。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议是家长主义。孟子仍把百姓当君王推恩的对象，没有给他们建立平等发言、代表和问责渠道。选择性情感也可能被表演和宣传操纵。回应只能保住一个必要条件：人民苦乐必须成为统治正当性的理由，政策需接受一致性和后果检查；不能推出善君内心足以保障权利。",
+            "情感政治化还不够。若人民没有稳定生业，被饥寒推向犯罪，再由国家惩罚，君主即使偶有不忍也无法改变因果结构。下一步的恒产恒心把土地、生业、税役、农时、养老与教育连接起来，说明仁政为何必须成为制度条件。",
+            "从心到政至少还要经过信息、规则与执行三层。信息让远处痛苦可见，规则把相同理由稳定适用，执行则防止好意停在宣言。每一层都可能失败：统计会遗漏人，规则会固化偏见，官吏会扭曲目的。因此仁心只能启动审查，不能替代持续监督。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "媒体个案触发救助只是端绪；把同一伤害理由转成住房、预算和执法规则，才让不可见者不依赖领导人偶然注视。",
+      "nodeIds": [
+        "mencius-09-node"
+      ],
+      "checkIds": [
+        "mencius-09-q1",
+        "mencius-09-q2",
+        "mencius-09-q3",
+        "mencius-09-q4"
+      ],
+      "abilitySummary": [
+        "能够说明见牛、能力与不为、推恩、权衡、同乐和不嗜杀如何构成从情感到治理的桥。"
+      ],
+      "recommendedNextLessonId": "mencius-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-10",
+      "order": 10,
+      "title": "恒产与恒心：贫困、刑罚和制度责任",
+      "depth": "longform",
+      "guidingQuestion": "人若有善端，为什么贫困中会失去常心？统治者先破坏生计再施刑罚，孟子为何称之为“罔民”？",
+      "coreExplanation": "少数士可无恒产而有恒心，多数人需要稳定生计才能持续守心。饥寒并不取消个人责任，却增加国家制造诱因、再惩罚的责任；制民之产、农时、税役、养老与教育共同构成仁政条件。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "孟子没有从性善推出环境无关。相反，他区分少数“士”与一般民众：无恒产而有恒心，惟士为能；民若无恒产，因无恒心，放辟邪侈无不为已。这段话含有精英偏见，却清楚承认稳定生计与持续道德行动之间的因果联系。善端可存在，使用它的注意、时间与安全仍会被匮乏耗尽。",
+            "国家若使人民陷入罪，然后从而刑之，叫“罔民”，像布网等待。问题不是每一违法者都无责任，而是统治者先通过征敛、失时和无保障环境提高违法诱因，再把后果解释为人民本性恶劣。行为者责任与制度责任可以同时存在，权力越能塑造条件，就越不能把自己从因果链中删除。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "制民之产把抽象不忍变成安排：足以事父母、育妻子，丰年终身饱、凶年免于死亡。五亩之宅、百亩之田、鸡豚狗彘、桑蚕等细节属于小农社会，不是可直接复制的现代政策数值。其可迁移结构是基本生计、风险缓冲、照料能力与不过度夺时；具体土地制度必须历史化。",
+            "“不违农时，谷不可胜食也；数罟不入洿池，鱼鳖不可胜食也；斧斤以时入山林，材木不可胜用也”把生产与节制联系。富足不是最大化即时开采，而是遵守再生时间，让资源持续。它也说明仁政并非只做事后救济，而要安排生产条件和生态节律。不过这种农业图景不能替代现代工业与气候分析。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "谨庠序之教、申之以孝悌之义，把教育放在生计之后并与之并行。饥寒者不是等待说教的道德材料；若基本生活不断被破坏，礼义劝告难以稳定。反过来，经济保障也不自动制造德性，它只减少持续摧残，使学习、照料和公共参与有实际空间。物质条件是必要支持，不是充分原因。",
+            "设想一个城市削减夜间公交，低薪工人因迟到被解雇，又因欠租被驱逐，最后因小额违法受罚。只谈个人守法漏掉政策串联的风险；只谈结构又可能取消具体行为选择。孟子的罔民批评要求把可预见的制度诱因纳入国家责任，并在处罚前审查生计替代与规则公平。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议有两端。一端认为贫困解释低估个人责任，另一端认为孟子的小农父权方案固化家庭与身份。回应不能把古代田亩直接包装成福利国家，也不能忽略女性、无土地者和非农业生活。可保留的是：统治者有义务不以自己制造的匮乏为陷阱，并为多数人的稳定选择能力提供条件。",
+            "恒产恒心让仁政有了制度中介，也使王道不再只是君主温和。下一步比较王与霸：两者都可能带来秩序、法律和军力，但服从究竟来自德行仁政形成的支持，还是来自力量借用仁义外观。",
+            "保障设计还须避免另一端：以保护为名取消人的选择。稳定生计的意义是增加行动空间，使人更能承担责任，而不是由国家决定唯一生活方式。孟子的具体家庭与农业图景没有充分处理这种自主边界，现代迁移必须把保障、平等与选择一并审查。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "政府削弱生计条件、让风险集中，再只在末端加重刑罚，不能把全部结果解释为个人品格；但结构责任也不使每个具体选择自动无责。",
+      "nodeIds": [
+        "mencius-10-node"
+      ],
+      "checkIds": [
+        "mencius-10-q1",
+        "mencius-10-q2",
+        "mencius-10-q3",
+        "mencius-10-q4"
+      ],
+      "abilitySummary": [
+        "能够连接稳定生计、善端使用、犯罪诱因、刑罚责任、生产节律和教育条件，并历史化井田细节。"
+      ],
+      "recommendedNextLessonId": "mencius-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-11",
+      "order": 11,
+      "title": "王道与霸道：服从来自正当支持还是力量包装",
+      "depth": "longform",
+      "guidingQuestion": "霸者也能维持秩序、施行法律甚至使用仁义语言，孟子凭什么说它与王道不是温和和强硬的程度差？",
+      "coreExplanation": "以力假仁依赖优势与仁义外观迫人服从，以德行仁则以民生、教育和不忍人之政形成中心悦诚服。王霸是规范类型，现实政体会混合；军事胜负与宣传支持都不能单独证明正当。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "“以力假仁者霸，霸必有大国；以德行仁者王，王不待大。”假仁不是完全不用仁义词，而是力量先决定关系，再借仁义外观要求服从。行仁则把仁政变成治理原因：少征夺、保生计、限制杀戮、让人民在共同秩序中有可承认的理由。差别不只是手段柔和，而是谁的处境构成权力正当性的条件。",
+            "孟子说以力服人者非心服，力不赡也；以德服人者中心悦而诚服。这里的心服不能当成统治者读心术。民众可能因恐惧表态，也可能因宣传真诚支持不义。更可检验的替代是看支持形成的条件：人民是否有生计，是否承受任意强制，是否可见政策理由，统治是否在力量下降时仍有合作基础。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "霸道并非毫无秩序。强国可以信守部分盟约、保护道路、统一法令，人民也可能因结束战乱而受益。若把霸写成纯粹混乱，就无法解释其吸引力。孟子的批评是这种秩序最终依赖实力优势和可交换利益，当力量与利益变化时，服从缺少更深规范约束。这个经验预期也不是铁律，强制政体可能长期稳定。",
+            "王道同样不等于无强制。治理需要法律、行政、防卫和对伤害的制止。问题是强制是否受仁义目的、民生条件与可说明规则约束，还是仅服务统治扩张。防卫战争不会仅因用力就成为霸，德治也不会因自称仁义就免除军队与刑罚审查。王霸类型要求看理由结构，而非数武器多少。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "“得道者多助，失道者寡助”把正当支持与战略能力连接。城池、地利不如人和，孤立会削弱战争能力。这条联系有现实洞见，却不能倒过来把胜利者都称得道。侵略者可能凭技术获胜，正义一方也可能暂败。多助是正当治理可能产生的优势，不是胜负的道德验算器。",
+            "设想两座城市都有效率地维持治安。一座公开规则、保障基本生活、让执法接受审查；另一座用恐惧压低犯罪数据，并以慈善宣传掩盖任意拘押。表面秩序相似，居民的服从理由和退出风险不同。王霸之辨促使人问制度怎样获得支持，而不是只看结果数字或领导者语气。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议是二分过于整齐。现实政体混合仁政、利益交换、习惯和强制，所谓中心悦服也难测量。回应应把王霸当作规范类型与诊断轴，而非两只经验盒子。可以逐项审查民生、强制限制、理由公开和支持持续性，不必宣称某政体纯王或纯霸。",
+            "即使霸道缺乏正当性，也不自动回答臣民何时可撤回服从，更不说明谁有权行动。下一步从“民为贵”、贵戚易位和“诛一夫纣”分别建立君位资格的撤销条件，避免把批评坏统治直接等同任何人可暴力夺权。",
+            "强制的可说明性尤其重要。相同处罚若由公开规则、申辩机会和保护脆弱者的目的约束，与为展示君威而任意施行，政治性质并不相同。孟子没有完整程序理论，但王道的民生与仁义前提足以阻止把“有效率”单独当作统治合格。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "两种政体都可能有法律和军队；差别要看强制受什么目的与程序限制、人民支持在何种条件形成，而不是把一切用力都归为霸。",
+      "nodeIds": [
+        "mencius-11-node"
+      ],
+      "checkIds": [
+        "mencius-11-q1",
+        "mencius-11-q2",
+        "mencius-11-q3",
+        "mencius-11-q4"
+      ],
+      "abilitySummary": [
+        "能够把王霸区分落实到理由、民生、强制限制与支持条件，并拒绝以胜负或自称仁义验真。"
+      ],
+      "recommendedNextLessonId": "mencius-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-12",
+      "order": 12,
+      "title": "民贵君轻与放伐：君位何时失去服从资格",
+      "depth": "longform",
+      "guidingQuestion": "“民为贵，社稷次之，君为轻”是否已经等于人民主权？诛纣、易位和民贵分别由谁行动、在什么条件下成立？",
+      "coreExplanation": "人民生活与支持是秩序价值基础，社稷和君位均可因失职更置；残仁贼义者失去“君”的规范身份。但文本的行动主体多为贵戚、贤者或另一王者，未建立现代平等公民与和平更替程序。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "“民为贵，社稷次之，君为轻”直接打破君位价值最高的排列。孟子甚至说诸侯危社稷则变置，祭祀条件反复合宜而旱涝仍作，也可变置社稷。君与社稷都服务于人民生活和秩序，不是不可触碰的实体。这给君权设置了强烈功能与规范限制。",
+            "但“民贵”尚不是制度化人民主权。原章没有规定普遍选举、代表议会、平等公民权或日常问责。人民是政治价值与接受的重要依据，却未必是直接行使全部权力的组织主体。把它直接翻成现代民主，会掩盖历史距离；因距离而说它毫无限君意义，也会削弱文本锋芒。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "贵戚之卿与异姓之卿的问答进一步区分行动资格。贵戚之卿若君有大过，反复谏而不听则易位；异姓之卿则去。这里的易位权属于宗室贵戚，不是任何个体的普遍许可。它显示君位可撤，却仍嵌在宗法与精英结构中。行动主体的限制必须和命题本身一起讲。",
+            "齐宣王问汤放桀、武王伐纣是否弑君。孟子回答贼仁者谓之贼，贼义者谓之残，残贼之人谓之一夫；闻诛一夫纣，未闻弑君。论证通过规范名称改变义务：君不只是占位事实，还包含仁义职责；严重摧毁职责者不再享有君名所带来的不可杀义务。这不是说改名即可合法施暴，而是要求先证明资格已被根本破坏。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "这里有循环与滥用风险。反叛者可以先称对方“一夫”，再用胜利证明判断；没有程序时，重命名容易成为暴力许可证。孟子的约束包括残仁贼义的严重门槛、人民处境和历史中的汤武范型，但仍缺独立司法、证据标准与和平交接机制。规范资源强，制度保障弱。",
+            "设想公司章程规定负责人必须保护成员安全。负责人长期故意隐瞒致命风险，职位的服从理由会受损；但任何员工不能仅凭不满就宣布其失格并强行夺权。需要证据、门槛、授权主体与替代程序。这个类比显示“职位有条件”与“任何人可随时推翻”之间还有多道门。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议有两面。一面说孟子只是替有德新王辩护，人民仍是被代表者；另一面担心放伐论鼓励胜者书写正义。两者都击中制度缺口。可保住的结论是君位不享有无条件神圣性，人民受害能终止服从理由；不能推出完整现代革命权，更不能把成功夺位自动等同正当。",
+            "旧君失格只是负面判断。继任者若凭力量上台，并不会因对手暴虐便自动获得资格。下一步转向尧荐舜、天不言、天与人与：新秩序怎样以德、人民、政事和传承得到证成，以及这套证成怎样避免胜利循环。",
+            "撤销资格与选择继任者之间的空隙不能由紧急状态永久填满。即使为制止暴虐而采取行动，行动者仍须说明权限来源、伤害限制与权力归还条件。今本没有给出这些现代程序，但区分两道问题本身已经防止“谁推翻坏君，谁就当然成为好君”。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "职位带有保护职责，严重背弃可使其失去服从资格；但资格撤销仍需要证据、门槛和授权主体，不能由夺权者单方面命名完成。",
+      "nodeIds": [
+        "mencius-12-node"
+      ],
+      "checkIds": [
+        "mencius-12-q1",
+        "mencius-12-q2",
+        "mencius-12-q3",
+        "mencius-12-q4"
+      ],
+      "abilitySummary": [
+        "能够区分民贵、社稷变置、贵戚易位与诛一夫纣的不同对象和行动主体，并说明民主边界。"
+      ],
+      "recommendedNextLessonId": "mencius-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "mencius-13",
+      "order": 13,
+      "title": "天命与历史正当性：旧君失格不等于新王有权",
+      "depth": "longform",
+      "guidingQuestion": "尧不能把天下私授给舜，天又“不言”，那么凭什么知道天命转移？人民接受、政事成功和古史叙事会不会相互循环？",
+      "coreExplanation": "孟子以荐于天而天受、暴之于民而民受，把德行、祭祀、政事和人民安定连接为天命征象，限制血统与君主私授。但征象可被力量制造，古史可由胜者书写，因而不能把成功、民调或神谕单独化约为天命。",
+      "sections": [
+        {
+          "heading": "问题为什么发生",
+          "paragraphs": [
+            "万章问尧是否把天下给予舜，孟子先否认：“天子不能以天下与人。”这一步限制君主的私有想象：天下不是职位占有者可以像财物一样赠送的东西。尧只能向天推荐舜，不能单靠个人意志制造继任正当性。即使是圣王，也受一个高于私人偏好的秩序约束。",
+            "万章随即追问天怎样给。孟子说“天不言，以行与事示之”。天命不是听见秘密声音，而要通过可观察的实践征象判断。舜主持祭祀而百神享之，是天受；主持政事而百姓安之，是民受。荐、受、政事和民安形成一条证成链，至少拒绝统治者只凭自称天选便要求服从。"
+          ],
+          "identity": "received-text-and-contextual-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "推理怎样前进",
+          "paragraphs": [
+            "这条链仍混合宗教与政治语言。祭祀是否受享无法按现代方式独立验证，百姓安定也可能由短期强制或信息控制制造。若把一切成功都称天受，天命会退化成胜者证明。孟子的限制在于候选者需有德、长期经事、获民接受，并受继承时势影响；但这些指标依旧需要来源批判。",
+            "尧舜禹的传承还显示推荐不等于结果。舜荐禹，禹避舜子，诸侯朝觐、讼狱归附和讴歌转向谁，成为人民与制度接受的叙事证据。禹之后传子启又表明禅让不是机械规则，亲疏、德行与时势进入判断。孟子不是提供一套固定继承宪法，而用古史说明权力转移不能化约为私授。"
+          ],
+          "identity": "mencius-argument-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "把理由放进处境",
+          "paragraphs": [
+            "古史本身是规范叙事。今本通过尧舜禹汤武讲什么样的继任值得承认，其历史细节未必能按现代史学验证。哲学功能与事实真实性必须分层：即使故事作为范型有论证作用，也不能把故事发生过当作结论的唯一证明；反过来，史实可疑也不自动取消其中“旧君失格与新君正当需分开”的规范洞见。",
+            "设想一次政权更替推翻了残暴统治。旧政权的罪行解释为什么服从义务终止，却不证明新集团有代表性、治理能力或权力限制。新秩序仍须让受影响者安全、建立公共规则并接受检验。孟子的天与人皆与提供双重证成雏形，但没有现代制宪、选举和权利保障程序。"
+          ],
+          "identity": "modern-case-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议与回应边界",
+          "paragraphs": [
+            "最强异议是循环：因舜成功安民所以有天命，又因有天命所以成功被视为正当；史书若由胜者编写，民受也可能是回溯叙事。回应不能消除循环，只能把标准拆开审查：德行是否独立于胜负，人民处境是否真实改善，接受是否自由，政事是否可持续，叙事来源是否多元。孟子提供限制方向，没有完成验证机制。",
+            "收束时要回望个人俟命。个人的“修身以俟之”处理尽责后的不可控结果，政治天命处理谁可承接公共权力；前者不能让人服从任何胜者，后者也不能保证继任者内心完善。整个论证最终保留两道门：暴君可以失格，新王仍须另行证成。孟子的规范资源因此既锋利又不完整。",
+            "最后还要保留文本身份：尧舜故事是今本用来推理的古史，不是现代档案。我们可以检验其规范结构，也必须允许史实研究修正叙事。当天命被理解为对私授、血统和胜利的多重限制时，它仍有批判力量；当它被用来让新权力免于核验时，便背离了“天不言”所开启的公开征象要求。"
+          ],
+          "identity": "modern-critical-reconstruction",
+          "kind": "controversy"
+        }
+      ],
+      "caseText": "推翻暴政回答旧服从为何终止，却没有回答新权力为何应被服从。人民安全、自由接受、治理规则与权力限制必须另行举证。",
+      "nodeIds": [
+        "mencius-13-node"
+      ],
+      "checkIds": [
+        "mencius-13-q1",
+        "mencius-13-q2",
+        "mencius-13-q3",
+        "mencius-13-q4"
+      ],
+      "abilitySummary": [
+        "能够解释天不言、荐与受、民安、古史范型和证成循环，并把旧君失格与新王正当分成两门。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "mencius-01-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "面对今本中的孟子言说，哪一种归属最稳妥？",
+      "targetNodeIds": [
+        "mencius-01-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-01-q1-a",
+          "text": "先按言说者与文本层分级，再用跨章反复提高主张强度",
+          "feedback": "正确。你保留了可谈整体的空间，也让断言强度受证据约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-01-q1-b",
+          "text": "以跨章一致性为由，不再区分对话、叙事与后世整理",
+          "feedback": "不正确。错步是让思想一致性取消文本层次；一致性只能提高归属强度，不能把整理场景变成亲笔独白。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-01-q1-a",
+      "misconceptionId": "mencius-01-misconception-1"
+    },
+    {
+      "id": "mencius-01-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "《汉书》著录十一篇而今本七篇，最直接支持什么？",
+      "targetNodeIds": [
+        "mencius-01-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-01-q2-a",
+          "text": "传本经历选择，篇目史可限制但不能单独决定哲学归属",
+          "feedback": "正确。篇目差异提供传承边界，但不自动解决作者问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-01-q2-b",
+          "text": "把十一篇著录解释为四篇孟子亲撰文本在传承中亡佚",
+          "feedback": "不正确。错步是从篇数差异直接推出亡佚材料的亲笔身份，书目证据并不承担这个结论。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-01-q2-a",
+      "misconceptionId": "mencius-01-misconception-2"
+    },
+    {
+      "id": "mencius-01-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "为什么不能把告子的话只当孟子结论的陪衬？",
+      "targetNodeIds": [
+        "mencius-01-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-01-q3-a",
+          "text": "先按孟子回应的方向概括告子，再判断这项回应是否完整",
+          "feedback": "不正确。错步是先用回应塑造对手前提，反驳便会循环地命中自己设定的靶子。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-01-q3-b",
+          "text": "对手前提若未按最强意思重建，就无法判断反驳是否命中",
+          "feedback": "正确。论辩胜负取决于是否回应真实前提，而非角色标签。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-01-q3-b",
+      "misconceptionId": "mencius-01-misconception-3"
+    },
+    {
+      "id": "mencius-01-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "身份谨慎与整体解释怎样相容？",
+      "targetNodeIds": [
+        "mencius-01-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-01-q4-a",
+          "text": "公开跨章联系及其限度，在不同证据强度上重构整体，并保留归属边界",
+          "feedback": "正确。可追溯的重构既不取消整体，也不隐藏推断。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-01-q4-b",
+          "text": "只保留各章孤立含义，以免跨章联系制造统一的作者形象",
+          "feedback": "不正确。错步是把重构风险扩大为禁止一切互释，反复出现的结构因此也被无故切断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-01-q4-a",
+      "misconceptionId": "mencius-01-misconception-4"
+    },
+    {
+      "id": "mencius-02-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“何必曰利”最合理的理解是什么？",
+      "targetNodeIds": [
+        "mencius-02-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-02-q1-a",
+          "text": "把利益撤出公共理由",
+          "feedback": "不正确。错步是把限制利益的最高地位扩大成取消生计与后果分析。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-02-q1-b",
+          "text": "拒绝让己方所得成为无需仁义约束的最高公共理由",
+          "feedback": "正确。利益仍可计算，但不能自行产生正当边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-02-q1-b",
+      "misconceptionId": "mencius-02-misconception-1"
+    },
+    {
+      "id": "mencius-02-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "逐利为何会沿关系层级扩散？",
+      "targetNodeIds": [
+        "mencius-02-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-02-q2-a",
+          "text": "逐利风险只来自下位者贪欲",
+          "feedback": "不正确。错步是删去上位者公开示范同型理由的结构作用，把风险单归下位者品格。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-02-q2-b",
+          "text": "上位者公开的自利规则也给下位者提供同型理由",
+          "feedback": "正确。关键是可模仿的公共规则，而非预言人人立即犯罪。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-02-q2-b",
+      "misconceptionId": "mencius-02-misconception-2"
+    },
+    {
+      "id": "mencius-02-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "仁义与成本分析的恰当关系是什么？",
+      "targetNodeIds": [
+        "mencius-02-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-02-q3-a",
+          "text": "仁义只限定决策者动机，政策成败可交给利益计算判断",
+          "feedback": "不正确。错步是把仁义缩入内心，使受影响者、手段与分配不再约束政策后果。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-02-q3-b",
+          "text": "仁义规定必须计入的人与不可用的手段，成本分析检验可行后果",
+          "feedback": "正确。规范边界与经验后果互相需要。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-02-q3-b",
+      "misconceptionId": "mencius-02-misconception-3"
+    },
+    {
+      "id": "mencius-02-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "鱼与熊掌的比喻证明了什么？",
+      "targetNodeIds": [
+        "mencius-02-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-02-q4-a",
+          "text": "较高判断有时能够约束最强利益，欲生并非唯一尺度",
+          "feedback": "正确。比喻证明约束可能性，未替具体冲突给出全部答案。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-02-q4-b",
+          "text": "鱼熊掌只管生死抉择，其他情形由利益独断",
+          "feedback": "不正确。错步是把价值排序的可能性封闭在一个案例，未允许义在其他冲突中提出限制。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-02-q4-a",
+      "misconceptionId": "mencius-02-misconception-4"
+    },
+    {
+      "id": "mencius-03-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "湍水争论中，孟子的有效一步是什么？",
+      "targetNodeIds": [
+        "mencius-03-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-03-q1-a",
+          "text": "外力能改变流向，却不能据此断言水势全无自然方向",
+          "feedback": "正确。回应击中的是告子从可变到无方向的跳步。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-03-q1-b",
+          "text": "水能改向，所以水势没有自然方向",
+          "feedback": "不正确。错步是让反驳“无方向”自动完成善向的正面证明，仍缺少人的经验材料。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-03-q1-a",
+      "misconceptionId": "mencius-03-misconception-1"
+    },
+    {
+      "id": "mencius-03-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "性善为什么不被现实恶行立即反驳？",
+      "targetNodeIds": [
+        "mencius-03-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-03-q2-a",
+          "text": "恶行只要能够归因环境，性善便不必提出可检验的预期",
+          "feedback": "不正确。错步是让失养成为免检解释；倾向论仍须说明何种条件下应出现何种端绪。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-03-q2-b",
+          "text": "因为性善指可受环境损害的发展端绪，不是现成表现总和",
+          "feedback": "正确。倾向与实际表现有差别，但仍需经验检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-03-q2-b",
+      "misconceptionId": "mencius-03-misconception-2"
+    },
+    {
+      "id": "mencius-03-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "义内争论怎样避免主观任意？",
+      "targetNodeIds": [
+        "mencius-03-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-03-q3-a",
+          "text": "对象事实提供条件，心依关系与理由形成合宜回应",
+          "feedback": "正确。义在心的判断不等于脱离对象与理由。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-03-q3-b",
+          "text": "义由对象年龄直接给定",
+          "feedback": "不正确。错步是把对象条件当作完整规范命令，遗漏关系、场合与主体判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-03-q3-a",
+      "misconceptionId": "mencius-03-misconception-3"
+    },
+    {
+      "id": "mencius-03-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "牛山比喻最多能说明什么？",
+      "targetNodeIds": [
+        "mencius-03-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-03-q4-a",
+          "text": "休养后重新萌发只显示受损现状没有穷尽原有生机",
+          "feedback": "正确。牛山比喻阻止人从受损现状倒推原无生机；重新萌发只显示能力未被穷尽，并不保证成为圣人。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-03-q4-b",
+          "text": "休养后的萌发足以证明人在合宜条件下都能完成圣人德性",
+          "feedback": "不正确。错步是从恢复生机跳到必成圣人；萌发只支持能力没有被现状穷尽。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-03-q4-a",
+      "misconceptionId": "mencius-03-misconception-4"
+    },
+    {
+      "id": "mencius-04-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“端”为什么不能译成完成德性？",
+      "targetNodeIds": [
+        "mencius-04-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-04-q1-a",
+          "text": "端只是道德能力的名称，是否形成行动不属于端绪问题",
+          "feedback": "不正确。错步是把未完成理解为与发展无关；端的概念正要求说明如何进入稳定行动。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-04-q1-b",
+          "text": "因为端只是可发展开头，仍可能被遮蔽、误导或不扩充",
+          "feedback": "正确。端绪提供方向与能力，不提供自动成就。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-04-q1-b",
+      "misconceptionId": "mencius-04-misconception-1"
+    },
+    {
+      "id": "mencius-04-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "推恩的关键中介是什么？",
+      "targetNodeIds": [
+        "mencius-04-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-04-q2-a",
+          "text": "推恩就是复制对近者的感情强度",
+          "feedback": "不正确。错步是把理由的一致延伸改成情绪强度复制，相似处境无需相同感受。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-04-q2-b",
+          "text": "把已经承认的伤害理由延伸到被忽略的相似处境",
+          "feedback": "正确。推恩要求理由一致化，不以情感等量为条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-04-q2-b",
+      "misconceptionId": "mencius-04-misconception-2"
+    },
+    {
+      "id": "mencius-04-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "自发羞恶为什么不能自动证明判断正确？",
+      "targetNodeIds": [
+        "mencius-04-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-04-q3-a",
+          "text": "自发反应应由冷静计算取代",
+          "feedback": "不正确。错步是从情感可能偏误推出情感没有证据价值，四端的入口因此被取消。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-04-q3-b",
+          "text": "自发反应可能受偏见塑形，仍需事实与是非之心校正",
+          "feedback": "正确。端绪有信息价值，却不是免检证书。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-04-q3-b",
+      "misconceptionId": "mencius-04-misconception-3"
+    },
+    {
+      "id": "mencius-04-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "孺子入井论证最稳妥的结论是什么？",
+      "targetNodeIds": [
+        "mencius-04-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-04-q4-a",
+          "text": "它显示道德反应不必由结交和求誉的动机穷尽",
+          "feedback": "正确。结论保留经验锋芒，也不超过材料。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-04-q4-b",
+          "text": "孺子场景已证明四端普遍",
+          "feedback": "不正确。错步是让单一思想实验承担完整普遍性证明，超出了动机排除所得。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-04-q4-a",
+      "misconceptionId": "mencius-04-misconception-4"
+    },
+    {
+      "id": "mencius-05-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "夷之厚葬父母能证明什么？",
+      "targetNodeIds": [
+        "mencius-05-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-05-q1-a",
+          "text": "夷之厚葬已显示无差等难以实践，因此理论本身不成立",
+          "feedback": "不正确。错步是以实践张力替代理论反驳；不一致只能要求进一步说明。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-05-q1-b",
+          "text": "最多显示其理论解释与实际情感之间仍需进一步说明",
+          "feedback": "正确。行为张力是追问入口，不是理论的自动反证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-05-q1-b",
+      "misconceptionId": "mencius-05-misconception-1"
+    },
+    {
+      "id": "mencius-05-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "差等之爱怎样避免成为任人唯亲？",
+      "targetNodeIds": [
+        "mencius-05-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-05-q2-a",
+          "text": "区分特殊照料义务与不可侵占的公共平等底线",
+          "feedback": "正确。关系可增加职责，但不能取消远者的规范地位。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-05-q2-b",
+          "text": "特殊照料可延伸到公共任用，只要亲属确有受照料需要",
+          "feedback": "不正确。错步是把私人额外职责越界到公共权力，远者的平等资格因此被侵占。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-05-q2-a",
+      "misconceptionId": "mencius-05-misconception-2"
+    },
+    {
+      "id": "mencius-05-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "墨家“兼爱”的最强重建为何不等于感情等量？",
+      "targetNodeIds": [
+        "mencius-05-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-05-q3-a",
+          "text": "它可要求每个人利益有公共分量，而不否认关系中的感情差异",
+          "feedback": "正确。普遍关切首先约束待遇与理由，不必复制感受强度。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-05-q3-b",
+          "text": "兼爱要求公共待遇相同，也要求对亲疏产生同量的感情",
+          "feedback": "不正确。错步是把规范分量与感情强度合并；前者并不必然规定后者等量。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-05-q3-a",
+      "misconceptionId": "mencius-05-misconception-3"
+    },
+    {
+      "id": "mencius-05-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "亲亲与推恩之间的合理关系是什么？",
+      "targetNodeIds": [
+        "mencius-05-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-05-q4-a",
+          "text": "从亲情辨认理由，再让同类理由约束对远者的行动",
+          "feedback": "正确。扩充需要理由迁移与公共规则，而非仅保留亲近感。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-05-q4-b",
+          "text": "亲情提供真实道德动机，因而由亲情作出的公共决定可先获信任",
+          "feedback": "不正确。错步是把心理起点提升为公共正当性证书，省去了利益冲突与规则审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-05-q4-a",
+      "misconceptionId": "mencius-05-misconception-4"
+    },
+    {
+      "id": "mencius-06-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“集义”与“一次做义”有何差别？",
+      "targetNodeIds": [
+        "mencius-06-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-06-q1-a",
+          "text": "一次关键行动若足够合义，也可提前获得集义形成的稳定",
+          "feedback": "不正确。错步是让行动的重要性替代时间累积；集义不能由一次姿态预支。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-06-q1-b",
+          "text": "集义靠反复可说明的行动形成稳定，一次姿态不能袭取它",
+          "feedback": "正确。时间累积是浩然之气的生成中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-06-q1-b",
+      "misconceptionId": "mencius-06-misconception-1"
+    },
+    {
+      "id": "mencius-06-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "知言为什么是浩然之气的必要约束？",
+      "targetNodeIds": [
+        "mencius-06-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-06-q2-a",
+          "text": "它检查言辞偏蔽，防止坚定把误判封成正义",
+          "feedback": "正确。认识校正使承压能力保持可纠正。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-06-q2-b",
+          "text": "知言能识别偏辞，所以辨辞成功可同时证明行动立场正确",
+          "feedback": "不正确。错步是把识别言辞问题提升为自身立场的真理证书。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-06-q2-a",
+      "misconceptionId": "mencius-06-misconception-2"
+    },
+    {
+      "id": "mencius-06-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "志与气的关系说明什么？",
+      "targetNodeIds": [
+        "mencius-06-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-06-q3-a",
+          "text": "判断与具身状态双向作用，压制感觉不足以形成不动心",
+          "feedback": "正确。不动心需要认知与身体实践共同塑形。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-06-q3-b",
+          "text": "气主要承接心志命令，身体反应只是行动后的外在表现",
+          "feedback": "不正确。错步是弱化气反动志的路径，因而无法解释身体状态怎样扰动判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-06-q3-a",
+      "misconceptionId": "mencius-06-misconception-3"
+    },
+    {
+      "id": "mencius-06-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "浩然之气可怎样作有限的现代重构？",
+      "targetNodeIds": [
+        "mencius-06-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-06-q4-a",
+          "text": "浩然之气可作为正当性的内在感受，在争议中补足外部证据",
+          "feedback": "不正确。错步是让具身信心补作事实证据；力量形成不等于观点获证。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-06-q4-b",
+          "text": "视为长期合义实践形成的具身承受力，而非神秘能量",
+          "feedback": "正确。重构保留生成链，也不冒充原文的唯一现代同义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-06-q4-b",
+      "misconceptionId": "mencius-06-misconception-4"
+    },
+    {
+      "id": "mencius-07-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“反求诸己”的合理范围是什么？",
+      "targetNodeIds": [
+        "mencius-07-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-07-q1-a",
+          "text": "反求诸己应优先完成，外部归因只在自身无错时才可开始",
+          "feedback": "不正确。错步是把起始检查变成排他次序；自身与制度因果可以并行搜集。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-07-q1-b",
+          "text": "先检查自己的可控错步，再与外部因果证据共同归责",
+          "feedback": "正确。反求是纠错入口，不是排他的因果理论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-07-q1-b",
+      "misconceptionId": "mencius-07-misconception-1"
+    },
+    {
+      "id": "mencius-07-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "牛山比喻为什么重要？",
+      "targetNodeIds": [
+        "mencius-07-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-07-q2-a",
+          "text": "牛山说明环境损害占决定地位，个人恢复只能等待条件改变",
+          "feedback": "不正确。错步是从环境有力推到行动停顿，抹去了操存、师友与制度共同修复。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-07-q2-b",
+          "text": "它说明反复环境损害可塑造现状，偶尔萌发不足以抵消摧残",
+          "feedback": "正确。比喻保留生机与损害两端。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-07-q2-b",
+      "misconceptionId": "mencius-07-misconception-2"
+    },
+    {
+      "id": "mencius-07-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "“从其大体”是否要求否定身体需要？",
+      "targetNodeIds": [
+        "mencius-07-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-07-q3-a",
+          "text": "否，问题在即时欲求是否未经思量支配整体选择",
+          "feedback": "正确。思考安排欲求，不必铲除身体。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-07-q3-b",
+          "text": "从其大体要求压低身体欲求，待心稳定后再考虑基本需要",
+          "feedback": "不正确。错步是把心的统摄理解成需求延后；饥饿与休息本就在整体判断之内。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-07-q3-a",
+      "misconceptionId": "mencius-07-misconception-3"
+    },
+    {
+      "id": "mencius-07-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "怎样避免教育中的“不屑”成为羞辱许可？",
+      "targetNodeIds": [
+        "mencius-07-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-07-q4-a",
+          "text": "不屑之教只要出于成全目的，就可暂时搁置对方的受辱感",
+          "feedback": "不正确。错步是让善意目的免除伤害与关系条件审查，刺激因而可能退化为羞辱。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-07-q4-b",
+          "text": "把它限定于可靠关系与明确成全目的，并守住公共规则",
+          "feedback": "正确。严格条件阻止刺激方式吞掉人格边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-07-q4-b",
+      "misconceptionId": "mencius-07-misconception-4"
+    },
+    {
+      "id": "mencius-08-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“修身以俟命”最合理的含义是什么？",
+      "targetNodeIds": [
+        "mencius-08-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-08-q1-a",
+          "text": "俟命要求在尽责后停止调整，以免结果焦虑改变既定操守",
+          "feedback": "不正确。错步是把不占有结果变成停止学习；新证据与可控措施仍可改变行动。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-08-q1-b",
+          "text": "尽可控责任后不占有结果，同时区分可避免的风险",
+          "feedback": "正确。俟命限制结果占有，不取消可控努力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-08-q1-b",
+      "misconceptionId": "mencius-08-misconception-1"
+    },
+    {
+      "id": "mencius-08-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "危墙之辨排除了什么？",
+      "targetNodeIds": [
+        "mencius-08-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-08-q2-a",
+          "text": "危墙之辨主要区分能够预见的风险与完全不可预测的遭遇",
+          "feedback": "不正确。错步是把责任缩到能否预测；即使有风险，关键还在是否主动制造或可合理避免。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-08-q2-b",
+          "text": "把主动制造或可避免的风险全部归给命",
+          "feedback": "正确。命不能吸收行动者本可避免的疏忽。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-08-q2-b",
+      "misconceptionId": "mencius-08-misconception-2"
+    },
+    {
+      "id": "mencius-08-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "从知性到知天应保持什么强度？",
+      "targetNodeIds": [
+        "mencius-08-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-08-q3-a",
+          "text": "它表达道德实践与超个人规范秩序的关联，细节仍开放",
+          "feedback": "正确。这样既保留原句锋芒，也不补写未有的论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-08-q3-b",
+          "text": "知天表明道德端绪具有超个人意义，因而宇宙论细节可以由后世体系补足",
+          "feedback": "不正确。错步是让规范关联授权后世体系回填为原文已经证明的宇宙结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-08-q3-a",
+      "misconceptionId": "mencius-08-misconception-3"
+    },
+    {
+      "id": "mencius-08-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "个人俟命为何不能直接推出政治服从？",
+      "targetNodeIds": [
+        "mencius-08-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-08-q4-a",
+          "text": "个人既能事天俟命，政治上的现存秩序便先具有服从推定",
+          "feedback": "不正确。错步是把个人结果边界偷渡为政治资格，跳过民生与暴政检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-08-q4-b",
+          "text": "因为政治天命还需民生、德行与统治资格的独立检验",
+          "feedback": "正确。共享词汇不能跳过不同推理对象。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-08-q4-b",
+      "misconceptionId": "mencius-08-misconception-4"
+    },
+    {
+      "id": "mencius-09-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“以羊易牛”主要暴露什么？",
+      "targetNodeIds": [
+        "mencius-09-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-09-q1-a",
+          "text": "可见性会选择性触发不忍，换对象并未自动减少伤害",
+          "feedback": "正确。场景既提供端绪，也显示注意偏差。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-09-q1-b",
+          "text": "以羊易牛虽未减少牺牲，却已经把不忍稳定用于同类处境",
+          "feedback": "不正确。错步是把对象替换当作理由扩充；可见性偏差仍原样保留。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-09-q1-a",
+      "misconceptionId": "mencius-09-misconception-1"
+    },
+    {
+      "id": "mencius-09-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“非不能，是不为”怎样避免否认治理困难？",
+      "targetNodeIds": [
+        "mencius-09-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-09-q2-a",
+          "text": "它针对已承认理由与已有行动能力之间的不一致",
+          "feedback": "正确。论证施加一致性压力，不抹掉所有条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-09-q2-b",
+          "text": "非不能是不为，说明资源约束相对次要，可在推恩后再处理",
+          "feedback": "不正确。错步是把特定能力判断泛化为资源次要；原论证只追问已有能力为何未被使用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-09-q2-a",
+      "misconceptionId": "mencius-09-misconception-2"
+    },
+    {
+      "id": "mencius-09-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "推恩何时成为公共准则？",
+      "targetNodeIds": [
+        "mencius-09-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-09-q3-a",
+          "text": "推恩在相似痛苦被统治者反复看见时，就获得公共稳定性",
+          "feedback": "不正确。错步是把重复可见当作制度化；不可见者仍需信息与规则保护。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-09-q3-b",
+          "text": "相似伤害通过信息、权衡和规则进入可重复决策时",
+          "feedback": "正确。制度化让不可见者也受同一理由保护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-09-q3-b",
+      "misconceptionId": "mencius-09-misconception-3"
+    },
+    {
+      "id": "mencius-09-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "家长主义异议留下什么边界？",
+      "targetNodeIds": [
+        "mencius-09-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-09-q4-a",
+          "text": "仁心是必要入口，但不能替代参与、问责与权利保障",
+          "feedback": "正确。孟子的规范资源与制度缺口必须同时保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-09-q4-b",
+          "text": "仁心若能持续经受政策后果检验，可暂时代替人民直接发言",
+          "feedback": "不正确。错步是让改进后的家长善意占据主体位置，问责与参与仍不可替代。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-09-q4-a",
+      "misconceptionId": "mencius-09-misconception-4"
+    },
+    {
+      "id": "mencius-10-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“罔民”批评针对什么？",
+      "targetNodeIds": [
+        "mencius-10-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-10-q1-a",
+          "text": "国家制造高风险条件后再把后果全归人民并施罚",
+          "feedback": "正确。批评增加制度责任，不取消所有个人责任。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-10-q1-b",
+          "text": "罔民批评把制度责任置于个人责任之前，处罚应等环境改善后再讨论",
+          "feedback": "不正确。错步是把增加制度责任改成暂停个人责任；两层责任可以同时审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-10-q1-a",
+      "misconceptionId": "mencius-10-misconception-1"
+    },
+    {
+      "id": "mencius-10-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "恒产与恒心是什么关系？",
+      "targetNodeIds": [
+        "mencius-10-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-10-q2-a",
+          "text": "恒产使守心成为可合理期待的行为，因此有恒产者应推定更有德",
+          "feedback": "不正确。错步是把支持条件转成品格推定；稳定生计并不自动生产德性。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-10-q2-b",
+          "text": "稳定生计支持多数人持续守心，但不自动制造德性",
+          "feedback": "正确。物质条件是养护中介，不是德性证书。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-10-q2-b",
+      "misconceptionId": "mencius-10-misconception-2"
+    },
+    {
+      "id": "mencius-10-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "古代田制材料应怎样使用？",
+      "targetNodeIds": [
+        "mencius-10-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-10-q3-a",
+          "text": "提取生计、风险缓冲和不过度征敛结构，同时历史化细节",
+          "feedback": "正确。结构可比较，具体方案需重新论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-10-q3-b",
+          "text": "井田细节虽属古代，仍可作为现代保障额度的默认起点",
+          "feedback": "不正确。错步是把历史方案的数值权威保留下来；可迁移的是结构而非额度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-10-q3-a",
+      "misconceptionId": "mencius-10-misconception-3"
+    },
+    {
+      "id": "mencius-10-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "教育为何不能替代生计保障？",
+      "targetNodeIds": [
+        "mencius-10-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-10-q4-a",
+          "text": "持续匮乏会削弱注意与选择条件，口头劝善不能修复因果环境",
+          "feedback": "正确。教育与生计互补，不能互相吞并。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-10-q4-b",
+          "text": "生计保障先恢复选择能力，教育可在经济条件稳定后再开始",
+          "feedback": "不正确。错步是把互补条件排成替代次序；生计与能力养成需要并行。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-10-q4-a",
+      "misconceptionId": "mencius-10-misconception-4"
+    },
+    {
+      "id": "mencius-11-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "王霸之辨为什么不只是温和与强硬？",
+      "targetNodeIds": [
+        "mencius-11-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-11-q1-a",
+          "text": "王道减少强制，霸道增加强制，二者可按强制数量区分",
+          "feedback": "不正确。错步是用数量替代理由结构；同样的强制仍须看目的、规则与限制。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-11-q1-b",
+          "text": "它比较服从的理由结构及强制受何种目的约束",
+          "feedback": "正确。关键在正当支持与约束，不在是否存在一切强制。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-11-q1-b",
+      "misconceptionId": "mencius-11-misconception-1"
+    },
+    {
+      "id": "mencius-11-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“中心悦服”怎样避免成为读心？",
+      "targetNodeIds": [
+        "mencius-11-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-11-q2-a",
+          "text": "用民生、任意强制、理由公开和合作条件等可观察因素检验",
+          "feedback": "正确。外部条件使规范判断可审查。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-11-q2-b",
+          "text": "中心悦服可由稳定合作推知，不必再检查支持形成的压力条件",
+          "feedback": "不正确。错步是从合作表象直接推断内心认可，恐惧与宣传仍可能塑造行为。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-11-q2-a",
+      "misconceptionId": "mencius-11-misconception-2"
+    },
+    {
+      "id": "mencius-11-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "得道多助能否证明胜者正义？",
+      "targetNodeIds": [
+        "mencius-11-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-11-q3-a",
+          "text": "得道多助若长期重复出现，可把最后胜负作为正当性的辅助证明",
+          "feedback": "不正确。错步是让战略效果反向证明道德；相关性不能取消正义方失败的可能。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-11-q3-b",
+          "text": "不能，它至多说明正当治理可能带来合作优势",
+          "feedback": "正确。正义可能失败，强权也可能暂胜。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-11-q3-b",
+      "misconceptionId": "mencius-11-misconception-3"
+    },
+    {
+      "id": "mencius-11-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "面对现实混合政体，应怎样使用王霸类型？",
+      "targetNodeIds": [
+        "mencius-11-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-11-q4-a",
+          "text": "现实政体只要某一核心维度符合霸道，就应整体按霸道评价",
+          "feedback": "不正确。错步是用单一维度吞掉混合结构，其他理由与限制因而不再受检。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-11-q4-b",
+          "text": "沿理由、民生与强制等维度诊断，而非强塞纯类",
+          "feedback": "正确。规范类型可分维度应用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-11-q4-b",
+      "misconceptionId": "mencius-11-misconception-4"
+    },
+    {
+      "id": "mencius-12-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“民贵君轻”最稳妥的现代比较是什么？",
+      "targetNodeIds": [
+        "mencius-12-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-12-q1-a",
+          "text": "它限制君位并以人民处境为价值基础，但不等于完整民主制度",
+          "feedback": "正确。规范锋芒与制度距离同时得到保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-12-q1-b",
+          "text": "民贵君轻给出价值次序，现代民主制度可视为其未明说的制度实现",
+          "feedback": "不正确。错步是从价值可比较跳到制度同一，行动主体与程序差距仍未填补。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-12-q1-a",
+      "misconceptionId": "mencius-12-misconception-1"
+    },
+    {
+      "id": "mencius-12-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "贵戚易位材料为何不能推出人人都有同等废立权？",
+      "targetNodeIds": [
+        "mencius-12-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-12-q2-a",
+          "text": "贵戚反复谏而不听即可易位，说明撤位资格主要取决于过错严重度",
+          "feedback": "不正确。错步是只保留门槛而删去行动主体；谁可易位仍受宗室结构限制。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-12-q2-b",
+          "text": "因为原章限定了宗室行动主体和反复谏诤条件",
+          "feedback": "正确。资格可撤与行动授权仍是两道问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-12-q2-b",
+      "misconceptionId": "mencius-12-misconception-2"
+    },
+    {
+      "id": "mencius-12-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "“诛一夫纣”的核心论证是什么？",
+      "targetNodeIds": [
+        "mencius-12-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-12-q3-a",
+          "text": "纣失君名后，执行放伐者的行动资格可由这一失格判断一并取得",
+          "feedback": "不正确。错步是把对象失格与行动授权合并，谁可采取何种行动仍需证明。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-12-q3-b",
+          "text": "君名包含仁义职责，严重破坏职责会削弱其服从资格",
+          "feedback": "正确。职位事实与规范资格被区分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-12-q3-b",
+      "misconceptionId": "mencius-12-misconception-3"
+    },
+    {
+      "id": "mencius-12-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "放伐论最大的制度缺口是什么？",
+      "targetNodeIds": [
+        "mencius-12-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-12-q4-a",
+          "text": "人民处境能证明君位失格，也可为放伐提供足够的程序替代",
+          "feedback": "不正确。错步是把实体理由当成程序本身，证据、授权与交接仍无保障。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-12-q4-b",
+          "text": "缺少独立程序防止夺权者自证暴君失格",
+          "feedback": "正确。门槛、证据与授权程序仍不充分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-12-q4-b",
+      "misconceptionId": "mencius-12-misconception-4"
+    },
+    {
+      "id": "mencius-13-q1",
+      "kind": "reasoning-boundary",
+      "prompt": "“天子不能以天下与人”限制了什么？",
+      "targetNodeIds": [
+        "mencius-13-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-13-q1-a",
+          "text": "把公共权位当作君主可私自赠送的财产",
+          "feedback": "正确。推荐可以存在，但不能单靠私人意志完成正当化。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-13-q1-b",
+          "text": "天下不可私授，所以尧的推荐只能表达意见，不能进入继任证成",
+          "feedback": "不正确。错步是把限制私授扩大成排除推荐；推荐仍可启动天与民的独立检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-13-q1-a",
+      "misconceptionId": "mencius-13-misconception-1"
+    },
+    {
+      "id": "mencius-13-q2",
+      "kind": "reasoning-boundary",
+      "prompt": "“天不言，以行与事示之”意味着什么？",
+      "targetNodeIds": [
+        "mencius-13-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-13-q2-a",
+          "text": "天命判断转向德行、政事与人民处境等征象",
+          "feedback": "正确。征象增加约束，虽仍有验证困难。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-13-q2-b",
+          "text": "天不言使天命转向公开政绩，祭祀征象可留作统治者内在确认",
+          "feedback": "不正确。错步是把难验证的祭祀征象留给私人自证，公开限制因此再次失效。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-13-q2-a",
+      "misconceptionId": "mencius-13-misconception-2"
+    },
+    {
+      "id": "mencius-13-q3",
+      "kind": "reasoning-boundary",
+      "prompt": "旧君失格为什么不自动使新王正当？",
+      "targetNodeIds": [
+        "mencius-13-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-13-q3-a",
+          "text": "撤销旧资格与证明新资格依赖不同事实和程序",
+          "feedback": "正确。两道门防止胜者借对手之恶自动自证。",
+          "isCorrect": true
+        },
+        {
+          "id": "mencius-13-q3-b",
+          "text": "旧君失格已排除原秩序，继任者只需证明能够恢复基本安定",
+          "feedback": "不正确。错步是把最低治理能力当成完整新资格，德、接受与权力限制仍待证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "mencius-13-q3-a",
+      "misconceptionId": "mencius-13-misconception-3"
+    },
+    {
+      "id": "mencius-13-q4",
+      "kind": "reasoning-boundary",
+      "prompt": "怎样面对天命论的成功循环？",
+      "targetNodeIds": [
+        "mencius-13-node"
+      ],
+      "options": [
+        {
+          "id": "mencius-13-q4-a",
+          "text": "多项政事与民意指标相互支持时，可以暂以成功作为天命结论",
+          "feedback": "不正确。错步是把相互关联的成功指标汇成同一循环，仍缺独立于胜负的标准。",
+          "isCorrect": false
+        },
+        {
+          "id": "mencius-13-q4-b",
+          "text": "拆开审查德、民、事、接受自由与叙事来源，并保留未决",
+          "feedback": "正确。分项审查缓解循环，但不伪称彻底解决。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "mencius-13-q4-b",
+      "misconceptionId": "mencius-13-misconception-4"
+    }
+  ]
+}

@@ -1,0 +1,5292 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "william-of-ockham--O01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。",
+      "explanation": "奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-1"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 01: 普遍者：唯名论不等于否认概念"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。",
+      "explanation": "只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-2"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 01: 普遍者：唯名论不等于否认概念"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。",
+      "explanation": "书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-3"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 02: 心灵语言：自然符号与约定符号"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。",
+      "explanation": "奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-4"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 02: 心灵语言：自然符号与约定符号"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。",
+      "explanation": "意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-5"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 03: 意指、涵摄与命题位置"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "共同词项代表其所意指的个别事物时，可以具有个体涵摄。",
+      "explanation": "共同词项代表其所意指的个别事物时，可以具有个体涵摄。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-6"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 03: 意指、涵摄与命题位置"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。",
+      "explanation": "简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-7"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 04: 简单涵摄与质料涵摄"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "质料涵摄中，口语或书写表达式作为符号代表它自身。",
+      "explanation": "质料涵摄中，口语或书写表达式作为符号代表它自身。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-8"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 04: 简单涵摄与质料涵摄"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。",
+      "explanation": "直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-9"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 05: 直观认知：在场、存在与偶然事实"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。",
+      "explanation": "奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-10"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 05: 直观认知：在场、存在与偶然事实"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。",
+      "explanation": "抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-11"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 06: 抽象认知：不判定对象是否存在"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。",
+      "explanation": "直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-12"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 06: 抽象认知：不判定对象是否存在"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。",
+      "explanation": "奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-13"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 07: 上帝、非存在对象与自然因果"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。",
+      "explanation": "非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-14"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 07: 上帝、非存在对象与自然因果"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。",
+      "explanation": "奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-15"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 08: 剃刀：方法限定而非万能口号"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。",
+      "explanation": "在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-16"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 08: 剃刀：方法限定而非万能口号"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。",
+      "explanation": "奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-17"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 09: 实体、性质与关系"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。",
+      "explanation": "关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-18"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 09: 实体、性质与关系"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。",
+      "explanation": "神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-19"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 10: 全能与矛盾律"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。",
+      "explanation": "上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-20"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 10: 全能与矛盾律"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。",
+      "explanation": "诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-21"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 11: 自然秩序与神学边界"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。",
+      "explanation": "奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-22"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 11: 自然秩序与神学边界"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。",
+      "explanation": "自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-23"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 12: 自由、意志与道德行为"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。",
+      "explanation": "道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-24"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 12: 自由、意志与道德行为"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。",
+      "explanation": "贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-25"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 13: 方济各会贫穷争论的对象"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。",
+      "explanation": "与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。",
+      "identity": "historical-context; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-26"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 13: 方济各会贫穷争论的对象"
+      ],
+      "voiceClass": "historical-context"
+    },
+    {
+      "id": "william-of-ockham--O14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。",
+      "explanation": "奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-27"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 14: 教宗权力：可讨论且有限"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。",
+      "explanation": "他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-28"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 14: 教宗权力：可讨论且有限"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。",
+      "explanation": "奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。",
+      "identity": "ockham-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-29"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 15: 帝国、共同体与例外"
+      ],
+      "voiceClass": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《对话录》III.1 II.20–27 由老师依次报告改变教会政体的赞成论证、反对论证及双方答辩；课程只比较必要性、效用与共同利益在竞争立场中的作用，不把老师的报告或其中任一支直接归为奥卡姆承诺。",
+      "explanation": "《对话录》III.1 II.20–27 由老师依次报告改变教会政体的赞成论证、反对论证及双方答辩；课程只比较必要性、效用与共同利益在竞争立场中的作用，不把老师的报告或其中任一支直接归为奥卡姆承诺。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-30"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 15: 帝国、共同体与例外"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "william-of-ockham--O16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。",
+      "explanation": "奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-31"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 16: 对手、后继与解释必须分声部"
+      ],
+      "voiceClass": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。",
+      "explanation": "后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。",
+      "identity": "modern-scholarship; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-32"
+      ],
+      "abilityIds": [
+        "william-of-ockham-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Lesson 16: 对手、后继与解释必须分声部"
+      ],
+      "voiceClass": "modern-scholarship"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "william-of-ockham--src-1",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.14–15",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-2",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "SEP §4.2, “The Rejection of Universals”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-3",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.1",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-4",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "SEP §3.3, “Mental Language, Connotation, and Definitions”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-5",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.33 and I.63",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-6",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.64",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-7",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.68",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-8",
+      "workId": "Summa Logicae, Part I",
+      "edition": "Latin critical-work division; English terminology cross-checked against Loux/Boehner selections",
+      "locator": "SL I.67",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Summa Logicae, Part I",
+      "stableUrl": "https://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-9",
+      "workId": "Ordinatio, Prologue",
+      "edition": "Philotheus Boehner trans.; Stephen F. Brown rev., Philosophical Writings, Hackett, 1990; exact Ordinatio passage coverage pending",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Ordinatio, Prologue, its recorded edition, and the single claim O05-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ordinatio, Prologue",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Ordinatio, Prologue, its recorded edition, and the single claim O05-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-10",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O05-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O05-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-11",
+      "workId": "Ordinatio, Prologue",
+      "edition": "Philotheus Boehner trans.; Stephen F. Brown rev., Philosophical Writings, Hackett, 1990; exact Ordinatio passage coverage pending",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Ordinatio, Prologue, its recorded edition, and the single claim O06-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ordinatio, Prologue",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Ordinatio, Prologue, its recorded edition, and the single claim O06-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-12",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O06-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O06-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-13",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O07-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O07-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-14",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O07-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O07-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-15",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O08-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O08-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-16",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "SEP §4.1, “Ockham’s Razor”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-17",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O09-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O09-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-18",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O09-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O09-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-19",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O10-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O10-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-20",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O10-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O10-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-21",
+      "workId": "Ordinatio, Book I",
+      "edition": "Opera Theologica I, Ordinatio I d.42; passage witness/translation still pending",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Ordinatio, Book I, its recorded edition, and the single claim O11-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ordinatio, Book I",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Ordinatio, Book I, its recorded edition, and the single claim O11-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-22",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O11-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O11-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-23",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O12-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O12-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-24",
+      "workId": "Quodlibetal Questions",
+      "edition": "Alfred J. Freddoso and Francis E. Kelley trans., Yale UP, 1991/1998",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O12-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Quodlibetal Questions",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Quodlibetal Questions, its recorded edition, and the single claim O12-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-25",
+      "workId": "Opus nonaginta dierum / Work of Ninety Days",
+      "edition": "John Kilcullen and John Scott trans., Work of Ninety Days; exact passage witness pending",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Opus nonaginta dierum / Work of Ninety Days, its recorded edition, and the single claim O13-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Opus nonaginta dierum / Work of Ninety Days",
+      "stableUrl": "https://yalebooks.yale.edu/9780300075069/quodlibetal-questions/",
+      "boundaryZh": "Obtain a passage-level witness matching Opus nonaginta dierum / Work of Ninety Days, its recorded edition, and the single claim O13-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-26",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O13-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O13-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "historical-context",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-27",
+      "workId": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "edition": "Arthur S. McGrade ed.; John Kilcullen trans., Cambridge UP, 1992",
+      "locator": "Short Discourse, Book I, ch.1, pp.5–7",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "stableUrl": "https://doi.org/10.1017/CBO9781139168038",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-28",
+      "workId": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "edition": "Arthur S. McGrade ed.; John Kilcullen trans., Cambridge UP, 1992",
+      "locator": "Short Discourse, Book II, chs.1–3, pp.17–30",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "stableUrl": "https://doi.org/10.1017/CBO9781139168038",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-29",
+      "workId": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "edition": "Arthur S. McGrade ed.; John Kilcullen trans., Cambridge UP, 1992",
+      "locator": "Short Discourse, Book III, ch.1, pp.71–74",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "A Short Discourse on Tyrannical Government, McGrade/Kilcullen 1992",
+      "stableUrl": "https://doi.org/10.1017/CBO9781139168038",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "ockham-primary",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-30",
+      "workId": "Dialogus, Part III, tract 1",
+      "edition": "British Academy critical text and English translation",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain chapter-by-chapter, speaker-aware passage mapping for Dialogus III.1, II.20–27 before claiming any authorial commitment or closed synthesis.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Dialogus, Part III, tract 1",
+      "stableUrl": "https://publications.thebritishacademy.ac.uk/pubs/dialogus/",
+      "boundaryZh": "Obtain chapter-by-chapter, speaker-aware passage mapping for Dialogus III.1, II.20–27 before claiming any authorial commitment or closed synthesis.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "route-synthesis",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-31",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O16-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O16-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    },
+    {
+      "id": "william-of-ockham--src-32",
+      "workId": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2024",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O16-C2.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Stanford Encyclopedia of Philosophy: William of Ockham",
+      "stableUrl": "https://plato.stanford.edu/entries/ockham/",
+      "boundaryZh": "Obtain a passage-level witness matching Stanford Encyclopedia of Philosophy: William of Ockham, its recorded edition, and the single claim O16-C2.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-scholarship",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "william-of-ockham-signs-cognition-power",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "奥卡姆的威廉：符号、认知与权力边界",
+      "lessonIds": [
+        "william-of-ockham--ockham-01",
+        "william-of-ockham--ockham-02",
+        "william-of-ockham--ockham-03",
+        "william-of-ockham--ockham-04",
+        "william-of-ockham--ockham-05",
+        "william-of-ockham--ockham-06",
+        "william-of-ockham--ockham-07",
+        "william-of-ockham--ockham-08",
+        "william-of-ockham--ockham-09",
+        "william-of-ockham--ockham-10",
+        "william-of-ockham--ockham-11",
+        "william-of-ockham--ockham-12",
+        "william-of-ockham--ockham-13",
+        "william-of-ockham--ockham-14",
+        "william-of-ockham--ockham-15",
+        "william-of-ockham--ockham-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "William of Ockham",
+        "nameZh": "奥卡姆的威廉",
+        "sourceRouteId": "william-of-ockham-signs-cognition-power"
+      },
+      "summary": "普遍者：唯名论不等于否认概念"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "william-of-ockham--ockham-01",
+      "order": 1,
+      "title": "普遍者：唯名论不等于否认概念",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "普遍者：唯名论不等于否认概念",
+      "coreExplanation": "奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。\n\n只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。",
+      "sections": [
+        {
+          "heading": "普遍者：唯名论不等于否认概念",
+          "paragraphs": [
+            "奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。",
+            "只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-1",
+            "william-of-ockham--src-2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O01-C1",
+        "william-of-ockham--O01-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O01-Q1",
+        "william-of-ockham--O01-Q2",
+        "william-of-ockham--O01-Q3",
+        "william-of-ockham--O01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-02",
+      "sourceIds": [
+        "william-of-ockham--src-1",
+        "william-of-ockham--src-2"
+      ],
+      "essentialQuestion": "普遍者：唯名论不等于否认概念",
+      "initialFocusId": "william-of-ockham--ockham-01-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-02",
+      "order": 2,
+      "title": "心灵语言：自然符号与约定符号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "心灵语言：自然符号与约定符号",
+      "coreExplanation": "书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。\n\n奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。",
+      "sections": [
+        {
+          "heading": "心灵语言：自然符号与约定符号",
+          "paragraphs": [
+            "书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。",
+            "奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-3",
+            "william-of-ockham--src-4"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O02-C1",
+        "william-of-ockham--O02-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O02-Q1",
+        "william-of-ockham--O02-Q2",
+        "william-of-ockham--O02-Q3",
+        "william-of-ockham--O02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-03",
+      "sourceIds": [
+        "william-of-ockham--src-3",
+        "william-of-ockham--src-4"
+      ],
+      "essentialQuestion": "心灵语言：自然符号与约定符号",
+      "initialFocusId": "william-of-ockham--ockham-02-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-03",
+      "order": 3,
+      "title": "意指、涵摄与命题位置",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "意指、涵摄与命题位置",
+      "coreExplanation": "意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。\n\n共同词项代表其所意指的个别事物时，可以具有个体涵摄。",
+      "sections": [
+        {
+          "heading": "意指、涵摄与命题位置",
+          "paragraphs": [
+            "意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。",
+            "共同词项代表其所意指的个别事物时，可以具有个体涵摄。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-5",
+            "william-of-ockham--src-6"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O03-C1",
+        "william-of-ockham--O03-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O03-Q1",
+        "william-of-ockham--O03-Q2",
+        "william-of-ockham--O03-Q3",
+        "william-of-ockham--O03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-04",
+      "sourceIds": [
+        "william-of-ockham--src-5",
+        "william-of-ockham--src-6"
+      ],
+      "essentialQuestion": "意指、涵摄与命题位置",
+      "initialFocusId": "william-of-ockham--ockham-03-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-04",
+      "order": 4,
+      "title": "简单涵摄与质料涵摄",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "简单涵摄与质料涵摄",
+      "coreExplanation": "简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。\n\n质料涵摄中，口语或书写表达式作为符号代表它自身。",
+      "sections": [
+        {
+          "heading": "简单涵摄与质料涵摄",
+          "paragraphs": [
+            "简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。",
+            "质料涵摄中，口语或书写表达式作为符号代表它自身。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-7",
+            "william-of-ockham--src-8"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O04-C1",
+        "william-of-ockham--O04-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O04-Q1",
+        "william-of-ockham--O04-Q2",
+        "william-of-ockham--O04-Q3",
+        "william-of-ockham--O04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-05",
+      "sourceIds": [
+        "william-of-ockham--src-7",
+        "william-of-ockham--src-8"
+      ],
+      "essentialQuestion": "简单涵摄与质料涵摄",
+      "initialFocusId": "william-of-ockham--ockham-04-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-05",
+      "order": 5,
+      "title": "直观认知：在场、存在与偶然事实",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "直观认知：在场、存在与偶然事实",
+      "coreExplanation": "直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。\n\n奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。",
+      "sections": [
+        {
+          "heading": "直观认知：在场、存在与偶然事实",
+          "paragraphs": [
+            "直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。",
+            "奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-9",
+            "william-of-ockham--src-10"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O05-C1",
+        "william-of-ockham--O05-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O05-Q1",
+        "william-of-ockham--O05-Q2",
+        "william-of-ockham--O05-Q3",
+        "william-of-ockham--O05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-06",
+      "sourceIds": [
+        "william-of-ockham--src-9",
+        "william-of-ockham--src-10"
+      ],
+      "essentialQuestion": "直观认知：在场、存在与偶然事实",
+      "initialFocusId": "william-of-ockham--ockham-05-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-06",
+      "order": 6,
+      "title": "抽象认知：不判定对象是否存在",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "抽象认知：不判定对象是否存在",
+      "coreExplanation": "抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。\n\n直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。",
+      "sections": [
+        {
+          "heading": "抽象认知：不判定对象是否存在",
+          "paragraphs": [
+            "抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。",
+            "直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-11",
+            "william-of-ockham--src-12"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O06-C1",
+        "william-of-ockham--O06-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O06-Q1",
+        "william-of-ockham--O06-Q2",
+        "william-of-ockham--O06-Q3",
+        "william-of-ockham--O06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-07",
+      "sourceIds": [
+        "william-of-ockham--src-11",
+        "william-of-ockham--src-12"
+      ],
+      "essentialQuestion": "抽象认知：不判定对象是否存在",
+      "initialFocusId": "william-of-ockham--ockham-06-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-07",
+      "order": 7,
+      "title": "上帝、非存在对象与自然因果",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "上帝、非存在对象与自然因果",
+      "coreExplanation": "奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。\n\n非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。",
+      "sections": [
+        {
+          "heading": "上帝、非存在对象与自然因果",
+          "paragraphs": [
+            "奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。",
+            "非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-13",
+            "william-of-ockham--src-14"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O07-C1",
+        "william-of-ockham--O07-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O07-Q1",
+        "william-of-ockham--O07-Q2",
+        "william-of-ockham--O07-Q3",
+        "william-of-ockham--O07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-08",
+      "sourceIds": [
+        "william-of-ockham--src-13",
+        "william-of-ockham--src-14"
+      ],
+      "essentialQuestion": "上帝、非存在对象与自然因果",
+      "initialFocusId": "william-of-ockham--ockham-07-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-08",
+      "order": 8,
+      "title": "剃刀：方法限定而非万能口号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "剃刀：方法限定而非万能口号",
+      "coreExplanation": "奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。\n\n在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。",
+      "sections": [
+        {
+          "heading": "剃刀：方法限定而非万能口号",
+          "paragraphs": [
+            "奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。",
+            "在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-15",
+            "william-of-ockham--src-16"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O08-C1",
+        "william-of-ockham--O08-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O08-Q1",
+        "william-of-ockham--O08-Q2",
+        "william-of-ockham--O08-Q3",
+        "william-of-ockham--O08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-09",
+      "sourceIds": [
+        "william-of-ockham--src-15",
+        "william-of-ockham--src-16"
+      ],
+      "essentialQuestion": "剃刀：方法限定而非万能口号",
+      "initialFocusId": "william-of-ockham--ockham-08-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-09",
+      "order": 9,
+      "title": "实体、性质与关系",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "实体、性质与关系",
+      "coreExplanation": "奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。\n\n关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。",
+      "sections": [
+        {
+          "heading": "实体、性质与关系",
+          "paragraphs": [
+            "奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。",
+            "关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-17",
+            "william-of-ockham--src-18"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O09-C1",
+        "william-of-ockham--O09-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O09-Q1",
+        "william-of-ockham--O09-Q2",
+        "william-of-ockham--O09-Q3",
+        "william-of-ockham--O09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-10",
+      "sourceIds": [
+        "william-of-ockham--src-17",
+        "william-of-ockham--src-18"
+      ],
+      "essentialQuestion": "实体、性质与关系",
+      "initialFocusId": "william-of-ockham--ockham-09-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-10",
+      "order": 10,
+      "title": "全能与矛盾律",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "全能与矛盾律",
+      "coreExplanation": "神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。\n\n上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。",
+      "sections": [
+        {
+          "heading": "全能与矛盾律",
+          "paragraphs": [
+            "神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。",
+            "上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-19",
+            "william-of-ockham--src-20"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O10-C1",
+        "william-of-ockham--O10-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O10-Q1",
+        "william-of-ockham--O10-Q2",
+        "william-of-ockham--O10-Q3",
+        "william-of-ockham--O10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-11",
+      "sourceIds": [
+        "william-of-ockham--src-19",
+        "william-of-ockham--src-20"
+      ],
+      "essentialQuestion": "全能与矛盾律",
+      "initialFocusId": "william-of-ockham--ockham-10-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-11",
+      "order": 11,
+      "title": "自然秩序与神学边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "自然秩序与神学边界",
+      "coreExplanation": "诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。\n\n奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。",
+      "sections": [
+        {
+          "heading": "自然秩序与神学边界",
+          "paragraphs": [
+            "诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。",
+            "奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-21",
+            "william-of-ockham--src-22"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O11-C1",
+        "william-of-ockham--O11-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O11-Q1",
+        "william-of-ockham--O11-Q2",
+        "william-of-ockham--O11-Q3",
+        "william-of-ockham--O11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-12",
+      "sourceIds": [
+        "william-of-ockham--src-21",
+        "william-of-ockham--src-22"
+      ],
+      "essentialQuestion": "自然秩序与神学边界",
+      "initialFocusId": "william-of-ockham--ockham-11-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-12",
+      "order": 12,
+      "title": "自由、意志与道德行为",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "自由、意志与道德行为",
+      "coreExplanation": "自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。\n\n道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。",
+      "sections": [
+        {
+          "heading": "自由、意志与道德行为",
+          "paragraphs": [
+            "自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。",
+            "道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-23",
+            "william-of-ockham--src-24"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O12-C1",
+        "william-of-ockham--O12-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O12-Q1",
+        "william-of-ockham--O12-Q2",
+        "william-of-ockham--O12-Q3",
+        "william-of-ockham--O12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-13",
+      "sourceIds": [
+        "william-of-ockham--src-23",
+        "william-of-ockham--src-24"
+      ],
+      "essentialQuestion": "自由、意志与道德行为",
+      "initialFocusId": "william-of-ockham--ockham-12-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-13",
+      "order": 13,
+      "title": "方济各会贫穷争论的对象",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "方济各会贫穷争论的对象",
+      "coreExplanation": "贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。\n\n与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。",
+      "sections": [
+        {
+          "heading": "方济各会贫穷争论的对象",
+          "paragraphs": [
+            "贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。",
+            "与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-25",
+            "william-of-ockham--src-26"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O13-C1",
+        "william-of-ockham--O13-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O13-Q1",
+        "william-of-ockham--O13-Q2",
+        "william-of-ockham--O13-Q3",
+        "william-of-ockham--O13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-14",
+      "sourceIds": [
+        "william-of-ockham--src-25",
+        "william-of-ockham--src-26"
+      ],
+      "essentialQuestion": "方济各会贫穷争论的对象",
+      "initialFocusId": "william-of-ockham--ockham-13-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-14",
+      "order": 14,
+      "title": "教宗权力：可讨论且有限",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "教宗权力：可讨论且有限",
+      "coreExplanation": "奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。\n\n他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。",
+      "sections": [
+        {
+          "heading": "教宗权力：可讨论且有限",
+          "paragraphs": [
+            "奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。",
+            "他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-27",
+            "william-of-ockham--src-28"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O14-C1",
+        "william-of-ockham--O14-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O14-Q1",
+        "william-of-ockham--O14-Q2",
+        "william-of-ockham--O14-Q3",
+        "william-of-ockham--O14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-15",
+      "sourceIds": [
+        "william-of-ockham--src-27",
+        "william-of-ockham--src-28"
+      ],
+      "essentialQuestion": "教宗权力：可讨论且有限",
+      "initialFocusId": "william-of-ockham--ockham-14-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-15",
+      "order": 15,
+      "title": "帝国、共同体与例外",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "帝国、共同体与例外",
+      "coreExplanation": "奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。\n\n《对话录》III.1 II.20–27 由老师依次报告改变教会政体的赞成论证、反对论证及双方答辩；课程只比较必要性、效用与共同利益在竞争立场中的作用，不把老师的报告或其中任一支直接归为奥卡姆承诺。",
+      "sections": [
+        {
+          "heading": "帝国、共同体与例外",
+          "paragraphs": [
+            "奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。",
+            "《对话录》III.1 II.20–27 由老师依次报告改变教会政体的赞成论证、反对论证及双方答辩；课程只比较必要性、效用与共同利益在竞争立场中的作用，不把老师的报告或其中任一支直接归为奥卡姆承诺。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-29",
+            "william-of-ockham--src-30"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O15-C1",
+        "william-of-ockham--O15-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O15-Q1",
+        "william-of-ockham--O15-Q2",
+        "william-of-ockham--O15-Q3",
+        "william-of-ockham--O15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "william-of-ockham--ockham-16",
+      "sourceIds": [
+        "william-of-ockham--src-29",
+        "william-of-ockham--src-30"
+      ],
+      "essentialQuestion": "帝国、共同体与例外",
+      "initialFocusId": "william-of-ockham--ockham-15-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "william-of-ockham--ockham-16",
+      "order": 16,
+      "title": "对手、后继与解释必须分声部",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "对手、后继与解释必须分声部",
+      "coreExplanation": "奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。\n\n后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。",
+      "sections": [
+        {
+          "heading": "对手、后继与解释必须分声部",
+          "paragraphs": [
+            "奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。",
+            "后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "william-of-ockham--src-31",
+            "william-of-ockham--src-32"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "william-of-ockham--O16-C1",
+        "william-of-ockham--O16-C2"
+      ],
+      "checkIds": [
+        "william-of-ockham--O16-Q1",
+        "william-of-ockham--O16-Q2",
+        "william-of-ockham--O16-Q3",
+        "william-of-ockham--O16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "william-of-ockham--src-31",
+        "william-of-ockham--src-32"
+      ],
+      "essentialQuestion": "对手、后继与解释必须分声部",
+      "initialFocusId": "william-of-ockham--ockham-16-title",
+      "routeId": "william-of-ockham-signs-cognition-power",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "william-of-ockham--O01-Q1",
+      "kind": "binary",
+      "prompt": "依据 O01-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O01-Q1-1",
+          "text": "奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。",
+          "feedback": "“奥卡姆否认普遍者是许多个体共同分有的心外事物；普遍性属于能够谓述许多对象的符号。”命中了心外共同本性与可普遍谓述符号之分；O01-C1 的支持点是：命题保留了个体实在与概念普遍性的双重承诺。 证据状态：已闭合：SL I.14–15。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-1"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O01-Q1-2",
+          "text": "“奥卡姆否认任何共同本性，因此也否认心灵中有可普遍谓述的概念”把反实在论误写成反概念论。",
+          "feedback": "““奥卡姆否认任何共同本性，因此也否认心灵中有可普遍谓述的概念”把反实在论误写成反概念论。”违反了心外共同本性与可普遍谓述符号之分；该错误项把奥卡姆对心外共同本性的否定扩大成对心灵中普遍概念的否定，抹去了他的自然意指概念理论。 证据状态：已闭合：SL I.14–15。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-1"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O01-Q1-1",
+      "misconceptionId": "william-of-ockham--O01-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-1"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O01-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-01",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O01-Q2",
+      "kind": "binary",
+      "prompt": "三位学生都能被谓述为“人”，教师问这是否要求另有一个共同的人性实体。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O01-Q2-1",
+          "text": "除非存在第四个共同人性实体，“人”就不可能真实谓述三位学生。",
+          "feedback": "“除非存在第四个共同人性实体，“人”就不可能真实谓述三位学生。”错误处理了心外共同本性与可普遍谓述符号之分；在该案例中，错误把共同谓述的语义功能实体化为额外共同本性，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.14–15。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-1"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O01-Q2-2",
+          "text": "共同谓述可由自然意指的普遍概念完成，不必增设被三人共同分有的实体。",
+          "feedback": "“共同谓述可由自然意指的普遍概念完成，不必增设被三人共同分有的实体。”正确应用了心外共同本性与可普遍谓述符号之分；在该案例中，命题保留了个体实在与概念普遍性的双重承诺，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.14–15。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-1"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O01-Q2-2",
+      "misconceptionId": "william-of-ockham--O01-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-1"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O01-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O01-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-01",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O01-Q3",
+      "kind": "binary",
+      "prompt": "依据 O01-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O01-Q3-1",
+          "text": "只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。",
+          "feedback": "“只有在“唯名论”标签保留了自然意指概念的正面理论时，它才不会遮蔽奥卡姆的立场。”命中了学派标签与正面概念理论之分；O01-C2 的支持点是：支持点是反普遍者实在论并未取消自然符号。 证据状态：已闭合：SEP §4.2, “The Rejection of Universals”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-2"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O01-Q3-2",
+          "text": "“唯名论”标签本身已经完整说明概念如何自然指示对象，不再需要概念论边界。",
+          "feedback": "““唯名论”标签本身已经完整说明概念如何自然指示对象，不再需要概念论边界。”违反了学派标签与正面概念理论之分；O01-C2 的错误机制是：错误从名称论标签跳到了“只有声音”的极端立场。 证据状态：已闭合：SEP §4.2, “The Rejection of Universals”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-2"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O01-Q3-1",
+      "misconceptionId": "william-of-ockham--O01-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-2"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O01-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-01",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O01-Q4",
+      "kind": "binary",
+      "prompt": "目录把作者列作“唯名论者”，却完全省略心灵概念；编辑需要判断标签是否充分。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O01-Q4-1",
+          "text": "既然叫唯名论者，目录可以断言他只承认声音而不承认概念。",
+          "feedback": "“既然叫唯名论者，目录可以断言他只承认声音而不承认概念。”错误处理了学派标签与正面概念理论之分；在该案例中，错误从名称论标签跳到了“只有声音”的极端立场，所以该推论越过了材料许可的范围。 证据状态：已闭合：SEP §4.2, “The Rejection of Universals”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-2"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O01-Q4-2",
+          "text": "目录须补明自然意指概念，否则“唯名论”会遮蔽其正面语义理论。",
+          "feedback": "“目录须补明自然意指概念，否则“唯名论”会遮蔽其正面语义理论。”正确应用了学派标签与正面概念理论之分；在该案例中，支持点是反普遍者实在论并未取消自然符号，因此不能省略情境所要求的区分。 证据状态：已闭合：SEP §4.2, “The Rejection of Universals”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-2"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O01-Q4-2",
+      "misconceptionId": "william-of-ockham--O01-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-2"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O01-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O01-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-01",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O02-Q1",
+      "kind": "binary",
+      "prompt": "依据 O02-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O02-Q1-1",
+          "text": "书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。",
+          "feedback": "“书写符号从属于口语符号，口语符号又从属于在心灵语言中自然意指的概念。”命中了约定性口语符号与自然性心灵符号之分；O02-C1 的支持点是：层级关系解释了跨语言词形不同而概念仍能指向同类对象。 证据状态：已闭合：SL I.1。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-3"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O02-Q1-2",
+          "text": "书写词、口语词与心灵概念都只靠同一种任意约定获得意义。",
+          "feedback": "“书写词、口语词与心灵概念都只靠同一种任意约定获得意义。”违反了约定性口语符号与自然性心灵符号之分；O02-C1 的错误机制是：错误把口语符号的约定性上推给心灵概念。 证据状态：已闭合：SL I.1。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-3"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O02-Q1-1",
+      "misconceptionId": "william-of-ockham--O02-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-3"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O02-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-02",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O02-Q2",
+      "kind": "binary",
+      "prompt": "同一动物在英语中叫 dog、法语中叫 chien，研究者比较两种词与相关概念。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O02-Q2-1",
+          "text": "dog 与 chien 的差别证明相应心灵概念也完全由任意约定制造。",
+          "feedback": "“dog 与 chien 的差别证明相应心灵概念也完全由任意约定制造。”错误处理了约定性口语符号与自然性心灵符号之分；在该案例中，错误把口语符号的约定性上推给心灵概念，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.1。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-3"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O02-Q2-2",
+          "text": "两种口语符号依约定不同，但都从属于自然意指的心灵概念。",
+          "feedback": "“两种口语符号依约定不同，但都从属于自然意指的心灵概念。”正确应用了约定性口语符号与自然性心灵符号之分；在该案例中，层级关系解释了跨语言词形不同而概念仍能指向同类对象，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.1。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-3"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O02-Q2-2",
+      "misconceptionId": "william-of-ockham--O02-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-3"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O02-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O02-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-02",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O02-Q3",
+      "kind": "binary",
+      "prompt": "依据 O02-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O02-Q3-1",
+          "text": "奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。",
+          "feedback": "“奥卡姆赋予心灵语言以词项和命题等句法结构，而不是把思想当作无结构图像。”命中了命题句法与心理图像之分；O02-C2 的支持点是：主词、谓词及组合结构是判断能够成立的关键。 证据状态：已闭合：SEP §3.3, “Mental Language, Connotation, and Definitions”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-4"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O02-Q3-2",
+          "text": "奥卡姆的心灵语言只是无句法的私人图像流，不能形成命题。",
+          "feedback": "“奥卡姆的心灵语言只是无句法的私人图像流，不能形成命题。”违反了命题句法与心理图像之分；O02-C2 的错误机制是：错误用图像相似性替代命题的句法组织。 证据状态：已闭合：SEP §3.3, “Mental Language, Connotation, and Definitions”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-4"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O02-Q3-1",
+      "misconceptionId": "william-of-ockham--O02-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-4"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O02-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-02",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O02-Q4",
+      "kind": "binary",
+      "prompt": "某人把“所有人会死”理解成一幅模糊群像，未承认其中有主谓组合。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O02-Q4-1",
+          "text": "只要脑中出现群像，就已穷尽奥卡姆所谓心灵命题的结构。",
+          "feedback": "“只要脑中出现群像，就已穷尽奥卡姆所谓心灵命题的结构。”错误处理了命题句法与心理图像之分；在该案例中，错误用图像相似性替代命题的句法组织，所以该推论越过了材料许可的范围。 证据状态：已闭合：SEP §3.3, “Mental Language, Connotation, and Definitions”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-4"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O02-Q4-2",
+          "text": "该思想包含可组合成命题的心灵词项，不能只按无结构图像解释。",
+          "feedback": "“该思想包含可组合成命题的心灵词项，不能只按无结构图像解释。”正确应用了命题句法与心理图像之分；在该案例中，主词、谓词及组合结构是判断能够成立的关键，因此不能省略情境所要求的区分。 证据状态：已闭合：SEP §3.3, “Mental Language, Connotation, and Definitions”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-4"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O02-Q4-2",
+      "misconceptionId": "william-of-ockham--O02-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-4"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O02-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O02-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-02",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O03-Q1",
+      "kind": "binary",
+      "prompt": "依据 O03-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O03-Q1-1",
+          "text": "意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。",
+          "feedback": "“意指是词项较稳定的意义能力；涵摄则关乎词项在具体命题中代表什么。”命中了稳定意指与命题内涵摄之分；O03-C1 的支持点是：案例显示同一词项的意指能力与具体使用功能不可合并。 证据状态：已闭合：SL I.33 and I.63。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-5"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O03-Q1-2",
+          "text": "意指与涵摄是完全同一关系；只要知道词典意义，就已决定它在每个命题中所代之物。",
+          "feedback": "“意指与涵摄是完全同一关系；只要知道词典意义，就已决定它在每个命题中所代之物。”违反了稳定意指与命题内涵摄之分；O03-C1 的错误机制是：错误把词项的一般意义等同每次命题使用中的代表对象。 证据状态：已闭合：SL I.33 and I.63。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-5"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O03-Q1-1",
+      "misconceptionId": "william-of-ockham--O03-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-5"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O03-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-03",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O03-Q2",
+      "kind": "binary",
+      "prompt": "词典说明“人”的通常意义；句子“人是一个种”却让该词承担不同代表功能。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O03-Q2-1",
+          "text": "词典一旦给出意义，词项在任何句子中代表的对象就完全固定。",
+          "feedback": "“词典一旦给出意义，词项在任何句子中代表的对象就完全固定。”错误处理了稳定意指与命题内涵摄之分；在该案例中，错误把词项的一般意义等同每次命题使用中的代表对象，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.33 and I.63。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-5"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O03-Q2-2",
+          "text": "词典意指保持背景作用，具体命题中的涵摄决定词项此处代表什么。",
+          "feedback": "“词典意指保持背景作用，具体命题中的涵摄决定词项此处代表什么。”正确应用了稳定意指与命题内涵摄之分；在该案例中，案例显示同一词项的意指能力与具体使用功能不可合并，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.33 and I.63。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-5"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O03-Q2-2",
+      "misconceptionId": "william-of-ockham--O03-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-5"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O03-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O03-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-03",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O03-Q3",
+      "kind": "binary",
+      "prompt": "依据 O03-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O03-Q3-1",
+          "text": "共同词项代表其所意指的个别事物时，可以具有个体涵摄。",
+          "feedback": "“共同词项代表其所意指的个别事物时，可以具有个体涵摄。”命中了个体涵摄与私人心理状态之分；O03-C2 的支持点是：量化句中的共同词项下行到其所意指的个体。 证据状态：已闭合：SL I.64。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-6"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O03-Q3-2",
+          "text": "personal supposition 意味着一个词只代表说话者的私人心理状态。",
+          "feedback": "“personal supposition 意味着一个词只代表说话者的私人心理状态。”违反了个体涵摄与私人心理状态之分；O03-C2 的错误机制是：错误按现代日常语义理解 personal，丢失经院逻辑功能。 证据状态：已闭合：SL I.64。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-6"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O03-Q3-1",
+      "misconceptionId": "william-of-ockham--O03-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-6"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O03-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-03",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O03-Q4",
+      "kind": "binary",
+      "prompt": "“每个人都在房间里”用于清点在场者，管理员问“人”在句中代表什么。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O03-Q4-1",
+          "text": "personal 一词说明“人”只代表说话者私下形成的心理感受。",
+          "feedback": "“personal 一词说明“人”只代表说话者私下形成的心理感受。”错误处理了个体涵摄与私人心理状态之分；在该案例中，错误按现代日常语义理解 personal，丢失经院逻辑功能，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.64。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-6"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O03-Q4-2",
+          "text": "该共同词项在此代表一个个在场的人，而不是管理员的私人心境。",
+          "feedback": "“该共同词项在此代表一个个在场的人，而不是管理员的私人心境。”正确应用了个体涵摄与私人心理状态之分；在该案例中，量化句中的共同词项下行到其所意指的个体，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.64。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-6"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O03-Q4-2",
+      "misconceptionId": "william-of-ockham--O03-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-6"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O03-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O03-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-03",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-Q1",
+      "kind": "binary",
+      "prompt": "依据 O04-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O04-Q1-1",
+          "text": "简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。",
+          "feedback": "“简单涵摄中，词项代表心灵意向，而不是代表它通常意指的心外个体。”命中了简单涵摄与心外普遍实体之分；O04-C1 的支持点是：谓词“种”要求词项转而代表意向层级。 证据状态：已闭合：SL I.68。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-7"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O04-Q1-2",
+          "text": "simple supposition 要求共同本性作为心外实体亲自在命题中出现。",
+          "feedback": "“simple supposition 要求共同本性作为心外实体亲自在命题中出现。”违反了简单涵摄与心外普遍实体之分；O04-C1 的错误机制是：错误把代表心灵意向重新实体化为心外共相。 证据状态：已闭合：SL I.68。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-7"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O04-Q1-1",
+      "misconceptionId": "william-of-ockham--O04-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-7"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O04-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-04",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-Q2",
+      "kind": "binary",
+      "prompt": "逻辑课说“人是一个种”，并非断言苏格拉底这个人是一个种。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O04-Q2-1",
+          "text": "这句话要求一个心外的“人本身”作为种实体进入命题。",
+          "feedback": "“这句话要求一个心外的“人本身”作为种实体进入命题。”错误处理了简单涵摄与心外普遍实体之分；在该案例中，错误把代表心灵意向重新实体化为心外共相，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.68。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-7"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O04-Q2-2",
+          "text": "“人”在此可代表心灵中的普遍意向，而非通常所指的个别人。",
+          "feedback": "““人”在此可代表心灵中的普遍意向，而非通常所指的个别人。”正确应用了简单涵摄与心外普遍实体之分；在该案例中，谓词“种”要求词项转而代表意向层级，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.68。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-7"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O04-Q2-2",
+      "misconceptionId": "william-of-ockham--O04-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-7"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O04-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O04-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-04",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-Q3",
+      "kind": "binary",
+      "prompt": "依据 O04-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O04-Q3-1",
+          "text": "质料涵摄中，口语或书写表达式作为符号代表它自身。",
+          "feedback": "“质料涵摄中，口语或书写表达式作为符号代表它自身。”命中了符号自指与物质材料之分；O04-C2 的支持点是：音节属性属于表达式本身而非其通常指称对象。 证据状态：已闭合：SL I.67。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-8"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O04-Q3-2",
+          "text": "material supposition 指词项必定代表制造它的物质材料，而不是代表该表达式本身。",
+          "feedback": "“material supposition 指词项必定代表制造它的物质材料，而不是代表该表达式本身。”违反了符号自指与物质材料之分；O04-C2 的错误机制是：错误望文生义，把 material 理解成承载符号的材料。 证据状态：已闭合：SL I.67。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-8"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O04-Q3-1",
+      "misconceptionId": "william-of-ockham--O04-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-8"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O04-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-04",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O04-Q4",
+      "kind": "binary",
+      "prompt": "排版者说“‘人’有一个音节”，讨论的是纸面或口头表达式。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O04-Q4-1",
+          "text": "句子谈到的是构成纸张和油墨的物质，所以叫质料涵摄。",
+          "feedback": "“句子谈到的是构成纸张和油墨的物质，所以叫质料涵摄。”错误处理了符号自指与物质材料之分；在该案例中，错误望文生义，把 material 理解成承载符号的材料，所以该推论越过了材料许可的范围。 证据状态：已闭合：SL I.67。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-8"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O04-Q4-2",
+          "text": "词项在此作为符号代表自身，属于质料涵摄。",
+          "feedback": "“词项在此作为符号代表自身，属于质料涵摄。”正确应用了符号自指与物质材料之分；在该案例中，音节属性属于表达式本身而非其通常指称对象，因此不能省略情境所要求的区分。 证据状态：已闭合：SL I.67。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-8"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O04-Q4-2",
+      "misconceptionId": "william-of-ockham--O04-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-8"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O04-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O04-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-04",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-Q1",
+      "kind": "binary",
+      "prompt": "依据 O05-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O05-Q1-1",
+          "text": "直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。",
+          "feedback": "“直观认知是一种非复合认知；条件满足时，它能成为关于偶然事实的明证判断之基础。”命中了直观证据与任意非复合认知之分；O05-C1 的支持点是：案例同时具备对象在场与偶然判断的因果条件。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-9"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O05-Q1-2",
+          "text": "直观认知只意味着视觉感觉，而且绝不参与任何关于偶然事实的判断。",
+          "feedback": "“直观认知只意味着视觉感觉，而且绝不参与任何关于偶然事实的判断。”违反了直观证据与任意非复合认知之分；该错误项把直观认知缩减为视觉感觉，并进一步否认它能支持关于偶然事实的判断，双重违背本 claim。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-9"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O05-Q1-1",
+      "misconceptionId": "william-of-ockham--O05-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-9"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O05-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-05",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-Q2",
+      "kind": "binary",
+      "prompt": "旅人看到桥正在断裂并立即判断“桥现在断了”，研究者分析其证据来源。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O05-Q2-1",
+          "text": "只要形成任何非复合概念，就自动获得对象当前存在的明证。",
+          "feedback": "“只要形成任何非复合概念，就自动获得对象当前存在的明证。”错误处理了直观证据与任意非复合认知之分；在该案例中，错误把直观认知的特定证据作用推广到所有非复合认知，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-9"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O05-Q2-2",
+          "text": "在场对象的直观认知能支持关于当前偶然事实的明证判断。",
+          "feedback": "“在场对象的直观认知能支持关于当前偶然事实的明证判断。”正确应用了直观证据与任意非复合认知之分；在该案例中，案例同时具备对象在场与偶然判断的因果条件，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-9"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O05-Q2-2",
+      "misconceptionId": "william-of-ockham--O05-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-9"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O05-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O05-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-05",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-Q3",
+      "kind": "binary",
+      "prompt": "依据 O05-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O05-Q3-1",
+          "text": "奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。",
+          "feedback": "“奥卡姆区分感官与理智的直观认知，因此理智直观不能还原成身体图像。”命中了感官直观与理智直观之分；O05-C2 的支持点是：理智也能以个体为个体形成非复合认知。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-10"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O05-Q3-2",
+          "text": "奥卡姆只承认感官直观认知；理智对个体绝无直观认知。",
+          "feedback": "“奥卡姆只承认感官直观认知；理智对个体绝无直观认知。”违反了感官直观与理智直观之分；O05-C2 的错误机制是：错误把感官通道的作用变成对理智能力的排他限制。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-10"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O05-Q3-1",
+      "misconceptionId": "william-of-ockham--O05-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-10"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O05-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-05",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O05-Q4",
+      "kind": "binary",
+      "prompt": "数学家理智地把握眼前这一个书页上的污点，同行称那只是感觉影像。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O05-Q4-1",
+          "text": "个体只能被感官接触，理智按定义绝不可能直观任何个体。",
+          "feedback": "“个体只能被感官接触，理智按定义绝不可能直观任何个体。”错误处理了感官直观与理智直观之分；在该案例中，错误把感官通道的作用变成对理智能力的排他限制，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-10"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O05-Q4-2",
+          "text": "奥卡姆容许理智层面的个体直观，不能把认识活动全还原为感官图像。",
+          "feedback": "“奥卡姆容许理智层面的个体直观，不能把认识活动全还原为感官图像。”正确应用了感官直观与理智直观之分；在该案例中，理智也能以个体为个体形成非复合认知，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-10"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O05-Q4-2",
+      "misconceptionId": "william-of-ockham--O05-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-10"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O05-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O05-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-05",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O06-Q1",
+      "kind": "binary",
+      "prompt": "依据 O06-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O06-Q1-1",
+          "text": "抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。",
+          "feedback": "“抽象认知撇开存在与不存在；仅凭它本身，不能形成对象存在的明证判断。”命中了对象内容与存在判断之分；O06-C1 的支持点是：抽象认知不提供从概念内容到现实存在的明证过渡。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-11"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O06-Q1-2",
+          "text": "抽象认知就是把多个个体的共同本性抽成一个心外普遍实体。",
+          "feedback": "“抽象认知就是把多个个体的共同本性抽成一个心外普遍实体。”违反了对象内容与存在判断之分；该错误项把抽象认知误写成抽取一个心外普遍实体；奥卡姆的区分实际关乎是否凭该认知判定对象存在。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-11"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O06-Q1-1",
+      "misconceptionId": "william-of-ockham--O06-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-11"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O06-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-06",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O06-Q2",
+      "kind": "binary",
+      "prompt": "学生能定义独角兽，却不能据此断言教室里存在独角兽。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O06-Q2-1",
+          "text": "只要定义足够清晰，抽象认知就能独自证明对象此刻存在。",
+          "feedback": "“只要定义足够清晰，抽象认知就能独自证明对象此刻存在。”错误处理了对象内容与存在判断之分；在该案例中，错误把可理解性或定义清晰度当成存在证据，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-11"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O06-Q2-2",
+          "text": "这种认知可处理对象内容，却撇开对象实际存在与否。",
+          "feedback": "“这种认知可处理对象内容，却撇开对象实际存在与否。”正确应用了对象内容与存在判断之分；在该案例中，抽象认知不提供从概念内容到现实存在的明证过渡，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-11"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O06-Q2-2",
+      "misconceptionId": "william-of-ockham--O06-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-11"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O06-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O06-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-06",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O06-Q3",
+      "kind": "binary",
+      "prompt": "依据 O06-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O06-Q3-1",
+          "text": "直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。",
+          "feedback": "“直观与抽象的区分关乎证据功能，并非“具体图像”与“模糊一般观念”的简单对照。”命中了心理鲜明度与认识论功能之分；O06-C2 的支持点是：奥卡姆区分的是认知对偶然存在判断的能力。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-12"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O06-Q3-2",
+          "text": "直观等于清晰具体，抽象等于模糊一般；二者差别只是图像鲜明度。",
+          "feedback": "“直观等于清晰具体，抽象等于模糊一般；二者差别只是图像鲜明度。”违反了心理鲜明度与认识论功能之分；O06-C2 的错误机制是：错误以现象强度替代证据角色。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-12"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O06-Q3-1",
+      "misconceptionId": "william-of-ockham--O06-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-12"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O06-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-06",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O06-Q4",
+      "kind": "binary",
+      "prompt": "两幅图一幅鲜明、一幅模糊，评论者据此给它们贴上直观与抽象标签。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O06-Q4-1",
+          "text": "鲜明图像必属直观，模糊图像必属抽象，不必考察判断作用。",
+          "feedback": "“鲜明图像必属直观，模糊图像必属抽象，不必考察判断作用。”错误处理了心理鲜明度与认识论功能之分；在该案例中，错误以现象强度替代证据角色，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-12"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O06-Q4-2",
+          "text": "图像鲜明度不足以分类；关键是认知能否承担关于存在的明证功能。",
+          "feedback": "“图像鲜明度不足以分类；关键是认知能否承担关于存在的明证功能。”正确应用了心理鲜明度与认识论功能之分；在该案例中，奥卡姆区分的是认知对偶然存在判断的能力，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-12"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O06-Q4-2",
+      "misconceptionId": "william-of-ockham--O06-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-12"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O06-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O06-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-06",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O07-Q1",
+      "kind": "binary",
+      "prompt": "依据 O07-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O07-Q1-1",
+          "text": "奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。",
+          "feedback": "“奥卡姆容许上帝在对象不存在时保存直观认知，但并未由此推出这种认知会自然造成虚假的明证判断。”命中了神圣保存与自然判断因果之分；O07-C1 的支持点是：命题严格区分认知活动的保存和判断结果的自然生成。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-13"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O07-Q1-2",
+          "text": "既然上帝能保存直观认知，奥卡姆便主张自然状态下直观认知会可靠地产生“对象存在”的假判断。",
+          "feedback": "“既然上帝能保存直观认知，奥卡姆便主张自然状态下直观认知会可靠地产生“对象存在”的假判断。”违反了神圣保存与自然判断因果之分；O07-C1 的错误机制是：错误从超自然保存直接推出必然欺骗。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-13"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O07-Q1-1",
+      "misconceptionId": "william-of-ockham--O07-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-13"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O07-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-07",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O07-Q2",
+      "kind": "binary",
+      "prompt": "神学假设中，对象消失后认知活动被神保存；有人据此判定主体必然受骗。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O07-Q2-1",
+          "text": "对象一旦不存在，被保存的直观认知必然可靠地产生错误存在判断。",
+          "feedback": "“对象一旦不存在，被保存的直观认知必然可靠地产生错误存在判断。”错误处理了神圣保存与自然判断因果之分；在该案例中，错误从超自然保存直接推出必然欺骗，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-13"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O07-Q2-2",
+          "text": "保存认知活动本身不等于自然产生“对象存在”的虚假明证判断。",
+          "feedback": "“保存认知活动本身不等于自然产生“对象存在”的虚假明证判断。”正确应用了神圣保存与自然判断因果之分；在该案例中，命题严格区分认知活动的保存和判断结果的自然生成，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-13"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O07-Q2-2",
+      "misconceptionId": "william-of-ockham--O07-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-13"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O07-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O07-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-07",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O07-Q3",
+      "kind": "binary",
+      "prompt": "依据 O07-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O07-Q3-1",
+          "text": "非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。",
+          "feedback": "“非常规的神圣因果案例标示全能的范围，并不抹除人类知识所依赖的通常因果秩序。”命中了绝对可能与通常因果秩序之分；O07-C2 的支持点是：两种说明层级可并存：神力范围与事实上设立的自然过程。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-14"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O07-Q3-2",
+          "text": "神的全能意味着任何自然规律在奥卡姆那里都没有稳定性或认识论用途。",
+          "feedback": "“神的全能意味着任何自然规律在奥卡姆那里都没有稳定性或认识论用途。”违反了绝对可能与通常因果秩序之分；O07-C2 的错误机制是：错误把逻辑或神学可能性变成自然研究的全面失效。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-14"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O07-Q3-1",
+      "misconceptionId": "william-of-ockham--O07-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-14"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O07-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-07",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O07-Q4",
+      "kind": "binary",
+      "prompt": "自然哲学家照常研究火的因果，同时承认神能越过受造原因行动。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O07-Q4-1",
+          "text": "承认一次神迹的可能性，就使关于火的任何稳定因果说明失去意义。",
+          "feedback": "“承认一次神迹的可能性，就使关于火的任何稳定因果说明失去意义。”错误处理了绝对可能与通常因果秩序之分；在该案例中，错误把逻辑或神学可能性变成自然研究的全面失效，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-14"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O07-Q4-2",
+          "text": "非常规神力界定绝对可能，不取消对通常受造因果秩序的研究。",
+          "feedback": "“非常规神力界定绝对可能，不取消对通常受造因果秩序的研究。”正确应用了绝对可能与通常因果秩序之分；在该案例中，两种说明层级可并存：神力范围与事实上设立的自然过程，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-14"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O07-Q4-2",
+      "misconceptionId": "william-of-ockham--O07-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-14"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O07-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O07-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-07",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O08-Q1",
+      "kind": "binary",
+      "prompt": "依据 O08-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O08-Q1-1",
+          "text": "奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。",
+          "feedback": "“奥卡姆的节约原则反对无必要地增设复多；它是论证约束，并不证明最短的说法必真。”命中了论证性节约与表面长度之分；O08-C1 的支持点是：剃刀针对无必要的本体或理论增设，不是字符计数规则。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-15"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O08-Q1-2",
+          "text": "奥卡姆剃刀证明字数最少、数学最简单的理论必然为真。",
+          "feedback": "“奥卡姆剃刀证明字数最少、数学最简单的理论必然为真。”违反了论证性节约与表面长度之分；O08-C1 的错误机制是：错误把受解释条件约束的简约原则变成最短即真。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-15"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O08-Q1-1",
+      "misconceptionId": "william-of-ockham--O08-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-15"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O08-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-08",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O08-Q2",
+      "kind": "binary",
+      "prompt": "两个理论解释力相同，一个额外假设不可检验实体；评审援引节约原则。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O08-Q2-1",
+          "text": "只需数一数句子和符号，最短文本无论证据如何都必定为真。",
+          "feedback": "“只需数一数句子和符号，最短文本无论证据如何都必定为真。”错误处理了论证性节约与表面长度之分；在该案例中，错误把受解释条件约束的简约原则变成最短即真，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-15"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O08-Q2-2",
+          "text": "在其余条件相当时，缺乏论证必要性的额外设定可被拒绝。",
+          "feedback": "“在其余条件相当时，缺乏论证必要性的额外设定可被拒绝。”正确应用了论证性节约与表面长度之分；在该案例中，剃刀针对无必要的本体或理论增设，不是字符计数规则，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-15"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O08-Q2-2",
+      "misconceptionId": "william-of-ockham--O08-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-15"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O08-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O08-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-08",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O08-Q3",
+      "kind": "binary",
+      "prompt": "依据 O08-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O08-Q3-1",
+          "text": "在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。",
+          "feedback": "“在论证、启示或解释工作确有需要时，奥卡姆可以承认区分或实体；简约不是一概否定本体。”命中了有根据的区分与无必要增设之分；O08-C2 的支持点是：简约只排除没有工作要做的复多。 证据状态：已闭合：SEP §4.1, “Ockham’s Razor”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-16"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O08-Q3-2",
+          "text": "剃刀要求无条件删除一切不可见实体，即使论证或神学承诺明确需要它们。",
+          "feedback": "“剃刀要求无条件删除一切不可见实体，即使论证或神学承诺明确需要它们。”违反了有根据的区分与无必要增设之分；O08-C2 的错误机制是：错误把方法性节约绝对化为不可见者一律不存在。 证据状态：已闭合：SEP §4.1, “Ockham’s Razor”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-16"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O08-Q3-1",
+      "misconceptionId": "william-of-ockham--O08-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-16"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O08-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-08",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O08-Q4",
+      "kind": "binary",
+      "prompt": "一个神学论证若不承认某一区分便形成矛盾，读者问剃刀是否仍要求删除它。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O08-Q4-1",
+          "text": "凡不能直接看见的区分都必须删除，即使删除后论证自相矛盾。",
+          "feedback": "“凡不能直接看见的区分都必须删除，即使删除后论证自相矛盾。”错误处理了有根据的区分与无必要增设之分；在该案例中，错误把方法性节约绝对化为不可见者一律不存在，所以该推论越过了材料许可的范围。 证据状态：已闭合：SEP §4.1, “Ockham’s Razor”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-16"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O08-Q4-2",
+          "text": "论证确有需要时可保留该区分，节约原则不凌驾于一致性与证据。",
+          "feedback": "“论证确有需要时可保留该区分，节约原则不凌驾于一致性与证据。”正确应用了有根据的区分与无必要增设之分；在该案例中，简约只排除没有工作要做的复多，因此不能省略情境所要求的区分。 证据状态：已闭合：SEP §4.1, “Ockham’s Razor”。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-16"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O08-Q4-2",
+      "misconceptionId": "william-of-ockham--O08-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-16"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O08-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O08-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-08",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O09-Q1",
+      "kind": "binary",
+      "prompt": "依据 O09-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O09-Q1-1",
+          "text": "奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。",
+          "feedback": "“奥卡姆的精简本体论核心承认个别实体与个别性质，同时不为许多其他范畴都配置额外实体。”命中了个别实体与个别性质之分；O09-C1 的支持点是：削减范畴实体并不等于删除真实的个别性质。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-17"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O09-Q1-2",
+          "text": "奥卡姆认为只有裸露实体存在，个别性质也全是语言虚构。",
+          "feedback": "“奥卡姆认为只有裸露实体存在，个别性质也全是语言虚构。”违反了个别实体与个别性质之分；O09-C1 的错误机制是：错误把范畴还原夸大成性质虚无论。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-17"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O09-Q1-1",
+      "misconceptionId": "william-of-ockham--O09-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-17"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O09-P1"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-09",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O09-Q2",
+      "kind": "binary",
+      "prompt": "清单列出一匹马与它此刻的白色，学生问奥卡姆是否只承认前者。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O09-Q2-1",
+          "text": "精简本体论只剩无性质的裸实体，个别颜色完全不真实。",
+          "feedback": "“精简本体论只剩无性质的裸实体，个别颜色完全不真实。”错误处理了个别实体与个别性质之分；在该案例中，错误把范畴还原夸大成性质虚无论，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-17"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O09-Q2-2",
+          "text": "个别实体与个别性质都可进入精简本体论，白色不必只是空名。",
+          "feedback": "“个别实体与个别性质都可进入精简本体论，白色不必只是空名。”正确应用了个别实体与个别性质之分；在该案例中，削减范畴实体并不等于删除真实的个别性质，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-17"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O09-Q2-2",
+      "misconceptionId": "william-of-ockham--O09-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-17"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O09-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O09-P1"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-09",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O09-Q3",
+      "kind": "binary",
+      "prompt": "依据 O09-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O09-Q3-1",
+          "text": "关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。",
+          "feedback": "“关系命题并不总要求在关系项及其基础之外另有一个独立的关系事物。”命中了真实关系命题与独立关系实体之分；O09-C2 的支持点是：语义真实性不自动承诺每个范畴词都有对应附加物。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-18"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O09-Q3-2",
+          "text": "每个真实关系命题都迫使奥卡姆增设一个独立的“关系实体”。",
+          "feedback": "“每个真实关系命题都迫使奥卡姆增设一个独立的“关系实体”。”违反了真实关系命题与独立关系实体之分；O09-C2 的错误机制是：错误从真命题直接推导出同名实体。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-18"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O09-Q3-1",
+      "misconceptionId": "william-of-ockham--O09-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-18"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O09-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-09",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O09-Q4",
+      "kind": "binary",
+      "prompt": "两个人因同一父亲而被称为兄弟，分析者另增一个悬浮的“兄弟关系物”。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O09-Q4-1",
+          "text": "只要“兄弟”命题为真，就必有第三个关系实体附着在两人之外。",
+          "feedback": "“只要“兄弟”命题为真，就必有第三个关系实体附着在两人之外。”错误处理了真实关系命题与独立关系实体之分；在该案例中，错误从真命题直接推导出同名实体，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-18"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O09-Q4-2",
+          "text": "关系命题可由关系项及其基础得到真值，未必另需独立关系实体。",
+          "feedback": "“关系命题可由关系项及其基础得到真值，未必另需独立关系实体。”正确应用了真实关系命题与独立关系实体之分；在该案例中，语义真实性不自动承诺每个范畴词都有对应附加物，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-18"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O09-Q4-2",
+      "misconceptionId": "william-of-ockham--O09-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-18"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O09-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O09-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-09",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-Q1",
+      "kind": "binary",
+      "prompt": "依据 O10-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O10-Q1-1",
+          "text": "神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。",
+          "feedback": "“神的全能以不蕴含矛盾者为范围，并不是使矛盾成真的能力。”命中了全能范围与矛盾描述之分；O10-C1 的支持点是：矛盾不是一种等待实现的事物或状态。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-19"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O10-Q1-2",
+          "text": "奥卡姆把全能定义为连逻辑矛盾也能实现的能力。",
+          "feedback": "“奥卡姆把全能定义为连逻辑矛盾也能实现的能力。”违反了全能范围与矛盾描述之分；该错误项把全能的对象范围扩展到逻辑矛盾；矛盾并非一种可实现状态，故不属于能力不足的案例。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-19"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O10-Q1-1",
+      "misconceptionId": "william-of-ockham--O10-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-19"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O10-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-10",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-Q2",
+      "kind": "binary",
+      "prompt": "讨论“神能造出方圆”时，学生把矛盾描述当作全能测试。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O10-Q2-1",
+          "text": "若神不能造出同一意义下的方圆，就说明其能力受到外在力量限制。",
+          "feedback": "“若神不能造出同一意义下的方圆，就说明其能力受到外在力量限制。”错误处理了全能范围与矛盾描述之分；在该案例中，错误把非对象的矛盾组合当成能力不足，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-19"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O10-Q2-2",
+          "text": "方与非方同时成立蕴含矛盾，不属于全能所及的可实现对象。",
+          "feedback": "“方与非方同时成立蕴含矛盾，不属于全能所及的可实现对象。”正确应用了全能范围与矛盾描述之分；在该案例中，矛盾不是一种等待实现的事物或状态，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-19"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O10-Q2-2",
+      "misconceptionId": "william-of-ockham--O10-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-19"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O10-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O10-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-10",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-Q3",
+      "kind": "binary",
+      "prompt": "依据 O10-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O10-Q3-1",
+          "text": "上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。",
+          "feedback": "“上帝能越过第二因而行动，这区分了绝对可能与上帝事实上设立的既定秩序。”命中了绝对能力与既定秩序之分；O10-C2 的支持点是：两者分别回答能力范围与实际安排，而非守法与违法。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-20"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O10-Q3-2",
+          "text": "potentia absoluta 表示上帝经常任意破坏既定秩序，potentia ordinata 则表示上帝能力受外在法律限制。",
+          "feedback": "“potentia absoluta 表示上帝经常任意破坏既定秩序，potentia ordinata 则表示上帝能力受外在法律限制。”违反了绝对能力与既定秩序之分；O10-C2 的错误机制是：错误把模态区分人格化为任性破坏和外在强制。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-20"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O10-Q3-1",
+      "misconceptionId": "william-of-ockham--O10-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-20"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O10-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-10",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O10-Q4",
+      "kind": "binary",
+      "prompt": "通常药物经身体过程治病；神学家问神能否不经该第二因产生同一效果。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O10-Q4-1",
+          "text": "绝对能力表示神经常破坏秩序；既定能力表示外部法律约束神。",
+          "feedback": "“绝对能力表示神经常破坏秩序；既定能力表示外部法律约束神。”错误处理了绝对能力与既定秩序之分；在该案例中，错误把模态区分人格化为任性破坏和外在强制，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-20"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O10-Q4-2",
+          "text": "越过第二因的绝对能力与事实上采用第二因的既定秩序可以区分。",
+          "feedback": "“越过第二因的绝对能力与事实上采用第二因的既定秩序可以区分。”正确应用了绝对能力与既定秩序之分；在该案例中，两者分别回答能力范围与实际安排，而非守法与违法，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-20"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O10-Q4-2",
+      "misconceptionId": "william-of-ockham--O10-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-20"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O10-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O10-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-10",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O11-Q1",
+      "kind": "binary",
+      "prompt": "依据 O11-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O11-Q1-1",
+          "text": "诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。",
+          "feedback": "“诉诸神力检验绝对可能；解释通常自然时，仍须追踪事实上已设立的因果秩序。”命中了通常自然解释与绝对可能检验之分；O11-C1 的支持点是：例外能力不改变对常规秩序的说明对象。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-21"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O11-Q1-2",
+          "text": "一旦诉诸神的全能，任何关于通常自然因果的研究都立刻变得无意义。",
+          "feedback": "“一旦诉诸神的全能，任何关于通常自然因果的研究都立刻变得无意义。”违反了通常自然解释与绝对可能检验之分；O11-C1 的错误机制是：错误从可能例外推出常规研究无意义。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-21"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O11-Q1-1",
+      "misconceptionId": "william-of-ockham--O11-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-21"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O11-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-11",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O11-Q2",
+      "kind": "binary",
+      "prompt": "物理学家研究石块下落，同时在神学课讨论神可直接维持石块悬空。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O11-Q2-1",
+          "text": "神能直接造成例外，所以研究石块通常怎样下落没有知识价值。",
+          "feedback": "“神能直接造成例外，所以研究石块通常怎样下落没有知识价值。”错误处理了通常自然解释与绝对可能检验之分；在该案例中，错误从可能例外推出常规研究无意义，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-21"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O11-Q2-2",
+          "text": "通常解释追踪已设立的因果；神学可能性检验不矛盾的能力范围。",
+          "feedback": "“通常解释追踪已设立的因果；神学可能性检验不矛盾的能力范围。”正确应用了通常自然解释与绝对可能检验之分；在该案例中，例外能力不改变对常规秩序的说明对象，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-21"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O11-Q2-2",
+      "misconceptionId": "william-of-ockham--O11-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-21"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O11-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O11-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-11",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O11-Q3",
+      "kind": "binary",
+      "prompt": "依据 O11-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O11-Q3-1",
+          "text": "奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。",
+          "feedback": "“奥卡姆的神学不授权解释者把他的每个哲学主张都改写成对自然的隐蔽怀疑论。”命中了神学模态论证与现代怀疑论归类之分；O11-C2 的支持点是：现代标签需由跨文本证据支撑，不能由单一主题替代。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-22"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O11-Q3-2",
+          "text": "现代解释若称奥卡姆全能论必然摧毁科学，就无需再与他的自然哲学文本核对。",
+          "feedback": "“现代解释若称奥卡姆全能论必然摧毁科学，就无需再与他的自然哲学文本核对。”违反了神学模态论证与现代怀疑论归类之分；O11-C2 的错误机制是：错误把解释者的宏观结论伪装成原文直接推论。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-22"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O11-Q3-1",
+      "misconceptionId": "william-of-ockham--O11-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-22"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O11-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-11",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O11-Q4",
+      "kind": "binary",
+      "prompt": "解释者把奥卡姆每次谈神力都概括成“自然不可知”，却未查自然哲学文本。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O11-Q4-1",
+          "text": "只要作品提及全能，就足以证明作者否认一切自然知识。",
+          "feedback": "“只要作品提及全能，就足以证明作者否认一切自然知识。”错误处理了神学模态论证与现代怀疑论归类之分；在该案例中，错误把解释者的宏观结论伪装成原文直接推论，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-22"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O11-Q4-2",
+          "text": "这种总括必须受具体文本校验，不能由神力讨论直接推出全面怀疑论。",
+          "feedback": "“这种总括必须受具体文本校验，不能由神力讨论直接推出全面怀疑论。”正确应用了神学模态论证与现代怀疑论归类之分；在该案例中，现代标签需由跨文本证据支撑，不能由单一主题替代，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-22"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O11-Q4-2",
+      "misconceptionId": "william-of-ockham--O11-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-22"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O11-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O11-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-11",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O12-Q1",
+      "kind": "binary",
+      "prompt": "依据 O12-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O12-Q1-1",
+          "text": "自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。",
+          "feedback": "“自由意志对于对象能够偶然地意愿或不意愿；自由并不等于不知道决定性原因。”命中了意志偶然性与认识无知之分；O12-C1 的支持点是：自由描述涉及意志对相反行动的开放性。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-23"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O12-Q1-2",
+          "text": "奥卡姆把自由仅定义为行为者不知道自己已被必然因果决定。",
+          "feedback": "“奥卡姆把自由仅定义为行为者不知道自己已被必然因果决定。”违反了意志偶然性与认识无知之分；O12-C1 的错误机制是：错误用主观未知替代行动能力的非必然性。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-23"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O12-Q1-1",
+      "misconceptionId": "william-of-ockham--O12-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-23"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O12-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-12",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O12-Q2",
+      "kind": "binary",
+      "prompt": "被威胁者仍在两个可行行动间作选择，观察者说自由只是他不知道隐藏原因。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O12-Q2-1",
+          "text": "只要行为者不知道完整因果链，即使只有一个可能行动也已充分自由。",
+          "feedback": "“只要行为者不知道完整因果链，即使只有一个可能行动也已充分自由。”错误处理了意志偶然性与认识无知之分；在该案例中，错误用主观未知替代行动能力的非必然性，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-23"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O12-Q2-2",
+          "text": "选择的偶然可为或不为构成自由问题，不能缩成行为者的信息不足。",
+          "feedback": "“选择的偶然可为或不为构成自由问题，不能缩成行为者的信息不足。”正确应用了意志偶然性与认识无知之分；在该案例中，自由描述涉及意志对相反行动的开放性，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-23"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O12-Q2-2",
+      "misconceptionId": "william-of-ockham--O12-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-23"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O12-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O12-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-12",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O12-Q3",
+      "kind": "binary",
+      "prompt": "依据 O12-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O12-Q3-1",
+          "text": "道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。",
+          "feedback": "“道德评价取决于意志行为及其情境，而不只取决于身体动作的外在类型。”命中了外在行为类型与意志情境之分；O12-C2 的支持点是：道德归责不能从可见运动单独读出。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-24"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O12-Q3-2",
+          "text": "对奥卡姆而言，只要外在动作类型相同，道德价值就必定相同。",
+          "feedback": "“对奥卡姆而言，只要外在动作类型相同，道德价值就必定相同。”违反了外在行为类型与意志情境之分；O12-C2 的错误机制是：错误排除了意图、对象与情境在评价中的作用。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-24"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O12-Q3-1",
+      "misconceptionId": "william-of-ockham--O12-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-24"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O12-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-12",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O12-Q4",
+      "kind": "binary",
+      "prompt": "两人做出相同转账动作，一人救急，一人欺诈；评审比较道德价值。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O12-Q4-1",
+          "text": "身体动作类型相同足以让两次行为具有完全相同的道德价值。",
+          "feedback": "“身体动作类型相同足以让两次行为具有完全相同的道德价值。”错误处理了外在行为类型与意志情境之分；在该案例中，错误排除了意图、对象与情境在评价中的作用，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-24"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O12-Q4-2",
+          "text": "外在动作相同不保证道德价值相同，意志对象与情境仍须考察。",
+          "feedback": "“外在动作相同不保证道德价值相同，意志对象与情境仍须考察。”正确应用了外在行为类型与意志情境之分；在该案例中，道德归责不能从可见运动单独读出，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-24"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O12-Q4-2",
+      "misconceptionId": "william-of-ockham--O12-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-24"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O12-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O12-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-12",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O13-Q1",
+      "kind": "binary",
+      "prompt": "依据 O13-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O13-Q1-1",
+          "text": "贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。",
+          "feedback": "“贫穷论争涉及使用、所有权与教宗权主张；不能把这次政治转向倒投进每条早期逻辑学说。”命中了思想发展语境与文本直接对象之分；O13-C1 的支持点是：时间与文类边界阻止以晚期争端吞并早期逻辑论证。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-25"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O13-Q1-2",
+          "text": "奥卡姆的逻辑学从一开始就是反教宗宣言，所有涵摄分类都直接指向方济各会财产权争端。",
+          "feedback": "“奥卡姆的逻辑学从一开始就是反教宗宣言，所有涵摄分类都直接指向方济各会财产权争端。”违反了思想发展语境与文本直接对象之分；O13-C1 的错误机制是：错误实施目的论倒投，把后事当成前文隐藏意图。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-25"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O13-Q1-1",
+      "misconceptionId": "william-of-ockham--O13-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-25"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O13-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-13",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O13-Q2",
+      "kind": "binary",
+      "prompt": "逻辑教材把涵摄理论解释成对教宗财产权的暗语，理由是作者后来卷入贫穷争论。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O13-Q2-1",
+          "text": "作者后来讨论所有权，足以证明其全部逻辑术语从一开始都在影射教宗。",
+          "feedback": "“作者后来讨论所有权，足以证明其全部逻辑术语从一开始都在影射教宗。”错误处理了思想发展语境与文本直接对象之分；在该案例中，错误实施目的论倒投，把后事当成前文隐藏意图，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-25"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O13-Q2-2",
+          "text": "后来的政治争端不能倒置为早期每项逻辑分类的直接目的。",
+          "feedback": "“后来的政治争端不能倒置为早期每项逻辑分类的直接目的。”正确应用了思想发展语境与文本直接对象之分；在该案例中，时间与文类边界阻止以晚期争端吞并早期逻辑论证，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-25"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O13-Q2-2",
+      "misconceptionId": "william-of-ockham--O13-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-25"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O13-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O13-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-13",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O13-Q3",
+      "kind": "binary",
+      "prompt": "依据 O13-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O13-Q3-1",
+          "text": "与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。",
+          "feedback": "“与若望二十二世的冲突是政治著作的历史背景；文本所报告的教宗命题不能自动算作奥卡姆声部。”命中了报告声部与作者承诺之分；O13-C2 的支持点是：争论文本常先陈列对方立场再反驳。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-26"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O13-Q3-2",
+          "text": "只要政治文本中出现教宗立场，那一立场就自动属于奥卡姆本人。",
+          "feedback": "“只要政治文本中出现教宗立场，那一立场就自动属于奥卡姆本人。”违反了报告声部与作者承诺之分；O13-C2 的错误机制是：错误把作品作者身份扩张成对所有引述内容的认可。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-26"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O13-Q3-1",
+      "misconceptionId": "william-of-ockham--O13-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-26"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O13-P2"
+      ],
+      "targetVoices": [
+        "historical-context"
+      ],
+      "lessonId": "william-of-ockham--ockham-13",
+      "voice": "historical-context"
+    },
+    {
+      "id": "william-of-ockham--O13-Q4",
+      "kind": "binary",
+      "prompt": "政治文本先转述若望二十二世一方的主张，读者准备把该段列入奥卡姆观点表。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O13-Q4-1",
+          "text": "作品署名奥卡姆，所以其中转述的教宗命题也都是奥卡姆本人的立场。",
+          "feedback": "“作品署名奥卡姆，所以其中转述的教宗命题也都是奥卡姆本人的立场。”错误处理了报告声部与作者承诺之分；在该案例中，错误把作品作者身份扩张成对所有引述内容的认可，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-26"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O13-Q4-2",
+          "text": "须先识别被报告的争论方；文本出现某命题不等于作者承诺该命题。",
+          "feedback": "“须先识别被报告的争论方；文本出现某命题不等于作者承诺该命题。”正确应用了报告声部与作者承诺之分；在该案例中，争论文本常先陈列对方立场再反驳，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-26"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O13-Q4-2",
+      "misconceptionId": "william-of-ockham--O13-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-26"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O13-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O13-P2"
+      ],
+      "targetVoices": [
+        "historical-context"
+      ],
+      "lessonId": "william-of-ockham--ockham-13",
+      "voice": "historical-context"
+    },
+    {
+      "id": "william-of-ockham--O14-Q1",
+      "kind": "binary",
+      "prompt": "依据 O14-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O14-Q1-1",
+          "text": "奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。",
+          "feedback": "“奥卡姆明确捍卫考察教宗权力性质与范围的正当性，而不把这种考察本身视为亵渎。”命中了审查权力与禁止审查之分；O14-C1 的支持点是：文本的论证动作是为彻查问题辩护。 证据状态：已闭合：Short Discourse, Book I, ch.1, pp.5–7。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-27"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O14-Q1-2",
+          "text": "奥卡姆主张任何讨论教宗权力边界的行为本身都构成亵渎。",
+          "feedback": "“奥卡姆主张任何讨论教宗权力边界的行为本身都构成亵渎。”违反了审查权力与禁止审查之分；O14-C1 的错误机制是：错误把奥卡姆所反驳的禁议立场当成结论。 证据状态：已闭合：Short Discourse, Book I, ch.1, pp.5–7。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-27"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O14-Q1-1",
+      "misconceptionId": "william-of-ockham--O14-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-27"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O14-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-14",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O14-Q2",
+      "kind": "binary",
+      "prompt": "教会法课堂有人主张询问教宗权范围本身就是亵渎，并引用《短论》开篇。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O14-Q2-1",
+          "text": "该书第一章宣布任何关于教宗管辖的争论都应以亵渎罪制止。",
+          "feedback": "“该书第一章宣布任何关于教宗管辖的争论都应以亵渎罪制止。”错误处理了审查权力与禁止审查之分；在该案例中，错误把奥卡姆所反驳的禁议立场当成结论，所以该推论越过了材料许可的范围。 证据状态：已闭合：Short Discourse, Book I, ch.1, pp.5–7。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-27"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O14-Q2-2",
+          "text": "开篇恰把权力范围作为可公开审查的问题，而非禁止讨论。",
+          "feedback": "“开篇恰把权力范围作为可公开审查的问题，而非禁止讨论。”正确应用了审查权力与禁止审查之分；在该案例中，文本的论证动作是为彻查问题辩护，因此不能省略情境所要求的区分。 证据状态：已闭合：Short Discourse, Book I, ch.1, pp.5–7。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-27"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O14-Q2-2",
+      "misconceptionId": "william-of-ockham--O14-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-27"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O14-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O14-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-14",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O14-Q3",
+      "kind": "binary",
+      "prompt": "依据 O14-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O14-Q3-1",
+          "text": "他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。",
+          "feedback": "“他反对教宗对世俗事务拥有不受限制的全权，但这并不等于否认一切属灵管辖。”命中了有限属灵管辖与无限全权之分；O14-C2 的支持点是：被否定的是不受限制的扩张，不是每一种管辖。 证据状态：已闭合：Short Discourse, Book II, chs.1–3, pp.17–30。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-28"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O14-Q3-2",
+          "text": "奥卡姆反对无限教宗权，因此否认教宗拥有任何教会治理权。",
+          "feedback": "“奥卡姆反对无限教宗权，因此否认教宗拥有任何教会治理权。”违反了有限属灵管辖与无限全权之分；O14-C2 的错误机制是：错误从限制范围跳到取消整个权力类别。 证据状态：已闭合：Short Discourse, Book II, chs.1–3, pp.17–30。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-28"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O14-Q3-1",
+      "misconceptionId": "william-of-ockham--O14-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-28"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O14-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-14",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O14-Q4",
+      "kind": "binary",
+      "prompt": "批评无限教宗全权后，一名学生进一步说奥卡姆取消了全部教会纪律权。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O14-Q4-1",
+          "text": "只要拒绝 plenitudo potestatis，就必须否认教宗在教会内部的任何治理权限。",
+          "feedback": "“只要拒绝 plenitudo potestatis，就必须否认教宗在教会内部的任何治理权限。”错误处理了有限属灵管辖与无限全权之分；在该案例中，错误从限制范围跳到取消整个权力类别，所以该推论越过了材料许可的范围。 证据状态：已闭合：Short Discourse, Book II, chs.1–3, pp.17–30。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-28"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O14-Q4-2",
+          "text": "反对无限世俗全权不推出属灵管辖为零，权力对象与范围仍须区分。",
+          "feedback": "“反对无限世俗全权不推出属灵管辖为零，权力对象与范围仍须区分。”正确应用了有限属灵管辖与无限全权之分；在该案例中，被否定的是不受限制的扩张，不是每一种管辖，因此不能省略情境所要求的区分。 证据状态：已闭合：Short Discourse, Book II, chs.1–3, pp.17–30。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-28"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O14-Q4-2",
+      "misconceptionId": "william-of-ockham--O14-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-28"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O14-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O14-P2"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-14",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O15-Q1",
+      "kind": "binary",
+      "prompt": "依据 O15-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O15-Q1-1",
+          "text": "奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。",
+          "feedback": "“奥卡姆反驳帝国权力必须来自教宗确认的说法，并独立考察世俗管辖的根据。”命中了世俗权根据与教宗确认之分；O15-C1 的支持点是：文本直接争论帝国是否必然从教宗取得权源。 证据状态：已闭合：Short Discourse, Book III, ch.1, pp.71–74。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-29"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O15-Q1-2",
+          "text": "奥卡姆认为没有教宗选择或确认，就绝不可能有真正的皇帝或世俗管辖。",
+          "feedback": "“奥卡姆认为没有教宗选择或确认，就绝不可能有真正的皇帝或世俗管辖。”违反了世俗权根据与教宗确认之分；O15-C1 的错误机制是：错误把一方的依附论设成无例外前提。 证据状态：已闭合：Short Discourse, Book III, ch.1, pp.71–74。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-29"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O15-Q1-1",
+      "misconceptionId": "william-of-ockham--O15-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-29"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O15-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-15",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O15-Q2",
+      "kind": "binary",
+      "prompt": "某王国已有合法世俗制度，但教宗未确认君主；论者据此否认一切世俗管辖。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O15-Q2-1",
+          "text": "未经教宗选择或确认的统治者在任何条件下都不可能拥有真实世俗权限。",
+          "feedback": "“未经教宗选择或确认的统治者在任何条件下都不可能拥有真实世俗权限。”错误处理了世俗权根据与教宗确认之分；在该案例中，错误把一方的依附论设成无例外前提，所以该推论越过了材料许可的范围。 证据状态：已闭合：Short Discourse, Book III, ch.1, pp.71–74。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-29"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O15-Q2-2",
+          "text": "世俗管辖的根据可被独立考察，不能仅以缺少教宗确认判为不存在。",
+          "feedback": "“世俗管辖的根据可被独立考察，不能仅以缺少教宗确认判为不存在。”正确应用了世俗权根据与教宗确认之分；在该案例中，文本直接争论帝国是否必然从教宗取得权源，因此不能省略情境所要求的区分。 证据状态：已闭合：Short Discourse, Book III, ch.1, pp.71–74。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-29"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O15-Q2-2",
+      "misconceptionId": "william-of-ockham--O15-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-29"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O15-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O15-P1"
+      ],
+      "targetVoices": [
+        "ockham-primary"
+      ],
+      "lessonId": "william-of-ockham--ockham-15",
+      "voice": "ockham-primary"
+    },
+    {
+      "id": "william-of-ockham--O15-Q3",
+      "kind": "binary",
+      "prompt": "关于《对话录》III.1 II.20–27，哪一项准确限定了 O15-C2 的教会政体争论与归属边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O15-Q3-1",
+          "text": "II.20–27 展开教会政体能否改变的赞成、反对及双方答辩；课程只比较这些竞争论证，不把其中一支直接署为奥卡姆结论。",
+          "feedback": "“II.20–27 展开教会政体能否改变的赞成、反对及双方答辩；课程只比较这些竞争论证，不把其中一支直接署为奥卡姆结论。”命中了教会政体内的竞争论证与一般政治授权之分；II.20–27 的正面承重点是教会政体改变问题中依次出现的赞成论证、反对论证与双方答辩；课程综合仅保存该竞争结构。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-30"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O15-Q3-2",
+          "text": "II.20–27 已证明任何政治制度失效时，所有世俗统治者都获得无限且永久的越权许可。",
+          "feedback": "“II.20–27 已证明任何政治制度失效时，所有世俗统治者都获得无限且永久的越权许可。”违反了教会政体内的竞争论证与一般政治授权之分；错误项把教会政体内部的争论扩大成适用于所有世俗统治者的无限授权，并删去了反对与答辩层级。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-30"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O15-Q3-1",
+      "misconceptionId": "william-of-ockham--O15-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-30"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-of-ockham--ockham-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-of-ockham--O15-Q4",
+      "kind": "binary",
+      "prompt": "编辑阅读《对话录》II.20–27：第20章列改变政体的赞成论证，第21章列反对论证，第22–26章从一边答辩，第27章又从相反边回答第20章。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O15-Q4-1",
+          "text": "老师报告了多组答辩，所以其中赞成改变政体的一支必定是奥卡姆直接承诺的唯一结论。",
+          "feedback": "“老师报告了多组答辩，所以其中赞成改变政体的一支必定是奥卡姆直接承诺的唯一结论。”破坏了竞争立场、老师的报告行为与课程综合之分；该选项删去了反对论证与反向答辩，并把老师报告的一支直接升级为奥卡姆唯一结论。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-30"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O15-Q4-2",
+          "text": "课程可比较必要性、效用与共同利益在竞争论证中的作用，但不指定某一支就是奥卡姆本人的最终裁决。",
+          "feedback": "“课程可比较必要性、效用与共同利益在竞争论证中的作用，但不指定某一支就是奥卡姆本人的最终裁决。”保留了竞争立场、老师的报告行为与课程综合之分；II.20–27 的案例事实包含赞成、反对及双方答辩；课程仅比较贯穿各层的必要性、效用与共同利益语汇。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-30"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O15-Q4-2",
+      "misconceptionId": "william-of-ockham--O15-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-30"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O15-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O15-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "william-of-ockham--ockham-15",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "william-of-ockham--O16-Q1",
+      "kind": "binary",
+      "prompt": "依据 O16-C1，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O16-Q1-1",
+          "text": "奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。",
+          "feedback": "“奥卡姆对司各脱与沃尔特·查顿的批评是在回应不同论证，不能把对手命题写成奥卡姆自己的主张。”命中了对手命题、作者回应与现代编者规范之分；O16-C1 的支持点是：争论关系要求保存发言者身份，SEP 证据支持的是现代归属判断。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-31"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O16-Q1-2",
+          "text": "凡被奥卡姆讨论的司各脱或查顿命题，都可以不加标记地写成奥卡姆自己的结论。",
+          "feedback": "“凡被奥卡姆讨论的司各脱或查顿命题，都可以不加标记地写成奥卡姆自己的结论。”违反了对手命题、作者回应与现代编者规范之分；O16-C1 的错误机制是：错误消除论敌差异并把现代整理原则冒充中世纪对手声部。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-31"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O16-Q1-1",
+      "misconceptionId": "william-of-ockham--O16-Q1-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-31"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O16-P1"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-16",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O16-Q2",
+      "kind": "binary",
+      "prompt": "论文并列司各脱与查顿的两种论证，然后用第一人称“我主张”替换所有段落。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O16-Q2-1",
+          "text": "既然奥卡姆讨论过两位对手，论文可把三方命题全部合并成奥卡姆的第一人称论证。",
+          "feedback": "“既然奥卡姆讨论过两位对手，论文可把三方命题全部合并成奥卡姆的第一人称论证。”错误处理了对手命题、作者回应与现代编者规范之分；在该案例中，错误消除论敌差异并把现代整理原则冒充中世纪对手声部，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-31"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C1"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O16-Q2-2",
+          "text": "必须分别标记对手论证与奥卡姆回应，现代编辑规则本身也属现代学术声部。",
+          "feedback": "“必须分别标记对手论证与奥卡姆回应，现代编辑规则本身也属现代学术声部。”正确应用了对手命题、作者回应与现代编者规范之分；在该案例中，争论关系要求保存发言者身份，SEP 证据支持的是现代归属判断，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-31"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O16-Q2-2",
+      "misconceptionId": "william-of-ockham--O16-Q2-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-31"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O16-C1"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O16-P1"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-16",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O16-Q3",
+      "kind": "binary",
+      "prompt": "依据 O16-C2，哪一陈述准确？",
+      "targetNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O16-Q3-1",
+          "text": "后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。",
+          "feedback": "“后来的“奥卡姆主义”、现代唯名论与通俗剃刀属于接受史，不能无声替代奥卡姆具体文本的主张。”命中了原典主张与后继接受史之分；O16-C2 的支持点是：名称沿用只证明影响或归类，不证明逐项文本出处。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-32"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O16-Q3-2",
+          "text": "后继学派和现代教科书使用“奥卡姆主义”一词，足以证明其中每个主张都由奥卡姆原文明确提出。",
+          "feedback": "“后继学派和现代教科书使用“奥卡姆主义”一词，足以证明其中每个主张都由奥卡姆原文明确提出。”违反了原典主张与后继接受史之分；O16-C2 的错误机制是：错误把后世命名关系当成作者身份与原文证据。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-32"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O16-Q3-1",
+      "misconceptionId": "william-of-ockham--O16-Q3-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-32"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O16-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-16",
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "william-of-ockham--O16-Q4",
+      "kind": "binary",
+      "prompt": "展览把二十世纪“奥卡姆主义”和一句通俗剃刀口号直接署名为十四世纪原文。 哪个分析符合本课边界？",
+      "targetNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "options": [
+        {
+          "id": "william-of-ockham--O16-Q4-1",
+          "text": "只要后人称某观点为奥卡姆主义，该观点就可当作奥卡姆逐字提出的主张。",
+          "feedback": "“只要后人称某观点为奥卡姆主义，该观点就可当作奥卡姆逐字提出的主张。”错误处理了原典主张与后继接受史之分；在该案例中，错误把后世命名关系当成作者身份与原文证据，所以该推论越过了材料许可的范围。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-32"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C2"
+          ]
+        },
+        {
+          "id": "william-of-ockham--O16-Q4-2",
+          "text": "接受史标签须与已定位原文分开，后继概括不能替代作者文本。",
+          "feedback": "“接受史标签须与已定位原文分开，后继概括不能替代作者文本。”正确应用了原典主张与后继接受史之分；在该案例中，名称沿用只证明影响或归类，不证明逐项文本出处，因此不能省略情境所要求的区分。 证据状态：尚未闭合 passage locator，当前为待定位证据。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "william-of-ockham--src-32"
+          ],
+          "claimNodeIds": [
+            "william-of-ockham--O16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "william-of-ockham--O16-Q4-2",
+      "misconceptionId": "william-of-ockham--O16-Q4-misconception",
+      "evidenceLinkIds": [
+        "william-of-ockham--src-32"
+      ],
+      "objectNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "william-of-ockham--O16-C2"
+      ],
+      "targetParagraphIds": [
+        "william-of-ockham--O16-P2"
+      ],
+      "targetVoices": [
+        "modern-scholarship"
+      ],
+      "lessonId": "william-of-ockham--ockham-16",
+      "voice": "modern-scholarship"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

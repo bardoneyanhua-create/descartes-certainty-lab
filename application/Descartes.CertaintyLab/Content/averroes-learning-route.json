@@ -1,0 +1,4928 @@
+{
+  "schemaVersion": "strict-six/v1",
+  "nodes": [
+    {
+      "id": "ir01-c1-node",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "短、中、长评承担不同解释动作，不能仅凭共同署名合并。",
+      "evidenceLinkIds": [
+        "ir01-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor / modern-scholarship"
+    },
+    {
+      "id": "ir01-c2-node",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "lemma 与注释者补足必须分声。",
+      "evidenceLinkIds": [
+        "ir01-c2-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir01-c3-node",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "体裁差异不能单独证明年代序列。",
+      "evidenceLinkIds": [
+        "ir01-c3-evidence"
+      ],
+      "voice": "modern-scholarship"
+    },
+    {
+      "id": "ir01-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "读鲁世德不能先把所有署名文本压成一个体系。短评重组论题，中评紧贴但不总逐句跟随原文，长评则显出引文 lemma 与解释者发言的交替；同一术语在不同体裁中承担的证明债务并不相同。",
+      "evidenceLinkIds": [
+        "ir01-c1-evidence",
+        "ir01-c2-evidence",
+        "ir01-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir01-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "因此归责必须从局部动作开始：先标出亚里士多德的命题，再标出鲁世德的释义、补足或反驳，最后才比较不同评注。若某一文本只由希伯来文或拉丁文保存，保存语言与编辑层还要另列。",
+      "evidenceLinkIds": [
+        "ir01-c1-evidence",
+        "ir01-c2-evidence",
+        "ir01-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir01-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "最强异议认为三种体裁仍可按早、中、晚排列，并据此叙述思想成熟。回应是：分期可以成为假说，却必须由具体作品、版本与现代校勘支持；体裁差异本身不等于年代证据。",
+      "evidenceLinkIds": [
+        "ir01-c1-evidence",
+        "ir01-c2-evidence",
+        "ir01-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir01-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir01",
+      "text": "接受边界是保持可撤回的序列：能够确认的只说体裁动作，顺序有争议处标 sequence disputed。后文任何立场都不因出现在长评中就自动升级为作者最终教义。",
+      "evidenceLinkIds": [
+        "ir01-c1-evidence",
+        "ir01-c2-evidence",
+        "ir01-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir02-c1-node",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "补足省略前提会使注释者承担可检验的解释责任。",
+      "evidenceLinkIds": [
+        "ir02-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir02-c2-node",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "超出字面不必然等于独立原创教义。",
+      "evidenceLinkIds": [
+        "ir02-c2-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir02-c3-node",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "从注释重建升级为作者直接声需要额外证据。",
+      "evidenceLinkIds": [
+        "ir02-c3-evidence"
+      ],
+      "voice": "commentarial-reconstruction / author-direct"
+    },
+    {
+      "id": "ir02-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "注释并非在原文旁边换一种说法。解释者要决定论证单位、补出省略前提、协调相邻章节，并说明某个结论为何由前件推出；这些选择会产生新的可检验承诺。",
+      "evidenceLinkIds": [
+        "ir02-c1-evidence",
+        "ir02-c2-evidence",
+        "ir02-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir02-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "但承诺强度必须分级。释义可以只是对 lemma 的最佳重建，反复出现并承担跨作品推理的补足才较接近鲁世德自己的立场；二者之间不能靠现代概括跳跃。",
+      "evidenceLinkIds": [
+        "ir02-c1-evidence",
+        "ir02-c2-evidence",
+        "ir02-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir02-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "最强异议是，只要解释明显超出字面，就应算作作者原创。回应是：超出字面可能服务于恢复亚里士多德论证，而非宣布独立学说；必须询问文本中的对象与发言姿态。",
+      "evidenceLinkIds": [
+        "ir02-c1-evidence",
+        "ir02-c2-evidence",
+        "ir02-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir02-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir02",
+      "text": "接受边界是把 commentarial-reconstruction 当默认声部。只有独立作品的直接论证或跨文本充分证据，才能升为 author-direct；无法区分时保留双重归责。",
+      "evidenceLinkIds": [
+        "ir02-c1-evidence",
+        "ir02-c2-evidence",
+        "ir02-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir03-c1-node",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "证明、辩证、修辞具有不同前提与认知责任。",
+      "evidenceLinkIds": [
+        "ir03-c1-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir03-c2-node",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "表达层差异不产生两套真理。",
+      "evidenceLinkIds": [
+        "ir03-c2-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir03-c3-node",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "方法分类不能无证据升级为固定人群本质。",
+      "evidenceLinkIds": [
+        "ir03-c3-evidence"
+      ],
+      "voice": "author-direct / synthesis"
+    },
+    {
+      "id": "ir03-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "鲁世德把证明、辩证与修辞区分为不同的推理责任。证明追问事物何以如此，辩证从广受承认的前提出发，修辞则面向行动与说服；三者不能因都能产生确信感而互换。",
+      "evidenceLinkIds": [
+        "ir03-c1-evidence",
+        "ir03-c2-evidence",
+        "ir03-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir03-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "这一区分解释了为何同一宗教共同体可以有不同表达层，却不能制造两套真理。表达方式随受众和目标改变，所指事实若真正成立便不因方法而分裂。",
+      "evidenceLinkIds": [
+        "ir03-c1-evidence",
+        "ir03-c2-evidence",
+        "ir03-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir03-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "最强异议认为这种分类把人凝固成精英与大众。回应是，文本首先划定的是论证资格与公开传播风险；把它扩成永久社会身份，需要额外政治与历史证据。",
+      "evidenceLinkIds": [
+        "ir03-c1-evidence",
+        "ir03-c2-evidence",
+        "ir03-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir03-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir03",
+      "text": "接受边界是只用分类判断当前推理承担什么证明债务。不从方法类型推出人的价值，也不以修辞具有实践功能为由把它当作证明。",
+      "evidenceLinkIds": [
+        "ir03-c1-evidence",
+        "ir03-c2-evidence",
+        "ir03-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir04-c1-node",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "对存在者的证明性考察可因法的命令而成为有能力者的义务。",
+      "evidenceLinkIds": [
+        "ir04-c1-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir04-c2-node",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "个别研究者的错误不取消研究种类。",
+      "evidenceLinkIds": [
+        "ir04-c2-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir04-c3-node",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "义务受证明能力与伦理条件限制。",
+      "evidenceLinkIds": [
+        "ir04-c3-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir04-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "《决断论》并非先从哲学自治出发，而是询问法对考察存在者的态度。若考察受造物能够引向对造物主的认识，且法命人思考，那么具有相应能力者的证明研究就获得规范理由。",
+      "evidenceLinkIds": [
+        "ir04-c1-evidence",
+        "ir04-c2-evidence",
+        "ir04-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir04-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "这个结论是有条件的。义务落在能够掌握证明、具备道德与学习条件的人身上；过去研究者犯错，不足以宣布整种研究非法，正如个别法律推理失误不取消法律推理本身。",
+      "evidenceLinkIds": [
+        "ir04-c1-evidence",
+        "ir04-c2-evidence",
+        "ir04-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir04-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "最强异议认为这是把外来的希腊知识偷渡进宗教。回应是，论证并不从知识的族属推出许可，而从研究对象、方法可靠性和法的命令建立桥梁；前人研究可被批判继承。",
+      "evidenceLinkIds": [
+        "ir04-c1-evidence",
+        "ir04-c2-evidence",
+        "ir04-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir04-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir04",
+      "text": "接受边界是不能把有条件义务扩成全民同样课程，也不能把研究许可扩成公开传播所有解释。能力、方法与潜在伤害仍构成后续门槛。",
+      "evidenceLinkIds": [
+        "ir04-c1-evidence",
+        "ir04-c2-evidence",
+        "ir04-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir05-c1-node",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "真理不抵触真理是解释表面冲突的前提。",
+      "evidenceLinkIds": [
+        "ir05-c1-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir05-c2-node",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "转义需要证明压力与阿拉伯语用法支持。",
+      "evidenceLinkIds": [
+        "ir05-c2-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir05-c3-node",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "双重真理不是鲁世德本人直接学说。",
+      "evidenceLinkIds": [
+        "ir05-c3-evidence"
+      ],
+      "voice": "author-direct / institutional-reception"
+    },
+    {
+      "id": "ir05-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "若证明达到真理，而法所启示的也是真理，两者就不能在同一意义上真正冲突。表面冲突因此触发的不是另造一套宗教真理，而是检查词义、修辞与解释条件。",
+      "evidenceLinkIds": [
+        "ir05-c1-evidence",
+        "ir05-c2-evidence",
+        "ir05-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir05-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "阿拉伯语允许由字面义转向比喻义，但转义不能由个人偏好发动；它须有证明压力与语言用法支持。对没有证明能力者，稳定的字面教导仍有认知和实践功能。",
+      "evidenceLinkIds": [
+        "ir05-c1-evidence",
+        "ir05-c2-evidence",
+        "ir05-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir05-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "最强异议是，这套结构暗中承认哲学真理与宗教真理各自成立。回应恰相反：解释的理由正是同一真理不能自相矛盾；差异属于表达、理解路径与受众责任。",
+      "evidenceLinkIds": [
+        "ir05-c1-evidence",
+        "ir05-c2-evidence",
+        "ir05-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir05-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir05",
+      "text": "接受边界是鲁世德没有由此授权任意解释，也没有提出本人版“双重真理”。后世标签只能在接受史层分析，不得回投为 author-direct。",
+      "evidenceLinkIds": [
+        "ir05-c1-evidence",
+        "ir05-c2-evidence",
+        "ir05-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir06-c1-node",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "批评对象是特定神学证明方法及其前提可达性。",
+      "evidenceLinkIds": [
+        "ir06-c1-evidence"
+      ],
+      "voice": "author-direct / opponent-reported"
+    },
+    {
+      "id": "ir06-c2-node",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "经文教导具有独立的认知与实践适切性。",
+      "evidenceLinkIds": [
+        "ir06-c2-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir06-c3-node",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "方法层级不等于宗教真假二分。",
+      "evidenceLinkIds": [
+        "ir06-c3-evidence"
+      ],
+      "voice": "author-direct / synthesis"
+    },
+    {
+      "id": "ir06-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "《揭示证明方法》批评的首先是若干神学家证明上帝、属性与创造的路径。某种论证若依赖并不普遍承认的前提，既不能达到证明，也未必适合共同体公开教导。",
+      "evidenceLinkIds": [
+        "ir06-c1-evidence",
+        "ir06-c2-evidence",
+        "ir06-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir06-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "鲁世德因此寻找更贴近经文且更可理解的道路，例如从照料与创造的秩序引导认识。宗教话语并非大众寓言废料，而是组织共同认识与实践的真实媒介。",
+      "evidenceLinkIds": [
+        "ir06-c1-evidence",
+        "ir06-c2-evidence",
+        "ir06-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir06-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "最强异议认为，只有哲学证明才有真理价值，宗教语言只是政治工具。回应是，文本批评特定证明方法，同时保留经文论证的适切性；方法层级不能直接变成真/假二分。",
+      "evidenceLinkIds": [
+        "ir06-c1-evidence",
+        "ir06-c2-evidence",
+        "ir06-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir06-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir06",
+      "text": "接受边界是不能把经文路径等同严格证明，也不能把对神学家的批评概括为对宗教本身的否定。具体属性、创造与神意问题仍需逐章定位。",
+      "evidenceLinkIds": [
+        "ir06-c1-evidence",
+        "ir06-c2-evidence",
+        "ir06-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir07-c1-node",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "论争文本必须区分对手原问题、作者重述、回应与让步。",
+      "evidenceLinkIds": [
+        "ir07-c1-evidence"
+      ],
+      "voice": "opponent-reported / author-direct / translator-editor"
+    },
+    {
+      "id": "ir07-c2-node",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "报告句仍可能重构对象，需双 locator。",
+      "evidenceLinkIds": [
+        "ir07-c2-evidence"
+      ],
+      "voice": "opponent-original / opponent-reported / author-direct"
+    },
+    {
+      "id": "ir07-c3-node",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "不得用 Avicenna 的体系替安萨里的被批对象补写。",
+      "evidenceLinkIds": [
+        "ir07-c3-evidence"
+      ],
+      "voice": "opponent-original / opponent-reported / author-direct"
+    },
+    {
+      "id": "ir07-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "《反驳反驳》是一部双声部文本。每一讨论都要先确定安萨里提出的问题及归责，再辨认鲁世德是在引述、重述、让步还是反驳；书名不能替代句子级对象审计。",
+      "evidenceLinkIds": [
+        "ir07-c1-evidence",
+        "ir07-c2-evidence",
+        "ir07-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir07-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "重述本身也可争议。鲁世德可能把对手论证置入自己理解的哲学谱系，因而评价回应前必须同时保留安萨里原问题与鲁世德所回应的版本。",
+      "evidenceLinkIds": [
+        "ir07-c1-evidence",
+        "ir07-c2-evidence",
+        "ir07-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir07-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "最强异议是，只要鲁世德明确说“他说”，对象就已经透明。回应是，报告句仍可能压缩或重构；双 locator 才能检验回应是否击中原主张。",
+      "evidenceLinkIds": [
+        "ir07-c1-evidence",
+        "ir07-c2-evidence",
+        "ir07-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir07-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir07",
+      "text": "接受边界是不借阿维森纳体系替安萨里发言，也不把 opponent-reported 句子编入鲁世德教义。后续因果、永恒与神知三篇都继承这道对象门。",
+      "evidenceLinkIds": [
+        "ir07-c1-evidence",
+        "ir07-c2-evidence",
+        "ir07-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir08-c1-node",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "自然知识要求可辨识的次因关系。",
+      "evidenceLinkIds": [
+        "ir08-c1-evidence"
+      ],
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor"
+    },
+    {
+      "id": "ir08-c2-node",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "第一因与次因不必竞争同一解释位置。",
+      "evidenceLinkIds": [
+        "ir08-c2-evidence"
+      ],
+      "voice": "author-direct / lemma / commentarial-reconstruction"
+    },
+    {
+      "id": "ir08-c3-node",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "鲁世德立场不得与阿维森纳因果体系合并。",
+      "evidenceLinkIds": [
+        "ir08-c3-evidence"
+      ],
+      "voice": "opponent-object / opponent-reported / author-direct"
+    },
+    {
+      "id": "ir08-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "否认事物具有稳定作用会破坏关于自然的可理解知识：火、药物或生物过程若没有可辨关系，经验便无法上升为解释。鲁世德维护次因，首先是维护知识对象的结构。",
+      "evidenceLinkIds": [
+        "ir08-c1-evidence",
+        "ir08-c2-evidence",
+        "ir08-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir08-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "第一因并未因此退出。次因的存在与秩序本身需要更高层解释；把神因果理解为与每个自然原因争夺同一位置，反而混淆了因果层级。",
+      "evidenceLinkIds": [
+        "ir08-c1-evidence",
+        "ir08-c2-evidence",
+        "ir08-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir08-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "最强异议是，稳定次因会限制神意，并把偶然性清除。回应是，可理解的因果联系不等于人已穷尽全部条件，也不等于第一因只是链条中的一个成员。",
+      "evidenceLinkIds": [
+        "ir08-c1-evidence",
+        "ir08-c2-evidence",
+        "ir08-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir08-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir08",
+      "text": "接受边界是不把这套回应等同阿维森纳的必然流溢体系。比较只能绑定明确对象；自然因果、宇宙依赖与模态问题仍须分别论证。",
+      "evidenceLinkIds": [
+        "ir08-c1-evidence",
+        "ir08-c2-evidence",
+        "ir08-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir09-c1-node",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "时间起点、创造与依赖性是三个需分别证明的对象。",
+      "evidenceLinkIds": [
+        "ir09-c1-evidence"
+      ],
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor"
+    },
+    {
+      "id": "ir09-c2-node",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "运动时间连续论证来自具体物理学 lemma 与鲁世德重建的交叉。",
+      "evidenceLinkIds": [
+        "ir09-c2-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir09-c3-node",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "持续依赖不等于时间内第一瞬间。",
+      "evidenceLinkIds": [
+        "ir09-c3-evidence"
+      ],
+      "voice": "author-direct / commentarial-reconstruction"
+    },
+    {
+      "id": "ir09-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "争论必须先拆开三个命题：运动是否总有此前运动，世界是否持续依赖第一因，以及“创造”是否只表示某个最初时刻。若把它们合并，物理学前提和形上学结论会互相冒充。",
+      "evidenceLinkIds": [
+        "ir09-c1-evidence",
+        "ir09-c2-evidence",
+        "ir09-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir09-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "鲁世德借运动与时间的连续性抵抗一个无前时刻的时间起点图景，同时坚持世界秩序并非自足。持续依赖与时间起点因此不是同义词。",
+      "evidenceLinkIds": [
+        "ir09-c1-evidence",
+        "ir09-c2-evidence",
+        "ir09-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir09-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "最强异议说，无时间起点便是否认创造。回应是，这个推论预先把创造定义成时间内事件，而争论的核心正是该定义是否充分；形上依赖可与无第一时刻的物理结构并存。",
+      "evidenceLinkIds": [
+        "ir09-c1-evidence",
+        "ir09-c2-evidence",
+        "ir09-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir09-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir09",
+      "text": "接受边界是不能把亚里士多德的物理论证直接标成鲁世德独立声，也不能把阿维森纳的“永恒创造”方案拿来填补差异。",
+      "evidenceLinkIds": [
+        "ir09-c1-evidence",
+        "ir09-c2-evidence",
+        "ir09-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir10-c1-node",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "“神只知普遍”不能无条件归给鲁世德。",
+      "evidenceLinkIds": [
+        "ir10-c1-evidence"
+      ],
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor"
+    },
+    {
+      "id": "ir10-c2-node",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "神知方式不能按人的被动取知模型理解。",
+      "evidenceLinkIds": [
+        "ir10-c2-evidence"
+      ],
+      "voice": "author-direct / translator-editor"
+    },
+    {
+      "id": "ir10-c3-node",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "恶作为缺失与总体秩序问题，不等于每一恶被独立意欲。",
+      "evidenceLinkIds": [
+        "ir10-c3-evidence"
+      ],
+      "voice": "author-direct"
+    },
+    {
+      "id": "ir10-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "“哲学家说神不知个别”是一项需要重建的归责，不是可直接复制的标签。鲁世德的回应从认识方式差异入手：人的知识从对象取得并随对象变化，神知不能以同一被动方式理解。",
+      "evidenceLinkIds": [
+        "ir10-c1-evidence",
+        "ir10-c2-evidence",
+        "ir10-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir10-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "因此问题不是在普遍与个别之间替神选择一栏，而是说明神知如何作为事物秩序的原因而不受事物变化。神意与恶的问题随后进入：秩序的总体善并不使每一局部缺失成为独立被意欲的实体。",
+      "evidenceLinkIds": [
+        "ir10-c1-evidence",
+        "ir10-c2-evidence",
+        "ir10-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir10-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "最强异议认为这种说法只是用“不同方式”逃避神是否知道此一个体。回应是，不同方式必须解释知识与因果秩序的关系；若不能说明个别差异如何被涵盖，债务仍然存在。",
+      "evidenceLinkIds": [
+        "ir10-c1-evidence",
+        "ir10-c2-evidence",
+        "ir10-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir10-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir10",
+      "text": "接受边界是不把“神只知普遍”归给鲁世德本人，也不宣称方式区分已消除全部困难。神知、神意与恶可相接，却各有未决论证。",
+      "evidenceLinkIds": [
+        "ir10-c1-evidence",
+        "ir10-c2-evidence",
+        "ir10-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir11-c1-node",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "形式与质料须解释一个复合实体的内在统一。",
+      "evidenceLinkIds": [
+        "ir11-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir11-c2-node",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "Avicenna 对受造物本质与存在的区分，须与鲁世德反对“存在作为心外附加偶性”的回应双向定位。",
+      "evidenceLinkIds": [
+        "ir11-c2-evidence"
+      ],
+      "voice": "opponent-object / commentarial-reconstruction"
+    },
+    {
+      "id": "ir11-c3-node",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "哲学增量可存在于对 lemma 的论证补足，而不必升级为独立教义。",
+      "evidenceLinkIds": [
+        "ir11-c3-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction"
+    },
+    {
+      "id": "ir11-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "实体问题从 lemma 开始，却不能停在 lemma。鲁世德要解释形式与质料怎样构成一个此物，而不是两个已成之物再外在结合；统一性因此成为解释变化、定义与个体存在的枢纽。",
+      "evidenceLinkIds": [
+        "ir11-c1-evidence",
+        "ir11-c2-evidence",
+        "ir11-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir11-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "对阿维森纳的批评必须绑定一个确定命题。本篇只处理受造复合实体的本质—存在关系：Avicenna 在《治疗书·神学》I.5 区分事物之所是与其存在，鲁世德则在《形而上学长评》V 对第 7 章的评注中反对把存在当作在心外附加于本质的现实偶性；不把形式给予或分离实体等别的问题混入本 claim。",
+      "evidenceLinkIds": [
+        "ir11-c1-evidence",
+        "ir11-c2-evidence",
+        "ir11-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir11-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "最强异议是，这不过是恢复亚里士多德，没有鲁世德自己的哲学增量。回应是，选择何种对手、补足统一性难题并调整概念接口，本身构成可追责的重建，但其声音仍应标为 commentarial-reconstruction。",
+      "evidenceLinkIds": [
+        "ir11-c1-evidence",
+        "ir11-c2-evidence",
+        "ir11-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir11-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir11",
+      "text": "接受边界是不重讲整套亚里士多德实体论，也不把阿维森纳抽象成共同的伊斯兰立场。只有明确 lemma、对象与重建动作才进入本篇。",
+      "evidenceLinkIds": [
+        "ir11-c1-evidence",
+        "ir11-c2-evidence",
+        "ir11-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir12-c1-node",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "运动、连续与时间构成相互约束的自然解释结构。",
+      "evidenceLinkIds": [
+        "ir12-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir12-c2-node",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "天体秩序为自然变化提供整体次序，但不独自完成形上证明。",
+      "evidenceLinkIds": [
+        "ir12-c2-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir12-c3-node",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "拉丁保存或接受内容不能无标记填补阿拉伯作者声。",
+      "evidenceLinkIds": [
+        "ir12-c3-evidence"
+      ],
+      "voice": "translator-editor"
+    },
+    {
+      "id": "ir12-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "自然解释从运动不是静态对象开始。运动的前后、连续量与时间互相规定，使原因不能被理解成任意相邻事件；解释要展示潜能如何在具体过程中实现。",
+      "evidenceLinkIds": [
+        "ir12-c1-evidence",
+        "ir12-c2-evidence",
+        "ir12-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir12-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "天体秩序把这一结构推向整体尺度。规则运动为自然变化提供可理解的次序，也与第一原理问题相接，但自然学接口不等于已完成形上证明。",
+      "evidenceLinkIds": [
+        "ir12-c1-evidence",
+        "ir12-c2-evidence",
+        "ir12-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir12-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "最强异议认为全部内容都只是亚里士多德自然学，鲁世德路线没有独立必要性。回应是，本篇只追踪鲁世德如何组织 lemma、补足连续性推理并连接不同论证层；原学说仍归亚里士多德路线。",
+      "evidenceLinkIds": [
+        "ir12-c1-evidence",
+        "ir12-c2-evidence",
+        "ir12-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir12-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir12",
+      "text": "接受边界是每个结论标明 lemma 或 reconstruction，不借后世拉丁宇宙论填补阿拉伯文本空缺，也不把天体秩序直接等同神学结论。",
+      "evidenceLinkIds": [
+        "ir12-c1-evidence",
+        "ir12-c2-evidence",
+        "ir12-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir13-c1-node",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "感觉与想象为实际思维提供个别化材料。",
+      "evidenceLinkIds": [
+        "ir13-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir13-c2-node",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "材料依赖不等于理智能力就是身体器官。",
+      "evidenceLinkIds": [
+        "ir13-c2-evidence"
+      ],
+      "voice": "commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir13-c3-node",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "本链不能提前承担统一理智或个体不朽结论。",
+      "evidenceLinkIds": [
+        "ir13-c3-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / synthesis"
+    },
+    {
+      "id": "ir13-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "思维并非从无材料的纯理智开始。感觉接受个别形式，想象保存并重新组合可感内容，使缺席对象仍能成为思考材料；这些意象构成理智活动面向个体的接口。",
+      "evidenceLinkIds": [
+        "ir13-c1-evidence",
+        "ir13-c2-evidence",
+        "ir13-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir13-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "身体条件既是必要性也是限制。损伤感觉或想象会改变我们的思维活动，但这并不直接证明质料理智本身是身体器官；心理能力的层级必须逐一论证。",
+      "evidenceLinkIds": [
+        "ir13-c1-evidence",
+        "ir13-c2-evidence",
+        "ir13-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir13-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "最强异议认为，只要思想依赖意象，理智就完全是身体功能。回应是，材料依赖与能力同一不是同一命题；鲁世德正是在这个裂缝中安排质料理智与能动理智。",
+      "evidenceLinkIds": [
+        "ir13-c1-evidence",
+        "ir13-c2-evidence",
+        "ir13-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir13-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir13",
+      "text": "接受边界是本篇只建立感觉—想象—可思材料链，不预先判定统一理智是否成功，也不由身体条件推出个体不朽结论。",
+      "evidenceLinkIds": [
+        "ir13-c1-evidence",
+        "ir13-c2-evidence",
+        "ir13-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir14-c1-node",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "质料理智单一性旨在解释普遍可思对象的共同性。",
+      "evidenceLinkIds": [
+        "ir14-c1-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir14-c2-node",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "个体意象承担共同理智与此人思维事件的连接。",
+      "evidenceLinkIds": [
+        "ir14-c2-evidence"
+      ],
+      "voice": "commentarial-reconstruction / translator-editor"
+    },
+    {
+      "id": "ir14-c3-node",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "monopsychism 是后世标签，不是可无标记回投的本人声。",
+      "evidenceLinkIds": [
+        "ir14-c3-evidence"
+      ],
+      "voice": "institutional-condemnation / reception-opponent"
+    },
+    {
+      "id": "ir14-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "质料理智被设想为能够接受一切可思形式而不先成为其中任何一种。若它像个体身体能力那样被各自质料化，普遍概念如何保持共同可理解性就成为难题。",
+      "evidenceLinkIds": [
+        "ir14-c1-evidence",
+        "ir14-c2-evidence",
+        "ir14-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir14-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "能动理智使意象中的可思内容成为现实可思，个体想象则提供此人此时的材料。单一理智与多个意象的连接试图同时解释普遍对象和个体思维事件。",
+      "evidenceLinkIds": [
+        "ir14-c1-evidence",
+        "ir14-c2-evidence",
+        "ir14-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir14-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "最强异议直指第一人称：若真正理解的理智是共同的，为何是我而不是共同理智在思？回应借意象连接把思维活动归于个体，但连接是否足以承重主体归属，仍是核心债务。",
+      "evidenceLinkIds": [
+        "ir14-c1-evidence",
+        "ir14-c2-evidence",
+        "ir14-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir14-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir14",
+      "text": "接受边界是单一性只被评价为解决普遍认识的方案，不把后世 monopsychism 标签当本人术语，也不以解释目标抹去个体归属困难。",
+      "evidenceLinkIds": [
+        "ir14-c1-evidence",
+        "ir14-c2-evidence",
+        "ir14-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir15-c1-node",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "统一理智框架面临个体认识成就与死后持续的归属问题。",
+      "evidenceLinkIds": [
+        "ir15-c1-evidence"
+      ],
+      "voice": "commentarial-reconstruction / translator-editor / modern-scholarship"
+    },
+    {
+      "id": "ir15-c2-node",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "伦理责任要求判断与行动可归于同一个体主体。",
+      "evidenceLinkIds": [
+        "ir15-c2-evidence"
+      ],
+      "voice": "commentarial-reconstruction / reception-opponent / authoring-synthesis"
+    },
+    {
+      "id": "ir15-c3-node",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "Aquinas 的反驳对象不能替鲁世德本人发言。",
+      "evidenceLinkIds": [
+        "ir15-c3-evidence"
+      ],
+      "voice": "reception-opponent"
+    },
+    {
+      "id": "ir15-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "从单一理智转向个体命运时，问题骤然加重。若个体化依赖身体意象，身体消失后哪些认识成就仍属于这个人，而不是只属于共同理智？",
+      "evidenceLinkIds": [
+        "ir15-c1-evidence",
+        "ir15-c2-evidence",
+        "ir15-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir15-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "伦理责任又要求行动、判断和后果能够归于同一主体。仅说明普遍思维如何可能，不足以说明奖惩、人格持续或此人的知性完善。不同评注阶段的措辞因此必须并列，不可先行调和。",
+      "evidenceLinkIds": [
+        "ir15-c1-evidence",
+        "ir15-c2-evidence",
+        "ir15-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir15-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "最强异议来自阿奎那：一个分离且共同的理智不能使这个人理解。该异议能暴露连接理论的压力，却是 Aquinas 所构造的反驳对象，不是鲁世德原话。",
+      "evidenceLinkIds": [
+        "ir15-c1-evidence",
+        "ir15-c2-evidence",
+        "ir15-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir15-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir15",
+      "text": "接受边界是把个体不朽保持为文本与分期争议，把伦理责任保持为未完全清偿的规范债务。若证据只支持张力，就登记张力，不制造和解。",
+      "evidenceLinkIds": [
+        "ir15-c1-evidence",
+        "ir15-c2-evidence",
+        "ir15-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir16-c1-node",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "比较法学把问题、分歧、证据来源与判断组织为可审查链。",
+      "evidenceLinkIds": [
+        "ir16-c1-evidence"
+      ],
+      "voice": "reported-legal / evidence-analysis / legal-comparative judgment"
+    },
+    {
+      "id": "ir16-c2-node",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "记录学派意见不等于作者认同。",
+      "evidenceLinkIds": [
+        "ir16-c2-evidence"
+      ],
+      "voice": "reported-legal / legal-comparative"
+    },
+    {
+      "id": "ir16-c3-node",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "al-Qadi 把分歧归结为类比与文本、文本与文本的冲突，并判“真主的权利”更属歧义而非一般性措辞，故不足以单独证明马匹天课。",
+      "evidenceLinkIds": [
+        "ir16-c3-evidence"
+      ],
+      "voice": "evidence-analysis / legal-comparative judgment"
+    },
+    {
+      "id": "ir16-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "法学篇的哲学价值不在证明鲁世德也当过法官，而在比较结构：提出一个法律问题，列出学派结论，追踪经文、传述或原则上的分歧来源，再说明为何同一证据产生不同判断。",
+      "evidenceLinkIds": [
+        "ir16-c1-evidence",
+        "ir16-c2-evidence",
+        "ir16-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir16-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "记录某一学派并不等于作者赞同它。文本的认知动作依次是报告、解释分歧原因、比较证据与可能的选择；四者必须分声，否则目录会被误写成作者法理。",
+      "evidenceLinkIds": [
+        "ir16-c1-evidence",
+        "ir16-c2-evidence",
+        "ir16-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir16-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "最强异议是，比较法学可能仍只是意见目录。回应要看同一问题是否不仅列出多数派与 Abū Ḥanīfa，还追踪无马匹天课传述、放牧牲畜类比、“真主权利”传述与 ʿUmar 报告，并由 al-Qāḍī 判断关键措辞的证据力。",
+      "evidenceLinkIds": [
+        "ir16-c1-evidence",
+        "ir16-c2-evidence",
+        "ir16-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir16-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir16",
+      "text": "接受边界是只承重卷一《天课书》应课财产部分的放牧繁殖马匹问题：问题、分歧、证据、比较与判断五环均在同一原典单元内；其他法律问题和职业履历不进入本篇。",
+      "evidenceLinkIds": [
+        "ir16-c1-evidence",
+        "ir16-c2-evidence",
+        "ir16-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir18-c1-node",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "已核译存层须区分 Zerahyah 与 Qalonymus 的两种《物理学》中评希伯来版本，并把未核的希伯来转拉丁主体与范围排除在断言外。",
+      "evidenceLinkIds": [
+        "ir18-c1-evidence"
+      ],
+      "voice": "translator-editor / modern-scholarship"
+    },
+    {
+      "id": "ir18-c2-node",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "Aquinas 的反驳、1270 年第 1 条与 1277 年序言指控不是自动同一主体；本篇不声称覆盖某条 1277 编号命题。",
+      "evidenceLinkIds": [
+        "ir18-c2-evidence"
+      ],
+      "voice": "reception-opponent / institutional-condemnation"
+    },
+    {
+      "id": "ir18-c3-node",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "双重真理不是鲁世德本人直接学说。",
+      "evidenceLinkIds": [
+        "ir18-c3-evidence"
+      ],
+      "voice": "author-direct / institutional-reception"
+    },
+    {
+      "id": "ir18-paragraph-1",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "接受史必须从保存链开始。已核范围内，《物理学》中评有两种希伯来版本，分别关联 Zerahyah ben Isaac 与 Qalonymus ben Qalonymus；《论灵魂》长评由 Michael Scot 拉丁译本完整保存并有阿拉伯残片。未核定译者与覆盖范围的“希伯来转拉丁”环节不在本篇承重。",
+      "evidenceLinkIds": [
+        "ir18-c1-evidence",
+        "ir18-c2-evidence",
+        "ir18-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir18-paragraph-2",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "拉丁读者又把具体命题置入大学争论。阿奎那《论理智单一性》、1270 年第 1 条与 1277 年谴责序言是三个不同对象：前者是反驳文本，1270 条目谴责“所有人的理智在数目上为一”，1277 序言则指控不具名教师并置哲学真理与信仰真理；事件相邻不能替代主体核对。",
+      "evidenceLinkIds": [
+        "ir18-c1-evidence",
+        "ir18-c2-evidence",
+        "ir18-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir18-paragraph-3",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "最强异议说“双重真理”正好概括这些冲突。回应是，这个标签若指哲学与信仰可各自为真的本人教义，就与《决断论》的真理一致命题冲突；它最多是后世争论策略或史学归因对象。",
+      "evidenceLinkIds": [
+        "ir18-c1-evidence",
+        "ir18-c2-evidence",
+        "ir18-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    },
+    {
+      "id": "ir18-paragraph-4",
+      "kind": "claim",
+      "lessonId": "ir18",
+      "text": "接受边界按实际对象选择 locator：具体谴责命题使用条号，制度性“双重真理”归因只使用 1277 序言。未核定的译者、转译方向或覆盖范围一律不补写；任何译存句也不得无回链标为 author-direct。",
+      "evidenceLinkIds": [
+        "ir18-c1-evidence",
+        "ir18-c2-evidence",
+        "ir18-c3-evidence"
+      ],
+      "voice": "authoring-synthesis; source voices preserved in claim matrix"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "ir01-c1-evidence",
+      "lessonId": "ir01",
+      "claim": "短、中、长评承担不同解释动作，不能仅凭共同署名合并。",
+      "source": "De anima epitome, Middle and Long Commentaries",
+      "locator": "Epitome/Short: Talkhīs Kitāb al-nafs, ed. al-Ahwānī, Cairo 1950, extant Arabic, historically mislabelled Middle; Middle: ed./trans. A. L. Ivry, BYU 2002, Arabic/English; Long: Crawford 1953 book.comment.page:paragraph:line, complete Michael Scot Latin with Arabic fragments",
+      "period": "commentarial corpus; Middle-after-Long sequence argued by Ivry 1995",
+      "identity": "Aristotle lemma / Ibn Rushd Arabic epitome / Ibn Rushd Arabic Middle / Michael Scot Latin transmission of Long / modern editors",
+      "object": "commentary genre and textual identity",
+      "voice": "lemma / commentarial-reconstruction / translator-editor / modern-scholarship",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "multi-edition genre chain remains broader than one claim-level passage"
+    },
+    {
+      "id": "ir01-c2-evidence",
+      "lessonId": "ir01",
+      "claim": "lemma 与注释者补足必须分声。",
+      "source": "Crawford 1953 Long Commentary on De anima",
+      "locator": "De anima 408b24-25: Crawford p. 88, comment 66:1 lemma; p. 89, comment 66:18 and 66:22-26 commentary; cross-checked Ivry 1995 nn. 15-17",
+      "period": "commentarial; Latin preservation with Arabic comparison",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Michael Scot translator / Crawford editor",
+      "object": "lemma and interpretation",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir01-c3-evidence",
+      "lessonId": "ir01",
+      "claim": "体裁差异不能单独证明年代序列。",
+      "source": "Alfred L. Ivry, 'Averroes' Middle and Long Commentaries on the De anima', Arabic Sciences and Philosophy 5 (1995)",
+      "locator": "abstract; notes 2-5; thesis that Middle followed both Short and Long",
+      "period": "modern",
+      "identity": "modern critical scholar",
+      "object": "dating and sequence",
+      "voice": "modern-scholarship",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir02-c1-evidence",
+      "lessonId": "ir02",
+      "claim": "补足省略前提会使注释者承担可检验的解释责任。",
+      "source": "Crawford 1953, Commentarium magnum in De anima",
+      "locator": "Book III, comment 5 (material intellect reconstruction), with Aristotle De anima III.4, 429a10-429b5 as lemma",
+      "period": "commentarial; complete Latin preservation with Arabic fragments",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Michael Scot translator / Crawford editor",
+      "object": "argument completion",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir02-c2-evidence",
+      "lessonId": "ir02",
+      "claim": "超出字面不必然等于独立原创教义。",
+      "source": "Crawford 1953; Taylor-Druart 2009",
+      "locator": "Long Commentary on De anima III.5, especially comment 5; compare comments 18-20 and 36",
+      "period": "commentarial",
+      "identity": "Aristotle lemma / Ibn Rushd reconstruction / modern translators",
+      "object": "interpretive excess",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "comment range still requires a pinpointed commentator sentence"
+    },
+    {
+      "id": "ir02-c3-evidence",
+      "lessonId": "ir02",
+      "claim": "从注释重建升级为作者直接声需要额外证据。",
+      "source": "De anima commentary sequence and Fasl al-maqal",
+      "locator": "Long Commentary De anima III, comments 5, 18-20, 36, contrasted with Fasl's direct first-person legal ruling in its opening legal-status section",
+      "period": "cross-corpus",
+      "identity": "Ibn Rushd commentator / Ibn Rushd direct author",
+      "object": "attribution strength",
+      "voice": "commentarial-reconstruction / author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "cross-corpus attribution synthesis requires separate pinpoint confirmation"
+    },
+    {
+      "id": "ir03-c1-evidence",
+      "lessonId": "ir03",
+      "claim": "证明、辩证、修辞具有不同前提与认知责任。",
+      "source": "Ibn Rushd, Fasl al-maqal",
+      "locator": "section beginning the three classes of assent: demonstrative, dialectical, rhetorical; immediately before the rules governing interpretation and disclosure",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "modes of reasoning",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir03-c2-evidence",
+      "lessonId": "ir03",
+      "claim": "表达层差异不产生两套真理。",
+      "source": "Fasl al-maqal",
+      "locator": "section containing 'truth does not oppose truth; rather it agrees with and bears witness to it', followed by the rule for figurative interpretation",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "truth and expression",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir03-c3-evidence",
+      "lessonId": "ir03",
+      "claim": "方法分类不能无证据升级为固定人群本质。",
+      "source": "Fasl al-maqal",
+      "locator": "three-classes-of-assent section plus disclosure-of-interpretation section; the text assigns modes of assent and communication duties, not an independent ontology of persons",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "scope of classification",
+      "voice": "author-direct / synthesis",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "scope limitation is authoring synthesis over two sections"
+    },
+    {
+      "id": "ir04-c1-evidence",
+      "lessonId": "ir04",
+      "claim": "对存在者的证明性考察可因法的命令而成为有能力者的义务。",
+      "source": "Ibn Rushd, Fasl al-maqal",
+      "locator": "opening legal ruling: whether philosophy and logic are permitted, forbidden, recommended or obligatory; followed by the scriptural command to reflect on beings as indications of the Artisan",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd as jurist-author",
+      "object": "legal status of philosophy",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir04-c2-evidence",
+      "lessonId": "ir04",
+      "claim": "个别研究者的错误不取消研究种类。",
+      "source": "Fasl al-maqal",
+      "locator": "passage comparing accidental harm from philosophical study to water choking the thirsty and distinguishing essential from accidental harm",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "error and discipline",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir04-c3-evidence",
+      "lessonId": "ir04",
+      "claim": "义务受证明能力与伦理条件限制。",
+      "source": "Fasl al-maqal",
+      "locator": "qualification passage requiring natural intelligence, religious integrity, moral virtue and demonstrative preparation; followed by restriction on disclosure",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "qualification",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir05-c1-evidence",
+      "lessonId": "ir05",
+      "claim": "真理不抵触真理是解释表面冲突的前提。",
+      "source": "Fasl al-maqal",
+      "locator": "'truth does not oppose truth; rather it agrees with and bears witness to it' passage",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "truth consistency",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir05-c2-evidence",
+      "lessonId": "ir05",
+      "claim": "转义需要证明压力与阿拉伯语用法支持。",
+      "source": "Fasl al-maqal",
+      "locator": "immediately following ta'wil rule: transfer from literal to figurative signification without violating Arabic usage, under demonstrative conflict",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "interpretation rule",
+      "voice": "author-direct",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir05-c3-evidence",
+      "lessonId": "ir05",
+      "claim": "双重真理不是鲁世德本人直接学说。",
+      "source": "Fasl al-maqal; Paris condemnation of 7 March 1277",
+      "locator": "author: truth-agreement passage; reception: Tempier 1277 prologue attacks unnamed teachers who say a claim is true according to philosophy but not Catholic faith",
+      "period": "medieval author / later institutional reception",
+      "identity": "Ibn Rushd / Étienne Tempier / unnamed Paris teachers",
+      "object": "double-truth attribution",
+      "voice": "author-direct / institutional-reception",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir06-c1-evidence",
+      "lessonId": "ir06",
+      "claim": "批评对象是特定神学证明方法及其前提可达性。",
+      "source": "Ibn Rushd, al-Kashf 'an manahij al-adilla",
+      "locator": "section on proving God's existence, subsections presenting and criticizing Ash'arite and other methods, before Ibn Rushd's providence and invention proofs",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd / theologians as reported objects",
+      "object": "theological methods",
+      "voice": "author-direct / opponent-reported",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "al-Kashf locator remains section-level"
+    },
+    {
+      "id": "ir06-c2-evidence",
+      "lessonId": "ir06",
+      "claim": "经文教导具有独立的认知与实践适切性。",
+      "source": "al-Kashf",
+      "locator": "proof of providence (dalil al-'inaya) and proof of invention/creation (dalil al-ikhtira') subsections in the existence-of-God section",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "scriptural pedagogy",
+      "voice": "author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "providence and creation locator remains section-level"
+    },
+    {
+      "id": "ir06-c3-evidence",
+      "lessonId": "ir06",
+      "claim": "方法层级不等于宗教真假二分。",
+      "source": "al-Kashf; Fasl al-maqal",
+      "locator": "Kashf providence/invention proof subsections cross-read with Fasl truth-agreement and three-classes-of-assent passages",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "method and truth",
+      "voice": "author-direct / synthesis",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "method-level comparison remains section-level"
+    },
+    {
+      "id": "ir07-c1-evidence",
+      "lessonId": "ir07",
+      "claim": "论争文本必须区分对手原问题、作者重述、回应与让步。",
+      "source": "Tahafut al-tahafut, trans. Simon van den Bergh, Luzac 1954",
+      "locator": "Discussion 1, vol. I, pp. 1-68 (eternity); Discussion 17, vol. I, pp. 316-333 (causality); quoted Ghazali units and Averroes responses read separately",
+      "period": "polemical Arabic / English translation",
+      "identity": "al-Ghazali as quoted / Ibn Rushd respondent / van den Bergh translator",
+      "object": "dialogical roles",
+      "voice": "opponent-reported / author-direct / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir07-c2-evidence",
+      "lessonId": "ir07",
+      "claim": "报告句仍可能重构对象，需双 locator。",
+      "source": "al-Ghazali, Tahafut al-falasifa; Ibn Rushd, Tahafut al-tahafut",
+      "locator": "bidirectional stable locator by matching discussion: 1 (eternity), 11 and 13 (divine knowledge), 17 (causality); TT van den Bergh I:1-68, I:203-207 and I:316-333",
+      "period": "polemical",
+      "identity": "al-Ghazali original discussion / al-Ghazali as quoted / Ibn Rushd response",
+      "object": "reported argument",
+      "voice": "opponent-original / opponent-reported / author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Ghazali original-side edition locator remains coarse"
+    },
+    {
+      "id": "ir07-c3-evidence",
+      "lessonId": "ir07",
+      "claim": "不得用 Avicenna 的体系替安萨里的被批对象补写。",
+      "source": "al-Ghazali, Tahafut al-falasifa; Ibn Rushd, Tahafut al-tahafut",
+      "locator": "matching Discussions 1, 11, 13 and 17; compare al-Ghazali's original proposition, Ibn Rushd's quotation, then response in van den Bergh I:1-68, I:203-207, I:316-333",
+      "period": "polemical texts",
+      "identity": "al-Ghazali original / Ibn Rushd reporter-respondent / Avicenna only where explicitly named as object",
+      "object": "object fidelity",
+      "voice": "opponent-original / opponent-reported / author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "selected bidirectional units remain broad at discussion level"
+    },
+    {
+      "id": "ir08-c1-evidence",
+      "lessonId": "ir08",
+      "claim": "自然知识要求可辨识的次因关系。",
+      "source": "Tahafut al-tahafut, van den Bergh 1954",
+      "locator": "Discussion 17, vol. I, pp. 316-333; cross-object al-Ghazali, Tahafut al-falasifa, Discussion 17",
+      "period": "polemical Arabic / English translation",
+      "identity": "al-Ghazali original and as reported / Ibn Rushd respondent / van den Bergh translator",
+      "object": "secondary causation",
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir08-c2-evidence",
+      "lessonId": "ir08",
+      "claim": "第一因与次因不必竞争同一解释位置。",
+      "source": "Tahafut al-tahafut; Tafsir Metaphysics",
+      "locator": "TT Discussion 17, van den Bergh I:316-333; Long Commentary on Metaphysics XII, comment 51, Bouyges Arabic pp. 1696-1708 (edition pagination cited in reception scholarship)",
+      "period": "polemical/commentarial",
+      "identity": "Ibn Rushd / Aristotle lemma / Bouyges editor",
+      "object": "causal hierarchy",
+      "voice": "author-direct / lemma / commentarial-reconstruction",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Metaphysics XII.51 bearing sentence remains unpinpointed"
+    },
+    {
+      "id": "ir08-c3-evidence",
+      "lessonId": "ir08",
+      "claim": "鲁世德立场不得与阿维森纳因果体系合并。",
+      "source": "Tahafut al-tahafut",
+      "locator": "Discussion 17, van den Bergh I:316-333: Ibn Rushd's response to the causality object; Avicenna enters only where the reported philosophers' necessity thesis is expressly at issue",
+      "period": "medieval polemic",
+      "identity": "Avicenna as explicit object / al-Ghazali reporter / Ibn Rushd respondent",
+      "object": "doctrinal boundary",
+      "voice": "opponent-object / opponent-reported / author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Avicenna comparison boundary remains broad"
+    },
+    {
+      "id": "ir09-c1-evidence",
+      "lessonId": "ir09",
+      "claim": "时间起点、创造与依赖性是三个需分别证明的对象。",
+      "source": "Tahafut al-tahafut, van den Bergh 1954",
+      "locator": "Discussion 1, vol. I, pp. 1-68; cross-object al-Ghazali, Tahafut al-falasifa, Discussion 1",
+      "period": "polemical Arabic / English translation",
+      "identity": "al-Ghazali original and as quoted / Ibn Rushd respondent / van den Bergh translator",
+      "object": "eternity-creation-time",
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir09-c2-evidence",
+      "lessonId": "ir09",
+      "claim": "运动时间连续论证来自具体物理学 lemma 与鲁世德重建的交叉。",
+      "source": "Aristotle Physics IV and VIII; Averroes Long Commentary on Physics",
+      "locator": "lemma Physics IV.10-14, 217b29-224a17 (time) and VIII.1, 250b11-251b10 (eternal motion); Long Commentary stable locator by book.comment in Iunta 1562 vol. 4, complete Latin, Hebrew witness, no extant Arabic full text",
+      "period": "commentarial transmission",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Latin-Hebrew preservation",
+      "object": "motion and time",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Physics commentary unit remains unpinpointed"
+    },
+    {
+      "id": "ir09-c3-evidence",
+      "lessonId": "ir09",
+      "claim": "持续依赖不等于时间内第一瞬间。",
+      "source": "Tahafut al-tahafut; Tafsir Metaphysics",
+      "locator": "TT Discussion 1, van den Bergh I:1-68; Long Commentary Metaphysics XII, comment 51, Bouyges Arabic edition",
+      "period": "polemical/commentarial",
+      "identity": "Ibn Rushd / Aristotle lemma",
+      "object": "ontological dependence",
+      "voice": "author-direct / commentarial-reconstruction",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "cross-commentary dependence synthesis remains broad"
+    },
+    {
+      "id": "ir10-c1-evidence",
+      "lessonId": "ir10",
+      "claim": "“神只知普遍”不能无条件归给鲁世德。",
+      "source": "Tahafut al-tahafut, van den Bergh 1954",
+      "locator": "Discussions 11 and 13; Arabic/translation concordance 340.1-342.10 = vol. I pp. 203-205; 345.1-10 = p. 206; 345.18-22 = p. 207; cross-object al-Ghazali Discussions 11 and 13",
+      "period": "polemical Arabic / English translation",
+      "identity": "al-Ghazali original and as reported / Ibn Rushd respondent / van den Bergh translator",
+      "object": "divine knowledge attribution",
+      "voice": "opponent-original / opponent-reported / author-direct / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir10-c2-evidence",
+      "lessonId": "ir10",
+      "claim": "神知方式不能按人的被动取知模型理解。",
+      "source": "Tahafut al-tahafut, van den Bergh 1954",
+      "locator": "Discussion 13, Arabic 345.18-22 / vol. I p. 207; causal formulation Arabic 468.2-5 / p. 285",
+      "period": "polemical Arabic / English translation",
+      "identity": "Ibn Rushd / van den Bergh translator",
+      "object": "mode of divine knowing",
+      "voice": "author-direct / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir10-c3-evidence",
+      "lessonId": "ir10",
+      "claim": "恶作为缺失与总体秩序问题，不等于每一恶被独立意欲。",
+      "source": "al-Kashf 'an manahij al-adilla",
+      "locator": "divine acts section, subsection on divine justice and the existence of evil, read after the providence (al-'inaya) proof",
+      "period": "independent Arabic",
+      "identity": "Ibn Rushd",
+      "object": "providence and evil",
+      "voice": "author-direct",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "al-Kashf providence-and-evil locator remains thematic"
+    },
+    {
+      "id": "ir11-c1-evidence",
+      "lessonId": "ir11",
+      "claim": "形式与质料须解释一个复合实体的内在统一。",
+      "source": "Aristotle Metaphysics Z-H; Ibn Rushd, Tafsir Ma ba'd al-tabi'a, Bouyges 1990",
+      "locator": "lemmas Metaphysics Z.10-12, 1034b20-1038a35 and H.6, 1045a7-1045b24; corresponding Long Commentary books VII-VIII by book.comment and Bouyges Arabic page",
+      "period": "commentarial; extant Arabic",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Bouyges editor",
+      "object": "substantial unity",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "corresponding books VII-VIII commentary pages remain unfilled"
+    },
+    {
+      "id": "ir11-c2-evidence",
+      "lessonId": "ir11",
+      "claim": "Avicenna 对受造物本质与存在的区分，须与鲁世德反对“存在作为心外附加偶性”的回应双向定位。",
+      "source": "Ibn Rushd, Tafsir Metaphysics",
+      "locator": "Avicenna object: al-Shifa, al-Ilahiyyat I.5, ed. Cairo, pp. 29.5-31.9, on thing/quiddity and existence; Ibn Rushd response: Long Commentary on Aristotle Metaphysics V, commentary on chapter 7, lemma 1017a7-b9, Bouyges 1990 Arabic, where he reports and rejects existence as a real accident added outside the soul to quiddity",
+      "period": "commentarial; extant Arabic",
+      "identity": "Avicenna as explicit object / Ibn Rushd commentator",
+      "object": "Avicenna essence-existence proposition and Ibn Rushd response",
+      "voice": "opponent-object / commentarial-reconstruction",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir11-c3-evidence",
+      "lessonId": "ir11",
+      "claim": "哲学增量可存在于对 lemma 的论证补足，而不必升级为独立教义。",
+      "source": "Bouyges 1990 Tafsir Metaphysics",
+      "locator": "books VII-VIII comments on Z.10-12 and H.6, each read as lemma followed by Ibn Rushd comment",
+      "period": "commentarial",
+      "identity": "Aristotle lemma / Ibn Rushd commentator",
+      "object": "argumentative reconstruction",
+      "voice": "lemma / commentarial-reconstruction",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "lemma-to-comment reconstruction remains broad across Z-H units"
+    },
+    {
+      "id": "ir12-c1-evidence",
+      "lessonId": "ir12",
+      "claim": "运动、连续与时间构成相互约束的自然解释结构。",
+      "source": "Aristotle Physics III-VI; Averroes Physics commentaries",
+      "locator": "lemmas Physics III.1, 200b12-201b15; IV.10-14, 217b29-224a17; VI.1-2, 231a21-233b15; Long Commentary by book.comment in Iunta 1562 vol. 4 (Latin; Hebrew witness; full Arabic lost)",
+      "period": "commentarial transmission",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Latin-Hebrew preservation",
+      "object": "motion-continuity-time",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Physics long-commentary book.comment locations remain unfilled"
+    },
+    {
+      "id": "ir12-c2-evidence",
+      "lessonId": "ir12",
+      "claim": "天体秩序为自然变化提供整体次序，但不独自完成形上证明。",
+      "source": "Aristotle De caelo; Averroes Long Commentary",
+      "locator": "De caelo I.2-3, 268b11-270b31 and II.3, 285b8-286b10; Carmody-Arnzen 2003 book.comment.page; Arabic survives only I.61-140 and II.1-42 in As'ad Jum'a 2002",
+      "period": "commentarial transmission",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Latin translator-editor / Arabic fragment editor",
+      "object": "celestial order",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "De caelo commentary page/comment locations remain unfilled"
+    },
+    {
+      "id": "ir12-c3-evidence",
+      "lessonId": "ir12",
+      "claim": "拉丁保存或接受内容不能无标记填补阿拉伯作者声。",
+      "source": "critical editions of Physics and De caelo Long Commentaries",
+      "locator": "Physics: Iunta 1562 vol. 4 Latin, Hebrew witness, full Arabic lost; De caelo: Carmody-Arnzen 2003 complete Latin, Arabic witness restricted to I.61-140 and II.1-42",
+      "period": "transmission",
+      "identity": "Latin/Hebrew translators and modern editors",
+      "object": "preservation chain",
+      "voice": "translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir13-c1-evidence",
+      "lessonId": "ir13",
+      "claim": "感觉与想象为实际思维提供个别化材料。",
+      "source": "Crawford 1953 Long Commentary on De anima",
+      "locator": "Book II comments on De anima II.5-12, 416b32-424b18 (sensation), followed by Book III comments on III.3, 427a17-429a9 (imagination), and III comment 36 (conjoining through phantasms)",
+      "period": "commentarial; Latin preservation with Arabic fragments",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Michael Scot translator / Crawford editor",
+      "object": "sense-imagination chain",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "Book II sensation range remains broader than a claim-level passage"
+    },
+    {
+      "id": "ir13-c2-evidence",
+      "lessonId": "ir13",
+      "claim": "材料依赖不等于理智能力就是身体器官。",
+      "source": "Crawford 1953; Taylor-Druart 2009",
+      "locator": "Long Commentary De anima III, comments 5 and 36; comment 5 treats separate material intellect, comment 36 its conjunction with individual phantasms",
+      "period": "commentarial",
+      "identity": "Ibn Rushd commentator / Latin translator / modern translators",
+      "object": "bodily condition",
+      "voice": "commentarial-reconstruction / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir13-c3-evidence",
+      "lessonId": "ir13",
+      "claim": "本链不能提前承担统一理智或个体不朽结论。",
+      "source": "Long Commentary De anima sequence",
+      "locator": "Book III: imagination lemma III.3 precedes material-intellect comment 5 and conjunction comment 36; conclusions are kept at their own comment units",
+      "period": "commentarial",
+      "identity": "Aristotle lemma / Ibn Rushd commentator",
+      "object": "argument boundary",
+      "voice": "lemma / commentarial-reconstruction / synthesis",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "argument-boundary synthesis spans multiple comment units"
+    },
+    {
+      "id": "ir14-c1-evidence",
+      "lessonId": "ir14",
+      "claim": "质料理智单一性旨在解释普遍可思对象的共同性。",
+      "source": "Crawford 1953 Long Commentary on De anima",
+      "locator": "Book III, comment 5 on De anima III.4, 429a10-429b5; compare comments 18-20",
+      "period": "commentarial; complete Latin with Arabic fragments",
+      "identity": "Aristotle lemma / Ibn Rushd commentary / Michael Scot translator / Crawford editor",
+      "object": "material intellect",
+      "voice": "lemma / commentarial-reconstruction / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir14-c2-evidence",
+      "lessonId": "ir14",
+      "claim": "个体意象承担共同理智与此人思维事件的连接。",
+      "source": "Crawford 1953; Taylor-Druart 2009",
+      "locator": "Long Commentary De anima III, comment 36 on understanding and conjunction with phantasms",
+      "period": "commentarial",
+      "identity": "Ibn Rushd commentary / translators-editors",
+      "object": "individual thinking",
+      "voice": "commentarial-reconstruction / translator-editor",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir14-c3-evidence",
+      "lessonId": "ir14",
+      "claim": "monopsychism 是后世标签，不是可无标记回投的本人声。",
+      "source": "Étienne Tempier 1270; Aquinas, De unitate intellectus",
+      "locator": "1270 Thirteen Errors, article 1; Aquinas, De unitate intellectus contra Averroistas, chs. 1-5; both are reception/opponent objects",
+      "period": "Latin reception",
+      "identity": "Tempier condemning authority / Aquinas opponent",
+      "object": "label and proposition history",
+      "voice": "institutional-condemnation / reception-opponent",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir15-c1-evidence",
+      "lessonId": "ir15",
+      "claim": "统一理智框架面临个体认识成就与死后持续的归属问题。",
+      "source": "De anima epitome, Middle and Long Commentaries",
+      "locator": "Epitome: al-Ahwani 1950 Arabic; Middle: Ivry 2002 Arabic/English; Long: Crawford 1953 Book III comments 5 and 36, complete Latin with Arabic fragments; sequence not inferred from genre labels",
+      "period": "multiple commentarial phases; sequence disputed",
+      "identity": "Ibn Rushd in three textual identities / respective translators-editors",
+      "object": "individual immortality and attribution development",
+      "voice": "commentarial-reconstruction / translator-editor / modern-scholarship",
+      "locatorVerified": false,
+      "locatorAuditStatus": "PENDING_LOCATOR_GRANULARITY",
+      "locatorPendingReason": "three-phase immortality comparison remains edition-level"
+    },
+    {
+      "id": "ir15-c2-evidence",
+      "lessonId": "ir15",
+      "claim": "伦理责任要求判断与行动可归于同一个体主体。",
+      "source": "Long Commentary De anima; Aquinas, De unitate intellectus",
+      "locator": "Ibn Rushd object: Book III comments 5 and 36; Aquinas objection: De unitate intellectus contra Averroistas, chs. 3-5",
+      "period": "medieval author/reception",
+      "identity": "Ibn Rushd object / Aquinas opponent",
+      "object": "responsibility and individual attribution",
+      "voice": "commentarial-reconstruction / reception-opponent / authoring-synthesis",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir15-c3-evidence",
+      "lessonId": "ir15",
+      "claim": "Aquinas 的反驳对象不能替鲁世德本人发言。",
+      "source": "Aquinas, De unitate intellectus contra Averroistas",
+      "locator": "chs. 1-2 reconstruct Aristotle and the commentator; chs. 3-5 argue against one separate intellect and defend individual understanding",
+      "period": "Latin reception",
+      "identity": "Aquinas",
+      "object": "constructed Averroist position",
+      "voice": "reception-opponent",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir16-c1-evidence",
+      "lessonId": "ir16",
+      "claim": "比较法学把问题、分歧、证据来源与判断组织为可审查链。",
+      "source": "Ibn Rushd, Bidāyat al-mujtahid wa-nihāyat al-muqtaṣid, Arabic",
+      "locator": "vol. 1, Book of Zakāt, section on property subject to zakāt, issue of grazing breeding horses; Islamweb Arabic ed. 1:211. Complete chain: whether horses owe zakāt → majority vs Abū Ḥanīfa → hadith 'no charity on slave or horse', analogy with grazing livestock, hadith 'God's right in their necks/backs', report of ʿUmar → qiyās/text and text/text conflict → al-Qāḍī judges 'God's right' more ambiguous than general and therefore insufficient proof",
+      "period": "legal work; extant Arabic",
+      "identity": "reported majority / Abū Ḥanīfa / Ibn Rushd speaking as al-Qāḍī",
+      "object": "zakāt on grazing breeding horses",
+      "voice": "reported-legal / evidence-analysis / legal-comparative judgment",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir16-c2-evidence",
+      "lessonId": "ir16",
+      "claim": "记录学派意见不等于作者认同。",
+      "source": "Bidāyat al-mujtahid, same Arabic issue",
+      "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses, Islamweb Arabic ed. 1:211; cross-check Nyazee trans., vol. I, Book of Zakāt, horses issue",
+      "period": "legal work",
+      "identity": "majority and Abū Ḥanīfa as reported objects / Ibn Rushd as al-Qāḍī evaluator",
+      "object": "position attribution and evidential comparison",
+      "voice": "reported-legal / legal-comparative",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir16-c3-evidence",
+      "lessonId": "ir16",
+      "claim": "al-Qadi 把分歧归结为类比与文本、文本与文本的冲突，并判“真主的权利”更属歧义而非一般性措辞，故不足以单独证明马匹天课。",
+      "source": "Ibn Rushd, Bidayat al-mujtahid wa-nihayat al-muqtasid, Arabic",
+      "locator": "vol. 1, Book of Zakat, property subject to zakat, issue of grazing breeding horses, Islamweb Arabic ed. 1:211; concluding comparison and al-Qadi judgment on 'God's right' as mujmal rather than amm",
+      "period": "legal work; extant Arabic",
+      "identity": "Ibn Rushd speaking as al-Qadi / reported legal authorities",
+      "object": "evidential conflict and comparative legal judgment on horse zakat",
+      "voice": "evidence-analysis / legal-comparative judgment",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir18-c1-evidence",
+      "lessonId": "ir18",
+      "claim": "已核译存层须区分 Zerahyah 与 Qalonymus 的两种《物理学》中评希伯来版本，并把未核的希伯来转拉丁主体与范围排除在断言外。",
+      "source": "University of Cologne Averroes Project, edition corpus/current-editions; critical edition identities",
+      "locator": "Physics Middle Commentary: two Hebrew versions identified in the Cologne corpus, one by Zerahyah ben Isaac and one by Qalonymus ben Qalonymus; De anima Long: Michael Scot Latin, Crawford 1953, complete Latin plus Arabic fragments; no claim is made here about an unidentified Hebrew-to-Latin translator or coverage range",
+      "period": "medieval Hebrew/Latin transmission / modern critical editions",
+      "identity": "Zerahyah ben Isaac / Qalonymus ben Qalonymus / Michael Scot / Cologne Averroes Project / Crawford",
+      "object": "verified preservation identities and explicit exclusion of an unverified transfer link",
+      "voice": "translator-editor / modern-scholarship",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir18-c2-evidence",
+      "lessonId": "ir18",
+      "claim": "Aquinas 的反驳、1270 年第 1 条与 1277 年序言指控不是自动同一主体；本篇不声称覆盖某条 1277 编号命题。",
+      "source": "Aquinas, De unitate intellectus; Étienne Tempier, Paris condemnations",
+      "locator": "De unitate intellectus contra Averroistas, chs. 1-5; 1270 Thirteen Errors, art. 1: one numerically identical intellect for all humans; 1277 decree prologue: unnamed teachers are accused of treating a claim as true according to philosophy but not Catholic faith, with no Ibn Rushd author claim and no numbered 1277 article asserted here",
+      "period": "Latin reception",
+      "identity": "Aquinas / Étienne Tempier and condemning authority / unnamed Paris masters",
+      "object": "Aquinas opponent text / 1270 numbered institutional proposition / 1277 prologue attribution",
+      "voice": "reception-opponent / institutional-condemnation",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    },
+    {
+      "id": "ir18-c3-evidence",
+      "lessonId": "ir18",
+      "claim": "双重真理不是鲁世德本人直接学说。",
+      "source": "Fasl al-maqal + Paris decree of 7 March 1277",
+      "locator": "author side: Fasl section 'truth does not oppose truth'; reception side: 1277 prologue alleges teachers claim philosophical truth against Catholic faith, without direct attribution to Ibn Rushd",
+      "period": "author / later reception",
+      "identity": "Ibn Rushd / Étienne Tempier / unnamed teachers",
+      "object": "double-truth attribution",
+      "voice": "author-direct / institutional-reception",
+      "locatorVerified": true,
+      "locatorAuditStatus": "VERIFIED_FROM_CLOSED_LOCATOR"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ibn-rushd-demonstration-commentary-intellect",
+      "title": "伊本·鲁世德：证明、诠释与理智的责任边界",
+      "person": {
+        "canonicalName": "Ibn Rushd",
+        "displayName": "伊本·鲁世德",
+        "aliasesForDedupOnly": [
+          "Averroes",
+          "阿威罗伊"
+        ]
+      },
+      "summary": "证明、诠释、自然因果、理智与跨语言接受的责任边界。",
+      "lessonIds": [
+        "ir01",
+        "ir02",
+        "ir03",
+        "ir04",
+        "ir05",
+        "ir06",
+        "ir07",
+        "ir08",
+        "ir09",
+        "ir10",
+        "ir11",
+        "ir12",
+        "ir13",
+        "ir14",
+        "ir15",
+        "ir16",
+        "ir18"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "ir01",
+      "order": 1,
+      "title": "短评、中评、长评为何不是同一声音？",
+      "guidingQuestion": "三种评注体裁怎样改变解释责任，而不被机械排成一条确定的发展线？",
+      "initialFocusId": "ir01-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir01-main",
+          "heading": "短评、中评、长评为何不是同一声音？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir01-paragraph-1",
+              "claim": "读鲁世德不能先把所有署名文本压成一个体系。短评重组论题，中评紧贴但不总逐句跟随原文，长评则显出引文 lemma 与解释者发言的交替；同一术语在不同体裁中承担的证明债务并不相同。",
+              "evidenceLinkIds": [
+                "ir01-c1-evidence",
+                "ir01-c2-evidence",
+                "ir01-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir01-paragraph-2",
+              "claim": "因此归责必须从局部动作开始：先标出亚里士多德的命题，再标出鲁世德的释义、补足或反驳，最后才比较不同评注。若某一文本只由希伯来文或拉丁文保存，保存语言与编辑层还要另列。",
+              "evidenceLinkIds": [
+                "ir01-c1-evidence",
+                "ir01-c2-evidence",
+                "ir01-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir01-paragraph-3",
+              "claim": "最强异议认为三种体裁仍可按早、中、晚排列，并据此叙述思想成熟。回应是：分期可以成为假说，却必须由具体作品、版本与现代校勘支持；体裁差异本身不等于年代证据。",
+              "evidenceLinkIds": [
+                "ir01-c1-evidence",
+                "ir01-c2-evidence",
+                "ir01-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir01-paragraph-4",
+              "claim": "接受边界是保持可撤回的序列：能够确认的只说体裁动作，顺序有争议处标 sequence disputed。后文任何立场都不因出现在长评中就自动升级为作者最终教义。",
+              "evidenceLinkIds": [
+                "ir01-c1-evidence",
+                "ir01-c2-evidence",
+                "ir01-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir01-c1-evidence",
+            "ir01-c2-evidence",
+            "ir01-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "体裁三分足以给出稳定的思想发展线。",
+      "response": "体裁是文本动作证据，不是独立年代证据。",
+      "acceptanceBoundary": "仅在版本与年代证据支持时谈发展，否则保留 sequence disputed。",
+      "sourceIds": [
+        "ir01-c1-evidence",
+        "ir01-c2-evidence",
+        "ir01-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir01-c1-node",
+        "ir01-c2-node",
+        "ir01-c3-node",
+        "ir01-paragraph-1",
+        "ir01-paragraph-2",
+        "ir01-paragraph-3",
+        "ir01-paragraph-4"
+      ],
+      "checkIds": [
+        "ir01-q1"
+      ]
+    },
+    {
+      "id": "ir02",
+      "order": 2,
+      "title": "注释是复述，还是一次可追责的哲学重建？",
+      "guidingQuestion": "解释者何时只是澄清 lemma，何时已经承担自己的论证责任？",
+      "initialFocusId": "ir02-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir02-main",
+          "heading": "注释是复述，还是一次可追责的哲学重建？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir02-paragraph-1",
+              "claim": "注释并非在原文旁边换一种说法。解释者要决定论证单位、补出省略前提、协调相邻章节，并说明某个结论为何由前件推出；这些选择会产生新的可检验承诺。",
+              "evidenceLinkIds": [
+                "ir02-c1-evidence",
+                "ir02-c2-evidence",
+                "ir02-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir02-paragraph-2",
+              "claim": "但承诺强度必须分级。释义可以只是对 lemma 的最佳重建，反复出现并承担跨作品推理的补足才较接近鲁世德自己的立场；二者之间不能靠现代概括跳跃。",
+              "evidenceLinkIds": [
+                "ir02-c1-evidence",
+                "ir02-c2-evidence",
+                "ir02-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir02-paragraph-3",
+              "claim": "最强异议是，只要解释明显超出字面，就应算作作者原创。回应是：超出字面可能服务于恢复亚里士多德论证，而非宣布独立学说；必须询问文本中的对象与发言姿态。",
+              "evidenceLinkIds": [
+                "ir02-c1-evidence",
+                "ir02-c2-evidence",
+                "ir02-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir02-paragraph-4",
+              "claim": "接受边界是把 commentarial-reconstruction 当默认声部。只有独立作品的直接论证或跨文本充分证据，才能升为 author-direct；无法区分时保留双重归责。",
+              "evidenceLinkIds": [
+                "ir02-c1-evidence",
+                "ir02-c2-evidence",
+                "ir02-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir02-c1-evidence",
+            "ir02-c2-evidence",
+            "ir02-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "凡超出 lemma 的内容都属于鲁世德原创。",
+      "response": "超出字面也可能是恢复所理解的亚里士多德证明。",
+      "acceptanceBoundary": "默认 commentarial-reconstruction；有独立直接论证才升级。",
+      "sourceIds": [
+        "ir02-c1-evidence",
+        "ir02-c2-evidence",
+        "ir02-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir02-c1-node",
+        "ir02-c2-node",
+        "ir02-c3-node",
+        "ir02-paragraph-1",
+        "ir02-paragraph-2",
+        "ir02-paragraph-3",
+        "ir02-paragraph-4"
+      ],
+      "checkIds": [
+        "ir02-q1"
+      ]
+    },
+    {
+      "id": "ir03",
+      "order": 3,
+      "title": "证明如何划分哲学、辩证与修辞？",
+      "guidingQuestion": "证明方法的差异为何首先是认知责任差异，而不是人的固定等级？",
+      "initialFocusId": "ir03-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir03-main",
+          "heading": "证明如何划分哲学、辩证与修辞？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir03-paragraph-1",
+              "claim": "鲁世德把证明、辩证与修辞区分为不同的推理责任。证明追问事物何以如此，辩证从广受承认的前提出发，修辞则面向行动与说服；三者不能因都能产生确信感而互换。",
+              "evidenceLinkIds": [
+                "ir03-c1-evidence",
+                "ir03-c2-evidence",
+                "ir03-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir03-paragraph-2",
+              "claim": "这一区分解释了为何同一宗教共同体可以有不同表达层，却不能制造两套真理。表达方式随受众和目标改变，所指事实若真正成立便不因方法而分裂。",
+              "evidenceLinkIds": [
+                "ir03-c1-evidence",
+                "ir03-c2-evidence",
+                "ir03-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir03-paragraph-3",
+              "claim": "最强异议认为这种分类把人凝固成精英与大众。回应是，文本首先划定的是论证资格与公开传播风险；把它扩成永久社会身份，需要额外政治与历史证据。",
+              "evidenceLinkIds": [
+                "ir03-c1-evidence",
+                "ir03-c2-evidence",
+                "ir03-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir03-paragraph-4",
+              "claim": "接受边界是只用分类判断当前推理承担什么证明债务。不从方法类型推出人的价值，也不以修辞具有实践功能为由把它当作证明。",
+              "evidenceLinkIds": [
+                "ir03-c1-evidence",
+                "ir03-c2-evidence",
+                "ir03-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir03-c1-evidence",
+            "ir03-c2-evidence",
+            "ir03-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "三种方法就是三种固定人类等级。",
+      "response": "文本直接承重的是论证方法、资格与传播责任。",
+      "acceptanceBoundary": "不从方法差异推出永久身份或人格价值。",
+      "sourceIds": [
+        "ir03-c1-evidence",
+        "ir03-c2-evidence",
+        "ir03-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir03-c1-node",
+        "ir03-c2-node",
+        "ir03-c3-node",
+        "ir03-paragraph-1",
+        "ir03-paragraph-2",
+        "ir03-paragraph-3",
+        "ir03-paragraph-4"
+      ],
+      "checkIds": [
+        "ir03-q1"
+      ]
+    },
+    {
+      "id": "ir04",
+      "order": 4,
+      "title": "法如何使哲学研究成为有条件的义务？",
+      "guidingQuestion": "哲学研究的规范地位如何由法的目的、能力与证明训练共同限定？",
+      "initialFocusId": "ir04-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir04-main",
+          "heading": "法如何使哲学研究成为有条件的义务？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir04-paragraph-1",
+              "claim": "《决断论》并非先从哲学自治出发，而是询问法对考察存在者的态度。若考察受造物能够引向对造物主的认识，且法命人思考，那么具有相应能力者的证明研究就获得规范理由。",
+              "evidenceLinkIds": [
+                "ir04-c1-evidence",
+                "ir04-c2-evidence",
+                "ir04-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir04-paragraph-2",
+              "claim": "这个结论是有条件的。义务落在能够掌握证明、具备道德与学习条件的人身上；过去研究者犯错，不足以宣布整种研究非法，正如个别法律推理失误不取消法律推理本身。",
+              "evidenceLinkIds": [
+                "ir04-c1-evidence",
+                "ir04-c2-evidence",
+                "ir04-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir04-paragraph-3",
+              "claim": "最强异议认为这是把外来的希腊知识偷渡进宗教。回应是，论证并不从知识的族属推出许可，而从研究对象、方法可靠性和法的命令建立桥梁；前人研究可被批判继承。",
+              "evidenceLinkIds": [
+                "ir04-c1-evidence",
+                "ir04-c2-evidence",
+                "ir04-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir04-paragraph-4",
+              "claim": "接受边界是不能把有条件义务扩成全民同样课程，也不能把研究许可扩成公开传播所有解释。能力、方法与潜在伤害仍构成后续门槛。",
+              "evidenceLinkIds": [
+                "ir04-c1-evidence",
+                "ir04-c2-evidence",
+                "ir04-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir04-c1-evidence",
+            "ir04-c2-evidence",
+            "ir04-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "希腊来源使哲学研究在宗教法内当然非法。",
+      "response": "许可桥梁取决于对象、方法与法命，而非知识的族属。",
+      "acceptanceBoundary": "只主张适格者的有条件义务，不主张无差别公开。",
+      "sourceIds": [
+        "ir04-c1-evidence",
+        "ir04-c2-evidence",
+        "ir04-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir04-c1-node",
+        "ir04-c2-node",
+        "ir04-c3-node",
+        "ir04-paragraph-1",
+        "ir04-paragraph-2",
+        "ir04-paragraph-3",
+        "ir04-paragraph-4"
+      ],
+      "checkIds": [
+        "ir04-q1"
+      ]
+    },
+    {
+      "id": "ir05",
+      "order": 5,
+      "title": "真理不冲突时，经文何以仍需解释？",
+      "guidingQuestion": "证明与经文字面冲突时，解释如何既有根据又受语言和资格约束？",
+      "initialFocusId": "ir05-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir05-main",
+          "heading": "真理不冲突时，经文何以仍需解释？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir05-paragraph-1",
+              "claim": "若证明达到真理，而法所启示的也是真理，两者就不能在同一意义上真正冲突。表面冲突因此触发的不是另造一套宗教真理，而是检查词义、修辞与解释条件。",
+              "evidenceLinkIds": [
+                "ir05-c1-evidence",
+                "ir05-c2-evidence",
+                "ir05-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir05-paragraph-2",
+              "claim": "阿拉伯语允许由字面义转向比喻义，但转义不能由个人偏好发动；它须有证明压力与语言用法支持。对没有证明能力者，稳定的字面教导仍有认知和实践功能。",
+              "evidenceLinkIds": [
+                "ir05-c1-evidence",
+                "ir05-c2-evidence",
+                "ir05-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir05-paragraph-3",
+              "claim": "最强异议是，这套结构暗中承认哲学真理与宗教真理各自成立。回应恰相反：解释的理由正是同一真理不能自相矛盾；差异属于表达、理解路径与受众责任。",
+              "evidenceLinkIds": [
+                "ir05-c1-evidence",
+                "ir05-c2-evidence",
+                "ir05-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir05-paragraph-4",
+              "claim": "接受边界是鲁世德没有由此授权任意解释，也没有提出本人版“双重真理”。后世标签只能在接受史层分析，不得回投为 author-direct。",
+              "evidenceLinkIds": [
+                "ir05-c1-evidence",
+                "ir05-c2-evidence",
+                "ir05-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir05-c1-evidence",
+            "ir05-c2-evidence",
+            "ir05-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "经文解释制度预设两套彼此独立的真理。",
+      "response": "它以真理一致为前提，只区分表达与理解路径。",
+      "acceptanceBoundary": "不授权任意转义；双重真理仅作后世归因对象。",
+      "sourceIds": [
+        "ir05-c1-evidence",
+        "ir05-c2-evidence",
+        "ir05-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir05-c1-node",
+        "ir05-c2-node",
+        "ir05-c3-node",
+        "ir05-paragraph-1",
+        "ir05-paragraph-2",
+        "ir05-paragraph-3",
+        "ir05-paragraph-4"
+      ],
+      "checkIds": [
+        "ir05-q1"
+      ]
+    },
+    {
+      "id": "ir06",
+      "order": 6,
+      "title": "批评神学证明是否等于贬低宗教？",
+      "guidingQuestion": "对神学方法的批评如何保留宗教教导的认知与实践功能？",
+      "initialFocusId": "ir06-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir06-main",
+          "heading": "批评神学证明是否等于贬低宗教？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir06-paragraph-1",
+              "claim": "《揭示证明方法》批评的首先是若干神学家证明上帝、属性与创造的路径。某种论证若依赖并不普遍承认的前提，既不能达到证明，也未必适合共同体公开教导。",
+              "evidenceLinkIds": [
+                "ir06-c1-evidence",
+                "ir06-c2-evidence",
+                "ir06-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir06-paragraph-2",
+              "claim": "鲁世德因此寻找更贴近经文且更可理解的道路，例如从照料与创造的秩序引导认识。宗教话语并非大众寓言废料，而是组织共同认识与实践的真实媒介。",
+              "evidenceLinkIds": [
+                "ir06-c1-evidence",
+                "ir06-c2-evidence",
+                "ir06-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir06-paragraph-3",
+              "claim": "最强异议认为，只有哲学证明才有真理价值，宗教语言只是政治工具。回应是，文本批评特定证明方法，同时保留经文论证的适切性；方法层级不能直接变成真/假二分。",
+              "evidenceLinkIds": [
+                "ir06-c1-evidence",
+                "ir06-c2-evidence",
+                "ir06-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir06-paragraph-4",
+              "claim": "接受边界是不能把经文路径等同严格证明，也不能把对神学家的批评概括为对宗教本身的否定。具体属性、创造与神意问题仍需逐章定位。",
+              "evidenceLinkIds": [
+                "ir06-c1-evidence",
+                "ir06-c2-evidence",
+                "ir06-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir06-c1-evidence",
+            "ir06-c2-evidence",
+            "ir06-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "批评神学论证就意味着宗教只是大众寓言。",
+      "response": "被批的是方法失当；经文教导仍承担真实认知与实践功能。",
+      "acceptanceBoundary": "不把经文修辞冒充严格证明，也不把方法批评升级为宗教否定。",
+      "sourceIds": [
+        "ir06-c1-evidence",
+        "ir06-c2-evidence",
+        "ir06-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir06-c1-node",
+        "ir06-c2-node",
+        "ir06-c3-node",
+        "ir06-paragraph-1",
+        "ir06-paragraph-2",
+        "ir06-paragraph-3",
+        "ir06-paragraph-4"
+      ],
+      "checkIds": [
+        "ir06-q1"
+      ]
+    },
+    {
+      "id": "ir07",
+      "order": 7,
+      "title": "《反驳反驳》中的对话对象如何重建？",
+      "guidingQuestion": "回应是否成立，为何取决于先区分安萨里的主张、鲁世德的重述与回应？",
+      "initialFocusId": "ir07-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir07-main",
+          "heading": "《反驳反驳》中的对话对象如何重建？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir07-paragraph-1",
+              "claim": "《反驳反驳》是一部双声部文本。每一讨论都要先确定安萨里提出的问题及归责，再辨认鲁世德是在引述、重述、让步还是反驳；书名不能替代句子级对象审计。",
+              "evidenceLinkIds": [
+                "ir07-c1-evidence",
+                "ir07-c2-evidence",
+                "ir07-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir07-paragraph-2",
+              "claim": "重述本身也可争议。鲁世德可能把对手论证置入自己理解的哲学谱系，因而评价回应前必须同时保留安萨里原问题与鲁世德所回应的版本。",
+              "evidenceLinkIds": [
+                "ir07-c1-evidence",
+                "ir07-c2-evidence",
+                "ir07-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir07-paragraph-3",
+              "claim": "最强异议是，只要鲁世德明确说“他说”，对象就已经透明。回应是，报告句仍可能压缩或重构；双 locator 才能检验回应是否击中原主张。",
+              "evidenceLinkIds": [
+                "ir07-c1-evidence",
+                "ir07-c2-evidence",
+                "ir07-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir07-paragraph-4",
+              "claim": "接受边界是不借阿维森纳体系替安萨里发言，也不把 opponent-reported 句子编入鲁世德教义。后续因果、永恒与神知三篇都继承这道对象门。",
+              "evidenceLinkIds": [
+                "ir07-c1-evidence",
+                "ir07-c2-evidence",
+                "ir07-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir07-c1-evidence",
+            "ir07-c2-evidence",
+            "ir07-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "明确的报告语法足以保证对手对象未被改写。",
+      "response": "报告仍会压缩或谱系化，必须回到原问题双定位。",
+      "acceptanceBoundary": "无双 locator 时只称鲁世德所报告的对象。",
+      "sourceIds": [
+        "ir07-c1-evidence",
+        "ir07-c2-evidence",
+        "ir07-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir07-c1-node",
+        "ir07-c2-node",
+        "ir07-c3-node",
+        "ir07-paragraph-1",
+        "ir07-paragraph-2",
+        "ir07-paragraph-3",
+        "ir07-paragraph-4"
+      ],
+      "checkIds": [
+        "ir07-q1"
+      ]
+    },
+    {
+      "id": "ir08",
+      "order": 8,
+      "title": "自然因果与第一因如何并立？",
+      "guidingQuestion": "维护自然因果为何既不取消第一因，也不等于阿维森纳体系？",
+      "initialFocusId": "ir08-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir08-main",
+          "heading": "自然因果与第一因如何并立？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir08-paragraph-1",
+              "claim": "否认事物具有稳定作用会破坏关于自然的可理解知识：火、药物或生物过程若没有可辨关系，经验便无法上升为解释。鲁世德维护次因，首先是维护知识对象的结构。",
+              "evidenceLinkIds": [
+                "ir08-c1-evidence",
+                "ir08-c2-evidence",
+                "ir08-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir08-paragraph-2",
+              "claim": "第一因并未因此退出。次因的存在与秩序本身需要更高层解释；把神因果理解为与每个自然原因争夺同一位置，反而混淆了因果层级。",
+              "evidenceLinkIds": [
+                "ir08-c1-evidence",
+                "ir08-c2-evidence",
+                "ir08-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir08-paragraph-3",
+              "claim": "最强异议是，稳定次因会限制神意，并把偶然性清除。回应是，可理解的因果联系不等于人已穷尽全部条件，也不等于第一因只是链条中的一个成员。",
+              "evidenceLinkIds": [
+                "ir08-c1-evidence",
+                "ir08-c2-evidence",
+                "ir08-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir08-paragraph-4",
+              "claim": "接受边界是不把这套回应等同阿维森纳的必然流溢体系。比较只能绑定明确对象；自然因果、宇宙依赖与模态问题仍须分别论证。",
+              "evidenceLinkIds": [
+                "ir08-c1-evidence",
+                "ir08-c2-evidence",
+                "ir08-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir08-c1-evidence",
+            "ir08-c2-evidence",
+            "ir08-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "承认稳定自然原因必然排除神因果与偶然。",
+      "response": "次因可理解性与第一因的依赖解释处在不同层级。",
+      "acceptanceBoundary": "不由稳定关系推出穷尽条件，也不与阿维森纳体系合并。",
+      "sourceIds": [
+        "ir08-c1-evidence",
+        "ir08-c2-evidence",
+        "ir08-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir08-c1-node",
+        "ir08-c2-node",
+        "ir08-c3-node",
+        "ir08-paragraph-1",
+        "ir08-paragraph-2",
+        "ir08-paragraph-3",
+        "ir08-paragraph-4"
+      ],
+      "checkIds": [
+        "ir08-q1"
+      ]
+    },
+    {
+      "id": "ir09",
+      "order": 9,
+      "title": "世界永恒、创造与时间是否同一争论？",
+      "guidingQuestion": "为何创造不能未经论证就等同于时间中的第一瞬间？",
+      "initialFocusId": "ir09-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir09-main",
+          "heading": "世界永恒、创造与时间是否同一争论？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir09-paragraph-1",
+              "claim": "争论必须先拆开三个命题：运动是否总有此前运动，世界是否持续依赖第一因，以及“创造”是否只表示某个最初时刻。若把它们合并，物理学前提和形上学结论会互相冒充。",
+              "evidenceLinkIds": [
+                "ir09-c1-evidence",
+                "ir09-c2-evidence",
+                "ir09-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir09-paragraph-2",
+              "claim": "鲁世德借运动与时间的连续性抵抗一个无前时刻的时间起点图景，同时坚持世界秩序并非自足。持续依赖与时间起点因此不是同义词。",
+              "evidenceLinkIds": [
+                "ir09-c1-evidence",
+                "ir09-c2-evidence",
+                "ir09-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir09-paragraph-3",
+              "claim": "最强异议说，无时间起点便是否认创造。回应是，这个推论预先把创造定义成时间内事件，而争论的核心正是该定义是否充分；形上依赖可与无第一时刻的物理结构并存。",
+              "evidenceLinkIds": [
+                "ir09-c1-evidence",
+                "ir09-c2-evidence",
+                "ir09-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir09-paragraph-4",
+              "claim": "接受边界是不能把亚里士多德的物理论证直接标成鲁世德独立声，也不能把阿维森纳的“永恒创造”方案拿来填补差异。",
+              "evidenceLinkIds": [
+                "ir09-c1-evidence",
+                "ir09-c2-evidence",
+                "ir09-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir09-c1-evidence",
+            "ir09-c2-evidence",
+            "ir09-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "没有第一时刻就必然没有创造。",
+      "response": "该推论把待争定义预先塞进创造概念。",
+      "acceptanceBoundary": "仅主张对象可分，不把物理连续性本身当作全部创造论。",
+      "sourceIds": [
+        "ir09-c1-evidence",
+        "ir09-c2-evidence",
+        "ir09-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir09-c1-node",
+        "ir09-c2-node",
+        "ir09-c3-node",
+        "ir09-paragraph-1",
+        "ir09-paragraph-2",
+        "ir09-paragraph-3",
+        "ir09-paragraph-4"
+      ],
+      "checkIds": [
+        "ir09-q1"
+      ]
+    },
+    {
+      "id": "ir10",
+      "order": 10,
+      "title": "神知个别者、神意与恶如何被限定？",
+      "guidingQuestion": "如何拒绝“神只知普遍”标签，同时不把神知写成人类放大版？",
+      "initialFocusId": "ir10-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir10-main",
+          "heading": "神知个别者、神意与恶如何被限定？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir10-paragraph-1",
+              "claim": "“哲学家说神不知个别”是一项需要重建的归责，不是可直接复制的标签。鲁世德的回应从认识方式差异入手：人的知识从对象取得并随对象变化，神知不能以同一被动方式理解。",
+              "evidenceLinkIds": [
+                "ir10-c1-evidence",
+                "ir10-c2-evidence",
+                "ir10-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir10-paragraph-2",
+              "claim": "因此问题不是在普遍与个别之间替神选择一栏，而是说明神知如何作为事物秩序的原因而不受事物变化。神意与恶的问题随后进入：秩序的总体善并不使每一局部缺失成为独立被意欲的实体。",
+              "evidenceLinkIds": [
+                "ir10-c1-evidence",
+                "ir10-c2-evidence",
+                "ir10-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir10-paragraph-3",
+              "claim": "最强异议认为这种说法只是用“不同方式”逃避神是否知道此一个体。回应是，不同方式必须解释知识与因果秩序的关系；若不能说明个别差异如何被涵盖，债务仍然存在。",
+              "evidenceLinkIds": [
+                "ir10-c1-evidence",
+                "ir10-c2-evidence",
+                "ir10-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir10-paragraph-4",
+              "claim": "接受边界是不把“神只知普遍”归给鲁世德本人，也不宣称方式区分已消除全部困难。神知、神意与恶可相接，却各有未决论证。",
+              "evidenceLinkIds": [
+                "ir10-c1-evidence",
+                "ir10-c2-evidence",
+                "ir10-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir10-c1-evidence",
+            "ir10-c2-evidence",
+            "ir10-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "方式不同只是回避神是否认识这个个体。",
+      "response": "方式区分须由知识作为秩序原因的论证承重，且保留剩余债务。",
+      "acceptanceBoundary": "拒绝压平标签，但不声称已解决所有个体化困难。",
+      "sourceIds": [
+        "ir10-c1-evidence",
+        "ir10-c2-evidence",
+        "ir10-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir10-c1-node",
+        "ir10-c2-node",
+        "ir10-c3-node",
+        "ir10-paragraph-1",
+        "ir10-paragraph-2",
+        "ir10-paragraph-3",
+        "ir10-paragraph-4"
+      ],
+      "checkIds": [
+        "ir10-q1"
+      ]
+    },
+    {
+      "id": "ir11",
+      "order": 11,
+      "title": "实体统一性如何反阿维森纳而不只复古？",
+      "guidingQuestion": "鲁世德如何借形式—质料统一重建实体，又不只是重复亚里士多德？",
+      "initialFocusId": "ir11-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir11-main",
+          "heading": "实体统一性如何反阿维森纳而不只复古？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir11-paragraph-1",
+              "claim": "实体问题从 lemma 开始，却不能停在 lemma。鲁世德要解释形式与质料怎样构成一个此物，而不是两个已成之物再外在结合；统一性因此成为解释变化、定义与个体存在的枢纽。",
+              "evidenceLinkIds": [
+                "ir11-c1-evidence",
+                "ir11-c2-evidence",
+                "ir11-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir11-paragraph-2",
+              "claim": "对阿维森纳的批评必须绑定一个确定命题。本篇只处理受造复合实体的本质—存在关系：Avicenna 在《治疗书·神学》I.5 区分事物之所是与其存在，鲁世德则在《形而上学长评》V 对第 7 章的评注中反对把存在当作在心外附加于本质的现实偶性；不把形式给予或分离实体等别的问题混入本 claim。",
+              "evidenceLinkIds": [
+                "ir11-c1-evidence",
+                "ir11-c2-evidence",
+                "ir11-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir11-paragraph-3",
+              "claim": "最强异议是，这不过是恢复亚里士多德，没有鲁世德自己的哲学增量。回应是，选择何种对手、补足统一性难题并调整概念接口，本身构成可追责的重建，但其声音仍应标为 commentarial-reconstruction。",
+              "evidenceLinkIds": [
+                "ir11-c1-evidence",
+                "ir11-c2-evidence",
+                "ir11-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir11-paragraph-4",
+              "claim": "接受边界是不重讲整套亚里士多德实体论，也不把阿维森纳抽象成共同的伊斯兰立场。只有明确 lemma、对象与重建动作才进入本篇。",
+              "evidenceLinkIds": [
+                "ir11-c1-evidence",
+                "ir11-c2-evidence",
+                "ir11-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir11-c1-evidence",
+            "ir11-c2-evidence",
+            "ir11-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "注释性重建没有独立哲学贡献。",
+      "response": "对象选择与论证补足产生可检验增量，但仍保留注释声部。",
+      "acceptanceBoundary": "不以贡献之名把 lemma 或阿维森纳对象倒灌给鲁世德。",
+      "sourceIds": [
+        "ir11-c1-evidence",
+        "ir11-c2-evidence",
+        "ir11-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir11-c1-node",
+        "ir11-c2-node",
+        "ir11-c3-node",
+        "ir11-paragraph-1",
+        "ir11-paragraph-2",
+        "ir11-paragraph-3",
+        "ir11-paragraph-4"
+      ],
+      "checkIds": [
+        "ir11-q1"
+      ]
+    },
+    {
+      "id": "ir12",
+      "order": 12,
+      "title": "运动、连续与天体秩序怎样构成自然解释？",
+      "guidingQuestion": "从运动连续性到天体秩序的论证，哪些来自 lemma，哪些是注释者补足？",
+      "initialFocusId": "ir12-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir12-main",
+          "heading": "运动、连续与天体秩序怎样构成自然解释？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir12-paragraph-1",
+              "claim": "自然解释从运动不是静态对象开始。运动的前后、连续量与时间互相规定，使原因不能被理解成任意相邻事件；解释要展示潜能如何在具体过程中实现。",
+              "evidenceLinkIds": [
+                "ir12-c1-evidence",
+                "ir12-c2-evidence",
+                "ir12-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir12-paragraph-2",
+              "claim": "天体秩序把这一结构推向整体尺度。规则运动为自然变化提供可理解的次序，也与第一原理问题相接，但自然学接口不等于已完成形上证明。",
+              "evidenceLinkIds": [
+                "ir12-c1-evidence",
+                "ir12-c2-evidence",
+                "ir12-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir12-paragraph-3",
+              "claim": "最强异议认为全部内容都只是亚里士多德自然学，鲁世德路线没有独立必要性。回应是，本篇只追踪鲁世德如何组织 lemma、补足连续性推理并连接不同论证层；原学说仍归亚里士多德路线。",
+              "evidenceLinkIds": [
+                "ir12-c1-evidence",
+                "ir12-c2-evidence",
+                "ir12-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir12-paragraph-4",
+              "claim": "接受边界是每个结论标明 lemma 或 reconstruction，不借后世拉丁宇宙论填补阿拉伯文本空缺，也不把天体秩序直接等同神学结论。",
+              "evidenceLinkIds": [
+                "ir12-c1-evidence",
+                "ir12-c2-evidence",
+                "ir12-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir12-c1-evidence",
+            "ir12-c2-evidence",
+            "ir12-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "自然学篇不是鲁世德哲学，只是亚里士多德复述。",
+      "response": "必要增量在具体论证组织和补足，且始终标注声部。",
+      "acceptanceBoundary": "原始自然学结论归 Aristotle；未证补足不升 author-direct。",
+      "sourceIds": [
+        "ir12-c1-evidence",
+        "ir12-c2-evidence",
+        "ir12-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir12-c1-node",
+        "ir12-c2-node",
+        "ir12-c3-node",
+        "ir12-paragraph-1",
+        "ir12-paragraph-2",
+        "ir12-paragraph-3",
+        "ir12-paragraph-4"
+      ],
+      "checkIds": [
+        "ir12-q1"
+      ]
+    },
+    {
+      "id": "ir13",
+      "order": 13,
+      "title": "感觉—想象链为何是思维的身体条件？",
+      "guidingQuestion": "感觉和想象怎样为理智提供材料，而不提前解决理智单一性？",
+      "initialFocusId": "ir13-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir13-main",
+          "heading": "感觉—想象链为何是思维的身体条件？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir13-paragraph-1",
+              "claim": "思维并非从无材料的纯理智开始。感觉接受个别形式，想象保存并重新组合可感内容，使缺席对象仍能成为思考材料；这些意象构成理智活动面向个体的接口。",
+              "evidenceLinkIds": [
+                "ir13-c1-evidence",
+                "ir13-c2-evidence",
+                "ir13-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir13-paragraph-2",
+              "claim": "身体条件既是必要性也是限制。损伤感觉或想象会改变我们的思维活动，但这并不直接证明质料理智本身是身体器官；心理能力的层级必须逐一论证。",
+              "evidenceLinkIds": [
+                "ir13-c1-evidence",
+                "ir13-c2-evidence",
+                "ir13-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir13-paragraph-3",
+              "claim": "最强异议认为，只要思想依赖意象，理智就完全是身体功能。回应是，材料依赖与能力同一不是同一命题；鲁世德正是在这个裂缝中安排质料理智与能动理智。",
+              "evidenceLinkIds": [
+                "ir13-c1-evidence",
+                "ir13-c2-evidence",
+                "ir13-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir13-paragraph-4",
+              "claim": "接受边界是本篇只建立感觉—想象—可思材料链，不预先判定统一理智是否成功，也不由身体条件推出个体不朽结论。",
+              "evidenceLinkIds": [
+                "ir13-c1-evidence",
+                "ir13-c2-evidence",
+                "ir13-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir13-c1-evidence",
+            "ir13-c2-evidence",
+            "ir13-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "思想依赖意象足以证明理智只是身体功能。",
+      "response": "材料依赖与能力同一需要不同论证。",
+      "acceptanceBoundary": "止于身体条件，不预判统一理智与不朽。",
+      "sourceIds": [
+        "ir13-c1-evidence",
+        "ir13-c2-evidence",
+        "ir13-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir13-c1-node",
+        "ir13-c2-node",
+        "ir13-c3-node",
+        "ir13-paragraph-1",
+        "ir13-paragraph-2",
+        "ir13-paragraph-3",
+        "ir13-paragraph-4"
+      ],
+      "checkIds": [
+        "ir13-q1"
+      ]
+    },
+    {
+      "id": "ir14",
+      "order": 14,
+      "title": "质料理智、能动理智与个体思维：单一性解决了什么？",
+      "guidingQuestion": "理智单一性如何解释普遍认识，同时制造“我在思”的归属难题？",
+      "initialFocusId": "ir14-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir14-main",
+          "heading": "质料理智、能动理智与个体思维：单一性解决了什么？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir14-paragraph-1",
+              "claim": "质料理智被设想为能够接受一切可思形式而不先成为其中任何一种。若它像个体身体能力那样被各自质料化，普遍概念如何保持共同可理解性就成为难题。",
+              "evidenceLinkIds": [
+                "ir14-c1-evidence",
+                "ir14-c2-evidence",
+                "ir14-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir14-paragraph-2",
+              "claim": "能动理智使意象中的可思内容成为现实可思，个体想象则提供此人此时的材料。单一理智与多个意象的连接试图同时解释普遍对象和个体思维事件。",
+              "evidenceLinkIds": [
+                "ir14-c1-evidence",
+                "ir14-c2-evidence",
+                "ir14-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir14-paragraph-3",
+              "claim": "最强异议直指第一人称：若真正理解的理智是共同的，为何是我而不是共同理智在思？回应借意象连接把思维活动归于个体，但连接是否足以承重主体归属，仍是核心债务。",
+              "evidenceLinkIds": [
+                "ir14-c1-evidence",
+                "ir14-c2-evidence",
+                "ir14-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir14-paragraph-4",
+              "claim": "接受边界是单一性只被评价为解决普遍认识的方案，不把后世 monopsychism 标签当本人术语，也不以解释目标抹去个体归属困难。",
+              "evidenceLinkIds": [
+                "ir14-c1-evidence",
+                "ir14-c2-evidence",
+                "ir14-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir14-c1-evidence",
+            "ir14-c2-evidence",
+            "ir14-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "共同理智使个体根本不能说“我在思”。",
+      "response": "个体意象连接提供归属接口，但其充分性仍待检验。",
+      "acceptanceBoundary": "承认解释目标与剩余难题，不以后世标签替本人立论。",
+      "sourceIds": [
+        "ir14-c1-evidence",
+        "ir14-c2-evidence",
+        "ir14-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir14-c1-node",
+        "ir14-c2-node",
+        "ir14-c3-node",
+        "ir14-paragraph-1",
+        "ir14-paragraph-2",
+        "ir14-paragraph-3",
+        "ir14-paragraph-4"
+      ],
+      "checkIds": [
+        "ir14-q1"
+      ]
+    },
+    {
+      "id": "ir15",
+      "order": 15,
+      "title": "个体不朽、认识归属与伦理责任能否同时保全？",
+      "guidingQuestion": "统一理智框架怎样承受个体认识、不朽和责任的联合压力？",
+      "initialFocusId": "ir15-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir15-main",
+          "heading": "个体不朽、认识归属与伦理责任能否同时保全？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir15-paragraph-1",
+              "claim": "从单一理智转向个体命运时，问题骤然加重。若个体化依赖身体意象，身体消失后哪些认识成就仍属于这个人，而不是只属于共同理智？",
+              "evidenceLinkIds": [
+                "ir15-c1-evidence",
+                "ir15-c2-evidence",
+                "ir15-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir15-paragraph-2",
+              "claim": "伦理责任又要求行动、判断和后果能够归于同一主体。仅说明普遍思维如何可能，不足以说明奖惩、人格持续或此人的知性完善。不同评注阶段的措辞因此必须并列，不可先行调和。",
+              "evidenceLinkIds": [
+                "ir15-c1-evidence",
+                "ir15-c2-evidence",
+                "ir15-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir15-paragraph-3",
+              "claim": "最强异议来自阿奎那：一个分离且共同的理智不能使这个人理解。该异议能暴露连接理论的压力，却是 Aquinas 所构造的反驳对象，不是鲁世德原话。",
+              "evidenceLinkIds": [
+                "ir15-c1-evidence",
+                "ir15-c2-evidence",
+                "ir15-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir15-paragraph-4",
+              "claim": "接受边界是把个体不朽保持为文本与分期争议，把伦理责任保持为未完全清偿的规范债务。若证据只支持张力，就登记张力，不制造和解。",
+              "evidenceLinkIds": [
+                "ir15-c1-evidence",
+                "ir15-c2-evidence",
+                "ir15-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir15-c1-evidence",
+            "ir15-c2-evidence",
+            "ir15-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "共同理智不能使这个个体理解，因此责任与不朽全部失败。",
+      "response": "异议击中连接债务，但需先检验它是否准确重建本人各阶段文本。",
+      "acceptanceBoundary": "不宣称已调和；只登记证成范围、反驳对象和剩余债务。",
+      "sourceIds": [
+        "ir15-c1-evidence",
+        "ir15-c2-evidence",
+        "ir15-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir15-c1-node",
+        "ir15-c2-node",
+        "ir15-c3-node",
+        "ir15-paragraph-1",
+        "ir15-paragraph-2",
+        "ir15-paragraph-3",
+        "ir15-paragraph-4"
+      ],
+      "checkIds": [
+        "ir15-q1"
+      ]
+    },
+    {
+      "id": "ir16",
+      "order": 16,
+      "title": "法学比较推理如何组织分歧与判断？",
+      "guidingQuestion": "《辨析始学者》怎样把分歧与理由变成可审查的比较，而非职业传记？",
+      "initialFocusId": "ir16-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir16-main",
+          "heading": "法学比较推理如何组织分歧与判断？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir16-paragraph-1",
+              "claim": "法学篇的哲学价值不在证明鲁世德也当过法官，而在比较结构：提出一个法律问题，列出学派结论，追踪经文、传述或原则上的分歧来源，再说明为何同一证据产生不同判断。",
+              "evidenceLinkIds": [
+                "ir16-c1-evidence",
+                "ir16-c2-evidence",
+                "ir16-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir16-paragraph-2",
+              "claim": "记录某一学派并不等于作者赞同它。文本的认知动作依次是报告、解释分歧原因、比较证据与可能的选择；四者必须分声，否则目录会被误写成作者法理。",
+              "evidenceLinkIds": [
+                "ir16-c1-evidence",
+                "ir16-c2-evidence",
+                "ir16-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir16-paragraph-3",
+              "claim": "最强异议是，比较法学可能仍只是意见目录。回应要看同一问题是否不仅列出多数派与 Abū Ḥanīfa，还追踪无马匹天课传述、放牧牲畜类比、“真主权利”传述与 ʿUmar 报告，并由 al-Qāḍī 判断关键措辞的证据力。",
+              "evidenceLinkIds": [
+                "ir16-c1-evidence",
+                "ir16-c2-evidence",
+                "ir16-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir16-paragraph-4",
+              "claim": "接受边界是只承重卷一《天课书》应课财产部分的放牧繁殖马匹问题：问题、分歧、证据、比较与判断五环均在同一原典单元内；其他法律问题和职业履历不进入本篇。",
+              "evidenceLinkIds": [
+                "ir16-c1-evidence",
+                "ir16-c2-evidence",
+                "ir16-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir16-c1-evidence",
+            "ir16-c2-evidence",
+            "ir16-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "法学材料会不会仍只是意见目录，而没有作者自己的比较判断？",
+      "response": "马匹天课单元不仅列意见，还并列传述与类比，并由 al-Qāḍī 明确评价关键措辞更属歧义、不能承担一般性证明。",
+      "acceptanceBoundary": "本篇只承重这个已核完整单元；不把其他未核法律问题或职业履历带入。",
+      "sourceIds": [
+        "ir16-c1-evidence",
+        "ir16-c2-evidence",
+        "ir16-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir16-c1-node",
+        "ir16-c2-node",
+        "ir16-c3-node",
+        "ir16-paragraph-1",
+        "ir16-paragraph-2",
+        "ir16-paragraph-3",
+        "ir16-paragraph-4"
+      ],
+      "checkIds": [
+        "ir16-q1"
+      ]
+    },
+    {
+      "id": "ir18",
+      "order": 17,
+      "title": "谁制造了“阿威罗伊主义”与“双重真理”？",
+      "guidingQuestion": "从阿拉伯作者到希伯来、拉丁和巴黎争论，哪些命题被保存、改写或错误归因？",
+      "initialFocusId": "ir18-title",
+      "focusTarget": "exact-lesson-title",
+      "sections": [
+        {
+          "id": "ir18-main",
+          "heading": "谁制造了“阿威罗伊主义”与“双重真理”？",
+          "kind": "natural-continuous-argument",
+          "paragraphs": [
+            {
+              "paragraphId": "ir18-paragraph-1",
+              "claim": "接受史必须从保存链开始。已核范围内，《物理学》中评有两种希伯来版本，分别关联 Zerahyah ben Isaac 与 Qalonymus ben Qalonymus；《论灵魂》长评由 Michael Scot 拉丁译本完整保存并有阿拉伯残片。未核定译者与覆盖范围的“希伯来转拉丁”环节不在本篇承重。",
+              "evidenceLinkIds": [
+                "ir18-c1-evidence",
+                "ir18-c2-evidence",
+                "ir18-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir18-paragraph-2",
+              "claim": "拉丁读者又把具体命题置入大学争论。阿奎那《论理智单一性》、1270 年第 1 条与 1277 年谴责序言是三个不同对象：前者是反驳文本，1270 条目谴责“所有人的理智在数目上为一”，1277 序言则指控不具名教师并置哲学真理与信仰真理；事件相邻不能替代主体核对。",
+              "evidenceLinkIds": [
+                "ir18-c1-evidence",
+                "ir18-c2-evidence",
+                "ir18-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir18-paragraph-3",
+              "claim": "最强异议说“双重真理”正好概括这些冲突。回应是，这个标签若指哲学与信仰可各自为真的本人教义，就与《决断论》的真理一致命题冲突；它最多是后世争论策略或史学归因对象。",
+              "evidenceLinkIds": [
+                "ir18-c1-evidence",
+                "ir18-c2-evidence",
+                "ir18-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            },
+            {
+              "paragraphId": "ir18-paragraph-4",
+              "claim": "接受边界按实际对象选择 locator：具体谴责命题使用条号，制度性“双重真理”归因只使用 1277 序言。未核定的译者、转译方向或覆盖范围一律不补写；任何译存句也不得无回链标为 author-direct。",
+              "evidenceLinkIds": [
+                "ir18-c1-evidence",
+                "ir18-c2-evidence",
+                "ir18-c3-evidence"
+              ],
+              "voice": "authoring-synthesis"
+            }
+          ],
+          "evidenceLinkIds": [
+            "ir18-c1-evidence",
+            "ir18-c2-evidence",
+            "ir18-c3-evidence"
+          ]
+        }
+      ],
+      "objection": "双重真理是概括鲁世德及拉丁追随者的中性标签。",
+      "response": "它会抹掉本人真理一致命题与多个后世主体的差异。",
+      "acceptanceBoundary": "双重真理只作后世归因对象；1277 仅承重序言中的不具名教师指控，不把它改写为 Ibn Rushd 本人命题。",
+      "sourceIds": [
+        "ir18-c1-evidence",
+        "ir18-c2-evidence",
+        "ir18-c3-evidence"
+      ],
+      "nodeIds": [
+        "ir18-c1-node",
+        "ir18-c2-node",
+        "ir18-c3-node",
+        "ir18-paragraph-1",
+        "ir18-paragraph-2",
+        "ir18-paragraph-3",
+        "ir18-paragraph-4"
+      ],
+      "checkIds": [
+        "ir18-q1"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "id": "ir01-q1",
+      "lessonId": "ir01",
+      "prompt": "仅凭一段文字出自长评，可以把它判为鲁世德最终教义吗？",
+      "promptBinding": {
+        "lessonId": "ir01",
+        "targetNodeIds": [
+          "ir01-c3-node"
+        ],
+        "evidenceLinkIds": [
+          "ir01-c3-evidence"
+        ],
+        "source": "Ivry, Arabic Sciences and Philosophy 5 (1995)",
+        "locator": "abstract and notes 2-5",
+        "voice": "modern-scholarship"
+      },
+      "targetNodeIds": [
+        "ir01-c3-node"
+      ],
+      "evidenceLinkIds": [
+        "ir01-c3-evidence"
+      ],
+      "voice": "modern-scholarship",
+      "options": [
+        {
+          "id": "ir01-q1-true",
+          "text": "不可以；先分 lemma、注释动作与保存层，再审分期证据。",
+          "isCorrect": true,
+          "feedback": "当前项正确：归责须先完成 source、identity、object 与 voice 分层。",
+          "binding": {
+            "lessonId": "ir01",
+            "targetNodeIds": [
+              "ir01-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir01-c3-evidence"
+            ],
+            "source": "Ivry, Arabic Sciences and Philosophy 5 (1995)",
+            "locator": "abstract and notes 2-5",
+            "voice": "modern-scholarship"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir01",
+            "targetNodeIds": [
+              "ir01-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir01-c3-evidence"
+            ],
+            "source": "Ivry, Arabic Sciences and Philosophy 5 (1995)",
+            "locator": "abstract and notes 2-5",
+            "voice": "modern-scholarship"
+          }
+        },
+        {
+          "id": "ir01-q1-false",
+          "text": "可以；长评体裁本身足以把其中命题判为鲁世德最终教义。",
+          "isCorrect": false,
+          "feedback": "当前项错误：长评体裁不能单独把命题升级为最终作者教义。",
+          "binding": {
+            "lessonId": "ir01",
+            "targetNodeIds": [
+              "ir01-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir01-c3-evidence"
+            ],
+            "source": "Ivry, Arabic Sciences and Philosophy 5 (1995)",
+            "locator": "abstract and notes 2-5",
+            "voice": "modern-scholarship"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir01",
+            "targetNodeIds": [
+              "ir01-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir01-c3-evidence"
+            ],
+            "source": "Ivry, Arabic Sciences and Philosophy 5 (1995)",
+            "locator": "abstract and notes 2-5",
+            "voice": "modern-scholarship"
+          }
+        }
+      ],
+      "correctOptionId": "ir01-q1-true"
+    },
+    {
+      "id": "ir02-q1",
+      "lessonId": "ir02",
+      "prompt": "注释者补出省略前提时，最稳妥的初始 voice 是什么？",
+      "promptBinding": {
+        "lessonId": "ir02",
+        "targetNodeIds": [
+          "ir02-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir02-c1-evidence"
+        ],
+        "source": "Crawford 1953 Long Commentary on De anima",
+        "locator": "Book III, comment 5; lemma De anima III.4, 429a10-429b5",
+        "voice": "commentarial-reconstruction"
+      },
+      "targetNodeIds": [
+        "ir02-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir02-c1-evidence"
+      ],
+      "voice": "commentarial-reconstruction",
+      "options": [
+        {
+          "id": "ir02-q1-false",
+          "text": "author-direct；只要注释补出前提，就无需保留重建声部。",
+          "isCorrect": false,
+          "feedback": "当前项错误：补足并不自动成为 author-direct 教义。",
+          "binding": {
+            "lessonId": "ir02",
+            "targetNodeIds": [
+              "ir02-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir02-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; lemma De anima III.4, 429a10-429b5",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir02",
+            "targetNodeIds": [
+              "ir02-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir02-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; lemma De anima III.4, 429a10-429b5",
+            "voice": "commentarial-reconstruction"
+          }
+        },
+        {
+          "id": "ir02-q1-true",
+          "text": "commentarial-reconstruction。",
+          "isCorrect": true,
+          "feedback": "当前项正确：它标记了真实解释责任，同时保留归责强度。",
+          "binding": {
+            "lessonId": "ir02",
+            "targetNodeIds": [
+              "ir02-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir02-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; lemma De anima III.4, 429a10-429b5",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir02",
+            "targetNodeIds": [
+              "ir02-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir02-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; lemma De anima III.4, 429a10-429b5",
+            "voice": "commentarial-reconstruction"
+          }
+        }
+      ],
+      "correctOptionId": "ir02-q1-true"
+    },
+    {
+      "id": "ir03-q1",
+      "lessonId": "ir03",
+      "prompt": "证明、辩证与修辞的区分是否直接证明存在三种固定人格？",
+      "promptBinding": {
+        "lessonId": "ir03",
+        "targetNodeIds": [
+          "ir03-c3-node"
+        ],
+        "evidenceLinkIds": [
+          "ir03-c3-evidence"
+        ],
+        "source": "Fasl al-maqal",
+        "locator": "three-classes-of-assent and disclosure-of-interpretation sections",
+        "voice": "author-direct"
+      },
+      "targetNodeIds": [
+        "ir03-c3-node"
+      ],
+      "evidenceLinkIds": [
+        "ir03-c3-evidence"
+      ],
+      "voice": "author-direct",
+      "options": [
+        {
+          "id": "ir03-q1-true",
+          "text": "否；它首先区分推理责任。",
+          "isCorrect": true,
+          "feedback": "当前项正确：它把结论限制在 claim-specific 的方法责任。",
+          "binding": {
+            "lessonId": "ir03",
+            "targetNodeIds": [
+              "ir03-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir03-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "three-classes-of-assent and disclosure-of-interpretation sections",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir03",
+            "targetNodeIds": [
+              "ir03-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir03-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "three-classes-of-assent and disclosure-of-interpretation sections",
+            "voice": "author-direct"
+          }
+        },
+        {
+          "id": "ir03-q1-false",
+          "text": "是；三种论证方法直接对应三种固定人格本质。",
+          "isCorrect": false,
+          "feedback": "当前项错误：方法分类不足以承重固定人格本质。",
+          "binding": {
+            "lessonId": "ir03",
+            "targetNodeIds": [
+              "ir03-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir03-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "three-classes-of-assent and disclosure-of-interpretation sections",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir03",
+            "targetNodeIds": [
+              "ir03-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir03-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "three-classes-of-assent and disclosure-of-interpretation sections",
+            "voice": "author-direct"
+          }
+        }
+      ],
+      "correctOptionId": "ir03-q1-true"
+    },
+    {
+      "id": "ir04-q1",
+      "lessonId": "ir04",
+      "prompt": "《决断论》的结论是否是每个人都应以同一方式学习证明哲学？",
+      "promptBinding": {
+        "lessonId": "ir04",
+        "targetNodeIds": [
+          "ir04-c3-node"
+        ],
+        "evidenceLinkIds": [
+          "ir04-c3-evidence"
+        ],
+        "source": "Fasl al-maqal",
+        "locator": "qualification and restriction-on-disclosure passages",
+        "voice": "author-direct"
+      },
+      "targetNodeIds": [
+        "ir04-c3-node"
+      ],
+      "evidenceLinkIds": [
+        "ir04-c3-evidence"
+      ],
+      "voice": "author-direct",
+      "options": [
+        {
+          "id": "ir04-q1-false",
+          "text": "是；《决断论》要求所有人以同一方式学习证明哲学。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它抹掉了适格性与传播风险。",
+          "binding": {
+            "lessonId": "ir04",
+            "targetNodeIds": [
+              "ir04-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir04-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "qualification and restriction-on-disclosure passages",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir04",
+            "targetNodeIds": [
+              "ir04-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir04-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "qualification and restriction-on-disclosure passages",
+            "voice": "author-direct"
+          }
+        },
+        {
+          "id": "ir04-q1-true",
+          "text": "否；义务以能力、训练与责任为条件。",
+          "isCorrect": true,
+          "feedback": "当前项正确：法学结论是有条件义务而非无差别课程。",
+          "binding": {
+            "lessonId": "ir04",
+            "targetNodeIds": [
+              "ir04-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir04-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "qualification and restriction-on-disclosure passages",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir04",
+            "targetNodeIds": [
+              "ir04-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir04-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "qualification and restriction-on-disclosure passages",
+            "voice": "author-direct"
+          }
+        }
+      ],
+      "correctOptionId": "ir04-q1-true"
+    },
+    {
+      "id": "ir05-q1",
+      "lessonId": "ir05",
+      "prompt": "把“双重真理”直接标为鲁世德本人学说是否合格？",
+      "promptBinding": {
+        "lessonId": "ir05",
+        "targetNodeIds": [
+          "ir05-c3-node"
+        ],
+        "evidenceLinkIds": [
+          "ir05-c3-evidence"
+        ],
+        "source": "Fasl al-maqal",
+        "locator": "truth-agreement passage",
+        "voice": "author-direct"
+      },
+      "targetNodeIds": [
+        "ir05-c3-node"
+      ],
+      "evidenceLinkIds": [
+        "ir05-c3-evidence"
+      ],
+      "voice": "author-direct",
+      "options": [
+        {
+          "id": "ir05-q1-true",
+          "text": "不合格；本人文本承诺真理不冲突。",
+          "isCorrect": true,
+          "feedback": "当前项正确：本人命题与接受史归因被严格分层。",
+          "binding": {
+            "lessonId": "ir05",
+            "targetNodeIds": [
+              "ir05-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir05-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "truth-agreement passage",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir05",
+            "targetNodeIds": [
+              "ir05-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir05-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "truth-agreement passage",
+            "voice": "author-direct"
+          }
+        },
+        {
+          "id": "ir05-q1-false",
+          "text": "合格；“双重真理”可以直接标成鲁世德本人的 author-direct 学说。",
+          "isCorrect": false,
+          "feedback": "当前项错误：后世标签被倒灌成 author-direct。",
+          "binding": {
+            "lessonId": "ir05",
+            "targetNodeIds": [
+              "ir05-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir05-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "truth-agreement passage",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir05",
+            "targetNodeIds": [
+              "ir05-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir05-c3-evidence"
+            ],
+            "source": "Fasl al-maqal",
+            "locator": "truth-agreement passage",
+            "voice": "author-direct"
+          }
+        }
+      ],
+      "correctOptionId": "ir05-q1-true"
+    },
+    {
+      "id": "ir06-q1",
+      "lessonId": "ir06",
+      "prompt": "《揭示证明方法》的批评对象应怎样识别？",
+      "promptBinding": {
+        "lessonId": "ir06",
+        "targetNodeIds": [
+          "ir06-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir06-c1-evidence"
+        ],
+        "source": "al-Kashf",
+        "locator": "existence-of-God section: reported theological methods followed by providence/invention proofs",
+        "voice": "author-direct / opponent-reported"
+      },
+      "targetNodeIds": [
+        "ir06-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir06-c1-evidence"
+      ],
+      "voice": "author-direct / opponent-reported",
+      "options": [
+        {
+          "id": "ir06-q1-false",
+          "text": "是；批评某些神学证明方法等于否定宗教教导本身。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它把方法批评无标记扩成宗教否定。",
+          "binding": {
+            "lessonId": "ir06",
+            "targetNodeIds": [
+              "ir06-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir06-c1-evidence"
+            ],
+            "source": "al-Kashf",
+            "locator": "existence-of-God section: reported theological methods followed by providence/invention proofs",
+            "voice": "author-direct / opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir06",
+            "targetNodeIds": [
+              "ir06-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir06-c1-evidence"
+            ],
+            "source": "al-Kashf",
+            "locator": "existence-of-God section: reported theological methods followed by providence/invention proofs",
+            "voice": "author-direct / opponent-reported"
+          }
+        },
+        {
+          "id": "ir06-q1-true",
+          "text": "先定位特定神学论证及前提，而非笼统指向宗教。",
+          "isCorrect": true,
+          "feedback": "当前项正确：对象被限定为可定位的论证方法。",
+          "binding": {
+            "lessonId": "ir06",
+            "targetNodeIds": [
+              "ir06-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir06-c1-evidence"
+            ],
+            "source": "al-Kashf",
+            "locator": "existence-of-God section: reported theological methods followed by providence/invention proofs",
+            "voice": "author-direct / opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir06",
+            "targetNodeIds": [
+              "ir06-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir06-c1-evidence"
+            ],
+            "source": "al-Kashf",
+            "locator": "existence-of-God section: reported theological methods followed by providence/invention proofs",
+            "voice": "author-direct / opponent-reported"
+          }
+        }
+      ],
+      "correctOptionId": "ir06-q1-true"
+    },
+    {
+      "id": "ir07-q1",
+      "lessonId": "ir07",
+      "prompt": "鲁世德写“安萨里说”时，该句能否直接算鲁世德本人立场？",
+      "promptBinding": {
+        "lessonId": "ir07",
+        "targetNodeIds": [
+          "ir07-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir07-c1-evidence"
+        ],
+        "source": "Tahafut al-tahafut, van den Bergh 1954",
+        "locator": "Discussion 1, I:1-68; Discussion 17, I:316-333",
+        "voice": "opponent-reported"
+      },
+      "targetNodeIds": [
+        "ir07-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir07-c1-evidence"
+      ],
+      "voice": "opponent-reported",
+      "options": [
+        {
+          "id": "ir07-q1-true",
+          "text": "不能；它首先是 opponent-reported。",
+          "isCorrect": true,
+          "feedback": "当前项正确：当前句的 voice 与回应句分开。",
+          "binding": {
+            "lessonId": "ir07",
+            "targetNodeIds": [
+              "ir07-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir07-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, I:1-68; Discussion 17, I:316-333",
+            "voice": "opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir07",
+            "targetNodeIds": [
+              "ir07-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir07-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, I:1-68; Discussion 17, I:316-333",
+            "voice": "opponent-reported"
+          }
+        },
+        {
+          "id": "ir07-q1-false",
+          "text": "可以；鲁世德对安萨里的重述可无标记当作鲁世德本人立场。",
+          "isCorrect": false,
+          "feedback": "当前项错误：报告对象被倒灌进作者声音。",
+          "binding": {
+            "lessonId": "ir07",
+            "targetNodeIds": [
+              "ir07-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir07-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, I:1-68; Discussion 17, I:316-333",
+            "voice": "opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir07",
+            "targetNodeIds": [
+              "ir07-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir07-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, I:1-68; Discussion 17, I:316-333",
+            "voice": "opponent-reported"
+          }
+        }
+      ],
+      "correctOptionId": "ir07-q1-true"
+    },
+    {
+      "id": "ir08-q1",
+      "lessonId": "ir08",
+      "prompt": "维护自然次因是否等于取消第一因？",
+      "promptBinding": {
+        "lessonId": "ir08",
+        "targetNodeIds": [
+          "ir08-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir08-c2-evidence"
+        ],
+        "source": "Tahafut al-tahafut, van den Bergh 1954",
+        "locator": "Discussion 17, vol. I, pp. 316-333",
+        "voice": "author-direct"
+      },
+      "targetNodeIds": [
+        "ir08-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir08-c2-evidence"
+      ],
+      "voice": "author-direct",
+      "options": [
+        {
+          "id": "ir08-q1-false",
+          "text": "是；承认自然次因就必然取消第一因的解释地位。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它把因果层级压成同一位置的竞争。",
+          "binding": {
+            "lessonId": "ir08",
+            "targetNodeIds": [
+              "ir08-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir08-c2-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 17, vol. I, pp. 316-333",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir08",
+            "targetNodeIds": [
+              "ir08-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir08-c2-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 17, vol. I, pp. 316-333",
+            "voice": "author-direct"
+          }
+        },
+        {
+          "id": "ir08-q1-true",
+          "text": "否；两者承担不同层级的解释责任。",
+          "isCorrect": true,
+          "feedback": "当前项正确：自然可理解性与第一因依赖被同时保留。",
+          "binding": {
+            "lessonId": "ir08",
+            "targetNodeIds": [
+              "ir08-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir08-c2-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 17, vol. I, pp. 316-333",
+            "voice": "author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir08",
+            "targetNodeIds": [
+              "ir08-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir08-c2-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 17, vol. I, pp. 316-333",
+            "voice": "author-direct"
+          }
+        }
+      ],
+      "correctOptionId": "ir08-q1-true"
+    },
+    {
+      "id": "ir09-q1",
+      "lessonId": "ir09",
+      "prompt": "“被创造”是否在本争论中无条件等同“有时间中的第一刻”？",
+      "promptBinding": {
+        "lessonId": "ir09",
+        "targetNodeIds": [
+          "ir09-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir09-c1-evidence"
+        ],
+        "source": "Tahafut al-tahafut, van den Bergh 1954",
+        "locator": "Discussion 1, vol. I, pp. 1-68",
+        "voice": "author-direct / opponent-reported"
+      },
+      "targetNodeIds": [
+        "ir09-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir09-c1-evidence"
+      ],
+      "voice": "author-direct / opponent-reported",
+      "options": [
+        {
+          "id": "ir09-q1-true",
+          "text": "否；依赖性与时间起点须分开论证。",
+          "isCorrect": true,
+          "feedback": "当前项正确：时间结构与形上依赖保持可区分。",
+          "binding": {
+            "lessonId": "ir09",
+            "targetNodeIds": [
+              "ir09-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir09-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, vol. I, pp. 1-68",
+            "voice": "author-direct / opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir09",
+            "targetNodeIds": [
+              "ir09-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir09-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, vol. I, pp. 1-68",
+            "voice": "author-direct / opponent-reported"
+          }
+        },
+        {
+          "id": "ir09-q1-false",
+          "text": "是；创造只能表示世界在时间中的第一个瞬间开始。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它把三个争论对象无标记合并。",
+          "binding": {
+            "lessonId": "ir09",
+            "targetNodeIds": [
+              "ir09-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir09-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, vol. I, pp. 1-68",
+            "voice": "author-direct / opponent-reported"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir09",
+            "targetNodeIds": [
+              "ir09-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir09-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussion 1, vol. I, pp. 1-68",
+            "voice": "author-direct / opponent-reported"
+          }
+        }
+      ],
+      "correctOptionId": "ir09-q1-true"
+    },
+    {
+      "id": "ir10-q1",
+      "lessonId": "ir10",
+      "prompt": "可否把“神只知普遍”直接作为鲁世德的无条件命题？",
+      "promptBinding": {
+        "lessonId": "ir10",
+        "targetNodeIds": [
+          "ir10-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir10-c1-evidence"
+        ],
+        "source": "Tahafut al-tahafut, van den Bergh 1954",
+        "locator": "Discussions 11 and 13; Arabic 340.1-342.10 / I:203-205 and 345.1-22 / I:206-207",
+        "voice": "opponent-reported / author-direct"
+      },
+      "targetNodeIds": [
+        "ir10-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir10-c1-evidence"
+      ],
+      "voice": "opponent-reported / author-direct",
+      "options": [
+        {
+          "id": "ir10-q1-false",
+          "text": "可以；神知应按人的被动认知方式概括为只知普遍。",
+          "isCorrect": false,
+          "feedback": "当前项错误：争论标签被压平成作者教义。",
+          "binding": {
+            "lessonId": "ir10",
+            "targetNodeIds": [
+              "ir10-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir10-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussions 11 and 13; Arabic 340.1-342.10 / I:203-205 and 345.1-22 / I:206-207",
+            "voice": "opponent-reported / author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir10",
+            "targetNodeIds": [
+              "ir10-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir10-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussions 11 and 13; Arabic 340.1-342.10 / I:203-205 and 345.1-22 / I:206-207",
+            "voice": "opponent-reported / author-direct"
+          }
+        },
+        {
+          "id": "ir10-q1-true",
+          "text": "不可；须先重建对手归责与作者对知识方式的回应。",
+          "isCorrect": true,
+          "feedback": "当前项正确：source、object 与 voice 决定归责范围。",
+          "binding": {
+            "lessonId": "ir10",
+            "targetNodeIds": [
+              "ir10-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir10-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussions 11 and 13; Arabic 340.1-342.10 / I:203-205 and 345.1-22 / I:206-207",
+            "voice": "opponent-reported / author-direct"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir10",
+            "targetNodeIds": [
+              "ir10-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir10-c1-evidence"
+            ],
+            "source": "Tahafut al-tahafut, van den Bergh 1954",
+            "locator": "Discussions 11 and 13; Arabic 340.1-342.10 / I:203-205 and 345.1-22 / I:206-207",
+            "voice": "opponent-reported / author-direct"
+          }
+        }
+      ],
+      "correctOptionId": "ir10-q1-true"
+    },
+    {
+      "id": "ir11-q1",
+      "lessonId": "ir11",
+      "prompt": "Avicenna 关于受造物本质与存在的命题若进入本篇，必须怎样定位？",
+      "promptBinding": {
+        "lessonId": "ir11",
+        "targetNodeIds": [
+          "ir11-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir11-c2-evidence"
+        ],
+        "source": "Avicenna, al-Shifa, al-Ilahiyyat I.5; Ibn Rushd, Tafsir Metaphysics V.7, Bouyges 1990",
+        "locator": "Avicenna: al-Ilahiyyat I.5, pp. 29.5-31.9; Ibn Rushd: Long Commentary on Metaphysics V, commentary on chapter 7, lemma 1017a7-b9",
+        "voice": "opponent-object / commentarial-reconstruction"
+      },
+      "targetNodeIds": [
+        "ir11-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir11-c2-evidence"
+      ],
+      "voice": "opponent-object / commentarial-reconstruction",
+      "options": [
+        {
+          "id": "ir11-q1-true",
+          "text": "须同时定位《治疗书·神学》I.5 的命题对象与鲁世德《形而上学长评》V.7 的回应。",
+          "isCorrect": true,
+          "feedback": "当前项正确：Avicenna 对象与 Ibn Rushd 回应分别落到 I.5 与 V.7，target、source 和 voice 闭合。",
+          "binding": {
+            "lessonId": "ir11",
+            "targetNodeIds": [
+              "ir11-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir11-c2-evidence"
+            ],
+            "source": "Avicenna, al-Shifa, al-Ilahiyyat I.5; Ibn Rushd, Tafsir Metaphysics V.7, Bouyges 1990",
+            "locator": "Avicenna: al-Ilahiyyat I.5, pp. 29.5-31.9; Ibn Rushd: Long Commentary on Metaphysics V, commentary on chapter 7, lemma 1017a7-b9",
+            "voice": "opponent-object / commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir11",
+            "targetNodeIds": [
+              "ir11-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir11-c2-evidence"
+            ],
+            "source": "Avicenna, al-Shifa, al-Ilahiyyat I.5; Ibn Rushd, Tafsir Metaphysics V.7, Bouyges 1990",
+            "locator": "Avicenna: al-Ilahiyyat I.5, pp. 29.5-31.9; Ibn Rushd: Long Commentary on Metaphysics V, commentary on chapter 7, lemma 1017a7-b9",
+            "voice": "opponent-object / commentarial-reconstruction"
+          }
+        },
+        {
+          "id": "ir11-q1-false",
+          "text": "只要都谈实体，就可以用 VII-VIII 的形式—质料评注替代 I.5 与 V.7 的双向定位。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它用形式—质料的其他评注单元替代了本质—存在争论所需的双向定位。",
+          "binding": {
+            "lessonId": "ir11",
+            "targetNodeIds": [
+              "ir11-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir11-c2-evidence"
+            ],
+            "source": "Avicenna, al-Shifa, al-Ilahiyyat I.5; Ibn Rushd, Tafsir Metaphysics V.7, Bouyges 1990",
+            "locator": "Avicenna: al-Ilahiyyat I.5, pp. 29.5-31.9; Ibn Rushd: Long Commentary on Metaphysics V, commentary on chapter 7, lemma 1017a7-b9",
+            "voice": "opponent-object / commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir11",
+            "targetNodeIds": [
+              "ir11-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir11-c2-evidence"
+            ],
+            "source": "Avicenna, al-Shifa, al-Ilahiyyat I.5; Ibn Rushd, Tafsir Metaphysics V.7, Bouyges 1990",
+            "locator": "Avicenna: al-Ilahiyyat I.5, pp. 29.5-31.9; Ibn Rushd: Long Commentary on Metaphysics V, commentary on chapter 7, lemma 1017a7-b9",
+            "voice": "opponent-object / commentarial-reconstruction"
+          }
+        }
+      ],
+      "correctOptionId": "ir11-q1-true"
+    },
+    {
+      "id": "ir12-q1",
+      "lessonId": "ir12",
+      "prompt": "天体秩序的 lemma 能否直接标为鲁世德作者声？",
+      "promptBinding": {
+        "lessonId": "ir12",
+        "targetNodeIds": [
+          "ir12-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir12-c2-evidence"
+        ],
+        "source": "Carmody-Arnzen 2003 Long Commentary on De caelo",
+        "locator": "De caelo I.2-3 and II.3 by book.comment.page",
+        "voice": "lemma / commentarial-reconstruction"
+      },
+      "targetNodeIds": [
+        "ir12-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir12-c2-evidence"
+      ],
+      "voice": "lemma / commentarial-reconstruction",
+      "options": [
+        {
+          "id": "ir12-q1-false",
+          "text": "可以；天体秩序的 Aristotle lemma 可直接登记为鲁世德作者声。",
+          "isCorrect": false,
+          "feedback": "当前项错误：亚里士多德对象被倒灌给注释者。",
+          "binding": {
+            "lessonId": "ir12",
+            "targetNodeIds": [
+              "ir12-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir12-c2-evidence"
+            ],
+            "source": "Carmody-Arnzen 2003 Long Commentary on De caelo",
+            "locator": "De caelo I.2-3 and II.3 by book.comment.page",
+            "voice": "lemma / commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir12",
+            "targetNodeIds": [
+              "ir12-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir12-c2-evidence"
+            ],
+            "source": "Carmody-Arnzen 2003 Long Commentary on De caelo",
+            "locator": "De caelo I.2-3 and II.3 by book.comment.page",
+            "voice": "lemma / commentarial-reconstruction"
+          }
+        },
+        {
+          "id": "ir12-q1-true",
+          "text": "不能；须区分 lemma 与注释性补足。",
+          "isCorrect": true,
+          "feedback": "当前项正确：注释增量与原始命题保持分层。",
+          "binding": {
+            "lessonId": "ir12",
+            "targetNodeIds": [
+              "ir12-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir12-c2-evidence"
+            ],
+            "source": "Carmody-Arnzen 2003 Long Commentary on De caelo",
+            "locator": "De caelo I.2-3 and II.3 by book.comment.page",
+            "voice": "lemma / commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir12",
+            "targetNodeIds": [
+              "ir12-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir12-c2-evidence"
+            ],
+            "source": "Carmody-Arnzen 2003 Long Commentary on De caelo",
+            "locator": "De caelo I.2-3 and II.3 by book.comment.page",
+            "voice": "lemma / commentarial-reconstruction"
+          }
+        }
+      ],
+      "correctOptionId": "ir12-q1-true"
+    },
+    {
+      "id": "ir13-q1",
+      "lessonId": "ir13",
+      "prompt": "意象为思想供料是否已证明质料理智是身体器官？",
+      "promptBinding": {
+        "lessonId": "ir13",
+        "targetNodeIds": [
+          "ir13-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir13-c2-evidence"
+        ],
+        "source": "Crawford 1953 Long Commentary on De anima",
+        "locator": "Book III, comments 5 and 36",
+        "voice": "commentarial-reconstruction"
+      },
+      "targetNodeIds": [
+        "ir13-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir13-c2-evidence"
+      ],
+      "voice": "commentarial-reconstruction",
+      "options": [
+        {
+          "id": "ir13-q1-true",
+          "text": "否；供料关系不等于能力同一。",
+          "isCorrect": true,
+          "feedback": "当前项正确：当前 claim 只承担思维的身体材料条件。",
+          "binding": {
+            "lessonId": "ir13",
+            "targetNodeIds": [
+              "ir13-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir13-c2-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comments 5 and 36",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir13",
+            "targetNodeIds": [
+              "ir13-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir13-c2-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comments 5 and 36",
+            "voice": "commentarial-reconstruction"
+          }
+        },
+        {
+          "id": "ir13-q1-false",
+          "text": "是；思想依赖意象已经证明质料理智就是身体器官。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它把依赖关系无标记升级为本体同一。",
+          "binding": {
+            "lessonId": "ir13",
+            "targetNodeIds": [
+              "ir13-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir13-c2-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comments 5 and 36",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir13",
+            "targetNodeIds": [
+              "ir13-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir13-c2-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comments 5 and 36",
+            "voice": "commentarial-reconstruction"
+          }
+        }
+      ],
+      "correctOptionId": "ir13-q1-true"
+    },
+    {
+      "id": "ir14-q1",
+      "lessonId": "ir14",
+      "prompt": "理智单一性主要试图解决什么？",
+      "promptBinding": {
+        "lessonId": "ir14",
+        "targetNodeIds": [
+          "ir14-c1-node"
+        ],
+        "evidenceLinkIds": [
+          "ir14-c1-evidence"
+        ],
+        "source": "Crawford 1953 Long Commentary on De anima",
+        "locator": "Book III, comment 5; compare comments 18-20",
+        "voice": "commentarial-reconstruction"
+      },
+      "targetNodeIds": [
+        "ir14-c1-node"
+      ],
+      "evidenceLinkIds": [
+        "ir14-c1-evidence"
+      ],
+      "voice": "commentarial-reconstruction",
+      "options": [
+        {
+          "id": "ir14-q1-false",
+          "text": "后世 monopsychism 标签本身就是单一理智论证的原始解释目标。",
+          "isCorrect": false,
+          "feedback": "当前项错误：它把后世标签或反驳当成理论的原始目标。",
+          "binding": {
+            "lessonId": "ir14",
+            "targetNodeIds": [
+              "ir14-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir14-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; compare comments 18-20",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir14",
+            "targetNodeIds": [
+              "ir14-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir14-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; compare comments 18-20",
+            "voice": "commentarial-reconstruction"
+          }
+        },
+        {
+          "id": "ir14-q1-true",
+          "text": "普遍可思对象如何具有共同可理解性。",
+          "isCorrect": true,
+          "feedback": "当前项正确：目标与随后产生的个体归属债务被区分。",
+          "binding": {
+            "lessonId": "ir14",
+            "targetNodeIds": [
+              "ir14-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir14-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; compare comments 18-20",
+            "voice": "commentarial-reconstruction"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir14",
+            "targetNodeIds": [
+              "ir14-c1-node"
+            ],
+            "evidenceLinkIds": [
+              "ir14-c1-evidence"
+            ],
+            "source": "Crawford 1953 Long Commentary on De anima",
+            "locator": "Book III, comment 5; compare comments 18-20",
+            "voice": "commentarial-reconstruction"
+          }
+        }
+      ],
+      "correctOptionId": "ir14-q1-true"
+    },
+    {
+      "id": "ir15-q1",
+      "lessonId": "ir15",
+      "prompt": "Aquinas 对共同理智的表述能否直接作为鲁世德本人原话？",
+      "promptBinding": {
+        "lessonId": "ir15",
+        "targetNodeIds": [
+          "ir15-c3-node"
+        ],
+        "evidenceLinkIds": [
+          "ir15-c3-evidence"
+        ],
+        "source": "De unitate intellectus contra Averroistas",
+        "locator": "chs. 1-5, especially chs. 3-5",
+        "voice": "reception-opponent"
+      },
+      "targetNodeIds": [
+        "ir15-c3-node"
+      ],
+      "evidenceLinkIds": [
+        "ir15-c3-evidence"
+      ],
+      "voice": "reception-opponent",
+      "options": [
+        {
+          "id": "ir15-q1-true",
+          "text": "不能；它是精确定位后才能使用的 reception-opponent 对象。",
+          "isCorrect": true,
+          "feedback": "当前项正确：异议压力被保留，作者身份未被混同。",
+          "binding": {
+            "lessonId": "ir15",
+            "targetNodeIds": [
+              "ir15-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir15-c3-evidence"
+            ],
+            "source": "De unitate intellectus contra Averroistas",
+            "locator": "chs. 1-5, especially chs. 3-5",
+            "voice": "reception-opponent"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir15",
+            "targetNodeIds": [
+              "ir15-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir15-c3-evidence"
+            ],
+            "source": "De unitate intellectus contra Averroistas",
+            "locator": "chs. 1-5, especially chs. 3-5",
+            "voice": "reception-opponent"
+          }
+        },
+        {
+          "id": "ir15-q1-false",
+          "text": "可以；Aquinas 构造的共同理智立场可直接作为鲁世德本人原话。",
+          "isCorrect": false,
+          "feedback": "当前项错误：反驳文本替被反驳者发言。",
+          "binding": {
+            "lessonId": "ir15",
+            "targetNodeIds": [
+              "ir15-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir15-c3-evidence"
+            ],
+            "source": "De unitate intellectus contra Averroistas",
+            "locator": "chs. 1-5, especially chs. 3-5",
+            "voice": "reception-opponent"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir15",
+            "targetNodeIds": [
+              "ir15-c3-node"
+            ],
+            "evidenceLinkIds": [
+              "ir15-c3-evidence"
+            ],
+            "source": "De unitate intellectus contra Averroistas",
+            "locator": "chs. 1-5, especially chs. 3-5",
+            "voice": "reception-opponent"
+          }
+        }
+      ],
+      "correctOptionId": "ir15-q1-true"
+    },
+    {
+      "id": "ir16-q1",
+      "lessonId": "ir16",
+      "prompt": "文本列出 Abū Ḥanīfa 的马匹天课意见时，能否直接判为鲁世德认同？",
+      "promptBinding": {
+        "lessonId": "ir16",
+        "targetNodeIds": [
+          "ir16-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir16-c2-evidence"
+        ],
+        "source": "Bidāyat al-mujtahid, Arabic",
+        "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses issue, Islamweb Arabic ed. 1:211",
+        "voice": "reported-legal / legal-comparative"
+      },
+      "targetNodeIds": [
+        "ir16-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir16-c2-evidence"
+      ],
+      "voice": "reported-legal / legal-comparative",
+      "options": [
+        {
+          "id": "ir16-q1-false",
+          "text": "可以；文本报告 Abū Ḥanīfa 的意见就表示鲁世德赞同该意见。",
+          "isCorrect": false,
+          "feedback": "当前项错误：被报告的法学立场被倒灌为作者结论。",
+          "binding": {
+            "lessonId": "ir16",
+            "targetNodeIds": [
+              "ir16-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir16-c2-evidence"
+            ],
+            "source": "Bidāyat al-mujtahid, Arabic",
+            "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses issue, Islamweb Arabic ed. 1:211",
+            "voice": "reported-legal / legal-comparative"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir16",
+            "targetNodeIds": [
+              "ir16-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir16-c2-evidence"
+            ],
+            "source": "Bidāyat al-mujtahid, Arabic",
+            "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses issue, Islamweb Arabic ed. 1:211",
+            "voice": "reported-legal / legal-comparative"
+          }
+        },
+        {
+          "id": "ir16-q1-true",
+          "text": "不能；同一单元随后比较传述、类比，并由 al-Qāḍī评价关键措辞的证据力。",
+          "isCorrect": true,
+          "feedback": "当前项正确：reported-legal、evidence-analysis 与作者比较判断被分开。",
+          "binding": {
+            "lessonId": "ir16",
+            "targetNodeIds": [
+              "ir16-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir16-c2-evidence"
+            ],
+            "source": "Bidāyat al-mujtahid, Arabic",
+            "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses issue, Islamweb Arabic ed. 1:211",
+            "voice": "reported-legal / legal-comparative"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir16",
+            "targetNodeIds": [
+              "ir16-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir16-c2-evidence"
+            ],
+            "source": "Bidāyat al-mujtahid, Arabic",
+            "locator": "vol. 1, Book of Zakāt, property subject to zakāt, horses issue, Islamweb Arabic ed. 1:211",
+            "voice": "reported-legal / legal-comparative"
+          }
+        }
+      ],
+      "correctOptionId": "ir16-q1-true"
+    },
+    {
+      "id": "ir18-q1",
+      "lessonId": "ir18",
+      "prompt": "1270 年第 1 条“所有人的理智在数目上为一”可否仅凭相似性归给鲁世德本人原话？",
+      "promptBinding": {
+        "lessonId": "ir18",
+        "targetNodeIds": [
+          "ir18-c2-node"
+        ],
+        "evidenceLinkIds": [
+          "ir18-c2-evidence"
+        ],
+        "source": "Étienne Tempier, Thirteen Errors Condemned at Paris (1270)",
+        "locator": "article 1",
+        "voice": "institutional-condemnation"
+      },
+      "targetNodeIds": [
+        "ir18-c2-node"
+      ],
+      "evidenceLinkIds": [
+        "ir18-c2-evidence"
+      ],
+      "voice": "institutional-condemnation",
+      "options": [
+        {
+          "id": "ir18-q1-true",
+          "text": "不可；它是 Tempier 谴责清单中的制度对象，须另回链鲁世德文本。",
+          "isCorrect": true,
+          "feedback": "当前项正确：institutional-condemnation 与 author-direct 之间保留证据链。",
+          "binding": {
+            "lessonId": "ir18",
+            "targetNodeIds": [
+              "ir18-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir18-c2-evidence"
+            ],
+            "source": "Étienne Tempier, Thirteen Errors Condemned at Paris (1270)",
+            "locator": "article 1",
+            "voice": "institutional-condemnation"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir18",
+            "targetNodeIds": [
+              "ir18-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir18-c2-evidence"
+            ],
+            "source": "Étienne Tempier, Thirteen Errors Condemned at Paris (1270)",
+            "locator": "article 1",
+            "voice": "institutional-condemnation"
+          }
+        },
+        {
+          "id": "ir18-q1-false",
+          "text": "可以；1270 年谴责清单中的制度命题无需回链即可当作鲁世德原话。",
+          "isCorrect": false,
+          "feedback": "当前项错误：谴责命题被直接倒灌给阿拉伯作者。",
+          "binding": {
+            "lessonId": "ir18",
+            "targetNodeIds": [
+              "ir18-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir18-c2-evidence"
+            ],
+            "source": "Étienne Tempier, Thirteen Errors Condemned at Paris (1270)",
+            "locator": "article 1",
+            "voice": "institutional-condemnation"
+          },
+          "feedbackBinding": {
+            "lessonId": "ir18",
+            "targetNodeIds": [
+              "ir18-c2-node"
+            ],
+            "evidenceLinkIds": [
+              "ir18-c2-evidence"
+            ],
+            "source": "Étienne Tempier, Thirteen Errors Condemned at Paris (1270)",
+            "locator": "article 1",
+            "voice": "institutional-condemnation"
+          }
+        }
+      ],
+      "correctOptionId": "ir18-q1-true"
+    }
+  ]
+}

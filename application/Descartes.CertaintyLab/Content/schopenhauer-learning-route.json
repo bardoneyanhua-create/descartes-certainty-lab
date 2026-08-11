@@ -1,0 +1,5397 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "S01-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "成为之根据说明事件状态的因果变化。",
+      "explanation": "成为之根据说明事件状态的因果变化。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-01"
+      ]
+    },
+    {
+      "id": "S01-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "认识之根据说明判断凭什么被承认为真。",
+      "explanation": "认识之根据说明判断凭什么被承认为真。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-01"
+      ]
+    },
+    {
+      "id": "S01-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "存在之根据说明空间时间部分的形式关系。",
+      "explanation": "存在之根据说明空间时间部分的形式关系。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-01"
+      ]
+    },
+    {
+      "id": "S01-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "行动之根据通过行动者所认识的动机说明行动。",
+      "explanation": "行动之根据通过行动者所认识的动机说明行动。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-01"
+      ]
+    },
+    {
+      "id": "S01-C5",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "理由律适用于表象对象，不能径直证明世界整体的第一因。",
+      "explanation": "理由律适用于表象对象，不能径直证明世界整体的第一因。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-01"
+      ]
+    },
+    {
+      "id": "S02-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "主体与客体是表象的一对相关端。",
+      "explanation": "主体与客体是表象的一对相关端。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-representation"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-02"
+      ]
+    },
+    {
+      "id": "S02-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知性用空间时间和因果性把身体感觉把握为外在对象。",
+      "explanation": "知性用空间时间和因果性把身体感觉把握为外在对象。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots",
+        "wwr1-representation"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-02"
+      ]
+    },
+    {
+      "id": "S02-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经验对象可在共同因果秩序中检验，因此表象不等于私人幻觉。",
+      "explanation": "经验对象可在共同因果秩序中检验，因此表象不等于私人幻觉。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-representation"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-02"
+      ]
+    },
+    {
+      "id": "S02-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "概念从直观抽取，理性扩展能力但也可能制造脱离经验的错误。",
+      "explanation": "概念从直观抽取，理性扩展能力但也可能制造脱离经验的错误。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-representation",
+        "wwr2-first-book-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-02"
+      ]
+    },
+    {
+      "id": "S03-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "叔本华继承现象物自体边界，却选择性压缩康德范畴论。",
+      "explanation": "叔本华继承现象物自体边界，却选择性压缩康德范畴论。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "kant-critique-appendix"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-03"
+      ]
+    },
+    {
+      "id": "S03-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "现象因果链不能凭自身推出超经验第一因。",
+      "explanation": "现象因果链不能凭自身推出超经验第一因。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "kant-critique-appendix",
+        "wwr1-representation"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-03"
+      ]
+    },
+    {
+      "id": "S03-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "意志是由内在意愿经验提供的受限线索，不是物自体的穷尽知识。",
+      "explanation": "意志是由内在意愿经验提供的受限线索，不是物自体的穷尽知识。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will",
+        "wwr2-will-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-03"
+      ]
+    },
+    {
+      "id": "S03-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经验性格与理知性格来自康德，但叔本华后来作了更强的意志论改写。",
+      "explanation": "经验性格与理知性格来自康德，但叔本华后来作了更强的意志论改写。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "kant-character",
+        "wwr1-freedom",
+        "freedom-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-03"
+      ]
+    },
+    {
+      "id": "S04-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "身体从外部是因果秩序中的对象，从内部是具体意愿的表现。",
+      "explanation": "身体从外部是因果秩序中的对象，从内部是具体意愿的表现。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-04"
+      ]
+    },
+    {
+      "id": "S04-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正常自愿行动中的意愿与动作是一件事的两种给予。",
+      "explanation": "正常自愿行动中的意愿与动作是一件事的两种给予。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-04"
+      ]
+    },
+    {
+      "id": "S04-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "快感痛苦把身体状态直接连接到意志利益。",
+      "explanation": "快感痛苦把身体状态直接连接到意志利益。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-04"
+      ]
+    },
+    {
+      "id": "S04-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "身体入口不自动证明其他自然现象也都是意志。",
+      "explanation": "身体入口不自动证明其他自然现象也都是意志。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will",
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-04"
+      ]
+    },
+    {
+      "id": "S05-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从自身身体到自然的推广依靠类比与连续性，不是演绎证明。",
+      "explanation": "从自身身体到自然的推广依靠类比与连续性，不是演绎证明。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-body-will",
+        "wwr2-will-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-05"
+      ]
+    },
+    {
+      "id": "S05-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "普遍意志先于知识、动机对象和目的计划。",
+      "explanation": "普遍意志先于知识、动机对象和目的计划。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-will-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-05"
+      ]
+    },
+    {
+      "id": "S05-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自然机制说明与意志的内在解释承担不同问题，但后者仍可受换名质疑。",
+      "explanation": "自然机制说明与意志的内在解释承担不同问题，但后者仍可受换名质疑。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-will-supplements",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-05"
+      ]
+    },
+    {
+      "id": "S05-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "十九世纪自然材料是作者的印证尝试，不是现代科学验证。",
+      "explanation": "十九世纪自然材料是作者的印证尝试，不是现代科学验证。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "will-in-nature",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-05"
+      ]
+    },
+    {
+      "id": "S06-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "客体化等级与理念用于连接无分割意志和稳定自然形式。",
+      "explanation": "客体化等级与理念用于连接无分割意志和稳定自然形式。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-objectification"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-06"
+      ]
+    },
+    {
+      "id": "S06-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "具体个体在空间时间和因果条件中显现，不能与理念等同。",
+      "explanation": "具体个体在空间时间和因果条件中显现，不能与理念等同。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-objectification"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-06"
+      ]
+    },
+    {
+      "id": "S06-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "局部目的性与个体间争夺可以同时存在，不推出总体设计。",
+      "explanation": "局部目的性与个体间争夺可以同时存在，不推出总体设计。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-objectification",
+        "wwr2-will-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-06"
+      ]
+    },
+    {
+      "id": "S06-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "进化论对固定形式和等级构成真实边界，不能被倒写为叔本华的证据。",
+      "explanation": "进化论对固定形式和等级构成真实边界，不能被倒写为叔本华的证据。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "baptista-origin-species",
+        "shapshay-evolving-system"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-06"
+      ]
+    },
+    {
+      "id": "S07-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "空间时间使同一本性显为可数且有先后的个体。",
+      "explanation": "空间时间使同一本性显为可数且有先后的个体。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-07"
+      ]
+    },
+    {
+      "id": "S07-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "个体视角与动机结构使利己冲突具有系统根源。",
+      "explanation": "个体视角与动机结构使利己冲突具有系统根源。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "fr-four-roots",
+        "wwr1-individuation"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-07"
+      ]
+    },
+    {
+      "id": "S07-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "同情是个体化屏障的实践性穿透，形上一体是后置解释。",
+      "explanation": "同情是个体化屏障的实践性穿透，形上一体是后置解释。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-compassion"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-07"
+      ]
+    },
+    {
+      "id": "S07-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "本体一体不能取消伤害差异、同意、救济和责任。",
+      "explanation": "本体一体不能取消伤害差异、同意、救济和责任。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-temporal-justice",
+        "woods-state-morality"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-07"
+      ]
+    },
+    {
+      "id": "L08-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "欲求以匮乏为前提，满足通常表现为特定压力的暂时停止。",
+      "explanation": "欲求以匮乏为前提，满足通常表现为特定压力的暂时停止。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-pessimism"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-08"
+      ]
+    },
+    {
+      "id": "L08-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "无聊在缺少牵引目标时出现，与不断替代的欲求共同构成结构压力。",
+      "explanation": "无聊在缺少牵引目标时出现，与不断替代的欲求共同构成结构压力。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-pessimism"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-08"
+      ]
+    },
+    {
+      "id": "L08-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "悲观主义的结构论证不等于临床诊断，也不自动证明非存在更好。",
+      "explanation": "悲观主义的结构论证不等于临床诊断，也不自动证明非存在更好。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-pessimism",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-08"
+      ]
+    },
+    {
+      "id": "L08-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "稳定关系与创造价值是限制强悲观结论的真实反例。",
+      "explanation": "稳定关系与创造价值是限制强悲观结论的真实反例。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "shapshay-evolving-system"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-08"
+      ]
+    },
+    {
+      "id": "L09-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经验性格是在时间中由行动显出的规律，理知性格是叔本华所说的无时间个体根据。",
+      "explanation": "经验性格是在时间中由行动显出的规律，理知性格是叔本华所说的无时间个体根据。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "kant-character",
+        "wwr1-freedom"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-09"
+      ]
+    },
+    {
+      "id": "L09-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "叔本华继承康德的术语，却把理知性格改写为个体意志之举并强化行动必然性。",
+      "explanation": "叔本华继承康德的术语，却把理知性格改写为个体意志之举并强化行动必然性。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "kant-character",
+        "wwr1-freedom",
+        "freedom-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-09"
+      ]
+    },
+    {
+      "id": "L09-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "劝告和制度仍有作用，因为它们能改变行动者所认识的动机条件。",
+      "explanation": "劝告和制度仍有作用，因为它们能改变行动者所认识的动机条件。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "freedom-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-09"
+      ]
+    },
+    {
+      "id": "L09-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "获得性格主要是自知，不等于随意重造根本本性。",
+      "explanation": "获得性格主要是自知，不等于随意重造根本本性。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "freedom-will"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-09"
+      ]
+    },
+    {
+      "id": "L10-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "审美直观让对象与个人用途的关系暂时退后。",
+      "explanation": "审美直观让对象与个人用途的关系暂时退后。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-aesthetic-intuition"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-10"
+      ]
+    },
+    {
+      "id": "L10-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "理念是意志客体化等级，不是普通抽象概念。",
+      "explanation": "理念是意志客体化等级，不是普通抽象概念。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-aesthetic-intuition"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-10"
+      ]
+    },
+    {
+      "id": "L10-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "崇高保留威胁张力，却不等于现实中的鲁莽冒险。",
+      "explanation": "崇高保留威胁张力，却不等于现实中的鲁莽冒险。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-aesthetic-intuition"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-10"
+      ]
+    },
+    {
+      "id": "L10-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "审美休止短暂且不保证道德善良。",
+      "explanation": "审美休止短暂且不保证道德善良。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-aesthetic-supplements",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-10"
+      ]
+    },
+    {
+      "id": "L11-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "艺术层级的体系内尺度是作品呈现的意志客体化等级。",
+      "explanation": "艺术层级的体系内尺度是作品呈现的意志客体化等级。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-11"
+      ]
+    },
+    {
+      "id": "L11-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "悲剧集中显示人的动机冲突与意志自争。",
+      "explanation": "悲剧集中显示人的动机冲突与意志自争。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-11"
+      ]
+    },
+    {
+      "id": "L11-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "天才指较持久的客观认识能力，不提供道德豁免。",
+      "explanation": "天才指较持久的客观认识能力，不提供道德豁免。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-aesthetic-intuition",
+        "wwr2-aesthetic-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-11"
+      ]
+    },
+    {
+      "id": "L11-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "固定层级受再现偏好、欧洲中心与自然种类历史性的限制。",
+      "explanation": "固定层级受再现偏好、欧洲中心与自然种类历史性的限制。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts",
+        "shapshay-aesthetics-hierarchy",
+        "baptista-origin-species"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-11"
+      ]
+    },
+    {
+      "id": "L12-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "音乐被称为意志本身的直接摹本，而非某个理念的摹本。",
+      "explanation": "音乐被称为意志本身的直接摹本，而非某个理念的摹本。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-12"
+      ]
+    },
+    {
+      "id": "L12-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "旋律的趋向与归返被类比为欲求、阻碍和满足。",
+      "explanation": "旋律的趋向与归返被类比为欲求、阻碍和满足。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts",
+        "wwr2-aesthetic-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-12"
+      ]
+    },
+    {
+      "id": "L12-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "直接性是相对于其他艺术路径，不是音乐退出表象和时间。",
+      "explanation": "直接性是相对于其他艺术路径，不是音乐退出表象和时间。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-arts",
+        "wwr2-aesthetic-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-12"
+      ]
+    },
+    {
+      "id": "L12-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "音乐论是受欧洲调性经验限制的结构类比，不是实验性证明。",
+      "explanation": "音乐论是受欧洲调性经验限制的结构类比，不是实验性证明。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-music-tonality",
+        "goehr-music-limits"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-12"
+      ]
+    },
+    {
+      "id": "L13-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "同情使他者福祸直接成为行动理由，而不只是自身收益的手段。",
+      "explanation": "同情使他者福祸直接成为行动理由，而不只是自身收益的手段。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-13"
+      ]
+    },
+    {
+      "id": "L13-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "形上一体性是同情的后置解释，不是产生同情的先决信条。",
+      "explanation": "形上一体性是同情的后置解释，不是产生同情的先决信条。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality",
+        "wwr1-compassion"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-13"
+      ]
+    },
+    {
+      "id": "L13-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "动物受苦能力使道德关切不能自动止于物种边界。",
+      "explanation": "动物受苦能力使道德关切不能自动止于物种边界。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-13"
+      ]
+    },
+    {
+      "id": "L13-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "同情需要事实、制度和主体性边界来纠正偏私与误助。",
+      "explanation": "同情需要事实、制度和主体性边界来纠正偏私与误助。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality",
+        "woods-state-morality"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-13"
+      ]
+    },
+    {
+      "id": "L14-C1",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "暂时正义和国家处理现实侵害、权利保护与外在行为约束。",
+      "explanation": "暂时正义和国家处理现实侵害、权利保护与外在行为约束。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-temporal-justice"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-14"
+      ]
+    },
+    {
+      "id": "L14-C2",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "仁爱积极减轻痛苦，不可与不侵害底线混成一个任务。",
+      "explanation": "仁爱积极减轻痛苦，不可与不侵害底线混成一个任务。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality",
+        "wwr1-compassion"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-14"
+      ]
+    },
+    {
+      "id": "L14-C3",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "永恒正义把施加与承受痛苦解释为同一意志在个体化中的自我撕裂。",
+      "explanation": "永恒正义把施加与承受痛苦解释为同一意志在个体化中的自我撕裂。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-eternal-justice"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-14"
+      ]
+    },
+    {
+      "id": "L14-C4",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "永恒正义绝不能用于责难受害者或取消归责、保护与救济。",
+      "explanation": "永恒正义绝不能用于责难受害者或取消归责、保护与救济。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-eternal-justice",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-14"
+      ]
+    },
+    {
+      "id": "c15-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "物种意志是生命冲动的尺度描述，不是会筹划后代的集体意识。",
+      "explanation": "物种意志是生命冲动的尺度描述，不是会筹划后代的集体意识。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-fourth-book-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-15"
+      ]
+    },
+    {
+      "id": "c15-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "爱欲显示个体对自身动机并不透明，但不取消关系中的照护与承诺价值。",
+      "explanation": "爱欲显示个体对自身动机并不透明，但不取消关系中的照护与承诺价值。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-fourth-book-supplements",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-15"
+      ]
+    },
+    {
+      "id": "c15-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "生命意志肯定是对身体、自保与生殖的形上描述，不是日常生活的自动定罪。",
+      "explanation": "生命意志肯定是对身体、自保与生殖的形上描述，不是日常生活的自动定罪。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-pessimism"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-15"
+      ]
+    },
+    {
+      "id": "c15-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "叔本华的性别与遗传猜测不能由现代进化理论追认。",
+      "explanation": "叔本华的性别与遗传猜测不能由现代进化理论追认。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-sexual-love-heredity",
+        "baptista-origin-species"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-15"
+      ]
+    },
+    {
+      "id": "c16-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "出生与死亡属于个体化形式中的经验主体。",
+      "explanation": "出生与死亡属于个体化形式中的经验主体。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-pessimism"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-16"
+      ]
+    },
+    {
+      "id": "c16-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "不可毁灭指非人格意志，不指个人记忆与意识保存。",
+      "explanation": "不可毁灭指非人格意志，不指个人记忆与意识保存。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-fourth-book-supplements"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-16"
+      ]
+    },
+    {
+      "id": "c16-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自然循环能够转换尺度，却不能证明轮回或意识迁移。",
+      "explanation": "自然循环能够转换尺度，却不能证明轮回或意识迁移。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr2-fourth-book-supplements",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-16"
+      ]
+    },
+    {
+      "id": "c16-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "死亡认识可能松动个体执著，但不会自动造成意志否定。",
+      "explanation": "死亡认识可能松动个体执著，但不会自动造成意志否定。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-denial"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-16"
+      ]
+    },
+    {
+      "id": "c17-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "意志否定指认识改变动机效力，不是理智命令身体消灭欲望。",
+      "explanation": "意志否定指认识改变动机效力，不是理智命令身体消灭欲望。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-denial"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-17"
+      ]
+    },
+    {
+      "id": "c17-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "禁欲行为只是可能征候，相同外观可能来自强迫、创伤或恐惧。",
+      "explanation": "禁欲行为只是可能征候，相同外观可能来自强迫、创伤或恐惧。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-denial",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-17"
+      ]
+    },
+    {
+      "id": "c17-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自杀终止个体现象，不能据此推成对生命意志本身的否定。",
+      "explanation": "自杀终止个体现象，不能据此推成对生命意志本身的否定。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-denial"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-17"
+      ]
+    },
+    {
+      "id": "c17-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "认识如何使物自体意志转向，是体系保留的解释张力。",
+      "explanation": "认识如何使物自体意志转向，是体系保留的解释张力。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wwr1-denial",
+        "ozen-thing-in-itself-ambiguity"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-17"
+      ]
+    },
+    {
+      "id": "c18-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "宗教寓言可以承载伦理与形上意义，也可能转化为压制追问的权威。",
+      "explanation": "宗教寓言可以承载伦理与形上意义，也可能转化为压制追问的权威。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "pp-religion"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-18"
+      ]
+    },
+    {
+      "id": "c18-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "Oupnek’hat经梵文奥义书选本、波斯文《Sirr-i Akbar》与拉丁文三层抵达叔本华。",
+      "explanation": "Oupnek’hat经梵文奥义书选本、波斯文《Sirr-i Akbar》与拉丁文三层抵达叔本华。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "oupnekhat-chain"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-18"
+      ]
+    },
+    {
+      "id": "c18-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "《薄伽梵歌》具有行动、义务、奉爱与有神论面向，不能压成意志否定。",
+      "explanation": "《薄伽梵歌》具有行动、义务、奉爱与有神论面向，不能压成意志否定。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "bhagavad-gita"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-18"
+      ]
+    },
+    {
+      "id": "c18-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "摩耶、同一性、轮回与解脱同叔本华概念的对接均是选择性改写。",
+      "explanation": "摩耶、同一性、轮回与解脱同叔本华概念的对接均是选择性改写。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "majer-asiatisches-magazin",
+        "oupnekhat-chain",
+        "buddhist-reception",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-18"
+      ]
+    },
+    {
+      "id": "c19-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "《论妇女》包含系统性贬抑，不能降格为一句私人玩笑。",
+      "explanation": "《论妇女》包含系统性贬抑，不能降格为一句私人玩笑。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "pp-women"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-19"
+      ]
+    },
+    {
+      "id": "c19-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "种族化与民族性格概括不能由群体标签推出个人能力和价值。",
+      "explanation": "种族化与民族性格概括不能由群体标签推出个人能力和价值。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "pp-physiognomy",
+        "fr-four-roots",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-19"
+      ]
+    },
+    {
+      "id": "c19-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "宗教教义批评与对犹太人的本质化贬损具有不同论证对象。",
+      "explanation": "宗教教义批评与对犹太人的本质化贬损具有不同论证对象。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "pp-religion",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-19"
+      ]
+    },
+    {
+      "id": "c19-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "同情与本体一体性提供内部批判资源，却不能抵销作者明文。",
+      "explanation": "同情与本体一体性提供内部批判资源，却不能抵销作者明文。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "basis-morality",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-19"
+      ]
+    },
+    {
+      "id": "c20-01",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "瓦格纳直接阅读叔本华后重写音乐戏剧的自我解释，但其工程不属于叔本华原著。",
+      "explanation": "瓦格纳直接阅读叔本华后重写音乐戏剧的自我解释，但其工程不属于叔本华原著。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wagner-reception"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-20"
+      ]
+    },
+    {
+      "id": "c20-02",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "早期尼采直接吸收并改造艺术救赎框架，中晚期则以叔本华为形成性对手。",
+      "explanation": "早期尼采直接吸收并改造艺术救赎框架，中晚期则以叔本华为形成性对手。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "nietzsche-reception"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-20"
+      ]
+    },
+    {
+      "id": "c20-03",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "弗洛伊德承认叔本华的先见，但较晚系统阅读使直接形成影响仍有争议。",
+      "explanation": "弗洛伊德承认叔本华的先见，但较晚系统阅读使直接形成影响仍有争议。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "freud-reception"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-20"
+      ]
+    },
+    {
+      "id": "c20-04",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "接受关系应结合接触证据、时间顺序与概念功能判断。",
+      "explanation": "接受关系应结合接触证据、时间顺序与概念功能判断。",
+      "identity": "叔本华论证；涉及批评或接受史处按正文显式换声",
+      "evidenceLinkIds": [
+        "wagner-reception",
+        "nietzsche-reception",
+        "freud-reception",
+        "modern-critical-boundaries"
+      ],
+      "abilityIds": [
+        "distinguish-schopenhauer-20"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "fr-four-roots",
+      "workId": "fourfold-root",
+      "edition": "1847 revised edition; first-edition differences retained as an identity boundary",
+      "locator": "§§15–16; §§17–25; §§26–34; §§35–39; §§40–45; §§46–52",
+      "locatorVerified": true,
+      "identity": "Schopenhauer 1847 revision of 1813 dissertation；四类根据不得互换；1847年增补不可无标记倒写成1813年原貌。"
+    },
+    {
+      "id": "wwr1-representation",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§1–16",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, world as representation；世界作为表象不等于私人制造世界；经验实在性与先验唯心论并存。"
+    },
+    {
+      "id": "wwr1-body-will",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§17–24",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, body and will；身体双重给予是入口；从自身到自然仍需要类比桥梁。"
+    },
+    {
+      "id": "wwr1-objectification",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§25–29",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, grades and conflict；自然等级和目的性是体系内解释，不是现代进化生物学结论。"
+    },
+    {
+      "id": "wwr1-aesthetic-intuition",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§30–41",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, Ideas and aesthetic contemplation；无意志观看是暂时审美状态，不是已经完成的伦理救赎。"
+    },
+    {
+      "id": "wwr1-arts",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§42–52",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, arts hierarchy and music；音乐在§52被赋予例外地位；其形上对应仍是哲学类比。"
+    },
+    {
+      "id": "wwr1-freedom",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§55",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, freedom and necessity；现象行动的必然与作为物自体的自由不可混成任意选择能力。"
+    },
+    {
+      "id": "wwr1-pessimism",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§56–59",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, striving, satisfaction and boredom；哲学悲观主义不等同个人抑郁；快乐纯消极论仍可受反例挑战。"
+    },
+    {
+      "id": "wwr1-temporal-justice",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§62",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, temporal justice；法律和国家约束外在侵害，不等于制造具有道德价值的动机。"
+    },
+    {
+      "id": "wwr1-eternal-justice",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§63",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, metaphysical eternal justice；施害与受害同属一个意志的论述不得用来取消法律责任、现实救济或责难受害者。"
+    },
+    {
+      "id": "wwr1-compassion",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§64–67",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, compassion；形上一体是同情的后置解释，不是抽象命题自动产生善行。"
+    },
+    {
+      "id": "wwr1-denial",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition, revised 1844; section numbering",
+      "locator": "§§68–71",
+      "locatorVerified": true,
+      "identity": "Schopenhauer main text, asceticism and denial；意志否定不得简化为普通压抑、自杀、身体仇恨或服从权威。"
+    },
+    {
+      "id": "wwr2-will-supplements",
+      "workId": "wwr-volume-2",
+      "edition": "1844 second volume; chapter numbering",
+      "locator": "chapters 18–28",
+      "locatorVerified": true,
+      "identity": "Schopenhauer mature supplement, thing in itself and nature；成熟补充不能倒写成1818年第一版原文；自然科学材料受时代限制。"
+    },
+    {
+      "id": "wwr2-aesthetic-supplements",
+      "workId": "wwr-volume-2",
+      "edition": "1844 second volume; chapter numbering",
+      "locator": "chapters 29–39",
+      "locatorVerified": true,
+      "identity": "Schopenhauer mature supplement, aesthetics；天才、艺术和音乐的成熟扩展仍不能充当审美心理学的经验定律。"
+    },
+    {
+      "id": "wwr2-fourth-book-supplements",
+      "workId": "wwr-volume-2",
+      "edition": "1844 second volume; chapter numbering",
+      "locator": "chapters 41–50",
+      "locatorVerified": true,
+      "identity": "Schopenhauer mature supplement, death, sex, suffering and denial；死亡、性爱、遗传和否定各有独立论证；不可用现代术语无标记升级。"
+    },
+    {
+      "id": "kant-character",
+      "workId": "kant-critique-pure-reason",
+      "edition": "A/B pagination",
+      "locator": "A539/B567 and surrounding Third Antinomy discussion",
+      "locatorVerified": true,
+      "identity": "Kantian source distinction；叔本华继承这一对概念但强化性格不变性并改写自由位置，不等同康德原论。"
+    },
+    {
+      "id": "kant-critique-appendix",
+      "workId": "criticism-kantian-philosophy",
+      "edition": "1844 revised appendix",
+      "locator": "whole appendix; sections on intuition, categories and thing in itself",
+      "locatorVerified": true,
+      "identity": "Schopenhauer interpreting and criticizing Kant；这是叔本华的选择性康德解释，不是康德研究的无争议结论。"
+    },
+    {
+      "id": "freedom-will",
+      "workId": "prize-essay-freedom-will",
+      "edition": "1839 prize essay, published 1841",
+      "locator": "parts 1–5, especially parts 3–5",
+      "locatorVerified": true,
+      "identity": "Schopenhauer concentrated argument on necessity and character；行动必然不等于动机、教育和劝告无效。"
+    },
+    {
+      "id": "basis-morality",
+      "workId": "basis-morality",
+      "edition": "1839 competition essay, published 1841",
+      "locator": "part III sections 3–9; part IV sections 1–2",
+      "locatorVerified": true,
+      "identity": "Schopenhauer ethics of compassion；同情是经验道德动机；形上一体性是后置解释且可受独立质疑。"
+    },
+    {
+      "id": "will-in-nature",
+      "workId": "will-in-nature",
+      "edition": "1836, revised 1854",
+      "locator": "physiology, comparative anatomy, plant physiology, physical astronomy",
+      "locatorVerified": true,
+      "identity": "Schopenhauer seeking empirical confirmations；十九世纪材料只说明作者如何寻找印证，不是现代科学证成。"
+    },
+    {
+      "id": "pp-religion",
+      "workId": "parerga-volume-2-religion",
+      "edition": "1851 dialogue form",
+      "locator": "chapter 15",
+      "locatorVerified": true,
+      "identity": "dialogue voices Philalethes and Demopheles；必须区分对话角色；宗教寓言论不能消解各传统的自我理解。"
+    },
+    {
+      "id": "pp-women",
+      "workId": "parerga-volume-2-women",
+      "edition": "1851 authorized text",
+      "locator": "chapter 27, conventional §§362–371",
+      "locatorVerified": true,
+      "identity": "Schopenhauer explicit misogynistic claims；作者明文偏见必须受规范批判，不能以时代局限、动物伦理或个别关系抵销。"
+    },
+    {
+      "id": "pp-physiognomy",
+      "workId": "parerga-volume-2-physiognomy",
+      "edition": "1851 authorized text",
+      "locator": "chapter 29 and associated remarks on national character",
+      "locatorVerified": true,
+      "identity": "Schopenhauer physiognomic and national generalizations；面相、民族和遗传概括不具现代科学资格，也与个体同情伦理形成张力。"
+    },
+    {
+      "id": "majer-asiatisches-magazin",
+      "workId": "majer-asian-transmission",
+      "edition": "early nineteenth-century German reception context",
+      "locator": "Weimar encounter and journal-mediated materials, 1813–1814 context",
+      "locatorVerified": true,
+      "identity": "European intermediary, not Indian primary voice；马耶尔的浪漫主义选择和杂志环境不是印度传统全貌。"
+    },
+    {
+      "id": "bhagavad-gita",
+      "workId": "bhagavad-gita-reception",
+      "edition": "European translations available to Schopenhauer across his career",
+      "locator": "separate textual route from the Oupnek'hat transmission",
+      "locatorVerified": true,
+      "identity": "Bhagavad Gita through mediated translations；行动、义务、奉爱和有神论层面不能压成叔本华式禁欲或意志否定。"
+    },
+    {
+      "id": "oupnekhat-chain",
+      "workId": "oupnekhat-transmission",
+      "edition": "Sanskrit selections to Dara Shikoh's Persian Sirr-i Akbar to Anquetil-Duperron's Latin Oupnek'hat",
+      "locator": "multi-stage transmission used by Schopenhauer",
+      "locatorVerified": true,
+      "identity": "Upanishadic materials through Persian and Latin mediation；多重选编与翻译带来术语置换；奥义书/吠檀多的一体、自我与梵不等于盲目世界意志。"
+    },
+    {
+      "id": "buddhist-reception",
+      "workId": "nineteenth-century-buddhist-reception",
+      "edition": "nineteenth-century European reports and scholarship",
+      "locator": "later reception distinct from the Oupnek'hat",
+      "locatorVerified": true,
+      "identity": "European Buddhist scholarship available to Schopenhauer；佛教无我、缘起与涅槃不等于单一物自体意志或简单虚无。"
+    },
+    {
+      "id": "wagner-reception",
+      "workId": "wagner-schopenhauer-reception",
+      "edition": "post-1854 reception",
+      "locator": "music, compassion and renunciation in Wagner's self-interpretation",
+      "locatorVerified": true,
+      "identity": "Wagner adapting Schopenhauer；瓦格纳的戏剧、政治与作品结局不能倒写成叔本华美学。"
+    },
+    {
+      "id": "nietzsche-reception",
+      "workId": "nietzsche-schopenhauer-reception",
+      "edition": "The Birth of Tragedy; Schopenhauer as Educator; later critiques",
+      "locator": "early direct reception and later critique of pity, asceticism and will-denial",
+      "locatorVerified": true,
+      "identity": "Nietzsche reading and transforming Schopenhauer；早期影响不等于终身赞同；阿波罗/狄奥尼索斯等概念不可归给叔本华。"
+    },
+    {
+      "id": "wwr1-individuation",
+      "workId": "wwr-volume-1",
+      "edition": "1818/1819 first edition with author revisions",
+      "locator": "§§54, 61–68",
+      "locatorVerified": true,
+      "identity": "Schopenhauer primary text on individuation and ethical transition；同一意志的论证不取消经验个体、责任与受害事实。"
+    },
+    {
+      "id": "wwr2-first-book-supplements",
+      "workId": "wwr-volume-2",
+      "edition": "1844 second volume; chapter numbering",
+      "locator": "chapters 1–17",
+      "locatorVerified": true,
+      "identity": "Schopenhauer mature supplement on representation and knowledge；成熟期补述不等于现代知觉科学的实证结论。"
+    },
+    {
+      "id": "modern-critical-boundaries",
+      "workId": "critical-reception",
+      "edition": "secondary critical identity only",
+      "locator": "bias, victim-risk, reception and conceptual-boundary discussions",
+      "locatorVerified": true,
+      "identity": "Modern critical assessment, not Schopenhauer's own voice；用于标明风险、反例和接受史身份，不反向改写原典。"
+    },
+    {
+      "id": "baptista-origin-species",
+      "workId": "baptista-aldana-abramson-origin-species",
+      "edition": "Trino Baptista, Elis Aldana and Charles I. Abramson, SAGE Open 9(1), 2019",
+      "locator": "pp. 1–10, especially the comparison of Schopenhauer's fixed species-Ideas with variability, populations, gradual evolution and natural selection",
+      "locatorVerified": true,
+      "identity": "Modern history-of-science comparison, not Schopenhauer's own voice；论文明确区分叔本华的物种理念与达尔文式种群变异、渐变和自然选择；相似措辞不能倒写为进化论证据，也不能替其性别与遗传猜测背书。"
+    },
+    {
+      "id": "woods-state-morality",
+      "workId": "woods-schopenhauer-state-morality",
+      "edition": "David Bather Woods, The Palgrave Schopenhauer Handbook, 2017",
+      "locator": "pp. 299–322, especially the distinction between political justice and moral justice and the discussions of state, punishment and progressive institutional application",
+      "locatorVerified": true,
+      "identity": "Modern reconstruction of Schopenhauer's political and moral theory；形上一体和同情动机不能代替经验归责、法律保护、惩罚正当化与制度救济；现代制度推论须标为重构。"
+    },
+    {
+      "id": "shapshay-evolving-system",
+      "workId": "shapshay-pessimism-evolving-system",
+      "edition": "Sandra Shapshay, Reconstructing Schopenhauer's Ethics, Oxford University Press, 2019",
+      "locator": "chapter 2, pp. 37–96, especially the proto-Darwinian revisions, weakened fixed species-Ideas, good-making features and limits of the strong pessimistic inference",
+      "locatorVerified": true,
+      "identity": "Modern reconstructive criticism of Schopenhauer's mature pessimism；该章提供体系内部演变和善性特征的反证资源；稳定关系与创造价值限制强悲观结论，但不证明痛苦分析全错。"
+    },
+    {
+      "id": "shapshay-aesthetics-hierarchy",
+      "workId": "sep-schopenhauer-aesthetics-hierarchy",
+      "edition": "Sandra Shapshay, Stanford Encyclopedia of Philosophy",
+      "locator": "section 5.2, 'Hierarchy among the Fine Arts', especially the historical Academic hierarchy of genres and Schopenhauer's ranking criteria",
+      "locatorVerified": true,
+      "identity": "Modern historical and analytic reconstruction of Schopenhauer's aesthetics；欧洲学院艺术分类说明层级的历史语境，不能把再现偏好和特定艺术种类的排序提升为跨文化普遍尺度。"
+    },
+    {
+      "id": "wwr2-music-tonality",
+      "workId": "wwr-volume-2-chapter-39",
+      "edition": "1844 second volume; Cambridge translation pagination",
+      "locator": "chapter 39, pp. 464–474, especially tonic, harmony, bass and the natural tonal system",
+      "locatorVerified": true,
+      "identity": "Schopenhauer's mature primary account of music；调性、和声与低音的结构类比是原典论证材料，不是跨文化音乐学或实验心理学证明。"
+    },
+    {
+      "id": "goehr-music-limits",
+      "workId": "goehr-schopenhauer-musicians",
+      "edition": "Lydia Goehr, Schopenhauer, Philosophy and the Arts, Cambridge University Press, 1996",
+      "locator": "chapter 10, pp. 200–228, especially the limits and incompleteness of philosophizing from the classical musical worldview",
+      "locatorVerified": true,
+      "identity": "Modern critical history of Schopenhauer's music philosophy；古典欧洲音乐经验限制了类比的外推范围；批评不把音乐论降格为毫无哲学内容。"
+    },
+    {
+      "id": "wwr2-sexual-love-heredity",
+      "workId": "wwr-volume-2-chapter-44",
+      "edition": "1844 second volume; chapter numbering",
+      "locator": "chapter 44, passages on sexual selection, inheritance of character and sex difference",
+      "locatorVerified": true,
+      "identity": "Schopenhauer's primary speculative account of sexual love and heredity；这些是十九世纪的形而上学和遗传猜测；原典身份不能被现代进化理论的术语相似性追认为科学先见。"
+    },
+    {
+      "id": "ozen-thing-in-itself-ambiguity",
+      "workId": "ozen-ambiguity-thing-in-itself",
+      "edition": "Vasfi Onur Özen, PhilArchive open manuscript",
+      "locator": "printed pp. 262–267 and 272–277 (PDF pp. 11–17 and 21–27), especially the rival senses of thing-in-itself and the discussion of WWR I §§68 and 71",
+      "locatorVerified": true,
+      "identity": "Modern internal critique of Schopenhauer's thing-in-itself doctrine；批评指出：若意志作为物自体超出认识，认识促成意志否定的说法留下解释张力；这不是把张力冒充叔本华自承矛盾。"
+    },
+    {
+      "id": "freud-reception",
+      "workId": "freud-schopenhauer-reception",
+      "edition": "A Difficulty in the Path of Psycho-Analysis; Beyond the Pleasure Principle",
+      "locator": "sexual striving acknowledgment; Beyond the Pleasure Principle chapter VI",
+      "locatorVerified": true,
+      "identity": "Freud acknowledging anticipation while direct formation remains disputed；概念相似和先声承认不能直接升级为精神分析由叔本华推导。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "schopenhauer-will-representation-and-release",
+      "version": "1.0.0-candidate",
+      "title": "叔本华：表象、意志与解脱",
+      "lessonIds": [
+        "schopenhauer-01",
+        "schopenhauer-02",
+        "schopenhauer-03",
+        "schopenhauer-04",
+        "schopenhauer-05",
+        "schopenhauer-06",
+        "schopenhauer-07",
+        "schopenhauer-08",
+        "schopenhauer-09",
+        "schopenhauer-10",
+        "schopenhauer-11",
+        "schopenhauer-12",
+        "schopenhauer-13",
+        "schopenhauer-14",
+        "schopenhauer-15",
+        "schopenhauer-16",
+        "schopenhauer-17",
+        "schopenhauer-18",
+        "schopenhauer-19",
+        "schopenhauer-20"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "schopenhauer-01",
+      "order": 1,
+      "title": "当我们追问“为什么”，究竟在索取什么",
+      "depth": "longform",
+      "guidingQuestion": "事件的原因、判断的证据、几何关系和行动动机，为什么不能用同一种解释来回答？",
+      "coreExplanation": "叔本华从一个看似朴素的要求出发：任何成为认识对象的东西，都必须在某种意义上有根据。但“根据”不是一根贯通万物的因果链。《论充足理由律的四重根》把可表象对象分成四类，相应区分成为、认识、存在与行动之根据。分类的作用不是把世界塞进四只抽屉，而是阻止我们拿一种回答冒充另一种回答。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "一扇窗突然碎裂，我们问为什么，通常是在寻找撞击、压力或温差。一位法官说被告在场，我们再问为什么，索取的却是证词、影像或推论。两个问题都用“为什么”，但前一个解释事件怎样发生，后一个说明判断凭什么为真。",
+            "若把两者混同，就会说证词“造成”被告在场，或者说石块击窗只是我们相信玻璃破裂的理由。语法相同遮住了关系不同。叔本华所谓“根”，首先是一项认识论纪律：回答必须配得上被回答的对象。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "第一根是成为之根据，适用于空间时间中的直观对象。事件处在因果秩序里，原因带来状态变化。火使蜡融化，冲击使球改变路线，这里所求的是先前状态与后来状态的必然连接。",
+            "因果性不是泛指一切依赖。一个判断的前提不会像火加热蜡那样推动结论发生；把逻辑蕴涵叫作物理作用，会掩去真假评价与事件变化的区别。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "第二根是认识之根据，适用于判断。一个判断之所以可被承认为真，可能依靠直接经验、另一判断或推论规则。这里的关键不是某个脑内事件怎样产生信念，而是我们有什么资格赞同这个命题。",
+            "因此，解释某人为何心理上相信谣言，与证明谣言内容为真，是两项任务。恐惧可以造成相信，却不能充当认识根据；可靠记录可以支持判断，却不是让被记录事件发生的物理力量。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "第三根是存在之根据，涉及空间与时间中各部分的确定关系。三角形内角关系不是一场较早事件造成较晚事件；某一时刻位于另一时刻之后，也不是靠证人作证才成立。部分在形式结构中彼此规定。",
+            "叔本华把算术主要联系时间序列，把几何联系空间位置。现代数学未必接受这种先验分工，但他的警告仍清楚：证明结构关系时，不应虚构一个在时间中推动结论的原因。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "第四根是行动之根据，也就是动机。有人听见警报后离开大楼，警报的意义、危险判断与其性格共同使行动可理解。动机在行动者的认识中起作用，这使它不同于砖块受推后移动。",
+            "动机仍属于必然联系，却不等于外在机械撞击。若完全删除行动者怎样理解处境，我们就没有说明这次离开为何是避险而非漫游。后面谈自由时，这一根会成为性格与行动之间的接口。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "最强的反对不是说四类毫无差异，而是质疑它们是否穷尽解释。概率说明、功能说明、历史叙事和数学结构，未必都能毫无余地归入四根。尤其把数学真理固定在空间时间直观上，会受到现代形式主义的压力。",
+            "这一反对限制四分法的普遍权威，却不取消其辨误能力。叔本华给出的是先验分类主张，不是现代各门科学已经共同验证的解释总表。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "“任何对象都有根据”也不等于“世界整体必有一个最初原因”。理由律只管表象对象彼此怎样关联；若把它越过经验边界，用来推出一个超经验造物者，恰恰犯了把适用条件遗忘的错误。",
+            "同样，四重根不是四个名字指向同一种宇宙能量。它要求我们每次先问：眼前是事件、判断、形式位置，还是由认识引导的行动？对象身份先确定，解释才不会错位。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "完成分类以后，一个更深的问题出现了：这些对象为什么都只在被认识时出现？理由律说明表象内部的秩序，却没有说明主体与客体何以构成表象的两端。",
+            "因此，下一步不是继续追寻更遥远的原因，而是考察一个对象如何进入经验，以及认识者为何不是对象链条中的另一件普通物。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "调查玻璃破裂时，撞击是事件原因，监控录像是判断依据，裂纹的几何关系是空间结构，嫌疑人的报复念头则可能是行动动机。四种回答可以围绕同一案件出现，却不能相互替代。",
+      "nodeIds": [
+        "S01-C1",
+        "S01-C2",
+        "S01-C3",
+        "S01-C4",
+        "S01-C5"
+      ],
+      "checkIds": [
+        "S01-Q1",
+        "S01-Q2",
+        "S01-Q3",
+        "S01-Q4"
+      ],
+      "abilitySummary": [
+        "能够识别四类根据，说明它们共享依赖形式却不共享同一种关系，并阻止从经验理由律偷渡宇宙论结论。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-02",
+      "order": 2,
+      "title": "世界是表象，为什么并不等于世界是幻觉",
+      "depth": "longform",
+      "guidingQuestion": "若对象总是为主体而出现，我们为何仍能区分一张真实桌子与一场私人幻觉？",
+      "coreExplanation": "“世界是我的表象”不是说个人思想制造事实，而是说被认识的世界必有主体与客体这对相关端。空间、时间和因果性构成对象出现的形式；知性把身体感觉追溯为外在原因，形成直观经验。概念和科学从直观抽取并组织经验，却不能把判断根据与事件原因混写。经验实在性因此可以与先验唯心论并存。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "清晨看见窗外树枝摇动，我们似乎只是接收一个已经完成的世界。但眼睛得到的是受光刺激的身体变化，并不是一棵缩小的树进入头脑。对象的距离、方位和因果来源，需要知性把感觉放进空间、时间与因果秩序。",
+            "这会引起不安：若对象依赖认识形式，难道闭眼就能取消树木？叔本华的回答不是取消经验现实，而是区分对象作为经验现象的真实与物自身不依赖认识的存在方式。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "主体不是先作为空间中的一件物，再与另一件叫作客体的物碰面。就认识关系而言，主体是对象得以出现的条件；成为客体，就是为主体而被表象。客体反过来也规定主体是认识者，而非空无内容的实体。",
+            "因此二者是相关端，不是两件彼此孤立的东西后来建立通信。经验中的身体可以成为对象，但作为一切对象之条件的认识主体，不能再由对象链里的某个原因制造出来而仍保持同一意义。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "知性在这里不是先说出一条命题，再作缓慢推理。它把身体感觉直接理解为外在原因，于是出现有位置、持续并能作用的对象。叔本华把这一过程称为因果性的直观运用，有时甚至说是无意识推论。",
+            "所谓构成，不是任意编造。若我把远处反光看成水，走近后触觉、视角与后续因果经验会纠正最初判断。误认之所以能被纠正，正因为经验处在共同而连贯的因果秩序中。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "把一根直筷子斜插进水里，它看起来弯折。视觉并未让筷子真的改变形状，而是按通常光线路径把刺激定位。换角度观察并触摸后，我们能够解释折射并修正判断。",
+            "这个例子同时反对两种极端。朴素实在论忘了对象显现依赖感官和知性形式；唯我论则忘了不同观察可以在稳定规律中彼此校正，错误也须由经验秩序来识别。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "理性把直观表象抽象成概念，借语言保存、比较和推论。正因为概念不受眼前时刻束缚，人能够制定计划、建立科学，也能够因尚未发生的灾祸而焦虑，或被空洞口号支配。",
+            "概念最终需回到直观获得内容。说“哺乳动物”不会凭词语造出动物；科学判断的证成也不同于它研究的事件原因。叔本华批评的是概念脱离直观后的自转，不是反对论证和科学。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "反对者可以说，感觉到对象的过程若已经预设外部原因，就用因果性证明因果性，形成循环。现代知觉研究也显示，经验、语言和预期会反向塑造我们看见什么，不只是先天知性对被动刺激的单向处理。",
+            "这使叔本华的先验说明不能冒充经验科学的最终模型。然而反对并不自动恢复“对象原样复制进心灵”的图景；主体条件、身体刺激与公共校验仍须同时解释。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "世界是表象，不意味着每个私人意识拥有自己的随意宇宙。主体依赖不是个人意愿控制，经验对象仍以抗拒、持续与可复查的方式出现。幻想一座桥不会使河面承重，正说明表象秩序不服从愿望。",
+            "相反，经验实在也不表示我们直接看见脱离认识形式的物自身。所谓真实桌子，是经验因果秩序中的真实对象；它不因此成为已被彻底揭示的超经验实体。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "表象理论说明了经验怎样成立，却留下康德式限制：空间、时间和因果性若属于显现条件，就不能未经论证地描画物自身。主体与客体共同出现，也无法让其中一端偷偷跳出关系。",
+            "接下来的压力因此是双重的：叔本华如何继承这条禁区，又为何认为“意志”这个名称能比普通外在认识更接近世界内面。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "水中筷子的弯折外观由感觉条件和因果定位形成；触摸、换角度和折射解释可以纠错。对象依赖认识形式，并不使不同解释同样有效。",
+      "nodeIds": [
+        "S02-C1",
+        "S02-C2",
+        "S02-C3",
+        "S02-C4"
+      ],
+      "checkIds": [
+        "S02-Q1",
+        "S02-Q2",
+        "S02-Q3",
+        "S02-Q4"
+      ],
+      "abilitySummary": [
+        "能够同时说明主体客体相关、因果知觉、概念对直观的依赖与经验实在性，并区分先验唯心论、唯我论和朴素实在论。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-03",
+      "order": 3,
+      "title": "守住康德的边界，又为何冒险说出“意志”",
+      "depth": "longform",
+      "guidingQuestion": "若物自体不能成为普通认识对象，叔本华凭什么给它一个名字？",
+      "coreExplanation": "叔本华自认继承康德的现象与物自体区分，却以选择性方式重排康德：空间时间属于显现形式，知性的核心功能被压缩为因果性，十二范畴不再保有原位。他拒绝用现象因果链证明超经验实体，却认为自身意愿提供了不同于纯外在观看的入口。“意志”因此是从最亲近经验向世界内面的解释性命名，而不是对物自体的穷尽画像。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "一位测量者可以不断改进仪器，却仍在空间、时间与因果关系中得到对象。若这些形式来自我们的认识条件，增加测量精度并不会让对象脱下所有显现条件，直接露出物自身。",
+            "康德的边界由此尖锐：现象不是假象，但我们不能把只适用于现象的范畴越界用于物自体。叔本华接受这项限制，却又说世界内在本性是意志，仿佛亲手跨过了界线。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证环节",
+          "paragraphs": [
+            "《作为意志和表象的世界》第一卷附录以批判方式继承康德。叔本华赞赏先验唯心论和现象物自体区分，同时反对范畴表的体系安排，认为直观对象的成立主要依靠因果性的知性活动。",
+            "这不是康德立场的简写。康德没有把全部知性功能缩成因果性，叔本华关于感性、知性与物自体的说法也带有自己的重构。引用他时必须说“叔本华如何解释康德”，不能让康德替改写后的结论背书。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "边界的消极部分很明确：不能沿事件原因一直回溯，然后把链条末端叫作物自体。原因和结果属于表象内部，所谓第一因若仍被描述为先发生、后制造，也仍在时间因果形式里。",
+            "同理，主体客体关系不能靠增加观察对象而消失。把脑、神经或宇宙初态观察得更细，所得仍是为主体而出现的客体，不能仅凭外部知识完成向内在本性的跃迁。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "叔本华寻找的不是更遥远的客体，而是一种不只从外面给予的经验。自己的身体既被看作对象，行动又被直接经验为意愿的表现。这份亲近性让“意志”成为解释物自体的候选名称。",
+            "不过，自我经验仍在时间中发生，意愿也会成为被反思的对象。因此它不是摆脱一切表象形式后的裸露实体，只是相较纯外在认识更少一层中介。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "设想两种关于抬手的记录。一台摄像机给出肌肉、轨迹和先后状态；行动者同时感到自己要拿杯子。二者并非两件互不相干的事件，但内在意愿也没有把全部生理过程逐项显露。",
+            "叔本华会说，外在记录呈现表象，内在经验给出其意义线索。这个案例只开启命名的资格，尚未证明石头、植物和星体具有同一种内面。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "最强异议是：既然自我经验也受时间、主体客体关系和概念解释制约，它为何能代表物自体？从“我的行动被体验为意愿”到“所有现象内在都是意志”，还隔着无法由直接经验填满的桥。",
+            "叔本华能回答的只是程度差异：我们在自身那里不只见到外部因果表面，因而得到最亲近的钥匙。若把回答升级为对物自体全部属性的知识，就会摧毁他保留的康德边界。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "这里的“意志”不能先被理解为审慎选择。名称来自人的意愿，但日后会被扩展为比意识、目的和理由更基本的趋求。名称提供入口，也携带拟人化危险。",
+            "同一边界还会回到性格理论。康德用经验性格与理知性格区分自然必然和自由；叔本华后来把理知性格改写为无时间的个体意志之举。这是继承后的强改写，不是康德原话。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "要判断这次命名是否合理，必须仔细考察身体的双重给予。若行动只是心灵先下命令、身体随后执行，“意志”仍可能只是隐藏原因；若两者是一件事的两种认识方式，入口才真正不同。",
+            "因此，下一步暂不把意志推广到自然，而只追问最靠近我们的身体为何既是对象，又不是纯粹外在对象。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "摄像机记录抬手的空间轨迹，行动者直接经验拿杯子的意愿。内外两种给予提示同一行动的不同认识方式，却没有提供对物自体的全知视角。",
+      "nodeIds": [
+        "S03-C1",
+        "S03-C2",
+        "S03-C3",
+        "S03-C4"
+      ],
+      "checkIds": [
+        "S03-Q1",
+        "S03-Q2",
+        "S03-Q3",
+        "S03-Q4"
+      ],
+      "abilitySummary": [
+        "能够区分康德原立场、叔本华的选择性继承与物自体意志的受限命名，并指出身体入口尚未完成自然推广。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-04",
+      "order": 4,
+      "title": "身体为何既是可见对象，也是意愿的入口",
+      "depth": "longform",
+      "guidingQuestion": "我抬起手时，是心灵先发命令再推动身体，还是同一行动以两种方式被认识？",
+      "coreExplanation": "身体在外部经验中服从空间、时间和因果关系，是对象中的一个对象；从内部看，具体动作又被直接经验为意愿的表现。叔本华不把意愿和动作排成两个事件，而称它们为同一件事的两种给予。快感和痛苦进一步显示身体变化直接触及意志利益。这一入口能削弱纯外在自我图景，却不能独自证明全自然都是意志。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "旁观者看见我伸手取杯，只能观察身体的位置变化。我却不必先观察手臂，再推断其中藏着一个取杯意愿；在行动发生时，意愿以第一人称方式被直接经历。",
+            "若把两者看成先后事件，就会追问非空间的命令怎样碰撞肌肉。叔本华转变问题：动作与意愿不是彼此作用的两件东西，而是同一行动在外在直观与内在经验中的双重给予。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "作为客体的身体有形状、重量和位置，也能被别人与仪器观察。它像其他经验对象一样处在原因结果中，受损会改变动作，训练也会改变表现。",
+            "但若身体只以这种方式被给出，我对自己与对一块石头没有原则差别。内在意愿让身体成为破解表象意义的第一处独特入口。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "“我愿意抬手”与“手臂抬起”在正常自愿行动中不是命令和执行的两次发生。它们是一件事：前者不经空间直观而被知，后者在空间中成为身体变化。所谓意志客体化，先在这个最贴近的尺度上获得含义。",
+            "这也解释为什么行动并非纯粹概念决定。一个人可以抽象地赞成晨跑，却在闹钟响时没有起身；现实意愿表现于身体行动，而不等于口头愿望或关于自己的叙述。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "端起过热的杯子时，手会迅速缩回。疼痛不是一份中立数据，它直接表示身体状态违背个体意志的利益。舒适、饥饿和疼痛都把身体变化与趋求或排斥相连。",
+            "然而缩手也提醒我们，身体含有反射与非自主过程。并非每个运动都先被清楚意识为目标；“意志”若只等同深思熟虑的决定，反而无法覆盖身体经验。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "瘫痪者可能强烈愿意抬手，动作却没有发生；无意愿的痉挛又可能让手移动。这似乎反驳意愿与动作是一件事。它至少证明二者在经验层面并非每次一一对应。",
+            "叔本华可以说，完整客体化依赖身体条件，受阻意愿和病理动作显露的是表现链被破坏，而非心灵与身体原本是两种实体。但这一回应不能替代医学说明，也不能抹去失能者真实经验。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "身体双重给予不是严格的身心同一论证明。它提供的是解释角度：同一现实既从外面显为身体动作，从里面显为意愿。是否足以排除其他心灵理论，仍可争论。",
+            "更重要的是，直接经验只覆盖我自己的身体。由此说其他动物、植物或重力也有同一内面，需要另加类比与连续性论证，不能在“我愿意”之后直接写成“宇宙愿意”。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "论证环节",
+          "paragraphs": [
+            "《作为意志和表象的世界》第一卷第十八至二十节把身体称为认识主体的直接客体，并以行动与意愿的同一性推进。《四重根》讨论动机时则说明，认识如何成为行动的根据。",
+            "第二卷关于身体和自我认识的补充属于成熟期展开，不应无标记地倒写成第一卷初版的每一句话。不同文本共同支撑入口，却承担不同论证任务。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "现在可以说，至少有一个对象不只从外面被认识：我的身体行动同时给出意愿意义。这个结果打破了所有对象都只是陌生表面的局面。",
+            "接下来的困难更大：为何不把自己视为唯一拥有内面的例外？从身体到自然的推广必须经过类比桥梁，并首先清除“宇宙有计划”这一误读。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "取热杯时的伸手和缩手既能被外在观察，也伴随取物意愿与疼痛排斥；瘫痪和痉挛则显示表现条件可能断裂，不能用简单一一对应概括。",
+      "nodeIds": [
+        "S04-C1",
+        "S04-C2",
+        "S04-C3",
+        "S04-C4"
+      ],
+      "checkIds": [
+        "S04-Q1",
+        "S04-Q2",
+        "S04-Q3",
+        "S04-Q4"
+      ],
+      "abilitySummary": [
+        "能够解释身体的外在对象身份与内在意愿身份，区分同一行动的双重给予、因果互动模型和自然推广。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-05",
+      "order": 5,
+      "title": "从我的意愿到自然的盲目趋求",
+      "depth": "longform",
+      "guidingQuestion": "承认自己的身体有内面之后，为何把自然的内面也称为意志，却不赋予宇宙意识与计划？",
+      "coreExplanation": "叔本华以类比和连续性推广身体入口：若不把自己设成唯一有内面的例外，动物的动机、植物的刺激反应和自然力可被看作同一内在趋求的不同显现。推广不是演绎证明。“意志”在普遍意义上先于意识、目的和理由，知识只是某些有机体的工具。自然中的功能协调属于客体化层面，不能反向变成宇宙设计者的计划。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "我从自身动作知道身体不只是外在轨迹。面对另一人的动作，我虽不能进入其第一人称经验，却通常不把对方当作精巧木偶。相似身体、行为回应和共同世界支持一种类比。",
+            "问题在于类比能走多远。到动物似乎尚近，到植物、晶体和重力就越来越远。若只靠同一个词覆盖差异，“意志”可能退化成没有解释力的改名。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "叔本华拒绝一种特权设定：只有我的身体在外观背后有内面，其余对象全是空壳。既然自身是自然的一部分，以身体经验为钥匙解释其他自然现象，至少比把自己设为宇宙唯一例外更连续。",
+            "这种推理从相似性与连续性获得力量。动物受动机引导，植物对刺激作出定向反应，无机自然呈现稳定力量。表现所需的认识程度不同，内在趋求却被视为同一。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "日常意愿常有明确对象，例如饮水或回家。但叔本华把普遍意志放在认识之前：目的、动机和选择只在具有表象能力的个体中出现。意志本身不是先知道一个目标再制定手段。",
+            "知识因而不是宇宙意志从开端就拥有的灯。它是某些动物组织发展出的服务工具，使欲求能在复杂环境中寻找路径。说意志盲目，正是否定它作为人格心灵预见总体结果。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "植物向光生长可以有生理机制说明。叔本华并不需要在植物内部安放一个会说“我要阳光”的意识；他会把定向生长看作无认识趋求在特定组织中的表现。",
+            "石块下落则更远离欲望经验。把重力称为意志，不是说石块想去地面，而是尝试为自然力提供一种内在意义。此时类比的证据变弱，形上解释的风险增大。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "反对者会说，我们已经能用物理规律和生物机制解释运动与生长，再加“意志”只是换名。若任何结果都能被称作趋求，这个假说似乎无法被反证，也不能预测新事实。",
+            "叔本华的目标并非用意志替代近因科学，而是回答同一现象从内部意味着什么。然而目标不同只能防止直接竞争，不能证明这套内在解释为真。类比性质必须公开保留。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "无意识意志也容易被误读成隐藏得很深的宇宙意识。可一旦说世界预先知道物种、安排苦难以实现善果，便把知识和目的偷偷放回意志本身，违背其在认识之前的定义。",
+            "同样，称自然有功能协调，不等于承认仁慈设计。眼睛适于看、根适于吸收，只描述客体化形式内的配合；捕食、疾病和争夺会迫使下一步同时解释协调与冲突。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "论证环节",
+          "paragraphs": [
+            "第一卷第二十一至二十四节完成从身体到自然的推广，第二十七节强调意志先于认识。《论自然中的意志》后来援引生理学、植物与物理材料，身份是十九世纪的印证尝试。",
+            "这些材料不能被改称现代进化论或神经科学的验证。后期补充扩大了例证，却没有把类比变成演绎，也没有消除不可证伪的质疑。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "若暂时接受同一意志以不同形式显现，新的问题便是：无分割的内面怎样成为稳定自然力、物种形式和众多个体？仅说“都是意志”无法解释差异。",
+            "客体化等级与柏拉图理念将承担这个中介；自然组织的协调和生存冲突也会检验这套形上解释是否暗中恢复目的设计。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "植物向光不必具有自述目标，石块下落更不意味着它在思考地面。把二者称为意志，是由身体内面向自然作不同强度的类比，而不是给万物安装人格意识。",
+      "nodeIds": [
+        "S05-C1",
+        "S05-C2",
+        "S05-C3",
+        "S05-C4"
+      ],
+      "checkIds": [
+        "S05-Q1",
+        "S05-Q2",
+        "S05-Q3",
+        "S05-Q4"
+      ],
+      "abilitySummary": [
+        "能够重建身体到自然的连续性类比，明确世界意志无意识、无目的，并识别换名、拟人化与不可证伪异议。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-06",
+      "order": 6,
+      "title": "同一意志如何显为自然的等级与争斗",
+      "depth": "longform",
+      "guidingQuestion": "稳定自然形式、精细有机协调和残酷生存冲突，怎样被放进同一幅图景？",
+      "coreExplanation": "意志本身不在空间时间中分裂，进入表象后却显为自然力、物种形式和个体。叔本华以“客体化等级”连接一与多，并借柏拉图理念说明较稳定的形式；具体个体则在时空和因果中出现。不同等级争夺同一物质，形成意志与自身的冲突。有机体的局部目的性不证明宇宙总体仁慈，更不能排除现代进化论对固定物种和功能形成的挑战。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "自然既有重复的稳定性，也有惊人的差别。重力持续以相似方式作用，橡树维持某种形态，动物器官彼此配合；与此同时，每个个体都短暂，占据的物质又不断被别的生命争夺。",
+            "若只说背后有同一意志，稳定形式与众多个体便无法区分。叔本华需要中介层，把不在时空中分割的一与显现中的多连接起来。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "自然力和物种形态被理解为意志客体化的不同等级。重力、植物组织、动物生命与人的认识能力，展示由较普遍力量到较复杂形式的差别。等级表示显现的清晰和复杂程度，不表示低层在道德上卑劣。",
+            "这里借用了柏拉图理念：理念不是某一棵树或某一只动物，而是能在许多个体中重复显现的稳定形式。个体进入空间时间和因果链，理念本身则不等于可数的样本。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "一粒种子长成树，需要水、土壤与阳光；它的组织又把材料纳入特定形态。叔本华会把材料争夺和形态维持分别看作不同等级力量在同一现象中的相遇。",
+            "树不是理念本身，也不是宇宙预先绘好的唯一蓝图。它是某种客体化等级在具体条件中的个体表现，可能生病、变形或夭折。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "有机体内部显得目的性协调：牙齿、消化与食物摄取相互配合。可是这种局部协调依靠对外界材料的占有，动物生存往往以别的生命受损为条件。",
+            "同一意志在个体化后从每个中心肯定自己，于是“与自身争斗”。捕食者与猎物不是一个意识故意折磨自己，而是共同内面在彼此分离的显现中发生冲突。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "固定理念与物种等级会遭遇进化论挑战。物种具有历史，边界可变，复杂性也不是一条单向上升的梯子。自然选择能够说明功能协调如何从无预见过程形成，无需一个超时间物种范型。",
+            "这并不让叔本华自动变成进化论先驱。他的自然论可以因强调无设计和冲突而与后世观点局部相容，但其理念与等级仍带有固定形式的形上承诺。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "从器官配合不能推出宇宙总体仁慈。局部目的性只说明一个有机体的部分如何服务其维持；疾病、寄生、饥饿与死亡阻止我们把局部协调扩成和谐总计划。",
+            "反过来，竞争事实也不能独自证明万物本体为一。生态冲突可由经验科学描述；“同一意志自争”是附加的形上解释，仍需承受身体类比桥梁的质疑。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "论证环节",
+          "paragraphs": [
+            "第一卷第二十五至二十九节展开客体化等级和自然冲突，第三十至三十二节将理念转入审美认识。第二卷与《论自然中的意志》增加生理、比较解剖和植物材料。",
+            "这些后期材料应以成熟扩展和历史科学身份出现，不能倒写为初版完整论证，也不能把当时的物种观包装成现代分类共识。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "客体化理论解释了形式的稳定和个体的争夺，却还没有说明每个个体为何只从自己的位置感受利益。这个问题需要空间与时间作为个体化原理。",
+            "当同一本性显为彼此分离的个体，冲突为何如此自然、同情又为何可能，才会获得共同的结构入口。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "树木维持物种形态，同时争夺光、水和土壤；器官在个体内部配合，个体却可能被寄生或吞食。局部协调与整体冲突无需诉诸仁慈设计。",
+      "nodeIds": [
+        "S06-C1",
+        "S06-C2",
+        "S06-C3",
+        "S06-C4"
+      ],
+      "checkIds": [
+        "S06-Q1",
+        "S06-Q2",
+        "S06-Q3",
+        "S06-Q4"
+      ],
+      "abilitySummary": [
+        "能够解释客体化等级、理念、个体与自然冲突的关系，同时拒绝价值阶梯、宇宙目的论和进化论倒写。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-07",
+      "order": 7,
+      "title": "同一生命为何从无数孤立中心看世界",
+      "depth": "longform",
+      "guidingQuestion": "若世界内面是一，为什么每个个体仍只直接感到自己的饥饿、恐惧和利益？",
+      "coreExplanation": "空间和时间使同一本性显为彼此分离、可数且有先后的个体，叔本华借经院哲学称其为个体化原理。因果和动机又把每个身体固定在自身生存视角，利己因此不是偶然坏习惯。可是个体化只说明显现方式，不把他者痛苦变成幻觉；同情将被理解为隔绝屏障的局部穿透。形上一体不能取消边界、同意、法律责任或受害者差异。",
+      "sections": [
+        {
+          "heading": "问题从何处逼近",
+          "paragraphs": [
+            "两个人同时淋雨，各自只直接感到自己的寒冷。即使知道对方难受，身体仍以“这里”的疼痛与“那里”的疼痛区分彼此。日常意识似乎从根本上是许多个中心。",
+            "如果意志不在时空中分割，这些中心从何而来？叔本华不能简单否认个体，因为生存冲突、责任和同情都在个体之间发生。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "空间使同类事物并列于不同位置，时间使事件在不同片刻出现。借此，同一本性能够显为“这个”和“那个”、出生与死亡、占有与失去。叔本华把空间时间称为个体化原理。",
+            "个体化属于表象条件，不表示物自体被切成无数碎片。像同一旋律可在不同时间被演奏只是有限比喻；关键不在某个共同材料，而在多样性依赖显现形式。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "每个有机体从自身身体出发，动机首先围绕自保、求食与避害。认识作为意志的工具，使世界按“对我有利或有害”被组织。利己由此具有结构根源，不只是一次错误推理。",
+            "当多个中心争夺同一资源，同一意志的不同客体化彼此排斥。一个个体的满足可能成为另一个的匮乏，自然冲突在人类行动中获得更清楚的自觉形式。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个可检验的情形",
+          "paragraphs": [
+            "救生艇只剩一个位置时，两名落水者都从自己的恐惧出发抓住船沿。形上一体不会让氧气需求消失，也不会把谁先占位的事实变得无关。",
+            "这个处境显示，个体化不是一句“大家其实相同”便能解除的错觉。现实决定会产生不可交换的伤害，伦理必须在承认差异和脆弱性的条件下展开。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "论证怎样推进",
+          "paragraphs": [
+            "同一本性之说同时为同情留下入口。若他者只是彻底异质的外物，他的痛苦为何能直接制止我的侵害？叔本华会说，在同情中，个体化屏障暂时不再拥有绝对权威。",
+            "但同情不是由背诵“一切是一”机械产生。它首先是他者痛苦成为我的直接行动理由，形上一体只是后来对这种经验何以可能的解释。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "最强异议针对从空间时间的多样性到本体一体的跳跃。即使个体性受认识形式塑造，也不必推出背后只有一个意志；可能只是我们无法以同样方式描述超经验实在。",
+            "这使一体论保持形上假说身份。它能统一自然冲突与同情，却不能仅凭“多依赖时空”便强迫所有对手接受“内在必为一”。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "回应与边界",
+          "paragraphs": [
+            "本体上一体尤其不能用于抹平受害者。若施害者说“你我其实相同，所以你的损失不重要”，他正把形上命题变成继续侵害的借口，违背同情和不伤害的方向。",
+            "一体也不取消身体边界、同意和法律归责。后面讨论永恒正义时，施害与受害同属一个意志只解释世界自我撕裂，不能表示现实伤害已经得到补偿。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "论证环节",
+          "paragraphs": [
+            "《四重根》第三类存在之根据说明空间时间关系；第一卷第二十三、二十五节把个体化接到意志显现，第六十一至六十八节再把它用于不正义、同情与否定。",
+            "这些位置形成长距离互证，不能拿伦理结论倒过来伪装认识论证明。个体化先解释显现中的多，伦理意义要经过他者痛苦和行动动机才能出现。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "由此承接",
+          "paragraphs": [
+            "个体化让同一趋求从许多中心互相竞争，为悲观主义提供结构前提，但它本身还没有证明人生的净值为负。还需考察欲求如何从匮乏开始、满足为何短暂，以及无聊怎样接替匮乏。",
+            "同一铰链也通向伦理：当他者的痛苦穿透隔绝时，同情、正义和仁爱才可能出现。两条道路会在后面分别展开，不能在此提前合并。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "救生艇只剩一个位置时，形上一体不会取消两名落水者各自的恐惧和伤害风险。它能解释冲突为何是同一世界的自我撕裂，却不能替代救济、边界与归责。",
+      "nodeIds": [
+        "S07-C1",
+        "S07-C2",
+        "S07-C3",
+        "S07-C4"
+      ],
+      "checkIds": [
+        "S07-Q1",
+        "S07-Q2",
+        "S07-Q3",
+        "S07-Q4"
+      ],
+      "abilitySummary": [
+        "能够说明个体化原理如何把一显为多、为何造成利己冲突又给同情留下入口，并阻止一体论成为抹平伤害的借口。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-08",
+      "order": 8,
+      "title": "欲望为何在痛苦与无聊之间摆动",
+      "depth": "longform",
+      "guidingQuestion": "为什么愿望实现之后，满足常常很快退场，而生活并未因此获得持久的安顿？",
+      "coreExplanation": "叔本华的悲观主义不是由坏脾气或若干不幸故事推出的。它从欲求的结构开始：欲求以匮乏为前提，未满足时形成压力，满足则只是压力暂时停止。停止本身很难成为持久的正面状态，新目标很快占据空位；若一时没有目标，意识又可能体验到空虚和无聊。因此痛苦与无聊不是严格穷尽一切经验的统计定律，而是揭示生命意志为何难以凭一次满足获得终局。",
+      "sections": [
+        {
+          "heading": "实现愿望为何没有终点感",
+          "paragraphs": [
+            "设想一个人为考试、职位或住所长期奔忙。目标尚未实现时，注意力被欠缺牢牢牵住；实现之初确有轻松和喜悦，可几天或几月后，新标准又出现。问题不在他选择了错误目标，而在满足为何不能自行封住新的欲求。",
+            "叔本华把这个反复看作生命意志的可见节律。《作为意志和表象的世界》第一卷第57节不是说每一秒都同样痛，而是追问：只要生活仍由趋求组织，幸福为什么总要依赖一个尚未稳定的条件。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "匮乏、满足与替代",
+          "paragraphs": [
+            "欲求首先把现实标记为还不够。饥饿、焦虑和渴望各不相同，却都让当下呈现为需要改变的状态。达成目标消除了某项阻力，所以满足在叔本华那里往往具有消极含义：我们清楚感到痛的离去，却未必能长期感到无痛本身。",
+            "旧压力解除后，身体、比较和想象仍在运转。新的对象会接替旧对象，已经拥有的东西也因习惯而褪色。论证所指不是某个目标虚假，而是没有哪一个有限对象能够让无终目的趋求从此完成。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "等待消息的一周",
+          "paragraphs": [
+            "一名求职者每天刷新邮箱，等待期间每个小时都被结果支配。录取消息到来时，他如释重负；随后他开始担心试用期、同事评价和下一次晋升。若暂时没有任务，他又觉得时间难以打发。",
+            "这个处境没有证明他的工作毫无价值。它显示的是，同一件事在欲求链中先作为缺少之物造成压力，后作为已获之物迅速成为背景。叔本华由这种转换寻找悲观主义的结构根据，而不是计算一次喜悦是否真实。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "稳定关系与安静满足",
+          "paragraphs": [
+            "最强的反例不是短暂享乐，而是长期友谊、照护、创作和熟练劳动。它们似乎能形成不以剧烈匮乏为中心的正面价值，并非只有疼痛解除。若这些经验成立，快乐就不能一概被定义为痛苦的空白。",
+            "这项反对迫使论证降低强度。叔本华有理由揭示适应、替代和竞争，却不能仅凭欲求反复便证明每段生命都不值得存在，更不能把关系中的承诺和成长删成自我欺骗。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "哲学悲观主义不是诊断",
+          "paragraphs": [
+            "这里的悲观主义判断生命结构，不诊断某个人的心理状态。临床抑郁涉及情绪、认知、身体和社会处境，需要现实支持；用形上学告诉受苦者痛苦必然，既不是论证的要求，也可能造成伤害。",
+            "同样，从生命含有反复匮乏跳到非存在必然更好，还需要额外的价值比较。不存在者没有一个可直接报告的立场。文本可以提出这一压力，却不能把有争议的结论伪装成由痛感自动推出。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "原典中的论证层次",
+          "paragraphs": [
+            "第一卷第56至59节把个体生命放进意志肯定、争夺和时间性的背景，第57节集中描写欲求、满足与无聊。第二卷补充第四书第46章是成熟期扩展，不能倒写成1818年首版逐字已有的段落。",
+            "《附录与补遗》中的人生智慧文字更接近日常处世和箴言。它们能提供观察，却不能替代主著的形上论证。原典身份分开以后，尖锐格言便不再冒充悲观主义的全部证明。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "结构压力转向行动问题",
+          "paragraphs": [
+            "欲求链说明行动为何不断被动机推动，却还没有回答行动者是否能在同一时刻任意选择相反行为。要处理责任，必须区分愿望的内容、促成行动的动机和相对稳定的性格。",
+            "于是下一步不是劝人少想，而是检验一句著名判断的准确含义：人可以做自己所愿，却不能随意决定自己将愿什么。这个问题把悲观主义带入自由与性格。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "求职者得到期待已久的录取后，很快转而担忧试用期。案例支持的是满足在欲求链中的位置变化，不是否定工作、成就或喜悦本身。",
+      "nodeIds": [
+        "L08-C1",
+        "L08-C2",
+        "L08-C3",
+        "L08-C4"
+      ],
+      "checkIds": [
+        "L08-Q1",
+        "L08-Q2",
+        "L08-Q3",
+        "L08-Q4"
+      ],
+      "abilitySummary": [
+        "能够从欲求结构重建悲观主义论证，并区分短暂满足、无聊、稳定价值与临床抑郁。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-09",
+      "order": 9,
+      "title": "能做所愿，却不能任意选择所愿",
+      "depth": "longform",
+      "guidingQuestion": "若行动在既定性格和充分动机下必然发生，责任、劝告与自我认识为何仍有意义？",
+      "coreExplanation": "叔本华继承康德的经验性格与理知性格之分，却改变其用途。经验性格是在时间中由行动显出的稳定规律；理知性格是这个人的无时间根据。康德借此维护一种实践自由，叔本华则把理知性格改写为个体意志的一次无时间之举，使每个具体行动在既定性格与动机相遇时必然发生。获得性格只是逐渐知道自己怎样行动，不是凭决定重造本性。这既避免随意意志论，也留下责任如何落在不可理解根据上的困难。",
+      "sections": [
+        {
+          "heading": "选择感与必然性",
+          "paragraphs": [
+            "人在决定是否说出真相时，会感到两个行动都摆在眼前。但叔本华问的不是我们能否想象两个选项，而是同一个人带着同一性格、面对同一完整动机时，能否无缘无故地走向相反结果。",
+            "《论意志自由》把身体行动自由与意愿来源分开。没有外在阻碍时，人可以按所愿行动；可若追问他为什么偏偏这样愿，答案会回到性格与动机的相遇，而非一个脱离根据的瞬间创造。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "经验性格如何显现",
+          "paragraphs": [
+            "经验性格不是一张预先可读的档案，而是人在时间中的行动规律。相似动机反复出现时，诚实、怯懦、慷慨或残酷的倾向逐渐显明。动机不是机械推力，它必须经认识进入行动者，并依其性格获得不同分量。",
+            "因此同一威胁对不同人可能产生逃跑、抵抗或保护他人的行动。必然性并不要求人人同样反应，而要求在一个人的完整性格与被认识的充分动机既定时，行动有其确定根据。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "从康德继承而来的区分",
+          "paragraphs": [
+            "康德在《纯粹理性批判》A539/B567前后区分经验性格与理知性格：同一行动在现象序列中受自然因果说明，同时可被联系到不在时间中的根据。这个来源必须先标明，不能把术语当作叔本华独创。",
+            "叔本华在第一卷第55节和《论意志自由》中把区分推向决定论方向。理知性格成为个体无时间的意志之举，经验生活则是它在各种动机下的展开；这比康德更强调性格恒定，也削弱康德想保留的实践自发性。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "劝告为何仍能改变行动",
+          "paragraphs": [
+            "一位容易冲动的人得知公开回击会让同事遭受连带处罚。新信息进入他的认识，成为先前不存在的动机；即使性格未被重造，他仍可能克制回击。劝告有效，不是因为它绕开因果，而是因为它加入了因果性的动机网络。",
+            "获得性格则出现在他逐渐认识自己的限度时。他知道疲惫时容易失控，便避开某些场合。这里改变的是自知、环境和可用动机，不必声称无时间的本性被一次决心重新制造。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "性格真的不可改变吗",
+          "paragraphs": [
+            "学习、创伤、治疗和社会关系都可能带来深刻变化。若把一切变化都说成原有性格终于显露，理论会变得无法反驳，也会低估发展与制度塑造。超时间之举又不可经验，容易沦为给决定论保留责任的标签。",
+            "叔本华可以回答，知识和动机的变化足以解释许多行为转折，但这不能证明性格严格不变。现代经验对可塑性的揭示构成真实边界，不能用获得性格这个概念预先消解。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "责任不等于报复",
+          "paragraphs": [
+            "行动有必然根据，不表示伤害无需阻止。规则、劝告、治疗和惩戒都会成为新的动机；制度还须保护可能受害的人。理知性格的形上说法尤其不能用来淡化现实行为的归责。",
+            "更困难的是，若一个人的根本性格源于无时间之举，而这个举动又无法被理解，责任究竟如何归属便没有获得透明解释。体系留下的是自由位于是什么而非每次做什么的命题，不是一个可直接操作的司法标准。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从被动机牵引到暂时观看",
+          "paragraphs": [
+            "行动世界中的认识通常服务意志：它辨认危险、机会与手段，并把对象放进我的目的。若认识始终只能如此工作，欲求压力就没有暂停的窗口。",
+            "叔本华由此转向审美经验，考察注意是否可能暂时不问对象对我有什么用。那不是改造理知性格，也不是获得道德自由，而是让认识短暂脱离动机服务。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "冲动者因得知连带后果而克制回击，说明劝告能够作为新动机改变行动；它不证明性格可由纯粹命令任意重造。",
+      "nodeIds": [
+        "L09-C1",
+        "L09-C2",
+        "L09-C3",
+        "L09-C4"
+      ],
+      "checkIds": [
+        "L09-Q1",
+        "L09-Q2",
+        "L09-Q3",
+        "L09-Q4"
+      ],
+      "abilitySummary": [
+        "能够说明康德区分的来源、叔本华的决定论改写，以及经验性格、理知性格、获得性格和现实责任的不同层次。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-10",
+      "order": 10,
+      "title": "观看何时暂时不再服务欲望",
+      "depth": "longform",
+      "guidingQuestion": "人能否暂时不按用途、危险和占有价值看对象，而让认识从意志的差遣中松开？",
+      "coreExplanation": "审美经验在叔本华那里是一种注意方式的改变。日常认识沿充足理由律追踪对象与我的关系，审美直观则暂时搁置这些关系，使认识者成为纯粹认识主体，并在个别对象中把握理念。美发生于这种平静的脱离；崇高还保留对象对身体的威胁或压倒性，却让认识不被自保焦虑完全占据。它能暂缓欲求，却不是持续伦理转变，更不证明欣赏者具有善良性格。",
+      "sections": [
+        {
+          "heading": "一棵树如何不只是资源",
+          "paragraphs": [
+            "日常看树时，我们会想到遮阴、木材、路况或所有权。对象立刻进入我的计划，认识替意志寻找手段。可有时注意停留在枝干的张力、树冠的生长形式和光线变化上，用途问题短暂退后。",
+            "叔本华不是说对象失去现实关系，而是说注意可以不由这些关系统治。审美问题由此出现：认识能否暂时摆脱个体欲求，在个别树中把握比这棵树的地点和用途更稳定的形态。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "纯粹认识主体与理念",
+          "paragraphs": [
+            "沿理由律认识时，我们问对象在哪里、何时出现、由什么造成、对谁有用。审美直观不否认这些答案，而是暂不追问。认识者不再突出自己的履历和目标，因而被称为纯粹认识主体。",
+            "与之相应，对象不只作为因果链中的一个个体出现，而被看作理念的显现。理念在叔本华体系中指意志客体化的等级；它不是头脑随意概括的概念，也不是从许多事例统计出的共同标签。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "陌生城市中的石桥",
+          "paragraphs": [
+            "赶路者看桥，只问是否更快到站。停步观看时，他注意拱券如何把重量传向桥墩，石材的坚硬又如何抵抗重力。相同对象没有变，改变的是它与个人目的之间的支配关系。",
+            "这几分钟不能偿清债务或解决冲突，却可能让焦虑暂缓。叔本华把安静感归因于认识暂时不再为欲求奔忙，而不是归因于桥向观看者传递了某种道德讯息。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "美与崇高的差别",
+          "paragraphs": [
+            "美让纯粹观看较平稳地发生，对象似乎邀请注意离开个人利益。崇高则包含抵抗：荒漠、风暴或巨大山体会提醒个体的脆弱，意志的自保要求仍在场。",
+            "当人不否认危险，却在安全条件下把注意提升到非个人的观看，崇高才出现。它不是冒险冲进风暴，也不是假装身体不会受伤，而是在威胁表象与认识独立之间保持张力。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "观看真的能没有利害吗",
+          "paragraphs": [
+            "人的审美注意受训练、阶层、身体能力和文化经验影响。博物馆中的从容可能依赖他人的劳动，所谓纯粹观看也可能把自身位置误认成无位置。心理上完全无欲是否可能，同样值得怀疑。",
+            "这些异议削弱的是彻底脱离的强说法，却不必否认注意能够相对松动。更稳妥的解释是：用途、自保和占有暂时不再主导意识，而不是主体变成没有身体与历史的透明眼睛。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "休止不是救赎",
+          "paragraphs": [
+            "审美状态结束后，饥饿、责任与冲突仍会回来。它改变的是一段时间中的认识方向，没有证明意志被永久否定。把短暂宁静说成伦理完成，会跳过同情、正义与生活转向。",
+            "审美能力也不保证德性。一个人可以敏锐欣赏悲剧，同时在现实中残酷待人。叔本华关于天才的论述属于认识能力，不应被改写为艺术家享有道德豁免。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从观看方式到艺术任务",
+          "paragraphs": [
+            "若审美直观能够把握理念，艺术便不只是制造悦感，而是使这种观看更容易持续和共享。不同艺术面对的材料与客体化等级不同，因此叔本华会谈论层级。",
+            "层级的根据必须逐项说明，不能成为个人喜好排行榜。接下来要看建筑如何显出重力与刚性的冲突，诗和悲剧又如何显出人的性格、动机与意志自争。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "赶路者停看石桥，注意从路线用途转向重量、材料与形式；对象未变，个人目的暂时不再支配观看。",
+      "nodeIds": [
+        "L10-C1",
+        "L10-C2",
+        "L10-C3",
+        "L10-C4"
+      ],
+      "checkIds": [
+        "L10-Q1",
+        "L10-Q2",
+        "L10-Q3",
+        "L10-Q4"
+      ],
+      "abilitySummary": [
+        "能够区分日常理由关系、纯粹认识主体、理念、美与崇高，并准确限定审美解脱的短暂性。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-11",
+      "order": 11,
+      "title": "艺术为何从重力走向悲剧",
+      "depth": "longform",
+      "guidingQuestion": "叔本华排列艺术的根据是什么，为什么这种排列不是一张永恒有效的趣味名次表？",
+      "coreExplanation": "艺术层级依照作品使人认识何种意志客体化等级而建立。建筑呈现重力与刚性的较低层冲突，造园和植物表现生命形态，雕塑与绘画显出动物和人的身体、性格，诗尤其能通过概念唤起直观，悲剧则展示意志在人类动机与命运中的自我冲突。天才只是较持久地保持客观认识的能力，不是道德高贵。这个体系解释了排序标准，也因固定自然种类、偏重再现和欧洲艺术而受到限制。",
+      "sections": [
+        {
+          "heading": "排序需要一个尺度",
+          "paragraphs": [
+            "若只说悲剧高于建筑，读到的只是作者偏好。叔本华必须回答，高低依据价格、技巧、情绪强度，还是作品显出的世界层次。没有共同尺度，艺术层级就无法成为体系论证。",
+            "他的尺度来自意志客体化：艺术让理念脱离日常用途而可见，所呈现的等级从无机力到有机生命，再到人的性格和冲突。排序因而承接自然哲学，而不是从博物馆目录起步。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "建筑中的力量",
+          "paragraphs": [
+            "建筑首先使重力与刚性相互显现。柱承受重量，拱把下坠趋势分配到支点，材料不是被装饰遮住，而是在抵抗中表现其力量。建筑之美不只来自方便居住。",
+            "这并不表示建筑没有用途。审美观看暂时把用途退后，注意材料与力的稳定冲突。它所呈现的客体化等级较低，是因为尚未进入有机体的复杂性，不是因为建筑劳动较轻或价值较小。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "从生命形态到人的性格",
+          "paragraphs": [
+            "造园、植物描绘和动物形象让生长、姿态与物种形式进入观看。雕塑与绘画进一步呈现人的身体、神情和性格，使意志的个体化获得更丰富的可见形式。",
+            "诗使用抽象词语，却借想象重新唤起直观。它能够展开行动在时间中的动机联系，所以比单一瞬间更适合表现人的性格如何在阻力与选择中显露。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "悲剧中的双重失败",
+          "paragraphs": [
+            "一出悲剧让两个各有理由的人因忠诚、欲望和制度位置走向冲突。观众看到的不是一位恶人偶然破坏幸福，而是意志通过不同个体坚持自身，最终让胜利也携带损失。",
+            "悲剧因此显出意志同自己争斗。它可能使观看者对个人目标的绝对性产生距离，但这不是说每场苦难都应被美化，也不是要求现实受害者把伤害当作有益表演。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "天才的有限含义",
+          "paragraphs": [
+            "第一卷第42至51节把艺术门类与理念认识相连，第二卷补充第三书第31、34至38章作成熟展开。天才指认识暂时超出个人目的的能力较强、较持久，不是神秘血统。",
+            "认识上的客观性不等于伦理上的无私。天才可能仍然自私、失信或残酷；把创作能力变成道德豁免，恰好混淆了审美休止和同情行动。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "层级遗漏了什么",
+          "paragraphs": [
+            "固定层级偏爱再现理念的艺术，难以安置抽象艺术、工艺、参与式实践和许多非欧洲传统。把物种形式视为恒定理念，也会受到进化与历史变化的挑战。",
+            "这些反例不必让所有比较失去意义，却表明叔本华的尺度只是体系内尺度。我们可以重建他为何排序，同时拒绝把排序当成跨文化、跨时代的终审判决。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "体系尺度不是永恒裁判",
+          "paragraphs": [
+            "层级可以解释叔本华怎样把艺术论接到自然形上学，却不能据此取消门类自身的历史、功能与文化语境。较低客体化等级也不意味着作品较少需要技艺或较少值得保存。",
+            "同样，天才概念只说明较持久的客观认识。它既不赋予创作者社会特权，也不允许艺术成就抵销现实伤害。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "音乐为何需要另问",
+          "paragraphs": [
+            "到悲剧为止，艺术仍以不同方式呈现理念。音乐却没有必须对应的树、身体或行动故事，也能形成紧张和释放。若它只是最高理念的摹本，例外便尚未得到说明。",
+            "叔本华因此改变论证类型，称音乐与意志本身平行，而非经理念间接摹写。这个大胆转向不能藏在层级末端，需要独立检验其类比力量和文化边界。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "悲剧中的双方各自坚持可理解的目标，胜负却共同显出意志在个体化条件下的自我冲突；这不构成美化现实伤害的理由。",
+      "nodeIds": [
+        "L11-C1",
+        "L11-C2",
+        "L11-C3",
+        "L11-C4"
+      ],
+      "checkIds": [
+        "L11-Q1",
+        "L11-Q2",
+        "L11-Q3",
+        "L11-Q4"
+      ],
+      "abilitySummary": [
+        "能够用客体化等级解释建筑、造园、造型艺术、诗与悲剧的差异，并指出层级和天才论的边界。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-12",
+      "order": 12,
+      "title": "音乐为何不是层级表的最后一格",
+      "depth": "longform",
+      "guidingQuestion": "音乐没有必然描绘具体对象，叔本华为何仍认为它比其他艺术更直接地触及意志？",
+      "coreExplanation": "叔本华在第一卷第52节给予音乐例外身份：其他艺术摹写理念，音乐却被比作意志本身的直接摹本。旋律的趋向、延宕、偏离与归返对应欲求、阻力和满足，低音与声部关系则被类比为客体化等级。这里不是因果证明，而是结构类比；它解释音乐为何能在没有明确故事时仍显得富有意义，却受欧洲调性和声经验限制，也不能由声学实验验证形上学。",
+      "sections": [
+        {
+          "heading": "没有故事的意义",
+          "paragraphs": [
+            "一段器乐没有说出某个人在等待什么，听者仍可能感到趋向、悬置与归返。若艺术的任务只是复制可见对象，音乐的这种意义感便难以安置。",
+            "把音乐放在艺术层级顶端仍不够，因为层级内其他艺术通过理念间接呈现意志。叔本华要主张的是关系改变：音乐不先摹写树、人或悲剧行动，再借它们通向意志。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "直接摹本的大胆说法",
+          "paragraphs": [
+            "第一卷第52节把世界和音乐称作同一内在本性的两种表达。音乐不复制现象，却以时间结构展示冲动如何展开。这是直接性的形上比拟，不是说声音本身离开表象形式成为物自体。",
+            "因此直接仍有限定。音乐作为被听见的对象处在时间中，依赖身体、乐器和文化；所谓直接，是相对于经由具体理念的艺术路径，而不是取消主体与客体。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "旋律的离开与归返",
+          "paragraphs": [
+            "旋律从稳定音出发，经过延宕和不协和，迟迟不落到期待位置。听者感到未完成的牵引；当归返发生，松弛随即出现，却又可以开启新的走向。",
+            "叔本华把这种动态类比欲求、阻碍和满足。类比的力量来自形式相似，不要求旋律秘密讲述求职、饥饿或爱情，也不意味着作曲者在编码一套形上命题。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "声部与客体化等级",
+          "paragraphs": [
+            "他还把持续低音类比自然中较低的客体化层次，把上方声部和旋律类比更复杂的生命与意识。多个声部在同一整体中各循其路，仿佛同一意志的等级同时显现。",
+            "这套说明承接自然等级，却没有从音程事实必然推出本体论。即使分析完全符合某种乐曲，也只能显示哲学解释与音乐结构能够互相照明。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "调性经验的边界",
+          "paragraphs": [
+            "趋向主音、制造不协和再解决，是欧洲调性音乐中的重要经验，却不能代表所有音乐。不同调律、节奏中心、即兴传统和非目的性声音实践，未必遵循同样的离开与归返。",
+            "若理论只在熟悉的和声语法中显得自然，它就不能自称揭示音乐本质。更合适的态度是把它看成富有生产力的解释模型，并让不同音乐传统检验其适用范围。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "类比不是实验结果",
+          "paragraphs": [
+            "听见紧张不等于测出了物自体，脑成像或声学分析也不能直接证明世界本性是意志。经验研究可以说明期待和情绪反应，却无法替形上桥梁提供决定性证成。",
+            "后来的作曲家利用这一理论，也不改变原典身份。瓦格纳的阅读、戏剧构想与政治立场属于接受史，不能倒署成叔本华第52节已经包含的结论。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从暂时共振到现实他者",
+          "paragraphs": [
+            "音乐能让听者暂时从私人目标退后，却仍属于审美休止。旋律中的共同紧张感不自动使人愿意承担另一个生命的具体痛苦。",
+            "伦理转向必须进入现实相遇：当他者受伤时，他的福祸能否直接成为我的动机。这个问题不能靠艺术层级回答，需要同情作为新的经验入口。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "调性旋律经历延宕、不协和与归返，提供欲求、阻碍和满足的结构类比；它没有把某个具体故事编码进音符。",
+      "nodeIds": [
+        "L12-C1",
+        "L12-C2",
+        "L12-C3",
+        "L12-C4"
+      ],
+      "checkIds": [
+        "L12-Q1",
+        "L12-Q2",
+        "L12-Q3",
+        "L12-Q4"
+      ],
+      "abilitySummary": [
+        "能够解释音乐的例外身份、旋律与声部类比，并区分形上解释、经验研究和后世接受。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-13",
+      "order": 13,
+      "title": "他人的痛苦如何成为我的行动理由",
+      "depth": "longform",
+      "guidingQuestion": "当帮助不会给自己带来好处时，他者的福祸怎样仍能直接推动行动？",
+      "coreExplanation": "叔本华在《论道德的基础》中拒绝把道德只建立在抽象命令或奖惩计算上。他寻找一种非利己动机：同情使他者的痛苦不再只是被观察的事实，而直接成为我避免伤害或提供帮助的理由。不伤害发展为正义，积极减苦发展为仁爱；形上一体性是对这种经验的后置解释，不是先背诵命题才产生善行。动物能够受苦，因此同情也检验道德是否真正越过物种边界。但共感可能偏私、受操纵或替他者做主，制度与判断仍不可省略。",
+      "sections": [
+        {
+          "heading": "利益之外的动机",
+          "paragraphs": [
+            "一个陌生人在站台跌倒，扶他可能耽误自己的车。若行动只来自自身利益，帮助就只能解释为期待回报、避免内疚或维护名声。叔本华认为，这种还原遗漏了他者痛苦直接触动我的可能。",
+            "伦理问题不是证明每次帮助都纯粹，而是寻找何种动机一旦真实出现，能使行动的终点落在他者福祸上。《论道德的基础》把这个动机称为同情。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "共同感受不等于身份消失",
+          "paragraphs": [
+            "同情要求我以某种方式分担他者的不幸，使他的痛苦成为我的行动根据。但我仍知道痛发生在他身上，否则便无法围绕他的需要行动。边界被穿透，不等于两个人经验上合并。",
+            "这一区别很重要。若我只沉浸在自己的难受里，帮助可能只是为了让自己舒服；若我完全替他决定，又会吞没他的主体性。同情要把注意送向他者，而不是把他者吸收进自我。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "站台上的选择",
+          "paragraphs": [
+            "赶车者看到老人跌倒，先确认对方是否愿意被扶，再呼叫工作人员并留到支援到来。他错过列车，却没有把自己的牺牲表演成债务，也没有假定老人必然需要同一种帮助。",
+            "案例显示，同情并非情绪越强越好。共同感受提供非利己动机，观察、询问和能力判断决定怎样帮助。正确行动不能由一阵情感自动保证。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "从不伤害到积极帮助",
+          "paragraphs": [
+            "当他者痛苦成为直接理由，最初的约束是停止把自己的肯定推进到他者领域，这构成正义的不伤害面。进一步把他者福祉作为目的，则形成积极仁爱。",
+            "叔本华把形上一体性放在后面解释：同情仿佛让个体化造成的绝对隔绝出现裂缝。但一个人无需先接受世界意志一体论才可能同情，经验动机与形上说明不能倒置。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "动物让边界接受检验",
+          "paragraphs": [
+            "如果关键是痛苦能直接成为行动理由，物种身份就不能自动排除动物。动物会受伤、恐惧和承受折磨，因此残酷对待动物显示的不是礼仪欠佳，而是道德动机的缺失。",
+            "叔本华借此批评仅把动物当作手段的传统。这个洞见也反过来要求审查他对不同人群的偏见：跨物种同情不能抵销对女性或族群的贬损，二者并存正构成体系与作者判断之间的张力。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "同情也会失准",
+          "paragraphs": [
+            "人更容易同情面孔熟悉、故事生动的近者，对统计性或遥远痛苦反应较弱。情绪还可能被操纵，持续共感会耗竭，强烈怜悯有时反而把受助者当成无能力者。",
+            "所以同情可以说明非利己动机的发生，却不能独自分配资源、设计制度或判断复杂后果。原则、事实调查和受影响者的声音仍然必要。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "感受到不等于帮助正确",
+          "paragraphs": [
+            "同情的道德价值在于他者福祉直接成为目的，不在于帮助者的情绪强度。怎样行动仍须询问需要、评估后果并尊重拒绝。",
+            "动物伦理的洞见也不能替作者其他偏见抵账。对一种生命的敏感，不会自动撤销对另一群人的贬损判断。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "动机如何成为公共边界",
+          "paragraphs": [
+            "同情发生在具体相遇中，社会却不能等待每个人都产生同样强烈的感受。权利、法律和国家必须把不侵害要求转成可执行边界，即使行动者只有谨慎或畏惧惩罚的动机。",
+            "这会带出两种不同的正义：法律与暂时正义处理现实保护和归责；第一卷第63节的永恒正义则试图从同一意志解释世界痛苦。二者绝不能互相替代。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "赶车者先询问跌倒者需要，再呼叫支援；同情提供行动理由，事实判断与尊重同意决定帮助方式。",
+      "nodeIds": [
+        "L13-C1",
+        "L13-C2",
+        "L13-C3",
+        "L13-C4"
+      ],
+      "checkIds": [
+        "L13-Q1",
+        "L13-Q2",
+        "L13-Q3",
+        "L13-Q4"
+      ],
+      "abilitySummary": [
+        "能够解释同情作为直接非利己动机、不伤害与仁爱的分化、动物伦理检验及同情的偏私边界。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-14",
+      "order": 14,
+      "title": "从暂时正义到永恒正义",
+      "depth": "longform",
+      "guidingQuestion": "法律保护、道德不侵害与第一卷 §63的永恒正义分别回答什么，为什么形上一体绝不能用来责难受害者？",
+      "coreExplanation": "暂时正义在个体化世界中处理现实侵害：不正义是一个人的意志肯定侵入他者领域，权利界定防卫范围，国家借威慑约束行为，却不能制造道德动机。仁爱则积极减轻痛苦。第一卷第63节的永恒正义不是法律或未来报应，而是形上解释：施害者与受害者作为现象彼此分离，从意志层面却是同一意志的不同客体化，施加与承受痛苦属于世界意志对自身的撕裂。这一说法若进入案件处置，会抹平权力差异并诱发受害者责难，因此不得取消归责、救济、同意或保护。",
+      "sections": [
+        {
+          "heading": "三种问题不能混答",
+          "paragraphs": [
+            "遭受侵害的人首先需要安全、停止伤害、证据保存与现实救济。此时问法院如何归责，与问行动是否出于纯粹同情不同；再问世界为何让施害和受害同时可能，又进入形上层次。",
+            "叔本华使用暂时正义与永恒正义，很容易造成误会。前者关乎个体世界中的权利和侵害，后者不是更高法院，而是第一卷第63节对意志自我冲突的说明。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "不正义、权利与国家",
+          "paragraphs": [
+            "当一个个体为加强自己的生命肯定而支配、伤害或夺取他者，自己的意志范围侵入他者的显现，不正义便发生。正义首先表现为克制这种侵入，权利则标示可以抵抗侵害的边界。",
+            "国家以公开规则和威慑改变行为动机，使潜在施害者考虑后果。它能减少侵害、提供程序和救济，却不能凭强制把利己性格变成同情性格。国家不能制造德性，不表示制度不重要。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "仁爱超出不侵害",
+          "paragraphs": [
+            "一个人没有主动伤害邻居，只满足了暂时正义的消极要求。若他进一步把邻居的困境当作行动理由，付出时间和资源减轻痛苦，便进入积极仁爱。",
+            "两者都可由同情滋养，却承担不同任务。不侵害建立可普遍要求的底线，仁爱回应具体需要。把二者合成模糊善心，会让权利边界失去可执行性。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "第63节的形上转向",
+          "paragraphs": [
+            "第一卷第62节讨论财产、侵害、国家与暂时正义，第63节转向永恒正义。个体化使施害者和受害者显为两个存在，但若他们都是同一意志的客体化，意志便在一处造成痛苦、在另一处承受痛苦。",
+            "所谓永恒，不指多年后同一个人必得相称惩罚，也不需要世界记账。它指意志的肯定与世界全部苦难不可分：施害和受害属于同一世界本性的自我撕裂。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "受害者面前的错误用法",
+          "paragraphs": [
+            "一名雇员遭上级长期胁迫。若管理者说双方本体同一，所以冲突已在更高层面平衡，便是在用形上语言逃避调查、隔离施害者和补偿损失。",
+            "正确次序是先承认经验个体、权力差异和可归责行动，立即保护受害者并提供救济。永恒正义至多解释叔本华为何认为暴力揭示意志自争，不能成为处理案件的规范。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "同一意志会抹平伤害吗",
+          "paragraphs": [
+            "最强异议指出，把施害者与受害者归为同一意志，可能暗示受害者在深层伤害自己，或苦难已经得到补偿。这会消除权力差异，把责任从施害者移向受害者。",
+            "这一风险不能靠善意措辞消失。若形上解释与保护受害者冲突，现实保护拥有优先地位；本体一体不改变谁实施了行为、谁承受了后果，也不改变同意是否存在。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "形上说明不得替代救济",
+          "paragraphs": [
+            "永恒正义不能用来责难受害者、劝其沉默、拒绝赔偿、取消法律责任或宣称伤害已被宇宙平衡。它也不是业报学说的同义词，印度格言在文本中只能标作叔本华的解释资源。",
+            "反过来，法律裁决也不证明行动者拥有同情德性。外在守法、道德不侵害、积极仁爱与永恒正义分别处于制度、动机和形上说明的不同层次，只有分开才不互相冒充。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "正义之后仍有生命肯定",
+          "paragraphs": [
+            "正义者限制自己的侵入，却未必停止身体、自保、爱欲和家庭计划。叔本华会把这些活动看作生命意志仍在肯定自身，因此正义不等于意志否定。",
+            "下一步要看爱欲如何以个人幸福的面貌服务生殖和物种延续。那一分析也携带性别与遗传偏见，必须在说明生命肯定时保留批判距离。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "雇员受上级胁迫时，形上一体不能替代调查、保护与救济。经验层面的施害者、受害者、权力差异和责任必须保持清楚。",
+      "nodeIds": [
+        "L14-C1",
+        "L14-C2",
+        "L14-C3",
+        "L14-C4"
+      ],
+      "checkIds": [
+        "L14-Q1",
+        "L14-Q2",
+        "L14-Q3",
+        "L14-Q4"
+      ],
+      "abilitySummary": [
+        "能够区分不正义、权利、国家、仁爱、暂时正义与永恒正义，并识别同一意志论证中的受害者风险。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-15",
+      "order": 15,
+      "title": "当爱情说“为了你”，是谁在借它说话",
+      "depth": "longform",
+      "guidingQuestion": "个人最私密的爱欲，为什么会被叔本华解释为生命意志在物种尺度上的肯定？",
+      "coreExplanation": "叔本华把性爱当成一个反透明性的试验：行动者体验到的是对某个独特个人的迷恋，生命过程显出的却是择偶、生殖和后代组合。所谓物种意志并非一个会盘算的集体头脑，而是生命冲动在个体欲望中显现出的尺度差异。",
+      "sections": [
+        {
+          "heading": "私人感受里的尺度错位",
+          "paragraphs": [
+            "爱情常以最私人、最不可替代的口吻出现。一个人相信自己追求的是与某位独特对象共同生活，情感的强度也似乎证明目的就在两个人之间。叔本华却问：为何这种感受会突然压倒职业、名誉、友谊和安全，甚至让清醒判断失去支配力？",
+            "他的回答不是说爱情虚假，而是说当事人对自身动机并不透明。意识把欲望翻译为个人幸福，身体过程却把个体卷入生命的延续。两种描述针对不同尺度：前者说明感受如何被体验，后者试图说明这种感受为何拥有异乎寻常的迫切性。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "物种仿佛在选择",
+          "paragraphs": [
+            "《作为意志和表象的世界》第二卷第44章以“物种的天才”描写这种尺度差异。某些面貌、体态、年龄和性状被赋予强烈吸引力，仿佛生命在借个体选择可能的后代。这里的“仿佛”十分关键，它是一种功能性解释，不表示物种拥有意识、计划或道德目的。",
+            "若把物种写成幕后策划者，就会把无意识意志重新人格化。叔本华的意志没有预见未来的理智；生殖冲动只是生命肯定自身的一种强烈表现。个体可能从关系中得到幸福，也可能受骗、失望或冲突，生命过程并不保证个人福祉。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个承诺冲突的处境",
+          "paragraphs": [
+            "设想一位原已决定远行的人，在短时间内因强烈迷恋放弃多年计划。朋友说他不理性，他却觉得此前的计划反而苍白。叔本华会把这种注意力和价值次序的骤变视为证据：理智通常替欲望寻找理由，却未必生成欲望。",
+            "这个处境不能证明每次恋爱都以生育为实际结果。它说明的只是动机可能携带超出自我叙述的生命功能。避孕、无生育愿望、同性关系或不育关系都提醒我们，体验、行为和生殖后果之间不存在简单的一一对应。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "肯定并非一张道德罪状",
+          "paragraphs": [
+            "第一卷第54至62节所说的生命意志肯定，先是一种形上描述：意志在身体、自保、性爱、占有和代际延续中愿其显现继续。它不等于说吃饭、依恋或生育本身已经构成道德过错，也不要求把普通生活都涂成羞耻。",
+            "关键区分在于，肯定可以停留在不侵害他人的范围，也可以在利己扩张中越过他人身体和自由。正义者能够限制侵害，却仍眷恋自身生命；因此伦理上的克制与更彻底的意志否定并非同一个门槛。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "遗传猜测与规范盲点",
+          "paragraphs": [
+            "叔本华把许多择偶偏好解释为后代性状的补偿，还把男女、族群和遗传写进一套大胆推测。这些段落具有明确的十九世纪科学背景，不能借现代进化论的语言获得追认。自然选择理论也不会自动支持他的具体性别角色或身体等级。",
+            "更严重的是，异性生殖被当成爱情的普遍模型，会遮蔽没有生育目标的亲密关系，也容易把人降为物种工具。其解释或许揭示动机不透明，却没有因此取得规定何种关系更有价值的资格。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "最强异议：爱不止是伪装",
+          "paragraphs": [
+            "强异议指出，亲密关系包含照护、共同记忆、承诺和相互承认，把它们统摄为物种的诡计会抹掉个人间真实生成的价值。即使欲望具有生物背景，也不能由起源直接推出意义；一首歌由声波实现，不代表它的意义只是声波。",
+            "这项异议击中了叔本华解释的还原倾向。较稳妥的回应是保留一个有限洞见：我们对欲望的理由并非全然自知，身体与延续会影响选择。但它不能裁定全部爱情的真义，更不能让生殖结果凌驾于同意、平等和照护。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从出生转向死亡",
+          "paragraphs": [
+            "性爱把个体指向尚未出现的生命，也显出生命意志不以某一个人的计划为中心。一个人的欲望可能服务于超过其寿命的过程，这为理解叔本华谈死亡时的尺度转换作了准备。",
+            "可是，从物种延续到“我不会真正死亡”之间仍隔着一道鸿沟。后代、物种和自然循环可以继续，并不保存我的记忆、关系和第一人称意识。下一步必须问清：叔本华所称不可毁灭的究竟是谁。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一对伴侣深信关系的价值在共同照护而非生育。叔本华的框架可以提醒他们欲望未必对自身来源透明，却不能据此否定这段关系的价值，也不能把“物种”当作有权替他们决定生活的主体。",
+      "nodeIds": [
+        "c15-01",
+        "c15-02",
+        "c15-03",
+        "c15-04"
+      ],
+      "checkIds": [
+        "q15-01",
+        "q15-02",
+        "q15-03",
+        "q15-04"
+      ],
+      "abilitySummary": [
+        "能够区分爱情的第一人称意义、物种尺度的功能解释和无意识生命意志，并指出该理论的生殖预设及规范边界。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-16",
+      "order": 16,
+      "title": "死亡之后留下的，不是另一个我",
+      "depth": "longform",
+      "guidingQuestion": "当叔本华说我们的真实本性不随死亡毁灭时，他为何没有许诺个人灵魂不朽？",
+      "coreExplanation": "出生与死亡发生在时间、空间和因果秩序中的个体现象上。叔本华认为作为内在本性的意志不由这个个体开始，也不随他终止；但这种非人格延续不会保存姓名、记忆或第一人称意识，因此不能偷换成个人不朽。",
+      "sections": [
+        {
+          "heading": "恐惧针对哪一种消失",
+          "paragraphs": [
+            "人害怕死亡，往往不是抽象地担心生命现象减少，而是担心这个视角、这些记忆和这些关系停止。若有人回答“物种还会繁衍”，这种回答可能真实，却并未触及恐惧所指的个人。",
+            "叔本华从第一卷第54节及第二卷第41至43章转换尺度：个体在时间中出生和死亡，生命意志却不是一件在某日被制造、又在某日被消灭的对象。他试图削弱个体把自己当作存在中心的执著。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "个体化形式中的终点",
+          "paragraphs": [
+            "我们彼此分离，是因为同一世界在空间中呈现为此处与彼处，在时间中呈现为出生与终结。身体和意识都属于这种个体化秩序。死亡因此真实地结束一个经验主体的感受、回忆和行动可能。",
+            "这不是把死亡宣布为幻觉。所谓表象仍具有经验现实性，失去一个人也构成不可替代的损失。形上层面的同一性并不会让葬礼上的空位消失，更不会把哀悼者的痛苦说成认识错误。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "不可毁灭的主语",
+          "paragraphs": [
+            "叔本华所说的不可毁灭，主语是作为物自体线索的意志，而不是带着身份证明的个人。意志在无数生命形式中持续客体化，这个过程不依赖某个个体的意识继续见证。",
+            "因此“我的真实本性不灭”是一句危险的压缩。若“我的”指人格与记忆，它并未得到论证；若指在我身上显现的意志，那个主语已经不再属于我个人。安慰由此付出代价：保存的是非人格根基，不是熟悉的自我。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "树下的一次尺度转换",
+          "paragraphs": [
+            "设想某人面对老树枯死，看见种子、幼树与生态循环仍在继续。他可以由此理解形态更替并非生命过程的停止，却不能声称原来那棵树的具体年轮、枝形与经历转移到了幼树。",
+            "叔本华借物种延续和自然循环作类似的尺度转换。这个类比能松动“只有我的持续才算存在”的狭窄视角，却不足以证明意识迁移，更不提供辨认前世或来世人格的机制。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "轮回、灵魂与能量守恒的误接",
+          "paragraphs": [
+            "把这种观点叫作传统灵魂不朽，会把无人格意志重新变成一件持有记忆的实体。把它叫作轮回证明，也会越过叔本华实际论证，因为不同印度传统对自我、业与再生的理解并不相同。",
+            "另一种现代化误接是援引能量守恒。物理量在封闭系统中的守恒，不会推出经验主体的意义或意识得以保存。叔本华提出的是形上解释，不是十九世纪物理学已经验证的个人存续理论。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "最强异议：安慰是否偷换对象",
+          "paragraphs": [
+            "强异议说，当一个人问“我会不会消失”，回答“非人格意志仍在”只是更换了问题。它或许解释自然为何继续，却没有拯救提问者所珍视的自我。若仍把它称为不朽，就容易利用同一个代词制造错觉。",
+            "叔本华能够回应的是，死亡恐惧夸大了个体化的终极地位；他不能由此保证个人连续。其观点的力量在改变价值视角，而非提供身份保存。承认这一限制，反而能防止把哲学慰藉包装成宗教承诺。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "死亡怎样逼出两种方向",
+          "paragraphs": [
+            "认识到个体会消逝，可以激发两种相反方向。其一是更急切地肯定生命，通过自保、后代、作品或记忆延长痕迹；其二是看见所有个体共同受制于生灭，从而减弱对独占性自我的执著。",
+            "后一个方向尚不是意志否定。对死亡有正确概念，不会自动改变动机。真正的难题在于：一个表现为无休止趋求的意志，如何可能在认识中转向而不再肯定自身。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "临终者问自己的记忆是否会保存。依据叔本华，只能说个体化背后的生命根基不以此人始终；不能承诺他的记忆继续存在。照护者仍应承认具体离别，而不以形上同一取消哀伤。",
+      "nodeIds": [
+        "c16-01",
+        "c16-02",
+        "c16-03",
+        "c16-04"
+      ],
+      "checkIds": [
+        "q16-01",
+        "q16-02",
+        "q16-03",
+        "q16-04"
+      ],
+      "abilitySummary": [
+        "能够说明个体死亡、物种延续与意志的非人格持续之间的差异，并识别个人不朽的主语偷换。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-17",
+      "order": 17,
+      "title": "不再愿求，为什么不是把自己压垮",
+      "depth": "longform",
+      "guidingQuestion": "意志否定若不是普通压抑、自杀或身体仇恨，它究竟指向怎样的认识与动机转向？",
+      "coreExplanation": "意志否定不是由理智下令消灭每个欲望，而是对个体化背后共同痛苦的洞见改变了动机的效力。禁欲行为在叔本华那里只是这种转向的现象性征候；同样行为若来自恐惧、强迫或权威服从，便不能据外形认作否定。",
+      "sections": [
+        {
+          "heading": "从命令欲望到改变欲望",
+          "paragraphs": [
+            "若把悲观主义理解为“欲望造成痛苦，所以命令自己不要欲望”，就会立刻陷入悖论：压制欲望的命令本身也是一种强烈欲求，失败时还会增加羞耻。叔本华所谓否定并非理智对身体发布纪律。",
+            "第一卷第68至71节描写的是认识改变动机结构。个体不再把自己的得失视为终极中心，并在众生痛苦中认出同一意志的自我冲突。欲望不是被外力堵住，而是失去原有的诱惑权重。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "禁欲只是可见征候",
+          "paragraphs": [
+            "贞洁、自愿清贫、克制和忍受在文本中出现，是因为它们可能显示生命意志不再急于扩张。它们并非一套仅靠模仿动作即可完成的清单。相同行为可以来自慈悲，也可以来自恐惧、创伤、贫困或社会强迫。",
+            "因此判断不能停在外观。一位把财物让给困苦者的人，与一位因被威胁而交出财物的人，动作相似，动机结构不同。叔本华把伦理价值系于直接动机，这也要求对禁欲征候保持同样谨慎。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "压抑为何仍是意志活动",
+          "paragraphs": [
+            "普通压抑常让一个欲望与另一个欲望交战：为了名誉压住愤怒，为了控制感压住饥饿，为了被赞许而惩罚身体。表面安静之下仍是肯定性的争夺，意志只是换了武器。",
+            "否定则不是憎恨欲望者自己。若一个人因身体需求而厌恶自身，他仍把某种纯洁形象当作必须占有的目标。自我仇恨会加强个体执著，也可能造成现实伤害，不能因痛苦外观而获得哲学荣耀。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "为何自杀不是捷径",
+          "paragraphs": [
+            "叔本华认为，自杀者常拒绝的是这一个生活的条件，却强烈愿求一个不受当前阻碍的生活。毁灭个体现象并未触及作为物自体线索的意志，因此自杀不能从身体终止直接推成意志否定。",
+            "这个分析是概念区分，不是对处于危险中的人作道德审判。现实自伤涉及疼痛、疾病、绝望和社会处境，需要保护与专业援助。哲学解释没有资格浪漫化危险，也不能把求助说成意志软弱。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "一个拒绝享受的对照",
+          "paragraphs": [
+            "设想两人都拒绝一场盛宴。甲担心破坏严格形象，整夜计算别人是否佩服自己；乙因看见供应背后的伤害而改变生活，并不以优越感监视旁人。单看拒食动作，无法判定哪一种更接近意志转向。",
+            "这个对照说明否定的证据具有解释风险。内在动机无法由外观可靠读取，圣者叙事也容易被制度利用。任何把服从领袖、忍受虐待或放弃医疗包装成禁欲的做法，都越过了文本可以承担的边界。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "最强异议：不可变者怎样否定自身",
+          "paragraphs": [
+            "体系内部有一道尖锐异议：若意志是无根据且作为物自体不可由因果改变，认识作为表象又怎能令它转向？倘若转向有原因，意志似乎进入理由律；倘若没有原因，解释又近于神秘断裂。",
+            "叔本华把这种转向称为认识整体变化所显出的自由，并承认哲学只能描述其现象，不能按因果机制制造它。这个回应守住超经验自由，却没有消除张力。否定是体系的极限概念，不是可操作的心理技术。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从圣者经验到宗教语言",
+          "paragraphs": [
+            "当论证抵达语言难以说明的转向，叔本华大量借用基督教神秘主义、奥义书表达和佛教材料。他认为宗教能以寓言向更广泛人群传达罪苦、慈悲和解脱，但寓言也可能被误作字面事实。",
+            "这使来源问题变得关键。不同传统中的救赎、解脱、涅槃和禁欲并非同义词，叔本华的借用也经过翻译与选择。接下来必须既追踪材料如何抵达他，也防止把传统改写成他的回声。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "一个人因创伤失去食欲，另一个人出于慈悲减少占有。二者都显得克制，但前者需要照护而非赞美，后者也不能仅凭外形认定为形上转向。动机、处境与伤害风险必须先被辨认。",
+      "nodeIds": [
+        "c17-01",
+        "c17-02",
+        "c17-03",
+        "c17-04"
+      ],
+      "checkIds": [
+        "q17-01",
+        "q17-02",
+        "q17-03",
+        "q17-04"
+      ],
+      "abilitySummary": [
+        "能够从动机而非外观区分意志否定、压抑与自我伤害，并说明“否定如何可能”的体系张力。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-18",
+      "order": 18,
+      "title": "当异乡经典经过三种语言抵达",
+      "depth": "longform",
+      "guidingQuestion": "叔本华怎样借宗教寓言与印度材料表达解脱，又为何不能说这些传统本来就在讲他的哲学？",
+      "coreExplanation": "叔本华把宗教视为向大众传递形上与伦理真理的寓言，同时警惕权威对自由探究的压制。他对印度思想的吸收经过具体人物、刊物和多重翻译：马耶尔与《亚洲杂志》的早期引介，《薄伽梵歌》的独立译介路线，以及梵文奥义书选本经达拉·希科《Sirr-i Akbar》波斯文、再经安克蒂尔-迪佩龙拉丁文Oupnek’hat抵达。每次对接都是选择性改写，而非传统同一。",
+      "sections": [
+        {
+          "heading": "寓言为何既有用又危险",
+          "paragraphs": [
+            "叔本华在《附录与补遗》第二卷《论宗教》的对话中区分两种表达。哲学要求概念上的诚实与论证，宗教则用神话、仪式和人格化故事，把痛苦、罪责、慈悲与解脱传给难以进入抽象论证的人群。",
+            "寓言的力量也正是风险：象征一旦被当作字面宇宙史，制度便可能要求服从并敌视追问。对话角色不能无条件等同于作者口谕，但贯穿其中的张力清楚可见：宗教可以承载真理，也可以把真理的外衣变成权威。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "基督教的选择性赞赏",
+          "paragraphs": [
+            "叔本华赞赏基督教中原罪、慈悲、舍己和禁欲的侧面，因为它们契合生命充满缺陷、个体应越出利己心以及意志可能转向的结构。他对乐观神义论和人格创造神则保持距离。",
+            "这种赞赏并不等于接受教会教义的字面真理，也不代表基督教整体可以还原为意志哲学。原罪在基督教内部关涉创造、堕落与救赎史，叔本华却把它重释为生命意志肯定本身的罪苦结构；相似主题经过了形上改写。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "最初抵达的并非原文全貌",
+          "paragraphs": [
+            "魏玛时期，弗里德里希·马耶尔及其参与的《亚洲杂志》为叔本华提供早期印度思想引介。这个入口属于欧洲浪漫主义和早期东方学环境，材料经过选择、概括与比较，并非中性的印度传统全景。",
+            "《薄伽梵歌》又有独立的欧洲译介路线。它处在史诗与宗教哲学语境中，讨论行动、义务、知识、奉爱和神性。把它只摘成“放弃欲望”，会遗漏在行动中履行义务以及奉爱、有神论等重要面向。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "Oupnek’hat的三重语言链",
+          "paragraphs": [
+            "叔本华珍爱的Oupnek’hat不是从梵文直接译成拉丁文。传入链应写全：若干梵文奥义书先被莫卧儿王子达拉·希科组织编译为波斯文《Sirr-i Akbar》，安克蒂尔-迪佩龙再依据该波斯文本译成拉丁文Oupnek’hat。",
+            "这条“梵文选本到波斯文编译再到拉丁文翻译”的链条至少经过选编、波斯语哲学词汇置换和拉丁语再表达。叔本华面对的是有历史层次的欧洲文本对象，而非未经中介的梵文奥义书本身。翻译链不是贬低其启发，而是限定可声称的同一程度。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "四次对接，四条不等同边界",
+          "paragraphs": [
+            "他把摩耶与表象及个体化联系，把“tat tvam asi”一类同一性表达接到同情，把轮回意象接到生命意志超出个体的延续，又把解脱语言接到意志否定。这些对接帮助他为自己的体系寻找跨文化回声。",
+            "但摩耶在不同吠檀多脉络中的意义不只是主体表象形式；梵与自我的关系不等于盲目意志；业与再生不等于物种继续；解脱也不自动等于叔本华式否定。逐项相似只能支持比较，不能抹去概念网络。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "奥义书、吠檀多与佛教不能合箱",
+          "paragraphs": [
+            "奥义书是一组年代、文体和立场多样的文本；吠檀多是围绕这些经典发展出的多种解释传统，两者不是一个静止教义。佛教材料则经另一些十九世纪研究和叔本华后期阅读进入，不能伪称来自Oupnek’hat。",
+            "佛教的无我与缘起尤其抵抗“单一物自体意志”的同一化，涅槃也不能草率译为虚无。叔本华确实借佛教批判欲取和个体执著，但这是选择性亲近。说佛教、吠檀多和奥义书都在等待他的概念，会把活传统降为欧洲体系的注脚。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "最强异议与宗教边界",
+          "paragraphs": [
+            "强异议认为，叔本华以自己的悲观主义筛选传统：凡能支持痛苦、一体与否定者被放大，行动、奉爱、仪式、社会义务以及内部争论则被压低。多重翻译又增加误读，因此跨文化一致可能部分由选择方法制造。",
+            "可以保留的评价是，他让欧洲哲学认真面对非欧洲材料，也由这些文本形成真实思想刺激；却不能称他的体系获得了印度传统认证。宗教寓言更不能替反犹太教陈述辩护。对宗教权威的批评与针对犹太传统或犹太人的贬损，必须分开审判。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "有人从拉丁文Oupnek’hat读到自我同一，便说奥义书已经证明“世界是意志”。恰当做法是追踪梵文选本、波斯文《Sirr-i Akbar》和拉丁文转译，再比较各自概念网络；启发关系不能充当原义同一。",
+      "nodeIds": [
+        "c18-01",
+        "c18-02",
+        "c18-03",
+        "c18-04"
+      ],
+      "checkIds": [
+        "q18-01",
+        "q18-02",
+        "q18-03",
+        "q18-04"
+      ],
+      "abilitySummary": [
+        "能够复述印度材料的具体传入链，区分几类传统与文本，并逐项解释叔本华的选择性对接及不等同边界。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-19",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-19",
+      "order": 19,
+      "title": "同情的哲学为何容纳了贬损的判断",
+      "depth": "longform",
+      "guidingQuestion": "叔本华的女性、种族、民族与反犹太偏见，应怎样在作者明文、体系张力和现代批评三个层次上接受审判？",
+      "coreExplanation": "偏见不是可以用“时代如此”冲销的闲话，也不能未经论证就说成意志形上学的逻辑结论。需要分别确认作者明文，把性别、生殖、族群、民族和宗教材料放回其文本身份，再检验它们与跨个体同情和本体一体性的冲突。",
+      "sections": [
+        {
+          "heading": "问题不是替作者做形象管理",
+          "paragraphs": [
+            "一位把同情称为道德基础、并把动物纳入伦理关切的哲学家，也写下对女性、族群和犹太传统的贬损。这种并置不应被修饰成偶尔失言，因为若同情能够越过个体化屏障，它理应对被本质化的人同样有效。",
+            "审判首先需要拒绝两种省事方式。一种以时代局限取消责任，另一种因偏见存在便宣布其全部形上学都由仇恨推出。前者抹除明文伤害，后者跳过论证。较严格的方法是分清文本事实、体系张力和现代规范评价。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "女性：从生殖模型到系统贬抑",
+          "paragraphs": [
+            "《附录与补遗》第二卷第27篇《论妇女》并非一句孤立玩笑，而是一组关于理性、成熟、财产、婚姻和社会角色的系统性贬抑。性爱形上学又以异性生殖为普遍模型，把女性身体放入物种选择和遗传推测。",
+            "不能说这些判断只是无关体系的私人脾气，因为它们确实调用了性格、生殖和物种意志的概念。也不能说形上学必定推出厌女，因为从同一意志、同情和正义也能推出反对基于性别降低人格地位的理由。这里呈现的是选择性应用和内部冲突。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "种族化叙述与伪科学外衣",
+          "paragraphs": [
+            "《四重根》修订文本中的人类史叙述，以及第二卷关于生理、遗传和面相的讨论，包含种族化分类与等级暗示。这些陈述借用了当时的自然史、遗传猜测和欧洲中心视角，却没有因此成为可靠事实。",
+            "用现代遗传学或进化论替它们补证会造成时代倒置。群体统计即使存在，也不能直接规定个人能力、道德价值或权利。把可疑的群体描述固定为个人本质，正是偏见从说明滑向支配的关键错步。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "民族性格与个体判断",
+          "paragraphs": [
+            "叔本华常以尖锐短论概括不同民族的虚荣、智力或道德风貌，同时又对民族主义保持距离。反民族主义立场并不能抵销民族性格的刻板化，因为拒绝国家崇拜与尊重具体个人是两项不同要求。",
+            "民族标签把复杂历史和制度条件压缩成稳定气质，也与他的性格论发生危险结合。即便承认个体具有较稳定的经验性格，也无法从国籍推出某个人的动机。群体印象不能充当个体判断的充分根据。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "宗教批判与反犹太偏见的界线",
+          "paragraphs": [
+            "哲学可以批评犹太教、基督教或任何宗教的教义、经典解释与制度权威；这类批评针对可讨论的主张。叔本华的宗教论述中却也出现把犹太传统描述为低劣来源、并将负面特征投向犹太人的陈述。",
+            "从教义异议滑向人群贬损，改变了论证对象。印度思想的赞赏也不能为此开脱，因为把一个传统理想化、把另一个传统本质化，仍共享选择性比较结构。跨文化兴趣并不自动带来平等判断。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "最强辩护为何仍不足",
+          "paragraphs": [
+            "最强辩护会说，叔本华反对民族主义，主张本体同一，也有跨物种同情，因此偏见不是其核心原则。这个辩护能阻止把整套哲学简化为偏见，却不能消除他反复写下并公开出版的判断。",
+            "原则与应用不一致本身就是重要事实。一个理论拥有普遍主义资源，却在作者手中选择性失效，说明抽象一体性不会自行清除社会成见。批评需要指出失效发生在哪里，而不是用漂亮原则替受贬损者宣布伤害已经平衡。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "批判继承的三道纪律",
+          "paragraphs": [
+            "第一道纪律是准确归属：说明哪些是作者明文，哪些是时代材料，哪些是后来的批评。第二道纪律是规范判断：本质化和等级化为何损害平等、证据与个体尊严。第三道纪律是体系检验：同情与一体性为何没有在这些对象上贯彻。",
+            "这样处理既不洗白，也不靠取消全部思想来假装问题消失。保留可用概念必须伴随公开边界：性别、族群、民族或宗教身份不提供个人价值的等级表。接受这位作者的洞见，不意味着继承他的贬损。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "有人引用叔本华的本体一体性，声称他的厌女陈述因而不重要。恰当回应是：原则提供批判偏见的资源，却没有取消公开明文；正因为两者冲突，才需要追问普遍同情为何被选择性停止。",
+      "nodeIds": [
+        "c19-01",
+        "c19-02",
+        "c19-03",
+        "c19-04"
+      ],
+      "checkIds": [
+        "q19-01",
+        "q19-02",
+        "q19-03",
+        "q19-04"
+      ],
+      "abilitySummary": [
+        "能够区分作者明文、体系内张力与现代批评，并对性别、种族、民族和反犹太偏见逐类定界。"
+      ],
+      "recommendedNextLessonId": "schopenhauer-20",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "schopenhauer-20",
+      "order": 20,
+      "title": "影响、改写与先声，不是同一种关系",
+      "depth": "longform",
+      "guidingQuestion": "面对瓦格纳、早晚尼采和弗洛伊德，怎样避免把直接阅读、创造性改写与概念相似统称为继承？",
+      "coreExplanation": "接受史不是名人名单，而是关系身份的辨认。瓦格纳在直接阅读后重写自己的音乐戏剧；早期尼采吸收并改造艺术救赎框架，中晚期尼采转而把叔本华当作主要对手；弗洛伊德承认其对性与死亡问题的先见，但较晚系统阅读使直接形成影响仍有争议。",
+      "sections": [
+        {
+          "heading": "先问关系，再比词语",
+          "paragraphs": [
+            "两位思想家都谈“意志”“无意识”或“死亡”，不等于后者从前者继承概念。确认影响至少需要阅读或接触证据、时间先后，以及后来的文本如何使用所得材料。只有概念相似时，较谨慎的身份是先声或平行问题。",
+            "反过来，直接阅读也不等于忠实接受。后人可能借一个概念解决不同问题，改变其价值方向，甚至把它变成批判对象。接受史的任务正是描述这些变形，而不是寻找一个保持原样的思想包裹。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "problem"
+        },
+        {
+          "heading": "瓦格纳：直接阅读后的自我重写",
+          "paragraphs": [
+            "瓦格纳在十九世纪五十年代直接阅读叔本华，随后以音乐形上学、同情和否定等主题重新解释自己的创作。叔本华把音乐称为意志的直接摹本，为瓦格纳提供了提升音乐地位的强大语言。",
+            "然而瓦格纳的总体艺术理论、戏剧实践、民族主义和具体结局属于他自己的历史工程。不能因他借用“音乐直达意志”，便说叔本华预先写出了瓦格纳作品，也不能把瓦格纳的政治立场倒灌为音乐形上学的原义。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "早期尼采：敬仰已经包含改造",
+          "paragraphs": [
+            "早期尼采明确深受《作为意志和表象的世界》影响。《悲剧的诞生》借用表象背后的原初统一、个体痛苦和艺术救赎等框架，《作为教育家的叔本华》又把叔本华塑造成反时代的哲学人格。",
+            "可是阿波罗与狄奥尼索斯的二分、希腊悲剧的谱系和文化诊断已是尼采自己的构造。直接影响在这里证据较强，忠实复述却不是。把早期尼采当作叔本华摘要，会忽略他如何把悲观主义改造成文化创造问题。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "case"
+        },
+        {
+          "heading": "中晚期尼采：受影响者成为对手",
+          "paragraphs": [
+            "在《快乐的科学》《道德谱系》第三论文和《偶像的黄昏》等文本中，尼采持续反对同情道德、意志否定、禁欲理想与无利害审美。他并未简单忘掉叔本华，而是通过反驳来重估悲观主义。",
+            "这种关系可称为批判性继承或形成性对抗。尼采把问题转向：能否在痛苦中肯定生命，而不是寻求停止愿求。说他后来“摆脱一切影响”会低估对手的持续作用，说他“终身赞同”则抹掉价值方向的翻转。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "弗洛伊德：承认先见不等于起源证明",
+          "paragraphs": [
+            "弗洛伊德承认叔本华先看到性欲的重要性，并在《超越快乐原则》第6章讨论其关于死亡趋向的表达。无意识意愿、理智并非动机主人、性与死亡等主题，确实形成显著的先声关系。",
+            "但弗洛伊德自述较晚才系统阅读叔本华，精神分析的临床方法、压抑理论和驱力模型也有自身材料史。因此可以确认作者承认与概念亲缘，却不能仅凭相似便断言精神分析由叔本华直接推导。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "一个谱系判断的检验",
+          "paragraphs": [
+            "若有人说“弗洛伊德讲无意识，所以他继承叔本华”，应先拆成三个问题：弗洛伊德何时读到相关文本，他是否明确承认关系，相似概念在两套理论中承担何种功能。任何一项都不能由词语外观替代。",
+            "同样方法也适用于瓦格纳和尼采。书信、读书记载与明确引文支持接触身份；概念结构的改变支持改写身份；缺乏接触证据而只有相似时，使用先声比直接影响更诚实。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "boundary"
+        },
+        {
+          "heading": "最强异议：影响从不容易量化",
+          "paragraphs": [
+            "强异议指出，创作者可能忘记来源、经由共同文化间接接触，或在回忆中重新塑造自己的思想谱系。直接阅读证据也无法量出某个概念究竟贡献多少。接受史因而难有机械判决。",
+            "这并不迫使我们放弃区分。可以按证据强弱陈述：有直接阅读和自述时说影响，有结构重排时说改写，有作者承认但形成路径存疑时说先见与争议。限定动词比夸张结论更接近历史事实。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "argument"
+        },
+        {
+          "heading": "叔本华留下的是争论场",
+          "paragraphs": [
+            "瓦格纳放大音乐的形上力量，早期尼采用艺术回应痛苦，中晚期尼采用生命肯定反击否定，弗洛伊德则在性与死亡问题旁承认先见。四条路径没有汇成一个学派，而是把叔本华的难题送入不同实践。",
+            "真正的影响不在后人重复同一句话，而在他们必须借用、改造或反驳某个问题框架。以关系身份收束，可以让叔本华既不被神化为一切现代思想的源头，也不因后人的背离而失去历史效力。"
+          ],
+          "identity": "论证正文；原典身份由关联主张与来源闭合表限定",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "研究者发现后世文本也出现“无意识意愿”，若没有阅读证据便称为直接影响，会把相似当成因果。应结合接触时间、自述和概念功能，分别使用影响、改写、批判性对抗或先声。",
+      "nodeIds": [
+        "c20-01",
+        "c20-02",
+        "c20-03",
+        "c20-04"
+      ],
+      "checkIds": [
+        "q20-01",
+        "q20-02",
+        "q20-03",
+        "q20-04"
+      ],
+      "abilitySummary": [
+        "能够分别判定瓦格纳、早期尼采、中晚期尼采与弗洛伊德的接触、改写、反叛和先声身份。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "S01-Q1",
+      "kind": "singleChoice",
+      "prompt": "一份可靠录像对“被告当时在场”这一判断主要承担什么作用？",
+      "targetNodeIds": [
+        "S01-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它提供认识之根据，使该判断获得证成。",
+          "feedback": "准确。这里评估的是判断为何可被接受，而非录像造成了在场事件。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它提供成为之根据，物理地产生了被告在场。",
+          "feedback": "错步在于把证明判断的材料当成造成事件的物理原因。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S01-M1"
+    },
+    {
+      "id": "S01-Q2",
+      "kind": "singleChoice",
+      "prompt": "为什么三角形的结构关系不能简单当作物理因果？",
+      "targetNodeIds": [
+        "S01-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它由空间形式中各部分的关系确定，不是先前事件推动后来事件。",
+          "feedback": "准确。存在之根据处理形式位置，不把几何证明改写成时间中的撞击。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它只因人们相信公理而成立，所以属于行动动机。",
+          "feedback": "错步在于把形式关系归结为相信它的心理动机。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S01-M2"
+    },
+    {
+      "id": "S01-Q3",
+      "kind": "singleChoice",
+      "prompt": "动机与机械撞击的关键差别是什么？",
+      "targetNodeIds": [
+        "S01-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "动机只是行为发生后的意义说明。",
+          "feedback": "错步在于把动机降为事后说明，删去了它通过认识参与行动发生的作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "动机通过行动者对处境的认识发生作用。",
+          "feedback": "准确。行动之根据保留了意义被行动者理解这一中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S01-M3"
+    },
+    {
+      "id": "S01-Q4",
+      "kind": "singleChoice",
+      "prompt": "从四重根能否直接推出世界有一个最初创造原因？",
+      "targetNodeIds": [
+        "S01-C5"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "不能，因为理由律规定表象对象的关系，越界使用不能证明世界整体的起点。",
+          "feedback": "准确。适用范围是论证的一部分，不能在结论处删去。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "能，因为对象必须有根据，所以世界整体也由一个超经验人格首先发动。",
+          "feedback": "错步在于把表象内的根据关系越界套到世界整体。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S01-M4"
+    },
+    {
+      "id": "S02-Q1",
+      "kind": "singleChoice",
+      "prompt": "“主体是对象出现的条件”最合适的理解是什么？",
+      "targetNodeIds": [
+        "S02-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "主体是空间中最早出现的物体，随后制造其余对象。",
+          "feedback": "错步在于把认识条件重新当作对象链中的第一件物。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "成为被认识的对象，就已经处在与主体相关的表象关系中。",
+          "feedback": "准确。这里说的是认识关系的条件，不是个人愿望创造事物。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S02-M1"
+    },
+    {
+      "id": "S02-Q2",
+      "kind": "singleChoice",
+      "prompt": "水中筷子的案例说明了什么？",
+      "targetNodeIds": [
+        "S02-C2",
+        "S02-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "筷子误认说明经验校验只适合这个个案，别的知觉仍各自封闭。",
+          "feedback": "错步在于把共同经验中的校验能力缩成单个案例的偶然修正。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "知觉受构成条件影响，但能借连贯经验和因果解释修正误认。",
+          "feedback": "准确。构成性与可纠错的经验实在性可以同时成立。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S02-M2"
+    },
+    {
+      "id": "S02-Q3",
+      "kind": "singleChoice",
+      "prompt": "叔本华为何仍要求概念回到直观？",
+      "targetNodeIds": [
+        "S02-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "抽象词失去直观内容后，推论会在空词之间移动。",
+          "feedback": "准确。这一限制批评空洞概念，却没有取消理性论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "离开眼前直观的概念便失去认识作用。",
+          "feedback": "错步在于把概念须有直观来源改成概念离开当下知觉便失效。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S02-M3"
+    },
+    {
+      "id": "S02-Q4",
+      "kind": "singleChoice",
+      "prompt": "世界作为表象与经验实在性如何相容？",
+      "targetNodeIds": [
+        "S02-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "经验对象在共同认识形式中稳定出现，这同时表明物自身已被充分认识。",
+          "feedback": "错步在于由经验对象的稳定性跳到物自身已经被认识。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "对象虽依赖共同认识形式，仍以稳定因果关系抗拒私人愿望并接受复查。",
+          "feedback": "准确。先验依赖没有抹去经验中的约束和公共校验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S02-M4"
+    },
+    {
+      "id": "S03-Q1",
+      "kind": "singleChoice",
+      "prompt": "叔本华对康德范畴论采取了什么态度？",
+      "targetNodeIds": [
+        "S03-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "他保留十二范畴的完整分工，只把因果性列为知性的首要形式。",
+          "feedback": "错步在于把叔本华对范畴表的压缩说成保留完整分工。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "他保留先验边界，却突出因果知性并大幅重排范畴结构。",
+          "feedback": "准确。这是有选择的继承，不能冒充康德体系的原样复述。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S03-M1"
+    },
+    {
+      "id": "S03-Q2",
+      "kind": "singleChoice",
+      "prompt": "为何不能从现象原因链直接证明物自体？",
+      "targetNodeIds": [
+        "S03-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "因果性规定现象间变化，其效力限于现象关系，超经验知识不由这项规则提供。",
+          "feedback": "准确。康德式限制针对的正是适用条件被遗忘。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "因果性说明判断如何获得证据，经验事件的变化则由逻辑根据解释。",
+          "feedback": "错步在于交换认识根据与事件因果各自承担的说明任务。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S03-M2"
+    },
+    {
+      "id": "S03-Q3",
+      "kind": "singleChoice",
+      "prompt": "把物自体称为意志时应保留什么限制？",
+      "targetNodeIds": [
+        "S03-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "意志名称把物自身规定为一种与人的筹划能力同构的内在活动。",
+          "feedback": "错步在于把受限名称扩成物自身具有筹划能力的规定。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "名称来自最亲近的内在经验，只提供相对充分的解释线索。",
+          "feedback": "准确。线索的优先性不等于获得无条件的全貌。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S03-M3"
+    },
+    {
+      "id": "S03-Q4",
+      "kind": "singleChoice",
+      "prompt": "经验性格与理知性格在路线中应怎样标识？",
+      "targetNodeIds": [
+        "S03-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "先标康德来源，再说明叔本华把理知性格改写为无时间的个体意志之举。",
+          "feedback": "准确。来源和改写分开，才不会倒写思想身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "二者由叔本华首创；康德第三二律背反并未提供可继承的性格区分。",
+          "feedback": "错步在于删除概念的康德来源。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S03-M4"
+    },
+    {
+      "id": "S04-Q1",
+      "kind": "singleChoice",
+      "prompt": "抬手的意愿与动作在叔本华那里是什么关系？",
+      "targetNodeIds": [
+        "S04-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它们是同一行动从内在经验和外在直观得到的两种认识。",
+          "feedback": "准确。该说法避免把意愿当成先发生的幽灵命令。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它们是两个独立事件，意愿像物体一样撞击肌肉。",
+          "feedback": "错步在于把双重给予改写成两种实体间的机械碰撞。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S04-M1"
+    },
+    {
+      "id": "S04-Q2",
+      "kind": "singleChoice",
+      "prompt": "疼痛为何在身体论证中重要？",
+      "targetNodeIds": [
+        "S04-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它不仅报告变化，还把变化直接呈现为违背个体趋求的状态。",
+          "feedback": "准确。疼痛显示身体经验与意志利益并非纯外在连接。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它证明身体不再受因果规律制约，而由意识选择直接支配全部生理变化。",
+          "feedback": "错步在于从内在意义跳到身体脱离经验因果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S04-M2"
+    },
+    {
+      "id": "S04-Q3",
+      "kind": "singleChoice",
+      "prompt": "瘫痪案例对双重给予构成什么压力？",
+      "targetNodeIds": [
+        "S04-C1",
+        "S04-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "动作受阻时，第一人称意愿也只能算作尚未形成的行动倾向。",
+          "feedback": "错步在于用动作能否实现来决定第一人称意愿是否存在。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它显示意愿的身体表现依赖具体条件，经验对应可能受阻。",
+          "feedback": "准确。承认表现受阻比否认异常更符合论证边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S04-M3"
+    },
+    {
+      "id": "S04-Q4",
+      "kind": "singleChoice",
+      "prompt": "由自身身体能直接得到哪一层结论？",
+      "targetNodeIds": [
+        "S04-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "身体经验给出了意志的内面，因此同一认识方式可以平移到石头、植物和星体。",
+          "feedback": "错步在于把身体的双重给予当作可原样平移到自然物的认识方式。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "得到一个对象的内在意愿线索，但推广到全自然仍需额外论证。",
+          "feedback": "准确。入口与普遍结论之间的桥梁没有被省略。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S04-M4"
+    },
+    {
+      "id": "S05-Q1",
+      "kind": "singleChoice",
+      "prompt": "从自己的身体推广到其他自然现象，主要采用什么论证？",
+      "targetNodeIds": [
+        "S05-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "借相似性和自然连续性作受限类比，避免把自己设成唯一例外。",
+          "feedback": "准确。它有解释动机，却没有演绎结论的强制力。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "由一次内在经验就能演绎出全部自然物具有相同的意识内容和明确目的。",
+          "feedback": "错步在于把类比升级为演绎，并额外加入意识属性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S05-M1"
+    },
+    {
+      "id": "S05-Q2",
+      "kind": "singleChoice",
+      "prompt": "“植物的意志”是否表示植物预想未来目标？",
+      "targetNodeIds": [
+        "S05-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "表示；植物的定向生长说明宇宙先有清楚目标，再据此规划自然历史。",
+          "feedback": "错步在于给普遍意志添加了被明令排除的认识与总体目的。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "不表示；趋求被置于认识之前，明确目标只属于某些显现形式。",
+          "feedback": "准确。无意识趋求不能被改写成隐蔽计划。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S05-M2"
+    },
+    {
+      "id": "S05-Q3",
+      "kind": "singleChoice",
+      "prompt": "科学机制与意志解释为何不必是同一层竞争？",
+      "targetNodeIds": [
+        "S05-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "机制说明现象怎样发生，意志论试图解释现象的内在意义。",
+          "feedback": "准确。区分任务能澄清理论意图，但不会免除形上质疑。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "意志说明给出了机制研究所缺的深层原因，机制描述因此退居为表面记录。",
+          "feedback": "错步在于把不同解释任务改成深层说明取代表面机制。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S05-M3"
+    },
+    {
+      "id": "S05-Q4",
+      "kind": "singleChoice",
+      "prompt": "《论自然中的意志》的科学材料应怎样使用？",
+      "targetNodeIds": [
+        "S05-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "十九世纪生理材料与现代神经研究方向相近，可以把二者视作同一证据链。",
+          "feedback": "错步在于以研究方向相近消除年代、方法和证据资格的差别。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "按十九世纪印证尝试标识，并说明选择性阅读与时代限制。",
+          "feedback": "准确。证据身份得到保留，没有被现代术语洗新。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S05-M4"
+    },
+    {
+      "id": "S06-Q1",
+      "kind": "singleChoice",
+      "prompt": "客体化等级在体系中承担什么任务？",
+      "targetNodeIds": [
+        "S06-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "说明同一内面如何显为自然力与物种等较稳定形式。",
+          "feedback": "准确。等级是连接一与多的中介，不只是门类名次。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "结构复杂度同时规定生命形式的价值次序。",
+          "feedback": "错步在于从显现结构的层次推出生命形式的道德价值次序。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S06-M1"
+    },
+    {
+      "id": "S06-Q2",
+      "kind": "singleChoice",
+      "prompt": "一棵具体橡树与理念是什么关系？",
+      "targetNodeIds": [
+        "S06-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "橡树毁灭会使对应理念减少一部分。",
+          "feedback": "错步在于把时空个体当成理念的一部分，并让理念随个体增减。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它是在具体时空条件中出现的个体，并非理念本身。",
+          "feedback": "准确。个体会变化消亡，稳定形式的理论身份与它不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S06-M2"
+    },
+    {
+      "id": "S06-Q3",
+      "kind": "singleChoice",
+      "prompt": "器官协调为何不证明仁慈宇宙计划？",
+      "targetNodeIds": [
+        "S06-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "器官之间的适配表明各个局部都服务于自然整体预先确定的共同结果。",
+          "feedback": "错步在于由局部适配推出自然整体预先确定共同结果。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "局部配合服务个体维持，却与捕食、疾病和资源争夺并存。",
+          "feedback": "准确。局部功能不能无中介地扩大成总体善意。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S06-M3"
+    },
+    {
+      "id": "S06-Q4",
+      "kind": "singleChoice",
+      "prompt": "现代进化论对这一自然哲学意味着什么？",
+      "targetNodeIds": [
+        "S06-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它逐字验证客体化等级，所以历史边界可以删除。",
+          "feedback": "错步在于把后世理论倒写成十九世纪形上学的直接证明。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它挑战固定物种理念，并提供无预见的功能形成说明。",
+          "feedback": "准确。局部相容不应掩盖理论结构的真实差别。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S06-M4"
+    },
+    {
+      "id": "S07-Q1",
+      "kind": "singleChoice",
+      "prompt": "个体化原理主要指什么？",
+      "targetNodeIds": [
+        "S07-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "空间时间使同一本性显为彼此并列、先后出现的多个个体。",
+          "feedback": "准确。多样性被放在显现条件中，而非物自体被切成碎片。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "空间把物自身分割成多个彼此独立的意志。",
+          "feedback": "错步在于把显现为多个个体说成物自身在空间中真实分裂。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S07-M1"
+    },
+    {
+      "id": "S07-Q2",
+      "kind": "singleChoice",
+      "prompt": "为什么利己不只是偶然坏习惯？",
+      "targetNodeIds": [
+        "S07-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "每个身体从自身生存位置接受动机，并与其他个体争夺条件。",
+          "feedback": "准确。结构说明不等于道德免责，却解释了冲突的稳定来源。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "因为每个人都先证明了形上一体为假，才决定自利。",
+          "feedback": "错步在于把身体化动机虚构成一次先行哲学证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S07-M2"
+    },
+    {
+      "id": "S07-Q3",
+      "kind": "singleChoice",
+      "prompt": "同情与形上一体的次序应怎样理解？",
+      "targetNodeIds": [
+        "S07-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "先接受一体论的人才可能感到同情，其他人无法帮助他者。",
+          "feedback": "错步在于把后置解释误成同情发生的必要心理前提。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "同情使他者痛苦本身成为我的行动理由，一体论再解释隔绝怎样被穿透。",
+          "feedback": "准确。道德经验不是由背诵形上命题自动制造。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "S07-M3"
+    },
+    {
+      "id": "S07-Q4",
+      "kind": "singleChoice",
+      "prompt": "施害者能否用“你我本体相同”否认受害者损失？",
+      "targetNodeIds": [
+        "S07-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "不能；形上一体不取消现实伤害、身体边界、救济与归责。",
+          "feedback": "准确。形上解释必须受现实伦理边界约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "可以；既然本体相同，个体遭受的损失便无须处理。",
+          "feedback": "错步在于用本体同一抹去显现层面的真实伤害。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "S07-M4"
+    },
+    {
+      "id": "L08-Q1",
+      "kind": "singleChoice",
+      "prompt": "叔本华为何把满足说成常有消极性质？",
+      "targetNodeIds": [
+        "L08-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "满足的消极性质意味着对象虽被获得，愿望本身仍保持原有强度。",
+          "feedback": "错步在于否认满足会暂时停止特定愿望的压力。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "因为满足首先是某项匮乏压力的解除，并不让趋求从此终止。",
+          "feedback": "抓住了从匮乏到暂时解除的论证中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M08-DENY-ATTAINMENT"
+    },
+    {
+      "id": "L08-Q2",
+      "kind": "singleChoice",
+      "prompt": "无聊在这套分析中承担什么作用？",
+      "targetNodeIds": [
+        "L08-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它显示暂时缺少欲求对象并不必然形成充实的安宁。",
+          "feedback": "准确说明了无聊对幸福终局说的压力。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它证明人仅凭寻找更强刺激就能永久摆脱欲求。",
+          "feedback": "错在把新的刺激当成趋求链的终止，而它只是替代对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M08-STIMULUS-END"
+    },
+    {
+      "id": "L08-Q3",
+      "kind": "singleChoice",
+      "prompt": "长期友谊为何构成强异议？",
+      "targetNodeIds": [
+        "L08-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "长期友谊显示稳定关系能够消除参与者之间的利益差异。",
+          "feedback": "错步在于把关系价值扩大为参与者之间不再存在利益差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它可能呈现持续的正面价值，不能轻易缩成痛苦解除。",
+          "feedback": "指出了强悲观结论最需解释的经验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M08-RELATION-ERASES"
+    },
+    {
+      "id": "L08-Q4",
+      "kind": "singleChoice",
+      "prompt": "哲学悲观主义与临床抑郁应如何区分？",
+      "targetNodeIds": [
+        "L08-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "前者讨论生命结构，后者是需要具体评估与支持的现实状况。",
+          "feedback": "保持了形上论证与健康判断的边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "悲观主义揭示欲求结构，临床判断可由生活叙述按这一结构推定。",
+          "feedback": "错步在于把一般生命结构当成个体临床判断的充分依据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M08-DIAGNOSIS"
+    },
+    {
+      "id": "L09-Q1",
+      "kind": "singleChoice",
+      "prompt": "经验性格在这套理论中是什么？",
+      "targetNodeIds": [
+        "L09-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它是脱离时间、永远无法通过行动呈现的物自身。",
+          "feedback": "错在把经验层与无时间的理知层对调。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它是一个人在时间中的行动所显出的相对稳定规律。",
+          "feedback": "准确把经验性格放在可观察的行动序列中。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M09-CHARACTER-SWAP"
+    },
+    {
+      "id": "L09-Q2",
+      "kind": "singleChoice",
+      "prompt": "叔本华怎样改写康德的性格区分？",
+      "targetNodeIds": [
+        "L09-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "他把理知性格连到个体意志之举，并使行动依性格与当时动机形成。",
+          "feedback": "同时说明了继承关系和决定论强化。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "他沿用康德区分，并把理知性格理解为每次选择时重新开启的超经验自由。",
+          "feedback": "错步在于把无时间的理知性格改成每次行动都重新开启的选择能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M09-KANT-UNCHANGED"
+    },
+    {
+      "id": "L09-Q3",
+      "kind": "singleChoice",
+      "prompt": "既然行动有根据，劝告为何仍有意义？",
+      "targetNodeIds": [
+        "L09-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "劝告能提供新认识，从而成为影响行动的一个动机。",
+          "feedback": "说明了劝告如何在必然联系内部生效。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "劝告改变事后评价，却不进入行动动机。",
+          "feedback": "错步在于把劝告排除在行动者能够认识并回应的动机条件之外。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M09-ADVICE-MAGIC"
+    },
+    {
+      "id": "L09-Q4",
+      "kind": "singleChoice",
+      "prompt": "获得性格最接近哪种变化？",
+      "targetNodeIds": [
+        "L09-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "通过经验更准确地认识自己的倾向、能力与限度。",
+          "feedback": "抓住了获得性格作为自知的含义。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "反复自省会逐渐重塑理知性格。",
+          "feedback": "错步在于把经验中的自知过程说成对理知性格本身的重塑。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M09-ACQUIRED-REMAKE"
+    },
+    {
+      "id": "L10-Q1",
+      "kind": "singleChoice",
+      "prompt": "石桥案例中最关键的变化是什么？",
+      "targetNodeIds": [
+        "L10-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "石桥在审美中转成介于现象与物自身的对象。",
+          "feedback": "错步在于把注意关系的变化变成对象在存在层次上的迁移。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "注意从赶路用途转向对象的材料、力量与形式。",
+          "feedback": "准确抓住审美直观中的关系转向。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M10-NO-EXPERIENCE"
+    },
+    {
+      "id": "L10-Q2",
+      "kind": "singleChoice",
+      "prompt": "理念与抽象概念有何区别？",
+      "targetNodeIds": [
+        "L10-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "理念是把同类个体共有特征整理出来的高阶概念，作用在于分类更稳定。",
+          "feedback": "错步在于把理念化约为从个体共有特征抽取的分类概念。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "理念承担客体化等级的形上角色，概念则由理性抽取和运用。",
+          "feedback": "区分了审美对象与抽象思维工具。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M10-IDEA-CONCEPT"
+    },
+    {
+      "id": "L10-Q3",
+      "kind": "singleChoice",
+      "prompt": "崇高为何不同于美的平静观看？",
+      "targetNodeIds": [
+        "L10-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "崇高要求观看者真正进入危险，只有切身伤害才能证明主体超越恐惧。",
+          "feedback": "错在把认识张力变成对现实危险的追求。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "崇高保留对象对个体的压倒或威胁，同时让认识不被恐惧占满。",
+          "feedback": "指出了崇高内部仍存在的抵抗。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M10-SUBLIME-DANGER"
+    },
+    {
+      "id": "L10-Q4",
+      "kind": "singleChoice",
+      "prompt": "审美休止为什么不是伦理救赎？",
+      "targetNodeIds": [
+        "L10-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它暂时改变认识方向，却未使欲求和行为性格持续转向。",
+          "feedback": "保持了审美与伦理层级的区别。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它已经保证欣赏者在现实关系中会公正地行动。",
+          "feedback": "错在从审美敏感直接推出道德善良。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M10-AESTHETIC-VIRTUE"
+    },
+    {
+      "id": "L11-Q1",
+      "kind": "singleChoice",
+      "prompt": "叔本华排列艺术门类的主要尺度是什么？",
+      "targetNodeIds": [
+        "L11-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "各门类在市场上的价格和创作者的社会身份。",
+          "feedback": "错在用外部声望替代体系中的认识尺度。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "各门类使何种意志客体化等级进入纯粹观看。",
+          "feedback": "指出了排序与自然形上学之间的连接。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M11-MARKET-RANK"
+    },
+    {
+      "id": "L11-Q2",
+      "kind": "singleChoice",
+      "prompt": "悲剧为何在层级中位置突出？",
+      "targetNodeIds": [
+        "L11-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它保证现实苦难经由观看得到补偿，悲剧的价值就在恢复命运公平。",
+          "feedback": "错在把审美呈现变成现实正义的兑现。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它通过性格、动机和命运呈现意志在人类世界中的自我冲突。",
+          "feedback": "抓住了悲剧的认识任务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M11-TRAGEDY-COMPENSATION"
+    },
+    {
+      "id": "L11-Q3",
+      "kind": "singleChoice",
+      "prompt": "天才概念不允许推出什么？",
+      "targetNodeIds": [
+        "L11-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "创作者因认识能力出众而在伤害他人时免于道德评价。",
+          "feedback": "守住了审美能力与伦理责任的界线。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "某些人能较持久地把注意从个人目的转向对象。",
+          "feedback": "错在否认这正是天才概念试图说明的能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M11-GENIUS-IMMUNITY"
+    },
+    {
+      "id": "L11-Q4",
+      "kind": "singleChoice",
+      "prompt": "应怎样对待叔本华的艺术层级？",
+      "targetNodeIds": [
+        "L11-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "这种层级以作品呈现理念的清晰度为尺度，便可沿用于不同艺术传统。",
+          "feedback": "错步在于由体系内部尺度推出它可跨历史传统原样沿用。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "重建其体系尺度，同时承认它对历史和多元传统的覆盖有限。",
+          "feedback": "兼顾了理解与批判距离。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M11-UNIVERSAL-RANK"
+    },
+    {
+      "id": "L12-Q1",
+      "kind": "singleChoice",
+      "prompt": "音乐的例外身份体现在哪里？",
+      "targetNodeIds": [
+        "L12-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它被比作意志的直接摹本，不先以具体理念为中介。",
+          "feedback": "准确指出了音乐与其他艺术的路径差别。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "音乐是最高理念的直接摹本。",
+          "feedback": "错步在于把音乐重新归到某个理念之下，取消它与其他艺术的路径差别。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M12-VISIBLE-COPY"
+    },
+    {
+      "id": "L12-Q2",
+      "kind": "singleChoice",
+      "prompt": "旋律归返在叔本华的类比中对应什么？",
+      "targetNodeIds": [
+        "L12-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "欲求越过阻碍后获得暂时满足的动态。",
+          "feedback": "把音乐时间结构连到了欲求节律。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "宇宙意识完成预定计划并宣布历史终点。",
+          "feedback": "错在给无意识意志添加计划和终极目的。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M12-COSMIC-PLAN"
+    },
+    {
+      "id": "L12-Q3",
+      "kind": "singleChoice",
+      "prompt": "音乐的直接性为何仍有限定？",
+      "targetNodeIds": [
+        "L12-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "音乐让听者越过时间而把握物自身结构。",
+          "feedback": "错步在于把相对其他艺术的特殊路径改成越出时间并穷尽物自身。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "被听见的音乐仍在时间与主体客体关系中出现。",
+          "feedback": "避免把相对直接误写成超越一切表象。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M12-NO-REPRESENTATION"
+    },
+    {
+      "id": "L12-Q4",
+      "kind": "singleChoice",
+      "prompt": "欧洲调性边界要求怎样修正结论？",
+      "targetNodeIds": [
+        "L12-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "把理论视为有适用范围的解释模型，并接受多种音乐传统检验。",
+          "feedback": "保留解释力，同时限制普遍性。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "调性音乐揭示欲求的普遍语法，其他传统可按主音归返的尺度重新解释。",
+          "feedback": "错步在于把一种调性语法设为解释其他音乐传统的共同尺度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M12-TONAL-UNIVERSAL"
+    },
+    {
+      "id": "L13-Q1",
+      "kind": "singleChoice",
+      "prompt": "同情何以成为非利己动机？",
+      "targetNodeIds": [
+        "L13-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "他者的痛苦本身进入我的行动理由，而非只因回报才被考虑。",
+          "feedback": "准确抓住了行动终点落在他者福祸上。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "同情的价值仍来自帮助者的自我肯定。",
+          "feedback": "错步在于让他者痛苦仍以帮助者的自我收益为最终价值来源。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M13-REPUTATION"
+    },
+    {
+      "id": "L13-Q2",
+      "kind": "singleChoice",
+      "prompt": "为何不能要求先接受一体论才可能同情？",
+      "targetNodeIds": [
+        "L13-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "同情只是由形上命题演绎出的服从行为，经验中的利他动机并非独立入口。",
+          "feedback": "错在把直接动机倒置成抽象推论的产物。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "同情先作为经验动机出现，一体论只是对其可能性的后置说明。",
+          "feedback": "保持了经验入口与形上解释的顺序。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M13-METAPHYSICS-FIRST"
+    },
+    {
+      "id": "L13-Q3",
+      "kind": "singleChoice",
+      "prompt": "动物伦理怎样检验同情原则？",
+      "targetNodeIds": [
+        "L13-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "若受苦本身构成道德理由，物种标签便不足以排除动物。",
+          "feedback": "从受苦能力推出了跨物种压力。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "动物的受苦进入道德考虑，是因为它影响人的财产与情感利益。",
+          "feedback": "错步在于让动物的道德地位仍依附于它对人的利益影响。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M13-ANIMAL-PROPERTY"
+    },
+    {
+      "id": "L13-Q4",
+      "kind": "singleChoice",
+      "prompt": "同情为什么不能独自设计公共制度？",
+      "targetNodeIds": [
+        "L13-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "同情适合私人援助；进入制度设计时，它的动机资格转化为情绪偏向。",
+          "feedback": "错步在于把同情的偏私风险解释成它进入公共判断后便失去道德资格。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它可能偏私或误助，仍需事实、权利与受影响者声音校正。",
+          "feedback": "指出了动机价值与公共判断之间的缺口。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M13-NO-ACTION"
+    },
+    {
+      "id": "L14-Q1",
+      "kind": "singleChoice",
+      "prompt": "国家在叔本华的正义论中能做什么？",
+      "targetNodeIds": [
+        "L14-C1"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "国家惩罚会把经验性格训练成同情性格。",
+          "feedback": "错步在于把制度对外在动机的约束说成性格转化与同情生成。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "用规则和威慑约束外在行为，保护权利并减少侵害。",
+          "feedback": "准确界定了国家在动机网络中的制度作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "M14-STATE-VIRTUE"
+    },
+    {
+      "id": "L14-Q2",
+      "kind": "singleChoice",
+      "prompt": "仁爱与不侵害的差别是什么？",
+      "targetNodeIds": [
+        "L14-C2"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "不侵害设定消极边界，仁爱进一步把减轻他者痛苦作为目的。",
+          "feedback": "清楚区分了底线与积极援助。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "仁爱被理解为把法律的不侵害要求执行得更彻底，二者没有任务差别。",
+          "feedback": "错步在于把积极减轻他者痛苦归并为不侵害要求的执行程度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M14-BENEVOLENCE-LAW"
+    },
+    {
+      "id": "L14-Q3",
+      "kind": "singleChoice",
+      "prompt": "第63节的永恒正义主要说明什么？",
+      "targetNodeIds": [
+        "L14-C3"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "同一意志在不同个体中既施加又承受痛苦，显出自我撕裂。",
+          "feedback": "准确复原了个体化与一体意志的论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "未来法庭会给每位施害者安排与行为等量的惩罚。",
+          "feedback": "错在把形上结构改写成延迟执行的报应机制。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M14-COSMIC-COURT"
+    },
+    {
+      "id": "L14-Q4",
+      "kind": "singleChoice",
+      "prompt": "面对现实受害者时，永恒正义的边界是什么？",
+      "targetNodeIds": [
+        "L14-C4"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它不能削弱施害者归责，也不能替代安全、调查、救济与同意。",
+          "feedback": "明确阻断了由本体一体滑向受害者责难。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "受害与施害在形上层面已经相互抵消，现实救济只处理表象差异。",
+          "feedback": "错步在于用形上一体抵消现实侵害，并把救济贬为表象事务。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "M14-VICTIM-BLAME"
+    },
+    {
+      "id": "q15-01",
+      "kind": "singleChoice",
+      "prompt": "“物种的天才”在这里最适合怎样理解？",
+      "targetNodeIds": [
+        "c15-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "物种预先计算后代品质，再把命令放入个人意识",
+          "feedback": "错步是把无意识的尺度描述改成了有计划的主体。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "生命过程借个体欲望显现，并无会计划的物种心灵",
+          "feedback": "你保留了功能尺度，也避开了把意志人格化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m15-personified-species"
+    },
+    {
+      "id": "q15-02",
+      "kind": "singleChoice",
+      "prompt": "爱情的生殖背景与关系意义之间应怎样判断？",
+      "targetNodeIds": [
+        "c15-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "生殖背景把照护与承诺还原为物种策略",
+          "feedback": "错步是由动机的生殖背景把关系中的照护和承诺还原为策略叙述。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "背景可解释部分动机强度，却不能穷尽照护和承诺",
+          "feedback": "你区分了欲望来源与关系意义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m15-genetic-fallacy"
+    },
+    {
+      "id": "q15-03",
+      "kind": "singleChoice",
+      "prompt": "生命意志的肯定首先表示什么？",
+      "targetNodeIds": [
+        "c15-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "意志在身体、自保和延续中愿其显现继续",
+          "feedback": "你抓住了形上描述，而没有先作道德定罪。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它是评判生存行为正当性的伦理尺度",
+          "feedback": "错步是把形上描述改成评判具体生存行为正当性的规范尺度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m15-affirmation-guilt"
+    },
+    {
+      "id": "q15-04",
+      "kind": "singleChoice",
+      "prompt": "面对叔本华的择偶与遗传论述，较稳妥的处理是什么？",
+      "targetNodeIds": [
+        "c15-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "借现代进化论名词证明其性别和族群判断正确",
+          "feedback": "错步是以后来的科学词汇追认未经证成的具体偏见。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "保留动机不透明洞见，同时拒绝过时的普遍化判断",
+          "feedback": "你同时保留了解释洞见与历史批判。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m15-retrofit-evolution"
+    },
+    {
+      "id": "q16-01",
+      "kind": "singleChoice",
+      "prompt": "在叔本华的框架里，死亡直接终止什么？",
+      "targetNodeIds": [
+        "c16-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "作为世界内在根基的意志整体从存在中消失",
+          "feedback": "错步是把个体现象的终止扩成意志本身的消灭。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "时空中的个体意识、记忆和行动可能",
+          "feedback": "你没有用形上同一取消经验主体的终结。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m16-level-collapse"
+    },
+    {
+      "id": "q16-02",
+      "kind": "singleChoice",
+      "prompt": "“真实本性不可毁灭”没有许诺哪件事？",
+      "targetNodeIds": [
+        "c16-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "个人记忆与第一人称意识在死后继续",
+          "feedback": "你准确指出了非人格延续的边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "生命意志不以某个个体的出生为起点",
+          "feedback": "错步是把作者主张的非人格持续当成未许诺之事。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m16-wrong-subject"
+    },
+    {
+      "id": "q16-03",
+      "kind": "singleChoice",
+      "prompt": "为什么自然循环不能直接证明个人轮回？",
+      "targetNodeIds": [
+        "c16-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "形态延续不包含记忆和主体身份的传递机制",
+          "feedback": "你抓住了延续与同一身份之间的缺口。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "自然循环保存了前一人格的身份线索",
+          "feedback": "错步是由生命形式的连续更替推出前一人格身份得到保存。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m16-cycle-denial"
+    },
+    {
+      "id": "q16-04",
+      "kind": "singleChoice",
+      "prompt": "对死亡的尺度转换与意志否定是什么关系？",
+      "targetNodeIds": [
+        "c16-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "理解物种延续以后，欲望便会自行停止活动",
+          "feedback": "错步是把概念理解当成动机已经转向。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它可减弱个体中心视角，但动机转向仍需另作说明",
+          "feedback": "你保留了认识变化与意志转向的距离。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m16-cognition-conversion"
+    },
+    {
+      "id": "q17-01",
+      "kind": "singleChoice",
+      "prompt": "意志否定与命令自己压住欲望的差异在哪里？",
+      "targetNodeIds": [
+        "c17-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "意志否定依靠更强的自我控制，使欲望在理智监督下逐渐沉默",
+          "feedback": "错步是把认识对动机效力的改变解释成强化自我控制。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "前者指动机权重转向，后者可能仍是欲望间争夺",
+          "feedback": "你把认识转向与意志内部压制作了区分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m17-repression"
+    },
+    {
+      "id": "q17-02",
+      "kind": "singleChoice",
+      "prompt": "为什么不能仅凭清贫或禁食判断意志否定？",
+      "targetNodeIds": [
+        "c17-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "禁食越持久，越能独立证明意志转向",
+          "feedback": "错步是让行为持续时间代替对动机与形成条件的辨认。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "相同动作可能源于慈悲，也可能源于创伤或强迫",
+          "feedback": "你把行为外观与伦理动机分开了。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m17-no-evidence"
+    },
+    {
+      "id": "q17-03",
+      "kind": "singleChoice",
+      "prompt": "叔本华为何不把自杀当作意志否定的捷径？",
+      "targetNodeIds": [
+        "c17-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它终止此个体生命，却可能仍表达对另一种生活的强求",
+          "feedback": "你区分了拒绝当前处境与否定生命意志。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "自杀终止个体愿求，并由此把个人带入一种较理想的生命延续",
+          "feedback": "错步是把个体现象的终止接到原典没有许诺的个人延续。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m17-suicide-transition"
+    },
+    {
+      "id": "q17-04",
+      "kind": "singleChoice",
+      "prompt": "“否定如何可能”的主要体系困难是什么？",
+      "targetNodeIds": [
+        "c17-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "现象中的认识如何触及理由律之外的意志仍难说明",
+          "feedback": "你指出了认识与物自体转向之间的桥梁问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "禁欲者是否掌握更多关于自然科学的经验事实",
+          "feedback": "错步是把形上桥梁问题换成知识数量问题。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m17-wrong-problem"
+    },
+    {
+      "id": "q18-01",
+      "kind": "singleChoice",
+      "prompt": "宗教作为寓言的双重性质是什么？",
+      "targetNodeIds": [
+        "c18-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它可传递抽象意义，也可能被制度变成字面权威",
+          "feedback": "你同时看见了寓言的传达能力与权威风险。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "它的象征表达足以免除一切证据与解释责任",
+          "feedback": "错步是把寓言功能扩大成免于追问的特权。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m18-allegory-immunity"
+    },
+    {
+      "id": "q18-02",
+      "kind": "singleChoice",
+      "prompt": "Oupnek’hat抵达叔本华的文本链如何排列？",
+      "targetNodeIds": [
+        "c18-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "叔本华从拉丁文还原梵文并补写波斯中介",
+          "feedback": "错步是颠倒文本链，把拉丁文读者写成梵文还原者和波斯文补写者。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "梵文选本经《Sirr-i Akbar》波斯文再转为拉丁文",
+          "feedback": "你保留了达拉·希科与安克蒂尔-迪佩龙的中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m18-direct-sanskrit"
+    },
+    {
+      "id": "q18-03",
+      "kind": "singleChoice",
+      "prompt": "为什么《薄伽梵歌》不能被压成禁欲文本？",
+      "targetNodeIds": [
+        "c18-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它还处理行动义务、奉爱与神性等不同面向",
+          "feedback": "你保留了该文本自身的问题结构。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "因为它原本属于Oupnek’hat拉丁文选本的一部分",
+          "feedback": "错步是把独立译介路线混入Oupnek’hat。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m18-gita-upanishad"
+    },
+    {
+      "id": "q18-04",
+      "kind": "singleChoice",
+      "prompt": "叔本华把轮回接到生命意志延续时，应保留什么限制？",
+      "targetNodeIds": [
+        "c18-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "相似词语已经证明佛教与吠檀多都主张单一意志",
+          "feedback": "错步是由词语相似跳到传统形上学同一。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "这是选择性比较，不等于各传统共享同一套形上学",
+          "feedback": "你区分了跨文化对接与原义同一。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m18-tradition-collapse"
+    },
+    {
+      "id": "q19-01",
+      "kind": "singleChoice",
+      "prompt": "为什么《论妇女》不能被处理为偶然失言？",
+      "targetNodeIds": [
+        "c19-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它以连续论述贬低女性能力、地位和社会角色",
+          "feedback": "你依据文本规模确认了偏见的系统性。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "因为其中每句话都由世界意志概念严格演绎出来",
+          "feedback": "错步是把作者反复陈述升级为体系逻辑必然。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m19-system-entailment"
+    },
+    {
+      "id": "q19-02",
+      "kind": "singleChoice",
+      "prompt": "民族性格概括在判断个人时错在哪里？",
+      "targetNodeIds": [
+        "c19-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "它承认历史制度可能影响群体经验与表达方式",
+          "feedback": "错步是把有限的历史影响误认作被批评的本质化。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它把群体印象当成具体个人动机与价值的根据",
+          "feedback": "你指出了从标签跳到个人本质的错步。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m19-group-individual"
+    },
+    {
+      "id": "q19-03",
+      "kind": "singleChoice",
+      "prompt": "批评宗教教义与反犹太偏见如何区分？",
+      "targetNodeIds": [
+        "c19-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "哲学批评可以把宗教共同体的群体性格当作教义后果来分析",
+          "feedback": "错步是把针对教义的论证资格延伸到对宗教共同体的性格概括。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "前者针对可争论主张，后者把负面性质投向人群",
+          "feedback": "你区分了论证对象与身份贬损。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m19-doctrine-people"
+    },
+    {
+      "id": "q19-04",
+      "kind": "singleChoice",
+      "prompt": "本体一体性对作者偏见能起什么作用？",
+      "targetNodeIds": [
+        "c19-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "形上一体使作者的具体贬损失去审判意义",
+          "feedback": "错步是让形上同一把作者公开贬损降为无须承担责任的枝节。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "它提供内部批判资源，却不能抹去已写下的贬损",
+          "feedback": "你同时保留了理论资源与作者责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m19-metaphysical-offset"
+    },
+    {
+      "id": "q20-01",
+      "kind": "singleChoice",
+      "prompt": "瓦格纳与叔本华的关系最适合怎样表述？",
+      "targetNodeIds": [
+        "c20-01"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "直接阅读后吸收音乐形上学，并纳入自己的艺术工程",
+          "feedback": "你确认了影响，也保留了瓦格纳的改造。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "直接阅读使瓦格纳的完整工程成为叔本华原意",
+          "feedback": "错步是把直接接触扩大为瓦格纳完整工程都代表叔本华原意。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m20-wagner-backfill"
+    },
+    {
+      "id": "q20-02",
+      "kind": "singleChoice",
+      "prompt": "为什么要区分早期与中晚期尼采？",
+      "targetNodeIds": [
+        "c20-02"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "他从吸收艺术救赎框架转向批判否定与禁欲",
+          "feedback": "你看见了持续关系中的价值方向翻转。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "尼采早期批判叔本华，晚期才吸收艺术救赎",
+          "feedback": "错步是把早期吸收与中晚期批判的时间方向倒置。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m20-nietzsche-reversal"
+    },
+    {
+      "id": "q20-03",
+      "kind": "singleChoice",
+      "prompt": "弗洛伊德承认叔本华先见，能够支持什么结论？",
+      "targetNodeIds": [
+        "c20-03"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "弗洛伊德的驱力模型沿用了叔本华意志论",
+          "feedback": "错步是把作者承认的先见关系升级为驱力模型的直接沿用。",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "可确认概念亲缘与作者承认，形成路径仍需谨慎",
+          "feedback": "你没有把先见自动升级为起源证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "B",
+      "misconceptionId": "m20-freud-origin"
+    },
+    {
+      "id": "q20-04",
+      "kind": "singleChoice",
+      "prompt": "判断思想影响时，哪组证据更有辨别力？",
+      "targetNodeIds": [
+        "c20-04"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "接触时间、作者自述以及概念在新理论中的功能",
+          "feedback": "你采用了关系身份所需的多重证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "两位作者是否使用外观相似的一个关键词",
+          "feedback": "错步是把词语相似当作完整的因果证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "A",
+      "misconceptionId": "m20-word-match"
+    }
+  ]
+}

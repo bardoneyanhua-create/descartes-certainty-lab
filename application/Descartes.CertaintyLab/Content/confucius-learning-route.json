@@ -1,0 +1,3355 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "confucius-01-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知道还不够：学为何必须回到行动",
+      "explanation": "《论语》开篇把学与时习相连，关注的不是信息占有，而是理解能否在反复行动中稳定成形。 “有朋”使所学进入朋辈互证，三人同行又使任何同伴都可能成为校正来源；教师的启发以学习者已逼近问题为条件。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-1-1",
+        "evidence-ly-1-8",
+        "evidence-ly-2-11",
+        "evidence-ly-2-17",
+        "evidence-ly-7-8",
+        "evidence-ly-7-22"
+      ],
+      "abilityIds": [
+        "区分记住命题与形成可重复判断",
+        "说明习为何既不是机械重复，也不能脱离学",
+        "说明朋辈互证、分布式纠错与学习者准备如何相接"
+      ]
+    },
+    {
+      "id": "confucius-02-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "礼为何不是服从清单",
+      "explanation": "礼把情感、角色、时机和表达组织成可共同辨认的形式，但其正当性须由仁与合宜判断检验。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-3-3",
+        "evidence-ly-3-4",
+        "evidence-ly-12-1"
+      ],
+      "abilityIds": [
+        "说明礼的形式作用与规范边界",
+        "区分合宜表达和对权威的盲从"
+      ]
+    },
+    {
+      "id": "confucius-03-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从仁心到仁行：亲近如何扩展",
+      "explanation": "仁不是一时温情，而是把他人当作能受伤、能回应的行动者，并在差等关系中寻求可辩护的扩展。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-1-2",
+        "evidence-ly-4-1",
+        "evidence-ly-6-30"
+      ],
+      "abilityIds": [
+        "区分仁的情感起点与规范完成",
+        "判断亲疏差等何时成为偏私"
+      ]
+    },
+    {
+      "id": "confucius-04-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "孝的亲密力量与公共边界",
+      "explanation": "孝训练对具体生命史的回应，却不能凭亲属身份取消劝谏、正义与对受害者的责任。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-4-18",
+        "evidence-ly-2-7",
+        "evidence-ly-13-18"
+      ],
+      "abilityIds": [
+        "区分亲属照料与掩盖伤害",
+        "说明孝进入政治时为何需要边界"
+      ]
+    },
+    {
+      "id": "confucius-05-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "君子不是身份，而是承担判断的方式",
+      "explanation": "《论语》逐步把君子从贵族称谓转成可由行为检验的规范形象，并以小人对照欲望与理由的组织方式。 义给勇以方向，知/智辨认人物、处境与限度，勇才把判断落实；脱离义或学习的勇会趋于乱。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-2-12",
+        "evidence-ly-4-16",
+        "evidence-ly-15-21",
+        "evidence-ly-12-22",
+        "evidence-ly-14-28",
+        "evidence-ly-17-8",
+        "evidence-ly-17-23"
+      ],
+      "abilityIds": [
+        "区分社会称谓与规范人格",
+        "避免把小人固定成某类人的本质",
+        "区分义的规范方向、知/智的情境辨认与勇的行动承当"
+      ]
+    },
+    {
+      "id": "confucius-06-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "恕不是把自己复制给别人",
+      "explanation": "恕从反身经验启动限制，却必须经过角色互换、处境询问和可回应性，才不会成为自我投射。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-4-15",
+        "evidence-ly-15-24",
+        "evidence-ly-6-30"
+      ],
+      "abilityIds": [
+        "区分反身入口与偏好投射",
+        "说明恕与仁的互补关系"
+      ]
+    },
+    {
+      "id": "confucius-07-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "忠不是效忠：尽己如何仍能说不",
+      "explanation": "忠较适合读作尽己与不欺其职，而非对君主或组织无条件服从；它须与恕、义和劝谏相互限制。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-4-15",
+        "evidence-ly-3-19",
+        "evidence-ly-13-15"
+      ],
+      "abilityIds": [
+        "区分尽责与人格效忠",
+        "说明忠恕怎样相互校正"
+      ]
+    },
+    {
+      "id": "confucius-08-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正名：名称怎样取得约束力",
+      "explanation": "正名要求角色名称与可公开检验的责任相称，使言、事与制度后果能接续，但名称本身也须接受仁义检验。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-12-11",
+        "evidence-ly-13-3",
+        "evidence-ly-13-11"
+      ],
+      "abilityIds": [
+        "区分名称的描述与规范功能",
+        "用正名检验角色责任而非冻结等级"
+      ]
+    },
+    {
+      "id": "confucius-09-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "德治：不用刑罚，还是让刑罚退居其位",
+      "explanation": "德治批评刑罚独占治理，把羞耻、信任与表率放在规范形成层；它并不自动取消法律、程序和强制的边界作用。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-2-1",
+        "evidence-ly-2-3",
+        "evidence-ly-12-17"
+      ],
+      "abilityIds": [
+        "区分行为合规与规范认同",
+        "说明德治不能替代制度约束"
+      ]
+    },
+    {
+      "id": "confucius-10-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "天命：限制中的担当，而非结果保证",
+      "explanation": "《论语》中的命常标示行动者不能支配的边界，使担当与成败分离；天又保留规范敬畏，但不是可计算的奖惩机器。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-2-4",
+        "evidence-ly-9-5",
+        "evidence-ly-14-35"
+      ],
+      "abilityIds": [
+        "区分不可控结果与可控责任",
+        "避免把天命读成宿命或成功神学"
+      ]
+    },
+    {
+      "id": "confucius-11-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "没有算法的判断：权、时与多声部",
+      "explanation": "《论语》常以不同人物、时机和答法展示合宜判断；原则提供理由范围，情境决定哪些理由当前居先。 差异教导以学习者的准备与可说明差异为条件，并在朋辈共同纠错中持续受反证。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-11-22",
+        "evidence-ly-7-11",
+        "evidence-ly-18-6",
+        "evidence-ly-7-8",
+        "evidence-ly-7-22"
+      ],
+      "abilityIds": [
+        "区分情境判断与任意例外",
+        "从弟子多声部重建答法差异",
+        "把差异化教导置于学习者准备与共同纠错的双向责任中"
+      ]
+    },
+    {
+      "id": "confucius-12-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "谁在《论语》中说话：编纂、诠释与再出发",
+      "explanation": "《论语》保存早期孔门传统的多层声音；历史孔子、文本中的孔子形象、弟子话语、编纂结构与后世儒学必须区分后再建立解释。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-compilation",
+        "evidence-heyan-jijie",
+        "evidence-zhuxi-jizhu",
+        "evidence-dingzhou-manuscript"
+      ],
+      "abilityIds": [
+        "标明文本身份与出版层次",
+        "在不逐字归属的前提下重建思想网络"
+      ]
+    },
+    {
+      "id": "confucius-13-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "诗、礼、乐如何形成情感与共同体",
+      "explanation": "《诗》训练可引用、可回应的言语实践，“兴观群怨”容纳情感、观察、结群与节制之怨；礼提供共同形式，乐使情感秩序获得经验性协调，但声响和器物本身不保证德性。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-2-2",
+        "evidence-ly-3-23",
+        "evidence-ly-7-14",
+        "evidence-ly-8-8",
+        "evidence-ly-13-5",
+        "evidence-ly-16-13",
+        "evidence-ly-17-9",
+        "evidence-ly-17-11"
+      ],
+      "abilityIds": [
+        "区分诗的言语实践与背诵占有",
+        "解释兴观群怨、诗礼乐递进及反形式主义边界"
+      ]
+    },
+    {
+      "id": "confucius-14-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "祭祀、鬼神与生死：敬重如何保留知识限度",
+      "explanation": "祭祀的认真参与、对象正当性、对鬼神的敬而远之和先事人知生的次序属于不同问题层；这些片段既不推出无神论，也不构成系统神学。",
+      "identity": "modern-reconstruction",
+      "evidenceLinkIds": [
+        "evidence-ly-2-24",
+        "evidence-ly-3-12-opening",
+        "evidence-ly-3-12-speech",
+        "evidence-ly-6-22",
+        "evidence-ly-7-21",
+        "evidence-ly-11-12"
+      ],
+      "abilityIds": [
+        "区分仪式实践、存在命题与知识限度",
+        "避免把人事优先误读为无神论或神学定论"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "evidence-ly-1-1",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》与通行章次互校",
+      "locator": "学而1.1",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-1-8",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》与通行章次互校",
+      "locator": "学而1.8",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-11",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》与通行章次互校",
+      "locator": "为政2.11",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-17",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.17",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-7-8",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "述而7.8",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-3-3",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "八佾3.3",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-3-4",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "八佾3.4",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-12-1",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "颜渊12.1",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-1-2",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "学而1.2",
+      "locatorVerified": true,
+      "identity": "youzi-speech"
+    },
+    {
+      "id": "evidence-ly-4-1",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "里仁4.1-4.7",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-6-30",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "雍也6.30",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-4-18",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》与通行章次互校",
+      "locator": "里仁4.18",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-7",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.7",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-13-18",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子路13.18",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-2-12",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.12",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-4-16",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "里仁4.16",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-15-21",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》章次",
+      "locator": "卫灵公15.21",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-4-15",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "里仁4.15",
+      "locatorVerified": true,
+      "identity": "zengzi-speech"
+    },
+    {
+      "id": "evidence-ly-15-24",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "卫灵公15.24",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-3-19",
+      "workId": "analects",
+      "edition": "杨伯峻《论语译注》与通行章次互校",
+      "locator": "八佾3.19",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-13-15",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子路13.15",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-12-11",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "颜渊12.11",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-13-3",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子路13.3",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-13-11",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子路13.11",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-1",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.1",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-3",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.3",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-12-17",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "颜渊12.17",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-2-4",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.4",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-9-5",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子罕9.5",
+      "locatorVerified": true,
+      "identity": "narrated-confucius-speech"
+    },
+    {
+      "id": "evidence-ly-14-35",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "宪问14.35",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-11-22",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "先进11.22",
+      "locatorVerified": true,
+      "identity": "multi-disciple-dialogue"
+    },
+    {
+      "id": "evidence-ly-7-11",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "述而7.11",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-18-6",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "微子18.6",
+      "locatorVerified": true,
+      "identity": "multi-character-narrative"
+    },
+    {
+      "id": "evidence-ly-compilation",
+      "workId": "analects",
+      "edition": "Monumenta Serica 44.1 (1996)",
+      "locator": "pp. 1–24",
+      "locatorVerified": true,
+      "identity": "textual-history"
+    },
+    {
+      "id": "evidence-heyan-jijie",
+      "workId": "analects-jijie",
+      "edition": "魏正始年间集解传统",
+      "locator": "《论语集解》全书",
+      "locatorVerified": true,
+      "identity": "received-commentary"
+    },
+    {
+      "id": "evidence-zhuxi-jizhu",
+      "workId": "analects-jizhu",
+      "edition": "《四书章句集注》系统",
+      "locator": "《论语集注》全书",
+      "locatorVerified": true,
+      "identity": "received-commentary"
+    },
+    {
+      "id": "evidence-dingzhou-manuscript",
+      "workId": "dingzhou-analects",
+      "edition": "北京：文物出版社，1997年7月",
+      "locator": "全书2, 2, 100页；残简释文、校记与传世本对校",
+      "locatorVerified": true,
+      "identity": "material-textual-witness"
+    },
+    {
+      "id": "evidence-ly-7-22",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "述而7.22",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-12-22",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "颜渊12.22",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-14-28",
+      "workId": "analects",
+      "edition": "通行二十篇本（部分版本作14.30，须保留异号）",
+      "locator": "宪问14.28（异号14.30）",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-17-8",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "阳货17.8",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-17-23",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "阳货17.23",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-2-2",
+      "workId": "analects",
+      "edition": "通行二十篇本；何晏《集解》、朱熹《集注》仅作接受史比较",
+      "locator": "为政2.2",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-3-23",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "八佾3.23",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-7-14",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "述而7.14",
+      "locatorVerified": true,
+      "identity": "compiled-narration"
+    },
+    {
+      "id": "evidence-ly-8-8",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "泰伯8.8",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-13-5",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "子路13.5",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-16-13",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "季氏16.13",
+      "locatorVerified": true,
+      "identity": "nested-disciple-narrative"
+    },
+    {
+      "id": "evidence-ly-17-9",
+      "workId": "analects",
+      "edition": "通行二十篇本；何晏《集解》、朱熹《集注》仅作接受史比较",
+      "locator": "阳货17.9",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-17-11",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "阳货17.11",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-2-24",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "为政2.24",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-3-12-opening",
+      "workId": "analects",
+      "edition": "通行二十篇本；章首未明示“子曰”",
+      "locator": "八佾3.12章首“祭如在；祭神如神在”",
+      "locatorVerified": true,
+      "identity": "compiled-tradition-statement"
+    },
+    {
+      "id": "evidence-ly-3-12-speech",
+      "workId": "analects",
+      "edition": "通行二十篇本；后段显式“子曰”",
+      "locator": "八佾3.12后段“子曰：吾不与祭，如不祭”",
+      "locatorVerified": true,
+      "identity": "confucius-speech-in-compiled-text"
+    },
+    {
+      "id": "evidence-ly-6-22",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "雍也6.22",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    },
+    {
+      "id": "evidence-ly-7-21",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "述而7.21",
+      "locatorVerified": true,
+      "identity": "compiled-narrator"
+    },
+    {
+      "id": "evidence-ly-11-12",
+      "workId": "analects",
+      "edition": "通行二十篇本",
+      "locator": "先进11.12",
+      "locatorVerified": true,
+      "identity": "compiled-dialogue"
+    }
+  ],
+  "routes": [
+    {
+      "id": "confucius-analects-tradition",
+      "version": "1.1.0-candidate",
+      "title": "孔子与《论语》传统：在关系中成为可托付的人",
+      "lessonIds": [
+        "confucius-01",
+        "confucius-02",
+        "confucius-03",
+        "confucius-04",
+        "confucius-05",
+        "confucius-06",
+        "confucius-07",
+        "confucius-08",
+        "confucius-09",
+        "confucius-10",
+        "confucius-11",
+        "confucius-12",
+        "confucius-13",
+        "confucius-14"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "confucius-01",
+      "order": 1,
+      "title": "知道还不够：学为何必须回到行动",
+      "depth": "longform",
+      "guidingQuestion": "一个人能复述很多道理，却在熟悉处照旧行事，我们为什么仍不肯说他已经知道？",
+      "coreExplanation": "《论语》开篇把学与时习相连，关注的不是信息占有，而是理解能否在反复行动中稳定成形。",
+      "sections": [
+        {
+          "heading": "会说为何仍可能不会",
+          "paragraphs": [
+            "有人把学习看成把正确句子装进记忆。可是面对争执、利益和羞耻时，句子若不能改变注意力与动作，它只是一件随时可被情境击退的行李。问题因此不是储存多少，而是判断怎样获得可依赖的形状。",
+            "这里要避免另一端的误会：行动失败也不立即证明毫无理解。疲惫、恐惧和强制会阻断表现，所以需要考察的是一段时间内，理由是否逐渐改变人的注意、准备与修正，而不是拿一次成败作总判决。",
+            "《论语》一开头便把“学”与“时习”并置。这里的“时”不必读成钟表式定期，“习”也不只是背诵；较稳妥的理解是，让所学在合宜时机反复接受行动检验。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "反复不是原地打转",
+          "paragraphs": [
+            "若没有新的辨认，重复只会固化坏习惯。学提供方向与理由，习让理由进入不同处境；一次次差异迫使行动者发现，原先以为相同的场面其实在关系、风险和责任上并不相同。",
+            "学与习因此不能互相替代。只有学，理由停留在未经压力的陈述；只有习，熟练可能只是把既有偏见做得更快。二者相接，才使行动既有可说明的方向，又肯接受经验反证。",
+            "这也解释“温故而知新”的张力：故不是封存答案，新不是抛弃旧说。重新经过旧材料时，现实的变化暴露旧理解的盲点，于是反复产生修正。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "concept"
+        },
+        {
+          "heading": "知之与不知的诚实",
+          "paragraphs": [
+            "《为政》记“知之为知之，不知为不知”。它先规定一种认识纪律：不能用身份、口才或愿望替代证据。承认不知不是停在无知，而是阻止虚假的确定性接管下一步。",
+            "这条纪律还有社会面。地位越高，假装知道造成的后果越大；部属会按错误确信行动，也更难提出反证。知与不知的区分因而不仅是内心诚实，也是让共同判断保留纠错入口。",
+            "不过，知道自己缺什么仍不等于已经补足。行动者还要能说出需要什么证据、向谁求助、怎样在新材料出现后改判。若“不知”只是一句谦辞，它同样可能逃避认识责任。",
+            "《述而》又把启发放在“愤”“悱”的临界处：若当事人尚未真正逼近困难，现成答案容易成为借来的语言。由此可见，学既需要他人引导，也需要自身形成问题压力。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "把迟到的道歉放进检验",
+          "paragraphs": [
+            "设想某人熟知“过则勿惮改”，每次迟到都能道歉，却从不改动出门安排。道歉显示他会引用规范，重复迟到则显示规范尚未进入预见与安排。若他调整路线并在意外时提前通知，习才改变了判断链。",
+            "把条件改一下，判断也会变化。若突发停运无法预见，迟到不再证明他忽视关系；此时是否及时通报、是否协助改约更有辨别力。案例检验的不是钟表服从，而是理由能否随可控条件进入行动。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "启发为何不能变成故意 withholding",
+          "paragraphs": [
+            "“不愤不启”容易被滥用为教师拒绝说明的理由。可若困难来自术语未解释、材料不可取得或权力使人不敢提问，沉默等待并不会产生愤悱，只会把制度障碍误成个人不用心。",
+            "合宜引导要区分替人完成思考与提供进入思考的条件。教师可以追问前提、展示反例、补足背景，再把尚可由当事人完成的一步留下；启发的边界由能力增长判断，不由教师展示神秘权威。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "实践会不会压倒思考",
+          "paragraphs": [
+            "强异议认为，把知系于行动会错怪受压制者：一个人可能明白该说真话，却因报复风险而沉默。若行动是知识的唯一证据，权力就能把被迫沉默误判为无知。",
+            "异议攻击的不是学与行为毫无关系，而是“外显表现是唯一证据”这个前提。它若成立，我们仍可说理解应影响判断，却不能把公开勇敢当作人人同等可用的测量尺。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "可实行性不是单一外显动作",
+          "paragraphs": [
+            "这个异议保住了知识与即时表现的区别。回应必须收缩：习检验的是理由能否组织注意、权衡和准备，不要求每次公开表态。沉默者若能辨认风险、寻找时机并说明代价，理解仍在起作用；尚欠的是怎样判断行动时机，这会把我们带向礼。",
+            "收缩也留下代价：内部理解很难从外部直接确认，行动者可能用“我心里明白”保护惯性。因此仍需长期、可修正的证据，而不能放弃行为检验。问题从是否行动转成何时、如何行动，礼由此成为下一步。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "从“有朋”到三人行：学习为何需要共同纠错",
+          "paragraphs": [
+            "1.1的“有朋自远方来”不只是社交愉悦：当学习进入共同言说和行动，理解才会暴露给他人的经验与反证。7.22进一步把可学习者分散到同行者之中：择其善而从之，见其不善而内自省，教师并不垄断知识入口。",
+            "共同体也不替学习者完成思考。7.8把启发置于“愤”“悱”的准备条件，要求学习者先形成真实问题；反过来，教师须提供材料、追问与可进入的支架，不能把沉默包装成高深。这里形成双向责任，却不是后出《学记》“教学相长”的倒写。",
+            "一般条件仍须进入具体处境：L11展示同题异答如何按子路与冉有的性情校正；差异教导仍受证据、共同目标和可纠错纪律约束。孔门共同体是今本汇编保存的多层声音，不能直接等同现代课堂。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "同一句劝告在安静时容易赞同，在受辱时却难以实行；前后落差检验的是理解是否已经进入判断。",
+      "nodeIds": [
+        "confucius-01-claim"
+      ],
+      "checkIds": [
+        "confucius-01-check-1",
+        "confucius-01-check-2",
+        "confucius-01-check-3",
+        "confucius-01-check-4"
+      ],
+      "abilitySummary": [
+        "区分记住命题与形成可重复判断",
+        "说明习为何既不是机械重复，也不能脱离学",
+        "辨认共同学习如何开放纠错而不取消个人准备"
+      ],
+      "recommendedNextLessonId": "confucius-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-02",
+      "order": 2,
+      "title": "礼为何不是服从清单",
+      "depth": "longform",
+      "guidingQuestion": "若礼只是照做旧规，它怎样处理规则冲突、情势变化和不仁的命令？",
+      "coreExplanation": "礼把情感、角色、时机和表达组织成可共同辨认的形式，但其正当性须由仁与合宜判断检验。",
+      "sections": [
+        {
+          "heading": "善意为何仍会伤人",
+          "paragraphs": [
+            "只凭内心善意，行动仍可能粗暴；只凭外在规则，行动又可能空洞。礼被需要，正因为关系中的尊重必须获得可见形式，而形式若离开目的，也会变成遮蔽伤害的仪式。",
+            "例如探望丧亲者，热情追问细节可能出于关心，却夺走对方沉默的空间；拘守套话又可能让哀痛无人回应。善意需要形式来节制自己，形式也需要目的来判断何时应变。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "形式使关系能够被辨认",
+          "paragraphs": [
+            "问礼的细节时，孔子形象并不嫌繁琐，因为席位、语气、进退会公开标示谁被看见、谁承担责任。但《八佾》又问“人而不仁，如礼何”，把仁放在形式的检验位置。",
+            "礼与礼貌也须分开。礼貌偏重表面和悦，礼则可能要求在适当时刻提出令人不快的劝止；反过来，粗暴的真话若只炫耀说话者勇敢，也未必合礼。形式所约束的是关系中的表达责任。",
+            "因此礼不是命令目录，而是把恭敬、哀痛、节制等取向落实成可共享形式。它能约束任性，却不能从“传统如此”单独推出“现在正当”。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "concept"
+        },
+        {
+          "heading": "克己复礼的两重约束",
+          "paragraphs": [
+            "《颜渊》记“克己复礼为仁”。若把克己读成消灭自我，礼便成为服从；较谨慎的读法是约束把一己欲望当作唯一尺度，再回到能让彼此位置被承认的形式。",
+            "第一步只是否定私欲独占，尚未给出正确形式。第二步必须问，相关者能否在该形式中被看见、能否表达伤害、角色责任是否对称。没有这一步，复礼仍可能只是回到一套强者熟悉的秩序。",
+            "“非礼勿视听言动”指向注意、接受、表达和行动的连续训练。它限制冲动，却仍留下问题：什么算合宜，必须在仁与具体关系中判断。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "劝止与羞辱不是同一反对",
+          "paragraphs": [
+            "下属发现主管决定会伤害弱者。私下陈明证据若仍无效，公开反对可能成为责任；一开始就借礼要求沉默，则礼沦为权力护具。案例显示礼调节方式和时机，不取消异议内容。",
+            "若主管立即暂停决定并邀请受影响者陈述，继续公开点名羞辱便失去必要性；若主管销毁证据，公开程度反而可能增加。改变“内部劝止是否有效”这一条件，会改变合礼表达的尺度。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "多套礼相遇时不能只问谁更古老",
+          "paragraphs": [
+            "共同生活中可能同时存在家庭、职业、宗教与公共礼仪。它们对称呼、身体距离和哀悼方式的要求会冲突；若只以年代或多数决定，少数人的尊严经验很容易被当作偏差。",
+            "解决冲突须回到礼的功能：哪种形式能使相关者被辨认、减少可避免伤害并保留回应。传统连续性仍是理由，却不再是唯一理由；这一步正显示仁为何不是礼之外的温情，而是礼的批判尺度。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁有权规定合宜",
+          "paragraphs": [
+            "强异议指出，所谓合宜常由地位较高者定义。若没有独立标准，礼的细腻语言可以把压迫包装成体面，并把受害者的愤怒标成失礼。",
+            "它具体攻击“共享形式本身足以证明互相承认”这一前提。一个仪式可以人人熟悉，却只允许低位者克制；共同可辨认不等于共同可辩护。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "仁保住人，礼收束表达",
+          "paragraphs": [
+            "回应不能说既有礼制天然含仁。它只保住较弱命题：共同形式能降低任性，但须检验是否让相关者获得说理、拒绝和申诉的位置。这个现代检验扩展了古义，仍欠正名如何揭露被滥用的角色名称。",
+            "这样保住的是形式对冲动和误解的约束，收缩的是传统形式的自我正当化。仍欠的是：当不同群体对尊重形式有冲突理解时，谁来解释角色责任。仁给出人的边界，正名将处理名称与责任。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "同一句拒绝，在私下劝止与公开羞辱中具有不同关系效果；礼要求辨认差异，而非消灭反对。",
+      "nodeIds": [
+        "confucius-02-claim"
+      ],
+      "checkIds": [
+        "confucius-02-check-1",
+        "confucius-02-check-2",
+        "confucius-02-check-3",
+        "confucius-02-check-4"
+      ],
+      "abilitySummary": [
+        "说明礼的形式作用与规范边界",
+        "区分合宜表达和对权威的盲从"
+      ],
+      "recommendedNextLessonId": "confucius-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-03",
+      "order": 3,
+      "title": "从仁心到仁行：亲近如何扩展",
+      "depth": "longform",
+      "guidingQuestion": "若仁从亲近关系生长，它怎样避免只照顾自己人；若一开始要求同样对待，又怎样保留关系责任？",
+      "coreExplanation": "仁不是一时温情，而是把他人当作能受伤、能回应的行动者，并在差等关系中寻求可辩护的扩展。",
+      "sections": [
+        {
+          "heading": "爱有起点不等于爱有围墙",
+          "paragraphs": [
+            "人通常先被具体面孔打动，而不是先爱抽象人类。可若亲近天然优先，一切裙带都能借感情辩护；若亲疏毫无差别，照料承诺又失去意义。仁要处理的正是起点与边界的张力。",
+            "这里的压力来自两种真实损失。取消亲近责任，会让依赖长期承诺的人无人照料；让亲近决定公共资格，又使陌生人承担他人家庭偏爱的代价。仁必须解释关系怎样扩展，而非在两端选一句口号。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "仁要求把关系做成人的关系",
+          "paragraphs": [
+            "《里仁》反复把仁与安身、择处和观过相连，显示仁不是孤立善意，而是让欲望、判断和关系可受检验的中心。它能说明为何伤人可耻，却不能单独给出每场冲突的唯一规则。",
+            "仁与同情并不相等。同情可能随距离和想象起伏，仁却要求把他人的可回应地位纳入稳定判断；即使没有温情，也不能把对方只当手段。情感可以唤起仁，不能独占仁的根据。",
+            "《雍也》记“己欲立而立人，己欲达而达人”。这里不是把自己的欲望复制给别人，而是从自身需要站立与通达，推知他人也有形成行动能力的要求。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "concept"
+        },
+        {
+          "heading": "可反身的推扩",
+          "paragraphs": [
+            "推扩包含两步：先由自身受阻经验识别他人的脆弱，再让对方的具体处境修正我的类比。只做第一步，会用自我想象覆盖他人；只做第二步而拒绝共同尺度，又难以批评伤害。",
+            "从这两步可得一个有限结论：别人不是我意愿的延长，也有站立和通达的要求。尚不能由此推出资源怎样分、亲属与陌生人各占多少；推扩先改变谁进入考虑，再把分配难题交给更具体的规范。",
+            "差等关系因此应理解为责任形态不同，而非人的价值不同。父母可能对幼儿承担持续照料，公职人员却不能据此让幼儿取得他人没有的公共资格。差别需要与关系任务相称。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "病床与公共名额",
+          "paragraphs": [
+            "公职人员需要照顾病父，同时掌握稀缺名额。亲自陪护可由特殊关系辩护，把名额优先给父亲却须接受公共标准。差等能改变谁承担照护，不能自动改变公共资源的资格。",
+            "若名额本来就是照护者临时替班而非公共救治资格，亲属关系可能改变安排；若父亲病情符合公开优先标准，给予名额也不构成偏私。改变资源性质与资格根据，判断便随之改变。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "仁会不会太依赖情感",
+          "paragraphs": [
+            "异议攻击仁的可扩展性：面对陌生人时，人可能没有温情；若规范动力必须来自亲近感，远方受苦者便只在偶然同情出现时才有分量。",
+            "其目标是“亲近情感既是发生起点，也是最终正当尺度”这个强前提。异议不必否认家庭经验能教人照料，只须证明这种经验无法自行决定陌生人的分量。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "情感提供入口，反身判断纠正半径",
+          "paragraphs": [
+            "回应保住亲近经验的发生作用，却收缩其裁决权。仁可以从情感学习何为受伤，再借“立人达人”的反身结构超出感情半径；它仍欠一套制度分配理论，不能替代公共规则。",
+            "保住的是具体照料对道德知觉的训练，收缩的是亲近者自动优先的权限。仍欠的制度问题不能靠重复“仁爱”解决；下一步必须直面孝在亲属忠诚与公共责任之间的冲突。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "照顾患病父亲与公平分配公共资源可同时成为责任，关键是两者不能互相吞并。",
+      "nodeIds": [
+        "confucius-03-claim"
+      ],
+      "checkIds": [
+        "confucius-03-check-1",
+        "confucius-03-check-2",
+        "confucius-03-check-3",
+        "confucius-03-check-4"
+      ],
+      "abilitySummary": [
+        "区分仁的情感起点与规范完成",
+        "判断亲疏差等何时成为偏私"
+      ],
+      "recommendedNextLessonId": "confucius-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-04",
+      "order": 4,
+      "title": "孝的亲密力量与公共边界",
+      "depth": "longform",
+      "guidingQuestion": "亲属间的忠诚何时是德性，何时会把公共责任变成包庇？",
+      "coreExplanation": "孝训练对具体生命史的回应，却不能凭亲属身份取消劝谏、正义与对受害者的责任。",
+      "sections": [
+        {
+          "heading": "最深的忠诚也可能伤害第三人",
+          "paragraphs": [
+            "孝把人从自足幻觉中拉回：生命、语言和照料都来自具体关系。但亲密也会缩小视野，使受害者从画面消失。真正困难不是赞成或拒绝孝，而是亲情能承担哪些理由。",
+            "若只说孝是私德，便低估家庭如何塑造服从、信任与政治想象；若把孝直接推广为治理原则，又可能把成年人当作永远受父权支配的子女。亲密经验进入公共领域时必须转换，而非照搬。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "奉养之外还有敬与劝",
+          "paragraphs": [
+            "《为政》把仅能奉养人与犬马相提，指出孝需要敬，而不只是资源供给。敬使父母成为有尊严的关系对象，却不等于把其每个决定都判为正确。",
+            "敬与顺从的边界可由理由方向辨认：敬要求认真听取父母的生命经验，顺从则把身份本身当成结论。前者可能使反对更耐心，后者使反对在开口前就失去资格。",
+            "《里仁》谈事父母“几谏”，不从则敬而不违、劳而不怨。其具体解释有争议，但至少显示劝谏不是孝的反面；表达方式受关系约束，判断并未消失。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "直躬章留下的尖锐难题",
+          "paragraphs": [
+            "《子路》记叶公称父偷羊而子作证，孔子形象答“父为子隐，子为父隐，直在其中”。这段不能轻率改写成普遍毁证许可；语境、法律形态与“隐”的范围都需辨认。",
+            "首先应分开不主动揭发、拒绝亲手指控、陈述虚假事实和毁灭他人证据。这些行为对公共事实的损害不同，不能被一个“隐”字抹平。文本没有替我们完成这些现代区分。",
+            "其次，叶公之“直”也不必等同完备正义。对话可能在批评一种只看公开检举、不看关系代价的单薄正直；但批评单薄正直，不等于受害者的损失不再进入判断。",
+            "它保住的强点是：公共判断不能假装亲属关系不存在。它危险的扩张则是让亲情吞并受害者、证据和共同规则。文本把冲突推出，并未替现代法治给出现成程序。"
+          ],
+          "identity": "compiled-dialogue",
+          "kind": "controversy"
+        },
+        {
+          "heading": "陪伴承担而非替人逃责",
+          "paragraphs": [
+            "交通事故中，子女可陪同投案、联系救治并在审理中持续照料；毁掉录像则让第三人承担亲情的代价。前者把孝变成面对过错的陪伴，后者把孝变成不受他人反证的特权。",
+            "若事故只是轻微财损且双方已诚实协商，是否立即诉诸强制程序可能有不同答案；若有人重伤而父亲企图继续驾车，制止和保存事实的责任显著增加。伤害强度与持续风险会改变亲属沉默的边界。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "从家庭到政治不能照搬父子模型",
+          "paragraphs": [
+            "家庭照料常建立在长期依赖、身体接近与不可替代的生命史上，政治关系则涉及陌生人、可更换职位和强制权。把官员称为父母，可能提醒照料责任，也可能让公民的质疑被解释为不孝。",
+            "因此政治吸收孝的，只能是记得依赖、回应具体生活与不轻弃关系；它必须舍弃父母对子女的天然先在地位，并加入平等资格、公开理由和更换权力者的可能。这是现代迁移，不是古语的直接展开。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "公共正义会不会冷酷地拆散亲情",
+          "paragraphs": [
+            "异议指出，若一切亲属信息都必须立即交给权力，家庭会失去信任，强制机构也可能借道德名义侵入脆弱关系。公共要求本身并不天然无害。",
+            "它攻击的是“公共事实需要保护，所以国家可无限取得亲属信息”的推论。即便包庇有错，仍需证明强制范围、程序保障和伤害严重性，而不能让公共名义跳过这些中项。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "边界要同时约束亲属与权力",
+          "paragraphs": [
+            "回应承认隐私和不自证亲属的制度价值，却区分不主动告发、作伪证与毁灭证据。孝可保护照料关系，不能制造伤害免责；国家也须受程序和比例约束。这里保住双重限制，仍欠具体法制选择。",
+            "保住的是亲属关系不被公共角色完全吞没，收缩的是亲情对事实义务的支配权。仍欠的是不同伤害下的证言豁免与救济设计；《论语》提供冲突结构，现代法制必须承担具体选择。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "父亲造成交通事故，子女既不能冷漠遗弃，也不能毁证；照料、劝其承担和保存事实可以并行。",
+      "nodeIds": [
+        "confucius-04-claim"
+      ],
+      "checkIds": [
+        "confucius-04-check-1",
+        "confucius-04-check-2",
+        "confucius-04-check-3",
+        "confucius-04-check-4"
+      ],
+      "abilitySummary": [
+        "区分亲属照料与掩盖伤害",
+        "说明孝进入政治时为何需要边界"
+      ],
+      "recommendedNextLessonId": "confucius-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-05",
+      "order": 5,
+      "title": "君子不是身份，而是承担判断的方式",
+      "depth": "longform",
+      "guidingQuestion": "“君子”若仍按出身理解，德性如何批评地位；若只剩自我完善，又怎样进入共同生活？",
+      "coreExplanation": "《论语》逐步把君子从贵族称谓转成可由行为检验的规范形象，并以小人对照欲望与理由的组织方式。",
+      "sections": [
+        {
+          "heading": "地位为何不能证明值得信任",
+          "paragraphs": [
+            "社会称号常把权力包装成品格。若君子只指上层身份，任何批评都会在开口前失败；若它是可检验的行动方式，名位反而要接受德性审查。",
+            "但把君子完全私人化也会失去锋芒。一个人独处时克制，却在机构中让下属承担代价，不能凭内心修养免于公共评价。君子之所以重要，在于人格如何穿过角色而成为可托付的行动。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "不器不是没有专长",
+          "paragraphs": [
+            "《为政》记“君子不器”。器有固定用途，人的判断却要在冲突理由间转换。它不是贬低技能，而是拒绝把人缩成一种功能，尤其拒绝以职位需要免除整体责任。",
+            "专长提供可靠手段，整体判断追问手段服务什么、代价落在谁身上。医生不能以技术熟练代替知情同意，官员也不能以程序正确掩盖明显伤害；不器是在专长边界处继续承担理由。",
+            "《里仁》以“喻于义”与“喻于利”对照君子小人。差别不在是否看见利益，而在利益能否接受可共同说明的义之限制。",
+            "“喻”还提示知觉习惯：行动者首先看见什么，会受到长期欲望组织。小人并非每次都计算私利，君子也非没有所欲；差别在遇到冲突时，哪类理由更容易进入视野并改变行动。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "先要求自己不等于只怪自己",
+          "paragraphs": [
+            "君子“求诸己”常被读成内向自责。较强的意思是先检查自己可控制的理由和行动，避免把责任全推给环境；它不能推出制度不需改变，也不能要求受害者承担施害原因。",
+            "推论的中项是控制范围：从“我能改变这一部分”只能推出“我应先处理这一部分”，不能推出“其余原因不存在”。若流程奖励隐瞒，个人诚实与制度修正都是真责任，先后顺序不取消因果复数。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "argument"
+        },
+        {
+          "heading": "失误后的两种位置",
+          "paragraphs": [
+            "主管占功而把错误交给下属，虽然名位尊贵，却让利益决定责任分配。职员承认自己的可控失误、保存证据并要求修正流程，既求诸己也指向制度。君子由承担方式显现。",
+            "若职员并无证据却为赢得赞誉夸大流程缺陷，要求制度修正就失去根据；若多人受同一奖励结构驱使，即使职员个人已改，结构责任仍在。证据与重复模式改变对两层责任的判断。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "人格理想会不会遮蔽结构",
+          "paragraphs": [
+            "异议认为，强调君子自修会把贫困、歧视和权力差异改写成个人品格不足；结构造成的失败若被要求“反求诸己”，德性语言会替制度卸责。",
+            "异议击中的具体前提是：凡可通过自我改变缓解的结果，其主要原因都在个人。这个前提不成立，因为人在不公结构中发展应对能力，并不能证明结构已无责任。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "自省确定行动入口，不独占因果解释",
+          "paragraphs": [
+            "回应保住自省作为行动入口，却收缩为“检查我的可控部分”。它不声称所有原因都在个人，更不禁止共同改变规则。小人也应当理解为一种可变的理由结构，而非给人永久定类。",
+            "这里保住德性语言对借口的批评，收缩它对因果的垄断。仍欠的是如何从个人可控部分进入共同制度行动；恕与忠将分别加入他人承受和职责对象，使君子不只是自我雕琢。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "义、知/智与勇：功能相接而非后世清单",
+          "paragraphs": [
+            "义在本篇已有“喻于义”的承载位：它说明什么值得做，却不自动给出每个处境的全部信息。12.22以“知人”把知/智带到人物与关系的辨认；这不同于L01“知之为知之”的认识纪律，但同样保留可错与校正。",
+            "勇承担把判断落实为行动的风险，却不是胆量本身。17.23明确说君子以义为上，并警告勇而无义会乱；17.8又把“好勇不好学”的蔽指向乱。因此义约束方向，学习校正勇的盲点，知/智辨认当前对象，三者不能互相替代。",
+            "14.28（部分章分作14.30）的仁者不忧、知者不惑、勇者不惧，只证明今本有组合表达；它不能把后世“三达德”体系倒灌为孔子已经完成的系统。义也不能缩成角色服从：L04的劝谏与公共责任、L06—L07的恕忠冲突，要求义接受受害者与职责的反证。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "职位高者把功劳归己，普通职员承担失误并修补后果；名位与君子表现可以分离。",
+      "nodeIds": [
+        "confucius-05-claim"
+      ],
+      "checkIds": [
+        "confucius-05-check-1",
+        "confucius-05-check-2",
+        "confucius-05-check-3",
+        "confucius-05-check-4"
+      ],
+      "abilitySummary": [
+        "区分社会称谓与规范人格",
+        "避免把小人固定成某类人的本质",
+        "用义约束勇，并说明学习与知/智如何校正行动"
+      ],
+      "recommendedNextLessonId": "confucius-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-06",
+      "order": 6,
+      "title": "恕不是把自己复制给别人",
+      "depth": "longform",
+      "guidingQuestion": "“己所不欲，勿施于人”若只问我不喜欢什么，怎样避免把我的偏好当成他人的尺度？",
+      "coreExplanation": "恕从反身经验启动限制，却必须经过角色互换、处境询问和可回应性，才不会成为自我投射。",
+      "sections": [
+        {
+          "heading": "黄金规则也会误认他人",
+          "paragraphs": [
+            "从自己出发容易理解，却也容易把别人做成自己的副本。一个耐受公开批评的人若说“我不介意，所以你也不该介意”，形式上互换，实质上仍由自己垄断尺度。",
+            "完全放弃自我经验也不可行。我们不可能从无位置处认识他人，必须先借自身疼痛、羞耻和受阻形成类比。恕的难题不是要不要从自己出发，而是怎样让出发点接受他人的反向修正。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "恕是一条反向约束",
+          "paragraphs": [
+            "《卫灵公》以“一言而可以终身行之”问答引出恕，再接“己所不欲，勿施于人”。它首先是否定性刹车：在把代价放给他人前，让行动者从承受位置重审。",
+            "“不欲”不只是偏好清单。有人不喜欢被批评，却仍应接受有根据的问责；有人习惯受辱，也不能据此允许羞辱。恕所调用的是作为行动者不愿被任意支配、欺骗或剥夺回应位置的经验。",
+            "否定性使恕避免替别人规定幸福，却也不足以告诉我们应主动提供什么。仁的“立人达人”补入积极面，恕则不断检查这种帮助是否变成支配。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "互换必须带着差异",
+          "paragraphs": [
+            "有效互换不是交换姓名，而是交换处境：权力、信息、风险和退出能力都要进入判断。若主管与下属只换称呼，仍保留主管免受报复的条件，互换便是假的。",
+            "第一步是想象自己承受同类行为，第二步是列出双方条件差异，第三步是让对方陈述哪些差异被遗漏。只有第一步是投射，只有第三步而无共同尺度则难以批评明显强加；三步共同构成可修正的互换。",
+            "由此得到的结论仍有限：某种强加不可接受，不等于相反行动已充分正当。拒绝公开羞辱之后，如何给出清楚反馈仍需专业事实和关系目的来决定。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "直接与公开之间的差别",
+          "paragraphs": [
+            "管理者偏好直率反馈，可以私下明确指出问题并提供申辩；在众人前点名羞辱则附加地位风险。恕不要求含糊，它要求把表达后果从承受者位置重新计算。",
+            "若错误会立即危及众人，公开制止可能必要；若只是可私下纠正的疏漏，公开点名主要增加羞耻。风险紧迫性改变表达范围，申辩与后续修正机会则改变强加程度。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "强者与弱者互换位置并不对称",
+          "paragraphs": [
+            "占优势者想象失去一次便利，未必能理解弱势者长期担忧报复的处境；弱势者则可能非常熟悉强者规则，却没有改变规则的能力。恕若假定双方拥有同等信息，会低估权力造成的认识差。",
+            "所以强者承担更高的询问和举证负担：不能只说自己愿受同样待遇，还要说明对方能否拒绝、申诉和退出。这个不对称不是给弱者道德豁免，而是让互换把真实权力一并带入。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "不欲会不会过于消极",
+          "paragraphs": [
+            "异议说，避免施加自己厌恶之事，只能得到最低限度的不伤害。面对饥饿、排斥和能力受阻，旁观者即使没有主动施加，也可能维持不正义。",
+            "它攻击“只要我未直接把伤害施加给别人，就已满足关系责任”这一前提。制度性排斥可能通过不作为延续，否定性规则若不检查受益位置，便会漏掉这种共谋。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "刹车与推动不能互相替代",
+          "paragraphs": [
+            "回应承认恕不足以构成全部伦理。它保住对强加的检验，并与仁的积极成全相接；仁若没有恕会越俎代庖，恕若没有仁会停在不介入。两者仍需具体制度判断。",
+            "回应收缩的是恕作为完整伦理的地位，保住的是任何积极帮助都要经过承受者位置检验。仍欠的是行动者对共同职责投入多少，这正是忠要处理的问题；忠若离开恕，也会把投入变成强加。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "管理者自己喜欢直接批评，不能据此公开羞辱同事；互换要求考虑权力差与对方承受方式。",
+      "nodeIds": [
+        "confucius-06-claim"
+      ],
+      "checkIds": [
+        "confucius-06-check-1",
+        "confucius-06-check-2",
+        "confucius-06-check-3",
+        "confucius-06-check-4"
+      ],
+      "abilitySummary": [
+        "区分反身入口与偏好投射",
+        "说明恕与仁的互补关系"
+      ],
+      "recommendedNextLessonId": "confucius-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-07",
+      "order": 7,
+      "title": "忠不是效忠：尽己如何仍能说不",
+      "depth": "longform",
+      "guidingQuestion": "若忠意味着把自己真正投入关系，它何时要求坚持，何时反而要求拒绝命令？",
+      "coreExplanation": "忠较适合读作尽己与不欺其职，而非对君主或组织无条件服从；它须与恕、义和劝谏相互限制。",
+      "sections": [
+        {
+          "heading": "投入关系为何可能要求反对",
+          "paragraphs": [
+            "日常语言常把忠理解为站队。可若关系目标本来包含安全、信任或共同事业，服从破坏目标的命令便不是忠，而是把上级意志偷换成关系本身。",
+            "另一端也有危险：人人以“真正目标”为名拒绝协调，忠便失去持续承担，只剩自我认证的良知。问题是怎样既不把关系缩成命令来源，也不让个人随意改写职责对象。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "尽己不是交出判断",
+          "paragraphs": [
+            "曾子把孔子之道概括为“忠恕而已矣”，这是弟子在汇编中的解释声音，不宜直接当作孔子亲自写下的体系公式。忠与恕相连，暗示投入自己还须从他人承受位置受限。",
+            "尽己也不等于耗尽自己。责任强度要看承诺、能力、替代者和伤害风险；若组织要求成员以忠为名放弃健康与家庭，它可能把可持续承担偷换成无限牺牲。",
+            "《八佾》记“君使臣以礼，臣事君以忠”的互相条件；《子路》又让“一言而丧邦”显示君主纳谏的重要。政治关系不是单向服从。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "concept"
+        },
+        {
+          "heading": "职责对象与命令来源要分开",
+          "paragraphs": [
+            "判断一项拒绝是否忠，需要区分我对谁、对什么负责，以及谁正在发令。主管是命令来源，公共安全才可能是职责对象；两者一致时服从有理由，分离时服从本身需受审。",
+            "分离后还不能立刻跳到公开违令。行动者要确认职责内容、伤害概率、内部修正可能和延误代价。这个中项防止把每次分歧都英雄化，也防止程序拖延到伤害无法挽回。",
+            "忠因而是一条持续证明链：为什么这项事业值得投入，当前命令怎样服务或背离它，我选择的反对方式会不会制造更大背叛。只说内心真诚，无法完成这些证明。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "隐瞒缺陷的命令",
+          "paragraphs": [
+            "工程师发现制动缺陷。先在组织内保存证据、说明风险并寻求修正，是对共同事业投入；若主管要求删改数据，拒绝和外部通报可能延续同一忠，而不是突然变成背叛。",
+            "若缺陷只是未经确认的噪声，立即公开可能误伤使用者与同事，先复测更相称；若主管正在销毁数据且产品即将上市，等待内部程序会增加危险。证据强度与时间窗口共同改变忠的表达。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "人人自行定义忠会不会瓦解协作",
+          "paragraphs": [
+            "异议指出，成员若都以更高目标为由拒绝命令，组织无法协调，个人也可能把偏见美化成良知。忠若缺少程序，容易成为自我授权。",
+            "它攻击“行动者自认命令背离事业，就足以获得拒绝正当性”这一前提。个人可能误判事实或目的，因此拒绝也要能被他人审查，而不是只换一种服从对象。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "拒绝也要承担举证与程序负担",
+          "paragraphs": [
+            "回应接受协作需要可预期程序，因此拒绝须说明职责冲突、保存证据、选择比例相称的路径并承担可质疑性。它保住说不的可能，也收缩任意良知免责；仍欠制度如何保护正当劝谏。",
+            "保住的是忠对关系目标的持续投入，收缩的是上级命令和个人良知各自的独占权。仍欠的制度保护会进入正名：若“忠诚员工”这个名称只奖励沉默，名称本身就在掩盖职责。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "工程师忠于公共安全，可能必须拒绝主管要求隐瞒缺陷；拒绝组织命令可正是对职责尽忠。",
+      "nodeIds": [
+        "confucius-07-claim"
+      ],
+      "checkIds": [
+        "confucius-07-check-1",
+        "confucius-07-check-2",
+        "confucius-07-check-3",
+        "confucius-07-check-4"
+      ],
+      "abilitySummary": [
+        "区分尽责与人格效忠",
+        "说明忠恕怎样相互校正"
+      ],
+      "recommendedNextLessonId": "confucius-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-08",
+      "order": 8,
+      "title": "正名：名称怎样取得约束力",
+      "depth": "longform",
+      "guidingQuestion": "名称若只反映现实，它无法批评失职；若先规定理想，它又会不会替权力维护旧秩序？",
+      "coreExplanation": "正名要求角色名称与可公开检验的责任相称，使言、事与制度后果能接续，但名称本身也须接受仁义检验。",
+      "sections": [
+        {
+          "heading": "词语混乱如何变成责任逃逸",
+          "paragraphs": [
+            "同一关系换个名称，义务似乎就会消失；相反，一个荣耀称号也可能要求别人服从，却不给称号持有者相应责任。名称因此不只是标签，它组织期待、责问和制度后果。",
+            "如果名称只是描述事实，它无法批评“君不君”这类失职；如果名称凭传统自行规定正确行为，它又无法质问角色本身。正名必须同时解释名称的规范力量和它接受反证的方式。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "言不顺为何会让事不成",
+          "paragraphs": [
+            "《子路》把正名连到言顺、事成、礼乐与刑罚，呈现从语言到制度行动的链条。链条不是咒语：名称之所以有力，是因为共同实践借它分配权限与责任。",
+            "中间步骤是可预期性。名称若让不同人对权限作相反理解，命令无法协调，奖惩也难以说明；事不成并非字音错误造成，而是责任语言不能稳定连接行动和后果。",
+            "《颜渊》“君君、臣臣、父父、子子”容易被读成固定服从。较可辩护的读法同时要求占据名称者履行其角色；“君”若不君，名称提供责问，而非替失职遮掩。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "名实相称是双向检验",
+          "paragraphs": [
+            "正名既可从名称追问行为，也可从实际关系反查名称。只做前者会要求个人适应旧角色，只做后者会让名称失去规范方向。双向检验使角色承诺与现实权力彼此揭露。",
+            "第一向问：既然自称父、君、雇主或顾问，承担了哪些可公开期待？第二向问：实际控制、依赖和风险是否已形成另一种关系？两向结论冲突时，不能靠重复名称解决，必须说明哪项责任更能回应事实。",
+            "正名与定义游戏也不同。修改字典不能单独改变权力，真正变化要进入合同、程序、责问和自我理解；但没有清楚名称，这些改变又难以被共同辨认和持续执行。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "被称作顾问的受控劳动",
+          "paragraphs": [
+            "机构称工作者为顾问，却规定固定工时、独占其劳动并随时惩罚。若实际控制接近雇佣，名称不能消除相应保障；反过来，工作者也不能只凭称谓要求与事实无关的权限。",
+            "若工作者自行定价、可同时服务多方并承担经营风险，顾问称谓获得更多事实支持；若机构只是把工资改名为服务费，关系没有随字词改变。控制程度和风险归属是会改变判断的条件。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "同一名称可以承载争夺",
+          "paragraphs": [
+            "名称并非总有一个隐藏真义等待发现。“家人”“专业”“忠诚”等词可能被不同一方争夺，因为各方希望由此确定谁有发言权、谁承担代价。正名不能只查字源，还要查当前使用的制度后果。",
+            "争夺也不表示词义任意。解释者可比较各用法能否涵盖核心事实、是否造成责任断裂、是否允许受影响者反证。名称的约束力来自这类公共检验，而非某一方先占用词语。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "正名会不会维护等级",
+          "paragraphs": [
+            "异议指出，角色名称来自既有秩序，要求名实相称可能只是让每个人更好扮演被分配的位置，而不允许质问位置本身是否正当。",
+            "异议攻击“角色责任清楚即可推出角色秩序正当”这一前提。一个压迫制度也能分工清楚，所以名实一致至多完成可追责性，尚未完成正当性。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "名称要在仁义之前接受审问",
+          "paragraphs": [
+            "回应不能把传统名称设为终极尺度。正名保住责任可追踪性，却须加入仁义检验：角色是否把人仅当工具，是否允许受影响者发言。这样会扩展古代命题，也承认正名本身不足以完成制度批判。",
+            "保住的是语言对责任链的组织力，收缩的是传统名称的终局权威。仍欠的是怎样使正当名称成为稳定政治实践；德治将处理规范如何被信任和内化，刑罚则处理其边界。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "机构称某人为“顾问”以规避雇佣责任，却持续控制其时间与工作；正名要追问实际关系承担。",
+      "nodeIds": [
+        "confucius-08-claim"
+      ],
+      "checkIds": [
+        "confucius-08-check-1",
+        "confucius-08-check-2",
+        "confucius-08-check-3",
+        "confucius-08-check-4"
+      ],
+      "abilitySummary": [
+        "区分名称的描述与规范功能",
+        "用正名检验角色责任而非冻结等级"
+      ],
+      "recommendedNextLessonId": "confucius-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-09",
+      "order": 9,
+      "title": "德治：不用刑罚，还是让刑罚退居其位",
+      "depth": "longform",
+      "guidingQuestion": "治理若只靠惩罚，人会学会避罚；若只靠德性感化，又怎样面对顽固伤害与制度规模？",
+      "coreExplanation": "德治批评刑罚独占治理，把羞耻、信任与表率放在规范形成层；它并不自动取消法律、程序和强制的边界作用。",
+      "sections": [
+        {
+          "heading": "避罚为何不是知耻",
+          "paragraphs": [
+            "惩罚能改变成本，却未必改变人怎样理解他人和自己。监控撤去后行为复发，说明外部可控性不等于规范进入判断；但只有感化而无救济，受害者又会承担等待之苦。",
+            "治理同时面对两个时钟：眼前伤害需要制止，长期规范需要形成。只谈德会让受害者等待，只谈刑会把社会成员训练成风险计算者。德治的压力来自两项任务不能由同一种手段独占。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "齐之以刑与齐之以礼",
+          "paragraphs": [
+            "《为政》对照政刑与德礼：前者使民“免而无耻”，后者使其“有耻且格”。这里批评的是治理机制的心理与关系后果，不必读成任何法律都应撤除。",
+            "“免”与“格”的差别不是守法与违法的简单差别。两个人都未作弊，一人只怕被抓，另一人理解作弊怎样破坏共同评价；行为表面相同，规则撤去后的稳定性和对他人的解释能力不同。",
+            "“为政以德，譬如北辰”突出表率与方向。比喻能说明中心如何组织信任，却不能证明大规模社会会自动协调，也不能替代对权力滥用的程序防范。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "德作用在规范形成层",
+          "paragraphs": [
+            "德治的强点是指出：制度不仅分配奖惩，也塑造何为可耻、可敬和可期待。领导者若公开规避规则，再严密的惩罚也传递双重标准。",
+            "从表率到规范认同还隔着可见性与一致性。成员必须看见权力者同受规则约束，也要能把规则与共同理由连接；若只是偶尔展示节俭，却秘密享有豁免，表率会成为表演。",
+            "但规范形成与伤害制止不是同一任务。前者依赖表率和礼，后者可能需要明确禁令、证据程序与比例相称的强制。",
+            "刑罚退居边界并不等于轻微。它要明确什么不可越过，并给受害者现实保护；同时，其程序要防止恐惧成为治理的唯一语言。德与刑是不同层次的配合，不是简单的软硬组合。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "作弊治理的两条线",
+          "paragraphs": [
+            "学校说明引用责任、教师公开更正错误、学生可申诉评分，能形成诚实关系；对蓄意代考仍需处分。若只有监控，学生只会训练规避；若只有劝善，守规者承担不公平。",
+            "若评分规则含糊且教师任意改判，学生规避可能首先暴露制度失信；若规则透明、求助资源充足而仍组织代考，处分理由增强。规则可信度与替代支持会改变对行为和治理手段的判断。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "教育不是德治的缩小版",
+          "paragraphs": [
+            "教育关系以能力尚在形成作为前提，治理关系却不能把成年人永久当作未成熟者。教师可以设置递进支持，但权力者若把公民异议解释成尚待教化，就会用教育语言取消政治平等。",
+            "二者共享示范、规则说明和反思习惯，却在退出、评价与强制权限上不同。把学校案例迁移到政治时，必须删除教师替学生安排成长路线的单方权力，保留公民共同解释规范的地位。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "德治会不会把政治变成人格崇拜",
+          "paragraphs": [
+            "异议攻击表率机制：权力者自称有德，便可能以感化名义绕开规则，把异议解释成道德未成熟。没有可质疑程序，德性语言会扩大任意统治。",
+            "它攻击“有德者的自我判断可以代替公开可审查规则”这一前提，而非否认品格影响政治。只要表率者不能被问责，德的内在性就会使权力证据更难取得。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "表率必须置于可审查制度中",
+          "paragraphs": [
+            "回应保住德对规范形成的作用，却拒绝让德替代程序。领导者首先受公开规则约束，异议者有证据与申诉位置，强制受比例限制。这个重构吸收现代制度条件，不能冒充《论语》已完成的宪制设计。",
+            "保住的是权力行为对共同规范的示范效应，收缩的是德者对自身德性的最终解释权。仍欠的是失败结果如何评价：有德治理也可能遭遇不可控挫败，天命概念将把责任与成败分开。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "学校只以监控防作弊能减少被抓，却未形成诚实；透明规则、教师示范与申诉仍需配合处分。",
+      "nodeIds": [
+        "confucius-09-claim"
+      ],
+      "checkIds": [
+        "confucius-09-check-1",
+        "confucius-09-check-2",
+        "confucius-09-check-3",
+        "confucius-09-check-4"
+      ],
+      "abilitySummary": [
+        "区分行为合规与规范认同",
+        "说明德治不能替代制度约束"
+      ],
+      "recommendedNextLessonId": "confucius-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-10",
+      "order": 10,
+      "title": "天命：限制中的担当，而非结果保证",
+      "depth": "longform",
+      "guidingQuestion": "若命决定不可控条件，行动还有什么意义；若德行保证成功，失败者是否都该受责？",
+      "coreExplanation": "《论语》中的命常标示行动者不能支配的边界，使担当与成败分离；天又保留规范敬畏，但不是可计算的奖惩机器。",
+      "sections": [
+        {
+          "heading": "成败为何不能独占评价",
+          "paragraphs": [
+            "行动结果受能力、他人和偶然共同影响。只看成功，会把幸运当美德；完全不看结果，又会让责任脱离现实后果。命概念被需要，是为了标出控制边界，而非取消检验。",
+            "控制边界并非行动前就全部知道。人常在失败后才发现哪些风险可预见、哪些资源本可取得。因此谈命不能先封住调查，而要在追查准备、信息和制度条件之后，说明仍有哪些剩余不受支配。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "知命与畏天命",
+          "paragraphs": [
+            "《为政》用“五十而知天命”回顾生命进程，语义不等于预知剧本。《季氏》又说君子有三畏，以天命置入敬畏结构，强调行动者不是世界的唯一尺度。",
+            "知命与宿命的差别在行动方向。宿命从不可控推出努力无意义；知命则从不可控推出不以成败独占自我评价，同时更精确地承担可控部分。两者都承认限制，推论却相反。",
+            "匡地受围时，文本中的孔子诉诸“天之未丧斯文”。这可表现使命确信，却不能变成每次冒险都会获救的因果保证；历史叙事与规范信念须分开。",
+            "“天”在《论语》各处并不总有单一理论定义，有时关联秩序、使命或不可欺的见证。把这些用法整理成一个体系是解释者的工作，不能假称文本已给出完整形上学。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "控制边界产生两种判断",
+          "paragraphs": [
+            "第一，不能把不可控失败全部归罪行动者；第二，也不能借不可控因素免除准备、判断和修正。命限制结果归责，德检验可控投入，两者共同反对成功即正当。",
+            "推论顺序不能倒置。先问行动者当时可获得什么信息、采取什么预防，再用剩余不确定限制归责；若先宣布结果属命，任何疏忽都能藏进不可控。命的谦抑只有在调查之后才可靠。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "医生面对不可逆结果",
+          "paragraphs": [
+            "医生依证据选择方案、说明风险并及时调整，病人仍可能死亡。死亡不证明每一步错误；若医生漏看已知警讯，结果的不确定也不能遮蔽失责。命与专业审查在不同层次。",
+            "若新疗法当时证据极少，选择保守方案可能有理由；若后来出现明确证据，继续沿用旧方案则改变责任。可得知识随时间变化，所以结果相同，行动者的可控判断也可能不同。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "现代挪用最容易把命变成心理安慰",
+          "paragraphs": [
+            "现代语言常把天命改写为“接受无法改变的事”。这能帮助行动者不被失败吞没，却会删去《论语》中使命、敬畏与政治处境的层次，也可能把共同可改变之因过早归入个人心态。",
+            "负责任的挪用须列出删改：保留控制边界与担当分离，暂停对天之形上身份的断言，增加集体可变性检查。只有把新增和舍弃写清，古典概念才不是替现代自助话语提供古老装饰。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "命会不会安慰强者、压住弱者",
+          "paragraphs": [
+            "异议指出，“这是命”常被用来把可改变的不公自然化，让受苦者接受位置。若控制边界未经调查，命就会替既得利益掩盖人为原因。",
+            "它攻击“长期存在或个人难以改变的条件就是不可控命运”这一前提。制度对单个人难以改变，不表示对共同政治行动不可改变；个人控制与集体可变性必须分开。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "先查可改变之因，再承认剩余",
+          "paragraphs": [
+            "回应接受这项危险，要求命判断位于因果调查之后：制度、决策和资源可改变的部分先受追责，剩余不可控才限制归罪。它保住谦抑与担当，不能为现状提供神圣证明。",
+            "保住的是行动者不把世界当作完全可支配对象，收缩的是命对现状的解释权限。仍欠的是有限信息下怎样及时判断；情境判断要说明原则与性情、时机如何结合，而不退为任意。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "尽责医生仍可能失去病人；结果失败不能抹去专业担当，也不能反过来证明处置正确。",
+      "nodeIds": [
+        "confucius-10-claim"
+      ],
+      "checkIds": [
+        "confucius-10-check-1",
+        "confucius-10-check-2",
+        "confucius-10-check-3",
+        "confucius-10-check-4"
+      ],
+      "abilitySummary": [
+        "区分不可控结果与可控责任",
+        "避免把天命读成宿命或成功神学"
+      ],
+      "recommendedNextLessonId": "confucius-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-11",
+      "order": 11,
+      "title": "没有算法的判断：权、时与多声部",
+      "depth": "longform",
+      "guidingQuestion": "原则若不能机械套用，情境判断如何避免沦为凭感觉；弟子分歧又怎样帮助看见判断结构？",
+      "coreExplanation": "《论语》常以不同人物、时机和答法展示合宜判断；原则提供理由范围，情境决定哪些理由当前居先。",
+      "sections": [
+        {
+          "heading": "同题异答会不会自相矛盾",
+          "paragraphs": [
+            "若哲学只给统一答案，同题异答像不一致；若一切看情况，原则又失去约束。真正任务是说明哪些差异与理由相关，以及答法怎样对行动者产生不同校正。",
+            "算法诱人，因为它把判断责任交给固定步骤；直觉也诱人，因为它省去公开说明。情境判断必须拒绝两种轻松：既不假装差异无关，也不让解释者凭身份决定哪些差异算数。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "闻斯行诸的两种回答",
+          "paragraphs": [
+            "《先进》记子路与冉有都问“闻斯行诸”，孔子形象一答先问父兄，一答闻而行之。公西华追问后，解释是冉有退缩，故进之；子路冒进，故退之。",
+            "若只截取前两个回答，文本显得矛盾；公西华的追问把理由补入。场景结构本身承担论证功能：弟子不是装饰人物，而是让解释需求和性情差异进入可见证据。",
+            "这里的多声部很重要：问题、追问和解释由不同弟子展开，编纂后的场景让差异可见。不能把它压成脱离人物的两条普遍命令。"
+          ],
+          "identity": "compiled-dialogue",
+          "kind": "argument"
+        },
+        {
+          "heading": "相关差异须能公开说明",
+          "paragraphs": [
+            "情境判断至少需要三步：保留共同目标，指出人物或条件差异，再说明差异为何改变理由权重。缺少第三步，“因人而异”只是偏好；完成三步，变动答法反而服务同一目标。",
+            "共同目标限制差异范围。若目标是可靠行动，冒进与退缩相关，贫富出身本身未必相关；解释者不能见到任何差别就调整标准。相关性必须通过它对目标的因果或规范作用来证明。",
+            "理由权重变化也不等于原则真假变化。查证仍有价值，但对长期沉默者，先开口可能是当前缺失；对冒进者，先查证更迫切。原则保留，排序因纠偏需要而变。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "谨慎者与冒进者",
+          "paragraphs": [
+            "两位同事都发现轻微风险。长期沉默者需要被鼓励通报，常夸大未经核实消息者需要先查证。共同目标是可靠预警，性情史改变的是当前校正方向，不是事实标准。",
+            "若风险已即时威胁生命，两人都应先发出临时警示，再补查证；若线索极弱且公开会引发恐慌，两人都受证据门槛约束。紧迫性可以压过性情差异，说明情境判断不是固定人格处方。"
+          ],
+          "identity": "modern-case",
+          "kind": "case"
+        },
+        {
+          "heading": "老师掌握性情会不会变成操控",
+          "paragraphs": [
+            "异议攻击判断权的不对称：解释者自称了解他人性情，可能用“为你好”拒绝给出一般理由，使差别待遇无法申诉。",
+            "它攻击“对方的善意和熟悉足以证明个别化判断正当”这一前提。熟悉可能提高证据质量，也可能固化标签；当事人的反证和行为变化必须能更新判断。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "情境理由也要可反证",
+          "paragraphs": [
+            "回应保住个别校正，却增加可说明性：共同目标、相关差异和后果判断都应能被当事人质疑。古代师生场景未提供现代申诉制度；把可反证性加入其中是明确的现代扩展。",
+            "保住的是原则在不同能力缺口上的差异化帮助，收缩的是解释者的单方裁决权。仍欠的是我们凭什么把这些场景归为孔子思想；最后必须回到汇编层次和后世解释身份。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "差异教导仍属于共同学习",
+          "paragraphs": [
+            "11.22的同题异答不是教师任意变换标准，而是针对子路的冒进与冉有的退缩配置不同校正。它向L01偿还一项债务：一般的学与习只有进入具体学习者的能力缺口，才成为有效支架。",
+            "反向债务同样重要。7.8要求学习者先逼近问题，7.22让同行者的善与不善都成为共同纠错材料；教师的熟悉不能替代事实，弟子的追问也不是不敬。差异回答必须说明共同目标、相关差异和更新条件。",
+            "这是一种从今本场景重构出的教育共同体，不是《学记》“教学相长”的历史归属，也不是透明的孔门课堂实录。L12的编纂层边界持续有效；与L13的16.13只作传授场景链接，不吞并诗乐教化的主对象。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "同样问是否立即行动，孔子形象对冉有与子路给出相反答复，并以二人性情差异说明。",
+      "nodeIds": [
+        "confucius-11-claim"
+      ],
+      "checkIds": [
+        "confucius-11-check-1",
+        "confucius-11-check-2",
+        "confucius-11-check-3",
+        "confucius-11-check-4"
+      ],
+      "abilitySummary": [
+        "区分情境判断与任意例外",
+        "从弟子多声部重建答法差异",
+        "说明差异化教导为何仍须接受朋辈与学习者反证"
+      ],
+      "recommendedNextLessonId": "confucius-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-12",
+      "order": 12,
+      "title": "谁在《论语》中说话：编纂、诠释与再出发",
+      "depth": "longform",
+      "guidingQuestion": "若《论语》不是孔子亲笔著作，我们还能怎样负责任地谈“孔子思想”，后世重构又应放在哪一层？",
+      "coreExplanation": "《论语》保存早期孔门传统的多层声音；历史孔子、文本中的孔子形象、弟子话语、编纂结构与后世儒学必须区分后再建立解释。",
+      "sections": [
+        {
+          "heading": "没有亲笔稿是否只剩怀疑",
+          "paragraphs": [
+            "若把每句都当历史孔子录音，人物与编纂差异被抹去；若因非亲笔便拒绝一切思想重建，早期传统的证据又被浪费。可靠解释必须在天真归属与彻底沉默之间工作。",
+            "“孔子说”在日常表达中可能只是指《论语》把一句话归给孔子形象；在历史研究中却可能被听成逐字发生事实。解释者须说明自己主张的是文本归属、传统记忆，还是历史事件，不能借语言方便滑动层次。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "语录汇编具有自己的结构",
+          "paragraphs": [
+            "通行《论语》二十篇，材料在孔子去世后由孔门传承逐步聚合，具体成书层次仍有争论。它不是孔子生前出版的统一论著，篇次、重复和人物场景都可能承载编纂痕迹。",
+            "重复章句可能来自不同传承，也可能承担编排强调；语言差异可能提示层次，却不能单凭风格给出确定年代。文本分析提供概率和争议，不应被写成已知的编纂日程。",
+            "定州汉墓竹简等出土本与传世本的差异说明文本流传并非单线复制。出土证据能校正字句和篇貌，却不能自动恢复所有话语的历史现场。",
+            "物质年代给出的是抄写或入葬的下限线索，不等于每条材料最初产生的年代。简本更早也不自动更接近孔子原话，因为早期文本同样可能经过选择和组合。"
+          ],
+          "identity": "textual-history",
+          "kind": "argument"
+        },
+        {
+          "heading": "四层声音不能互相冒充",
+          "paragraphs": [
+            "谈“孔子”时至少区分历史人物、汇编中被塑造的孔子形象、弟子及他人发言、解释者据全书重建的关系。前两层相关而不相同，后两层也不能倒写成孔子逐字定论。",
+            "弟子多声部不只是归属提醒。有子谈孝悌、曾子概括忠恕、公西华追问同题异答，各自推动不同问题；若全部改写成孔子单声道，文本如何形成论证也会被破坏。",
+            "何晏等《论语集解》汇聚汉魏旧说，朱熹《论语集注》在宋代理学问题中重排概念重心。它们是强大接受史，不是隐藏在春秋现场的原始注脚。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "重建要接受三种约束",
+          "paragraphs": [
+            "第一，主张须能落到具体章句与人物；第二，冲突材料不能被方便删除；第三，后世概念只能作为解释透镜并标明新增。满足这些约束，我们可以谈《论语》传统中的思想网络，而不伪造单一作者体系。",
+            "第一项防止只借权威姓名说现代主张，第二项防止把不合体系的声音降为杂质，第三项防止影响史倒流。三项共同允许解释有创造性，却要求创造性留下证据路径。",
+            "所谓思想网络也不是把所有概念强行闭合。仁礼、忠恕、孝与政治在文本中互相照明，同时保留张力；重建若提前消除冲突，便失去后世争论为何持续的解释力。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "仁的三次迁移",
+          "paragraphs": [
+            "《论语》中仁随问答呈现不同侧面；何晏集解保存多家训释；朱熹以理气与心性框架进一步组织。现代若以平等申诉检验仁礼关系，又增加新的制度问题。每次迁移都可能有洞见，也都须注明身份。",
+            "若现代解释用申诉权揭示礼制的权力盲点，它可以是有力迁移；若随后声称孔子已经提出同样制度，就越过身份边界。改变的条件是主张强度：相容、启发与历史提出是三种不同结论。"
+          ],
+          "identity": "reception-history",
+          "kind": "case"
+        },
+        {
+          "heading": "引用孔子不能替现代主张省略论证",
+          "paragraphs": [
+            "公共讨论借孔子支持和谐、服从、家庭价值或文化身份时，首先要问引用的是哪一章、谁在说话、删去了什么冲突。只摘一句名言，往往把汇编的问答压力变成权威标签。",
+            "其次要独立论证现代主张。即使某种制度能由仁礼获得启发，也须面对平等、权利和经验后果的当代理由；古典来源增加历史纵深，不替主张取得免责。反对现代挪用也同样要避免虚构一个单一孔子作靶子。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "分层会不会让任何解释都逃过反驳",
+          "paragraphs": [
+            "异议指出，解释者若总说“这只是重构”，便可在证据反对时换层次逃走。分层若没有归属规则，不会增加严谨，只会制造免责标签。",
+            "它攻击“只要注明层次，主张便不再需要相应证据”这一前提。恰当分层应增加可反驳条件，而不是降低它：现代规范主张也要说明为何值得接受，不能只说与古典相容。"
+          ],
+          "identity": "modern-objection",
+          "kind": "controversy"
+        },
+        {
+          "heading": "层次标签必须带证据债务",
+          "paragraphs": [
+            "回应要求每一层承担不同可反驳条件：历史归属要有年代与传承证据，文本解释要解释章句关系，现代重构要说明新增前提及其代价。这样保住跨时代思考，也留下未决：孔子传统不是封闭答案，而是一套关于成己、关系与政治的持续争论。",
+            "保住的是古典文本进入当代问题的能力，收缩的是借孔子权威替新增前提背书。仍欠的不是一个最后公式，而是持续检查：关系能否成就人，形式是否遮蔽伤害，政治是否让责任可说、可改。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "同一“仁”字在《论语》语境、何晏集解、朱熹章句和现代政治解释中承担不同问题，不能沿影响史倒写。",
+      "nodeIds": [
+        "confucius-12-claim"
+      ],
+      "checkIds": [
+        "confucius-12-check-1",
+        "confucius-12-check-2",
+        "confucius-12-check-3",
+        "confucius-12-check-4"
+      ],
+      "abilitySummary": [
+        "标明文本身份与出版层次",
+        "在不逐字归属的前提下重建思想网络"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-13",
+      "order": 13,
+      "title": "诗、乐与情感—共同体教化",
+      "depth": "longform",
+      "guidingQuestion": "诗与乐怎样连接情感表达、言语判断、礼仪行动和共同体，而不沦为顺从训练或后世形上学？",
+      "coreExplanation": "《论语》的片段把诗的言语实践、兴观群怨、礼乐递进、音乐经验与反形式主义连成有限的教化链。",
+      "sections": [
+        {
+          "heading": "诗不是把格言背熟",
+          "paragraphs": [
+            "2.2对《诗》三百的总体评价引出规范性阅读，却不能据此断言每首诗只有单一作者意图。13.5批评能诵而不能用于使、对答，16.13又把“不学诗”与“无以言”相连：诗首先训练在关系和场合中引用、回应与校正的言语实践。",
+            "16.13通过陈亢、伯鱼与孔子形象的嵌套叙述保存传授场景。它可与L01/L11的教育共同体互链，但一段父子问答不等于共同体全部结构，声音也不能压成孔子亲笔教材。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "argument"
+        },
+        {
+          "heading": "兴、观、群、怨不能缩成服从",
+          "paragraphs": [
+            "17.9把诗的作用展开为兴、观、群、怨：情感被触发，社会关系可观察，交往得以形成，怨也能获得节制而不被取消。四项共同反驳“诗教只是伦理审查”，但也不能浪漫化为现代自由表达理论。",
+            "“群”没有消除冲突，“怨”也不是无限免责。诗的语言把感受带入可回应形式，使共同体既能聚合又能听见张力；它的规范性来自这种实践检验，而非把人的感情压成同一声音。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "兴于诗、立于礼、成于乐",
+          "paragraphs": [
+            "8.8给出的不是三个同义标签：诗启动感受和表达，礼使行动有可共同实行的形式，乐让情感与秩序成为可经验的协调。递进并不保证自动完成，礼乐仍须受L02—L03的仁之尺度检验。",
+            "这条链也欠L08一项制度债务：言语与情感教化不能替代名称、责任与制度后果。诗乐塑造行动者的感受和表达，制度则处理权力、追责与持续条件；二者应衔接而非相互吞并。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "concept"
+        },
+        {
+          "heading": "音乐经验、技艺结构与反形式主义（原典与编纂声部）",
+          "paragraphs": [
+            "3.23从翕如、纯如、皦如、绎如谈乐的展开至完成，说明音乐判断含结构与次序；7.14“闻韶”由编纂叙述者呈现身体与日常感受被改变的经验。二者都比“音乐传递教条”更厚。",
+            "17.11追问“礼云礼云”“乐云乐云”岂只玉帛钟鼓，直接阻止把礼乐等同器物与形式。"
+          ],
+          "identity": "analects-tradition",
+          "kind": "controversy"
+        },
+        {
+          "heading": "礼乐规训与受苦经验（现代批判性重构）",
+          "paragraphs": [
+            "声响不自动制造德性；权力也可能借礼乐规训。因此，协调仍须接受仁、受苦经验与可回应性的批判。此项是现代规范扩展，不冒充3.23、7.14或17.11的原典声部。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "版本与系统化边界",
+          "paragraphs": [
+            "本篇以今本二十篇章次为原典层。后世注释与出土材料若被用于比较，必须另具claim-specific locator与接受史身份；本篇不据现有证据声称何晏、朱熹之间的具体解释分歧，也不对定州简作积极材料断言。",
+            "今本提供片段性的实践链，不提供《礼记·乐记》式完整音乐政治形上学。把后出的系统倒写为孔子已完成学说，会抹去战国至汉汇编、魏晋与宋代接受史之间的period、identity与voice差异。"
+          ],
+          "identity": "textual-history",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一个团体能熟练演奏礼仪音乐，却借形式压下成员的怨；17.11要求追问礼乐是否具有实质，17.9则保留“怨”的表达位置。",
+      "nodeIds": [
+        "confucius-13-claim"
+      ],
+      "checkIds": [
+        "confucius-13-check-1",
+        "confucius-13-check-2",
+        "confucius-13-check-3",
+        "confucius-13-check-4"
+      ],
+      "abilitySummary": [
+        "区分诗的背诵占有与可回应言语实践",
+        "说明兴观群怨及诗—礼—乐递进",
+        "以音乐经验与反形式主义限制和谐论"
+      ],
+      "recommendedNextLessonId": "confucius-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "confucius-14",
+      "order": 14,
+      "title": "祭祀实践、鬼神距离与生死次序",
+      "depth": "longform",
+      "guidingQuestion": "认真祭祀、敬鬼神而远之与先事人知生怎样并存，而不被简化成无神论或系统神学？",
+      "coreExplanation": "《论语》把仪式参与、祭祀正当性、人事优先、言说节制与生死探究次序分层，保留敬重也保留知识限度。",
+      "sections": [
+        {
+          "heading": "“祭如在”：章首传承/编纂表述",
+          "paragraphs": [
+            "3.12章首“祭如在；祭神如神在”未明示“子曰”。它在编纂文本中规范祭祀的在场态度，但不应越级标成孔子直接speech，也不以心理认真证明鬼神的本体存在。"
+          ],
+          "identity": "compiled-tradition-statement",
+          "kind": "argument"
+        },
+        {
+          "heading": "“吾不与祭，如不祭”：显式孔子话语",
+          "paragraphs": [
+            "3.12后段显式标出“子曰：吾不与祭，如不祭”，把亲自参与与承担祭祀关系置于程序外包之前。后世注释若用于比较，须另具claim-specific locator；本篇不据现有证据声称何晏、朱熹的具体解释。"
+          ],
+          "identity": "confucius-speech-in-compiled-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "祭祀并非越多越敬",
+          "paragraphs": [
+            "2.24以“非其鬼而祭之，谄也”规定对象正当性。祭献不是只要真诚就自然成为德性：关系、职责和动机都须受判断，仪式实践因此带有规范边界。",
+            "这也回接L02与L04。礼的形式须由参与态度和关系对象充实，亲属责任却不能替代祭祀正当性或公共责任；把一切祭祀都归为孝，会遮蔽对象和权力差异。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "concept"
+        },
+        {
+          "heading": "敬而远之：人事优先与认识距离",
+          "paragraphs": [
+            "6.22在樊迟问知的对话中把“务民之义”置前，同时说“敬鬼神而远之”。敬与远必须一起保留：“远”不是存在否定，“敬”也不足以建立鬼神性质、意志与因果的系统神学。",
+            "7.21由编纂叙述者说“子不语怪、力、乱、神”。这是对可教、可说范围的节制，不是一个完成的无神论论证。话语纪律限制夸断，却没有替文本解决所有存在命题。"
+          ],
+          "identity": "compiled-dialogue",
+          "kind": "argument"
+        },
+        {
+          "heading": "未能事人，焉能事鬼（编纂对话）",
+          "paragraphs": [
+            "11.12保存子路与孔子形象的问答：事人先于事鬼，知生先于知死。这安排实践与探究的次序，要求先承担眼前可检验的人间关系；它不等于断言死后绝无任何事物，也不等于死亡不值得问。"
+          ],
+          "identity": "compiled-dialogue",
+          "kind": "controversy"
+        },
+        {
+          "heading": "哀悼、关系记忆与未知（现代重构）",
+          "paragraphs": [
+            "哀悼和死亡经验仍有规范重量。3.12所要求的参与态度说明，认识克制不能取消丧亲者、祭祀者与关系记忆；更稳妥的结论是先从可承担的关系进入未知，而不是以未知压倒人事或以人事消灭未知。此处是现代规范重构，不归入《论语》原典声部。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "四种对象不得混同",
+          "paragraphs": [
+            "L10的天命关涉行动者不可控制的结果与规范敬畏；它不等于鬼神本体、祭祀实践或死后知识。本篇偿还这项对象分层债务，也拒绝以“天命”填补鬼神存在的证据缺口。",
+            "无神论读法抓住不语、远之与人事优先，却越过了不存在所需的论证；神学实在论抓住敬与如在，却把实践态度扩大为本体论。功能主义能说明关系与哀悼秩序，但若删去文本的鬼神语言和参与者视角，同样失真。"
+          ],
+          "identity": "modern-reconstruction",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一人认真参与家祭，却拒绝对鬼神存在作确定断言；这可同时体现“如在”的实践要求和“敬而远之”的知识距离。",
+      "nodeIds": [
+        "confucius-14-claim"
+      ],
+      "checkIds": [
+        "confucius-14-check-1",
+        "confucius-14-check-2",
+        "confucius-14-check-3",
+        "confucius-14-check-4"
+      ],
+      "abilitySummary": [
+        "区分仪式参与与鬼神存在命题",
+        "说明人事优先为何不是无神论结论",
+        "保持生死探究次序与哀悼实践的张力"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "confucius-01-check-1",
+      "kind": "argument",
+      "prompt": "什么最能说明“习”不是机械重复？",
+      "targetNodeIds": [
+        "confucius-01-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-01-check-1-b",
+          "text": "反复要让同一动作在不同处境中保持不变",
+          "feedback": "错步是把行动形式当成判断理由；处境中的关系与风险改变时，动作也可能应当改变。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-01-check-1-a",
+          "text": "反复要让理由在不同处境中接受修正",
+          "feedback": "决定性关系在于处境差异会暴露旧理解的盲点，习因而包含辨认和修正。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-01-check-1-a",
+      "misconceptionId": "confucius-01-check-1-misconception"
+    },
+    {
+      "id": "confucius-01-check-2",
+      "kind": "boundary",
+      "prompt": "承认“不知”在这里首先保住什么？",
+      "targetNodeIds": [
+        "confucius-01-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-01-check-2-b",
+          "text": "它免除继续询问与检验的责任",
+          "feedback": "错步是把认识限度变成行动终点；承认缺口正是继续求证的起点。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-01-check-2-a",
+          "text": "它阻止身份或愿望冒充认识根据",
+          "feedback": "承认不知先划出证据边界，使下一步询问不被虚假确定性封死。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-01-check-2-a",
+      "misconceptionId": "confucius-01-check-2-misconception"
+    },
+    {
+      "id": "confucius-01-check-3",
+      "kind": "case",
+      "prompt": "迟到者怎样才显示规范进入判断链？",
+      "targetNodeIds": [
+        "confucius-01-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-01-check-3-b",
+          "text": "他保留原安排并把道歉说得更为诚恳",
+          "feedback": "错步是用情感强度替代行为修正；诚恳道歉仍未处理重复造成的可预见损害。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-01-check-3-a",
+          "text": "他调整安排并在意外时提前处理关系",
+          "feedback": "调整预见与安排表明理由已经改变行动结构，而不只是事后描述态度。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-01-check-3-a",
+      "misconceptionId": "confucius-01-check-3-misconception"
+    },
+    {
+      "id": "confucius-01-check-4",
+      "kind": "objection",
+      "prompt": "沉默者案例迫使原主张作何收缩？",
+      "targetNodeIds": [
+        "confucius-01-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-01-check-4-a",
+          "text": "知识可由风险辨认与准备体现，不只看公开动作",
+          "feedback": "异议击中的是外显表现的单一标准，回应保留实践检验而扩大可观察的判断活动。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-01-check-4-b",
+          "text": "知识只能由公开动作体现，但可降低动作频率",
+          "feedback": "错步是只改变表现次数，没有放弃把公开动作当作知识唯一证据的前提。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-01-check-4-a",
+      "misconceptionId": "confucius-01-check-4-misconception"
+    },
+    {
+      "id": "confucius-02-check-1",
+      "kind": "concept",
+      "prompt": "仁与礼在本单元形成什么关系？",
+      "targetNodeIds": [
+        "confucius-02-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-02-check-1-a",
+          "text": "仁检验形式是否仍承认人，礼使取向获得表达",
+          "feedback": "两者互相需要但不对称：形式承载取向，仁又能质问形式是否背离其人际目的。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-02-check-1-b",
+          "text": "礼先决定何为仁，仁再要求内心服从既有形式",
+          "feedback": "错步是让既有形式垄断仁的标准，因此无法解释“不仁之礼”为何可受批评。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-02-check-1-a",
+      "misconceptionId": "confucius-02-check-1-misconception"
+    },
+    {
+      "id": "confucius-02-check-2",
+      "kind": "case",
+      "prompt": "主管案例中，礼为什么不排除公开反对？",
+      "targetNodeIds": [
+        "confucius-02-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-02-check-2-b",
+          "text": "公开反对与私下劝止的规范理由没有差别",
+          "feedback": "错步是抹去情势变化；表达内容相同，不表示公开程度和理由始终相同。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-02-check-2-a",
+          "text": "方式须随伤害、证据与劝止成效而改变",
+          "feedback": "礼所辨认的正是关系、时机和后果；劝止失效与持续伤害会改变表达责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-02-check-2-a",
+      "misconceptionId": "confucius-02-check-2-misconception"
+    },
+    {
+      "id": "confucius-02-check-3",
+      "kind": "boundary",
+      "prompt": "“克己”在本单元首先否定什么？",
+      "targetNodeIds": [
+        "confucius-02-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-02-check-3-a",
+          "text": "把个人欲望当作压过其他理由的尺度",
+          "feedback": "克己先约束一己欲望独占尺度，再让行动进入仁与礼的共同检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-02-check-3-b",
+          "text": "保留个人判断来审查角色命令",
+          "feedback": "错步是把判断能力当成克己的对象；被限制的是私欲独占，不是对角色命令的审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-02-check-3-a",
+      "misconceptionId": "confucius-02-check-3-misconception"
+    },
+    {
+      "id": "confucius-02-check-4",
+      "kind": "objection",
+      "prompt": "权力异议使礼的主张增加了什么条件？",
+      "targetNodeIds": [
+        "confucius-02-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-02-check-4-a",
+          "text": "合宜形式须保留相关者说理拒绝和申诉的位置",
+          "feedback": "新增条件针对定义权的不平等，使礼的公共形式能够接受受影响者的反证。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-02-check-4-b",
+          "text": "合宜形式须由地位最高者作最后解释",
+          "feedback": "错步是把异议指出的权力来源当成解决办法，反而封闭了对礼制的检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-02-check-4-a",
+      "misconceptionId": "confucius-02-check-4-misconception"
+    },
+    {
+      "id": "confucius-03-check-1",
+      "kind": "argument",
+      "prompt": "仁的推扩为何需要第二步修正？",
+      "targetNodeIds": [
+        "confucius-03-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-03-check-1-b",
+          "text": "自身经验已经给出他人需要的完整内容",
+          "feedback": "错步是把共同脆弱扩大成需要内容相同，忽略处境与声音对类比的限制。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-03-check-1-a",
+          "text": "他人的处境可能纠正由自身经验作出的类比",
+          "feedback": "反身推知只提供入口；让对方处境反向修正，才能避免把自己复制到别人身上。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-03-check-1-a",
+      "misconceptionId": "confucius-03-check-1-misconception"
+    },
+    {
+      "id": "confucius-03-check-2",
+      "kind": "case",
+      "prompt": "病父案例区分了哪两种差等？",
+      "targetNodeIds": [
+        "confucius-03-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-03-check-2-b",
+          "text": "公共资格可有特殊性，照护承担须由众人平均",
+          "feedback": "错步是把特殊关系的理由移到公共分配，同时取消它在照护责任中的作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-03-check-2-a",
+          "text": "照护承担可有特殊性，公共资格仍须共同论证",
+          "feedback": "亲属承诺能说明谁应亲自照料，却不能单独改写公共资源的公平资格。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-03-check-2-a",
+      "misconceptionId": "confucius-03-check-2-misconception"
+    },
+    {
+      "id": "confucius-03-check-3",
+      "kind": "boundary",
+      "prompt": "仁在这里不能独自完成什么？",
+      "targetNodeIds": [
+        "confucius-03-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-03-check-3-a",
+          "text": "它不能替代公共资源的完整分配规则",
+          "feedback": "仁提供关切与反身扩展，但制度中的资格、程序和稀缺权衡还需另行说明。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-03-check-3-b",
+          "text": "它不能说明他人的受伤为何值得关切",
+          "feedback": "错步是抹去仁最直接的规范作用；把他人作为可受伤者看待正是其起点。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-03-check-3-a",
+      "misconceptionId": "confucius-03-check-3-misconception"
+    },
+    {
+      "id": "confucius-03-check-4",
+      "kind": "objection",
+      "prompt": "情感异议后，亲近经验还保住什么？",
+      "targetNodeIds": [
+        "confucius-03-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-03-check-4-a",
+          "text": "它保住认识脆弱与照料需要的发生入口",
+          "feedback": "回应没有删除情感，而是把它从最终尺度收缩为理解受伤经验的入口。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-03-check-4-b",
+          "text": "它保住对远近责任作最终排序的裁决权",
+          "feedback": "错步是让感情半径决定责任半径，这正是陌生人异议所攻击的前提。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-03-check-4-a",
+      "misconceptionId": "confucius-03-check-4-misconception"
+    },
+    {
+      "id": "confucius-04-check-1",
+      "kind": "text-identity",
+      "prompt": "直躬章最稳妥的使用方式是什么？",
+      "targetNodeIds": [
+        "confucius-04-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-04-check-1-a",
+          "text": "把它视为亲情与公共直之间的冲突文本",
+          "feedback": "汇编对话提出关系不能被抹去，但没有提供现代证据制度的完整立法答案。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-04-check-1-b",
+          "text": "把它视为孔子已制定现代毁证规则的条文",
+          "feedback": "错步是把古代语境中的“隐”直接等同现代毁证，并赋予文本不存在的制度身份。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-04-check-1-a",
+      "misconceptionId": "confucius-04-check-1-misconception"
+    },
+    {
+      "id": "confucius-04-check-2",
+      "kind": "case",
+      "prompt": "陪同投案怎样体现孝的边界？",
+      "targetNodeIds": [
+        "confucius-04-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-04-check-2-b",
+          "text": "它维持责任，因此须终止此后的亲属照料",
+          "feedback": "错步是从不包庇推出不照料，把公共责任扩大成关系断绝。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-04-check-2-a",
+          "text": "它维持照料，同时不替亲属取消责任",
+          "feedback": "陪伴承担把亲密与责任并置，说明二者并非只能互相排除。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-04-check-2-a",
+      "misconceptionId": "confucius-04-check-2-misconception"
+    },
+    {
+      "id": "confucius-04-check-3",
+      "kind": "boundary",
+      "prompt": "“几谏”至少排除了哪种孝观？",
+      "targetNodeIds": [
+        "confucius-04-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-04-check-3-a",
+          "text": "孝要求把父母每个决定都判为正确",
+          "feedback": "劝谏的存在证明判断仍保留，敬影响方式但不把父母意见变成真理。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-04-check-3-b",
+          "text": "孝要求劝谏时考虑关系与表达方式",
+          "feedback": "错步是把文本明确保留的关系约束当作被排除项；被排除的是判断投降。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-04-check-3-a",
+      "misconceptionId": "confucius-04-check-3-misconception"
+    },
+    {
+      "id": "confucius-04-check-4",
+      "kind": "objection",
+      "prompt": "回应如何处理国家权力的风险？",
+      "targetNodeIds": [
+        "confucius-04-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-04-check-4-b",
+          "text": "只要反对包庇，国家取得信息便不需限制",
+          "feedback": "错步是把对包庇的批评扩张为权力免责，忽略异议对制度侵害的具体担忧。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-04-check-4-a",
+          "text": "公共追责也须受程序和比例限制",
+          "feedback": "双重边界同时防止亲属特权和强制侵入，公共名义不能免除权力自证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-04-check-4-a",
+      "misconceptionId": "confucius-04-check-4-misconception"
+    },
+    {
+      "id": "confucius-05-check-1",
+      "kind": "concept",
+      "prompt": "“不器”主要拒绝什么？",
+      "targetNodeIds": [
+        "confucius-05-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-05-check-1-a",
+          "text": "把人固定为单一功能并免除整体判断",
+          "feedback": "器的对照指向用途固定性；超出单一功能不等于取消技能与具体能力。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-05-check-1-b",
+          "text": "让整体判断取代具体技能的掌握",
+          "feedback": "错步是从不被专长穷尽推出由整体判断取代专长，混淆能力边界与能力空缺。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-05-check-1-a",
+      "misconceptionId": "confucius-05-check-1-misconception"
+    },
+    {
+      "id": "confucius-05-check-2",
+      "kind": "argument",
+      "prompt": "“喻于义”怎样限制利益？",
+      "targetNodeIds": [
+        "confucius-05-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-05-check-2-b",
+          "text": "利益一出现便证明行动者属于小人",
+          "feedback": "错步是把受义限制的利益改成道德身份标记，无法处理正当生计与共同收益。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-05-check-2-a",
+          "text": "利益须能接受可共同说明的理由检验",
+          "feedback": "对照的是利益在理由结构中的位置，不是把任何现实利益从判断中删除。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-05-check-2-a",
+      "misconceptionId": "confucius-05-check-2-misconception"
+    },
+    {
+      "id": "confucius-05-check-3",
+      "kind": "case",
+      "prompt": "职员为何并非只做个人自责？",
+      "targetNodeIds": [
+        "confucius-05-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-05-check-3-a",
+          "text": "他承担可控失误并要求修正造成风险的流程",
+          "feedback": "求诸己确定自身入口，同时保存对流程因果和共同修正的追问。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-05-check-3-b",
+          "text": "他承担流程全部原因并停止追问制度责任",
+          "feedback": "错步是把可控责任扩大成全部因果，正好落入结构异议所批评的卸责。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-05-check-3-a",
+      "misconceptionId": "confucius-05-check-3-misconception"
+    },
+    {
+      "id": "confucius-05-check-4",
+      "kind": "boundary",
+      "prompt": "小人对照应怎样理解？",
+      "targetNodeIds": [
+        "confucius-05-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-05-check-4-b",
+          "text": "它确认某些社会群体具有固定的道德本质",
+          "feedback": "错步是把行为范型实体化为人群本质，使称谓再次服从地位分类。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-05-check-4-a",
+          "text": "它描述可改变的欲望与理由组织方式",
+          "feedback": "规范对照要能反照每个人的行动，否则会退回以身份替代品格判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-05-check-4-a",
+      "misconceptionId": "confucius-05-check-4-misconception"
+    },
+    {
+      "id": "confucius-06-check-1",
+      "kind": "concept",
+      "prompt": "恕的反身起点为何仍需询问处境？",
+      "targetNodeIds": [
+        "confucius-06-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-06-check-1-b",
+          "text": "自身经验只说明偏好，不提供处境类比起点",
+          "feedback": "错步是从类比不充分推出它不能提供起点，取消了反身约束的初步证据。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-06-check-1-a",
+          "text": "自身不欲不能穷尽他人的风险与需要",
+          "feedback": "自身经验提供可理解入口，但权力和承受差异会修正由此形成的类比。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-06-check-1-a",
+      "misconceptionId": "confucius-06-check-1-misconception"
+    },
+    {
+      "id": "confucius-06-check-2",
+      "kind": "case",
+      "prompt": "主管案例中，真正的互换加入了什么？",
+      "targetNodeIds": [
+        "confucius-06-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-06-check-2-b",
+          "text": "只交换主管与下属的称呼而保留原条件",
+          "feedback": "错步是把语言位置替换当成处境替换，权力后果仍留在原处。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-06-check-2-a",
+          "text": "加入地位、报复风险与申辩能力的差异",
+          "feedback": "角色互换要连同承受条件一起变化，否则仍是强者用自己的耐受定义他人。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-06-check-2-a",
+      "misconceptionId": "confucius-06-check-2-misconception"
+    },
+    {
+      "id": "confucius-06-check-3",
+      "kind": "boundary",
+      "prompt": "恕单独不足以推出什么？",
+      "targetNodeIds": [
+        "confucius-06-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-06-check-3-b",
+          "text": "它不足以限制把厌恶后果强加给他人",
+          "feedback": "错步是删除恕的核心能力；从承受位置重审正是限制强加的依据。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-06-check-3-a",
+          "text": "它不足以给出积极救助的全部责任",
+          "feedback": "否定性刹车能限制伤害，却需要仁和制度理由说明何时必须主动成全。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-06-check-3-a",
+      "misconceptionId": "confucius-06-check-3-misconception"
+    },
+    {
+      "id": "confucius-06-check-4",
+      "kind": "relation",
+      "prompt": "仁与恕为何不能互相替代？",
+      "targetNodeIds": [
+        "confucius-06-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-06-check-4-a",
+          "text": "仁推动成全，恕检查成全是否变成支配",
+          "feedback": "二者在同一行动中形成积极推动与反向约束，不是按人群划分辖区。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-06-check-4-b",
+          "text": "仁只管亲属，恕只管陌生人，范围彼此分开",
+          "feedback": "错步是把功能差异偷换成对象范围差异，文本关系并未支持这种分区。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-06-check-4-a",
+      "misconceptionId": "confucius-06-check-4-misconception"
+    },
+    {
+      "id": "confucius-07-check-1",
+      "kind": "text-identity",
+      "prompt": "“忠恕而已矣”属于何种声音？",
+      "targetNodeIds": [
+        "confucius-07-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-07-check-1-a",
+          "text": "它是曾子对孔子之道的概括，被编入汇编",
+          "feedback": "说话者、编纂载体和后来的体系化必须分层，弟子概括不能抹去其身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-07-check-1-b",
+          "text": "它是孔子亲自撰写并定稿的体系纲要",
+          "feedback": "错步是把汇编中的弟子声音升级为作者亲撰纲要，混同人物与出版身份。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-07-check-1-a",
+      "misconceptionId": "confucius-07-check-1-misconception"
+    },
+    {
+      "id": "confucius-07-check-2",
+      "kind": "argument",
+      "prompt": "拒绝主管为何仍可能是忠？",
+      "targetNodeIds": [
+        "confucius-07-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-07-check-2-a",
+          "text": "命令来源可能偏离公共安全这一职责对象",
+          "feedback": "关键是命令与职责目标的可证明分离，而非个人情绪本身赋予拒绝正当性。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-07-check-2-b",
+          "text": "只要个人反感命令，职责对象便随之改变",
+          "feedback": "错步是以反感替代职责冲突证据，使尽责滑向任意自我授权。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-07-check-2-a",
+      "misconceptionId": "confucius-07-check-2-misconception"
+    },
+    {
+      "id": "confucius-07-check-3",
+      "kind": "objection",
+      "prompt": "协作异议给拒绝增加了什么负担？",
+      "targetNodeIds": [
+        "confucius-07-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-07-check-3-b",
+          "text": "先服从命令，事后再判断职责是否受损",
+          "feedback": "错步是把协调要求扩成先行服从，可能让职责对象在判断前已遭不可逆损害。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-07-check-3-a",
+          "text": "说明冲突、保存证据并选择相称程序",
+          "feedback": "程序负担使拒绝可审查，同时保留在不可逆伤害前阻止命令的可能。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-07-check-3-a",
+      "misconceptionId": "confucius-07-check-3-misconception"
+    },
+    {
+      "id": "confucius-07-check-4",
+      "kind": "relation",
+      "prompt": "忠与恕的相接避免了什么？",
+      "targetNodeIds": [
+        "confucius-07-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-07-check-4-a",
+          "text": "避免尽己变成以投入之名向他人强加",
+          "feedback": "恕把他人承受带入尽己，使投入关系不能只按行动者的自我理解裁决。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-07-check-4-b",
+          "text": "把忠的持续承担减为当下善意表达",
+          "feedback": "错步是把限制强加误成减轻责任；恰当限制使忠的持续承担更具体。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-07-check-4-a",
+      "misconceptionId": "confucius-07-check-4-misconception"
+    },
+    {
+      "id": "confucius-08-check-1",
+      "kind": "argument",
+      "prompt": "正名为何需要双向检验？",
+      "targetNodeIds": [
+        "confucius-08-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-08-check-1-a",
+          "text": "名称可责问行为，实际关系也可揭露名称伪装",
+          "feedback": "双向性避免名称成为遮蔽，也避免事实描述失去可追责的规范方向。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-08-check-1-b",
+          "text": "名称先固定角色，实际关系只负责服从名称",
+          "feedback": "错步是取消现实对名称的反证权，使失职者能凭称号保住正当性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-08-check-1-a",
+      "misconceptionId": "confucius-08-check-1-misconception"
+    },
+    {
+      "id": "confucius-08-check-2",
+      "kind": "case",
+      "prompt": "顾问案例中什么最有决定性？",
+      "targetNodeIds": [
+        "confucius-08-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-08-check-2-a",
+          "text": "实际控制与风险分配是否形成相应责任",
+          "feedback": "正名追问共同实践中的权限与责任，称谓形式不能独自改写实际控制。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-08-check-2-b",
+          "text": "合同标题是否采用最正式的顾问称谓",
+          "feedback": "错步是让标签决定关系，从而使改名成为逃避义务的充分手段。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-08-check-2-a",
+      "misconceptionId": "confucius-08-check-2-misconception"
+    },
+    {
+      "id": "confucius-08-check-3",
+      "kind": "boundary",
+      "prompt": "仁义检验给正名增加了什么边界？",
+      "targetNodeIds": [
+        "confucius-08-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-08-check-3-b",
+          "text": "只要名实一致，角色秩序便已获得正当性",
+          "feedback": "错步是从责任清楚跳到责任正当，省略了对角色目的和权力结构的检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-08-check-3-a",
+          "text": "角色本身若把人当工具，也可受到批评",
+          "feedback": "名实一致解决可追责性，不自动解决角色内容是否尊重人的问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-08-check-3-a",
+      "misconceptionId": "confucius-08-check-3-misconception"
+    },
+    {
+      "id": "confucius-08-check-4",
+      "kind": "text",
+      "prompt": "“君君”较可辩护的含义是什么？",
+      "targetNodeIds": [
+        "confucius-08-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-08-check-4-b",
+          "text": "君的名称使其行为不再受角色标准审查",
+          "feedback": "错步是把规范称谓变成地位豁免，正好破坏名实相称的责问功能。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-08-check-4-a",
+          "text": "君的名称也要求其履行相应责任",
+          "feedback": "重叠用语可以读成角色履行要求，因此名称同时约束地位持有者。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-08-check-4-a",
+      "misconceptionId": "confucius-08-check-4-misconception"
+    },
+    {
+      "id": "confucius-09-check-1",
+      "kind": "concept",
+      "prompt": "德治主要补充刑罚的哪一缺口？",
+      "targetNodeIds": [
+        "confucius-09-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-09-check-1-b",
+          "text": "刑罚的缺口在于没有设置更高的违规成本",
+          "feedback": "错步是把规范认同的缺口改成成本强度不足；加重惩罚仍可能只训练避罚。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-09-check-1-a",
+          "text": "刑罚难以独自形成羞耻、信任与规范认同",
+          "feedback": "文本对照集中在行为动机与关系形成，不是否认强制可能具有边界作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-09-check-1-a",
+      "misconceptionId": "confucius-09-check-1-misconception"
+    },
+    {
+      "id": "confucius-09-check-2",
+      "kind": "case",
+      "prompt": "作弊案例为何仍保留处分？",
+      "targetNodeIds": [
+        "confucius-09-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-09-check-2-a",
+          "text": "规范形成与制止蓄意伤害承担不同任务",
+          "feedback": "处分保护公平边界，示范、透明与申诉才进一步塑造规范认同。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-09-check-2-b",
+          "text": "处分本身足以让学生形成诚实的判断",
+          "feedback": "错步是让外部成本自动产生内在认同，重现“免而无耻”的问题。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-09-check-2-a",
+      "misconceptionId": "confucius-09-check-2-misconception"
+    },
+    {
+      "id": "confucius-09-check-3",
+      "kind": "objection",
+      "prompt": "人格崇拜异议要求加入什么？",
+      "targetNodeIds": [
+        "confucius-09-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-09-check-3-b",
+          "text": "让有德者决定何时可以免受公开规则约束",
+          "feedback": "错步是把异议指出的自我授权写成例外条件，反而放大任意统治。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-09-check-3-a",
+          "text": "让德性主张接受公开规则、证据与申诉",
+          "feedback": "可质疑程序限制表率权力，使德不能用自我宣称取代责任证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-09-check-3-a",
+      "misconceptionId": "confucius-09-check-3-misconception"
+    },
+    {
+      "id": "confucius-09-check-4",
+      "kind": "text-identity",
+      "prompt": "现代制度重构应怎样标明身份？",
+      "targetNodeIds": [
+        "confucius-09-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-09-check-4-b",
+          "text": "它既与德治相容，便属于孔子逐字提出的制度",
+          "feedback": "错步是从可相容跳到作者已提出，抹去文本时代与解释层次。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-09-check-4-a",
+          "text": "它借德治问题扩展条件，不称为孔子已有宪制",
+          "feedback": "哲学相容性不同于历史归属，后加程序条件必须保留现代重构身份。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-09-check-4-a",
+      "misconceptionId": "confucius-09-check-4-misconception"
+    },
+    {
+      "id": "confucius-10-check-1",
+      "kind": "argument",
+      "prompt": "命与德如何共同评价行动？",
+      "targetNodeIds": [
+        "confucius-10-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-10-check-1-b",
+          "text": "命决定结果正当，德负责解释结果为何成功",
+          "feedback": "错步是把结果提升为正当性证据，使幸运与德行重新混同。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-10-check-1-a",
+          "text": "命限制结果归责，德检验可控投入与修正",
+          "feedback": "两者分开控制边界与行动责任，正是为了反对用成败直接证明德性。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-10-check-1-a",
+      "misconceptionId": "confucius-10-check-1-misconception"
+    },
+    {
+      "id": "confucius-10-check-2",
+      "kind": "case",
+      "prompt": "病人死亡为何不能单独判定失责？",
+      "targetNodeIds": [
+        "confucius-10-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-10-check-2-b",
+          "text": "结果含不可控因素，所以专业判断无需审查",
+          "feedback": "错步是从结果不完全可控推出过程不可审查，取消了德所检验的可控投入。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-10-check-2-a",
+          "text": "结果还受疾病与偶然影响，须审查可控判断链",
+          "feedback": "控制边界要求细查证据、说明和调整，而不是用结果一票决定责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-10-check-2-a",
+      "misconceptionId": "confucius-10-check-2-misconception"
+    },
+    {
+      "id": "confucius-10-check-3",
+      "kind": "objection",
+      "prompt": "不公异议改变了命判断的顺序吗？",
+      "targetNodeIds": [
+        "confucius-10-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-10-check-3-a",
+          "text": "先调查可改变的人为原因，再界定不可控剩余",
+          "feedback": "顺序改变防止命提前封闭因果追问，使制度责任不能被自然化。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-10-check-3-b",
+          "text": "先宣布命的边界，再决定哪些原因值得调查",
+          "feedback": "错步是让命先行划界，既得秩序因而能决定哪些证据不被看见。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-10-check-3-a",
+      "misconceptionId": "confucius-10-check-3-misconception"
+    },
+    {
+      "id": "confucius-10-check-4",
+      "kind": "boundary",
+      "prompt": "匡地叙事不能证明什么？",
+      "targetNodeIds": [
+        "confucius-10-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-10-check-4-a",
+          "text": "使命确信会因天意而在每次危险中成功",
+          "feedback": "叙事支持人物的规范信念，却不足以建立天对具体结果的稳定因果保证。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-10-check-4-b",
+          "text": "文本中的孔子以天表达对使命的确信",
+          "feedback": "错步是删除文本实际呈现的声音；需要限制的是由信念外推结果必胜。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-10-check-4-a",
+      "misconceptionId": "confucius-10-check-4-misconception"
+    },
+    {
+      "id": "confucius-11-check-1",
+      "kind": "text",
+      "prompt": "两种回答为何不必互相矛盾？",
+      "targetNodeIds": [
+        "confucius-11-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-11-check-1-b",
+          "text": "它们各自取消事实与理由的共同标准",
+          "feedback": "错步是从行动建议不同推出标准消失，忽略公西华追问后给出的相关差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-11-check-1-a",
+          "text": "它们针对不同性情，服务可靠行动的共同目标",
+          "feedback": "答法变化来自可说明的校正需要，共同目标与事实要求仍然保留。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-11-check-1-a",
+      "misconceptionId": "confucius-11-check-1-misconception"
+    },
+    {
+      "id": "confucius-11-check-2",
+      "kind": "argument",
+      "prompt": "情境判断怎样避免任意？",
+      "targetNodeIds": [
+        "confucius-11-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-11-check-2-a",
+          "text": "说明差异为何改变共同目标下的理由权重",
+          "feedback": "相关性说明把个别化置于可质疑理由中，熟悉本身不是正当性证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-11-check-2-b",
+          "text": "只要判断者熟悉当事人，差别便无需说明",
+          "feedback": "错步是以认识身份替代论证，让差别待遇免于当事人与证据的反驳。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-11-check-2-a",
+      "misconceptionId": "confucius-11-check-2-misconception"
+    },
+    {
+      "id": "confucius-11-check-3",
+      "kind": "case",
+      "prompt": "冒进者被要求查证改变了什么？",
+      "targetNodeIds": [
+        "confucius-11-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-11-check-3-a",
+          "text": "改变当前校正方向，不改变可靠预警目标",
+          "feedback": "性情史决定先补哪项能力，但证据标准仍约束两位行动者。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-11-check-3-b",
+          "text": "改变事实标准，使冒进者的通报较不需要证据",
+          "feedback": "错步是把差异化支持扩成差异化真理标准，破坏共同目标。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-11-check-3-a",
+      "misconceptionId": "confucius-11-check-3-misconception"
+    },
+    {
+      "id": "confucius-11-check-4",
+      "kind": "text-identity",
+      "prompt": "为何要保留公西华的追问声音？",
+      "targetNodeIds": [
+        "confucius-11-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-11-check-4-b",
+          "text": "追问证明全部对话都由公西华事后定稿",
+          "feedback": "错步是把场景内发言者升级为文本定稿者，混淆叙事声音与编纂历史。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-11-check-4-a",
+          "text": "追问使同题异答的理由在场景中显露",
+          "feedback": "弟子声音承担解释功能，但不能由参与对话外推出整部汇编的作者身份。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-11-check-4-a",
+      "misconceptionId": "confucius-11-check-4-misconception"
+    },
+    {
+      "id": "confucius-12-check-1",
+      "kind": "text-identity",
+      "prompt": "为何不能把《论语》全当孔子逐字定稿？",
+      "targetNodeIds": [
+        "confucius-12-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-12-check-1-b",
+          "text": "它含孔子话语，所以各句都具有生前出版身份",
+          "feedback": "错步是从内容归属线索跳到出版与定稿身份，省略了身后传承和编纂过程。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-12-check-1-a",
+          "text": "它是身后逐步编成、包含多人物声音的语录汇编",
+          "feedback": "保存孔子传统与作者亲笔出版是不同证据主张，汇编层次要求逐项标明声音。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-12-check-1-a",
+      "misconceptionId": "confucius-12-check-1-misconception"
+    },
+    {
+      "id": "confucius-12-check-2",
+      "kind": "source",
+      "prompt": "出土简本能够直接完成什么？",
+      "targetNodeIds": [
+        "confucius-12-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-12-check-2-b",
+          "text": "恢复每段对话发生时的完整历史现场",
+          "feedback": "错步是把文本见证扩大成事件录音，出土年代也晚于许多所述场景。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-12-check-2-a",
+          "text": "校正部分字句与文本流传认识",
+          "feedback": "物质文本提供版本证据，但从抄本差异到原始事件仍隔着传承与编纂。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-12-check-2-a",
+      "misconceptionId": "confucius-12-check-2-misconception"
+    },
+    {
+      "id": "confucius-12-check-3",
+      "kind": "reception",
+      "prompt": "朱熹《集注》应放在哪一层？",
+      "targetNodeIds": [
+        "confucius-12-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-12-check-3-b",
+          "text": "它是孔子春秋时期未公开的原始解释",
+          "feedback": "错步是沿影响力倒写年代，把后世权威误成早期人物声音。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-12-check-3-a",
+          "text": "它是宋代理学语境中的重要后世重构",
+          "feedback": "《集注》深刻塑造接受史，但其问题框架与出版身份属于宋代。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-12-check-3-a",
+      "misconceptionId": "confucius-12-check-3-misconception"
+    },
+    {
+      "id": "confucius-12-check-4",
+      "kind": "argument",
+      "prompt": "“现代重构”怎样避免成为免责标签？",
+      "targetNodeIds": [
+        "confucius-12-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-12-check-4-a",
+          "text": "明确新增前提、证据范围与可被反驳的代价",
+          "feedback": "分层提高而非降低证据责任，新增条件必须公开且不能删除不利材料。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-12-check-4-b",
+          "text": "只要声明现代身份，就可不回应原文冲突",
+          "feedback": "错步是把身份标注当作免证许可，正好落入异议所指出的逃逸方式。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-12-check-4-a",
+      "misconceptionId": "confucius-12-check-4-misconception"
+    },
+    {
+      "id": "confucius-13-check-1",
+      "kind": "argument",
+      "prompt": "“兴观群怨”为什么不能缩成顺从训练？",
+      "targetNodeIds": [
+        "confucius-13-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-13-check-1-a",
+          "text": "它同时保留情感启动、社会观察、结群与节制之怨",
+          "feedback": "四项使诗的共同体功能包含张力和批评，不只是把成员压成同声。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-13-check-1-b",
+          "text": "“群”已经证明诗的唯一目的就是取消分歧",
+          "feedback": "错步是让结群吞没“怨”，删除文本明确保留的情感与批评位置。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-13-check-1-a",
+      "misconceptionId": "confucius-13-check-1-misconception"
+    },
+    {
+      "id": "confucius-13-check-2",
+      "kind": "text",
+      "prompt": "8.8的诗、礼、乐关系较稳妥的解释是什么？",
+      "targetNodeIds": [
+        "confucius-13-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-13-check-2-b",
+          "text": "它们是三个可以互换的文化修养名称",
+          "feedback": "错步是抹去“兴、立、成”的次序与各自功能，使论证退化为并列清单。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-13-check-2-a",
+          "text": "它们是感受表达、共同形式与经验协调的递进媒介",
+          "feedback": "递进说明三者功能相接而不相同，并且仍须接受仁与实践后果检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-13-check-2-a",
+      "misconceptionId": "confucius-13-check-2-misconception"
+    },
+    {
+      "id": "confucius-13-check-3",
+      "kind": "objection",
+      "prompt": "17.11对“乐必然制造和谐”增加什么限制？",
+      "targetNodeIds": [
+        "confucius-13-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-13-check-3-a",
+          "text": "钟鼓声响和仪式器物本身不足以保证礼乐实质",
+          "feedback": "反形式主义追问要求检验关系、德性和后果，形式熟练不能自行证明正当。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-13-check-3-b",
+          "text": "只要演奏结构完整，权力如何使用音乐便无关",
+          "feedback": "错步是把3.23的技艺结构升级为充分德性条件，忽略形式可能被规训利用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-13-check-3-a",
+      "misconceptionId": "confucius-13-check-3-misconception"
+    },
+    {
+      "id": "confucius-13-check-4",
+      "kind": "text-identity",
+      "prompt": "为何不能以《礼记·乐记》证明孔子已有完整音乐形上学？",
+      "targetNodeIds": [
+        "confucius-13-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-13-check-4-b",
+          "text": "《乐记》谈礼乐，因此可直接补齐《论语》没有说出的体系",
+          "feedback": "错步是用后出文本倒写早期汇编，把解释连续性误作作者与时代同一。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-13-check-4-a",
+          "text": "《论语》片段与后出系统的时期、身份和声音不同",
+          "feedback": "后世系统可作接受史比较，却不能替代今本章次或冒充历史孔子的完成著作。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-13-check-4-a",
+      "misconceptionId": "confucius-13-check-4-misconception"
+    },
+    {
+      "id": "confucius-14-check-1",
+      "kind": "argument",
+      "prompt": "“祭如在”能直接证明鬼神实有吗？",
+      "targetNodeIds": [
+        "confucius-14-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-14-check-1-a",
+          "text": "不能；它首先规定祭祀参与者的在场态度",
+          "feedback": "仪式认真与存在命题是不同对象，前者不足以单独推出后者。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-14-check-1-b",
+          "text": "能；只要参与者认真，就完成了鬼神本体论证明",
+          "feedback": "错步是从实践规范跳到存在结论，省略独立证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-14-check-1-a",
+      "misconceptionId": "confucius-14-check-1-misconception"
+    },
+    {
+      "id": "confucius-14-check-2",
+      "kind": "boundary",
+      "prompt": "“敬鬼神而远之”的双重姿态是什么？",
+      "targetNodeIds": [
+        "confucius-14-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-14-check-2-b",
+          "text": "“远之”等于断言鬼神不存在，敬只是礼貌修辞",
+          "feedback": "错步是把认识距离改写成存在否定，删除文本保留的“敬”。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-14-check-2-a",
+          "text": "保持敬重，同时把人事置前并限制知识夸断",
+          "feedback": "敬阻止轻慢，远阻止以鬼神吞没人间责任或伪装成确定知识。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-14-check-2-a",
+      "misconceptionId": "confucius-14-check-2-misconception"
+    },
+    {
+      "id": "confucius-14-check-3",
+      "kind": "text",
+      "prompt": "11.12把“事人/知生”置前，最稳妥地说明什么？",
+      "targetNodeIds": [
+        "confucius-14-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-14-check-3-a",
+          "text": "它安排实践与探究次序，不裁定死后绝无事物",
+          "feedback": "回答优先处理可承担的人间关系，并保留对鬼神与死亡的知识限度。",
+          "isCorrect": true
+        },
+        {
+          "id": "confucius-14-check-3-b",
+          "text": "它证明死亡不值得追问，丧祭经验也没有规范重量",
+          "feedback": "错步是把先后次序扩大为价值取消，反而与祭祀参与和哀悼实践冲突。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "confucius-14-check-3-a",
+      "misconceptionId": "confucius-14-check-3-misconception"
+    },
+    {
+      "id": "confucius-14-check-4",
+      "kind": "object",
+      "prompt": "为何天命、鬼神、祭祀与死后知识必须分层？",
+      "targetNodeIds": [
+        "confucius-14-claim"
+      ],
+      "options": [
+        {
+          "id": "confucius-14-check-4-b",
+          "text": "它们都指同一超自然体系，可用任一章证明其余全部",
+          "feedback": "错步是取消对象差异，以宽泛相似替代逐项论证。",
+          "isCorrect": false
+        },
+        {
+          "id": "confucius-14-check-4-a",
+          "text": "它们分别涉及不可控结果、存在对象、仪式实践与认识边界",
+          "feedback": "对象分层防止从一类材料越级推出另一类结论，也偿还L10的篇间债务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "confucius-14-check-4-a",
+      "misconceptionId": "confucius-14-check-4-misconception"
+    }
+  ]
+}

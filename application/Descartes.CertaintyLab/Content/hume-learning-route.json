@@ -1,0 +1,3867 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "hume-01-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "印象、观念与缺失的蓝色",
+      "explanation": "休谟先按力度与鲜明性区分印象和观念，再用摹本原则追查简单观念的经验来源。缺失的蓝色是他亲自承认的特殊反例：它限制了原则的无例外说法，却没有取消以经验来源检验含混观念的工作。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-01-evidence"
+      ],
+      "abilityIds": [
+        "区分印象、观念、简单材料与复杂组合",
+        "说明缺失的蓝色攻击了哪个具体前提",
+        "用经验来源检验一个抽象概念而不把检验冒充最终结论"
+      ]
+    },
+    {
+      "id": "hume-02-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "观念关系与事实问题",
+      "explanation": "《人类理解研究》第四节把理性研究的对象分为观念关系与事实问题。前者的否定会造成矛盾，后者的否定仍可设想；这个差别迫使一切超出当前感觉与记忆的事实推断说明自己怎样借助因果。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-02-evidence"
+      ],
+      "abilityIds": [
+        "区分观念关系的必然性与事实问题的经验证据",
+        "说明反面可设想为何不等于正反同样可信",
+        "从混合主张中找出定义、事实与因果预期"
+      ]
+    },
+    {
+      "id": "hume-03-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "因果、恒常结合与习惯",
+      "explanation": "休谟先否认单凭对象性质能够预知效果，再把经验中可见的内容限定为相似事件的恒常结合。重复经验使心灵形成习惯性过渡，必要联系的观念由这种内部推移获得，而不是由对象表面的神秘纽带直接复制。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-03-evidence"
+      ],
+      "abilityIds": [
+        "区分对象属性、恒常结合与心灵的习惯性推移",
+        "说明必要联系观念的来源论证没有直接否认全部因果规律",
+        "指出习惯解释与归纳正当化之间仍然存在的缺口"
+      ]
+    },
+    {
+      "id": "hume-04-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "归纳为什么不能证明自己",
+      "explanation": "从已观察案例推向未观察案例，需要自然在相关方面继续相似。这个一致性原则既不是观念关系，也不能由过去经验无循环地证明；习惯解释期待怎样不可避免地产生，却不把期待变成演绎结论。休谟由此把“我们为什么实际相信”与“这种相信能否获得非循环证明”拆成两问，前一问的自然主义回答不会悄悄替代后一问。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-04-evidence"
+      ],
+      "abilityIds": [
+        "指出从过去走向未来所需的自然一致性前提",
+        "说明经验证明归纳为何形成循环",
+        "在无演绎保证的情况下比较具体预测的证据质量"
+      ]
+    },
+    {
+      "id": "hume-05-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自我、记忆与知觉之束",
+      "explanation": "《人性论》第一卷把关于简单、持续自我的观念送回印象来源。内省只呈现具体知觉，于是休谟把心灵描述为不断更替而彼此关联的知觉束；记忆、相似与因果关系解释人格同一感，却没有彻底解决联结原则。附录中的自我批评尤其重要：它阻止知觉束被包装成已经封闭的答案，也让“反驳简单实体”与“说明真实统一”保持为两项不同工作。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-05-evidence"
+      ],
+      "abilityIds": [
+        "区分当下知觉发生、人格连续关系与简单实体主张",
+        "说明记忆怎样发现并参与形成同一感",
+        "保留《人性论》附录对知觉联结问题的自我批评"
+      ]
+    },
+    {
+      "id": "hume-06-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "外部世界、想象与缓和的怀疑",
+      "explanation": "感觉给予的是知觉，不直接展示知觉之外独立持续的对象。恒常性与融贯性使想象把间断知觉补成持续事物；哲学的双重存在说试图区分知觉和对象，却无法由理性彻底证明。自然信念最终回返，怀疑因而被缓和而非消灭。这里要同时抵抗两种过度结论：自然信念的不可避免并不构成外物的演绎证明，证明的失败也不使一切外物判断同样任意。稳定、融贯和共同经验仍能区分较好与较坏的判断，只是不能提供站在全部知觉之外的核对位置。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-06-evidence"
+      ],
+      "abilityIds": [
+        "区分知觉、持续存在信念与独立对象证明",
+        "说明恒常性和融贯性怎样促成而不保证外物信念",
+        "把缓和怀疑理解为证据边界而非全面悬置"
+      ]
+    },
+    {
+      "id": "hume-07-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "激情、理性与行动",
+      "explanation": "《人性论》第二卷把理性的工作限定为发现观念关系、事实及因果手段；行动的原初推动来自欲望、厌恶与其他激情。“理性是激情的奴隶”因而不是孤立赞美冲动，而是关于动力和指引如何分工的论证。事实纠错仍能通过既有目的深刻改变选择。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-07-evidence"
+      ],
+      "abilityIds": [
+        "区分理性的事实与手段判断和激情的行动动力",
+        "在完整论证中解释奴隶句子而不把它变成口号",
+        "指出对行动的批评落在事实、手段还是目的冲突"
+      ]
+    },
+    {
+      "id": "hume-08-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "道德情感与共同立场",
+      "explanation": "《道德原则研究》让理性提供事实、关系和后果，让情感完成赞许与责备。道德情感不是任意即时好恶：人会采用较一般的共同立场，校正亲疏与眼前利益，并因效用、仁爱及可亲品质关切他人的幸福。共同立场不是消灭私人感情，而是让评价能够回应证据、接受他人质疑，并在不同观察位置之间保持相对稳定。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-08-evidence"
+      ],
+      "abilityIds": [
+        "区分道德对象的事实说明与赞许情感",
+        "说明共同立场怎样校正亲疏和距离",
+        "解释情感基础为何不等于每个即时反应都不可批评"
+      ]
+    },
+    {
+      "id": "hume-09-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "事实与应当之间缺了什么",
+      "explanation": "《人性论》第三卷观察到道德论述常从“是”与“不是”突然转为“应当”与“不应当”。新关系必须被指出并解释；这不是说事实与规范无关，而是要求补出评价、目的或情感前提，禁止无声推导。桥梁一旦公开，事实错误、价值范围和推导有效性便能分别接受检查，争论才从口号推进到具体前提，并明确回应责任。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-09-evidence"
+      ],
+      "abilityIds": [
+        "识别描述论证中首次出现的规范关系",
+        "补出事实到应当之间的评价或目的前提",
+        "区分公开规范桥梁与证明该桥梁正确"
+      ]
+    },
+    {
+      "id": "hume-10-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正义、财产与无言的约定",
+      "explanation": "休谟把正义称为人为之德，因为财产与义务依赖在人类有限慷慨、资源相对稀缺和合作有利的条件下形成的一般规则。约定不是一次原始契约，而是彼此察觉共同利益后稳定协调；制度整体的公共效用使正义获得道德赞许。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-10-evidence"
+      ],
+      "abilityIds": [
+        "区分人为制度与虚假任意",
+        "说明约定如何在没有先行承诺时形成",
+        "分别解释正义规则的利益起源与道德赞许"
+      ]
+    },
+    {
+      "id": "hume-11-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "奇迹、证言与宗教批判",
+      "explanation": "《人类理解研究》第十节把证言本身也当作经验依据。明智判断让信念与证据相称：奇迹作为自然律违例面对稳定经验，而报告可靠性又受证人、传播环境和宗教冲突影响。论证不是先验宣布奇迹不可设想，而是提出极高的证据比较门槛。门槛仍允许证据权重变化，因而必须审查实际报告链，而不能只凭定义提前结束调查。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-11-evidence"
+      ],
+      "abilityIds": [
+        "把证言放进全部相反经验中比较",
+        "区分罕见自然事件、规律修正与超自然违例",
+        "限制宗教批判结论而不把证据不足写成神不存在的证明"
+      ]
+    },
+    {
+      "id": "hume-12-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自然宗教对话中的三种声音",
+      "explanation": "《自然宗教对话》让克里安西斯以经验类比为设计论辩护，让斐洛追问类比、样本和恶的问题，让德米亚坚持神的不可理解性并提出先验道路。人物立场在论辩中变化，最后让步与潘斐勒结语彼此牵制，开放结局不能压成单一作者口号。每项归属都要保留发言者和当下论敌。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-12-evidence"
+      ],
+      "abilityIds": [
+        "逐段区分克里安西斯、斐洛、德米亚与项目解释",
+        "说明设计类比从有限秩序到传统神属性之间缺少的步骤",
+        "在斐洛让步和潘斐勒结语之间保留开放结局"
+      ]
+    },
+    {
+      "id": "hume-13-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "联想原则、想象与信念的活力",
+      "explanation": "相似、时空邻近与因果使观念在想象中彼此引出，却不把联想本身变成证明。休谟又区分自然关系与哲学关系，并以较强的活力、稳固性和强制感说明信念怎样不同于随意虚构；概率与相反经验则使这种活力按证据比例分配。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-13-evidence"
+      ],
+      "abilityIds": [
+        "区分三种联想原则及自然关系与哲学关系",
+        "用活力而非新增观念内容说明信念与虚构的差别",
+        "按概率与相反经验调节信念而不伪装成演绎确定性"
+      ]
+    },
+    {
+      "id": "hume-14-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自由、必然与责任",
+      "explanation": "E 8与T 2.3.1–2把必然解释为行动与动机、性格、处境之间的恒常结合以及观察者由此作出的推断，把自由限定为不受外在强制而依意志行动。兼容论既拒绝无原因的偶然，也保留强制边界，并以行为显露持久品格说明责任与归责。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-14-evidence"
+      ],
+      "abilityIds": [
+        "按休谟的经验定义说明行动中的必然",
+        "区分行动自由与形而上无因自由及外在强制",
+        "说明责任为何要求行为连接可归于行动者的品格"
+      ]
+    },
+    {
+      "id": "hume-15-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "政府、效忠与政治服从的界限",
+      "explanation": "T 3.2.8–10与政治论文把政府解释为在扩大社会中维持正义、裁决争端和执行共同规则的制度补救。效忠不是由虚构的普遍原始契约产生，而由政府的公共利益、意见与既有秩序获得根据；当暴政摧毁政府目的时，政治服从也有界限。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "hume-15-evidence"
+      ],
+      "abilityIds": [
+        "区分社会正义规则与政府效忠这一新增义务",
+        "评估原始契约、政府第一原则与意见基础",
+        "用政府目的说明服从、抵抗与归属的限度"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "hume-01-evidence",
+      "workId": "A Treatise of Human Nature, Book 1; An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online, 1777 Enquiry text with SBN",
+      "locator": "T 1.1.1.1-10, SBN 1-7; E 2.1-9, SBN 17-22",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-02-evidence",
+      "workId": "An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online, 1777 text with SBN",
+      "locator": "E 4.1-2, SBN 25-26",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-03-evidence",
+      "workId": "An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online, 1777 text with SBN",
+      "locator": "E 4.4-13, SBN 27-32; E 5.5-6, SBN 43-45; E 7.1-29, SBN 60-77",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-04-evidence",
+      "workId": "An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online, 1777 text with SBN",
+      "locator": "E 4.14-23, SBN 32-39; E 5.1-5, SBN 40-43",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-05-evidence",
+      "workId": "A Treatise of Human Nature, Book 1",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 1.4.6.1-23, SBN 251-263; Treatise Appendix 10-21, SBN 633-636",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-06-evidence",
+      "workId": "A Treatise of Human Nature, Book 1; An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 1.4.2.1-57, SBN 187-218; E 12.7-25, SBN 151-162",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-07-evidence",
+      "workId": "A Treatise of Human Nature, Book 2",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 2.3.3.1-10, SBN 413-418",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-08-evidence",
+      "workId": "An Enquiry concerning the Principles of Morals",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "M 1.3-10, SBN 170-173; M 5.1-45, SBN 212-231; M Appendix 1.1-21, SBN 285-294",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-09-evidence",
+      "workId": "A Treatise of Human Nature, Book 3",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 3.1.1.1-27, especially T 3.1.1.26, SBN 455-470",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-10-evidence",
+      "workId": "A Treatise of Human Nature, Book 3; An Enquiry concerning the Principles of Morals",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 3.2.2-6, SBN 484-534; M 3.1-40, SBN 183-204; M Appendix 3.7-10, SBN 306-309",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-11-evidence",
+      "workId": "An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online, 1777 text with SBN",
+      "locator": "E 10.1-41, SBN 109-131; E 11.1-30, SBN 132-148",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-12-evidence",
+      "workId": "Dialogues concerning Natural Religion",
+      "edition": "Hume Texts Online, Kemp Smith pagination",
+      "locator": "D Introduction; Parts 2, 4-6, 9-12, KS 128-244",
+      "locatorVerified": true,
+      "identity": "dialogue-with-contested-authorial-distance"
+    },
+    {
+      "id": "hume-13-evidence",
+      "workId": "A Treatise of Human Nature, Book 1; An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 1.1.4.1-7, SBN 10-13; T 1.1.5.1-10, SBN 13-15; T 1.3.5-13, SBN 84-155; E 3.1-3, SBN 23-24; E 5.12-22, SBN 48-55; E 6.1-4, SBN 56-59",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-14-evidence",
+      "workId": "A Treatise of Human Nature, Book 2; An Enquiry concerning Human Understanding",
+      "edition": "Hume Texts Online with SBN",
+      "locator": "T 2.3.1-2, SBN 399-412; E 8.1-36, SBN 80-103",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase"
+    },
+    {
+      "id": "hume-15-evidence",
+      "workId": "A Treatise of Human Nature, Book 3; Essays, Moral, Political, and Literary: Of the First Principles of Government; Of the Original Contract; Of the Origin of Government; Of Passive Obedience",
+      "edition": "Treatise (1739-40), Hume Texts Online with SBN; Essays in the posthumous 1777 edition, Liberty Fund/Miller paragraph numbering",
+      "locator": "T 3.2.8.1-12, SBN 539-549 (government as remedy for near-interest bias); T 3.2.9.1-17, SBN 549-561 (allegiance, public interest, and resistance); T 3.2.10.1-16, SBN 561-567 (objects and titles of allegiance); FP paras. 1-8 (opinion as the basis of government); OC paras. 1-36, esp. 20-27 (historical contract and tacit-consent critique); OG paras. 1-10 (force, habit, and public-interest origin); PO paras. 1-8 (utility of obedience and tyrannical exception)",
+      "locatorVerified": true,
+      "identity": "author-text-paraphrase-with-essay-context"
+    }
+  ],
+  "routes": [
+    {
+      "id": "hume-foundations",
+      "version": "1.0",
+      "title": "大卫·休谟：经验、行动与宗教的界限",
+      "lessonIds": [
+        "hume-01",
+        "hume-02",
+        "hume-03",
+        "hume-04",
+        "hume-05",
+        "hume-06",
+        "hume-07",
+        "hume-08",
+        "hume-09",
+        "hume-10",
+        "hume-11",
+        "hume-12",
+        "hume-13",
+        "hume-14",
+        "hume-15"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "hume-01",
+      "order": 1,
+      "title": "印象、观念与缺失的蓝色",
+      "depth": "overview",
+      "guidingQuestion": "当一阵牙痛正在发生，随后又只被回想时，心里出现的是同一种东西，还是彼此相关却强弱有别的两种知觉？",
+      "coreExplanation": "休谟先按力度与鲜明性区分印象和观念，再用摹本原则追查简单观念的经验来源。缺失的蓝色是他亲自承认的特殊反例：它限制了原则的无例外说法，却没有取消以经验来源检验含混观念的工作。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "疼痛过去以后留下了什么",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "牙痛正在钻入神经时，人很难把注意力移开；几个小时后回忆那次疼痛，内容似乎仍指向同一部位，却不再以同样的力量占据意识。休谟从这种日常差别出发，不先讨论心灵是不是实体，而先清点心灵中实际出现的东西。",
+            "如果正在疼痛和回想疼痛完全相同，就无法解释为什么回忆通常不让人立刻去找止痛药。反过来，若二者毫无关系，回忆又不可能被认作那次疼痛的回忆。问题因此不是简单二选一，而是怎样同时说明相似内容与不同力度。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "印象与观念的力度差别",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《人性论》第一卷开头把心灵知觉分成印象与观念。感觉、激情和情绪初次出现时属于印象；思考和推理中的较微弱形象属于观念。“印象”在这里不是日常所说的模糊看法，而是较有力、较鲜明的知觉。",
+            "这一区分首先依据出现方式，不是把外部事物和内部图像直接分成两类。看到红色、感到愤怒、承受疼痛都可算印象；随后想起红色、回顾愤怒、设想疼痛则是观念。休谟暂时不必证明外物存在，便能比较知觉之间的力度。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "从相似知觉走向摹本原则",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "仅有力度区分还没有说明观念从哪里来。休谟接着观察：许多简单观念都与先前的简单印象相似，仿佛较微弱的摹本。先见某种颜色，后来才能回想它；先尝某种味道，后来才能在想象中重现它。",
+            "论证的关键落在“简单”二字。金山的复杂观念可以由金色与山形组合，即使从未见过金山；但构成它的简单材料仍须追溯到经验。摹本原则因而不是说每个复杂想象都曾完整出现，而是说最初的简单材料有相应印象在先。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "没有味觉经验的菠萝说明",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一个人可以知道菠萝含糖、含酸，也可以听别人说它既甜又刺舌。这些命题帮助他把已有的甜、酸和刺痛观念排列起来，却不保证排列结果就是菠萝的实际味道。说明越详细，仍可能缺少一种只有品尝才带来的简单材料。",
+            "这个例子承担的是来源检验：若某人声称拥有一种完全简单而独特的味觉观念，却从未有相应感觉，就需要解释这种观念如何产生。它不证明语言无用；语言能够指路、比较和组合，只是不能凭空制造所有简单知觉。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "色阶中空着的一格",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "休谟自己马上提出麻烦。假定一个熟悉各种颜色的人从最深蓝看到最浅蓝，排列中只缺一个色阶。他似乎能够察觉空缺，并在想象中补出那一格，即使从未见过恰好那个深浅的蓝色。",
+            "这里不是后来批评者从外部找来的漏洞，而是作者公开承认的特殊情形。它直接挑战“每一个简单观念都必须由完全对应的简单印象复制”这一无例外表述。若补出的蓝确是简单观念，严格的普遍命题便遇到反例。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "一般命题旁边保留的例外",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《人性论》T 1.1.1.10、SBN 5至6没有否认这个可能，而说它过于特殊，不值得仅因此改变一般准则。《人类理解研究》第二节又保留了同一例子。这种处理让文本同时留下原则的雄心和作者对反例的明确知情。",
+            "因此不能把缺失的蓝色说成休谟没有发现的自我矛盾，也不能假装它毫无影响。更准确的说法是：反例迫使摹本原则从绝对定律退回极强的一般经验主张，而原则是否还能承担全部哲学任务，成为继续争论的责任。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "例外限制了哪一种主张",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一个反例足以反驳严格的全称命题，却未必抹去大量稳定对应。即使色阶能够由邻近颜色补出，完全缺乏某类感官的人仍不会因此拥有该感官的全部简单观念。先天失明者与颜色经验的关系仍给原则提供独立压力。",
+            "回应也不能只说“例外很少，所以不重要”。若后续论证必须依赖逻辑上无例外的原则，罕见反例仍会致命；若原则只作为诊断含混词语的经验方法，它可以在承认例外后继续有用。需要先说明所要求的是哪一种强度。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "把抽象词语送回经验来源",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "摹本原则最有锋芒的用途，不是给知觉贴标签，而是审查抽象概念。遇到“力量”“实体”或“必然联系”这样的词，可以追问：它所表达的简单观念来自哪一种印象？如果找不到，词语也许只是未经说明的声音。",
+            "这个检验不会预先宣布所有形而上学都无意义。它提出一项举证责任：声称概念清楚的人应展示经验来源，或说明它怎样由已有材料合法组合。因果问题之所以后来变得尖锐，正因为我们常说看见了力量，却难以指出相应印象。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "先分材料，再检查组合",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "可以把心灵想成一间并不凭空生产原色的工作室。它能放大、缩小、调换、拼接已有材料，甚至从连续色阶推算一个空位；但每当作品声称含有一种全新的简单材料，来源问题就重新出现。",
+            "这个比喻不能被误读成大脑里真的存放小图片。它只帮助分开两项能力：经验提供材料，想象重新安排材料。接下来还要追问，某些判断是否只靠安排观念即可成立，还是必须向世界查询事实。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与洛克的经验来源追问",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "洛克已经用感觉与反省反对天赋观念，休谟继承了追查经验来源的方向，却用印象和观念的对应把检验压得更细。二者都不能被缩成“所有知识只是被动接收”，因为组合、抽象和联结仍是心灵的活动。",
+            "差别也不能仅靠阵营名称解决。休谟关注简单知觉的摹本关系，并把它用于因果、人格和宗教概念的清理；洛克的观念理论有自己的分类与实体问题。比较只有指出各自论证任务，才不会把“经验主义”当成现成答案。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "怎样检查一个声称完全清楚的概念",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若有人说机器内部具有一种不可观察的“绝对驱力”，第一步不是立即否认，而是请他说明这个词对应什么经验。是看见速度变化，感到阻力，还是从多次结果中推断某种关系？不同回答会把一个词拆成不同主张。",
+            "若对方只能列举结果，却坚持还直接把握了结果背后的必然东西，摹本原则便要求继续追问。若他能指出一种内部感觉，也还需说明那种感觉为何能够代表外部对象的力量。来源检验揭开问题，却不自动完成全部反驳。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "从知觉差别到下一道分界",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "现在可以把推理收束起来：印象与观念按力度有别；许多简单观念在相应印象之后出现；复杂想象可重组材料；缺失的蓝色限制了严格全称版本；来源检验仍能要求含混概念交代其经验根据。",
+            "但仅知道观念从哪里来，还不能说明所有判断怎样获得真值。有些结论似乎只分析观念便不能否认，另一些结论即使非常可靠，其反面仍可设想。观念关系与事实问题的分界正从这里出现。"
+          ]
+        }
+      ],
+      "caseText": "设想一位从未尝过菠萝的人熟读所有化学说明。他能形成酸甜、刺舌和多汁等已有观念的组合，却仍不能仅凭说明获得那一次具体滋味。这个差距使“拥有描述”与“拥有相应简单观念”分开。",
+      "nodeIds": [
+        "hume-01-teaching"
+      ],
+      "checkIds": [
+        "hume-01-check-1",
+        "hume-01-check-2",
+        "hume-01-check-3",
+        "hume-01-check-4"
+      ],
+      "abilitySummary": [
+        "区分印象、观念、简单材料与复杂组合",
+        "说明缺失的蓝色攻击了哪个具体前提",
+        "用经验来源检验一个抽象概念而不把检验冒充最终结论"
+      ],
+      "recommendedNextLessonId": "hume-02"
+    },
+    {
+      "id": "hume-02",
+      "order": 2,
+      "title": "观念关系与事实问题",
+      "depth": "overview",
+      "guidingQuestion": "为什么“直角三角形满足某种边长关系”和“明天太阳会升起”都能被确信，却不能用同一种方式证明？",
+      "coreExplanation": "《人类理解研究》第四节把理性研究的对象分为观念关系与事实问题。前者的否定会造成矛盾，后者的否定仍可设想；这个差别迫使一切超出当前感觉与记忆的事实推断说明自己怎样借助因果。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "两种确信为什么不能互换证明",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一道算术等式算错时，可以在符号关系中找到矛盾；对明天日出的预言落空时，意外虽巨大，却不等于“太阳没有升起”这句话自身前后冲突。休谟要求先解释这种差别，再谈人类知识有多可靠。",
+            "若把所有确信都叫作证明，就会掩盖两种失败方式：一种是思想没有遵守自身关系，另一种是世界没有像预期那样发展。因为失败方式不同，支持它们的证据也不能只用同一个名称带过。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "观念关系中的必然性",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《人类理解研究》E 4.1把几何、代数和算术列为观念关系的典型。只要有关观念被正确把握，这些命题便可由直观或证明发现；它们是否成立，不取决于此刻世界上实际有多少三角形或石子。",
+            "这里的“只依思想”不表示可以任意想象答案，而表示证明所需根据位于观念之间。否定一个已证明的等式，会与数和运算的关系冲突。正因为反面不可一致设想，必然性才来自关系本身。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "事实反面的可设想性",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "事实问题具有另一种逻辑形状。太阳明天不升起、石头悬在半空、朋友没有按约到来，都可能与强大经验相冲突，却不包含形式矛盾。心灵仍能组成这些反面情形，而无需同时肯定又否定同一件事。",
+            "从“反面可设想”只能推出它不是观念关系式的必然真理，不能推出正反两面同样可信。日出仍有极强根据；问题只是这种根据不可能来自反面的逻辑不可能，必须另找经验如何支持预期。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "门外的雨不能由定义推出",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "听见屋檐连续滴水，可以推测门外正在下雨。这个判断利用了声响与雨水以往共同出现的经验，也可能被楼上漏水反驳。即便“雨”被定义得再精确，定义本身仍不会告诉人此刻是否有雨。",
+            "案例的作用是隔开概念条件与实际存在。知道怎样的天气才算下雨，是理解命题的条件；断言现在下雨，还需把命题连接到当前世界。感觉、记忆和证言承担了概念分析无法承担的工作。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "经验命题并非因此毫无理性",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "有人可能反驳：若事实反面总可设想，事实判断岂不都成了猜测？这个反对把“不是演绎必然”误换成“没有证据”。湿地、雷声和气象图能够共同提高下雨判断的可信度，只是不把反面变成矛盾。",
+            "回应仍欠一项说明：经验证据为什么能从已观察情形延伸到尚未观察情形。只列举更多过去事例会增强心理确信，却还没有证明未来必须相似。两分法因此不是终点，而是把因果与归纳的责任清楚暴露出来。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "第四节的两分法究竟说了什么",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 4.2、SBN 25至26说，事实问题的反面总是可能，因为心灵可以同样容易地设想它，而且其中不含矛盾。原文随即以太阳不升起为例，强调它虽不如日出命题可信，却同样可以被清楚设想。",
+            "这段话没有把全部有意义命题都塞进两个现代逻辑盒子，也没有宣告经验科学失败。它在“怀疑的疑问”开头限定证明种类，为接下来的问题服务：我们凭什么超出感觉和记忆，断言远方、过去或未来的事实？"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "逻辑可能不等于现实可能",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "能够不矛盾地说出一句话，不保证世界真有实现它的机制。石头无缘无故悬空在语句层面可被设想，但成熟物理理论可能给它极低概率。休谟在这里需要的是反面不构成概念矛盾，而不是替所有反面保证同等现实机会。",
+            "同样，观念关系也不等于轻易或无误。复杂证明可能超出个人能力，人也会抄错数字。对象的必然性与实际思考者的心理把握必须分开，否则会把“可证明”偷换成“任何人此刻都不会错”。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "事实推断为何必然遇到因果",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "当事实判断只报告当前感觉或直接记忆时，暂时不必跨越巨大间隙；一旦从烟推火、从脚印推行人、从信件推远方事件，就在一个已出现对象与另一个未出现对象之间建立联系。",
+            "相似、邻近和时间次序有时帮助联想，却不足以单独保证另一个事实存在。休谟认为，能把思想可靠地带到未见事实的关系是因果。于是问题从“事实不是演绎真理”推进为“因果联系的根据在哪里”。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "地图规则与路况报告",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "地图比例规定一厘米代表多少距离，属于符号关系；某条路今天封闭，则是关于世界的报告。前者可检查比例运算，后者要查现场、公告或证言。把两者混用，会试图用比例尺证明路障存在。",
+            "这个比喻帮助看见方法选择：先问主张属于哪种证明责任，再寻找相应证据。它不能取代休谟的论证，因为真实命题可能同时含有概念定义和经验前提；需要逐项拆开，而不是给整句话匆忙贴标签。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与先验存在证明的距离",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若有人试图只从一个完满存在者的概念推出其实际存在，休谟式两分法会追问：存在是否能像三角形性质那样从观念关系获得？若否，关于存在的断言便需要事实根据，而不能由定义悄悄越界。",
+            "这还不是对任何特定上帝证明的完整反驳，因为对方可能否认存在是普通事实谓词，或重新解释必然存在。比较的价值在于定位争点：对方必须说明为何这一次存在断言不服从通常的事实证明责任。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "拆开一条看似必然的预测",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "“这套软件一定会在相同输入下给出相同输出”可能混合三项内容：算法定义、机器当前未损坏的事实、未来环境继续稳定的预期。算法关系可由代码分析，后两项却要靠观察与因果判断。",
+            "把混合主张拆开后，争论会更精确。若有人只证明算法确定，便尚未证明硬件不会故障；若有人展示长期稳定记录，也尚未把下一次结果变成逻辑必然。每一项结论只能继承其实际前提的强度。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "两类对象留下的下一项责任",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "观念关系由观念之间的比较获得，否定已证明关系会造成矛盾；事实问题诉诸世界，其反面仍可设想。这个区别没有贬低事实知识，而是阻止经验结论借用数学证明的必然外观。",
+            "超出当前感觉和记忆的事实判断仍大量存在，也不可能被日常生活删除。既然它们依赖因果，下一步就必须检查：经验中究竟看见了原因的什么，是必然力量，还是事件反复相随以及心灵形成的期待。"
+          ]
+        }
+      ],
+      "caseText": "关在没有窗户的房间里，可以只凭定义和证明判断一道几何题；若要判断门外是否下雨，概念分析不够，必须寻找声响、湿伞、天气记录或证言。两种判断都可有根据，但根据的种类不同。",
+      "nodeIds": [
+        "hume-02-teaching"
+      ],
+      "checkIds": [
+        "hume-02-check-1",
+        "hume-02-check-2",
+        "hume-02-check-3",
+        "hume-02-check-4"
+      ],
+      "abilitySummary": [
+        "区分观念关系的必然性与事实问题的经验证据",
+        "说明反面可设想为何不等于正反同样可信",
+        "从混合主张中找出定义、事实与因果预期"
+      ],
+      "recommendedNextLessonId": "hume-03"
+    },
+    {
+      "id": "hume-03",
+      "order": 3,
+      "title": "因果、恒常结合与习惯",
+      "depth": "overview",
+      "guidingQuestion": "当一只台球撞向另一只台球并使它移动时，眼睛究竟看见了力量本身，还是只看见两个事件按次序发生？",
+      "coreExplanation": "休谟先否认单凭对象性质能够预知效果，再把经验中可见的内容限定为相似事件的恒常结合。重复经验使心灵形成习惯性过渡，必要联系的观念由这种内部推移获得，而不是由对象表面的神秘纽带直接复制。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "第一次相遇为何预告不了结果",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "把一个从未见过磁铁的人带到桌前，只让他观察两块金属的颜色、重量和形状，他不能由这些表面性质演绎出它们会吸引还是排斥。即使效果稍后发生，先前无知也说明效果没有明写在原因观念中。",
+            "这一步承接事实问题：原因存在与效果出现都属于其反面可设想的事实。既然概念分析不能排除不同结果，关于未见效果的知识必须来自经验。下一步便要清点经验实际增加了什么，而不是把“经验教会了我”当成解释终点。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "相接、先后与恒常结合",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "反复经验首先显示事件在空间或时间上相接，原因通常先于效果；更重要的是，相似原因一再伴随相似效果。火焰之后出现热感，碰撞之后出现运动，这种重复规则就是讨论因果时的恒常结合。",
+            "恒常结合比一次相随更强，却仍只是事件模式。看见一百次火焰伴随热，新增的是相似配对的次数和稳定性；眼睛并未因此在第一百次突然看见一种名叫“必然”的颜色。于是外在重复与必要联系仍须区分。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "从重复经验到心灵的推移",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "当相同配对多次出现，原因再现时，心灵会自然转向效果的观念，并以较强的确信期待它。这种转向不是重新演算一条证明；儿童和动物也能在重复后形成期待，说明运作先于抽象论证。",
+            "休谟把这种由重复产生的倾向称作习惯或惯例。习惯解释了过去经验怎样实际影响信念：它让一个当前印象把活力传给与之惯常联合的观念。若没有这一步，恒常结合只是一份历史清单，尚不能说明人为何预期下一次。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "陌生按钮怎样获得意义",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "第一次面对没有标记的按钮，按钮的圆形、红色和硬度都不透露按下后的效果。一次按下随后响铃，可能只是偶合；多次在相似条件下重复，按钮出现便开始把思绪带向铃声。",
+            "例子不仅说明人会记住配对，还说明预期具有方向：见按钮想到铃声，不必见铃声就同样强烈地想到按钮。原因到效果的转移由实践塑造。若有人主张按钮内含可直观的响铃力量，他需要指出那一额外内容何时被感知。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "一次反常结果给习惯什么压力",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "假如按钮连续百次响铃，第一百零一次却开了门，旧期待被打断。这并不证明此前从无因果规律，却显示习惯产生的确定感能够被新经验修正。心理上强烈的期待不能单凭强烈程度充当对象必然性的证明。",
+            "反对者可据此说，休谟只解释了人怎样犯错，没有解释正确因果。回应是：理论并非把每个习惯都判真，而是说明事实推断共同依赖什么机制。仍欠的责任是区分可靠与草率的习惯，这要靠更广样本、条件控制和反例调查。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "第七节寻找必要联系的印象",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《人类理解研究》第七节先检查外部对象，指出我们看见运动接续，却不了解物体传递力量的隐秘方式；又检查意志与身体、意志与观念，发现命令常失败，实际生理和心理机制也不为内省透明。",
+            "到E 7.28、SBN 75附近，原文把必要联系的来源放在心灵由一个对象惯常转向其伴随者的感觉。这个次序很重要：休谟不是先宣布世界无力量，而是在可能来源逐一不足后，为我们确实拥有的必要观念寻找可指出的内部印象。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "分析观念不等于删除世界中的因果",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "说我们没有对象必然力量的直接印象，不等于说事件毫无规律、科学不能研究原因，或世界只是随机噪声。实验仍可发现稳定依赖，预测仍可比较可靠程度；被限制的是声称洞见规律背后不可见必然纽带的资格。",
+            "关于休谟是否还承认某种不可知的真实力量，后世解释有怀疑主义、规律论和因果实在论等分歧。正文可以明确最低共同点：我们的因果观念与推断不能凭超出经验的直观自证。更强本体结论必须另行论证。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "两种因果定义各自抓住什么",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 7.29给出两种表达。一种把原因说成某对象之后跟随另一对象，并且所有类似前者都伴随类似后者；另一种加入心灵因素：前者出现，会把思想带到后者。这分别抓住外在规则与内在推断。",
+            "两种定义并非重复装饰。只有外在规则，难以解释必要感怎样进入观念；只有内在转移，又可能把私人联想误作因果。把二者并置，要求因果判断同时接受经验模式和推断机制的检查。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "规律表与期待之间的缺口",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一份表格可以记录过去每次服药后体温下降，却不会自己写出“下一位病人也会下降”。从记录到预测，还要假定新病例与旧病例在相关方面足够相似，并让过去模式指导当前期待。",
+            "习惯说明这个过渡事实上如何发生，却没有把它变成演绎证明。如果问“为什么过去的结合保证未来仍相同”，回答“因为过去一直如此”会再次使用待证明的推断。因果分析因此不可避免地推进到归纳问题。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与机械图景中的隐藏作用力",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "机械说明常把可见运动分解为碰撞、压力和部件传递，这能增加可观察环节，也能形成精确方程。但环节变多不会自动让“为何结果必然跟随”变成一种新感觉；每个环节仍可接受同样的来源追问。",
+            "休谟的攻击不是要求物理学停止使用力，而是防止公式的成功被误写成心灵已经窥见终极作用方式。科学概念可由测量关系和预测功能获得内容；若再声称掌握形而上必然性，就多承担了一项证明责任。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "从相关记录走向原因判断",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一座城市中冰淇淋销量与溺水事故同时上升，形成恒常程度不明的相关。直接断言冰淇淋导致溺水，会忽略高温这个共同条件。休谟的框架要求先问相似配对是否稳定，再查心灵为何从一项转向另一项。",
+            "现代控制实验、干预和统计模型超出了休谟当时的工具，却延续同一警惕：重复相随不自动识别正确因果结构。它们增加鉴别手段，而不是让因果从此变成纯粹观念关系。事实证据仍保留可修正性。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "因果观念怎样把问题交给归纳",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "陌生对象不能凭性质预告效果；经验显示相接、先后与恒常结合；重复使心灵形成由原因转向效果的习惯；必要联系的观念由这种内部感觉获得。两种定义分别保存外在规律和内在推断。",
+            "这条解释说明人为何会从过去走向未来，却还没有证明这样的走法不会循环。若有人要求为自然继续相似提供理性根据，习惯只能说明无法避免的做法。归纳问题正是对这项剩余责任的集中追问。"
+          ]
+        }
+      ],
+      "caseText": "第一次见到陌生装置上的按钮，人无法只看按钮形状便知道按下会响铃、开门还是断电。多次观察按键后响铃，期待才形成。案例让“对象自身可读出的力量”与“经验培养的预期”分开。",
+      "nodeIds": [
+        "hume-03-teaching"
+      ],
+      "checkIds": [
+        "hume-03-check-1",
+        "hume-03-check-2",
+        "hume-03-check-3",
+        "hume-03-check-4"
+      ],
+      "abilitySummary": [
+        "区分对象属性、恒常结合与心灵的习惯性推移",
+        "说明必要联系观念的来源论证没有直接否认全部因果规律",
+        "指出习惯解释与归纳正当化之间仍然存在的缺口"
+      ],
+      "recommendedNextLessonId": "hume-04"
+    },
+    {
+      "id": "hume-04",
+      "order": 4,
+      "title": "归纳为什么不能证明自己",
+      "depth": "overview",
+      "guidingQuestion": "过去每一次火都灼热，为何仍不能用一条不循环的证明保证下一团火也会灼热？",
+      "coreExplanation": "从已观察案例推向未观察案例，需要自然在相关方面继续相似。这个一致性原则既不是观念关系，也不能由过去经验无循环地证明；习惯解释期待怎样不可避免地产生，却不把期待变成演绎结论。休谟由此把“我们为什么实际相信”与“这种相信能否获得非循环证明”拆成两问，前一问的自然主义回答不会悄悄替代后一问。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "过去记录与下一次之间",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一本记录册写满一千次日出，第一页到最后一页都只谈已经发生的清晨。翻到空白页时，“明天仍会日出”增加了一个尚未观察的事实。记录数量可以提高确信，却不会自动把空白页变成已经填写的页面。",
+            "因果分析说明习惯会完成这个跨越，但“心灵事实上会这样走”不同于“理性已经证明必须这样走”。如果要求为跨越提供根据，就必须说出过去与未来之间依赖什么原则；归纳难题从这里而不是从一般厌恶科学开始。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "自然一致性作为隐藏前提",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "从过去火焰灼热推到下一团火灼热，默认相似原因在尚未观察情形中仍有相似效果。这个默认常被称为自然齐一或自然一致性。休谟未必用一条固定口号命名它，论证却精确追问这项过桥前提的根据。",
+            "一致性不是说宇宙处处完全相同。季节变化、个体差异和偶然干扰都可承认；预测需要的是与当前推断相关的规律继续稳定。正因“相关方面”必须选择，归纳也不只是把出现次数机械相加。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "观念关系无法保证自然继续相似",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "若自然一致性是观念关系，否定它便应造成矛盾。然而可以一致地设想面包忽然不再滋养、火焰转为冰冷，哪怕这些情形极不可信。反面可设想说明未来相似不是由概念关系锁死。",
+            "这一步没有证明未来真的会剧变，只排除一种证明路线：不能像证明算术等式那样，从过去概念演绎未来。若归纳仍有理性辩护，它必须来自事实证据；于是第二条路线是否循环成为决定问题。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "桥梁记录为何仍需工程判断",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "桥梁十年未坏，是材料和结构可靠的重要证据。工程师还会检查腐蚀、疲劳、车重变化与极端天气，因为“过去条件与明天相关条件足够相似”不是记录表直接包含的项目。",
+            "若发现钢索裂纹，旧统计不能原样外推；若维护和检测都稳定，预测便更有根据。案例显示休谟的压力不会取消证据比较，反而迫使人说明哪些相似性支撑外推、哪些变化会破坏它。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "用过去成功为归纳辩护的圆圈",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "最自然的反驳是：归纳过去一直成功，所以未来也值得信赖。但从“过去成功”推到“以后仍可靠”，恰好又从已观察事实走向未观察事实，已经使用了所要证明的归纳方式。",
+            "循环不表示辩护在实践中毫无说服力，而表示它不能满足非循环证明的要求。若降低目标，只求说明一种方法在已知环境中表现优于另一种，历史比较仍有价值；但这种价值本身仍随环境延续而可修正。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "第四节的怀疑与第五节的解决",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 4.18至23连续追问，从经验得出的论证是否预设未来与过去相似，并断言这种相似不能由经验证明而不预先假定。文本的“怀疑的疑问”针对的是理解力所能提供的论证。",
+            "第五节称“怀疑的解决”，答案却不是发现遗漏的证明，而是诉诸习惯。自然使人在重复之后期待相似效果。解决的是生活和推断如何仍然可能，不是把第四节证明不了的原则暗中证明出来。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "证明失败不等于行动瘫痪",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "人无法等到归纳获得演绎保证才吃饭、过桥或服药。饥饿、记忆和习惯会把过去经验带入行动。休谟强调这种自然倾向不可避免，因此他的怀疑没有要求人真诚地把所有预测概率归零。",
+            "但“无法不归纳”也不是“归纳因此逻辑有效”。心理必然性和论证必然性必须并列保存：前者解释生活继续，后者限制哲学夸张。丢掉任一边，都会把休谟写成全面虚无主义或廉价常识主义。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "概率判断如何在没有保证时改进",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "缺少终极保证不妨碍比较预测。更大且相关的样本、独立重复、控制条件和对失败案例的记录，可以改变习惯所依据的经验结构，使某些推断比草率类比更可靠。",
+            "这些方法不能跳出归纳处境证明未来必然服从，却能降低特定错误。休谟的挑战因此与科学方法并非敌对：它阻止方法把成功夸成逻辑必然，同时让证据质量而非确定性口号成为比较中心。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "没有地基证明仍有承重差别",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "两座桥都没有“未来绝不变化”的形而上保证，不等于它们同样安全。一座经过检测并有完整维护记录，另一座钢筋裸露且资料缺失，行动者仍有充分理由区别对待。",
+            "这个比喻保留了怀疑与分级证据：终极非循环证明缺席，局部判断仍可受更多或更少经验支持。相同结构稍后会出现在外部世界问题中，自然信念无法被证明彻底奠基，却也不会因此任意。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "康德为何把压力转向经验条件",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "康德后来把休谟视为打断独断论的人，不愿把因果只留给习惯。他追问：因果规则是否是统一经验得以成为对象经验的先天条件。回应改变问题位置，不再从重复事实中寻找必然。",
+            "这项连接不能倒过来把康德答案塞进休谟。休谟的文本任务是揭示经验外推不能由理性无循环奠基；康德是否成功建立另一种必然性，需要在其范畴与演绎中另行判断。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "模型预测中的分布变化",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一个模型在旧数据上准确，不保证新环境继续准确。人口结构、测量设备或行为规则改变，会让训练数据与当前对象不再相关。所谓分布变化正把“未来在相关方面仍相似”的隐藏前提显露出来。",
+            "增加验证集和漂移监测能发现部分变化，却不能一次性证明所有未来环境。合理做法是让确信随证据调整，并明确适用范围。归纳难题没有给出万能修复，而是解释为什么任何外推都需要这种边界。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "怀疑留下的生活位置",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "过去到未来的推断预设相关规律延续；这项延续的反面可设想，所以不是观念关系；用过去成功证明未来可靠又会使用归纳，形成循环。严格的非循环证明因此没有找到。",
+            "习惯让期待自然产生，证据方法使期待可以分级和修正。这个结论既限制理性自负，也保留实际判断。下一步要问：同样由关联、记忆和想象维持的“同一个我”，是否比未来相似拥有更直接的根据。"
+          ]
+        }
+      ],
+      "caseText": "一座桥连续十年承受同样车流并未损坏，工程师据此预测明天仍可通行。预测有充分实践理由，却还依赖材料、负载和环境继续以相似方式作用；历史记录自身不会把这个延续变成逻辑必然。检测越充分，预测越值得信赖，但“越值得信赖”仍不同于“反面包含矛盾”。",
+      "nodeIds": [
+        "hume-04-teaching"
+      ],
+      "checkIds": [
+        "hume-04-check-1",
+        "hume-04-check-2",
+        "hume-04-check-3",
+        "hume-04-check-4"
+      ],
+      "abilitySummary": [
+        "指出从过去走向未来所需的自然一致性前提",
+        "说明经验证明归纳为何形成循环",
+        "在无演绎保证的情况下比较具体预测的证据质量"
+      ],
+      "recommendedNextLessonId": "hume-05"
+    },
+    {
+      "id": "hume-05",
+      "order": 5,
+      "title": "自我、记忆与知觉之束",
+      "depth": "overview",
+      "guidingQuestion": "当人把注意力转向自己时，是否真能遇见一个始终不变的主体，还是每次只遇见正在发生的感觉、情绪和思想？",
+      "coreExplanation": "《人性论》第一卷把关于简单、持续自我的观念送回印象来源。内省只呈现具体知觉，于是休谟把心灵描述为不断更替而彼此关联的知觉束；记忆、相似与因果关系解释人格同一感，却没有彻底解决联结原则。附录中的自我批评尤其重要：它阻止知觉束被包装成已经封闭的答案，也让“反驳简单实体”与“说明真实统一”保持为两项不同工作。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "向内看时究竟遇见谁",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "闭眼寻找自己，最先出现的可能是呼吸压力、焦躁、某句内心语言或一段回忆。每当注意力落下，总有一种具体知觉；一个脱离所有知觉、单独站在背后的自我，却没有以同样方式出现。",
+            "缺少这种直接相遇之所以重要，是因为摹本原则要求简单自我观念说明对应印象。若自我被说成持续、同一而简单，相应印象也应持续不变；可是冷热、爱憎和疼痛不断替换，下一步必须解释观念从何而来。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "知觉束不是装知觉的袋子",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 1.4.6把人描述为不同知觉的束或集合，这些知觉以不可思议的速度相继出现，处在不停流动中。“束”首先否定已被内省发现的简单不变实体，并不要求想象另一个容器把知觉装在里面。",
+            "若在知觉之外再放入一个不可知承载者，来源问题只会后退一步：它怎样被认识，又怎样造成同一？休谟选择从可见关系出发，考察不同知觉如何因相似、接续和因果影响被想象为一个连续生命。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "简单自我印象为何找不到",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "一个持续自我的印象若存在，应从出生到死亡保持同一，因为据说自我本身如此持续。实际内省却不会有知觉在无梦睡眠、昏迷和全部心理变化中始终以同一内容出现。候选印象逐一变化，无法匹配所要求的观念。",
+            "由此得到的最低结论是：我们没有按摹本原则取得简单不变自我的观念。它没有直接证明宇宙中绝无主体，也没有说明“我”这个词日常无用；它限制的是一种声称已被内省清楚把握的实体理论。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "旧照片中的同一个人",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "童年照片与今天面孔可能只保留部分相似，照片里的孩子也不知道后来许多经历。人仍把两者连成同一生命，因为成长轨迹、家庭证言、记忆和身体连续性共同填补了间隔。",
+            "如果照片被发现属于陌生人，外貌相似便不够；如果一段记忆是虚构的，主观鲜明也不够。案例说明人格归属依赖多种关系互相校正，而不是一枚永不变化的心理图章自动宣告同一。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "失忆是否切断了人格",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若记忆制造人格同一，严重失忆似乎会让失忆前的人彻底消失。然而法律责任、亲属关系和身体历史通常仍跨过记忆空白。这一反例表明直接记起每个过去时刻不能成为同一的必要条件。",
+            "休谟的回应是让因果关系补充记忆：过去知觉造成后来性格、身体和处境，记忆发现其中一部分联系，也通过重现相似观念加强联系。剩余困难仍在：哪些因果链足以构成同一个人，文本没有给出无争议的精确标准。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "共和国比喻与附录的不满意",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 1.4.6.19把心灵比作共和国：成员和法律可以改变，互相影响与继承的关系仍让共同体延续。比喻强调同一可依结构关系维持，而不必有一个永远相同的成员。",
+            "但《人性论》附录又承认，知觉彼此独立存在似乎与真实联结要求难以调和，休谟对自己的说明不满意。不能只引用知觉束而删掉这份自我批评；它表明理论找到了实体自我的压力，却尚未完全解释统一。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "理论对象与日常人格称谓",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "日常说“我答应过”“我仍担心明天”，可以依靠稳定关系和实践责任，不必先解决形而上实体。否认一个被内省直接发现的简单自我，不等于禁止第一人称、取消承诺或说每一秒都是陌生人。",
+            "反过来，日常语言的必要也不能证明简单实体存在。语言可能把连续程度处理成同一，正如河流不断换水仍保留名称。理论必须解释实践为何合理，而实践习惯不能独自裁决实体问题。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "想象怎样把变化平滑为同一",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "相似知觉让心灵容易从一项过渡到另一项，连续变化又减少中断感；因果关系让过去的思想、激情和行动实际塑造现在。想象沿这些平滑通道前进，便把关系密切的序列归为同一对象。",
+            "这种机制与因果习惯相连：心灵并非先看见隐藏实体再确认连续，而是在关联运动中形成同一信念。它也预告外部世界问题，因为间断出现的桌子知觉同样会被恒常性和融贯性接成持续对象。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "舞台比喻为什么仍不够",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "把心灵比作舞台、知觉比作演员很诱人，但舞台本身会重新充当知觉之外的固定承载者。休谟提醒，我们只知道知觉依次出现，不知道它们在什么“地方”演出。",
+            "更谨慎的图像是一段没有固定底片的连续影片：每格由前格影响并被后格继承。不过图像仍不能代替联结论证；它只阻止把语法上的“我”立即实体化，让关系问题保持可见。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与笛卡尔的内省起点",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "笛卡尔从无法否认的思维活动走向“我是一个思维之物”，休谟则追问这一“我”是否有持续简单印象。二者都转向第一人称，却对活动能够支持多少主体内容持不同限制。",
+            "比较不能把笛卡尔缩成灵魂口号，也不能说休谟已反驳“当下有思维发生”。休谟的压力主要针对跨时持续、完美同一与简单实体；当下知觉的发生反而是其分析材料。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "记忆复制与人格归属",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若一份完整记忆被复制到两个身体，两者都会声称拥有同一过去。单靠记忆相似无法让一个过去的人与两个后来者都保持数值上的一对一同一，因果来源和身体连续性会进入争论。",
+            "休谟没有直接处理现代复制装置，案例只用于测试其关系理论：当相似、记忆和因果指向不同答案时，必须说明权重。知觉束观点揭示问题结构，却不预装唯一科幻判决。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "同一感留下的解释责任",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "内省呈现具体而变化的知觉，没有持续不变的简单印象；相似、记忆和因果让想象把知觉序列视为同一个人。日常责任可依这些关系运作，不必冒充实体直观。",
+            "附录承认联结仍未被满意说明，使结论保持开放。自我问题由此过渡到外物：如果我们未直接遇见知觉背后的自我，也未直接遇见知觉背后的桌子，那么持续世界信念又怎样形成？"
+          ]
+        }
+      ],
+      "caseText": "翻看十年前的照片，人会说“那就是我”，尽管身体、兴趣和记忆已经改变。照片本身只显示相似与连续线索；把相隔多年的状态归给同一个人，还依赖记忆、因果经历和现实关切组成的联结。",
+      "nodeIds": [
+        "hume-05-teaching"
+      ],
+      "checkIds": [
+        "hume-05-check-1",
+        "hume-05-check-2",
+        "hume-05-check-3",
+        "hume-05-check-4"
+      ],
+      "abilitySummary": [
+        "区分当下知觉发生、人格连续关系与简单实体主张",
+        "说明记忆怎样发现并参与形成同一感",
+        "保留《人性论》附录对知觉联结问题的自我批评"
+      ],
+      "recommendedNextLessonId": "hume-06"
+    },
+    {
+      "id": "hume-06",
+      "order": 6,
+      "title": "外部世界、想象与缓和的怀疑",
+      "depth": "overview",
+      "guidingQuestion": "转身离开房间后，人为什么仍相信桌子在那里，而不是只承认刚才出现过一组颜色、形状和触感？",
+      "coreExplanation": "感觉给予的是知觉，不直接展示知觉之外独立持续的对象。恒常性与融贯性使想象把间断知觉补成持续事物；哲学的双重存在说试图区分知觉和对象，却无法由理性彻底证明。自然信念最终回返，怀疑因而被缓和而非消灭。这里要同时抵抗两种过度结论：自然信念的不可避免并不构成外物的演绎证明，证明的失败也不使一切外物判断同样任意。稳定、融贯和共同经验仍能区分较好与较坏的判断，只是不能提供站在全部知觉之外的核对位置。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "知觉停止以后对象是否继续",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "看桌子时有棕色、轮廓和触感，闭眼离开后这些知觉停止。人却毫不费力地相信桌子没有随知觉消失。休谟的问题不是让人假装失去这份信念，而是解释信念为何超出当前呈现。",
+            "若感觉直接保证独立持续对象，感觉必须同时呈现知觉及其与对象的区别；实际得到的仍是知觉本身。因为“呈现什么”不足以推出“在无人感知时仍存在什么”，下一步必须考察想象怎样补足间断。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "持续存在与独立存在",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "持续存在指对象在不被感知时仍延续，独立存在指对象的存在和作用不依赖心灵。二者相关却不相同：一个事物可能被想成暂时无人看见但仍在，也可能被讨论是否依赖任何心灵。",
+            "休谟先追问人为何相信身体持续存在，因为独立性信念常随持续性一起形成。若每次知觉中断都被理解为对象毁灭再生，日常世界会变得断裂；想象因而倾向保留同一对象。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "感觉为何不能单独提供独立性",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "视觉给出远近似乎最像直接外在性，但距离本身也经由经验解释；声音和气味更难以在感觉中标出独立位置。感觉不会把一项内容标成“只是知觉”，又把另一项标成“知觉外对象”。",
+            "要比较知觉与独立对象，心灵似乎必须同时接触两端；可是对象被定义为知觉之外，比较条件便缺失。因此感觉可以促成信念，却不能以自身完成哲学证明。这个缺口把解释转向知觉序列的特征。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "门后的钟声怎样补全钟体",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "关门前看到钟摆，关门后规律钟声继续，开门又见相似钟摆。视觉虽中断，听觉与后续视觉仍和“同一座钟持续运行”很好衔接。若假定钟每次消失重造，反而要增加无证据事件。",
+            "融贯性解释新知觉怎样接上旧知觉，恒常性则让重新出现的颜色形状高度相似。两者共同使想象越过空档。案例说明信念并非任意幻想，但它仍由知觉关系引发，不是当场看见知觉之外的物。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "舞台布景的恒常也会骗人",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一套自动更换的舞台布景可以在每次幕启时呈现相同房间，让恒常性造成持续对象的错觉。梦境也可能暂时融贯。由此可见，恒常与融贯促成信念，却不构成不会失败的充分条件。",
+            "反对者因此要求区分自然成因与真理保证。休谟可以解释人为何相信，却仍欠“信念是否对应独立对象”的非循环证明。回应不能把强烈自然倾向偷偷改名为证明，只能承认这里的怀疑压力。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "《人性论》中的自然与哲学体系",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 1.4.2把普通体系描述为把知觉本身当作持续对象；哲学家发现知觉依赖感官而间断，转而提出知觉与外物的双重存在。后一体系想保留独立对象，同时承认直接出现的是心灵知觉。",
+            "休谟认为哲学体系既借助普通信念，又因区分知觉与对象而破坏普通信念，无法由理性建立从一端到另一端的可靠桥梁。文本不是简单选择一种体系，而是展示想象和反思彼此拉扯。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "怀疑的结论没有停留在书房外",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "论证结束后，饥饿、交谈和物体阻力会让外部世界信念重新占据心灵。休谟没有声称自己能永久生活在悬置中，也没有要求他人每次开门都怀疑房间是否存在。",
+            "自然回返却不抹掉反思结果：当哲学声称为独立世界提供绝对证明时，仍应面对从知觉到对象的缺口。生活上的不可避免与理论上的有限性同时成立，构成休谟式怀疑的独特姿态。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "缓和怀疑如何限制断言",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《人类理解研究》第十二节从过度怀疑转向缓和或学院式怀疑。它接受人类能力有限，要求把探究集中于适合经验和实践的对象，并让结论与证据强度相称。",
+            "缓和不是在真理与虚假之间取折中，也不是对每件事只信一半。它改变断言方式：保留自然与实验支持的判断，放弃超出能力的绝对口气，对新证据保持可修正性。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "地图无法跳出自己的纸面核对世界",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一张地图内部可以非常一致，却仍需与道路核对。知觉处境更困难：所有核对再次以新知觉出现，心灵无法站到全部知觉之外，同时观看对象与表象的对应。",
+            "这个比喻容易诱发全面绝望，但休谟的重点是限制某种终极核对要求。人仍可在知觉内部比较稳定性、预测和共同经验。可靠程度能增长，只是不转化为超经验视点。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与贝克莱的分叉",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "贝克莱也批评物质实体超出观念，却以心灵和上帝维持世界秩序。休谟不接受仅凭这项批评就建立新的精神本体论，因为心灵实体同样面临印象来源和联结问题。",
+            "两者共同削弱朴素表象论，后续方向却不同。休谟更关心自然信念如何由想象产生以及理性证明为何失效。不能只用“唯心主义”或“怀疑主义”标签替代这条论证差异。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "远程画面中的设备状态",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "监控画面显示机器正常，画面中断后，人根据先前稳定与后续数据推定机器继续运行。若网络缓存重复旧画面，恒常性会误导；若多种独立传感器融贯，推定更可靠。",
+            "这个处境重现休谟的结构：直接得到的是信号，关于信号来源持续存在的判断依赖关系和因果经验。增加传感器改善证据，却仍不能让观察者脱离一切信号取得绝对比较。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "自然信念与哲学限制并存",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "感觉呈现知觉而非知觉与独立对象的双重比较；恒常性与融贯性使想象补成持续世界；哲学双重体系试图修复依赖问题，却缺少通向对象的无循环证明。",
+            "自然生活让世界信念必然回返，缓和怀疑则限制理论声称。理性无法单独支配信念的这一事实，接下来会在行动中更明显：知道事实和手段为什么还不足以产生一个目的？"
+          ]
+        }
+      ],
+      "caseText": "门关上后仍听见屋内钟声，人会相信看不见的钟继续运行。声音与先前视觉经验融贯，重新开门又得到相似景象。信念有强大自然根据，但当下听觉本身没有直接呈现一个独立于知觉的完整钟体。若钟声由扬声器伪造，融贯线索就会被重新解释；若开门后钟摆位置与经过时间精确相称，持续运行的判断便获得更多支持。证据能够累积和修正，正说明自然信念不是一项无法检查的任意冲动。",
+      "nodeIds": [
+        "hume-06-teaching"
+      ],
+      "checkIds": [
+        "hume-06-check-1",
+        "hume-06-check-2",
+        "hume-06-check-3",
+        "hume-06-check-4"
+      ],
+      "abilitySummary": [
+        "区分知觉、持续存在信念与独立对象证明",
+        "说明恒常性和融贯性怎样促成而不保证外物信念",
+        "把缓和怀疑理解为证据边界而非全面悬置"
+      ],
+      "recommendedNextLessonId": "hume-07"
+    },
+    {
+      "id": "hume-07",
+      "order": 7,
+      "title": "激情、理性与行动",
+      "depth": "overview",
+      "guidingQuestion": "一个人已经知道哪条路通向车站，为什么这项知识本身仍不能让他起身出发？",
+      "coreExplanation": "《人性论》第二卷把理性的工作限定为发现观念关系、事实及因果手段；行动的原初推动来自欲望、厌恶与其他激情。“理性是激情的奴隶”因而不是孤立赞美冲动，而是关于动力和指引如何分工的论证。事实纠错仍能通过既有目的深刻改变选择。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "知道事实为何还没有开始行动",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一个人可以准确知道列车时刻、车站方向和步行时间，却因根本不想出门而留在椅子上。知识改变了他对手段的把握，没有自动创造目的。理性若要单独推动行动，就必须从纯粹真假判断中产生新的趋向。",
+            "休谟先问理性实际上做什么，再问这些工作是否具有原初推动力。这一步之所以先于名言，是因为若不区分功能，“奴隶”会被误听为要求盲从强烈情绪，而原论证讨论的是行动动力从哪里来。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "理性的两项工作",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "理性一方面比较观念关系，例如计算数量和判断手段是否自相矛盾；另一方面判断事实与因果，例如某条路能否到达目的地。这两项工作提供真伪、可能性和工具关系。",
+            "激情则包括欲望、厌恶、希望、恐惧以及较平静的关切。它们把对象呈现为值得趋近或避开。激情并不因此永远正确，而是承担原初方向；理性能够改变对象描述，进而间接改变行动。",
+            "“原初”也不等于无原因。饥饿可能由身体状态引起，荣誉欲可能由社会习惯塑造；休谟要否认的是动力由纯粹关系判断单独产生，而不是把激情移出自然因果研究。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "没有关切的事实不会产生冲动",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "知道某物是另一物的原因，若两者对人完全无关，就不会仅凭因果知识产生趋避。只有预期的痛苦、快乐或既有目的让结果具有分量，手段判断才会引导意志。",
+            "因此理性不能与激情像两支同类力量那样直接搏斗。若一个所谓理性力量能够单独阻止欲望，它本身就已提供反向冲动，超出了真假发现。实际冲突往往发生在不同激情之间。",
+            "例如即时享乐与长期健康都能推动行动，后者较平静却仍是一种关切。计算后果帮助长期关切找到手段，但真正抵消即时欲望的是另一动力，而非一张没有任何价值方向的事实表。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "地图纠错却不选择目的",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "赶车的人误以为向东最快，地图显示应向西。理性纠正事实后，他改变方向；行动变化并非地图创造了赶车愿望，而是原有愿望在新事实指引下选择不同手段。",
+            "若他忽然不再在意列车，地图仍然正确，却失去行动影响。这个对照说明事实判断的实践作用是条件性的：它必须与某个已经能推动人的关切结合。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "激情真的不会不合理吗",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "有人因杯中其实无毒而恐惧，或为不可能实现的计划耗尽精力，日常会说这些激情不合理。反例似乎表明激情可以直接与理性冲突。",
+            "休谟把错误定位在附带判断：对象并不存在，或手段无法达到目的。激情本身若只是对所想对象的趋避，不具有真假；事实错误被纠正后，激情的方向可能随之改变。剩余争议是这一分析是否遗漏欲望本身的规范批评。",
+            "一个以他人痛苦为乐的愿望即使事实清楚、手段有效，仍会遭到道德谴责。休谟可以诉诸旁观者反感来批评品格，但这不同于证明愿望在逻辑上为假；道德评价与真值评价需要保持区别。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "奴隶句子前后的论证",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 2.3.3.4、SBN 415在证明理性不能产生或阻止意志之后，才说理性是且只应是激情的奴隶。后文马上讨论激情因错误存在判断或错误手段判断而被非严格地称为不合理。",
+            "脱离上下文引用会丢掉两项限制：理性仍可极大改变行动，激情也会因所依判断受纠正。句子否认理性作为独立发动机，不是废除思考，更不是把最猛烈冲动宣布为最高权威。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "平静激情常被误叫理性",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "长期健康、名誉或稳定生活的关切可能安静而持久，愤怒和恐惧则显得猛烈。人常把平静动机叫作理性，把猛烈动机叫作激情，于是误以为行动是两种不同能力交战。",
+            "休谟的分类提醒，强度不决定来源，也不决定价值。平静激情仍是动力，猛烈激情也可能依据真实危险。评价需要考察对象、后果和稳定关切，不能只按情绪是否喧闹裁决。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "道德判断必须具有动力",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "道德判断通常会促成赞许、责备、趋近或避免。若理性单独不能推动行动，道德区别便不能只是冷静发现观念关系或事实。它必须与某种感受相连。",
+            "这不表示事实在道德中无用。了解动机、受害和后果可能彻底改变情感；但从全部事实到赞许仍需说明心灵为何关切幸福或痛苦。行动理论因此自然推进到道德情感。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "方向盘与发动机",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "理性像方向盘和导航，激情像发动机，这个比喻能显示指引与动力之分。没有方向，动力会走错；没有动力，方向再准确也不前进。",
+            "比喻仍有限，因为事实判断能改变欲望对象，激情也影响注意和推理。二者不是封闭零件，而是因果互动。功能区分的目的，是追查原初动力，不是否认心理系统的交织。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与康德的实践理性分歧",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "康德主张纯粹理性能够通过道德法则具有实践性，因而不会接受一切原初动力都来自激情。两者争点不只是是否重视思考，而是对规范认识本身能否产生动机有不同回答。",
+            "用后来的康德批评休谟时，必须先承认休谟的经验论证：在实际行动中找到不依任何关切的纯理性冲动并不容易。康德的回应需说明义务意识怎样成为真正动力，而不能只重申理性高贵。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "风险说明为何不能替人决定",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "医生可以说明手术成功率、副作用和替代方案，这些事实纠正误解并澄清手段。是否更重视延长生命、避免痛苦或保留某种生活方式，还涉及当事人的关切。",
+            "这不等于所有选择都同样合理。错误概率、互相矛盾的目的和未考虑的后果仍可批评。休谟框架只是要求批评说清落点：事实错、手段错，还是不同价值方向之间的冲突。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "从行动动力走向道德赞许",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "理性发现关系、事实和手段，激情提供趋避的原初方向；事实纠错能通过既有目的改变行动。所谓奴隶关系是在这种分工中成立，不是要求取消理性。",
+            "若道德判断确实影响行动，它便不能只由无动力的真假发现构成。下一步必须考察赞许和反感怎样产生、怎样超出私人偏好，并为何能对他人的幸福发生反应。"
+          ]
+        }
+      ],
+      "caseText": "地图准确标出两条路线：一条快但拥挤，一条慢却安静。地图能纠正关于距离的错误，却不能单独决定赶时间还是避免拥挤更重要。只有当事实判断与某种关切相接，路线知识才进入行动。",
+      "nodeIds": [
+        "hume-07-teaching"
+      ],
+      "checkIds": [
+        "hume-07-check-1",
+        "hume-07-check-2",
+        "hume-07-check-3",
+        "hume-07-check-4"
+      ],
+      "abilitySummary": [
+        "区分理性的事实与手段判断和激情的行动动力",
+        "在完整论证中解释奴隶句子而不把它变成口号",
+        "指出对行动的批评落在事实、手段还是目的冲突"
+      ],
+      "recommendedNextLessonId": "hume-08"
+    },
+    {
+      "id": "hume-08",
+      "order": 8,
+      "title": "道德情感与共同立场",
+      "depth": "overview",
+      "guidingQuestion": "把一项残酷行为的动作、动机和后果全部说明后，谴责是否已经包含在这些事实里，还是还需要心灵对它发生反感？",
+      "coreExplanation": "《道德原则研究》让理性提供事实、关系和后果，让情感完成赞许与责备。道德情感不是任意即时好恶：人会采用较一般的共同立场，校正亲疏与眼前利益，并因效用、仁爱及可亲品质关切他人的幸福。共同立场不是消灭私人感情，而是让评价能够回应证据、接受他人质疑，并在不同观察位置之间保持相对稳定。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "事实说明之后为何仍会赞许",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一份报告可以列出医生进入疫区、承担风险、减轻痛苦和没有索取报酬。事实越完整，越能排除误解；然而从这些描述到“这品格值得赞许”，心灵还表现出一种肯定感。",
+            "如果赞许只是新发现的事实，就应能指出它像人数或因果那样位于对象中。休谟要求区分理性揭示的处境与情感给予的道德色彩，随后再解释这种情感为何不只是个人口味。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "赞许是一种反省情感",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "道德赞许和责备属于对品格、动机与行为的特殊愉快或不快。它们不是单纯身体快感，也不是看到结果时任意爆发，而是理解对象后形成的反省感受。",
+            "理性在其中不可缺少：若医生其实在故意传播疾病，事实纠正会反转评价。可理性完成真假判断后，是否关切受助者幸福仍由情感原则承担。分工再次出现，却比行动问题多了公共评价。",
+            "道德情感也不同于对一道甜点的偏好，因为它指向可归给人的稳定品质，并期待他人理解理由。说某人仁慈，通常在不同事件间寻找品格，而不是只报告自己某一刻舒服。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "他人的幸福为何不是无关景象",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "有用的品格和制度受到赞许，因为它们促进本人或社会幸福。若观察者只受自身利益推动，远方陌生人的改善本应毫无价值；实际人能够因他人快乐而产生某种满足，因痛苦而不安。",
+            "休谟以仁爱或人道原则解释这种反应，不必假定每个人具有无限利他。微弱但普遍的共同感受足以让公共效用进入评价。下一步要说明距离和偏爱为何没有让道德判断完全分裂。",
+            "若共同感受必须像亲情一样强烈，远方评价确实难以成立。休谟只需它在采取一般视角时足以产生赞许差别；道德语言的稳定可以大于当下情绪的强度。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "疫区医生与旁观者的距离",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "旁观者不认识病人，也不会分享医生声誉带来的利益，却能理解救助减少了恐惧和死亡。这种理解引发赞许，显示评价可以超出直接自利。",
+            "若后来得知报道造假，赞许会撤回，说明情感受事实约束；若医生只救亲友，评价也会因动机范围而改变。案例把情感基础与证据任性明确分开。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "偏爱与距离造成的摇摆",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "人更关心亲友，也更容易原谅自己阵营。若道德只靠实际情感强度，远方伤害会显得较轻，同一行为也随观察位置改变。",
+            "休谟诉诸较一般的观点：评价品格时，人会采用与受影响者共同的视角，校正偶然距离。校正并不消除私人感情，而是解释道德语言为何追求较稳定、可共同交流的判断。",
+            "校正可能失败，人也会伪善或受宣传操纵。理论因此不是说每次实际评价都已公正，而是指出评价者为何能够被“你只考虑自己位置”这一批评击中。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "《道德原则研究》中的人道原则",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "第五节从效用为何令人愉快出发，反对把一切社会美德赞许还原为自爱。附录一进一步区分理性的发现与趣味或情感的裁决：前者说明对象，后者给予美德与恶德的感受。",
+            "《道德原则研究》较少使用《人性论》中同情机制的全部技术细节，语言也更强调人道与共同情感。不能把两部作品压成完全相同的术语系统，但它们都拒绝纯理性独自生成道德区别。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "情感基础不等于相对主义",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "颜色判断依赖视觉能力，不表示任意说红为绿都同样好；道德情感依赖人类感受，也不表示每次冲动都不可批评。事实错误、狭窄视角和暂时激情都能使评价失真。",
+            "休谟仍需要某种较稳定的人性和共同生活条件。若不同生命完全没有共享关切，道德交流会受威胁。理论的客观性因而不是脱离情感，而是建立在可校正的共同情感上。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "效用、愉快与多种德性",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "休谟不把全部美德压成效用。品质可能对他人有用、对本人有用、直接令他人愉快或直接令本人愉快。仁爱、审慎、机智和良好风度因此从不同方向获得赞许。",
+            "多重来源防止“有用”变成唯一计算公式，也留下冲突问题：短期愉快可能损害长期公共利益。评价需要事实判断和共同立场综合，而非数出一个标签便结束。",
+            "这也解释为什么同一品质在不同处境中分量不同。机智直接令人愉快，若被用于羞辱弱者，又会因伤害和动机受到责备；属性清单必须回到完整品格与后果。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "法官视角与朋友视角",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "朋友视角允许特殊关爱，法官视角要求相似案件按一般规则处理。道德共同立场不是要求每个人永远像法官般无情，而是在公共评价时暂时校正私人位置。",
+            "这个区分随后进入正义：自然仁爱可以偏向亲近者，财产和承诺规则却需要稳定的一般约定。道德情感必须能够赞许一套有时违背个别即时好处的制度。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与自利理论的具体争点",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "自利理论可以说，赞许医生是因为希望自己将来也获救，或因赞许带来好名声。休谟的反击不是否认这些动机存在，而是指出它们不足以覆盖无回报、无名声的旁观赞许。",
+            "若对方把一切满足都重新定义为自利，理论会因无法被反例触及而失去解释力。需要区分“感受发生在我心中”与“感受对象只关乎我的利益”，两者并不相同。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "公共决策中的共同立场",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "评价一项无障碍政策时，未受障碍影响者也能考虑他人的行动困难。成本和效果需要事实调查，对尊严与痛苦的关切则让这些事实获得评价意义。",
+            "共同立场要求避免只按自己是否便利裁决，也不禁止讨论资源限制。更好的判断会公开受影响者、后果和权衡，而不是把私人无感当作公共上无价值。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "情感怎样进入规范判断",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "理性揭示行为、动机和后果，道德情感给予赞许与责备；人道原则让他人幸福影响评价，一般观点又校正距离与偏爱。情感基础因此可以受事实和共同视角约束。",
+            "但从事实叙述转向应当语言时，新增关系仍需明确说明。道德情感提供可能的过桥材料，却不能让推导步骤消失。下一步将直接检查“是”怎样被偷换成“应当”。"
+          ]
+        }
+      ],
+      "caseText": "陌生医生在疫区救助病人，与观察者没有私人利益关系。人仍会赞许其仁爱与勇气。若把赞许全还原为自利，就必须解释为何一个不会回报自己的陌生人的幸福仍能触动评价。",
+      "nodeIds": [
+        "hume-08-teaching"
+      ],
+      "checkIds": [
+        "hume-08-check-1",
+        "hume-08-check-2",
+        "hume-08-check-3",
+        "hume-08-check-4"
+      ],
+      "abilitySummary": [
+        "区分道德对象的事实说明与赞许情感",
+        "说明共同立场怎样校正亲疏和距离",
+        "解释情感基础为何不等于每个即时反应都不可批评"
+      ],
+      "recommendedNextLessonId": "hume-09"
+    },
+    {
+      "id": "hume-09",
+      "order": 9,
+      "title": "事实与应当之间缺了什么",
+      "depth": "overview",
+      "guidingQuestion": "一篇论述列出人们怎样行动、会受什么伤害，随后写下“所以必须如此”，这个“必须”由哪项前提带进来？",
+      "coreExplanation": "《人性论》第三卷观察到道德论述常从“是”与“不是”突然转为“应当”与“不应当”。新关系必须被指出并解释；这不是说事实与规范无关，而是要求补出评价、目的或情感前提，禁止无声推导。桥梁一旦公开，事实错误、价值范围和推导有效性便能分别接受检查，争论才从口号推进到具体前提，并明确回应责任。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "一个新词怎样改变论证任务",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "“多数人会偏袒亲友”描述一种倾向；“人应当偏袒亲友”则给予许可或要求。两个句子谈同一行为，却承担不同工作。若只把“会”换成“应当”，结论增加了前提没有明说的规范力量。",
+            "休谟的观察之所以接在道德非纯理性论证之后，是因为事实发现本身没有这种动力和评价。要让过渡成立，必须展示某种关切怎样参与，而不能让语法变化替代论证。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "是与应当不是两份互不相干的词表",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "“是”命题可以描述行动、制度、动机与后果；“应当”命题评价、要求或禁止。区别不表示规范句子不含事实，也不表示事实永远不能支持规范。",
+            "关键是支持必须经过桥梁。若痛苦值得避免，那么某措施会造成无必要痛苦便成为反对理由；“痛苦值得避免”不能只藏在语气里。把桥梁明说，争论才知道应检查事实还是价值。",
+            "桥梁不一定写成单独大前提，也可能存在于稳定实践和概念用法中。但只要有人质疑过渡，论证者就应能把它展开，而不能说规范结论从描述中自然冒出。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "新关系必须被说明",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 3.1.1.26指出，道德体系常在谈论上帝或人事之后，突然不再使用“是”与“不是”，而改用“应当”与“不应当”。休谟说这种变化虽不易察觉，却关系重大。",
+            "因为应当表达新的关系或肯定，作者必须观察并解释变化，还要给出它怎样从完全不同的关系推出的理由。论证针对的是未说明的推导，不是禁止任何包含事实的道德思考。",
+            "这一要求具有对称性：支持规范结论的人要交代桥梁，反对者也不能只喊“有缺口”而拒绝评估公开前提。桥梁一旦出现，争论转入它是否可接受以及事实是否满足它。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "多数人说谎说明不了许可",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "调查发现高压环境中说谎普遍，可能帮助解释行为成因，也可能提示制度诱因。它不独自说明说谎应被赞许，因为频率与正当性不是同一性质。",
+            "若有人主张应减少惩罚，他可能加入“过度惩罚会加重伤害且不能改善诚实”与“应避免无效伤害”。前一句可调查，后一句承载评价。结论不再神秘，但桥梁成为可争论对象。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "道德事实能否直接包含应当",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "反对者可以说，“这是残酷行为”本身已经是评价事实，因此能推出“不应如此”。若前提确实包含规范概念，推导未必从纯描述跳跃；但规范力量已经在“残酷”的使用中出现。",
+            "这项反对修正了粗糙口号，却没有取消说明责任。需要问“残酷”怎样成立、为何提供反对理由。休谟的压力可以转化为：不要把争议性规范内容伪装成中性观察。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "原文位置与后来的休谟法则",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "所谓“休谟法则”是后世对T 3.1.1.26的概括，原文出现在证明道德区别不由理性单独发现的长论证末端。它是一段方法提醒，措辞没有给出现代形式逻辑的完整定理。",
+            "因此不能只背“不能从是推出应当”便结束。要回到前文：道德能影响行动，理性独自无动力；检查谋杀事实时，恶德要等反省中出现反感才被发现。过桥问题与情感理论互相支撑。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "缺口不是把事实赶出伦理",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若不调查伤害、意图和替代方案，评价会盲目。事实前提越准确，规范判断越能避免误伤。缺口论只否认事实数量自行累积到某点便自动变成义务。",
+            "同样，补入一个情感前提也不保证结论正确。情感可能狭窄，目标可能冲突，手段事实可能错误。桥梁被公开以后，真正审查才刚开始，而不是获得免检通行证。",
+            "例如“我们厌恶陌生习俗”是真实情感事实，却不足以证明习俗有错。还需问厌恶能否经共同立场校正、是否建立在伤害证据上。休谟的情感论本身包含这种筛选责任。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "共同立场怎样承担一座桥",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "前一单元的人道原则和共同立场可以提供规范材料：他人的无必要痛苦引起反感，促进共同幸福的品格获得赞许。事实说明某行为造成痛苦，情感原则让痛苦成为反对理由。",
+            "这并非从纯事实演绎应当，而是展示事实与评价怎样联合。不同伦理理论可提出不同桥梁；休谟要求它们不要隐身。分歧于是从口号转为对人性、共同利益和评价根据的具体讨论。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "河岸之间必须看见桥面",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "描述与规范像两岸，事实不是不能到达规范，而是需要可见桥面。桥可以是避免痛苦、遵守承诺或尊重人格，但每种桥都有自己的承重前提。",
+            "比喻不能让两岸看似完全隔绝，因为规范概念会进入事实描述，情感也是真实心理事件。它只强调推理责任：新增的理由类型必须明说，不能靠语调把人送到对岸。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "自然主义回应从哪里开始",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "自然主义者可能主张某些自然事实构成道德事实，例如繁荣或痛苦本身具有规范意义。这样的理论不是被一句缺口口号立即驳倒，而要说明“构成”关系为何成立。",
+            "休谟式追问仍有用：若繁荣只是描述，规范力量从何而来；若繁荣概念已包含值得追求，评价已进入定义。争论落在概念和人性说明，不再是假装没有过桥。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "政策结论中的第一个规范词",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "阅读政策报告时，可以圈出第一个“必须”“公平”或“不可接受”。向前寻找，报告也许只有成本、人数和风险数据；那么结论还需要说明优先保护谁、什么损失具有特殊分量。",
+            "这项方法不要求删除立场，而要求立场透明。对方可以攻击数据、因果预测或价值桥梁，回应也能针对具体前提。讨论因而比互相重复结论更有可能推进。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "规范过桥以后为什么需要制度",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "事实与应当的差别要求新增规范关系被观察和解释。情感与共同立场可以使事实获得评价意义，却仍需接受范围、冲突和证据检查。后世法则名称不能替代原论证位置。",
+            "个别善意并不足以稳定分配稀缺资源。若共同利益要进入持久规范，就需要财产、承诺和一般规则。正义将展示一种不由单次自然情感直接产生、却能因整体效用获得赞许的制度性德性。"
+          ]
+        }
+      ],
+      "caseText": "统计显示多数人在考试压力下说过谎，这说明一种行为频率，却不能单独推出说谎值得赞许或必须容忍。若结论诉诸减少伤害、维护信任或公平，就已经加入了规范上有分量的前提。",
+      "nodeIds": [
+        "hume-09-teaching"
+      ],
+      "checkIds": [
+        "hume-09-check-1",
+        "hume-09-check-2",
+        "hume-09-check-3",
+        "hume-09-check-4"
+      ],
+      "abilitySummary": [
+        "识别描述论证中首次出现的规范关系",
+        "补出事实到应当之间的评价或目的前提",
+        "区分公开规范桥梁与证明该桥梁正确"
+      ],
+      "recommendedNextLessonId": "hume-10"
+    },
+    {
+      "id": "hume-10",
+      "order": 10,
+      "title": "正义、财产与无言的约定",
+      "depth": "overview",
+      "guidingQuestion": "把一件物品还给“主人”为什么不是辨认颜色形状那么简单，而要先有一套关于谁能占有、转让和期待什么的规则？",
+      "coreExplanation": "休谟把正义称为人为之德，因为财产与义务依赖在人类有限慷慨、资源相对稀缺和合作有利的条件下形成的一般规则。约定不是一次原始契约，而是彼此察觉共同利益后稳定协调；制度整体的公共效用使正义获得道德赞许。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "物品本身没有写着主人姓名",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "同一把伞可能被购买、赠送、借出或遗失。伞的材料没有随权利关系改变，却会因取得过程不同而属于不同的人。财产不是感官性质，而是一般规则赋予对象与人的关系。",
+            "若先说“应把东西还给主人”，便已经使用财产概念，不能再用这句话解释财产为何有约束力。休谟必须从概念形成条件开始：什么处境让相互克制比随时抢夺更有共同利益。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "人为之德并不是虚假之德",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "正义被称为人为，是因为它依赖人所建立的规则和共同期待，不像父母疼爱子女那样由某次自然情感直接指定对象。规则不存在时，“我的财产”本身便没有相同意义。",
+            "“人为”不等于欺骗、随意或不自然。语言、货币和交通规则也由共同实践形成，却真实改变行动理由。休谟甚至说从人的需要和理解必然产生的制度，可以在较宽意义上称为自然。",
+            "这一区分也解释为什么规则可以改革。既然具体财产形式不是物体本性，它就能随共同利益改变；但改变不能只靠个人宣布，因为他人的相应期待是规则发挥作用的条件。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "稀缺、有限慷慨与合作利益",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "若资源无限丰饶，空气和海水通常无需划分私人所有；若所有人对所有人都同等慷慨，也不必靠严格财产保护。相反，极端匮乏可能让正常规则在生存压力下失去作用。",
+            "正义适用在中间处境：物资不足以任取，人又更偏爱自己和亲近者，但合作能带来稳定收益。一般占有规则限制即时欲望，使每个人因他人也受限制而获得更可预期的生活。",
+            "三个条件共同承担解释，不能只留下“人自私”。若完全孤立，财产规则没有合作对象；若资源无需争用，严格排他反而徒增冲突。制度回应的是特定人性与环境组合。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "两名划桨者怎样形成协调",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "两名划桨者发现同节奏能让船前进，彼此观察并调整动作。没有一句显式承诺，也没有第三方命令；每个人意识到共同利益，并预期另一人作相应配合。",
+            "这就是休谟式约定的基本结构。它不是一次说出口的保证，因为保证本身已经需要守信规则；它是相互可见的利益感和逐渐稳定的行动体系。财产规则把这种协调扩展到更大社会。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "个别守规则可能造成坏结果",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "把财物交还恶人可能让他继续伤害，把公共资源按僵硬程序分配也可能在紧急时刻加剧危险。若正义只因每次行为直接有好结果而获赞许，这些反例会立刻推翻规则。",
+            "休谟把效用放在整套制度上：稳定占有和转让总体促进合作，即使个别结果不利。剩余责任是说明何种紧急情况允许规则暂停，避免“整体效用”变成替任何例外辩护的空白支票。",
+            "规则视角还要求计算长期预期。若每个人都以一次好结果为由自行破例，稳定性会消失；若任何灾难都不允许调整，规则又可能牺牲其保护生活的目的。两种风险需要公开标准。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "《道德原则研究》附录中的约定",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "M Appendix 3.7明确说，若约定指承诺，正义来自约定会形成循环，因为守诺已是正义的一部分。若约定指每个人察觉共同利益、观察他人同样察觉，并共同进入一般行动体系，命题才成立。",
+            "这一段阻止把休谟写成一次历史签约的社会契约论者。起源说明不是考古事件，而是规则如何在相互期待中有理由形成。不同社会的具体财产法仍会随环境和立法变化。",
+            "“共同利益感”也不保证所有人实际受益相等。权力可以塑造规则，偏袒可以被稳定化。休谟的起源机制解释秩序怎样可能，却仍需用公共效用和一般观点评价既有安排。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "利益起源与道德义务不是同一步",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "最初遵守规则可能出于自身长远利益；社会扩大后，个人在一次作弊中也许获利。若义务只等于每次自利，没人发现的违约便难以责备。",
+            "道德情感补上第二阶段：旁观者从共同立场赞许维护公共体系的品格，责备破坏它的行为。利益解释规则建立，情感解释正义何以成为美德，两步不能压成一个动机。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "财产、转让与承诺彼此支撑",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "稳定占有回答谁目前有权控制物品，转让规则回答权利怎样改变，承诺又让未来合作获得保障。这些规则互相依赖，构成社会秩序而非孤立禁令。",
+            "复杂性也带来解释责任：现存法律不因存在便自动正义。休谟的公共效用尺度允许批评任意偏袒和不稳定规则，但其尺度怎样处理深度不平等仍是后续争论。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "棋局中的单步与整套规则",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "单看一枚棋子移动，无法由木头性质判断合法性；只有放入共同规则，移动才有意义。个别合法步也可能输棋，却不取消规则使棋局成为可能的作用。",
+            "财产规则同样赋予行为制度意义。不过社会规则关系到真实利益，不能只因约定就免于道德审查。必须继续问整套安排服务谁、造成什么后果以及是否允许公平参与。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与原始契约叙事的距离",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "原始契约叙事把政治或财产权威追溯到祖先一次同意，休谟怀疑这种历史事实和后代约束力。多数制度由逐渐协调、权力和习惯共同形成，找不到普遍签署时刻。",
+            "这并不使同意毫无价值。明确同意可改变具体义务，政治参与也可增强正当性；只是不能把所有社会规则的最终根据简单放在一个未证实的远古承诺上。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "共享文件的编辑权限",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "多人编辑共享文件时，锁定、版本和署名规则限制每个人即时覆盖，却让合作成果稳定。规则若被普遍遵守，所有人都较能预期劳动不会消失。",
+            "某次绕过锁定可能快速修复错误，也可能破坏他人工作。判断不能只看眼前便利，要看规则整体、紧急例外和共同期待。这个结构与财产正义的制度效用相似。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "制度性德性怎样获得赞许",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "资源相对稀缺、慷慨有限和合作有利，使稳定占有规则成为共同利益；约定是相互察觉后的协调，不是先行承诺。制度整体效用与道德情感共同使正义成为美德。",
+            "正义展示证据和评价怎样进入一般规则。下一步讨论宗教证言时，同样要避免只看一则动人故事；应把报告放进关于自然规律、证人可靠性和相互冲突传统的整体证据中。"
+          ]
+        }
+      ],
+      "caseText": "两个人在小船上同时划桨，不必先承诺“我要配合”，只要双方察觉节奏一致对彼此有利，协调便可出现。财产规则更复杂，却同样依赖每个人预期他人遵守时才愿意克制即时占有。",
+      "nodeIds": [
+        "hume-10-teaching"
+      ],
+      "checkIds": [
+        "hume-10-check-1",
+        "hume-10-check-2",
+        "hume-10-check-3",
+        "hume-10-check-4"
+      ],
+      "abilitySummary": [
+        "区分人为制度与虚假任意",
+        "说明约定如何在没有先行承诺时形成",
+        "分别解释正义规则的利益起源与道德赞许"
+      ],
+      "recommendedNextLessonId": "hume-11"
+    },
+    {
+      "id": "hume-11",
+      "order": 11,
+      "title": "奇迹、证言与宗教批判",
+      "depth": "overview",
+      "guidingQuestion": "听到一则违背稳定自然经验的奇迹报告时，应只问证人是否诚实，还是比较事件发生与证言失真的全部证据？",
+      "coreExplanation": "《人类理解研究》第十节把证言本身也当作经验依据。明智判断让信念与证据相称：奇迹作为自然律违例面对稳定经验，而报告可靠性又受证人、传播环境和宗教冲突影响。论证不是先验宣布奇迹不可设想，而是提出极高的证据比较门槛。门槛仍允许证据权重变化，因而必须审查实际报告链，而不能只凭定义提前结束调查。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "惊人事件与错误报告哪一个更惊人",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "日常根据证言相信远方新闻、历史和科学观察，因为经验显示人在适当条件下常说真话。奇迹报告并非因来自语言就自动无效；它与其他证言一样先获得有限信用。",
+            "困难在于所报告事件与极稳定经验冲突。判断必须比较两边：报告为真需要自然规律出现例外，报告为假需要证人误认或欺骗。哪一边的反常更大，决定信念应向哪边倾斜。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "奇迹作为自然律的违例",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "休谟把奇迹定义为由神意或不可见行动者造成的自然律违例。普通罕见事件不是奇迹：从未见过的怪病仍可能服从未知自然机制，概率很低也不同于违反规律。",
+            "自然律的证据来自一致而广泛的经验。正因规律并非纯概念真理，奇迹不是逻辑上不可说；但要接受违例，证据必须压过建立规律的全部相反经验。",
+            "若所谓规律只有少量观察，异常事件可能只是暴露概括过早。奇迹判断因而依赖规律成熟度；不能先把一条脆弱概括叫作自然律，再把任何反例包装成神迹。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "让信念与证据相称",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "证言可信度来自过去观察到人类报告与事实的相合。证人众多、独立、审慎且无明显利益时，信用提高；矛盾、轻信和利益动机会削弱它。",
+            "当证言支持奇迹，经验同时站在报告机制与自然规律两边。理性不是把证言数量直接相加，而是从支持报告的力量中扣除事件不可能性的反证，保留剩余权重。",
+            "多名证人若互相抄录同一来源，并不提供多份独立证据；一份可复查测量有时胜过百次传闻。证据结构而非人数表面决定权重，这是第二部分调查传播链的理由。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "诚实朋友的复生报告",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "朋友过去从未撒谎，使故意欺骗较不可能。但他可能在昏暗中认错人，不了解医学假死，或在震惊后重构记忆。诚实不能排除能力、环境和解释错误。",
+            "若有多名独立专家连续观察并保存可复查记录，证据会改变；休谟的原则允许权重增长。问题是增长是否足以让报告虚假的反常大于死者复生的反常，而不是预先规定任何材料都不得计入。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "若拒绝奇迹本身也成了奇迹",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "第十节提出著名标准：证言只有在其虚假比所要证明的事件更为奇迹时，才足以建立奇迹。这个反事实比较给接受报告留下逻辑空间。",
+            "反对者会质疑定义和先验概率是否让门槛不可达到，也会指出规律可能被新发现修正。回应需要区分真正规律修正与神迹解释；新自然机制通常重写规律，而不是保留规律再宣布一次超自然违例。",
+            "另一个压力是循环：若自然律由“没有奇迹”的经验定义，再用自然律反驳奇迹，结论会被预设。较强回应应把规律证据具体化为独立、可重复观察，而非把无奇迹直接塞进定义。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "第十节两部分的不同任务",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "第一部分建立证据比较原则，第二部分考察现实宗教奇迹报告，列出证人质量不足、惊奇欲、无知环境和互相冲突传统等因素。不能只引用原则而省略历史应用。",
+            "文本措辞尖锐，并在出版史与宗教争议中具有审慎写作背景。解释应区分论证结构、休谟对既有报告的经验判断和后来关于偏见或循环的批评，不把三者压成一句“科学反宗教”。",
+            "现实应用还可能受到欧洲中心偏见影响。批评某些传播环境缺少审查，不应滑成对整个人群智力的贬低。需要把可检验的证言条件与时代修辞分开评价。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "批判证据资格而非证明神不存在",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "即使所有已知奇迹证言都不足，也不能仅由此演绎“神不存在”。结论针对经由这些报告建立宗教命题的资格，范围比无神论本体结论更窄。",
+            "同样，个人信仰可能诉诸启示或生活承诺，但若进入公共证据论证，就仍需接受证言比较。把信仰移出证据领域可以避免某类反驳，也会放弃用它证明共同事实的权利。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "从奇迹到特殊天意",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "第十一节讨论从世界秩序推到特殊天意和来世奖惩。休谟借朋友之口强调，原因只能按观察到的效果比例推断；不能先给原因无限属性，再反过来补充未见效果。",
+            "这与奇迹原则相通：结论不得超出证据。自然秩序即使支持某种设计原因，也不自动支持完整宗教属性。下一单元的对话会把设计类比、恶的问题和神的可理解性展开。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "法庭中的两组证据",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "法庭不会只数证人，还会检查独立性、观察条件和与物证的冲突。一个极不寻常指控需要更强材料，因为误认或串供通常比异常事件更常见。",
+            "比喻不能把自然律当法律条文；自然律本身由经验支持并可修正。它只显示证言判断为何是比较任务：既审查报告链，也审查所报告事件与背景知识的距离。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与贝叶斯表达的有限对应",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "现代贝叶斯方法会用先验概率、似然和后验概率表达异常报告。它能把“报告若真或若假有多可能”写得更明确，与休谟的权重比较形成有限对应。",
+            "但不能假装休谟已经给出数学公式，也不能用任意低先验预先锁死结论。真正工作仍是说明先验来自哪些稳定经验、证人模型怎样建立以及不同证据是否独立。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "网络异常视频的证据链",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一段视频显示物体违反重力，需检查剪辑、生成技术、拍摄角度、原始文件和独立观察。画面震撼是心理力量，不等于证据链完整。",
+            "若多种测量在受控环境中重复异常，合理回应是先修正关于自然机制的认识。只有在排除自然解释后再加入超自然原因，才不会把“尚未解释”直接改写成“已经证明神迹”。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "证言尺度怎样进入自然宗教",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "证言由经验获得信用，奇迹又面对支持自然规律的一致经验；判断比较事件发生与报告失真的反常程度。现实报告还要接受证人、传播和宗教冲突检查。",
+            "结论限制公共证据资格，不等于已证明神不存在。从具体神迹转向宇宙设计时，同一比例原则继续有效：观察到的秩序究竟允许推出怎样的设计者，不能先把完整神学放进原因。"
+          ]
+        }
+      ],
+      "caseText": "一位一向诚实的朋友说他亲眼见到死者复生。诚实提高报告可信度，却还要比较误认、记忆扭曲、骗局和语言夸张，与自然规律真正被打破哪一项更不寻常。朋友品格只是总证据的一部分。",
+      "nodeIds": [
+        "hume-11-teaching"
+      ],
+      "checkIds": [
+        "hume-11-check-1",
+        "hume-11-check-2",
+        "hume-11-check-3",
+        "hume-11-check-4"
+      ],
+      "abilitySummary": [
+        "把证言放进全部相反经验中比较",
+        "区分罕见自然事件、规律修正与超自然违例",
+        "限制宗教批判结论而不把证据不足写成神不存在的证明"
+      ],
+      "recommendedNextLessonId": "hume-12"
+    },
+    {
+      "id": "hume-12",
+      "order": 12,
+      "title": "自然宗教对话中的三种声音",
+      "depth": "overview",
+      "guidingQuestion": "宇宙具有秩序，究竟能推出一个多么像人的设计者；当文本用对话而非独白展开时，哪一句话又能安全归给休谟本人？",
+      "coreExplanation": "《自然宗教对话》让克里安西斯以经验类比为设计论辩护，让斐洛追问类比、样本和恶的问题，让德米亚坚持神的不可理解性并提出先验道路。人物立场在论辩中变化，最后让步与潘斐勒结语彼此牵制，开放结局不能压成单一作者口号。每项归属都要保留发言者和当下论敌。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "对话体为什么改变归属规则",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "独白中的主张通常由作者承担，对话中的句子首先属于说话人物。斐洛可以暂时让步、设下陷阱或随对手前提推进；克里安西斯和德米亚也各有稳定关切。",
+            "因此理解必须记录谁对谁说、正在回答哪项论证，以及后来是否修正。把最合心意的斐洛句子直接署名休谟，会抹去戏剧安排，也无法解释结尾为何故意留下相反信号。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "克里安西斯的经验神学",
+          "identity": "dialogue-voice-cleanthes",
+          "paragraphs": [
+            "克里安西斯在第二部分把世界比作巨大机器：部件按目的协调，类似人类思想、智慧和设计的作品。由相似效果推相似原因，他认为宇宙原因在某种程度上类似人类心灵。",
+            "这一路线的力量来自日常因果推断，而不是先定义神为完满存在。它也因此受经验比例约束：效果与机器有多像，原因便只能在相应程度上像设计者，不能无条件获得无限属性。",
+            "克里安西斯的优势是让自然宗教接受经验检验，代价是神学结论随类比强弱缩减。若拒绝这种缩减，他便不再只靠自己宣称的实验方法。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "斐洛怎样拆开设计类比",
+          "identity": "dialogue-voice-philo",
+          "paragraphs": [
+            "斐洛追问宇宙与房屋究竟有多相似。房屋设计推断建立在多次见过房屋由人建造；宇宙只有一个整体样本，人也没有观察宇宙从无到有的过程。",
+            "若按世界内部不同效果类推，还可能推出多位设计者、试错、有限能力或设计者有身体。斐洛不是说秩序毫无证据意义，而是迫使克里安西斯承认类比只支持有限且不确定的结论。",
+            "这些推论采用克里安西斯自己的相似因果法，把他不愿接受的属性一并带出。反驳若要成功，克里安西斯必须给出筛选原则，说明为何智慧相似可保留而有限、合作和试错相似应删除。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "荒岛机器与唯一宇宙",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "荒岛机器与已知机器共享齿轮、加工痕迹和用途，人有大量制造经验作背景。宇宙中的秩序更广，却缺少同类宇宙的制造记录。规模增大没有自动补齐样本。",
+            "案例给克里安西斯保留一部分直觉：复杂适配确实会引发设计猜测。压力落在结论强度，从“或许有某种类似智慧的原因”到“唯一、无限、全善的神”之间仍有多座桥。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "世界也可能像植物或动物",
+          "identity": "dialogue-voice-philo",
+          "paragraphs": [
+            "斐洛提出宇宙也可类比植物生长或动物繁殖，而非只类比机器。若多个类比都能解释秩序，却导向不同原因，选择机器便需要独立理由。",
+            "这些替代假说不必真被斐洛接受；它们承担削弱唯一推断的任务。克里安西斯可以回应机器类比更具体，但还要说明相似性的衡量标准，而不能把熟悉感当证据优势。",
+            "斐洛在这里运用的是欠决定压力：相同效果若容纳多个原因故事，观察不足以唯一选定其一。提出替代故事不等于证明它真，只需显示原推断尚不排他。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "德米亚的不可理解之神与先验道路",
+          "identity": "dialogue-voice-demea",
+          "paragraphs": [
+            "德米亚反对把神做成人的放大版本，强调神性无限、单纯而不可理解。第九部分又提出从偶然存在链走向必然存在者的先验论证，试图不依赖设计类比。",
+            "克里安西斯反驳整体未必需要超出各部分的额外原因，并质疑“必然存在”若意味着反面不可设想，是否适用于任何存在事实。这里由克里安西斯说出很休谟式的批评，正提醒人物不等于固定作者标签。",
+            "德米亚的两条路线也互有张力：神若完全不可理解，先验论证怎样获得有内容的结论；若论证能确定必要存在属性，不可理解性又不能用来免除全部说明。对话让这种张力由人物互动显现。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "三个人物都不能简单等同于休谟",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "斐洛最常表达休谟式怀疑和经验限制，通常被视为最接近作者，却仍是戏剧人物。克里安西斯有时提出有力经验方法，德米亚也会与斐洛共同反对粗糙拟人论。",
+            "作者立场需从全书结构、反复主题、讽刺和通信背景综合推断。安全表述应说“斐洛主张”或“文本安排使某结论受压”，再明确指出把它归给休谟属于解释判断。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "世界之恶怎样限制神的属性",
+          "identity": "dialogue-voice-philo",
+          "paragraphs": [
+            "第十、十一部分转向疾病、恐惧、冲突和脆弱。若只按效果推原因，混合着快乐与苦难的世界难以证明设计者具有无限善与无限能力。",
+            "斐洛列举有限、冷漠或道德混合的原因假说，不一定建立新神学，而是显示观察效果不能唯一确定传统属性。德米亚原想以苦难引向宗教慰藉，却因斐洛推进过远而离席。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "德米亚离席后的谈话变了什么",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "德米亚离席意味着最后部分不再是三方同场。斐洛面对克里安西斯作出某种让步，承认秩序与设计之间存在微弱类比，并把争议缩小到程度和措辞。",
+            "让步可能是真诚的缓和怀疑，也可能是审慎写作或讽刺。判断必须解释它与前十一部分的强攻击怎样相容，不能只因结尾靠后便自动覆盖全书。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "第十二部分的让步与潘斐勒结语",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "斐洛说自然神学的全部也许只是：宇宙秩序的原因与人类理智有某种遥远类比；除此之外不应增加属性。这个极薄结论与传统宗教距离很大，却不是简单无神论宣言。",
+            "叙述者潘斐勒最后说克里安西斯的原则更接近真理。潘斐勒年轻、敬重老师，其判断可能真诚也可能带有戏剧反讽。结语制造解释责任，而不是替文本盖章。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "怎样阅读一段多声部争论",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "遇到斐洛一句虔敬话语，应先查对手、前后让步和论证功能；遇到克里安西斯一句怀疑批评，也不能因人物通常护教便忽略其力量。",
+            "可把每段标为主张、试探假说、反驳或策略让步，再比较跨部分是否稳定。方法不仅适用于本书，也适用于任何以人物承载观点而作者保持距离的文本。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "开放结局保留了什么",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "克里安西斯从秩序推出类似心灵的原因；斐洛以样本、替代类比和恶限制结论；德米亚维护不可理解性与先验证明。论辩让每条道路暴露自己的代价。",
+            "最后留下的可能只是极薄类比，斐洛让步与潘斐勒结语又阻止单一收口。开放结局不是材料不足造成的失败，而是让自然理性能够推出多少宗教内容持续成为活问题。"
+          ]
+        }
+      ],
+      "caseText": "在荒岛发现一台复杂机器，人会推断它出自设计；面对整个宇宙，却没有多个宇宙可比较，也不知道宇宙与机器在关键方面多相似。类比不是毫无力量，但从有限秩序走到无限、全善、唯一设计者仍需额外步骤。",
+      "nodeIds": [
+        "hume-12-teaching"
+      ],
+      "checkIds": [
+        "hume-12-check-1",
+        "hume-12-check-2",
+        "hume-12-check-3",
+        "hume-12-check-4"
+      ],
+      "abilitySummary": [
+        "逐段区分克里安西斯、斐洛、德米亚与项目解释",
+        "说明设计类比从有限秩序到传统神属性之间缺少的步骤",
+        "在斐洛让步和潘斐勒结语之间保留开放结局"
+      ],
+      "recommendedNextLessonId": null
+    },
+    {
+      "id": "hume-13",
+      "order": 13,
+      "title": "联想原则、想象与信念的活力",
+      "depth": "overview",
+      "guidingQuestion": "同一个遥远海岛既能被当作故事随意想象，也能因可靠来信而被相信真实存在；两种心象内容相近时，是什么让信念不同于虚构？",
+      "coreExplanation": "相似、时空邻近与因果是想象由一个观念转向另一个观念的三种联想原则。它们作为自然关系实际牵引心灵，作为哲学关系又可被反思比较；但联想不等于证明。信念并非给对象增加新观念，而是使观念获得较强的活力、稳固性和强制感。概率、相反经验与因果证据会把这种活力按比例分配。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "故事与报告拥有相同对象时",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "航海小说与朋友来信都能使人想到一座有椰树、港湾和暴雨的海岛。若只逐项清点对象内容，两幅心象可能非常相近；可是人会据来信安排行程，却不会因小说情节购买船票。信念差别不能只靠对象清单说明。",
+            "问题也不能用一句“报告是真的”循环回答，因为正在追问的正是心灵怎样把某观念当作事实。休谟把注意力转向观念出现的方式：它与当前印象、记忆或因果经验相连时，会以更稳固、更有力而较少任意的姿态占据思想。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "相似、时空邻近与因果怎样牵引思想",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 3与T 1.1.4列出相似、时空邻近与因果三种联想原则。看见肖像会想到本人，提到一间房会想到同屋其他房间，想到伤口会想到疼痛；思想并非每次重新选择路线，而常沿这些通道自然过渡。",
+            "三原则不是不可违背的逻辑律。肖像也可能使人想到画家，港口可能唤起童年而非相邻街道；它们说明想象通常如何移动，而非规定每一心灵在每一刻只能出现唯一后继观念。其哲学作用是揭示表面散乱思想中的经验秩序。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "自然关系与哲学关系不能互相替代",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 1.1.5把关系分作两种用法。自然关系是观念在心灵中实际彼此引出的联结；哲学关系则是反思把两个对象拿来比较所依据的方面。相似既能自然唤起另一对象，也能被判断为比较关系，但两种作用并不总是重合。",
+            "距离相隔很远的两幅图仍可被哲学地比较颜色，却未必在日常意识中互相唤起。反过来，习惯让咖啡香自然引出清晨工作，即使比较者不把二者列入抽象关系表。区分两层可避免从心理联想到客观证明的偷换。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "一封带邮戳的来信为何胜过随手杜撰",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "朋友来信具有纸张、邮戳和熟悉笔迹这些当前印象，又与过去可靠通信形成因果习惯。海岛观念因此从现前印象获得活力，并嵌入稳定证据链。随手杜撰虽可复制同样景物，却缺少把心灵推向事实断言的联结。",
+            "来信也并非不可错。伪造邮戳、冒名书写或朋友误报都会削弱其力量；信念不是由“来信”这个词自动担保，而依赖具体报告机制的经验可靠性。案例把活力来源与真理保证分开：强信念仍可能在坏证据上形成。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "强烈虚构会不会推翻活力说明",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "戏剧、梦境与恐惧有时比平常事实更鲜明，似乎反驳“较活泼就是信念”。若活力只指感官强度，反例确实成立；休谟所要说明的是一种较稳固、持续并受非任意联结约束的构想方式，而不只是画面亮度。",
+            "观众可被悲剧深深触动，同时保留人物并不存在的判断；梦醒后也能撤回梦中确信。边界显示信念的活力必须结合其来源、稳定性与对行动的支配来理解。极端情绪造成的暂时确信，反而说明心理机制不等于无误认识。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "信念的活力不是对象新增的一块性质",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 1.3.7与E 5把信念描述为比虚构更有力、鲜明、稳固的构想。相信凯撒遇刺与想象同一事件，观念内容未必多出一项“存在颜色”；差别在于心灵把观念把握得更坚定，它较难被随意替换。",
+            "这一定义解释为何意志不能像组合金山那样任意制造信念。人可以说出明日太阳不升，却不能在稳定经验面前随意给予它与日出相同的确信。信念受当前印象、记忆和习惯联结制约，虽属感觉方式，却有可追查的因果条件。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "心理生成不等于认识辩护",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "说明信念由习惯和活力产生，并未自动证明所信为真。偏见、宣传和重复谣言也能制造熟悉感；若把“实际相信”直接等同“有理由相信”，休谟的自然主义描述会被错误升级为规范许可。",
+            "较谨慎的读法保留两项任务：心理学解释人为何无法停止因果期待，证据评价则比较联结样本、反例与来源可靠性。二者相接却不重合。一个信念可在机制上容易解释，在理由上仍应被纠正。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "概率怎样把完整活力分配给竞争结果",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 6与T 1.3.11–13讨论机会概率和原因概率。若六面骰子有四面标红、两面标蓝，想象遍历各面时，重复指向红色的倾向汇聚，使红色结果获得更强信念；这不是演绎证明，因为蓝色仍保持真实可能。",
+            "因果概率则来自经验不完全一致。药物多数时候缓解疼痛但偶尔失败，心灵既接受成功实例的推动，也保留失败实例的反向力量。合理确信随经验比例变化，所谓概率不是知识完全缺席，而是相反倾向尚未被消除。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "相反经验为何不能从记录中删除",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "若只保留支持预期的事例，信念会获得虚假的完整活力。休谟要求把相反经验带入比较：结果的多样性可能来自隐藏条件，也可能显示因果概括过宽；在查明差异之前，反例必须降低确定度。",
+            "相反经验并非与正例简单互相抵消。观察条件、样本独立性和机制相似度影响权重；一次严密反例可能胜过多次含混传闻。休谟没有给出现代统计公式，却清楚要求让判断强度追随经验的一致程度。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与虚构世界沉浸的有限对照",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "小说通过细节一致、叙事重复和情感投入增强观念活力，使人暂时仿佛身处其境。它借用了信念机制，却通常由封面、语境和共同约定标示为虚构，因此不会稳定接入关于现实行动的整套因果期待。",
+            "当虚构伪装成纪实，边界就会动摇；照片、档案口吻和反复传播可让虚构获得事实姿态。休谟式分析不会只问内容是否生动，而会追查活力从何种印象与联结传来，以及这些联结是否经得起相反证据。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "面对反复推送的网络消息",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "同一消息被许多账号转发，会因重复和相似性越来越熟悉，但若所有账号复制一个来源，它们在证据上并非多份独立经验。自然联想增加心理活力，哲学比较却应还原传播链，避免把熟悉度误当成确认次数。",
+            "若出现可靠原始记录与可复核反例，确信应随之调整。这里既能使用休谟的心理洞见解释谣言黏性，也能使用概率与相反经验要求校准判断。能够解释错信为何形成，不意味着必须向错信投降。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "从联想通道到有分寸的信念",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "相似、时空邻近与因果使想象有规则地运动；自然关系描述实际牵引，哲学关系描述反思比较。信念不靠新增对象内容，而靠从印象、记忆和习惯联结获得较强、较稳固且较少任意的活力。",
+            "虚构与错误也能借用活力机制，所以证据评价仍须检查来源。概率把活力分配给竞争结果，相反经验阻止确信冒充必然。这套说明为下一问题铺路：若人的行动同样显出稳定联结，自由是否必须排斥一切必然。"
+          ]
+        }
+      ],
+      "caseText": "朋友的来信和小说都描写同一海岛，但来信通过现前印象、可靠通信史和因果习惯把观念连接到事实。信念的活力来自这种非任意联结；若邮戳伪造或出现相反证据，活力与确信也应下降。",
+      "nodeIds": [
+        "hume-13-teaching"
+      ],
+      "checkIds": [
+        "hume-13-check-1",
+        "hume-13-check-2",
+        "hume-13-check-3",
+        "hume-13-check-4"
+      ],
+      "abilitySummary": [
+        "区分三种联想原则及自然关系与哲学关系",
+        "用活力、稳固性和非任意联结说明信念与虚构差别",
+        "把概率与相反经验纳入因果信念的强度校准"
+      ],
+      "recommendedNextLessonId": "hume-14"
+    },
+    {
+      "id": "hume-14",
+      "order": 14,
+      "title": "自由、必然与责任",
+      "depth": "overview",
+      "guidingQuestion": "若人的行动可从性格、动机和处境稳定推断，责任是否随必然性消失；还是只有在行动出自本人而非外在强制时，归责才有对象？",
+      "coreExplanation": "E 8与T 2.3.1–2把必然解释为行动与动机、性格、处境的恒常结合，以及观察者由此形成的推断。自由不是无原因的偶然，而是人在不受外在强制时能够依其意志行动。兼容论以此保存实践自由，同时用强制边界限制责任；归责还要求行为显露可归于行动者的持久品格。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "可预测行动是否仍然属于行动者",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "熟悉一位守信者的人，常能从其品格和承诺预测他会赴约。若预测成功就取消自由，最可靠的品格反而最不自由；若自由要求行为毫无原因，行动又像偶发抽搐，难以被称为由此人作出。争论需要先澄清双方所说的必然与自由。",
+            "E 8指出，自由必然争论长期纠缠于词义。人们在生活中同时依赖行为规律并区分自愿与被迫：法庭听取动机和性格证据，也减轻枪口胁迫下的责任。这种共同实践给兼容论提供出发点，而非凭定义宣布胜利。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "E 8与T 2.3.1中的经验必然",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "休谟把物理因果中的必然分析为两部分：相似对象的恒常结合，以及心灵从一项出现推向另一项的推断。T 2.3.1把同一尺度应用到行动，观察不同民族、年龄、职业和处境中动机与行为的规则联系。",
+            "这不是宣称每个人永远按一个简陋公式行动。混合动机、隐藏信息和性格差异会造成表面不规则，正如自然中风向变化不取消原因。必然的主张是行动进入可经验研究的因果秩序，而非每次预测都绝无误差。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "从动机与品格到行动的推断",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "历史、政治和日常交往都预设人类行为具有一致性。若任何行动与先前性格、欲望和情境毫无联系，证言无法评估，承诺不能依赖，奖惩也不能针对未来。彻底否认行动必然，会连同理解他人的实践一起拆除。",
+            "休谟甚至认为我们对物质因果与行动因果的把握同类：都不是看见神秘力量，而是由恒常结合形成推断。把行动从这一尺度中豁免，并不会得到更高自由，只会给行动加上自然事件本身也不具备的形而上直观。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "囚犯与未上锁的房门",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "一个人想离开房间，门未上锁，他依意志走出；另一个人同样想离开，却被守卫锁住。两人的愿望都有原因，真正改变自由判断的是意志能否转化为行动，而不是愿望是否从无因空白中出现。",
+            "若第一人选择留下，他在愿意离开时仍有能力离开，这种条件能力构成实践自由。第二人即使内心坚定，也受外在障碍阻断。案例说明休谟自由定义关注强制与行动通道，不要求在完全相同条件下创造无原因分岔。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "无原因偶然为何不能奠定责任",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "有人把自由理解为意志不受任何原因决定。但若一次伤害与行动者性格、意图和欲望完全无关，它更像偶发事件；受害后果虽真实，谴责却找不到可归属的品格。偶然切断联系，并不会增强作者身份。",
+            "兼容论因此反转常见直觉：适度必然不是责任敌人，而是归责条件。只有行动从人的持久原则流出，赞许、责备和教育才指向这个人。若行为纯属无因跳跃，奖惩无法通过动机影响未来，也失去矫正根据。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "T 2.3.2怎样重新定义自由",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 2.3.2与E 8把自由表述为按照意志行动或不行动的能力：愿意静止便可静止，愿意移动便可移动。这个定义承认意志本身有因，却把行动自由放在意志不受外在阻碍地实现之处。",
+            "文本同时拒绝把自由与偶然混同。偶然在严格意义上只是我们不知道原因或否定原因；它若真实存在，反而使行动脱离品格。休谟并未解决所有后来关于操控与深层自我的问题，但明确划出其兼容论目标。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "强制、能力与内部障碍的边界",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "铁链、监禁和直接威胁是清楚的外在强制。成瘾、精神疾病、胁迫性控制与极端贫困则使边界更复杂：身体或意志表面完成动作，不代表行动能力完整。不能用一句“他想做”取消对选择形成条件的审查。",
+            "休谟的简洁定义提供必要起点，却不自动给出现代法律的全部减责标准。应用时应问障碍如何改变理解、控制和替代行动能力，并按程度而非二元标签判断。扩展边界不等于放弃动机—行动联系。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "归责为何需要行为显露持久品格",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 8说，行为只有作为内在品格、激情和情感的标志，才成为道德情感的对象。一个早已过去且与现在品格断裂的动作，对当下归责的力量会变化；悔改之所以重要，正在于它可能显示原则已经改变。",
+            "责任因此不是把后果机械贴到最近身体运动上。需要连接意图、知识、动机和持久倾向。这个结构也解释为何意外事故、无意识动作与蓄意伤害虽可能造成相同损失，道德评价却不会相同。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "奖惩怎样预设而非否定必然",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "法律通过惩罚威慑、隔离危险并表达共同责备。这些目的都假定制裁会成为新的动机，与行为形成因果联系。若行动完全不受动机影响，惩罚无法预防；若人从不表现稳定品格，个别制裁也无法锁定对象。",
+            "但有效果不等于正当。惩罚仍受比例、证据和人道边界约束；兼容论只说明责任实践为何需要因果规律，不能为任何严酷制度背书。把描述性可影响性直接变成无限惩罚许可，是另一种越界。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "与神学预定难题保持距离",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "E 8后段承认，把普遍因果秩序连到完满神的预定，会产生罪恶最终来源的神学压力。有限人类推理难以同时保全神的全能、全善和可归责行动；休谟没有用兼容定义轻易抹平这一困难。",
+            "世俗层面的兼容论可在不解决神义论时运作：它分析人际实践中的强制、动机与品格。若讨论者加入神的先知与创造，就增加了新的责任层级，必须另行说明，不能把人类法庭的条件简单复制到宇宙原因。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "算法预测与被操控选择",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "平台从过往行为准确预测某人会点击，不仅不证明点击非行动，反而显示偏好与情境联结。但若平台秘密操纵信息、制造成瘾反馈或封锁替代选项，自由问题就从可预测性转向控制条件和可用能力。",
+            "休谟框架帮助分开两问：行为是否有原因，行动者是否在无不当强制下依意志行动。现代操控案例还要求检查意志形成过程，这是原定义需被深化之处；深化不必退回无原因意志的想象。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "兼容论保留了什么责任",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "E 8与T 2.3.1–2以恒常结合和推断说明必然，以能够依意志行动说明自由。可预测性并不自动取消行动者身份；外在强制、能力受损和操控则可能削弱自由，因为意志到行动的通道受到破坏。",
+            "归责要求行为连接动机与持久品格，无原因偶然反而切断这条联系。奖惩依赖可影响性却仍受正当性约束。下一单元将把类似结构带入政治：政府为何产生服从义务，以及公共利益被摧毁时义务为何可能终止。"
+          ]
+        }
+      ],
+      "caseText": "守信者按承诺赴约可以被准确预测，但预测来自其品格，并不等于他受强制。若守卫锁门阻止他离开，外在障碍才改变实践自由。责任要求行动既出自可归属的动机与品格，也保留相应理解和行动能力。",
+      "nodeIds": [
+        "hume-14-teaching"
+      ],
+      "checkIds": [
+        "hume-14-check-1",
+        "hume-14-check-2",
+        "hume-14-check-3",
+        "hume-14-check-4"
+      ],
+      "abilitySummary": [
+        "按E 8与T 2.3.1–2说明行动必然的经验含义",
+        "区分行动自由、无原因偶然和外在强制",
+        "用动机、品格与能力条件分析责任和归责"
+      ],
+      "recommendedNextLessonId": "hume-15"
+    },
+    {
+      "id": "hume-15",
+      "order": 15,
+      "title": "政府、效忠与政治服从的界限",
+      "depth": "overview",
+      "guidingQuestion": "社会成员已经因共同利益遵守财产和承诺规则，为何还需要对政府承担效忠；若统治持续摧毁这些利益，政治服从又凭什么仍然无条件？",
+      "coreExplanation": "T 3.2.8–10把政府看作扩大社会中执行正义的制度补救，并区分先于政府的社会正义义务与随后形成的效忠义务。政治论文批判虚构的普遍原始契约，以利益、习惯和意见解释权威。政府因公共目的获得服从根据；暴政摧毁安全与正义时，根据也会衰减，抵抗并非由任意不满自动许可。",
+      "sections": [
+        {
+          "kind": "problem",
+          "heading": "已有正义规则为何仍需要政府",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "小群体能通过共同利益协调财产和承诺，但社会扩大后，人容易偏爱眼前利益，争端双方也难作自己的公正裁判。规则已经被承认，执行却不稳定；政府首先回应的是遵守与裁决问题，而非从无到有创造一切社会义务。",
+            "若把政府与社会正义完全等同，就会误以为没有官吏便没有财产规则，也无法说明政府为何应受正义评价。T 3.2.8–10保留层次：约定性正义使社会可能，政治权威作为新制度处理规模、偏私与执行缺口。"
+          ]
+        },
+        {
+          "kind": "concept",
+          "heading": "T 3.2.8中的政府起源与近利偏见",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "休谟认为人并非不知道长远共同利益，而是常被眼前诱惑拉走。政府通过任命较少直接卷入具体利益的人执行规则，使远期公共利益获得稳定代理。权威由此不是神秘属性，而是针对人类有限性的制度安排。",
+            "这一功能叙事不是逐国历史纪录。实际政府常由战争、征服和偶然形成；哲学说明回答制度为何能获得持续支持及其解决何种问题。把功能根据冒充纯洁起源，会抹去暴力历史，也会削弱批判现实政权的能力。"
+          ]
+        },
+        {
+          "kind": "argument",
+          "heading": "效忠为何是区别于社会正义的新义务",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "遵守财产、转让和承诺规则的理由是维持社会合作；效忠政府的直接理由则是让裁决与执行机构能够保障这些规则。二者都诉诸公共利益，却对象不同。政府可以要求服从，正因为其工作服务先在的社会秩序。",
+            "区分意味着政治命令不因出自官署便自动正义。若命令系统性破坏财产安全、平等裁决与公共和平，效忠的功能根据会与社会正义发生冲突。此时不能只重复“守法是正义”，而须判断哪项义务及其目的正在被破坏。"
+          ]
+        },
+        {
+          "kind": "case",
+          "heading": "灾后临时委员会的权威",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "灾后居民先自发约定水粮分配，随后推举委员会登记、裁决和执行。分配规则的义务不等同于对委员会的效忠；委员会因能减少偏私和冲突而获得权威，并可在功能失败时被替换。",
+            "若委员会成员把物资据为己有，他们不能用最初推举无限延长服从。居民仍须避免任意掠夺，并建立可执行替代秩序。案例显示抵抗旧权威与取消一切社会正义不同，政治更替需要保护共同规则而非制造永久真空。"
+          ]
+        },
+        {
+          "kind": "counterexample",
+          "heading": "原始契约为何不是普遍历史基础",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《原始契约论》质疑多数政府曾由全体自由同意建立。征服、继承、迁徙限制和普通人的无选择处境，使“继续居住就是默示同意”常显空洞；穷人不能自由离境时，沉默不足以承担真实承诺的分量。",
+            "批判原始契约不等于同意毫无政治价值。明确授权、代表制度与参与可改善正当性；休谟反对的是把未经证实的祖先承诺当作所有后代效忠的唯一根基。历史事实与规范根据都需独立说明。"
+          ]
+        },
+        {
+          "kind": "closeReading",
+          "heading": "政府的第一原则为何落在意见",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《政府的第一原则》指出，统治者人数总少于被统治者，因此政府最终依赖意见。人们关于公共利益、权利与合法性的看法，使命令得到服从；军力本身也要由持有某些意见的人来操作。",
+            "这里的意见不是说权威全属虚构。利益、安全、习惯和财产权经验会塑造意见，统治也能通过宣传扭曲它。命题揭示权力的社会支撑点，并提示服从既可能稳定公共秩序，也可能因错误信息或压制而被维持。"
+          ]
+        },
+        {
+          "kind": "boundary",
+          "heading": "被动服从并非没有例外",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "《论被动服从》承认秩序与和平通常极重要，轻率反叛会带来内战和更大伤害。但服从义务的根据既是公共效用，极端暴政若摧毁安全与共同生活，也会摧毁产生义务的同一根据。",
+            "这不是给每次税负不满发放抵抗许可证。判断需比较压迫严重度、救济渠道、替代秩序和行动后果。休谟式界限具有审慎性质：既反对神授式无条件服从，也警惕把私人激情包装成公共解放。"
+          ]
+        },
+        {
+          "kind": "connection",
+          "heading": "长期占有与权威归属怎样稳定",
+          "identity": "author-text-paraphrase",
+          "paragraphs": [
+            "T 3.2.10讨论谁应统治时考察长期占有、当前占有、征服、继承和成文法等权威来源。它们并非共同推出一个绝对原则，而是在历史复杂处境中提供协调焦点，减少无休止竞争。",
+            "稳定性有公共价值，却不能洗净一切起源。征服政权可能随时间获得服从习惯，但受害记忆与持续压迫仍影响评价。描述权威怎样巩固，与判断它是否值得维持，是必须保持距离的两项工作。"
+          ]
+        },
+        {
+          "kind": "bridge",
+          "heading": "从利益到道德情感的政治评价",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "正如正义规则因整体效用获得赞许，维护和平、公正裁决和安全的政治品格也会从一般观点受到肯定。效忠不仅是恐惧反应；当人们看到制度惠及共同生活，服从可成为道德义务。",
+            "若制度利益只流向小集团，一般观点就会揭露“公共”名义与实际受益者的距离。休谟的效用语言必须接受分配问题追问，否则任何稳定压迫都可被统治者宣称有用。内容评价不能停在秩序存在这一事实。"
+          ]
+        },
+        {
+          "kind": "comparison",
+          "heading": "原始契约、同意与公共利益的三种位置",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "原始契约理论试图用一次同意产生权威；休谟则以持续公共利益、习惯和意见解释效忠。同意在其框架中仍可作为一种有力事实，却不是所有政权都真实拥有、也不是政治义务唯一可能来源。",
+            "公共利益路线的优势是能评价无契约历史中的制度，风险是替家长式统治开门。为限制风险，必须具体说明利益、意见形成和抵抗条件，并让受治者经验进入判断，而不能由统治者单方面定义何为有用。"
+          ]
+        },
+        {
+          "kind": "transfer",
+          "heading": "紧急状态中的服从期限",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "公共危机中，集中命令可能解决协调和执行问题，短期服从因此有强理由。但若当局无限延长紧急权、封锁复核并把资源转给自身，产生权威的公共目的便转为检验和限制它的尺度。",
+            "公民评估时应区分社会正义要求的相互保护，与对某一届政府的效忠。反对滥权不解除诚实分配、守约和避免伤害的义务；相反，抵抗若要正当，应尽量保存这些共同规则及可行替代制度。"
+          ]
+        },
+        {
+          "kind": "recap",
+          "heading": "政治服从的根据及其终点",
+          "identity": "project-interpretation",
+          "paragraphs": [
+            "T 3.2.8–10说明政府为扩大社会中的执行、公正裁决和近利偏见提供补救，效忠因而是区别于社会正义的新义务。政治论文以利益、习惯与意见取代虚构的普遍原始契约，并承认历史起源常不纯。",
+            "服从通常保护和平，不能因私人不满轻弃；但其根据不是无限。极端暴政摧毁安全、正义和公共利益时，义务随根据衰减。抵抗仍须衡量后果并保存社会正义，这使服从界限既非神授权威，也非任意选择。"
+          ]
+        }
+      ],
+      "caseText": "居民先形成物资分配规则，后设委员会裁决执行。社会正义与政府效忠由此分层：委员会因服务共同规则获得权威；若其持续侵占物资，居民可在保存分配义务和替代秩序的前提下质疑服从。",
+      "nodeIds": [
+        "hume-15-teaching"
+      ],
+      "checkIds": [
+        "hume-15-check-1",
+        "hume-15-check-2",
+        "hume-15-check-3",
+        "hume-15-check-4"
+      ],
+      "abilitySummary": [
+        "从T 3.2.8–10区分社会正义与政府效忠",
+        "用政治论文评估原始契约、利益、意见与权威",
+        "以公共目的和后果限定服从与抵抗"
+      ],
+      "recommendedNextLessonId": null
+    }
+  ],
+  "checks": [
+    {
+      "id": "hume-01-check-1",
+      "kind": "singleChoice",
+      "prompt": "摹本原则首先约束的是什么？",
+      "targetNodeIds": [
+        "hume-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-01-check-1-correct",
+          "text": "简单观念最初出现时通常要有相似的简单印象在先",
+          "feedback": "决定性区分是简单材料的来源与复杂观念的组合方式。金山虽未整体出现，金色和山形各有印象来源，因此仍符合摹本原则的通常版本。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-01-check-1-misconception",
+          "text": "每一个复杂想象都必须作为完整对象被亲眼见过",
+          "feedback": "这个判断把复杂对象必须整体见过，当成简单观念须有印象来源；它跳过想象能够重组金色与山形这一环，所以把原则的约束范围扩大了。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-01-check-1-correct",
+      "misconceptionId": "hume-01-simple-complex"
+    },
+    {
+      "id": "hume-01-check-2",
+      "kind": "singleChoice",
+      "prompt": "缺失的蓝色最直接反驳哪一种说法？",
+      "targetNodeIds": [
+        "hume-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-01-check-2-misconception",
+          "text": "经验在观念形成中通常没有任何作用",
+          "feedback": "这里把一个可由相邻色调补出的例外，误推成经验对所有观念都不起作用；它跳过了其余大量简单观念与印象相似且先后相接的经验根据。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-01-check-2-correct",
+          "text": "所有简单观念无一例外都只能由完全对应的印象复制",
+          "feedback": "缺失色阶中的观念没有完全对应的先行印象，因而击中的是“无一例外”这一全称强度；单个反例只限制普遍性，不取消经验通常提供材料的证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-01-check-2-correct",
+      "misconceptionId": "hume-01-blue-scope"
+    },
+    {
+      "id": "hume-01-check-3",
+      "kind": "singleChoice",
+      "prompt": "为什么菠萝说明不能单靠文字得到全部相应观念？",
+      "targetNodeIds": [
+        "hume-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-01-check-3-correct",
+          "text": "文字能组合已有材料，却未必给予那种独特滋味的简单感觉",
+          "feedback": "菠萝案例区分了语言的指引组合能力与简单感觉材料的给予。描述可以调用甜、酸等已有观念，却不能凭文字产生从未尝过的独特滋味。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-01-check-3-misconception",
+          "text": "关于味道的所有语言都没有意义",
+          "feedback": "这个判断把“语言不能替代首次味觉印象”混同为“味觉语言毫无意义”；它忽略描述仍能比较强弱、联系经历并指导实际辨认。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-01-check-3-correct",
+      "misconceptionId": "hume-01-language"
+    },
+    {
+      "id": "hume-01-check-4",
+      "kind": "singleChoice",
+      "prompt": "在承认蓝色例外后，摹本原则还能承担什么任务？",
+      "targetNodeIds": [
+        "hume-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-01-check-4-misconception",
+          "text": "作为不容任何例外的逻辑公理直接裁决全部哲学争论",
+          "feedback": "把原则当作无例外的逻辑公理，会先行排除它本该说明的缺失蓝色；这个选项跳过了回应反例的责任，也把经验概括误升为纯逻辑裁决。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-01-check-4-correct",
+          "text": "作为强有力但可受限制的来源检验，要求含混概念说明经验根据",
+          "feedback": "蓝色例外削弱的是摹本原则的绝对形式，不是其来源检验功能。面对含混概念，追问相应印象仍能暴露无经验根据的说法，只是结论须允许例外。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-01-check-4-correct",
+      "misconceptionId": "hume-01-method"
+    },
+    {
+      "id": "hume-02-check-1",
+      "kind": "singleChoice",
+      "prompt": "事实问题的反面可设想，最直接说明什么？",
+      "targetNodeIds": [
+        "hume-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-02-check-1-correct",
+          "text": "事实命题不是仅凭观念关系成立的演绎必然真理",
+          "feedback": "一个事实命题的反面可以无矛盾地设想，说明其真值不能仅由概念关系演绎出来；这只划分证明类型，并不表示正反命题拥有相同经验证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-02-check-1-misconception",
+          "text": "事实命题的正反两面永远同样可信",
+          "feedback": "这个选项把“逻辑上可设想”混同为“证据上同等可信”。明日不日出虽不自相矛盾，既往规律仍使日出的概率远高于反面。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-02-check-1-correct",
+      "misconceptionId": "hume-02-conceivable"
+    },
+    {
+      "id": "hume-02-check-2",
+      "kind": "singleChoice",
+      "prompt": "为什么定义“雨”不能证明门外正在下雨？",
+      "targetNodeIds": [
+        "hume-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-02-check-2-misconception",
+          "text": "所有天气概念都无法被清楚定义",
+          "feedback": "这个回答把“定义不能证明实际发生”误成“概念无法定义”。雨的概念可以清楚，缺少的是门外当前状况的经验证据，而不是语义条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-02-check-2-correct",
+          "text": "定义说明概念条件，实际存在还需要感觉、记忆或证言",
+          "feedback": "定义只能给出何种现象算作下雨这一观念条件；要断言门外此刻确有该事实，还须感觉、记忆或证言把概念与现实情形连接起来。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-02-check-2-correct",
+      "misconceptionId": "hume-02-definition"
+    },
+    {
+      "id": "hume-02-check-3",
+      "kind": "singleChoice",
+      "prompt": "两分法为何把讨论带向因果？",
+      "targetNodeIds": [
+        "hume-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-02-check-3-correct",
+          "text": "超出感觉和记忆的事实推断需要把已见对象连接到未见事实",
+          "feedback": "当推断越出当前感觉和记忆时，已见对象本身并不包含未见结果；必须借助原因与结果的联系完成跨越，因此两分法把追问推进到因果。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-02-check-3-misconception",
+          "text": "所有观念关系其实都由物理原因造成",
+          "feedback": "这里混淆了观念关系作为命题成立根据，与一个观念在心理或物理上怎样产生。数学真理是否必然，不取决于思考它的脑事件原因。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-02-check-3-correct",
+      "misconceptionId": "hume-02-causation"
+    },
+    {
+      "id": "hume-02-check-4",
+      "kind": "singleChoice",
+      "prompt": "软件预测案例揭示了什么？",
+      "targetNodeIds": [
+        "hume-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-02-check-4-misconception",
+          "text": "只要算法确定，硬件未来便逻辑上不可能故障",
+          "feedback": "这个选项把算法内部的确定关系扩大到硬件未来状态，跳过了供电、器件与环境保持正常的事实前提；这些前提只能得到经验支持而非逻辑保证。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-02-check-4-correct",
+          "text": "一条预测可能混合定义关系、当前事实与未来稳定性预期",
+          "feedback": "预测同时依靠算法定义、机器当前状态以及系统将继续稳定运行的事实预期；把三类前提拆开，才能看出结论并非全都具有演绎必然性。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-02-check-4-correct",
+      "misconceptionId": "hume-02-mixed"
+    },
+    {
+      "id": "hume-03-check-1",
+      "kind": "singleChoice",
+      "prompt": "第一次见陌生对象为何不能预知效果？",
+      "targetNodeIds": [
+        "hume-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-03-check-1-correct",
+          "text": "效果不是从原因的可见性质中演绎出来的观念关系",
+          "feedback": "陌生原因的可见性质并不演绎包含某一特定效果，所以初见者无法先验选定结果；决定性限制是效果内容未知，而不是事件没有任何后果。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-03-check-1-misconception",
+          "text": "陌生对象第一次出现时必定没有任何效果",
+          "feedback": "这个选项把观察者无法预知效果，混同为对象实际上不会产生效果；它从认识上的信息缺口跳到了世界中的不存在，缺少任何因果证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-03-check-1-correct",
+      "misconceptionId": "hume-03-first"
+    },
+    {
+      "id": "hume-03-check-2",
+      "kind": "singleChoice",
+      "prompt": "恒常结合与必要联系有什么差别？",
+      "targetNodeIds": [
+        "hume-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-03-check-2-misconception",
+          "text": "恒常结合就是肉眼直接看见隐藏力量",
+          "feedback": "这个回答把反复观察到的先后相随，当成肉眼看见了隐藏力量；重复只增加事件配对的证据，并未让所谓必然纽带成为感觉对象。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-03-check-2-correct",
+          "text": "前者是相似事件反复相随，后者还涉及心灵由一项转向另一项的必然感",
+          "feedback": "恒常结合只记录相似原因与效果反复相随；必要联系的观念还涉及心灵因重复而从原因过渡到效果的倾向，因此两者的证据层次不同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-03-check-2-correct",
+      "misconceptionId": "hume-03-constant"
+    },
+    {
+      "id": "hume-03-check-3",
+      "kind": "singleChoice",
+      "prompt": "习惯在论证中解释了什么？",
+      "targetNodeIds": [
+        "hume-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-03-check-3-correct",
+          "text": "过去经验怎样使当前原因的出现引发对效果的期待",
+          "feedback": "习惯说明多次相随怎样使原因一出现，心灵便自然形成对效果的期待；它解释实际推断机制，却不把未来与过去相似变成逻辑必然。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-03-check-3-misconception",
+          "text": "为什么未来在逻辑上不可能不同于过去",
+          "feedback": "这个选项让习惯承担了它不能完成的证明任务：心理期待的形成并不排除未来偏离过去，因而没有填上归纳论证所缺的非循环根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-03-check-3-correct",
+      "misconceptionId": "hume-03-custom"
+    },
+    {
+      "id": "hume-03-check-4",
+      "kind": "singleChoice",
+      "prompt": "一次反常结果为何不直接推翻全部因果研究？",
+      "targetNodeIds": [
+        "hume-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-03-check-4-misconception",
+          "text": "因为反常结果可以无条件从记录中删除",
+          "feedback": "无条件删去反常记录，会把恒常结合变成不受反例约束的循环定义；这个选项跳过了判断异常、测量错误或条件变化所需的独立证据。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-03-check-4-correct",
+          "text": "它显示具体期待可修正，并要求检查条件与样本，而非证明世界无规律",
+          "feedback": "一次反常结果首先削弱特定条件下的期待，并要求核查样本、干扰因素和规律表述；它提供修正证据，却不足以推出一切事件都无规律。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-03-check-4-correct",
+      "misconceptionId": "hume-03-anomaly"
+    },
+    {
+      "id": "hume-04-check-1",
+      "kind": "singleChoice",
+      "prompt": "归纳推断通常隐藏了哪项前提？",
+      "targetNodeIds": [
+        "hume-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-04-check-1-correct",
+          "text": "未观察情形会在相关方面继续类似已观察情形",
+          "feedback": "归纳只需假定未观察情形在与推断有关的方面延续既有规律，例如火仍会灼伤；它不要求季节、地点和每个偶然细节完全复制过去。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-04-check-1-misconception",
+          "text": "未来每个细节都与过去完全相同",
+          "feedback": "这个回答把相关条件的相似夸成未来与过去逐项同一；若真要求全部细节不变，任何季节更替和个体差异都会使普通归纳无法成立。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-04-check-1-correct",
+      "misconceptionId": "hume-04-uniformity"
+    },
+    {
+      "id": "hume-04-check-2",
+      "kind": "singleChoice",
+      "prompt": "为什么“归纳过去成功”不能提供非循环证明？",
+      "targetNodeIds": [
+        "hume-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-04-check-2-misconception",
+          "text": "因为过去从未有任何成功预测",
+          "feedback": "这个选项虚构了休谟并未主张的经验失败。过去确有大量成功预测，缺口在于这些过去事实如何非循环地保证尚未观察的未来。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-04-check-2-correct",
+          "text": "从过去成功推到未来可靠已经再次使用归纳",
+          "feedback": "以过去的归纳成功保证未来可靠，已经预设过去表现能推及未观察未来；决定性问题是论证循环，而不是历史上是否出现过成功预测。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-04-check-2-correct",
+      "misconceptionId": "hume-04-circle"
+    },
+    {
+      "id": "hume-04-check-3",
+      "kind": "singleChoice",
+      "prompt": "习惯解决了第四节的哪一项困难？",
+      "targetNodeIds": [
+        "hume-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-04-check-3-correct",
+          "text": "解释人在没有演绎证明时为何仍自然形成期待",
+          "feedback": "习惯回答人在缺乏演绎证明时为何仍会形成期待，因而提供的是心理机制说明；它没有推翻第四节关于自然一致性无法被证明的限制。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-04-check-3-misconception",
+          "text": "证明未来逻辑上不可能偏离过去",
+          "feedback": "这个选项把期待不可避免误作未来不可能变化。习惯只能说明我们为何相信规律延续，不能证明被相信的内容具有逻辑必然性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-04-check-3-correct",
+      "misconceptionId": "hume-04-solution"
+    },
+    {
+      "id": "hume-04-check-4",
+      "kind": "singleChoice",
+      "prompt": "归纳难题为何不使所有预测同样糟糕？",
+      "targetNodeIds": [
+        "hume-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-04-check-4-misconception",
+          "text": "因为任何强烈确信都会自动成为可靠预测",
+          "feedback": "这个回答把确信的心理强度当成可靠性的证据，跳过了样本与条件检验；偏见和重复宣传同样能制造强烈信念，却不提高预测质量。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-04-check-4-correct",
+          "text": "样本、条件控制和反例调查仍能比较具体推断的证据质量",
+          "feedback": "归纳没有终极非循环保证，并不抹去具体证据差异；样本数量、条件控制和反例处理仍能显示某些预测比另一些更可靠。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-04-check-4-correct",
+      "misconceptionId": "hume-04-quality"
+    },
+    {
+      "id": "hume-05-check-1",
+      "kind": "singleChoice",
+      "prompt": "知觉束观点首先否定什么？",
+      "targetNodeIds": [
+        "hume-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-05-check-1-correct",
+          "text": "内省已经直接发现一个简单、持续而不变的自我印象",
+          "feedback": "知觉束论首先质疑的是内省是否呈现一个简单、持续、不变的主体印象；日常第一人称表达仍可指称相互联结的经历与责任关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-05-check-1-misconception",
+          "text": "任何第一人称语言和实践责任都有意义",
+          "feedback": "这个选项把没有发现不变实体，误推成一切人格语言与责任实践都无意义；它跳过了记忆、因果联结和共同生活仍能支撑身份归属。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-05-check-1-correct",
+      "misconceptionId": "hume-05-target"
+    },
+    {
+      "id": "hume-05-check-2",
+      "kind": "singleChoice",
+      "prompt": "记忆在同一感中承担什么作用？",
+      "targetNodeIds": [
+        "hume-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-05-check-2-misconception",
+          "text": "创造一个脱离全部知觉的不变实体",
+          "feedback": "把记忆说成创造独立实体，正好越过了需要证明的关键一步：能联结知觉的心理作用，并不等于出现了一个简单主体印象。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-05-check-2-correct",
+          "text": "发现并加强知觉间的相似与因果联系，但不是覆盖一切间隔的唯一条件",
+          "feedback": "记忆让先后知觉之间的相似和因果关系被发现并加强，因而帮助形成同一感；它提供联结机制，却没有呈现一个脱离知觉的不变实体。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-05-check-2-correct",
+      "misconceptionId": "hume-05-memory"
+    },
+    {
+      "id": "hume-05-check-3",
+      "kind": "singleChoice",
+      "prompt": "失忆案例给纯记忆标准什么压力？",
+      "targetNodeIds": [
+        "hume-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-05-check-3-correct",
+          "text": "人格关系常跨过无法直接回忆的时期",
+          "feedback": "失忆切断的是当前对某段经历的直接访问，不必切断身体、行动后果与其他记忆形成的因果链；因此人格关系可能跨越记忆空白。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-05-check-3-misconception",
+          "text": "只要失忆，过去身体便从历史中消失",
+          "feedback": "这个选项把无法回忆某段过去，混同为那段身体历史已经消失；医疗记录、他人证言和后来后果仍能证明因果连续性存在。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-05-check-3-correct",
+      "misconceptionId": "hume-05-amnesia"
+    },
+    {
+      "id": "hume-05-check-4",
+      "kind": "singleChoice",
+      "prompt": "为什么必须提到《人性论》附录？",
+      "targetNodeIds": [
+        "hume-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-05-check-4-misconception",
+          "text": "附录撤回了印象与观念的全部区分",
+          "feedback": "附录承认的是自我联结问题尚未解决，并未撤销印象与观念的区分；这个回答把局部理论责任扩大成整套认识框架的全面放弃。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-05-check-4-correct",
+          "text": "休谟后来承认知觉联结仍有自己无法满意解决的困难",
+          "feedback": "《人性论》附录记录休谟对知觉如何形成统一联结仍不满意，因此限制了知觉束说明的完成度；这项自我修正是解释证据，不能被省略。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-05-check-4-correct",
+      "misconceptionId": "hume-05-appendix"
+    },
+    {
+      "id": "hume-06-check-1",
+      "kind": "singleChoice",
+      "prompt": "感觉为何不能单独证明对象独立存在？",
+      "targetNodeIds": [
+        "hume-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-06-check-1-correct",
+          "text": "感觉呈现知觉，却不同时提供知觉与知觉外对象的比较",
+          "feedback": "感觉确实呈现颜色、硬度等知觉，缺少的却是把知觉与知觉之外对象直接并列比较的通道；所以感觉重要而不足以单独证明独立存在。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-06-check-1-misconception",
+          "text": "因为感觉从不提供任何信息",
+          "feedback": "这个选项把感觉不能独力证明外物，误推成感觉完全没有信息；它忽略感觉正是经验判断的材料，受限的是从知觉跨到独立对象的证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-06-check-1-correct",
+      "misconceptionId": "hume-06-sense"
+    },
+    {
+      "id": "hume-06-check-2",
+      "kind": "singleChoice",
+      "prompt": "恒常性与融贯性怎样发挥作用？",
+      "targetNodeIds": [
+        "hume-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-06-check-2-misconception",
+          "text": "让心灵直接看见知觉背后的实体",
+          "feedback": "这个回答把想象依据恒常与融贯补出的持续性，当成感觉直接呈现的实体；它跳过了从间断知觉到独立对象的推断环节。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-06-check-2-correct",
+          "text": "使想象把间断而相接的知觉归为持续同一对象",
+          "feedback": "恒常性让相似知觉在中断后重现，融贯性让变化彼此协调；两者促使想象假定持续对象，解释的是信念形成而非实体被直接看见。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-06-check-2-correct",
+      "misconceptionId": "hume-06-coherence"
+    },
+    {
+      "id": "hume-06-check-3",
+      "kind": "singleChoice",
+      "prompt": "哲学的双重存在说遇到什么困难？",
+      "targetNodeIds": [
+        "hume-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-06-check-3-correct",
+          "text": "它区分知觉与对象，却难以证明二者可靠对应",
+          "feedback": "双重存在说承认心中知觉，并另设持续的外在对象来解释知觉；困难在于经验只直接给出前者，二者可靠对应仍缺独立证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-06-check-3-misconception",
+          "text": "它完全否认任何知觉存在",
+          "feedback": "这个选项颠倒了双重存在说的结构：该说法明确保留知觉，并在其外增加对象；争点是增加部分的根据，而非知觉是否存在。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-06-check-3-correct",
+      "misconceptionId": "hume-06-double"
+    },
+    {
+      "id": "hume-06-check-4",
+      "kind": "singleChoice",
+      "prompt": "缓和怀疑意味着什么？",
+      "targetNodeIds": [
+        "hume-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-06-check-4-misconception",
+          "text": "对所有互相冲突的主张给予相同信任",
+          "feedback": "给冲突主张相同信任会抹去证据差异，而缓和怀疑恰要求按证据调整确信程度；这个选项把有限断言误成了无差别折中。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-06-check-4-correct",
+          "text": "让断言限于能力与证据范围，同时保留经验探究",
+          "feedback": "缓和怀疑要求把断言限制在能力和证据所及范围，同时继续比较经验支持；它降低过度确定性，却不取消日常探究与证据等级。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-06-check-4-correct",
+      "misconceptionId": "hume-06-mitigated"
+    },
+    {
+      "id": "hume-07-check-1",
+      "kind": "singleChoice",
+      "prompt": "理性为何能改变行动却不是原初发动机？",
+      "targetNodeIds": [
+        "hume-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-07-check-1-correct",
+          "text": "它纠正事实和手段，使既有激情转向不同对象",
+          "feedback": "理性能够纠正对象是否存在、手段是否有效等判断，从而让已有欲望改换方向；行动的推动仍来自欲求，所以影响真实但不是原初动力。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-07-check-1-misconception",
+          "text": "它永远不能影响任何选择",
+          "feedback": "这个选项把理性不能单独发动行动，扩大成理性对选择毫无影响；地图或风险信息改变手段判断时，同一欲望会导向不同选择。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-07-check-1-correct",
+      "misconceptionId": "hume-07-influence"
+    },
+    {
+      "id": "hume-07-check-2",
+      "kind": "singleChoice",
+      "prompt": "奴隶句子没有主张什么？",
+      "targetNodeIds": [
+        "hume-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-07-check-2-misconception",
+          "text": "主张理性本身不能单独创造行动动力",
+          "feedback": "这个选项实际表达了该句在论证中的核心限制：仅有观念关系或事实发现不足以发动意志。因此它不是这句话所排除的主张。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-07-check-2-correct",
+          "text": "没有主张人应盲从最猛烈的冲动并停止思考",
+          "feedback": "“奴隶”句限制的是理性独自产生目的和动力的能力，并未许可盲从最猛烈冲动；上下文仍让理性负责辨认事实、手段和后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-07-check-2-correct",
+      "misconceptionId": "hume-07-slogan"
+    },
+    {
+      "id": "hume-07-check-3",
+      "kind": "singleChoice",
+      "prompt": "激情何时会被非严格地称为不合理？",
+      "targetNodeIds": [
+        "hume-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-07-check-3-correct",
+          "text": "它依赖对象不存在或手段无效等错误判断",
+          "feedback": "激情本身不是可判真假的表象；所谓不合理通常来自它所依赖的对象不存在，或选定手段不能达到目的，错误落在相关判断上。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-07-check-3-misconception",
+          "text": "它仅仅因为具有任何强度",
+          "feedback": "这个回答把激情强度当成真假标准，混淆了心理力度与判断准确性；强烈愿望可以依据真实事实，平静偏好也可能依赖误判。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-07-check-3-correct",
+      "misconceptionId": "hume-07-error"
+    },
+    {
+      "id": "hume-07-check-4",
+      "kind": "singleChoice",
+      "prompt": "行动理论为何引向道德情感？",
+      "targetNodeIds": [
+        "hume-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-07-check-4-misconception",
+          "text": "因为道德判断不需要任何事实信息",
+          "feedback": "这个选项把道德动力来自情感，误推成事实信息无关；同一行为的动机、处境与后果改变时，评价也会改变，说明理性仍须供给对象。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-07-check-4-correct",
+          "text": "能影响行动的道德区别不能只是无动力的观念关系发现",
+          "feedback": "道德区别若能影响选择，就不能只是无动力的抽象关系发现；事实与推理说明对象和后果，而赞许、谴责等情感提供行动关联。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-07-check-4-correct",
+      "misconceptionId": "hume-07-morals"
+    },
+    {
+      "id": "hume-08-check-1",
+      "kind": "singleChoice",
+      "prompt": "理性在道德判断中承担什么？",
+      "targetNodeIds": [
+        "hume-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-08-check-1-correct",
+          "text": "说明事实、动机、关系和后果，为情感评价提供对象",
+          "feedback": "理性查明行为事实、动机关系和实际后果，使情感面对正确对象；若误认救助为伤害，评价会反转，因此它虽不独自产生赞许却不可缺少。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-08-check-1-misconception",
+          "text": "因为不能独自产生赞许，所以完全无关",
+          "feedback": "这个回答把理性不能单独生成赞许，混同为理性完全无关；没有事实和因果判断，情感会对错误对象作反应，也无法稳定评价后果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-08-check-1-correct",
+      "misconceptionId": "hume-08-reason"
+    },
+    {
+      "id": "hume-08-check-2",
+      "kind": "singleChoice",
+      "prompt": "陌生医生案例为何反驳纯自利说明？",
+      "targetNodeIds": [
+        "hume-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-08-check-2-misconception",
+          "text": "医生一定从不获得任何满足",
+          "feedback": "案例只需证明旁观者的赞许不依赖自身获利，不必断言医生本人毫无满足；这个选项把行动者感受误当成反驳纯旁观自利所需的证据。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-08-check-2-correct",
+          "text": "旁观者可赞许不会给自己回报的他人幸福",
+          "feedback": "陌生医生的行为不会给旁观者带来私人回报，旁观者仍可因他人受益而赞许；这表明道德情感能够以公共幸福而非纯自利为对象。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-08-check-2-correct",
+      "misconceptionId": "hume-08-egoism"
+    },
+    {
+      "id": "hume-08-check-3",
+      "kind": "singleChoice",
+      "prompt": "一般观点解决什么压力？",
+      "targetNodeIds": [
+        "hume-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-08-check-3-correct",
+          "text": "校正距离和私人偏爱，使公共评价较稳定",
+          "feedback": "一般观点通过校正距离、偶然信息和私人偏爱，使相似品格获得较稳定评价；它调整公共判断的视角，却允许亲友情感在生活中继续存在。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-08-check-3-misconception",
+          "text": "消灭所有亲友感情",
+          "feedback": "这个选项把评价校正误成情感清除。休谟承认人会持续偏爱亲友，一般观点只要求在称赞品格时不让这种距离差异独占标准。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-08-check-3-correct",
+      "misconceptionId": "hume-08-general"
+    },
+    {
+      "id": "hume-08-check-4",
+      "kind": "singleChoice",
+      "prompt": "情感基础为何不自动成为任意主义？",
+      "targetNodeIds": [
+        "hume-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-08-check-4-misconception",
+          "text": "因为每次即时冲动都绝对正确",
+          "feedback": "把每次即时冲动都判为绝对正确，会取消事实纠错与一般观点的作用；这个选项混淆了情感是评价来源，与任何情感表达都同样可靠。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-08-check-4-correct",
+          "text": "评价仍受事实、视角校正和共享人性条件约束",
+          "feedback": "道德评价虽以情感为基础，仍受行为事实、因果后果、一般观点和共享人性约束；这些条件使即时冲动能够被纠正，而非天然免检。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-08-check-4-correct",
+      "misconceptionId": "hume-08-arbitrary"
+    },
+    {
+      "id": "hume-09-check-1",
+      "kind": "singleChoice",
+      "prompt": "从“多数人这样做”能直接推出什么？",
+      "targetNodeIds": [
+        "hume-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-09-check-1-correct",
+          "text": "能说明行为频率，不能单独说明行为正当",
+          "feedback": "多数行为这一统计事实只能说明频率，不能凭数量赋予行为正当性；要推出应当赞许，还需要关于利益、公平或德性的评价前提。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-09-check-1-misconception",
+          "text": "能推出多数行为必定应当被赞许",
+          "feedback": "这个选项把普遍发生混同为值得赞许，跳过了从事实频率到规范许可的桥梁；广泛的偏见或伤害同样可能是多数行为。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-09-check-1-correct",
+      "misconceptionId": "hume-09-majority"
+    },
+    {
+      "id": "hume-09-check-2",
+      "kind": "singleChoice",
+      "prompt": "缺口论为何不排斥事实参与伦理？",
+      "targetNodeIds": [
+        "hume-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-09-check-2-misconception",
+          "text": "因为伦理根本不关心行为后果",
+          "feedback": "这个回答把事实不能独自产生应当，误推成伦理不关心后果；休谟对效用、幸福与伤害的分析正表明事实会改变情感评价的根据。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-09-check-2-correct",
+          "text": "事实可说明动机和后果，但规范力量仍需评价前提",
+          "feedback": "动机、处境和后果等事实决定评价面对什么对象，因此是伦理判断的必要材料；缺口只说明事实本身不会在没有评价前提时自动生成义务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-09-check-2-correct",
+      "misconceptionId": "hume-09-facts"
+    },
+    {
+      "id": "hume-09-check-3",
+      "kind": "singleChoice",
+      "prompt": "“残酷行为不应做”的反例说明什么？",
+      "targetNodeIds": [
+        "hume-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-09-check-3-correct",
+          "text": "若前提已含评价内容，规范桥梁可能藏在“残酷”中",
+          "feedback": "“残酷”不只是动作的中性描写，通常已经包含对无谓痛苦的否定评价；因此推论的规范桥梁可能藏在概念中，而非凭空消失。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-09-check-3-misconception",
+          "text": "说明任何描述词都自动包含义务",
+          "feedback": "这个选项从一个含评价意味的词，误推到所有描述都自动带有义务；温度、位置等中性事实仍须另加价值前提才能推出应当。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-09-check-3-correct",
+      "misconceptionId": "hume-09-thick"
+    },
+    {
+      "id": "hume-09-check-4",
+      "kind": "singleChoice",
+      "prompt": "公开桥梁前提有什么价值？",
+      "targetNodeIds": [
+        "hume-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-09-check-4-misconception",
+          "text": "让任何结论只要写出价值词就必然正确",
+          "feedback": "出现价值词只表明规范前提被写出，并不保证它正确或足以支持结论；这个选项跳过了桥梁前提的范围、冲突与推导有效性检查。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-09-check-4-correct",
+          "text": "让争论能分别检查事实、价值和推导关系",
+          "feedback": "明确写出事实前提、评价桥梁与结论之间的关系，能分别检查证据真假、价值是否可接受以及推导是否有效，因此使争论真正可审查。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-09-check-4-correct",
+      "misconceptionId": "hume-09-bridge"
+    },
+    {
+      "id": "hume-10-check-1",
+      "kind": "singleChoice",
+      "prompt": "为何说正义是人为之德？",
+      "targetNodeIds": [
+        "hume-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-10-check-1-correct",
+          "text": "财产与义务依赖共同规则和相互期待",
+          "feedback": "“人为”指出财产与义务依赖共同规则、稀缺条件和相互期待，不是自然本能直接给定；制度形成后仍能产生真实而稳定的约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-10-check-1-misconception",
+          "text": "因为正义只是骗人的虚构",
+          "feedback": "这个选项把人为形成混同为欺骗虚构，忽略语言、货币和规则虽由共同实践建立，却能协调预期并真实改变权利与行动后果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-10-check-1-correct",
+      "misconceptionId": "hume-10-artificial"
+    },
+    {
+      "id": "hume-10-check-2",
+      "kind": "singleChoice",
+      "prompt": "休谟式约定为何不是承诺？",
+      "targetNodeIds": [
+        "hume-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-10-check-2-misconception",
+          "text": "因为协调必须完全无意识",
+          "feedback": "这个回答把“不先许诺”误成“完全无意识”。共同划桨仍要求彼此观察、理解协调利益并调整节奏，只是不需要一个先行承诺制造规则。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-10-check-2-correct",
+          "text": "守诺已预设正义规则，用承诺解释规则会循环",
+          "feedback": "若以守诺来创立正义，守诺义务本身已预设规则，解释便会循环；约定只需各方察觉共同利益，并依他人表现逐步调整行为。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-10-check-2-correct",
+      "misconceptionId": "hume-10-convention"
+    },
+    {
+      "id": "hume-10-check-3",
+      "kind": "singleChoice",
+      "prompt": "个别正义行为有害为何不立刻推翻正义？",
+      "targetNodeIds": [
+        "hume-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-10-check-3-correct",
+          "text": "赞许主要指向稳定规则体系的整体公共效用",
+          "feedback": "个别守规则可能暂时造成损失，正义的赞许却主要依据稳定财产规则的整体公共效用；单例因此要求权衡或例外说明，而非立刻废除体系。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-10-check-3-misconception",
+          "text": "因为任何规则都不得存在例外",
+          "feedback": "这个选项把规则提供稳定利益，误推成任何情形都不得例外；紧急避险等情况仍需说明，制度效用本身不能证明机械执行永远正确。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-10-check-3-correct",
+      "misconceptionId": "hume-10-system"
+    },
+    {
+      "id": "hume-10-check-4",
+      "kind": "singleChoice",
+      "prompt": "利益起源为何还需要道德情感？",
+      "targetNodeIds": [
+        "hume-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-10-check-4-misconception",
+          "text": "因为利益对规则形成毫无作用",
+          "feedback": "这个回答割断了规则形成所需的共同利益，因而无法说明各方为何协调占有与转让；情感使规则获得赞许，却不能替代制度起源条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-10-check-4-correct",
+          "text": "情感使维护公共体系的品格在个别自利之外获得赞许",
+          "feedback": "共同利益解释为何形成并维持财产规则，道德情感则解释为何旁观者会赞许维护公共体系的品格；起源说明与美德评价承担不同工作。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-10-check-4-correct",
+      "misconceptionId": "hume-10-obligation"
+    },
+    {
+      "id": "hume-11-check-1",
+      "kind": "singleChoice",
+      "prompt": "休谟为何不把证言自动判为无效？",
+      "targetNodeIds": [
+        "hume-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-11-check-1-correct",
+          "text": "证言也由过去报告与事实相合的经验获得信用",
+          "feedback": "证言的信用来自过去报告与事实相合的经验，并随证人数目、诚实能力、彼此一致、利害动机和讲述情境而升降，所以不是自动无效。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-11-check-1-misconception",
+          "text": "因为任何诚实证人都绝不会误认",
+          "feedback": "这个选项把主观诚实当成绝不会出错的保证，跳过了误认、记忆偏差、转述失真和环境干扰；证言信用必须比较多项条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-11-check-1-correct",
+      "misconceptionId": "hume-11-testimony"
+    },
+    {
+      "id": "hume-11-check-2",
+      "kind": "singleChoice",
+      "prompt": "接受奇迹报告需要比较什么？",
+      "targetNodeIds": [
+        "hume-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-11-check-2-misconception",
+          "text": "只比较故事是否令人震撼",
+          "feedback": "故事令人震撼只说明听者的心理反应，不说明报告更可靠；惊奇还可能激发传播欲和轻信，因此必须另查证人能力、动机与相互印证。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-11-check-2-correct",
+          "text": "事件违例的反常与报告虚假的反常",
+          "feedback": "应比较自然律长期一致的证据与报告虚假的可能性：只有后者比事件违例更反常时，证言才可能占优；心理震撼不能代替这项权衡。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-11-check-2-correct",
+      "misconceptionId": "hume-11-balance"
+    },
+    {
+      "id": "hume-11-check-3",
+      "kind": "singleChoice",
+      "prompt": "新自然机制与奇迹有什么差别？",
+      "targetNodeIds": [
+        "hume-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-11-check-3-correct",
+          "text": "前者修正规律说明，后者保留规律并主张超自然违例",
+          "feedback": "新机制会依据可重复观察修订我们对自然规律的说明，奇迹主张则保留规律并宣称发生超自然违例；决定性差别是证据如何重构规律。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-11-check-3-misconception",
+          "text": "任何罕见新发现都必定是奇迹",
+          "feedback": "这个选项把罕见或尚未解释直接等同于超自然违例，跳过了重复检验和自然机制调查；许多新发现只是扩展既有自然说明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-11-check-3-correct",
+      "misconceptionId": "hume-11-law"
+    },
+    {
+      "id": "hume-11-check-4",
+      "kind": "singleChoice",
+      "prompt": "第十节不足以单独推出什么？",
+      "targetNodeIds": [
+        "hume-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-11-check-4-misconception",
+          "text": "不足以要求公共奇迹主张接受证据比较",
+          "feedback": "这个回答否认了第十节实际提出的任务：奇迹主张必须把自然律证据与证言失真的可能性相比较，不能仅凭故事身份免除审查。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-11-check-4-correct",
+          "text": "不足以演绎证明神不存在",
+          "feedback": "第十节评估的是公共奇迹报告能否凭证言获得足够信用，结论限制一种证据资格；它没有以演绎前提直接证明任何神都不存在。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-11-check-4-correct",
+      "misconceptionId": "hume-11-scope"
+    },
+    {
+      "id": "hume-12-check-1",
+      "kind": "singleChoice",
+      "prompt": "为何不能把斐洛每句话直接归给休谟？",
+      "targetNodeIds": [
+        "hume-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-12-check-1-correct",
+          "text": "斐洛是会试探、让步并参与戏剧结构的对话人物",
+          "feedback": "斐洛表达许多休谟式的经验限制与怀疑压力，但他也是会试探、讽刺和策略让步的戏剧人物；归属作者立场必须结合全篇结构判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-12-check-1-misconception",
+          "text": "因为斐洛从未表达任何休谟式主题",
+          "feedback": "这个选项从角色不能直接等同作者，误推成斐洛与休谟毫无思想联系；经验限度和宗教推断批判明显相关，只是仍须结构证据限定归属。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-12-check-1-correct",
+      "misconceptionId": "hume-12-philo"
+    },
+    {
+      "id": "hume-12-check-2",
+      "kind": "singleChoice",
+      "prompt": "设计类比最直接支持多强的结论？",
+      "targetNodeIds": [
+        "hume-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-12-check-2-misconception",
+          "text": "直接证明唯一、无限、全善神的全部属性",
+          "feedback": "这个选项把有限类比扩张成完整神学属性，跳过了原因不得超过已知效果的证据限制；这正是斐洛持续追问的推断越界。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-12-check-2-correct",
+          "text": "至多支持宇宙原因与人类智慧存在有限而遥远的类似",
+          "feedback": "类比能支持的强度受观察效果限制，至多推出宇宙原因与人类智慧有限相似；从有限世界跨到唯一、无限与全善属性仍需额外证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-12-check-2-correct",
+      "misconceptionId": "hume-12-design"
+    },
+    {
+      "id": "hume-12-check-3",
+      "kind": "singleChoice",
+      "prompt": "德米亚离席为何重要？",
+      "targetNodeIds": [
+        "hume-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-12-check-3-correct",
+          "text": "它改变最后让步的对手与戏剧语境",
+          "feedback": "德米亚因苦难讨论而离席后，最后让步发生在斐洛与克里安西斯之间；对手、语气和策略位置都改变，因此不能脱离戏剧语境理解。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-12-check-3-misconception",
+          "text": "它证明德米亚已经赢得全部争论",
+          "feedback": "这个回答把离席当成论证获胜标志，忽略德米亚是不满斐洛推进苦难论而退出；离开改变对话配置，却没有替任何立场完成证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-12-check-3-correct",
+      "misconceptionId": "hume-12-exit"
+    },
+    {
+      "id": "hume-12-check-4",
+      "kind": "singleChoice",
+      "prompt": "开放结局要求怎样解释？",
+      "targetNodeIds": [
+        "hume-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-12-check-4-misconception",
+          "text": "只选择最后一句并删除其余论证",
+          "feedback": "这个选项把最后出现误当成证据权重最高，跳过了前文论证、人物策略和叙述框架；结尾只能在整部对话的多声部结构中解释。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-12-check-4-correct",
+          "text": "同时说明斐洛让步、前文压力和潘斐勒结语的牵制",
+          "feedback": "开放结局要求同时衡量斐洛的最后让步、此前累积的怀疑压力以及叙述者潘斐勒的结语；这些相互牵制的证据共同限定解释。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-12-check-4-correct",
+      "misconceptionId": "hume-12-ending"
+    },
+    {
+      "id": "hume-13-check-1",
+      "kind": "singleChoice",
+      "prompt": "相似、邻近与因果首先说明什么？",
+      "targetNodeIds": [
+        "hume-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-13-check-1-correct",
+          "text": "它们说明想象通常怎样由一个观念自然转向另一个观念",
+          "feedback": "三种原则刻画思想实际移动的常见通道，允许竞争联想和例外；它们并不把心理过渡提升为对象之间不可违背的逻辑证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-13-check-1-misconception",
+          "text": "它们证明凡被联想到的对象都必然共同存在",
+          "feedback": "从肖像想到本人或从伤口想到疼痛，只显示相似、邻近或因果习惯在牵引思想；联想对象仍可能缺席，因而共同存在没有被证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-13-check-1-correct",
+      "misconceptionId": "hume-13-association-proof"
+    },
+    {
+      "id": "hume-13-check-2",
+      "kind": "singleChoice",
+      "prompt": "自然关系与哲学关系的关键差别是什么？",
+      "targetNodeIds": [
+        "hume-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-13-check-2-misconception",
+          "text": "前者只属于自然科学，后者只属于哲学书籍",
+          "feedback": "这个划分误把术语按学科归类，遗漏休谟讨论的是心理联结与反思比较的功能差别；日常对象同样能同时进入两种关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-13-check-2-correct",
+          "text": "前者实际牵引观念，后者由反思把对象置于某方面比较",
+          "feedback": "自然关系描述心灵在经验中怎样被带往另一观念，哲学关系描述比较者选择一个方面考察对象；同名关系可能承担两种不同任务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-13-check-2-correct",
+      "misconceptionId": "hume-13-relations"
+    },
+    {
+      "id": "hume-13-check-3",
+      "kind": "singleChoice",
+      "prompt": "信念为何不能只被定义为画面更鲜艳？",
+      "targetNodeIds": [
+        "hume-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-13-check-3-correct",
+          "text": "信念还表现为稳固、持续并受印象与习惯联结的非任意约束",
+          "feedback": "梦境和戏剧也可能异常鲜明，所以决定性差别不能只是感官亮度；信念以更稳固的方式接入记忆、证据和行动预期。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-13-check-3-misconception",
+          "text": "因为信念给对象增加一种肉眼可见的存在颜色",
+          "feedback": "相信与虚构可以具有相同对象内容，差别在构想方式而非对象多出一块性质；把存在当颜色无法解释相同海岛观念的不同把握。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-13-check-3-correct",
+      "misconceptionId": "hume-13-vivacity"
+    },
+    {
+      "id": "hume-13-check-4",
+      "kind": "singleChoice",
+      "prompt": "相反经验在概率判断中承担什么作用？",
+      "targetNodeIds": [
+        "hume-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-13-check-4-misconception",
+          "text": "它一出现就证明所有正面经验毫无意义",
+          "feedback": "一次反例会削弱无例外断言，却不必抹去既有相关性；正确任务是比较条件与权重，而不是从过度确定突然跳到完全无知。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-13-check-4-correct",
+          "text": "它保留竞争结果的力量并按经验一致程度降低确信",
+          "feedback": "失败实例不能从记录中删除，它们可能暴露隐藏条件或概括过宽；在原因查明前，判断强度必须容纳正反倾向的共同作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-13-check-4-correct",
+      "misconceptionId": "hume-13-probability"
+    },
+    {
+      "id": "hume-14-check-1",
+      "kind": "singleChoice",
+      "prompt": "E 8中的行动必然首先意味着什么？",
+      "targetNodeIds": [
+        "hume-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-14-check-1-correct",
+          "text": "动机、品格、处境与行动呈恒常结合并支持观察者推断",
+          "feedback": "休谟把行动与自然因果放在同一经验尺度上：必然来自规则联系和心灵推断，不是额外看见一条形而上的锁链。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-14-check-1-misconception",
+          "text": "每一次行动都能由旁观者毫无误差地提前算出",
+          "feedback": "混合动机、隐藏信息与性格差异都会限制预测；经验必然要求可理解的规则联系，并不承诺有限观察者具有全知能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-14-check-1-correct",
+      "misconceptionId": "hume-14-necessity"
+    },
+    {
+      "id": "hume-14-check-2",
+      "kind": "singleChoice",
+      "prompt": "T 2.3.2怎样界定实践自由？",
+      "targetNodeIds": [
+        "hume-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-14-check-2-misconception",
+          "text": "只有行为与任何动机品格都无关才算自由",
+          "feedback": "若行为与行动者的一切持久原则断裂，它更像偶发事件而非自主作品；这种偶然会削弱作者身份，不能奠定更强责任。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-14-check-2-correct",
+          "text": "人在无外在强制时能够依其意志行动或不行动",
+          "feedback": "自由落在意志到行动的可行通道：愿意移动便能移动，愿意静止便能静止；它不要求意志从完全无因的空白产生。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-14-check-2-correct",
+      "misconceptionId": "hume-14-liberty"
+    },
+    {
+      "id": "hume-14-check-3",
+      "kind": "singleChoice",
+      "prompt": "外在强制为何会影响责任判断？",
+      "targetNodeIds": [
+        "hume-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-14-check-3-correct",
+          "text": "它阻断或严重扭曲意志转化为行动的能力条件",
+          "feedback": "锁链、威胁与控制改变行动者可用的替代方案，使身体动作未必表达其持久选择；因此归责必须检查理解和控制能力。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-14-check-3-misconception",
+          "text": "因为受强制者的身体完全没有发生任何运动",
+          "feedback": "被胁迫的人仍可能完成身体动作，减责理由却在动作不是其未受阻意志的正常实现；只清点运动会遗漏行动的控制结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-14-check-3-correct",
+      "misconceptionId": "hume-14-constraint"
+    },
+    {
+      "id": "hume-14-check-4",
+      "kind": "singleChoice",
+      "prompt": "行为怎样才成为可归责品格的标志？",
+      "targetNodeIds": [
+        "hume-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-14-check-4-misconception",
+          "text": "只要结果有害，无意识事故就与蓄意伤害同责",
+          "feedback": "相同损失并不抹去意图、知识和控制差异；把后果直接等同归责，会切断休谟用行为连接持久品格的关键步骤。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-14-check-4-correct",
+          "text": "它须与行动者的意图、动机和较持久原则保持联系",
+          "feedback": "赞许和责备指向由行为显露的人格原则，而非只贴在后果最近的身体运动上；悔改与品格变化也会因此改变评价。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-14-check-4-correct",
+      "misconceptionId": "hume-14-attribution"
+    },
+    {
+      "id": "hume-15-check-1",
+      "kind": "singleChoice",
+      "prompt": "政府效忠为何不能与社会正义混成一个义务？",
+      "targetNodeIds": [
+        "hume-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-15-check-1-correct",
+          "text": "社会正义维持合作规则，效忠则支持裁决和执行这些规则的机构",
+          "feedback": "两项义务都关联公共利益，却具有不同对象和发生层次；正因为政府服务先在规则，政治命令才仍能接受正义评价。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-15-check-1-misconception",
+          "text": "政府出现以前任何财产或承诺规则都不可能存在",
+          "feedback": "T 3.2先由共同利益和约定说明正义，再以规模、偏私和执行缺口说明政府；倒置顺序会让政府无条件创造全部义务。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-15-check-1-correct",
+      "misconceptionId": "hume-15-justice-allegiance"
+    },
+    {
+      "id": "hume-15-check-2",
+      "kind": "singleChoice",
+      "prompt": "休谟为何拒绝普遍原始契约作为效忠根基？",
+      "targetNodeIds": [
+        "hume-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-15-check-2-misconception",
+          "text": "因为任何明确同意在政治中都毫无价值",
+          "feedback": "休谟批判的是未证实且被普遍化的契约故事，不是删除授权、参与和承诺的作用；这个选项把有限反驳扩大成全盘否定。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-15-check-2-correct",
+          "text": "多数政权没有全体自由同意的历史事实，沉默居住也常不构成真实选择",
+          "feedback": "征服、继承和离境障碍使祖先一次签约及后代默示同意都缺乏普遍证据；同意仍有价值，却不能虚构成所有权威的唯一来源。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-15-check-2-correct",
+      "misconceptionId": "hume-15-contract"
+    },
+    {
+      "id": "hume-15-check-3",
+      "kind": "singleChoice",
+      "prompt": "“政府的第一原则在意见”说明什么？",
+      "targetNodeIds": [
+        "hume-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-15-check-3-correct",
+          "text": "少数统治者必须依靠被统治者及执行者关于利益和权利的看法",
+          "feedback": "军力也由持有意见的人操作，权威因而需要社会支撑；这一命题揭示稳定机制，并不保证现有意见未经宣传或压制扭曲。",
+          "isCorrect": true
+        },
+        {
+          "id": "hume-15-check-3-misconception",
+          "text": "只要宣传成功，统治就自动具有道德正当性",
+          "feedback": "意见能够解释服从怎样维持，却不能单独批准权威；正当性仍须检验公共利益、权利、信息条件以及制度造成的实际后果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "hume-15-check-3-correct",
+      "misconceptionId": "hume-15-opinion"
+    },
+    {
+      "id": "hume-15-check-4",
+      "kind": "singleChoice",
+      "prompt": "政治服从的界限应怎样判断？",
+      "targetNodeIds": [
+        "hume-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "hume-15-check-4-misconception",
+          "text": "任何私人不满都立即解除全部社会义务",
+          "feedback": "政府失当与个人不悦不是同一尺度，反对权威也不取消守约、避免伤害和公平分配；无条件退出会混淆效忠与社会正义。",
+          "isCorrect": false
+        },
+        {
+          "id": "hume-15-check-4-correct",
+          "text": "比较暴政是否摧毁政府目的，并衡量救济、替代秩序与抵抗后果",
+          "feedback": "服从通常保护和平，却因公共效用获得根据；当制度持续毁坏安全和正义时根据衰减，抵抗仍须保存共同规则并避免更大伤害。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "hume-15-check-4-correct",
+      "misconceptionId": "hume-15-resistance"
+    }
+  ]
+}

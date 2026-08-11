@@ -1,0 +1,194 @@
+<Window x:Class="Descartes.CertaintyLab.ExperienceCatalogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Descartes.CertaintyLab"
+        Title="思想实验室" Width="820" Height="590"
+        MinWidth="680" MinHeight="500"
+        WindowStartupLocation="CenterScreen"
+        Background="#F3EFE7" Foreground="#25231F"
+        FontFamily="Microsoft YaHei UI" FontSize="17">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FFFDF8" />
+            <Setter Property="Foreground" Value="#25231F" />
+            <Setter Property="BorderBrush" Value="#AFA28E" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="22" />
+            <Setter Property="MinHeight" Value="96" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#243F49" />
+                    <Setter Property="BorderThickness" Value="4" />
+                    <Setter Property="Background" Value="#EDF3F3" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="ListBoxItem">
+            <Setter Property="Background" Value="#FFFDF8" />
+            <Setter Property="Foreground" Value="#25231F" />
+            <Setter Property="BorderBrush" Value="#AFA28E" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="18" />
+            <Setter Property="Margin" Value="0,0,0,12" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#243F49" />
+                    <Setter Property="BorderThickness" Value="4" />
+                    <Setter Property="Background" Value="#EDF3F3" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="38,32">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="思想实验室" FontSize="34" FontWeight="Bold"
+                   Foreground="#263E46" Margin="0,0,0,8" />
+        <TextBlock Grid.Row="1"
+                   Text="选择一个区域。用左右方向键切换标签页，按 Tab 进入当前页面。"
+                   TextWrapping="Wrap" LineHeight="29" Margin="0,0,0,22" />
+
+        <Button x:Name="OpenAiSettingsButton" Grid.Row="2"
+                Content="AI 设置" MinHeight="48" Padding="18,8"
+                HorizontalContentAlignment="Center"
+                HorizontalAlignment="Left" Margin="0,0,0,14"
+                Click="OnOpenAiSettings"
+                AutomationProperties.Name="打开 AI 设置"
+                AutomationProperties.HelpText="配置离线演示或远程 AI 供应商。变更只对新打开的学习窗口生效。" />
+
+        <TabControl x:Name="HomeNavigationTabs" Grid.Row="3"
+                    AutomationProperties.Name="思想实验室功能区">
+            <TabItem x:Name="RecentLearningTab" Header="最近学习">
+                <Grid Margin="18">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock x:Name="ContinueLearningStatus"
+                               Text="正在读取本地学习进度。"
+                               TextWrapping="Wrap" LineHeight="27" Margin="0,0,0,14"
+                               AutomationProperties.Name="跨路线学习进度状态"
+                               AutomationProperties.LiveSetting="Polite" />
+                    <ListBox x:Name="ContinueLearningList" Grid.Row="1"
+                             BorderThickness="0" Background="Transparent"
+                             PreviewKeyDown="OnContinueLearningListKeyDown"
+                             MouseDoubleClick="OnContinueLearningListDoubleClick"
+                             AutomationProperties.Name="最近和进行中的学习路线">
+                        <ListBox.ItemContainerStyle>
+                            <Style TargetType="ListBoxItem"
+                                   BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                                <Setter Property="AutomationProperties.Name"
+                                        Value="{Binding AutomationName}" />
+                            </Style>
+                        </ListBox.ItemContainerStyle>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate DataType="{x:Type local:LearningProgressRouteItem}">
+                                <StackPanel AutomationProperties.Name="{Binding AutomationName}">
+                                    <local:SilentTextBlock Text="{Binding ActionText}"
+                                                           FontSize="21"
+                                                           FontWeight="Bold"
+                                                           Foreground="#31584A"
+                                                           Margin="0,0,0,7" />
+                                    <local:SilentTextBlock Text="{Binding DetailText}"
+                                                           TextWrapping="Wrap"
+                                                           LineHeight="27" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="SystemLearningTab" Header="系统学习">
+                <ListBox x:Name="LearningRoutesList" Margin="18"
+                         ItemsSource="{Binding LearningRoutes}"
+                         BorderThickness="0" Background="Transparent"
+                         PreviewKeyDown="OnLearningRoutesListKeyDown"
+                         MouseDoubleClick="OnLearningRoutesListDoubleClick"
+                         AutomationProperties.Name="系统学习路线">
+                    <ListBox.ItemContainerStyle>
+                        <Style TargetType="ListBoxItem"
+                               BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                            <Setter Property="AutomationProperties.Name"
+                                    Value="{Binding AutomationName}" />
+                        </Style>
+                    </ListBox.ItemContainerStyle>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate DataType="{x:Type local:LearningRouteCatalogItem}">
+                            <StackPanel AutomationProperties.Name="{Binding AutomationName}">
+                                <local:SilentTextBlock Text="{Binding ActionText}"
+                                                       FontSize="21"
+                                                       FontWeight="Bold"
+                                                       Foreground="#5B4324"
+                                                       Margin="0,0,0,7" />
+                                <local:SilentTextBlock Text="{Binding Summary}"
+                                                       TextWrapping="Wrap"
+                                                       LineHeight="27" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </TabItem>
+
+            <TabItem x:Name="KnowledgeTab" Header="知识库">
+                <Grid Margin="18">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="从问题、人物、作品或思想联系开始阅读。完整目录已经离线收录。"
+                               TextWrapping="Wrap" LineHeight="27" Margin="0,0,0,18" />
+                    <ListBox x:Name="KnowledgeActionsList" Grid.Row="1" SelectedIndex="0"
+                             BorderThickness="0" Background="Transparent"
+                             PreviewKeyDown="OnKnowledgeActionsListKeyDown"
+                             MouseDoubleClick="OnKnowledgeActionsListDoubleClick"
+                             AutomationProperties.Name="知识库操作"
+                             AutomationProperties.HelpText="用上下方向键选择，按 Enter 打开，按 Escape 返回知识库标签。">
+                        <ListBoxItem AutomationProperties.Name="打开知识库。从问题、人物、作品或思想联系开始阅读。">
+                            <StackPanel>
+                                <local:SilentTextBlock Text="打开知识库" FontSize="24"
+                                                       FontWeight="Bold" Foreground="#344E58"
+                                                       Margin="0,0,0,7" />
+                                <local:SilentTextBlock Text="进入离线读者与搜索界面。"
+                                                       TextWrapping="Wrap" LineHeight="27" />
+                            </StackPanel>
+                        </ListBoxItem>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="ExperienceTab" Header="思想体验">
+                <Grid Margin="18">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="从一个具体处境开始，亲自走到一种思想。"
+                               TextWrapping="Wrap" LineHeight="27" Margin="0,0,0,18" />
+                    <ListBox x:Name="ExperienceActionsList" Grid.Row="1" SelectedIndex="0"
+                             BorderThickness="0" Background="Transparent"
+                             PreviewKeyDown="OnExperienceActionsListKeyDown"
+                             MouseDoubleClick="OnExperienceActionsListDoubleClick"
+                             AutomationProperties.Name="思想体验操作"
+                             AutomationProperties.HelpText="用上下方向键选择，按 Enter 打开，按 Escape 返回思想体验标签。">
+                        <ListBoxItem AutomationProperties.Name="进入思想体验。从一个具体处境开始，亲自走到一种思想。">
+                            <StackPanel>
+                                <local:SilentTextBlock Text="进入思想体验" FontSize="24"
+                                                       FontWeight="Bold" Foreground="#31584A"
+                                                       Margin="0,0,0,7" />
+                                <local:SilentTextBlock Text="打开思想体验目录。"
+                                                       TextWrapping="Wrap" LineHeight="27" />
+                            </StackPanel>
+                        </ListBoxItem>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

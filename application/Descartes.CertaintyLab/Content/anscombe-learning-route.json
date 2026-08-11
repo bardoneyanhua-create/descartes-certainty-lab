@@ -1,0 +1,5172 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "anscombe--A01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。",
+      "explanation": "Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Anscombe corpus boundaries"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。",
+      "explanation": "本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route question"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。",
+      "explanation": "《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-1"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "three contexts of intention"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。",
+      "explanation": "她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-2"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "methodological priority of action"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。",
+      "explanation": "某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "why-question applicability"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。",
+      "explanation": "“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "why-question refusal under a description"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。",
+      "explanation": "行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-10-13"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "reason for action versus event"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。",
+      "explanation": "把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。",
+      "identity": "wittgenstein-object; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-wittgenstein-self"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Wittgenstein as comparison object"
+      ],
+      "voiceClass": "wittgenstein-object"
+    },
+    {
+      "id": "anscombe--A05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。",
+      "explanation": "称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-19"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "intentionality under a description"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。",
+      "explanation": "同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "one event and nested descriptions"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。",
+      "explanation": "抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "why-question means-end order"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。",
+      "explanation": "后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-rep-order"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "reverse orders interpretation"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。",
+      "explanation": "行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "knowledge without observation"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。",
+      "explanation": "“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-29-30"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "observation as aid to execution"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。",
+      "explanation": "购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "shopper and detective lists"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。",
+      "explanation": "在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "error in performance"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。",
+      "explanation": "“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。",
+      "identity": "successor-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-fit"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "successor direction-of-fit label"
+      ],
+      "voiceClass": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。",
+      "explanation": "因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32",
+        "anscombe--src-sep-fit"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded use of successor vocabulary"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。",
+      "explanation": "《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-33-42"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "practical syllogism in Intention"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Aristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。",
+      "explanation": "Aristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。",
+      "identity": "aristotle-object; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-aristotle-ne"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Aristotle as historical object"
+      ],
+      "voiceClass": "aristotle-object"
+    },
+    {
+      "id": "anscombe--A11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。",
+      "explanation": "Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-48"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Aquinas formula used by Anscombe"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Aquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。",
+      "explanation": "Aquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。",
+      "identity": "aquinas-object; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-aquinas-practical"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Aquinas as historical object"
+      ],
+      "voiceClass": "aquinas-object"
+    },
+    {
+      "id": "anscombe--A12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。",
+      "explanation": "行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28",
+        "anscombe--src-int-29-30"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded first-person authority"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。",
+      "explanation": "在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-first-person"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "first-person pronoun thesis"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。",
+      "explanation": "《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "MMP first thesis"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。",
+      "explanation": "开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "philosophy of psychology prerequisite"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。",
+      "explanation": "Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-5-6"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "law conception of moral ought"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。",
+      "explanation": "在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "virtue, justice, and methodological limits"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。",
+      "explanation": "《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-11-12"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "consequentialism critique"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Anscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。",
+      "explanation": "Anscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "justice against maximizing injustice"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。",
+      "explanation": "在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-war-murder"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "double effect and intended killing"
+      ],
+      "voiceClass": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。",
+      "explanation": "她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。",
+      "identity": "anscombe-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "anscombe--src-truman-degree"
+      ],
+      "abilityIds": [
+        "anscombe-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Truman protest and justice"
+      ],
+      "voiceClass": "anscombe-primary"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "anscombe--src-sep-anscombe",
+      "workId": "Gertrude Elizabeth Margaret Anscombe",
+      "edition": "Stanford Encyclopedia of Philosophy, current entry",
+      "locator": "sections 2–5: intention, action, ethics, first person",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gertrude Elizabeth Margaret Anscombe",
+      "stableUrl": "https://plato.stanford.edu/entries/anscombe/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-1",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§1: three contexts of the concept of intention",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-2",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§2: investigation begins from intentional action",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-5-8",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§§5–8: the special sense of the question Why? and refusals of application",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-10-13",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§§10–13: reasons for acting, motives, causes, and mental causes",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-19",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§19: intentional action and the relevance of Why? under a description",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-23",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§23: the pumping example and nested action descriptions",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-28",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§28: intentional action known without observation",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-29-30",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§§29–30: observation as an aid and the scope of what is known",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-32",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§32: shopper and detective lists; error in performance",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-33-42",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§§33–42: practical reasoning and the practical syllogism",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-int-48",
+      "workId": "Intention",
+      "edition": "G. E. M. Anscombe, Intention, 2nd ed. (Harvard University Press, 1963)",
+      "locator": "§48: practical knowledge as cause of what it understands",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://archive.org/details/intention0000ansc",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-rep-order",
+      "workId": "Intention",
+      "edition": "Michael Thompson, Routledge Encyclopedia of Philosophy entry on Anscombe",
+      "locator": "section “Intention”: Why?-order and practical-reasoning order",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intention",
+      "stableUrl": "https://www.rep.routledge.com/articles/biographical/anscombe-gertrude-elizabeth-margaret-1919-2001/v-1/sections/intention-1",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-sep-fit",
+      "workId": "Intentionality",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2018 archive",
+      "locator": "section 10: Anscombe’s shopping list and Searle’s direction-of-fit terminology",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Intentionality",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2018/entries/intentionality/",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "successor-interpretation",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-aristotle-ne",
+      "workId": "Nicomachean Ethics",
+      "edition": "named scholarly edition to be selected",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close book/chapter and Bekker lines for the practical-syllogism claim before locator verification.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Nicomachean Ethics",
+      "stableUrl": "https://classics.mit.edu/Aristotle/nicomachaen.html",
+      "boundaryZh": "Close book/chapter and Bekker lines for the practical-syllogism claim before locator verification.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "aristotle-object",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-aquinas-practical",
+      "workId": "Summa Theologiae",
+      "edition": "named Latin-English edition to be selected",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the article and paragraph behind the formula that practical knowledge is cause of what it understands.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Summa Theologiae",
+      "stableUrl": "https://www.newadvent.org/summa/1014.htm",
+      "boundaryZh": "Close the article and paragraph behind the formula that practical knowledge is cause of what it understands.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "aquinas-object",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-wittgenstein-self",
+      "workId": "The Blue and Brown Books",
+      "edition": "named edition to be selected",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the page for Wittgenstein’s first-person/knowledge grammar used as a historical comparison, without attributing it to Anscombe.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Blue and Brown Books",
+      "stableUrl": "https://archive.org/details/bluebrownbooks00witt",
+      "boundaryZh": "Close the page for Wittgenstein’s first-person/knowledge grammar used as a historical comparison, without attributing it to Anscombe.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "wittgenstein-object",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-first-person",
+      "workId": "The First Person",
+      "edition": "Metaphysics and the Philosophy of Mind, Collected Philosophical Papers II",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact page span for the thesis that “I” is not a referring expression.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The First Person",
+      "stableUrl": "https://plato.stanford.edu/entries/anscombe/",
+      "boundaryZh": "Close the exact page span for the thesis that “I” is not a referring expression.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-mmp-1",
+      "workId": "Modern Moral Philosophy",
+      "edition": "Philosophy 33, no. 124 (January 1958), pp. 1–19",
+      "locator": "pp. 1–2: the paper’s three opening theses",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Modern Moral Philosophy",
+      "stableUrl": "https://www.jstor.org/stable/3749051",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-mmp-5-6",
+      "workId": "Modern Moral Philosophy",
+      "edition": "Philosophy 33, no. 124 (January 1958), pp. 1–19",
+      "locator": "pp. 5–6: law conception of ethics and moral ought",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Modern Moral Philosophy",
+      "stableUrl": "https://www.jstor.org/stable/3749051",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-mmp-11-12",
+      "workId": "Modern Moral Philosophy",
+      "edition": "Philosophy 33, no. 124 (January 1958), pp. 1–19",
+      "locator": "pp. 11–12: consequentialism and modern English moral philosophy",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Modern Moral Philosophy",
+      "stableUrl": "https://www.jstor.org/stable/3749051",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-mmp-14-17",
+      "workId": "Modern Moral Philosophy",
+      "edition": "Philosophy 33, no. 124 (January 1958), pp. 1–19",
+      "locator": "pp. 14–17: justice, intrinsic injustice, virtue vocabulary, and corrupt practical reasoning",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Modern Moral Philosophy",
+      "stableUrl": "https://www.jstor.org/stable/3749051",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-war-murder",
+      "workId": "War and Murder",
+      "edition": "Ethics, Religion and Politics, Collected Philosophical Papers III",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact collected-paper pages for intended killing, side effects, and double-effect misuse.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "War and Murder",
+      "stableUrl": "https://philpapers.org/rec/ANSWAM",
+      "boundaryZh": "Close the exact collected-paper pages for intended killing, side effects, and double-effect misuse.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    },
+    {
+      "id": "anscombe--src-truman-degree",
+      "workId": "Mr. Truman’s Degree",
+      "edition": "Oxonian Press pamphlet (Oxford, 1956)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact pamphlet page for Anscombe’s objection to honoring Truman.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Mr. Truman’s Degree",
+      "stableUrl": "https://search.worldcat.org/title/26621778",
+      "boundaryZh": "Close the exact pamphlet page for Anscombe’s objection to honoring Truman.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "anscombe-primary",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "anscombe-intention-action-justice",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "安斯康姆：意向、行动与正义",
+      "lessonIds": [
+        "anscombe--anscombe-01",
+        "anscombe--anscombe-02",
+        "anscombe--anscombe-03",
+        "anscombe--anscombe-04",
+        "anscombe--anscombe-05",
+        "anscombe--anscombe-06",
+        "anscombe--anscombe-07",
+        "anscombe--anscombe-08",
+        "anscombe--anscombe-09",
+        "anscombe--anscombe-10",
+        "anscombe--anscombe-11",
+        "anscombe--anscombe-12",
+        "anscombe--anscombe-13",
+        "anscombe--anscombe-14",
+        "anscombe--anscombe-15",
+        "anscombe--anscombe-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "G. E. M. Anscombe",
+        "nameZh": "安斯康姆",
+        "sourceRouteId": "anscombe-intention-action-justice"
+      },
+      "summary": "1. 地图不是总体系"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "anscombe--anscombe-01",
+      "order": 1,
+      "title": "1. 地图不是总体系",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 地图不是总体系",
+      "coreExplanation": "Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。\n\n本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。",
+      "sections": [
+        {
+          "heading": "1. 地图不是总体系",
+          "paragraphs": [
+            "Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。",
+            "本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A01-C1",
+        "anscombe--A01-C2"
+      ],
+      "checkIds": [
+        "anscombe--A01-Q1",
+        "anscombe--A01-Q2",
+        "anscombe--A01-Q3",
+        "anscombe--A01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-02",
+      "sourceIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "essentialQuestion": "1. 地图不是总体系",
+      "initialFocusId": "anscombe--anscombe-01-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-02",
+      "order": 2,
+      "title": "2. 从三种意向说法开始",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 从三种意向说法开始",
+      "coreExplanation": "《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。\n\n她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。",
+      "sections": [
+        {
+          "heading": "2. 从三种意向说法开始",
+          "paragraphs": [
+            "《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。",
+            "她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-1",
+            "anscombe--src-int-2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A02-C1",
+        "anscombe--A02-C2"
+      ],
+      "checkIds": [
+        "anscombe--A02-Q1",
+        "anscombe--A02-Q2",
+        "anscombe--A02-Q3",
+        "anscombe--A02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-03",
+      "sourceIds": [
+        "anscombe--src-int-1",
+        "anscombe--src-int-2"
+      ],
+      "essentialQuestion": "2. 从三种意向说法开始",
+      "initialFocusId": "anscombe--anscombe-02-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-03",
+      "order": 3,
+      "title": "3. “为什么？”何时适用",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. “为什么？”何时适用",
+      "coreExplanation": "某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。\n\n“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。",
+      "sections": [
+        {
+          "heading": "3. “为什么？”何时适用",
+          "paragraphs": [
+            "某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。",
+            "“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A03-C1",
+        "anscombe--A03-C2"
+      ],
+      "checkIds": [
+        "anscombe--A03-Q1",
+        "anscombe--A03-Q2",
+        "anscombe--A03-Q3",
+        "anscombe--A03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-04",
+      "sourceIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "essentialQuestion": "3. “为什么？”何时适用",
+      "initialFocusId": "anscombe--anscombe-03-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-04",
+      "order": 4,
+      "title": "4. 理由不等于心理撞击",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 理由不等于心理撞击",
+      "coreExplanation": "行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。\n\n把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。",
+      "sections": [
+        {
+          "heading": "4. 理由不等于心理撞击",
+          "paragraphs": [
+            "行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。",
+            "把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-10-13",
+            "anscombe--src-wittgenstein-self"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A04-C1",
+        "anscombe--A04-C2"
+      ],
+      "checkIds": [
+        "anscombe--A04-Q1",
+        "anscombe--A04-Q2",
+        "anscombe--A04-Q3",
+        "anscombe--A04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-05",
+      "sourceIds": [
+        "anscombe--src-int-10-13",
+        "anscombe--src-wittgenstein-self"
+      ],
+      "essentialQuestion": "4. 理由不等于心理撞击",
+      "initialFocusId": "anscombe--anscombe-04-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-05",
+      "order": 5,
+      "title": "5. 行动在描述之下",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 行动在描述之下",
+      "coreExplanation": "称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。\n\n同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。",
+      "sections": [
+        {
+          "heading": "5. 行动在描述之下",
+          "paragraphs": [
+            "称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。",
+            "同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-19",
+            "anscombe--src-int-23"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A05-C1",
+        "anscombe--A05-C2"
+      ],
+      "checkIds": [
+        "anscombe--A05-Q1",
+        "anscombe--A05-Q2",
+        "anscombe--A05-Q3",
+        "anscombe--A05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-06",
+      "sourceIds": [
+        "anscombe--src-int-19",
+        "anscombe--src-int-23"
+      ],
+      "essentialQuestion": "5. 行动在描述之下",
+      "initialFocusId": "anscombe--anscombe-05-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-06",
+      "order": 6,
+      "title": "6. “为什么”排列出手段与目的",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. “为什么”排列出手段与目的",
+      "coreExplanation": "抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。\n\n后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。",
+      "sections": [
+        {
+          "heading": "6. “为什么”排列出手段与目的",
+          "paragraphs": [
+            "抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。",
+            "后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-23",
+            "anscombe--src-rep-order"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A06-C1",
+        "anscombe--A06-C2"
+      ],
+      "checkIds": [
+        "anscombe--A06-Q1",
+        "anscombe--A06-Q2",
+        "anscombe--A06-Q3",
+        "anscombe--A06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-07",
+      "sourceIds": [
+        "anscombe--src-int-23",
+        "anscombe--src-rep-order"
+      ],
+      "essentialQuestion": "6. “为什么”排列出手段与目的",
+      "initialFocusId": "anscombe--anscombe-06-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-07",
+      "order": 7,
+      "title": "7. 实践知识不是旁观报告",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 实践知识不是旁观报告",
+      "coreExplanation": "行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。\n\n“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。",
+      "sections": [
+        {
+          "heading": "7. 实践知识不是旁观报告",
+          "paragraphs": [
+            "行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。",
+            "“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A07-C1",
+        "anscombe--A07-C2"
+      ],
+      "checkIds": [
+        "anscombe--A07-Q1",
+        "anscombe--A07-Q2",
+        "anscombe--A07-Q3",
+        "anscombe--A07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-08",
+      "sourceIds": [
+        "anscombe--src-int-28",
+        "anscombe--src-int-29-30"
+      ],
+      "essentialQuestion": "7. 实践知识不是旁观报告",
+      "initialFocusId": "anscombe--anscombe-07-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-08",
+      "order": 8,
+      "title": "8. 两张购物清单",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 两张购物清单",
+      "coreExplanation": "购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。\n\n在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。",
+      "sections": [
+        {
+          "heading": "8. 两张购物清单",
+          "paragraphs": [
+            "购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。",
+            "在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A08-C1",
+        "anscombe--A08-C2"
+      ],
+      "checkIds": [
+        "anscombe--A08-Q1",
+        "anscombe--A08-Q2",
+        "anscombe--A08-Q3",
+        "anscombe--A08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-09",
+      "sourceIds": [
+        "anscombe--src-int-32"
+      ],
+      "essentialQuestion": "8. 两张购物清单",
+      "initialFocusId": "anscombe--anscombe-08-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-09",
+      "order": 9,
+      "title": "9. “适配方向”是后继标签",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. “适配方向”是后继标签",
+      "coreExplanation": "“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。\n\n因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。",
+      "sections": [
+        {
+          "heading": "9. “适配方向”是后继标签",
+          "paragraphs": [
+            "“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。",
+            "因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-sep-fit",
+            "anscombe--src-int-32"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A09-C1",
+        "anscombe--A09-C2"
+      ],
+      "checkIds": [
+        "anscombe--A09-Q1",
+        "anscombe--A09-Q2",
+        "anscombe--A09-Q3",
+        "anscombe--A09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-10",
+      "sourceIds": [
+        "anscombe--src-sep-fit",
+        "anscombe--src-int-32"
+      ],
+      "essentialQuestion": "9. “适配方向”是后继标签",
+      "initialFocusId": "anscombe--anscombe-09-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-10",
+      "order": 10,
+      "title": "10. 实践推理的结论在行动中",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 实践推理的结论在行动中",
+      "coreExplanation": "《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。\n\nAristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。",
+      "sections": [
+        {
+          "heading": "10. 实践推理的结论在行动中",
+          "paragraphs": [
+            "《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。",
+            "Aristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-33-42",
+            "anscombe--src-aristotle-ne"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A10-C1",
+        "anscombe--A10-C2"
+      ],
+      "checkIds": [
+        "anscombe--A10-Q1",
+        "anscombe--A10-Q2",
+        "anscombe--A10-Q3",
+        "anscombe--A10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-11",
+      "sourceIds": [
+        "anscombe--src-int-33-42",
+        "anscombe--src-aristotle-ne"
+      ],
+      "essentialQuestion": "10. 实践推理的结论在行动中",
+      "initialFocusId": "anscombe--anscombe-10-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-11",
+      "order": 11,
+      "title": "11. 实践知识“造成”所知",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 实践知识“造成”所知",
+      "coreExplanation": "Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。\n\nAquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。",
+      "sections": [
+        {
+          "heading": "11. 实践知识“造成”所知",
+          "paragraphs": [
+            "Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。",
+            "Aquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-48",
+            "anscombe--src-aquinas-practical"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A11-C1",
+        "anscombe--A11-C2"
+      ],
+      "checkIds": [
+        "anscombe--A11-Q1",
+        "anscombe--A11-Q2",
+        "anscombe--A11-Q3",
+        "anscombe--A11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-12",
+      "sourceIds": [
+        "anscombe--src-int-48",
+        "anscombe--src-aquinas-practical"
+      ],
+      "essentialQuestion": "11. 实践知识“造成”所知",
+      "initialFocusId": "anscombe--anscombe-11-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-12",
+      "order": 12,
+      "title": "12. 第一人称权威有边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 第一人称权威有边界",
+      "coreExplanation": "行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。\n\n在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。",
+      "sections": [
+        {
+          "heading": "12. 第一人称权威有边界",
+          "paragraphs": [
+            "行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。",
+            "在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30",
+            "anscombe--src-first-person"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A12-C1",
+        "anscombe--A12-C2"
+      ],
+      "checkIds": [
+        "anscombe--A12-Q1",
+        "anscombe--A12-Q2",
+        "anscombe--A12-Q3",
+        "anscombe--A12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-13",
+      "sourceIds": [
+        "anscombe--src-int-28",
+        "anscombe--src-int-29-30",
+        "anscombe--src-first-person"
+      ],
+      "essentialQuestion": "12. 第一人称权威有边界",
+      "initialFocusId": "anscombe--anscombe-12-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-13",
+      "order": 13,
+      "title": "13. 先暂停现代道德哲学",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 先暂停现代道德哲学",
+      "coreExplanation": "《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。\n\n开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。",
+      "sections": [
+        {
+          "heading": "13. 先暂停现代道德哲学",
+          "paragraphs": [
+            "《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。",
+            "开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A13-C1",
+        "anscombe--A13-C2"
+      ],
+      "checkIds": [
+        "anscombe--A13-Q1",
+        "anscombe--A13-Q2",
+        "anscombe--A13-Q3",
+        "anscombe--A13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-14",
+      "sourceIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "essentialQuestion": "13. 先暂停现代道德哲学",
+      "initialFocusId": "anscombe--anscombe-13-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-14",
+      "order": 14,
+      "title": "14. 道德“应当”的法律模型",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 道德“应当”的法律模型",
+      "coreExplanation": "Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。\n\n在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。",
+      "sections": [
+        {
+          "heading": "14. 道德“应当”的法律模型",
+          "paragraphs": [
+            "Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。",
+            "在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-5-6",
+            "anscombe--src-mmp-14-17"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A14-C1",
+        "anscombe--A14-C2"
+      ],
+      "checkIds": [
+        "anscombe--A14-Q1",
+        "anscombe--A14-Q2",
+        "anscombe--A14-Q3",
+        "anscombe--A14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-15",
+      "sourceIds": [
+        "anscombe--src-mmp-5-6",
+        "anscombe--src-mmp-14-17"
+      ],
+      "essentialQuestion": "14. 道德“应当”的法律模型",
+      "initialFocusId": "anscombe--anscombe-14-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-15",
+      "order": 15,
+      "title": "15. “后果主义”与不公正",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. “后果主义”与不公正",
+      "coreExplanation": "《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。\n\nAnscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。",
+      "sections": [
+        {
+          "heading": "15. “后果主义”与不公正",
+          "paragraphs": [
+            "《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。",
+            "Anscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-11-12",
+            "anscombe--src-mmp-14-17"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A15-C1",
+        "anscombe--A15-C2"
+      ],
+      "checkIds": [
+        "anscombe--A15-Q1",
+        "anscombe--A15-Q2",
+        "anscombe--A15-Q3",
+        "anscombe--A15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "anscombe--anscombe-16",
+      "sourceIds": [
+        "anscombe--src-mmp-11-12",
+        "anscombe--src-mmp-14-17"
+      ],
+      "essentialQuestion": "15. “后果主义”与不公正",
+      "initialFocusId": "anscombe--anscombe-15-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "anscombe--anscombe-16",
+      "order": 16,
+      "title": "16. 战争、双重效果与责任",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 战争、双重效果与责任",
+      "coreExplanation": "在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。\n\n她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。",
+      "sections": [
+        {
+          "heading": "16. 战争、双重效果与责任",
+          "paragraphs": [
+            "在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。",
+            "她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "anscombe--src-war-murder",
+            "anscombe--src-truman-degree"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "anscombe--A16-C1",
+        "anscombe--A16-C2"
+      ],
+      "checkIds": [
+        "anscombe--A16-Q1",
+        "anscombe--A16-Q2",
+        "anscombe--A16-Q3",
+        "anscombe--A16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "anscombe--src-war-murder",
+        "anscombe--src-truman-degree"
+      ],
+      "essentialQuestion": "16. 战争、双重效果与责任",
+      "initialFocusId": "anscombe--anscombe-16-title",
+      "routeId": "anscombe-intention-action-justice",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "anscombe--A01-Q1",
+      "kind": "binary",
+      "prompt": "关于“Anscombe corpus boundaries”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A01-Q1-1",
+          "text": "准确：Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。",
+          "feedback": "正确项“准确：Anscombe 的行动论、第一人称论文与道德哲学批判属于不同文本场景；路线必须保留这些文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A01-Q1-2",
+          "text": "错误：把“Anscombe corpus boundaries”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Anscombe corpus boundaries”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A01-Q1-1",
+      "misconceptionId": "anscombe--A01-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "objectNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A01-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-01",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A01-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A01-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A01-Q2-2",
+          "text": "保留 successor-interpretation 声部与 modern-scholarship 文类边界。",
+          "feedback": "正确项“保留 successor-interpretation 声部与 modern-scholarship 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A01-Q2-2",
+      "misconceptionId": "anscombe--A01-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "objectNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A01-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A01-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-01",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A01-Q3",
+      "kind": "binary",
+      "prompt": "关于“bounded route question”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A01-Q3-1",
+          "text": "准确：本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。",
+          "feedback": "正确项“准确：本路线以“我们如何说出自己正在做什么，并据此判断行动”为贯穿问题；这是教学综合，不冒充 Anscombe 的隐藏体系。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A01-Q3-2",
+          "text": "错误：把“bounded route question”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“bounded route question”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A01-Q3-1",
+      "misconceptionId": "anscombe--A01-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "objectNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "anscombe--anscombe-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A01-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A01-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A01-Q4-2",
+          "text": "保留 route-synthesis 声部与 route-synthesis 文类边界。",
+          "feedback": "正确项“保留 route-synthesis 声部与 route-synthesis 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-anscombe"
+          ],
+          "claimNodeIds": [
+            "anscombe--A01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A01-Q4-2",
+      "misconceptionId": "anscombe--A01-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-anscombe"
+      ],
+      "objectNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A01-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "anscombe--anscombe-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A02-Q1",
+      "kind": "binary",
+      "prompt": "关于“three contexts of intention”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A02-Q1-1",
+          "text": "准确：《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。",
+          "feedback": "正确项“准确：《意向》开篇区分意向的表达、意向行动和行动所怀的意向，并把它们当作同一概念的三个语境。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A02-Q1-2",
+          "text": "错误：把“three contexts of intention”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“three contexts of intention”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A02-Q1-1",
+      "misconceptionId": "anscombe--A02-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A02-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-02",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A02-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A02-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A02-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A02-Q2-2",
+      "misconceptionId": "anscombe--A02-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A02-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A02-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-02",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A02-Q3",
+      "kind": "binary",
+      "prompt": "关于“methodological priority of action”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A02-Q3-1",
+          "text": "准确：她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。",
+          "feedback": "正确项“准确：她的方法不是先假定一种内在心理状态，而是先考察“意向行动”这一语境。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-2"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A02-Q3-2",
+          "text": "错误：把“methodological priority of action”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“methodological priority of action”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-2"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A02-Q3-1",
+      "misconceptionId": "anscombe--A02-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-2"
+      ],
+      "objectNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A02-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-02",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A02-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A02-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-2"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A02-Q4-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-2"
+          ],
+          "claimNodeIds": [
+            "anscombe--A02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A02-Q4-2",
+      "misconceptionId": "anscombe--A02-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-2"
+      ],
+      "objectNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A02-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A02-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-02",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-Q1",
+      "kind": "binary",
+      "prompt": "关于“why-question applicability”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A03-Q1-1",
+          "text": "准确：某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。",
+          "feedback": "正确项“准确：某描述下的行动若容许特殊意义的“为什么？”问题，便进入意向行动的考察范围。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A03-Q1-2",
+          "text": "错误：把“why-question applicability”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“why-question applicability”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A03-Q1-1",
+      "misconceptionId": "anscombe--A03-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "objectNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A03-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-03",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A03-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A03-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A03-Q2-2",
+      "misconceptionId": "anscombe--A03-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "objectNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A03-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A03-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-03",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-Q3",
+      "kind": "binary",
+      "prompt": "关于“why-question refusal under a description”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A03-Q3-1",
+          "text": "准确：“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。",
+          "feedback": "正确项“准确：“我不知道自己在做这个”或“我只是观察才知道”会拒绝该问题对那个描述的适用，而不是证明整个事件毫无意向性。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A03-Q3-2",
+          "text": "错误：把“why-question refusal under a description”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“why-question refusal under a description”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A03-Q3-1",
+      "misconceptionId": "anscombe--A03-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "objectNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A03-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-03",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A03-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A03-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A03-Q4-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-5-8"
+          ],
+          "claimNodeIds": [
+            "anscombe--A03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A03-Q4-2",
+      "misconceptionId": "anscombe--A03-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-5-8"
+      ],
+      "objectNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A03-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A03-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-03",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A04-Q1",
+      "kind": "binary",
+      "prompt": "关于“reason for action versus event”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A04-Q1-1",
+          "text": "准确：行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。",
+          "feedback": "正确项“准确：行动理由说明行动在行动者看来有什么意义；它不因能回答“为什么”就自动成为一个先行心理事件。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-10-13"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A04-Q1-2",
+          "text": "错误：把“reason for action versus event”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“reason for action versus event”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-10-13"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A04-Q1-1",
+      "misconceptionId": "anscombe--A04-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-10-13"
+      ],
+      "objectNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A04-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-04",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A04-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A04-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-10-13"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A04-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-10-13"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A04-Q2-2",
+      "misconceptionId": "anscombe--A04-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-10-13"
+      ],
+      "objectNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A04-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A04-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-04",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A04-Q3",
+      "kind": "binary",
+      "prompt": "关于“Wittgenstein as comparison object”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A04-Q3-1",
+          "text": "准确：把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。",
+          "feedback": "正确项“准确：把第一人称知识理解为一种特殊语法关系，可与 Wittgenstein 的问题域比较；这里 Wittgenstein 是历史对象，不是 Anscombe 的代言声音。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-wittgenstein-self"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A04-Q3-2",
+          "text": "错误：把“Wittgenstein as comparison object”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Wittgenstein as comparison object”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-wittgenstein-self"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A04-Q3-1",
+      "misconceptionId": "anscombe--A04-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-wittgenstein-self"
+      ],
+      "objectNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A04-P2"
+      ],
+      "targetVoices": [
+        "wittgenstein-object"
+      ],
+      "lessonId": "anscombe--anscombe-04",
+      "voice": "wittgenstein-object"
+    },
+    {
+      "id": "anscombe--A04-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A04-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-wittgenstein-self"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A04-Q4-2",
+          "text": "保留 wittgenstein-object 声部与 twentieth-century-primary 文类边界。",
+          "feedback": "正确项“保留 wittgenstein-object 声部与 twentieth-century-primary 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-wittgenstein-self"
+          ],
+          "claimNodeIds": [
+            "anscombe--A04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A04-Q4-2",
+      "misconceptionId": "anscombe--A04-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-wittgenstein-self"
+      ],
+      "objectNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A04-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A04-P2"
+      ],
+      "targetVoices": [
+        "wittgenstein-object"
+      ],
+      "lessonId": "anscombe--anscombe-04",
+      "voice": "wittgenstein-object"
+    },
+    {
+      "id": "anscombe--A05-Q1",
+      "kind": "binary",
+      "prompt": "关于“intentionality under a description”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A05-Q1-1",
+          "text": "准确：称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。",
+          "feedback": "正确项“准确：称一个行动为意向的，并非给事件附加一种同时发生的内在性质，而是使特定意义的“为什么？”成为相关问题。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-19"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A05-Q1-2",
+          "text": "错误：把“intentionality under a description”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“intentionality under a description”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-19"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A05-Q1-1",
+      "misconceptionId": "anscombe--A05-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-19"
+      ],
+      "objectNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A05-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-05",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A05-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A05-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-19"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A05-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-19"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A05-Q2-2",
+      "misconceptionId": "anscombe--A05-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-19"
+      ],
+      "objectNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A05-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A05-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-05",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A05-Q3",
+      "kind": "binary",
+      "prompt": "关于“one event and nested descriptions”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A05-Q3-1",
+          "text": "准确：同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。",
+          "feedback": "正确项“准确：同一个发生过程可以在“移动手臂”“抽水”“补充水箱”等描述下构成有层次的行动，其中并非每个真实描述都同样是意向描述。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A05-Q3-2",
+          "text": "错误：把“one event and nested descriptions”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“one event and nested descriptions”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A05-Q3-1",
+      "misconceptionId": "anscombe--A05-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "objectNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A05-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-05",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A05-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A05-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A05-Q4-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A05-Q4-2",
+      "misconceptionId": "anscombe--A05-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "objectNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A05-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A05-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-05",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A06-Q1",
+      "kind": "binary",
+      "prompt": "关于“why-question means-end order”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A06-Q1-1",
+          "text": "准确：抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。",
+          "feedback": "正确项“准确：抽水例中，连续追问“为什么”把较近的动作描述连接到较远的目的描述，形成行动的目的秩序。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A06-Q1-2",
+          "text": "错误：把“why-question means-end order”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“why-question means-end order”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A06-Q1-1",
+      "misconceptionId": "anscombe--A06-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "objectNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A06-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-06",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A06-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A06-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A06-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-23"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A06-Q2-2",
+      "misconceptionId": "anscombe--A06-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-23"
+      ],
+      "objectNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A06-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A06-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-06",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A06-Q3",
+      "kind": "binary",
+      "prompt": "关于“reverse orders interpretation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A06-Q3-1",
+          "text": "准确：后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。",
+          "feedback": "正确项“准确：后继解释指出：追问从手段上行到目的，而行动者的实践推理可从目的下行到手段；这是对 Anscombe 的解释，不是原文术语的直接复述。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-rep-order"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A06-Q3-2",
+          "text": "错误：把“reverse orders interpretation”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“reverse orders interpretation”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-rep-order"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A06-Q3-1",
+      "misconceptionId": "anscombe--A06-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-rep-order"
+      ],
+      "objectNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A06-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A06-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A06-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-rep-order"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A06-Q4-2",
+          "text": "保留 successor-interpretation 声部与 modern-interpretation 文类边界。",
+          "feedback": "正确项“保留 successor-interpretation 声部与 modern-interpretation 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-rep-order"
+          ],
+          "claimNodeIds": [
+            "anscombe--A06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A06-Q4-2",
+      "misconceptionId": "anscombe--A06-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-rep-order"
+      ],
+      "objectNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A06-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A06-P2"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-06",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A07-Q1",
+      "kind": "binary",
+      "prompt": "关于“knowledge without observation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A07-Q1-1",
+          "text": "准确：行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。",
+          "feedback": "正确项“准确：行动者通常无需观察便知道自己在某一意向描述下正在做什么；这项主张限定于意向行动的相关描述。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A07-Q1-2",
+          "text": "错误：把“knowledge without observation”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“knowledge without observation”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A07-Q1-1",
+      "misconceptionId": "anscombe--A07-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28"
+      ],
+      "objectNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A07-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-07",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A07-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A07-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A07-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A07-Q2-2",
+      "misconceptionId": "anscombe--A07-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28"
+      ],
+      "objectNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A07-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A07-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-07",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A07-Q3",
+      "kind": "binary",
+      "prompt": "关于“observation as aid to execution”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A07-Q3-1",
+          "text": "准确：“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。",
+          "feedback": "正确项“准确：“无需观察而知道”不等于感官在行动中无用：视觉可以帮助写字或校正执行，而不必成为行动者知道自己意向行动的证据。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A07-Q3-2",
+          "text": "错误：把“observation as aid to execution”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“observation as aid to execution”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A07-Q3-1",
+      "misconceptionId": "anscombe--A07-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-29-30"
+      ],
+      "objectNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A07-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-07",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A07-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A07-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A07-Q4-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A07-Q4-2",
+      "misconceptionId": "anscombe--A07-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-29-30"
+      ],
+      "objectNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A07-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A07-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-07",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-Q1",
+      "kind": "binary",
+      "prompt": "关于“shopper and detective lists”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A08-Q1-1",
+          "text": "准确：购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。",
+          "feedback": "正确项“准确：购物者的清单指导购买，侦探的清单记录购买；两表内容可相同，但出错时应改动的一方不同。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A08-Q1-2",
+          "text": "错误：把“shopper and detective lists”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“shopper and detective lists”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A08-Q1-1",
+      "misconceptionId": "anscombe--A08-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "objectNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A08-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-08",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A08-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A08-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A08-Q2-2",
+      "misconceptionId": "anscombe--A08-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "objectNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A08-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A08-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-08",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-Q3",
+      "kind": "binary",
+      "prompt": "关于“error in performance”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A08-Q3-1",
+          "text": "准确：在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。",
+          "feedback": "正确项“准确：在实践清单与执行不符时，Anscombe 说错误在执行；这个例子把实践知识同单纯记录事实区分开。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A08-Q3-2",
+          "text": "错误：把“error in performance”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“error in performance”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A08-Q3-1",
+      "misconceptionId": "anscombe--A08-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "objectNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A08-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-08",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A08-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A08-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A08-Q4-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32"
+          ],
+          "claimNodeIds": [
+            "anscombe--A08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A08-Q4-2",
+      "misconceptionId": "anscombe--A08-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32"
+      ],
+      "objectNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A08-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A08-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-08",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A09-Q1",
+      "kind": "binary",
+      "prompt": "关于“successor direction-of-fit label”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A09-Q1-1",
+          "text": "准确：“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。",
+          "feedback": "正确项“准确：“mind-to-world / world-to-mind direction of fit”是后继传统用来解释购物清单例的术语；Anscombe 的 §32 提供例子，却没有使用这套短语。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A09-Q1-2",
+          "text": "错误：把“successor direction-of-fit label”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“successor direction-of-fit label”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A09-Q1-1",
+      "misconceptionId": "anscombe--A09-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-fit"
+      ],
+      "objectNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A09-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-09",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A09-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A09-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A09-Q2-2",
+          "text": "保留 successor-interpretation 声部与 modern-interpretation 文类边界。",
+          "feedback": "正确项“保留 successor-interpretation 声部与 modern-interpretation 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A09-Q2-2",
+      "misconceptionId": "anscombe--A09-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-sep-fit"
+      ],
+      "objectNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A09-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A09-P1"
+      ],
+      "targetVoices": [
+        "successor-interpretation"
+      ],
+      "lessonId": "anscombe--anscombe-09",
+      "voice": "successor-interpretation"
+    },
+    {
+      "id": "anscombe--A09-Q3",
+      "kind": "binary",
+      "prompt": "关于“bounded use of successor vocabulary”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A09-Q3-1",
+          "text": "准确：因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。",
+          "feedback": "正确项“准确：因此路线可以借“适配方向”帮助比较记录与实践指导，但必须同时标明这是后继解释框架。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32",
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A09-Q3-2",
+          "text": "错误：把“bounded use of successor vocabulary”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“bounded use of successor vocabulary”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32",
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A09-Q3-1",
+      "misconceptionId": "anscombe--A09-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32",
+        "anscombe--src-sep-fit"
+      ],
+      "objectNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "anscombe--anscombe-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A09-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A09-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32",
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A09-Q4-2",
+          "text": "保留 route-synthesis 声部与 route-synthesis 文类边界。",
+          "feedback": "正确项“保留 route-synthesis 声部与 route-synthesis 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-32",
+            "anscombe--src-sep-fit"
+          ],
+          "claimNodeIds": [
+            "anscombe--A09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A09-Q4-2",
+      "misconceptionId": "anscombe--A09-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-32",
+        "anscombe--src-sep-fit"
+      ],
+      "objectNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A09-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "anscombe--anscombe-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "anscombe--A10-Q1",
+      "kind": "binary",
+      "prompt": "关于“practical syllogism in Intention”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A10-Q1-1",
+          "text": "准确：《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。",
+          "feedback": "正确项“准确：《意向》用实践三段论考察目的、可欲之物与手段如何组织行动，而不把它缩减为先形成一句结论再外加身体执行。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-33-42"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A10-Q1-2",
+          "text": "错误：把“practical syllogism in Intention”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“practical syllogism in Intention”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-33-42"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A10-Q1-1",
+      "misconceptionId": "anscombe--A10-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-33-42"
+      ],
+      "objectNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A10-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-10",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A10-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A10-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-33-42"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A10-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-33-42"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A10-Q2-2",
+      "misconceptionId": "anscombe--A10-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-33-42"
+      ],
+      "objectNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A10-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A10-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-10",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A10-Q3",
+      "kind": "binary",
+      "prompt": "关于“Aristotle as historical object”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A10-Q3-1",
+          "text": "准确：Aristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。",
+          "feedback": "正确项“准确：Aristotle 的实践推理文本是 Anscombe 讨论的古代对象；Aristotle 的命题必须由 Aristotle 定位承重，不能改标为 Anscombe 原话。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-aristotle-ne"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A10-Q3-2",
+          "text": "错误：把“Aristotle as historical object”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Aristotle as historical object”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-aristotle-ne"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A10-Q3-1",
+      "misconceptionId": "anscombe--A10-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-aristotle-ne"
+      ],
+      "objectNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A10-P2"
+      ],
+      "targetVoices": [
+        "aristotle-object"
+      ],
+      "lessonId": "anscombe--anscombe-10",
+      "voice": "aristotle-object"
+    },
+    {
+      "id": "anscombe--A10-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A10-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-aristotle-ne"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A10-Q4-2",
+          "text": "保留 aristotle-object 声部与 ancient-primary 文类边界。",
+          "feedback": "正确项“保留 aristotle-object 声部与 ancient-primary 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-aristotle-ne"
+          ],
+          "claimNodeIds": [
+            "anscombe--A10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A10-Q4-2",
+      "misconceptionId": "anscombe--A10-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-aristotle-ne"
+      ],
+      "objectNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A10-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A10-P2"
+      ],
+      "targetVoices": [
+        "aristotle-object"
+      ],
+      "lessonId": "anscombe--anscombe-10",
+      "voice": "aristotle-object"
+    },
+    {
+      "id": "anscombe--A11-Q1",
+      "kind": "binary",
+      "prompt": "关于“Aquinas formula used by Anscombe”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A11-Q1-1",
+          "text": "准确：Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。",
+          "feedback": "正确项“准确：Anscombe 在 §48 借 Aquinas 的公式说：在满足意向行动条件时，实践知识是它所理解之物的原因，而思辨知识从对象取得。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-48"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A11-Q1-2",
+          "text": "错误：把“Aquinas formula used by Anscombe”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Aquinas formula used by Anscombe”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-48"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A11-Q1-1",
+      "misconceptionId": "anscombe--A11-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-48"
+      ],
+      "objectNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A11-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-11",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A11-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A11-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-48"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A11-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-48"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A11-Q2-2",
+      "misconceptionId": "anscombe--A11-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-48"
+      ],
+      "objectNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A11-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A11-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-11",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A11-Q3",
+      "kind": "binary",
+      "prompt": "关于“Aquinas as historical object”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A11-Q3-1",
+          "text": "准确：Aquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。",
+          "feedback": "正确项“准确：Aquinas 自己关于实践知识的论证属于中世纪对象声部；在精确文章定位闭合前，本路线只把该 claim 标为 pending。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-aquinas-practical"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A11-Q3-2",
+          "text": "错误：把“Aquinas as historical object”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Aquinas as historical object”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-aquinas-practical"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A11-Q3-1",
+      "misconceptionId": "anscombe--A11-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-aquinas-practical"
+      ],
+      "objectNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A11-P2"
+      ],
+      "targetVoices": [
+        "aquinas-object"
+      ],
+      "lessonId": "anscombe--anscombe-11",
+      "voice": "aquinas-object"
+    },
+    {
+      "id": "anscombe--A11-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A11-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-aquinas-practical"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A11-Q4-2",
+          "text": "保留 aquinas-object 声部与 medieval-primary 文类边界。",
+          "feedback": "正确项“保留 aquinas-object 声部与 medieval-primary 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-aquinas-practical"
+          ],
+          "claimNodeIds": [
+            "anscombe--A11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A11-Q4-2",
+      "misconceptionId": "anscombe--A11-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-aquinas-practical"
+      ],
+      "objectNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A11-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A11-P2"
+      ],
+      "targetVoices": [
+        "aquinas-object"
+      ],
+      "lessonId": "anscombe--anscombe-11",
+      "voice": "aquinas-object"
+    },
+    {
+      "id": "anscombe--A12-Q1",
+      "kind": "binary",
+      "prompt": "关于“bounded first-person authority”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A12-Q1-1",
+          "text": "准确：行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。",
+          "feedback": "正确项“准确：行动者对自己正在做什么的第一人称地位来自实践知识的结构，不是因为她对所有后果或所有真实描述都不可错。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A12-Q1-2",
+          "text": "错误：把“bounded first-person authority”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“bounded first-person authority”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A12-Q1-1",
+      "misconceptionId": "anscombe--A12-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28",
+        "anscombe--src-int-29-30"
+      ],
+      "objectNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A12-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-12",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A12-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A12-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A12-Q2-2",
+          "text": "保留 anscombe-primary 声部与 author-monograph 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 author-monograph 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-int-28",
+            "anscombe--src-int-29-30"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A12-Q2-2",
+      "misconceptionId": "anscombe--A12-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-int-28",
+        "anscombe--src-int-29-30"
+      ],
+      "objectNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A12-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A12-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-12",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A12-Q3",
+      "kind": "binary",
+      "prompt": "关于“first-person pronoun thesis”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A12-Q3-1",
+          "text": "准确：在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。",
+          "feedback": "正确项“准确：在《第一人称》中，Anscombe 对“I”是否为指称表达式提出更激进的论证；这不能与《意向》的行动知识主张直接合并。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-first-person"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A12-Q3-2",
+          "text": "错误：把“first-person pronoun thesis”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“first-person pronoun thesis”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-first-person"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A12-Q3-1",
+      "misconceptionId": "anscombe--A12-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-first-person"
+      ],
+      "objectNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A12-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-12",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A12-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A12-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-first-person"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A12-Q4-2",
+          "text": "保留 anscombe-primary 声部与 collected-paper 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 collected-paper 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-first-person"
+          ],
+          "claimNodeIds": [
+            "anscombe--A12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A12-Q4-2",
+      "misconceptionId": "anscombe--A12-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-first-person"
+      ],
+      "objectNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A12-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A12-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-12",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-Q1",
+      "kind": "binary",
+      "prompt": "关于“MMP first thesis”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A13-Q1-1",
+          "text": "准确：《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。",
+          "feedback": "正确项“准确：《现代道德哲学》开篇提出三项论断，其中第一项要求在拥有充分的哲学心理学之前暂停道德哲学。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A13-Q1-2",
+          "text": "错误：把“MMP first thesis”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“MMP first thesis”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A13-Q1-1",
+      "misconceptionId": "anscombe--A13-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A13-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-13",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A13-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A13-Q2-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A13-Q2-2",
+      "misconceptionId": "anscombe--A13-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A13-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A13-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-13",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-Q3",
+      "kind": "binary",
+      "prompt": "关于“philosophy of psychology prerequisite”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A13-Q3-1",
+          "text": "准确：开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。",
+          "feedback": "正确项“准确：开篇给出的理由限于：我们尚无充分的哲学心理学，因此当下推进道德哲学无益；这两页并未给出一套完整的正面伦理方案。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A13-Q3-2",
+          "text": "错误：把“philosophy of psychology prerequisite”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“philosophy of psychology prerequisite”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A13-Q3-1",
+      "misconceptionId": "anscombe--A13-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A13-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-13",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A13-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A13-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A13-Q4-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-1"
+          ],
+          "claimNodeIds": [
+            "anscombe--A13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A13-Q4-2",
+      "misconceptionId": "anscombe--A13-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-1"
+      ],
+      "objectNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A13-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A13-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-13",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-Q1",
+      "kind": "binary",
+      "prompt": "关于“law conception of moral ought”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A14-Q1-1",
+          "text": "准确：Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。",
+          "feedback": "正确项“准确：Anscombe 追溯带有裁决意味的道德“应当”如何依赖法律式伦理观，并质疑在其背景消失后继续使用该概念。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-5-6"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A14-Q1-2",
+          "text": "错误：把“law conception of moral ought”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“law conception of moral ought”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-5-6"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A14-Q1-1",
+      "misconceptionId": "anscombe--A14-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-5-6"
+      ],
+      "objectNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A14-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-14",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A14-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-5-6"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A14-Q2-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-5-6"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A14-Q2-2",
+      "misconceptionId": "anscombe--A14-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-5-6"
+      ],
+      "objectNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A14-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A14-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-14",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-Q3",
+      "kind": "binary",
+      "prompt": "关于“virtue, justice, and methodological limits”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A14-Q3-1",
+          "text": "准确：在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。",
+          "feedback": "正确项“准确：在 pp. 14–17，Anscombe 以德性、正义与不公正划定讨论边界，并认为判定一项行为“不公正”比笼统地说“道德上错误”更具体；但她同时说所需的哲学装备尚不具备，因而这不是一套完整的正面伦理方案。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A14-Q3-2",
+          "text": "错误：把“virtue, justice, and methodological limits”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“virtue, justice, and methodological limits”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A14-Q3-1",
+      "misconceptionId": "anscombe--A14-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "objectNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A14-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-14",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A14-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A14-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A14-Q4-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A14-Q4-2",
+      "misconceptionId": "anscombe--A14-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "objectNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A14-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A14-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-14",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-Q1",
+      "kind": "binary",
+      "prompt": "关于“consequentialism critique”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A15-Q1-1",
+          "text": "准确：《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。",
+          "feedback": "正确项“准确：《现代道德哲学》用“consequentialism”标记一组现代立场，并批评其在计算中抹平意向、行动本身与预见后果的差别。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-11-12"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A15-Q1-2",
+          "text": "错误：把“consequentialism critique”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“consequentialism critique”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-11-12"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A15-Q1-1",
+      "misconceptionId": "anscombe--A15-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-11-12"
+      ],
+      "objectNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A15-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-15",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A15-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-11-12"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A15-Q2-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-11-12"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A15-Q2-2",
+      "misconceptionId": "anscombe--A15-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-11-12"
+      ],
+      "objectNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A15-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A15-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-15",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-Q3",
+      "kind": "binary",
+      "prompt": "关于“justice against maximizing injustice”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A15-Q3-1",
+          "text": "准确：Anscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。",
+          "feedback": "正确项“准确：Anscombe 把蓄意判处无辜者等行为视为不应因较好总后果而变得可接受；正义在此不是效用账本中的普通一项。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A15-Q3-2",
+          "text": "错误：把“justice against maximizing injustice”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“justice against maximizing injustice”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A15-Q3-1",
+      "misconceptionId": "anscombe--A15-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "objectNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A15-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-15",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A15-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A15-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A15-Q4-2",
+          "text": "保留 anscombe-primary 声部与 journal-article 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 journal-article 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-mmp-14-17"
+          ],
+          "claimNodeIds": [
+            "anscombe--A15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A15-Q4-2",
+      "misconceptionId": "anscombe--A15-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-mmp-14-17"
+      ],
+      "objectNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A15-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A15-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-15",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-Q1",
+      "kind": "binary",
+      "prompt": "关于“double effect and intended killing”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A16-Q1-1",
+          "text": "准确：在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。",
+          "feedback": "正确项“准确：在战争与谋杀讨论中，Anscombe 区分作为手段或目的而意向的杀害与被预见的副作用，同时批评用任意“引导意向”的心理动作洗白行为。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-war-murder"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A16-Q1-2",
+          "text": "错误：把“double effect and intended killing”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“double effect and intended killing”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-war-murder"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A16-Q1-1",
+      "misconceptionId": "anscombe--A16-Q1-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-war-murder"
+      ],
+      "objectNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A16-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-16",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A16-Q2-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-war-murder"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C1"
+          ]
+        },
+        {
+          "id": "anscombe--A16-Q2-2",
+          "text": "保留 anscombe-primary 声部与 collected-paper 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 collected-paper 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-war-murder"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A16-Q2-2",
+      "misconceptionId": "anscombe--A16-Q2-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-war-murder"
+      ],
+      "objectNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A16-C1"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A16-P1"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-16",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-Q3",
+      "kind": "binary",
+      "prompt": "关于“Truman protest and justice”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A16-Q3-1",
+          "text": "准确：她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。",
+          "feedback": "正确项“准确：她反对授予 Truman 荣誉学位，把对平民的蓄意杀害视为正义边界问题；精确页码未闭合，因此该 claim 保持单独 pending。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-truman-degree"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A16-Q3-2",
+          "text": "错误：把“Truman protest and justice”换成别的声音、对象或证据层级。",
+          "feedback": "错误项“错误：把“Truman protest and justice”换成别的声音、对象或证据层级。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-truman-degree"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A16-Q3-1",
+      "misconceptionId": "anscombe--A16-Q3-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-truman-degree"
+      ],
+      "objectNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A16-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-16",
+      "voice": "anscombe-primary"
+    },
+    {
+      "id": "anscombe--A16-Q4",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "options": [
+        {
+          "id": "anscombe--A16-Q4-1",
+          "text": "取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。",
+          "feedback": "错误项“取消声部区分，并把后继解释或对象文本当作 Anscombe 原话。”越过了当前 claim 的对象、声部或证据边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "anscombe--src-truman-degree"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C2"
+          ]
+        },
+        {
+          "id": "anscombe--A16-Q4-2",
+          "text": "保留 anscombe-primary 声部与 pamphlet 文类边界。",
+          "feedback": "正确项“保留 anscombe-primary 声部与 pamphlet 文类边界。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "anscombe--src-truman-degree"
+          ],
+          "claimNodeIds": [
+            "anscombe--A16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "anscombe--A16-Q4-2",
+      "misconceptionId": "anscombe--A16-Q4-misconception",
+      "evidenceLinkIds": [
+        "anscombe--src-truman-degree"
+      ],
+      "objectNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "anscombe--A16-C2"
+      ],
+      "targetParagraphIds": [
+        "anscombe--A16-P2"
+      ],
+      "targetVoices": [
+        "anscombe-primary"
+      ],
+      "lessonId": "anscombe--anscombe-16",
+      "voice": "anscombe-primary"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

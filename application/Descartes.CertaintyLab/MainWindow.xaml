@@ -1,0 +1,291 @@
+<Window x:Class="Descartes.CertaintyLab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Descartes.CertaintyLab"
+        Title="{Binding Title}"
+        Width="920"
+        Height="690"
+        MinWidth="700"
+        MinHeight="520"
+        WindowStartupLocation="CenterScreen"
+        Background="#F4EFE5"
+        Foreground="#242018"
+        FontFamily="Microsoft YaHei UI"
+        FontSize="17">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#31584A" />
+            <Setter Property="Foreground" Value="#FFFFFF" />
+            <Setter Property="BorderBrush" Value="#31584A" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="18,11" />
+            <Setter Property="Margin" Value="0,0,12,12" />
+            <Setter Property="MinHeight" Value="48" />
+            <Setter Property="FontWeight" Value="SemiBold" />
+            <Setter Property="HorizontalContentAlignment" Value="Left" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#111111" />
+                    <Setter Property="BorderThickness" Value="4" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="QuietButton" TargetType="Button">
+            <Setter Property="Background" Value="#E9E0D0" />
+            <Setter Property="Foreground" Value="#242018" />
+            <Setter Property="BorderBrush" Value="#8C7C62" />
+        </Style>
+
+        <Style x:Key="Card" TargetType="Border">
+            <Setter Property="Background" Value="#FFFDF8" />
+            <Setter Property="BorderBrush" Value="#CFC3AE" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="CornerRadius" Value="10" />
+            <Setter Property="Padding" Value="20" />
+            <Setter Property="Margin" Value="0,0,0,16" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0"
+                Background="#E8DDCA"
+                BorderBrush="#CFC3AE"
+                BorderThickness="0,0,0,1"
+                Padding="30,20">
+            <TextBlock Text="{Binding Title}"
+                       FontSize="30"
+                       FontWeight="Bold"
+                       Foreground="#263F36" />
+        </Border>
+
+        <ScrollViewer x:Name="MainScrollViewer"
+                      Grid.Row="1"
+                      Focusable="False"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Disabled"
+                      Padding="30,24">
+            <StackPanel MaxWidth="820">
+                <local:AtomicSummaryBorder x:Name="SceneSummaryRegion"
+                                           Style="{StaticResource Card}"
+                                           Focusable="True"
+                                           Visibility="{Binding ShowSceneSummary, Converter={StaticResource BooleanToVisibilityConverter}}"
+                                           AutomationProperties.Name="{Binding SceneSummaryAutomationName}">
+                    <StackPanel>
+                        <local:SilentTextBlock Text="{Binding SceneHeading}"
+                                               FontSize="22"
+                                               FontWeight="Bold"
+                                               Foreground="#31584A"
+                                               Margin="0,0,0,10" />
+                        <local:SilentTextBlock Text="{Binding SceneText}"
+                                               TextWrapping="Wrap"
+                                               LineHeight="29" />
+                    </StackPanel>
+                </local:AtomicSummaryBorder>
+
+                <Border x:Name="ThoughtTraceRegion"
+                        Style="{StaticResource Card}"
+                        Background="#EDF3F0"
+                        BorderBrush="#9EB6AA"
+                        Focusable="False"
+                        Visibility="{Binding ShowThoughtTrace, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    <StackPanel>
+                        <local:SilentTextBlock Text="{Binding ThoughtTraceHeading}"
+                                               FontSize="18"
+                                               FontWeight="Bold"
+                                               Foreground="#31584A"
+                                               Margin="0,0,0,6" />
+                        <local:SilentTextBlock Text="{Binding ThoughtTraceText}"
+                                               TextWrapping="Wrap"
+                                               LineHeight="28" />
+                    </StackPanel>
+                </Border>
+
+                <StackPanel Visibility="{Binding ShowReasonChoices, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    <TextBlock Text="{Binding ReasonPrompt}"
+                               FontSize="20"
+                               FontWeight="SemiBold"
+                               Margin="0,2,0,10" />
+                    <ListBox x:Name="ReasonChoicesList"
+                             ItemsSource="{Binding ReasonChoices}"
+                             SelectedItem="{Binding SelectedReason, Mode=TwoWay}"
+                             PreviewKeyDown="OnReasonChoicesPreviewKeyDown"
+                             MouseDoubleClick="OnReasonChoicesMouseDoubleClick"
+                             AutomationProperties.Name="{Binding ReasonPrompt}"
+                             AutomationProperties.HelpText="使用上下方向键移动，按回车沿这条理由直接继续。"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Padding="0"
+                             Margin="0,0,0,10">
+                        <ListBox.ItemContainerStyle>
+                            <Style TargetType="ListBoxItem">
+                                <Setter Property="AutomationProperties.Name"
+                                        Value="{Binding AutomationName}" />
+                                <Setter Property="HorizontalContentAlignment"
+                                        Value="Stretch" />
+                                <Setter Property="Padding" Value="0" />
+                                <Setter Property="Margin" Value="0,0,0,8" />
+                            </Style>
+                        </ListBox.ItemContainerStyle>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate DataType="{x:Type local:ReasonChoiceViewModel}">
+                                <Border Background="#FFFDF8"
+                                        BorderBrush="#CFC3AE"
+                                        BorderThickness="1"
+                                        CornerRadius="8"
+                                        Padding="16,12">
+                                    <local:SilentTextBlock Text="{Binding Text}"
+                                                           FontWeight="SemiBold"
+                                                           FontSize="18"
+                                                           TextWrapping="Wrap" />
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                    <TextBlock Text="{Binding OwnReasonPrompt}"
+                               TextWrapping="Wrap"
+                               FontWeight="SemiBold"
+                               Margin="0,8,0,8" />
+                    <TextBox x:Name="OwnReasonTextBox"
+                             Text="{Binding OwnReasonText, UpdateSourceTrigger=PropertyChanged}"
+                             MaxLength="120"
+                             AcceptsReturn="False"
+                             PreviewKeyDown="OnOwnReasonPreviewKeyDown"
+                             AutomationProperties.Name="我想到的其他办法"
+                             AutomationProperties.HelpText="可以写几个字，也可以留空。按回车直接继续。"
+                             Padding="12,10"
+                             MinHeight="46"
+                             Margin="0,0,0,10" />
+                    <Button Command="{Binding UseOwnReasonCommand}"
+                            Style="{StaticResource QuietButton}"
+                            AutomationProperties.Name="{Binding OwnReasonActionText}">
+                        <local:SilentTextBlock Text="{Binding OwnReasonActionText}" />
+                    </Button>
+                </StackPanel>
+
+                <Border x:Name="DiscoveryRegion"
+                        Style="{StaticResource Card}"
+                        Background="#EEF4EC"
+                        BorderBrush="#9BB39F"
+                        Visibility="{Binding ShowLatestDiscovery, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    <TextBlock Text="{Binding LatestDiscovery}"
+                               TextWrapping="Wrap"
+                               LineHeight="29"
+                               AutomationProperties.LiveSetting="Polite" />
+                </Border>
+
+                <Button x:Name="PrimaryActionButton"
+                        Command="{Binding PrimaryActionCommand}"
+                        Visibility="{Binding ShowPrimaryAction, Converter={StaticResource BooleanToVisibilityConverter}}"
+                        AutomationProperties.Name="{Binding PrimaryActionText}">
+                    <local:SilentTextBlock Text="{Binding PrimaryActionText}"
+                                           TextWrapping="Wrap" />
+                </Button>
+
+                <Button Command="{Binding RehearSceneCommand}"
+                        Style="{StaticResource QuietButton}"
+                        Visibility="{Binding ShowSceneControls, Converter={StaticResource BooleanToVisibilityConverter}}"
+                        AutomationProperties.Name="重听当前情境">
+                    <local:SilentTextBlock Text="重听当前情境" />
+                </Button>
+
+                <StackPanel Visibility="{Binding ShowCompletion, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    <local:AtomicSummaryBorder x:Name="CompletionSummaryRegion"
+                                               Style="{StaticResource Card}"
+                                               Background="#FFF7E4"
+                                               BorderBrush="#B6924F"
+                                               Focusable="True"
+                                               AutomationProperties.Name="{Binding CompletionAutomationText}">
+                        <StackPanel>
+                            <local:SilentTextBlock Text="{Binding CompletionHeading}"
+                                                   FontSize="23"
+                                                   FontWeight="Bold"
+                                                   Foreground="#6B4A13"
+                                                   Margin="0,0,0,12" />
+                            <local:SilentTextBlock Text="{Binding CompletionIdentityText}"
+                                                   TextWrapping="Wrap"
+                                                   FontSize="19"
+                                                   FontWeight="SemiBold"
+                                                   LineHeight="29"
+                                                   Margin="0,0,0,18" />
+                            <local:SilentTextBlock Text="你刚才发现了什么"
+                                                   FontSize="20"
+                                                   FontWeight="Bold"
+                                                   Foreground="#31584A"
+                                                   Margin="0,0,0,8" />
+                            <local:SilentTextBlock Text="{Binding CompletionText}"
+                                                   TextWrapping="Wrap"
+                                                   LineHeight="29" />
+                            <local:SilentTextBlock Text="你的路线为什么会走到这里"
+                                                   FontSize="20"
+                                                   FontWeight="Bold"
+                                                   Foreground="#31584A"
+                                                   Margin="0,22,0,8" />
+                            <local:SilentTextBlock Text="{Binding PersonalizedExplanationText}"
+                                                   TextWrapping="Wrap"
+                                                   Foreground="#514B40"
+                                                   LineHeight="28"
+                                                   Margin="0,0,0,22" />
+                            <local:SilentTextBlock Text="这段思想到底在说什么"
+                                                   FontSize="20"
+                                                   FontWeight="Bold"
+                                                   Foreground="#31584A"
+                                                   Margin="0,0,0,14" />
+                            <local:SilentItemsControl ItemsSource="{Binding ExplanationSections}">
+                                <local:SilentItemsControl.ItemTemplate>
+                                    <DataTemplate DataType="{x:Type local:ExplanationSectionDefinition}">
+                                        <StackPanel Margin="0,0,0,18">
+                                            <local:SilentTextBlock Text="{Binding Heading}"
+                                                                   FontWeight="Bold"
+                                                                   FontSize="19"
+                                                                   Margin="0,0,0,6" />
+                                            <local:SilentTextBlock Text="{Binding Body}"
+                                                                   TextWrapping="Wrap"
+                                                                   LineHeight="28" />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </local:SilentItemsControl.ItemTemplate>
+                            </local:SilentItemsControl>
+                        </StackPanel>
+                    </local:AtomicSummaryBorder>
+
+                    <Button x:Name="SourceButton"
+                            Command="{Binding ToggleSourcesCommand}"
+                            Style="{StaticResource QuietButton}"
+                            AutomationProperties.Name="{Binding SourceButtonText}">
+                        <local:SilentTextBlock Text="{Binding SourceButtonText}" />
+                    </Button>
+
+                    <local:AtomicSummaryBorder x:Name="SourceNoteRegion"
+                                               Style="{StaticResource Card}"
+                                               Focusable="True"
+                                               Visibility="{Binding ShowSourceNote, Converter={StaticResource BooleanToVisibilityConverter}}"
+                                               AutomationProperties.Name="{Binding SourceNoteText}">
+                        <local:SilentTextBlock Text="{Binding SourceNoteText}"
+                                               TextWrapping="Wrap"
+                                               LineHeight="27" />
+                    </local:AtomicSummaryBorder>
+
+                    <Button x:Name="KnowledgeButton"
+                            Click="OnOpenKnowledge"
+                            AutomationProperties.Name="继续了解笛卡尔。打开知识库中的人物与作品解析。">
+                        <local:SilentTextBlock Text="继续了解笛卡尔"
+                                               TextWrapping="Wrap" />
+                    </Button>
+
+                    <Button Command="{Binding RestartCommand}"
+                            AutomationProperties.Name="重新走一次，换一种理由">
+                        <local:SilentTextBlock Text="重新走一次，换一种理由"
+                                               TextWrapping="Wrap" />
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

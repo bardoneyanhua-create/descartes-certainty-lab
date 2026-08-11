@@ -1,0 +1,3001 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "hegel-01-kant-after-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "康德之后，世界为何仍像隔着一道墙",
+      "explanation": "设想你戴着一副永远摘不下来的眼镜。凡是映入眼中的东西都经过镜片整理，但你无法把眼镜摘下，比较“经过镜片的景象”和“原样的景象”。康德的批判哲学很像先查明这副眼镜的结构：空间、时间和知性范畴不是从零散经验里抄来的，而是经验能够成为有秩序对象的条件。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "kant-cpr",
+        "kant-groundwork",
+        "phen-intro",
+        "right-preface",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-01-kant-after"
+      ]
+    },
+    {
+      "id": "hegel-02-dialectic-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "辩证运动不是一架“正反合”机器",
+      "explanation": "很多人第一次听到辩证法，会想象一个三格盒子：先有正题，再冒出反题，最后二者合成综合。这个公式容易记，却把最重要的事情弄丢了。它让变化像外部操作者依次摆放卡片，而黑格尔关心的是一个主张如何因忠于自身而被迫改变。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-preface",
+        "phen-intro",
+        "logic-essence",
+        "logic-method",
+        "sep-dialectics",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-02-dialectic"
+      ]
+    },
+    {
+      "id": "hegel-03-consciousness-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从“就是这个”到规律背后的世界",
+      "explanation": "桌上有一只红杯。最自然的想法是：先别讲概念，我只相信眼前这个杯子。它就在这里、就在现在，感官给出的个别事实似乎比任何理论都更丰富、更可靠。《精神现象学》把这种姿态称为感性确定性。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-consciousness",
+        "findlay-phen",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-03-consciousness"
+      ]
+    },
+    {
+      "id": "hegel-04-recognition-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "欲望为何不能独自证明我是谁",
+      "explanation": "饥饿时，食物像纯粹对象：我把它吃掉，欲望获得满足。这个经验很容易诱发一种自我理解——我通过否定外物来证明自己的独立。对象消失，我仍在，仿佛自我比对象更真实。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-selfconsciousness",
+        "sep-hegel",
+        "later-kojeve",
+        "later-fanon",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-04-recognition"
+      ]
+    },
+    {
+      "id": "hegel-05-freedom-consciousness-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "把自由藏进内心，为什么仍不能安宁",
+      "explanation": "受制于外部权力时，一个人可能说：“你能控制我的身体，却不能控制我的判断。”这不是虚假安慰。它发现自我能与眼前处境拉开距离，拒绝把命运等同于自身价值。《精神现象学》用斯多葛主义刻画这种自由。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-freedom-consciousness",
+        "religion-lectures",
+        "later-left-right",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-05-freedom-consciousness"
+      ]
+    },
+    {
+      "id": "hegel-06-reason-spirit-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "个人的理性为何会撞上共同生活",
+      "explanation": "摆脱彼岸分裂后，意识可能充满信心地说：“世界是可理解的，我能在其中找到自己。”这就是理性的起点。它不是单纯计算能力，而是主体确信自己的思维与现实并非永远陌生。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-reason",
+        "phen-spirit",
+        "right-published",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-06-reason-spirit"
+      ]
+    },
+    {
+      "id": "hegel-07-religion-absolute-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "绝对知识不是知道所有事实",
+      "explanation": "“绝对知识”听来像一台无所不知的机器：过去未来、每个秘密都尽收眼底。若这样理解，《精神现象学》结尾显然荒唐。黑格尔谈的不是事实总量无限增加，而是认识不再把自己的条件当作与对象无关的外壳。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "phen-religion",
+        "phen-absolute",
+        "religion-lectures",
+        "later-left-right",
+        "sep-hegel",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-07-religion-absolute"
+      ]
+    },
+    {
+      "id": "hegel-08-logic-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "存在、本质、概念如何自己改变",
+      "explanation": "假如我们想从最少预设开始，会选择“纯粹存在”：不说它是什么、不赋予任何性质，只说“有”。这个开端看似最稳，因为没有排除任何内容。《逻辑学》却问：一个完全没有规定的“有”，究竟与完全没有规定的“无”怎样区别？",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "logic-being",
+        "logic-essence",
+        "logic-concept",
+        "encyclopedia-logic",
+        "student-additions",
+        "sep-dialectics",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-08-logic"
+      ]
+    },
+    {
+      "id": "hegel-09-nature-system-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自然为何既属于体系又不听概念摆布",
+      "explanation": "如果逻辑讨论最普遍的思维规定，为什么体系不在纯思想中结束？黑格尔回答，理念若只与自身同一，仍没有真正展示其自由；它必须以外在性形态出现，这就是自然。这个说法听来像思想凭空制造山川，需要立刻澄清。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "encyclopedia-nature",
+        "encyclopedia-spirit",
+        "student-additions",
+        "sep-hegel",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-09-nature-system"
+      ]
+    },
+    {
+      "id": "hegel-10-subjective-objective-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自由不只是“我想怎样就怎样”",
+      "explanation": "日常所说自由常是选择不受阻碍：菜单上有十种菜，我能选喜欢的一种。黑格尔不否认这种任意选择的价值，却认为它仍不充分，因为欲望和选项可能由广告、匮乏或习惯替我安排。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "encyclopedia-spirit",
+        "right-will",
+        "right-published",
+        "sep-social-political",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-10-subjective-objective"
+      ]
+    },
+    {
+      "id": "hegel-11-right-ethical-life-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从一纸权利到能够共同生活的自由",
+      "explanation": "抽象法从最薄的人格开始：不论天赋、财富和爱好，每个人都应作为能拥有权利者被承认。这种抽象不是缺点，而是阻止身份差异取消基本地位的必要起点。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "right-published",
+        "right-family",
+        "right-civil",
+        "right-state",
+        "student-additions",
+        "sep-social-political",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-11-right-ethical-life"
+      ]
+    },
+    {
+      "id": "hegel-12-history-critique-node",
+      "kind": "controversy",
+      "status": "teachingReady",
+      "readerTitle": "历史会前进吗，谁被挡在“世界”之外",
+      "explanation": "站在灾难之后，人很容易寻找方向：巨大的牺牲是否至少推动了自由？黑格尔的历史哲学以“自由意识的发展”组织世界历史，给零散事件以结构。它的吸引力在于拒绝把历史看成毫无意义的噪声。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "history-lectures",
+        "right-world-history",
+        "right-family",
+        "right-civil",
+        "cambridge-colonialism",
+        "later-left-right",
+        "later-fanon",
+        "project-interpretation"
+      ],
+      "abilityIds": [
+        "understand-hegel-12-history-critique"
+      ]
+    },
+    {
+      "id": "hegel-13-aesthetics-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "艺术怎样让理念以感性形态出现",
+      "explanation": "黑格尔把艺术美放在绝对精神中，不是因为漂亮物件替思想配图，而是因为作品让一个精神内容在可感形态中成为可经验的统一。这个主张只能通过不同讲演轮次与学生笔记重建，不能把 Hotho 的身后编本冒充黑格尔定稿。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aesthetics-berlin-1820-21",
+        "aesthetics-berlin-1823",
+        "aesthetics-berlin-1826-29",
+        "aesthetics-hotho-1835",
+        "research-aesthetics-editorial-history"
+      ],
+      "abilityIds": [
+        "understand-hegel-13-aesthetics"
+      ]
+    },
+    {
+      "id": "hegel-14-subjective-spirit-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "灵魂怎样成为能够思考和意志的心灵",
+      "explanation": "《百科全书》的主观精神不是《精神现象学》意识历程的缩写，而是从身体化的灵魂，经意识对对象的关系，到心灵把内容认作自身活动的系统过渡；心理学内部再展开理论精神、实践精神与自由精神。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "encyclopedia-subjective-1830",
+        "encyclopedia-anthropology",
+        "encyclopedia-psychology",
+        "encyclopedia-spirit",
+        "research-subjective-spirit-structure"
+      ],
+      "abilityIds": [
+        "understand-hegel-14-subjective-spirit"
+      ]
+    },
+    {
+      "id": "hegel-15-external-state-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "国家彼此之间为何仍处在脆弱承认中",
+      "explanation": "《法哲学原理》§§321–340 把国家的对外独立、相互承认、条约和国际法置于没有世界国家裁判者的关系中，因此规范承诺真实却脆弱，战争仍可能发生；这套对象级重建必须与 §§341–360 世界历史及现代项目的制度扩展分开。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "right-external-state",
+        "right-international-law",
+        "right-world-history-boundary",
+        "right-state",
+        "research-external-state-war"
+      ],
+      "abilityIds": [
+        "understand-hegel-15-external-state"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "kant-cpr",
+      "workId": "Immanuel Kant，《纯粹理性批判》",
+      "edition": "1781/1787",
+      "locator": "先验感性论、先验分析论、现象与物自身区分、第三二律背反",
+      "locatorVerified": true,
+      "identity": "published-work；仅用于康德问题背景；不把黑格尔的后续批评说成康德自我结论。"
+    },
+    {
+      "id": "kant-groundwork",
+      "workId": "Immanuel Kant，《道德形而上学奠基》",
+      "edition": "1785",
+      "locator": "第二部分与第三部分，自律、绝对命令、自由",
+      "locatorVerified": true,
+      "identity": "published-work；用于说明内在自律与普遍法则背景，不把制度批评归给康德原文。"
+    },
+    {
+      "id": "phen-preface",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "序言，真理作为整体、实体同时是主体、否定的结果",
+      "locatorVerified": true,
+      "identity": "published-work；序言口号必须由全书具体运动解释，不单独当成万能公式。"
+    },
+    {
+      "id": "phen-intro",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "导论约第73至89段，认识作为工具或媒介、意识自身尺度",
+      "locatorVerified": true,
+      "identity": "published-work；用于认识审查和内在标准，不宣称已独立证明整个体系。"
+    },
+    {
+      "id": "phen-consciousness",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "意识：感性确定性、知觉、力与知性",
+      "locatorVerified": true,
+      "identity": "published-work；意识形态进程不与《逻辑学》范畴逐段等同。"
+    },
+    {
+      "id": "phen-selfconsciousness",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "自我意识：欲望、相互承认、主人与奴隶",
+      "locatorVerified": true,
+      "identity": "published-work；不把奴役浪漫化，不把后世劳动解放理论反投射为唯一原意。"
+    },
+    {
+      "id": "phen-freedom-consciousness",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "自我意识的自由：斯多葛主义、怀疑主义、苦恼意识",
+      "locatorVerified": true,
+      "identity": "published-work；这些是哲学形态，不是古代学派和宗教传统的完整思想史。"
+    },
+    {
+      "id": "phen-reason",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "理性：观察理性、实践理性、个体性",
+      "locatorVerified": true,
+      "identity": "published-work；颅相学等历史材料用于还原论批评，不替代现代科学。"
+    },
+    {
+      "id": "phen-spirit",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "精神：伦理世界、教化、启蒙、自由与恐怖、道德与良心",
+      "locatorVerified": true,
+      "identity": "published-work；历史材料经过哲学重构，不当作完整中性欧洲史。"
+    },
+    {
+      "id": "phen-religion",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "宗教：自然宗教、艺术宗教、启示宗教",
+      "locatorVerified": true,
+      "identity": "published-work；明确其基督教中心安排，不把其他传统只当低级预备。"
+    },
+    {
+      "id": "phen-absolute",
+      "workId": "G. W. F. Hegel，《精神现象学》",
+      "edition": "1807",
+      "locator": "绝对知识，表象向概念、时间、回忆、精神历史",
+      "locatorVerified": true,
+      "identity": "published-work；绝对知识不释为事实全知、个人不可错或历史停止。"
+    },
+    {
+      "id": "logic-being",
+      "workId": "G. W. F. Hegel，《逻辑学》",
+      "edition": "1812/1832",
+      "locator": "存在论：存在、无、生成、定在、质、量、尺度",
+      "locatorVerified": true,
+      "identity": "published-work；区分初版与1832年修订，不把纯规定直接说成经验事物。"
+    },
+    {
+      "id": "logic-essence",
+      "workId": "G. W. F. Hegel，《逻辑学》",
+      "edition": "1813",
+      "locator": "本质论：反思规定、矛盾、根据、现象、现实性",
+      "locatorVerified": true,
+      "identity": "published-work；矛盾须重建具体依赖，不作取消形式推理的通行证。"
+    },
+    {
+      "id": "logic-concept",
+      "workId": "G. W. F. Hegel，《逻辑学》",
+      "edition": "1816",
+      "locator": "概念论：概念、判断、推理、客观性、理念",
+      "locatorVerified": true,
+      "identity": "published-work；概念不是词语标签；是否描述存在本身属于解释争议。"
+    },
+    {
+      "id": "logic-method",
+      "workId": "G. W. F. Hegel，《逻辑学》",
+      "edition": "1816",
+      "locator": "绝对理念：方法",
+      "locatorVerified": true,
+      "identity": "published-work；不从方法末尾抽取固定正反合算法。"
+    },
+    {
+      "id": "encyclopedia-logic",
+      "workId": "G. W. F. Hegel，《哲学科学全书纲要》第一部逻辑学",
+      "edition": "1830正文",
+      "locator": "第19至244节",
+      "locatorVerified": true,
+      "identity": "published-work；纲要正文与后加学生附释分开。"
+    },
+    {
+      "id": "encyclopedia-nature",
+      "workId": "G. W. F. Hegel，《哲学科学全书纲要》第二部自然哲学",
+      "edition": "1830正文",
+      "locator": "第245至376节",
+      "locatorVerified": true,
+      "identity": "published-work；具体自然判断受现代科学纠正，不以体系地位豁免。"
+    },
+    {
+      "id": "encyclopedia-spirit",
+      "workId": "G. W. F. Hegel，《哲学科学全书纲要》第三部精神哲学",
+      "edition": "1830正文",
+      "locator": "第377至577节，主观精神、客观精神、绝对精神",
+      "locatorVerified": true,
+      "identity": "published-work；概念次序不冒充人生或历史事件时间表。"
+    },
+    {
+      "id": "right-preface",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "序言，“合乎理性”与“现实”命题",
+      "locatorVerified": true,
+      "identity": "published-work；Wirklichkeit 不等于所有现存事实，不为任意政府背书。"
+    },
+    {
+      "id": "right-will",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第4至33节，自由意志与法的定在",
+      "locatorVerified": true,
+      "identity": "published-work；任意选择只是自由环节，不是完整定义。"
+    },
+    {
+      "id": "right-published",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第34至360节，抽象法、道德、伦理生活、国际法、世界历史",
+      "locatorVerified": true,
+      "identity": "published-work；制度概念与普鲁士时代具体判断逐项区分。"
+    },
+    {
+      "id": "right-family",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第158至181节，尤其第165至166节性别结构",
+      "locatorVerified": true,
+      "identity": "published-work；正文结构与附释均受性别平等批判，不能用时代背景免罪。"
+    },
+    {
+      "id": "right-civil",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第182至256节，市民社会、贫困、殖民与团体",
+      "locatorVerified": true,
+      "identity": "published-work；贫困诊断与殖民出口分开评价，后者不作可接受方案。"
+    },
+    {
+      "id": "right-state",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第257至340节，国家、国际法",
+      "locatorVerified": true,
+      "identity": "published-work；国家仅在实现可问责的制度自由时具有规范地位。"
+    },
+    {
+      "id": "right-world-history",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821",
+      "locator": "第341至360节，世界历史",
+      "locatorVerified": true,
+      "identity": "published-work；不能把世界历史裁判转成胜利者自动正当。"
+    },
+    {
+      "id": "religion-lectures",
+      "workId": "G. W. F. Hegel / student note traditions，《宗教哲学讲演录》",
+      "edition": "1821至1831多轮讲演及身后编辑",
+      "locator": "启示宗教、表象与概念；须按具体讲演版本复核",
+      "locatorVerified": true,
+      "identity": "lecture-transcript；不当作黑格尔亲自定稿的单一著作。"
+    },
+    {
+      "id": "history-lectures",
+      "workId": "G. W. F. Hegel / student note traditions，《世界历史哲学讲演录》",
+      "edition": "多轮讲演及身后编辑",
+      "locator": "导论、地理基础、非洲与世界历史阶段安排",
+      "locatorVerified": true,
+      "identity": "lecture-transcript；明确版本复杂性，同时不淡化种族主义和欧洲中心主义内容。"
+    },
+    {
+      "id": "student-additions",
+      "workId": "Student notes / later editors，《哲学全书》与《法哲学原理》附释传统",
+      "edition": "学生笔记与身后编辑",
+      "locator": "Zusätze，具体使用时依相应节号",
+      "locatorVerified": true,
+      "identity": "student-edited-addition；附释可作讲授证据，但权重不等于黑格尔亲自出版正文。"
+    },
+    {
+      "id": "sep-hegel",
+      "workId": "Paul Redding，Stanford Encyclopedia of Philosophy: Georg Wilhelm Friedrich Hegel",
+      "edition": "2025 online revision",
+      "locator": "Phenomenology, Logic, Religion, reception",
+      "locatorVerified": true,
+      "identity": "project-interpretation；作为解释地图与版本线索，不替代原典定位。"
+    },
+    {
+      "id": "sep-dialectics",
+      "workId": "Julie E. Maybee，Stanford Encyclopedia of Philosophy: Hegel's Dialectics",
+      "edition": "Spring 2024 archive",
+      "locator": "dialectical method and Kant relation",
+      "locatorVerified": true,
+      "identity": "project-interpretation；用于解释争议，不把单一模型宣布为无争议定论。"
+    },
+    {
+      "id": "sep-social-political",
+      "workId": "Thom Brooks，Stanford Encyclopedia of Philosophy: Hegel's Social and Political Philosophy",
+      "edition": "Fall 2025 archive",
+      "locator": "family, civil society, state, world history",
+      "locatorVerified": true,
+      "identity": "project-interpretation；作为当代解释综述，须与正文、评注和附释分别核对。"
+    },
+    {
+      "id": "findlay-phen",
+      "workId": "J. N. Findlay，Analysis of the Phenomenology of Spirit",
+      "edition": "commentary",
+      "locator": "sense-certainty, perception, understanding",
+      "locatorVerified": true,
+      "identity": "project-interpretation；用于记录语义论证等解释争议，不替代原文。"
+    },
+    {
+      "id": "cambridge-colonialism",
+      "workId": "Alison Stone，Hegel and Colonialism",
+      "edition": "Cambridge Elements 2025",
+      "locator": "Africa, transatlantic slavery, colonialism",
+      "locatorVerified": true,
+      "identity": "project-interpretation；用于核验殖民问题深度，不把现代批评冒充黑格尔自我批评。"
+    },
+    {
+      "id": "later-kojeve",
+      "workId": "Alexandre Kojève，《黑格尔导读》相关讲演传统",
+      "edition": "1930年代讲演及后编本",
+      "locator": "欲望、承认、死亡斗争与历史终结",
+      "locatorVerified": true,
+      "identity": "later-reception；明确为二十世纪接受史，不等同《精神现象学》唯一原意。"
+    },
+    {
+      "id": "later-fanon",
+      "workId": "Frantz Fanon，反殖民承认批判",
+      "edition": "twentieth-century reception",
+      "locator": "殖民种族秩序中的承认问题",
+      "locatorVerified": true,
+      "identity": "later-reception；作为后世改写与批判，不反投射为黑格尔原段。"
+    },
+    {
+      "id": "later-left-right",
+      "workId": "Left and Right Hegelian traditions，十九世纪黑格尔主义分裂",
+      "edition": "post-1831 reception",
+      "locator": "宗教、国家、青年黑格尔派与保守派争论",
+      "locatorVerified": true,
+      "identity": "later-reception；后世阵营从文本争议发展而来，不作为黑格尔本人双重立场。"
+    },
+    {
+      "id": "project-interpretation",
+      "workId": "Hegel longform package，自然语言论证与当代案例",
+      "edition": "1.0.0",
+      "locator": "十二单元正文中的例子、异议、回应与边界说明",
+      "locatorVerified": true,
+      "identity": "project-interpretation；所有日常例子和综合判断标识为项目解释，不伪装成黑格尔原话。"
+    },
+    {
+      "id": "aesthetics-berlin-1820-21",
+      "workId": "G. W. F. Hegel, Vorlesungen uber die Philosophie der Kunst I (GW 28,1)",
+      "edition": "1820/21 Berlin cycle; Nachschrift Wilhelm von Ascheberg and Willem Sax van Terborg; ed. Niklas Hebing and Walter Jaeschke, Felix Meiner, 2015",
+      "locator": "GW 28,1, pp. 3-214; use pp. 3-46 for the introduction/art-beauty task and the separately paginated sections identified in the critical table of contents for art forms; source witness and cycle are fixed by GW 28,4, pp. 1187-1188",
+      "locatorVerified": true,
+      "identity": "lecture-transcript / student notes (Ascheberg-Terborg), 1820/21; not Hegel-authored published prose and not Hotho 1835-1838."
+    },
+    {
+      "id": "aesthetics-berlin-1823",
+      "workId": "G. W. F. Hegel, Vorlesungen uber die Philosophie der Kunst I (GW 28,1)",
+      "edition": "1823 Berlin cycle; Nachschrift Heinrich Gustav Hotho with variants from Carl Kromayr; critical GW edition",
+      "locator": "GW 28,1, pp. 215-514; Hotho 1823 study edition: introduction pp. 1-46, beauty pp. 47-78, ideal pp. 79-117, art forms pp. 118-214; witness descriptions in GW 28,4, pp. 1189-1195",
+      "locatorVerified": true,
+      "identity": "student notes / lecture cycle (Hotho 1823, Kromayr variants); Hotho as auditor is distinct from Hotho as posthumous editor."
+    },
+    {
+      "id": "aesthetics-berlin-1826-29",
+      "workId": "G. W. F. Hegel, Vorlesungen uber die Philosophie der Kunst II-III (GW 28,2-3)",
+      "edition": "1826 lead witness Karl Gustav Julius von Griesheim with Kehler and other variants; 1828/29 lead witness Adolf Heimann with Libelt/Rolin variants; ed. Hebing/Jaeschke, Meiner 2018/2020",
+      "locator": "1826: GW 28,2, pp. 519-903 (Kehler parallel locator pp. 44 and 97 for art as Schein/presentation); 1828/29: GW 28,3, pp. 909-1167, esp. general division pp. 937-943, ideal pp. 944-997, art forms from p. 998; witness identities GW 28,4, pp. 1195-1211",
+      "locatorVerified": true,
+      "identity": "two distinct late lecture cycles: Griesheim-led 1826 transcript set and Heimann-led 1828/29 transcript set; formulations must not be fused into a single verbatim text."
+    },
+    {
+      "id": "aesthetics-hotho-1835",
+      "workId": "H. G. Hotho (ed.), G. W. F. Hegels Vorlesungen uber die Aesthetik",
+      "edition": "Werke, vols. 10.1-10.3, Berlin 1835, 1837, 1838; second ed. 1842-1843",
+      "locator": "editorial-edition identity and publication sequence: GW 28,4, pp. 1214-1216; any substantive citation must additionally give the relevant volume/page in Hotho edition and must not be treated as a verbatim Hegel publication",
+      "locatorVerified": true,
+      "identity": "posthumous editorial reconstruction by Hotho; published-text form is editorial, not a Hegel-authored final Aesthetics."
+    },
+    {
+      "id": "encyclopedia-subjective-1830",
+      "workId": "G. W. F. Hegel，《哲学科学百科全书纲要》第三部",
+      "edition": "1830 published outline, §§377–482；正文与 Zusätze 分层",
+      "locator": "1830 published main text: §§377-482; Anthropology §§388-412, Phenomenology §§413-439, Psychology §§440-482. Main paragraphs and posthumous Zusatze must be cited separately.",
+      "locatorVerified": true,
+      "identity": "Hegel-published outline/main text (1830); later Zusatze derive from lecture records and are not co-authoritative with the printed main text."
+    },
+    {
+      "id": "encyclopedia-anthropology",
+      "workId": "G. W. F. Hegel，《哲学科学百科全书纲要》第三部",
+      "edition": "1830 published outline",
+      "locator": "1830 published main text: race at §393 main paragraph; sex/gender hierarchy at §397 main paragraph; magnetic somnambulism at §406 main paragraph and Remark; mental derangement at §408 main paragraph and Remark. Posthumous Zusätze to §§393, 397, 406 and 408 are a separate lecture-record layer and are not invoked by the L14 claims. Habit remains §410 main paragraph.",
+      "locatorVerified": true,
+      "identity": "published main paragraph at §§409-410; posthumous Zusatze excluded unless separately identified."
+    },
+    {
+      "id": "encyclopedia-psychology",
+      "workId": "G. W. F. Hegel，《哲学科学百科全书纲要》第三部",
+      "edition": "1830 published outline",
+      "locator": "1830 main text: theoretical spirit begins §445; practical spirit begins §469; free spirit and transition to objective spirit §§481-482. Do not use the whole §§440-482 span as a claim locator.",
+      "locatorVerified": true,
+      "identity": "Hegel-published main paragraphs; any Zusatz is a separately identified lecture-record layer."
+    },
+    {
+      "id": "right-external-state",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820 title page / 1821 publication；正文、评注、Zusätze 分层",
+      "locator": "published main text §§321-323 for external sovereignty and §325 for military estate; the claim that war prevents ethical ossification/maintains ethical health is only §324 Remark, not the main paragraphs or a Zusatz.",
+      "locatorVerified": true,
+      "identity": "Hegel-published main text plus an explicitly named Remark (§324 Remark); no posthumous Zusatz is silently merged."
+    },
+    {
+      "id": "right-international-law",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821 published work",
+      "locator": "published main text: recognition §331; treaty obligation and international-law ought §§333-334; conduct of war, private life, and possibility of peace §338. Remarks/Zusatze require separate labels.",
+      "locatorVerified": true,
+      "identity": "Hegel-published main paragraphs at §§331, 333-334, 338; not world-history §§341-360 and not a modern institutional reconstruction."
+    },
+    {
+      "id": "right-world-history-boundary",
+      "workId": "G. W. F. Hegel，《法哲学原理》",
+      "edition": "1820/1821 published work",
+      "locator": "published main text §§341-360, used only as boundary evidence against conflation with external state relations §§321-340; cite any Remark or Zusatz separately.",
+      "locatorVerified": true,
+      "identity": "Hegel-published world-history section, boundary evidence only."
+    },
+    {
+      "id": "research-aesthetics-editorial-history",
+      "workId": "Annemarie Gethmann-Siefert, The Shape and Influence of Hegel's Aesthetics",
+      "edition": "Introduction to Lectures on the Philosophy of Art: The Hotho Transcript of the 1823 Berlin Lectures, Oxford University Press, 2014",
+      "locator": "Introduction, ch. II, ‘The Sources for Hegel’s Aesthetics,’ pp. 35-66 (especially II.B, ‘The Transcripts of Hegel’s Berlin Lectures on Aesthetics,’ pp. 49-59, and II.C, ‘Hotho’s Transcript of the 1823 Lectures,’ pp. 60-66); ch. IV, ‘Transcripts Are of Course Opaque Sources,’ pp. 169-175. Cross-check the critical witness catalogue in GW 28,4, pp. 1185-1219.",
+      "locatorVerified": true,
+      "identity": "independent research / editorial history and reception; not Hegel voice."
+    },
+    {
+      "id": "research-subjective-spirit-structure",
+      "workId": "Michael N. Forster, Hegel's Idea of a Phenomenology of Spirit",
+      "edition": "University of Chicago Press, 1998",
+      "locator": "Part II, ch. 5, ‘The Phenomenology as “Appearance” of Hegelian Science,’ pp. 259-269; ch. 6, ‘The Phenomenology’s Independence from Hegelian Science,’ pp. 270-281; ch. 7, ‘The Aufhebung of the Phenomenology to Hegelian Science,’ pp. 282-300. Used only for the 1807 work’s relation to the later system, alongside exact 1830 Encyclopedia paragraphs.",
+      "locatorVerified": true,
+      "identity": "independent research / interpretive structure; not Hegel voice and not a substitute for §§388-482."
+    },
+    {
+      "id": "research-external-state-war",
+      "workId": "Thom Brooks, Hegel's Political Philosophy: A Systematic Reading of the Philosophy of Right",
+      "edition": "2nd edition, Edinburgh University Press, 2013",
+      "locator": "ch. 9, ‘War,’ pp. 133-147, especially the chapter’s reading of Philosophy of Right §§321-340 and its distinction between Hegel’s account of interstate conflict and contemporary justification. Used for interpretive/reception controversy, not as Hegel’s own institutional proposal.",
+      "locatorVerified": true,
+      "identity": "independent research / interpretation and reception; not Hegel voice."
+    }
+  ],
+  "routes": [
+    {
+      "id": "hegel-longform",
+      "version": "1.0.0",
+      "title": "黑格尔：自由如何在世界中成为现实",
+      "lessonIds": [
+        "hegel-01-kant-after",
+        "hegel-02-dialectic",
+        "hegel-03-consciousness",
+        "hegel-04-recognition",
+        "hegel-05-freedom-consciousness",
+        "hegel-06-reason-spirit",
+        "hegel-07-religion-absolute",
+        "hegel-08-logic",
+        "hegel-09-nature-system",
+        "hegel-10-subjective-objective",
+        "hegel-11-right-ethical-life",
+        "hegel-12-history-critique",
+        "hegel-13-aesthetics",
+        "hegel-14-subjective-spirit",
+        "hegel-15-external-state"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "hegel-01-kant-after",
+      "order": 1,
+      "title": "康德之后，世界为何仍像隔着一道墙",
+      "depth": "longform",
+      "guidingQuestion": "康德之后，世界为何仍像隔着一道墙",
+      "coreExplanation": "暂时可得的结论不是“康德错了，黑格尔对了”。康德让理性学会审查自己的限度；黑格尔则追问，限度若被当作不可改变的界碑，会不会重新变成未经审查的教条。下一步不是越墙，而是观察一项规定怎样因自己的要求而移动墙的位置。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "设想你戴着一副永远摘不下来的眼镜。凡是映入眼中的东西都经过镜片整理，但你无法把眼镜摘下，比较“经过镜片的景象”和“原样的景象”。康德的批判哲学很像先查明这副眼镜的结构：空间、时间和知性范畴不是从零散经验里抄来的，而是经验能够成为有秩序对象的条件。",
+            "这个办法有一种重要的诚实。它不再假装心灵只是被动镜子，也不再声称凭纯概念便能窥见超出经验的一切。对象之所以能被认识，是因为感觉材料已经处在可判断的形式里；没有这些形式，只会有无法称作经验的杂乱刺激。",
+            "困难也从成功处出现。若我们只能认识显现于这些条件之下的对象，那么“对象本身”和“对象对我们显现的方式”似乎仍隔着一条线。主体拥有构成经验秩序的形式，对象却保留一个不能按同样方式认识的“自在”面向。墙没有消失，只是位置被画得更精确。",
+            "黑格尔并不简单地指责康德胆小，也不声称自己能绕到心灵背后偷看事物。他先问：我们凭什么把认识想成一种工具或媒介，仿佛一边是现成的主体，另一边是现成的对象，中间再放入范畴？只要这个图景未经检验，任何认识论都会先接受自己要解释的分裂。",
+            "普通理解会说，测量尺和被测桌子当然是两件东西，所以认识形式与对象也该如此。可尺子的长度能用另一把尺校验，认识的“尺”却不能离开认识来校验。若说它必然歪曲对象，我们已经声称知道未被歪曲的对象是什么；若说它完全透明，我们也需要一个独立标准来证明。",
+            "由此出现第一个推动力：对认识的审查本身也是认识活动。不能先在门外检验认识，合格后才进入真理，因为检验所用的区分、证据和推理已经在门内。黑格尔要做的不是取消审查，而是让每一种认识主张在自身运作中显出标准。",
+            "这就是《精神现象学》开端所谓“意识的经验”的朴素含义。某种意识说“我知道对象是这样”，同时也提出“真正的对象应当怎样”的尺度。我们不从外面塞给它答案，只看它实际经验到的对象是否符合自己宣称的尺度。",
+            "若二者不合，失败不只是主体犯了偶然错误。意识原先所说的“真正对象”也会改变，因为那个对象本来就是在该认识关系中被规定的。好比有人把友谊定义为永不反对，真正相处后发现坦率反对也可能是忠诚；改变的不只是一句判断，连“友谊是什么”的对象规定也变了。",
+            "这里已经可以看出黑格尔怎样接续康德。康德追问经验得以可能的条件，黑格尔则继续追问：这些条件为何被当作固定框架？当框架在使用中产生自己无法容纳的结果时，理性是否有能力修正自身，而不诉诸一个永远不可达的外部？",
+            "主体与对象于是不能继续被当作两块预先封好的实体。主体是形成、检验和修改对象规定的活动；对象也不是任意捏造，因为它通过抵抗不充分的规定迫使主体改变。认识既不是复制，也不是随意建构，而是一段双方规定同时被改写的关系史。",
+            "自由问题也沿同一裂缝出现。康德为自由留下实践立场：作为自然现象的人受因果制约，作为理性存在者却必须把自己看成能依道德法则行动。这个区分保住了责任，却使自由似乎安置在经验世界之外，难以说明它怎样成为可见的共同生活。",
+            "例如，一个人拒绝说谎，若自由只意味着内心遵守纯粹准则，那么旁人是否信任他、制度是否保护诚实、贫困是否迫使他屈从，都像外在偶然条件。黑格尔会问：一种永远不能在行动、承认和制度中获得形体的自由，究竟是现实的自由，还是仅仅良好意愿？",
+            "这不是把道德降为环境决定论。恰恰相反，若行动者只能在真空中才算自由，现实中的责任就无法说明。自由需要个人能认领自己的理由，也需要这些理由在他人可理解的规则中得到检验。内在自律是必要的，却未必充分。",
+            "道德形式也有相似压力。普遍化准则能揭露偏私，但面对财产、家庭、市场、贫困和政治权威时，抽象形式不会自动告诉我们哪些制度使每个人都能作为自由者生活。若制度内容完全从外面填入，形式便无法批判既成秩序；若只守形式，行动又可能停在空洞的善意。",
+            "黑格尔的大胆设想是：思想不必在形式和内容之间永远二选一。一个规定若真是普遍的，它必须能解释自己的具体化；一个制度若真是合理的，它必须使自由在其中可被实践，而非仅因存在已久就获得正当性。后来所谓“现实的就是合理的”只能在这个严格意义上讨论。",
+            "这里的“现实”不是任何眼前事实。德语 Wirklichkeit 在黑格尔体系中指一种实现了自身概念、能够维持其必要关系的现实性。腐败官署当然存在，但若它系统地破坏公共职能，它恰好暴露自己没有实现官署应有的概念。存在不等于合理，长久存在也不等于获得哲学赦免。",
+            "同样，“合理”也不是头脑给世界盖章。它要求我们说明一个形态为什么由自己的关系支持，又为什么因内部冲突而失去成立条件。评价不是把理想从天上压到事实，而是追问事实宣称自己是什么，以及它是否做到了。",
+            "内在批判随即遭遇一个难题：如果标准总从一个形态内部产生，我们是否只能接受它自己的价值，无法谴责奴役或父权？这个攻击碰到要害。若“内在批判”只是复述制度的自我辩护，黑格尔方法会沦为保守主义。",
+            "要回答这个难题，可以先看到：一种制度不仅说自己有效，通常还诉诸人身、权利、相互承认或共同善等较普遍承诺。批判可以揭示它让部分人承担义务却拒绝同等地位，因而违反自身成立所依赖的普遍性。不过，黑格尔本人并未总把这一力量贯彻到底；他的性别分工和世界历史判断会成为后面的实质反例。",
+            "这种回应所得，是一个不靠任意外部偏好的批判入口；未决的是，内部承诺是否足以越过被制度压低声音的人。若受排除者连发言资格都被否定，批判就必须听见被官方概念遮蔽的经验，并反过来修订何谓普遍。",
+            "这一步可回到《精神现象学》导论约第七十三至八十九段，那里讨论把认识当作工具或媒介的困难，以及意识用自身尺度检验知识。《法哲学原理》序言出现“凡是合乎理性的都是现实的，凡是现实的都是合乎理性的”，必须结合其“现实性”概念阅读。",
+            "《纯粹理性批判》提供背景：先验感性论、先验分析论以及现象与物自身的区分说明经验条件；第三二律背反和实践哲学打开自由位置。黑格尔不是逐句驳倒这些论证，而是认为批判仍把思维规定放在主体一边，使真理像一个被限制接近的彼岸。",
+            "由此也形成两条解释路径。强形而上学解释认为黑格尔要证明思维与存在具有同一结构；非形而上学或社会认识论解释强调，我们只能在可互相辩护的规范实践中谈对象性。两者都能说明他反对固定二分，却对“绝对”究竟承诺何种世界结构意见不同。",
+            "暂时可得的结论不是“康德错了，黑格尔对了”。康德让理性学会审查自己的限度；黑格尔则追问，限度若被当作不可改变的界碑，会不会重新变成未经审查的教条。下一步不是越墙，而是观察一项规定怎样因自己的要求而移动墙的位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "设想你戴着一副永远摘不下来的眼镜。凡是映入眼中的东西都经过镜片整理，但你无法把眼镜摘下，比较“经过镜片的景象”和“原样的景象”。康德的批判哲学很像先查明这副眼镜的结构：空间、时间和知性范畴不是从零散经验里抄来的，而是经验能够成为有秩序对象的条件。",
+      "nodeIds": [
+        "hegel-01-kant-after-node"
+      ],
+      "checkIds": [
+        "hegel-01-kant-after-check-1",
+        "hegel-01-kant-after-check-2",
+        "hegel-01-kant-after-check-3",
+        "hegel-01-kant-after-check-4"
+      ],
+      "abilitySummary": [
+        "康德之后，世界为何仍像隔着一道墙"
+      ],
+      "recommendedNextLessonId": "hegel-02-dialectic",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-02-dialectic",
+      "order": 2,
+      "title": "辩证运动不是一架“正反合”机器",
+      "depth": "longform",
+      "guidingQuestion": "辩证运动不是一架“正反合”机器",
+      "coreExplanation": "现在可以给辩证运动一个不神秘的定义：某种理解按自己的标准行事，结果发现自己依赖曾排除的条件；它于是取消原定义的自足地位，保存其合理要求，并形成一个更具体但仍可受检验的新理解。下一处检验场，就是最有把握的感官确定性。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "很多人第一次听到辩证法，会想象一个三格盒子：先有正题，再冒出反题，最后二者合成综合。这个公式容易记，却把最重要的事情弄丢了。它让变化像外部操作者依次摆放卡片，而黑格尔关心的是一个主张如何因忠于自身而被迫改变。",
+            "先看一个普通承诺：“真正独立就是完全不依赖别人。”它听来强硬清楚。可一个人若要让独立得到承认，就已经需要别人把他当作能负责的行动者；若完全不在乎任何承认，“独立”甚至无法区别于孤立或无能为力。",
+            "问题不是有人从外面提出相反口号“独立就是依赖”。原主张自己包含两项要求：不受他人任意支配，同时又作为独立者获得社会效力。后一要求离不开他人，因而原先把一切依赖排除的定义与自己的目标发生冲突。",
+            "这种冲突叫作“规定的否定”时，否定并非把一切擦成空白。若只说“完全独立不成立”，我们什么也没得到。更具体的结果是：需要被否定的是任意支配，不是所有关系；能够支持独立的相互依赖必须被保留并重新规定。",
+            "黑格尔常用 Aufheben 一词表达这种双重动作：取消一个形态作为最终真理的地位，同时保存它真正揭示的需要，并把这需要带入更充分的形态。中文常译“扬弃”。初见这个词时，不妨先记成“拆掉不够用的外壳，带走其中不能丢的理由”。",
+            "这也说明为何结果不是折中。若一方说门必须永远开着，另一方说门必须永远关着，折中也许是半开；可若问题在于医院手术室如何兼顾通行与无菌，真正结果是门在特定条件下自动开启。它改变了双方共享却未说出的前提。",
+            "所谓“矛盾”也不能随意理解成形式逻辑允许同一句话同时真假。黑格尔经常分析的是规定之间的实践性或概念性冲突：一个形态要成为它自称的东西，就必须依赖自己排除的条件。若把这种分析当作取消不矛盾律，就会让任何胡话都显得深刻。",
+            "例如“纯粹确定”想排除一切概念中介，只抓住眼前这个。可一旦说出“现在”或“这里”，用的就是可适用于无数时地的普遍词。确定性并非被外部反例击倒，而是表达自身时显示：它实际依靠的东西与它公开宣称排除的东西不同。",
+            "运动由三个环节构成，但不必给它套固定标签。第一，某项规定以直接、自然、似乎无需说明的方式出现。第二，它在实行自己的标准时产生差异、依赖或相反结果。第三，思想把这个失败理解为关于对象的新知识，而不是简单退回原点。",
+            "第三步尤其容易被误读为圆满和解。新的形态只解决先前的特定困难，它也带着新的限度。知觉比感性确定性丰富，却会在“一物多性质”的关系上摇摆；知性用力与规律解释这种摇摆，又会把真实世界分裂成现象与超感世界。",
+            "因此辩证运动不是保证每场冲突都有幸福结局。它保证的只是：若一个形态确实有内在标准，我们可以追踪它的成败，从失败中得到有规定的结果。历史中的战争、压迫和灾难不会因为后来有人理解它们就变成必要善事。",
+            "“否定性”第一次出现时也应这样理解。它不是对万物冷嘲热讽，而是一个东西能够与自己的当前样态拉开距离的能力。承诺可以被检验，制度可以被修订，行动者可以说“这件事虽由我做，却不符合我愿意成为的人”，都显示否定性。",
+            "如果没有这种距离，自由只能是顺从既定冲动。可若否定只剩无限拒绝，行动也无法落地。黑格尔所谓自由需要否定某个限制、形成较具体的自我关系，并在现实关系中承担结果；单纯说“不”只是自由的一瞬。",
+            "方法也不能从《逻辑学》机械搬到历史。逻辑范畴的推进追问一种纯粹规定是否自足；《精神现象学》追踪意识形态的经验；《法哲学原理》重建自由意志的制度条件。它们有家族相似，却不是同一套三步算法在不同材料上重复运行。",
+            "同理，“精神”不是躲在事件背后的幽灵发动机。这个词在相关语境中指人的意义、规范和制度生活：语言让我们共享理由，法律固定权利地位，习惯把规则变成第二天性。精神的运动通过人的行动发生，却不能还原成某个个人的计划。",
+            "一个现实例子是劳动合同。把它只看成两个孤立意志签字，会忽略货币、财产权、职业训练、司法和生存压力。合同自由的概念要求双方能作有效选择；当一方没有拒绝条件时，形式平等会产生与其自由承诺相冲突的结果。",
+            "这时辩证分析不会立即指定唯一政策。它先指出“只要签字即自由”的规定不够，因为签字的效力依赖一整套公共条件。可如何设计工时、保障和协商权，仍需经验研究、政治判断与受影响者参与，不能从一个抽象词直接演绎。",
+            "一种有力质疑是，这种方法总能事后说某个失败“早已包含矛盾”，所以不可证伪。若任何结果都能被包装成必然过渡，辩证法就只是胜利者写历史的修辞。",
+            "要回答这种质疑，有效的内在分析必须预先说清该形态自己的标准、依赖关系和具体失配，并展示新规定如何保留旧规定所保护的理由。若只在结果出现后贴上“否定之否定”，却不能说明中间必要性，就没有完成论证。",
+            "这一回应所得，是可检验的论证纪律：不是数到三，而是逐项重建前提。未决之处在于，黑格尔有时把逻辑必然性写得过强，尤其在世界历史讲演中容易把偶然暴力纳入宏大方向。后面会把这种越界当作问题而非成就。",
+            "《精神现象学》序言约第五十段附近说明“否定的东西同样是肯定的”，导论则展示“规定的否定”怎样产生新对象。《逻辑学》本质论的“矛盾”以及概念论末尾的“绝对方法”提供更技术性的版本。",
+            "“正题、反题、合题”并非黑格尔著作中支配全体系的固定术语。它常经由对德国观念论的简化叙述传播。黑格尔确实频繁使用三重划分，但三项的名称、关系与必要性必须由具体论证说明，不能靠模板代替。",
+            "分歧随即落到“矛盾”究竟属于哪里：它是现实本身的结构，还是我们概念承诺的规范冲突？实在论者强调对象并非静止实体；语用与规范解释强调主张在推理实践中承担的后果。谨慎做法是每次标明正在分析逻辑规定、意识经验还是社会制度。",
+            "现在可以给辩证运动一个不神秘的定义：某种理解按自己的标准行事，结果发现自己依赖曾排除的条件；它于是取消原定义的自足地位，保存其合理要求，并形成一个更具体但仍可受检验的新理解。下一处检验场，就是最有把握的感官确定性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "很多人第一次听到辩证法，会想象一个三格盒子：先有正题，再冒出反题，最后二者合成综合。这个公式容易记，却把最重要的事情弄丢了。它让变化像外部操作者依次摆放卡片，而黑格尔关心的是一个主张如何因忠于自身而被迫改变。",
+      "nodeIds": [
+        "hegel-02-dialectic-node"
+      ],
+      "checkIds": [
+        "hegel-02-dialectic-check-1",
+        "hegel-02-dialectic-check-2",
+        "hegel-02-dialectic-check-3",
+        "hegel-02-dialectic-check-4"
+      ],
+      "abilitySummary": [
+        "辩证运动不是一架“正反合”机器"
+      ],
+      "recommendedNextLessonId": "hegel-03-consciousness",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-03-consciousness",
+      "order": 3,
+      "title": "从“就是这个”到规律背后的世界",
+      "depth": "longform",
+      "guidingQuestion": "从“就是这个”到规律背后的世界",
+      "coreExplanation": "这段路的净成果是：最直接的“这个”依赖普遍表达，多性质之物依赖关系结构，规律又不能脱离其显现。意识越努力把真理安置在纯对象一边，越发现自己的区分活动已经在场，于是必须问：这个知道自己的“我”究竟如何成为自己？",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "桌上有一只红杯。最自然的想法是：先别讲概念，我只相信眼前这个杯子。它就在这里、就在现在，感官给出的个别事实似乎比任何理论都更丰富、更可靠。《精神现象学》把这种姿态称为感性确定性。",
+            "感性确定性不是说感觉总会出错，而是声称真理来自未经中介的“这个”。它把知道者压缩成纯粹的“我”，把对象压缩成纯粹的“这一个”，仿佛越少说，越能保住对象的独特性。",
+            "可是请把真理写下来：“现在是中午。”到了晚上，纸上的句子仍在，内容却不再真。我们会解释说，真正意思是“写下时的那个现在”。可“现在”正因为适用于许多时刻，才能被语言保存；它是普遍形式，不是不可重复的纯个别。",
+            "“这里”也一样。站在桌前说这里是杯子，转身后这里成了窗户。不是感官欺骗了我们，而是“这里”本来就是能容纳不同内容的关系位置。试图排除普遍性的直接确定，只有借助普遍词才能表达自己。",
+            "所得并非感官无价值。被取消的是“感觉无需概念便能独自提供真理”的主张；被保留的是对象确实以此时此地的方式出现。新的问题是：若对象不只是一个说不出的点，它能否作为有多种性质的东西被把握？",
+            "知觉于是说，杯子是一个物，红、圆、硬、能盛水是它的性质。一个物把多种性质统一起来，每种性质又能在别的物上出现。我们似乎终于既保住个别，又说明可共享的特征。",
+            "麻烦在“一”与“多”的安排。若杯子真正是一，红、圆、硬只是我们分别观察的结果，那么性质像落在主体一边。若性质真正属于杯子，它又像一个“也”：它既红也圆也硬，由彼此不同的普遍性质集合而成。",
+            "知觉在对象和自身之间来回分配矛盾。看错颜色时，它说对象没问题，是光线或眼睛造成欺骗；发现性质互相制约时，它又说物本身具有复杂结构。每次修补都保存“无矛盾的真实物”，代价是不断改变何者属于物。",
+            "以盐为例，白、咸、晶体、可溶并非随意清单。可溶性只在水等条件下显现，晶体结构又解释某些性质。物不是性质的衣架；性质通过关系成为它的性质。知觉的“独立物加附属属性”图景开始不够。",
+            "知性接手时提出力、规律和不可直接看见的结构。磁铁的吸引不只是许多感觉片段，力解释为何在条件变化时出现可重复结果。真实对象被理解为现象背后的关系秩序。",
+            "这是巨大进步。科学并不满足于记录每次落体，而寻找能统一差异的规律。规律使事件可说明，也让预测成为可能。黑格尔没有反科学；他质疑的是把规律变成与现象割裂的第二世界。",
+            "若“力”只能通过表现被认识，却又被说成完全在表现背后，我们得到一个空盒子。说电具有产生电现象的力，若不进一步说明关系，只是把现象换个名词。解释必须展示结构，而不是把未知藏进超感对象。",
+            "知性还倾向把差异放进两个世界：此岸是变化现象，彼岸是不变规律。但规律只有在不同情况中实现才有内容；完全不变化、也不进入差异的规律无法解释任何具体变化。彼岸必须在此岸显现，否则它只是思想制造的影子。",
+            "黑格尔用“颠倒的世界”等艰难段落逼迫知性承认，规律中的同一性包含差异。正电与负电、内与外、因与果不能各自封闭；一方的意义由另一方规定。对象不是在关系之后才偶然进入关系，它在这些关系中成为所是。",
+            "这一步把意识推向自我意识。意识原以为只是在对象里发现关系，却发现区分、统一和规律的活动也是自己的活动。对象性没有消失，但认识者不能再把自身当作透明旁观者。",
+            "三种形态并不是把日常感知分成好坏等级。我们每天仍会指认眼前对象、辨认它的性质并寻找规律；被取消的只是让其中一种独占真理的要求。",
+            "实际调查也常在三者之间往返：先指认异常样本，再比较性质，随后提出关系假说；新证据又可能迫使我们重定样本边界。修正因此不只是失败，也让对象规定变得更准确。",
+            "黑格尔的分析能说明这种修正为何有认识价值，却不能预先规定某门科学应接受什么证据。具体理论怎样受检验，仍须由相应研究方法决定。",
+            "一个常见误会是：既然“这个”说不出，黑格尔否认个别。恰好相反，他认为真正的个别不是排除一切关系的孤点。红杯之所以是这一只杯，包含其材料、用途、位置、历史和与别物的差异；具体个别比空洞的“这个”更丰富。",
+            "另一个误会是把过程读成语言游戏。指示词的普遍性只是入口，更深的问题是认识主张如何确定对象。即使不说话，只用手指向杯子，指示动作也持续一段时间、占据位置并可被他人重复理解，仍包含结构。",
+            "当代感知研究带来一个直接质疑：它可以承认概念加工，同时维持一个独立外部世界，何必走向黑格尔的自我意识？这个问题击中从知性到自我意识的过渡是否过快。",
+            "对此可以回答，黑格尔在这里并未证明外部世界由心灵创造。他证明的是，对象作为“被认为真实的对象”离不开判断标准，而标准的运作必须进入说明。所得是认识关系不能只解释对象端；未决的是对象独立性应如何作更强的实在论说明。",
+            "经验实在论可以与此相容：杯子不因我闭眼而消失，却只能在可纠错的感知、语言和实践中被确定为什么。对象抵抗我的判断，正是纠错可能的条件；若一切由我任意构造，就不会有失败经验。",
+            "《精神现象学》“意识”部分给出了这条进程：感性确定性约第九十至一百一十段，知觉约第一百一十一至一百三十一段，力与知性随后展开。段落编号随译本可能略有差异，应同时核对小标题。",
+            "这些分析属于《精神现象学》的意识形态进程，不应与《逻辑学》的“存在、定在、某物”直接等同。两部著作都会处理直接性与中介，但前者展示意识经验，后者考察纯思维规定；相似不代表逐段密码对应。",
+            "争论由三个问题展开：感性确定性是否主要是语义论证，知觉辩证是否依赖过时物理学，力与知性的结尾能否充分推出自我意识。强读法强调必然推进，温和读法把它们看成对若干认识立场的累积压力。",
+            "这段路的净成果是：最直接的“这个”依赖普遍表达，多性质之物依赖关系结构，规律又不能脱离其显现。意识越努力把真理安置在纯对象一边，越发现自己的区分活动已经在场，于是必须问：这个知道自己的“我”究竟如何成为自己？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "桌上有一只红杯。最自然的想法是：先别讲概念，我只相信眼前这个杯子。它就在这里、就在现在，感官给出的个别事实似乎比任何理论都更丰富、更可靠。《精神现象学》把这种姿态称为感性确定性。",
+      "nodeIds": [
+        "hegel-03-consciousness-node"
+      ],
+      "checkIds": [
+        "hegel-03-consciousness-check-1",
+        "hegel-03-consciousness-check-2",
+        "hegel-03-consciousness-check-3",
+        "hegel-03-consciousness-check-4"
+      ],
+      "abilitySummary": [
+        "从“就是这个”到规律背后的世界"
+      ],
+      "recommendedNextLessonId": "hegel-04-recognition",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-04-recognition",
+      "order": 4,
+      "title": "欲望为何不能独自证明我是谁",
+      "depth": "longform",
+      "guidingQuestion": "欲望为何不能独自证明我是谁",
+      "coreExplanation": "欲望的失败教会我们，自我不能靠吞没他物成为自由；主人的失败进一步说明，来自被剥夺独立者的服从不能提供真正承认。可相互承认仍只是要求，现实中的意识接着会尝试把自由安置在内心，不等制度改变。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "饥饿时，食物像纯粹对象：我把它吃掉，欲望获得满足。这个经验很容易诱发一种自我理解——我通过否定外物来证明自己的独立。对象消失，我仍在，仿佛自我比对象更真实。",
+            "但满足很快过去，饥饿再次回来。若自我只能靠不断消灭对象确认自己，它其实被对象牵着走。欲望的循环没有给出稳定独立，反而显示自我依赖不断出现的他物。",
+            "有生命的对象更明显地抵抗。植物、动物和他人不是任意材料，它们以自己的方式维持自己。自我意识需要一种对象，它既不是死物，又能让“我作为自我”得到确认；这把问题推向另一个自我意识。",
+            "“承认”第一次出现，可以先理解为一种双方都有效的地位确认。别人怕我，不等于承认我；机器按指令回应，也不等于把我当作能提出理由、承担责任的人。承认要求确认者本身也被视为有判断资格。",
+            "这解释了为什么单向赞美不够。若我把对方看成毫无价值，却要求他证明我的价值，他的肯定对我也没有分量。真正的确认必须来自一个独立者，而独立者不会只是我的回声。",
+            "双方都想证明自己不受对方支配，关系可能升级为生死斗争。每一方都冒生命危险，以显示自己不只是生物保存欲。可若一方死亡，幸存者又失去能承认自己的独立者；斗争的目标被胜利本身毁掉。",
+            "主奴关系由不对称的退让产生。一方宁愿服从以保全生命，成为奴；另一方成为主。主人似乎取得独立，让奴劳动并享用产品，而奴通过物来满足主人的欲望。",
+            "表面胜利藏着结构性失败。主人得到的承认来自一个被他规定为不独立的人，所以这种承认不符合主人自己的要求。他与物的关系也由奴劳动中介，所谓直接独立实际依赖被压低的他人。",
+            "奴的处境当然首先是暴力和剥夺，不能浪漫化。但黑格尔分析一种意外变化：恐惧使奴体验到既有身份并非牢不可破，劳动又要求延迟欲望、按对象性质塑形。在改变物的过程中，他看到自己的活动获得相对持久的形态。",
+            "做木桌的人不能靠一时冲动完成工作。木材的纹理、工具的限制和预想形式共同约束动作。劳动者在对象中认出自己的技能，也学习欲望并非唯一命令。这为较稳定的自我关系提供条件。",
+            "这绝不意味着奴役是必要教育。真实奴役剥夺生命、亲属关系、身体自主和劳动成果，常摧毁而非培养能力。哲学分析若把受害者痛苦当作精神成长材料，就再次站到主人视角。",
+            "较谨慎的所得是：支配关系不能提供充分承认，而形成世界的活动可能给被支配者带来反抗资源。是否能够解放，还取决于联合、制度变化和支配者权力被解除，不能由劳动本身自动保证。",
+            "“主奴辩证法”也不是黑格尔给整段文字的正式标题；原文讨论自我意识的独立与不独立、主人与奴隶。后来的科耶夫、马克思主义、精神分析和反殖民思想把它扩展成不同理论，必须区分原段与接受史。",
+            "承认问题还改写自由。自由不再只是我内心不受干扰，而是我在他人眼中和共同规则中具有可兑现的地位。财产权、证言资格、身体安全和政治发言都是承认的制度形态，不只是礼貌态度。",
+            "然而制度承认也可能失真。法律称所有人为平等主体，却让某些人的劳动、种族或性别成为降低资格的理由。形式名称和实际能力之间的裂缝，使承认理论具有批判力量，也显示仅有法律称谓并不充分。",
+            "承认还有时间维度。今天一句尊重不能自动修复持续剥夺，因为能力、财富和可信度已经在不平等关系中累积。",
+            "若组织宣布“从现在起人人平等”，却不处理谁长期没有受训机会、谁的证言总被怀疑，形式对称仍会延续旧结果。",
+            "补救也不能把人固定成受害身份。它应恢复行动、拒绝和改写规则的地位，并要求强势一方承担改变资源分配的成本；是否足够，要由实际能力变化检验。",
+            "这会改变“相互”的含义。相互承认不要求双方此刻付出相同，而要求关系朝双方都能确认和拒绝的方向重组；在旧不平等尚未消除时，较有资源的一方承担更多修复责任，反而是恢复对等的条件。这种责任不是恩赐，而是重建关系所欠的条件。",
+            "一个工作场景能说明这点。主管说“我重视你的专业判断”，却在每次分歧时用职位压下理由。口头尊重与互动结构冲突。真正承认不要求主管放弃职责，却要求决定能回应相关理由，并允许下属作为判断者出现。",
+            "另一个场景是亲密关系。若爱被定义为“你应完全为我而活”，被爱者越失去独立，爱的证明越无价值。持久亲密反而要让双方在关系中保持能说“不”的地位，否则同意变成空话。",
+            "这里最自然的质疑是：人完全可以靠自己的计划和成就形成自尊，为什么一定需要他人承认？把自我交给社会评价，会不会导致从众？",
+            "黑格尔可以这样回答：并非每个评价都该接受，而是“计划、成就、责任、自尊”这些概念本已处在共享规范中。所得是自我关系具有社会条件；未决的是如何区分解放性的承认与压迫性的期待，这需要批判制度和保留异议空间。",
+            "另一项异议针对劳动论证：主人也能劳动，奴也可能被迫做毫无技能与成果归属的重复工作。若劳动条件不同，原文的上升路线并不普遍。回应只能承认这一限制，不能把所有劳动神圣化。",
+            "《精神现象学》“自我意识”部分在欲望、生命与相互承认之后进入“主人和奴隶”。恐惧、服务和劳动是原论证的关键，不宜只摘取斗争画面。原文未直接讨论海地革命，相关历史关联属于后来的重要争议。",
+            "《法哲学原理》会把抽象承认转化为人格、财产、契约和制度资格；这不是简单重复主奴关系。《精神现象学》展示承认要求如何出现，《法哲学原理》则询问自由意志需要哪些客观形态。",
+            "接受史中，科耶夫强调欲望、死亡斗争和历史终结；马克思转向劳动、异化与阶级关系；法农分析殖民种族秩序中承认如何被封锁；当代承认理论讨论爱、权利和社会评价。它们受黑格尔启发，却不能反投射成原文唯一含义。",
+            "欲望的失败教会我们，自我不能靠吞没他物成为自由；主人的失败进一步说明，来自被剥夺独立者的服从不能提供真正承认。可相互承认仍只是要求，现实中的意识接着会尝试把自由安置在内心，不等制度改变。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "饥饿时，食物像纯粹对象：我把它吃掉，欲望获得满足。这个经验很容易诱发一种自我理解——我通过否定外物来证明自己的独立。对象消失，我仍在，仿佛自我比对象更真实。",
+      "nodeIds": [
+        "hegel-04-recognition-node"
+      ],
+      "checkIds": [
+        "hegel-04-recognition-check-1",
+        "hegel-04-recognition-check-2",
+        "hegel-04-recognition-check-3",
+        "hegel-04-recognition-check-4"
+      ],
+      "abilitySummary": [
+        "欲望为何不能独自证明我是谁"
+      ],
+      "recommendedNextLessonId": "hegel-05-freedom-consciousness",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-05-freedom-consciousness",
+      "order": 5,
+      "title": "把自由藏进内心，为什么仍不能安宁",
+      "depth": "longform",
+      "guidingQuestion": "把自由藏进内心，为什么仍不能安宁",
+      "coreExplanation": "此处保留一个警戒：从彼岸回到世界，不意味着现实已经合理。它只意味着真理必须能在有限关系中接受检验。世界可能拒绝自由，个人也可能把私人确信错当普遍法则；二者的冲突将迫使视野从个人理性转向共同精神。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "受制于外部权力时，一个人可能说：“你能控制我的身体，却不能控制我的判断。”这不是虚假安慰。它发现自我能与眼前处境拉开距离，拒绝把命运等同于自身价值。《精神现象学》用斯多葛主义刻画这种自由。",
+            "斯多葛式意识把思维当作自由领地。主人可以命令劳动，奴也能在思想中把握普遍原则；社会身份因此不再是自我的最终定义。这比依赖主人承认前进一步，因为自由不再完全押在对方态度上。",
+            "问题在于这种普遍思维可能过于空。无论身处宫殿还是监牢，都说“真正自由在内心”，就没有说明具体应做什么，也没有改变谁能支配谁。思想保持不受污染，现实差别却被降为不重要。",
+            "当自由要更彻底，它变成怀疑主义：不只对外在身份保持距离，还逐项拆解任何声称固定的真理。每个判断都能被展示为依赖条件，于是意识体验到自己作为否定活动的力量。",
+            "怀疑主义的力量是防止有限规定冒充绝对。它能揭露习俗把偶然等级说成自然，也能提醒认识并非占有永恒对象。可若它宣称“一切主张都不可靠”，这句话本身又以可靠主张的姿态出现。",
+            "生活也让彻底悬置难以维持。怀疑者吃饭、避险、与人交谈，实际承认身体和共同规则；在论辩中否定这些规则，行动中又依赖它们。意识一边体验自己为普遍否定，一边发现自己是受限制的具体存在。",
+            "这两面没有和解时，形成“苦恼意识”。它把真正、不变、纯洁的一方安置在彼岸，把变化、欲望、过失的一方归给自己。自我越努力接近绝对标准，越感到自身有限不配。",
+            "这可以用完美主义说明。某人把“真正善良”定义为动机绝无私利。每次帮助别人，他都检查是否享受赞美；只要发现一点满足，就把整个行动判为污染。标准越纯，现实行动越无法通过。",
+            "苦恼不只是坏情绪，而是一种结构：意识知道不变者必须与自己有关，否则崇敬毫无意义；同时又把二者分离，认为联系只能由中介者、仪式或恩典从外面给予。它既渴望统一，又靠分裂维持虔敬。",
+            "黑格尔讨论祈祷、苦修、告解与中介时，明显以基督教经验为背景。但不能把所有宗教生活都简化为神经症。他分析的是有限自我与绝对者被固定分离时产生的自我否定，不是在给信仰者作临床诊断。",
+            "转变从一个被忽略的事实发生：意识能够意识到自己的分裂，就已经不只是被分裂的那一面。它把有限与无限放在同一关系中思考，说明所谓不变者并非完全在关系之外。彼岸只有通过有限意识才被说成彼岸。",
+            "这不是一句“你就是上帝”的轻率安慰。所得较克制：绝对若与有限毫无联系，便不会是有限者的绝对，也不会成为思想内容。真正问题变成，统一怎样在行动和共同世界中实现，而不是怎样逃离有限。",
+            "于是个体开始把自身活动理解为理性的实现。与其消灭欲望和世界，不如追问世界是否具有可理解结构，行动能否在其中找到自己。这为“理性”形态开路，但也带来把个人确信当作世界法则的危险。",
+            "斯多葛主义、怀疑主义、苦恼意识不是按年代排列的完整思想史。它们是自由意识的形态，历史人物与宗教传统提供材料，却经过哲学重构。把古代斯多葛派所有主张塞进几页进程，会误伤其伦理学丰富性。",
+            "它们也不是必须由每个人按顺序经历的心理阶段。一个现代组织可能同时出现三种姿态：员工在内心保持尊严，对官方口号全面怀疑，又因无法达到理想绩效而自责。形态是可重复的关系结构。",
+            "自由在这里获得三项不可丢的理由。第一，社会身份不能穷尽人格；第二，任何有限权威都可受否定；第三，有限与普遍之间必须有可经验的联系。后续形态若只歌颂制度而丢掉这些理由，就不是更充分。",
+            "这三项理由必须连在一起。内在距离保存尊严，怀疑拆开权威的自然化说法，有限行动则让批判进入现实；若缺少最后一步，纯洁标准仍会退回彼岸。",
+            "有限行动不等于要求一次解决整个制度。它可以先确认风险、选择可承担的公开程度，并让不完整的结果接受后续修正。",
+            "同伴、法律援助和退出通道会改变行动风险，使内在拒绝更可能转成安全行动。缺少这些条件时，不能把沉默简单归咎于意志不够坚定。",
+            "行动阈值也不是一次决定。处境变化会让昨日只能私下保存的判断，今天成为可共同表达的要求；自由在这里表现为持续评估关系，而不是用一次英雄举动证明纯洁。",
+            "批评内在自由会遇到一个道德难题：它曾帮助囚徒、被奴役者和异议者保存尊严，黑格尔说它空洞，会不会站在安全位置要求受压者立即改变世界？",
+            "面对这个难题，必须承认内在距离在压迫条件下可能是生存资源，不能贬低。所得只是它不足以构成全部自由；未决的是何时能转向集体行动，这取决于风险与资源。哲学不能把冒险义务强加给处境最危险的人。",
+            "另一项异议是，怀疑主义并不必自相矛盾；它可以只要求按证据调整信念，而非宣布一切为假。回应是这种温和可错论不属于黑格尔攻击的彻底形态，反而可与自我修正方法相容。准确批评必须锁定强主张。",
+            "《精神现象学》“自我意识的自由”部分依次讨论斯多葛主义、怀疑主义、苦恼意识。苦恼意识涉及不变者的形态、服侍、禁欲和中介，译名与段落划分随版本略异。",
+            "宗教问题在这里尚未等同全书后部“宗教”。此处是自我意识如何体验彼岸分裂，后部则讨论一个共同体怎样以图像和叙事表象绝对者。两处材料相连，但论证层次不同。",
+            "后世左、右黑格尔主义从宗教含义处分裂。右派倾向强调基督教教义与哲学和解，左派则把宗教表象解释成人类自我意识的异化形式。费尔巴哈和青年马克思的批判属于接受史，不应冒充黑格尔原段直接结论。",
+            "从内心自由到苦恼意识的逻辑不是嘲笑退缩，而是显示纯内在性怎样产生无法兑现的普遍标准。若自由拒绝进入任何具体关系，它既不会被污染，也不会真正发生。下一步要检验理性在自然、行动和社会世界中寻找自己时会遇到什么。",
+            "此处保留一个警戒：从彼岸回到世界，不意味着现实已经合理。它只意味着真理必须能在有限关系中接受检验。世界可能拒绝自由，个人也可能把私人确信错当普遍法则；二者的冲突将迫使视野从个人理性转向共同精神。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "受制于外部权力时，一个人可能说：“你能控制我的身体，却不能控制我的判断。”这不是虚假安慰。它发现自我能与眼前处境拉开距离，拒绝把命运等同于自身价值。《精神现象学》用斯多葛主义刻画这种自由。",
+      "nodeIds": [
+        "hegel-05-freedom-consciousness-node"
+      ],
+      "checkIds": [
+        "hegel-05-freedom-consciousness-check-1",
+        "hegel-05-freedom-consciousness-check-2",
+        "hegel-05-freedom-consciousness-check-3",
+        "hegel-05-freedom-consciousness-check-4"
+      ],
+      "abilitySummary": [
+        "把自由藏进内心，为什么仍不能安宁"
+      ],
+      "recommendedNextLessonId": "hegel-06-reason-spirit",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-06-reason-spirit",
+      "order": 6,
+      "title": "个人的理性为何会撞上共同生活",
+      "depth": "longform",
+      "guidingQuestion": "个人的理性为何会撞上共同生活",
+      "coreExplanation": "理性的旅程因此从“我在世界发现自己”转成“我只有在共同世界中才成为能行动的我”。但共同世界以宗教图像理解其整体，也试图以哲学概念理解自己。两种理解的关系将把《精神现象学》推向最具争议的结尾。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "摆脱彼岸分裂后，意识可能充满信心地说：“世界是可理解的，我能在其中找到自己。”这就是理性的起点。它不是单纯计算能力，而是主体确信自己的思维与现实并非永远陌生。",
+            "第一种尝试是观察。理性研究自然规律，也观察人的身体、性格和行为，希望找到稳定对应。科学观察确有成果；问题出在把精神活动还原为头骨形状、器官特征或固定心理标签。",
+            "若说一个人偷窃因为颅骨某处隆起，我们并未解释他如何理解财产、处境和理由。外部特征可能相关，却不能替代行动意义。黑格尔讽刺颅相学，是要说明自我意识不能像石块属性那样被完整读出。",
+            "观察失败后，理性转向行动：“既然世界没有直接呈现我的目的，我就把目的实现进去。”享乐追求个人满足，却发现行动进入因果网络，结果不再由单一意愿控制。想要自由享乐，反而可能被欲望习惯和社会后果支配。",
+            "“内心法则”进一步宣称，真诚感受就是普遍正义。它看到僵化秩序的冷酷，愿以个人热情改革世界。可每个人的心都可能提出不同法则；若只以强烈确信为凭，善意冲突无法裁决。",
+            "“德性”则把自己想成纯粹原则的骑士，与腐败的“世道”战斗。问题是世道并非纯粹外物，行动者使用的语言、资源和角色都来自其中。把自己放在无污染善的一边，常会看不见行动实际效果。",
+            "这些失败不是说个人行动无意义，而是说明普遍目的不能只靠私人确信获得效力。行动进入别人已经生活的世界，必须面对规则、习惯、分工和共同记忆。这里出现“精神”的更具体含义。",
+            "精神是“我”同时也是“我们”的生活结构。语言让一个理由能被不同人理解，法律让承诺跨越当下情绪，习惯让互相期待不必每次从零谈判。个人不是被共同体吞没，而是借这些结构成为可负责的个人。",
+            "最简单例子是道歉。只有在共享“伤害、责任、补救”的意义时，一句“对不起”才是行动，不只是声音。道歉者认领行为，受伤者有资格回应，周围规范决定什么补救算真诚。精神就在这种可相互理解的实践里。",
+            "共同结构并不天然正当。一个等级社会也有稳定习惯，却可能只承认部分人为完整人格。因此“精神存在”是描述，“精神实现自由”才是规范判断。稳定与合理不能混同。",
+            "一次换岗能显示制度的持久力量。新法官、教师或医生接替旧人时，角色仍带着档案、程序、权限和公众期待，个人不能凭喜好从零开始。",
+            "可是每次解释规则、处理例外和接受申诉，也会细微改变角色含义。精神由可重复实践延续，又由冲突和修订改变，并非个人之外自走的机器。",
+            "档案还让过去决定持续发生效果，所以修订既要面向未来，也要纠正累积错误。是否解放，应看改变有没有扩大相关人的发言与申诉能力，而非只看角色名称是否更新。",
+            "角色因此带来双重责任：任职者不能以“程序如此”逃避个人判断，也不能把私人善意当作绕过程序的许可。精神的客观力量与个人归责必须同时保留。",
+            "《精神现象学》从希腊伦理世界谈起，展示个人与共同法之间看似直接的和谐。安提戈涅效忠亲属义务，克瑞翁维护城邦法；双方各有正当理由，却把另一原则当作纯粹罪恶。",
+            "悲剧说明，一个共同体若把家庭与公共权威分给固定群体，并假定二者自然和谐，冲突会揭露其片面。行动者不能因出发点正当就免除后果，因为他的行动实际触犯另一项同样构成世界的义务。",
+            "随后出现法权人格、文化异化、启蒙与信仰、自由恐怖、道德世界观等复杂形态。它们不是欧洲史事件的简明年表，而是借历史材料展示个人普遍性与制度普遍性怎样相互错位。",
+            "法国革命的自由要求在黑格尔那里有真实解放意义：任何固定身份都不能凌驾于普遍自由。可当“普遍意志”拒绝一切分工和中介，把任何具体组织都视为背叛时，纯粹自由只剩对具体个人的怀疑和清除。",
+            "这并不证明革命必然恐怖，也不替旧制度辩护。论点更窄：抽象普遍性若不能形成可问责的制度差异，会把差异本身当敌人。自由需要具体权力结构，同时必须让结构保持可批判和可更替。",
+            "道德意识随后把善安置在内心，把现实行动看成总会混入欲望。它容易成为“美丽灵魂”：为了不玷污纯洁，拒绝行动，只从旁审判。可是拒绝行动也是行动，它把改变负担留给别人。",
+            "告白与宽恕的场景试图打开出路。行动者承认自己把普遍理由落实为特殊行为，判断者也承认纯粹旁观并非无辜。双方不是说伤害无所谓，而是停止把对方固定成单一罪名，使责任与重新关系成为可能。",
+            "把自由安置在共同规范会引出尖锐质疑：异议者是否必须先说统治者听得懂的话？若公共语言本身排斥某些经验，“相互理解”可能成为同化要求。",
+            "对此的回答不能把共享规范当作封闭词典；受排斥者的抗议能显示旧语言的盲点并扩展何谓伤害与权利。所得是自由需要公共可理解性；未决的是权力不对称如何扭曲发言条件，这不能只靠理想对话解决。",
+            "另一项异议针对历史材料：黑格尔把希腊、罗马、启蒙和革命串成欧洲中心路径，是否把别的社会降为背景？回应必须承认文本结构的排除，并把逻辑洞见与其狭窄历史叙述分开检验，不能用“时代限制”轻轻带过。",
+            "《精神现象学》的“理性”与“精神”两大部分承载这次转折。观察理性含颅相学批判，实践理性含享乐、内心法则、德性；精神部分含伦理世界、教化、启蒙、绝对自由与恐怖、道德和良心。",
+            "《法哲学原理》对制度的分析不等于《精神现象学》这些历史形态的复写。前者以自由意志概念组织抽象法、道德与伦理生活，后者描述意识如何经历世界失配。二者应互证，却不能互相替代。",
+            "争论集中在“精神”是超个人实体还是规范实践结构。若把它当神秘巨人，个人责任会消失；若只当人际约定，又难说明制度为何具有超出个人意愿的持久力量。较稳妥的理解是社会结构由人维持，却反过来塑造行动可能。",
+            "理性的旅程因此从“我在世界发现自己”转成“我只有在共同世界中才成为能行动的我”。但共同世界以宗教图像理解其整体，也试图以哲学概念理解自己。两种理解的关系将把《精神现象学》推向最具争议的结尾。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "摆脱彼岸分裂后，意识可能充满信心地说：“世界是可理解的，我能在其中找到自己。”这就是理性的起点。它不是单纯计算能力，而是主体确信自己的思维与现实并非永远陌生。",
+      "nodeIds": [
+        "hegel-06-reason-spirit-node"
+      ],
+      "checkIds": [
+        "hegel-06-reason-spirit-check-1",
+        "hegel-06-reason-spirit-check-2",
+        "hegel-06-reason-spirit-check-3",
+        "hegel-06-reason-spirit-check-4"
+      ],
+      "abilitySummary": [
+        "个人的理性为何会撞上共同生活"
+      ],
+      "recommendedNextLessonId": "hegel-07-religion-absolute",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-07-religion-absolute",
+      "order": 7,
+      "title": "绝对知识不是知道所有事实",
+      "depth": "longform",
+      "guidingQuestion": "绝对知识不是知道所有事实",
+      "coreExplanation": "《精神现象学》在此结束，但黑格尔哲学没有结束。若只读意识旅程，会误以为辩证法仅是心理或文化历史。下一步进入《逻辑学》，那里不再跟随一个经验中的意识，而直接询问最基本的思维规定能否自立。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "“绝对知识”听来像一台无所不知的机器：过去未来、每个秘密都尽收眼底。若这样理解，《精神现象学》结尾显然荒唐。黑格尔谈的不是事实总量无限增加，而是认识不再把自己的条件当作与对象无关的外壳。",
+            "一路走来，意识不断把真理放在某个彼岸：纯粹这个、物背后的本质、独立自我、不变神圣者、私人良心。每次失败都显示，所谓彼岸只能在与意识、语言、行动和共同世界的关系中被规定。",
+            "绝对在这里先指“不再由一个未检验的外部限制”。如果认识说“我能知道一切，唯独真正对象永远在关系之外”，那个永远在外的对象仍规定认识边界。绝对知识要取消的是这种固定对立，不是取消对象的独立抵抗。",
+            "宗教为何在结尾前出现？共同体不只用法律和习惯生活，也用神话、礼仪和形象讲述自身与终极意义的关系。宗教让精神把整体呈现在自己面前，却多以“表象”方式呈现。",
+            "表象不是谎言。它用创造、化身、苦难、死亡与和解等图像表达有限与无限的关系。问题在于图像容易让关系各方仍像独立人物和事件，统一被看成一次发生在远方的神圣故事。",
+            "《精神现象学》区分自然宗教、艺术宗教和启示宗教，安排明显带有十九世纪基督教中心框架。自然形象、希腊艺术与基督教和解被置于上升序列，既提供细致分析，也把其他传统当作通往欧洲基督教的较低阶段。",
+            "哲学概念要做的不是把宗教内容嘲笑掉，而是理解图像表达的关系。例如“神成为人”可以被概念化为无限者并非排斥有限，精神只有在有限共同体的自我认识中才实际存在。这个转换会改变传统信仰含义，争议正由此产生。",
+            "右派黑格尔主义倾向认为哲学证明了基督教真理；左派黑格尔主义则认为哲学已把神学内容翻译成人类历史，宗教形式因而可被超越。黑格尔本人声称内容同一、形式不同，但这种声称是否维持正统教义，从他生前就不稳定。",
+            "绝对知识回顾此前形态，理解每次对象改变也伴随认识标准改变。它不站在旅程外宣布正确答案，而是把旅程本身认作真理形成的一部分。真理不是脱离错误的静止结果，而是能说明错误为何出现及怎样被克服的整体。",
+            "这里的“整体”也容易滥用。若有人说只有等到历史终点才能判断当下，那么任何现行伤害都可被推迟评价。更合理的含义是，一个判断需说明其关系和生成条件；这不禁止立即阻止暴力，也不要求等世界完成。",
+            "“回忆”或“内化”在结尾很关键。过去形态没有被扔掉，它们作为必要但有限的经验保存在概念中。感性、知觉、欲望、良心仍是生活真实环节，只是不再被当作孤立终点。",
+            "全书末尾把精神的历史与时间联系起来，又指向“科学”即体系哲学。这像是通往《逻辑学》的门：既然主体与对象的固定对立已被经验性地松动，现在可以考察思维规定自身的运动。",
+            "可是《精神现象学》是否真成功提供这座桥，研究者意见分歧。有人认为它是体系必要导论，有人认为黑格尔后来在《哲学全书》中降低了它的独占地位，也有人把它看成独立的精神形成叙事。",
+            "绝对知识也不能理解为个人获得神视角。它是一个反思位置：知道任何对象规定都包含其被给予、被判断和被修正的历史，因而愿意让概念对自身负责。有限认识仍会出错，经验研究仍不可替代。",
+            "翻译可以说明这种反思。译者若自称透明管道，会看不见选词和语境判断；若断言原作只是译者创造，又会抹去原文对译法的约束。",
+            "较成熟的译法公开版本依据，接受原文和其他译者纠正，同时努力让对象在新语言中出现。承认中介因此并不等于取消对象。",
+            "这个类比给出的是认识的责任结构，不足以证明整个绝对精神已经自知。不同译法也可能没有最终裁决，反思已知条件并不保证只有一个表达。",
+            "原文的抵抗仍能排除某些译法：语法、上下文和作品用语会让一种解释比另一种更难成立。对象不必脱离中介，仍可对中介施加约束。",
+            "一个普通例子是司法判决。成熟判断不只列事实，也说明证据规则、法律概念和先例怎样使事实成为可裁判对象。它不会因此任意制造事实；相反，公开条件让判决更能受上诉和批评。",
+            "同样，承认知识条件不等于“人人有自己的真理”。若两个说法冲突，我们要比较证据、概念后果和纠错能力。绝对知识拒绝的是一个不可接近的终极对象，不是拒绝真伪区分。",
+            "“和解”立即招来一个质疑：若主体与对象最终统一，批判还有位置吗？一个自称整体的体系很容易把外部异议说成尚未成熟，从而免疫于反驳。",
+            "要回答这个质疑，真正取消外部限制应意味着体系能够把异议作为具体理由纳入自我检验，而非凭“整体”压制。所得是反思条件的要求；未决的是黑格尔体系是否实际做到，尤其面对殖民者之外的历史经验时证据相当不利。",
+            "另一项异议来自神学：把启示转成概念，会不会消解人格神、恩典和不可化约的信仰？哲学不能假装没有代价。回应只能说黑格尔试图保存和解内容；是否仍是基督教真理，取决于对宗教形式不可替代性的判断。",
+            "《精神现象学》的“宗教”与“绝对知识”两部分，尤其末尾关于表象向概念、时间、回忆和精神历史的论述，给出了这次转换。序言关于真理是整体、实体同时是主体的说法，应由全书运动解释，不能当口号独立使用。",
+            "《宗教哲学讲演录》是多轮讲演、学生笔记和身后编辑形成的文本传统，不等同于一八零七年《精神现象学》宗教部分。引用具体命题时必须标明讲演年份、笔记来源或编辑版，不能统称“黑格尔在书中说”。",
+            "此外还有世俗读法与神学读法、认识论读法与强形而上学读法的分歧。世俗读法强调社会自我理解，神学读法强调绝对精神的自我显现；二者对同一术语赋予不同本体承诺。",
+            "可以肯定的较少，却更可靠：绝对知识不是全知，不是历史停止，也不是个人不可错。它表示认识已经把自己的中介活动纳入对象理解，并能回溯此前形态为何必然显得可信、又为何不足。",
+            "《精神现象学》在此结束，但黑格尔哲学没有结束。若只读意识旅程，会误以为辩证法仅是心理或文化历史。下一步进入《逻辑学》，那里不再跟随一个经验中的意识，而直接询问最基本的思维规定能否自立。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "“绝对知识”听来像一台无所不知的机器：过去未来、每个秘密都尽收眼底。若这样理解，《精神现象学》结尾显然荒唐。黑格尔谈的不是事实总量无限增加，而是认识不再把自己的条件当作与对象无关的外壳。",
+      "nodeIds": [
+        "hegel-07-religion-absolute-node"
+      ],
+      "checkIds": [
+        "hegel-07-religion-absolute-check-1",
+        "hegel-07-religion-absolute-check-2",
+        "hegel-07-religion-absolute-check-3",
+        "hegel-07-religion-absolute-check-4"
+      ],
+      "abilitySummary": [
+        "绝对知识不是知道所有事实"
+      ],
+      "recommendedNextLessonId": "hegel-08-logic",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-08-logic",
+      "order": 8,
+      "title": "存在、本质、概念如何自己改变",
+      "depth": "longform",
+      "guidingQuestion": "存在、本质、概念如何自己改变",
+      "coreExplanation": "《逻辑学》的成果不是一本可套用万物的密码表。它训练我们不把直接事实、本质解释或抽象概念当最终答案，并要求每个规定交代自身差异。体系下一步把理念“释放”为自然，再从自然进入精神，这一转折既宏大也最需审慎。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "假如我们想从最少预设开始，会选择“纯粹存在”：不说它是什么、不赋予任何性质，只说“有”。这个开端看似最稳，因为没有排除任何内容。《逻辑学》却问：一个完全没有规定的“有”，究竟与完全没有规定的“无”怎样区别？",
+            "这里不是说现实中的一棵树等于不存在。被比较的是两个纯思维规定。纯粹存在若没有任何“这个”“多少”“怎样”，思想抓不到差别；纯粹无同样没有规定。二者在空无规定这一点上直接滑入彼此。",
+            "滑动本身比两端更具体：存在消逝为无，无又生成存在。这就是“生成”。它不是把两个词硬凑成第三词，而是表达纯开端无法维持静止、只在出现与消逝的运动中有内容。",
+            "生成稳定下来成为“定在”，即有某种规定的存在。某物之所以是这一物，也因它不是另一物；界限不是后来从外面画上去，而参与构成它。海岸线限制陆地，也让这片陆地成为可确定区域。",
+            "存在论随后讨论质、量、尺度。质改变到一定程度，某物不再是原物；量似乎允许大小变化而不改性质，但累积可越过尺度节点。水温例子常被滥用成万能规律，真正论点是质与量的关系需在具体对象中说明。",
+            "进入“本质”，思想不再满足于眼前直接性，而追问根据、条件、显现。说“这家公司成功，因为有竞争力”，若竞争力只是成功的另一名称，就没有提供根据。反思必须说明表面与支撑关系，却又容易创造一个永远躲在现象后的本体。",
+            "本质不是幕后静物。一个根据只有在所根据之物中显示自己，条件也通过结果被确认为相关条件。若说真正本质永不显现，我们无法区别它与虚构；显现不是遮蔽本质的薄膜，而是本质取得现实性的方式。",
+            "“同一”与“差异”也被重新理解。纯同一若排除一切差异，只剩空话“A是A”；具体同一包含对象跨越变化仍被认作同一的标准。一个机构保持名称，却若使命、人员和规则全变，我们必须说明何种连续性仍有效。",
+            "矛盾在本质论中达到尖锐形式。一个规定独立成立，却又只有通过排斥对方才有意义；正与负、内与外等反思规定把对方带在自身定义中。冲突推动思想寻找能承担双方关系的根据。",
+            "但矛盾不是赞美混乱。形式推理中不能随意肯定相反命题；黑格尔分析的是规定为何在其关系中失去自足。准确使用时，要写出各方的定义、依赖与冲突，不能只说“万物皆矛盾”。",
+            "本质最终进入“现实性”，即本质与显现的统一。可能、偶然、必然在此被考察。现实并非所有碰巧发生的事实，而是条件与结构充分实现的状态；因此“现实的就是合理的”不能翻译为“发生的一切都正确”。",
+            "“概念”部分最容易被误会成脑中词语。Begriff 在这里是能够规定自身、把普遍、特殊、个别组织为一体的结构。比如“法院”不是若干房间的标签，而包含普遍司法职能、具体程序和作出判决的个别机构。",
+            "普遍若只悬在个别之外，就无法真正普遍；个别若与普遍无关，也无法被确定为何物。概念不是把现成对象归类，而是说明对象各环节怎样共同形成其是什么。这是黑格尔所谓“主观概念”走向客观性的理由。",
+            "判断把概念环节分开：“这朵花是红的。”主词是具体个别，谓词是普遍规定。判断既连接又暴露不相等：花不只红，红也不只属于花。推理进一步展示中项怎样使普遍与个别关系成立。",
+            "概念论还讨论机械性、化学性、目的性与理念。机械关系把对象视为外在组合；化学关系强调相互亲和改变；目的性说明活动以预期形式组织手段。它们不是自然科学的替代，而是关系形式的逻辑分析。",
+            "“理念”是概念与客观性的统一，不是漂亮理想。生命、认识和实践被讨论，因为在这些形态中，结构不仅由外部观察者赋予，对象也以维持、认识或实现自身为关系。绝对理念则反思这整个规定过程的方法。",
+            "否定性贯穿三部：在存在中常表现为过渡，在本质中表现为反思和对立，在概念中表现为自我规定。说它是“发动机”可以帮助记忆，但若不展示每次具体规定如何失败，就仍是空比喻。",
+            "检验逻辑过渡时，可以先写清当前规定排除了什么，再问被排除者是否仍被它用来确定自身。接着要说明失败留下什么积极内容，并检查新规定是否真的承担了它。",
+            "以界限为例，它看似只从外部终止某物，却也让某物成为有规定的这一物。结果不是取消界限，而是把自我关系与他者关系共同纳入。",
+            "这种逐项检验比背诵术语慢，却能区分真实过渡和修辞跳跃，也让反对意见落到明确前提。它还提醒我们，局部论证成立并不替整个体系的顺序提供担保。",
+            "从词义贫乏推出存在与无同一，是否只是语言把戏？现实存在显然不等于无。这个质疑要求区分纯开端与经验断言，并追问无规定开端是否真的必要。",
+            "对此可以回答，论证针对“完全无预设的存在概念”，不是现实事物。所得是这种概念不能作为稳定基础；未决的是从概念运动能否推出世界结构。强形而上学解释回答能，较温和解释只主张这是思维自我批判。",
+            "另一项异议是逻辑顺序是否唯一。为何从存在必须到本质，再到概念？回应需要逐段重建过渡，不能靠全书目录证明。许多研究者承认局部论证有力量，却质疑完整链条的严格必然性。",
+            "《逻辑学》的存在论以存在、无、生成开端，本质论讨论反思规定、根据、现象与现实性，概念论讨论概念、判断、推理、客观性与理念。一八一二至一八一六年初版与一八三二年存在论修订应区分。",
+            "《哲学全书》的“小逻辑”是体系纲要，常有口头讲授形成的“附释”。附释多由学生材料编辑，便于理解却不与黑格尔亲自出版的正文同等。引用“众所周知”的生动例子时尤其要检查文本身份。",
+            "形而上学、先验论、语义推论论和非形而上学读法争论的焦点，不是全书是否有三部分，而是逻辑规定究竟描述存在本身、思想的规范，还是二者不可分的结构。",
+            "《逻辑学》的成果不是一本可套用万物的密码表。它训练我们不把直接事实、本质解释或抽象概念当最终答案，并要求每个规定交代自身差异。体系下一步把理念“释放”为自然，再从自然进入精神，这一转折既宏大也最需审慎。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "假如我们想从最少预设开始，会选择“纯粹存在”：不说它是什么、不赋予任何性质，只说“有”。这个开端看似最稳，因为没有排除任何内容。《逻辑学》却问：一个完全没有规定的“有”，究竟与完全没有规定的“无”怎样区别？",
+      "nodeIds": [
+        "hegel-08-logic-node"
+      ],
+      "checkIds": [
+        "hegel-08-logic-check-1",
+        "hegel-08-logic-check-2",
+        "hegel-08-logic-check-3",
+        "hegel-08-logic-check-4"
+      ],
+      "abilitySummary": [
+        "存在、本质、概念如何自己改变"
+      ],
+      "recommendedNextLessonId": "hegel-09-nature-system",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-09-nature-system",
+      "order": 9,
+      "title": "自然为何既属于体系又不听概念摆布",
+      "depth": "longform",
+      "guidingQuestion": "自然为何既属于体系又不听概念摆布",
+      "coreExplanation": "当精神从身体化能力进入共同规则，自由问题再次成为中心。接下来要区分个体能做什么、制度允许什么以及自由何时不仅停在愿望中，这就是主观精神向客观精神的转向。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "如果逻辑讨论最普遍的思维规定，为什么体系不在纯思想中结束？黑格尔回答，理念若只与自身同一，仍没有真正展示其自由；它必须以外在性形态出现，这就是自然。这个说法听来像思想凭空制造山川，需要立刻澄清。",
+            "“理念释放自然”不是某个宇宙时刻发生的创世事件，也不是说人的头脑想出石头。它是体系关系：自然以空间、时间、彼此外在和偶然性呈现，逻辑规定不能只在纯形式中保持封闭。",
+            "自然最显著的特征是外在性。空间中的点彼此在外，时间中的时刻不断消逝，物体受别的物体作用。一个自然个体不会像行动者那样公开说明自己的理由；我们通过规律和组织形式理解它。",
+            "黑格尔把自然哲学分为力学、物理学和有机物理学，试图从外在运动推进到具有内部组织的生命。历史背景是十九世纪初科学，许多具体判断已经过时，不能因处在体系中就免于实验反驳。",
+            "例如他对某些天体关系、化学和生物分类的处理带有当时知识限制。哲学可以询问“规律、生命、机体”意味着什么，却不能替代测量和实验。若体系与可靠科学冲突，应修订体系解释，而非要求数据服从。",
+            "生命提供从自然到精神的桥。机体不像石堆由外部目的拼成，各部分通过维持整体而有功能；心脏离开生命过程就不再以同样意义是器官。生命显示一种内部关联，但仍受环境、疾病和死亡制约。",
+            "精神不是在生命上额外装入神秘物质。它从有生命的身体出发，发展感觉、习惯、意识、语言和共同制度。身体不是自由的监狱，而是行动能力的条件；没有声音、姿势、感受和环境接触，自由无法表现。",
+            "这点能纠正把黑格尔当纯粹唯心主义者的简单印象。他并非否认自然独立，而是拒绝把自然视为毫无结构的原料。问题在于，他有时把自然说成理念的“无力”，容易贬低自然差异与偶然性。",
+            "《哲学全书》的精神哲学分主观精神、客观精神、绝对精神。主观精神处理个体心灵从自然生命到意识与意志；客观精神处理权利、道德和制度；绝对精神处理艺术、宗教与哲学的自我理解。",
+            "这个顺序不是人生时间表。婴儿先处在家庭制度中才发展反思能力，艺术也不会等国家理论完成才出现。体系顺序说明概念依赖，不等于经验事件按同一路线发生。",
+            "主观精神内部又有灵魂、意识、心灵等层次。灵魂讨论精神与身体尚未清楚分化的感觉和习惯；意识部分与《精神现象学》有交叠；心灵讨论直观、表象、思维以及实践意志。",
+            "“习惯”是理解身体化自由的好例子。初学钢琴时，每个动作都需刻意控制；熟练后，身体不再是外在障碍，而成为表达媒介。自由不是摆脱一切重复，而是把某些能力沉入身体，从而腾出注意力。",
+            "习惯也有危险。社会偏见可以像第二天性般无需思考地运行。身体化并不自动合理；反思必须能重新使习惯可见。黑格尔对习惯的肯定需要与其否定性结合，否则会为顺从辩护。",
+            "自然与精神的差别不能等同肉体与灵魂两种实体。一个疼痛既是神经生理事件，也进入注意、语言和求助关系；后者不能脱离前者，却不能由神经描述完全替代。层次关系比二物拼接更合适。",
+            "疾病经验能把这些层次放在一起。神经损伤可能改变记忆和言语，这是自然条件对精神能力的真实约束；家人是否调整沟通、机构是否提供辅助，又会改变患者怎样参与共同生活。",
+            "只做生理说明会漏掉意义与权利，只谈人格尊严而忽略治疗也同样片面。哲学能要求说明彼此衔接，却不能预先决定哪种疗法或辅助适合具体人。",
+            "疼痛会影响参与，长期孤立也会改变睡眠和身体状况。说精神具有新层次，并非赋予它违反自然规律的力量，而是承认理由、照护和制度会通过行为进入因果过程。",
+            "判断哪一层说明更重要，要看正在解决的问题。诊断病灶需要生理证据，安排沟通要听取当事经验，保障参与还要检查制度资源；三者相连，却不能由其中一个尺度包办，问题改变也会改变证据权重。",
+            "环境问题对体系提出新压力。若自然只是精神自我实现的外在舞台，人类容易把生态系统当无限资源。黑格尔没有当代生态危机概念，但其相互依赖思想可被扩展，也可被批评为过度人类中心。",
+            "动物问题同样如此。把完整自我意识和制度自由视为人类特征，不必推出动物只有工具价值。感受、依赖和生命目的性构成道德相关性；黑格尔文本对这一点提供的资源有限，不能假装体系已经解决。",
+            "从逻辑到自然的过渡最容易受到质疑：为何纯理念必须“决定”成为外在性，而不是停在自身？若无法展示必要性，体系在关键处只是宣言。",
+            "支持者会这样回答：完全自我规定若排除他在，就仍由排除关系限制，故自由包含让外在性存在。所得是一个反封闭动机；未决的是这能否推出具体自然门类，许多解释者承认细部必然性远弱于纲领。",
+            "另一项异议是“自然的偶然性”会不会成为失败解释的垃圾桶。凡推不出的细节都说自然无力，体系便不可检验。回应应要求清楚区分概念分析与经验说明，并允许自然科学对分类施加独立约束。",
+            "《哲学全书》第二部自然哲学与第三部精神哲学开端，尤其自然作为外在性、生命与精神概念的段落，给出了体系位置。不同版次从一八一七、一八二七到一八三零年持续修订，引用节号时需标明版次。",
+            "《自然哲学》与《精神哲学》的大量“附释”常来自学生笔记和身后编辑。它们可能保存讲授内容，却不应无标记地当作黑格尔亲自定稿。体系正文、口头讲演记录和编辑补充必须分层。",
+            "涌现式读法、强观念论读法和自然主义重构由此分开。涌现式读法强调精神能力依赖生命却具有新规范层次；强读法认为自然是理念自外化；自然主义者则保留身体和社会洞见，削弱宇宙论承诺。",
+            "体系位置能带走的可靠结论是：思想、自然和精神不能被缩成互不相干的三块；精神有自然条件，又通过规范活动形成不可还原的新关系。不能带走的结论是，每项过时自然判断都因辩证法而正确。",
+            "当精神从身体化能力进入共同规则，自由问题再次成为中心。接下来要区分个体能做什么、制度允许什么以及自由何时不仅停在愿望中，这就是主观精神向客观精神的转向。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "如果逻辑讨论最普遍的思维规定，为什么体系不在纯思想中结束？黑格尔回答，理念若只与自身同一，仍没有真正展示其自由；它必须以外在性形态出现，这就是自然。这个说法听来像思想凭空制造山川，需要立刻澄清。",
+      "nodeIds": [
+        "hegel-09-nature-system-node"
+      ],
+      "checkIds": [
+        "hegel-09-nature-system-check-1",
+        "hegel-09-nature-system-check-2",
+        "hegel-09-nature-system-check-3",
+        "hegel-09-nature-system-check-4"
+      ],
+      "abilitySummary": [
+        "自然为何既属于体系又不听概念摆布"
+      ],
+      "recommendedNextLessonId": "hegel-10-subjective-objective",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-10-subjective-objective",
+      "order": 10,
+      "title": "自由不只是“我想怎样就怎样”",
+      "depth": "longform",
+      "guidingQuestion": "自由不只是“我想怎样就怎样”",
+      "coreExplanation": "因此接下来要进入《法哲学原理》的细部，而不是重复“个人与社会统一”的口号。只有沿财产、责任、照料、市场和政治代表逐项检验，才能知道所谓客观自由是否真正兑现。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "日常所说自由常是选择不受阻碍：菜单上有十种菜，我能选喜欢的一种。黑格尔不否认这种任意选择的价值，却认为它仍不充分，因为欲望和选项可能由广告、匮乏或习惯替我安排。",
+            "若自由只是“凡我碰巧想要的都能做”，一个上瘾者越顺从冲动越自由，这显然不对。真正自由包含我能把欲望当作自己的欲望来检验，形成较持久目的，并愿意认领行动后果。",
+            "主观精神说明这种能力怎样形成：注意、记忆、想象、语言、欲求和意志并非一开始就成熟。孩子在照料和规则中学会等待、表达理由与区分愿望。自主不是离开所有依赖，而是在支持关系中获得自我治理。",
+            "但内在能力再成熟，若外部世界不给它效力，仍只是可能。一个人知道自己有尊严，却无法拥有财产、签订契约、拒绝暴力或参与公共决定，他的自由没有客观存在。",
+            "“客观精神”因此不是冷冰冰的集体意识，而是自由取得可共享形态的领域。法律让人格地位不随个人好恶消失，制度分配权力和责任，习俗让规则成为日常行动方式。",
+            "这一步也改变主体与对象问题。法律、货币、学校和家庭是人创造的，却在个体出生前已存在，像客观环境那样限制他。它们既非纯自然，也非个人幻想，是共同活动沉淀出的第二自然。",
+            "第二自然能够解放。交通规则限制随意驾驶，却让陌生人可预期地共享道路；语言限制任意发声，却让复杂思想可交流。合理限制不是自由的纯反面，而可能构成自由能力。",
+            "第二自然也能压迫。种族隔离法同样稳定预期，却通过剥夺平等地位维持秩序。判断标准不能只是规则明确，而要问它是否让每个人作为自由者参与并能质疑规则。",
+            "公共无障碍能检验这种差别。一个人有理解、表达和决定能力，但车站只有楼梯、办事系统只接受视觉验证，形式通行权仍没有成为实际能力。",
+            "坡道、语音语义、替代验证和申诉渠道不是额外恩惠，而是让公共地位可用的制度条件。它们把“人人可以进入”的普遍承诺落实为不同身体都能使用的路径。",
+            "规范文件通过并不足以证明条件已经兑现。若受影响者仍无法完成办事或持续依赖他人，实际经验便构成对制度自我描述的反证。",
+            "因此客观精神也包括空间、技术和执行习惯。让受影响者参与设计并保留持续申诉，能使制度在设备、能力和场景变化时继续修正，而不是把一次合规当成永久正当。",
+            "有人可能担心，为不同需要调整公共安排会破坏统一规则。恰当回答不是为每个人另造一套制度，而是区分共同目的与单一路径：同样的进入、办事和申诉地位，可以通过不同方式实现。合理便利并非降低普遍性，而是移除普遍承诺原先没有看见的障碍。",
+            "黑格尔区分抽象法、道德与伦理生活。抽象法从人格的最薄规定开始：每个人作为能拥有权利者应被承认。道德转向行动者的意图、责任和善。伦理生活再问，这些要求怎样在家庭、经济和政治制度中获得现实性。",
+            "这里的“伦理”不是用集体习惯压倒良心。它意在克服两个片面：只有外在法会忽略动机，只有内在道德会缺少共同内容。成熟自由需要规则可被主体认同，也需要主体的善意能在可靠制度中实现。",
+            "一个医疗例子很清楚。医生内心愿意救人是道德动机，执照、知情同意、资源分配和申诉程序是客观条件。没有动机，制度会冷漠；没有制度，善意可能无能或任意。",
+            "自由还包含“在他者中与自己同在”。这句话不是要求别人都像我，而是说我面对规则和他人时，不只感到外来强制，也能认出其中保护所有人自由的理由。差异继续存在，却不必等于异化。",
+            "若一项税收规则经过可问责程序，用于保障公共条件，我即使不喜欢缴纳，也可能认出它与共同自由有关。若规则由少数人秘密攫取利益，要求服从便无法获得同样认同。制度正当性不能由主观满意度单独决定。",
+            "黑格尔对国家的重视由此产生：个人权利、家庭照料和市场交换需要公共法与组织协调。但“需要国家”不推出“任何国家都合理”，更不推出领袖意志神圣。概念要求反而提供批判实际国家的尺度。",
+            "主观自由是现代世界不可取消的成果。个人有权理解并认同所做之事，不能只因传统或权威命令就承担义务。黑格尔反对把共同善理解为牺牲主体判断的古代和谐。",
+            "可他也担忧主观确信无限膨胀：只要我自称良心，就拒绝说明后果和公共理由。真正良心必须愿意把特殊判断带入相互承认，而不是把不可质疑的内心声音当特权。",
+            "制度既塑造欲望又提供评价语言，这会引出一个质疑：我们如何从制度内部识别压迫？若连“自由”的含义都由既有秩序教给我们，批判似乎无处站立。",
+            "一个可行回答是，制度往往同时承诺普遍人格、责任和共同利益，却在实践中选择性兑现；受影响者的经验揭露失配。所得是内在批判入口；未决的是深度封闭秩序可能需要跨传统比较、社会斗争和新的表达资源。",
+            "另一项异议是，强调能力形成会不会变成家长主义：权威说“我比你更懂真正自由”，于是限制你的选择。回应要坚持，被帮助者作为能给理由者的地位不可取消，能力支持应扩大其未来控制，而非永久替代其判断。",
+            "《哲学全书》精神哲学关于主观精神、自由意志和客观精神的段落，可与《法哲学原理》导论关于自由意志相互参照。二者篇幅与目的不同，不能用纲要附释替代正式论证。",
+            "《法哲学原理》第四至第三十三节附近从意志的普遍、特殊和个别关系展开自由，随后说明法是自由意志的定在。这里的“法”广于成文法，指自由获得客观存在的整个领域。",
+            "争论最终落到制度主义是否过度保守。肯定者认为黑格尔避免自由原子论，批评者指出他对君主制、性别家庭和殖民世界的限制。合理继承必须让制度化自由的标准反过来审判他认可的制度。",
+            "这一步所得，是自由必须有身体能力、反思能力、法律地位与共同条件。仍未解决的是这些条件具体怎样组织，尤其财产、贫困、家庭权力和国家权威之间会发生什么冲突。",
+            "因此接下来要进入《法哲学原理》的细部，而不是重复“个人与社会统一”的口号。只有沿财产、责任、照料、市场和政治代表逐项检验，才能知道所谓客观自由是否真正兑现。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "日常所说自由常是选择不受阻碍：菜单上有十种菜，我能选喜欢的一种。黑格尔不否认这种任意选择的价值，却认为它仍不充分，因为欲望和选项可能由广告、匮乏或习惯替我安排。",
+      "nodeIds": [
+        "hegel-10-subjective-objective-node"
+      ],
+      "checkIds": [
+        "hegel-10-subjective-objective-check-1",
+        "hegel-10-subjective-objective-check-2",
+        "hegel-10-subjective-objective-check-3",
+        "hegel-10-subjective-objective-check-4"
+      ],
+      "abilitySummary": [
+        "自由不只是“我想怎样就怎样”"
+      ],
+      "recommendedNextLessonId": "hegel-11-right-ethical-life",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-11-right-ethical-life",
+      "order": 11,
+      "title": "从一纸权利到能够共同生活的自由",
+      "depth": "longform",
+      "guidingQuestion": "从一纸权利到能够共同生活的自由",
+      "coreExplanation": "由此得到的不是国家神圣化，而是一条检验链：人格权利是否有效，道德责任是否可实践，家庭照料是否平等，市场依赖是否造成排除，公共权力是否可问责。世界历史若绕过这些检验，就没有资格把胜利者叫作理性。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "抽象法从最薄的人格开始：不论天赋、财富和爱好，每个人都应作为能拥有权利者被承认。这种抽象不是缺点，而是阻止身份差异取消基本地位的必要起点。",
+            "人格首先把意志放进外物，形成财产。拥有一支笔不只是物理抓住它，还意味着他人承认我有使用、转让和排除干涉的权限。财产把自由变得可见，却也立即涉及共同规则。",
+            "契约让两个所有者相互承认并交换。可契约不能解释法本身，因为订约资格、有效同意和履约裁判已由公共秩序提供。把国家想成所有人一次签约的产物，会用契约预设契约的条件。",
+            "无国籍处境会立刻检验这种预设。一个人可能有抽象人格和真诚意愿，却因没有政治共同体必须受理其要求，权利难以执行。",
+            "法的客观性因此需要管辖、程序和可追责机构。国际公约、法院与救助网络能够补位，却仍依赖执行和资源；只承认公民申诉，会让无国籍者在最需要保护时失去入口。",
+            "申诉还必须有暂停伤害的实际效力，并提供时间、翻译和法律帮助。国家条件说明权利需要承载，却不能用主权封住国家失职或迫害时的跨国保护问题。",
+            "这使国家出现双重位置：它通常是权利执行的必要机构，也可能成为权利受侵害的来源。跨国保障若只靠国家同意，会在最严重失职时失效；若完全绕过公共问责，又可能形成新的任意权力。这里没有现成和解，只有对执行能力与可追责性的双重要求，两边都要接受申诉和审查。",
+            "不法和惩罚显示权利可能被否认。黑格尔把惩罚理解为否定不法、恢复权利，而非单纯报复。危险在于把刑罚抽象合理化而忽略误判、比例、监禁伤害和社会不平等；现代应用必须接受经验与人权约束。",
+            "道德层次进入行动者视角。结果是否可归责，要看行为知识、意图和可预见后果。一个人无意碰倒杯子与故意砸杯不同，但“我没想伤害”也不能自动取消本可预见的风险责任。",
+            "行动目的进一步关联福利与善。主体有权在行动中寻求自身满足，不能被要求成为没有需要的抽象义务机器；同时，特殊福利必须与他人同样作为自由者的善相协调。",
+            "纯道德容易停在“我真诚地想做好事”。面对复杂制度，真诚无法单独判断效果。捐赠可能缓解急难，也可能维持依赖；拒绝参与不正义机构可能保持清白，也可能把受害者留在原地。行动需要客观知识。",
+            "伦理生活从家庭开始。爱使成员不只把自己当孤立人格，照料、共同财产和子女养育体现相互依赖。家庭不是契约交换的简单集合，因为许多付出不能按即时等价计算。",
+            "但爱不能取消权利。若家庭以亲密为由掩盖暴力、强迫或经济控制，成员必须能诉诸公共法。黑格尔把女性限定于家庭、男性限定于公共领域的性别分工，违反其普遍自由要求，不能被“时代如此”免罪。",
+            "子女成长也使家庭具有自我解散倾向。照料的目的不是永久占有，而是让新一代成为独立人格。健康家庭通过培养离开自己的能力实现自身，显示统一并非消灭差异。",
+            "市民社会是需要、劳动、交换和司法的领域。每个人追求特殊目的，却必须通过他人的生产满足自己。早餐面包连接农民、运输、能源、金融、卫生规则和零售，独立生活建立在陌生人合作上。",
+            "市场把私人需要编织成普遍依赖，却不会自动保证每个人受益。分工提高生产，也可能把劳动切成贫乏重复；财富积累伴随贫困群体，部分人失去靠劳动获得社会地位的实际机会。",
+            "黑格尔对“贫民”问题的诊断尖锐：市民社会产生过剩财富，也产生无法分享其利益的人。他没有给出满意解决，殖民扩张一度被放进缓解矛盾的路径，这既不充分又把内部问题外移给被殖民者。",
+            "司法、警察行政和团体组织试图修补市场偶然性。这里“警察”含较广公共管理，不等同现代警务机关。职业团体可提供尊严、互助与代表，但也可能垄断和排外，需要公共监督。",
+            "国家在概念上不是统治机器的美称，而是使家庭特殊关怀与市民社会利益在公共制度中协调的政治共同体。它应保护权利、组织共同事务，并让公民在公共目的中认出自己的自由。",
+            "黑格尔偏好的君主立宪、等级代表和官僚结构带有普鲁士时代印记。不能从“国家是伦理理念的现实”推出这些制度细节永远合理。若国家压制公共参与、任意拘捕或发动侵略，它没有实现自由概念。",
+            "“现实的就是合理的”在这里必须再次收紧。现实性是概念获得适当实现，不是任何政府的现存。黑格尔序言同时说哲学在时代成熟后理解其理性结构，意味着哲学并非行政命令手册，更不能替当权者预先正名。",
+            "有人会问，这种收紧是否替黑格尔洗白，因为他确实给君主、官僚和国家很高地位。回答必须区分概念资源与历史判断：所得是制度化自由标准；未决且可批评的是他对民主参与、国际法和国家冲突的处理。",
+            "另一项异议是家庭、市场、国家的三分可能排除朋友、照护网络、跨国组织和无国籍者。回应是这些现实暴露原架构的不完备。若一种自由理论无法给跨境依赖和非传统家庭位置，便需要扩展而非强塞。",
+            "《法哲学原理》的抽象法约见第三十四至一百零四节，道德约见一百零五至一百四十一节，伦理生活从一百四十二节展开；家庭、市民社会、国家分别构成其三大部分。",
+            "“女性不适合较高科学”等著名说法常见于第一百六十六节附释，文本身份涉及学生记录与编辑，但正文的性别化结构同样存在，不能靠附释身份消除问题。批判须同时检验正式段落与讲授材料。",
+            "市民社会的贫困、殖民和团体讨论集中在约第二百四十三至二百五十六节。国家内部制度随后展开，国际法与世界历史位于末尾。引用时应注明正文、评注和附释，不把它们混成同一权重。",
+            "自由主义、共和主义、社群主义与批判理论由此给出不同回答。有人强调权利和主观自由，有人强调社会成员资格，有人认为和解语言遮蔽资本主义与国家支配。文本确实为多方提供资源，也留下真实冲突。",
+            "由此得到的不是国家神圣化，而是一条检验链：人格权利是否有效，道德责任是否可实践，家庭照料是否平等，市场依赖是否造成排除，公共权力是否可问责。世界历史若绕过这些检验，就没有资格把胜利者叫作理性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "抽象法从最薄的人格开始：不论天赋、财富和爱好，每个人都应作为能拥有权利者被承认。这种抽象不是缺点，而是阻止身份差异取消基本地位的必要起点。",
+      "nodeIds": [
+        "hegel-11-right-ethical-life-node"
+      ],
+      "checkIds": [
+        "hegel-11-right-ethical-life-check-1",
+        "hegel-11-right-ethical-life-check-2",
+        "hegel-11-right-ethical-life-check-3",
+        "hegel-11-right-ethical-life-check-4"
+      ],
+      "abilitySummary": [
+        "从一纸权利到能够共同生活的自由"
+      ],
+      "recommendedNextLessonId": "hegel-12-history-critique",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-12-history-critique",
+      "order": 12,
+      "title": "历史会前进吗，谁被挡在“世界”之外",
+      "depth": "longform",
+      "guidingQuestion": "历史会前进吗，谁被挡在“世界”之外",
+      "coreExplanation": "整条长篇在此不以历史终点收束，而以可修正的判断收束：主体与对象的墙通过关系史被重新理解，自由从内心扩展到制度，又因制度排除而重新受审。真正的和解不是停止异议，而是让共同世界具有听见异议并改变自身的能力。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "站在灾难之后，人很容易寻找方向：巨大的牺牲是否至少推动了自由？黑格尔的历史哲学以“自由意识的发展”组织世界历史，给零散事件以结构。它的吸引力在于拒绝把历史看成毫无意义的噪声。",
+            "但方向叙事也有危险。若后来制度胜出便被叫作更合理，受害者会变成进步成本，失败的可能道路被抹去。历史解释必须区分“能够重建某种趋势”和“每件发生之事都是必要且正当”。",
+            "黑格尔所谓世界历史不是所有社会的中性总录，而是精神在政治形态中认识自由的叙事。他用东方世界、希腊、罗马、日耳曼世界排列阶段，声称自由从“一人自由”推进到“人人自由”。",
+            "这个图式把复杂文明压成单句，且把欧洲基督教—日耳曼世界置于完成位置。所谓东方专制忽略亚洲政治传统的差异，非洲更被排除在“真正历史”之外。这里不是偶然措辞，而是结构性欧洲中心主义。",
+            "关于非洲的讲演材料使用“无历史”“自然状态”等种族化判断，并把奴役说成通往自由意识的环节。无论文本由何种讲演笔记和编辑形成，这些判断都严重错误，也曾为殖民支配提供可利用的哲学语言。",
+            "真实非洲历史中的国家、贸易、法律、艺术和思想传统足以击破无历史断言。更根本地说，谁能进入历史不应由是否符合欧洲国家形式决定。被殖民者的行动不是欧洲精神自我认识的材料，而是有自身目的的历史实践。",
+            "殖民也出现在《法哲学原理》市民社会矛盾附近：过剩人口和市场压力向海外寻找空间。把殖民当内部贫困的出口，等于让他者承担欧洲制度失败，违反每个人作为自由者的普遍地位。",
+            "性别排除与此相连。若世界历史的行动者预设为进入国家、战争和公共职业的男性，而女性被固定在家庭情感领域，“人人自由”从开端就不是人人。普遍概念通过制度分工偷偷带入男性标准。",
+            "这不意味黑格尔一切自由思想都因偏见作废。相反，普遍自由、相互承认和制度兑现的标准能够揭露他自己的排除。关键是允许概念被受排斥经验改变，而不是保护哲学家免受其原则的反击。",
+            "我们与原典的关系也应遵守这一点。不能把黑格尔奉为已经说完真理的权威，也不能因严重排除便假装其中没有可用论证。",
+            "每项概念仍须承担证明责任：承认是否相互，制度是否让自由可用，历史叙事是否让被描述者拥有自己的声音。若答案是否定的，批评便在迫使普遍性兑现；若普遍性本身携带排除，新的经验还必须改写问题，并改变谁有资格规定共同标准，也改变历史叙事本身。",
+            "“理性的狡计”常被理解为个人追逐私利，却无意实现更大历史结果。它提醒行动后果超出意图，也说明制度可从冲突中形成。但若把任何胜利都归于理性狡计，这个说法就无法区分解放与灾难。",
+            "“世界历史人物”同样危险。拿破仑等人物被描写为时代目的的执行者，容易让伟人免于普通道德。即使某行动推动制度转型，行动者仍须对屠杀、征服和压迫负责；历史效果不取消道德与法律评价。",
+            "历史并非自动进步。权利可以倒退，制度可崩坏，已取得的承认能被撤销。黑格尔的否定性恰可支持这种警惕：任何实现都不是仅因出现便安全，它必须持续由自由关系维持。",
+            "进步若还有可辩护含义，应是可具体比较的：更多人是否拥有身体安全、法律人格、政治发言、物质独立和反对权威的能力。不能只看国家强盛、技术增长或胜利者自我叙述。",
+            "这种比较也不能假装单一量表解决一切。某项改革扩大选举权，可能同时加强殖民剥夺；工业增长提升寿命，也可能破坏生态和劳动自主。历史判断需要承认多维冲突与未完成性。",
+            "海地革命对黑格尔承认论的关系是重要争议。有人主张主人与奴隶段落受海地事件启发，有人认为直接证据不足。可以比较结构和时代新闻背景，但不能把富启发性的联系写成已证实写作来源。",
+            "后世左派黑格尔主义从否定性、劳动和异化发展社会批判，马克思把国家与市民社会关系转向物质生产。右派黑格尔主义更强调宗教与国家和解。二者不是黑格尔文本中预装的两个按钮，而是十九世纪争论形成的谱系。",
+            "二十世纪后，科耶夫讲演影响法国的欲望、承认和历史终结讨论；法兰克福学派把内在批判用于现代社会；法农把承认置于殖民种族暴力；女性主义者批判家庭和公共领域的性别结构。这些扩展既继承也改写。",
+            "一种常见质疑是：用当代标准批评十九世纪哲学，会不会犯时代错置？若黑格尔不可能拥有今天资料，对他要求是否不公平？",
+            "对此必须回答，历史语境能解释错误来源，却不能把错误变正确；同时期已有被奴役者、反殖民者和女性发出反证。所得是更准确的责任尺度；未决的是如何区分可修复盲点与体系核心排除，需要逐项论证。",
+            "另一项异议是，若放弃强进步叙事，我们是否只剩相对主义。回应是否定的：可以坚持反奴役、平等人格和可问责权力等标准，同时承认实现路径多元、成果可逆、判断需听取当事经验。",
+            "《历史哲学讲演录》的导论与地域历史安排提供主要材料，但它属于多轮讲演、学生笔记及身后编辑文本，版本差异重大。任何尖锐断言都应注明所据讲演稿、笔记或编辑本，而非虚构一部黑格尔定稿专著。",
+            "《法哲学原理》约第三百四十一至三百六十节简述世界历史，市民社会殖民问题见约第二百四十八节，性别分工见家庭部分。正式出版文本与讲演材料相互关联，却必须保持身份区分。",
+            "争论集中在目的论强弱、欧洲中心主义能否从体系剥离、殖民是否只是偶然偏见，以及承认论能否去殖民化。批评者有充分理由认为问题深入自由叙事结构；重构者则尝试让普遍自由对原序列进行自我否定。",
+            "最终可保留的黑格尔式要求，是任何秩序都须说明自己如何让自由成为现实，并接受内部冲突与被排除声音的检验。必须放弃的是把既成胜利当理性裁决、把国家当神圣主体、把暴力当自动进步费用。",
+            "整条长篇在此不以历史终点收束，而以可修正的判断收束：主体与对象的墙通过关系史被重新理解，自由从内心扩展到制度，又因制度排除而重新受审。真正的和解不是停止异议，而是让共同世界具有听见异议并改变自身的能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "站在灾难之后，人很容易寻找方向：巨大的牺牲是否至少推动了自由？黑格尔的历史哲学以“自由意识的发展”组织世界历史，给零散事件以结构。它的吸引力在于拒绝把历史看成毫无意义的噪声。",
+      "nodeIds": [
+        "hegel-12-history-critique-node"
+      ],
+      "checkIds": [
+        "hegel-12-history-critique-check-1",
+        "hegel-12-history-critique-check-2",
+        "hegel-12-history-critique-check-3",
+        "hegel-12-history-critique-check-4"
+      ],
+      "abilitySummary": [
+        "历史会前进吗，谁被挡在“世界”之外"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-13-aesthetics",
+      "order": 13,
+      "title": "艺术怎样让理念以感性形态出现",
+      "depth": "longform",
+      "guidingQuestion": "艺术美为何不是给抽象理念穿上一件漂亮外衣？",
+      "coreExplanation": "艺术在黑格尔那里是绝对精神的第一种形态：理念在作品的感性形态中出现，却也因感性媒介不能完全承载自由精神而显出限度。所谓艺术的过去性是最高真理使命的历史变化，不是艺术停止生产或失去价值。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "先区分艺术美与自然美。黑格尔并不否认风景、动物或人体可以美；他把艺术美置于更高位置，是因为作品经过精神活动，形式中的每一取舍都能成为意义的一部分。这里的“更高”是体系中的精神性判断，不是要求我们停止欣赏自然。",
+            "常见公式把美说成“理念的感性显现”。它容易被误解成先有一个完整抽象观念，再找石头、颜色或声音包装。更准确地说，艺术内容只有在特定形态中才成为这个可经验的内容；形式不是外在容器，而参与规定作品表达什么。",
+            "因此艺术理想要求精神内容与感性形态有相称关系。相称并不等于摄影式模仿：雕像的姿势、戏剧的行动和音乐的时间组织，都可以舍弃自然细节，以便让自由、冲突或和解成为可见可听的结构。",
+            "象征型、古典型、浪漫型首先是内容与形式关系的三种历史—概念配置，不是给世界艺术按优劣排三只抽屉。象征型中内容尚找不到充分形态，形式可能巨大、谜样或过度；这种描述不能被拿来贬低所有非希腊艺术。",
+            "古典型以希腊神像为典型，精神内容与人体形式似乎达到均衡。但均衡有边界：自由精神被表现为安静、有限的个体神性，尚未把主体内在性与痛苦、分裂、选择充分纳入。所谓完善因此不是艺术史的永久终点。",
+            "浪漫型把自由精神的内在性推到中心。若内容是爱、苦难、悔改或主体与绝对者的关系，外在身体不再能无余地呈现它；绘画、音乐和诗更适合让内在性在色彩、声音和语言中展开。形式与内容的新不相称在这里成为原则，而非单纯失败。",
+            "三种形态并非简单年代标签。黑格尔的讲演把宗教和地域材料纳入欧洲中心的序列，其中对印度、中国、伊斯兰艺术的概括受到资料与时代偏见限制。今天使用这一区分，应把它当作可检验的形式—内容分析，而不是文明等级表。",
+            "个别艺术门类也承担不同关系：建筑组织无机外部空间；雕刻突出具身形态；绘画转向表面、色彩与观看；音乐以内在时间消解稳定外形；诗以语言获得最广内容。这个序列说明媒介如何改变可表达性，不是现代艺术的禁令。",
+            "所谓艺术的“过去性”尤其需要收紧。黑格尔的意思不是在十九世纪宣布此后再无艺术，而是艺术不再以古典共同体中那种方式，作为一个时代最高真理的充分公共形态。现代反思使我们不仅被作品吸引，也追问其历史、方法与意义。",
+            "于是艺术仍能创新、批判并塑造生活，却不再独占绝对精神的最高认知任务。宗教以表象、哲学以概念进一步处理艺术以感性形态呈现的内容。接受或反对这一体系排序，都必须先区分“最高使命已成过去”与“艺术已经死亡”。",
+            "这一重建有特殊文本困难：黑格尔没有出版一部亲自定稿的《美学》。现存材料来自海德堡和柏林不同讲演轮次、黑格尔手稿片段、不同学生笔记，以及 Hotho 在黑格尔去世后编辑的 1835—1838 年《美学讲演录》。",
+            "Hotho 既是 1823 年听课者，也是身后编辑者。他的笔记可以是一轮讲演的证据，身后编本却汇合和重排多种材料；两种身份不能因为同一姓名而合并。某句经典措辞若只见于编辑本，就应标作编辑传统，不能无条件写成黑格尔逐字定论。",
+            "不同轮次对艺术形式、门类和现代艺术的安排并非完全相同。严谨做法是标明所据年份、记录者与版本，再判断某个论点在多轮讲演中是否稳定；不能把差异磨平为一部从未存在的定稿体系。",
+            "这也解释为何旧 L07 的“艺术宗教”不能代替美学。《精神现象学》在那里分析一种宗教意识形态在精神经验中的位置；美学讲演则系统讨论艺术美、理想、历史形态与媒介。二者相邻，却有不同对象和文本任务。",
+            "本篇所得是一条受版本约束的主线：作品让精神内容在感性形态中成为现实，三种艺术形态追踪相称关系的变化，过去性命题限定艺术的最高真理职能。未决的是这套欧洲中心序列能否被重构，而非被当作已经裁决的世界艺术史。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一件作品不是先有完整思想再加装饰性外壳；媒介的形态参与决定思想如何出现。",
+      "nodeIds": [
+        "hegel-13-aesthetics-node"
+      ],
+      "checkIds": [
+        "hegel-13-aesthetics-check-1",
+        "hegel-13-aesthetics-check-2",
+        "hegel-13-aesthetics-check-3",
+        "hegel-13-aesthetics-check-4"
+      ],
+      "abilitySummary": [
+        "区分艺术美、艺术形态、过去性命题与讲演编辑身份"
+      ],
+      "recommendedNextLessonId": "hegel-14-subjective-spirit",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-14-subjective-spirit",
+      "order": 14,
+      "title": "灵魂怎样成为能够思考和意志的心灵",
+      "depth": "longform",
+      "guidingQuestion": "身体化的灵魂怎样经过意识，成为把内容认作自身活动的心灵？",
+      "coreExplanation": "主观精神依次考察灵魂、意识与心灵：人类学说明精神的自然—身体化条件，精神现象学说明主体与对象的关系，心理学说明心灵如何理论地认识、实践地规定并把自由作为自身内容。它链接旧 L09/L10，却不复制其概览。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "《百科全书》把精神分成主观、客观和绝对精神。主观精神不是孤立私人内心，而是精神怎样从生命的自然条件中形成能够知道和意志的个体主体；客观精神才进一步讨论自由在法、道德和制度中的定在。",
+            "主观精神内部依次是人类学、精神现象学和心理学。这不是把三门经验科学随意并列，而是对象关系逐步改变：先是尚未把世界作为独立对象对置的灵魂，再是面对对象的意识，最后是把认识与意志活动理解为自身规定的心灵。",
+            "人类学从自然灵魂开始，讨论生命、气质、年龄、睡眠与醒觉等身心条件。黑格尔的材料混有十九世纪自然知识和问题性的人种、性别判断；结构性主张可以重建，经验偏见必须批判，不能借“体系环节”获得豁免。",
+            "感觉灵魂说明感受不是一堆外来原子。主体在身体中承受并组织情绪、痛感和环境影响，但尚未清楚区分“我的状态”与“外部对象”。黑格尔关于磁性、梦游和精神疾病的讲授材料尤其需要正文、附释与时代医学分层。",
+            "现实灵魂通过习惯获得身体。习惯不是精神摆脱身体，而是动作、姿势、语言和感受方式变得可支配，使注意力不必每次从零控制身体。旧 L09 已解释身体与习惯，本篇只把该结果定位为向意识过渡的枢纽。",
+            "当主体把一个内容明确当作独立对象，进入精神现象学：意识、自我意识和理性。这里与 1807 年《精神现象学》相关，却不相同；《百科全书》给出体系内部的压缩段落，不能拿 1807 年整部意识历程替代 §§413–439。",
+            "意识从对象似乎独立于我开始；自我意识发现对象关系同时涉及欲望与对另一个自我的承认；理性则要求在世界中认出自身的概念结构。转折不是对象被主观幻想吞没，而是对象性和主体活动的关系得到更充分规定。",
+            "心理学中的心灵不再只站在对象对面。理论精神从直观取得内容，经表象、想象、记忆和语言，使内容成为可普遍思考的形式。记忆不是储存仓库；词语和机械记忆参与心灵从图像走向思想的解放。",
+            "理论精神也不是被动收集事实。注意、回忆、命名和推理都改变内容的可用形式，但这不等于任意建构世界。心灵的自由表现为能够把给定内容转成有理由、可复现、可共享的认识。",
+            "实践精神从感情、冲动和任意选择展开。欲望不是自由的敌人，却在彼此冲突时要求组织；“幸福”尝试把满足汇成整体，仍可能只是主观计算，未说明哪些目的本身值得认领。",
+            "理论与实践不能各自封闭。行动需要知道对象和后果，认识也由注意与兴趣推动。自由精神出现于心灵把普遍性作为自己的内容，能在特殊冲动中规定自己，而非仅在菜单式选项间任意摇摆。",
+            "这一自由仍只是主观精神的完成，不是现实自由的全部。若自由只存在于个人能力和意向中，它还没有法律地位、共同规则和制度承载。§§481–482 因而把自由意志推向客观精神，而旧 L10 正从此处进入制度化自由。",
+            "链接旧篇能防止两种重复：本篇不再重写 L09 的生命—精神、身体和习惯，也不再重写 L10 从能力到法与伦理生活的入口。它补的是两者之间原先缺失的三分结构及理论—实践—自由精神的转折链。",
+            "这条链也不许可把《精神现象学》的意识经验当作主观精神全体。1807 年著作走向精神、宗教和绝对知识；《百科全书》主观精神则限于个体主体的体系环节，随后通向客观精神。题名相似不能抹掉对象差异。",
+            "本篇所得是：身体化不是自由的外壳，意识的对象关系不是终点，理论与实践能力又只有在自由意志中汇合。未决的是黑格尔的自然人类学材料和能力秩序哪些可保留；任何现代应用都须接受经验科学与反偏见审查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "习惯让身体动作成为可支配能力；这不是离开身体，而是精神以身体为自身熟练媒介。",
+      "nodeIds": [
+        "hegel-14-subjective-spirit-node"
+      ],
+      "checkIds": [
+        "hegel-14-subjective-spirit-check-1",
+        "hegel-14-subjective-spirit-check-2",
+        "hegel-14-subjective-spirit-check-3",
+        "hegel-14-subjective-spirit-check-4"
+      ],
+      "abilitySummary": [
+        "重建人类学—意识—心理学及理论、实践、自由精神的过渡"
+      ],
+      "recommendedNextLessonId": "hegel-15-external-state",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "hegel-15-external-state",
+      "order": 15,
+      "title": "国家彼此之间为何仍处在脆弱承认中",
+      "depth": "longform",
+      "guidingQuestion": "国家既通过承认而存在，为何条约和国际法仍不能像国内法那样终局裁判？",
+      "coreExplanation": "§§321–340 把国家的内部主权转到外部关系：国家要求独立并相互承认，以条约和国际法承担规范义务，但缺少共同最高裁判者使争端仍可能走向战争。解释这套对象不等于赞成战争，更不能把世界历史胜者或现代机构扩展冒充黑格尔正文。",
+      "sections": [
+        {
+          "heading": "逐步展开",
+          "paragraphs": [
+            "《法哲学原理》在家庭、市民社会和国家内部制度之后，转向国家的外部关系。这个位置很重要：对外主权不是孤立强权的起点，而是一个已组织公共权力、并对自己共同体作出决定的国家向外呈现的独立性。",
+            "§§321–329 把内部主权的统一转成对外个体性。国家必须能以一个行动者作决定，包括外交与防卫；黑格尔把最终决定与君主权相连。这个概念重建不自动证明其君主制安排，也不免除战争决定的公共问责。",
+            "国家的独立并非只靠自称。它要求其他国家把它当作能承担权利义务的主体，因而承认具有构成作用。但黑格尔同时认为承认会受一个国家的内部组织与他国判断影响，这给不平等承认和文明等级留下危险入口。",
+            "相互承认并不把国家变成私人。私人生活在一套具有最高法院和执行机关的国内法秩序中；国家之间却没有同等意义的世界政府。每个国家既接受共同规范，又保留对自身利益和危险的最终判断。",
+            "条约使承认具体化：边界、贸易、和平或联盟通过承诺获得确定性。条约不是无意义纸张，因为守约属于国家作为伦理主体的规范身份；若承诺从不约束，国家也无法要求别人承认自己的信用与持续人格。",
+            "然而条约依赖主权国家继续愿意履行。黑格尔把国际法描述为一种“应当”，不是说它毫无效力，而是说其普遍要求没有一个凌驾各国、可终局强制的制度保障。规范有效性与执行脆弱性必须同时保留。",
+            "争端可能来自对条约事实、利益或伤害的不同判断。外交、调停和惯例能够维持和平，却不能逻辑上排除一方坚持自己的特殊判断。在黑格尔架构中，这个缺口使战争仍是可能结果，而不是从自由概念推导出的善。",
+            "黑格尔也试图限制战争：国家之间的敌意不应把私人作为私人、家庭生活或市民制度本身当作目标；和平可能性应被保留。历史战争不断违反这些限制，显示概念规范不足以自行保护平民。",
+            "他关于战争防止民族僵化、保存伦理健康的著名说法最具争议。即便按其体系理解为提醒有限制度不可绝对化，也不能由此正当化侵略、牺牲个人或把战争浪漫化。现代人道法与反侵略规范是项目的批判尺度，不是黑格尔预先说出的完成答案。",
+            "§§330–340 的对象是国际法与国家冲突；§§341–360 才转入世界历史。前者问国家彼此如何承认、承诺并发生争端，后者把国家置于历史叙事。世界历史的所谓裁判不能倒过来成为一场战争合法性的法律判决。",
+            "若把胜利者称为世界精神的载体，便会混淆解释与正当化。旧 L12 已批判欧洲中心主义、殖民与胜利史观；本篇只在对象边界处链接它，不复制世界历史内容，也不让其宏大叙事替代 §§321–340 的规范张力。",
+            "旧 L11 的无国籍、跨国法院和人权保障讨论则属于现代项目扩展。它指出国家既承载权利也可能侵害权利，并要求跨国问责；这些判断可以批评和扩展黑格尔，但不能写成他已设计联合国、国际刑事法院或现代人权法。",
+            "同样，现代国家承认规则、禁止使用武力、国际组织和条约监督改变了制度事实。它们可能回应黑格尔指出的执行缺口，却没有完全消除主权、退出、否决和执行不均。比较时应分成黑格尔正文对象、后来的制度发展和项目规范评价三层。",
+            "这一区分也防止另一错误：因黑格尔认为战争可能，就说他认为每场战争合理；或因现代法更强，就假装国家冲突已被世界法院彻底国内法化。两种说法都抹掉规范约束与实际执行之间的张力。",
+            "本篇所得是一条有限重建：国家以对外独立要求承认，通过条约和国际法承担真实但脆弱的义务，缺少共同终局裁判使战争仍可能发生。必须拒绝的是以体系必然性免除侵略责任；开放问题是现代多层制度怎样在不制造新任意权力时增强执行与申诉。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "两国签订条约说明规范承诺真实；没有共同最高裁判者，则说明承诺的执行仍可能被各自主权判断打断。",
+      "nodeIds": [
+        "hegel-15-external-state-node"
+      ],
+      "checkIds": [
+        "hegel-15-external-state-check-1",
+        "hegel-15-external-state-check-2",
+        "hegel-15-external-state-check-3",
+        "hegel-15-external-state-check-4"
+      ],
+      "abilitySummary": [
+        "区分对外主权、承认、条约、国际法、战争、世界历史与现代扩展"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "hegel-01-kant-after-check-1",
+      "kind": "argument-step",
+      "prompt": "康德留下的主体与对象困难，最准确的表述是什么？",
+      "targetNodeIds": [
+        "hegel-01-kant-after-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "经验对象由认识条件组织，但对象自在面向似乎仍与这些条件分离。",
+          "feedback": "关键不是否认外部世界，而是经验条件被放在主体一边，所以主体与对象的关系仍需说明。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "经验对象由主体形式组织，因此对象自在面向只剩认识之外的名义设定。",
+          "feedback": "这里把对象自在面向降成认识之外的名义设定。这一步预先假定主体形式已穷尽对象的全部有效含义。康德仍以对象不等同于我们的认识条件来标出限制，所以困难是二者关系未明而非对象一端被取消。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-01-kant-after-check-1-misconception"
+    },
+    {
+      "id": "hegel-01-kant-after-check-2",
+      "kind": "concept-boundary",
+      "prompt": "为什么不能先在认识之外检验认识工具？",
+      "targetNodeIds": [
+        "hegel-01-kant-after-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "检验只能沿用原有认识标准，因此内部审查只能确认既有结果。",
+          "feedback": "这里把内部审查说成只能重复原有标准并确认既有结果。它把使用形态自身标准偷换成禁止比较该标准与形态实际经验。内在检验正是让形态按自己的承诺行动并由失配修正规则，并不保证原结果。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "检验所用的标准、证据和推理本身已经是认识活动。",
+          "feedback": "审查不能站到认识完全外部，所以必须让认识形态用自身标准显出成败。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-01-kant-after-check-2-misconception"
+    },
+    {
+      "id": "hegel-01-kant-after-check-3",
+      "kind": "case-transfer",
+      "prompt": "黑格尔为何认为内在自律仍不足以构成完整自由？",
+      "targetNodeIds": [
+        "hegel-01-kant-after-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "自由还需在行动、相互承认和制度条件中取得可见效力。",
+          "feedback": "内在认领理由是必要条件，但若权利和行动条件不存在，自由就仍停在不能兑现的可能。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "自由只需由制度给出共同内容，个人是否认领理由属于次要条件。",
+          "feedback": "这里把制度提供共同内容当成自由的充分条件。它把个人能否理解并认领公共理由降成可有可无的附加项。制度只有同时保障主观认领与客观行动条件才使自由现实化，单有共同内容也可能只是服从。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-01-kant-after-check-3-misconception"
+    },
+    {
+      "id": "hegel-01-kant-after-check-4",
+      "kind": "objection-assessment",
+      "prompt": "“现实的就是合理的”不应怎样理解？",
+      "targetNodeIds": [
+        "hegel-01-kant-after-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "制度若稳定履行职能，即使排除部分自由地位也可称为合理。",
+          "feedback": "这里用制度稳定履行部分职能来证明它已经合理。它把持续存在和有效运转偷换成实现全体成员自由地位。排除部分人格会破坏制度所声称的公共自由概念，因此稳定事实不能推出规范合理性。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "不能把任何现存事实或政府都直接当作正当。",
+          "feedback": "“现实性”要求事物实现其概念，破坏自身公共职能的制度反而显示它没有达到这一要求。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-01-kant-after-check-4-misconception"
+    },
+    {
+      "id": "hegel-02-dialectic-check-1",
+      "kind": "argument-step",
+      "prompt": "一项规定怎样产生辩证推动，而不是等外部反题出现？",
+      "targetNodeIds": [
+        "hegel-02-dialectic-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "它实行自身标准时暴露出对自己曾排除条件的依赖。",
+          "feedback": "推动来自原规定的承诺与实际依赖之间的失配，所以新结果能说明为何必须改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "后一规定容纳前一规定遗漏的现象时，便作为外部反题推动转换。",
+          "feedback": "这里把后一规定当成从外部补进来并容纳遗漏现象的反题。它跳过了前一规定按自身标准实行时为何必然依赖被排除条件。只有原规定内部的承诺与依赖发生失配，后一规定才是必要改写而非偶然拼接。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-02-dialectic-check-1-misconception"
+    },
+    {
+      "id": "hegel-02-dialectic-check-2",
+      "kind": "concept-boundary",
+      "prompt": "“规定的否定”比单纯否定多出什么？",
+      "targetNodeIds": [
+        "hegel-02-dialectic-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "它保留原形态的主要结论，只排除导致冲突的经验条件。",
+          "feedback": "这里把冲突外推给可排除的经验条件，并预先保住原形态的主要结论。它没有说明原形态自己的定义如何造成失配并因此必须改变。规定的否定保存旧要求中的有效理由，却要改写造成冲突的原定义而非只清除外部条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "它指出哪一限制应取消，并保存原形态真正保护的理由。",
+          "feedback": "关键是得到有内容的结果，新形态必须能解释旧要求为何合理又为何原定义不够。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-02-dialectic-check-2-misconception"
+    },
+    {
+      "id": "hegel-02-dialectic-check-3",
+      "kind": "case-transfer",
+      "prompt": "黑格尔所说矛盾为何不等于允许任意胡话？",
+      "targetNodeIds": [
+        "hegel-02-dialectic-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "需要展示规定的定义、依赖和冲突，而不是同时断言随便两个相反命题。",
+          "feedback": "概念冲突必须能逐项重建，只有这样才能检验一个规定是否因自身关系而失去自足。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "概念冲突允许在不同层次分别肯定相反命题，因此不必交代依赖关系。",
+          "feedback": "这里借不同层次容纳相反命题，并免除了交代二者依赖的责任。它把有层次的规定关系偷换成互不关联的并列断言。矛盾只有在同一规定的定义与所依赖条件可重建时才推动改变，分层本身不能替代关系证明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-02-dialectic-check-3-misconception"
+    },
+    {
+      "id": "hegel-02-dialectic-check-4",
+      "kind": "objection-assessment",
+      "prompt": "怎样防止辩证法沦为事后胜利修辞？",
+      "targetNodeIds": [
+        "hegel-02-dialectic-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "新规定若回顾起来更有解释力，中间过渡的必要性便可由结果补足。",
+          "feedback": "这里用新规定事后的解释力补足中间过渡的必要性。它把结果较好偷换成旧规定只能通过这条路径转变。辩证必要性须由预先可查的标准、失配和保存关系组成，结果优势不能倒推出唯一过渡。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "预先说明形态标准，并展示失配与新规定保存旧理由的具体链条。",
+          "feedback": "关键证据是中间必要性，而不是后来结果本身；没有链条就没有完成辩证论证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-02-dialectic-check-4-misconception"
+    },
+    {
+      "id": "hegel-03-consciousness-check-1",
+      "kind": "argument-step",
+      "prompt": "感性确定性为何不能只靠“这个”保存纯个别？",
+      "targetNodeIds": [
+        "hegel-03-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "“现在”“这里”等表达能够指向个别，正因为它们是可重复使用的普遍形式。",
+          "feedback": "关键失配在于它宣称排除普遍中介，表达自身时却必须依靠这种中介。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "指示词只是表达时的通用工具，纯个别仍能在语言之外直接构成真理。",
+          "feedback": "这里把指示词降为外在表达工具，并把纯个别真理安置在语言之外。它预设不经任何可重复区分和保存的个别仍能作为可判真的内容。一旦要指出并维持这个个别就要使用可重复的现在与这里，所以直接性不能脱离普遍中介独自构成真理。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-03-consciousness-check-1-misconception"
+    },
+    {
+      "id": "hegel-03-consciousness-check-2",
+      "kind": "concept-boundary",
+      "prompt": "知觉中的“一物多性质”为什么不稳定？",
+      "targetNodeIds": [
+        "hegel-03-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "冲突主要来自观察角度变化，物本身仍是性质之外的稳定载体。",
+          "feedback": "这里把多性质冲突归给观察角度，并保留性质之外的裸载体。它预设那个不含性质的载体仍能说明同一物为何具有这些相互区分的性质。物的一只能通过性质之多被规定，角度变化无法替代一与多如何同属对象的结构说明。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "物的一与性质的多相互依赖，却被轮流放到对象或主体一边。",
+          "feedback": "知觉不断重新分配何者属于物，显示独立物加附属属性的图景不能说明关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-03-consciousness-check-2-misconception"
+    },
+    {
+      "id": "hegel-03-consciousness-check-3",
+      "kind": "case-transfer",
+      "prompt": "规律为什么不能成为与现象彻底分离的第二世界？",
+      "targetNodeIds": [
+        "hegel-03-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "规律只有在差异情形中显现和实现才具有解释内容。",
+          "feedback": "一个不进入显现的所谓本质无法与虚构区分，所以解释必须展示它在现象中的关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "规律只需统一已观察的现象，不必在新的差异条件中继续显示解释力。",
+          "feedback": "这里把规律的任务限定为归拢已经观察到的现象。它把对既有材料的拟合偷换成规律在差异条件下仍有解释内容。规律若不能在新的差异中显示关系就无法与偶然分类区分，因此统一旧观察不足以证明它不是分离的第二世界。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-03-consciousness-check-3-misconception"
+    },
+    {
+      "id": "hegel-03-consciousness-check-4",
+      "kind": "argument-step",
+      "prompt": "意识走向自我意识意味着什么？",
+      "targetNodeIds": [
+        "hegel-03-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "认识活动纳入说明后，对象独立性只能理解为共同判断形成的稳定结果。",
+          "feedback": "这里把对象独立性还原为共同判断长期形成的稳定结果。它把认识活动参与对象规定偷换成对象没有反过来挫败和修正判断的能力。自我意识要求同时说明认识中介与对象抵抗，纳入活动并不推出独立性只是共识产物。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "认识者必须把自己的区分、统一和检验活动纳入对象说明。",
+          "feedback": "前面只证明对象规定离不开认识标准，并没有把对象抵抗或独立性取消。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-03-consciousness-check-4-misconception"
+    },
+    {
+      "id": "hegel-04-recognition-check-1",
+      "kind": "argument-step",
+      "prompt": "欲望满足为何不能给自我稳定独立？",
+      "targetNodeIds": [
+        "hegel-04-recognition-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "对象被消灭后欲望会再次出现，自我仍由不断出现的对象牵引。",
+          "feedback": "问题是结构性依赖而非道德谴责；循环显示单纯否定对象不能稳定确认自我。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "欲望再次出现只说明满足对象有限，并不影响一次满足确认自我独立。",
+          "feedback": "这里承认欲望会再现，却把一次满足当成已经确认自我独立。它把短暂消除一个有限对象偷换成自我不再依赖对象给予确认。再次欲望表明确认随对象消失而失效，单次满足只能暂缓依赖而不能建立稳定独立。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-04-recognition-check-1-misconception"
+    },
+    {
+      "id": "hegel-04-recognition-check-2",
+      "kind": "concept-boundary",
+      "prompt": "真正承认为何必须来自也被视为独立的对方？",
+      "targetNodeIds": [
+        "hegel-04-recognition-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "确认者只需在这次判断中不受强迫，他在其他关系中的地位不影响效力。",
+          "feedback": "这里把确认效力缩到一次判断是否受强迫，并排除对方的整体地位。它预设一个在持续关系中不被承认为独立者的人仍有完整资格确认我的独立。承认的证明力来自相互承认的判断地位，单次无强迫不能抵消支配关系对确认者资格的破坏。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "若确认者被我当作毫无判断资格，他的肯定也无法证明我的独立。",
+          "feedback": "确认的效力依赖确认者地位，所以单向支配会破坏主人追求的承认。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-04-recognition-check-2-misconception"
+    },
+    {
+      "id": "hegel-04-recognition-check-3",
+      "kind": "case-transfer",
+      "prompt": "劳动在奴的经验中可能带来什么，又不能推出什么？",
+      "targetNodeIds": [
+        "hegel-04-recognition-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "它可能形成延迟欲望与对象化能力，但不能证明奴役必要或劳动自动解放。",
+          "feedback": "劳动的形成作用依赖具体条件，真实奴役也会摧毁生命、关系和能力，不能浪漫化。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "劳动若要求延迟欲望，便能在支配中形成稳定自我，解放条件可随后补入。",
+          "feedback": "这里从劳动要求延迟欲望直接推出支配中的稳定自我。它把可能形成能力偷换成暴力条件下必然保存并实现这种能力。劳动的形成效果取决于生命、关系和成果控制等条件，解放条件不能在推出稳定自我之后再补入。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-04-recognition-check-3-misconception"
+    },
+    {
+      "id": "hegel-04-recognition-check-4",
+      "kind": "text-identity",
+      "prompt": "后世承认理论与原文应怎样区分？",
+      "targetNodeIds": [
+        "hegel-04-recognition-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "后世理论若保留欲望、劳动或承认结构，就可作为原段含义的历史展开。",
+          "feedback": "这里因后世理论保留欲望劳动或承认结构就把它归入原段含义。它把概念继承偷换成不同历史语境和论证目标之间的意义同一。接受史可以追踪改写关系，但原段含义仍须由一八零七年文本链条限定，不能由后世用途倒写。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "可说明科耶夫、马克思、法农等人的改写，但不能反投射成原段唯一含义。",
+          "feedback": "接受史提供新问题和资源，同时具有自己的历史语境、目标和概念变化。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-04-recognition-check-4-misconception"
+    },
+    {
+      "id": "hegel-05-freedom-consciousness-check-1",
+      "kind": "concept-boundary",
+      "prompt": "斯多葛式内在自由的重要所得是什么？",
+      "targetNodeIds": [
+        "hegel-05-freedom-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "社会身份不能穷尽人格，思维能与外部处境保持批判距离。",
+          "feedback": "内在距离保存了不被处境完全定义的尊严，但它还没有改变支配关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "外部身份不再决定自我价值，因此制度改变只是内在自由的后续补充。",
+          "feedback": "这里从外部身份不能决定自我价值推出制度改变只是后续补充。它把人格不被处境穷尽偷换成处境已经失去限制行动与权利的力量。内在自由能保存批判距离，却不能自行解除支配关系，所以制度改变仍是完整自由的构成条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-05-freedom-consciousness-check-1-misconception"
+    },
+    {
+      "id": "hegel-05-freedom-consciousness-check-2",
+      "kind": "argument-step",
+      "prompt": "彻底怀疑主义为何产生实践张力？",
+      "targetNodeIds": [
+        "hegel-05-freedom-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "行动中使用共同规则只是权宜选择，不会动摇对稳定主张的彻底悬置。",
+          "feedback": "这里把行动中使用共同规则降成不影响彻底悬置的权宜选择。它预设可以持续依赖语言和规则的有效性却不给这些条件任何稳定承诺。彻底怀疑作为最终立场必须说明自身实践所依赖的共同条件，称为权宜并未解除这种依赖。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "它在论辩中否定稳定主张，行动中却依赖身体、语言和共同规则。",
+          "feedback": "问题不在怀疑本身，而在把普遍否定当最终立场时仍需使用被否定的条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-05-freedom-consciousness-check-2-misconception"
+    },
+    {
+      "id": "hegel-05-freedom-consciousness-check-3",
+      "kind": "case-transfer",
+      "prompt": "苦恼意识的分裂结构是什么？",
+      "targetNodeIds": [
+        "hegel-05-freedom-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "把不变纯洁安置在彼岸，把变化与过失归给有限自我，同时又渴望二者统一。",
+          "feedback": "关键是有限与无限被固定分开，情绪来自这种自我关系而非偶然低落。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "有限自我未能达到既定宗教标准，才使彼岸与自身原有的联系暂时受阻。",
+          "feedback": "这里把分裂解释为有限自我暂时没有达到既定宗教标准。它预设彼岸与自身原本已经连通而障碍只来自个人表现不足。苦恼意识的问题是它先把不变者与有限自我固定分开又要求统一，不是达标以后就能恢复的原有联系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-05-freedom-consciousness-check-3-misconception"
+    },
+    {
+      "id": "hegel-05-freedom-consciousness-check-4",
+      "kind": "objection-assessment",
+      "prompt": "批评内在自由时必须保留什么限制？",
+      "targetNodeIds": [
+        "hegel-05-freedom-consciousness-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "内在自由若未改变制度，应主要视为逃避现实，而非压迫中的生存资源。",
+          "feedback": "这里因内在自由尚未改变制度就把它主要判作逃避现实。它把不足以完成制度解放偷换成不能在压迫中保存尊严和生存空间。同一内在距离既可能掩护退却也可能保护最危险者，评价须结合风险而不能由制度未变直接否定其作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "在压迫条件下它可能是生存与尊严资源，不能要求最危险者承担冒险义务。",
+          "feedback": "不足以构成完整自由，不等于在现实压迫中没有保护作用；两种评价必须同时保留。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-05-freedom-consciousness-check-4-misconception"
+    },
+    {
+      "id": "hegel-06-reason-spirit-check-1",
+      "kind": "argument-step",
+      "prompt": "观察理性为何不能用颅骨或外部特征完整解释行动？",
+      "targetNodeIds": [
+        "hegel-06-reason-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "行动包含行动者对规则、处境和理由的理解，不能由外部相关性替代。",
+          "feedback": "论证反对还原而非否认身体条件，行动意义需要进入解释才能说明责任。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "行动理由属于外部特征背后的主观解释，稳定相关性仍可替代其说明。",
+          "feedback": "这里把行动理由降为外部特征背后的主观解释，并用稳定相关性取代它。它把可预测行为偷换成已经说明行动者如何理解规则处境和责任。外部相关性可提供条件证据，却不能独自说明一个举动为何算承诺违约或负责行动。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-06-reason-spirit-check-1-misconception"
+    },
+    {
+      "id": "hegel-06-reason-spirit-check-2",
+      "kind": "concept-boundary",
+      "prompt": "私人真诚为何不能单独成为普遍法则？",
+      "targetNodeIds": [
+        "hegel-06-reason-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "真诚确信发生冲突时，应先比较动机纯度，再决定是否需要公共裁决。",
+          "feedback": "这里把真诚确信的冲突先转成对双方动机纯度的比较。它把谁更善意偷换成哪一主张能作为所有人可承认的规则。即使双方动机同样纯洁，行动要求仍会冲突，所以公共理由与裁决不是比较动机后才可能需要的附加项。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "不同真诚确信会冲突，需要公共理由和共同裁决条件。",
+          "feedback": "问题不在动机真假，而在从特殊确信到所有人可承认的规范缺少中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-06-reason-spirit-check-2-misconception"
+    },
+    {
+      "id": "hegel-06-reason-spirit-check-3",
+      "kind": "case-transfer",
+      "prompt": "“精神”在共同生活中指什么？",
+      "targetNodeIds": [
+        "hegel-06-reason-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "语言、规范、制度与习惯构成的共享意义结构，使个人成为可负责行动者。",
+          "feedback": "精神通过人的实践存在，却具有超出单个意愿的持续结构和反作用。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "共享规范由个人约定形成，所以制度效力只是许多个体意图的稳定累加。",
+          "feedback": "这里把制度效力还原为许多个体意图经过约定后的稳定累加。它把制度由人实践形成偷换成制度在每一时刻都只等于当前个人意愿总和。语言规范和角色会先行塑造行动资格并反作用于个人，因此精神既依赖实践又有不能由意图加总解释的结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-06-reason-spirit-check-3-misconception"
+    },
+    {
+      "id": "hegel-06-reason-spirit-check-4",
+      "kind": "objection-assessment",
+      "prompt": "法国革命的讨论不能推出什么？",
+      "targetNodeIds": [
+        "hegel-06-reason-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "抽象普遍性缺少实行内容，所以旧制度的中介更可靠。",
+          "feedback": "这里从抽象普遍性缺少实行内容推出旧制度的中介更可靠。它把需要具体中介偷换成既存等级和职位已经是可问责的自由中介。对抽象自由的批评只要求建立可检验的分工，不能为未经自由标准检验的旧制度提供正当性。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "不能推出革命必然导致恐怖或旧制度因此正当。",
+          "feedback": "批评锁定的是拒绝一切可问责中介的抽象普遍性，而不是否定革命自由要求。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-06-reason-spirit-check-4-misconception"
+    },
+    {
+      "id": "hegel-07-religion-absolute-check-1",
+      "kind": "concept-boundary",
+      "prompt": "绝对知识首先取消的是什么？",
+      "targetNodeIds": [
+        "hegel-07-religion-absolute-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "主体与对象之间那个未经检验、永远不可跨越的固定外部界限。",
+          "feedback": "绝对指不再受未反思外部规定限制，并不表示个人拥有无限事实或不可错。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "有限认识与对象之间因经验条件形成、仍可通过反思逐步缩小的距离。",
+          "feedback": "这里把绝对知识的对象说成可由反思逐步缩小的经验距离。它把有限认识中的可纠正差距偷换成主体对象被原则上永久隔开的界限。结尾针对的是未经检验的固定外部界限，经验距离仍可保留并通过研究纠正，二者不是同一限制。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-07-religion-absolute-check-1-misconception"
+    },
+    {
+      "id": "hegel-07-religion-absolute-check-2",
+      "kind": "argument-step",
+      "prompt": "宗教表象为何既有内容又需要概念转换？",
+      "targetNodeIds": [
+        "hegel-07-religion-absolute-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "图像和叙事只能给出共同体情感，有限与无限的关系须由概念另行建立。",
+          "feedback": "这里把图像和叙事的内容限为共同体情感，并让概念另行建立有限无限关系。它把表象形式未充分展开关系偷换成表象根本没有表达这项关系。概念转换要保存表象已有的和解内容并改变其远方事件形式，不是从情感之外重新发明内容。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "图像和叙事表达有限与无限关系，却可能把统一保留为远方事件。",
+          "feedback": "黑格尔试图保存和解内容，同时改变其呈现形式，争议也正来自这种转换。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-07-religion-absolute-check-2-misconception"
+    },
+    {
+      "id": "hegel-07-religion-absolute-check-3",
+      "kind": "objection-assessment",
+      "prompt": "真理是“整体”不应怎样使用？",
+      "targetNodeIds": [
+        "hegel-07-religion-absolute-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "不能用来推迟阻止当下伤害，或把外部异议一概说成不成熟。",
+          "feedback": "整体性应增加自我检验能力，而不是让体系凭宏大位置免疫于具体反证。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "应先把异议放入体系的生成关系，待整体位置明确后再决定其现实效力。",
+          "feedback": "这里要求先确定异议在整体生成中的位置再承认它的现实效力。它把理解体系关系偷换成具体伤害必须等待体系完成归位才可成立。整体只能加强对异议的解释和回应责任，不能暂停独立反证或阻止当下伤害的效力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-07-religion-absolute-check-3-misconception"
+    },
+    {
+      "id": "hegel-07-religion-absolute-check-4",
+      "kind": "text-identity",
+      "prompt": "宗教讲演材料为何要与一八零七年文本区分？",
+      "targetNodeIds": [
+        "hegel-07-religion-absolute-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "它记录黑格尔后期的成熟表述，因此可用来补足一八零七年文本的正式结论。",
+          "feedback": "这里以讲演记录较晚且较成熟为由补足一八零七年文本的正式结论。它把思想上的后期发展偷换成早期定稿著作本来就含有同一结论。讲演可作为后期证据，却不能越过年份笔记者和编辑层级而改写一八零七年文本身份。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "它来自多轮讲演、学生笔记和身后编辑，文本身份与定稿著作不同。",
+          "feedback": "材料仍可提供证据，但其年份、笔记者和编辑层级会影响命题归属与权重。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-07-religion-absolute-check-4-misconception"
+    },
+    {
+      "id": "hegel-08-logic-check-1",
+      "kind": "concept-boundary",
+      "prompt": "存在与无的开端论证针对什么？",
+      "targetNodeIds": [
+        "hegel-08-logic-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "针对完全无规定的纯思维开端，而非说现实事物等于不存在。",
+          "feedback": "只有抽掉所有规定以后两端才无法区分，经验对象从未被如此抽空。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "针对经验对象被逐项抽去性质后留下的共同存在，因此仍描述现实事物。",
+          "feedback": "这里把纯存在当成经验对象逐项去除性质后仍剩下的共同存在。它把逻辑开端的无规定性偷换成现实事物经过抽象后仍被描述的共同属性。存在与无的不可区分只针对不带任何规定的思维开端，不能据此断言仍有具体规定的经验事物等于无。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-08-logic-check-1-misconception"
+    },
+    {
+      "id": "hegel-08-logic-check-2",
+      "kind": "argument-step",
+      "prompt": "本质为何不能是永不显现的幕后静物？",
+      "targetNodeIds": [
+        "hegel-08-logic-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "本质可由现象间接推断，即使它自身不显现，也能作为统一原因解释现象。",
+          "feedback": "这里允许本质自身不显现却仍作为从现象推断出的统一原因。它把给多个现象贴上同一原因名称偷换成该原因已在现象关系中显示解释内容。若本质原则上不以任何关系显现，间接推断就没有可区别于虚构的根据，所以统一命名不能完成解释。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "若它原则上不在任何现象中显示，就无法与虚构区分，也不能解释现象。",
+          "feedback": "本质必须通过显现取得现实性，但这不取消两者之间的反思和根据关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-08-logic-check-2-misconception"
+    },
+    {
+      "id": "hegel-08-logic-check-3",
+      "kind": "concept-boundary",
+      "prompt": "概念为何不只是脑中的分类标签？",
+      "targetNodeIds": [
+        "hegel-08-logic-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "它组织普遍、特殊、个别的关系，说明对象各环节怎样共同成为所是。",
+          "feedback": "关键在自我规定的结构，而不是给现成对象贴词或假设另一种神秘实体。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "它把对象共同性质组织成稳定分类，再由分类关系说明个别对象的结构。",
+          "feedback": "这里仍把概念理解为按共同性质建立稳定分类并整理个别对象。它把分类之间的外部关系偷换成对象的普遍特殊个别环节如何相互规定。分类可排列现成对象，却不能说明对象为何由这些环节成为所是，因此仍未越出标签功能。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-08-logic-check-3-misconception"
+    },
+    {
+      "id": "hegel-08-logic-check-4",
+      "kind": "text-identity",
+      "prompt": "一八三二年存在论修订与早期《逻辑学》应怎样使用？",
+      "targetNodeIds": [
+        "hegel-08-logic-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "后期修订代表黑格尔最终立场，可直接替代早期各卷中相关规定的表述。",
+          "feedback": "这里因一八三二年修订较晚就让它直接替代早期各卷的相关表述。它把最终立场的权重偷换成不同定稿阶段在具体措辞与过渡上没有差异。后期修订可显示变化方向，但早期文本的命题归属仍须按版次逐处核对，不能被追溯覆盖。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "应标明版次并检验具体改动，不能把不同定稿阶段直接合成一条原文。",
+          "feedback": "真正证据来自具体版本和局部过渡，完整链条不能靠后期修订的权威代替论证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-08-logic-check-4-misconception"
+    },
+    {
+      "id": "hegel-09-nature-system-check-1",
+      "kind": "concept-boundary",
+      "prompt": "“理念释放自然”不应被理解为什么？",
+      "targetNodeIds": [
+        "hegel-09-nature-system-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "不是人的头脑创造石头，也不是宇宙中发生过的一次时间事件。",
+          "feedback": "它说明体系中的外在性关系，而不是与自然科学竞争的经验宇宙事件。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "是理念在逻辑完成后产生外在世界的体系事件，时间语言只是表达上的类比。",
+          "feedback": "这里仍把理念产生外在世界理解成逻辑完成后发生的体系事件。它只把时间措辞称为类比，却保留了一个先完成再产生的事件结构。释放自然标示逻辑与外在性的体系关系，不主张某个主体或过程在时间中制造自然世界。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-09-nature-system-check-1-misconception"
+    },
+    {
+      "id": "hegel-09-nature-system-check-2",
+      "kind": "argument-step",
+      "prompt": "自然科学与自然哲学冲突时应怎样处理？",
+      "targetNodeIds": [
+        "hegel-09-nature-system-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "自然哲学先规定概念门类，经验研究应在门类内部修正测量和机制说明。",
+          "feedback": "这里让自然哲学预先固定概念门类，只准经验研究在门类内部修正。它把哲学提出分析框架偷换成框架本身无需接受新测量和机制发现的反证。经验冲突可能要求连门类边界一起改写，体系位置不能预先限制科学证据可修订的对象。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "经验判断接受测量和实验约束，不能因处在体系中而免于修订。",
+          "feedback": "哲学可分析规律和生命概念，却不能替代经验研究对具体分类与机制的检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-09-nature-system-check-2-misconception"
+    },
+    {
+      "id": "hegel-09-nature-system-check-3",
+      "kind": "case-transfer",
+      "prompt": "习惯怎样同时支持和威胁自由？",
+      "targetNodeIds": [
+        "hegel-09-nature-system-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "它让能力身体化，也可能让偏见和服从成为不经反思的第二自然。",
+          "feedback": "熟练能扩大行动能力，但关键前提是反思仍能让固化习惯重新变得可见。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "习惯把反思后的选择身体化，因此偏见主要来自形成习惯之前的错误判断。",
+          "feedback": "这里把习惯限定为反思后选择的身体化，并把偏见归到习惯形成以前。它预设反思过一次的选择在重复和制度强化中不会变成不再受检验的第二自然。习惯既能保存能力也能固化偏见，威胁正可能在身体化过程中生成而非只来自先前误判。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-09-nature-system-check-3-misconception"
+    },
+    {
+      "id": "hegel-09-nature-system-check-4",
+      "kind": "text-identity",
+      "prompt": "《哲学全书》附释应怎样进入自然与精神的解释？",
+      "targetNodeIds": [
+        "hegel-09-nature-system-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "附释保存具体讲授说明，可用来补足纲要正文省略而未展开的正式论证。",
+          "feedback": "这里把附释中的具体讲授说明当成纲要正文省略的正式论证。它把帮助理解正文偷换成学生记录与身后编辑材料具有定稿正文的作者身份。附释可提供讲授线索，却不能填成正文原有论证，命题权重仍取决于记录版本和正文互证。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "可作讲授证据，但须标明学生记录与编辑层级，不能与正式正文等权。",
+          "feedback": "所得是附释提供解释线索，未决命题仍须回到正文、版本和经验内容逐项检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-09-nature-system-check-4-misconception"
+    },
+    {
+      "id": "hegel-10-subjective-objective-check-1",
+      "kind": "concept-boundary",
+      "prompt": "任意选择为何不足以定义自由？",
+      "targetNodeIds": [
+        "hegel-10-subjective-objective-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "欲望和选项可能支配行动者，自由还需反思目的并认领后果。",
+          "feedback": "关键不是选项数量本身，而是行动者能否把欲望和理由真正作为自己的来检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "选项越多越容易被外部偏好支配，因此自由主要来自减少可选对象。",
+          "feedback": "这里从选项可能受外部偏好支配推出减少选项才主要产生自由。它把反思并认领欲望的能力偷换成由外部替行动者缩减可选对象。选择多寡都可能伴随支配，决定自由的是行动者能否审查目的和承担后果，限制数量不能替代自我治理。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-10-subjective-objective-check-1-misconception"
+    },
+    {
+      "id": "hegel-10-subjective-objective-check-2",
+      "kind": "argument-step",
+      "prompt": "客观精神怎样让自由取得现实性？",
+      "targetNodeIds": [
+        "hegel-10-subjective-objective-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "法律和制度给出共同内容，个人通过适应这些内容获得可兑现的行动资格。",
+          "feedback": "这里把个人适应法律制度的共同内容当成取得行动资格的路径。它把制度提供公共条件偷换成个人只有顺应既定内容才能作为自由行动者。客观精神要使人格责任和异议权可兑现，若资格以适应为条件就会取消它本应实现的主观自由。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "法律、制度和习惯赋予人格、责任与行动以可共享和可兑现的形态。",
+          "feedback": "制度应使主观自由获得效力，而不是取消个人理解、认同和提出异议的权利。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-10-subjective-objective-check-2-misconception"
+    },
+    {
+      "id": "hegel-10-subjective-objective-check-3",
+      "kind": "case-transfer",
+      "prompt": "为什么交通规则可支持自由而种族隔离法不能？",
+      "targetNodeIds": [
+        "hegel-10-subjective-objective-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "前者协调所有人共享行动，后者通过剥夺部分人的平等地位维持秩序。",
+          "feedback": "评价关键是规则是否让每个人作为自由者参与，而不只是能否产生可预测行为。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "前者获得多数参与者认可，后者缺少足够广泛的社会同意而失去稳定性。",
+          "feedback": "这里用多数认可和社会同意范围来区分交通规则与种族隔离法。它把得到广泛接受偷换成规则平等保障每个人的自由人格地位。压迫规则也可能稳定并获多数同意，关键差别是协调共享行动还是以剥夺部分人的资格维持秩序。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-10-subjective-objective-check-3-misconception"
+    },
+    {
+      "id": "hegel-10-subjective-objective-check-4",
+      "kind": "objection-assessment",
+      "prompt": "能力形成论怎样避免家长主义？",
+      "targetNodeIds": [
+        "hegel-10-subjective-objective-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "支持者可暂时代替判断，只要事后把决定权和拒绝地位交还当事人。",
+          "feedback": "这里允许支持者暂时代替判断，并把事后交还决定权当成充分保障。它略去代替判断必须具备必要性和最小限制并同步听取当事人理由的条件。即使暂时代替也须保留即时申诉和拒绝渠道，否则事后交还无法补回当时被取消的理由地位。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "支持应扩大当事人未来控制，并保留其给理由和拒绝的地位。",
+          "feedback": "能力支持的目的在增加自主，若取消当事人的理由地位，手段已违背自身目的。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-10-subjective-objective-check-4-misconception"
+    },
+    {
+      "id": "hegel-11-right-ethical-life-check-1",
+      "kind": "argument-step",
+      "prompt": "为什么契约不能独自解释法和国家？",
+      "targetNodeIds": [
+        "hegel-11-right-ethical-life-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "有效订约已预设人格资格、财产权、同意规则和公共裁判。",
+          "feedback": "契约确有真实作用，但不能生成自己成立所依赖的全部必要公共条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "契约可先确立相互人格地位，再由反复交换逐步形成公共裁判规则。",
+          "feedback": "这里让契约先创造相互人格地位，再由反复交换生成公共裁判。它略去订约行为已经预设谁是人格谁有财产何为同意以及争议由谁裁判。契约能转移既获承认的权利，却不能从自身产生使第一次契约有效的公共法律条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-11-right-ethical-life-check-1-misconception"
+    },
+    {
+      "id": "hegel-11-right-ethical-life-check-2",
+      "kind": "concept-boundary",
+      "prompt": "伦理生活为何不能只等于服从习俗？",
+      "targetNodeIds": [
+        "hegel-11-right-ethical-life-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "习俗只要获得主体日常认同，就已把外在规则转成可实践的共同自由。",
+          "feedback": "这里把主体对习俗的日常认同当成共同自由已经实现。它把熟悉并照常遵行规则偷换成主体能以普遍自由理由审查和反对规则。压迫习俗也会被日常认同，伦理生活还须检验人格权利与主观认领，事实适应不能推出规范正当。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "它要让外在规则与主体认同结合，并用普遍自由检验具体习惯。",
+          "feedback": "规则需被自由主体认领，稳定习惯若排除权利仍会受到概念标准批判。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-11-right-ethical-life-check-2-misconception"
+    },
+    {
+      "id": "hegel-11-right-ethical-life-check-3",
+      "kind": "objection-assessment",
+      "prompt": "市民社会的贫困问题暴露什么？",
+      "targetNodeIds": [
+        "hegel-11-right-ethical-life-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "市场普遍依赖可同时生产财富与排除，形式交换不能自动保证社会成员资格。",
+          "feedback": "分工和交换提高供给，却可能让部分人失去通过劳动获得独立地位的条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "市场排除主要源于生产不足，增长配合形式交换可逐步恢复成员资格。",
+          "feedback": "这里把市场排除主要归因于生产不足，并以增长加形式交换恢复资格。它把财富总量增加偷换成被排除者已经取得劳动机会物质独立和社会承认。分工可在增长中继续制造失业与资格剥夺，所以形式交换和供给增加不能自行保证成员地位。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-11-right-ethical-life-check-3-misconception"
+    },
+    {
+      "id": "hegel-11-right-ethical-life-check-4",
+      "kind": "text-identity",
+      "prompt": "《法哲学原理》正文与性别附释应怎样共同受检验？",
+      "targetNodeIds": [
+        "hegel-11-right-ethical-life-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "附释来自学生记录，性别限制主要属于编辑材料，不影响正文的制度论证。",
+          "feedback": "这里把性别限制主要归给学生记录的附释，并使正文制度论证免受影响。它把具体措辞的编辑身份偷换成正文家庭分工和公共资格没有性别化结构。附释须降权归属，但正文安排仍可产生排除后果并接受普遍自由标准的独立检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "附释身份须标明，但正文的性别化制度结构仍需按普遍自由标准批评。",
+          "feedback": "来源身份影响引文权重，却不能取消正文家庭结构中的排除及其规范后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-11-right-ethical-life-check-4-misconception"
+    },
+    {
+      "id": "hegel-12-history-critique-check-1",
+      "kind": "argument-step",
+      "prompt": "为何不能把历史胜利直接等同理性进步？",
+      "targetNodeIds": [
+        "hegel-12-history-critique-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "胜出只说明力量结果，仍须检验权利、参与、物质条件和受害者经验。",
+          "feedback": "方向判断需要具体规范指标，既不能由胜利自动证明，也不必退回毫无标准的相对主义。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "胜出若带来较稳定制度，便可先视为进步，再检验其权利与参与缺口。",
+          "feedback": "这里让胜出带来的制度稳定先取得进步资格，再补查权利与参与缺口。它把较稳定的力量结果偷换成进步判断所需的自由条件已经初步成立。稳定可以靠压迫维持，权利参与物质条件和受害经验必须共同进入最初判断而非事后修正。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-12-history-critique-check-1-misconception"
+    },
+    {
+      "id": "hegel-12-history-critique-check-2",
+      "kind": "concept-boundary",
+      "prompt": "欧洲中心主义为何不是几句失言而已？",
+      "targetNodeIds": [
+        "hegel-12-history-critique-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "阶段图式采用欧洲材料，但自由发展的普遍标准仍可中立涵盖其他社会。",
+          "feedback": "这里承认阶段图式偏用欧洲材料，却保留其自由标准的中立普遍性。它把抽象使用自由一词偷换成阶段排序和主体资格没有按欧洲国家形式设定。若谁进入世界历史及谁代表完成都由欧洲范型决定，标准的实际适用已带排除结构而非中立容纳。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "阶段图式把欧洲置于完成位置，并按欧洲国家形式决定谁算进入世界历史。",
+          "feedback": "问题进入叙事结构、材料选择和自由主体资格，不只是可删去的修辞瑕疵。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-12-history-critique-check-2-misconception"
+    },
+    {
+      "id": "hegel-12-history-critique-check-3",
+      "kind": "text-identity",
+      "prompt": "世界历史讲演中的殖民与种族判断应怎样归属？",
+      "targetNodeIds": [
+        "hegel-12-history-critique-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "须注明讲演笔记和身后编辑传统，同时保留对其中实质错误的批评。",
+          "feedback": "文本身份影响精确归属，却不能让结构性欧洲中心主义免于被同时代反证检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "版本差异使具体措辞归属不稳，因此实质批评应先限于《法哲学原理》正文。",
+          "feedback": "这里因讲演版本的措辞归属不稳就把实质批评限到《法哲学原理》正文。它把不能确定每句话的作者定稿形态偷换成讲演材料没有任何可分级使用的实质证据。版本层级要求降低归属强度，却不要求搁置殖民种族判断及其结构与同时代反证的检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-12-history-critique-check-3-misconception"
+    },
+    {
+      "id": "hegel-12-history-critique-check-4",
+      "kind": "objection-assessment",
+      "prompt": "放弃自动进步后还能保留什么历史标准？",
+      "targetNodeIds": [
+        "hegel-12-history-critique-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "应以制度稳定、生产增长和法律形式为共同尺度，再把受害经验作为修正项。",
+          "feedback": "这里先用制度稳定生产增长和法律形式作共同尺度，再把受害经验降为修正项。它把秩序总量和形式存在偷换成身体安全平等人格与反对权威已经得到同等保障。受害经验是检验这些自由条件是否真实兑现的核心证据，不能在先判进步后才用于校正。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "身体安全、平等人格、政治发言、物质独立和反对权威等可具体检验的自由条件。",
+          "feedback": "这些标准允许多维比较、承认倒退，并要求成果持续由可问责关系维持。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-12-history-critique-check-4-misconception"
+    },
+    {
+      "id": "hegel-13-aesthetics-check-1",
+      "kind": "argument-step",
+      "prompt": "艺术美中的感性形态与理念是什么关系？",
+      "targetNodeIds": [
+        "hegel-13-aesthetics-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "感性形态参与规定精神内容怎样成为可经验的统一，并非事后装饰。",
+          "feedback": "正确：形式是内容出现的方式，因此媒介选择也参与意义构成。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "理念先已完整，艺术只给它添加更易传播的漂亮外壳。",
+          "feedback": "错误：这把形式降为外在包装，取消了黑格尔所要求的内容—形式相称关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-13-aesthetics-check-1-misconception"
+    },
+    {
+      "id": "hegel-13-aesthetics-check-2",
+      "kind": "distinction",
+      "prompt": "象征型、古典型、浪漫型的核心区分是什么？",
+      "targetNodeIds": [
+        "hegel-13-aesthetics-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "它们是按文明价值从低到高排列、可直接套用所有作品的固定年代箱。",
+          "feedback": "错误：这种文明等级化用法既忽略形式—内容关系，也复制讲演材料的欧洲中心风险。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "它们分析精神内容与感性形态相称关系的不同配置，不能无批判地当文明等级表。",
+          "feedback": "正确：三形态是历史—概念配置，应用时还须检验材料与偏见。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-13-aesthetics-check-2-misconception"
+    },
+    {
+      "id": "hegel-13-aesthetics-check-3",
+      "kind": "source-identity",
+      "prompt": "引用《美学讲演录》时最关键的文本身份要求是什么？",
+      "targetNodeIds": [
+        "hegel-13-aesthetics-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "标明讲演轮次、学生记录者与版本，并把 Hotho 身后编辑本另作编辑重构。",
+          "feedback": "正确：黑格尔未出版定稿《美学》，不同材料的证言权重不能合并。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "Hotho 听过课，所以 1835 身后编本可逐句视为黑格尔亲自定稿。",
+          "feedback": "错误：听课笔记身份与身后综合编辑身份不同，同一编辑者不能消除来源层次。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-13-aesthetics-check-3-misconception"
+    },
+    {
+      "id": "hegel-13-aesthetics-check-4",
+      "kind": "distinction",
+      "prompt": "“艺术的过去性”最准确表示什么？",
+      "targetNodeIds": [
+        "hegel-13-aesthetics-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "黑格尔预言十九世纪以后不会再产生有价值的艺术。",
+          "feedback": "错误：命题针对艺术作为最高真理公共形态的地位，不是否认后来的创作与价值。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "艺术不再以古典共同体的方式充分承担最高真理使命，但仍可创作、认识和批判。",
+          "feedback": "正确：须区分最高使命的历史变化与艺术死亡。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-13-aesthetics-check-4-misconception"
+    },
+    {
+      "id": "hegel-14-subjective-spirit-check-1",
+      "kind": "sequence",
+      "prompt": "《百科全书》主观精神的三分结构是什么？",
+      "targetNodeIds": [
+        "hegel-14-subjective-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "人类学考察灵魂，精神现象学考察意识对象关系，心理学考察心灵的理论与实践活动。",
+          "feedback": "正确：三者通过对象关系变化形成过渡链。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "逻辑学考察概念，自然哲学考察身体，世界历史考察自由。",
+          "feedback": "错误：这是跨体系部门拼接，未回答主观精神内部的人类学—意识—心理学结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-14-subjective-spirit-check-1-misconception"
+    },
+    {
+      "id": "hegel-14-subjective-spirit-check-2",
+      "kind": "distinction",
+      "prompt": "习惯在主观精神中的作用是什么？",
+      "targetNodeIds": [
+        "hegel-14-subjective-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "精神消灭身体影响，因而真正自由不再需要身体媒介。",
+          "feedback": "错误：习惯是精神对身体能力的熟练占有，不是脱离或消灭身体。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "动作和感受方式成为可支配的身体能力，为明确的意识对象关系释放注意。",
+          "feedback": "正确：这链接旧 L09 的身体与习惯，并定位向意识的过渡。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-14-subjective-spirit-check-2-misconception"
+    },
+    {
+      "id": "hegel-14-subjective-spirit-check-3",
+      "kind": "distinction",
+      "prompt": "理论精神、实践精神与自由精神怎样关联？",
+      "targetNodeIds": [
+        "hegel-14-subjective-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "理论精神使内容可思，实践精神组织目的与冲动，自由精神把普遍性认作意志自身内容。",
+          "feedback": "正确：自由精神汇合认识与意志，却仍须过渡到客观制度。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "理论精神只储存事实，实践精神任意选择，自由精神就是没有任何限制。",
+          "feedback": "错误：这把理论活动被动化、实践自由任意化，也取消自由意志的普遍内容。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-14-subjective-spirit-check-3-misconception"
+    },
+    {
+      "id": "hegel-14-subjective-spirit-check-4",
+      "kind": "source-boundary",
+      "prompt": "为何不能用 1807 年《精神现象学》替代整个主观精神专题？",
+      "targetNodeIds": [
+        "hegel-14-subjective-spirit-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "两者都谈意识，所以书名相近即可互换。",
+          "feedback": "错误：对象和体系任务不同；词语相近不能抹掉《百科全书》三分结构。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "1807 年著作有自身长程路线；《百科全书》精神现象学只是主观精神中介于灵魂与心理学的一环。",
+          "feedback": "正确：这正是本篇需补足且不得与旧 L03–L07 混同的边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-14-subjective-spirit-check-4-misconception"
+    },
+    {
+      "id": "hegel-15-external-state-check-1",
+      "kind": "argument-step",
+      "prompt": "国家承认为何既重要又脆弱？",
+      "targetNodeIds": [
+        "hegel-15-external-state-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "国家的独立身份需由他国承认，但彼此之上没有同等于国内最高法院的共同裁判者。",
+          "feedback": "正确：承认构成规范关系，缺少终局执行又使其脆弱。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "国家只靠自称成立，所以他国承认在概念上完全无关。",
+          "feedback": "错误：国家对外人格包含被其他国家当作权利义务主体的关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-15-external-state-check-1-misconception"
+    },
+    {
+      "id": "hegel-15-external-state-check-2",
+      "kind": "distinction",
+      "prompt": "国际法作为“应当”最准确是什么意思？",
+      "targetNodeIds": [
+        "hegel-15-external-state-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "国际法只是宣传，没有真实规范约束。",
+          "feedback": "错误：条约和守约具有真实规范地位；问题在共同强制保障不足。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "国际规范真实约束国家，但其执行没有与国内法相同的终局制度保障。",
+          "feedback": "正确：规范有效性与执行脆弱性须同时保留。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-15-external-state-check-2-misconception"
+    },
+    {
+      "id": "hegel-15-external-state-check-3",
+      "kind": "normative-boundary",
+      "prompt": "黑格尔认为战争可能发生，能够推出什么？",
+      "targetNodeIds": [
+        "hegel-15-external-state-node"
+      ],
+      "options": [
+        {
+          "id": "supported",
+          "text": "只能说明主权争端在其架构中缺少必然终局和平，不能推出每场战争正当。",
+          "feedback": "正确：可能性诊断不等于侵略授权，战争仍受规范批评。",
+          "isCorrect": true
+        },
+        {
+          "id": "misconception",
+          "text": "战争承担体系功能，因此胜利者的侵略自动合理。",
+          "feedback": "错误：这把解释变成正当化，并以历史胜负取消法律和道德责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-15-external-state-check-3-misconception"
+    },
+    {
+      "id": "hegel-15-external-state-check-4",
+      "kind": "object-boundary",
+      "prompt": "本篇怎样区分国家外部关系、世界历史与现代项目扩展？",
+      "targetNodeIds": [
+        "hegel-15-external-state-node"
+      ],
+      "options": [
+        {
+          "id": "misconception",
+          "text": "三者都处理跨国问题，所以可合成黑格尔的现代国际制度方案。",
+          "feedback": "错误：这把不同原典对象和后来的规范制度倒投射成黑格尔方案。",
+          "isCorrect": false
+        },
+        {
+          "id": "supported",
+          "text": "§§321–340 重建国际法对象；§§341–360 另属世界历史；现代法院与人权保障明确标作后世扩展和批评。",
+          "feedback": "正确：对象、时期与声音边界均得到保留。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "supported",
+      "misconceptionId": "hegel-15-external-state-check-4-misconception"
+    }
+  ]
+}

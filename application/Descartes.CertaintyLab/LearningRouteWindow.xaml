@@ -1,0 +1,202 @@
+<Window x:Class="Descartes.CertaintyLab.LearningRouteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Descartes.CertaintyLab"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        Title="哲学学习路线" Width="1120" Height="760"
+        MinWidth="900" MinHeight="620"
+        WindowStartupLocation="CenterOwner"
+        Background="#F3EFE7" Foreground="#25231F"
+        FontFamily="Microsoft YaHei UI" FontSize="16"
+        PreviewKeyDown="OnPreviewKeyDown">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FFFDF8" />
+            <Setter Property="Foreground" Value="#25231F" />
+            <Setter Property="BorderBrush" Value="#AFA28E" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="14,9" />
+            <Setter Property="Margin" Value="0,8,10,8" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#173E49" />
+                    <Setter Property="BorderThickness" Value="4" />
+                    <Setter Property="Background" Value="#E7F0F1" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="ListBoxItem">
+            <Setter Property="Padding" Value="12" />
+            <Setter Property="Margin" Value="0,0,0,7" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Setter Property="AutomationProperties.Name" Value="{Binding AutomationName}" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#173E49" />
+                    <Setter Property="BorderThickness" Value="4" />
+                    <Setter Property="Background" Value="#E7F0F1" />
+                </Trigger>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#DDE8E5" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="30,24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <TextBlock x:Name="RouteTitle" Text="哲学学习路线" FontSize="32" FontWeight="Bold"
+                       Foreground="#263E46" />
+            <TextBlock x:Name="RouteDescription" Text="所有章节都可以直接打开。"
+                       TextWrapping="Wrap" Margin="0,5,0,16" />
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="370" />
+                <ColumnDefinition Width="22" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="ProgressSummary"
+                           Text="所有章节都可直接打开。"
+                           FontWeight="SemiBold" TextWrapping="Wrap"
+                           Margin="0,0,0,10"
+                           AutomationProperties.LiveSetting="Polite" />
+                <ListBox x:Name="LessonsList" Grid.Row="1"
+                         PreviewKeyDown="OnLessonsListKeyDown"
+                         ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                         AutomationProperties.Name="哲学学习路线。用上下方向键选择章节，按回车阅读。">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <local:SilentTextBlock Text="{Binding DisplayTitle}"
+                                                       FontWeight="Bold"
+                                                       FontSize="18"
+                                                       TextWrapping="Wrap" />
+                                <local:SilentTextBlock Text="{Binding StateText}"
+                                                       Margin="0,4,0,0"
+                                                       Foreground="#4E4A43"
+                                                       TextWrapping="Wrap" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+            <Border Grid.Column="2"
+                    Background="#FFFDF8"
+                    BorderBrush="#C8BCA8" BorderThickness="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <wv2:WebView2 x:Name="LessonReader" Grid.Row="0"
+                                  PreviewKeyDown="OnLessonReaderPreviewKeyDown"
+                                  AutomationProperties.Name="课程语义网页正文" />
+                    <Border x:Name="CompanionPanel" Grid.Row="1"
+                            BorderBrush="#C8BCA8" BorderThickness="0,1,0,1"
+                            Padding="18,12"
+                            DataContext="{Binding Companion}">
+                        <StackPanel>
+                            <TextBlock Text="思想同行者" FontSize="21" FontWeight="Bold" />
+                            <TextBlock x:Name="CompanionProfileBadge"
+                                       Text="{Binding ProfileBadgeText}"
+                                       FontWeight="SemiBold" Foreground="#31584A"
+                                       TextWrapping="Wrap" Margin="0,4,0,3"
+                                       AutomationProperties.Name="{Binding ProfileBadgeText}" />
+                            <TextBlock Text="回答依据当前文章上下文，帮助你把自己的理由再推进一步。"
+                                       TextWrapping="Wrap" Margin="0,4,0,8" />
+                            <StackPanel x:Name="CompanionControls"
+                                        IsEnabled="{Binding IsLessonReady}">
+                            <ComboBox x:Name="CompanionActionPicker" TabIndex="0"
+                                      SelectedValuePath="Tag"
+                                      SelectionChanged="OnCompanionActionChanged"
+                                      AutomationProperties.Name="选择同行方式">
+                                <ComboBoxItem Content="照见我" Tag="ReflectMe" IsSelected="True" />
+                                <ComboBoxItem Content="追问我" Tag="QuestionMe" />
+                                <ComboBoxItem Content="反驳我" Tag="ChallengeMe" />
+                                <ComboBoxItem Content="带我比较" Tag="CompareMe" />
+                            </ComboBox>
+                            <TextBox x:Name="CompanionInput" TabIndex="1" MaxLength="600"
+                                     Text="{Binding UserText, UpdateSourceTrigger=PropertyChanged}"
+                                     AcceptsReturn="True" MinHeight="64" TextWrapping="Wrap"
+                                     Margin="0,8,0,0"
+                                     AutomationProperties.Name="写下你目前的想法" />
+                            <Button x:Name="CompanionSendCancelButton" TabIndex="2"
+                                    Click="OnCompanionSendOrCancel"
+                                    AutomationProperties.Name="{Binding SendCancelText}">
+                                <TextBlock Text="{Binding SendCancelText}" />
+                            </Button>
+                            <ScrollViewer x:Name="CompanionAnswer" KeyboardNavigation.TabIndex="3" Focusable="True"
+                                          MaxHeight="260" VerticalScrollBarVisibility="Auto"
+                                          HorizontalScrollBarVisibility="Disabled"
+                                          Visibility="{Binding HasResponse, Converter={StaticResource BooleanToVisibilityConverter}}"
+                                          AutomationProperties.Name="{Binding AnswerAutomationText}">
+                                <Border Padding="12" BorderBrush="#9BB39F" BorderThickness="1">
+                                    <StackPanel>
+                                        <TextBlock Text="我听见你在说" FontWeight="Bold" />
+                                        <TextBlock Text="{Binding Heard}" TextWrapping="Wrap" />
+                                        <TextBlock Text="值得停一下的问题" FontWeight="Bold" Margin="0,7,0,0" />
+                                        <TextBlock Text="{Binding Question}" TextWrapping="Wrap" />
+                                        <TextBlock Text="它与本篇的关系" FontWeight="Bold" Margin="0,7,0,0" />
+                                        <TextBlock Text="{Binding Relation}" TextWrapping="Wrap" />
+                                        <TextBlock Text="{Binding BasisText, StringFormat='依据标签：{0}'}" />
+                                    </StackPanel>
+                                </Border>
+                            </ScrollViewer>
+                            <Expander x:Name="CompanionSources" TabIndex="4" Focusable="True"
+                                      Header="展开来源"
+                                      Visibility="{Binding HasResponse, Converter={StaticResource BooleanToVisibilityConverter}}"
+                                      AutomationProperties.Name="同行者回答来源"
+                                      AutomationProperties.HelpText="按回车或空格展开和收起来源。">
+                                <ItemsControl x:Name="CompanionSourceList"
+                                              ItemsSource="{Binding Sources}">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Margin="0,5,0,0" Padding="8"
+                                                    BorderBrush="#C8BCA8" BorderThickness="1">
+                                                <StackPanel>
+                                                    <TextBlock Text="{Binding ClaimId, StringFormat='论点：{0}'}"
+                                                               TextWrapping="Wrap" />
+                                                    <TextBlock Text="{Binding EvidenceId, StringFormat='证据：{0}'}"
+                                                               TextWrapping="Wrap" />
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </Expander>
+                            </StackPanel>
+                            <local:AtomicSummaryBorder x:Name="CompanionStatus"
+                                                       Margin="0,6,0,0"
+                                                       AutomationProperties.LiveSetting="Polite"
+                                                       AutomationProperties.Name="{Binding AccessibleStatus}">
+                                <local:SilentTextBlock Text="{Binding Status}"
+                                                       TextWrapping="Wrap" />
+                            </local:AtomicSummaryBorder>
+                        </StackPanel>
+                    </Border>
+                    <Button x:Name="BeginChecksButton" Grid.Row="2"
+                            Content="开始理解检查"
+                            IsEnabled="False"
+                            Click="OnBeginChecks"
+                            AutomationProperties.Name="开始本章理解检查" />
+                    <TextBlock x:Name="ReaderStatus" Grid.Row="3"
+                               Text="在左侧选择章节并按回车阅读正文。"
+                               TextWrapping="Wrap" Margin="18,8,18,14"
+                               AutomationProperties.LiveSetting="Polite" />
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,5525 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "parmenides--claim-01-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "我们读到的是后世作者保存的诗句，由现代编者按证据重建次序；碎片号不是诗人自题的章节号，诗内叙述者、女神、见证者和现代解释者也必须分声。",
+      "explanation": "我们读到的是后世作者保存的诗句，由现代编者按证据重建次序；碎片号不是诗人自题的章节号，诗内叙述者、女神、见证者和现代解释者也必须分声。",
+      "identity": "modern-editorial; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "巴门尼德诗的存世状态、引文链与声音分层"
+      ],
+      "voiceClass": "modern-editorial"
+    },
+    {
+      "id": "parmenides--claim-02-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "第一人称旅者由母马、车和太阳女儿引导，越过夜与日的门；这段先建立启示场景，而非直接给出本体论命题。",
+      "explanation": "第一人称旅者由母马、车和太阳女儿引导，越过夜与日的门；这段先建立启示场景，而非直接给出本体论命题。",
+      "identity": "parmenides-narrator; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B1.1-23 的叙述者与旅程意象"
+      ],
+      "voiceClass": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--claim-02-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "正义掌钥、少女劝门开启，使通行同时带有秩序、许可与认识论门槛的意味；进一步的纯宗教或纯寓言解释属于解释层。",
+      "explanation": "正义掌钥、少女劝门开启，使通行同时带有秩序、许可与认识论门槛的意味；进一步的纯宗教或纯寓言解释属于解释层。",
+      "identity": "parmenides-narrator; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "正义女神与门的叙事功能"
+      ],
+      "voiceClass": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--claim-03-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神区分“圆满/善劝的真理之心”与“凡人的意见”，并要求青年两方面都学习；形容真理的希腊异文与译法必须明示。",
+      "explanation": "女神区分“圆满/善劝的真理之心”与“凡人的意见”，并要求青年两方面都学习；形容真理的希腊异文与译法必须明示。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B1.24-30 女神的迎接与学习范围"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-03-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Simplicius 保存的 31-32 行通常被安置在序诗末尾；其表象“可接受地贯穿一切”之类难句，使“意见路零价值”不能冒充唯一读法。",
+      "explanation": "Simplicius 保存的 31-32 行通常被安置在序诗末尾；其表象“可接受地贯穿一切”之类难句，使“意见路零价值”不能冒充唯一读法。",
+      "identity": "modern-interpretive; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B1.31-32 的编辑安置与意见路解释"
+      ],
+      "voiceClass": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--claim-04-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神提出“是且不可能不是”与“不是且必定不是”两路；后一条之所以不可探究，是因为不能认识或说出所非者。",
+      "explanation": "女神提出“是且不可能不是”与“不是且必定不是”两路；后一条之所以不可探究，是因为不能认识或说出所非者。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B2 的两条探究路线"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-04-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B2 把情态限制、可思与可说性连在一起；究竟主张存在论、述谓论还是模态论，现代解释并不一致。",
+      "explanation": "B2 把情态限制、可思与可说性连在一起；究竟主张存在论、述谓论还是模态论，现代解释并不一致。",
+      "identity": "modern-interpretive; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "路径是探究规范而非地理岔路"
+      ],
+      "voiceClass": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--claim-05-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "to gar auto noein estin te kai einai 可以被译为“思与在是同一”“同一者可供思并且可在”或相关结构；单行不足以自动裁定其逻辑方向。",
+      "explanation": "to gar auto noein estin te kai einai 可以被译为“思与在是同一”“同一者可供思并且可在”或相关结构；单行不足以自动裁定其逻辑方向。",
+      "identity": "parmenides-fragment-quoted; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B3 单行的语法开放性"
+      ],
+      "voiceClass": "parmenides-fragment-quoted"
+    },
+    {
+      "id": "parmenides--claim-05-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Clement 与 Plotinus 保存变体措辞；该行是否为独立原诗残篇、原始位置以及新柏拉图主义语境对读法的影响均有争论。",
+      "explanation": "Clement 与 Plotinus 保存变体措辞；该行是否为独立原诗残篇、原始位置以及新柏拉图主义语境对读法的影响均有争论。",
+      "identity": "modern-editorial; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B3 的传承、真实性与安置问题"
+      ],
+      "voiceClass": "modern-editorial"
+    },
+    {
+      "id": "parmenides--claim-06-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神要求说与思“所是者是”，并断言是者可在、无者不在；译文不能省掉这组言说和思考的并行要求。",
+      "explanation": "女神要求说与思“所是者是”，并断言是者可在、无者不在；译文不能省掉这组言说和思考的并行要求。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b6"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B6.1-2 的言说—思考要求"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-06-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B6.3 末尾有缺文；补文会改变禁令指向，也影响对随后“双头凡人”和两路/三路结构的解释。",
+      "explanation": "B6.3 末尾有缺文；补文会改变禁令指向，也影响对随后“双头凡人”和两路/三路结构的解释。",
+      "identity": "modern-editorial; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B6.3-9 的残缺、补文与路线数解释"
+      ],
+      "voiceClass": "modern-editorial"
+    },
+    {
+      "id": "parmenides--claim-07-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神禁止让“多经验的习惯”把人推上不可行之路，并点名无目的的眼、轰鸣的耳与舌。",
+      "explanation": "女神禁止让“多经验的习惯”把人推上不可行之路，并点名无目的的眼、轰鸣的耳与舌。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B7 对习惯驱使的禁令"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-07-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神要求用 logos 判断她所陈述的多争论检验；这不是简单宣称所有感觉材料永远没有任何用途。",
+      "explanation": "女神要求用 logos 判断她所陈述的多争论检验；这不是简单宣称所有感觉材料永远没有任何用途。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "以 logos 判断多争论的检验"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-08-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神说在“是”的路上留下许多标志，随后列出不生成、不毁灭、完整/一、不可动摇与完成等属性；具体文本在 B8.4 有异文。",
+      "explanation": "女神说在“是”的路上留下许多标志，随后列出不生成、不毁灭、完整/一、不可动摇与完成等属性；具体文本在 B8.4 有异文。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B8 的 semata 论证程序"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-08-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B8.5-6 否认“曾是/将是”的生成时间叙述，强调“现在、全体、一个、连续”；这里的“一个”仍需由后续论证界定。",
+      "explanation": "B8.5-6 否认“曾是/将是”的生成时间叙述，强调“现在、全体、一个、连续”；这里的“一个”仍需由后续论证界定。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "现在整体与连续性"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-09-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神追问所是者从何而生，并拒绝“从所非者”生成，因为所非者不可说、不可思；她还追问为何在某个较晚或较早时刻生成。",
+      "explanation": "女神追问所是者从何而生，并拒绝“从所非者”生成，因为所非者不可说、不可思；她还追问为何在某个较晚或较早时刻生成。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "从无者生成的难题"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-09-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "正义不放松生成或毁灭的锁链；判决要求“是或不是”，并排除那条不可思、无名的路。",
+      "explanation": "正义不放松生成或毁灭的锁链；判决要求“是或不是”，并排除那条不可思、无名的路。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Dike、必然与非二值混合"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-10-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神说所是者不可分，因为到处同样是；不存在一处较多、一处较少从而阻止相连。",
+      "explanation": "女神说所是者不可分，因为到处同样是；不存在一处较多、一处较少从而阻止相连。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "不存在“更多/更少”的断裂"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-10-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B8 的连续与均一是原文承重节点，但它究竟推出数目一元论、述谓一元论或模态对象的统一，须标为解释分歧。",
+      "explanation": "B8 的连续与均一是原文承重节点，但它究竟推出数目一元论、述谓一元论或模态对象的统一，须标为解释分歧。",
+      "identity": "modern-interpretive; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33",
+        "parmenides--src-sep-2024"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "连续性论证与一元论边界"
+      ],
+      "voiceClass": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--claim-11-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "生成与毁灭已被真信念推开，所是者保持同一、在自身中安住；必然的界限将它围住。",
+      "explanation": "生成与毁灭已被真信念推开，所是者保持同一、在自身中安住；必然的界限将它围住。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "强力锁链中的不动"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-11-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神把不动同“不缺任何东西”相连；B8.32-33 的反事实和“缺一即缺全”需要逐句解释，不能只剩“静止”标签。",
+      "explanation": "女神把不动同“不缺任何东西”相连；B8.32-33 的反事实和“缺一即缺全”需要逐句解释，不能只剩“静止”标签。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "“不缺”与完成性的难句"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-12-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神把思与思之所为的目标/缘由同所是者相连；其句法不能无损压缩为 B3 式等号。",
+      "explanation": "女神把思与思之所为的目标/缘由同所是者相连；其句法不能无损压缩为 B3 式等号。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B8.34-36 的思与所是关系"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-12-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B8.38-41 列出凡人给出的生成、毁灭、是与不是、位置和颜色变化等名字；Ebert 的移位方案把 34-41 放到 52 后，显示段序也是编辑问题。",
+      "explanation": "B8.38-41 列出凡人给出的生成、毁灭、是与不是、位置和颜色变化等名字；Ebert 的移位方案把 34-41 放到 52 后，显示段序也是编辑问题。",
+      "identity": "modern-editorial; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "凡人名字及段落移位争论"
+      ],
+      "voiceClass": "modern-editorial"
+    },
+    {
+      "id": "parmenides--claim-13-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "所是者被比作“浑圆球体的体积”，从中心各方向相等；比拟的明文重点是完成、均衡和界限。",
+      "explanation": "所是者被比作“浑圆球体的体积”，从中心各方向相等；比拟的明文重点是完成、均衡和界限。",
+      "identity": "goddess-direct-speech; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "从中心各向相等的球形比拟"
+      ],
+      "voiceClass": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--claim-13-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "把 B8 的球形比拟直接叫作“巴门尼德的物理宇宙球”会越过解释边界；字面实体读法与比喻/结构读法均需标识。",
+      "explanation": "把 B8 的球形比拟直接叫作“巴门尼德的物理宇宙球”会越过解释边界；字面实体读法与比喻/结构读法均需标识。",
+      "identity": "modern-interpretive; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49",
+        "parmenides--src-sep-2024"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "比拟不自动等于宇宙物理模型"
+      ],
+      "voiceClass": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--claim-14-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "女神宣布可信的言说和思考到此为止，转而学习凡人意见的“骗人的词序”；她随即说明凡人命名的两种形态及其特征。",
+      "explanation": "女神宣布可信的言说和思考到此为止，转而学习凡人意见的“骗人的词序”；她随即说明凡人命名的两种形态及其特征。",
+      "identity": "goddess-reporting-mortal-order; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-50-61"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B8.50-61 的认识论转场"
+      ],
+      "voiceClass": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--claim-14-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B9 说一切事物都按光与夜命名并充满二者；现代解释在保留其较低认识论地位时，也注意它仍给出现象秩序。",
+      "explanation": "B9 说一切事物都按光与夜命名并充满二者；现代解释在保留其较低认识论地位时，也注意它仍给出现象秩序。",
+      "identity": "modern-interpretive; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b9",
+        "parmenides--src-sep-2024"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "B9 光夜分配的现代认识论解释"
+      ],
+      "voiceClass": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--claim-15-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B10-15 的诗句涉及以太、太阳、月亮、银河、天界、星辰、环带、居中女神、Eros 与月光。",
+      "explanation": "B10-15 的诗句涉及以太、太阳、月亮、银河、天界、星辰、环带、居中女神、Eros 与月光。",
+      "identity": "goddess-reporting-mortal-order; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b10-clement",
+        "parmenides--src-b11-simplicius",
+        "parmenides--src-b12-1-3-simplicius",
+        "parmenides--src-b12-2-6-simplicius",
+        "parmenides--src-b13-plato",
+        "parmenides--src-b13-aristotle",
+        "parmenides--src-b14-plutarch",
+        "parmenides--src-b15-plutarch"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "意见路诗句中的天象与宇宙论范围"
+      ],
+      "voiceClass": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--claim-15-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "B16 把身体成分的混合与 noos 联系，B18 的拉丁残篇谈生殖，B19 总结事物生成、现存、终结与命名，显示意见路不限于天文学。",
+      "explanation": "B16 把身体成分的混合与 noos 联系，B18 的拉丁残篇谈生殖，B19 总结事物生成、现存、终结与命名，显示意见路不限于天文学。",
+      "identity": "goddess-reporting-mortal-order; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-b16-aristotle",
+        "parmenides--src-b16-theophrastus",
+        "parmenides--src-b18-caelius",
+        "parmenides--src-b19"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "身体混合、繁殖与生灭总结"
+      ],
+      "voiceClass": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--claim-15-c",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Aëtius 2.7.1 对巴门尼德环带结构作出后世报告；它可用于接受史和模型重建，但不是女神原诗。",
+      "explanation": "Aëtius 2.7.1 对巴门尼德环带结构作出后世报告；它可用于接受史和模型重建，但不是女神原诗。",
+      "identity": "ancient-doxographic-reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-aetius-rings"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Aëtius 对环带模型的后世见证"
+      ],
+      "voiceClass": "ancient-doxographic-reception"
+    },
+    {
+      "id": "parmenides--claim-16-a",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "柏拉图在《巴门尼德篇》《泰阿泰德篇》《智者篇》中把巴门尼德与“一”、不动及非存在难题相连；这些是柏拉图戏剧与论证中的接受材料。",
+      "explanation": "柏拉图在《巴门尼德篇》《泰阿泰德篇》《智者篇》中把巴门尼德与“一”、不动及非存在难题相连；这些是柏拉图戏剧与论证中的接受材料。",
+      "identity": "plato-reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-plato-reception"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "柏拉图的巴门尼德形象不是原诗录音"
+      ],
+      "voiceClass": "plato-reception"
+    },
+    {
+      "id": "parmenides--claim-16-b",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "亚里士多德按 logos/感觉等框架重述巴门尼德；这是亚里士多德的分析层，不可倒灌成女神原话。",
+      "explanation": "亚里士多德按 logos/感觉等框架重述巴门尼德；这是亚里士多德的分析层，不可倒灌成女神原话。",
+      "identity": "aristotle-reception; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "parmenides--src-aristotle-reception"
+      ],
+      "abilityIds": [
+        "parmenides-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "亚里士多德的解释层次"
+      ],
+      "voiceClass": "aristotle-reception"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "parmenides--src-b1-1-23",
+      "workId": "序诗：车行、太阳女儿与门",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B1.1-23; witness Sextus Empiricus, Adversus mathematicos 7.111-113; edition Gallop 1984, DK 28 B1.1-23 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "序诗：车行、太阳女儿与门",
+      "stableUrl": "https://iep.utm.edu/parmenid/",
+      "boundaryZh": "Sextus is the sole continuous transmitter for most of B1.1-28; the first-person traveller is the poem narrator.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b1-24-30-sextus",
+      "workId": "序诗：女神迎接（Sextus 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B1.24-30; witness Sextus Empiricus, Adversus mathematicos 7.113-114; edition Gallop 1984, DK 28 B1.24-30 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "序诗：女神迎接（Sextus 载体）",
+      "stableUrl": "https://iep.utm.edu/parmenid/",
+      "boundaryZh": "Sextus transmits lines 24-30; his truth-adjective readings are compared rather than flattened.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b1-28-32-simplicius",
+      "workId": "序诗：学习任务（Simplicius 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B1.28-32; witness Simplicius, In Aristotelis De caelo 557.25-558.1; edition Gallop 1984, DK 28 B1.28-32 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "序诗：学习任务（Simplicius 载体）",
+      "stableUrl": "https://iep.utm.edu/parmenid/",
+      "boundaryZh": "Simplicius overlaps lines 28-30 and uniquely preserves the conventionally placed lines 31-32.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b2-1-2-proclus",
+      "workId": "B2 路径开篇（Proclus 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B2.1-2; witness Proclus, In Platonis Timaeum 1.345.18-20; edition Gallop 1984, DK 28 B2.1-2 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B2 路径开篇（Proclus 载体）",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "Proclus preserves the opening instruction.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b2-3-8-simplicius",
+      "workId": "B2 两路情态（Simplicius 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B2.3-8; witness Simplicius, In Aristotelis Physica 116.28-117.1; edition Gallop 1984, DK 28 B2.3-8 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B2 两路情态（Simplicius 载体）",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The Greek does not supply a noun as subject of esti.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b3-clement",
+      "workId": "B3（Clement 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B3.1; witness Clement of Alexandria, Stromata 6.23.3; edition Gallop 1984, DK 28 B3.1 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B3（Clement 载体）",
+      "stableUrl": "https://classicalstudies.org/authenticity-parmenides-b3-dk",
+      "boundaryZh": "Clement preserves a partial form of the line.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b3-plotinus",
+      "workId": "B3（Plotinus 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact sentence/line span within Enneads 5.1.8 in a named critical edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "B3（Plotinus 载体）",
+      "stableUrl": "https://classicalstudies.org/authenticity-parmenides-b3-dk",
+      "boundaryZh": "Close the exact sentence/line span within Enneads 5.1.8 in a named critical edition.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b6",
+      "workId": "必须说与思“是”；凡人游移",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B6.1-9; witness Simplicius, In Aristotelis Physica 117.4-13; edition Gallop 1984, DK 28 B6.1-9 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "必须说与思“是”；凡人游移",
+      "stableUrl": "https://sites.google.com/view/philosophy-texts/antiquity/parmenides",
+      "boundaryZh": "The end of line 3 is lacunose and proposed supplements affect whether two or three paths are heard.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b7-1-2-plato",
+      "workId": "B7 禁令（Plato 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B7.1-2; witness Plato, Sophist 237a4-9; edition Gallop 1984, DK 28 B7.1-2 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B7 禁令（Plato 载体）",
+      "stableUrl": "https://plato.stanford.edu/entries/plato-sophstate/",
+      "boundaryZh": "Plato quotes the two-line prohibition in the Eleatic Stranger’s argument.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b7-2-6-sextus",
+      "workId": "B7 感官与 logos（Sextus 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B7.2-6; witness Sextus Empiricus, Adversus mathematicos 7.114-116; edition Gallop 1984, DK 28 B7.2-6 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B7 感官与 logos（Sextus 载体）",
+      "stableUrl": "https://plato.stanford.edu/entries/plato-sophstate/",
+      "boundaryZh": "Sextus preserves the overlapping second line and the methodological continuation.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-1-6",
+      "workId": "B8 开篇与标志目录",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.1-6; witness Simplicius, In Aristotelis Physica 145.1-5; edition Gallop 1984, DK 28 B8.1-6 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B8 开篇与标志目录",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "Line 4 has a famous textual alternative between “complete/perfected” and “without end”; edition choice must not disappear from exposition.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-7-21",
+      "workId": "生成与毁灭的排除",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.7-21; witness Simplicius, In Aristotelis Physica 145.5-18; edition Gallop 1984, DK 28 B8.7-21 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "生成与毁灭的排除",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The argument repeatedly tests generation against what-is-not and against a demand for a reason or time of arising.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-22-33",
+      "workId": "连续、不可分与静止",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.22-33; witness Simplicius, In Aristotelis Physica 145.19-28; edition Gallop 1984, DK 28 B8.22-33 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "连续、不可分与静止",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "“One” occurs in B8.6, but the precise kind of monism inferred from continuity and indivisibility remains interpretive.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-34-41",
+      "workId": "思、言说与凡人命名",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.34-41; witness Simplicius, In Aristotelis Physica 146.5-13; edition Gallop 1984, DK 28 B8.34-41 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "思、言说与凡人命名",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The syntax and even transmitted placement of 34-41 are contested; Ebert proposed relocating the block after line 52.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-42-49",
+      "workId": "界限与球形比拟",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.42-49; witness Simplicius, In Aristotelis Physica 146.15-24; edition Gallop 1984, DK 28 B8.42-49 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "界限与球形比拟",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The poem says “like the bulk of a well-rounded sphere”; whether this is literal cosmography or a comparison for uniformity is disputed.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b8-50-61",
+      "workId": "从可信论证转入凡人安排",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B8.50-61; witness Simplicius, In Aristotelis Physica 38.30-39.9; edition Gallop 1984, DK 28 B8.50-61 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "从可信论证转入凡人安排",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The full occurrence is primary; partial parallels are structured separately.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b9",
+      "workId": "光与夜遍布万物",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B9.1-4; witness Simplicius, In Aristotelis Physica 180.8-12; edition Gallop 1984, DK 28 B9.1-4 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "光与夜遍布万物",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "The two forms are co-present in the phenomenal ordering, without a third component named in these lines.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b10-clement",
+      "workId": "B10 天象研究纲领",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B10.1-7; witness Clement of Alexandria, Stromata 5.138.1; edition Gallop 1984, DK 28 B10.1-7 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B10 天象研究纲领",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "B10 lists aether, sun, moon, heaven and stars.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b11-simplicius",
+      "workId": "B11 天体生成纲领",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B11.1-4; witness Simplicius, In Aristotelis De caelo 559.20-23; edition Gallop 1984, DK 28 B11.1-4 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B11 天体生成纲领",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "B11 lists earth, sun, moon, Milky Way and stars.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b12-1-3-simplicius",
+      "workId": "B12 环带（第一 occurrence）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B12.1-3; witness Simplicius, In Aristotelis Physica 39.14-16; edition Gallop 1984, DK 28 B12.1-3 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B12 环带（第一 occurrence）",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "First overlapping occurrence.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b12-2-6-simplicius",
+      "workId": "B12 环带（第二 occurrence）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B12.2-6; witness Simplicius, In Aristotelis Physica 31.13-17; edition Gallop 1984, DK 28 B12.2-6 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B12 环带（第二 occurrence）",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "Second overlapping occurrence.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b13-plato",
+      "workId": "B13 Eros（Plato 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B13.1; witness Plato, Symposium 178b; edition Gallop 1984, DK 28 B13.1 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B13 Eros（Plato 载体）",
+      "stableUrl": "https://openresearch.ceu.edu/bitstreams/7e86b8e9-6322-41bc-bf17-c60709457414/download",
+      "boundaryZh": "Plato reproduces the verse in a genealogy of Eros.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b13-aristotle",
+      "workId": "B13 Eros（Aristotle 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact verse wording and quotation/paraphrase relation in a named Metaphysics edition.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "B13 Eros（Aristotle 载体）",
+      "stableUrl": "https://openresearch.ceu.edu/bitstreams/7e86b8e9-6322-41bc-bf17-c60709457414/download",
+      "boundaryZh": "Close exact verse wording and quotation/paraphrase relation in a named Metaphysics edition.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b14-plutarch",
+      "workId": "B14 月亮借光",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B14.1; witness Plutarch, Adversus Colotem 1116A; edition Gallop 1984, DK 28 B14.1 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B14 月亮借光",
+      "stableUrl": "https://d-scholarship.pitt.edu/downloads/81f73cf8-9494-46db-bece-7cbab0fd84dd?locale=en",
+      "boundaryZh": "Plutarch preserves the borrowed-light line.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b15-plutarch",
+      "workId": "B15 月亮朝向太阳",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B15.1; witness Plutarch, De facie in orbe lunae 929A-B; edition Gallop 1984, DK 28 B15.1 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B15 月亮朝向太阳",
+      "stableUrl": "https://d-scholarship.pitt.edu/downloads/81f73cf8-9494-46db-bece-7cbab0fd84dd?locale=en",
+      "boundaryZh": "Plutarch preserves the moon’s orientation toward sunlight.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b16-aristotle",
+      "workId": "B16 身体混合与 noos（Aristotle 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B16.1-4; witness Aristotle, Metaphysics 4.5, 1009b21-25; edition Gallop 1984, DK 28 B16.1-4 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B16 身体混合与 noos（Aristotle 载体）",
+      "stableUrl": "https://doi.org/10.14195/1984-249X_32_18",
+      "boundaryZh": "Aristotle quotes the four lines in an epistemological critique.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b16-theophrastus",
+      "workId": "B16 身体混合与 noos（Theophrastus 载体）",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B16.1-4; witness Theophrastus, De sensibus 3; edition Gallop 1984, DK 28 B16.1-4 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "B16 身体混合与 noos（Theophrastus 载体）",
+      "stableUrl": "https://doi.org/10.14195/1984-249X_32_18",
+      "boundaryZh": "Theophrastus provides an independent quotation and interpretive context.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b18-caelius",
+      "workId": "B18 性别生成的拉丁转述",
+      "edition": "Gerhard Bendz ed., Caelii Aureliani Celerum passionum libri III, Tardarum passionum libri V, CML VI.1 (Berlin, 1990), Latin transmission; DK 28 B18 cross-reference.",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Add the exact page and line span in Bendz, CML VI.1 (1990), for Tardarum passionum 4.9.134.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "B18 性别生成的拉丁转述",
+      "stableUrl": "https://lexundria.com/parm_frag/18/grk",
+      "boundaryZh": "Add the exact page and line span in Bendz, CML VI.1 (1990), for Tardarum passionum 4.9.134.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-b19",
+      "workId": "生成、当下与终结",
+      "edition": "David Gallop, Parmenides of Elea: Fragments (University of Toronto Press, 1984), Greek text with facing English translation, cited by DK fragment and line.",
+      "locator": "DK 28 B19.1-3; witness Simplicius, In Aristotelis De caelo 558.8-10; edition Gallop 1984, DK 28 B19.1-3 (DK numbering)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "生成、当下与终结",
+      "stableUrl": "https://www.scielo.br/j/archai/a/KLL5R9NfPz447Y6L5qTL6TC/?format=pdf&lang=en",
+      "boundaryZh": "The closing summary concerns things in the mortal ordering and their names.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-aetius-rings",
+      "workId": "Aëtius 对宇宙环带的见证",
+      "edition": "Diels, Doxographi Graeci 335; DK 28 A37a",
+      "locator": "Aëtius 2.7.1 = DK 28 A37a",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Aëtius 对宇宙环带的见证",
+      "stableUrl": "Diels, Doxographi Graeci 335; DK 28 A37a",
+      "boundaryZh": "A report about Parmenides, not surviving Parmenidean verse.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-plato-reception",
+      "workId": "柏拉图对“一个/全体”与非存在难题的接受",
+      "edition": "Platonis Opera, OCT; Stephanus locators",
+      "locator": "Parmenides 128a8-b1; Theaetetus 180e2-4, 183e3-4; Sophist 237a, 241d-242a, 244b6-245e",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "柏拉图对“一个/全体”与非存在难题的接受",
+      "stableUrl": "Platonis Opera, OCT; Stephanus locators",
+      "boundaryZh": "Dialogue speakers and dramatic Parmenides are Plato’s constructions, not direct transcript or poem fragments.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-aristotle-reception",
+      "workId": "亚里士多德的巴门尼德解释",
+      "edition": "Aristotelis Opera; Bekker locators",
+      "locator": "Physics 1.3, 186a22-187a10; Metaphysics 1.5, 986b18-987a2; De caelo 3.1, 298b14-24",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "亚里士多德的巴门尼德解释",
+      "stableUrl": "Aristotelis Opera; Bekker locators",
+      "boundaryZh": "Aristotle distinguishes accounts “according to logos” and “according to perception,” but this is his analytic framing.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-sep-2024",
+      "workId": "现代解释地图与意见路审慎边界",
+      "edition": "https://plato.stanford.edu/entries/parmenides/",
+      "locator": "sections 2.2-2.4, 3.1-3.4; substantive revision 2024",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "现代解释地图与意见路审慎边界",
+      "stableUrl": "https://plato.stanford.edu/entries/parmenides/",
+      "boundaryZh": "Used only to mark scholarly alternatives and reception history, never as Parmenides’ voice.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    },
+    {
+      "id": "parmenides--src-palmer-coxon-review",
+      "workId": "Coxon 修订版校勘审查",
+      "edition": "https://www.parmenides.com/images/pdfs/Coxon-Gnomon_Review_by_Palmer.pdf",
+      "locator": "Gnomon 82 (2010), pp. 289-293, especially pp. 290-293",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Coxon 修订版校勘审查",
+      "stableUrl": "https://www.parmenides.com/images/pdfs/Coxon-Gnomon_Review_by_Palmer.pdf",
+      "boundaryZh": "Documents variants in B1.3, B6.1-3, B8.34-41 and the limits of treating any single modern edition as definitive.",
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": null,
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "parmenides-being-thinking-appearance",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "巴门尼德：存在、思与显现之路",
+      "lessonIds": [
+        "parmenides--lesson-01",
+        "parmenides--lesson-02",
+        "parmenides--lesson-03",
+        "parmenides--lesson-04",
+        "parmenides--lesson-05",
+        "parmenides--lesson-06",
+        "parmenides--lesson-07",
+        "parmenides--lesson-08",
+        "parmenides--lesson-09",
+        "parmenides--lesson-10",
+        "parmenides--lesson-11",
+        "parmenides--lesson-12",
+        "parmenides--lesson-13",
+        "parmenides--lesson-14",
+        "parmenides--lesson-15",
+        "parmenides--lesson-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Parmenides of Elea",
+        "nameZh": "巴门尼德",
+        "sourceRouteId": "parmenides-single-route-v18-authoring"
+      },
+      "summary": "Single canonical route; authoring source only; no package/global/fresh/authority state."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "parmenides--lesson-01",
+      "order": 1,
+      "title": "先读残篇：文本不是一部完整现存著作",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "先读残篇：文本不是一部完整现存著作",
+      "coreExplanation": "我们读到的是后世作者保存的诗句，由现代编者按证据重建次序；碎片号不是诗人自题的章节号，诗内叙述者、女神、见证者和现代解释者也必须分声。",
+      "sections": [
+        {
+          "heading": "先读残篇：文本不是一部完整现存著作",
+          "paragraphs": [
+            "我们读到的是后世作者保存的诗句，由现代编者按证据重建次序；碎片号不是诗人自题的章节号，诗内叙述者、女神、见证者和现代解释者也必须分声。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "checkIds": [
+        "parmenides--check-01-1",
+        "parmenides--check-01-2",
+        "parmenides--check-01-3",
+        "parmenides--check-01-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-02",
+      "sourceIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "essentialQuestion": "先读残篇：文本不是一部完整现存著作",
+      "initialFocusId": "parmenides--lesson-01-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-02",
+      "order": 2,
+      "title": "序诗 I：谁在旅行",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "序诗 I：谁在旅行",
+      "coreExplanation": "第一人称旅者由母马、车和太阳女儿引导，越过夜与日的门；这段先建立启示场景，而非直接给出本体论命题。\n\n正义掌钥、少女劝门开启，使通行同时带有秩序、许可与认识论门槛的意味；进一步的纯宗教或纯寓言解释属于解释层。",
+      "sections": [
+        {
+          "heading": "序诗 I：谁在旅行",
+          "paragraphs": [
+            "第一人称旅者由母马、车和太阳女儿引导，越过夜与日的门；这段先建立启示场景，而非直接给出本体论命题。",
+            "正义掌钥、少女劝门开启，使通行同时带有秩序、许可与认识论门槛的意味；进一步的纯宗教或纯寓言解释属于解释层。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-02-a",
+        "parmenides--claim-02-b"
+      ],
+      "checkIds": [
+        "parmenides--check-02-1",
+        "parmenides--check-02-2",
+        "parmenides--check-02-3",
+        "parmenides--check-02-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-03",
+      "sourceIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "essentialQuestion": "序诗 I：谁在旅行",
+      "initialFocusId": "parmenides--lesson-02-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-03",
+      "order": 3,
+      "title": "序诗 II：女神许诺两种学习",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "序诗 II：女神许诺两种学习",
+      "coreExplanation": "女神区分“圆满/善劝的真理之心”与“凡人的意见”，并要求青年两方面都学习；形容真理的希腊异文与译法必须明示。\n\nSimplicius 保存的 31-32 行通常被安置在序诗末尾；其表象“可接受地贯穿一切”之类难句，使“意见路零价值”不能冒充唯一读法。",
+      "sections": [
+        {
+          "heading": "序诗 II：女神许诺两种学习",
+          "paragraphs": [
+            "女神区分“圆满/善劝的真理之心”与“凡人的意见”，并要求青年两方面都学习；形容真理的希腊异文与译法必须明示。",
+            "Simplicius 保存的 31-32 行通常被安置在序诗末尾；其表象“可接受地贯穿一切”之类难句，使“意见路零价值”不能冒充唯一读法。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-sep-2024"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-03-a",
+        "parmenides--claim-03-b"
+      ],
+      "checkIds": [
+        "parmenides--check-03-1",
+        "parmenides--check-03-2",
+        "parmenides--check-03-3",
+        "parmenides--check-03-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-04",
+      "sourceIds": [
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "essentialQuestion": "序诗 II：女神许诺两种学习",
+      "initialFocusId": "parmenides--lesson-03-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-04",
+      "order": 4,
+      "title": "B2：可探究与不可探究的路",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B2：可探究与不可探究的路",
+      "coreExplanation": "女神提出“是且不可能不是”与“不是且必定不是”两路；后一条之所以不可探究，是因为不能认识或说出所非者。\n\nB2 把情态限制、可思与可说性连在一起；究竟主张存在论、述谓论还是模态论，现代解释并不一致。",
+      "sections": [
+        {
+          "heading": "B2：可探究与不可探究的路",
+          "paragraphs": [
+            "女神提出“是且不可能不是”与“不是且必定不是”两路；后一条之所以不可探究，是因为不能认识或说出所非者。",
+            "B2 把情态限制、可思与可说性连在一起；究竟主张存在论、述谓论还是模态论，现代解释并不一致。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius",
+            "parmenides--src-sep-2024"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-04-a",
+        "parmenides--claim-04-b"
+      ],
+      "checkIds": [
+        "parmenides--check-04-1",
+        "parmenides--check-04-2",
+        "parmenides--check-04-3",
+        "parmenides--check-04-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-05",
+      "sourceIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "essentialQuestion": "B2：可探究与不可探究的路",
+      "initialFocusId": "parmenides--lesson-04-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-05",
+      "order": 5,
+      "title": "B3：拒绝“思想与存在同一”的快捷口号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B3：拒绝“思想与存在同一”的快捷口号",
+      "coreExplanation": "to gar auto noein estin te kai einai 可以被译为“思与在是同一”“同一者可供思并且可在”或相关结构；单行不足以自动裁定其逻辑方向。\n\nClement 与 Plotinus 保存变体措辞；该行是否为独立原诗残篇、原始位置以及新柏拉图主义语境对读法的影响均有争论。",
+      "sections": [
+        {
+          "heading": "B3：拒绝“思想与存在同一”的快捷口号",
+          "paragraphs": [
+            "to gar auto noein estin te kai einai 可以被译为“思与在是同一”“同一者可供思并且可在”或相关结构；单行不足以自动裁定其逻辑方向。",
+            "Clement 与 Plotinus 保存变体措辞；该行是否为独立原诗残篇、原始位置以及新柏拉图主义语境对读法的影响均有争论。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus",
+            "parmenides--src-palmer-coxon-review"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-05-a",
+        "parmenides--claim-05-b"
+      ],
+      "checkIds": [
+        "parmenides--check-05-1",
+        "parmenides--check-05-2",
+        "parmenides--check-05-3",
+        "parmenides--check-05-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-06",
+      "sourceIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "essentialQuestion": "B3：拒绝“思想与存在同一”的快捷口号",
+      "initialFocusId": "parmenides--lesson-05-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-06",
+      "order": 6,
+      "title": "B6：必须言说“是”与凡人的游移",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B6：必须言说“是”与凡人的游移",
+      "coreExplanation": "女神要求说与思“所是者是”，并断言是者可在、无者不在；译文不能省掉这组言说和思考的并行要求。\n\nB6.3 末尾有缺文；补文会改变禁令指向，也影响对随后“双头凡人”和两路/三路结构的解释。",
+      "sections": [
+        {
+          "heading": "B6：必须言说“是”与凡人的游移",
+          "paragraphs": [
+            "女神要求说与思“所是者是”，并断言是者可在、无者不在；译文不能省掉这组言说和思考的并行要求。",
+            "B6.3 末尾有缺文；补文会改变禁令指向，也影响对随后“双头凡人”和两路/三路结构的解释。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-06-a",
+        "parmenides--claim-06-b"
+      ],
+      "checkIds": [
+        "parmenides--check-06-1",
+        "parmenides--check-06-2",
+        "parmenides--check-06-3",
+        "parmenides--check-06-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-07",
+      "sourceIds": [
+        "parmenides--src-b6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "essentialQuestion": "B6：必须言说“是”与凡人的游移",
+      "initialFocusId": "parmenides--lesson-06-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-07",
+      "order": 7,
+      "title": "B7：logos 的检验与感官习惯",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B7：logos 的检验与感官习惯",
+      "coreExplanation": "女神禁止让“多经验的习惯”把人推上不可行之路，并点名无目的的眼、轰鸣的耳与舌。\n\n女神要求用 logos 判断她所陈述的多争论检验；这不是简单宣称所有感觉材料永远没有任何用途。",
+      "sections": [
+        {
+          "heading": "B7：logos 的检验与感官习惯",
+          "paragraphs": [
+            "女神禁止让“多经验的习惯”把人推上不可行之路，并点名无目的的眼、轰鸣的耳与舌。",
+            "女神要求用 logos 判断她所陈述的多争论检验；这不是简单宣称所有感觉材料永远没有任何用途。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-07-a",
+        "parmenides--claim-07-b"
+      ],
+      "checkIds": [
+        "parmenides--check-07-1",
+        "parmenides--check-07-2",
+        "parmenides--check-07-3",
+        "parmenides--check-07-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-08",
+      "sourceIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "essentialQuestion": "B7：logos 的检验与感官习惯",
+      "initialFocusId": "parmenides--lesson-07-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-08",
+      "order": 8,
+      "title": "B8 I：标志不是清单口号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 I：标志不是清单口号",
+      "coreExplanation": "女神说在“是”的路上留下许多标志，随后列出不生成、不毁灭、完整/一、不可动摇与完成等属性；具体文本在 B8.4 有异文。\n\nB8.5-6 否认“曾是/将是”的生成时间叙述，强调“现在、全体、一个、连续”；这里的“一个”仍需由后续论证界定。",
+      "sections": [
+        {
+          "heading": "B8 I：标志不是清单口号",
+          "paragraphs": [
+            "女神说在“是”的路上留下许多标志，随后列出不生成、不毁灭、完整/一、不可动摇与完成等属性；具体文本在 B8.4 有异文。",
+            "B8.5-6 否认“曾是/将是”的生成时间叙述，强调“现在、全体、一个、连续”；这里的“一个”仍需由后续论证界定。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-08-a",
+        "parmenides--claim-08-b"
+      ],
+      "checkIds": [
+        "parmenides--check-08-1",
+        "parmenides--check-08-2",
+        "parmenides--check-08-3",
+        "parmenides--check-08-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-09",
+      "sourceIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "essentialQuestion": "B8 I：标志不是清单口号",
+      "initialFocusId": "parmenides--lesson-08-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-09",
+      "order": 9,
+      "title": "B8 II：为什么不能生成或毁灭",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 II：为什么不能生成或毁灭",
+      "coreExplanation": "女神追问所是者从何而生，并拒绝“从所非者”生成，因为所非者不可说、不可思；她还追问为何在某个较晚或较早时刻生成。\n\n正义不放松生成或毁灭的锁链；判决要求“是或不是”，并排除那条不可思、无名的路。",
+      "sections": [
+        {
+          "heading": "B8 II：为什么不能生成或毁灭",
+          "paragraphs": [
+            "女神追问所是者从何而生，并拒绝“从所非者”生成，因为所非者不可说、不可思；她还追问为何在某个较晚或较早时刻生成。",
+            "正义不放松生成或毁灭的锁链；判决要求“是或不是”，并排除那条不可思、无名的路。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-09-a",
+        "parmenides--claim-09-b"
+      ],
+      "checkIds": [
+        "parmenides--check-09-1",
+        "parmenides--check-09-2",
+        "parmenides--check-09-3",
+        "parmenides--check-09-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-10",
+      "sourceIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "essentialQuestion": "B8 II：为什么不能生成或毁灭",
+      "initialFocusId": "parmenides--lesson-09-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-10",
+      "order": 10,
+      "title": "B8 III：连续、不可分与均一",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 III：连续、不可分与均一",
+      "coreExplanation": "女神说所是者不可分，因为到处同样是；不存在一处较多、一处较少从而阻止相连。\n\nB8 的连续与均一是原文承重节点，但它究竟推出数目一元论、述谓一元论或模态对象的统一，须标为解释分歧。",
+      "sections": [
+        {
+          "heading": "B8 III：连续、不可分与均一",
+          "paragraphs": [
+            "女神说所是者不可分，因为到处同样是；不存在一处较多、一处较少从而阻止相连。",
+            "B8 的连续与均一是原文承重节点，但它究竟推出数目一元论、述谓一元论或模态对象的统一，须标为解释分歧。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33",
+            "parmenides--src-sep-2024"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-10-a",
+        "parmenides--claim-10-b"
+      ],
+      "checkIds": [
+        "parmenides--check-10-1",
+        "parmenides--check-10-2",
+        "parmenides--check-10-3",
+        "parmenides--check-10-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-11",
+      "sourceIds": [
+        "parmenides--src-b8-22-33",
+        "parmenides--src-sep-2024"
+      ],
+      "essentialQuestion": "B8 III：连续、不可分与均一",
+      "initialFocusId": "parmenides--lesson-10-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-11",
+      "order": 11,
+      "title": "B8 IV：静止、界限与缺乏",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 IV：静止、界限与缺乏",
+      "coreExplanation": "生成与毁灭已被真信念推开，所是者保持同一、在自身中安住；必然的界限将它围住。\n\n女神把不动同“不缺任何东西”相连；B8.32-33 的反事实和“缺一即缺全”需要逐句解释，不能只剩“静止”标签。",
+      "sections": [
+        {
+          "heading": "B8 IV：静止、界限与缺乏",
+          "paragraphs": [
+            "生成与毁灭已被真信念推开，所是者保持同一、在自身中安住；必然的界限将它围住。",
+            "女神把不动同“不缺任何东西”相连；B8.32-33 的反事实和“缺一即缺全”需要逐句解释，不能只剩“静止”标签。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-11-a",
+        "parmenides--claim-11-b"
+      ],
+      "checkIds": [
+        "parmenides--check-11-1",
+        "parmenides--check-11-2",
+        "parmenides--check-11-3",
+        "parmenides--check-11-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-12",
+      "sourceIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "essentialQuestion": "B8 IV：静止、界限与缺乏",
+      "initialFocusId": "parmenides--lesson-11-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-12",
+      "order": 12,
+      "title": "B8 V：思、所是与凡人的命名",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 V：思、所是与凡人的命名",
+      "coreExplanation": "女神把思与思之所为的目标/缘由同所是者相连；其句法不能无损压缩为 B3 式等号。\n\nB8.38-41 列出凡人给出的生成、毁灭、是与不是、位置和颜色变化等名字；Ebert 的移位方案把 34-41 放到 52 后，显示段序也是编辑问题。",
+      "sections": [
+        {
+          "heading": "B8 V：思、所是与凡人的命名",
+          "paragraphs": [
+            "女神把思与思之所为的目标/缘由同所是者相连；其句法不能无损压缩为 B3 式等号。",
+            "B8.38-41 列出凡人给出的生成、毁灭、是与不是、位置和颜色变化等名字；Ebert 的移位方案把 34-41 放到 52 后，显示段序也是编辑问题。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41",
+            "parmenides--src-palmer-coxon-review"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-12-a",
+        "parmenides--claim-12-b"
+      ],
+      "checkIds": [
+        "parmenides--check-12-1",
+        "parmenides--check-12-2",
+        "parmenides--check-12-3",
+        "parmenides--check-12-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-13",
+      "sourceIds": [
+        "parmenides--src-b8-34-41",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "essentialQuestion": "B8 V：思、所是与凡人的命名",
+      "initialFocusId": "parmenides--lesson-12-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-13",
+      "order": 13,
+      "title": "B8 VI：球形比拟与“宇宙球”边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "B8 VI：球形比拟与“宇宙球”边界",
+      "coreExplanation": "所是者被比作“浑圆球体的体积”，从中心各方向相等；比拟的明文重点是完成、均衡和界限。\n\n把 B8 的球形比拟直接叫作“巴门尼德的物理宇宙球”会越过解释边界；字面实体读法与比喻/结构读法均需标识。",
+      "sections": [
+        {
+          "heading": "B8 VI：球形比拟与“宇宙球”边界",
+          "paragraphs": [
+            "所是者被比作“浑圆球体的体积”，从中心各方向相等；比拟的明文重点是完成、均衡和界限。",
+            "把 B8 的球形比拟直接叫作“巴门尼德的物理宇宙球”会越过解释边界；字面实体读法与比喻/结构读法均需标识。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49",
+            "parmenides--src-sep-2024"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-13-a",
+        "parmenides--claim-13-b"
+      ],
+      "checkIds": [
+        "parmenides--check-13-1",
+        "parmenides--check-13-2",
+        "parmenides--check-13-3",
+        "parmenides--check-13-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-14",
+      "sourceIds": [
+        "parmenides--src-b8-42-49",
+        "parmenides--src-sep-2024"
+      ],
+      "essentialQuestion": "B8 VI：球形比拟与“宇宙球”边界",
+      "initialFocusId": "parmenides--lesson-13-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-14",
+      "order": 14,
+      "title": "意见路 I：两种形态不是“毫无价值”",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "意见路 I：两种形态不是“毫无价值”",
+      "coreExplanation": "女神宣布可信的言说和思考到此为止，转而学习凡人意见的“骗人的词序”；她随即说明凡人命名的两种形态及其特征。\n\nB9 说一切事物都按光与夜命名并充满二者；现代解释在保留其较低认识论地位时，也注意它仍给出现象秩序。",
+      "sections": [
+        {
+          "heading": "意见路 I：两种形态不是“毫无价值”",
+          "paragraphs": [
+            "女神宣布可信的言说和思考到此为止，转而学习凡人意见的“骗人的词序”；她随即说明凡人命名的两种形态及其特征。",
+            "B9 说一切事物都按光与夜命名并充满二者；现代解释在保留其较低认识论地位时，也注意它仍给出现象秩序。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b8-50-61",
+            "parmenides--src-b9",
+            "parmenides--src-sep-2024"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-14-a",
+        "parmenides--claim-14-b"
+      ],
+      "checkIds": [
+        "parmenides--check-14-1",
+        "parmenides--check-14-2",
+        "parmenides--check-14-3",
+        "parmenides--check-14-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-15",
+      "sourceIds": [
+        "parmenides--src-b8-50-61",
+        "parmenides--src-b9",
+        "parmenides--src-sep-2024"
+      ],
+      "essentialQuestion": "意见路 I：两种形态不是“毫无价值”",
+      "initialFocusId": "parmenides--lesson-14-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-15",
+      "order": 15,
+      "title": "意见路 II：天象、环带、Eros 与认识",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "意见路 II：天象、环带、Eros 与认识",
+      "coreExplanation": "B10-15 的诗句涉及以太、太阳、月亮、银河、天界、星辰、环带、居中女神、Eros 与月光。\n\nB16 把身体成分的混合与 noos 联系，B18 的拉丁残篇谈生殖，B19 总结事物生成、现存、终结与命名，显示意见路不限于天文学。\n\nAëtius 2.7.1 对巴门尼德环带结构作出后世报告；它可用于接受史和模型重建，但不是女神原诗。",
+      "sections": [
+        {
+          "heading": "意见路 II：天象、环带、Eros 与认识",
+          "paragraphs": [
+            "B10-15 的诗句涉及以太、太阳、月亮、银河、天界、星辰、环带、居中女神、Eros 与月光。",
+            "B16 把身体成分的混合与 noos 联系，B18 的拉丁残篇谈生殖，B19 总结事物生成、现存、终结与命名，显示意见路不限于天文学。",
+            "Aëtius 2.7.1 对巴门尼德环带结构作出后世报告；它可用于接受史和模型重建，但不是女神原诗。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-b10-clement",
+            "parmenides--src-b11-simplicius",
+            "parmenides--src-b12-1-3-simplicius",
+            "parmenides--src-b12-2-6-simplicius",
+            "parmenides--src-b13-plato",
+            "parmenides--src-b13-aristotle",
+            "parmenides--src-b14-plutarch",
+            "parmenides--src-b15-plutarch",
+            "parmenides--src-b16-aristotle",
+            "parmenides--src-b16-theophrastus",
+            "parmenides--src-b18-caelius",
+            "parmenides--src-b19",
+            "parmenides--src-aetius-rings"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-15-a",
+        "parmenides--claim-15-b",
+        "parmenides--claim-15-c"
+      ],
+      "checkIds": [
+        "parmenides--check-15-1",
+        "parmenides--check-15-2",
+        "parmenides--check-15-3",
+        "parmenides--check-15-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "parmenides--lesson-16",
+      "sourceIds": [
+        "parmenides--src-b10-clement",
+        "parmenides--src-b11-simplicius",
+        "parmenides--src-b12-1-3-simplicius",
+        "parmenides--src-b12-2-6-simplicius",
+        "parmenides--src-b13-plato",
+        "parmenides--src-b13-aristotle",
+        "parmenides--src-b14-plutarch",
+        "parmenides--src-b15-plutarch",
+        "parmenides--src-b16-aristotle",
+        "parmenides--src-b16-theophrastus",
+        "parmenides--src-b18-caelius",
+        "parmenides--src-b19",
+        "parmenides--src-aetius-rings"
+      ],
+      "essentialQuestion": "意见路 II：天象、环带、Eros 与认识",
+      "initialFocusId": "parmenides--lesson-15-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "parmenides--lesson-16",
+      "order": 16,
+      "title": "后世解释：柏拉图与亚里士多德的路线",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "后世解释：柏拉图与亚里士多德的路线",
+      "coreExplanation": "柏拉图在《巴门尼德篇》《泰阿泰德篇》《智者篇》中把巴门尼德与“一”、不动及非存在难题相连；这些是柏拉图戏剧与论证中的接受材料。\n\n亚里士多德按 logos/感觉等框架重述巴门尼德；这是亚里士多德的分析层，不可倒灌成女神原话。",
+      "sections": [
+        {
+          "heading": "后世解释：柏拉图与亚里士多德的路线",
+          "paragraphs": [
+            "柏拉图在《巴门尼德篇》《泰阿泰德篇》《智者篇》中把巴门尼德与“一”、不动及非存在难题相连；这些是柏拉图戏剧与论证中的接受材料。",
+            "亚里士多德按 logos/感觉等框架重述巴门尼德；这是亚里士多德的分析层，不可倒灌成女神原话。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "parmenides--src-plato-reception",
+            "parmenides--src-aristotle-reception"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "parmenides--claim-16-a",
+        "parmenides--claim-16-b"
+      ],
+      "checkIds": [
+        "parmenides--check-16-1",
+        "parmenides--check-16-2",
+        "parmenides--check-16-3",
+        "parmenides--check-16-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "parmenides--src-plato-reception",
+        "parmenides--src-aristotle-reception"
+      ],
+      "essentialQuestion": "后世解释：柏拉图与亚里士多德的路线",
+      "initialFocusId": "parmenides--lesson-16-title",
+      "routeId": "parmenides-being-thinking-appearance",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "parmenides--check-01-1",
+      "kind": "binary",
+      "prompt": "DK 28 B8 这样的编号应怎样理解？",
+      "targetNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-01-1-1",
+          "text": "它是现代碎片编排中的定位号。",
+          "feedback": "正确选项“它是现代碎片编排中的定位号。”与定位证据一致：DK 编号来自现代残篇集成，不能伪装成原作章节。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-01-1-2",
+          "text": "它是诗人亲自写下的第八章标题。",
+          "feedback": "错误选项“它是诗人亲自写下的第八章标题。”误读了“巴门尼德诗的存世状态、引文链与声音分层”的证据范围；应回到 DK 编号来自现代残篇集成，不能伪装成原作章节。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-01-1-1",
+      "misconceptionId": "parmenides--check-01-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-01-a"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-01",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-01-2",
+      "kind": "binary",
+      "prompt": "为什么 source catalog 同时记录碎片号和古代见证？",
+      "targetNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-01-2-1",
+          "text": "因为见证者与巴门尼德必定持同一立场。",
+          "feedback": "错误选项“因为见证者与巴门尼德必定持同一立场。”误读了“巴门尼德诗的存世状态、引文链与声音分层”的证据范围；应回到 载体定位和哲学声音是两回事。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-01-2-2",
+          "text": "因为诗句靠见证者著作中的引文位置保存。",
+          "feedback": "正确选项“因为诗句靠见证者著作中的引文位置保存。”与定位证据一致：载体定位和哲学声音是两回事。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-01-2-2",
+      "misconceptionId": "parmenides--check-01-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-01-a"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-01",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-01-3",
+      "kind": "binary",
+      "prompt": "路线怎样处理 Simplicius 的说明文字？",
+      "targetNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-01-3-1",
+          "text": "作为见证者或解释者声音单列。",
+          "feedback": "正确选项“作为见证者或解释者声音单列。”与定位证据一致：引诗与注释不能发生 voice collision。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-01-3-2",
+          "text": "直接并入女神原话。",
+          "feedback": "错误选项“直接并入女神原话。”误读了“巴门尼德诗的存世状态、引文链与声音分层”的证据范围；应回到 引诗与注释不能发生 voice collision。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-01-3-1",
+      "misconceptionId": "parmenides--check-01-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-01-a"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-01",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-01-4",
+      "kind": "binary",
+      "prompt": "现代版本之间出现异文时，最佳做法是什么？",
+      "targetNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-01-4-1",
+          "text": "挑一句顺口译文当成无争议口号。",
+          "feedback": "错误选项“挑一句顺口译文当成无争议口号。”误读了“巴门尼德诗的存世状态、引文链与声音分层”的证据范围；应回到 版本定位是可审计阅读的必要条件。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-01-4-2",
+          "text": "标明采用版本并保留争议边界。",
+          "feedback": "正确选项“标明采用版本并保留争议边界。”与定位证据一致：版本定位是可审计阅读的必要条件。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23",
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-b8-1-6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-01-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-01-4-2",
+      "misconceptionId": "parmenides--check-01-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23",
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-b8-1-6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-01-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-01-a"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-01",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-02-1",
+      "kind": "binary",
+      "prompt": "B1.1-23 的“我”首先是谁的声音？",
+      "targetNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-02-1-1",
+          "text": "诗中第一人称旅者/叙述者。",
+          "feedback": "正确选项“诗中第一人称旅者/叙述者。”与定位证据一致：见证者保存文本，不取代诗内叙述者。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-02-1-2",
+          "text": "Simplicius 本人的自述。",
+          "feedback": "错误选项“Simplicius 本人的自述。”误读了“B1.1-23 的叙述者与旅程意象”的证据范围；应回到 见证者保存文本，不取代诗内叙述者。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-02-1-1",
+      "misconceptionId": "parmenides--check-02-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-02-a"
+      ],
+      "targetVoices": [
+        "parmenides-narrator"
+      ],
+      "lessonId": "parmenides--lesson-02",
+      "voice": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--check-02-2",
+      "kind": "binary",
+      "prompt": "序诗中的车行是否已经等于 B8 的论证？",
+      "targetNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-02-2-1",
+          "text": "等于；车行本身就是对不动之所是者的字面物理论证。",
+          "feedback": "错误选项“等于；车行本身就是对不动之所是者的字面物理论证。”误读了“B1.1-23 的叙述者与旅程意象”的证据范围；应回到 叙事意象与后续论证应分层。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-02-2-2",
+          "text": "不等于；它先搭建议入与启示场景。",
+          "feedback": "正确选项“不等于；它先搭建议入与启示场景。”与定位证据一致：叙事意象与后续论证应分层。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-02-2-2",
+      "misconceptionId": "parmenides--check-02-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-02-a"
+      ],
+      "targetVoices": [
+        "parmenides-narrator"
+      ],
+      "lessonId": "parmenides--lesson-02",
+      "voice": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--check-02-3",
+      "kind": "binary",
+      "prompt": "“正义掌钥”最稳妥的陈述是哪一个？",
+      "targetNodeIds": [
+        "parmenides--claim-02-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-02-3-1",
+          "text": "它在叙事中控制夜日之门的通行。",
+          "feedback": "正确选项“它在叙事中控制夜日之门的通行。”与定位证据一致：先守住所见文本，再标明解释空间。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-02-3-2",
+          "text": "它无争议地证明巴门尼德创立了法哲学。",
+          "feedback": "错误选项“它无争议地证明巴门尼德创立了法哲学。”误读了“正义女神与门的叙事功能”的证据范围；应回到 先守住所见文本，再标明解释空间。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-02-3-1",
+      "misconceptionId": "parmenides--check-02-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-02-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-02-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-02-b"
+      ],
+      "targetVoices": [
+        "parmenides-narrator"
+      ],
+      "lessonId": "parmenides--lesson-02",
+      "voice": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--check-02-4",
+      "kind": "binary",
+      "prompt": "谁保存了 B1 大部分连续诗行？",
+      "targetNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-02-4-1",
+          "text": "柏拉图《巴门尼德篇》的戏剧人物。",
+          "feedback": "错误选项“柏拉图《巴门尼德篇》的戏剧人物。”误读了“B1.1-23 的叙述者与旅程意象”的证据范围；应回到 B1.1-30 的主要连续载体是 Sextus。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-02-4-2",
+          "text": "Sextus Empiricus。",
+          "feedback": "正确选项“Sextus Empiricus。”与定位证据一致：B1.1-30 的主要连续载体是 Sextus。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-1-23"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-02-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-02-4-2",
+      "misconceptionId": "parmenides--check-02-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-1-23"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-02-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-02-a"
+      ],
+      "targetVoices": [
+        "parmenides-narrator"
+      ],
+      "lessonId": "parmenides--lesson-02",
+      "voice": "parmenides-narrator"
+    },
+    {
+      "id": "parmenides--check-03-1",
+      "kind": "binary",
+      "prompt": "女神在 B1 末尾要求青年学习什么？",
+      "targetNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-03-1-1",
+          "text": "既学习真理，也学习凡人意见的安排。",
+          "feedback": "正确选项“既学习真理，也学习凡人意见的安排。”与定位证据一致：B1.28-32 明确给出双重学习任务。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-03-1-2",
+          "text": "只学习序诗马车的机械结构。",
+          "feedback": "错误选项“只学习序诗马车的机械结构。”误读了“B1.24-30 女神的迎接与学习范围”的证据范围；应回到 B1.28-32 明确给出双重学习任务。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-03-1-1",
+      "misconceptionId": "parmenides--check-03-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-03-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-03",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-03-2",
+      "kind": "binary",
+      "prompt": "“圆满的真理”能否当成唯一无异文译法？",
+      "targetNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-03-2-1",
+          "text": "能；中文顺口就证明希腊文本无争议。",
+          "feedback": "错误选项“能；中文顺口就证明希腊文本无争议。”误读了“B1.24-30 女神的迎接与学习范围”的证据范围；应回到 B1.29 的文本传承与形容词组合有真实争议。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-03-2-2",
+          "text": "不能；应标明底本和异文。",
+          "feedback": "正确选项“不能；应标明底本和异文。”与定位证据一致：B1.29 的文本传承与形容词组合有真实争议。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-24-30-sextus",
+            "parmenides--src-b1-28-32-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-03-2-2",
+      "misconceptionId": "parmenides--check-03-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-24-30-sextus",
+        "parmenides--src-b1-28-32-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-03-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-03-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-03",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-03-3",
+      "kind": "binary",
+      "prompt": "“凡人意见”在本路线中如何定位？",
+      "targetNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-03-3-1",
+          "text": "认识论等级较低，但仍是女神要求学习的内容。",
+          "feedback": "正确选项“认识论等级较低，但仍是女神要求学习的内容。”与定位证据一致：B1.31-32 与后续宇宙论要求更审慎的判断。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-03-3-2",
+          "text": "毫无内容，可以整段删除。",
+          "feedback": "错误选项“毫无内容，可以整段删除。”误读了“B1.31-32 的编辑安置与意见路解释”的证据范围；应回到 B1.31-32 与后续宇宙论要求更审慎的判断。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-03-3-1",
+      "misconceptionId": "parmenides--check-03-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-03-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-03",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-03-4",
+      "kind": "binary",
+      "prompt": "B1.31-32 的主要连续见证是谁？",
+      "targetNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-03-4-1",
+          "text": "亚里士多德《诗学》。",
+          "feedback": "错误选项“亚里士多德《诗学》。”误读了“B1.31-32 的编辑安置与意见路解释”的证据范围；应回到 这两行由 Simplicius 接在相近的 28-30 行之后保存。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-03-4-2",
+          "text": "Simplicius。",
+          "feedback": "正确选项“Simplicius。”与定位证据一致：这两行由 Simplicius 接在相近的 28-30 行之后保存。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b1-28-32-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-03-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-03-4-2",
+      "misconceptionId": "parmenides--check-03-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b1-28-32-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-03-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-03-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-03",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-04-1",
+      "kind": "binary",
+      "prompt": "B2 第一条路包含哪种情态限定？",
+      "targetNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-04-1-1",
+          "text": "“是”并且“不可能不是”。",
+          "feedback": "正确选项““是”并且“不可能不是”。”与定位证据一致：女神用必然性刻画第一条路。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-04-1-2",
+          "text": "“偶尔是”并且“也许同时不是”。",
+          "feedback": "错误选项““偶尔是”并且“也许同时不是”。”误读了“B2 的两条探究路线”的证据范围；应回到 女神用必然性刻画第一条路。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-04-1-1",
+      "misconceptionId": "parmenides--check-04-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-04-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-04",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-04-2",
+      "kind": "binary",
+      "prompt": "B2 为什么拒绝“不是”的路？",
+      "targetNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-04-2-1",
+          "text": "只是因为感官无法直接观察它，理智仍可完整认识并言说它。",
+          "feedback": "错误选项“只是因为感官无法直接观察它，理智仍可完整认识并言说它。”误读了“B2 的两条探究路线”的证据范围；应回到 拒绝理由同时约束认识与言说，不只是感官可见性。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-04-2-2",
+          "text": "所非者既不能被认识，也不能被说出。",
+          "feedback": "正确选项“所非者既不能被认识，也不能被说出。”与定位证据一致：拒绝理由同时约束认识与言说，不只是感官可见性。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-04-2-2",
+      "misconceptionId": "parmenides--check-04-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-04-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-04",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-04-3",
+      "kind": "binary",
+      "prompt": "把 esti 直接译作专名“存在者”是否中性？",
+      "targetNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-04-3-1",
+          "text": "不中性；它补出了希腊文未明说的主语。",
+          "feedback": "正确选项“不中性；它补出了希腊文未明说的主语。”与定位证据一致：译文必须暴露其解释性补足。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-04-3-2",
+          "text": "完全中性；任何语言都无需补足语法。",
+          "feedback": "错误选项“完全中性；任何语言都无需补足语法。”误读了“B2 的两条探究路线”的证据范围；应回到 译文必须暴露其解释性补足。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-04-3-1",
+      "misconceptionId": "parmenides--check-04-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-04-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-04-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-04",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-04-4",
+      "kind": "binary",
+      "prompt": "B2 的现代解释是否只有一种？",
+      "targetNodeIds": [
+        "parmenides--claim-04-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-04-4-1",
+          "text": "是；所有编者逐词同意。",
+          "feedback": "错误选项“是；所有编者逐词同意。”误读了“路径是探究规范而非地理岔路”的证据范围；应回到 路线把分歧放在现代解释声音中。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-04-4-2",
+          "text": "不是；存在论、述谓和模态读法有分歧。",
+          "feedback": "正确选项“不是；存在论、述谓和模态读法有分歧。”与定位证据一致：路线把分歧放在现代解释声音中。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b2-1-2-proclus",
+            "parmenides--src-b2-3-8-simplicius",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-04-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-04-4-2",
+      "misconceptionId": "parmenides--check-04-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b2-1-2-proclus",
+        "parmenides--src-b2-3-8-simplicius",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-04-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-04-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-04-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-04",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-05-1",
+      "kind": "binary",
+      "prompt": "本路线如何呈现 B3？",
+      "targetNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-05-1-1",
+          "text": "并列主要译法及其语法代价。",
+          "feedback": "正确选项“并列主要译法及其语法代价。”与定位证据一致：B3 正是不可口号化的核心例子。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-05-1-2",
+          "text": "只写“思想=存在”，不再给出处或异议。",
+          "feedback": "错误选项“只写“思想=存在”，不再给出处或异议。”误读了“B3 单行的语法开放性”的证据范围；应回到 B3 正是不可口号化的核心例子。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-05-1-1",
+      "misconceptionId": "parmenides--check-05-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-05-a"
+      ],
+      "targetVoices": [
+        "parmenides-fragment-quoted"
+      ],
+      "lessonId": "parmenides--lesson-05",
+      "voice": "parmenides-fragment-quoted"
+    },
+    {
+      "id": "parmenides--check-05-2",
+      "kind": "binary",
+      "prompt": "B3 能否单凭一个中文等号决定论证方向？",
+      "targetNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-05-2-1",
+          "text": "能，数学符号自动解决古希腊语法。",
+          "feedback": "错误选项“能，数学符号自动解决古希腊语法。”误读了“B3 单行的语法开放性”的证据范围；应回到 译法必须回到 auto、estin 和两个不定式。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-05-2-2",
+          "text": "不能，等号掩盖了希腊句法选择。",
+          "feedback": "正确选项“不能，等号掩盖了希腊句法选择。”与定位证据一致：译法必须回到 auto、estin 和两个不定式。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-05-2-2",
+      "misconceptionId": "parmenides--check-05-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-05-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-05-a"
+      ],
+      "targetVoices": [
+        "parmenides-fragment-quoted"
+      ],
+      "lessonId": "parmenides--lesson-05",
+      "voice": "parmenides-fragment-quoted"
+    },
+    {
+      "id": "parmenides--check-05-3",
+      "kind": "binary",
+      "prompt": "B3 的古代保存者包括谁？",
+      "targetNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-05-3-1",
+          "text": "Clement of Alexandria 与 Plotinus。",
+          "feedback": "正确选项“Clement of Alexandria 与 Plotinus。”与定位证据一致：catalog 明列两条主要古代引文语境。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-05-3-2",
+          "text": "Sextus 独自保存了唯一版本。",
+          "feedback": "错误选项“Sextus 独自保存了唯一版本。”误读了“B3 的传承、真实性与安置问题”的证据范围；应回到 catalog 明列两条主要古代引文语境。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-05-3-1",
+      "misconceptionId": "parmenides--check-05-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-05-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-05",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-05-4",
+      "kind": "binary",
+      "prompt": "Plotinus 引用 B3 是否就等于巴门尼德已提出完整新柏拉图主义？",
+      "targetNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-05-4-1",
+          "text": "等于；引用者的体系可直接倒灌入原诗。",
+          "feedback": "错误选项“等于；引用者的体系可直接倒灌入原诗。”误读了“B3 的传承、真实性与安置问题”的证据范围；应回到 传承事实不授权思想体系倒灌。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-05-4-2",
+          "text": "不等于；后世引用语境要与原诗分声。",
+          "feedback": "正确选项“不等于；后世引用语境要与原诗分声。”与定位证据一致：传承事实不授权思想体系倒灌。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b3-clement",
+            "parmenides--src-b3-plotinus",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-05-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-05-4-2",
+      "misconceptionId": "parmenides--check-05-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b3-clement",
+        "parmenides--src-b3-plotinus",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-05-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-05-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-05",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-06-1",
+      "kind": "binary",
+      "prompt": "B6.1 要求什么活动与“是”相连？",
+      "targetNodeIds": [
+        "parmenides--claim-06-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-06-1-1",
+          "text": "言说与思考。",
+          "feedback": "正确选项“言说与思考。”与定位证据一致：原行并列 legein 与 noein。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-06-1-2",
+          "text": "只要求视觉观察。",
+          "feedback": "错误选项“只要求视觉观察。”误读了“B6.1-2 的言说—思考要求”的证据范围；应回到 原行并列 legein 与 noein。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-06-1-1",
+      "misconceptionId": "parmenides--check-06-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b6"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-06-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-06-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-06-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-06",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-06-2",
+      "kind": "binary",
+      "prompt": "B6 中“凡人”被批评的核心是什么？",
+      "targetNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-06-2-1",
+          "text": "他们只缺少正确的感觉材料，并未在“是/不是”判断上出错。",
+          "feedback": "错误选项“他们只缺少正确的感觉材料，并未在“是/不是”判断上出错。”误读了“B6.3-9 的残缺、补文与路线数解释”的证据范围；应回到 批评针对探究和判断状态，而非资料数量。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-06-2-2",
+          "text": "无决断地在是与不是之间游移。",
+          "feedback": "正确选项“无决断地在是与不是之间游移。”与定位证据一致：批评针对探究和判断状态，而非资料数量。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-06-2-2",
+      "misconceptionId": "parmenides--check-06-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-06-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-06",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-06-3",
+      "kind": "binary",
+      "prompt": "B6.3 应怎样审计？",
+      "targetNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-06-3-1",
+          "text": "标为有缺文并记录补文影响。",
+          "feedback": "正确选项“标为有缺文并记录补文影响。”与定位证据一致：缺文是材料事实，不能被译文抹掉。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-06-3-2",
+          "text": "静默补齐，再称原文完整。",
+          "feedback": "错误选项“静默补齐，再称原文完整。”误读了“B6.3-9 的残缺、补文与路线数解释”的证据范围；应回到 缺文是材料事实，不能被译文抹掉。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-06-3-1",
+      "misconceptionId": "parmenides--check-06-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-06-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-06",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-06-4",
+      "kind": "binary",
+      "prompt": "B6 是否无争议地证明全诗恰有三条路？",
+      "targetNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-06-4-1",
+          "text": "可以，所有手稿都完整写明“三”。",
+          "feedback": "错误选项“可以，所有手稿都完整写明“三”。”误读了“B6.3-9 的残缺、补文与路线数解释”的证据范围；应回到 材料不支持把争议结构定为口号。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-06-4-2",
+          "text": "不能这样断言；路线数受补文和结构解释影响。",
+          "feedback": "正确选项“不能这样断言；路线数受补文和结构解释影响。”与定位证据一致：材料不支持把争议结构定为口号。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b6",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-06-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-06-4-2",
+      "misconceptionId": "parmenides--check-06-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b6",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-06-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-06-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-06",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-07-1",
+      "kind": "binary",
+      "prompt": "B7 点名哪些感官性器官？",
+      "targetNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-07-1-1",
+          "text": "眼、耳与舌。",
+          "feedback": "正确选项“眼、耳与舌。”与定位证据一致：三者都出现在对习惯驱使的警告中。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-07-1-2",
+          "text": "眼与耳，但没有把舌纳入警告。",
+          "feedback": "错误选项“眼与耳，但没有把舌纳入警告。”误读了“B7 对习惯驱使的禁令”的证据范围；应回到 三者都出现在对习惯驱使的警告中。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-07-1-1",
+      "misconceptionId": "parmenides--check-07-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-07-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-07",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-07-2",
+      "kind": "binary",
+      "prompt": "B7 的正面方法要求是什么？",
+      "targetNodeIds": [
+        "parmenides--claim-07-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-07-2-1",
+          "text": "停止一切判断，只接受噪声。",
+          "feedback": "错误选项“停止一切判断，只接受噪声。”误读了“以 logos 判断多争论的检验”的证据范围；应回到 禁令之后紧接积极的判断要求。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-07-2-2",
+          "text": "用 logos 判断女神陈述的检验。",
+          "feedback": "正确选项“用 logos 判断女神陈述的检验。”与定位证据一致：禁令之后紧接积极的判断要求。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-07-2-2",
+      "misconceptionId": "parmenides--check-07-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-07-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-07-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-07-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-07",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-07-3",
+      "kind": "binary",
+      "prompt": "能否把 B7 缩成“感觉全是假”？",
+      "targetNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-07-3-1",
+          "text": "不能；文本批评习惯驱使，并要求 logos 检验。",
+          "feedback": "正确选项“不能；文本批评习惯驱使，并要求 logos 检验。”与定位证据一致：强口号超出保留下来的措辞。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-07-3-2",
+          "text": "能；B7 明说每个感觉命题都为假。",
+          "feedback": "错误选项“能；B7 明说每个感觉命题都为假。”误读了“B7 对习惯驱使的禁令”的证据范围；应回到 强口号超出保留下来的措辞。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-07-3-1",
+      "misconceptionId": "parmenides--check-07-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-07-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-07",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-07-4",
+      "kind": "binary",
+      "prompt": "B7 的保存语境为何要记录？",
+      "targetNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-07-4-1",
+          "text": "因为 Sextus 就是诗中女神。",
+          "feedback": "错误选项“因为 Sextus 就是诗中女神。”误读了“B7 对习惯驱使的禁令”的证据范围；应回到 见证语境与诗内声音必须分离。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-07-4-2",
+          "text": "Sextus 将它接在序诗引文之后，编排本身需审计。",
+          "feedback": "正确选项“Sextus 将它接在序诗引文之后，编排本身需审计。”与定位证据一致：见证语境与诗内声音必须分离。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b7-1-2-plato",
+            "parmenides--src-b7-2-6-sextus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-07-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-07-4-2",
+      "misconceptionId": "parmenides--check-07-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b7-1-2-plato",
+        "parmenides--src-b7-2-6-sextus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-07-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-07-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-07",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-08-1",
+      "kind": "binary",
+      "prompt": "B8 开头把属性称为什么？",
+      "targetNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-08-1-1",
+          "text": "探究路上的“标志”(semata)。",
+          "feedback": "正确选项“探究路上的“标志”(semata)。”与定位证据一致：属性进入的是一连串论证程序。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-08-1-2",
+          "text": "无须论证的广告标语。",
+          "feedback": "错误选项“无须论证的广告标语。”误读了“B8 的 semata 论证程序”的证据范围；应回到 属性进入的是一连串论证程序。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-08-1-1",
+      "misconceptionId": "parmenides--check-08-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-08-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-08",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-08-2",
+      "kind": "binary",
+      "prompt": "B8.4 为什么要附校勘说明？",
+      "targetNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-08-2-1",
+          "text": "因为所有手稿完全一致但中文可随意改。",
+          "feedback": "错误选项“因为所有手稿完全一致但中文可随意改。”误读了“B8 的 semata 论证程序”的证据范围；应回到 文本差异会改变属性表述。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-08-2-2",
+          "text": "“完成/无终”等译法依赖异文选择。",
+          "feedback": "正确选项““完成/无终”等译法依赖异文选择。”与定位证据一致：文本差异会改变属性表述。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-08-2-2",
+      "misconceptionId": "parmenides--check-08-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-08-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-08-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-08",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-08-3",
+      "kind": "binary",
+      "prompt": "B8.5-6 如何描述所是者？",
+      "targetNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-08-3-1",
+          "text": "现在、全体、一个并连续。",
+          "feedback": "正确选项“现在、全体、一个并连续。”与定位证据一致：这正是对生成时序的排除。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-08-3-2",
+          "text": "先不存在，随后逐块长成。",
+          "feedback": "错误选项“先不存在，随后逐块长成。”误读了“现在整体与连续性”的证据范围；应回到 这正是对生成时序的排除。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-08-3-1",
+      "misconceptionId": "parmenides--check-08-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-08-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-08",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-08-4",
+      "kind": "binary",
+      "prompt": "B8 的“一个”是否自动等于任何一种现代整体一元论？",
+      "targetNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-08-4-1",
+          "text": "自动等于，且无需区分数目、述谓或模态。",
+          "feedback": "错误选项“自动等于，且无需区分数目、述谓或模态。”误读了“现在整体与连续性”的证据范围；应回到 现代“何种一元论”仍是解释问题。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-08-4-2",
+          "text": "不自动等于；要结合连续性和后续论证。",
+          "feedback": "正确选项“不自动等于；要结合连续性和后续论证。”与定位证据一致：现代“何种一元论”仍是解释问题。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-1-6"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-08-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-08-4-2",
+      "misconceptionId": "parmenides--check-08-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-1-6"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-08-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-08-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-08",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-09-1",
+      "kind": "binary",
+      "prompt": "B8.7-21 首先追问生成的什么问题？",
+      "targetNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-09-1-1",
+          "text": "来源以及为何在某时生成。",
+          "feedback": "正确选项“来源以及为何在某时生成。”与定位证据一致：论证同时针对来源和时间理由。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-09-1-2",
+          "text": "只追问由哪种现成元素变化而来，不追问生成时机。",
+          "feedback": "错误选项“只追问由哪种现成元素变化而来，不追问生成时机。”误读了“从无者生成的难题”的证据范围；应回到 论证同时针对来源和时间理由。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-09-1-1",
+      "misconceptionId": "parmenides--check-09-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-09-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-09",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-09-2",
+      "kind": "binary",
+      "prompt": "为何不能说从所非者生成？",
+      "targetNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-09-2-1",
+          "text": "所非者可以完整思及，只是缺少可见形象。",
+          "feedback": "错误选项“所非者可以完整思及，只是缺少可见形象。”误读了“从无者生成的难题”的证据范围；应回到 理由承接 B2 对可思与可说的双重限制。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-09-2-2",
+          "text": "所非者不能被说出或思及。",
+          "feedback": "正确选项“所非者不能被说出或思及。”与定位证据一致：理由承接 B2 对可思与可说的双重限制。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-09-2-2",
+      "misconceptionId": "parmenides--check-09-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-09-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-09-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-09",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-09-3",
+      "kind": "binary",
+      "prompt": "Dike 在这段中的功能是什么？",
+      "targetNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-09-3-1",
+          "text": "以锁链意象拘束生成与毁灭。",
+          "feedback": "正确选项“以锁链意象拘束生成与毁灭。”与定位证据一致：B8 用规范—必然意象表达论证约束。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-09-3-2",
+          "text": "负责把存在分割为许多独立块。",
+          "feedback": "错误选项“负责把存在分割为许多独立块。”误读了“Dike、必然与非二值混合”的证据范围；应回到 B8 用规范—必然意象表达论证约束。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-09-3-1",
+      "misconceptionId": "parmenides--check-09-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-09-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-09",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-09-4",
+      "kind": "binary",
+      "prompt": "“是或不是”的判决是否允许半生成状态？",
+      "targetNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-09-4-1",
+          "text": "允许，因为文本明确说一半是、一半不是。",
+          "feedback": "错误选项“允许，因为文本明确说一半是、一半不是。”误读了“Dike、必然与非二值混合”的证据范围；应回到 女神在此排除混合逃路。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-09-4-2",
+          "text": "该论证不允许以混合状态绕过二择。",
+          "feedback": "正确选项“该论证不允许以混合状态绕过二择。”与定位证据一致：女神在此排除混合逃路。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-7-21"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-09-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-09-4-2",
+      "misconceptionId": "parmenides--check-09-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-7-21"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-09-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-09-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-09",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-10-1",
+      "kind": "binary",
+      "prompt": "B8.22-25 如何支持不可分？",
+      "targetNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-10-1-1",
+          "text": "所是者到处同样是，没有更多或更少造成断裂。",
+          "feedback": "正确选项“所是者到处同样是，没有更多或更少造成断裂。”与定位证据一致：均一与连续共同承担论证。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-10-1-2",
+          "text": "它内部布满完全空无的裂缝。",
+          "feedback": "错误选项“它内部布满完全空无的裂缝。”误读了“不存在“更多/更少”的断裂”的证据范围；应回到 均一与连续共同承担论证。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-10-1-1",
+      "misconceptionId": "parmenides--check-10-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-10-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-10",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-10-2",
+      "kind": "binary",
+      "prompt": "“连续”在本段是否等于“由许多独立颗粒松散堆成”？",
+      "targetNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-10-2-1",
+          "text": "等于；连续就是颗粒互不接触。",
+          "feedback": "错误选项“等于；连续就是颗粒互不接触。”误读了“不存在“更多/更少”的断裂”的证据范围；应回到 这种解释与当前 claim 相反。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-10-2-2",
+          "text": "不等于；段落明确反对分割和间断。",
+          "feedback": "正确选项“不等于；段落明确反对分割和间断。”与定位证据一致：这种解释与当前 claim 相反。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-10-2-2",
+      "misconceptionId": "parmenides--check-10-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-10-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-10-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-10",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-10-3",
+      "kind": "binary",
+      "prompt": "现代研究对“一元论”有什么分歧？",
+      "targetNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-10-3-1",
+          "text": "对其数目、述谓或模态性质有不同解释。",
+          "feedback": "正确选项“对其数目、述谓或模态性质有不同解释。”与定位证据一致：路线把推论类型留在现代解释层。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-10-3-2",
+          "text": "完全没有分歧，只有一种定义。",
+          "feedback": "错误选项“完全没有分歧，只有一种定义。”误读了“连续性论证与一元论边界”的证据范围；应回到 路线把推论类型留在现代解释层。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-10-3-1",
+      "misconceptionId": "parmenides--check-10-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-10-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-10",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-10-4",
+      "kind": "binary",
+      "prompt": "应否把某一种现代一元论标签写成女神原词？",
+      "targetNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-10-4-1",
+          "text": "应；现代标签可伪作残篇词汇。",
+          "feedback": "错误选项“应；现代标签可伪作残篇词汇。”误读了“连续性论证与一元论边界”的证据范围；应回到 原文声音和解释声音不能碰撞。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-10-4-2",
+          "text": "不应；应从 B8 措辞到现代概念显式搭桥。",
+          "feedback": "正确选项“不应；应从 B8 措辞到现代概念显式搭桥。”与定位证据一致：原文声音和解释声音不能碰撞。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-10-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-10-4-2",
+      "misconceptionId": "parmenides--check-10-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-10-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-10-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-10",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-11-1",
+      "kind": "binary",
+      "prompt": "B8.26-31 的不动怎样表达？",
+      "targetNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-11-1-1",
+          "text": "保持同一并受必然的界限拘束。",
+          "feedback": "正确选项“保持同一并受必然的界限拘束。”与定位证据一致：文本把安住自身也纳入不动，而非只排除生灭。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-11-1-2",
+          "text": "它可以在界限内循环运动，只是不发生生成和毁灭。",
+          "feedback": "错误选项“它可以在界限内循环运动，只是不发生生成和毁灭。”误读了“强力锁链中的不动”的证据范围；应回到 文本把安住自身也纳入不动，而非只排除生灭。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-11-1-1",
+      "misconceptionId": "parmenides--check-11-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-11-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-11",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-11-2",
+      "kind": "binary",
+      "prompt": "“界限”在这段承担什么作用？",
+      "targetNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-11-2-1",
+          "text": "许可它随时生成和消失。",
+          "feedback": "错误选项“许可它随时生成和消失。”误读了“强力锁链中的不动”的证据范围；应回到 界限意象强化不动与完成。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-11-2-2",
+          "text": "必然的束缚不许所是者脱离自身。",
+          "feedback": "正确选项“必然的束缚不许所是者脱离自身。”与定位证据一致：界限意象强化不动与完成。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-11-2-2",
+      "misconceptionId": "parmenides--check-11-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-11-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-11",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-11-3",
+      "kind": "binary",
+      "prompt": "B8.32-33 是否只需背“存在静止”？",
+      "targetNodeIds": [
+        "parmenides--claim-11-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-11-3-1",
+          "text": "不；还要看到“不缺”参与理由链。",
+          "feedback": "正确选项“不；还要看到“不缺”参与理由链。”与定位证据一致：课程保留从不缺到不动/完成的论证节点。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-11-3-2",
+          "text": "是；理由链可以全部删除。",
+          "feedback": "错误选项“是；理由链可以全部删除。”误读了““不缺”与完成性的难句”的证据范围；应回到 课程保留从不缺到不动/完成的论证节点。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-11-3-1",
+      "misconceptionId": "parmenides--check-11-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-11-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-11-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-11-b"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-11",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-11-4",
+      "kind": "binary",
+      "prompt": "这段的女神声音能否改标为 Aristotle？",
+      "targetNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-11-4-1",
+          "text": "能；后世引用者自动成为诗内说话人。",
+          "feedback": "错误选项“能；后世引用者自动成为诗内说话人。”误读了“强力锁链中的不动”的证据范围；应回到 source carrier 不等于 internal voice。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-11-4-2",
+          "text": "不能；Aristotle 可解释，但诗句由女神陈述。",
+          "feedback": "正确选项“不能；Aristotle 可解释，但诗句由女神陈述。”与定位证据一致：source carrier 不等于 internal voice。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-22-33"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-11-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-11-4-2",
+      "misconceptionId": "parmenides--check-11-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-22-33"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-11-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-11-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-11",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-12-1",
+      "kind": "binary",
+      "prompt": "B8.34-36 最审慎的表述是什么？",
+      "targetNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-12-1-1",
+          "text": "思及其目标/缘由不能脱离所是者。",
+          "feedback": "正确选项“思及其目标/缘由不能脱离所是者。”与定位证据一致：后者远超诗句的约束。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-12-1-2",
+          "text": "任何脑中幻想都自动创造同等现实。",
+          "feedback": "错误选项“任何脑中幻想都自动创造同等现实。”误读了“B8.34-36 的思与所是关系”的证据范围；应回到 后者远超诗句的约束。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-12-1-1",
+      "misconceptionId": "parmenides--check-12-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-12-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-12",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-12-2",
+      "kind": "binary",
+      "prompt": "B8.34-36 与 B3 是否可以无差别合并？",
+      "targetNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-12-2-1",
+          "text": "可以；只要都出现 noein 就无需区分。",
+          "feedback": "错误选项“可以；只要都出现 noein 就无需区分。”误读了“B8.34-36 的思与所是关系”的证据范围；应回到 相似主题不取消 locator-specific 阅读。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-12-2-2",
+          "text": "不可以；两处句法、传承和上下文不同。",
+          "feedback": "正确选项“不可以；两处句法、传承和上下文不同。”与定位证据一致：相似主题不取消 locator-specific 阅读。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-12-2-2",
+      "misconceptionId": "parmenides--check-12-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-12-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-12-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-12",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-12-3",
+      "kind": "binary",
+      "prompt": "凡人给出的名字包括哪些变化项？",
+      "targetNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-12-3-1",
+          "text": "生成、毁灭、位置与颜色变化等。",
+          "feedback": "正确选项“生成、毁灭、位置与颜色变化等。”与定位证据一致：B8.38-41 具体列举了变化性命名。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-12-3-2",
+          "text": "只涉及名称的语音差异，不涉及生成、位置或颜色变化。",
+          "feedback": "错误选项“只涉及名称的语音差异，不涉及生成、位置或颜色变化。”误读了“凡人名字及段落移位争论”的证据范围；应回到 B8.38-41 具体列举了变化性命名。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-12-3-1",
+      "misconceptionId": "parmenides--check-12-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-12-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-12",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-12-4",
+      "kind": "binary",
+      "prompt": "为什么报告 Ebert 移位方案？",
+      "targetNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-12-4-1",
+          "text": "因为它已成为所有版本唯一排法。",
+          "feedback": "错误选项“因为它已成为所有版本唯一排法。”误读了“凡人名字及段落移位争论”的证据范围；应回到 方案重要但非无争议定论。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-12-4-2",
+          "text": "因为段落原位影响它是总结真理路还是转入意见路。",
+          "feedback": "正确选项“因为段落原位影响它是总结真理路还是转入意见路。”与定位证据一致：方案重要但非无争议定论。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-34-41",
+            "parmenides--src-palmer-coxon-review"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-12-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-12-4-2",
+      "misconceptionId": "parmenides--check-12-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-34-41",
+        "parmenides--src-palmer-coxon-review"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-12-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-12-b"
+      ],
+      "targetVoices": [
+        "modern-editorial"
+      ],
+      "lessonId": "parmenides--lesson-12",
+      "voice": "modern-editorial"
+    },
+    {
+      "id": "parmenides--check-13-1",
+      "kind": "binary",
+      "prompt": "B8.42-49 明说所是者“像”什么？",
+      "targetNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-13-1-1",
+          "text": "浑圆球体的体积。",
+          "feedback": "正确选项“浑圆球体的体积。”与定位证据一致：原文以“像”引出球体比较。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-13-1-2",
+          "text": "直接说它就是肉眼可见的天球，而不是使用比拟。",
+          "feedback": "错误选项“直接说它就是肉眼可见的天球，而不是使用比拟。”误读了“从中心各向相等的球形比拟”的证据范围；应回到 原文以“像”引出球体比较。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-13-1-1",
+      "misconceptionId": "parmenides--check-13-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-13-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-13",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-13-2",
+      "kind": "binary",
+      "prompt": "比拟强调哪种关系？",
+      "targetNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-13-2-1",
+          "text": "一侧无限大、另一侧为零。",
+          "feedback": "错误选项“一侧无限大、另一侧为零。”误读了“从中心各向相等的球形比拟”的证据范围；应回到 均衡性是段落显式理由。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-13-2-2",
+          "text": "从中心各向相等、无较大较小。",
+          "feedback": "正确选项“从中心各向相等、无较大较小。”与定位证据一致：均衡性是段落显式理由。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-13-2-2",
+      "misconceptionId": "parmenides--check-13-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-13-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-13-a"
+      ],
+      "targetVoices": [
+        "goddess-direct-speech"
+      ],
+      "lessonId": "parmenides--lesson-13",
+      "voice": "goddess-direct-speech"
+    },
+    {
+      "id": "parmenides--check-13-3",
+      "kind": "binary",
+      "prompt": "能否无说明地把比拟变成天文学断言？",
+      "targetNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-13-3-1",
+          "text": "不能；需说明字面与比喻读法之争。",
+          "feedback": "正确选项“不能；需说明字面与比喻读法之争。”与定位证据一致：明喻并不自动确定本体类别。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-13-3-2",
+          "text": "能；“像球”必定就是可观测宇宙模型。",
+          "feedback": "错误选项“能；“像球”必定就是可观测宇宙模型。”误读了“比拟不自动等于宇宙物理模型”的证据范围；应回到 明喻并不自动确定本体类别。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-13-3-1",
+      "misconceptionId": "parmenides--check-13-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-13-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-13",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-13-4",
+      "kind": "binary",
+      "prompt": "本课如何避免与意见路宇宙论混淆？",
+      "targetNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-13-4-1",
+          "text": "把所有“圆”字都视为同一物体。",
+          "feedback": "错误选项“把所有“圆”字都视为同一物体。”误读了“比拟不自动等于宇宙物理模型”的证据范围；应回到 不同段落、对象和认识论地位必须分别绑定。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-13-4-2",
+          "text": "把 B8 所是者的比拟与 B10-15 天象说明分课。",
+          "feedback": "正确选项“把 B8 所是者的比拟与 B10-15 天象说明分课。”与定位证据一致：不同段落、对象和认识论地位必须分别绑定。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-42-49",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-13-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-13-4-2",
+      "misconceptionId": "parmenides--check-13-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-42-49",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-13-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-13-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-13",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-14-1",
+      "kind": "binary",
+      "prompt": "B8.50 之后发生什么？",
+      "targetNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-14-1-1",
+          "text": "女神从可信论证转入凡人意见的安排。",
+          "feedback": "正确选项“女神从可信论证转入凡人意见的安排。”与定位证据一致：B8.50-61 明确标出转场。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-50-61"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-14-1-2",
+          "text": "诗在 B8.49 后确定无后半部。",
+          "feedback": "错误选项“诗在 B8.49 后确定无后半部。”误读了“B8.50-61 的认识论转场”的证据范围；应回到 B8.50-61 明确标出转场。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-50-61"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-14-1-1",
+      "misconceptionId": "parmenides--check-14-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-50-61"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-14-a"
+      ],
+      "targetVoices": [
+        "goddess-reporting-mortal-order"
+      ],
+      "lessonId": "parmenides--lesson-14",
+      "voice": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--check-14-2",
+      "kind": "binary",
+      "prompt": "凡人设定的两种形态通常如何描述？",
+      "targetNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-14-2-1",
+          "text": "真理与几何学两种学科。",
+          "feedback": "错误选项“真理与几何学两种学科。”误读了“B8.50-61 的认识论转场”的证据范围；应回到 形态具有相反的可感特征。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-50-61"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-14-2-2",
+          "text": "火/光的一侧与夜的一侧。",
+          "feedback": "正确选项“火/光的一侧与夜的一侧。”与定位证据一致：形态具有相反的可感特征。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b8-50-61"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-14-2-2",
+      "misconceptionId": "parmenides--check-14-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b8-50-61"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-14-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-14-a"
+      ],
+      "targetVoices": [
+        "goddess-reporting-mortal-order"
+      ],
+      "lessonId": "parmenides--lesson-14",
+      "voice": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--check-14-3",
+      "kind": "binary",
+      "prompt": "B9 对光和夜说了什么？",
+      "targetNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-14-3-1",
+          "text": "万物依二者得名，并充满二者。",
+          "feedback": "正确选项“万物依二者得名，并充满二者。”与定位证据一致：B9 保留双形式分配。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b9",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-14-3-2",
+          "text": "只有光存在，夜从未被提及。",
+          "feedback": "错误选项“只有光存在，夜从未被提及。”误读了“B9 光夜分配的现代认识论解释”的证据范围；应回到 B9 保留双形式分配。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b9",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-14-3-1",
+      "misconceptionId": "parmenides--check-14-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b9",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-14-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-14",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-14-4",
+      "kind": "binary",
+      "prompt": "“骗人的词序”是否足以删掉全部宇宙论？",
+      "targetNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-14-4-1",
+          "text": "足够；后半诗没有任何可学习内容。",
+          "feedback": "错误选项“足够；后半诗没有任何可学习内容。”误读了“B9 光夜分配的现代认识论解释”的证据范围；应回到 路线守住不同认识论地位，同时拒绝“零价值”简化。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b9",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-14-4-2",
+          "text": "不足；女神仍系统讲授，价值和目的存在解释争议。",
+          "feedback": "正确选项“不足；女神仍系统讲授，价值和目的存在解释争议。”与定位证据一致：路线守住不同认识论地位，同时拒绝“零价值”简化。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b9",
+            "parmenides--src-sep-2024"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-14-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-14-4-2",
+      "misconceptionId": "parmenides--check-14-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b9",
+        "parmenides--src-sep-2024"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-14-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-14-b"
+      ],
+      "targetVoices": [
+        "modern-interpretive"
+      ],
+      "lessonId": "parmenides--lesson-14",
+      "voice": "modern-interpretive"
+    },
+    {
+      "id": "parmenides--check-15-1",
+      "kind": "binary",
+      "prompt": "B10-11 的节目单包括什么？",
+      "targetNodeIds": [
+        "parmenides--claim-15-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-15-1-1",
+          "text": "以太、日月、银河、天界与星辰等。",
+          "feedback": "正确选项“以太、日月、银河、天界与星辰等。”与定位证据一致：B10 与 B11 的节目性诗行明确列出多种天象。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b10-clement",
+            "parmenides--src-b11-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-15-1-2",
+          "text": "只给出“火与夜”两个名称而没有任何具体天象。",
+          "feedback": "错误选项“只给出“火与夜”两个名称而没有任何具体天象。”误读了“意见路诗句中的天象与宇宙论范围”的证据范围；应回到 B10 与 B11 的节目性诗行明确列出多种天象。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b10-clement",
+            "parmenides--src-b11-simplicius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-15-1-1",
+      "misconceptionId": "parmenides--check-15-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b10-clement",
+        "parmenides--src-b11-simplicius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-15-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-15-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-15-a"
+      ],
+      "targetVoices": [
+        "goddess-reporting-mortal-order"
+      ],
+      "lessonId": "parmenides--lesson-15",
+      "voice": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--check-15-2",
+      "kind": "binary",
+      "prompt": "Aëtius 的环带说明应怎样标声？",
+      "targetNodeIds": [
+        "parmenides--claim-15-c"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-15-2-1",
+          "text": "巴门尼德逐字原诗。",
+          "feedback": "错误选项“巴门尼德逐字原诗。”误读了“Aëtius 对环带模型的后世见证”的证据范围；应回到 Aëtius 2.7.1 是关于巴门尼德的报告，不是 B 残篇。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-aetius-rings"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-c"
+          ]
+        },
+        {
+          "id": "parmenides--check-15-2-2",
+          "text": "后世见证/解释。",
+          "feedback": "正确选项“后世见证/解释。”与定位证据一致：Aëtius 2.7.1 是关于巴门尼德的报告，不是 B 残篇。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-aetius-rings"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-c"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-15-2-2",
+      "misconceptionId": "parmenides--check-15-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-aetius-rings"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-15-c"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-15-c"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-15-c"
+      ],
+      "targetVoices": [
+        "ancient-doxographic-reception"
+      ],
+      "lessonId": "parmenides--lesson-15",
+      "voice": "ancient-doxographic-reception"
+    },
+    {
+      "id": "parmenides--check-15-3",
+      "kind": "binary",
+      "prompt": "B16 把 noos 与什么相连？",
+      "targetNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-15-3-1",
+          "text": "人的肢体/身体成分的混合状态。",
+          "feedback": "正确选项“人的肢体/身体成分的混合状态。”与定位证据一致：B16 的两条独立载体都把 noos 放在身体混合语境中。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b16-aristotle",
+            "parmenides--src-b16-theophrastus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-15-3-2",
+          "text": "一种与身体混合完全无关的独立心灵实体。",
+          "feedback": "错误选项“一种与身体混合完全无关的独立心灵实体。”误读了“身体混合、繁殖与生灭总结”的证据范围；应回到 B16 的两条独立载体都把 noos 放在身体混合语境中。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b16-aristotle",
+            "parmenides--src-b16-theophrastus"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-15-3-1",
+      "misconceptionId": "parmenides--check-15-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b16-aristotle",
+        "parmenides--src-b16-theophrastus"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-15-b"
+      ],
+      "targetVoices": [
+        "goddess-reporting-mortal-order"
+      ],
+      "lessonId": "parmenides--lesson-15",
+      "voice": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--check-15-4",
+      "kind": "binary",
+      "prompt": "B18 为什么不能做希腊逐词分析？",
+      "targetNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-15-4-1",
+          "text": "它保存了完整希腊原文，只是现代译者选择不印。",
+          "feedback": "错误选项“它保存了完整希腊原文，只是现代译者选择不印。”误读了“身体混合、繁殖与生灭总结”的证据范围；应回到 当前载体是失传希腊段落的拉丁传译。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-b18-caelius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-15-4-2",
+          "text": "它只以 Caelius Aurelianus 的拉丁六步格转述保存。",
+          "feedback": "正确选项“它只以 Caelius Aurelianus 的拉丁六步格转述保存。”与定位证据一致：当前载体是失传希腊段落的拉丁传译。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-b18-caelius"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-15-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-15-4-2",
+      "misconceptionId": "parmenides--check-15-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-b18-caelius"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-15-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-15-b"
+      ],
+      "targetVoices": [
+        "goddess-reporting-mortal-order"
+      ],
+      "lessonId": "parmenides--lesson-15",
+      "voice": "goddess-reporting-mortal-order"
+    },
+    {
+      "id": "parmenides--check-16-1",
+      "kind": "binary",
+      "prompt": "柏拉图对巴门尼德的描写属于什么材料？",
+      "targetNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-16-1-1",
+          "text": "后世接受与戏剧性哲学建构。",
+          "feedback": "正确选项“后世接受与戏剧性哲学建构。”与定位证据一致：Stephanus locator 指向柏拉图文本，不是诗的 B 残篇。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-plato-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-16-1-2",
+          "text": "对原诗现场的逐字录音。",
+          "feedback": "错误选项“对原诗现场的逐字录音。”误读了“柏拉图的巴门尼德形象不是原诗录音”的证据范围；应回到 Stephanus locator 指向柏拉图文本，不是诗的 B 残篇。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-plato-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-16-1-1",
+      "misconceptionId": "parmenides--check-16-1-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-plato-reception"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-16-a"
+      ],
+      "targetVoices": [
+        "plato-reception"
+      ],
+      "lessonId": "parmenides--lesson-16",
+      "voice": "plato-reception"
+    },
+    {
+      "id": "parmenides--check-16-2",
+      "kind": "binary",
+      "prompt": "《智者篇》的非存在讨论能否直接补进 B2 缺失主语？",
+      "targetNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-16-2-1",
+          "text": "能；后写文本自动修订早期诗句。",
+          "feedback": "错误选项“能；后写文本自动修订早期诗句。”误读了“柏拉图的巴门尼德形象不是原诗录音”的证据范围；应回到 比较和倒灌必须区分。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-plato-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-a"
+          ]
+        },
+        {
+          "id": "parmenides--check-16-2-2",
+          "text": "不能；它可作接受史比较，但不是原诗语法证据的替代。",
+          "feedback": "正确选项“不能；它可作接受史比较，但不是原诗语法证据的替代。”与定位证据一致：比较和倒灌必须区分。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-plato-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-a"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-16-2-2",
+      "misconceptionId": "parmenides--check-16-2-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-plato-reception"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-16-a"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-16-a"
+      ],
+      "targetVoices": [
+        "plato-reception"
+      ],
+      "lessonId": "parmenides--lesson-16",
+      "voice": "plato-reception"
+    },
+    {
+      "id": "parmenides--check-16-3",
+      "kind": "binary",
+      "prompt": "亚里士多德的 logos/感觉框架应归谁？",
+      "targetNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-16-3-1",
+          "text": "亚里士多德的解释声音。",
+          "feedback": "正确选项“亚里士多德的解释声音。”与定位证据一致：Bekker locator 明确属于亚里士多德著作。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-aristotle-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-16-3-2",
+          "text": "B1 中旅者的逐字自述。",
+          "feedback": "错误选项“B1 中旅者的逐字自述。”误读了“亚里士多德的解释层次”的证据范围；应回到 Bekker locator 明确属于亚里士多德著作。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-aristotle-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-16-3-1",
+      "misconceptionId": "parmenides--check-16-3-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-aristotle-reception"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-16-b"
+      ],
+      "targetVoices": [
+        "aristotle-reception"
+      ],
+      "lessonId": "parmenides--lesson-16",
+      "voice": "aristotle-reception"
+    },
+    {
+      "id": "parmenides--check-16-4",
+      "kind": "binary",
+      "prompt": "亚里士多德的解释应怎样进入路线？",
+      "targetNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "options": [
+        {
+          "id": "parmenides--check-16-4-1",
+          "text": "作为女神未保存诗行的自动补文。",
+          "feedback": "错误选项“作为女神未保存诗行的自动补文。”误读了“亚里士多德的解释层次”的证据范围；应回到 亚里士多德材料属于接受史而不是 B 残篇。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "parmenides--src-aristotle-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-b"
+          ]
+        },
+        {
+          "id": "parmenides--check-16-4-2",
+          "text": "作为带 Bekker 定位的后世分析层。",
+          "feedback": "正确选项“作为带 Bekker 定位的后世分析层。”与定位证据一致：亚里士多德材料属于接受史而不是 B 残篇。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "parmenides--src-aristotle-reception"
+          ],
+          "claimNodeIds": [
+            "parmenides--claim-16-b"
+          ]
+        }
+      ],
+      "correctOptionId": "parmenides--check-16-4-2",
+      "misconceptionId": "parmenides--check-16-4-misconception",
+      "evidenceLinkIds": [
+        "parmenides--src-aristotle-reception"
+      ],
+      "objectNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "promptClaimNodeIds": [
+        "parmenides--claim-16-b"
+      ],
+      "targetParagraphIds": [
+        "parmenides--paragraph-16-b"
+      ],
+      "targetVoices": [
+        "aristotle-reception"
+      ],
+      "lessonId": "parmenides--lesson-16",
+      "voice": "aristotle-reception"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

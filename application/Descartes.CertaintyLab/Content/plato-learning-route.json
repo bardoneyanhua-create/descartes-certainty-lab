@@ -1,0 +1,4529 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "plato-01-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "追问怎样把自信变成困惑",
+      "explanation": "这些对话先检验说话者能否为自己的判断负责。定义必须贯通实例，理由必须彼此相容，反驳则借对方已经承认的前提暴露冲突。困惑不是空白胜利，而是知道原先的自信不足以承担行动；它既可能打开共同探究，也可能因羞辱、权力差距或反诘者自身未受审查而失败。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-01-evidence"
+      ],
+      "abilityIds": [
+        "能区分反诘造成的不一致与已经证明的相反结论",
+        "能说明实例、定义、反例与修正怎样连续推进",
+        "能把角色声音、可能的作者安排与后世解释分开"
+      ]
+    },
+    {
+      "id": "plato-02-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "虔敬是否只由神的喜爱决定",
+      "explanation": "《游叙弗伦》让宗教权威、道德理由与家庭责任在法庭门廊相撞。著名两难不是简单宣布道德独立于神，而是区分一件事之所以虔敬的根据与众神喜爱它的结果。若喜爱创造价值，价值似乎任意；若因其本已虔敬而喜爱，喜爱便不是定义。后续关于照料、服务和献礼的尝试又暴露人神交换模型的不足，对话仍以未决收束。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-02-evidence"
+      ],
+      "abilityIds": [
+        "能解释众神喜爱与虔敬之间两种因果方向",
+        "能追踪照料、服务与交换方案为何回到原点",
+        "能把权威效力、可靠标志与规范根据分开"
+      ]
+    },
+    {
+      "id": "plato-03-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "审查生活与服从法律的张力",
+      "explanation": "《申辩》中的苏格拉底把哲学审查理解为神命与公共服务，宁可承受死亡也不以不义换生存；《克里同》则让朋友的逃亡劝说遭遇“不以恶报恶”和拟人化法律的反驳。两篇不能压成盲从：法庭上的他公开批评城邦，曾拒绝违法命令；狱中的论证关乎约定、受益、说服与破坏法律秩序。它仍面临不义法律、沉默同意和家庭责任的压力。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-03-evidence"
+      ],
+      "abilityIds": [
+        "能用不行不义的共同前提解释抗命与拒逃",
+        "能区分接受刑罚、认可判决与无条件守法",
+        "能指出受益同意、说服或离开以及不义法律的压力"
+      ]
+    },
+    {
+      "id": "plato-04-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "不知道答案时如何开始寻找",
+      "explanation": "《美诺》把“德性可教吗”退回“德性是什么”，再由失败定义逼出探究悖论：已知无需找，未知又无法识别。苏格拉底以回忆说和奴童几何问答回应，展示提问能把自信错误变成可检验意见；这没有简单证明答案早存心中。对话后段以假设法考察德性与知识，又因缺少教师转向真意见。知识比真意见稳定，因为被原因说明系住，但德性、教导与神赐仍未决。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-04-evidence"
+      ],
+      "abilityIds": [
+        "能说明探究悖论依赖全知与全无知的二分",
+        "能区分奴童示范支持的探究可能与灵魂先存证明",
+        "能解释真意见被原因说明系住为何更稳定"
+      ]
+    },
+    {
+      "id": "plato-05-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "临终谈话中的灵魂与形式",
+      "explanation": "《斐多》把哲学论证置于临终共同体。苏格拉底以相反者循环、回忆、亲和性和最后论证支持灵魂不死，每条论证对象和强度不同。西米亚斯的和谐说与克贝斯的织工比喻准确攻击“灵魂先于身体”尚不能推出“灵魂永不毁灭”。形式论在最后论证中解释事物为何具有性质，并让灵魂作为生命携带者不能接受死亡；但从不接受死亡到离身存续仍有争议。反对不是背叛，而使信念避免厌论。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-05-evidence"
+      ],
+      "abilityIds": [
+        "能区分循环、回忆、亲和性与最后论证的结论强度",
+        "能说明和谐说与织工比喻分别攻击哪项前提",
+        "能指出形式解释与个体灵魂不灭之间仍欠的步骤"
+      ]
+    },
+    {
+      "id": "plato-06-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正义如何同时安排城邦与灵魂",
+      "explanation": "《理想国》的对话从老年、欠债与强者利益的定义争执，推进到格劳孔的魔戒挑战。苏格拉底以大字比小字更易读为由在言说中建城，寻找生产者、护卫者与统治者的功能秩序，再用欲望、激情和理性冲突区分灵魂部分。正义被说成各部分做自己的事并由理性统领，不只是不越界的社会服从。类比揭示结构，却面临阶层固定、功能差异与心理分部是否匹配的压力；城邦正义也不能由灵魂健康自动证明。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-06-evidence"
+      ],
+      "abilityIds": [
+        "能说明魔戒挑战为何要求正义具有内在价值",
+        "能重建灵魂三分从心理冲突而非社会标签出发",
+        "能指出城邦灵魂类比不能自动证明阶层权力"
+      ]
+    },
+    {
+      "id": "plato-07-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从太阳到洞穴的认识转向",
+      "explanation": "《理想国》对话第六至七卷用三幅连续图景补正正义论。太阳说明善之于可知对象如太阳之于可见对象，使真理与认识成为可能，却又超出通常所说的存在；线段区分影像、事物、数学假设与不以假设为终点的辩证认识；洞穴把这些关系写成受教育者的痛苦转向、上升、适应与被迫返回。洞穴不是“聪明人逃离愚民”的寓言，教育也不是把视觉塞进盲眼，而是把整个灵魂转向。三幅图仍没有给善下定义，数学与辩证的边界也需解释。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-07-evidence"
+      ],
+      "abilityIds": [
+        "能把太阳、线段与洞穴重建为连续认识论图景",
+        "能说明教育转向与灌输信息的差别",
+        "能指出善未被定义及自称觉醒者的资格压力"
+      ]
+    },
+    {
+      "id": "plato-08-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "哲学家为何既不该逐权又必须统治",
+      "explanation": "哲学家统治不是给自称有智慧者的王冠。苏格拉底先以船喻说明城邦争权者忽视航海知识，又用无用哲学家和败坏天性的分析解释现实反例。哲学天性要爱真理、整体与一致，还需数十年数学、辩证、公共职责和诱惑检验；真正合格者不把统治当私人好处，却因受共同体教育并为避免更坏者掌权而返回。方案仍面临知识可验证性、强迫正当性、被统治者发言与制度纠错的严重压力，哲学知识不能自动转化成政治判断。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-08-evidence"
+      ],
+      "abilityIds": [
+        "能说明哲学资格为何包含知识、欲望与长期实践",
+        "能重建船喻的解释力并指出政治技艺类比的缺口",
+        "能区分认识权威与不可审查的政治权力"
+      ]
+    },
+    {
+      "id": "plato-09-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "爱欲从占有之美走向美本身",
+      "explanation": "《会饮》不是一篇由苏格拉底独占的爱情论文，而是阿里斯托得摩斯经历、阿波罗多洛斯转述的多声宴席。斐德若、泡萨尼阿斯、厄律克西马库斯、阿里斯托芬和阿伽通依次把爱欲联系勇气、规范、宇宙和谐、失落完整与诗性美。苏格拉底反诘阿伽通：爱所欲者正是所缺；随后转述狄奥提玛，把爱描述为贫乏与资源之子、在美中生育并追求不朽。所谓阶梯从一具美身扩展到众身体、灵魂、制度、知识和美本身，却面临是否贬低具体他者的异议；阿尔基比亚德醉酒闯入，让抽象上升接受未被驯服的个人爱欲检验。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-09-evidence"
+      ],
+      "abilityIds": [
+        "能区分爱欲作为匮乏寻求与美善的完成占有",
+        "能解释阶梯各步怎样扩大对象而非只列等级",
+        "能用阿尔基比亚德的闯入检验抽象上升的边界"
+      ]
+    },
+    {
+      "id": "plato-10-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "灵魂驾车、修辞与书写的双重药性",
+      "explanation": "《斐德若》以吕西阿斯演说主张宁取不爱者，苏格拉底先仿作贬爱演说，继而因神圣警示作撤回演说，把爱之疯狂理解为灵魂见美后回忆形式的动力。双马驾车神话让理性车夫、顺从白马与放纵黑马的冲突具象化。后半部指出真正修辞必须认识真理、能按自然关节综合与划分，并了解不同灵魂以适配言说。书写批评借忒乌特神话说文字像药也像毒，只给记忆提示、不能回答追问；但整篇对话本身是精心书写，这使批评指向无回应文字的限度，而非简单禁书。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-10-evidence"
+      ],
+      "abilityIds": [
+        "能把爱之疯狂、灵魂驾车与修辞责任连成一条论证",
+        "能说明综合划分与听者灵魂为何是真正修辞条件",
+        "能解释书写双重药性而不落入反书写口号"
+      ]
+    },
+    {
+      "id": "plato-11-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知识定义为何在助产后仍未出生",
+      "explanation": "《泰阿泰德》把年轻数学家带到苏格拉底面前，苏格拉底自称思想助产士，只帮助检验胎儿是否真实。泰阿泰德先说知识是感觉，论证牵出普罗泰戈拉“人是尺度”和赫拉克利特流变；苏格拉底既为它们作强辩护，又以记忆、专长、未来判断及灵魂共同概念施压。知识改为真判断后，虚假判断如何可能与陪审团被说服的例子暴露缺口；再加说明，又必须解释说明是声音表达、元素列举还是差异标志。对话没有确认现代“真且有理由的信念”，而在210d承认没有产下知识定义。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-11-evidence"
+      ],
+      "abilityIds": [
+        "能重建感觉定义与尺度流变承诺之间的联系",
+        "能说明真判断为何未包含获得路径",
+        "能区分三种说明并解释对话为何仍以困惑结束"
+      ]
+    },
+    {
+      "id": "plato-12-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "形式与非存在在晚期压力中改变",
+      "explanation": "晚期对话不让熟悉的苏格拉底继续独占结论。《巴门尼德》中老哲学家检验年轻苏格拉底的形式：分有若像一张帆覆盖多人，会遭整体部分难题；大东西因“大本身”而大又会逼出第三个大；形式若只是思想或范型仍面临关系与认识断裂。但巴门尼德也说没有形式会使思考无所归，要求严格辩证训练。《智者》中埃利亚异乡人为定义智者，必须解释假像与虚假言说；他冒险“弑父”，把非存在解释为与某物不同，而非绝对无。存在者能参与相同、不同、运动、静止等大类，陈述由名词与动词结合而可真假。压力不是简单抛弃形式，而是从孤立模型转向关系、参与与差异。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-12-evidence"
+      ],
+      "abilityIds": [
+        "能重建分有、整体部分与第三人问题的具体前提",
+        "能说明非存在作为不同如何使虚假陈述可能",
+        "能把晚期压力理解为关系修正而非简单抛弃形式"
+      ]
+    },
+    {
+      "id": "plato-gorgias-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "修辞拥有力量时为何仍可能只是逢迎",
+      "explanation": "《高尔吉亚》从修辞能造成何种说服出发，把问题推进到权力、惩罚、快乐与善。苏格拉底要求技艺说明对象的好处，而不只制造愉快效果；波罗斯和卡利克勒斯则迫使他证明，行不义为何比受不义更坏，节制为何胜过欲望无限扩张。对话没有让反方只充当错误答案，末尾神话也不能替中间论证补票。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-gorgias-evidence"
+      ],
+      "abilityIds": [
+        "能区分制造信念与传授知识",
+        "能重建权力、欲望与善的论证链",
+        "能限制惩罚医治和末尾神话的证明强度"
+      ]
+    },
+    {
+      "id": "plato-republic-waves-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "三次浪潮为何把哲学家推向权力",
+      "explanation": "《理想国》第五卷用三次浪潮检验言说城邦是否敢承担自身原则。第一浪潮让护卫职责服从相关能力而非性别标签；第二浪潮以家庭和财产共同安排防止派系私占，却制造照护、欺骗与强制难题；第三浪潮才提出哲学与政治权力合一。哲人王不是孤立口号，而是前两项制度需要知识尺度后出现的高风险回答。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-republic-waves-evidence"
+      ],
+      "abilityIds": [
+        "能重建三次浪潮的递进关系",
+        "能区分能力开放与制度强制",
+        "能说明哲人王为何由前两浪潮逼出"
+      ]
+    },
+    {
+      "id": "plato-statesman-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "政治知识若高于法律，谁能承受这项例外",
+      "explanation": "《政治家》接续《智者》的划分方法，却故意让“养育人类群体”不断失败。宇宙循环神话区分神牧时代与当下凡人政治，恰当尺度要求避免过度和不足，编织则把勇猛与温和等性情协调为共同体。真正知识似不应被固定法律束缚，但现实又极难辨认无误政治家；这使超法律统治成为理想主张与冒名危险同时存在的难题。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-statesman-evidence"
+      ],
+      "abilityIds": [
+        "能解释划分失败为何推进方法",
+        "能区分相对尺度与恰当尺度",
+        "能保留知识统治和法律防护的双重压力"
+      ]
+    },
+    {
+      "id": "plato-philebus-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "快乐与知识为何都不能单独成为善生活",
+      "explanation": "《斐利布》把快乐与知识的竞争转成成分、尺度和真假的分析。无知而愉快的生活缺少记忆与真，毫无快乐的纯知生活也不符合人的完满；限、无限、混合与原因说明强度必须受比例组织。快乐还会因预期、比较和对象判断而真假，知识也有精确层级。最终混合由尺度、比例、真与适当排序，不是双方各占一半。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-philebus-evidence"
+      ],
+      "abilityIds": [
+        "能说明两种极端生活为何都不足",
+        "能把四类用于快乐与知识的混合",
+        "能区分感受发生与快乐判断的真假"
+      ]
+    },
+    {
+      "id": "plato-timaeus-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "理智若追求最好，为何宇宙仍要服从必然",
+      "explanation": "《蒂迈欧》把形式从认识对象推进为宇宙范型。善的工匠按范型整理可见世界，世界灵魂把同一、差异与运动组织成活的整体；时间随天体运动成为永恒的活动影像。可是理智不是从无制造一切，它只能“劝服”必然，并让生成事物在难以界定的容器中出现。整篇自称似然言说，要求理由相称而不冒充确定科学。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-timaeus-evidence"
+      ],
+      "abilityIds": [
+        "能区分工匠制作与从无创造",
+        "能解释世界灵魂、时间和范型的关系",
+        "能限制理智、必然与容器的解释强度"
+      ]
+    },
+    {
+      "id": "plato-laws-interpretation",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "没有哲人王时，法律怎样承载不完整的理智",
+      "explanation": "《法律篇》让苏格拉底缺席，由雅典异乡人与克里特、斯巴达同伴在步行中设计城邦。法律不仅以刑罚划界，还用序言说明理由，以音乐、饮酒、体育和习惯训练快乐痛苦；混合政体试图平衡自由与权威。第十卷又以灵魂运动回应无神论，却把形上论证连接到宗教强制。夜间议事会保存理智维护任务，也使专家权力重新出现。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "plato-laws-evidence"
+      ],
+      "abilityIds": [
+        "能说明法律序言与纯命令的差别",
+        "能解释混合政体与情感教育的关系",
+        "能批判宗教强制和夜间议事会的知识权力"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "plato-01-evidence",
+      "workId": "Plato, Euthyphro; Laches",
+      "edition": "Burnet, Platonis Opera, OCT, vols. I and III",
+      "locator": "Euthyphro 5d–11b; Laches 190d–199e",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-02-evidence",
+      "workId": "Plato, Euthyphro",
+      "edition": "Burnet, Platonis Opera, OCT, vol. I",
+      "locator": "2a–16a, especially 5d–6e, 9e–11b, 12e–15c",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-03-evidence",
+      "workId": "Plato, Apology; Crito",
+      "edition": "Burnet, Platonis Opera, OCT, vol. I",
+      "locator": "Apology 20c–24b, 28b–38a; Crito 44b–54e",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-04-evidence",
+      "workId": "Plato, Meno",
+      "edition": "Burnet, Platonis Opera, OCT, vol. III",
+      "locator": "70a–100c, especially 79e–86c and 96d–100b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-05-evidence",
+      "workId": "Plato, Phaedo",
+      "edition": "Burnet, Platonis Opera, OCT, vol. I",
+      "locator": "57a–118a, especially 69e–84b, 85b–107b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-06-evidence",
+      "workId": "Plato, Republic",
+      "edition": "Burnet, Platonis Opera, OCT, vol. IV",
+      "locator": "Book I 327a–354c; Books II–IV 357a–445e",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-07-evidence",
+      "workId": "Plato, Republic",
+      "edition": "Burnet, Platonis Opera, OCT, vol. IV",
+      "locator": "Books V–VII 449a–541b, especially 504d–521b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-08-evidence",
+      "workId": "Plato, Republic",
+      "edition": "Burnet, Platonis Opera, OCT, vol. IV",
+      "locator": "Republic Books V–X 471c–621d",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-09-evidence",
+      "workId": "Plato, Symposium",
+      "edition": "Burnet, Platonis Opera, OCT, vol. II",
+      "locator": "172a–223d, especially 199c–212c and 215a–222b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-10-evidence",
+      "workId": "Plato, Phaedrus",
+      "edition": "Burnet, Platonis Opera, OCT, vol. II",
+      "locator": "227a–279c, especially 244a–257b, 261a–266c, 274b–278e",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-11-evidence",
+      "workId": "Plato, Theaetetus",
+      "edition": "Burnet, Platonis Opera, OCT, vol. I",
+      "locator": "142a–210d, especially 151d–187a and 200d–210b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-12-evidence",
+      "workId": "Plato, Parmenides; Sophist",
+      "edition": "Burnet, Platonis Opera, OCT, vols. II and I",
+      "locator": "Parmenides 127d–135d; Sophist 216a–259d, especially 236d–241b and 251a–259d",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-gorgias-evidence",
+      "workId": "Plato, Gorgias",
+      "edition": "Burnet, Platonis Opera, OCT, vol. III",
+      "locator": "449a–527e",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-republic-waves-evidence",
+      "workId": "Plato, Republic",
+      "edition": "Burnet, Platonis Opera, OCT, vol. IV",
+      "locator": "Books V–VI 449a–502c",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-statesman-evidence",
+      "workId": "Plato, Statesman",
+      "edition": "Burnet, Platonis Opera, OCT, vol. I",
+      "locator": "257a–311c",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-philebus-evidence",
+      "workId": "Plato, Philebus",
+      "edition": "Burnet, Platonis Opera, OCT, vol. II",
+      "locator": "11a–67b",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-timaeus-evidence",
+      "workId": "Plato, Timaeus",
+      "edition": "Burnet, Platonis Opera, OCT, vol. IV",
+      "locator": "27d–92c",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    },
+    {
+      "id": "plato-laws-evidence",
+      "workId": "Plato, Laws",
+      "edition": "Burnet, Platonis Opera, OCT, vol. V",
+      "locator": "Books I–XII 624a–969d",
+      "locatorVerified": true,
+      "identity": "dramatic-character-voice"
+    }
+  ],
+  "routes": [
+    {
+      "id": "plato-foundations",
+      "version": "2.0",
+      "title": "柏拉图：在对话中追问",
+      "lessonIds": [
+        "plato-01",
+        "plato-02",
+        "plato-03",
+        "plato-gorgias",
+        "plato-04",
+        "plato-05",
+        "plato-06",
+        "plato-republic-waves",
+        "plato-07",
+        "plato-08",
+        "plato-09",
+        "plato-10",
+        "plato-11",
+        "plato-12",
+        "plato-statesman",
+        "plato-philebus",
+        "plato-timaeus",
+        "plato-laws"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "plato-01",
+      "order": 1,
+      "title": "追问怎样把自信变成困惑",
+      "depth": "deep",
+      "guidingQuestion": "苏格拉底为什么总从一个看似人人会用的词开始，并让谈话停在没有答案的地方？",
+      "coreExplanation": "这些对话先检验说话者能否为自己的判断负责。定义必须贯通实例，理由必须彼此相容，反驳则借对方已经承认的前提暴露冲突。困惑不是空白胜利，而是知道原先的自信不足以承担行动；它既可能打开共同探究，也可能因羞辱、权力差距或反诘者自身未受审查而失败。",
+      "sections": [
+        {
+          "heading": "一场谈话为何从“你说的是什么”开始",
+          "paragraphs": [
+            "在雅典的街道、体育场或住宅里，苏格拉底常遇见自称知道勇敢、节制或虔敬的人。对话不是从宏大体系开始，而从一项正在指导行动的确信开始：将军凭什么训练士兵，父亲凭什么指责儿子，公民凭什么起诉亲属。词语一旦进入行动，就不能只靠熟悉感维持。",
+            "他问的通常不是“请举一个例子”，而是“所有这类事情凭什么同属一类”。一个勇敢行为可以帮助寻找方向，却不能自动说明勇敢本身；若定义只重述最初例子，遇到新的情形便失去判断力。第一次追问因此把列举转成了寻找共同根据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "反诘检验的是一组承诺",
+          "paragraphs": [
+            "通常所说的苏格拉底式反诘，不是靠连续发问让对方难堪。对方先提出主张，又同意若干看似无害的判断；苏格拉底再显示这些承诺合在一起会推出主张的反面。冲突来自对方自己的承认，这使失败不同于被外部权威简单驳倒。",
+            "这种做法最多证明一组信念不能同时保持，并不直接证明苏格拉底心中的相反命题为真。若“勇敢就是坚持”与“无知地坚持并不勇敢”冲突，谈话只排除了过宽定义；新的定义仍要说明知识、风险与坚持怎样结合。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "从实例到定义再到反例",
+          "paragraphs": [
+            "推理先要求定义覆盖所有正例，再检查它会不会把明显错误的情形也收入。若节制被说成安静，苏格拉底便寻找必须迅速行动的身体或心灵活动；若迅速而适当的行动仍可称美好，安静便不是节制的充分条件。反例攻击的是定义范围，而不是嘲笑某个词。",
+            "定义失败后，合理的下一步不是宣布“什么都不可知”，而是定位失败方式：有的定义太窄，有的太宽，有的偷换同义词，有的依赖尚未解释的评价。把失败分型，困惑才会携带信息，并为下一次尝试限定方向。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "拉凯斯说勇敢就是守住阵地",
+          "paragraphs": [
+            "《拉凯斯》中，两位将军与苏格拉底讨论青年是否应学重装步兵术。拉凯斯先以战场经验回答：勇敢的人守住阵地，不逃跑。苏格拉底却提醒，斯基泰骑兵可以边退边战，荷马笔下的埃涅阿斯也懂得退却；一个军事例子不能垄断勇敢的全部范围。",
+            "拉凯斯随后把勇敢改成灵魂的坚持。苏格拉底让他承认愚蠢坚持并不美好，经过计算的坚持反而可能风险较小。这里的压力不是说坚持无关勇敢，而是要求解释哪一种知识使坚持值得称勇敢；对话因此被推向尼西亚斯关于危险知识的新方案。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "让人沉默不等于共同求真",
+          "paragraphs": [
+            "反诘可能赢得现场，却没有改善信念。提问者若故意利用歧义、只挑对自己有利的承诺，或拒绝让自己的前提接受同样检验，谈话就退化为争胜。对方的羞耻与沉默只能证明社会压力生效，不能证明真理已经出现。",
+            "还有一种更深的异议：一个人在强势发问下点头，未必真正理解所同意的命题。若后续矛盾依赖这种被迫同意，反诘便没有触及他实际持有的理由。回应这一点需要慢下来复述承诺、允许撤回，并让双方共同确认推理连接。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "困惑在《游叙弗伦》与《拉凯斯》中留下什么",
+          "paragraphs": [
+            "《游叙弗伦》5d至11b让一个自信起诉父亲的人接连提出虔敬定义；《拉凯斯》190d至199e让有实战声望的人无法稳定说明勇敢。戏剧情境使无知具有伦理重量：错误定义不是考场失分，而可能正在支配起诉、教育与战争。",
+            "结尾没有作者现身公布标准答案。人物各自离场或承认仍需寻找，这要求解释者把“苏格拉底驳倒了什么”“对话暗示了什么”“柏拉图是否赞成某种方案”分开。未决不是文本缺损，而是对继续判断责任的安排。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "戏剧人物不是作者的录音机",
+          "paragraphs": [
+            "历史上的苏格拉底没有留下著作；柏拉图写下的是经过构造的对话。色诺芬、阿里斯托芬与其他残篇又给出不同肖像，所以不能把角色苏格拉底的每句话直接登记成历史人物事实，更不能越过对话结构直接叫作柏拉图定论。",
+            "谨慎并不意味着任何解释都一样。谁在场、谁先提出主张、反例针对哪一前提、结尾是否回收开场行动，都提供约束。作者立场也许通过反复主题和戏剧安排显现，但这种归属必须是一项论证，而不是删去引号后的改写。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "知道自己不知道为何仍能前进",
+          "paragraphs": [
+            "承认无知若只是新的自我赞美，就会变成“我比别人高明，因为我知道自己无知”的口号。更严格的含义是能指出哪项主张缺少什么：定义未覆盖反例，理由相互冲突，或行动超出证据。无知由此成为可定位的认知状态。",
+            "这种定位将逼出《美诺》的尖锐问题：既然不知道所寻之物，怎样认出答案？在抵达那里之前，《游叙弗伦》先显示另一种推进压力：定义不仅要稳定，还要说明价值是否依赖权威。反诘从一致性检验走向理由来源。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "校准一把会漂移的尺",
+          "paragraphs": [
+            "若一把尺在不同温度下伸缩，只拿它反复测量不会增加可靠性；必须找出变化条件，并用独立标准校准。日常概念也可能随利益和情境漂移。反诘把相同词放进不同处境，观察判断是否保持，从而暴露那把概念之尺在哪里变形。",
+            "但独立标准从何而来仍是难题。我们借清楚例子批评定义，又借定义判断新例子，两者可能互相依赖。对话的价值正在于不掩盖这一循环，而让定义、实例与后果反复校正，直到理由网络比起点更稳定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "反诘与诡辩的分界",
+          "paragraphs": [
+            "诡辩者也能制造矛盾，差别不能只看谁提问。关键在目标与约束：反诘是否让前提清楚、允许修正、承认结论限度，并愿意接受同样审查；争胜术则把任何退让当失败，把语言漏洞当胜利。",
+            "现代交叉询问追求法律裁判，科学反驳依赖公开证据，心理访谈关心个人经验，它们都不等同古典反诘。跨思想连接只有在功能差异被保留时才有帮助，否则“不断问为什么”会抹掉各自的制度目的与证据标准。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "检验“诚实就是从不隐瞒”",
+          "paragraphs": [
+            "假定有人把诚实定义为从不隐瞒。可以问：为躲避追杀者的人保守藏身处是否不诚实？若他承认此处隐瞒正当，原定义便把正当行为错误排除。修正不能只是增加“除非情况特殊”，还要说明哪些理由构成特殊。",
+            "再问新的标准会不会过宽：只要自称为了好结果，欺骗都算诚实吗？这个反例迫使讨论区分尊重对方判断、避免不当伤害与维护私人边界。迁移的目标不是套用苏格拉底答案，而是复现前提、反例与修正之间的责任链。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "困惑不是终点奖杯",
+          "paragraphs": [
+            "对话从正在行动的自信出发，要求共同定义，再用已承认前提和反例检查它。失败告诉我们哪些说法不能维持，却不会自动提供相反真理。困惑有价值，因为它把含混自信转成一份具体的未偿理由清单。",
+            "这一方法仍欠两项说明：提问者的前提如何受审查，谈话如何从排错转向正面认识。《游叙弗伦》马上让第二项责任变得尖锐：即使众神或权威一致赞同一件事，我们是否已经知道它为什么是好的？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一所学校准备把“尊重”写成任何时候不得反驳长者。只举服从的好例子不够；若长者命令掩盖伤害，沉默是否仍是尊重？反例迫使参与者说明尊重针对人格、经验还是权力，并检查新定义会不会替任意命令提供保护。",
+      "nodeIds": [
+        "plato-01-interpretation"
+      ],
+      "checkIds": [
+        "plato-01-check-1",
+        "plato-01-check-2",
+        "plato-01-check-3",
+        "plato-01-check-4"
+      ],
+      "abilitySummary": [
+        "能区分反诘造成的不一致与已经证明的相反结论",
+        "能说明实例、定义、反例与修正怎样连续推进",
+        "能把角色声音、可能的作者安排与后世解释分开"
+      ],
+      "recommendedNextLessonId": "plato-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-02",
+      "order": 2,
+      "title": "虔敬是否只由神的喜爱决定",
+      "depth": "deep",
+      "guidingQuestion": "游叙弗伦起诉父亲时自称知道虔敬，苏格拉底为什么把他的信心推向“神为何喜爱”的难题？",
+      "coreExplanation": "《游叙弗伦》让宗教权威、道德理由与家庭责任在法庭门廊相撞。著名两难不是简单宣布道德独立于神，而是区分一件事之所以虔敬的根据与众神喜爱它的结果。若喜爱创造价值，价值似乎任意；若因其本已虔敬而喜爱，喜爱便不是定义。后续关于照料、服务和献礼的尝试又暴露人神交换模型的不足，对话仍以未决收束。",
+      "sections": [
+        {
+          "heading": "法庭门廊上的两宗不虔敬指控",
+          "paragraphs": [
+            "苏格拉底正要面对败坏青年和不敬城邦神明的控告，游叙弗伦却来起诉自己的父亲：一个雇工杀人，父亲把他捆起等待宗教裁决，雇工在等待中死去。家人说起诉父亲本身不敬，游叙弗伦则确信神法支持自己。",
+            "这个相遇让定义具有双重风险。苏格拉底若能向一位宗教专家学到虔敬，也许能回应法庭指控；游叙弗伦若说不清自己依据什么，起诉便可能以神圣之名越过知识。两人的案子互照，使追问不只是词义游戏。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "problem"
+        },
+        {
+          "heading": "定义要说明同一形式",
+          "paragraphs": [
+            "游叙弗伦先说虔敬就是他现在所做的：惩罚犯罪者，无论对方是谁。苏格拉底指出这只是一个行为实例；他要的是使所有虔敬行为成为虔敬的同一性质。没有这一层，其他案件无法由当前起诉获得判断标准。",
+            "游叙弗伦援引宙斯惩罚父亲克洛诺斯的神话，却又面对神话内部众神争执。若神们对正义、美好与可耻意见不同，同一行为可能被一些神爱、被另一些神恨。定义必须避免让同一事物同时虔敬又不虔敬。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "concept"
+        },
+        {
+          "heading": "被喜爱与之所以值得喜爱",
+          "paragraphs": [
+            "游叙弗伦修正说，所有神都喜爱的才虔敬。苏格拉底随即问：虔敬之物因为虔敬而被神喜爱，还是因为被神喜爱才成为虔敬？两种方向不能混在一句话里，因为“被喜爱”描述受到的作用，“虔敬”原本要说明自身是什么。",
+            "若神因为一件事已经虔敬才喜爱它，那么众神喜爱只是虔敬的后果或标志，不是本质定义。若喜爱本身使它虔敬，理由便似乎停在意志事实上；即使神意一致，我们仍会问这种意志凭什么值得服从。两难攻击的是解释方向。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "起诉父亲能否靠神话类比成立",
+          "paragraphs": [
+            "游叙弗伦把自己比作宙斯：既然最高神也惩罚父亲，他起诉父亲便虔敬。但类比跳过了关键差异，包括雇工死亡是否由父亲造成、等待裁决是否合理、凡人与神的责任是否相同。一个受尊崇故事不能替代案件事实。",
+            "苏格拉底没有因此断言游叙弗伦起诉必错。他追问的是对方是否拥有足以承担行动的知识。这里应区分结论与理由：某次起诉可能碰巧正当，但若理由依赖未经检验的神话类比，行动者仍不能声称知道虔敬。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "两难会不会把神圣传统预先排除",
+          "paragraphs": [
+            "一种反对认为，神的本性本就完美善良，因此“神所喜爱”与“本身善”不会分离。这样既非任意命令，也非外在标准约束神。这个回应指出两难可能把神意想得过于像偶然偏好。",
+            "但回应仍欠说明：我们怎样理解“完美善良”，又怎样辨认某项命令确实表达这种本性？若答案仍是“因为神如此命令”，解释会回到循环；若借独立的善概念说明神性，道德理由至少在理解上没有被意志事实取代。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从众神喜爱转向照料与献礼",
+          "paragraphs": [
+            "《游叙弗伦》9e至11b展开著名两难，但对话没有在那里结束。游叙弗伦又把虔敬说成正义中照料神的一部分。苏格拉底追问照料通常使被照料者变好；人类的虔敬若不能改善神，所谓照料究竟是什么？",
+            "“照料”随后变成服务，再变成祈祷与献祭的交换技艺。人向神求取所需，献上神所喜爱之物。苏格拉底指出，这又把虔敬带回“神所喜爱”，而游叙弗伦匆忙离开。循环结构表明交换模型没有提供新的理由。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "两难没有替所有神学争论判决",
+          "paragraphs": [
+            "对话中的神是希腊多神传统中的争执者，后世一神论关于神性、本质与命令的理论背景不同。直接说苏格拉底已经驳倒一切宗教伦理，会忽视回应空间，也把局部论证扩成历史裁决。",
+            "同样，不能把两难缩成“道德必须完全世俗”。它真正逼问的是规范理由能否只由权威态度构成。宗教传统仍可能提供共同体记忆、实践塑造与道德洞见，但这些功能不自动回答某个行动为何正当。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从一致性检验到理由来源",
+          "paragraphs": [
+            "前一场反诘主要检查定义与承诺是否冲突；这里又增加了解释的不对称。某物被看见，因为有人看它；但它不是因为“被看见”才拥有全部性质。类似地，被喜爱是一种关系状态，未必构成值得喜爱的理由。",
+            "这一推进会在《理想国》中重现：正义是否只是强者命令，还是灵魂与共同生活自身的良好秩序？它也会在《斐德若》的修辞讨论中出现：听众被说服这一事实，是否足以证明言说为真？权威效果与规范根据必须分开。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "温度计造成发烧吗",
+          "paragraphs": [
+            "可靠温度计会在发烧时显示高温，但显示高温不是身体发烧的原因。若把可靠标志误当构成根据，就会说身体因读数而热。众神一致喜爱或许被当作虔敬的可靠标志，苏格拉底问的正是它是否还承担“使之虔敬”的工作。",
+            "类比也有边界：神的判断不是机械仪器读数，信徒可能认为神意具有创造性权威。此时争论应明确落在构成关系，而不是用温度计偷渡答案。好的例子帮助分离概念，却不能代替争议前提。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "命令、法律与理由",
+          "paragraphs": [
+            "法律因合法程序颁布而具有制度效力，但一项法律是否正义仍可另问。父母命令可能拥有照护经验，却不因此免于伤害检验。神命论把这种关系推到最高处：规范效力与道德正确是否能够完全重合？",
+            "后世自然法、康德自律与神命论给出不同回答。把它们都塞回游叙弗伦口中会扭曲文本；更稳妥的连接是保留同一个问题结构，再分别说明各理论如何处理任意性、权威识别与理由可理解性。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "“平台允许所以可以做”够不够",
+          "paragraphs": [
+            "某平台允许收集一种数据，这说明行为符合平台规则，却不直接说明行为尊重当事人。若规则因为实践本已正当才允许它，允许是结果；若允许本身创造正当性，就必须解释平台为何拥有这种道德权威。",
+            "反对者可以说加入平台即表示同意。回应要继续检查同意是否知情、能否拒绝、退出成本多高。这样，游叙弗伦式追问没有给出现成政策，而是迫使“允许”“同意”“正当”之间的解释方向清楚起来。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "虔敬仍在逃离定义",
+          "paragraphs": [
+            "实例、神话、众神一致、照料、服务和交换依次失败。每次失败都把问题推深一层：不仅要识别虔敬行为，还要说明它为何有这种价值，以及权威态度在解释中处于原因、标志还是后果的位置。",
+            "游叙弗伦离开后，苏格拉底仍须面对城邦法庭。若个人良知能质问神圣与法律权威，他在被判刑后又为何拒绝逃走？《申辩》与《克里同》将把审查生活、服从和受不义之间的张力放进同一条生命。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一名官员说某项惩罚是正当的，因为规则如此规定。追问不是立刻否认规则，而是区分：规则因惩罚本已正当而确认它，还是规定本身创造正当？若后者成立，任意规则如何受批评；若前者成立，官员还欠一套独立理由。",
+      "nodeIds": [
+        "plato-02-interpretation"
+      ],
+      "checkIds": [
+        "plato-02-check-1",
+        "plato-02-check-2",
+        "plato-02-check-3",
+        "plato-02-check-4"
+      ],
+      "abilitySummary": [
+        "能解释众神喜爱与虔敬之间两种因果方向",
+        "能追踪照料、服务与交换方案为何回到原点",
+        "能把权威效力、可靠标志与规范根据分开"
+      ],
+      "recommendedNextLessonId": "plato-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-03",
+      "order": 3,
+      "title": "审查生活与服从法律的张力",
+      "depth": "deep",
+      "guidingQuestion": "苏格拉底在法庭上宁死也不停止追问，却在狱中拒绝逃走；这两种选择怎样可能属于同一种正义要求？",
+      "coreExplanation": "《申辩》中的苏格拉底把哲学审查理解为神命与公共服务，宁可承受死亡也不以不义换生存；《克里同》则让朋友的逃亡劝说遭遇“不以恶报恶”和拟人化法律的反驳。两篇不能压成盲从：法庭上的他公开批评城邦，曾拒绝违法命令；狱中的论证关乎约定、受益、说服与破坏法律秩序。它仍面临不义法律、沉默同意和家庭责任的压力。",
+      "sections": [
+        {
+          "heading": "同一个人为何既抗命又不逃",
+          "paragraphs": [
+            "法庭上，苏格拉底说即使陪审团提出释放条件，要求他停止哲学活动，他也不会服从；狱中，克里同安排好钱、人脉和藏身处，他却拒绝越狱。若只各摘一句，前者像绝对良知，后者像绝对守法，两者似乎冲突。",
+            "理解必须回到两次抉择各自针对的行动。停止追问意味着亲手放弃他认为正当的使命；越狱则要求破坏已经接受审判的法律程序。共同问题不是“服从还是反抗”，而是人在威胁下能否避免主动成为不义的实施者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "未经审查的生活",
+          "paragraphs": [
+            "《申辩》38a那句“未经审查的生活不值得人过”出现在量刑阶段，不是日常自我优化口号。审查首先针对自以为知道善、正义和德性的人，包括政治家、诗人与工匠，也包括苏格拉底自己。",
+            "“不值得”不能轻率读成某些人的生命没有价值。角色苏格拉底是在说明他为何不能接受沉默换生存：若生命只靠逃避检验延长，它会失去使他能够对善负责的活动。命题的范围与说话处境必须一起保留。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "concept"
+        },
+        {
+          "heading": "宁受不义，不行不义",
+          "paragraphs": [
+            "《克里同》先建立几项承诺：不应故意作恶；受了不义也不应以不义回报；破坏正当约定是一种不义。克里同同意后，问题才转向越狱是否破坏了与城邦法律的关系。结论依赖这些前提，不是“法律说什么都做”。",
+            "拟人化法律声称，城邦使苏格拉底出生、受养育、接受教育，并长期允许公民说服法律或离开。苏格拉底七十年居住且参与制度，似乎形成某种约定。越狱会绕过说服程序，并帮助削弱判决的可执行性。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "三十僭主命令逮捕莱昂",
+          "paragraphs": [
+            "《申辩》32c至32e回忆，三十僭主命令苏格拉底与其他人把萨拉米斯的莱昂带去处死。他认为命令不义，冒生命危险独自回家。民主政体时期，他也曾抵制集体非法审判将军的压力。",
+            "这些经历限制了服从论的范围：苏格拉底并不把实际掌权者命令等同法律正义。他愿意承担抗命后果，却不愿亲手实施不义。狱中问题因此更窄：已经经过审判的判决，即使错误，是否可由私人秘密破坏。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "case"
+        },
+        {
+          "heading": "如果法律要求迫害无辜者",
+          "paragraphs": [
+            "设想制度明确禁止某群人受教育，并惩罚帮助他们的人。长期居住者是否因受益和未离开就同意这种法律？若答案仍是必须服从，拟人化法律的父母类比会把公民降为永远不能质问的孩子。",
+            "回应可以区分服从具体不义命令、接受法律后果与维护整体法秩序，但区分并不自动解决难题。某些抗争必须公开违反法律才能使被排除者发声；“说服或离开”也可能在没有政治权利、迁移能力时成为虚假选择。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "《申辩》与《克里同》的不同舞台",
+          "paragraphs": [
+            "《申辩》20c至24b让苏格拉底解释德尔斐神谕与他的审查使命，28b至38a则呈现死亡威胁下的坚持。《克里同》44b至49e先处理朋友名声、钱财和家庭顾虑，50a以后才让法律以长篇演说加入。",
+            "法律的声音是苏格拉底设想出来并代为回答的戏剧声音，不等于柏拉图直接颁布法哲学。克里同在后半段几乎沉默，这既可显示论证力量，也可能提示对话条件不对称；解释者不应把沉默额外算成已证明前提。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "守法不等于崇拜判决",
+          "paragraphs": [
+            "苏格拉底持续说判决者伤害的是自己而非真理，这表明他没有承认裁决正确。他接受刑罚与赞同判决是两件事。若把接受后果读成认可全部法律内容，就无法解释他在法庭上对城邦多数的尖锐批评。",
+            "另一方面，把他塑造成现代公民抗命理论家也会越界。他没有系统说明公开违法、非暴力、申诉穷尽或民主正当性等条件。后世可以从张力中得到资源，却必须承认这些条件是后来补出的。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "灵魂受损为何比死亡更坏",
+          "paragraphs": [
+            "两篇都把行动者成为什么样的人置于结果之前。死亡、流放和财产损失是外在伤害；故意作恶则使灵魂的正义秩序受损。若这个价值排序不成立，拒绝逃亡便很难理解，因为逃亡显然能保存生命并照顾家人。",
+            "这一点将通向《理想国》的核心任务：证明正义不只带来名声与奖赏，而在灵魂内部本身有益。《克里同》目前把“不以恶报恶”当作已同意前提，后来的城邦与灵魂模型要承担更完整的解释。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "connection"
+        },
+        {
+          "heading": "接受裁判规则与接受错误判罚",
+          "paragraphs": [
+            "比赛参与者接受裁判制度，不代表每个判罚都正确；但若每当不利便私自改分，比赛也无法维持。类比帮助说明制度稳定与个别正确不同，也解释为何错误判决仍可能产生某种约束。",
+            "然而城邦不是自愿娱乐，退出代价可能是家园、亲属与生计，法律还会深刻塑造选择能力。因此比赛类比不能证明沉默同意，只能提出问题：制度如何让异议者拥有真实说服渠道，并在严重不义时保留纠正机制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "良知、契约与公民抗命",
+          "paragraphs": [
+            "良知论强调个人不得实施自己判断为恶的行动，契约论强调共同制度因同意或公平受益产生义务，公民抗命则研究公开违法如何诉诸更高政治原则。《申辩》与《克里同》触及三者，却没有把它们整理成单一理论。",
+            "若只选择其中一面，文本张力会消失。苏格拉底的良知不是私人偏好，而自称受理性审查与神命约束；他对法律的关系也不是无条件契约，因为他明确保留劝说与拒绝不义命令的位置。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "专业人员面对违法命令",
+          "paragraphs": [
+            "一名公务人员被命令销毁依法应公开的证据。服从上级可维护组织纪律，拒绝则可能丢掉职位。苏格拉底的莱昂案例要求先问：执行命令会不会让本人直接参与不义，而不是只计算个人损失。",
+            "若他拒绝并公开承担后果，是否还应秘密复制资料？这又触及《克里同》的压力：纠正不义是否必须使用制度许可手段，制度若封闭又怎么办。两篇提供冲突结构，而不会替陌生制度自动生成唯一行为。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "服从问题被推回正义本身",
+          "paragraphs": [
+            "法庭上的坚持与狱中的拒逃共同受“不主动行不义”约束。神命、审查生活、法律约定和法秩序稳定分别提供理由，却没有证明任何实际法律都正义，也没有消除严重不义下公开违法的可能。",
+            "下一步《高尔吉亚》先把灵魂的价值排序放进公共说服、权力和快乐的冲突中，检验“宁受不义不行不义”能否抵住卡利克勒斯的挑战；随后《美诺》再追问德性知识与探究如何可能。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一位医生被医院要求隐瞒会危及病人的系统错误。她既受保密与组织程序约束，也承担避免伤害的专业责任。若内部申诉被封锁，公开披露可能破坏规则却阻止更大不义；苏格拉底两次选择迫使判断者说明自己拒绝做什么、愿意承担什么后果。",
+      "nodeIds": [
+        "plato-03-interpretation"
+      ],
+      "checkIds": [
+        "plato-03-check-1",
+        "plato-03-check-2",
+        "plato-03-check-3",
+        "plato-03-check-4"
+      ],
+      "abilitySummary": [
+        "能用不行不义的共同前提解释抗命与拒逃",
+        "能区分接受刑罚、认可判决与无条件守法",
+        "能指出受益同意、说服或离开以及不义法律的压力"
+      ],
+      "recommendedNextLessonId": "plato-gorgias",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-gorgias",
+      "order": 4,
+      "title": "修辞拥有力量时为何仍可能只是逢迎",
+      "depth": "deep",
+      "guidingQuestion": "如果一个人能让法庭和公民大会相信自己，他是否已经掌握了真正的政治技艺与幸福生活？",
+      "coreExplanation": "《高尔吉亚》从修辞能造成何种说服出发，把问题推进到权力、惩罚、快乐与善。苏格拉底要求技艺说明对象的好处，而不只制造愉快效果；波罗斯和卡利克勒斯则迫使他证明，行不义为何比受不义更坏，节制为何胜过欲望无限扩张。对话没有让反方只充当错误答案，末尾神话也不能替中间论证补票。",
+      "sections": [
+        {
+          "heading": "说服成功为何仍可能没有知识",
+          "paragraphs": [
+            "高尔吉亚以能在法庭和公民大会说服人为修辞力量。可是听众在有限时间内可能只形成相信，并未获得关于健康、工程或正义的知识。能改变投票与能说明事情为何如此，是两种成就。",
+            "若把结果影响力当成知识，最熟悉听众恐惧的人会压过真正理解对象的人。问题不是修辞有没有效果，而是效果受什么真理和善约束。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "技艺与逢迎怎样分开",
+          "paragraphs": [
+            "苏格拉底把医术、体育等技艺理解为能说明对象之善和做法原因的活动；烹调若只追求即时愉快，却不问身体实际健康，就像医术的影子。修辞在不知正义时也可能成为政治生活中的烹调。",
+            "这项区分不能粗暴化为愉快都坏。医治也可令人舒适，言说也需可听；真正分界在于愉快是否服从对象之善，行动者能否解释并接受反证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "能做想做之事为何可能仍然无力",
+          "paragraphs": [
+            "波罗斯认为僭主能杀戮、放逐、没收，所以最有力量。苏格拉底区分眼前想做的手段和行动者真正为了它追求的善：人服药不是为了苦味，而为了健康。若判断错误，随意执行命令可能使人离真正所欲更远。",
+            "推论不是说政治行动都无效，而是说权力需要正确判断目标。一个人越能无阻实现坏判断，损害越大；执行能力与生活过得好不能用同一尺度登记。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "阿刻劳斯的成功能否证明幸福",
+          "paragraphs": [
+            "波罗斯举马其顿统治者阿刻劳斯，以夺权和免罚说明不义者可以幸福。苏格拉底拒绝仅凭财富、职位和安全裁决灵魂状态，坚持必须知道他是否正义。案例拿走外部成功作为快捷证据。",
+            "反过来，苏格拉底也不能只重复正义更好。他必须解释行不义如何损害行动者，而惩罚若真能纠正灵魂，为什么受罚可能比逃罚更好。对话由此把刑罚从报复改写为有争议的医治比喻。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "卡利克勒斯拒绝用羞耻结束争论",
+          "paragraphs": [
+            "卡利克勒斯说习俗由弱者制定，用节制束缚天性更强者；真正幸福是让欲望增长并有能力满足。这个主张不接受普通体面作标准，因此比高尔吉亚和波罗斯因羞耻退让更难处理。",
+            "苏格拉底用漏缸和不断抓痒等图景追问：若满足必须依赖永不停止的缺乏，行动者究竟掌握生活，还是被欲望持续驱赶？但图景本身不能证明节制，仍需快乐与善可分的论证。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "快乐为什么不能与善完全重合",
+          "paragraphs": [
+            "人可以在解除痛苦时同时感到快乐，例如饥渴得到填补；善与恶却不能以完全相同方式同时属于同一人。苏格拉底还让对方承认有好快乐和坏快乐，若快乐需要按另一尺度分类，它就不是最终尺度。",
+            "这一论证保住的是区分压力，不是完成所有快乐理论。哪些快乐好、尺度从何而来仍待说明，《斐利布》后来会用真假、纯杂、限与混合重新处理。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "从449a的定义到527e的神话",
+          "paragraphs": [
+            "449a以后，高尔吉亚把修辞规定为说服，454b至466a区分知识与信念、技艺与逢迎；466a至481b由波罗斯把争论推向僭主权力、行不义和惩罚。481b以后卡利克勒斯以自然强者与欲望生活发起最强挑战。",
+            "523a至527e的死后审判神话把赤裸灵魂接受裁决写成结尾。它显示苏格拉底愿按何种风险生活，却不改变前面各步的证据身份：角色论证、比喻和神话必须分开。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "惩罚医治不能成为强制通行证",
+          "paragraphs": [
+            "若惩罚像医治，执行者必须知道何为灵魂之善、手段是否真能改善、权力是否会借医治名义报复。对话没有提供现代程序、证据和比例原则，不能直接替国家强制授权。",
+            "同样，“宁受不义不行不义”强调行动者责任，却不能要求受害者被动留在危险中。避免自己作恶与阻止持续伤害可以并存，具体保护仍需制度判断。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "政治问题被推进到灵魂与知识",
+          "paragraphs": [
+            "修辞若只制造信念便是逢迎，执行能力若离开善判断便不是真正力量，快乐若有好坏便不能独占幸福尺度。卡利克勒斯的挑战迫使节制与正义给出比体面更深的理由。",
+            "下一步《美诺》会问，若我们连德性是什么都不知道，怎样寻找这种知识；《理想国》则会把行不义损害灵魂的主张展开成城邦与灵魂结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "某位候选人凭精准煽动恐惧赢得多数支持，却无法说明政策事实。胜选证明说服有效，不证明他懂共同善；若反对者只嘲笑听众愚蠢，也没有建立更好的公共理由。",
+      "nodeIds": [
+        "plato-gorgias-interpretation"
+      ],
+      "checkIds": [
+        "plato-gorgias-check-1",
+        "plato-gorgias-check-2",
+        "plato-gorgias-check-3",
+        "plato-gorgias-check-4"
+      ],
+      "abilitySummary": [
+        "能区分制造信念与传授知识",
+        "能重建权力、欲望与善的论证链",
+        "能限制惩罚医治和末尾神话的证明强度"
+      ],
+      "recommendedNextLessonId": "plato-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-04",
+      "order": 5,
+      "title": "不知道答案时如何开始寻找",
+      "depth": "deep",
+      "guidingQuestion": "美诺要求定义德性，却在反诘后提出探究悖论；苏格拉底怎样既承认困惑，又避免把探究宣布为不可能？",
+      "coreExplanation": "《美诺》把“德性可教吗”退回“德性是什么”，再由失败定义逼出探究悖论：已知无需找，未知又无法识别。苏格拉底以回忆说和奴童几何问答回应，展示提问能把自信错误变成可检验意见；这没有简单证明答案早存心中。对话后段以假设法考察德性与知识，又因缺少教师转向真意见。知识比真意见稳定，因为被原因说明系住，但德性、教导与神赐仍未决。",
+      "sections": [
+        {
+          "heading": "“德性可教吗”为什么不能直接回答",
+          "paragraphs": [
+            "美诺开场连续追问德性是教来的、练成的还是天生的，仿佛选项已经完整。苏格拉底却说自己连德性是什么都不知道；若不知道对象的同一性质，就无法判断它由何种方式获得。问题次序因此从来源退回定义。",
+            "美诺列举男人治理城邦、女人治理家庭、儿童与奴隶各有德性。苏格拉底指出，蜜蜂虽有许多个体，我们仍问它们作为蜜蜂共有何物。不同角色的好表现或许不同，却不能取代使这些表现同属德性的说明。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "探究悖论与识别标准",
+          "paragraphs": [
+            "反复失败后，美诺把苏格拉底比作使人麻木的电鳐，并提出难题：若已经知道，何必探究；若完全不知道，凭什么寻找，又凭什么认出找到的正是目标？悖论把困惑从心理不适提升为方法挑战。",
+            "难题依赖全知与全无知的二分。实际探究常从部分线索开始：知道问题领域、能排除矛盾答案、保留若干实例，却没有完成定义。苏格拉底没有直接用这套现代说法回答，而以回忆神话和一场问答示范探究如何发生。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "奴童从自信错误走向可求证",
+          "paragraphs": [
+            "苏格拉底在地面画正方形，问怎样得到面积加倍的正方形。奴童先自信回答边长加倍，继而看见面积会变为四倍。反诘没有把正确长度告诉他，而使他承认旧答案错误，并愿意继续追踪图形关系。",
+            "随后问题引向原正方形的对角线。关键不只是得出几何答案，而是状态改变：奴童从不知道自己错，变成知道自己尚不知，再借图形关系形成较可靠判断。苏格拉底把这种可唤起性解释为灵魂回忆，论证强度仍需检验。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "画在沙地上的几何",
+          "paragraphs": [
+            "几何例子承担可见约束。奴童每次回答后都能在同一图形上检查面积，不必只服从苏格拉底声望。问答者虽然控制问题次序，图形关系却给错误留下抵抗位置，这使谈话不同于纯暗示。",
+            "但苏格拉底的问题包含大量方向提示，并非无内容输入。若把“没有直接告知结论”说成“没有提供任何信息”，便夸大了回忆证明。示范至少显示引导、先有概念与主动推理的复杂关系，却未单独排除经验学习。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "正确回答可能来自提示而非前生知识",
+          "paragraphs": [
+            "反对者可以说，奴童学会的是跟随精心排列的问题；换一种图形或让他独立证明，表现未必保持。一次成功无法证明灵魂在出生前掌握几何，只能证明当前互动足以形成某种正确意见。",
+            "回应若要维护回忆说，必须说明感官图形为何不足以产生普遍几何关系，以及提问如何只唤醒而不传授。即便接受先天结构，也还要区分结构、概念能力与完整命题知识，不能把它们统称为早已知道。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从79e的困惑到98a的系缚",
+          "paragraphs": [
+            "《美诺》79e至86c连起电鳐比喻、探究悖论、回忆说与奴童问答。86c以后，苏格拉底建议用几何式假设法暂问：若德性是知识，它可教；于是必须检验德性是否知识，而不是把假设当结论。",
+            "96d至100b又区分真意见与知识。知道道路的人和持真意见的人都能带队到拉里萨，但真意见会逃走；经过原因说明的系缚才成为知识。文本没有清楚交代这种说明是否就是回忆，连接仍由解释承担。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "神话、示范与证明不能混同",
+          "paragraphs": [
+            "苏格拉底引述祭司、女祭司和诗人关于灵魂不死与回忆的说法，自己愿为“应当勇敢探究”而坚持其中一部分。神话给探究提供伦理动力，但叙事权威不等于严格证明。",
+            "奴童示范支持“困惑并未使学习停止”，却不足以决定知识从何而来。若把方法成功直接提升为灵魂先存，便跨过了替代解释；若因证明不足而删掉回忆，又会失去对话用来破解消极悖论的正面图景。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "真意见为何需要原因说明",
+          "paragraphs": [
+            "一个偶然猜中路线的人能带来正确结果，却不知道判断为何可靠，也无法在相似岔路保持。原因说明把答案放进关系网络，使人能回应反例、迁移判断并发现错误来自哪一步。稳定不是心理确信，而是理由结构。",
+            "这会通向《泰阿泰德》的难题：把知识定义为真判断加说明是否足够，说明又是什么？它也为《斐多》的回忆论证准备材料：我们怎样由不完全相等的感官对象想到“相等本身”？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "拼图边缘并非完整图像",
+          "paragraphs": [
+            "不知道拼图最后图像，并不表示手中毫无线索。边缘形状、颜色连续与已经拼合的区域可以排除错误位置；找到一块时，也能由多重吻合认出它。探究介于全知和全无知之间。",
+            "类比仍欠缺一个问题：拼图盒通常预先保证有唯一成图，哲学问题却可能连目标定义都在争议。反诘的作用就是同时修订目标与答案标准，因此不能假定寻找只是把预存答案放回固定空位。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "回忆与先验条件",
+          "paragraphs": [
+            "后世理性主义会强调某些知识不来自感官，康德则讨论经验何以可能的先验形式。这些理论与回忆说都反对把心灵写成被动白板，却对灵魂先存、概念来源和证明方式有重大差异。",
+            "把康德称为柏拉图回忆说的简单继承者会抹去差别。更可靠的连接是共同追问：感官材料能否独自解释普遍必然判断；随后分别检查每种理论额外承担了哪些形而上承诺。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "从猜中规则到能解释规则",
+          "paragraphs": [
+            "一个人观察三组数列后猜中下一项，却无法解释生成规则。新数列稍作变化，他便失去方向。这相当于真意见有用但未系住；要求说明关系并用反例测试，才能知道答案是否可迁移。",
+            "若说明只是重复答案，仍没有增加知识。有效说明应指出为何这些项属于同一模式、什么变化会使规则失效。美诺的压力因此不是强迫写长理由，而是让正确判断拥有可检验的依赖关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "探究重新启动但没有封口",
+          "paragraphs": [
+            "德性定义失败制造困惑，探究悖论企图把困惑变成停止理由。回忆神话和奴童示范表明提问、图形与部分能力可以推动认识；假设法又允许暂时绕过未解定义，检查条件关系。",
+            "然而德性是否知识、是否可教以及雅典为何缺少稳定教师仍悬而未决。灵魂先存也只得到初步支持。《斐多》将在苏格拉底临终场景中把回忆、形式与灵魂不死连接成更高风险的论证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一名新人第一次判断设备故障，凭经验猜中损坏部件，却说不出信号与部件之间的关系。导师不直接给答案，而用反常读数逼他撤回错误规则，再让他解释为何新诊断能覆盖全部数据。结果从偶然正确变成可复核判断。",
+      "nodeIds": [
+        "plato-04-interpretation"
+      ],
+      "checkIds": [
+        "plato-04-check-1",
+        "plato-04-check-2",
+        "plato-04-check-3",
+        "plato-04-check-4"
+      ],
+      "abilitySummary": [
+        "能说明探究悖论依赖全知与全无知的二分",
+        "能区分奴童示范支持的探究可能与灵魂先存证明",
+        "能解释真意见被原因说明系住为何更稳定"
+      ],
+      "recommendedNextLessonId": "plato-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-05",
+      "order": 6,
+      "title": "临终谈话中的灵魂与形式",
+      "depth": "deep",
+      "guidingQuestion": "苏格拉底饮下毒药前为何把哲学说成预演死亡，又为什么同伴仍能逐次反驳灵魂不死的论证？",
+      "coreExplanation": "《斐多》把哲学论证置于临终共同体。苏格拉底以相反者循环、回忆、亲和性和最后论证支持灵魂不死，每条论证对象和强度不同。西米亚斯的和谐说与克贝斯的织工比喻准确攻击“灵魂先于身体”尚不能推出“灵魂永不毁灭”。形式论在最后论证中解释事物为何具有性质，并让灵魂作为生命携带者不能接受死亡；但从不接受死亡到离身存续仍有争议。反对不是背叛，而使信念避免厌论。",
+      "sections": [
+        {
+          "heading": "朋友们为何没有用敬意停止追问",
+          "paragraphs": [
+            "斐多向厄刻克拉底回述苏格拉底最后一天。奇异的快乐与悲伤交织：朋友即将失去他，却见他平静论证。场景会增强言说权威，也可能诱使听者因敬爱降低检验，因此文本让西米亚斯和克贝斯继续提出强烈异议。",
+            "苏格拉底说真正哲学家预演死亡，因为求知试图让灵魂不受身体欲望与感官混乱牵制。这不是鼓励自杀；他同时以人属于神为由反对擅自离岗。预演死亡指向认知与欲望的分离，仍需证明灵魂可独立存在。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "形式是解释标准而非第二件漂亮物",
+          "paragraphs": [
+            "感官中的两根木棍在某方面相等，又会因比较对象变化而显得不等。回忆论证说，我们仍用“相等本身”衡量它们，并发现实例不足。形式在这里承担稳定标准，不只是另一个看不见的物体。",
+            "若把形式理解成漂浮在另一世界的复制品，便错过解释任务：众多美物为何都可称美，变化实例如何被同一判断衡量。文本借分有、在场与模仿等词尝试关系，却没有提供一套无困难的单一机制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "四条论证不能揉成一条",
+          "paragraphs": [
+            "循环论证从相反者彼此生成出发，认为活者来自死者；回忆论证由我们对相等本身的把握推向灵魂出生前存在；亲和性论证把不可见、同一、神圣的灵魂与可见、复合、易散的身体比较。",
+            "最后论证换用形式因果：三不接受偶数，火不接受冷，灵魂无论到哪里都带来生命，因此不接受死亡。前两条至多支持先存或循环，亲和性多为相似性推断，最后一条才试图由灵魂本质排除死亡；各自缺口不能互相遮掩。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "琴弦和谐与穿坏多件外衣",
+          "paragraphs": [
+            "西米亚斯提出灵魂像琴弦和谐：和谐不可见且优美，却依赖琴身与弦，乐器毁坏时先消失。若灵魂只是身体组织状态，亲和性不能证明离身存续。苏格拉底借已接受的回忆先存指出，和谐不能先于组成它的乐器。",
+            "克贝斯让灵魂像活过多件外衣的织工。织工比衣服长寿，不表示最后不会死亡；灵魂经历多个身体也不推出永不毁灭。这个异议精准区分长期存续与不可毁灭，迫使最后论证说明灵魂为何在本性上排斥死亡。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "case"
+        },
+        {
+          "heading": "不接受死亡是否等于不会毁灭",
+          "paragraphs": [
+            "火在场时不接受冷，但火可以熄灭而非变冷。类似地，即使灵魂带来生命、活着时不死亡，它是否可能在死亡来临时离去并消散？“不能成为死灵魂”与“灵魂永远存在”之间似乎还有一步。",
+            "支持者会说最后论证把灵魂归入不可灭者，而非普通性质载体；反对者则要求独立证明这种归类。争点落在“灵魂”定义是否已经包含永恒，若是，论证可能循环；若不是，就要说明生命形式如何保证个体存续。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从69e到107b的修正次序",
+          "paragraphs": [
+            "69e至84b展开早期论证后，84c出现长久沉默，西米亚斯与克贝斯担心打扰苏格拉底。苏格拉底鼓励他们说出疑虑，并警告不要因论证失败而憎恨一切论证。厌论像因遇见坏人便憎恨所有人，是缺少辨别。",
+            "95a以后，苏格拉底回述自己寻找自然原因、接触阿那克萨戈拉并转向言说中的第二次航行。形式不只是灵魂论附件，而是回答“为何如此”的解释框架。最后论证由此出现，却仍在神话性死后图景之前保持论证与叙事分层。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "苏格拉底的平静不是结论证据",
+          "paragraphs": [
+            "临终从容可以显示一个信念怎样塑造生命，却不能证明信念对象真实。若把人格勇气当作灵魂不死的证据，就把实践见证与逻辑支持混同；同样坚定的人可能持相反形而上看法。",
+            "反过来，论证有缺口也不表示场景只剩文学感动。对话把死亡恐惧、友谊和理由检验放在一起，显示哲学判断发生于有限生命。论证边界越清楚，苏格拉底愿受反驳的实践意义越突出。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "形式论从认识问题进入因果问题",
+          "paragraphs": [
+            "《美诺》用回忆解释探究，《斐多》又问为何感官实例总不够标准，并进一步让形式解释性质：美物因美本身而美。这里的“因”不等同推动或材料原因，而说明某物凭什么被正确归入一种性质。",
+            "《巴门尼德》会追问分有如何可能、形式是否无限增生。《理想国》则把形式与知识对象、善和教育连接。当前不能把后来压力预先消除；形式论的力量与债务都从这种解释扩张中产生。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "旋律能否离开乐器",
+          "paragraphs": [
+            "旋律可由不同乐器演奏，似乎不等于任何一件乐器；但一次具体演奏仍依赖物理过程。这个例子帮助区分模式与实现，也让和谐反对更强：不可见结构未必是独立实体。",
+            "灵魂是否像旋律正是争点，例子不能先行决定。若灵魂能回忆出生前形式，它不同于身体产生的和谐；但回忆前提若受质疑，反驳力量也随之下降。论证网络的依赖必须透明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "实体灵魂与人格延续",
+          "paragraphs": [
+            "证明某种灵魂实体存续，还不等于证明记忆、性格和关系构成的这个人存续。克贝斯的异议已经逼近个体问题：即使灵魂多次转生，什么保证它仍是同一个可负责主体？",
+            "后世心身二元论、亚里士多德形质论与当代人格同一理论给出不同标准。把它们称作《斐多》的答案会错置历史；连接应明确区分生命原则、认知主体与个人身份三个问题。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "把相似性推断拆开",
+          "paragraphs": [
+            "有人说软件不可见、可复制、比硬件持久，因此软件能在没有任何硬件时存在。这和亲和性论证相似：若干共同性质支持类比，却未必支持独立存在结论。必须说明哪些相似与目标性质真正相关。",
+            "若程序可迁移到另一机器，只证明它不依赖原机器，不证明不依赖任何实现。对应到灵魂，离开一个身体与无需任何身体是不同命题。拆分结论可防止从相对独立跳到绝对不灭。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "论证因反对而获得形状",
+          "paragraphs": [
+            "四条论证逐步提高结论强度，西米亚斯与克贝斯分别攻击身体依赖和最终毁灭。苏格拉底没有靠临终权威压制疑虑，而是修正论证并警惕厌论。形式从衡量标准转为性质解释，承担更大责任。",
+            "灵魂不死仍有从类型到个体、从不接受死亡到持续存在的争议。下一步《理想国》暂不依赖死后奖赏，而接受格劳孔挑战：即使正义没有好名声，它能否凭灵魂自身结构成为值得选择的生活？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一套程序已从三台旧设备迁移成功。有人据此断言程序永远不会消失。先前迁移证明它不依赖某一台设备，却没有证明不依赖任何存储、运行环境或维护者；正如灵魂先存或长寿的论据仍未自动抵达个体不灭。",
+      "nodeIds": [
+        "plato-05-interpretation"
+      ],
+      "checkIds": [
+        "plato-05-check-1",
+        "plato-05-check-2",
+        "plato-05-check-3",
+        "plato-05-check-4"
+      ],
+      "abilitySummary": [
+        "能区分循环、回忆、亲和性与最后论证的结论强度",
+        "能说明和谐说与织工比喻分别攻击哪项前提",
+        "能指出形式解释与个体灵魂不灭之间仍欠的步骤"
+      ],
+      "recommendedNextLessonId": "plato-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-06",
+      "order": 7,
+      "title": "正义如何同时安排城邦与灵魂",
+      "depth": "deep",
+      "guidingQuestion": "格劳孔要求证明正义即使无人看见也值得选择，苏格拉底为何要建造一座言说中的城邦，并把它映回灵魂？",
+      "coreExplanation": "《理想国》的对话从老年、欠债与强者利益的定义争执，推进到格劳孔的魔戒挑战。苏格拉底以大字比小字更易读为由在言说中建城，寻找生产者、护卫者与统治者的功能秩序，再用欲望、激情和理性冲突区分灵魂部分。正义被说成各部分做自己的事并由理性统领，不只是不越界的社会服从。类比揭示结构，却面临阶层固定、功能差异与心理分部是否匹配的压力；城邦正义也不能由灵魂健康自动证明。",
+      "sections": [
+        {
+          "heading": "魔戒把名声从正义中拿走",
+          "paragraphs": [
+            "第一卷中，刻法洛斯说正义是说真话还债，玻勒马霍斯说帮助朋友伤害敌人，色拉叙马霍斯说正义是强者利益。苏格拉底逐一施压，却没有充分证明正义者生活更好；格劳孔因此要求把论证重开。",
+            "格劳孔讲古格斯戒指：若能隐身逃避惩罚，正义人与不义者都会越界。他还要求想象正义者背负坏名声、不义者享有好名声。若正义仍值得选择，它的好处必须在行动者内部，而非只靠奖赏与社会评价。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "在言说中放大正义",
+          "paragraphs": [
+            "苏格拉底说视力较弱的人先读大字，再读同样的小字。城邦被当作放大镜，因为众人分工与冲突比个体灵魂更可见。这个方法不是先断言城邦和灵魂完全相同，而是提出可回查的类比。",
+            "城邦从人的需要和分工生长。简朴城邦满足基本生活，格劳孔却称它为猪城，要求奢侈、战争与护卫者。政治结构因此不是从纯理性凭空设计，而由欲望扩大和冲突压力逐步逼出。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "从心理冲突到灵魂三分",
+          "paragraphs": [
+            "同一事物不能在同一方面同时做相反之事。口渴者想喝水，却可能因判断水有毒而拒绝；欲望推动，计算阻止，因此灵魂中至少有欲望与理性两种原则。论证由真实冲突而非人格标签出发。",
+            "激情由列昂提俄斯既想看尸体又对自己愤怒的故事显出。激情常与理性结盟反抗欲望，但儿童在形成理性前已有愤怒，说明它不简单等同理性。正义灵魂是理性统领、激情辅助、欲望接受适当秩序。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "欠武器与伤害朋友",
+          "paragraphs": [
+            "若朋友神志正常时寄存武器，后来疯狂索回，机械执行“还债”会造成伤害。这个反例让刻法洛斯的定义失败：常见正义行为不能脱离对象状态与后果成为无条件规则。",
+            "玻勒马霍斯把正义改为助友害敌，又承认人会误认朋友，而且伤害使人更坏。若正义是一种德性，它不能以制造更多不义为功能。第一卷的排除工作为后续结构论清场，却没有自动建立三分灵魂。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "各做其事会不会冻结社会身份",
+          "paragraphs": [
+            "若正义被简化为每个人永远留在出生职业，功能秩序会替阶层压迫辩护。文本虽用金银铜铁神话区分天性，也明确说金父母可能生铜子、铜父母可能生金子，统治者应按能力重新安置。",
+            "即使允许流动，谁判断能力、错误如何纠正、生产者为何缺少政治发言仍是难题。灵魂部分的协调不直接证明一群人应永久服从另一群人；从个体心理健康到制度权力分配需要额外规范前提。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从327a的港口到445e的健康类比",
+          "paragraphs": [
+            "第一卷发生在比雷埃夫斯，苏格拉底被朋友半强迫留下，开场已让说服与力量并置。第二卷357a以后，格劳孔和阿得曼托斯替不义作最强辩护；苏格拉底不是面对弱反方，而是回应朋友主动加固的挑战。",
+            "第四卷433a以后，城邦智慧、勇敢、节制既定，剩下的协调原则被认作正义；随后映回灵魂。444c把正义比作健康、不义比作疾病。类比说明内在秩序，却仍需防止把社会顺从医学化。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "城邦模型不是历史雅典报告",
+          "paragraphs": [
+            "言说中的城邦是论证构造，用来隔离功能、教育和欲望条件。它借斯巴达、雅典与希腊实践材料，却不是任何现实城邦的准确描述，也不能仅凭“柏拉图生活在动荡时代”解释其正当性。",
+            "“可能的作者立场”也需保留层次。苏格拉底主导建城，但格劳孔的推动、阿得曼托斯对诗教的关切及后续喜剧式反应都塑造意义。作者让模型承受反方压力，不等于每项制度细节同样得到认可。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从不行不义到解释灵魂受损",
+          "paragraphs": [
+            "《克里同》把不行不义当作决定前提，《理想国》试图说明为何：当欲望篡夺整体判断，灵魂内部发生奴役与冲突。正义的价值于是从外部奖赏转为能力协调和自我统治。",
+            "但“内部和谐”若只表示没有冲突，经过压制的顺从也可能看似平静。理性必须真正认识整体善，而非最强欲望伪装成计划。这会把论证推向善、知识与教育，也就是太阳、线段和洞穴的连续图景。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "合奏不是让所有声音一样",
+          "paragraphs": [
+            "乐团和谐不要求所有乐器演同一音，而要求不同声部按作品关系进入。灵魂秩序也不是消灭欲望和激情，而是让它们在整体生活中获得适当对象、强度与时机。",
+            "然而乐谱和指挥的权威从何而来？若指挥只宣称自己懂整体，合奏类比会遮蔽专断。政治模型必须回答谁有知识、知识如何检验、被统治者如何参与；这正是哲学家统治难题不能被一句和谐解决的原因。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "正义作为规则与正义作为人格秩序",
+          "paragraphs": [
+            "现代讨论常以权利、程序和资源分配评价制度，《理想国》更先问行动者灵魂怎样有序。前者防止整体名义吞没个人，后者追问遵守规则者是否仍被贪欲统治；两种视角可互相批评。",
+            "不能由内在德性直接取代公共规则，也不能假定合规等于正义人格。一个冷静腐败者可能计划严密却服务错误目的；一个制度公正的社会也仍需公民形成判断与欲望教育。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "团队分工何时变成支配",
+          "paragraphs": [
+            "医疗团队让不同专长各做其事，通常提高安全；但若管理者以分工为由禁止护士报告风险，功能原则便保护等级而非整体目标。判断要问角色是否按能力安排、信息能否逆向流动、错误能否纠正。",
+            "把这一检验带回城邦，可见“各做其事”需要由共同善、知识可靠性和流动机制限定。例子不把医院等同城邦，而是暴露从协调到支配之间缺少的条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "正义从名声移到结构但尚未完成",
+          "paragraphs": [
+            "魔戒挑战拿走奖赏，建城方法放大分工，灵魂冲突论证区分欲望、激情与理性。正义被说明为适当统领与协调，使“不行不义”获得内在健康解释。",
+            "下一步三次浪潮把灵魂秩序推向制度代价：能力开放、家庭与财产安排以及哲学家统治分别承受可行性与强制压力；只有经过这些压力，太阳、线段和洞穴才进入知识资格问题。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一个组织让每个部门只顾指标，财务降低成本、销售扩大承诺、维护减少停机，却无人判断整体风险。分工本身没有产生正义；只有当信息、欲望与决策围绕可辩护的共同善协调时，各做其事才不沦为互不负责。",
+      "nodeIds": [
+        "plato-06-interpretation"
+      ],
+      "checkIds": [
+        "plato-06-check-1",
+        "plato-06-check-2",
+        "plato-06-check-3",
+        "plato-06-check-4"
+      ],
+      "abilitySummary": [
+        "能说明魔戒挑战为何要求正义具有内在价值",
+        "能重建灵魂三分从心理冲突而非社会标签出发",
+        "能指出城邦灵魂类比不能自动证明阶层权力"
+      ],
+      "recommendedNextLessonId": "plato-republic-waves",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-republic-waves",
+      "order": 8,
+      "title": "三次浪潮为何把哲学家推向权力",
+      "depth": "deep",
+      "guidingQuestion": "当城邦按灵魂能力分工时，性别、家庭、财产和统治知识必须发生怎样的改变？",
+      "coreExplanation": "《理想国》第五卷用三次浪潮检验言说城邦是否敢承担自身原则。第一浪潮让护卫职责服从相关能力而非性别标签；第二浪潮以家庭和财产共同安排防止派系私占，却制造照护、欺骗与强制难题；第三浪潮才提出哲学与政治权力合一。哲人王不是孤立口号，而是前两项制度需要知识尺度后出现的高风险回答。",
+      "sections": [
+        {
+          "heading": "正义城邦为何不能停在抽象分工",
+          "paragraphs": [
+            "前面说每一部分做适合自己的事，却没有说明谁可进入护卫阶层、护卫者会不会把公共武力变成家族利益。格劳孔要求苏格拉底把妇女、子女和战争安排说清，模型开始承受身体与亲密关系的压力。",
+            "三次浪潮不是离题制度清单。它们逐次追问：能力标准是否真能压过习俗，公共团结能否不靠私人占有，最后谁有知识判断这些安排服务共同善。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "第一浪潮怎样从能力而非标签分工",
+          "paragraphs": [
+            "苏格拉底承认男女通常在力量等方面有差异，却问这种差异是否像秃头与长发一样与制鞋无关。若女性具有护卫所需天性，她应接受同样音乐、体育和军事训练。相关差异而非任何差异决定职责。",
+            "论证并不等于现代完整平等理论；它仍用总体性别比较，也把人的位置交给统治者鉴别。但它确实破坏了从生理分类直接推出政治功能的快捷推论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "男女医生的差异说明了什么",
+          "paragraphs": [
+            "若男女医生都能诊断，只因性别不同便分配一人治病、一人织布，分类没有追踪任务能力。苏格拉底借医术等技艺说明，同类职责需要比较学习、判断和性情，而非只看身体名称。",
+            "改变任务条件会改变相关差异。某项工作若确需特定身体能力，可以评估那项能力；仍不能从群体平均直接裁决具体个人，也不能把能力差异变成人格等级。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "第二浪潮为何触及家庭与财产",
+          "paragraphs": [
+            "护卫者若拥有私人土地、财富和可继承权力，城邦会分裂成掌权者与被统治者的敌对营垒。共同生活与不得私有金银，试图使他们把同一公共利益当作自己的利益。",
+            "子女共同安排把团结推到更深处，却依赖统治者控制配对、出生和亲属信息。消除裙带不自动产生照护，秘密抽签和优生选择还把人当作城邦材料。目的不能洗白手段。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同称呼会不会稀释具体责任",
+          "paragraphs": [
+            "若所有同龄人都称兄弟姐妹，每个儿童都被说成大家的孩子，紧急照料时仍须有人承担不可替代的持续责任。共同称呼可以扩大关切，也可能让责任在人人名下实际无人承担。",
+            "支持者可说护卫阶层有公共抚育制度，反对者仍会追问儿童依恋、信息权和照护者问责。文本没有给出现代证据，不能把“共同”直接登记为更有爱。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "第三浪潮为什么是最巨大的浪",
+          "paragraphs": [
+            "若哲学家不掌权，制度设计由意见和争胜支配；若掌权者不哲学，权力又会败坏能力。苏格拉底因此说哲学与政治权力必须合一，或由真正哲学者统治。",
+            "这里的哲学不是聪明标签，而是爱整体真理、能区分美物与美本身，并接受长久欲望和判断训练。资格要求越高，辨认伪装者的问题越尖锐。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "concept"
+        },
+        {
+          "heading": "从451c到502c的推进",
+          "paragraphs": [
+            "451c至457c处理女性护卫者，457c至471c处理配对、子女、战争与共同关系；471c以后格劳孔追问可行性，473c提出哲学家统治。487a以后船喻和哲学天性败坏解释真正哲学者为何在实际城邦显得无用。",
+            "文本既让苏格拉底辩护，也让格劳孔不断以笑声、浪潮和可能性施压。三项方案是角色苏格拉底的模型回答；柏拉图是否同样认可每个细节，需要从整部对话的后续失败风险论证。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "开放能力与支配身体的双重遗产",
+          "paragraphs": [
+            "第一浪潮给能力开放以强理由，第二浪潮却让城邦深度控制生育和亲属。不能因前者具有突破性就把后者说成自动进步，也不能因后者危险便删掉前者对性别分工的批判。",
+            "现代平等、同意和儿童权利提供独立检验，属于后来规范发展。它们可揭示模型代价，却不能伪装成角色苏格拉底已经提出的制度。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "制度浪潮逼出善的知识",
+          "paragraphs": [
+            "三次浪潮把“各做其事”推进到能力开放、反派系结构和知识统治。每一步都既解决前一步的缺口，又新增辨认、同意和强制问题。哲人王因此是问题高峰，不是免检答案。",
+            "接下来必须说明哲学者究竟认识什么。太阳、线段和洞穴将给善与教育一个结构；返回义务和政体退化则检验这种知识能否在政治世界中保持。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一个机构宣布职位完全按能力开放，却由少数人秘密定义能力，并控制成员家庭资源。开放标准可能是真进步，秘密鉴别和生活控制仍需独立问责；不能用第一项替后两项免责。",
+      "nodeIds": [
+        "plato-republic-waves-interpretation"
+      ],
+      "checkIds": [
+        "plato-republic-waves-check-1",
+        "plato-republic-waves-check-2",
+        "plato-republic-waves-check-3",
+        "plato-republic-waves-check-4"
+      ],
+      "abilitySummary": [
+        "能重建三次浪潮的递进关系",
+        "能区分能力开放与制度强制",
+        "能说明哲人王为何由前两浪潮逼出"
+      ],
+      "recommendedNextLessonId": "plato-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-07",
+      "order": 9,
+      "title": "从太阳到洞穴的认识转向",
+      "depth": "deep",
+      "guidingQuestion": "理性若要统领灵魂与城邦，凭什么认识善；太阳、线段与洞穴为何必须连在一起理解？",
+      "coreExplanation": "《理想国》对话第六至七卷用三幅连续图景补正正义论。太阳说明善之于可知对象如太阳之于可见对象，使真理与认识成为可能，却又超出通常所说的存在；线段区分影像、事物、数学假设与不以假设为终点的辩证认识；洞穴把这些关系写成受教育者的痛苦转向、上升、适应与被迫返回。洞穴不是“聪明人逃离愚民”的寓言，教育也不是把视觉塞进盲眼，而是把整个灵魂转向。三幅图仍没有给善下定义，数学与辩证的边界也需解释。",
+      "sections": [
+        {
+          "heading": "理性统领仍缺少尺度",
+          "paragraphs": [
+            "前面的灵魂模型说理性应当统领，因为它关心整体。但一个欲望也能学会长远计算，一个野心家也能制定精密计划。若理性只等于工具性计算，它可以更有效地服务贪欲，无法保证正义。",
+            "苏格拉底因此把讨论推向“最大的学习对象”善。护卫者若不知道善，其他知识即使准确也不知应如何使用；正义和美好的事物只有在与善关联时才真正有益。政治资格由此依赖认识论，而非出身或口才。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "太阳说明可见与可知的条件",
+          "paragraphs": [
+            "眼睛有视觉，对象有颜色，二者相对仍不能保证看见，还需要光。太阳提供光，也使可见事物生长，却不等同视觉或被见对象。苏格拉底说善在可知领域以类似方式给予真理，并使认识者能够认识。",
+            "类比没有说太阳就是善，也没有把善还原成最明亮物体。它建立的是条件关系：真理与认识虽美好，却不是最高者；善使它们成为可能并更有价值。所谓善“超出存在”尤其不能草率理解为不存在。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "线段把根据的层级展开",
+          "paragraphs": [
+            "线段先分可见与可知，再各分两段。最低层以影子、倒影和图像为对象；上一层是图像所像的动物、器物与自然物。认识状态相应由想象转为信念，差别在对象与根据，而非简单的智商高低。",
+            "可知领域中，数学从假设出发，借可见图形却思考三角形本身；辩证法则把假设当踏脚石，追问非假设的起点，并由形式之间的关系返回。线段不是背四个名称，而是比较每一步是否把未经说明的前提当终点。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "囚徒第一次转头为何会疼",
+          "paragraphs": [
+            "洞穴囚徒自幼被缚，只能看墙上影子；身后火光照着被人搬运的器物。若有人解开他、迫使转头，他会疼痛，并认为熟悉影子比刺眼器物更真实。新证据不会因出现就立即被接受，旧习还塑造可见性。",
+            "被拖出洞外后，他先看影子、倒影，再看事物、星辰，最后才看太阳。适应次序对应认识训练，不是瞬间启示。回到洞内，他的眼睛又暂时失灵，会被囚徒嘲笑；真知并不自动转化为公共说服力。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "case"
+        },
+        {
+          "heading": "自称出洞者怎样证明自己",
+          "paragraphs": [
+            "任何政治宣传者都可以说别人困在洞穴、只有自己见过太阳。若比喻本身给这种自称免检权，它会成为专断工具。知识资格必须通过长期训练、前提审查、共同辩证和不愿利用权力等条件检验。",
+            "另一个异议是，洞内共同生活不只是幻影；语言、劳动和关系也构成现实。若把全部经验世界判作虚假，哲学家返回便没有值得照料的人。文本实际让上升者必须返回，说明可知尺度要用于重整共同生活，而非抛弃它。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "504d到521b的一条论证链",
+          "paragraphs": [
+            "第六卷504d以后，苏格拉底先拒绝把善简单等同快乐或知识，因为坏快乐存在，而“关于善的知识”会循环。506d他承认不能充分说出善本身，只愿讲其“后代”太阳；这种克制是文本边界。",
+            "509d的线段延续太阳的两领域，514a的洞穴又让认识层级成为生命运动。518b明确说教育不是把知识放入没有知识的灵魂，如同给盲眼装视力，而是把已有能力连同整个灵魂转向正确方向。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "洞穴不是独立励志故事",
+          "paragraphs": [
+            "抽走太阳与线段，洞穴容易被读成“少数觉醒者看穿大众骗局”。原文关心的却是善作为尺度、假设的地位、长期教育和返回义务。没有这些条件，走出熟悉环境只表示观点改变，不表示抵达真理。",
+            "同样，影子并非全都谎言。影像可以忠实也可以误导，感官对象也提供数学思考的起点。层级强调根据与稳定性，不许可把日常经验一概作废；哲学认识还必须能解释较低层为何呈现如此。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "教育是欲望与注意的转向",
+          "paragraphs": [
+            "若灵魂已有看见能力，失败可能不在缺少信息，而在它面向什么、把什么当好。教育因此同时改变注意、欲望和生活方向。一个计算敏捷却追逐错误目的的人，能力越强可能造成越大伤害。",
+            "这种转向连接《会饮》的爱欲上升：欲望不是简单消灭，而从占有一个美丽身体逐步学习身体、灵魂、制度、知识与美本身的关系。两处都要求动力被重新定向，而非由冷知识取代。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "地图、地形与制图规则",
+          "paragraphs": [
+            "看地图上的线条不同于走过地形，知道地形又不同于理解投影为何扭曲比例。线段的层级可借此理解：图像、对象和解释条件各有作用，较高层不是简单拥有更多同类数据。",
+            "类比的限制也清楚：制图规则仍可能以假设为起点，理解投影不等于知道应去哪里。善的问题关乎知识使用的最终方向，不能由更精确地图自身给出。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "数学证明与辩证追问",
+          "paragraphs": [
+            "数学家假定奇偶、图形与公理，并从中推出结论；这种可靠性使灵魂脱离感官个例，却可能不追问假设本身。辩证法被赋予继续上行的任务，检查各种形式如何关联并寻找不再借未说明前提支撑的起点。",
+            "这不表示具体数学家从不反思公理，也不表示哲学可以不用严格推理。文本区分的是方法角色：把假设当基础终点，还是把它当待说明节点。后世基础研究使界线更复杂，但没有取消问题。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "从数据看板追到指标目的",
+          "paragraphs": [
+            "管理者看见留存率上升，便判断服务改善。线段式追问会区分图表呈现、实际行为、统计模型与指标选择假设；有人因无法退出而留下，也会提高留存，数字正确却不代表目标良好。",
+            "继续追问为何把留存当善，可能发现真正目标是帮助人完成任务而非延长停留。这里从影像到根据再到目的的上升，必须返回实践检验；否则“看得更深”只是换一套抽象词。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "看见之后还必须返回",
+          "paragraphs": [
+            "太阳说明认识与真理的善之条件，线段区分对象与前提层级，洞穴把层级变成痛苦转向和适应过程。三者共同补足理性统领所需尺度，却明确承认尚未给善本身充分定义。",
+            "上升者被要求回到洞穴，政治问题因此不能由私人沉思绕过。谁应统治、为何真正有知识的人不愿统治、强迫返回是否正当，将在哲学家与权力的矛盾中变得尖锐。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一家机构用单一数字评估服务，数字持续上升。有人发现算法只记录容易量化的行为，弱势群体的失败根本未进入数据。修正图表还不够，必须追问指标假设和服务目的，并把新理解带回制度，而非只在报告中宣布自己走出洞穴。",
+      "nodeIds": [
+        "plato-07-interpretation"
+      ],
+      "checkIds": [
+        "plato-07-check-1",
+        "plato-07-check-2",
+        "plato-07-check-3",
+        "plato-07-check-4"
+      ],
+      "abilitySummary": [
+        "能把太阳、线段与洞穴重建为连续认识论图景",
+        "能说明教育转向与灌输信息的差别",
+        "能指出善未被定义及自称觉醒者的资格压力"
+      ],
+      "recommendedNextLessonId": "plato-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-08",
+      "order": 10,
+      "title": "哲学家返回以后，政体与诗歌怎样重塑灵魂",
+      "depth": "deep",
+      "guidingQuestion": "哲学家为何必须返回，而城邦的荣誉、财富、自由与摹仿文化又怎样使灵魂逐步走向僭主欲望？",
+      "coreExplanation": "哲学家统治不是给自称有智慧者的王冠。苏格拉底先以船喻说明城邦争权者忽视航海知识，又用无用哲学家和败坏天性的分析解释现实反例。哲学天性要爱真理、整体与一致，还需数十年数学、辩证、公共职责和诱惑检验；真正合格者不把统治当私人好处，却因受共同体教育并为避免更坏者掌权而返回。方案仍面临知识可验证性、强迫正当性、被统治者发言与制度纠错的严重压力，哲学知识不能自动转化成政治判断。 返回义务并未结束政治论证。第八至九卷把政体退化映回欲望秩序：荣誉、财富、无序自由与单一强欲逐步取得统治；僭主表面能任意行动，实际最受欲望奴役。第十卷再追问诗歌摹仿怎样训练灵魂的情感部分，并以厄尔神话把选择责任、命运与奖惩分层收束。",
+      "sections": [
+        {
+          "heading": "最适合掌权的人为何不想掌权",
+          "paragraphs": [
+            "苏格拉底提出哲学家成为统治者或统治者真正哲学化，城邦之恶才可能停止。格劳孔立刻预告众人会拿起武器反对，因为现实中自称哲学的人常无用、怪僻或腐败。命题从一开始就带着经验反例。",
+            "若权力本身是最高奖赏，最热衷争夺者似乎最有动力；《理想国》却认为这种欲望正是不适任信号。统治者应以被更坏者统治为惩罚才愿承担职责，政治资格由对善的认识与不以权力谋私共同构成。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "哲学爱的是整体真理",
+          "paragraphs": [
+            "爱看美丽声音、色彩和形体的人可能有审美，却未必认识美本身。哲学者能把许多美物与使其为美的形式区分，并把意见与知识的对象区分。这里的“爱”是持续定向，不是一项职业标签。",
+            "哲学天性还被要求记忆好、学习快、胸襟开阔、厌恶虚假并有节制。单独聪明不够，因为强能力若受财富、赞美和竞争引导，会制造更强破坏者。教育任务因而既训练认识，也筛查欲望。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "船喻把多数与专家的争执改写",
+          "paragraphs": [
+            "船主高大有力却耳背近视，不懂航海；水手争抢舵柄，声称无需学习航海术，并把善于说服船主者叫作高手。真正领航者研究季节、星辰、风和航海整体，却被骂作望天者与无用之人。",
+            "比喻解释哲学家为何在坏制度中无用：不是知识本身无效，而是争权结构拒绝其标准。可它还把政治类比为专业技艺，必须证明共同善像航线一样可知，并说明公民是否只是乘客；这些不是比喻自动完成的。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "漫长教育与三次返回",
+          "paragraphs": [
+            "未来统治者先受音乐与体育塑造，再学习算术、几何、天文与和声，三十岁左右筛选进入辩证，随后又回到军事和公共职位十五年。五十岁才可能凝视善，并轮流承担统治。知识资格不是一次考试。",
+            "反复返回使抽象理解接受现实事务检验，也防止辩证变成青年争辩游戏。文本担心过早接触反驳会让人因传统信念崩塌而把无法无天当自由；方法能力若没有性格与责任，可能退化成诡辩。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "谁来检验宣称见过善的人",
+          "paragraphs": [
+            "若最高知识只有少数人拥有，而多数人无法审查，他们如何区分真哲学家与善于伪装的僭主？漫长训练可以降低风险，却仍由制度中的某些人执行筛选；筛选者错误或结党时，体系缺少外部纠正。",
+            "哲学家不爱权力也未必保证善治。不愿统治可能意味着缺少对具体人的理解，抽象整体善也可能压过个人权利。回应需要公共理由、职权限制、轮换和反馈，而原文本对现代制度保障没有完整说明。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "473c的悖论与520c的债务",
+          "paragraphs": [
+            "第五卷471c以后，格劳孔要求说明理想城邦是否可能。苏格拉底说模型不必逐项实现才有规范作用，随后在473c提出哲学与政治权力合一。命题回应的是可能性与近似，不是预言某位历史君主。",
+            "第七卷519c至521b让已上升者返回。法律不是为一阶层独享幸福，而要使全城协调；哲学家受城邦培养，因而欠共同体服务。强迫返回以公平受益和共同善辩护，却也重开个体自由问题。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "哲人王不是一句精英主义口号",
+          "paragraphs": [
+            "把哲人王理解为“聪明人应掌权”会删掉形式知识、欲望教育、不愿统治、长年实践与轮换职责。相反，把全部方案只当讽刺也难解释文本为教育次序和败坏机制投入的论证。",
+            "谨慎归属应说，角色苏格拉底提出一种知识统治模型，柏拉图可能借它检验政治与哲学分离的代价；模型是否可行、是否真值得实现，仍受对话内三次浪潮、政体退化和解释判断压力。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "知识资格为何与不愿统治相连",
+          "paragraphs": [
+            "见过比权力更好的生活，哲学家才不会把公职当最大善。没有这种替代价值，掌权者会争夺职位并把公共资源当自我完成。知识在这里不仅提供政策答案，还重新排列欲望。",
+            "这与《会饮》的爱欲教育相接：欲望若停在占有单一对象，会把他者工具化；若学会欣赏更广美与善，行动方向改变。但从欲望净化到制度能力仍有距离，哲学者必须接受现实职责检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "外科专家能否独自管理医院",
+          "paragraphs": [
+            "优秀外科医生掌握高风险技艺，却未必懂预算、公平分配、护理流程或患者经验。专业知识能排除某些坏决策，但组织统治需要多种知识和价值权衡。船喻若只保留单一领航者，会低估政治的多元对象。",
+            "反过来，以人人有意见为由忽视专业证据，也会让最会争抢者掌舵。问题不是专家或民主二选一，而是怎样让知识约束决策、受影响者提供不可替代的信息，并使权力能够被纠错。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "认识权威与政治正当",
+          "paragraphs": [
+            "认识权威来自在某领域更可能判断正确，政治正当则还涉及谁受决策约束、是否拥有平等地位与申诉权。一个流行病专家可说明传播风险，却不能仅凭专业身份决定所有自由限制。",
+            "《理想国》倾向把善的知识与统治资格紧密连接，现代民主理论更强调分权、公开理由和可更替。两者的有益冲突在于：民主不能假装知识无关，专家也不能把知识优势扩成无限政治权限。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "最不争职位的人是否就该当负责人",
+          "paragraphs": [
+            "一个团队推举最不热衷升职的专家，因为他少有私心。但若他拒绝沟通、不了解成员处境，不争权并不足以胜任。还需检查整体判断、接受反驳、分配责任和退出机制。",
+            "反之，候选人若只靠竞选技巧获得支持，也不能证明懂得任务。哲学家悖论迫使选择同时看知识、欲望和制度约束；任何单一美德都不能独自授予不可撤销权力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "知识与权力的结合仍需防护",
+          "paragraphs": [
+            "船喻解释争权制度如何排斥知识，教育次序把形式理解、性格与公共实践相连，不愿统治则减少以权谋私。返回义务从共同体培养和避免坏统治得到理由。",
+            "模型仍欠可验证知识、被统治者地位和错误纠正的制度说明。爱欲为何能把人从占有权力转向更高对象，也不能只靠命令完成。《会饮》将从宴席中的多重赞词展示欲望怎样接受一次又一次改写。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        },
+        {
+          "heading": "政体为何从欲望教育中退化",
+          "paragraphs": [
+            "荣誉政体让激情和胜利高于理性，寡头政体让财富成为资格，民主政体让各种欲望平等轮替，僭主政体则由一个无法满足的强欲统治。序列把制度规则与人格欲望相互映照。",
+            "这不是可直接套用历史的必然周期。它是一种规范心理模型，要求说明一种欲望怎样改变公职、教育和生活评价；现实政体可混合、逆转，也不会按同一顺序移动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "民主人的自由怎样可能转成新的奴役",
+          "paragraphs": [
+            "民主灵魂今天节制、明天饮酒，后天从政，把每种欲望都当作同等正当。开放使被压抑生活获得空间，却也可能失去区分必要欲望与破坏性欲望的共同尺度。",
+            "苏格拉底进一步说，无度自由会引发对一切权威的敌意，保护者乘恐惧成为僭主。论证揭示自由被操纵的可能，却不能把平等本身归罪为僭政原因。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "case"
+        },
+        {
+          "heading": "僭主为何不是最自由的人",
+          "paragraphs": [
+            "僭主可以命令别人，却必须不断满足主导欲望、猜疑朋友并依赖暴力自保。他的外部权限扩大，内部选择范围反而被恐惧和欲求压缩。",
+            "这支持权力与自由分开，却仍需注意受害者遭受的外部不自由不能被统治者心理痛苦抵消。灵魂损害解释加害者为何生活坏，不替受害者提供救济。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "诗歌摹仿为何成为政治问题",
+          "paragraphs": [
+            "画出的床模仿工匠制作的床，而工匠之床又依形式标准被理解，摹仿作品因此被说成距真理更远。悲剧还让人在观看时放纵现实中会克制的哀叹，可能训练灵魂的非理性部分。",
+            "距离论不能简单推出艺术虚假。诗歌可揭示行动结构，柏拉图自己的对话也以戏剧人物说话。真正压力是情感感染是否受知识、对象和后果检验，而非把所有形象逐出。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "从543a的政体下降到621d的重新选择",
+          "paragraphs": [
+            "543a以后依次分析荣誉、寡头、民主与僭主政体及相应灵魂，571a以后描写梦中欲望和僭主被奴役。595a至608b重审摹仿诗与灵魂部分，承认若诗能为自身辩护仍可返回。",
+            "614b至621d的厄尔神话让灵魂抽签后自行选择生活，并喝忘川水再生。神话强调选择责任与哲学准备，却不是政体序列或灵魂不死的独立证明。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "民主批评与诗歌审查都可能替权威扩权",
+          "paragraphs": [
+            "若掌权者自称知道必要欲望，民主批评会成为压制异议的工具；若他又垄断何种诗歌有益，灵魂教育会变成文化审查。模型提出尺度问题，却没有自动给统治者可靠尺度。",
+            "现代言论自由和制度多元提供新的防护理由。引用这些理由属于后来规范批评；仍可从文本内部要求知识资格、欲望节制和诗歌为自身作答。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一位领导者能任意改规则，却每天被民调、猜疑和名声驱赶；另一座城市以保护理性为名禁止一切批评艺术。前者说明外部权力不等于内部自由，后者说明灵魂教育不能把尺度解释权交给不受审查者。",
+      "nodeIds": [
+        "plato-08-interpretation"
+      ],
+      "checkIds": [
+        "plato-08-check-1",
+        "plato-08-check-2",
+        "plato-08-check-3",
+        "plato-08-check-4"
+      ],
+      "abilitySummary": [
+        "能说明返回义务为何不等于知识取得无限权力",
+        "能把政体退化与欲望秩序联系而不当作历史定律",
+        "能区分诗歌批判、艺术认识价值与审查授权"
+      ],
+      "recommendedNextLessonId": "plato-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-09",
+      "order": 11,
+      "title": "爱欲从占有之美走向美本身",
+      "depth": "deep",
+      "guidingQuestion": "宴席上每个人都赞美爱神，苏格拉底为何先拆穿“爱本身完美”的赞辞，再借狄奥提玛把爱欲写成匮乏与生成之间的上升？",
+      "coreExplanation": "《会饮》不是一篇由苏格拉底独占的爱情论文，而是阿里斯托得摩斯经历、阿波罗多洛斯转述的多声宴席。斐德若、泡萨尼阿斯、厄律克西马库斯、阿里斯托芬和阿伽通依次把爱欲联系勇气、规范、宇宙和谐、失落完整与诗性美。苏格拉底反诘阿伽通：爱所欲者正是所缺；随后转述狄奥提玛，把爱描述为贫乏与资源之子、在美中生育并追求不朽。所谓阶梯从一具美身扩展到众身体、灵魂、制度、知识和美本身，却面临是否贬低具体他者的异议；阿尔基比亚德醉酒闯入，让抽象上升接受未被驯服的个人爱欲检验。",
+      "sections": [
+        {
+          "heading": "一场赞美比赛为何不断改写爱",
+          "paragraphs": [
+            "悲剧诗人阿伽通获奖后的宴席上，宾客因前夜饮酒过量决定少喝，并轮流赞美爱神。每篇演说既表达理论，也暴露说话者生活：医师把爱扩成身体秩序，喜剧诗人用剖开人类的神话解释寻找另一半。",
+            "如果直接跳到“爱欲阶梯”，前面声音便成多余热场。其实苏格拉底的说法回应它们：爱包含勇气与生育，受规范塑造，渴望完整，却不能被等同和谐、完美神或找到唯一缺半。对话由竞争赞辞逐步逼出对象与缺乏问题。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "爱欲不是美善的占有者",
+          "paragraphs": [
+            "阿伽通把爱神描写得最年轻、美丽、柔软且有德。苏格拉底先问爱是否总是“对某物的爱”，再问欲求是否指向当前缺少的东西。若爱欲美善，它便不能以已经完全拥有美善的神作为定义。",
+            "狄奥提玛由此把爱放在凡人与神、无知与智慧之间。知道自己无知并欲求智慧者是爱智者；全知者无需追求，彻底无知又自满者不会追求。爱欲的中间性与前面苏格拉底式困惑形成呼应。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "concept"
+        },
+        {
+          "heading": "贫乏与资源之子为何总在生成",
+          "paragraphs": [
+            "神话说阿佛洛狄忒诞辰上，贫乏趁资源醉卧与之结合，生下爱欲。爱因母亲而匮乏、赤足无家，因父亲而善谋、勇敢追猎。它不是静态缺口，也不是稳定财富，而是由缺乏发动的寻求能力。",
+            "人欲永远拥有善，却作为会死者无法保持同一，于是通过身体生育、作品、法律、德性和知识更新追求不朽。在美中生育表示美使孕育者得以释放创造，不只是观看或占有漂亮对象。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "从一个身体到美的海洋",
+          "paragraphs": [
+            "狄奥提玛让引导者从爱一个美丽身体开始，继而看见身体之美彼此相关，不应做单一外貌的奴隶；再重视灵魂之美，孕育使青年更好生活的言说，继而看见制度与知识中的美。",
+            "最后从多种知识转向美的广阔海洋，并突然看见不生不灭、不增不减、不因角度而美丑相杂的美本身。上升不是简单把对象丢弃，而是学习较低之美依赖怎样的共同标准；文本对返回具体关系说得较少。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "阶梯会不会把爱人变成踏板",
+          "paragraphs": [
+            "若一个身体只是通往所有身体的第一阶，具体人的不可替代性似乎被抽空。爱者可能声称自己追求灵魂与美本身，却忽视对方的同意、脆弱和共同历史，把他当自我提升工具。",
+            "回应可以说上升纠正的正是占有：看见共同美应减少对单一对象的奴役，并使爱者孕育真实德性。但若理论不能说明普遍欣赏如何回到对具体人的责任，这项回应仍欠实践桥梁。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "199c的反诘与212c后的闯入",
+          "paragraphs": [
+            "199c至201c，苏格拉底用问答让阿伽通承认爱欲其所缺，随即说自己曾被狄奥提玛以同样方式反诘。苏格拉底既是提问者又成被教者，叙事因此阻止他只占据知识高位。",
+            "210a至212c给出上升，门外却立刻传来喧闹，阿尔基比亚德醉酒加冕苏格拉底。他不赞美爱神而赞美一个拒绝其诱惑的人，讲述渴望、羞耻、嫉妒与战争经历。抽象言说被具体未完成关系包围。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "狄奥提玛是谁的声音",
+          "paragraphs": [
+            "狄奥提玛只通过苏格拉底回忆出现，她可能是历史人物、文学构造或两者难定。即使她的演说常被视为对话高点，也不能省略转述层：阿波罗多洛斯转述阿里斯托得摩斯，苏格拉底再转述狄奥提玛。",
+            "多层叙事会造成误差，也使知识传递成为主题。关于爱欲的最高言说并非作者直接宣告，而在记忆、宴席与人物欲望中流通。归为可能的作者立场，需要结合其他对话而非仅凭位置。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "爱欲给认识转向提供动力",
+          "paragraphs": [
+            "洞穴教育若只有强迫转头，缺少上升者为何持续忍受痛苦的动力。爱欲把匮乏转成追求，使人不满足于影像和单一占有，向更稳定的美善移动。认识不是无欲望的观看，而是欲望被重新训练。",
+            "《斐德若》会进一步让爱之疯狂与灵魂回忆结合，并用驾车神话呈现欲望冲突。它还会质问漂亮演说是否真正认识对象；《会饮》的赞辞竞争已经显示修辞可以令人陶醉，却未必给出爱是什么。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从收藏一首歌到理解音乐",
+          "paragraphs": [
+            "有人迷恋一首歌，最初只想反复占有同一录音；后来学习旋律、和声与不同传统，能在多首作品中辨认美。这种扩展没有证明原歌可随意替换，而使喜爱拥有更丰富理由。",
+            "若他因此不再倾听具体演奏，只谈抽象音乐，理解又会空洞。爱欲阶梯同样需要上下通行：普遍形式解释具体之美，具体关系也检验所谓上升是否只是逃避责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "另一半神话与匮乏生成",
+          "paragraphs": [
+            "阿里斯托芬说原初圆形人被宙斯劈开，爱是寻找失落一半、恢复完整。狄奥提玛却说人真正欲求永远拥有善，甚至愿切除病肢，因此不只是追求“属于自己的部分”。",
+            "前者捕捉独特依恋与归家感，后者解释创造、德性和知识的扩张。它们不是一个答案的通俗版与高级版；后者对普遍善更强，前者对具体不可替代性提出持续反压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "欣赏能力怎样避免占有",
+          "paragraphs": [
+            "导师因一名青年才华而投入帮助，若只把对方当作自己理念的作品，所谓灵魂之爱仍是控制。上升式检验要求他看见多种优秀道路，并让共同探究孕育判断，而非复制自己。",
+            "同时，尊重独特性不等于把依恋封闭成唯一价值。能欣赏更广知识、制度与人格之美，可能减少嫉妒和占有。判断关键在扩展是否增强对方能动性，而非让具体人消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "上升被一个醉酒爱者打断",
+          "paragraphs": [
+            "多重赞辞提供爱欲的勇气、规范、和谐与完整图景；苏格拉底反诘把爱从完美占有者改成匮乏追求者。狄奥提玛再以生成与不朽解释阶梯，最终指向美本身。",
+            "阿尔基比亚德使理论不能在抽象顶点安静结束。他对苏格拉底的欲望、羞耻与赞美显示具体爱仍难被上升驯服。接下来的《斐德若》会同时处理这种神圣疯狂、灵魂秩序、修辞技术与书写媒介。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一位导师起初欣赏某人的才华，随后把对方当作证明自己眼光的作品。若爱欲上升只是从个人转向抽象理想，它可能合理化抛弃；若上升让导师看见多样优秀并增强对方自主，普遍之美才返回具体关系。",
+      "nodeIds": [
+        "plato-09-interpretation"
+      ],
+      "checkIds": [
+        "plato-09-check-1",
+        "plato-09-check-2",
+        "plato-09-check-3",
+        "plato-09-check-4"
+      ],
+      "abilitySummary": [
+        "能区分爱欲作为匮乏寻求与美善的完成占有",
+        "能解释阶梯各步怎样扩大对象而非只列等级",
+        "能用阿尔基比亚德的闯入检验抽象上升的边界"
+      ],
+      "recommendedNextLessonId": "plato-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-10",
+      "order": 12,
+      "title": "灵魂驾车、修辞与书写的双重药性",
+      "depth": "deep",
+      "guidingQuestion": "《斐德若》为何从河边情话转向灵魂神话，再转向修辞分类与书写批评；这些看似分散的话题怎样互相要求？",
+      "coreExplanation": "《斐德若》以吕西阿斯演说主张宁取不爱者，苏格拉底先仿作贬爱演说，继而因神圣警示作撤回演说，把爱之疯狂理解为灵魂见美后回忆形式的动力。双马驾车神话让理性车夫、顺从白马与放纵黑马的冲突具象化。后半部指出真正修辞必须认识真理、能按自然关节综合与划分，并了解不同灵魂以适配言说。书写批评借忒乌特神话说文字像药也像毒，只给记忆提示、不能回答追问；但整篇对话本身是精心书写，这使批评指向无回应文字的限度，而非简单禁书。",
+      "sections": [
+        {
+          "heading": "河边一篇演说为何引出灵魂问题",
+          "paragraphs": [
+            "斐德若把吕西阿斯的新演说藏在衣下，走到城外河边朗读。演说劝年轻人把恩惠给不爱者：爱者嫉妒、失控且日后反悔，不爱者更能冷静互惠。论证以利益计算把爱当疾病。",
+            "苏格拉底受激写出更有条理的同类演说，却遮脸说完，准备离开时感到神灵警示。他意识到把爱一概辱为恶会冒犯爱神，于是必须撤回。形式更好的错误演说仍是错误，修辞问题从这里进入真理责任。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "疯狂不都与理性敌对",
+          "paragraphs": [
+            "撤回演说区分疾病性疯狂与神赐疯狂：预言、净化仪式、诗歌和爱各由不同神明启发。若只把自我控制叫好，就无法解释某些打破常态却带来洞见和转化的经验。",
+            "神圣来源在神话中提供价值框架，却不能让任何强烈情绪自动正当。对话仍以灵魂结构、对象之美与自我节制区分提升和破坏。疯狂之善有条件，不是给冲动免除检验。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "自我运动与有翼灵魂",
+          "paragraphs": [
+            "苏格拉底先论证灵魂不死：凡由他物推动者在推动停止时也停止，自我运动者却是运动的本原，不能由生成或毁灭失去本原地位。随后他承认灵魂本性需要神性长篇说明，只能用驾车组合比拟。",
+            "神的车夫与双马皆好，人类灵魂却有白马与黑马。灵魂跟随诸神观看真实存在，驾驭失败便折翼下坠。见到美丽身体时，它由相似性回忆美本身，羽翼生长又疼痒；爱既有认识方向，也充满身体张力。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "argument"
+        },
+        {
+          "heading": "黑马冲向爱人时发生什么",
+          "paragraphs": [
+            "车夫看见爱人，记起美本身，因敬畏后仰；白马听从羞耻与节制，黑马却猛冲要求享乐。车夫反复勒马，直到黑马因痛苦屈服。神话没有消灭欲望，而把教育写成冲突、记忆与反复训练。",
+            "若双方以哲学和节制生活，爱可使灵魂共同长翼；若较低欲望偶尔获胜，关系也未被简单判为永劫。文本的等级观念明显，却承认人格不是一次选择完成。爱者对所爱者的善仍要靠实际照料证明。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "神圣疯狂会不会替操控辩护",
+          "paragraphs": [
+            "一位爱者可以说自己的嫉妒、跟踪和强迫来自神圣激情，要求对方服从成长安排。若内在强度和神圣自述就足够，受伤害者的同意会消失，任何控制都可披上灵魂上升的语言。",
+            "回应必须回到文本条件：真正爱者敬畏爱人身上的神性形象，培养而非占有，并让白马与车夫限制黑马。即便如此，古典不对等关系与现代同意要求仍有差距，不能由神话自动跨过。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从244a的撤回到278e的文字种子",
+          "paragraphs": [
+            "244a至257b展开疯狂分类、灵魂不死和驾车神话。257b以后，苏格拉底没有结束爱情讨论，而与斐德若审查演说术：不知真理者只操纵似然，像不懂马却说服人买驴上战场。",
+            "261a至266c以综合与划分说明辩证技术，274b以后讲忒乌特献文字给塔穆斯。文字被发明者称为记忆与智慧之药，国王却说它制造遗忘和智慧假象；活的言说则能因灵魂而调整、回答并自我保护。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "写下书写批评的对话",
+          "paragraphs": [
+            "若结论是书写本身邪恶，柏拉图用书面精心安排多层演说便显得自我取消。更细的解释是文字缺少作者在场时的回应能力，不能独自把智慧传给不具准备的人；它可以提醒已经知道者，并种下继续对话的种子。",
+            "“活的言说”也不保证真理。现场演说者同样可操纵、逃避问题或利用权力。媒介差别影响回应条件，却不替内容和制度负责。文本让书写保持双重药性，而不是给口语签发无误证明。"
+          ],
+          "identity": "possible-author-position",
+          "kind": "boundary"
+        },
+        {
+          "heading": "爱欲与修辞都必须认识灵魂",
+          "paragraphs": [
+            "爱者若不认识自己的欲望结构，会把黑马冲动叫神圣；演说者若不认识听者灵魂，会只靠技巧推动情绪。两条线都要求综合整体、划分类型，并让言说适配灵魂而不背离真理。",
+            "这也把《会饮》的上升变得更具冲突：看见具体美可唤起形式记忆，却不是平滑阶梯。欲望教育与言说教育互相依赖；错误修辞能把低欲望包装成高对象，正确言说则帮助灵魂辨认自己。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "说明书为什么不能回答",
+          "paragraphs": [
+            "说明书可跨时间保存步骤，却无法知道使用者误解在哪，也会把同样文字给准备程度不同的人。教师能根据回答调整例子并追问。这说明书写在互动反馈上的限度，却不表示说明书无用。",
+            "若教师拒绝记录，知识又依赖偶然在场并可能失真。较好安排是让文字承担稳定提示，让对话承担诊断与修正，再由实践结果检验。忒乌特神话的“药”正提醒剂量、对象和使用方式决定效果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "修辞技术与辩证关节",
+          "paragraphs": [
+            "技术性修辞常收集开场、叙事、证据、可能性和结尾规则。苏格拉底不否认这些有用，却说它们像知道药物效果却不知何时给谁：拥有前置技巧不等于掌握完整技艺。",
+            "综合把分散事例看成一个形式，划分则沿自然关节区分类别，不像笨厨师砍断骨头。真正修辞还需识别灵魂类型与言说类型的匹配。真理、结构和对象三项缺一，技巧便可能只制造说服。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "一条无法追问的自动建议",
+          "paragraphs": [
+            "系统给出健康建议，却不说明适用人群、证据与例外，也无法回应患者病史。文字可能正确，缺少互动却让使用者误把一般规则当个人诊断。问题不在屏幕文字天生虚假，而在它被当成完整智慧。",
+            "改善需要清楚边界、允许追问、按风险转交专业判断，并保存来源。与此同时，现场人员也需依据证据而非个人魅力。对话对书写的批评由此成为责任设计，而非媒介偏见。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "被写下的言说等待回答",
+          "paragraphs": [
+            "两篇贬爱演说迫使苏格拉底撤回，驾车神话把神圣爱写成回忆与欲望冲突。后半部再要求修辞认识真理、自然关节和灵魂差异，使爱情与言说由同一灵魂照料问题连接。",
+            "文字能保存却不能自行回答，现场言说能调整却同样可能操纵。真正认识因此不能只靠一段漂亮说明。《泰阿泰德》将让苏格拉底以助产士身份检验三种知识定义，并在没有定论时停止。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一个自动系统用流畅语言给出医疗建议，内容来自可靠指南，却不了解个体禁忌，也不能解释不确定性。把它视为提醒可有帮助，把它视为会回答的智慧则危险；现场专家若只靠权威拒绝追问，同样没有达到活的言说。",
+      "nodeIds": [
+        "plato-10-interpretation"
+      ],
+      "checkIds": [
+        "plato-10-check-1",
+        "plato-10-check-2",
+        "plato-10-check-3",
+        "plato-10-check-4"
+      ],
+      "abilitySummary": [
+        "能把爱之疯狂、灵魂驾车与修辞责任连成一条论证",
+        "能说明综合划分与听者灵魂为何是真正修辞条件",
+        "能解释书写双重药性而不落入反书写口号"
+      ],
+      "recommendedNextLessonId": "plato-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-11",
+      "order": 13,
+      "title": "知识定义为何在助产后仍未出生",
+      "depth": "deep",
+      "guidingQuestion": "《泰阿泰德》依次检验知识是感觉、真判断、真判断加说明，为什么每次看似接近都失败，并以困惑而非答案结束？",
+      "coreExplanation": "《泰阿泰德》把年轻数学家带到苏格拉底面前，苏格拉底自称思想助产士，只帮助检验胎儿是否真实。泰阿泰德先说知识是感觉，论证牵出普罗泰戈拉“人是尺度”和赫拉克利特流变；苏格拉底既为它们作强辩护，又以记忆、专长、未来判断及灵魂共同概念施压。知识改为真判断后，虚假判断如何可能与陪审团被说服的例子暴露缺口；再加说明，又必须解释说明是声音表达、元素列举还是差异标志。对话没有确认现代“真且有理由的信念”，而在210d承认没有产下知识定义。",
+      "sections": [
+        {
+          "heading": "助产士如何检验思想胎儿",
+          "paragraphs": [
+            "欧几里得把多年前苏格拉底与泰阿泰德的谈话记录交人朗读，开场已让记忆和书写成为背景。泰阿泰德虽年轻，却能把无理数按结构分类；苏格拉底希望他同样给知识找共同定义，而非列举几何、制鞋等知识实例。",
+            "苏格拉底说自己像母亲斐娜瑞特一样助产，但接生的是灵魂思想。他自己不产智慧，只用提问引出并检验别人所生之物。助产比喻既承认泰阿泰德贡献，也保留苏格拉底判断胎儿真假的权力，因此仍需警惕不对称。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "感觉定义牵出尺度与流变",
+          "paragraphs": [
+            "泰阿泰德说知识就是感觉。苏格拉底把它连接普罗泰戈拉“人是万物尺度”：风对觉得冷者就是冷，对不觉得者就不冷；感觉对感觉者为真。若对象与感觉在相遇中共同生成，错误似乎无处进入。",
+            "赫拉克利特式流变又说事物不断变化，不能稳定说“是”某性质，只能说成为。感觉主体和对象都在运动，白色不是固定物附着，而由眼与运动相遇产生。定义因此不只是经验常识，而承诺强本体论。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "灵魂凭自身判断共同性质",
+          "paragraphs": [
+            "眼睛感颜色，耳朵感声音，但我们还能判断颜色与声音彼此不同、两者都存在、各自与自身同一。没有一个专门感觉器官感知“存在”“相同”“不同”“数”和“美丑”；灵魂通过自身比较感觉材料。",
+            "如果知识至少涉及存在与真，单个感觉便不够。痛苦甜味可以在感觉层面无误，却不能单独判断药物未来是否有益。定义的失败不取消感觉贡献，而是显示感觉材料与关于材料的判断必须区分。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "陪审团形成真判断却没有亲见",
+          "paragraphs": [
+            "知识若改为真判断，苏格拉底举法庭：高明律师在有限时间内说服陪审员，对一宗只有目击者才能知道的事实形成真实判断。陪审团判对了，却是通过说服而非获得使目击者知道的那种把握。",
+            "例子区分结果为真与获得方式。它没有说一切传闻都不能产生知识，而是表明真判断本身未编码证据关系；同一个真命题可由观察、可靠证词或操纵性碰巧命中到达，认识地位不能只看终点。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "普罗泰戈拉理论能否承受反对者",
+          "paragraphs": [
+            "若每个人所信对自己都真，那么认为“人不是尺度”的反对者也说真。苏格拉底让普罗泰戈拉仿佛从地下抬头为自己辩护：理论也许只保证当下感觉，不保证任何意见都同样有益，智者能改变较坏状态。",
+            "即便限定当下感觉，关于未来的判断仍有专家差异。病人觉得自己会发烧与医生根据病程判断不等权；城邦认为某法律未来有益也可能失败。尺度说必须解释时间、纠正和专业知识，否则真理会随判断自动封闭。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "151d到210d的三次出生",
+          "paragraphs": [
+            "151d提出感觉定义，152a以后展开尺度与流变，苏格拉底先用长篇论证养大胎儿，再在记忆、梦、专家和共同性质上检验。187a泰阿泰德转向灵魂活动，187b提出真判断。",
+            "200d以后，梦理论把不可说明的简单元素与可说明复合体区分。说明依次可指说出思想、列举元素或指出区别标志；前者人人会说，第二种不保证认识整体，第三种若已知差异便可能把知识偷进定义。210d二人承认仍无定义。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "不能把失败结尾补成现成公式",
+          "paragraphs": [
+            "后世常把知识概括成真且有理由的信念，再用盖梯尔案例批评。这与对话对真判断加说明的压力相近，却不等同：希腊语logos含言说、说明、比例和理由等范围，泰阿泰德方案也未固定信念条件。",
+            "用现代公式帮助比较时，应标明它是后世重构，不能说苏格拉底已明确提出并接受。对话的价值还在失败路径：每个定义为何有吸引力、依赖什么世界观、由哪种反例崩解。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "真意见的系缚重新成为问题",
+          "paragraphs": [
+            "《美诺》说真意见由原因说明系住成为知识，《泰阿泰德》追问说明到底增加什么。若说明只是把判断说出口，没有系缚；若列举组成，可能知道字母却不懂音节；若指出差异，又需避免预先知道对象。",
+            "对话也为《智者》准备虚假言说难题。若判断只是把已知对象放进心灵，怎么会把一物认成另一物？蜡块、鸟笼等模型接连失败，迫使后续从语句结构与存在、非存在关系重新说明错误。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "温度读数与气候判断",
+          "paragraphs": [
+            "温度计此刻显示三十度，可以可靠记录局部状态，却不能单独判断今年是否异常炎热。后者需要时间序列、基准与统计比较。感觉真实并不自动成为关于共同性质和未来趋势的知识。",
+            "反过来，统计判断也离不开观测。灵魂“凭自身”比较不是凭空制造事实，而把多次感觉放入相同、差异、存在和数的关系。桥梁说明为何感觉既必要又不足。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "相对经验与相对真理",
+          "paragraphs": [
+            "同一风对病者冷、对健康者不冷，可以同时忠实描述不同身体经验。这种主体相对性不必推出所有关于风、疾病原因和未来后果的判断都同样真。感觉内容与解释命题的范围不同。",
+            "承认经验位置还能纠正专家盲点，因为受影响者知道某些外部观察者不知的感受；但位置优势也非全知。好的认识结构让第一人称材料、共同概念与可复核证据互相限制，而非选一方垄断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "审核一个碰巧正确的预测",
+          "paragraphs": [
+            "模型预测某人违约并碰巧正确，但理由依赖无关特征。真结果不能证明模型知道，因为换一群体便会失效，也无法给当事人提供相关说明。陪审团例子要求审核达到真判断的路径。",
+            "若解释只是列出全部输入，也未必构成说明；必须指出哪些差异与结论相关、关系为何稳定。第三种logos的压力在此重现：相关差异不能由先知道答案的标签循环定义。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "助产结束于更清楚的未生",
+          "paragraphs": [
+            "感觉定义揭示主体经验，却因记忆、共同性质和专家判断不足；真判断保留真理，却忽视获得路径；加入说明又在表达、元素和差异三种解释中分别失败。失败不是把知识说成不可能。",
+            "泰阿泰德离开时将去面对军事事务，苏格拉底则要到王执政官门廊应诉，时间连接《游叙弗伦》。困惑回到生命。晚期对话随后让老巴门尼德与异乡人接替主导声音，对形式与非存在施加更结构化压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一个预测系统连续三次猜中结果，却使用与目标无关的偶然特征。审核者不能只看准确率，也不能把输入清单叫说明；必须找出哪些差异真正相关、为何可迁移，并允许新反例改变模型。真判断由此尚未成为知识。",
+      "nodeIds": [
+        "plato-11-interpretation"
+      ],
+      "checkIds": [
+        "plato-11-check-1",
+        "plato-11-check-2",
+        "plato-11-check-3",
+        "plato-11-check-4"
+      ],
+      "abilitySummary": [
+        "能重建感觉定义与尺度流变承诺之间的联系",
+        "能说明真判断为何未包含获得路径",
+        "能区分三种说明并解释对话为何仍以困惑结束"
+      ],
+      "recommendedNextLessonId": "plato-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-12",
+      "order": 14,
+      "title": "形式与非存在在晚期压力中改变",
+      "depth": "deep",
+      "guidingQuestion": "《巴门尼德》为何让年轻苏格拉底的形式论遭到第三人等难题，《智者》又为何必须让非存在以“不同”方式存在？",
+      "coreExplanation": "晚期对话不让熟悉的苏格拉底继续独占结论。《巴门尼德》中老哲学家检验年轻苏格拉底的形式：分有若像一张帆覆盖多人，会遭整体部分难题；大东西因“大本身”而大又会逼出第三个大；形式若只是思想或范型仍面临关系与认识断裂。但巴门尼德也说没有形式会使思考无所归，要求严格辩证训练。《智者》中埃利亚异乡人为定义智者，必须解释假像与虚假言说；他冒险“弑父”，把非存在解释为与某物不同，而非绝对无。存在者能参与相同、不同、运动、静止等大类，陈述由名词与动词结合而可真假。压力不是简单抛弃形式，而是从孤立模型转向关系、参与与差异。",
+      "sections": [
+        {
+          "heading": "老师为何攻击年轻人的最好想法",
+          "paragraphs": [
+            "《巴门尼德》让年迈巴门尼德、芝诺与年轻苏格拉底相遇。苏格拉底用形式回应芝诺关于一多的悖论：事物可同时分有相同与不同，而相同本身不因此成为不同。巴门尼德赞赏方向，却逐项追问代价。",
+            "戏剧年龄改变权威关系。过去总提问的苏格拉底如今是受检验者，形式论也以尚未成熟方案出现。若把批评当柏拉图简单自我否定，会忽视巴门尼德既施压又坚持若无稳定形式，思想和辩论将无处转向。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "分有必须说明一与多的关系",
+          "paragraphs": [
+            "许多美物因分有美本身而美，但形式是一整个地在每物中，还是被分成部分？若整个形式同时在分离事物中，似乎一者与自身分离；若分部分，小部分的“大”会使事物大，产生荒谬。",
+            "帆覆盖多人比喻试图说明一个整体可同时在多者之上，巴门尼德却指出每人只被帆的一部分覆盖。比喻暴露“在场”语言的空间暗示；非空间形式如何相关，不能靠日常覆盖模型解决。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "第三人怎样从共同标准继续增生",
+          "paragraphs": [
+            "苏格拉底看见许多大东西，认为它们因共同观看到一个“大本身”而大。但把这些大东西与大本身放在一起，又似乎需要另一个形式解释它们共同为大；同样步骤可以无限继续。",
+            "论证依赖形式自身也具有所解释性质，并与实例同一方式为大。若否认形式自我谓述或改变分有关系，或许能阻止倒退，却要说明“大本身”怎样作为标准而不以普通方式大。修正不能只说第三人误会。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "思想、范型与不可知关系",
+          "paragraphs": [
+            "年轻苏格拉底建议形式也许只是灵魂中的思想。巴门尼德问，思想必是对某物的思想；若对象仍是一个共同者，问题回来。若万物由思想构成，要么都会思想，要么作为思想却不思想。",
+            "形式若是范型，事物因相似而模仿它，相似双方又似乎需要相似形式，第三人重现。若形式只彼此关联、我们世界的关系只彼此关联，主人本身与奴隶本身不会连接具体主奴，神与人的知识甚至互不可达。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "把非存在当绝对无为何无法说假话",
+          "paragraphs": [
+            "智者制造假像并说假话；可若非存在绝对不存在，说“不是的东西”似乎既不能指称也不能思考。于是任何言说只要说到某物便是真的，智者可躲在巴门尼德禁令后：不可说非存在。",
+            "异乡人回应，不把非存在说成存在的反面，而说成相对于某物的不同。“运动不是静止”没有把运动变成虚无，只说它参与不同于静止。大量“非某物”由差异成立，虚假陈述因而可能有对象却错配性质。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "130a的尴尬与259d的交织",
+          "paragraphs": [
+            "《巴门尼德》130a至135d从是否连泥、毛发也有形式，推进整体部分、第三人、思想、范型和不可知。135b巴门尼德说否认每物有一个形式会毁掉辩论能力，随后要求苏格拉底操演假设一者存在或不存在的双向推演。",
+            "《智者》236d至241b因假像逼近非存在，异乡人请求不要把他当弑父者，却必须反驳父亲巴门尼德的禁令。251a至259d讨论运动、静止、存在、相同、不同怎样有选择地交织；完全不结合与任意结合都使言说崩溃。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "修正不等于从形式跳回感官",
+          "paragraphs": [
+            "批评显示某些朴素分有模型失败，却没有证明只有个别感官物存在。巴门尼德明确保留稳定思考对象的需要，《智者》也使用大类及其参与关系。变化更像从孤立、同名复制的形式转向结构关系。",
+            "学界对发展论有争议：这些对话是否记录柏拉图放弃中期理论、澄清误读，或把困难留给辩证训练，不能由“晚期”标签决定。作品分期本身也是语言统计与解释结合的假设，不是作者注释。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "知识难题转成言说结构",
+          "paragraphs": [
+            "《泰阿泰德》尝试用蜡块与鸟笼解释把一物误认成另一物，却难说明明知两对象为何交换。《智者》从陈述结构入手：“泰阿泰德坐着”把真实行动归给对象，“泰阿泰德飞着”仍谈泰阿泰德，却把不同事实说成关于他。",
+            "名词与动词结合才形成最小陈述，单列“人、鹿、马”或“走、跑、睡”都未说真假。虚假不是说绝对无，而是把不属于对象的不同者陈述为属于。认识问题由心内物品交换转向语义参与。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "地图图例为何不能再复制一张地图",
+          "paragraphs": [
+            "若多张地图上的红线因像一条“标准红线地图”才有共同意义，我们还需解释标准图与实例为何都算红线，容易无限增生。更可行的是说明符号规则与关系，而非再添同类复制品。",
+            "类比帮助理解第三人压力，却不能把形式还原成人定符号。柏拉图关心的美、同一和存在不只由制图约定产生。修正方向是关系说明，具体本体承诺仍需论证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "矛盾、相反与不同",
+          "paragraphs": [
+            "说运动不是静止，只表明二者不同；说运动不存在，可能是在某限定下否认。若把一切“不是”都当绝对虚无，日常否定与分类都无法进行。异乡人把否定解释为差异参与，扩大可说范围。",
+            "但“苏格拉底不美”是否只等于他不同于美，仍会引出否定强度问题。后世逻辑用谓词、量词与真值条件精细区分，不宜说《智者》已完成现代逻辑；它提供的是关键转向：非存在并非一个神秘无物。"
+          ],
+          "identity": "later-dispute",
+          "kind": "comparison"
+        },
+        {
+          "heading": "模型分类错误并非输出虚无",
+          "paragraphs": [
+            "系统把一张狼的图像标成狗，输出谈到真实图像，也使用真实类别，却把不同类别错误结合。错误不需要生成绝对无对象；它发生在对象、属性与差异关系的错配。",
+            "若修复只增加一个“完美狗模板”，又要解释模板和所有狗为何同类，可能重演第三人。更好的模型说明特征关系与分类边界，同时接受边界案例会迫使概念调整。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "对话没有用一个体系封住自己",
+          "paragraphs": [
+            "老巴门尼德让形式面对分有、整体部分、第三人、思想、范型和不可知压力，却坚持放弃稳定对象会摧毁思考。《智者》的异乡人则由假像与假话重审存在，让非存在作为差异进入言说。",
+            "柏拉图哲学因此不能被压成洞穴、理念或哲人王三句格言。早期困惑、中期建构与晚期压力也不是整齐替换，而是人物、方法和问题的持续改组。能保留未决、追踪前提并让最好理论承受最好反对，才接近这些对话正在做的事。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一个识别系统把狼标成狗。错误并非谈论绝对虚无：图像、狼和狗都真实，问题在属性错配。若只添加一个完美狗模板，又会追问模板与实例为何共同为狗；需要的是可检验的关系与差异，而非无限复制标准。",
+      "nodeIds": [
+        "plato-12-interpretation"
+      ],
+      "checkIds": [
+        "plato-12-check-1",
+        "plato-12-check-2",
+        "plato-12-check-3",
+        "plato-12-check-4"
+      ],
+      "abilitySummary": [
+        "能重建分有、整体部分与第三人问题的具体前提",
+        "能说明非存在作为不同如何使虚假陈述可能",
+        "能把晚期压力理解为关系修正而非简单抛弃形式"
+      ],
+      "recommendedNextLessonId": "plato-statesman",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-statesman",
+      "order": 15,
+      "title": "政治知识若高于法律，谁能承受这项例外",
+      "depth": "deep",
+      "guidingQuestion": "定义政治家为什么要经过失败的划分、宇宙神话、尺度和编织，最后又回到法律的必要？",
+      "coreExplanation": "《政治家》接续《智者》的划分方法，却故意让“养育人类群体”不断失败。宇宙循环神话区分神牧时代与当下凡人政治，恰当尺度要求避免过度和不足，编织则把勇猛与温和等性情协调为共同体。真正知识似不应被固定法律束缚，但现实又极难辨认无误政治家；这使超法律统治成为理想主张与冒名危险同时存在的难题。",
+      "sections": [
+        {
+          "heading": "为什么找到政治家比找到智者更危险",
+          "paragraphs": [
+            "错误定义智者会混淆一种言说活动，错误定义政治家却可能把强制权交给冒名者。埃利亚异乡人因此不满足于“治理人的人”，因为医生、教师、商人和家长都以不同方式照料人。",
+            "定义必须找出政治知识怎样统领而非亲自执行每项技艺。若分类只把人当畜群，已经预设统治者站在人类之外，政治关系会被错误的牧养图景占据。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "划分为何必须容许失败并回头",
+          "paragraphs": [
+            "异乡人先从知识分实践与指挥，再逐级走向群居、陆生、无角、两足的人群。路线看似精确，却让许多竞争照料者同时留下。分类切得细不等于切中自然关节。",
+            "失败的价值在于暴露遗漏：政治家不只是喂养，而是协调具有自身技艺和判断的人。方法必须能承认先前分叉错误，不能把形式整齐当成对象真实。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "神牧时代为什么不能直接复制",
+          "paragraphs": [
+            "宇宙循环神话说，在克洛诺斯时代神灵直接照料各群体，人无需为生存建立今日制度；循环转向后，世界靠自身运动，人类必须学习技艺和政治。",
+            "神话拆除了把凡人统治者等同牧人的前提。今天的政治家面对会回应、争论和犯错的同类，不拥有神对畜群的距离；借神牧记忆要求绝对服从，恰好忽视时代差异。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "恰当尺度不是取中间数字",
+          "paragraphs": [
+            "一件衣服可比另一件长，这是相对多寡；它也可相对于身体和用途过长或过短，这是合宜尺度。政治言说、惩罚和行动同样不仅比较更多更少，还问是否切合目标与时机。",
+            "合宜并非凡事折中。危险迫近时迅速行动可能恰当，平时同样速度可能鲁莽。尺度要求说明相关关系，不能由掌权者一句“我有分寸”封口。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "知识为何看似可以越过固定法律",
+          "paragraphs": [
+            "医生若病情改变仍机械执行旧处方，会损害患者；真正政治知识也可能需要因人、因时调整。异乡人由此说最正确的统治属于有知识者，而非仅属于写下规则者。",
+            "但书面法律面对的是无法随时获得真正专家的城邦。若每个官员都能声称情况特殊，法律保护会消失。论证同时产生两笔债：规则为何允许修正，以及谁有资格修正。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "冒名医生为什么支持法律防护",
+          "paragraphs": [
+            "一个人自称医术高明，拒绝公开证据并强迫治疗。若只因“真正医生高于处方”便许可他行动，理想知识被冒名者利用。辨认程序不是知识的敌人，而是现实中区分知识与权力欲的条件。",
+            "程序也可能僵化，阻止罕见病的必要调整。因此回应不是绝不例外，而是让理由、证据、复核和受影响者位置共同约束例外。后半属于现代制度补充。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从257a的任务到311c的编织",
+          "paragraphs": [
+            "257a以后异乡人承担定义政治家的任务，258b至268d多次划分，268d至274e用宇宙循环神话修正神牧模型。283c至287b引入相对尺度和恰当尺度，293a至303d讨论知识与法律。",
+            "305e至311c以编织术收束：政治技艺不制造所有材料，而把勇猛与温和等性情按适当关系结合。比喻说明协调，却也留下谁决定图样、谁被当作材料的问题。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "编织共同体不能抹去公民声音",
+          "paragraphs": [
+            "织工对经纬拥有外部目的，政治家若把人当无声材料，协调会变成操控。比喻只支持不同性情需要关联，不能证明统治者有权替所有人决定生活形式。",
+            "《法律篇》将把判断更多放入公开规则、教育和序言，但仍保留少数理智维护者。晚期政治不是从专家统治简单转为现代民主，而是在知识和法之间持续摆动。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "政治技艺在知识与法律之间没有安稳终点",
+          "paragraphs": [
+            "划分失败使政治从牧养回到协调，神话取消凡人神牧身份，尺度要求合宜而非平均，编织说明统领多种能力。真知识有理由不受死规则完全束缚，现实冒名风险又使法律不可轻弃。",
+            "接下来《斐利布》会进一步问，合宜尺度究竟怎样进入善生活；《法律篇》最终要在没有可验证哲人王的条件下，把理由放进制度。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "医院允许专家在紧急时偏离标准流程，但要求记录证据、同行复核并说明风险。规则不是最高医学知识，却防止任何人仅凭头衔自封专家；例外和问责必须一起设计。",
+      "nodeIds": [
+        "plato-statesman-interpretation"
+      ],
+      "checkIds": [
+        "plato-statesman-check-1",
+        "plato-statesman-check-2",
+        "plato-statesman-check-3",
+        "plato-statesman-check-4"
+      ],
+      "abilitySummary": [
+        "能解释划分失败为何推进方法",
+        "能区分相对尺度与恰当尺度",
+        "能保留知识统治和法律防护的双重压力"
+      ],
+      "recommendedNextLessonId": "plato-philebus",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-philebus",
+      "order": 16,
+      "title": "快乐与知识为何都不能单独成为善生活",
+      "depth": "deep",
+      "guidingQuestion": "如果最好的生活既不是无尽享乐，也不是没有感受的纯粹思考，怎样的混合才不是随意折中？",
+      "coreExplanation": "《斐利布》把快乐与知识的竞争转成成分、尺度和真假的分析。无知而愉快的生活缺少记忆与真，毫无快乐的纯知生活也不符合人的完满；限、无限、混合与原因说明强度必须受比例组织。快乐还会因预期、比较和对象判断而真假，知识也有精确层级。最终混合由尺度、比例、真与适当排序，不是双方各占一半。",
+      "sections": [
+        {
+          "heading": "两个极端生活为什么都显得不够",
+          "paragraphs": [
+            "斐利布立场把快乐当作所有生命的善，苏格拉底以思考、记忆和真判断反对。若一个人快乐却完全不知道自己过去、现在与未来，甚至不知道正在快乐，这种生活是否仍足以选择？",
+            "反过来，拥有全部知识却没有任何快乐或痛苦的生活，也不像完整的人类生活。排除两端不等于已经找到善，只证明候选答案必须说明混合的原则。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "无限为什么需要限来组织",
+          "paragraphs": [
+            "更热、更冷、更快、更强可以不断增减，没有自身停止点，属于无限一侧。相等、比例和确定数给过程以限，使音乐、健康和季节成为可维持的混合。",
+            "快乐强度也可能不断要求更多。限不是外部压抑一切快乐，而是让它进入能够持续、比较和服务整体生活的关系；没有限，更多本身会冒充更好。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "四类怎样承担因果关系",
+          "paragraphs": [
+            "对话区分无限、限、二者的混合以及造成混合的原因。健康不是随便把冷热放在一起，而是比例使身体状态形成；原因则说明这种有序结合为何出现。",
+            "把四类用于生活，意味着善不能只是一种感受材料。快乐、知识和身体条件怎样组合，需要真与尺度的原因性安排。苏格拉底把宇宙理智与秩序连接，但这项形上推进仍可被质疑。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "期待中的快乐如何可能出错",
+          "paragraphs": [
+            "一个人期待明日获得大奖，今天因想象而快乐；实际依据只是误读通知。快乐此刻确实发生，关于未来对象的判断却错。说“假快乐”可指快乐被错误表象组织，而非心理事件根本不存在。",
+            "若通知可靠、结果后来改变，判断未必当时无理。真假分析必须考虑当时证据，不能把一切落空期待都倒算成虚假。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "纯快乐与混杂快乐为何需要区分",
+          "paragraphs": [
+            "解除饥渴的快乐与先前痛苦相连，身体恢复时两者可交织；学习清楚形式或感受纯颜色、声音的快乐，被说成较少依赖痛苦缺失。分类试图说明快乐不只按强度评价。",
+            "“纯”不自动等于道德最好，感官与理智等级也带有柏拉图式价值前提。可保留的压力是：同叫快乐的状态在对象、生成方式和后果上不同，不能用一个量相加。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "强烈快乐会不会凭强度获胜",
+          "paragraphs": [
+            "若最强感受就是最好，短暂药物欣快可以压过长期判断，操纵性娱乐也可因刺激更强而占据生活。强度只说明体验程度，不说明对象真实、生活可持续或他人代价。",
+            "享乐主义者可以回应，长期后果仍以快乐痛苦计算。回应会把问题推向测量、时间和人格连续；它不是被一句节制取消，而是说明简单强度论不足。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从11a的竞赛到67b的排序",
+          "paragraphs": [
+            "11a以后快乐与知识竞争，20b左右用两种极端生活检验自足，23c至31b提出四类。31b至55c分析缺乏、补充、期待、真假与纯杂快乐，55c以后比较知识。",
+            "59d至67b建立混合和排序，尺度、比例与真优先，知识广泛进入，快乐则按纯度和适当性筛选。结尾不是精确配方，而是说明善以有序关系出现。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "真假快乐与家长主义风险",
+          "paragraphs": [
+            "若权威宣称他比当事人更懂其快乐真假，分类可成为取消第一人称经验的工具。感受者对痛苦和愉快有特殊证据，外部判断不能假装它不存在。",
+            "但第一人称也可能误认来源和后果。较稳妥的边界是区分感受发生、对象判断、预期证据和长期关系，让各层分别接受相应证据。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "善以尺度改变成分，而非在两边平均分配",
+          "paragraphs": [
+            "快乐与知识都不能独占完满生活，四类说明无限强度为何需要比例，真假快乐说明感受含对象判断，知识也按精确性分层。混合由真、尺度与适当排序，不是妥协。",
+            "《蒂迈欧》将把理智与必然、范型与生成放进整个宇宙；《法律篇》则会问，城邦怎样用教育和制度培养有尺度的快乐。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "某项应用让人不断获得即时奖励，却损害睡眠、关系和判断。问题不在快乐未发生，而在强度没有尺度、预期被设计操纵，且生活整体的真与比例被排除。",
+      "nodeIds": [
+        "plato-philebus-interpretation"
+      ],
+      "checkIds": [
+        "plato-philebus-check-1",
+        "plato-philebus-check-2",
+        "plato-philebus-check-3",
+        "plato-philebus-check-4"
+      ],
+      "abilitySummary": [
+        "能说明两种极端生活为何都不足",
+        "能把四类用于快乐与知识的混合",
+        "能区分感受发生与快乐判断的真假"
+      ],
+      "recommendedNextLessonId": "plato-timaeus",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-timaeus",
+      "order": 17,
+      "title": "理智若追求最好，为何宇宙仍要服从必然",
+      "depth": "deep",
+      "guidingQuestion": "可知范型、善的工匠、世界灵魂、容器和材料必然怎样共同解释一个生成而有序的宇宙？",
+      "coreExplanation": "《蒂迈欧》把形式从认识对象推进为宇宙范型。善的工匠按范型整理可见世界，世界灵魂把同一、差异与运动组织成活的整体；时间随天体运动成为永恒的活动影像。可是理智不是从无制造一切，它只能“劝服”必然，并让生成事物在难以界定的容器中出现。整篇自称似然言说，要求理由相称而不冒充确定科学。",
+      "sections": [
+        {
+          "heading": "生成世界怎样既变化又可理解",
+          "paragraphs": [
+            "若可见事物不断生成毁灭，单靠感官难以说明它为何保持秩序；若只谈不变形式，又没有解释星辰、身体和时间如何出现。蒂迈欧需要一条把范型、制作和材料条件连接起来的说明。",
+            "他说关于永恒存在可追求稳定论证，关于生成宇宙只能给与对象相称的似然言说。认识强度随对象改变，但似然仍须保持一致、涵盖现象并承认边界。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "工匠为什么看向范型",
+          "paragraphs": [
+            "工匠因善而不嫉妒，希望一切尽可能好，于是以永恒范型整理无序运动。制作比喻说明秩序有目标和标准，宇宙不是把偶然材料无关系地堆在一起。",
+            "这不是从无创造的完成论证。范型不是工匠任意发明，材料必然也没有被取消；后世一神论可以与之对话，却不能抹去文本自己的多层条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "世界为何被说成一个活物",
+          "paragraphs": [
+            "若范型是包含所有可知生物的完整活物，可见宇宙要尽可能像它，就应是包容各类生物的一个整体，而非许多互不关联的世界。身体由比例连接，灵魂先于身体并贯穿整体。",
+            "从秩序到唯一活宇宙的推论依赖“最好者完整统一”等价值前提。它展示目的论结构，却不会仅凭美好愿望排除多宇宙或不同物理说明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "世界灵魂如何连接同一与差异",
+          "paragraphs": [
+            "造物者把同一、差异和存在按比例混合，形成灵魂圆环；它既把握不变对象，也判断生成对象。天体有规则运动，于是理智、时间和宇宙秩序被写进同一模型。",
+            "几何与音乐比例在这里承担解释，不只是装饰。不过比例模型是否对应自然事实，需要独立证据；哲学可分析其结构，不能把古代天文学当现代测量。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "时间为何是永恒的运动影像",
+          "paragraphs": [
+            "永恒范型不在过去未来中变化，生成宇宙却以日月和天体周期计数。时间随宇宙秩序出现，被称为依数运行的永恒影像；没有世界运动，通常的日前后也无处安放。",
+            "比喻区分永恒与无限延长时间。它不直接解决现代物理时间，也不证明时间只是主观；它说明可变秩序怎样模仿不变标准。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "理智为何不能把必然变成完全服从",
+          "paragraphs": [
+            "身体组织受材料性质、运动和相互作用限制。蒂迈欧说理智劝服必然，使大部分事物趋向最好；“劝服”承认目的不能不经条件直接实现。",
+            "若一切缺陷都被说成必然，理论会逃避反证；若任何缺陷都否定秩序，也忽视材料中稳定比例。解释必须指出哪项结果来自何种条件，而非把必然当剩余箱。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "容器为何是一种难以言说的第三类",
+          "paragraphs": [
+            "形式是范型，感性事物生成变化；容器让火、水等形态在其中出现又离开，自己不应带固定形状，否则会扭曲所承受者。它像金料接受不同造型，却又不是普通材料。",
+            "文本称其以一种近乎梦境的推理把握，显示概念不稳定。把它直接等同空间、质料或虚空都各有所得和损失，必须标明解释而非宣布唯一译法。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "从27d的似然任务到69a的双重原因",
+          "paragraphs": [
+            "27d至30c区分存在与生成，提出范型和工匠；34b至37c说明世界灵魂，37c以后引出时间和天体。47e至53c重启说明，加入必然与容器。",
+            "68e至69a把理智原因与必然原因并置，随后才讨论身体与灵魂构造。长篇演说由蒂迈欧承担，苏格拉底几乎退出；角色声音不能不加标记地写成柏拉图第一人称。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "宇宙目的论不能替现代科学结案",
+          "paragraphs": [
+            "“为了最好”可以提出结构和功能问题，却不能替代测量、机制和可重复证据。古代元素、生理和天文学有大量已被修正之处，历史重要性不提供真值保护。",
+            "反过来，科学机制也不自动回答为何把秩序、完整和善联系。今日使用这些问题时，应分开文本宇宙论、形上解释和现代经验主张。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "范型进入生成后必须面对条件",
+          "paragraphs": [
+            "工匠让善与范型承担秩序理由，世界灵魂连接同一、差异和运动，时间把可变世界写成永恒影像。必然和容器阻止目的论假装材料毫无抵抗，似然言说限制结论强度。",
+            "最后还需回到城邦：若人生活在有秩序却不完美的生成世界，法律怎样以说服、习惯和制度近似理智，而不冒充无误知识？"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "城市规划以宜居为目标，却必须面对地形、既有居民和材料限制。目标不能取消条件，条件也不证明规划毫无理性；真正说明要展示二者怎样共同产生结果。",
+      "nodeIds": [
+        "plato-timaeus-interpretation"
+      ],
+      "checkIds": [
+        "plato-timaeus-check-1",
+        "plato-timaeus-check-2",
+        "plato-timaeus-check-3",
+        "plato-timaeus-check-4"
+      ],
+      "abilitySummary": [
+        "能区分工匠制作与从无创造",
+        "能解释世界灵魂、时间和范型的关系",
+        "能限制理智、必然与容器的解释强度"
+      ],
+      "recommendedNextLessonId": "plato-laws",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "plato-laws",
+      "order": 18,
+      "title": "没有哲人王时，法律怎样承载不完整的理智",
+      "depth": "deep",
+      "guidingQuestion": "法律若只是命令会训练恐惧，若等待无误政治家又可能永远落空；序言、教育和混合制度能否形成另一条路？",
+      "coreExplanation": "《法律篇》让苏格拉底缺席，由雅典异乡人与克里特、斯巴达同伴在步行中设计城邦。法律不仅以刑罚划界，还用序言说明理由，以音乐、饮酒、体育和习惯训练快乐痛苦；混合政体试图平衡自由与权威。第十卷又以灵魂运动回应无神论，却把形上论证连接到宗教强制。夜间议事会保存理智维护任务，也使专家权力重新出现。",
+      "sections": [
+        {
+          "heading": "为什么最初问题从饮酒和教育开始",
+          "paragraphs": [
+            "雅典异乡人不先列宪法条文，而问克里特与斯巴达制度为何安排宴饮、音乐和训练。法律若只在违法后惩罚，已经错过欲望和判断形成；城邦首先要知道成员学会为何感到快乐、痛苦、羞耻和勇敢。",
+            "这也带来危险：政治若塑造全部感受，会把不同生活当成待校正材料。教育和支配的界线必须进入制度，而不能靠立法者自称善意。"
+          ],
+          "identity": "dramatic-character-voice",
+          "kind": "problem"
+        },
+        {
+          "heading": "法律序言怎样在命令前给理由",
+          "paragraphs": [
+            "医生可以不解释便强迫奴隶服药，也可以向自由人说明病情、听取回应再开方。异乡人借双重医生区分纯命令和带序言的法律：条文之前说明其所保护的关系与善。",
+            "序言使服从可能含理解，却仍是立法者向公民说话。若公民不能反驳、修法或退出，单向劝说会成为精致控制；理由必须有公共回应条件才不只是柔和命令。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "混合政体为何从历史失败中出现",
+          "paragraphs": [
+            "对话回顾波斯与雅典，认为极端专制损害友爱和共同判断，极端自由也会使法律和技艺失去权威。较好制度让君主与民主原则互相限制，而非让一方完全胜出。",
+            "历史叙事不是现代比较政治数据，且对雅典自由的批评带有精英立场。可保留的结构是权力集中与规则解体都可能破坏共同体，具体平衡仍需制度证据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "酒宴为什么成为小型政体试验",
+          "paragraphs": [
+            "饮酒降低自制并放大欲望，合适主持者可观察性情、训练羞耻和勇敢。案例把法律教育从背诵条文变成在受控情境中检验情感秩序。",
+            "但权力者故意使人失去控制也可能造成羞辱和伤害。没有同意、安全和退出，所谓训练会成为支配；古代案例不能直接转作现代实践建议。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "case"
+        },
+        {
+          "heading": "财产与公职为何都要受结构约束",
+          "paragraphs": [
+            "新城邦分配土地、限制财富差距，并设计公职选择与审查，试图防止金钱和派系吞掉共同善。制度承认德性劝说不足，权力和资源还需可见边界。",
+            "这些安排仍保留等级、奴隶制背景和严格生活控制，不能被“共同善”一词免责。评价必须分开反寡头工具、古代排除和强制范围。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "序言会不会成为更高明的宣传",
+          "paragraphs": [
+            "一项法律先讲动人故事，把异议者描写成不成熟，然后才施加严厉处罚。它形式上有序言，实际没有提供可检验理由，也不给受影响者回应。更多解释文字不自动等于说服。",
+            "判别要问序言是否说明事实和原则、能否承受反例、修法渠道是否真实。后两项是现代制度扩展，却揭示劝说与操纵的功能差异。"
+          ],
+          "identity": "later-dispute",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "从624a的同行到969d的夜间议事会",
+          "paragraphs": [
+            "第一至二卷624a至674c从法律目的、勇敢、饮酒和音乐教育展开，第三卷676a至702e用历史兴衰讨论政体，第七卷系统处理教育。第四卷718b至723d明确提出法律序言。",
+            "第十卷884a至910d由无神论、神不关心或可被贿赂三种主张推进到灵魂运动论证和处罚；第十二卷951d至969d设置夜间议事会。雅典异乡人主导，苏格拉底缺席，不能把声音变化抹平。"
+          ],
+          "identity": "primary-text-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "反无神论论证不能自动授权惩罚思想",
+          "paragraphs": [
+            "即便灵魂先于身体的论证成立，也只支持一项形上结论；从错误信念到国家惩罚还需要说明伤害、权限和比例。对话把两者连接，正是其最严峻的政治边界。",
+            "夜间议事会学习神学、天文和法律，试图让制度保持理智，却也形成少数知识守护者。它不是现代议会，仍须面对透明度、纠错和普通公民地位。"
+          ],
+          "identity": "later-dispute",
+          "kind": "boundary"
+        },
+        {
+          "heading": "法律把理智分散进制度，却没有消除权威难题",
+          "paragraphs": [
+            "序言尝试以理由而非恐惧统治，教育训练情感，混合政体限制单一原则，财产和公职受到结构约束。第十卷与夜间议事会又显示，理智维护可能转成宗教强制和知识精英。",
+            "整条路线因此不以晚年定论封口。反诘、形式、哲人王、尺度、宇宙秩序和法律都在追问同一责任：理由怎样进入共同生活，又怎样让自身继续受审查。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "城市为高风险规定写出公开序言，说明证据、目标和复核期限，并允许受影响者申诉。若序言只有赞美而无修正规则，它仍是宣传；理由必须能改变权力行为。",
+      "nodeIds": [
+        "plato-laws-interpretation"
+      ],
+      "checkIds": [
+        "plato-laws-check-1",
+        "plato-laws-check-2",
+        "plato-laws-check-3",
+        "plato-laws-check-4"
+      ],
+      "abilitySummary": [
+        "能说明法律序言与纯命令的差别",
+        "能解释混合政体与情感教育的关系",
+        "能批判宗教强制和夜间议事会的知识权力"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "plato-01-check-1",
+      "kind": "understand",
+      "prompt": "反诘直接证明了什么？",
+      "targetNodeIds": [
+        "plato-01-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-01-check-1-correct",
+          "text": "一组已经承认的主张不能同时维持",
+          "feedback": "这个判断守住了推理强度：矛盾排除的是承诺组合，新的定义仍须独立接受实例与反例检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-01-check-1-misconception",
+          "text": "反诘还直接确立了苏格拉底未陈述的相反主张",
+          "feedback": "这里跳过了最关键的一步。驳倒旧定义只说明它失败，若要接受相反命题，还必须给出支持它的正面理由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-01-check-1-correct",
+      "misconceptionId": "refutation-proves-opposite"
+    },
+    {
+      "id": "plato-01-check-2",
+      "kind": "distinguish",
+      "prompt": "困惑何时具有认知价值？",
+      "targetNodeIds": [
+        "plato-01-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-01-check-2-correct",
+          "text": "当它能定位冲突、过宽或缺失前提并指向后续寻找",
+          "feedback": "你抓住了困惑携带的信息：它不是空白，而是对失败位置的说明，因此能够约束下一次尝试。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-01-check-2-misconception",
+          "text": "对方陷入沉默时，困惑本身已经提供了后续探究所需的真答案",
+          "feedback": "沉默可能来自羞耻、权力或疲惫。若没有说明哪项前提失败，谈话只产生社会效果，没有提供认知方向。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-01-check-2-correct",
+      "misconceptionId": "silence-is-truth"
+    },
+    {
+      "id": "plato-01-check-3",
+      "kind": "apply",
+      "prompt": "“诚实就是从不隐瞒”的藏身处反例攻击什么？",
+      "targetNodeIds": [
+        "plato-01-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-01-check-3-misconception",
+          "text": "反例说明隐瞒与诚实可以并存，因此隐瞒通常比坦白更符合诚实",
+          "feedback": "从一个反例只能排除旧的普遍定义，不能反向许可所有隐瞒；动机、对象与判断权仍需分别说明。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-01-check-3-correct",
+          "text": "它表明该定义把一种可能正当的隐瞒排除在诚实之外",
+          "feedback": "反例精准攻击必要条件：若存在诚实却隐瞒的情形，从不隐瞒就不是诚实所必需，仍需提出更好标准。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-01-check-3-correct",
+      "misconceptionId": "counterexample-reverses-rule"
+    },
+    {
+      "id": "plato-01-check-4",
+      "kind": "connect",
+      "prompt": "为什么不能把角色苏格拉底的话直接当作柏拉图定论？",
+      "targetNodeIds": [
+        "plato-01-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-01-check-4-misconception",
+          "text": "戏剧形式使人物立场只具有文学功能，结构和反方压力也不能支持哲学归属",
+          "feedback": "戏剧形式不会取消论证。人物承诺、反例次序和结尾安排仍可严格评价，只是不能省略声音层次。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-01-check-4-correct",
+          "text": "因为声音经过戏剧构造，作者归属还要由结构、反复主题与反方压力论证",
+          "feedback": "这个区分既保留了文本约束，也避免把人物变成作者录音机；作者归属成为需要证据的解释。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-01-check-4-correct",
+      "misconceptionId": "dialogue-has-no-claims"
+    },
+    {
+      "id": "plato-02-check-1",
+      "kind": "understand",
+      "prompt": "著名两难首先区分什么？",
+      "targetNodeIds": [
+        "plato-02-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-02-check-1-misconception",
+          "text": "两难区分众神意见的一致程度与祭祀数量所表达的公共敬意",
+          "feedback": "对话提到众神争执，却不是做宗教统计；核心在某物为何有规范性质，而非哪位神更受欢迎。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-02-check-1-correct",
+          "text": "虔敬使众神喜爱它，还是众神喜爱使它成为虔敬",
+          "feedback": "你抓住了解释方向：一个方向把喜爱当结果，另一个把喜爱当构成根据，两者承担不同哲学责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-02-check-1-correct",
+      "misconceptionId": "dilemma-is-poll"
+    },
+    {
+      "id": "plato-02-check-2",
+      "kind": "distinguish",
+      "prompt": "若神因为某事本已虔敬而喜爱它，会怎样？",
+      "targetNodeIds": [
+        "plato-02-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-02-check-2-correct",
+          "text": "神的喜爱可以是标志或后果，却没有定义虔敬本身",
+          "feedback": "这保留了两种关系的差别：可靠判断可以指示价值，但被判断的价值仍需要说明自身根据。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-02-check-2-misconception",
+          "text": "神的喜爱既然追随虔敬，就构成虔敬本身不可缺少的定义部分",
+          "feedback": "你的选择把推理方向倒置了。前提已经说神因其虔敬而爱，不能再把爱当作使其虔敬的原因。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-02-check-2-correct",
+      "misconceptionId": "effect-becomes-cause"
+    },
+    {
+      "id": "plato-02-check-3",
+      "kind": "apply",
+      "prompt": "“规则允许所以正当”面临哪项压力？",
+      "targetNodeIds": [
+        "plato-02-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-02-check-3-correct",
+          "text": "必须说明允许创造正当，还是只确认已有的正当理由",
+          "feedback": "这个追问把制度效力与道德根据分开，并为合法却可能不义的情形保留了批评位置。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-02-check-3-misconception",
+          "text": "书面规则经共同体承认后，规则来源已经提供了行动正当性的充分理由",
+          "feedback": "书面存在只能证明规则内容，不能自行证明规则正义；程序、伤害与当事人的判断权仍需理由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-02-check-3-correct",
+      "misconceptionId": "permission-settles-right"
+    },
+    {
+      "id": "plato-02-check-4",
+      "kind": "connect",
+      "prompt": "对话为何继续讨论照料与献礼？",
+      "targetNodeIds": [
+        "plato-02-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-02-check-4-correct",
+          "text": "因为喜爱定义失败后仍需寻找虔敬的正面说明，而新方案又暴露循环",
+          "feedback": "你保留了整场对话的推进：两难是中段压力，照料和交换显示正面定义仍未完成。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-02-check-4-misconception",
+          "text": "喜爱定义被两难排除以后，照料与献礼只是为相同结论补充宗教实例",
+          "feedback": "若只抽出两难，就看不到对话继续承担的解释责任；后续尝试正检验人与神关系能否提供新根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-02-check-4-correct",
+      "misconceptionId": "dilemma-ends-dialogue"
+    },
+    {
+      "id": "plato-03-check-1",
+      "kind": "understand",
+      "prompt": "法庭抗命与狱中拒逃共享哪项约束？",
+      "targetNodeIds": [
+        "plato-03-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-03-check-1-misconception",
+          "text": "避免报复性不义要求服从权威，即使命令与个人判断发生冲突",
+          "feedback": "莱昂案例直接反驳无条件服从。苏格拉底曾冒死拒绝掌权者命令，因此必须区分命令、法律与正义。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-03-check-1-correct",
+          "text": "不能为了保存生命或报复伤害而主动实施不义",
+          "feedback": "这项共同前提解释了表面相反的行为：苏格拉底关注自己是否成为不义行动的实施者。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-03-check-1-correct",
+      "misconceptionId": "obedience-is-absolute"
+    },
+    {
+      "id": "plato-03-check-2",
+      "kind": "distinguish",
+      "prompt": "接受死刑表示什么？",
+      "targetNodeIds": [
+        "plato-03-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-03-check-2-misconception",
+          "text": "拒绝越狱表明苏格拉底认可本次判决，只是不认可控方提出的部分理由",
+          "feedback": "文本中苏格拉底始终否认指控并批评裁判者；接受刑罚不能倒推为赞成事实判断。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-03-check-2-correct",
+          "text": "他拒绝以秘密破坏判决来回报不义，不等于承认判决正确",
+          "feedback": "你区分了规范态度与制度后果：人可以批评错误裁决，同时认为某种逃避方式会使自己行不义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-03-check-2-correct",
+      "misconceptionId": "acceptance-means-approval"
+    },
+    {
+      "id": "plato-03-check-3",
+      "kind": "apply",
+      "prompt": "“说服或离开”面对什么现实异议？",
+      "targetNodeIds": [
+        "plato-03-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-03-check-3-correct",
+          "text": "异议者可能没有政治发言权或实际迁移能力，因此选择并不真实",
+          "feedback": "这个异议攻击沉默同意的前提：没有可行替代时，继续居住未必表达自由承诺。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-03-check-3-misconception",
+          "text": "长期居住形成了真实同意，因此异议者的发言与迁移条件不影响选择效力",
+          "feedback": "法律提供形式选项不等于个人拥有使用条件；财产、家庭、身份与权利会决定离开是否可行。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-03-check-3-correct",
+      "misconceptionId": "residence-is-free-consent"
+    },
+    {
+      "id": "plato-03-check-4",
+      "kind": "connect",
+      "prompt": "为什么问题会推进到《理想国》的正义论？",
+      "targetNodeIds": [
+        "plato-03-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-03-check-4-misconception",
+          "text": "《克里同》已经用守法行动说明正义的内在价值，灵魂结构只是换一种表达",
+          "feedback": "《克里同》的判决恰被角色认为错误；后续任务不是保证制度无误，而是说明行不义怎样损害行动者。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-03-check-4-correct",
+          "text": "因为还需证明灵魂中的正义为何本身比外在生存与名声更有价值",
+          "feedback": "你指出了尚未偿还的解释责任：坚定选择显示价值排序，却不能替代对正义内在好处的论证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-03-check-4-correct",
+      "misconceptionId": "crito-proves-infallible-law"
+    },
+    {
+      "id": "plato-04-check-1",
+      "kind": "understand",
+      "prompt": "奴童问答首先显示什么？",
+      "targetNodeIds": [
+        "plato-04-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-04-check-1-correct",
+          "text": "承认自信错误后仍能借问题和图形关系继续寻找",
+          "feedback": "这个判断保留了示范的力量而未夸大：困惑成为继续探究的条件，图形与提问也确实提供约束。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-04-check-1-misconception",
+          "text": "奴童在缺少提示的情况下取回了证明，提问只负责唤起现成知识",
+          "feedback": "苏格拉底安排了问题并画出图形，不能说毫无输入；示范并未单独证明完整知识早已存在。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-04-check-1-correct",
+      "misconceptionId": "slave-boy-proves-all-innate"
+    },
+    {
+      "id": "plato-04-check-2",
+      "kind": "distinguish",
+      "prompt": "真意见与知识的差别在哪里？",
+      "targetNodeIds": [
+        "plato-04-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-04-check-2-misconception",
+          "text": "真意见缺少原因说明便不能正确引路，价值须等到知识形成",
+          "feedback": "“真意见”按定义为真，文本还明确承认它能正确引路；问题是它容易逃走而非毫无价值。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-04-check-2-correct",
+          "text": "真意见可正确引路，知识还由原因说明获得稳定",
+          "feedback": "拉里萨比喻正保留真意见的效用；差别在它是否能稳定说明、抵抗变化并接受复核。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-04-check-2-correct",
+      "misconceptionId": "true-belief-is-false"
+    },
+    {
+      "id": "plato-04-check-3",
+      "kind": "apply",
+      "prompt": "为什么猜中下一项还不等于知道规则？",
+      "targetNodeIds": [
+        "plato-04-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-04-check-3-correct",
+          "text": "偶然正确没有说明生成关系，也未证明能处理变化",
+          "feedback": "你把结果正确与认识稳定分开了；规则说明允许复核、反例测试并确定适用范围。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-04-check-3-misconception",
+          "text": "答案连续正确便显示规则掌握，理由陈述与迁移检验只是额外证明",
+          "feedback": "一次正确可能来自运气。没有关系说明，就无法分辨可靠方法和偶然命中，也无法处理相近新例。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-04-check-3-correct",
+      "misconceptionId": "accuracy-alone-is-knowledge"
+    },
+    {
+      "id": "plato-04-check-4",
+      "kind": "connect",
+      "prompt": "《美诺》给《斐多》留下什么责任？",
+      "targetNodeIds": [
+        "plato-04-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-04-check-4-misconception",
+          "text": "回忆说已交代灵魂先存与不灭，《斐多》只展示其生活意义",
+          "feedback": "奴童示范存在提示与替代解释，不能独自承担永生结论；《斐多》正因为责任未清才继续论证。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-04-check-4-correct",
+          "text": "要更充分说明回忆如何联系形式与灵魂先存",
+          "feedback": "这个选择尊重了论证阶段：回忆在此重启探究，关于灵魂的强结论仍需新的前提和反对检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-04-check-4-correct",
+      "misconceptionId": "meno-finishes-immortality"
+    },
+    {
+      "id": "plato-05-check-1",
+      "kind": "understand",
+      "prompt": "克贝斯的织工比喻攻击什么？",
+      "targetNodeIds": [
+        "plato-05-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-05-check-1-correct",
+          "text": "灵魂比多个身体长寿仍不能推出它最终不会毁灭",
+          "feedback": "你准确区分了长寿与不可毁灭；最后一次死亡可能仍发生，因此需要关于灵魂本性的更强理由。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-05-check-1-misconception",
+          "text": "灵魂经历多个身体便排除了毁灭，织工比喻反而强化长寿证明",
+          "feedback": "先存只建立某一时间点的存在，不能覆盖全部未来；织工正用多件外衣暴露这个量词跳跃。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-05-check-1-correct",
+      "misconceptionId": "preexistence-means-immortality"
+    },
+    {
+      "id": "plato-05-check-2",
+      "kind": "distinguish",
+      "prompt": "形式在相等例子中承担什么工作？",
+      "targetNodeIds": [
+        "plato-05-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-05-check-2-correct",
+          "text": "提供稳定标准，使不完全实例能够被判断为不足",
+          "feedback": "这个理解抓住了规范与解释作用：形式让变化实例受同一标准衡量，而非增加一个感官复制品。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-05-check-2-misconception",
+          "text": "形式是感官实例之外更精确的同类对象，用来替换不够相等的木棍",
+          "feedback": "若形式只是另一实例，它也会进入比较与变化，无法解释共同标准；文本要说明的是相等本身。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-05-check-2-correct",
+      "misconceptionId": "form-is-hidden-copy"
+    },
+    {
+      "id": "plato-05-check-3",
+      "kind": "apply",
+      "prompt": "软件迁移类比提醒我们区分什么？",
+      "targetNodeIds": [
+        "plato-05-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-05-check-3-correct",
+          "text": "不依赖某个载体与不依赖任何载体是不同结论",
+          "feedback": "这项区分阻止相对独立被夸大成绝对独立，也对应灵魂离开一个身体与永不毁灭的距离。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-05-check-3-misconception",
+          "text": "程序能跨设备运行便说明它不依赖存储载体，次数仅影响便利",
+          "feedback": "迁移仍需要新的实现环境；一次或多次成功只排除特定依赖，不能排除所有存在条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-05-check-3-correct",
+      "misconceptionId": "transfer-proves-disembodiment"
+    },
+    {
+      "id": "plato-05-check-4",
+      "kind": "connect",
+      "prompt": "反对意见为何不是对苏格拉底的背叛？",
+      "targetNodeIds": [
+        "plato-05-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-05-check-4-misconception",
+          "text": "临终人格为论证提供了独立担保，反对意见只检验听众是否愿意接受",
+          "feedback": "苏格拉底主动邀请异议并重新论证；若人格足以担保结论，这些修正与长篇回应都会失去意义。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-05-check-4-correct",
+          "text": "因为共同检验能防止因一次失败憎恨论证，并迫使前提变清楚",
+          "feedback": "你抓住了厌论警告：友谊表现为继续检验，而不是用敬意免除推理责任。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-05-check-4-correct",
+      "misconceptionId": "character-guarantees-truth"
+    },
+    {
+      "id": "plato-06-check-1",
+      "kind": "understand",
+      "prompt": "魔戒故事拿走了正义的什么支持？",
+      "targetNodeIds": [
+        "plato-06-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-06-check-1-misconception",
+          "text": "魔戒拿走灵魂内部协调，名声与惩罚仍由社会评价保留",
+          "feedback": "内部协调不是故事预先拿走的东西，而是苏格拉底后来试图证明的回答；不能把待证结论当设定。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-06-check-1-correct",
+          "text": "被看见、好名声、奖赏与惩罚等外在后果",
+          "feedback": "你抓住了格劳孔加压的方法：剥离外在回报后，论证必须显示正义对行动者本身有什么好处。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-06-check-1-correct",
+      "misconceptionId": "ring-assumes-inner-justice"
+    },
+    {
+      "id": "plato-06-check-2",
+      "kind": "distinguish",
+      "prompt": "灵魂三分凭什么提出？",
+      "targetNodeIds": [
+        "plato-06-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-06-check-2-misconception",
+          "text": "城邦阶层与灵魂部分相互对应，这种结构相似已经构成三分的独立证据",
+          "feedback": "若只从社会结构抄回灵魂，类比会循环；文本专门提供心理冲突来支持不同动力原则。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-06-check-2-correct",
+          "text": "同一人在同一对象上出现欲求、阻止与愤怒等相反动力",
+          "feedback": "这个答案保留了独立心理论证：口渴冲突与列昂提俄斯故事让类比能够回查，而非只复制城邦。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-06-check-2-correct",
+      "misconceptionId": "soul-copied-from-class"
+    },
+    {
+      "id": "plato-06-check-3",
+      "kind": "apply",
+      "prompt": "团队“各做其事”何时不够？",
+      "targetNodeIds": [
+        "plato-06-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-06-check-3-misconception",
+          "text": "职责与目标一经清楚分配，各做其事便可优先于信息回流和纠错安排",
+          "feedback": "清楚职责可以高效实施错误目标。若信息不能挑战上级，分工会掩盖支配而非产生正义。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-06-check-3-correct",
+          "text": "当角色安排、共同目标、信息回流或纠错机制本身不正当",
+          "feedback": "你指出功能秩序的附加条件；协调必须服务可辩护整体善，而不能把等级本身当理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-06-check-3-correct",
+      "misconceptionId": "role-order-is-enough"
+    },
+    {
+      "id": "plato-06-check-4",
+      "kind": "connect",
+      "prompt": "为什么正义论必须推进到善与教育？",
+      "targetNodeIds": [
+        "plato-06-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-06-check-4-correct",
+          "text": "因为理性统领只有在真正认识整体善时才不同于强欲望伪装",
+          "feedback": "这个连接说明认识论为何进入政治：没有善的标准，内部秩序可能只是高效服从错误目的。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-06-check-4-misconception",
+          "text": "灵魂各部分达到和谐便已识别整体善，教育只负责维持既有统领关系",
+          "feedback": "和谐描述关系，却不保证目标正确；谁认识善、怎样受检验正是后续尚未回答的责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-06-check-4-correct",
+      "misconceptionId": "harmony-guarantees-good"
+    },
+    {
+      "id": "plato-07-check-1",
+      "kind": "understand",
+      "prompt": "太阳类比把善放在什么位置？",
+      "targetNodeIds": [
+        "plato-07-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-07-check-1-correct",
+          "text": "善使真理与认识成为可能并赋予价值，却不等同二者",
+          "feedback": "你保留了类比关系而没有把两端同一化；太阳是善的后代图景，善仍超出通常对象说明。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-07-check-1-misconception",
+          "text": "善在可见领域就是太阳，在可知领域则成为与真理同类的最高知识对象",
+          "feedback": "文本明确在可见与可知领域之间作类比；若把善等同天体，线段与后续辩证任务都会失去意义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-07-check-1-correct",
+      "misconceptionId": "good-is-literal-sun"
+    },
+    {
+      "id": "plato-07-check-2",
+      "kind": "distinguish",
+      "prompt": "数学与辩证法的关键差别是什么？",
+      "targetNodeIds": [
+        "plato-07-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-07-check-2-misconception",
+          "text": "数学接受图形假设而辩证法拒绝假设，因此两者分别依靠推演与直觉",
+          "feedback": "数学在文本中正因严格而承担上升训练，辩证也不是无根据直觉；差别在如何对待假设。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-07-check-2-correct",
+          "text": "前者可从假设推演，后者还把假设当作待追问的踏脚石",
+          "feedback": "这个区分关乎根据层级，不贬低数学严密性；辩证任务是继续说明数学保留的起点。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-07-check-2-correct",
+      "misconceptionId": "dialectic-replaces-reasoning"
+    },
+    {
+      "id": "plato-07-check-3",
+      "kind": "apply",
+      "prompt": "留存率上升为何仍可能属于洞内判断？",
+      "targetNodeIds": [
+        "plato-07-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-07-check-3-misconception",
+          "text": "留存率属于量化意见，指标来源未经审查时，数值也失去准确性",
+          "feedback": "影像和数学并非无用，它们提供必要线索；问题是不能把有限指标当作未经说明的最终尺度。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-07-check-3-correct",
+          "text": "数字可能准确，却由未经审查的指标与目的解释",
+          "feedback": "你区分了数据正确与目的正当；上升要求追踪对象、模型、假设和善的方向，而非抛弃较低层证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-07-check-3-correct",
+      "misconceptionId": "all-data-is-shadow"
+    },
+    {
+      "id": "plato-07-check-4",
+      "kind": "connect",
+      "prompt": "出洞者为什么必须返回？",
+      "targetNodeIds": [
+        "plato-07-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-07-check-4-correct",
+          "text": "认识善带来重整共同生活的责任，私人观看不能完成政治正义",
+          "feedback": "这个答案把认识资格与公共义务连起，也为不愿统治的哲学家为何受约束留下问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-07-check-4-misconception",
+          "text": "出洞者返回是为了向囚徒证明洞外知识更真实，而非承担共同生活责任",
+          "feedback": "返回并不否定上升；正因为洞外尺度重要，它才必须用于洞内教育与制度，而非成为私人特权。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-07-check-4-correct",
+      "misconceptionId": "return-cancels-ascent"
+    },
+    {
+      "id": "plato-08-check-1",
+      "kind": "understand",
+      "prompt": "哲学家不愿统治为何被视为优点？",
+      "targetNodeIds": [
+        "plato-08-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-08-check-1-misconception",
+          "text": "不愿统治显示哲学家缺少权力欲，因此这种动机已经保证其善治能力",
+          "feedback": "逃避责任与不贪恋权力不同；文本让哲学家返回并接受长期公职，单独不愿意并不授予资格。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-08-check-1-correct",
+          "text": "他知道比权力更好的生活，较少把公职当私人最高善",
+          "feedback": "你抓住了欲望排序的作用：不逐权减少谋私诱因，但它仍须与知识和职责能力结合。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-08-check-1-correct",
+      "misconceptionId": "reluctance-alone-qualifies"
+    },
+    {
+      "id": "plato-08-check-2",
+      "kind": "distinguish",
+      "prompt": "船喻证明了什么，又没有证明什么？",
+      "targetNodeIds": [
+        "plato-08-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-08-check-2-correct",
+          "text": "它说明争权可排斥知识，却未自动证明政治只有一种专家答案",
+          "feedback": "这个回答保留比喻的诊断力和边界；航海技艺与政治共同善之间仍需要额外桥梁。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-08-check-2-misconception",
+          "text": "船喻把公民置于乘客位置，说明政治知识应由一个专业领域单独提供",
+          "feedback": "把公民降为货物是类比过伸。受影响者的经验、平等地位与价值判断不能由领航知识直接消除。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-08-check-2-correct",
+      "misconceptionId": "citizens-are-cargo"
+    },
+    {
+      "id": "plato-08-check-3",
+      "kind": "apply",
+      "prompt": "专家为何不能仅凭专业身份获得无限权限？",
+      "targetNodeIds": [
+        "plato-08-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-08-check-3-correct",
+          "text": "专业知识有领域边界，政治决定还涉及权利、分配与受影响者的理由",
+          "feedback": "你把知识约束与政治正当同时保留：证据必须进入决策，但不能抹去权限边界和申诉。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-08-check-3-misconception",
+          "text": "专业证据进入公共决定便会压过权利争议，所以专家身份不应获得权限",
+          "feedback": "反对无限权限不等于排斥专业知识；忽视证据会让最会争抢者掌舵，正是船喻警告。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-08-check-3-correct",
+      "misconceptionId": "anti-technocracy-means-anti-expertise"
+    },
+    {
+      "id": "plato-08-check-4",
+      "kind": "connect",
+      "prompt": "返回洞穴为什么带来强迫难题？",
+      "targetNodeIds": [
+        "plato-08-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-08-check-4-misconception",
+          "text": "认识善会改变哲学者的利益结构，因此返回并未限制其原有自由选择",
+          "feedback": "文本正因为哲学者拥有更好生活才须解释返回；若他已无利益和选择，强迫问题根本不会出现。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-08-check-4-correct",
+          "text": "共同体服务与受益公平提供理由，但哲学者的自由仍受到限制",
+          "feedback": "这个判断承认双方理由：公共债务不自动取消个体自由，因此强迫正当性仍需论证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-08-check-4-correct",
+      "misconceptionId": "knowledge-erases-freedom"
+    },
+    {
+      "id": "plato-09-check-1",
+      "kind": "understand",
+      "prompt": "苏格拉底为何说爱欲并不美善？",
+      "targetNodeIds": [
+        "plato-09-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-09-check-1-correct",
+          "text": "爱欲所追求的是自己尚未拥有的美善",
+          "feedback": "你抓住了关系结构：爱不是否定美善，而以缺乏美善为追求动力，位于匮乏与资源之间。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-09-check-1-misconception",
+          "text": "爱欲缺少美善，便只能传递匮乏，不能成为教育动力",
+          "feedback": "狄奥提玛恰把爱写成善谋并在美中生育；缺乏不是纯毁灭，而是寻求和创造的起点。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-09-check-1-correct",
+      "misconceptionId": "eros-is-pure-bad"
+    },
+    {
+      "id": "plato-09-check-2",
+      "kind": "distinguish",
+      "prompt": "阶梯为何不应读成简单抛弃具体对象？",
+      "targetNodeIds": [
+        "plato-09-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-09-check-2-correct",
+          "text": "较高层要理解具体美的共同根据，并应改变占有式关系",
+          "feedback": "这个解释使上升保留说明与伦理责任；普遍之美若不能返回关系，就会制造踏板异议。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-09-check-2-misconception",
+          "text": "上升到美本身会取消具体关系的认识价值，对个人的照料属于较低阶段",
+          "feedback": "把人当工具正重演占有欲，而非超越它；理论仍须说明普遍欣赏怎样增强对具体人的责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-09-check-2-correct",
+      "misconceptionId": "ladder-discards-persons"
+    },
+    {
+      "id": "plato-09-check-3",
+      "kind": "apply",
+      "prompt": "导师案例中怎样判断上升是否真实？",
+      "targetNodeIds": [
+        "plato-09-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-09-check-3-misconception",
+          "text": "导师能够陈述共同美的原则，就表明复制与占有已经转化为精神引导",
+          "feedback": "抽象理想不能取消具体人的判断权；若同意与差异被压制，所谓上升只是更精致的控制。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-09-check-3-correct",
+          "text": "看扩展欣赏是否增强对方能动性并减少复制与占有",
+          "feedback": "你把高层词语带回关系后果检验；上升应改变欲望方式，而不只是换一套高尚自述。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-09-check-3-correct",
+      "misconceptionId": "abstract-love-excuses-control"
+    },
+    {
+      "id": "plato-09-check-4",
+      "kind": "connect",
+      "prompt": "阿尔基比亚德闯入承担什么作用？",
+      "targetNodeIds": [
+        "plato-09-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-09-check-4-correct",
+          "text": "让爱欲阶梯接受嫉妒、羞耻与具体依恋的戏剧检验",
+          "feedback": "这个回答保留开放张力：闯入不简单否定狄奥提玛，而显示理论尚须解释未被驯服的生活。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-09-check-4-misconception",
+          "text": "阿尔基比亚德的失败表明爱欲阶梯不适用于依恋，前述论证须撤回",
+          "feedback": "戏剧反压力不等于撤销全文；阿尔基比亚德既印证苏格拉底吸引力，也暴露上升如何难以实现。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-09-check-4-correct",
+      "misconceptionId": "alcibiades-cancels-ladder"
+    },
+    {
+      "id": "plato-10-check-1",
+      "kind": "understand",
+      "prompt": "苏格拉底为何撤回第一篇演说？",
+      "targetNodeIds": [
+        "plato-10-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-10-check-1-correct",
+          "text": "演说虽更有条理，却把可能神圣的爱一概当成疾病",
+          "feedback": "你区分了形式质量与真理责任；漂亮结构不能补救对象认识错误，撤回由此引出灵魂论。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-10-check-1-misconception",
+          "text": "撤回第一演说是因清晰结构会遮蔽神圣经验",
+          "feedback": "后半部正要求言说有结构，问题不是清楚本身，而是第一篇在错误前提上贬低全部爱欲。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-10-check-1-correct",
+      "misconceptionId": "recantation-rejects-form"
+    },
+    {
+      "id": "plato-10-check-2",
+      "kind": "distinguish",
+      "prompt": "神圣疯狂怎样与破坏性冲动区分？",
+      "targetNodeIds": [
+        "plato-10-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-10-check-2-misconception",
+          "text": "指向真美的强烈感受本身就是神圣疯狂",
+          "feedback": "自我命名不能证明神圣来源。若同意、节制与照料消失，所谓疯狂更可能是被包装的支配。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-10-check-2-correct",
+          "text": "要看它是否由真美回忆、节制与对所爱者的照料约束",
+          "feedback": "这个答案把神话条件带回关系检验；强度本身不授予权力，黑马仍需受约束。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-10-check-2-correct",
+      "misconceptionId": "intensity-sanctifies-action"
+    },
+    {
+      "id": "plato-10-check-3",
+      "kind": "apply",
+      "prompt": "自动建议最接近书写批评的哪项限度？",
+      "targetNodeIds": [
+        "plato-10-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-10-check-3-misconception",
+          "text": "文字不能实时回答，因而不能传递知识",
+          "feedback": "忒乌特神话称文字为药，意味着效果取决于使用；柏拉图自己书写，也阻止绝对否定。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-10-check-3-correct",
+          "text": "它重复同样文字却不能诊断误解、例外并实时回答",
+          "feedback": "你抓住了回应能力而非媒介本质；可靠提示仍有价值，只是不能冒充完整、适配的智慧。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-10-check-3-correct",
+      "misconceptionId": "writing-is-always-false"
+    },
+    {
+      "id": "plato-10-check-4",
+      "kind": "connect",
+      "prompt": "爱情与修辞为何属于同一对话？",
+      "targetNodeIds": [
+        "plato-10-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-10-check-4-misconception",
+          "text": "爱情讨论欲望，修辞讨论技巧，二者问题分离",
+          "feedback": "对话反复从灵魂类型、综合划分和言说适配回看爱欲；若说偶然拼接，会遗漏明确过桥。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-10-check-4-correct",
+          "text": "二者都涉及怎样认识并引导灵魂而不被欲望或技巧欺骗",
+          "feedback": "这个连接解释了结构：爱者和演说者都必须认识对象、灵魂差异与真理，而非只追求效果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-10-check-4-correct",
+      "misconceptionId": "phaedrus-is-two-books"
+    },
+    {
+      "id": "plato-11-check-1",
+      "kind": "understand",
+      "prompt": "感觉定义为何不足？",
+      "targetNodeIds": [
+        "plato-11-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-11-check-1-misconception",
+          "text": "共同性质来自各感觉中最强烈的一种",
+          "feedback": "对话不否认当下感受可以忠实。问题是从感受走向存在、关系和未来判断需要更多活动。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-11-check-1-correct",
+          "text": "灵魂还要判断存在、同异和数等跨感觉共同性质",
+          "feedback": "你保留了感觉贡献又指出知识需要比较判断；共同性质没有单一感觉器官对应。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-11-check-1-correct",
+      "misconceptionId": "all-perception-false"
+    },
+    {
+      "id": "plato-11-check-2",
+      "kind": "distinguish",
+      "prompt": "陪审团例子攻击真判断的哪一缺口？",
+      "targetNodeIds": [
+        "plato-11-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-11-check-2-correct",
+          "text": "真结论没有说明它通过何种证据与方法获得",
+          "feedback": "这个回答把压力放在认识路径；例子不必承诺所有证词无效，只说明真值本身不够。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-11-check-2-misconception",
+          "text": "知识要求本人亲历，证词只能形成意见",
+          "feedback": "可靠证词可能传递知识。文本例子针对有限说服情境，不能扩成对全部间接证据的禁止。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-11-check-2-correct",
+      "misconceptionId": "testimony-never-knows"
+    },
+    {
+      "id": "plato-11-check-3",
+      "kind": "apply",
+      "prompt": "为什么列出模型输入还不等于说明？",
+      "targetNodeIds": [
+        "plato-11-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-11-check-3-misconception",
+          "text": "输入清单完整便已构成因果关系的说明",
+          "feedback": "长度不能系住真判断；大量无关元素只增加噪声，说明必须揭示相关差异与推理。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-11-check-3-correct",
+          "text": "元素清单未指出哪些关系相关以及结论为何随之成立",
+          "feedback": "你抓住了logos的结构要求：组成信息需要组织成能区分对象并支持结论的关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-11-check-3-correct",
+      "misconceptionId": "enumeration-is-explanation"
+    },
+    {
+      "id": "plato-11-check-4",
+      "kind": "connect",
+      "prompt": "结尾困惑表示什么？",
+      "targetNodeIds": [
+        "plato-11-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-11-check-4-correct",
+          "text": "三种定义均未通过检验，但失败位置为后续探究提供约束",
+          "feedback": "这个理解延续苏格拉底式困惑：没有成品答案不等于没有进展，排除路径本身改变了寻找条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-11-check-4-misconception",
+          "text": "三种定义都失败，结尾据此确认知识无法得到正面说明",
+          "feedback": "对话持续区分较好与较坏理由，并未否定知识；若探究应停止，助产与三轮检验都失去意义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-11-check-4-correct",
+      "misconceptionId": "aporia-means-no-knowledge"
+    },
+    {
+      "id": "plato-12-check-1",
+      "kind": "understand",
+      "prompt": "第三人论证为何会无限倒退？",
+      "targetNodeIds": [
+        "plato-12-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-12-check-1-correct",
+          "text": "实例与形式共同具有性质时，又需新形式解释这个共同性",
+          "feedback": "你指出了重复应用的同一解释原则；要阻止倒退，必须修改自我谓述或分有关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-12-check-1-misconception",
+          "text": "实例数量持续增加，列举不完才导致形式层级不断增加",
+          "feedback": "单纯列举不能说明共同性。第三人不是反对所有普遍解释，而是检验某种把形式当同类大物的模型。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-12-check-1-correct",
+      "misconceptionId": "third-man-rejects-universals"
+    },
+    {
+      "id": "plato-12-check-2",
+      "kind": "distinguish",
+      "prompt": "《智者》的非存在指什么？",
+      "targetNodeIds": [
+        "plato-12-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-12-check-2-misconception",
+          "text": "非存在是与存在并列的特殊对象",
+          "feedback": "若非存在仍是不可说的绝对无，智者假像与假话问题不会解决；异乡人正拒绝这种理解。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-12-check-2-correct",
+          "text": "相对于某物的不同，而非与存在绝对相反的虚无",
+          "feedback": "这个答案抓住弑父转向：否定可通过差异参与成立，使分类和虚假陈述获得空间。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-12-check-2-correct",
+      "misconceptionId": "nonbeing-is-mysterious-thing"
+    },
+    {
+      "id": "plato-12-check-3",
+      "kind": "apply",
+      "prompt": "狼被标成狗怎样说明虚假？",
+      "targetNodeIds": [
+        "plato-12-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-12-check-3-correct",
+          "text": "陈述有真实对象和类别，却把不属于对象的性质错误结合",
+          "feedback": "你把假话放在结构错配中；它能有意义、有对象，却因参与关系不成立而为假。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-12-check-3-misconception",
+          "text": "句中没有可识别的真实对象，所以陈述才会虚假",
+          "feedback": "若必须毫无对象才叫假，关于真实对象的错误陈述便无法解释；这正是异乡人要突破的困境。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-12-check-3-correct",
+      "misconceptionId": "falsehood-needs-nothing"
+    },
+    {
+      "id": "plato-12-check-4",
+      "kind": "connect",
+      "prompt": "晚期压力怎样改变形式论图景？",
+      "targetNodeIds": [
+        "plato-12-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-12-check-4-correct",
+          "text": "它迫使解释分有、关系和差异，不能把形式当孤立复制品",
+          "feedback": "这个判断同时保留批评与连续性；大类和辩证仍在，只是关系模型必须更精细。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-12-check-4-misconception",
+          "text": "分有困难要求放弃稳定形式，改用感官印象作存在标准",
+          "feedback": "巴门尼德明确说没有稳定形式会使思考无所归，《智者》也依赖大类；文本并未回到纯感觉论。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-12-check-4-correct",
+      "misconceptionId": "late-plato-abolishes-forms"
+    },
+    {
+      "id": "plato-gorgias-check-1",
+      "kind": "distinguish",
+      "prompt": "修辞为什么会被苏格拉底称为逢迎？",
+      "targetNodeIds": [
+        "plato-gorgias-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-gorgias-check-1-misconception",
+          "text": "修辞面向多数听众，因此公共说服通常缺少技艺地位",
+          "feedback": "论证没有排除公共说服；它排除的是脱离知识和责任、只追求取悦效果的说服。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-gorgias-check-1-correct",
+          "text": "它若只制造信念而不认识正义，便只能迎合听众感受",
+          "feedback": "这里抓住技艺与逢迎的分界：效果本身不够，还要能说明对象之善及做法的理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-gorgias-check-1-correct",
+      "misconceptionId": "all-persuasion-deception"
+    },
+    {
+      "id": "plato-gorgias-check-2",
+      "kind": "understand",
+      "prompt": "“能做想做之事”为何还不等于真正有力量？",
+      "targetNodeIds": [
+        "plato-gorgias-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-gorgias-check-2-correct",
+          "text": "行动者可能只追逐眼前所欲，却没有得到其真正视为善的结果",
+          "feedback": "你保留了手段愿望与最终善的区别，权力因此必须接受结果和判断能力检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-gorgias-check-2-misconception",
+          "text": "命令得到执行便实现行动者所欲，力量不涉及欲望评价",
+          "feedback": "执行成功只证明手段有效；若判断错误，成功反而可能使灵魂和他人受损。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-gorgias-check-2-correct",
+      "misconceptionId": "execution-equals-good"
+    },
+    {
+      "id": "plato-gorgias-check-3",
+      "kind": "connect",
+      "prompt": "卡利克勒斯怎样使争论变得更困难？",
+      "targetNodeIds": [
+        "plato-gorgias-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-gorgias-check-3-misconception",
+          "text": "卡利克勒斯接受节制有益，只质疑苏格拉底能否实践",
+          "feedback": "卡利克勒斯恰恰改写自然、强者和幸福前提，因此不能把他当成单纯固执。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-gorgias-check-3-correct",
+          "text": "他不靠羞耻退让，而以强者自然和欲望扩张正面挑战节制",
+          "feedback": "这说明反方不是陪衬；正义论必须回答为何满足更多欲望并不就是更好生活。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-gorgias-check-3-correct",
+      "misconceptionId": "callicles-shares-premises"
+    },
+    {
+      "id": "plato-gorgias-check-4",
+      "kind": "boundary",
+      "prompt": "末尾审判神话承担什么责任？",
+      "targetNodeIds": [
+        "plato-gorgias-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-gorgias-check-4-misconception",
+          "text": "审判神话补足经验事实，使此前论证获得独立证明",
+          "feedback": "叙事权威不能回溯性地使前述推论有效；每一步仍须按自身前提接受检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-gorgias-check-4-correct",
+          "text": "它把灵魂后果写成规范图景，却不能替代此前关于善与正义的论证",
+          "feedback": "你区分了神话的实践想象与证明责任；神话能收束选择，不能修补未证前提。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-gorgias-check-4-correct",
+      "misconceptionId": "myth-proves-argument"
+    },
+    {
+      "id": "plato-republic-waves-check-1",
+      "kind": "understand",
+      "prompt": "第一浪潮用什么理由支持女性护卫者？",
+      "targetNodeIds": [
+        "plato-republic-waves-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-republic-waves-check-1-misconception",
+          "text": "性别差异与护卫任务相关，因此职位仍应先按性别安排",
+          "feedback": "文本并未否认所有差异；它要求证明差异与任务相关，不能从性别直接推出职位。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-republic-waves-check-1-correct",
+          "text": "职位应按与任务相关的能力安排，性别差异本身不足以决定护卫职责",
+          "feedback": "这个回答保住了论证中项，也留下古代文本仍如何理解身体差异的问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-republic-waves-check-1-correct",
+      "misconceptionId": "equality-means-identical"
+    },
+    {
+      "id": "plato-republic-waves-check-2",
+      "kind": "boundary",
+      "prompt": "家庭与财产共同安排试图解决什么，又制造什么风险？",
+      "targetNodeIds": [
+        "plato-republic-waves-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-republic-waves-check-2-correct",
+          "text": "它试图阻止护卫者把城邦据为家产，却可能取消具体照护与个人边界",
+          "feedback": "你同时保留了反派系目的和制度代价，没有把共同体自动等同共同善。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-republic-waves-check-2-misconception",
+          "text": "共同安排旨在扩大私人分享，并不改变亲属与照护结构",
+          "feedback": "该方案改变护卫阶层的亲属识别、子女安排和财产结构，远不只是自愿分享。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-republic-waves-check-2-correct",
+      "misconceptionId": "waves-are-charity"
+    },
+    {
+      "id": "plato-republic-waves-check-3",
+      "kind": "connect",
+      "prompt": "第三浪潮为何由前两浪潮逼出？",
+      "targetNodeIds": [
+        "plato-republic-waves-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-republic-waves-check-3-correct",
+          "text": "制度重组需要知道共同善的人判断能力、教育与角色安排，否则只剩强制设计",
+          "feedback": "哲学统治不是突然插入；前两项激进制度使知识资格成为无法回避的问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-republic-waves-check-3-misconception",
+          "text": "家庭结构取消会削弱私利，因此掌权者凭制度位置便具备哲学知识",
+          "feedback": "取消家庭不产生知识，还可能扩大权力；第三浪潮必须另证哲学与统治的结合。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-republic-waves-check-3-correct",
+      "misconceptionId": "institutions-create-knowledge"
+    },
+    {
+      "id": "plato-republic-waves-check-4",
+      "kind": "boundary",
+      "prompt": "三次浪潮最不能被省略的现代边界是什么？",
+      "targetNodeIds": [
+        "plato-republic-waves-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-republic-waves-check-4-misconception",
+          "text": "能力开放实现平等后，生育安排与同意问题已得到化解",
+          "feedback": "一项突破不能替其余安排取得免责；亲属、身体和生育权力仍须独立评价。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-republic-waves-check-4-correct",
+          "text": "能力开放不洗白优生、欺骗和被安排者缺少同意的问题",
+          "feedback": "这把文本中的平等突破与强制风险同时保留，避免赞美或否定一边倒。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-republic-waves-check-4-correct",
+      "misconceptionId": "one-progressive-feature-cleanses-all"
+    },
+    {
+      "id": "plato-statesman-check-1",
+      "kind": "understand",
+      "prompt": "早期“养人畜群”定义为何失败？",
+      "targetNodeIds": [
+        "plato-statesman-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-statesman-check-1-correct",
+          "text": "它把政治家与许多照料人类的技艺混在一起，分类仍然过宽",
+          "feedback": "你定位了划分失败的类型：不是完全无关，而是没有找出政治照料的特有关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-statesman-check-1-misconception",
+          "text": "养育定义失败说明政治工作主要是命令，而不是照料共同生活",
+          "feedback": "对话没有取消照料，而是要求从竞争技艺中辨出政治统领的特殊工作。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-statesman-check-1-correct",
+      "misconceptionId": "division-too-broad"
+    },
+    {
+      "id": "plato-statesman-check-2",
+      "kind": "connect",
+      "prompt": "宇宙循环神话怎样修正政治模型？",
+      "targetNodeIds": [
+        "plato-statesman-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-statesman-check-2-correct",
+          "text": "它把神直接牧养人类的时代与当下分开，阻止统治者冒充神牧人",
+          "feedback": "神话不是装饰，它撤回了最初分类暗含的神牧假设，使政治回到人与人的治理。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-statesman-check-2-misconception",
+          "text": "神牧时代提供政治范型，当代统治应尽量复制其权力",
+          "feedback": "神话恰恰说明时代条件不同；凡人统治者不能借失落神治取得同等身份。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-statesman-check-2-correct",
+      "misconceptionId": "myth-authorizes-pastoral-absolutism"
+    },
+    {
+      "id": "plato-statesman-check-3",
+      "kind": "distinguish",
+      "prompt": "两种尺度为什么重要？",
+      "targetNodeIds": [
+        "plato-statesman-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-statesman-check-3-misconception",
+          "text": "恰当尺度高于数量比较，因此政治判断可离开公开标准",
+          "feedback": "合宜不是私人直觉通行证；对话仍要求知识、分类和共同体编织的说明。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-statesman-check-3-correct",
+          "text": "相对大小只比较多寡，恰当尺度还判断行动是否过度、不足或合宜",
+          "feedback": "这说明政治判断不能只取平均值，还须说明目标、时机和适当关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-statesman-check-3-correct",
+      "misconceptionId": "measure-is-arbitrary"
+    },
+    {
+      "id": "plato-statesman-check-4",
+      "kind": "boundary",
+      "prompt": "知识统治与法律的张力应怎样保留？",
+      "targetNodeIds": [
+        "plato-statesman-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-statesman-check-4-misconception",
+          "text": "理想知识高于法律，所以现实专家也应保有秘密例外",
+          "feedback": "从理想专家不能推出实际官员拥有知识；辨认失败正是法律不能被轻易取消的理由。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-statesman-check-4-correct",
+          "text": "真知识似应按个案调整，但现实难辨无误政治家，使稳定法律成为防护",
+          "feedback": "你没有让任何一边吞掉另一边：规则有僵硬风险，超规则权力有冒名风险。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-statesman-check-4-correct",
+      "misconceptionId": "ideal-expert-authorizes-officials"
+    },
+    {
+      "id": "plato-philebus-check-1",
+      "kind": "understand",
+      "prompt": "为什么快乐和知识都不能单独构成完满生活？",
+      "targetNodeIds": [
+        "plato-philebus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-philebus-check-1-misconception",
+          "text": "快乐与知识都未单独获胜，因此进入混合后也不再具有价值",
+          "feedback": "对话不是双重排除，而是拒绝任何一方独占善，并为二者安排不同位置。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-philebus-check-1-correct",
+          "text": "无知的快乐缺少真与记忆，完全无感受的知识生活也不像人的可欲生活",
+          "feedback": "这保住了起始排除：双方都需进入混合，但进入方式和等级仍待分析。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-philebus-check-1-correct",
+      "misconceptionId": "both-sides-worthless"
+    },
+    {
+      "id": "plato-philebus-check-2",
+      "kind": "connect",
+      "prompt": "限、无限、混合和原因怎样进入价值论？",
+      "targetNodeIds": [
+        "plato-philebus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-philebus-check-2-misconception",
+          "text": "混合包含的成分越丰富，生活就越接近自足与完整",
+          "feedback": "混合的善取决于比例、真和适当，不是成分数量；无度增加正是无限的风险。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-philebus-check-2-correct",
+          "text": "快乐的多寡与强度需由尺度组织成有比例的生活，原因解释混合秩序",
+          "feedback": "四类不是宇宙术语装饰，它们说明善为何与尺度、比例和生成秩序相关。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-philebus-check-2-correct",
+      "misconceptionId": "more-components-better"
+    },
+    {
+      "id": "plato-philebus-check-3",
+      "kind": "distinguish",
+      "prompt": "“假快乐”最谨慎的理解是什么？",
+      "targetNodeIds": [
+        "plato-philebus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-philebus-check-3-correct",
+          "text": "感受发生可以真实，但关于对象、预期或比较的判断可能错误",
+          "feedback": "这个回答避免说疼痛愉快从未发生，同时保留快乐含认知结构的论点。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-philebus-check-3-misconception",
+          "text": "后来后悔显示先前感受并非快乐，而是判断造成的幻觉",
+          "feedback": "后悔不会抹除当时感受；争点在快乐与判断如何结合，而非否认心理事件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-philebus-check-3-correct",
+      "misconceptionId": "false-pleasure-no-feeling"
+    },
+    {
+      "id": "plato-philebus-check-4",
+      "kind": "boundary",
+      "prompt": "混合善为什么不是折中主义？",
+      "targetNodeIds": [
+        "plato-philebus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-philebus-check-4-correct",
+          "text": "成分须按真、尺度和适当排序，有些快乐会因虚假或无度被排除",
+          "feedback": "混合不是各退一半，而是由共同尺度改变各成分进入生活的方式。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-philebus-check-4-misconception",
+          "text": "混合善保留争论双方的核心主张，排序只是折中比例",
+          "feedback": "谈判平衡不是价值理由；对话需要说明哪些知识和快乐值得进入及为何排序。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-philebus-check-4-correct",
+      "misconceptionId": "mixture-is-compromise"
+    },
+    {
+      "id": "plato-timaeus-check-1",
+      "kind": "boundary",
+      "prompt": "“似然言说”要求怎样理解宇宙论？",
+      "targetNodeIds": [
+        "plato-timaeus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-timaeus-check-1-correct",
+          "text": "它给生成世界的说明限定认识强度，不等于故事可随意，也不等于现代实验证明",
+          "feedback": "你保留了叙事的理由约束和证据边界，避免在神话与科学之间二选一。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-timaeus-check-1-misconception",
+          "text": "似然言说降低确定性，因此叙事的一致与融贯不再约束宇宙说明",
+          "feedback": "似然仍须与范型、秩序和现象相称；降低确定性不等于取消解释责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-timaeus-check-1-correct",
+      "misconceptionId": "likely-story-is-arbitrary"
+    },
+    {
+      "id": "plato-timaeus-check-2",
+      "kind": "understand",
+      "prompt": "工匠为何不是从无创造的证明？",
+      "targetNodeIds": [
+        "plato-timaeus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-timaeus-check-2-misconception",
+          "text": "工匠先于宇宙活动，时间次序由此证明从无创造",
+          "feedback": "对话没有这样建立从无创造；把后世教义装入工匠会抹掉范型、必然和容器。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-timaeus-check-2-correct",
+          "text": "他以既有范型整理生成秩序，对话还让必然和容器承担条件",
+          "feedback": "这保住了文本因果结构：制作比喻说明秩序朝向善，不自动等于后世创造教义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-timaeus-check-2-correct",
+      "misconceptionId": "demiurge-creation-ex-nihilo"
+    },
+    {
+      "id": "plato-timaeus-check-3",
+      "kind": "connect",
+      "prompt": "理智“劝服”必然说明什么？",
+      "targetNodeIds": [
+        "plato-timaeus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-timaeus-check-3-correct",
+          "text": "目的秩序必须通过材料和运动条件实现，不能把限制简单消除",
+          "feedback": "理智与必然不是两个事件竞争，而是目的说明和条件说明的交织。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-timaeus-check-3-misconception",
+          "text": "必然造成秩序缺陷，显示理智原因未参与生成过程",
+          "feedback": "限制和失败会收缩最佳秩序主张，却不能由不完美直接推出毫无秩序关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-timaeus-check-3-correct",
+      "misconceptionId": "imperfection-erases-order"
+    },
+    {
+      "id": "plato-timaeus-check-4",
+      "kind": "distinguish",
+      "prompt": "容器为何既不是形式也不是普通物体？",
+      "targetNodeIds": [
+        "plato-timaeus-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-timaeus-check-4-misconception",
+          "text": "容器承受四元素，因此它是形状稳定的第五种物体",
+          "feedback": "固定元素本身在容器中生成变化；把容器当一种元素会失去承受关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-timaeus-check-4-correct",
+          "text": "它是生成事物显现和变化的承受条件，却不等同被承受的性质",
+          "feedback": "你守住了第三类的功能，也承认其身份仍充满解释困难。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-timaeus-check-4-correct",
+      "misconceptionId": "receptacle-is-element"
+    },
+    {
+      "id": "plato-laws-check-1",
+      "kind": "understand",
+      "prompt": "法律序言为什么不等于惩罚条文的修辞包装？",
+      "targetNodeIds": [
+        "plato-laws-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-laws-check-1-misconception",
+          "text": "序言增加劝说文字，目的只是让同一惩罚更容易被公民接受",
+          "feedback": "若只加重恐惧，序言没有完成对话所区分的说服任务，也无法解释内化规范。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-laws-check-1-correct",
+          "text": "它试图让公民理解规则所保护的善，使服从含有理由而不只含恐惧",
+          "feedback": "序言的理想是劝服与规范形成；它是否真给异议留下回应仍须另审。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-laws-check-1-correct",
+      "misconceptionId": "preamble-is-long-threat"
+    },
+    {
+      "id": "plato-laws-check-2",
+      "kind": "connect",
+      "prompt": "混合政体试图平衡什么？",
+      "targetNodeIds": [
+        "plato-laws-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-laws-check-2-correct",
+          "text": "自由与权威、君主原则与民主原则，使任一力量不独占城邦",
+          "feedback": "这抓住制度设计的关系目标；平衡仍需具体公职、法律和教育来实现。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-laws-check-2-misconception",
+          "text": "君主与民主原则并列，制度便获得了稳定平衡",
+          "feedback": "名称并列不产生制衡；若权力分配和问责未改变，混合只是标签。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-laws-check-2-correct",
+      "misconceptionId": "mixed-label-is-balance"
+    },
+    {
+      "id": "plato-laws-check-3",
+      "kind": "boundary",
+      "prompt": "第十卷反无神论最需要保留什么边界？",
+      "targetNodeIds": [
+        "plato-laws-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-laws-check-3-misconception",
+          "text": "灵魂论证支持公共宗教，也同时支持针对错误信念的国家惩罚",
+          "feedback": "从错误到应受罚缺少伤害、权限和比例中项；《法律篇》的强制正是必须批判的部分。",
+          "isCorrect": false
+        },
+        {
+          "id": "plato-laws-check-3-correct",
+          "text": "灵魂运动论证、公共宗教和惩罚制度须分开评价，论证成立也不自动授权强制",
+          "feedback": "你没有让形上结论替政治处罚背书；信念、伤害和权力仍需分别证明。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "plato-laws-check-3-correct",
+      "misconceptionId": "false-belief-crime"
+    },
+    {
+      "id": "plato-laws-check-4",
+      "kind": "distinguish",
+      "prompt": "为何不能把《法律篇》简单说成放弃哲人王？",
+      "targetNodeIds": [
+        "plato-laws-interpretation"
+      ],
+      "options": [
+        {
+          "id": "plato-laws-check-4-correct",
+          "text": "它在缺少可验证无误统治者时让理智进入法律、教育和机构，仍保留知识精英张力",
+          "feedback": "这保留连续与改变：问题仍是理智统治，载体从单一统治者转向制度而未完全民主化。",
+          "isCorrect": true
+        },
+        {
+          "id": "plato-laws-check-4-misconception",
+          "text": "夜间议事会包含集体审议，因此其成员来源与现代普选议会相同",
+          "feedback": "夜间议事会是少数受高等训练者，并非现代代表制度；类比会抹掉资格与权力差异。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "plato-laws-check-4-correct",
+      "misconceptionId": "nocturnal-council-is-parliament"
+    }
+  ]
+}

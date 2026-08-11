@@ -1,0 +1,5392 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "schelling--S01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。",
+      "explanation": "现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Schelling periodization"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题；这种连线是受限综合，不冒充谢林某一时期的自述。",
+      "explanation": "本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题；这种连线是受限综合，不冒充谢林某一时期的自述。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s01-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded route continuity"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。",
+      "explanation": "《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-ideas-intro"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "nature as philosophical problem"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。",
+      "explanation": "1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-productivity"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "nature productivity and product"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "早期自然哲学以相反活动、抑制与层级组织说明自然形态；对立是生成条件，不是外加给静态物质的装饰。",
+      "explanation": "早期自然哲学以相反活动、抑制与层级组织说明自然形态；对立是生成条件，不是外加给静态物质的装饰。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-polarity"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "opposed activities in nature"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识；二者路径不同，不能把自然降为自我的幻影。",
+      "explanation": "自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识；二者路径不同，不能把自然降为自我的幻影。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro",
+        "schelling--src-first-outline-polarity--s03-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "autonomy of Naturphilosophie"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然；它与从客观出发的自然哲学构成平行方向。",
+      "explanation": "1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然；它与从客观出发的自然哲学构成平行方向。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c1"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "task of transcendental philosophy"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。",
+      "explanation": "“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "subjective starting point not voluntarism"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生；这是先验构造，不是经验心理学年表。",
+      "explanation": "《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生；这是先验构造，不是经验心理学年表。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-epochs"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "epochs of self-consciousness"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。",
+      "explanation": "实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-freedom-history"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "freedom and history in STI"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。",
+      "explanation": "《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "art as organ of philosophy"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一；此结论属于1800体系语境。",
+      "explanation": "艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一；此结论属于1800体系语境。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art--s06-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "art and conscious-unconscious identity"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。",
+      "explanation": "1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "absolute identity"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "同一哲学试图说明差别如何在共同根据中可理解；若把同一读成所有事物无差别，就丢失了形式与量的区分。",
+      "explanation": "同一哲学试图说明差别如何在共同根据中可理解；若把同一读成所有事物无差别，就丢失了形式与量的区分。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801--s07-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "identity with articulated difference"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一；对话角色的论证结构不能简化成一句口号。",
+      "explanation": "《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一；对话角色的论证结构不能简化成一句口号。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-bruno"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ideal-real unity in Bruno"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。",
+      "explanation": "对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-bruno--s08-c2",
+        "schelling--src-sep-periods--s08-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "dialogue-form attribution boundary"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对；这是黑格尔对某种同一哲学的批评声部。",
+      "explanation": "黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对；这是黑格尔对某种同一哲学的批评声部。",
+      "identity": "historical-opponent; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Hegel critique of empty identity"
+      ],
+      "voiceClass": "historical-opponent"
+    },
+    {
+      "id": "schelling--S09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻；对象和声音必须分开。",
+      "explanation": "接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻；对象和声音必须分开。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface--s09-c2",
+        "schelling--src-presentation-1801--s09-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "boundary between opponent and target"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1809《自由论》区分上帝存在的根据与上帝作为存在者；“在上帝中的自然”不可直接等同于已实现的上帝。",
+      "explanation": "1809《自由论》区分上帝存在的根据与上帝作为存在者；“在上帝中的自然”不可直接等同于已实现的上帝。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ground and existence in God"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《自由论》并非简单放弃系统，而是要求系统能够说明活的自由以及根据内部的现实张力。",
+      "explanation": "《自由论》并非简单放弃系统，而是要求系统能够说明活的自由以及根据内部的现实张力。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground--s10-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "system transformed by freedom"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "若恶只是善的缺失，自由选择恶便不够真实；《自由论》因此把恶说明为原则次序的积极颠倒，而非独立实体。",
+      "explanation": "若恶只是善的缺失，自由选择恶便不够真实；《自由论》因此把恶说明为原则次序的积极颠倒，而非独立实体。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-evil"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "positive possibility of evil"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "人的独特位置使其能让自我意志支配普遍意志；恶源于统一内部的错序，不能归咎于一种与善并列的第二神。",
+      "explanation": "人的独特位置使其能让自我意志支配普遍意志；恶源于统一内部的错序，不能归咎于一种与善并列的第二神。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "human inversion of principles"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动；人格与行动的根源相连。",
+      "explanation": "《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动；人格与行动的根源相连。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality--s12-c1"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "freedom and intelligible deed"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "海德格尔把1809论文读作谢林体系问题的核心事件；这是二十世纪接受史，不是《自由论》自身的额外章节。",
+      "explanation": "海德格尔把1809论文读作谢林体系问题的核心事件；这是二十世纪接受史，不是《自由论》自身的额外章节。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-heidegger-freedom"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Heidegger reception of Freedom essay"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系；引用时必须保留草稿身份。",
+      "explanation": "《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系；引用时必须保留草稿身份。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-ages-drafts"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Ages draft plurality"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。",
+      "explanation": "作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s13-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "time as generated articulation"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成；这些力量构成时间化过程，不能直接当作现代物理力。",
+      "explanation": "《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成；这些力量构成时间化过程，不能直接当作现代物理力。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-ages-forces"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "contraction and expansion"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "作品以人的灵魂与创造同源来说明对世界生成的“共同知识”；这是思辨叙事的认识主张，不是经验记忆宇宙开端。",
+      "explanation": "作品以人的灵魂与创造同源来说明对世界生成的“共同知识”；这是思辨叙事的认识主张，不是经验记忆宇宙开端。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s14-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "co-knowledge of creation"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "schelling--S15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。",
+      "explanation": "晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-positive-negative"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "negative and positive philosophy"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实；它仍需理性解释已经给予的存在与历史。",
+      "explanation": "积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实；它仍需理性解释已经给予的存在与历史。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s15-c2"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "positive philosophy and reason"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "晚期启示哲学把神话和启示作为历史现实来解释；其具体论证属于讲稿传统，必须按讲次与版本核定。",
+      "explanation": "晚期启示哲学把神话和启示作为历史现实来解释；其具体论证属于讲稿传统，必须按讲次与版本核定。",
+      "identity": "schelling-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-revelation-facticity"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "revelation as positive historical matter"
+      ],
+      "voiceClass": "schelling-primary"
+    },
+    {
+      "id": "schelling--S16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽；这是路线综合，不是抹平时期的终极公式。",
+      "explanation": "从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽；这是路线综合，不是抹平时期的终极公式。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s16-c2",
+        "schelling--src-notre-dame-late"
+      ],
+      "abilityIds": [
+        "schelling-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "bounded synthesis of actuality"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "schelling--src-sep-periods",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S01-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S01-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s01-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S01-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S01-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s08-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S08-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S08-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s13-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S13-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S13-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s14-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S14-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S14-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s15-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S15-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S15-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-sep-periods--s16-c2",
+      "workId": "Friedrich Wilhelm Joseph von Schelling",
+      "edition": "Andrew Bowie, Stanford Encyclopedia of Philosophy, Spring 2022 archive",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S16-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Friedrich Wilhelm Joseph von Schelling",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S16-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-ideas-intro",
+      "workId": "Ideas for a Philosophy of Nature",
+      "edition": "Errol E. Harris and Peter Heath trans. (Cambridge University Press, 1988)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S02-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Ideas for a Philosophy of Nature",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S02-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "early-naturphilosophie"
+    },
+    {
+      "id": "schelling--src-first-outline-productivity",
+      "workId": "First Outline of a System of the Philosophy of Nature",
+      "edition": "Keith R. Peterson trans. (SUNY Press, 2004)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S02-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "First Outline of a System of the Philosophy of Nature",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S02-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "early-naturphilosophie"
+    },
+    {
+      "id": "schelling--src-first-outline-polarity",
+      "workId": "First Outline of a System of the Philosophy of Nature",
+      "edition": "Peterson trans. (SUNY Press, 2004)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S03-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "First Outline of a System of the Philosophy of Nature",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S03-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "early-naturphilosophie"
+    },
+    {
+      "id": "schelling--src-first-outline-polarity--s03-c2",
+      "workId": "First Outline of a System of the Philosophy of Nature",
+      "edition": "Peterson trans. (SUNY Press, 2004)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S03-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "First Outline of a System of the Philosophy of Nature",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S03-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "early-naturphilosophie"
+    },
+    {
+      "id": "schelling--src-sti-intro",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Peter Heath trans. (University Press of Virginia, 1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S03-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S03-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-intro--s04-c1",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Peter Heath trans. (University Press of Virginia, 1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S04-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S04-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-intro--s04-c2",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Peter Heath trans. (University Press of Virginia, 1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S04-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S04-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-epochs",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Heath trans. (1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S05-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S05-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-freedom-history",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Heath trans. (1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S05-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S05-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-art",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Heath trans. (1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S06-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S06-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-sti-art--s06-c2",
+      "workId": "System of Transcendental Idealism (1800)",
+      "edition": "Heath trans. (1978)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S06-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "System of Transcendental Idealism (1800)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S06-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "transcendental-idealism-1800"
+    },
+    {
+      "id": "schelling--src-presentation-1801",
+      "workId": "Presentation of My System of Philosophy (1801)",
+      "edition": "Michael G. Vater trans., The Philosophical Forum 32 (2001)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S07-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Presentation of My System of Philosophy (1801)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S07-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "identity-philosophy-1801-1807"
+    },
+    {
+      "id": "schelling--src-presentation-1801--s07-c2",
+      "workId": "Presentation of My System of Philosophy (1801)",
+      "edition": "Michael G. Vater trans., The Philosophical Forum 32 (2001)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S07-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Presentation of My System of Philosophy (1801)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S07-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "identity-philosophy-1801-1807"
+    },
+    {
+      "id": "schelling--src-presentation-1801--s09-c2",
+      "workId": "Presentation of My System of Philosophy (1801)",
+      "edition": "Michael G. Vater trans., The Philosophical Forum 32 (2001)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S09-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Presentation of My System of Philosophy (1801)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S09-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "identity-philosophy-1801-1807"
+    },
+    {
+      "id": "schelling--src-bruno",
+      "workId": "Bruno, or On the Natural and the Divine Principle of Things (1802)",
+      "edition": "Michael G. Vater trans. (SUNY Press, 1984)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S08-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Bruno, or On the Natural and the Divine Principle of Things (1802)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S08-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "identity-philosophy-1801-1807"
+    },
+    {
+      "id": "schelling--src-bruno--s08-c2",
+      "workId": "Bruno, or On the Natural and the Divine Principle of Things (1802)",
+      "edition": "Michael G. Vater trans. (SUNY Press, 1984)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S08-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Bruno, or On the Natural and the Divine Principle of Things (1802)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S08-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "identity-philosophy-1801-1807"
+    },
+    {
+      "id": "schelling--src-hegel-preface",
+      "workId": "Phenomenology of Spirit",
+      "edition": "A. V. Miller trans. (Oxford University Press, 1977)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S09-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Phenomenology of Spirit",
+      "stableUrl": "https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm",
+      "boundaryZh": "Close a claim-specific passage for S09-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "historical-opponent",
+      "year": "hegel-reception-1807"
+    },
+    {
+      "id": "schelling--src-hegel-preface--s09-c2",
+      "workId": "Phenomenology of Spirit",
+      "edition": "A. V. Miller trans. (Oxford University Press, 1977)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S09-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Phenomenology of Spirit",
+      "stableUrl": "https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm",
+      "boundaryZh": "Close a claim-specific passage for S09-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "historical-opponent",
+      "year": "hegel-reception-1807"
+    },
+    {
+      "id": "schelling--src-freedom-ground",
+      "workId": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "edition": "Jeff Love and Johannes Schmidt trans. (SUNY Press, 2006)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S10-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "stableUrl": "https://api.pageplace.de/preview/DT0400.9780791481226_A40634908/preview-9780791481226_A40634908.pdf",
+      "boundaryZh": "Close a claim-specific passage for S10-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "freedom-treatise-1809"
+    },
+    {
+      "id": "schelling--src-freedom-ground--s10-c2",
+      "workId": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "edition": "Jeff Love and Johannes Schmidt trans. (SUNY Press, 2006)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S10-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "stableUrl": "https://api.pageplace.de/preview/DT0400.9780791481226_A40634908/preview-9780791481226_A40634908.pdf",
+      "boundaryZh": "Close a claim-specific passage for S10-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "freedom-treatise-1809"
+    },
+    {
+      "id": "schelling--src-freedom-evil",
+      "workId": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "edition": "Love and Schmidt trans. (SUNY Press, 2006)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S11-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "stableUrl": "https://api.pageplace.de/preview/DT0400.9780791481226_A40634908/preview-9780791481226_A40634908.pdf",
+      "boundaryZh": "Close a claim-specific passage for S11-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "freedom-treatise-1809"
+    },
+    {
+      "id": "schelling--src-freedom-personality",
+      "workId": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "edition": "Love and Schmidt trans. (SUNY Press, 2006)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S11-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S11-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "freedom-treatise-1809"
+    },
+    {
+      "id": "schelling--src-freedom-personality--s12-c1",
+      "workId": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "edition": "Love and Schmidt trans. (SUNY Press, 2006)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S12-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophical Investigations into the Essence of Human Freedom (1809)",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S12-C1 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "freedom-treatise-1809"
+    },
+    {
+      "id": "schelling--src-heidegger-freedom",
+      "workId": "Schelling’s Treatise on the Essence of Human Freedom",
+      "edition": "Joan Stambaugh trans. (Ohio University Press, 1985)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S12-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Schelling’s Treatise on the Essence of Human Freedom",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close a claim-specific passage for S12-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-reception"
+    },
+    {
+      "id": "schelling--src-ages-drafts",
+      "workId": "The Ages of the World",
+      "edition": "Jason M. Wirth trans., The Ages of the World (SUNY Press, 2000)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact division/page in Wirth 2000 for the 1811/1813/1815 draft status and past-present-future architecture.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Ages of the World",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2020/entries/schelling/",
+      "boundaryZh": "Close exact division/page in Wirth 2000 for the 1811/1813/1815 draft status and past-present-future architecture.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "ages-of-world-1811-1815"
+    },
+    {
+      "id": "schelling--src-ages-forces",
+      "workId": "The Ages of the World",
+      "edition": "Wirth trans. (SUNY Press, 2000)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact division/page for contraction/expansion, the dark and conscious principles, and temporal emergence.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Ages of the World",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2020/entries/schelling/",
+      "boundaryZh": "Close exact division/page for contraction/expansion, the dark and conscious principles, and temporal emergence.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "ages-of-world-1811-1815"
+    },
+    {
+      "id": "schelling--src-notre-dame-late",
+      "workId": "Schelling’s Philosophy of Revelation: A Critical Edition of the Original Lectures",
+      "edition": "University of Notre Dame research initiative",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close a claim-specific passage for S16-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Schelling’s Philosophy of Revelation: A Critical Edition of the Original Lectures",
+      "stableUrl": "https://philreligion.nd.edu/research-initiatives/schelling-s-philosophy-of-revelation/",
+      "boundaryZh": "Close a claim-specific passage for S16-C2 in the named edition; current evidence establishes only the work, topic, period, or broad division.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": "modern-scholarship"
+    },
+    {
+      "id": "schelling--src-positive-negative",
+      "workId": "Introduction to the Philosophy of Revelation / Grounding of the Positive Philosophy",
+      "edition": "late Berlin lecture corpus; named critical translation to be fixed",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact lecture/division in a named edition for the distinction between negative philosophy (what can be) and positive philosophy (that it is).",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Introduction to the Philosophy of Revelation / Grounding of the Positive Philosophy",
+      "stableUrl": "https://plato.stanford.edu/archives/spr2022/entries/schelling/",
+      "boundaryZh": "Close exact lecture/division in a named edition for the distinction between negative philosophy (what can be) and positive philosophy (that it is).",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "late-positive-philosophy"
+    },
+    {
+      "id": "schelling--src-revelation-facticity",
+      "workId": "Philosophy of Revelation",
+      "edition": "1831/32 lecture corpus; critical edition/translation to be fixed",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact lecture/division for revelation and historical actuality as matter of positive philosophy.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Philosophy of Revelation",
+      "stableUrl": "https://philreligion.nd.edu/research-initiatives/schelling-s-philosophy-of-revelation/",
+      "boundaryZh": "Close exact lecture/division for revelation and historical actuality as matter of positive philosophy.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "schelling-primary",
+      "year": "late-positive-philosophy"
+    }
+  ],
+  "routes": [
+    {
+      "id": "schelling-nature-freedom-actuality",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "谢林：自然、自由与现实性",
+      "lessonIds": [
+        "schelling--schelling-01",
+        "schelling--schelling-02",
+        "schelling--schelling-03",
+        "schelling--schelling-04",
+        "schelling--schelling-05",
+        "schelling--schelling-06",
+        "schelling--schelling-07",
+        "schelling--schelling-08",
+        "schelling--schelling-09",
+        "schelling--schelling-10",
+        "schelling--schelling-11",
+        "schelling--schelling-12",
+        "schelling--schelling-13",
+        "schelling--schelling-14",
+        "schelling--schelling-15",
+        "schelling--schelling-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Friedrich Wilhelm Joseph Schelling",
+        "nameZh": "谢林",
+        "sourceRouteId": "schelling-nature-freedom-actuality"
+      },
+      "summary": "1. 分期不是缺陷目录"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "schelling--schelling-01",
+      "order": 1,
+      "title": "1. 分期不是缺陷目录",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 分期不是缺陷目录",
+      "coreExplanation": "现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。\n\n本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题；这种连线是受限综合，不冒充谢林某一时期的自述。",
+      "sections": [
+        {
+          "heading": "1. 分期不是缺陷目录",
+          "paragraphs": [
+            "现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。",
+            "本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题；这种连线是受限综合，不冒充谢林某一时期的自述。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods",
+            "schelling--src-sep-periods--s01-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S01-C1",
+        "schelling--S01-C2"
+      ],
+      "checkIds": [
+        "schelling--S01-Q1",
+        "schelling--S01-Q2",
+        "schelling--S01-Q3",
+        "schelling--S01-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-02",
+      "sourceIds": [
+        "schelling--src-sep-periods",
+        "schelling--src-sep-periods--s01-c2"
+      ],
+      "essentialQuestion": "1. 分期不是缺陷目录",
+      "initialFocusId": "schelling--schelling-01-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-02",
+      "order": 2,
+      "title": "2. 自然不是死物集合",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 自然不是死物集合",
+      "coreExplanation": "《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。\n\n1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。",
+      "sections": [
+        {
+          "heading": "2. 自然不是死物集合",
+          "paragraphs": [
+            "《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。",
+            "1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-ideas-intro",
+            "schelling--src-first-outline-productivity"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S02-C1",
+        "schelling--S02-C2"
+      ],
+      "checkIds": [
+        "schelling--S02-Q1",
+        "schelling--S02-Q2",
+        "schelling--S02-Q3",
+        "schelling--S02-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-03",
+      "sourceIds": [
+        "schelling--src-ideas-intro",
+        "schelling--src-first-outline-productivity"
+      ],
+      "essentialQuestion": "2. 自然不是死物集合",
+      "initialFocusId": "schelling--schelling-02-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-03",
+      "order": 3,
+      "title": "3. 对立活动与组织",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 对立活动与组织",
+      "coreExplanation": "早期自然哲学以相反活动、抑制与层级组织说明自然形态；对立是生成条件，不是外加给静态物质的装饰。\n\n自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识；二者路径不同，不能把自然降为自我的幻影。",
+      "sections": [
+        {
+          "heading": "3. 对立活动与组织",
+          "paragraphs": [
+            "早期自然哲学以相反活动、抑制与层级组织说明自然形态；对立是生成条件，不是外加给静态物质的装饰。",
+            "自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识；二者路径不同，不能把自然降为自我的幻影。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-polarity",
+            "schelling--src-sti-intro",
+            "schelling--src-first-outline-polarity--s03-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S03-C1",
+        "schelling--S03-C2"
+      ],
+      "checkIds": [
+        "schelling--S03-Q1",
+        "schelling--S03-Q2",
+        "schelling--S03-Q3",
+        "schelling--S03-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-04",
+      "sourceIds": [
+        "schelling--src-first-outline-polarity",
+        "schelling--src-sti-intro",
+        "schelling--src-first-outline-polarity--s03-c2"
+      ],
+      "essentialQuestion": "3. 对立活动与组织",
+      "initialFocusId": "schelling--schelling-03-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-04",
+      "order": 4,
+      "title": "4. 先验哲学的任务",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. 先验哲学的任务",
+      "coreExplanation": "1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然；它与从客观出发的自然哲学构成平行方向。\n\n“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。",
+      "sections": [
+        {
+          "heading": "4. 先验哲学的任务",
+          "paragraphs": [
+            "1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然；它与从客观出发的自然哲学构成平行方向。",
+            "“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c1",
+            "schelling--src-sti-intro--s04-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S04-C1",
+        "schelling--S04-C2"
+      ],
+      "checkIds": [
+        "schelling--S04-Q1",
+        "schelling--S04-Q2",
+        "schelling--S04-Q3",
+        "schelling--S04-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-05",
+      "sourceIds": [
+        "schelling--src-sti-intro--s04-c1",
+        "schelling--src-sti-intro--s04-c2"
+      ],
+      "essentialQuestion": "4. 先验哲学的任务",
+      "initialFocusId": "schelling--schelling-04-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-05",
+      "order": 5,
+      "title": "5. 自我意识的诸时期",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 自我意识的诸时期",
+      "coreExplanation": "《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生；这是先验构造，不是经验心理学年表。\n\n实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。",
+      "sections": [
+        {
+          "heading": "5. 自我意识的诸时期",
+          "paragraphs": [
+            "《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生；这是先验构造，不是经验心理学年表。",
+            "实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-sti-epochs",
+            "schelling--src-sti-freedom-history"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S05-C1",
+        "schelling--S05-C2"
+      ],
+      "checkIds": [
+        "schelling--S05-Q1",
+        "schelling--S05-Q2",
+        "schelling--S05-Q3",
+        "schelling--S05-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-06",
+      "sourceIds": [
+        "schelling--src-sti-epochs",
+        "schelling--src-sti-freedom-history"
+      ],
+      "essentialQuestion": "5. 自我意识的诸时期",
+      "initialFocusId": "schelling--schelling-05-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-06",
+      "order": 6,
+      "title": "6. 艺术作为体系的机关",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 艺术作为体系的机关",
+      "coreExplanation": "《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。\n\n艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一；此结论属于1800体系语境。",
+      "sections": [
+        {
+          "heading": "6. 艺术作为体系的机关",
+          "paragraphs": [
+            "《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。",
+            "艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一；此结论属于1800体系语境。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-sti-art",
+            "schelling--src-sti-art--s06-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S06-C1",
+        "schelling--S06-C2"
+      ],
+      "checkIds": [
+        "schelling--S06-Q1",
+        "schelling--S06-Q2",
+        "schelling--S06-Q3",
+        "schelling--S06-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-07",
+      "sourceIds": [
+        "schelling--src-sti-art",
+        "schelling--src-sti-art--s06-c2"
+      ],
+      "essentialQuestion": "6. 艺术作为体系的机关",
+      "initialFocusId": "schelling--schelling-06-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-07",
+      "order": 7,
+      "title": "7. 绝对同一性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 绝对同一性",
+      "coreExplanation": "1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。\n\n同一哲学试图说明差别如何在共同根据中可理解；若把同一读成所有事物无差别，就丢失了形式与量的区分。",
+      "sections": [
+        {
+          "heading": "7. 绝对同一性",
+          "paragraphs": [
+            "1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。",
+            "同一哲学试图说明差别如何在共同根据中可理解；若把同一读成所有事物无差别，就丢失了形式与量的区分。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801",
+            "schelling--src-presentation-1801--s07-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S07-C1",
+        "schelling--S07-C2"
+      ],
+      "checkIds": [
+        "schelling--S07-Q1",
+        "schelling--S07-Q2",
+        "schelling--S07-Q3",
+        "schelling--S07-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-08",
+      "sourceIds": [
+        "schelling--src-presentation-1801",
+        "schelling--src-presentation-1801--s07-c2"
+      ],
+      "essentialQuestion": "7. 绝对同一性",
+      "initialFocusId": "schelling--schelling-07-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-08",
+      "order": 8,
+      "title": "8. 《布鲁诺》的理想与实在",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. 《布鲁诺》的理想与实在",
+      "coreExplanation": "《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一；对话角色的论证结构不能简化成一句口号。\n\n对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。",
+      "sections": [
+        {
+          "heading": "8. 《布鲁诺》的理想与实在",
+          "paragraphs": [
+            "《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一；对话角色的论证结构不能简化成一句口号。",
+            "对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-bruno",
+            "schelling--src-bruno--s08-c2",
+            "schelling--src-sep-periods--s08-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S08-C1",
+        "schelling--S08-C2"
+      ],
+      "checkIds": [
+        "schelling--S08-Q1",
+        "schelling--S08-Q2",
+        "schelling--S08-Q3",
+        "schelling--S08-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-09",
+      "sourceIds": [
+        "schelling--src-bruno",
+        "schelling--src-bruno--s08-c2",
+        "schelling--src-sep-periods--s08-c2"
+      ],
+      "essentialQuestion": "8. 《布鲁诺》的理想与实在",
+      "initialFocusId": "schelling--schelling-08-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-09",
+      "order": 9,
+      "title": "9. 黑格尔的“黑夜”批评",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 黑格尔的“黑夜”批评",
+      "coreExplanation": "黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对；这是黑格尔对某种同一哲学的批评声部。\n\n接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻；对象和声音必须分开。",
+      "sections": [
+        {
+          "heading": "9. 黑格尔的“黑夜”批评",
+          "paragraphs": [
+            "黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对；这是黑格尔对某种同一哲学的批评声部。",
+            "接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻；对象和声音必须分开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface",
+            "schelling--src-hegel-preface--s09-c2",
+            "schelling--src-presentation-1801--s09-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S09-C1",
+        "schelling--S09-C2"
+      ],
+      "checkIds": [
+        "schelling--S09-Q1",
+        "schelling--S09-Q2",
+        "schelling--S09-Q3",
+        "schelling--S09-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-10",
+      "sourceIds": [
+        "schelling--src-hegel-preface",
+        "schelling--src-hegel-preface--s09-c2",
+        "schelling--src-presentation-1801--s09-c2"
+      ],
+      "essentialQuestion": "9. 黑格尔的“黑夜”批评",
+      "initialFocusId": "schelling--schelling-09-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-10",
+      "order": 10,
+      "title": "10. 根据与存在",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 根据与存在",
+      "coreExplanation": "1809《自由论》区分上帝存在的根据与上帝作为存在者；“在上帝中的自然”不可直接等同于已实现的上帝。\n\n《自由论》并非简单放弃系统，而是要求系统能够说明活的自由以及根据内部的现实张力。",
+      "sections": [
+        {
+          "heading": "10. 根据与存在",
+          "paragraphs": [
+            "1809《自由论》区分上帝存在的根据与上帝作为存在者；“在上帝中的自然”不可直接等同于已实现的上帝。",
+            "《自由论》并非简单放弃系统，而是要求系统能够说明活的自由以及根据内部的现实张力。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground",
+            "schelling--src-freedom-ground--s10-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S10-C1",
+        "schelling--S10-C2"
+      ],
+      "checkIds": [
+        "schelling--S10-Q1",
+        "schelling--S10-Q2",
+        "schelling--S10-Q3",
+        "schelling--S10-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-11",
+      "sourceIds": [
+        "schelling--src-freedom-ground",
+        "schelling--src-freedom-ground--s10-c2"
+      ],
+      "essentialQuestion": "10. 根据与存在",
+      "initialFocusId": "schelling--schelling-10-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-11",
+      "order": 11,
+      "title": "11. 恶必须是现实可能性",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. 恶必须是现实可能性",
+      "coreExplanation": "若恶只是善的缺失，自由选择恶便不够真实；《自由论》因此把恶说明为原则次序的积极颠倒，而非独立实体。\n\n人的独特位置使其能让自我意志支配普遍意志；恶源于统一内部的错序，不能归咎于一种与善并列的第二神。",
+      "sections": [
+        {
+          "heading": "11. 恶必须是现实可能性",
+          "paragraphs": [
+            "若恶只是善的缺失，自由选择恶便不够真实；《自由论》因此把恶说明为原则次序的积极颠倒，而非独立实体。",
+            "人的独特位置使其能让自我意志支配普遍意志；恶源于统一内部的错序，不能归咎于一种与善并列的第二神。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-freedom-evil",
+            "schelling--src-freedom-personality"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S11-C1",
+        "schelling--S11-C2"
+      ],
+      "checkIds": [
+        "schelling--S11-Q1",
+        "schelling--S11-Q2",
+        "schelling--S11-Q3",
+        "schelling--S11-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-12",
+      "sourceIds": [
+        "schelling--src-freedom-evil",
+        "schelling--src-freedom-personality"
+      ],
+      "essentialQuestion": "11. 恶必须是现实可能性",
+      "initialFocusId": "schelling--schelling-11-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-12",
+      "order": 12,
+      "title": "12. 自由不是偶然摆动",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 自由不是偶然摆动",
+      "coreExplanation": "《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动；人格与行动的根源相连。\n\n海德格尔把1809论文读作谢林体系问题的核心事件；这是二十世纪接受史，不是《自由论》自身的额外章节。",
+      "sections": [
+        {
+          "heading": "12. 自由不是偶然摆动",
+          "paragraphs": [
+            "《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动；人格与行动的根源相连。",
+            "海德格尔把1809论文读作谢林体系问题的核心事件；这是二十世纪接受史，不是《自由论》自身的额外章节。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality--s12-c1",
+            "schelling--src-heidegger-freedom"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S12-C1",
+        "schelling--S12-C2"
+      ],
+      "checkIds": [
+        "schelling--S12-Q1",
+        "schelling--S12-Q2",
+        "schelling--S12-Q3",
+        "schelling--S12-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-13",
+      "sourceIds": [
+        "schelling--src-freedom-personality--s12-c1",
+        "schelling--src-heidegger-freedom"
+      ],
+      "essentialQuestion": "12. 自由不是偶然摆动",
+      "initialFocusId": "schelling--schelling-12-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-13",
+      "order": 13,
+      "title": "13. 《世界时代》是未完成草稿群",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 《世界时代》是未完成草稿群",
+      "coreExplanation": "《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系；引用时必须保留草稿身份。\n\n作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。",
+      "sections": [
+        {
+          "heading": "13. 《世界时代》是未完成草稿群",
+          "paragraphs": [
+            "《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系；引用时必须保留草稿身份。",
+            "作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-ages-drafts",
+            "schelling--src-sep-periods--s13-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S13-C1",
+        "schelling--S13-C2"
+      ],
+      "checkIds": [
+        "schelling--S13-Q1",
+        "schelling--S13-Q2",
+        "schelling--S13-Q3",
+        "schelling--S13-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-14",
+      "sourceIds": [
+        "schelling--src-ages-drafts",
+        "schelling--src-sep-periods--s13-c2"
+      ],
+      "essentialQuestion": "13. 《世界时代》是未完成草稿群",
+      "initialFocusId": "schelling--schelling-13-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-14",
+      "order": 14,
+      "title": "14. 收缩与扩张的力量",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 收缩与扩张的力量",
+      "coreExplanation": "《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成；这些力量构成时间化过程，不能直接当作现代物理力。\n\n作品以人的灵魂与创造同源来说明对世界生成的“共同知识”；这是思辨叙事的认识主张，不是经验记忆宇宙开端。",
+      "sections": [
+        {
+          "heading": "14. 收缩与扩张的力量",
+          "paragraphs": [
+            "《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成；这些力量构成时间化过程，不能直接当作现代物理力。",
+            "作品以人的灵魂与创造同源来说明对世界生成的“共同知识”；这是思辨叙事的认识主张，不是经验记忆宇宙开端。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-ages-forces",
+            "schelling--src-sep-periods--s14-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S14-C1",
+        "schelling--S14-C2"
+      ],
+      "checkIds": [
+        "schelling--S14-Q1",
+        "schelling--S14-Q2",
+        "schelling--S14-Q3",
+        "schelling--S14-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-15",
+      "sourceIds": [
+        "schelling--src-ages-forces",
+        "schelling--src-sep-periods--s14-c2"
+      ],
+      "essentialQuestion": "14. 收缩与扩张的力量",
+      "initialFocusId": "schelling--schelling-14-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-15",
+      "order": 15,
+      "title": "15. 否定哲学与积极哲学",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 否定哲学与积极哲学",
+      "coreExplanation": "晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。\n\n积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实；它仍需理性解释已经给予的存在与历史。",
+      "sections": [
+        {
+          "heading": "15. 否定哲学与积极哲学",
+          "paragraphs": [
+            "晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。",
+            "积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实；它仍需理性解释已经给予的存在与历史。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-positive-negative",
+            "schelling--src-sep-periods--s15-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S15-C1",
+        "schelling--S15-C2"
+      ],
+      "checkIds": [
+        "schelling--S15-Q1",
+        "schelling--S15-Q2",
+        "schelling--S15-Q3",
+        "schelling--S15-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "schelling--schelling-16",
+      "sourceIds": [
+        "schelling--src-positive-negative",
+        "schelling--src-sep-periods--s15-c2"
+      ],
+      "essentialQuestion": "15. 否定哲学与积极哲学",
+      "initialFocusId": "schelling--schelling-15-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "schelling--schelling-16",
+      "order": 16,
+      "title": "16. 神话、启示与历史事实",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 神话、启示与历史事实",
+      "coreExplanation": "晚期启示哲学把神话和启示作为历史现实来解释；其具体论证属于讲稿传统，必须按讲次与版本核定。\n\n从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽；这是路线综合，不是抹平时期的终极公式。",
+      "sections": [
+        {
+          "heading": "16. 神话、启示与历史事实",
+          "paragraphs": [
+            "晚期启示哲学把神话和启示作为历史现实来解释；其具体论证属于讲稿传统，必须按讲次与版本核定。",
+            "从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽；这是路线综合，不是抹平时期的终极公式。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "schelling--src-revelation-facticity",
+            "schelling--src-sep-periods--s16-c2",
+            "schelling--src-notre-dame-late"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "schelling--S16-C1",
+        "schelling--S16-C2"
+      ],
+      "checkIds": [
+        "schelling--S16-Q1",
+        "schelling--S16-Q2",
+        "schelling--S16-Q3",
+        "schelling--S16-Q4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "schelling--src-revelation-facticity",
+        "schelling--src-sep-periods--s16-c2",
+        "schelling--src-notre-dame-late"
+      ],
+      "essentialQuestion": "16. 神话、启示与历史事实",
+      "initialFocusId": "schelling--schelling-16-title",
+      "routeId": "schelling-nature-freedom-actuality",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "schelling--S01-Q1",
+      "kind": "binary",
+      "prompt": "关于“分期不是缺陷目录”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S01-Q1-1",
+          "text": "符合本 claim：现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。。",
+          "feedback": "正确项“符合本 claim：现代研究常把谢林称作不断变形的思想家，但路线应把变化视为连续问题在不同文本中的重构，而非把所有时期熔成一套完成体系。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C1"
+          ]
+        },
+        {
+          "id": "schelling--S01-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S01-Q1-1",
+      "misconceptionId": "schelling--S01-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods"
+      ],
+      "objectNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S01-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S01-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C1"
+          ]
+        },
+        {
+          "id": "schelling--S01-Q2-2",
+          "text": "应保留 modern-interpretation 与 modern-scholarship 的限定。",
+          "feedback": "正确项“应保留 modern-interpretation 与 modern-scholarship 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S01-Q2-2",
+      "misconceptionId": "schelling--S01-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods"
+      ],
+      "objectNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S01-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S01-Q3",
+      "kind": "binary",
+      "prompt": "关于“自然、自由与事实”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S01-Q3-1",
+          "text": "符合本 claim：本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题。",
+          "feedback": "正确项“符合本 claim：本路线以自然如何生产主体、自由如何容纳恶、理性如何面对事实为连续问题。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s01-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C2"
+          ]
+        },
+        {
+          "id": "schelling--S01-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s01-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S01-Q3-1",
+      "misconceptionId": "schelling--S01-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s01-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S01-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S01-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s01-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C2"
+          ]
+        },
+        {
+          "id": "schelling--S01-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s01-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S01-Q4-2",
+      "misconceptionId": "schelling--S01-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s01-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S01-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S01-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-01",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S02-Q1",
+      "kind": "binary",
+      "prompt": "关于“自然不是死物集合”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S02-Q1-1",
+          "text": "符合本 claim：《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。。",
+          "feedback": "正确项“符合本 claim：《自然哲学观念》导论把自然哲学追问为自然如何可能，而不是只把现成物体交给外在分类。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ideas-intro"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C1"
+          ]
+        },
+        {
+          "id": "schelling--S02-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ideas-intro"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S02-Q1-1",
+      "misconceptionId": "schelling--S02-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ideas-intro"
+      ],
+      "objectNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S02-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-02",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S02-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S02-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ideas-intro"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C1"
+          ]
+        },
+        {
+          "id": "schelling--S02-Q2-2",
+          "text": "应保留 schelling-primary 与 early-naturphilosophie 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 early-naturphilosophie 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ideas-intro"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S02-Q2-2",
+      "misconceptionId": "schelling--S02-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ideas-intro"
+      ],
+      "objectNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S02-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S02-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-02",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S02-Q3",
+      "kind": "binary",
+      "prompt": "关于“生产性与产物”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S02-Q3-1",
+          "text": "符合本 claim：1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。。",
+          "feedback": "正确项“符合本 claim：1799《第一纲要》区分自然的生产性与凝固产物：产物是暂时受抑制的活动，不应把“自然生产”误读成有意识设计。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-productivity"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C2"
+          ]
+        },
+        {
+          "id": "schelling--S02-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-productivity"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S02-Q3-1",
+      "misconceptionId": "schelling--S02-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-productivity"
+      ],
+      "objectNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S02-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-02",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S02-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S02-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-productivity"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C2"
+          ]
+        },
+        {
+          "id": "schelling--S02-Q4-2",
+          "text": "应保留 schelling-primary 与 early-naturphilosophie 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 early-naturphilosophie 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-productivity"
+          ],
+          "claimNodeIds": [
+            "schelling--S02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S02-Q4-2",
+      "misconceptionId": "schelling--S02-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-productivity"
+      ],
+      "objectNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S02-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S02-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-02",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S03-Q1",
+      "kind": "binary",
+      "prompt": "关于“对立活动与组织”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S03-Q1-1",
+          "text": "符合本 claim：早期自然哲学以相反活动、抑制与层级组织说明自然形态。",
+          "feedback": "正确项“符合本 claim：早期自然哲学以相反活动、抑制与层级组织说明自然形态。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-polarity"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C1"
+          ]
+        },
+        {
+          "id": "schelling--S03-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-polarity"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S03-Q1-1",
+      "misconceptionId": "schelling--S03-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-polarity"
+      ],
+      "objectNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S03-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-03",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S03-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S03-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-polarity"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C1"
+          ]
+        },
+        {
+          "id": "schelling--S03-Q2-2",
+          "text": "应保留 schelling-primary 与 early-naturphilosophie 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 early-naturphilosophie 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-first-outline-polarity"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S03-Q2-2",
+      "misconceptionId": "schelling--S03-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-first-outline-polarity"
+      ],
+      "objectNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S03-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S03-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-03",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S03-Q3",
+      "kind": "binary",
+      "prompt": "关于“自然的自主性”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S03-Q3-1",
+          "text": "符合本 claim：自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识。",
+          "feedback": "正确项“符合本 claim：自然哲学从客观方向重建自然的自组织，而先验哲学从主观方向重建意识。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro",
+            "schelling--src-first-outline-polarity--s03-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C2"
+          ]
+        },
+        {
+          "id": "schelling--S03-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro",
+            "schelling--src-first-outline-polarity--s03-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S03-Q3-1",
+      "misconceptionId": "schelling--S03-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro",
+        "schelling--src-first-outline-polarity--s03-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S03-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-03",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S03-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S03-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro",
+            "schelling--src-first-outline-polarity--s03-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C2"
+          ]
+        },
+        {
+          "id": "schelling--S03-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro",
+            "schelling--src-first-outline-polarity--s03-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S03-Q4-2",
+      "misconceptionId": "schelling--S03-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro",
+        "schelling--src-first-outline-polarity--s03-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S03-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S03-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-03",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S04-Q1",
+      "kind": "binary",
+      "prompt": "关于“先验哲学的任务”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S04-Q1-1",
+          "text": "符合本 claim：1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然。",
+          "feedback": "正确项“符合本 claim：1800《先验唯心论体系》从主观出发，追踪客观世界如何对意识成为必然。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C1"
+          ]
+        },
+        {
+          "id": "schelling--S04-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S04-Q1-1",
+      "misconceptionId": "schelling--S04-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c1"
+      ],
+      "objectNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S04-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-04",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S04-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S04-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C1"
+          ]
+        },
+        {
+          "id": "schelling--S04-Q2-2",
+          "text": "应保留 schelling-primary 与 transcendental-idealism-1800 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 transcendental-idealism-1800 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S04-Q2-2",
+      "misconceptionId": "schelling--S04-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c1"
+      ],
+      "objectNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S04-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S04-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-04",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S04-Q3",
+      "kind": "binary",
+      "prompt": "关于“不是主观任意制造世界”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S04-Q3-1",
+          "text": "符合本 claim：“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。。",
+          "feedback": "正确项“符合本 claim：“从主观出发”不等于个人随意创造对象，而是说明意识活动与客观约束如何在自我意识史中共同显现。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C2"
+          ]
+        },
+        {
+          "id": "schelling--S04-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S04-Q3-1",
+      "misconceptionId": "schelling--S04-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S04-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S04-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C2"
+          ]
+        },
+        {
+          "id": "schelling--S04-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-intro--s04-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S04-Q4-2",
+      "misconceptionId": "schelling--S04-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-intro--s04-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S04-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S04-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-04",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S05-Q1",
+      "kind": "binary",
+      "prompt": "关于“自我意识的诸时期”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S05-Q1-1",
+          "text": "符合本 claim：《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生。",
+          "feedback": "正确项“符合本 claim：《体系》理论部分用若干“时期”重建从感觉到反思的自我意识发生。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-epochs"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C1"
+          ]
+        },
+        {
+          "id": "schelling--S05-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-epochs"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S05-Q1-1",
+      "misconceptionId": "schelling--S05-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-epochs"
+      ],
+      "objectNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S05-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-05",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S05-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S05-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-epochs"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C1"
+          ]
+        },
+        {
+          "id": "schelling--S05-Q2-2",
+          "text": "应保留 schelling-primary 与 transcendental-idealism-1800 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 transcendental-idealism-1800 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-epochs"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S05-Q2-2",
+      "misconceptionId": "schelling--S05-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-epochs"
+      ],
+      "objectNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S05-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S05-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-05",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S05-Q3",
+      "kind": "binary",
+      "prompt": "关于“自由与历史”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S05-Q3-1",
+          "text": "符合本 claim：实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。。",
+          "feedback": "正确项“符合本 claim：实践部分把自由行动置于历史中：个体意图与整体秩序之间的张力不能由单个行动者完全预见。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-freedom-history"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C2"
+          ]
+        },
+        {
+          "id": "schelling--S05-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-freedom-history"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S05-Q3-1",
+      "misconceptionId": "schelling--S05-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-freedom-history"
+      ],
+      "objectNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S05-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-05",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S05-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S05-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-freedom-history"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C2"
+          ]
+        },
+        {
+          "id": "schelling--S05-Q4-2",
+          "text": "应保留 schelling-primary 与 transcendental-idealism-1800 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 transcendental-idealism-1800 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-freedom-history"
+          ],
+          "claimNodeIds": [
+            "schelling--S05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S05-Q4-2",
+      "misconceptionId": "schelling--S05-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-freedom-history"
+      ],
+      "objectNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S05-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S05-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-05",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-Q1",
+      "kind": "binary",
+      "prompt": "关于“艺术作为体系的机关”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S06-Q1-1",
+          "text": "符合本 claim：《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。。",
+          "feedback": "正确项“符合本 claim：《体系》结尾把艺术称为哲学的普遍机关，因为艺术作品让有意识活动与无意识生产在一个产物中显现同一。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C1"
+          ]
+        },
+        {
+          "id": "schelling--S06-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S06-Q1-1",
+      "misconceptionId": "schelling--S06-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art"
+      ],
+      "objectNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S06-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-06",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S06-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C1"
+          ]
+        },
+        {
+          "id": "schelling--S06-Q2-2",
+          "text": "应保留 schelling-primary 与 transcendental-idealism-1800 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 transcendental-idealism-1800 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S06-Q2-2",
+      "misconceptionId": "schelling--S06-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art"
+      ],
+      "objectNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S06-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S06-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-06",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-Q3",
+      "kind": "binary",
+      "prompt": "关于“艺术不是装饰性例证”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S06-Q3-1",
+          "text": "符合本 claim：艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一。",
+          "feedback": "正确项“符合本 claim：艺术的地位不是给概念加美感，而是展示理论反思无法直接对象化的主客统一。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art--s06-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C2"
+          ]
+        },
+        {
+          "id": "schelling--S06-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art--s06-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S06-Q3-1",
+      "misconceptionId": "schelling--S06-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art--s06-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S06-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-06",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S06-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S06-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art--s06-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C2"
+          ]
+        },
+        {
+          "id": "schelling--S06-Q4-2",
+          "text": "应保留 schelling-primary 与 transcendental-idealism-1800 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 transcendental-idealism-1800 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sti-art--s06-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S06-Q4-2",
+      "misconceptionId": "schelling--S06-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sti-art--s06-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S06-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S06-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-06",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S07-Q1",
+      "kind": "binary",
+      "prompt": "关于“绝对同一性”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S07-Q1-1",
+          "text": "符合本 claim：1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。。",
+          "feedback": "正确项“符合本 claim：1801《我的哲学体系的展示》从绝对同一性出发：主体与客体的区别不是绝对本身被切成两物，而是在量的差异与具体形式中出现。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C1"
+          ]
+        },
+        {
+          "id": "schelling--S07-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S07-Q1-1",
+      "misconceptionId": "schelling--S07-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801"
+      ],
+      "objectNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S07-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-07",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S07-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S07-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C1"
+          ]
+        },
+        {
+          "id": "schelling--S07-Q2-2",
+          "text": "应保留 schelling-primary 与 identity-philosophy-1801-1807 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 identity-philosophy-1801-1807 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S07-Q2-2",
+      "misconceptionId": "schelling--S07-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801"
+      ],
+      "objectNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S07-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S07-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-07",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S07-Q3",
+      "kind": "binary",
+      "prompt": "关于“同一不等于抹平差别”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S07-Q3-1",
+          "text": "符合本 claim：同一哲学试图说明差别如何在共同根据中可理解。",
+          "feedback": "正确项“符合本 claim：同一哲学试图说明差别如何在共同根据中可理解。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801--s07-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C2"
+          ]
+        },
+        {
+          "id": "schelling--S07-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801--s07-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S07-Q3-1",
+      "misconceptionId": "schelling--S07-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801--s07-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S07-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-07",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S07-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S07-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801--s07-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C2"
+          ]
+        },
+        {
+          "id": "schelling--S07-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-presentation-1801--s07-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S07-Q4-2",
+      "misconceptionId": "schelling--S07-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-presentation-1801--s07-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S07-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S07-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-07",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S08-Q1",
+      "kind": "binary",
+      "prompt": "关于“《布鲁诺》的理想与实在”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S08-Q1-1",
+          "text": "符合本 claim：《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一。",
+          "feedback": "正确项“符合本 claim：《布鲁诺》以对话形式讨论理想与实在、思维与存在的统一。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-bruno"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C1"
+          ]
+        },
+        {
+          "id": "schelling--S08-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-bruno"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S08-Q1-1",
+      "misconceptionId": "schelling--S08-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-bruno"
+      ],
+      "objectNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S08-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-08",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S08-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S08-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-bruno"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C1"
+          ]
+        },
+        {
+          "id": "schelling--S08-Q2-2",
+          "text": "应保留 schelling-primary 与 identity-philosophy-1801-1807 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 identity-philosophy-1801-1807 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-bruno"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S08-Q2-2",
+      "misconceptionId": "schelling--S08-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-bruno"
+      ],
+      "objectNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S08-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S08-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-08",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S08-Q3",
+      "kind": "binary",
+      "prompt": "关于“文本形式也承重”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S08-Q3-1",
+          "text": "符合本 claim：对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。。",
+          "feedback": "正确项“符合本 claim：对话体通过立场推进同一性问题，因此路线只把可归于作品论证的内容标为 Schelling primary，不把每个角色的每句话都当作者宣言。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-bruno--s08-c2",
+            "schelling--src-sep-periods--s08-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C2"
+          ]
+        },
+        {
+          "id": "schelling--S08-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-bruno--s08-c2",
+            "schelling--src-sep-periods--s08-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S08-Q3-1",
+      "misconceptionId": "schelling--S08-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-bruno--s08-c2",
+        "schelling--src-sep-periods--s08-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S08-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S08-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-bruno--s08-c2",
+            "schelling--src-sep-periods--s08-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C2"
+          ]
+        },
+        {
+          "id": "schelling--S08-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-bruno--s08-c2",
+            "schelling--src-sep-periods--s08-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S08-Q4-2",
+      "misconceptionId": "schelling--S08-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-bruno--s08-c2",
+        "schelling--src-sep-periods--s08-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S08-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S08-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-08",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S09-Q1",
+      "kind": "binary",
+      "prompt": "关于“黑格尔的“黑夜”批评”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S09-Q1-1",
+          "text": "符合本 claim：黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对。",
+          "feedback": "正确项“符合本 claim：黑格尔《精神现象学》序言以“所有牛都是黑的黑夜”讥讽空洞的无差别绝对。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C1"
+          ]
+        },
+        {
+          "id": "schelling--S09-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S09-Q1-1",
+      "misconceptionId": "schelling--S09-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface"
+      ],
+      "objectNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S09-P1"
+      ],
+      "targetVoices": [
+        "historical-opponent"
+      ],
+      "lessonId": "schelling--schelling-09",
+      "voice": "historical-opponent"
+    },
+    {
+      "id": "schelling--S09-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S09-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C1"
+          ]
+        },
+        {
+          "id": "schelling--S09-Q2-2",
+          "text": "应保留 historical-opponent 与 hegel-reception-1807 的限定。",
+          "feedback": "正确项“应保留 historical-opponent 与 hegel-reception-1807 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S09-Q2-2",
+      "misconceptionId": "schelling--S09-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface"
+      ],
+      "objectNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S09-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S09-P1"
+      ],
+      "targetVoices": [
+        "historical-opponent"
+      ],
+      "lessonId": "schelling--schelling-09",
+      "voice": "historical-opponent"
+    },
+    {
+      "id": "schelling--S09-Q3",
+      "kind": "binary",
+      "prompt": "关于“批评不能替代谢林文本”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S09-Q3-1",
+          "text": "符合本 claim：接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻。",
+          "feedback": "正确项“符合本 claim：接受史可以揭示同一概念的风险，但不能把黑格尔的讥讽写成谢林自认差别虚幻。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface--s09-c2",
+            "schelling--src-presentation-1801--s09-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C2"
+          ]
+        },
+        {
+          "id": "schelling--S09-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface--s09-c2",
+            "schelling--src-presentation-1801--s09-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S09-Q3-1",
+      "misconceptionId": "schelling--S09-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface--s09-c2",
+        "schelling--src-presentation-1801--s09-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S09-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S09-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface--s09-c2",
+            "schelling--src-presentation-1801--s09-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C2"
+          ]
+        },
+        {
+          "id": "schelling--S09-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-hegel-preface--s09-c2",
+            "schelling--src-presentation-1801--s09-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S09-Q4-2",
+      "misconceptionId": "schelling--S09-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-hegel-preface--s09-c2",
+        "schelling--src-presentation-1801--s09-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S09-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S09-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-09",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S10-Q1",
+      "kind": "binary",
+      "prompt": "关于“根据与存在”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S10-Q1-1",
+          "text": "符合本 claim：1809《自由论》区分上帝存在的根据与上帝作为存在者。",
+          "feedback": "正确项“符合本 claim：1809《自由论》区分上帝存在的根据与上帝作为存在者。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C1"
+          ]
+        },
+        {
+          "id": "schelling--S10-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S10-Q1-1",
+      "misconceptionId": "schelling--S10-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground"
+      ],
+      "objectNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S10-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-10",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S10-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S10-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C1"
+          ]
+        },
+        {
+          "id": "schelling--S10-Q2-2",
+          "text": "应保留 schelling-primary 与 freedom-treatise-1809 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 freedom-treatise-1809 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S10-Q2-2",
+      "misconceptionId": "schelling--S10-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground"
+      ],
+      "objectNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S10-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S10-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-10",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S10-Q3",
+      "kind": "binary",
+      "prompt": "关于“系统与自由的新张力”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S10-Q3-1",
+          "text": "符合本 claim：《自由论》并非简单放弃系统，而是要求系统能说明活的自由。",
+          "feedback": "正确项“符合本 claim：《自由论》并非简单放弃系统，而是要求系统能说明活的自由。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground--s10-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C2"
+          ]
+        },
+        {
+          "id": "schelling--S10-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground--s10-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S10-Q3-1",
+      "misconceptionId": "schelling--S10-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground--s10-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S10-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-10",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S10-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S10-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground--s10-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C2"
+          ]
+        },
+        {
+          "id": "schelling--S10-Q4-2",
+          "text": "应保留 schelling-primary 与 freedom-treatise-1809 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 freedom-treatise-1809 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-ground--s10-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S10-Q4-2",
+      "misconceptionId": "schelling--S10-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-ground--s10-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S10-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S10-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-10",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-Q1",
+      "kind": "binary",
+      "prompt": "关于“恶必须是现实可能性”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S11-Q1-1",
+          "text": "符合本 claim：若恶只是善的缺失，自由选择恶便不够真实。",
+          "feedback": "正确项“符合本 claim：若恶只是善的缺失，自由选择恶便不够真实。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-evil"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C1"
+          ]
+        },
+        {
+          "id": "schelling--S11-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-evil"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S11-Q1-1",
+      "misconceptionId": "schelling--S11-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-evil"
+      ],
+      "objectNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S11-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-11",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S11-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-evil"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C1"
+          ]
+        },
+        {
+          "id": "schelling--S11-Q2-2",
+          "text": "应保留 schelling-primary 与 freedom-treatise-1809 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 freedom-treatise-1809 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-evil"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S11-Q2-2",
+      "misconceptionId": "schelling--S11-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-evil"
+      ],
+      "objectNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S11-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S11-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-11",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-Q3",
+      "kind": "binary",
+      "prompt": "关于“人把原则颠倒”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S11-Q3-1",
+          "text": "符合本 claim：人的独特位置使其能让自我意志支配普遍意志。",
+          "feedback": "正确项“符合本 claim：人的独特位置使其能让自我意志支配普遍意志。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C2"
+          ]
+        },
+        {
+          "id": "schelling--S11-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S11-Q3-1",
+      "misconceptionId": "schelling--S11-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality"
+      ],
+      "objectNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S11-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-11",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S11-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S11-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C2"
+          ]
+        },
+        {
+          "id": "schelling--S11-Q4-2",
+          "text": "应保留 schelling-primary 与 freedom-treatise-1809 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 freedom-treatise-1809 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality"
+          ],
+          "claimNodeIds": [
+            "schelling--S11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S11-Q4-2",
+      "misconceptionId": "schelling--S11-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality"
+      ],
+      "objectNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S11-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S11-P2"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-11",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S12-Q1",
+      "kind": "binary",
+      "prompt": "关于“自由不是偶然摆动”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S12-Q1-1",
+          "text": "符合本 claim：《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动。",
+          "feedback": "正确项“符合本 claim：《自由论》的自由涉及一个人如何成为其所是，而不只是每刻在无理由选项间摆动。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality--s12-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C1"
+          ]
+        },
+        {
+          "id": "schelling--S12-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality--s12-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S12-Q1-1",
+      "misconceptionId": "schelling--S12-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality--s12-c1"
+      ],
+      "objectNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S12-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-12",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S12-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S12-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality--s12-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C1"
+          ]
+        },
+        {
+          "id": "schelling--S12-Q2-2",
+          "text": "应保留 schelling-primary 与 freedom-treatise-1809 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 freedom-treatise-1809 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-freedom-personality--s12-c1"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S12-Q2-2",
+      "misconceptionId": "schelling--S12-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-freedom-personality--s12-c1"
+      ],
+      "objectNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S12-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S12-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-12",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S12-Q3",
+      "kind": "binary",
+      "prompt": "关于“海德格尔的体系解读”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S12-Q3-1",
+          "text": "符合本 claim：海德格尔把1809论文读作谢林体系问题的核心事件。",
+          "feedback": "正确项“符合本 claim：海德格尔把1809论文读作谢林体系问题的核心事件。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-heidegger-freedom"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C2"
+          ]
+        },
+        {
+          "id": "schelling--S12-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-heidegger-freedom"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S12-Q3-1",
+      "misconceptionId": "schelling--S12-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-heidegger-freedom"
+      ],
+      "objectNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S12-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S12-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S12-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-heidegger-freedom"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C2"
+          ]
+        },
+        {
+          "id": "schelling--S12-Q4-2",
+          "text": "应保留 modern-interpretation 与 modern-reception 的限定。",
+          "feedback": "正确项“应保留 modern-interpretation 与 modern-reception 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-heidegger-freedom"
+          ],
+          "claimNodeIds": [
+            "schelling--S12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S12-Q4-2",
+      "misconceptionId": "schelling--S12-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-heidegger-freedom"
+      ],
+      "objectNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S12-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S12-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-12",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S13-Q1",
+      "kind": "binary",
+      "prompt": "关于“《世界时代》是未完成草稿群”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S13-Q1-1",
+          "text": "符合本 claim：《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系。",
+          "feedback": "正确项“符合本 claim：《世界时代》有1811、1813、1815等稿本，过去—现在—未来的计划未形成一部完成的最终体系。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ages-drafts"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C1"
+          ]
+        },
+        {
+          "id": "schelling--S13-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ages-drafts"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S13-Q1-1",
+      "misconceptionId": "schelling--S13-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ages-drafts"
+      ],
+      "objectNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S13-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-13",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S13-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S13-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ages-drafts"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C1"
+          ]
+        },
+        {
+          "id": "schelling--S13-Q2-2",
+          "text": "应保留 schelling-primary 与 ages-of-world-1811-1815 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 ages-of-world-1811-1815 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ages-drafts"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S13-Q2-2",
+      "misconceptionId": "schelling--S13-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ages-drafts"
+      ],
+      "objectNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S13-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S13-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-13",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S13-Q3",
+      "kind": "binary",
+      "prompt": "关于“时间不是空容器”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S13-Q3-1",
+          "text": "符合本 claim：作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。。",
+          "feedback": "正确项“符合本 claim：作品试图从存在的内在生成理解过去、现在与未来，而不是把事件放进一个预先完成的均质时间盒。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s13-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C2"
+          ]
+        },
+        {
+          "id": "schelling--S13-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s13-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S13-Q3-1",
+      "misconceptionId": "schelling--S13-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s13-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S13-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S13-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s13-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C2"
+          ]
+        },
+        {
+          "id": "schelling--S13-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s13-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S13-Q4-2",
+      "misconceptionId": "schelling--S13-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s13-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S13-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S13-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S14-Q1",
+      "kind": "binary",
+      "prompt": "关于“收缩与扩张的力量”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S14-Q1-1",
+          "text": "符合本 claim：《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成。",
+          "feedback": "正确项“符合本 claim：《世界时代》以收缩与扩张、黑暗与显明的对抗描写生成。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ages-forces"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C1"
+          ]
+        },
+        {
+          "id": "schelling--S14-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ages-forces"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S14-Q1-1",
+      "misconceptionId": "schelling--S14-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ages-forces"
+      ],
+      "objectNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S14-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-14",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S14-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S14-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-ages-forces"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C1"
+          ]
+        },
+        {
+          "id": "schelling--S14-Q2-2",
+          "text": "应保留 schelling-primary 与 ages-of-world-1811-1815 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 ages-of-world-1811-1815 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-ages-forces"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S14-Q2-2",
+      "misconceptionId": "schelling--S14-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-ages-forces"
+      ],
+      "objectNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S14-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S14-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-14",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S14-Q3",
+      "kind": "binary",
+      "prompt": "关于“人的共同知识”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S14-Q3-1",
+          "text": "符合本 claim：作品以人的灵魂与创造同源来说明对世界生成的“共同知识”。",
+          "feedback": "正确项“符合本 claim：作品以人的灵魂与创造同源来说明对世界生成的“共同知识”。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s14-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C2"
+          ]
+        },
+        {
+          "id": "schelling--S14-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s14-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S14-Q3-1",
+      "misconceptionId": "schelling--S14-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s14-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S14-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S14-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S14-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s14-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C2"
+          ]
+        },
+        {
+          "id": "schelling--S14-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s14-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S14-Q4-2",
+      "misconceptionId": "schelling--S14-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s14-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S14-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S14-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S15-Q1",
+      "kind": "binary",
+      "prompt": "关于“否定哲学与积极哲学”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S15-Q1-1",
+          "text": "符合本 claim：晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。。",
+          "feedback": "正确项“符合本 claim：晚期区分把否定哲学限定为理性论证“什么能够存在”，积极哲学则从不可由纯概念推出的“它存在”出发。。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-positive-negative"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C1"
+          ]
+        },
+        {
+          "id": "schelling--S15-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-positive-negative"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S15-Q1-1",
+      "misconceptionId": "schelling--S15-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-positive-negative"
+      ],
+      "objectNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S15-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-15",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S15-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S15-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-positive-negative"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C1"
+          ]
+        },
+        {
+          "id": "schelling--S15-Q2-2",
+          "text": "应保留 schelling-primary 与 late-positive-philosophy 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 late-positive-philosophy 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-positive-negative"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S15-Q2-2",
+      "misconceptionId": "schelling--S15-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-positive-negative"
+      ],
+      "objectNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S15-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S15-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-15",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S15-Q3",
+      "kind": "binary",
+      "prompt": "关于“积极不等于反理性”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S15-Q3-1",
+          "text": "符合本 claim：积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实。",
+          "feedback": "正确项“符合本 claim：积极哲学并非抛弃概念，而是拒绝从可能性演绎现实事实。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s15-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C2"
+          ]
+        },
+        {
+          "id": "schelling--S15-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s15-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S15-Q3-1",
+      "misconceptionId": "schelling--S15-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s15-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S15-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-15",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S15-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S15-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s15-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C2"
+          ]
+        },
+        {
+          "id": "schelling--S15-Q4-2",
+          "text": "应保留 modern-interpretation 与 modern-scholarship 的限定。",
+          "feedback": "正确项“应保留 modern-interpretation 与 modern-scholarship 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s15-c2"
+          ],
+          "claimNodeIds": [
+            "schelling--S15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S15-Q4-2",
+      "misconceptionId": "schelling--S15-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s15-c2"
+      ],
+      "objectNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S15-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S15-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "schelling--schelling-15",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "schelling--S16-Q1",
+      "kind": "binary",
+      "prompt": "关于“神话、启示与历史事实”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S16-Q1-1",
+          "text": "符合本 claim：晚期启示哲学把神话和启示作为历史现实来解释。",
+          "feedback": "正确项“符合本 claim：晚期启示哲学把神话和启示作为历史现实来解释。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-revelation-facticity"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C1"
+          ]
+        },
+        {
+          "id": "schelling--S16-Q1-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-revelation-facticity"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S16-Q1-1",
+      "misconceptionId": "schelling--S16-Q1-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-revelation-facticity"
+      ],
+      "objectNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S16-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-16",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S16-Q2",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "options": [
+        {
+          "id": "schelling--S16-Q2-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-revelation-facticity"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C1"
+          ]
+        },
+        {
+          "id": "schelling--S16-Q2-2",
+          "text": "应保留 schelling-primary 与 late-positive-philosophy 的限定。",
+          "feedback": "正确项“应保留 schelling-primary 与 late-positive-philosophy 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-revelation-facticity"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S16-Q2-2",
+      "misconceptionId": "schelling--S16-Q2-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-revelation-facticity"
+      ],
+      "objectNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S16-C1"
+      ],
+      "targetParagraphIds": [
+        "schelling--S16-P1"
+      ],
+      "targetVoices": [
+        "schelling-primary"
+      ],
+      "lessonId": "schelling--schelling-16",
+      "voice": "schelling-primary"
+    },
+    {
+      "id": "schelling--S16-Q3",
+      "kind": "binary",
+      "prompt": "关于“路线终点：事实超出纯演绎”哪项准确？",
+      "targetNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S16-Q3-1",
+          "text": "符合本 claim：从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽。",
+          "feedback": "正确项“符合本 claim：从自然生产、意识发生、自由之恶到晚期积极哲学，连续问题是现实如何既可理解又不被纯概念穷尽。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s16-c2",
+            "schelling--src-notre-dame-late"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C2"
+          ]
+        },
+        {
+          "id": "schelling--S16-Q3-2",
+          "text": "把该命题归到其他时期或声部。",
+          "feedback": "错误项“把该命题归到其他时期或声部。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s16-c2",
+            "schelling--src-notre-dame-late"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S16-Q3-1",
+      "misconceptionId": "schelling--S16-Q3-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s16-c2",
+        "schelling--src-notre-dame-late"
+      ],
+      "objectNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "schelling--S16-Q4",
+      "kind": "binary",
+      "prompt": "这个 claim 的边界是什么？",
+      "targetNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "options": [
+        {
+          "id": "schelling--S16-Q4-1",
+          "text": "把局部文本写成跨时期不变结论。",
+          "feedback": "错误项“把局部文本写成跨时期不变结论。”折叠了当前 claim 的时期或声音边界。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s16-c2",
+            "schelling--src-notre-dame-late"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C2"
+          ]
+        },
+        {
+          "id": "schelling--S16-Q4-2",
+          "text": "应保留 route-synthesis 与 route-synthesis 的限定。",
+          "feedback": "正确项“应保留 route-synthesis 与 route-synthesis 的限定。”当前 claim、时期与 source binding 支持该答案；页码、段落等 locator 尚未核验，仍为 pending。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "schelling--src-sep-periods--s16-c2",
+            "schelling--src-notre-dame-late"
+          ],
+          "claimNodeIds": [
+            "schelling--S16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "schelling--S16-Q4-2",
+      "misconceptionId": "schelling--S16-Q4-misconception",
+      "evidenceLinkIds": [
+        "schelling--src-sep-periods--s16-c2",
+        "schelling--src-notre-dame-late"
+      ],
+      "objectNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "schelling--S16-C2"
+      ],
+      "targetParagraphIds": [
+        "schelling--S16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "schelling--schelling-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

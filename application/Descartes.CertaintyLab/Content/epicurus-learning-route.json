@@ -1,0 +1,3211 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "epicurus-01-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "感觉会错，还是判断会抢跑",
+      "explanation": "感觉首先是对象作用于身体所发生的显现；它不替我们完成对象判断。错误通常出现在心灵把尚待确认的解释加到显现上。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "dlcanon",
+        "lh",
+        "pd",
+        "drn4"
+      ],
+      "abilityIds": [
+        "understand-epicurus-01"
+      ]
+    },
+    {
+      "id": "epicurus-02-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从重复经验到可说、可选、可推",
+      "explanation": "预取观念给一般识别以入口，情感以快乐和痛苦标示取舍方向，对不可见者的意见则须等待确认、保持不受反证并接受类比约束。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "dlcanon",
+        "lh",
+        "pd",
+        "philodemussigns"
+      ],
+      "abilityIds": [
+        "understand-epicurus-02"
+      ]
+    },
+    {
+      "id": "epicurus-03-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "变化若不归于无，什么在变化中留下",
+      "explanation": "无物从无而生，也无物彻底归无；复合物的生成毁灭因而要由持存成分的组合离散说明，运动则要求不与物体相同的虚空。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lh",
+        "drn1",
+        "pd"
+      ],
+      "abilityIds": [
+        "understand-epicurus-03"
+      ]
+    },
+    {
+      "id": "epicurus-04-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "偏斜打开缝隙，却没有替人行动",
+      "explanation": "卢克莱修保存偏斜的完整论述，《论自然》第二十五卷残篇保存性格形成与“取决于我们”的讨论；两者之间没有一条无争议的完整桥梁。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "drn2",
+        "onnature25",
+        "cicfate",
+        "cicfin"
+      ],
+      "abilityIds": [
+        "understand-epicurus-04"
+      ]
+    },
+    {
+      "id": "epicurus-05-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "天象未知，并不因此成为神意",
+      "explanation": "无限原子与虚空容许多世界；遥远天象在证据不足时可保留多个不受反证的自然原因，目标是阻断从未知到神罚的跳跃。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lh",
+        "lp",
+        "pd",
+        "drn5",
+        "drn6"
+      ],
+      "abilityIds": [
+        "understand-epicurus-05"
+      ]
+    },
+    {
+      "id": "epicurus-06-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "灵魂若能感觉，为何也会散开",
+      "explanation": "灵魂由极细微原子构成并遍布身体；身体提供器官与容纳，灵魂提供感觉能力，只有联合体能够感觉。死亡破坏联合，离散成分不再构成同一主体。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lh",
+        "drn3"
+      ],
+      "abilityIds": [
+        "understand-epicurus-06"
+      ]
+    },
+    {
+      "id": "epicurus-07-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "幸福的神为何不会管理风暴",
+      "explanation": "可确定的主干是：幸福不朽者不因管理世界、发怒或施恩而受烦扰；把人的统治欲投射给神才是不虔敬。神的精确存在方式则因材料破碎而持续有争议。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "lh",
+        "cicgods",
+        "philodemuspiety",
+        "drn1",
+        "drn2",
+        "drn6"
+      ],
+      "abilityIds": [
+        "understand-epicurus-07"
+      ]
+    },
+    {
+      "id": "epicurus-08-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "快乐是尺度，不是每次冲动的命令",
+      "explanation": "快乐与痛苦提供自然取舍起点，选择却按完整后果衡量；会引出更大痛苦的快感可放弃，带来稳定安宁的疼痛可承受。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "cicfin"
+      ],
+      "abilityIds": [
+        "understand-epicurus-08"
+      ]
+    },
+    {
+      "id": "epicurus-09-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "无痛是快乐，还是快乐之后的零点",
+      "explanation": "古代见证把欢欣愉悦列为运动中的快乐，把无身体疼痛和无心灵扰动列为状态性快乐；无痛达到快乐限度，但分类的精确含义仍有竞争解释。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "cicfin",
+        "modernpleasure"
+      ],
+      "abilityIds": [
+        "understand-epicurus-09"
+      ]
+    },
+    {
+      "id": "epicurus-10-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "欲望有终点，还是会借满足继续扩张",
+      "explanation": "分类考察欲望是否源于身体与稳定幸福、是否有自然终点、未满足是否带来疼痛，以及满足是否依赖无界意见。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "vs",
+        "drn5"
+      ],
+      "abilityIds": [
+        "understand-epicurus-10"
+      ]
+    },
+    {
+      "id": "epicurus-11-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "死亡到来时，谁在承受它",
+      "explanation": "伊壁鸠鲁以感觉条件和主体不存在反驳死后受苦；卢克莱修另发展前生与死后不存在的对称论证。剥夺论、早夭与伤害时间问题仍构成真实异议。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "vs",
+        "drn3",
+        "moderndeath"
+      ],
+      "abilityIds": [
+        "understand-epicurus-11"
+      ]
+    },
+    {
+      "id": "epicurus-12-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "宁静不是把生命调成静音",
+      "explanation": "宁静是免于无根据恐惧和无界欲望的扰动，无痛是身体免于疼痛；自足使幸福不依赖难以控制的奢侈，却不要求拒绝丰裕或朋友。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "lm",
+        "pd",
+        "vs"
+      ],
+      "abilityIds": [
+        "understand-epicurus-12"
+      ]
+    },
+    {
+      "id": "epicurus-13-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "朋友若只为有用，为何值得冒险",
+      "explanation": "朋友既提供现实帮助，也以可靠信心减少未来恐惧；关系可由效用起步，却在共同生活中成为值得维护的快乐构成。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "pd",
+        "vs",
+        "cicfin"
+      ],
+      "abilityIds": [
+        "understand-epicurus-13"
+      ]
+    },
+    {
+      "id": "epicurus-14-node",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正义会变，并不等于强者说了算",
+      "explanation": "自然正义的稳定形式是互利地不伤害、不受伤害；具体法律因条件而异。法律若不再服务共同安全便失去正义性，约定性因此同时提供可变与批判。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "pd",
+        "drn5"
+      ],
+      "abilityIds": [
+        "understand-epicurus-14"
+      ]
+    },
+    {
+      "id": "epicurus-15-node",
+      "kind": "conclusion",
+      "status": "teachingReady",
+      "readerTitle": "隐而生活，还是在必要时走到广场",
+      "explanation": "伊壁鸠鲁式生活反对把公职、统治和声名当作幸福必要条件；“隐而生活”主要经普鲁塔克敌对文本著名化，学园共同体和后期公开实践显示退隐不等于从一切社会行动消失。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "pd",
+        "vs",
+        "plutarchpolitics",
+        "dioenoanda"
+      ],
+      "abilityIds": [
+        "understand-epicurus-15"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "dlcanon",
+      "workId": "diogenes-laertius-10",
+      "edition": "R. D. Hicks trans., Loeb Classical Library, 1925",
+      "locator": "10.31–34",
+      "locatorVerified": true,
+      "identity": "diogenes-laertius-reporting-epicurean-canon；第欧根尼晚出转述保存三项标准及学园扩展，不是《准则》原书全文。"
+    },
+    {
+      "id": "lh",
+      "workId": "letter-herodotus",
+      "edition": "Diogenes Laertius 10.35–83, Hicks trans.",
+      "locator": "10.35–83",
+      "locatorVerified": true,
+      "identity": "epicurus-author-transmitted；最接近作者声音的物理学纲要，经第欧根尼·拉尔修传世，不能替代已佚《论自然》的全部论证。"
+    },
+    {
+      "id": "pd",
+      "workId": "principal-doctrines",
+      "edition": "Diogenes Laertius 10.139–154, Hicks trans.",
+      "locator": "PD 1–40",
+      "locatorVerified": true,
+      "identity": "early-school-authoritative-collection；早期学园权威命题集；逐条作者身份不能一概证明，也不是一篇连续论文。"
+    },
+    {
+      "id": "drn4",
+      "workId": "de-rerum-natura-4",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "4.353–521",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；展开感觉、错觉与意见；远塔案例来自卢克莱修而非现存伊壁鸠鲁书信。"
+    },
+    {
+      "id": "philodemussigns",
+      "workId": "philodemus-on-signs",
+      "edition": "Herculaneum papyri, De signis",
+      "locator": "fragments on similarity and inference",
+      "locatorVerified": true,
+      "identity": "later-school-philodemus；后期学园对不可见推论的技术发展，不自动等于伊壁鸠鲁本人完整方法。"
+    },
+    {
+      "id": "drn1",
+      "workId": "de-rerum-natura-1",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "1.62–101, 1.146–634",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；罗马时期诗性重述与扩写，是伊壁鸠鲁派证据，不是创始人原文。"
+    },
+    {
+      "id": "drn2",
+      "workId": "de-rerum-natura-2",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "2.216–293, 2.646–660",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；保存现存最完整偏斜论述；不得将诗中完整桥梁冒充伊壁鸠鲁书信明文。"
+    },
+    {
+      "id": "onnature25",
+      "workId": "on-nature-25",
+      "edition": "Herculaneum papyri, PHerc. 1191; modern reconstruction",
+      "locator": "Book XXV, fragments on causation, character and what depends on us",
+      "locatorVerified": true,
+      "identity": "epicurus-author-fragmentary；纸草破损且补字有争议；能证明作者讨论能动性，不能提供一条完整无争议的偏斜—责任桥梁。"
+    },
+    {
+      "id": "cicfate",
+      "workId": "cicero-de-fato",
+      "edition": "De fato, Loeb translation",
+      "locator": "20–25",
+      "locatorVerified": true,
+      "identity": "cicero-critical-external-witness；偏斜的批评性见证，保留论敌重构风险。"
+    },
+    {
+      "id": "cicfin",
+      "workId": "cicero-de-finibus",
+      "edition": "De finibus bonorum et malorum, Rackham trans.",
+      "locator": "1.18–20, 1.29–70; Book 2",
+      "locatorVerified": true,
+      "identity": "cicero-dialogue-external-witness；保存伊壁鸠鲁派辩护与论敌攻击；对话角色不是创始人原声。"
+    },
+    {
+      "id": "lp",
+      "workId": "letter-pythocles",
+      "edition": "Diogenes Laertius 10.84–116, Hicks trans.",
+      "locator": "10.84–116",
+      "locatorVerified": true,
+      "identity": "epicurean-letter-disputed-editorial-state；保存天象多因解释，但真伪与编辑状态比另外两封书信更有争议。"
+    },
+    {
+      "id": "drn5",
+      "workId": "de-rerum-natura-5",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "5.925–1457",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；文明、法律与宗教史是后期伊壁鸠鲁派系统展开，不能逐句倒署创始人。"
+    },
+    {
+      "id": "drn6",
+      "workId": "de-rerum-natura-6",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "Book 6, natural explanations of meteorological phenomena",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；以自然原因对抗神罚恐惧，具体机制属于古代解释而非现代科学结论。"
+    },
+    {
+      "id": "drn3",
+      "workId": "de-rerum-natura-3",
+      "edition": "De rerum natura, Latin text with Bailey translation",
+      "locator": "3.94–1094",
+      "locatorVerified": true,
+      "identity": "lucretius-later-epicurean；系统展开灵魂可朽与死亡对称论证；对称论证应署给卢克莱修的展开。"
+    },
+    {
+      "id": "lm",
+      "workId": "letter-menoeceus",
+      "edition": "Diogenes Laertius 10.122–135, Hicks trans.",
+      "locator": "10.122–135",
+      "locatorVerified": true,
+      "identity": "epicurus-author-transmitted；最接近作者声音的伦理学纲要，经后代传承，篇幅短而不能穷尽全部异议。"
+    },
+    {
+      "id": "cicgods",
+      "workId": "cicero-de-natura-deorum",
+      "edition": "De natura deorum, Rackham trans.",
+      "locator": "1.43–56",
+      "locatorVerified": true,
+      "identity": "cicero-dialogue-external-witness；保存神像与神性讨论，但处于西塞罗对话和批评框架。"
+    },
+    {
+      "id": "philodemuspiety",
+      "workId": "philodemus-on-piety",
+      "edition": "Herculaneum papyri, De pietate",
+      "locator": "fragments on gods and Epicurean piety",
+      "locatorVerified": true,
+      "identity": "later-school-philodemus；晚期学园神学纸草，破损且有内部解释，不可填成创始人确定体系。"
+    },
+    {
+      "id": "modernpleasure",
+      "workId": "modern-epicurean-pleasure-debate",
+      "edition": "Contemporary scholarship on kinetic and katastematic pleasure",
+      "locator": "debate over DL 10.136–137, PD 3, 9, 18",
+      "locatorVerified": true,
+      "identity": "modern-scholarly-reconstruction；竞争读法用于保持争议开放，不能伪装为古代一致结论。"
+    },
+    {
+      "id": "vs",
+      "workId": "vatican-sayings",
+      "edition": "Vaticanus graecus 1950; Bailey trans., 1926",
+      "locator": "VS 1–81",
+      "locatorVerified": true,
+      "identity": "school-mixed-anthology；混合选集，含重复教义、学园成员话语和作者不定材料，不能整体署作伊壁鸠鲁亲笔。"
+    },
+    {
+      "id": "moderndeath",
+      "workId": "modern-death-debate",
+      "edition": "Stanford Encyclopedia of Philosophy, Death",
+      "locator": "sections 3–5",
+      "locatorVerified": true,
+      "identity": "modern-analytic-reconstruction；用于提出最强异议，不得倒署为古代文本已有术语。"
+    },
+    {
+      "id": "plutarchpolitics",
+      "workId": "plutarch-de-latenter-vivendo",
+      "edition": "Moralia, De latenter vivendo",
+      "locator": "1128A–1130E",
+      "locatorVerified": true,
+      "identity": "plutarch-hostile-external-witness；著名口号经敌对论辩保存；不能脱离普鲁塔克的修辞目的当作无条件原句。"
+    },
+    {
+      "id": "dioenoanda",
+      "workId": "diogenes-oenoanda-inscription",
+      "edition": "The Epicurean Inscription of Diogenes of Oinoanda",
+      "locator": "ethical and public-address fragments",
+      "locatorVerified": true,
+      "identity": "later-school-diogenes-oenoanda；公元二世纪公开传播实践，显示学园边界弹性，不证明创始人赞成一切公共参与。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "epicurus-nature-pleasure-and-common-life",
+      "version": "1.0.0",
+      "title": "伊壁鸠鲁：从自然恐惧到有限而共同的快乐",
+      "lessonIds": [
+        "epicurus-01",
+        "epicurus-02",
+        "epicurus-03",
+        "epicurus-04",
+        "epicurus-05",
+        "epicurus-06",
+        "epicurus-07",
+        "epicurus-08",
+        "epicurus-09",
+        "epicurus-10",
+        "epicurus-11",
+        "epicurus-12",
+        "epicurus-13",
+        "epicurus-14",
+        "epicurus-15"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "epicurus-01",
+      "order": 1,
+      "title": "感觉会错，还是判断会抢跑",
+      "depth": "longform",
+      "guidingQuestion": "当远处的方塔显得圆、近处又显得方时，伊壁鸠鲁为何仍把感觉放在认识的起点？",
+      "coreExplanation": "感觉首先是对象作用于身体所发生的显现；它不替我们完成对象判断。错误通常出现在心灵把尚待确认的解释加到显现上。",
+      "sections": [
+        {
+          "heading": "一句最危险的辩护",
+          "paragraphs": [
+            "有人说感觉可靠，马上会被反问：远处的方塔明明像圆塔，水里的桨明明像折断。若回答这些都是真，似乎等于容许矛盾；若承认感觉会骗人，又像是撤走了判断自然的最后凭据。伊壁鸠鲁面对的压力不是替感官唱赞歌，而是说明任何纠错究竟从哪里开始。",
+            "先把问题缩窄。眼睛在某个距离、光线和身体状态下受到作用，这是一次真实发生的显现；“塔本身是圆的”则是心灵据此作出的对象判断。前者可以与后来显现不同，后者却要接受后来证据的确认。若不分这两层，所谓纠错只会用另一次感觉宣布第一次感觉根本没有发生，解释便陷入循环。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "判断不能站到所有证据之外",
+          "paragraphs": [
+            "《致希罗多德书》要求把意见送回清楚显现和当下情感。理由不是感觉已包含完整理论，而是反驳感觉仍须诉诸某种显现：说视线受雾影响，要看见雾、比较距离、重复观察。理性可以组织证据，却不能从一个完全无感觉的高台裁决感觉。",
+            "《主要教义》第二十三至二十四条把这种依赖写得很尖锐：若整体拒斥感觉，就没有尺度区分哪些意见等待确认、哪些已被反证。这里得到的是起点优先，而非每个感官判断都不可修正。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "真正在场的是显现",
+          "paragraphs": [
+            "可以把论证重建为三步。第一，感觉作为被动受作用，不自行添加“对象必定如此”的断语。第二，互相冲突的是关于对象的意见，而非“远处如此显现”和“近处如此显现”这两个带条件的事实。第三，增加距离、触摸和多人观察，能够决定哪一项对象意见更经得住确认。",
+            "这样说“感觉都真”便有严格限度：它意指显现如其发生地发生，不意指任何根据显现形成的信念都真。伊壁鸠鲁没有给怀疑论者一张免检通行证；他只是拒绝让怀疑论在使用证据之后，又宣布一切证据在原则上无效。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "方塔没有同时变形",
+          "paragraphs": [
+            "卢克莱修在《物性论》第四卷用远塔说明，影像在长距离传播时边缘变钝，于是方塔呈圆。具体光学机制可以错误，案例的哲学功能却清楚：保留“远看像圆”这次经验，同时把“塔为圆”交给近看和触摸检验。案例属于卢克莱修的展开，不能伪作伊壁鸠鲁现存书信的例句。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "理性是否悄悄成了真正标准",
+          "paragraphs": [
+            "最强异议说：既然必须比较条件、推断原因，真正工作的明明是理性。回应是，理性的工作不是另造无条件材料，而是追踪显现之间的差异，并约束意见何时越过证据。它像整理账目，不能凭空制造交易。",
+            "回应仍有边界。我们不能由此证明外部对象一定完全等同于显现原因，也不能把古代影像论当作现代知觉科学。能保住的是：若连出现了什么都一概取消，错误与纠正将同时失去意义。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从显现走向可检验意见",
+          "paragraphs": [
+            "感觉因此不是一部自动吐出真命题的机器，而是判断必须回到的遭遇面。接下来还要解释一般词怎样获得内容、快乐与痛苦怎样成为行动信号，以及我们凭什么从可见磨损推到不可见微粒。单靠一次显现，尚不足以完成这些工作。",
+            "还要注意，后续观察之所以有权纠正对象意见，不是因为“近”在任何情形都天然比“远”可靠，而是因为距离、光线、触摸和重复比较共同减少了未检验假设。若近处同样有雾或身体异常，意见仍须继续等待确认。这样，感觉优先并没有退化成一条简单的距离规则。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "远处方塔显圆、近处显方，不必说其中一次视觉从未发生；真正需要撤回的是从远显直接跳到“塔本身为圆”的意见。",
+      "nodeIds": [
+        "epicurus-01-node"
+      ],
+      "checkIds": [
+        "epicurus-01-check-1",
+        "epicurus-01-check-2",
+        "epicurus-01-check-3",
+        "epicurus-01-check-4"
+      ],
+      "abilitySummary": [
+        "能区分显现的发生与关于对象的断定。",
+        "能说明后续感觉如何纠正意见，而非抹去先前经验。"
+      ],
+      "recommendedNextLessonId": "epicurus-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-02",
+      "order": 2,
+      "title": "从重复经验到可说、可选、可推",
+      "depth": "longform",
+      "guidingQuestion": "感觉只给当下显现，一般词、价值方向和不可见原因怎样获得约束？",
+      "coreExplanation": "预取观念给一般识别以入口，情感以快乐和痛苦标示取舍方向，对不可见者的意见则须等待确认、保持不受反证并接受类比约束。",
+      "sections": [
+        {
+          "heading": "当下显现不够组成一种语言",
+          "paragraphs": [
+            "若每次听见“人”都只能面对一个孤立影像，我们就无法追问“人是否天生追求荣誉”。问题不仅是记住旧感觉，而是许多个别遭遇怎样形成可再次使用的一般把握。与此同时，行动还需要区分亲近与排斥，自然研究还要越过肉眼可见的表面。",
+            "把这些工作都塞给感觉会使标准含混。看见蜂蜜呈金色，不等于已经获得“蜂蜜有益”的行动结论；感到甜与感到胃痛也承担不同角色。伊壁鸠鲁派因此区分感觉、预取观念和情感，而不是罗列三个同义词。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "三个入口各自不包办一切",
+          "paragraphs": [
+            "第欧根尼·拉尔修转述《准则》时列出感觉、预取观念与情感。感觉给具体显现；预取观念是在反复经验中形成、使词语能够指向一类对象的先行把握；情感则以快乐和痛苦标出趋近或回避。它们相互依赖，却不能互换。",
+            "预取观念不是一本先天定义册。它使提问有落点，却不保证围绕“神”“正义”形成的每个社会信念都真。情感也不是命令：疼痛提示坏处，却可能为了更长远的安稳而被选择。标准提供输入，审慎才组织选择。"
+          ],
+          "identity": "diogenes-laertius-report-paraphrase",
+          "kind": "concept"
+        },
+        {
+          "heading": "不可见者怎样接受可见者约束",
+          "paragraphs": [
+            "原子不可直接看见，若任何看不见的故事都同样许可，自然论便与神话无别。伊壁鸠鲁的办法是要求意见不与清楚显现冲突，并在可能处获得确认。物体逐渐磨损而肉眼看不到离去部分，至少容许不可见微粒的解释；解释还须能与运动、组合和感觉材料共同工作。",
+            "这种推论不是从一个现象机械推出唯一原因。它先排除与现象冲突者，再用多个经验领域的类比建立可信度。后期菲洛德谟《论推论方法》把相似性与符号争论发展得更细，那里属于学园传统，不能回填成伊壁鸠鲁遗失原句。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "“人”与“磨损”需要不同桥梁",
+          "paragraphs": [
+            "孩子多次遇到不同的人，逐渐能在新场合认出“人”；这说明一般识别依赖重复经验。石阶多年变浅，却没有可见碎块持续飞出，推测微粒脱落则是从可见结果走向不可见原因。前者说明词义入口，后者说明解释性推论，不能用一个“观念来自感觉”口号抹平。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "偏见会不会也成为预取观念",
+          "paragraphs": [
+            "强异议指出，反复听见一种成见也会形成熟悉把握。若熟悉就算标准，传统偏见将获得真理资格。回应必须坚持：预取观念只让对象可被提起，围绕它作出的属性判断仍须回到显现、相互一致与反证。",
+            "这个回应不保证所有一般概念都能获得中立内容，也没有提供现代统计归纳。它只阻止一种更快的循环：先把未经检验的属性塞进概念，再用该概念证明属性。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "第四标准为何必须另标",
+          "paragraphs": [
+            "有些晚期材料把“思想的投射”列为额外标准。它可以解释心灵直接把握复合构造或神像的方式，但证据身份晚于三项准则。稳妥写法是把它称为学园扩展，并询问它是否仍受感觉材料约束，而不是宣布伊壁鸠鲁本人已经留下四标准定稿。"
+          ],
+          "identity": "later-school-tradition-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "标准不是答案清单",
+          "paragraphs": [
+            "至此，我们得到一套分工：感觉承载显现，预取观念维持识别和词义入口，情感标示取舍方向，不可见推论接受显现约束。下一步可以问：变化、运动与消散若不从无中来，哪种不可见结构能同时解释它们？",
+            "三项标准还形成一条相互制约的链：预取观念若脱离新感觉会僵化，情感若脱离后果比较会短视，对不可见者的推论若脱离一般概念便无法清楚表述。所谓标准不是三只互不往来的抽屉，而是让意见能够被提出、感受并受检验的不同条件。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "听到“人”时不必重新枚举所有人；看到磨损时可以推测微粒离散，但推测仍须与可见变化相容。",
+      "nodeIds": [
+        "epicurus-02-node"
+      ],
+      "checkIds": [
+        "epicurus-02-check-1",
+        "epicurus-02-check-2",
+        "epicurus-02-check-3",
+        "epicurus-02-check-4"
+      ],
+      "abilitySummary": [
+        "能区分感觉、预取观念和情感的工作。",
+        "能把后期推论方法与创始人现存证据分层。"
+      ],
+      "recommendedNextLessonId": "epicurus-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-03",
+      "order": 3,
+      "title": "变化若不归于无，什么在变化中留下",
+      "depth": "longform",
+      "guidingQuestion": "生成、毁灭与运动为何把伊壁鸠鲁带向原子和虚空，而不是一份现代物理预言？",
+      "coreExplanation": "无物从无而生，也无物彻底归无；复合物的生成毁灭因而要由持存成分的组合离散说明，运动则要求不与物体相同的虚空。",
+      "sections": [
+        {
+          "heading": "生成若真从无而来",
+          "paragraphs": [
+            "种子长成树、木头烧成灰，日常语言很容易说新物出现、旧物消失。但若严格理解为从绝对无中出现，任何东西都可在任何地方无因产生；若毁灭是彻底归无，世界的材料又会不断减少。自然解释需要在变化中保留某种持存。",
+            "另一端同样困难。若存在只是连续实满，没有任何空处，物体便无处移动，也无法分离重组。生成、毁灭和运动三种现象共同施压，要求一种既持存又可重新排列的结构。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "物体与虚空承担不同工作",
+          "paragraphs": [
+            "《致希罗多德书》先断言总体由物体与虚空构成。物体由触觉和感觉见证，虚空则由运动反推：若没有不提供阻碍的空间，运动不会发生。这里的虚空不是稀薄空气，因为空气仍会推压、流动并受阻。",
+            "复合物会散开，基本构成若也无限散成无量小部分，有限物体便难以保有稳定尺度。伊壁鸠鲁于是主张不可分原子及原子内部的最小限度。原子有大小和形状，却不具有复合物那种可切开的部分关系。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "德谟克利特留下主干而非定稿",
+          "paragraphs": [
+            "伊壁鸠鲁继承德谟克利特的原子与虚空、复合物由排列和运动形成、可感性质依赖组合等主干。但他不是替前人换一个署名：原子重量、最小限度、偏斜、认识标准和以解除恐惧为目标的自然研究，都使体系发生改造。",
+            "两人没有现存直接对话，德谟克利特材料本身也多经后世转述。可靠比较应列出共同问题和不同解法，不能编造伊壁鸠鲁逐句反驳德谟克利特，更不能用现代原子结构替古人补课。"
+          ],
+          "identity": "modern-historical-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "看不见的风仍然施力",
+          "paragraphs": [
+            "卢克莱修列举风推动船帆、气味扩散、衣物变干和指环磨损。这些现象让不可见微粒成为可理解解释：看不见不等于无效。但案例只建立微观持存者的解释吸引力，并不能测出古代原子的大小、种类或内部结构。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "为何一定是不可分原子",
+          "paragraphs": [
+            "最强异议说，变化需要持存者，并不唯一推出绝对不可分原子；连续物质也可能用别的方式解释。回应只能是体系性的：不可分单位同时阻止从无生成、彻底消失和无限分割带来的尺度瓦解，并与虚空中的组合运动配合。",
+            "这是一种形而上解释的联合优势，不是排他实验。把它称为现代科学预见，会同时误解古代论证和现代证据。它的哲学价值在于把稳定与变化放进同一模型，并让灵魂和世界也接受物质分解的约束。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "持存材料还没有带来自由",
+          "paragraphs": [
+            "原子与虚空说明变化怎样不靠神意或无中生有，却留下运动起始和因果锁链。若原子只按固定轨迹运行，碰撞怎样开始，人的劝告与自我修正又处在什么位置？偏斜正是在这一压力下出现，但它的证据远比原子主干破碎。",
+            "原子的可感性质也须谨慎处理。颜色、温度和味道属于原子组合在感官关系中的效果，不必逐个存在于原子内部；原子本身主要以形状、大小、重量和运动差异解释复合物。这样既保留感觉的真实性，又避免把“蜂蜜尝起来甜”推成每颗原子都携带甜味。",
+            "这一区分不是宣布可感世界虚假。甜味真实发生在特定组合、器官和作用关系中，正如旋律真实却不等于每个音符单独含有整首曲子。原子论要解释性质怎样出现，而不是用微粒名称取消生活中的性质。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "衣物晾干、气味扩散和金属磨损都显示可见性质改变而不可见成分迁移，但它们只支持一种解释路线，不等于现代实验已证古代原子。",
+      "nodeIds": [
+        "epicurus-03-node"
+      ],
+      "checkIds": [
+        "epicurus-03-check-1",
+        "epicurus-03-check-2",
+        "epicurus-03-check-3",
+        "epicurus-03-check-4"
+      ],
+      "abilitySummary": [
+        "能重建物体与虚空的论证分工。",
+        "能说明与德谟克利特的继承、改造和不可时代倒置。"
+      ],
+      "recommendedNextLessonId": "epicurus-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-04",
+      "order": 4,
+      "title": "偏斜打开缝隙，却没有替人行动",
+      "depth": "longform",
+      "guidingQuestion": "原子运动中的微小偏离能否同时解释碰撞和责任，还是只把必然换成偶然？",
+      "coreExplanation": "卢克莱修保存偏斜的完整论述，《论自然》第二十五卷残篇保存性格形成与“取决于我们”的讨论；两者之间没有一条无争议的完整桥梁。",
+      "sections": [
+        {
+          "heading": "严格下落留下两道难题",
+          "paragraphs": [
+            "若所有原子沿平行轨迹以固定必然性运动，首先难以解释碰撞如何开始；更深的压力是，人的决定似乎只是先行运动的末端。劝告、责备和自我训练若不能改变任何东西，就像对河水讲道。",
+            "但只要加入随机也不够。骰子不由外因预定，并不因此成为负责的行动者。偏斜若要与自由有关，必须说明它怎样给能动性留出空间，而不是亲自替主体选择。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "完整文本属于谁",
+          "paragraphs": [
+            "《物性论》第二卷说原子在不定时地作最小偏离，由此打破命运锁链。现存伊壁鸠鲁书信没有这段完整说明，所以严谨表述是“卢克莱修保存的伊壁鸠鲁派偏斜”，而不是给《致希罗多德书》安上一段并不存在的明文。",
+            "西塞罗在《论命运》和《论善恶的界限》中批评偏斜无原因、不能产生自愿。这些文本是论敌见证，能证明古代争点，却可能把对手压缩成容易攻击的形式。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "第二十五卷讨论的是可归责形成",
+          "paragraphs": [
+            "《论自然》第二十五卷纸草残篇讨论初始构成、环境影响、后来形成的性格以及“取决于我们”的反应。它表明伊壁鸠鲁没有满足于说万事偶然，而是关心人在因果环境中如何获得可归责能力。",
+            "纸草破损非常关键。我们不能从编辑补字制造一条完整推演，更不能断言作者在此明确以偏斜解释每次选择。残篇能保住能动性问题，不能封闭连接方式。"
+          ],
+          "identity": "epicurus-fragmentary-papyrus-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "训练不是一颗原子的代称",
+          "paragraphs": [
+            "设想两人都有易怒倾向，一人反复停顿、回想后果，另一人不断强化报复。多年后，两人的反应不只像两次随机投掷，而表现出可识别的性格路径。偏斜最多使未来不被前态完全封死；责任还要依靠记忆、评价和训练形成的主体能力。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "偶然如何不吞掉理由",
+          "paragraphs": [
+            "最强异议准确击中缺口：若选择由偏斜决定，偏斜不受我控制；若选择由理由和性格决定，偏斜似乎多余。回应可以采用两层说：物理层阻止全局必然，心理伦理层说明行动怎样属于形成中的主体。",
+            "两层说是现代重构，不是古代完整定理。它能避免“随机就是自由”的错误，却仍欠缺微观开放怎样上升到理由响应的细节。正确边界是承认缺口，而非用量子随机填补；现代物理概念不能为古代责任论背书。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "一条必须保持可见的断缝",
+          "paragraphs": [
+            "偏斜的重要性正在于它不让命运锁链成为唯一图景，其局限也同样重要：非必然性不是责任。后续审慎与欲望训练可以说明主体层的选择，但不能假装已经从一颗偏斜原子演绎出来。",
+            "偏斜还承担碰撞起始的宇宙论工作。若原子同速平行下落，彼此永不相遇；极小偏离让组合史成为可能。但这一图景本身也受质疑，因为无限宇宙是否真需要绝对的“最初碰撞”并不清楚。碰撞问题和责任问题可以共享偏斜，却不能因共享一个词就视为同一论证。",
+            "性格形成则让劝告重新获得因果位置。听见理由、反复回想后果和改变习惯本身都是自然过程；反决定论不要求行动脱离自然，只要求自然过程不被描述成主体完全无法参与的外来链条。所谓“取决于我们”更接近可由自身能力调节，而非没有任何原因。",
+            "然而这仍是一种解释方向。破损纸草没有让我们精确判断伊壁鸠鲁会接受何种相容论或非相容论标签，古人也没有使用这些现代分类。最可靠的做法是展示文本压力和层次，而不是替他挑选一套当代自由意志阵营。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "两个初始倾向相近的人经训练形成不同反应，说明责任需要性格与自我修正层，而不只是某次不可控的微观偶然。",
+      "nodeIds": [
+        "epicurus-04-node"
+      ],
+      "checkIds": [
+        "epicurus-04-check-1",
+        "epicurus-04-check-2",
+        "epicurus-04-check-3",
+        "epicurus-04-check-4"
+      ],
+      "abilitySummary": [
+        "能区分非必然性的必要空间与责任的充分条件。",
+        "能准确标出卢克莱修、伊壁鸠鲁残篇和西塞罗见证。"
+      ],
+      "recommendedNextLessonId": "epicurus-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-05",
+      "order": 5,
+      "title": "天象未知，并不因此成为神意",
+      "depth": "longform",
+      "guidingQuestion": "当日食和雷电的真实原因不可近察时，多种自然解释怎样解除恐惧而不滑向随便编造？",
+      "coreExplanation": "无限原子与虚空容许多世界；遥远天象在证据不足时可保留多个不受反证的自然原因，目标是阻断从未知到神罚的跳跃。",
+      "sections": [
+        {
+          "heading": "未知为何特别容易长成恐惧",
+          "paragraphs": [
+            "雷声突然压过城市、月亮在夜空缺损，人很容易把巨大、遥远和不可控解释为某种意志。这样的解释看似填补知识空白，实际又制造一个更难安抚的问题：那意志为何发怒，下一次会要求什么。",
+            "伊壁鸠鲁的自然研究带着治疗方向。它不要求每个人精确计算天体，却要求看清天象可以由没有意图的过程发生。只要自然原因仍可能，未知便不能单独证明神罚。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "无限材料不只组成一个世界",
+          "paragraphs": [
+            "《致希罗多德书》从无限原子和无限虚空推向多世界。若构成材料与空间没有尽头，没有充分理由只允许此处形成一个世界。世界由组合产生，也会因组合松解而毁灭。",
+            "多世界不是为了增加奇观，而是取消把此世界安排当作唯一神圣秩序的诱惑。天体运行可以有形成史，不必由幸福不朽者每日管理。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "多种原因必须同时受限",
+          "paragraphs": [
+            "《致皮托克勒斯书》对日月运行、雷电等列出多种可能原因。它的文本身份比另外两封书信更有争议，故只能说它保存伊壁鸠鲁派方法。方法核心是：在遥远对象无法直接分辨时，保留与现象相容且未受反证的若干原因。",
+            "这不是“什么都行”。说雷声来自宙斯警告，除了重复恐惧外没有可比较机制；说由云体碰撞、风或火性过程造成，至少与近处自然过程类比，并会受更多观察限制。"
+          ],
+          "identity": "epicurean-letter-disputed-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "月食允许谦逊，不允许神罚捷径",
+          "paragraphs": [
+            "古人可能把月食解释为遮蔽、发光暂止或其他机制，其中不少后来被淘汰。哲学功能不是保证每个候选正确，而是把“我不知道唯一原因”与“有神在惩罚”分开。证据不足支持暂缓唯一裁决，不支持任意超自然结论。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "多因会不会阻止求真",
+          "paragraphs": [
+            "强异议说，若多个解释都能带来宁静，人便没有动力找出真正原因。回应需要区分近处与遥远：可反复操控和观察的现象应继续缩小原因；难以判定的天象则不因治疗目的而获得虚假确定性。",
+            "边界也在这里。古代具体气象学不因其反迷信功能而成为现代科学。我们保留的是证据不足时的克制，以及自然解释对宗教恐惧的阻断，不保留每项机制的事实正确。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "卢克莱修把治疗写成壮阔叙事",
+          "paragraphs": [
+            "《物性论》第五、六卷把世界形成、雷电、疫病等写成诗性自然史。它使反神罚论证格外有力，也加入罗马语境和诗歌安排。使用这些细节时须持续说“卢克莱修展开”，不能让他的长诗替伊壁鸠鲁签名。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "天象沉默，神的问题仍在",
+          "paragraphs": [
+            "自然解释已经削弱“天体必由神管理”，却没有回答灵魂为何会死，也没有回答神是否以某种方式存在。先处理感觉主体的物质条件，死亡论证才不会只靠一句安慰；再处理神的幸福与非干预，宗教恐惧的另一半才会显形。",
+            "多因方法还要求区分解释目标。对于近处火焰为何熄灭，观察可以排除许多原因；对于遥远天体，古代证据分辨力很弱，保留多种候选更诚实。把这一区分忘掉，便会错误地以为伊壁鸠鲁主张所有自然现象永远没有唯一原因。",
+            "自然研究的宁静效果也不是以舒服决定真理。若证据确实支持令人不安的自然危险，哲学不能删去它；治疗针对的是额外添加的神意、永恒惩罚和无限恐怖。真实有限风险仍须通过观察和行动应对，而且不能因害怕而否认事实本身。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "月食的古代机制可以不正确，但只要未知没有自动变成神怒，解释方法便完成了治疗性工作的一部分。",
+      "nodeIds": [
+        "epicurus-05-node"
+      ],
+      "checkIds": [
+        "epicurus-05-check-1",
+        "epicurus-05-check-2",
+        "epicurus-05-check-3",
+        "epicurus-05-check-4"
+      ],
+      "abilitySummary": [
+        "能区分多因许可与任意故事。",
+        "能说明《致皮托克勒斯书》的争议身份和卢克莱修的展开身份。"
+      ],
+      "recommendedNextLessonId": "epicurus-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-06",
+      "order": 6,
+      "title": "灵魂若能感觉，为何也会散开",
+      "depth": "longform",
+      "guidingQuestion": "身体与灵魂怎样共同产生感觉，而这一关系为何使死后感觉失去主体？",
+      "coreExplanation": "灵魂由极细微原子构成并遍布身体；身体提供器官与容纳，灵魂提供感觉能力，只有联合体能够感觉。死亡破坏联合，离散成分不再构成同一主体。",
+      "sections": [
+        {
+          "heading": "非物质灵魂留下惩罚空间",
+          "paragraphs": [
+            "害怕死亡的人往往并不只怕身体停止，还想象一个离身主体继续看见黑暗、接受审判或懊悔失去生活。若灵魂能够脱离身体保持感觉，这些图景至少保有逻辑位置。伊壁鸠鲁必须说明感觉主体究竟依赖什么。",
+            "把灵魂说成普通肉块又不够。思想反应迅速、感觉遍及身体，似乎需要比骨肉更细微的构成。原子论因此不是把心灵问题删掉，而是尝试在物质组合中给感觉能力一个位置。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "联合体而非两件独立工具",
+          "paragraphs": [
+            "《致希罗多德书》说灵魂由极细微、近似风与热的原子构成，并散布全身。身体若没有灵魂便失去感觉，灵魂若脱离身体也不能保持原有感觉。感觉属于联合体，不是灵魂坐在身体里观看。",
+            "身体提供器官、保护和对象作用的通道，灵魂使这些作用成为有感经验。二者分工不能被理解为两个完整主体暂时合作；一方散失后，原先的感觉结构便不复存在。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "依赖怎样通向可朽",
+          "paragraphs": [
+            "论证第一步指出心理变化随身体变化：疾病、药物、年龄和损伤会改变记忆与情绪。第二步说明灵魂原子需要身体边界维持组织。第三步指出死亡使两者离散，离散原子各自运动，却不再组成可指认为同一个人的感觉系统。",
+            "这里的结论不是“死后有一个人感到无感觉”，而是没有该感觉主体。这个差别会成为死亡论证的核心；若仍暗中保留旁观自身消失的人，物理论证便被想象撤销。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "酒醉与伤害提供哪种证据",
+          "paragraphs": [
+            "卢克莱修列举酒醉使心智摇晃、疾病使精神衰弱、身体成长伴随心智成熟。这些现象支持心灵能力对身体组织的依赖。单一案例可能有别解，但多类共同变化构成累积压力。",
+            "案例不能直接回答意识为何出现，也不能证明现代神经科学的每项结论。它只在伊壁鸠鲁体系内削弱一个完全不受身体影响、死亡后保持同一功能的灵魂图景。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "依赖不必等于同一",
+          "paragraphs": [
+            "强异议说，收音机损坏会让声音消失，却不能证明广播信号由收音机制造；同理，身体依赖或许只是灵魂表达的条件。回应是伊壁鸠鲁不靠依赖一条理由，还把灵魂纳入物体与虚空的穷尽本体，并指出离身感觉缺少维持统一的机制。",
+            "回应仍非当代意识问题的终局。若有人拒绝物体与虚空穷尽存在，论证不会强迫其接受。稳妥结论是：在伊壁鸠鲁原子论内，灵魂没有免于复合物解体的一张特权证书。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "死亡伦理需要这个主体前提",
+          "paragraphs": [
+            "身体化灵魂使死后惩罚失去承担者，却尚未处理神是否惩罚、人为何形成神观念，以及死亡会不会以剥夺未来的方式伤害生者。先考察幸福之神与世界干预的冲突，再回到死亡的完整异议。",
+            "灵魂原子与身体的关系也解释感觉为何不会遍布任何材料堆。只有特定组织、通道和相互作用形成统一反应，石块中的原子才不会仅因同属物体就具有人的感觉。感觉是组织能力，不是某种原子单独携带的小型意识。",
+            "因此，死亡后的材料回到自然循环与人格延续是两回事。组成我的原子可能进入土壤、空气或别的复合物，但它们不带着我的记忆和视角继续旅行。把材料再利用称作个人永生，会再次把成分同组织和主体混淆。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "酒醉、受伤、衰老与昏迷显示心智能力随身体条件改变；它们是累积证据，不是单独证明所有心灵理论都错。",
+      "nodeIds": [
+        "epicurus-06-node"
+      ],
+      "checkIds": [
+        "epicurus-06-check-1",
+        "epicurus-06-check-2",
+        "epicurus-06-check-3",
+        "epicurus-06-check-4"
+      ],
+      "abilitySummary": [
+        "能重建身体—灵魂联合的感觉论证。",
+        "能说明物理死亡前提与伦理死亡论证的先后关系。"
+      ],
+      "recommendedNextLessonId": "epicurus-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-07",
+      "order": 7,
+      "title": "幸福的神为何不会管理风暴",
+      "depth": "longform",
+      "guidingQuestion": "伊壁鸠鲁既保留神的语言又拒绝神的奖惩，神究竟是真实存在、稳定心像，还是幸福生活的规范模型？",
+      "coreExplanation": "可确定的主干是：幸福不朽者不因管理世界、发怒或施恩而受烦扰；把人的统治欲投射给神才是不虔敬。神的精确存在方式则因材料破碎而持续有争议。",
+      "sections": [
+        {
+          "heading": "否认神罚是否等于否认神",
+          "paragraphs": [
+            "宗教恐惧把雷电、疾病和失败解释为某种超人意志的反应。最直接的反击似乎是否认神，但《致美诺伊库斯书》反而要求对神保持符合其幸福不朽本性的观念，并称把群众意见加给神才是不虔敬。",
+            "于是出现双重任务：一方面切断神与世界奖惩，另一方面解释为何仍谈神、敬神和神的表象。若只保留第一面，伊壁鸠鲁会被简单改写成现代无神论；若只保留第二面，宗教恐惧又会回来。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "管理世界会损害神的幸福",
+          "paragraphs": [
+            "《主要教义》第一条和《致美诺伊库斯书》从神的幸福与不朽出发。发怒意味着受冒犯，施恩偏爱意味着有所欠缺，持续管理宇宙意味着劳作与忧虑；这些状态都与完全幸福冲突。因此神既不制造麻烦，也不被麻烦驱动。",
+            "《致希罗多德书》把同一逻辑用于天体：不能把日月运行交给某个幸福不朽者管理。这里并非先证明神不存在，而是指出“完满之神”与“忙于奖惩的统治者”概念不相容。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "不虔敬落在错误投射上",
+          "paragraphs": [
+            "群众并非因为说“有神”就自动虔敬；若把嫉妒、报复和交易加给神，他们只是把人间权力放大。伊壁鸠鲁式虔敬试图凝视一种不受恐惧和欲望扰乱的生命，从而让神不再成为胁迫工具。",
+            "这也解释为何自然研究属于伦理治疗。雷电有自然原因，死后没有感觉主体，祭祀便不能作为购买安全的交易。人可以敬重幸福形象，却不必揣测神下一次惩罚谁。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "神究竟以何种方式存在",
+          "paragraphs": [
+            "实在论解释认为神是星际间隙中极细微而稳定的原子生命；心像或理想解释认为持续流入心灵的神像构成一种规范性观念。西塞罗《论神的本性》和菲洛德谟《论虔敬》保存关键材料，却分别带有对话批评和破损纸草限制。",
+            "两种重构都能解释部分文本，也都遇到困难。原子复合神如何真正不朽？若只是心像，为何文本坚持神的存在？现存材料足以确认非干预与反恐惧功能，不足以让一种本体解释无争议胜出。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "一场雷暴不能读取意图",
+          "paragraphs": [
+            "雷击毁谷仓，有人说这是神罚；若谷仓无损，又说神已受祭品安抚。无论结果如何，信念都自我保护。自然解释要求比较云、火、风与地形，至少允许失败和修正。案例显示恐惧理论的问题不只在结论，而在它取消反证。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "无所作为的神是否多余",
+          "paragraphs": [
+            "强异议说，既不创造、不管理、不奖惩的神对世界解释没有贡献，保留它只是语言妥协。回应可以指出，神在体系中承担幸福生命的可想象范型，并让虔敬摆脱交易恐惧；解释自然的工作本来就不交给神。",
+            "回应不能证明神的客观存在方式，也不能强迫无神论者接受崇敬实践。它只说明“对自然无因果工作”不等于“在伦理想象中无功能”，而这两种功能必须分开。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "确定的是非干预，不确定的是存在方式",
+          "paragraphs": [
+            "神学的诚实结论是一条不对称边界：奖惩和治理与幸福神性冲突，这点证据强；神是何种原子存在或心像结构，这点证据弱。保留不对称，才能既解除宗教恐惧，又不把现代解释冒充古代定论。",
+            "神的预取观念也不能被群众故事垄断。普遍想到幸福不朽者，只能提供讨论入口；把雷击、偏爱和愤怒加进去仍是待审意见。正因预取观念不自动认证属性，伊壁鸠鲁才能一面诉诸神观念，一面批判流行宗教对神的描述。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "雷暴造成损害并不增加它是警告的证据；反复把异常解释为神罚，会让任何后果都验证同一恐惧。",
+      "nodeIds": [
+        "epicurus-07-node"
+      ],
+      "checkIds": [
+        "epicurus-07-check-1",
+        "epicurus-07-check-2",
+        "epicurus-07-check-3",
+        "epicurus-07-check-4"
+      ],
+      "abilitySummary": [
+        "能说明非干预论的概念论证。",
+        "能并列实在论、心像论等重构而不伪造定论。"
+      ],
+      "recommendedNextLessonId": "epicurus-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-08",
+      "order": 8,
+      "title": "快乐是尺度，不是每次冲动的命令",
+      "depth": "longform",
+      "guidingQuestion": "若快乐是目的，为何伊壁鸠鲁会选择疼痛、拒绝快感，并把审慎和正义称为愉快生活的条件？",
+      "coreExplanation": "快乐与痛苦提供自然取舍起点，选择却按完整后果衡量；会引出更大痛苦的快感可放弃，带来稳定安宁的疼痛可承受。",
+      "sections": [
+        {
+          "heading": "最容易被误解的一句话",
+          "paragraphs": [
+            "“快乐是最高善”听起来像给每次强烈冲动盖章。如果面前有甜食、权力或秘密报复，越直接的满足似乎越符合快乐主义。但这种理解无法解释伊壁鸠鲁为何强调简朴、友爱、正义和为未来承受疼痛。",
+            "误解把两个层次混在一起：什么使生活对主体为好，与此刻应该选择哪件事。快乐回答价值尺度，选择还要比较时间、连带后果、失去后的恐惧与心灵扰动。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "自然起点不等于机械规则",
+          "paragraphs": [
+            "《致美诺伊库斯书》称快乐为幸福生活的开端和终点，也立刻补充并非选择每种快乐、回避每种疼痛。某些快乐随后带来更大痛苦，某些疼痛则换来更大快乐。衡量对象是整条后果链。",
+            "情感标准仍不可删去。若没有快乐与痛苦，审慎便不知道为何比较后果；但若没有审慎，情感只能给出当下方向，无法组织一生。标准与判断互相需要，却不互相取代。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "无痛为何改变加法想象",
+          "paragraphs": [
+            "《主要教义》第三条说，一切疼痛移除时，快乐在量上达到限度。这个主张打断“幸福必须不断添加刺激”的想象。饥饿解除后，更多变化可以改变享受样式，却不再填补同一种匮乏。",
+            "限度不是命令每个人只吃最低配给，也不说积极愉悦毫无价值。它说明幸福的完成点可以由有限自然需要达到，因此不必把无限财富和声名当成必要燃料。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "选择疼痛并没有背叛快乐",
+          "paragraphs": [
+            "手术会带来可预见疼痛，却可能终止更长疾病；成瘾性享受当下强烈，却会扩大依赖与失控。若只记录瞬间强度，两种选择都难解释。把未来身体状态、焦虑和关系损害纳入，快乐主义才成为生活判断而非冲动记账。",
+            "案例也防止禁欲误读。承受疼痛不是因为疼痛突然变善，而是因为它在具体后果链中成为通往较少痛苦和较稳快乐的代价。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "德性为何不能从外面粘上",
+          "paragraphs": [
+            "《致美诺伊库斯书》和《主要教义》第五条把审慎、荣誉与正义同愉快生活连在一起。审慎识别后果，节制限制无界欲望，正义减少伤害与被发现的恐惧。它们的价值由生活效果说明，却不是随时可换的装饰。",
+            "若一个人惯于欺骗和支配，他的期待、关系和安全感也会被重塑。德性不是一次行为外加的奖品，而是稳定快乐得以持续的性格与社会条件。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "秘密作恶若永不暴露",
+          "paragraphs": [
+            "强异议构造完全不会被发现的作恶者：若他得到快感且没有焦虑，快乐主义凭什么反对？伊壁鸠鲁可诉诸性格不稳定、对暴露的持续担忧与正义约定，但“绝对无风险”思想实验仍施加压力。",
+            "这里不能假称快乐论已经独立证明无条件道德义务。正义单元会给出互利约定的更完整结构，并承认对弱者、秘密违法和不平等协商的边界。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "快乐内部还有一场分类争论",
+          "paragraphs": [
+            "总体结构已经清楚：快乐是价值尺度，审慎按一生后果选择，德性维持稳定生活。下一道困难是，无痛究竟是积极快乐、快乐上限，还是后来学园命名的状态；动与静的分类不能只用一句定义带过。",
+            "时间衡量还会改变“强度最大即最好”的直觉。一次强烈享受若让人长期害怕失去，心灵痛苦可能超过当时愉悦；一种温和而可靠的满足则减少未来依赖。比较不是把所有感受塞进精确算术，而是让近期、远期、身体与心灵后果同时进入审慎判断。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "接受有痛治疗与拒绝会造成依赖的短暂享受，都显示价值标准和当次选择不是同一层。",
+      "nodeIds": [
+        "epicurus-08-node"
+      ],
+      "checkIds": [
+        "epicurus-08-check-1",
+        "epicurus-08-check-2",
+        "epicurus-08-check-3",
+        "epicurus-08-check-4"
+      ],
+      "abilitySummary": [
+        "能区分快乐的价值地位与选择规则。",
+        "能说明德性在体系内既有工具性又与愉快生活不可分。"
+      ],
+      "recommendedNextLessonId": "epicurus-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-09",
+      "order": 9,
+      "title": "无痛是快乐，还是快乐之后的零点",
+      "depth": "longform",
+      "guidingQuestion": "进食中的愉悦与饱足后的安稳有什么关系，动与静的快乐是否真是一条无争议二分？",
+      "coreExplanation": "古代见证把欢欣愉悦列为运动中的快乐，把无身体疼痛和无心灵扰动列为状态性快乐；无痛达到快乐限度，但分类的精确含义仍有竞争解释。",
+      "sections": [
+        {
+          "heading": "零痛是否等于零快乐",
+          "paragraphs": [
+            "日常上，我们容易把快乐理解成正在发生的刺激，把没有疼痛理解成中性。伊壁鸠鲁却把身体无痛和心灵无扰放在幸福核心。如果无痛只是零点，他似乎把中性误叫最高善；如果只有无痛有价值，欢欣又变得难以安置。",
+            "困难还来自文本层次。作者书信谈无痛和无扰，第欧根尼·拉尔修晚出转述则明确使用状态性与运动性分类。必须先承认分类证据，再追问分类是否等于后世常见的两种独立快乐。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "古代见证说了什么",
+          "paragraphs": [
+            "第欧根尼·拉尔修十卷一百三十六至一百三十七节保存《论选择》引文，把无扰与无痛称为状态性快乐，把欢欣和愉悦称为运动中的活动。它还用这一点区分伊壁鸠鲁与只承认运动快乐的昔兰尼派。",
+            "西塞罗也围绕无痛是否能算快乐展开攻击。这些材料证明古代争点真实存在，却仍经过转述和论辩。不能只凭一个现代译词“静态”想象完全不活动、没有意识的麻木。"
+          ],
+          "identity": "diogenes-laertius-report-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "完成与变化不是同一量",
+          "paragraphs": [
+            "《主要教义》第十八条区分快乐在匮乏消除前的增长与消除后的变化。饥饿解除使相关疼痛归零，快乐达到这项自然需要的限度；之后香味、交谈和记忆可以改变快乐面貌，而不把无匮乏再提高一层。",
+            "这种说法像完成度而非刺激总和。三角形画完后换颜色会改变观感，却不让它更成为三角形。类比只说明“达到限度后仍能变化”，不证明所有快乐可用同一数字测量。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "一顿饭里的两种描述",
+          "paragraphs": [
+            "饥饿时吃面包，疼痛逐渐解除，同时味觉愉悦发生。饱足之后再尝香草，体验有所变化，却没有解除更多饥饿。若把前者只叫运动、后者只叫静止，会遗漏同一过程的重叠。",
+            "案例支持一种谨慎解释：状态性快乐可能不是时间上完全不动的片段，而是主体处于不受匮乏支配的愉快状态。它仍是现代重构，不能冒充古代术语唯一词典义。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "两条竞争读法",
+          "paragraphs": [
+            "一条读法把状态性快乐视为独立且最佳的无痛状态，运动快乐只是达到或装饰它。另一条读法强调伊壁鸠鲁仍承认多样积极愉悦，所谓状态性描述的是无匮乏的生活结构，而非与活动割裂的感觉种类。",
+            "两条读法都能调用部分文本。前者要解释无痛为何非中性，后者要解释古代明确分类为何不只是视角变化。诚实处理应让异议互相施压，而不是在开头宣布哪一派已终结争论。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "沉睡或麻木是否最幸福",
+          "paragraphs": [
+            "若只把无痛当充分条件，深度无意识似乎优于清醒生活。回应是伊壁鸠鲁谈的是主体享有无扰与无痛、能记忆和友爱的生活，不是把感觉能力整体关掉。无痛作为快乐需要放在有感觉的生命中理解。",
+            "但回应也警告我们，不可把 ataraxia 升格为不同于快乐的神秘终极目的。它是快乐的稳定形态或限度说明，精确分类有争议，价值主轴仍是快乐。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "限度为欲望分类准备尺度",
+          "paragraphs": [
+            "只要快乐有自然完成点，无限财富和刺激便失去必要性。下一步不是列一张禁欲清单，而是问哪些欲望有自然终点、哪些可有可无、哪些由空洞意见不断扩张，并让审慎比较满足与不满足的后果。",
+            "身体无痛与心灵无扰也不必在同一时刻完全重合。短暂身体疼痛可能伴随对原因和限度的清楚把握，心灵未被恐惧击溃；反之，身体无痛者仍可能为名望和死后惩罚焦虑。分类若忽略身体与心灵两个维度，就会把稳定快乐简化成单一感觉。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "饥饿时进食包含匮乏消除与滋味变化；饱足后调味能改变体验，却未必增加无匮乏的完成度。",
+      "nodeIds": [
+        "epicurus-09-node"
+      ],
+      "checkIds": [
+        "epicurus-09-check-1",
+        "epicurus-09-check-2",
+        "epicurus-09-check-3",
+        "epicurus-09-check-4"
+      ],
+      "abilitySummary": [
+        "能说明快乐限度与快乐变化的差别。",
+        "能把古代见证和现代动静解释争论分开。"
+      ],
+      "recommendedNextLessonId": "epicurus-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-10",
+      "order": 10,
+      "title": "欲望有终点，还是会借满足继续扩张",
+      "depth": "longform",
+      "guidingQuestion": "自然且必要、自然但非必要、空虚欲望的区分，怎样成为审慎判断而非固定物品清单？",
+      "coreExplanation": "分类考察欲望是否源于身体与稳定幸福、是否有自然终点、未满足是否带来疼痛，以及满足是否依赖无界意见。",
+      "sections": [
+        {
+          "heading": "同样想要，结构并不相同",
+          "paragraphs": [
+            "口渴时想喝水、想尝一种精致饮料、想让所有人羡慕自己的酒窖，都可以用“我想要”表达。若只看主观强度，它们没有层次；若只按物品贵贱分类，又会忽略一杯昂贵饮料也可能偶然易得。",
+            "伊壁鸠鲁需要的是欲望诊断：什么匮乏推动它，它有没有自然完成点，不满足会带来何种疼痛，追逐它又会制造什么依赖。分类因此面向欲望结构而非货架。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "三分法与内部三分",
+          "paragraphs": [
+            "《致美诺伊库斯书》区分自然且必要、自然但非必要、既非自然也非必要而源于空洞意见的欲望。必要欲望又分为关乎幸福、身体免于困扰和生命维持。分类把一团冲动拆成可比较理由。",
+            "自然但非必要的欲望并非禁物。好吃的食物、舒适变化可以享受，只是幸福不以它们为条件。空虚欲望的问题也不在文化来源本身，而在它由名望、权力等无界意见推动，达成一个目标后仍没有完成尺度。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "每个欲望接受两面追问",
+          "paragraphs": [
+            "《梵蒂冈箴言》第七十一条要求追问：欲望实现会怎样，不实现又会怎样。这个箴言来自混合选集，不能无警示地称为伊壁鸠鲁亲笔，但它准确呈现学园式审慎。",
+            "两面追问防止机械压抑。若一种自然但非必要享受轻易可得、不会制造依赖，拒绝它未必更明智；若一项看来必要的安排伴随巨大长期伤害，还须寻找替代方式。"
+          ],
+          "identity": "school-mixed-anthology-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "物品不替欲望签名",
+          "paragraphs": [
+            "一杯水可能用来解渴，也可能在奢侈竞赛中成为身份符号；昂贵药物可能是维持生命的必要手段。把水永远列为自然、昂贵物永远列为空虚，会把欲望来源和后果误写成物价表。",
+            "无限声名更接近典型空虚欲望，因为没有身体状态告诉人“已足够著名”。评价不依赖声名是否带来片刻愉悦，而在它是否让安全和自我价值永远交给他人的注意。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "低欲望会不会美化压迫",
+          "paragraphs": [
+            "强异议指出，劝处境艰难者降低欲望，可能替贫困和不义开脱。回应必须区分自愿摆脱无界依赖与被迫缺乏基本条件。自然必要欲望恰好承认食物、安全和身体照料不可被漂亮话取消。",
+            "欲望分类也不是完整社会批判。它能诊断权力和财富何以无界，却没有独自说明资源怎样公平分配。若用自足要求受害者适应伤害，就越过了回应边界。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "未来既非完全属于也非完全不属于我们",
+          "paragraphs": [
+            "审慎需要对未来保持双重态度：不能把结果当作必然到来，也不能因不确定就放弃安排。欲望的后果比较正是在这种有限可控性中工作。它既拒绝焦虑地占有未来，也拒绝把一切交给偶然。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "欲望诊断通向自足而非贫困崇拜",
+          "paragraphs": [
+            "欲望有自然限度，生活便可能减少受财富和声名挟持。但死亡仍像一种无限损失威胁所有计划。必须先检验“死亡与我们无关”的主体论证及其最强反对，再说明宁静和自足能保住什么。",
+            "必要欲望内部三分提醒人，生存不是幸福的全部，却是许多快乐的物质前提；身体免扰不等于只求不死，幸福需要摆脱恐惧和建立友爱。三类必要性有重叠，但不能用“活着就够了”压平它们。",
+            "空虚欲望也可能寄生在自然欲望上。饥饿是自然需要，却可能被“只有最稀有食物才配得上我”的意见接管；安全是合理需要，却可能被“必须统治所有人才安全”的权力欲放大。诊断因而要追踪意见怎样改变满足条件。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "饮水满足生存需要，特定风味可能自然但非必要，无限声名没有身体给出的完成点；同一物品承载何种欲望仍须看情境。",
+      "nodeIds": [
+        "epicurus-10-node"
+      ],
+      "checkIds": [
+        "epicurus-10-check-1",
+        "epicurus-10-check-2",
+        "epicurus-10-check-3",
+        "epicurus-10-check-4"
+      ],
+      "abilitySummary": [
+        "能运用欲望三分与必要欲望内部三分。",
+        "能避免把自愿简朴写成赞美被迫匮乏。"
+      ],
+      "recommendedNextLessonId": "epicurus-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-11",
+      "order": 11,
+      "title": "死亡到来时，谁在承受它",
+      "depth": "longform",
+      "guidingQuestion": "死亡不再被经验，是否就不伤害人，还是仍会以剥夺未来的方式成为坏事？",
+      "coreExplanation": "伊壁鸠鲁以感觉条件和主体不存在反驳死后受苦；卢克莱修另发展前生与死后不存在的对称论证。剥夺论、早夭与伤害时间问题仍构成真实异议。",
+      "sections": [
+        {
+          "heading": "一句安慰为何仍让人不安",
+          "paragraphs": [
+            "《致美诺伊库斯书》说，我们存在时死亡尚未来，死亡到来时我们已不存在。它有惊人的清晰，也立即招来反问：即使死后没有痛感，死亡仍让人失去明天、友爱和未完成的生活，为什么不算伤害？",
+            "必须先区分三件事：死亡过程可能疼痛，死亡之后是否有主体受苦，死亡是否剥夺本可有的好生活。伊壁鸠鲁的核心论证直接攻击第二件，不能未经论证吞并另外两件。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "感觉主体已经在物理层消失",
+          "paragraphs": [
+            "身体化灵魂提供前提：死亡不是灵魂搬到另一处，而是维持感觉主体的联合体解散。善恶若以感觉为条件，死后没有一个人处于黑暗、孤独或遗憾状态。把不存在想成一种漫长体验，语法已经偷带主体。",
+            "《主要教义》第二条把结论压缩为死亡与我们无关，因为解体者无感觉，无感觉者没有相关善恶。它对死后惩罚和永恒虚无恐惧有力，尤其能揭开想象中的旁观者。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "卢克莱修让我们回看出生以前",
+          "paragraphs": [
+            "《物性论》第三卷进一步比较出生前与死后的不存在。我们不为漫长的前生空白受苦，为何把死后空白看成针对自己的灾难？这条对称论证属于卢克莱修的完整展开，不应直接署给伊壁鸠鲁书信。",
+            "对称的力量在于破除“我会在那里感受缺席”。但出生使好生活成为可能，死亡使更多生活不再可能，两端对机会的作用不同。现代异议正抓住这种不对称。"
+          ],
+          "identity": "lucretius-later-epicurean-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "葬礼旁的幽灵与未过的生日",
+          "paragraphs": [
+            "想象自己的葬礼并难过无人记得自己，常包含一个看见遗忘的幽灵；主体论证可以移除它。担心五十岁死亡会失去本可共享的六十岁生日，则比较两条生命历程，不要求死者在场感受。",
+            "案例显示两种恐惧不能用同一句话处理。前者依赖死后体验错误，后者是反事实剥夺判断。若把二者混合，支持者会显得冷酷，反对者也会错过论证真正击中的对象。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "剥夺何时伤害不存在者",
+          "paragraphs": [
+            "剥夺论说，坏处在于实际生命比本可有的好生命更短。随之出现时间难题：伤害在死亡前发生、死亡瞬间发生、死后发生，还是没有单一时间？死前人尚未死，死后人不存在，瞬间又似乎没有承受期。",
+            "这些是现代重构的术语，不是古代原句。它们说明反对死后体验并未自动消灭所有死亡伤害，也迫使剥夺论解释没有同时存在的主体如何成为比较对象。"
+          ],
+          "identity": "modern-analytic-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "有限胜利比全胜更可靠",
+          "paragraphs": [
+            "伊壁鸠鲁可以回应，许多死亡焦虑正由想象死后体验、无限时间和神罚放大；移除这些错误会改变生者现在的生活。即便早逝可构成剥夺，也不需要把死亡想成无限持续的坏状态。",
+            "回应边界必须明说：它不取消临终疼痛、亲友哀伤、暴力死亡的不义，也不证明每个生命长度同样好。它提供的是对恐惧结构的限制，而非要求人对一切死亡无动于衷。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "不被无限死亡挟持，才可能衡量有限生活",
+          "paragraphs": [
+            "死亡论证把一个无穷恐惧缩到有限问题：怎样活、怎样面对过程、哪些早逝确为损失。接下来宁静与自足要说明，有限生活如何不被无界欲望支配；它们若只叫人降低期待，仍会面对消极退缩的异议。",
+            "对称论证还有治疗性的时间效果。若不存在本身不是一种被体验的漫长状态，有限生命就不必与无限死后时间竞争。人可以关心生命是否过早结束，却不必把每一天都当作对无穷虚无的失败抵抗。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "想象自己在葬礼旁观看亲友，往往暗中保留了一个死后主体；但担心失去本可拥有的好生活，并不需要这个旁观者。",
+      "nodeIds": [
+        "epicurus-11-node"
+      ],
+      "checkIds": [
+        "epicurus-11-check-1",
+        "epicurus-11-check-2",
+        "epicurus-11-check-3",
+        "epicurus-11-check-4"
+      ],
+      "abilitySummary": [
+        "能区分死后体验论证与剥夺异议。",
+        "能说明死亡、濒死疼痛和他人哀伤不在同一射程。"
+      ],
+      "recommendedNextLessonId": "epicurus-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-12",
+      "order": 12,
+      "title": "宁静不是把生命调成静音",
+      "depth": "longform",
+      "guidingQuestion": "无扰、无痛与自足怎样形成稳定快乐，而不把贫困、孤立和低期待包装成幸福？",
+      "coreExplanation": "宁静是免于无根据恐惧和无界欲望的扰动，无痛是身体免于疼痛；自足使幸福不依赖难以控制的奢侈，却不要求拒绝丰裕或朋友。",
+      "sections": [
+        {
+          "heading": "稳定是否只是少要一点",
+          "paragraphs": [
+            "欲望分类容易被压缩成生活格言：少想要，就少失望。若这就是全部，宁静可能只是把感受调低，自足则像要求处境艰难者适应缺乏。伊壁鸠鲁需要说明，他减少的是无界依赖，而非生命能力。",
+            "另一个张力来自友爱。若自足意味着不需要任何人，朋友就只能是装饰；但学园把友爱视为幸福最重要的保障之一。自足必须与相互依赖相容，否则体系内部会断裂。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "无扰与无痛分别处理什么",
+          "paragraphs": [
+            "ataraxia 指心灵不受虚假神罚、死后体验和无界欲望扰动，aponia 指身体免于疼痛。二者不是一个词，也不是取消全部情感。身体可能短暂疼痛而心灵不被无限恐惧吞没，记忆快乐也能改变痛苦的整体重量。",
+            "它们仍在快乐论内部。宁静不是高于快乐的另一终极目的，而是心灵快乐达到稳定限度的描述；无痛则给身体快乐设自然完成点。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "自足让奢侈变成可有可无",
+          "paragraphs": [
+            "《致美诺伊库斯书》说珍视自足，不是为了永远只用少量，而是在没有丰裕时也能满足。重点是选择自由：可以享受偶然好物，却不让它成为每天必须支付的幸福赎金。",
+            "《梵蒂冈箴言》把自足与自由、分享相连。该选集身份混合，不能逐句都署给伊壁鸠鲁；但它显示学园并不把自足理解成囤积和隔绝，反而认为少受外物支配的人更能给予。"
+          ],
+          "identity": "epicurus-author-letter-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "记忆与期待使宁静不空洞",
+          "paragraphs": [
+            "稳定快乐包含对过去好处的记忆、对未来既不全然占有也不绝望的期待。若宁静只是无意识停顿，感恩、友爱和哲学思考都无法进入。伊壁鸠鲁的幸福主体仍在比较、回忆和共同生活。",
+            "这也解释剧痛中的限度主张：疼痛真实存在，却不必占满时间视野。短痛可预期结束，长痛常可减弱，心灵还可调用其他快乐来源。它不是医学保证，而是反对把当下痛苦想成无穷。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "简朴与贫困不能互换",
+          "paragraphs": [
+            "有足够食物的人选择简单饮食，以免口味成为焦虑依赖，这是自愿训练。缺乏食物的人被告知饥饿只因欲望太高，则是用伦理语言遮蔽物质伤害。相同的少量消费，因选择条件不同而有不同意义。",
+            "同样，能独处而不恐慌不等于拒绝朋友。自足减少乞求权势者的需要，却能与可信关系共同增加安全。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "宁静会不会阻止抗争",
+          "paragraphs": [
+            "强异议说，若扰动本身被当作坏，人可能对不义保持安静。回应是无根据恐惧与对真实伤害的判断不同；正义约定失效时，识别伤害正是审慎的一部分。宁静不要求把事实改写成无害。",
+            "然而伊壁鸠鲁没有发展完整的结构不义理论。自足可减少权力诱惑，却不能单独说明何时集体行动必要。这个债务要在正义和政治退隐中保持可见。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "自足需要朋友才能不变成孤岛",
+          "paragraphs": [
+            "宁静、自足和有限快乐构成稳定生活，却不是封闭个人。朋友的帮助与“相信会得到帮助”让未来恐惧下降；问题随即变成，若一切价值最终以自己的快乐衡量，朋友是否只是保险工具。",
+            "自足与感恩也相互支持。若只盯着尚未拥有之物，已经得到的食物、交往和思考会被当作零；记住过去的好处并非虚构满足，而是防止无界欲望不断移动基准。它让有限快乐在时间中保持可见。",
+            "这种记忆不能要求人在严重疼痛中假装舒服。它只是扩大注意范围，使当下痛苦不独占整个生命评价。真实医疗、照料和朋友帮助仍然必要，自足从来不是拒绝接受援助。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "能享受丰盛而不把它变成必要条件，与被迫挨饿却被要求知足，是完全不同的处境。",
+      "nodeIds": [
+        "epicurus-12-node"
+      ],
+      "checkIds": [
+        "epicurus-12-check-1",
+        "epicurus-12-check-2",
+        "epicurus-12-check-3",
+        "epicurus-12-check-4"
+      ],
+      "abilitySummary": [
+        "能区分自愿降低依赖与被迫匮乏。",
+        "能说明记忆、期待和友爱为何使宁静具有活动与时间厚度。"
+      ],
+      "recommendedNextLessonId": "epicurus-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-13",
+      "order": 13,
+      "title": "朋友若只为有用，为何值得冒险",
+      "depth": "longform",
+      "guidingQuestion": "友爱从安全需要开始，却又被说成本身可欲，这会不会冲破严格利己的快乐主义？",
+      "coreExplanation": "朋友既提供现实帮助，也以可靠信心减少未来恐惧；关系可由效用起步，却在共同生活中成为值得维护的快乐构成。",
+      "sections": [
+        {
+          "heading": "保险关系为何会变成友爱",
+          "paragraphs": [
+            "《主要教义》把友爱称为智慧为幸福准备的最大事物，又强调它提供安全。若朋友只是风险保险，更换一个更有资源的人似乎总是合理；若朋友本身可欲，快乐主义又必须解释他人的善怎样进入我的理由。",
+            "张力不能靠把“有用”说成难听词消失。人确实需要帮助、保护和信任，伊壁鸠鲁也不否认友爱常由需要开始。关键是起源是否决定关系全部价值。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "信心本身已经改变现在",
+          "paragraphs": [
+            "《梵蒂冈箴言》第三十四条说，我们不如说需要朋友帮助的信心，而不只是帮助本身。未来援助尚未发生，可信关系已经减少当下恐惧。安全不是一次交易后的外加收益，而是持续期待结构。",
+            "该箴言属于混合选集，身份必须标明。它与《主要教义》二十七至二十八条相互照亮，却不能因此证明每个字都出自伊壁鸠鲁亲笔。"
+          ],
+          "identity": "school-mixed-anthology-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "从效用开始不必停在效用",
+          "paragraphs": [
+            "一种发展论认为，最初的互助让人共同生活、积累记忆并形成关切，朋友的快乐和痛苦随后进入自身生活。正如因饥饿开始吃饭不等于一顿共同用餐只有营养，关系起源不能穷尽成熟形态。",
+            "另一种较严格读法认为，友爱始终因它对主体稳定快乐的贡献而被珍视，即便这种贡献已深到无法逐次计算。两种解释都保留快乐主轴，但对“本身可欲”的强度不同。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "尚未求助，安全已经发生",
+          "paragraphs": [
+            "一个人知道病中有人会来照料，即使多年从未真正求助，也会少为未来惊慌。若朋友遭难，他愿意承担时间和风险，关系便超过即时交换。案例支持友爱包含信任与共同历史。",
+            "但风险不是无限义务。若所谓朋友持续伤害、利用信任，审慎仍可重新评价关系。友爱本身可欲不等于每段自称友爱的关系都必须维持。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "他人的善是否只剩我的感觉",
+          "paragraphs": [
+            "强异议说，只要最终理由仍是自己的快乐，朋友就没有真正独立价值。回应可以说，成熟人格的快乐本来就由共同生活构成；关心朋友不是先计算我的收益，再额外帮助，而是我的善已包含关系。",
+            "回应能软化利己与利他的二分，却不能证明无条件普遍利他。现存材料更充分说明亲密友爱，较少说明陌生人、敌人和不平等关系。正义必须承担最低互不伤害的更广范围。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "西塞罗保存了学园内部的多种辩护",
+          "paragraphs": [
+            "《论善恶的界限》让伊壁鸠鲁派角色陈述友爱，有的强调审慎契约，有的强调朋友的快乐如同自己的快乐。西塞罗的安排显示古代解释并非毫无张力，也提醒我们不要把对话角色直接当作创始人定稿。"
+          ],
+          "identity": "cicero-dialogue-external-witness",
+          "kind": "argument"
+        },
+        {
+          "heading": "亲密不足以定义正义",
+          "paragraphs": [
+            "朋友可以彼此承担超过最低契约的关切，但社会不能要求所有人先成为朋友才避免伤害。正义提供更薄却更广的关系：互不伤害与互利约定。它的可变性必须同时允许批判失效法律，而非滑向强者任意。",
+            "友爱还改变自足的含义。一个不把朋友当权势渠道的人，反而能在关系中少计较即时回报；他需要关系，却不需要用支配保证关系。相互依赖与不被外物奴役可以并存，因为依赖的是可信共同实践，不是无限地位。",
+            "朋友死亡带来的哀伤也揭示友爱不是保险合同。失去共同生活会真实疼痛，而《主要教义》第四十条对不过度哀悼的表达不能被用来否认情感。较稳妥的解释是，记忆关系的好处不让死亡恐惧摧毁幸存者，而非要求无悲伤。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "朋友尚未实际援助，仅因彼此可信便减少焦虑；为患难朋友承担有限风险，又不能用当次交换解释。",
+      "nodeIds": [
+        "epicurus-13-node"
+      ],
+      "checkIds": [
+        "epicurus-13-check-1",
+        "epicurus-13-check-2",
+        "epicurus-13-check-3",
+        "epicurus-13-check-4"
+      ],
+      "abilitySummary": [
+        "能呈现友爱工具性与内在可欲性的张力。",
+        "能区分亲密共同体与最低正义约定。"
+      ],
+      "recommendedNextLessonId": "epicurus-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-14",
+      "order": 14,
+      "title": "正义会变，并不等于强者说了算",
+      "depth": "longform",
+      "guidingQuestion": "正义若是互不伤害的约定，怎样既随地方情势改变，又保留批判现行法律的尺度？",
+      "coreExplanation": "自然正义的稳定形式是互利地不伤害、不受伤害；具体法律因条件而异。法律若不再服务共同安全便失去正义性，约定性因此同时提供可变与批判。",
+      "sections": [
+        {
+          "heading": "若无永恒法，现行法是否都正义",
+          "paragraphs": [
+            "把正义交给永恒命令，会难以解释法律为何随处境改变；把正义只说成当地约定，又像是只要强者写进法条便成立。《主要教义》三十一至三十八条试图在两端之间建立功能尺度。",
+            "关键不是寻找一份跨时代相同的法条，而是问约定是否真实促进共同关系中的不伤害与不受伤害。形式相对稳定，应用因条件变化。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "自然正义是一种互利约定",
+          "paragraphs": [
+            "第三十一条把自然正义界定为互利约定：不伤害，也不受伤害。第三十三条又说，脱离人与人关系中的约定，不存在一件独立自存的正义物。正义不是宇宙中的原子，却也不是任意口令。",
+            "“互利”要求双方的安全利益进入评价。若所谓约定只保障一方随意伤害另一方，它在功能上没有满足定义，即使形式上有人宣布同意。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "同一功能允许不同规则",
+          "paragraphs": [
+            "第三十六条说，一般而言正义对所有人相同，因为它有助于共同交往；在地方和条件上则不同。航海城邦、内陆村落和灾荒共同体可能需要不同规则，差异本身不证明相对主义。",
+            "第三十七至三十八条提供时间检验：规则若从未符合共同利益，就不真是正义；若曾符合而条件改变后失去效用，它曾经正义、后来不再正义。法律因此可被事实后果审查。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "一条规则怎样失去正义",
+          "paragraphs": [
+            "灾荒时限制囤积能保护共同生存；资源恢复后，若同一规则被少数管理者用来永久垄断，它的作用已经改变。判断不能只说“过去合法”，而要检查互利和免害是否仍存在。",
+            "案例也防止反向轻率：任何人因规则不便就宣布它失效还不够。需要比较共同安全、伤害分布和条件变化，而非把个人偏好冒充公共效用。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "违法焦虑不是神罚",
+          "paragraphs": [
+            "第三十四至三十五条说，不义并非自身包含某种神秘恶性，坏处在于被发现的恐惧；违法者难以确信永不暴露。这个动机解释延续反神罚主轴，把守约后果放回人际关系。",
+            "它也招来秘密违法异议：若有人真能保证不被发现，焦虑理由似乎消失。不能用“宇宙总会惩罚”回应，否则会背叛体系。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁有资格进入约定",
+          "paragraphs": [
+            "最强异议指向儿童、动物、外来者、后代和权力弱者，他们可能无法平等谈判。若能力强者定义互利，契约会把支配合法化。伊壁鸠鲁文本没有给出现代权利或公平议价理论。",
+            "可保住的批判资源是互不伤害的双向性和按实际后果撤销失效法律；不能保住的是一套已完成的制度正义。后期关于动物和法律起源的材料可以深化，却须另标学园传统。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "正义使退隐不可能是彻底无关系",
+          "paragraphs": [
+            "若幸福依赖互不伤害约定，个人便已处在社会秩序中。政治权力常制造扰动，退隐因此有理由；但完全把维护约定交给别人，又产生搭便车问题。最后需要把反权力欲望与公共责任放在同一张图里。",
+            "互利还必须按受影响者的处境检验，而不能只计算多数总收益。一条规则若给多数很小便利，却让少数持续暴露于伤害，很难满足“不伤害也不受伤害”的双向结构。古代文本没有给出精确聚合方法，但定义本身阻止把一方完全排除。",
+            "动物问题显示约定能力与受伤害能力并不重合。《主要教义》第三十二条把不能订约者置于正义关系之外，这正构成边界而非轻松答案。后期学园可用不杀生的互利历史补充，却仍未形成现代动物权论。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "灾荒时公平分配稀缺资源的规则在情势改变后若只保护少数特权，就可能失去原来的互利功能。",
+      "nodeIds": [
+        "epicurus-14-node"
+      ],
+      "checkIds": [
+        "epicurus-14-check-1",
+        "epicurus-14-check-2",
+        "epicurus-14-check-3",
+        "epicurus-14-check-4"
+      ],
+      "abilitySummary": [
+        "能连续解释《主要教义》31至38条。",
+        "能识别不平等协商、无能力订约者和秘密违法的边界。"
+      ],
+      "recommendedNextLessonId": "epicurus-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "epicurus-15",
+      "order": 15,
+      "title": "隐而生活，还是在必要时走到广场",
+      "depth": "longform",
+      "guidingQuestion": "避免权力与名望的政治退隐，是通常推定、绝对禁令，还是会被正义与公共风险限制的策略？",
+      "coreExplanation": "伊壁鸠鲁式生活反对把公职、统治和声名当作幸福必要条件；“隐而生活”主要经普鲁塔克敌对文本著名化，学园共同体和后期公开实践显示退隐不等于从一切社会行动消失。",
+      "sections": [
+        {
+          "heading": "退隐者仍住在法律保护的地方",
+          "paragraphs": [
+            "名望和公职没有自然完成点，权力竞争又带来敌意、暴露和失控，退隐因而很有吸引力。但退隐者仍使用道路、契约和共同安全；若所有人都把维护这些条件交给别人，他便像享受秩序却拒绝承担成本。",
+            "问题不能用“伊壁鸠鲁讨厌政治”结束。必须判断他反对的是所有公共行动，还是把权力、荣耀和统治当作幸福常规道路；还要检查著名口号究竟由谁保存。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "problem"
+        },
+        {
+          "heading": "现存主干给出的是风险诊断",
+          "paragraphs": [
+            "《主要教义》第六、七条讨论人追求权力和声名以获得安全，却常得不到真正安稳；第十四条把最纯粹安全与远离群众和安静生活相连。这些命题支持对政治竞逐的强烈警惕。",
+            "第欧根尼·拉尔修还转述贤者通常不参与政治。可是同一体系以正义约定、友爱和共同安全为幸福条件，故“不竞逐公职”不能未经论证扩大为“不处理任何共同事务”。"
+          ],
+          "identity": "school-doctrinal-collection-paraphrase",
+          "kind": "argument"
+        },
+        {
+          "heading": "一句口号穿过敌对修辞",
+          "paragraphs": [
+            "“隐而生活”之所以著名，很大程度经普鲁塔克《“隐而生活”是否说得好》的攻击保存。普鲁塔克要证明退隐自私、埋没人类德性，他选择和放大口号服务自己的论辩。",
+            "这不表示口号伪造，而表示其范围不能只从敌人标题读取。正文必须说“普鲁塔克保存的敌对见证”，再与教义集、箴言和学园实践互证。"
+          ],
+          "identity": "plutarch-hostile-external-witness",
+          "kind": "argument"
+        },
+        {
+          "heading": "学园没有从世界上消失",
+          "paragraphs": [
+            "花园本身是持续共同生活、写信和传播哲学的社群。菲洛德谟在罗马环境讨论财富管理与好王，奥诺安达的第欧根尼更把大幅铭文置于公共柱廊。这些行动未必是争夺统治，却显然不是完全隐身。",
+            "后期实践不能反向证明伊壁鸠鲁赞成一切参与。它只能显示传统能够区分权力竞逐、公共劝导、维护朋友与处理共同安全。"
+          ],
+          "identity": "later-school-tradition-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "不竞逐权位仍可维护约定",
+          "paragraphs": [
+            "一个人拒绝以升迁、派系胜负和公众赞誉衡量幸福，同时参与邻里防止暴力的约定。两者并不矛盾：前者减少无界名望欲，后者维护免受伤害的条件。",
+            "若暴政直接摧毁朋友安全，完全沉默也可能带来更大扰动。伊壁鸠鲁没有留下危机参与算法，故只能把退隐当作可被处境理由推翻的通常推定，而非机械戒律。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "搭便车与不义时的沉默",
+          "paragraphs": [
+            "最强异议认为私人宁静依赖别人承担危险，尤其受压迫者根本无法从政治退出。回应可以说，伊壁鸠鲁首先拆解把统治本身当善的欲望，并未否认维护互不伤害条件；朋友和安全也可能要求行动。",
+            "回应边界同样明确：现存文本没有完整民主公民义务、集体行动或结构压迫理论。把退隐包装成所有人的普遍生活秘诀，会忽视处境差异，也会让正义单元失去后果。"
+          ],
+          "identity": "modern-controversy-reconstruction",
+          "kind": "controversy"
+        },
+        {
+          "heading": "一条从自然到共同生活的闭环",
+          "paragraphs": [
+            "认识标准限制空洞意见，原子论解除神意自然观，身体灵魂限制死后恐惧，快乐与欲望给生活设置有限目标，友爱和正义提供共同安全。政治退隐只能在这条链中理解：它保护有限幸福免于权力欲，却不能摧毁幸福所依赖的关系条件。",
+            "伊壁鸠鲁留下的不是无需争论的避世处方，而是一组持续追问：此项追逐真正减少恐惧还是制造依赖，此项规则是否互利，此次行动是否保护朋友与安全。答案受处境约束，证据身份和理论缺口也必须继续可见。",
+            "退隐的实际尺度因此不是公开或私下的外观，而是行动是否把幸福系于无界权力，并怎样影响互不伤害的条件。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        },
+        {
+          "heading": "退隐保留的是判断，而不是现成答案",
+          "paragraphs": [
+            "面对不同制度与风险，伊壁鸠鲁式资源只能要求比较权力欲、真实安全、朋友处境和互利约定。它不能预先替每个人决定是否出面，却能阻止把统治欲包装成责任，也阻止把沉默自动包装成宁静。"
+          ],
+          "identity": "modern-explanatory-reconstruction",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "拒绝以升迁和党争定义自己，与维护本地互不伤害规则可以相容；奥诺安达铭文更显示公开劝导与不争权并存。",
+      "nodeIds": [
+        "epicurus-15-node"
+      ],
+      "checkIds": [
+        "epicurus-15-check-1",
+        "epicurus-15-check-2",
+        "epicurus-15-check-3",
+        "epicurus-15-check-4"
+      ],
+      "abilitySummary": [
+        "能区分反权力竞逐与绝对非政治。",
+        "能说明敌对传承、学园适应和搭便车异议。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "epicurus-01-check-1",
+      "kind": "concept-boundary",
+      "prompt": "远塔案例中，哪一项最符合感觉与意见的区分？",
+      "targetNodeIds": [
+        "epicurus-01-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-01-check-1-a",
+          "text": "承认远处显圆真实发生，同时等待近看确认塔本身的形状",
+          "feedback": "显现的发生不等于对象判断已经获证；承认远处显圆真实发生，同时等待近看确认塔本身的形状。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-01-check-1-b",
+          "text": "比较两项各自包含的推理步骤时，把远显判为从未发生，因为近看已经发现方形",
+          "feedback": "用后来的判断抹除了先前经验；把远显判为从未发生，因为近看已经发现方形。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-01-check-1-a",
+      "misconceptionId": "epicurus-01-misconception-1"
+    },
+    {
+      "id": "epicurus-01-check-2",
+      "kind": "argument-step",
+      "prompt": "为何不能整体拒斥感觉再保留纠错能力？",
+      "targetNodeIds": [
+        "epicurus-01-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-01-check-2-b",
+          "text": "纠错若只由理性宣布真实，就跳过了新显现、条件差异与重复观察",
+          "feedback": "把理性设成没有材料也能断言的机关；纠错若只由理性宣布真实，就跳过了新显现、条件差异与重复观察。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-01-check-2-a",
+          "text": "纠错还要比较新的显现、条件和重复观察",
+          "feedback": "理性裁决所组织的材料仍来自显现；纠错还要比较新的显现、条件和重复观察。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-01-check-2-a",
+      "misconceptionId": "epicurus-01-misconception-2"
+    },
+    {
+      "id": "epicurus-01-check-3",
+      "kind": "source-identity",
+      "prompt": "远塔的详细展开应如何标记？",
+      "targetNodeIds": [
+        "epicurus-01-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-01-check-3-b",
+          "text": "它是《致希罗多德书》中伊壁鸠鲁逐字写下的案例",
+          "feedback": "把后期诗性展开倒署给作者书信；它是《致希罗多德书》中伊壁鸠鲁逐字写下的案例。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-01-check-3-a",
+          "text": "它是卢克莱修第四卷的后期伊壁鸠鲁派案例",
+          "feedback": "远塔完整案例由《物性论》第四卷保存；它是卢克莱修第四卷的后期伊壁鸠鲁派案例。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-01-check-3-a",
+      "misconceptionId": "epicurus-01-misconception-3"
+    },
+    {
+      "id": "epicurus-01-check-4",
+      "kind": "scope-boundary",
+      "prompt": "“感觉都真”尚不能推出什么？",
+      "targetNodeIds": [
+        "epicurus-01-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-01-check-4-a",
+          "text": "不能推出每个依据感觉形成的对象信念都正确",
+          "feedback": "真只限定显现如其发生而发生；不能推出每个依据感觉形成的对象信念都正确。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-01-check-4-b",
+          "text": "能推出显现必须先被承认为判断的证据起点",
+          "feedback": "把有限命题扩成全部经验信念免检；能推出显现必须先被承认为判断的证据起点。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-01-check-4-a",
+      "misconceptionId": "epicurus-01-misconception-4"
+    },
+    {
+      "id": "epicurus-02-check-1",
+      "kind": "concept-boundary",
+      "prompt": "预取观念在判断中最有限的作用是什么？",
+      "targetNodeIds": [
+        "epicurus-02-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-02-check-1-b",
+          "text": "把反复灌输的熟悉属性当成对象本质",
+          "feedback": "把熟悉程度误当真理保证；把反复灌输的熟悉属性当成对象本质。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-02-check-1-a",
+          "text": "让一般词和识别有经验形成的入口，但不保证各项属性信念",
+          "feedback": "预取观念使问题可提出而非替问题作答；让一般词和识别有经验形成的入口，但不保证各项属性信念。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-02-check-1-a",
+      "misconceptionId": "epicurus-02-misconception-1"
+    },
+    {
+      "id": "epicurus-02-check-2",
+      "kind": "argument-step",
+      "prompt": "从石阶磨损推测微粒时，何种约束最关键？",
+      "targetNodeIds": [
+        "epicurus-02-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-02-check-2-a",
+          "text": "此推测须与可见磨损、运动和其他清楚显现相容",
+          "feedback": "不可见推论仍由可见后果限制；此推测须与可见磨损、运动和其他清楚显现相容。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-02-check-2-b",
+          "text": "不可见原因不受感觉限制，因为它本来就看不见",
+          "feedback": "把不可见误解成不可反驳；不可见原因不受感觉限制，因为它本来就看不见。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-02-check-2-a",
+      "misconceptionId": "epicurus-02-misconception-2"
+    },
+    {
+      "id": "epicurus-02-check-3",
+      "kind": "source-identity",
+      "prompt": "菲洛德谟的推论理论应承担什么身份？",
+      "targetNodeIds": [
+        "epicurus-02-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-02-check-3-a",
+          "text": "后期学园对方法的技术展开",
+          "feedback": "晚期纸草能说明传统发展而非作者原句；后期学园对方法的技术展开。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-02-check-3-b",
+          "text": "把后期学园对方法的技术展开误记为伊壁鸠鲁《准则》原文",
+          "feedback": "抹去时代与文本传承差异；把后期学园对方法的技术展开误记为伊壁鸠鲁《准则》原文。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-02-check-3-a",
+      "misconceptionId": "epicurus-02-misconception-3"
+    },
+    {
+      "id": "epicurus-02-check-4",
+      "kind": "case-transfer",
+      "prompt": "疼痛作为情感标准意味着什么？",
+      "targetNodeIds": [
+        "epicurus-02-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-02-check-4-b",
+          "text": "把疼痛信号当成立即逃避的命令，省略了审慎的后果比较",
+          "feedback": "把价值信号当作无条件行动命令；把疼痛信号当成立即逃避的命令，省略了审慎的后果比较。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-02-check-4-a",
+          "text": "它标示应回避的坏处，但审慎仍可为更大安稳选择疼痛",
+          "feedback": "情感给方向而不取消后果衡量；它标示应回避的坏处，但审慎仍可为更大安稳选择疼痛。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-02-check-4-a",
+      "misconceptionId": "epicurus-02-misconception-4"
+    },
+    {
+      "id": "epicurus-03-check-1",
+      "kind": "argument-step",
+      "prompt": "虚空在论证中首先解决什么？",
+      "targetNodeIds": [
+        "epicurus-03-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-03-check-1-a",
+          "text": "为物体运动、分离和重新组合提供不受阻碍的空间",
+          "feedback": "虚空由运动需要反推且不同于稀薄物体；为物体运动、分离和重新组合提供不受阻碍的空间。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-03-check-1-b",
+          "text": "按照现有材料的证据范围判断，为可感性质提供另一种与物体同样坚硬的材料",
+          "feedback": "把虚空误作另一类实体材料；为可感性质提供另一种与物体同样坚硬的材料。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-03-check-1-a",
+      "misconceptionId": "epicurus-03-misconception-1"
+    },
+    {
+      "id": "epicurus-03-check-2",
+      "kind": "concept-boundary",
+      "prompt": "与德谟克利特的关系应如何表达？",
+      "targetNodeIds": [
+        "epicurus-03-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-03-check-2-a",
+          "text": "继承原子虚空主干，同时在运动、标准和伦理目的上改造",
+          "feedback": "共同本体论不取消后续结构差异；继承原子虚空主干，同时在运动、标准和伦理目的上改造。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-03-check-2-b",
+          "text": "完整复制德谟克利特，只增加快乐主义标签",
+          "feedback": "把继承关系误写为无变化复制；完整复制德谟克利特，只增加快乐主义标签。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-03-check-2-a",
+      "misconceptionId": "epicurus-03-misconception-2"
+    },
+    {
+      "id": "epicurus-03-check-3",
+      "kind": "case-transfer",
+      "prompt": "风与磨损案例最多能支持什么？",
+      "targetNodeIds": [
+        "epicurus-03-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-03-check-3-b",
+          "text": "比较两项各自包含的推理步骤时，古代原子的各项性质已由这些日常观察测定",
+          "feedback": "从解释吸引力跳到全部理论已证；古代原子的各项性质已由这些日常观察测定。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-03-check-3-a",
+          "text": "不可见微粒作为解释变化和作用的候选具有理由",
+          "feedback": "案例支持不可见持存者而非完整微观参数；不可见微粒作为解释变化和作用的候选具有理由。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-03-check-3-a",
+      "misconceptionId": "epicurus-03-misconception-3"
+    },
+    {
+      "id": "epicurus-03-check-4",
+      "kind": "scope-boundary",
+      "prompt": "为何不能把古代原子等同现代科学原子？",
+      "targetNodeIds": [
+        "epicurus-03-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-03-check-4-b",
+          "text": "把不可见解释排除在古代方法之外，忽略相容与反证的检验",
+          "feedback": "误称伊壁鸠鲁拒绝不可见推论；把不可见解释排除在古代方法之外，忽略相容与反证的检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-03-check-4-a",
+          "text": "两者的问题、性质和证据方法并不相同",
+          "feedback": "应保留历史理论的证据与概念边界；两者的问题、性质和证据方法并不相同。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-03-check-4-a",
+      "misconceptionId": "epicurus-03-misconception-4"
+    },
+    {
+      "id": "epicurus-04-check-1",
+      "kind": "source-identity",
+      "prompt": "现存最完整偏斜说明来自哪里？",
+      "targetNodeIds": [
+        "epicurus-04-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-04-check-1-b",
+          "text": "把偏斜的传承段落误记在《致希罗多德书》中",
+          "feedback": "给作者书信添加并不存在的明文；把偏斜的传承段落误记在《致希罗多德书》中。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-04-check-1-a",
+          "text": "卢克莱修《物性论》第二卷的后期伊壁鸠鲁派展开",
+          "feedback": "偏斜的完整传承段落来自《物性论》第二卷；卢克莱修《物性论》第二卷的后期伊壁鸠鲁派展开。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-04-check-1-a",
+      "misconceptionId": "epicurus-04-misconception-1"
+    },
+    {
+      "id": "epicurus-04-check-2",
+      "kind": "argument-step",
+      "prompt": "偏斜对责任最多先提供什么？",
+      "targetNodeIds": [
+        "epicurus-04-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-04-check-2-a",
+          "text": "比较两项各自包含的推理步骤时，打破全局必定性的物理开放空间",
+          "feedback": "非必然性只是必要空间而非充分能力；打破全局必定性的物理开放空间。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-04-check-2-b",
+          "text": "径直替主体选择正确理由的能力",
+          "feedback": "把随机事件当作理由响应主体；径直替主体选择正确理由的能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-04-check-2-a",
+      "misconceptionId": "epicurus-04-misconception-2"
+    },
+    {
+      "id": "epicurus-04-check-3",
+      "kind": "objection",
+      "prompt": "“随机也不能负责”击中哪一缺口？",
+      "targetNodeIds": [
+        "epicurus-04-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-04-check-3-a",
+          "text": "微观偶然怎样连接到性格、理由与自我修正",
+          "feedback": "异议针对责任桥梁而非原子存在；微观偶然怎样连接到性格、理由与自我修正。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-04-check-3-b",
+          "text": "原子能否在虚空中占据位置",
+          "feedback": "把责任异议误放到本体论起点；原子能否在虚空中占据位置。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-04-check-3-a",
+      "misconceptionId": "epicurus-04-misconception-3"
+    },
+    {
+      "id": "epicurus-04-check-4",
+      "kind": "scope-boundary",
+      "prompt": "《论自然》第二十五卷可以稳妥证明什么？",
+      "targetNodeIds": [
+        "epicurus-04-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-04-check-4-a",
+          "text": "伊壁鸠鲁讨论因果环境中性格形成与要看我们的反应",
+          "feedback": "破损残篇保留问题而非完整机制；伊壁鸠鲁讨论因果环境中性格形成与要看我们的反应。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-04-check-4-b",
+          "text": "把破损纸草读成逐次选择各有偏斜原子触发的明文",
+          "feedback": "把编辑重构升级为无争议全文；把破损纸草读成逐次选择各有偏斜原子触发的明文。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-04-check-4-a",
+      "misconceptionId": "epicurus-04-misconception-4"
+    },
+    {
+      "id": "epicurus-05-check-1",
+      "kind": "argument-step",
+      "prompt": "多种天象原因何时获得许可？",
+      "targetNodeIds": [
+        "epicurus-05-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-05-check-1-a",
+          "text": "证据暂不能单一裁决且各候选均与现象相容时",
+          "feedback": "多因许可仍由不受反证约束；证据暂不能单一裁决且各候选均与现象相容时。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-05-check-1-b",
+          "text": "能使人安静的故事可以绕过现象相容检验",
+          "feedback": "把治疗效果替换为全部证据；能使人安静的故事可以绕过现象相容检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-05-check-1-a",
+      "misconceptionId": "epicurus-05-misconception-1"
+    },
+    {
+      "id": "epicurus-05-check-2",
+      "kind": "source-identity",
+      "prompt": "《致皮托克勒斯书》应怎样使用？",
+      "targetNodeIds": [
+        "epicurus-05-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-05-check-2-b",
+          "text": "依照题面给出的材料身份与论证边界，作为缺少传承争议的伊壁鸠鲁亲笔终稿",
+          "feedback": "以内容相合抹去文本问题；作为缺少传承争议的伊壁鸠鲁亲笔终稿。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-05-check-2-a",
+          "text": "作为保存学派多因方法但真伪编辑状态有争议的文本",
+          "feedback": "证据价值与身份警示必须并存；作为保存学派多因方法但真伪编辑状态有争议的文本。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-05-check-2-a",
+      "misconceptionId": "epicurus-05-misconception-2"
+    },
+    {
+      "id": "epicurus-05-check-3",
+      "kind": "case-transfer",
+      "prompt": "月食案例最重要的哲学区分是什么？",
+      "targetNodeIds": [
+        "epicurus-05-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-05-check-3-a",
+          "text": "按照现有材料的证据范围判断，未知单一自然原因不等于已有神罚证据",
+          "feedback": "暂缓唯一裁决不等于全体候选为真；未知单一自然原因不等于已有神罚证据。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-05-check-3-b",
+          "text": "若古代列出多个机制，每个机制就都真实",
+          "feedback": "从可保留候选跳到同时事实化；若古代列出多个机制，每个机制就都真实。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-05-check-3-a",
+      "misconceptionId": "epicurus-05-misconception-3"
+    },
+    {
+      "id": "epicurus-05-check-4",
+      "kind": "scope-boundary",
+      "prompt": "自然解释的治疗目的不能证明什么？",
+      "targetNodeIds": [
+        "epicurus-05-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-05-check-4-b",
+          "text": "从这项主张能够承担的证明范围看，能证明天象未知不足以单独推出神意",
+          "feedback": "把反迷信成功当作科学细节已证；能证明天象未知不足以单独推出神意。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-05-check-4-a",
+          "text": "不能证明卢克莱修列举的每项古代气象机制都正确",
+          "feedback": "治疗功能不替具体机制担保；不能证明卢克莱修列举的每项古代气象机制都正确。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-05-check-4-a",
+      "misconceptionId": "epicurus-05-misconception-4"
+    },
+    {
+      "id": "epicurus-06-check-1",
+      "kind": "argument-step",
+      "prompt": "身体—灵魂联合论为何支持死后无感觉？",
+      "targetNodeIds": [
+        "epicurus-06-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-06-check-1-b",
+          "text": "死亡让灵魂带着原有人格进入只剩黑暗感觉的新身体",
+          "feedback": "暗中保留了离身完整主体；死亡让灵魂带着原有人格进入只剩黑暗感觉的新身体。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-06-check-1-a",
+          "text": "死亡使维持同一感觉主体的联合结构离散",
+          "feedback": "感觉依赖组织而组织在死亡时解体；死亡使维持同一感觉主体的联合结构离散。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-06-check-1-a",
+      "misconceptionId": "epicurus-06-misconception-1"
+    },
+    {
+      "id": "epicurus-06-check-2",
+      "kind": "case-transfer",
+      "prompt": "酒醉和损伤案例承担什么作用？",
+      "targetNodeIds": [
+        "epicurus-06-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-06-check-2-a",
+          "text": "按照现有材料的证据范围判断，累积显示心理能力随身体组织改变",
+          "feedback": "案例提供依赖证据但非排他证明；累积显示心理能力随身体组织改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-06-check-2-b",
+          "text": "单独证明各类非物质心灵理论逻辑矛盾",
+          "feedback": "把累积支持夸成逻辑终结；单独证明各类非物质心灵理论逻辑矛盾。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-06-check-2-a",
+      "misconceptionId": "epicurus-06-misconception-2"
+    },
+    {
+      "id": "epicurus-06-check-3",
+      "kind": "concept-boundary",
+      "prompt": "灵魂原子离散后为何不等于主体仍在？",
+      "targetNodeIds": [
+        "epicurus-06-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-06-check-3-b",
+          "text": "组成原先人格的原子尚存，所以同一感觉系统仍继续",
+          "feedback": "把材料持存偷换成人格持存；组成原先人格的原子尚存，所以同一感觉系统仍继续。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-06-check-3-a",
+          "text": "成分继续存在不等于原来的组织与同一感觉系统继续存在",
+          "feedback": "复合物身份依赖组织而非材料清单；成分继续存在不等于原来的组织与同一感觉系统继续存在。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-06-check-3-a",
+      "misconceptionId": "epicurus-06-misconception-3"
+    },
+    {
+      "id": "epicurus-06-check-4",
+      "kind": "scope-boundary",
+      "prompt": "该论证尚未解决什么？",
+      "targetNodeIds": [
+        "epicurus-06-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-06-check-4-a",
+          "text": "比较两项各自包含的推理步骤时，尚未解决各项当代意识与主体同一性争论",
+          "feedback": "体系内结论与跨理论终局不同；尚未解决各项当代意识与主体同一性争论。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-06-check-4-b",
+          "text": "已经说明伊壁鸠鲁体系内灵魂随联合体解散",
+          "feedback": "因有体系证据便宣布全部争论结束；已经说明伊壁鸠鲁体系内灵魂随联合体解散。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-06-check-4-a",
+      "misconceptionId": "epicurus-06-misconception-4"
+    },
+    {
+      "id": "epicurus-07-check-1",
+      "kind": "argument-step",
+      "prompt": "为何幸福不朽者不应管理世界？",
+      "targetNodeIds": [
+        "epicurus-07-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-07-check-1-a",
+          "text": "按照现有材料的证据范围判断，管理、发怒和偏爱都意味着烦扰或欠缺",
+          "feedback": "论证从幸福概念限制神的活动；管理、发怒和偏爱都意味着烦扰或欠缺。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-07-check-1-b",
+          "text": "把幸福者不干预夸成存在者缺乏因果能力",
+          "feedback": "把有限神学论证扩成普遍因果禁令；把幸福者不干预夸成存在者缺乏因果能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-07-check-1-a",
+      "misconceptionId": "epicurus-07-misconception-1"
+    },
+    {
+      "id": "epicurus-07-check-2",
+      "kind": "source-identity",
+      "prompt": "神像与神性细节为何需谨慎？",
+      "targetNodeIds": [
+        "epicurus-07-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-07-check-2-b",
+          "text": "从《主要教义》第一条补出神的原子结构细节",
+          "feedback": "用一句教义补出全部结构；从《主要教义》第一条补出神的原子结构细节。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-07-check-2-a",
+          "text": "从这项主张能够承担的证明范围看，关键材料经西塞罗对话和菲洛德谟破损纸草保存",
+          "feedback": "材料身份不足以封闭本体争议；关键材料经西塞罗对话和菲洛德谟破损纸草保存。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-07-check-2-a",
+      "misconceptionId": "epicurus-07-misconception-2"
+    },
+    {
+      "id": "epicurus-07-check-3",
+      "kind": "case-transfer",
+      "prompt": "雷暴神罚说的主要认识缺陷是什么？",
+      "targetNodeIds": [
+        "epicurus-07-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-07-check-3-b",
+          "text": "宗教词汇出现本身就使一句话失去语法意义",
+          "feedback": "把方法缺陷缩成词语禁令；宗教词汇出现本身就使一句话失去语法意义。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-07-check-3-a",
+          "text": "它会让相反结果都证实同一意图而逃避反证",
+          "feedback": "问题在自我保护结构而非词汇本身；它会让相反结果都证实同一意图而逃避反证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-07-check-3-a",
+      "misconceptionId": "epicurus-07-misconception-3"
+    },
+    {
+      "id": "epicurus-07-check-4",
+      "kind": "scope-boundary",
+      "prompt": "现存证据最稳妥保住哪项结论？",
+      "targetNodeIds": [
+        "epicurus-07-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-07-check-4-a",
+          "text": "神不应被理解为干预奖惩的烦扰统治者",
+          "feedback": "非干预主干强于存在方式重构；神不应被理解为干预奖惩的烦扰统治者。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-07-check-4-b",
+          "text": "把非干预论读成神是心理幻觉，并排除实在论解释",
+          "feedback": "把争议一端冒充唯一文本结论；把非干预论读成神是心理幻觉，并排除实在论解释。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-07-check-4-a",
+      "misconceptionId": "epicurus-07-misconception-4"
+    },
+    {
+      "id": "epicurus-08-check-1",
+      "kind": "concept-boundary",
+      "prompt": "快乐是尺度为何不等于选择每种快感？",
+      "targetNodeIds": [
+        "epicurus-08-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-08-check-1-b",
+          "text": "把快乐降成理论标签，实际选择改由感受之外的标准裁决",
+          "feedback": "为了避免纵欲而取消快乐标准；把快乐降成理论标签，实际选择改由感受之外的标准裁决。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-08-check-1-a",
+          "text": "具体选择还须比较快感带来的各项后果",
+          "feedback": "价值起点与行动判断分层；具体选择还须比较快感带来的各项后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-08-check-1-a",
+      "misconceptionId": "epicurus-08-misconception-1"
+    },
+    {
+      "id": "epicurus-08-check-2",
+      "kind": "case-transfer",
+      "prompt": "选择有痛治疗怎样符合快乐论？",
+      "targetNodeIds": [
+        "epicurus-08-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-08-check-2-b",
+          "text": "医疗中的疼痛会因有益后果而转成最高善",
+          "feedback": "把工具性代价误成内在价值；医疗中的疼痛会因有益后果而转成最高善。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-08-check-2-a",
+          "text": "比较两项各自包含的推理步骤时，疼痛作为代价可终止更大且更久的痛苦",
+          "feedback": "选择依据后果而非改写疼痛性质；疼痛作为代价可终止更大且更久的痛苦。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-08-check-2-a",
+      "misconceptionId": "epicurus-08-misconception-2"
+    },
+    {
+      "id": "epicurus-08-check-3",
+      "kind": "argument-step",
+      "prompt": "德性为何与愉快生活不可分？",
+      "targetNodeIds": [
+        "epicurus-08-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-08-check-3-a",
+          "text": "审慎和正义塑造后果、性格与安全条件",
+          "feedback": "德性在生活结构中维持稳定快乐；审慎和正义塑造后果、性格与安全条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-08-check-3-b",
+          "text": "德性由神命令，所以与快乐没有解释联系",
+          "feedback": "把外在命令塞回自然伦理；德性由神命令，所以与快乐没有解释联系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-08-check-3-a",
+      "misconceptionId": "epicurus-08-misconception-3"
+    },
+    {
+      "id": "epicurus-08-check-4",
+      "kind": "scope-boundary",
+      "prompt": "秘密作恶异议提醒我们什么？",
+      "targetNodeIds": [
+        "epicurus-08-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-08-check-4-a",
+          "text": "快乐论对无风险不义还要正义论补充且有边界",
+          "feedback": "体系不能靠虚构必然惩罚逃避异议；快乐论对无风险不义还要正义论补充且有边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-08-check-4-b",
+          "text": "秘密不义会由宇宙力量保证败露，因而契约风险不再需要说明",
+          "feedback": "用超自然报应替代契约论证；秘密不义会由宇宙力量保证败露，因而契约风险不再需要说明。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-08-check-4-a",
+      "misconceptionId": "epicurus-08-misconception-4"
+    },
+    {
+      "id": "epicurus-09-check-1",
+      "kind": "source-identity",
+      "prompt": "动静快乐的明确术语主要由什么证据保存？",
+      "targetNodeIds": [
+        "epicurus-09-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-09-check-1-b",
+          "text": "把后世见证中的动静分类术语当作《致美诺伊库斯书》的原话",
+          "feedback": "把后世术语细节倒署书信；把后世见证中的动静分类术语当作《致美诺伊库斯书》的原话。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-09-check-1-a",
+          "text": "第欧根尼·拉尔修转述及西塞罗争论等古代见证",
+          "feedback": "明确分类的传承层不同于作者书信；第欧根尼·拉尔修转述及西塞罗争论等古代见证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-09-check-1-a",
+      "misconceptionId": "epicurus-09-misconception-1"
+    },
+    {
+      "id": "epicurus-09-check-2",
+      "kind": "concept-boundary",
+      "prompt": "快乐达到限度后仍可变化意味着什么？",
+      "targetNodeIds": [
+        "epicurus-09-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-09-check-2-b",
+          "text": "达到限度后主体不能再有积极体验的样式变化",
+          "feedback": "把不再增加误成不再发生；达到限度后主体不能再有积极体验的样式变化。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-09-check-2-a",
+          "text": "体验样式可改变而无匮乏的完成度不再增加",
+          "feedback": "限度与多样变化可以并存；体验样式可改变而无匮乏的完成度不再增加。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-09-check-2-a",
+      "misconceptionId": "epicurus-09-misconception-2"
+    },
+    {
+      "id": "epicurus-09-check-3",
+      "kind": "objection",
+      "prompt": "沉睡异议主要反对哪种误读？",
+      "targetNodeIds": [
+        "epicurus-09-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-09-check-3-b",
+          "text": "按照现有材料的证据范围判断，认为疼痛会影响人的快乐判断",
+          "feedback": "把它误认成对一切无痛价值的否定；认为疼痛会影响人的快乐判断。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-09-check-3-a",
+          "text": "把无痛脱离有感觉生活而当作充分幸福",
+          "feedback": "异议针对无意识零痛的偷换；把无痛脱离有感觉生活而当作充分幸福。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-09-check-3-a",
+      "misconceptionId": "epicurus-09-misconception-3"
+    },
+    {
+      "id": "epicurus-09-check-4",
+      "kind": "scope-boundary",
+      "prompt": "对动静分类最稳妥的态度是什么？",
+      "targetNodeIds": [
+        "epicurus-09-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-09-check-4-a",
+          "text": "承认古代分类真实，同时保持现代解释竞争开放",
+          "feedback": "证据确定性与解释确定性需要分开；承认古代分类真实，同时保持现代解释竞争开放。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-09-check-4-b",
+          "text": "把静态快乐解释成无意识状态，并宣布术语争论已经结束",
+          "feedback": "用术语出现替代含义论证；把静态快乐解释成无意识状态，并宣布术语争论已经结束。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-09-check-4-a",
+      "misconceptionId": "epicurus-09-misconception-4"
+    },
+    {
+      "id": "epicurus-10-check-1",
+      "kind": "concept-boundary",
+      "prompt": "欲望分类主要依据什么？",
+      "targetNodeIds": [
+        "epicurus-10-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-10-check-1-b",
+          "text": "物品价格高低形成始终不变的类别",
+          "feedback": "把经济标签当作心理与伦理结构；物品价格高低形成始终不变的类别。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-10-check-1-a",
+          "text": "来源、自然终点、未满足疼痛与完整后果",
+          "feedback": "分类针对欲望结构而非物品名称；来源、自然终点、未满足疼痛与完整后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-10-check-1-a",
+      "misconceptionId": "epicurus-10-misconception-1"
+    },
+    {
+      "id": "epicurus-10-check-2",
+      "kind": "case-transfer",
+      "prompt": "昂贵药物为何可能满足必要欲望？",
+      "targetNodeIds": [
+        "epicurus-10-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-10-check-2-b",
+          "text": "因为昂贵本身证明欲望更高贵",
+          "feedback": "用社会声望替代身体需要；因为昂贵本身证明欲望更高贵。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-10-check-2-a",
+          "text": "必要性要看生命和身体需要而非价格",
+          "feedback": "对象成本不决定欲望类型；必要性要看生命和身体需要而非价格。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-10-check-2-a",
+      "misconceptionId": "epicurus-10-misconception-2"
+    },
+    {
+      "id": "epicurus-10-check-3",
+      "kind": "source-identity",
+      "prompt": "欲望两面追问的箴言应如何标记？",
+      "targetNodeIds": [
+        "epicurus-10-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-10-check-3-a",
+          "text": "从这项主张能够承担的证明范围看，《梵蒂冈箴言》混合学园选集中的实践表达",
+          "feedback": "箴言价值不取消混合作者身份；《梵蒂冈箴言》混合学园选集中的实践表达。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-10-check-3-b",
+          "text": "已确证为伊壁鸠鲁亲笔长论的逐字摘录",
+          "feedback": "因思想相合便断定亲笔；已确证为伊壁鸠鲁亲笔长论的逐字摘录。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-10-check-3-a",
+      "misconceptionId": "epicurus-10-misconception-3"
+    },
+    {
+      "id": "epicurus-10-check-4",
+      "kind": "scope-boundary",
+      "prompt": "欲望分类不能正当化什么？",
+      "targetNodeIds": [
+        "epicurus-10-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-10-check-4-a",
+          "text": "不能要求受害者用降低期待适应基本匮乏和伤害",
+          "feedback": "自愿简朴不等于美化强迫缺乏；不能要求受害者用降低期待适应基本匮乏和伤害。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-10-check-4-b",
+          "text": "能够识别财富声名可能没有自然完成点",
+          "feedback": "把主体训练用于遮蔽外部不义；能够识别财富声名可能没有自然完成点。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-10-check-4-a",
+      "misconceptionId": "epicurus-10-misconception-4"
+    },
+    {
+      "id": "epicurus-11-check-1",
+      "kind": "argument-step",
+      "prompt": "伊壁鸠鲁死亡论证直接反驳什么？",
+      "targetNodeIds": [
+        "epicurus-11-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-11-check-1-b",
+          "text": "早逝不会造成未来好生活的反事实损失",
+          "feedback": "把有限结论扩成全部损害；早逝不会造成未来好生活的反事实损失。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-11-check-1-a",
+          "text": "死后仍有同一主体承受黑暗、惩罚或遗憾",
+          "feedback": "感觉与主体前提针对死后体验；死后仍有同一主体承受黑暗、惩罚或遗憾。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-11-check-1-a",
+      "misconceptionId": "epicurus-11-misconception-1"
+    },
+    {
+      "id": "epicurus-11-check-2",
+      "kind": "source-identity",
+      "prompt": "前生与死后对称论证应主要署给谁？",
+      "targetNodeIds": [
+        "epicurus-11-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-11-check-2-b",
+          "text": "把卢克莱修展开的出生前后对称长论放进《主要教义》第二条",
+          "feedback": "把后期展开压回短教义；把卢克莱修展开的出生前后对称长论放进《主要教义》第二条。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-11-check-2-a",
+          "text": "卢克莱修《物性论》第三卷的展开",
+          "feedback": "完整对称比较由卢克莱修保存发展；卢克莱修《物性论》第三卷的展开。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-11-check-2-a",
+      "misconceptionId": "epicurus-11-misconception-2"
+    },
+    {
+      "id": "epicurus-11-check-3",
+      "kind": "case-transfer",
+      "prompt": "未过的生日为何不同于旁观葬礼？",
+      "targetNodeIds": [
+        "epicurus-11-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-11-check-3-a",
+          "text": "它可表达反事实剥夺而不假设死后观看者",
+          "feedback": "机会损失与死后体验可以分离；它可表达反事实剥夺而不假设死后观看者。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-11-check-3-b",
+          "text": "它必定假设灵魂在死后继续感到遗憾",
+          "feedback": "把所有死亡担忧归为同一幻觉；它必定假设灵魂在死后继续感到遗憾。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-11-check-3-a",
+      "misconceptionId": "epicurus-11-misconception-3"
+    },
+    {
+      "id": "epicurus-11-check-4",
+      "kind": "scope-boundary",
+      "prompt": "论证不能要求人忽略什么？",
+      "targetNodeIds": [
+        "epicurus-11-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-11-check-4-b",
+          "text": "死后不存在一个持续受罚的感觉主体",
+          "feedback": "用主体不存在取消生者现实痛苦；死后不存在一个持续受罚的感觉主体。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-11-check-4-a",
+          "text": "依照题面给出的材料身份与论证边界，濒死疼痛、他人哀伤和不义造成的早逝",
+          "feedback": "过程与社会伤害超出直接射程；濒死疼痛、他人哀伤和不义造成的早逝。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-11-check-4-a",
+      "misconceptionId": "epicurus-11-misconception-4"
+    },
+    {
+      "id": "epicurus-12-check-1",
+      "kind": "concept-boundary",
+      "prompt": "自足为何不等于永远消费最少？",
+      "targetNodeIds": [
+        "epicurus-12-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-12-check-1-a",
+          "text": "它使幸福不依赖丰裕，仍允许无依赖地享受丰裕",
+          "feedback": "自足针对依赖而非物品数量；它使幸福不依赖丰裕，仍允许无依赖地享受丰裕。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-12-check-1-b",
+          "text": "额外享受会破坏自足，使丰裕与幸福冲突",
+          "feedback": "把训练自由改成禁欲戒律；额外享受会破坏自足，使丰裕与幸福冲突。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-12-check-1-a",
+      "misconceptionId": "epicurus-12-misconception-1"
+    },
+    {
+      "id": "epicurus-12-check-2",
+      "kind": "case-transfer",
+      "prompt": "被迫挨饿为何不能由自足正当化？",
+      "targetNodeIds": [
+        "epicurus-12-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-12-check-2-a",
+          "text": "缺乏必要条件是现实伤害，不是无界欲望",
+          "feedback": "必要欲望承认物质底线；缺乏必要条件是现实伤害，不是无界欲望。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-12-check-2-b",
+          "text": "把自然欲望都当成应当消除的冲动，不区分物质底线",
+          "feedback": "把自然需要误作应消灭冲动；把自然欲望都当成应当消除的冲动，不区分物质底线。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-12-check-2-a",
+      "misconceptionId": "epicurus-12-misconception-2"
+    },
+    {
+      "id": "epicurus-12-check-3",
+      "kind": "argument-step",
+      "prompt": "宁静为何不是无意识麻木？",
+      "targetNodeIds": [
+        "epicurus-12-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-12-check-3-b",
+          "text": "它要求关闭各项感受与关系",
+          "feedback": "把不受扰动偷换成无意识；它要求关闭各项感受与关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-12-check-3-a",
+          "text": "它包含有感觉主体的记忆、判断和稳定愉悦",
+          "feedback": "无扰是心灵状态而非主体消失；它包含有感觉主体的记忆、判断和稳定愉悦。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-12-check-3-a",
+      "misconceptionId": "epicurus-12-misconception-3"
+    },
+    {
+      "id": "epicurus-12-check-4",
+      "kind": "scope-boundary",
+      "prompt": "自足尚不能独立解决什么？",
+      "targetNodeIds": [
+        "epicurus-12-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-12-check-4-b",
+          "text": "如何减少对奢侈和权势的无界依赖",
+          "feedback": "把伦理资源夸成制度方案；如何减少对奢侈和权势的无界依赖。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-12-check-4-a",
+          "text": "何时应以共同政治行动回应结构不义",
+          "feedback": "个人训练不构成完整政治理论；何时应以共同政治行动回应结构不义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-12-check-4-a",
+      "misconceptionId": "epicurus-12-misconception-4"
+    },
+    {
+      "id": "epicurus-13-check-1",
+      "kind": "argument-step",
+      "prompt": "朋友尚未援助为何已提供价值？",
+      "targetNodeIds": [
+        "epicurus-13-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-13-check-1-a",
+          "text": "比较两项各自包含的推理步骤时，可信的未来支持会在现在降低恐惧",
+          "feedback": "安全包含对可靠关系的信心；可信的未来支持会在现在降低恐惧。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-13-check-1-b",
+          "text": "把友爱价值限于已兑现的实物交换，排除未来支持对当前安全的作用",
+          "feedback": "把关系价值缩成已兑现交易；把友爱价值限于已兑现的实物交换，排除未来支持对当前安全的作用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-13-check-1-a",
+      "misconceptionId": "epicurus-13-misconception-1"
+    },
+    {
+      "id": "epicurus-13-check-2",
+      "kind": "concept-boundary",
+      "prompt": "“从效用开始”不能推出什么？",
+      "targetNodeIds": [
+        "epicurus-13-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-13-check-2-a",
+          "text": "不能推出成熟友爱始终只是逐次利益交换",
+          "feedback": "起源与成熟价值不可直接等同；不能推出成熟友爱始终只是逐次利益交换。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-13-check-2-b",
+          "text": "能推出需要和安全可能促成关系形成",
+          "feedback": "以发生原因穷尽后续形态；能推出需要和安全可能促成关系形成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-13-check-2-a",
+      "misconceptionId": "epicurus-13-misconception-2"
+    },
+    {
+      "id": "epicurus-13-check-3",
+      "kind": "source-identity",
+      "prompt": "《论善恶的界限》的友爱材料如何使用？",
+      "targetNodeIds": [
+        "epicurus-13-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-13-check-3-b",
+          "text": "作为伊壁鸠鲁本人逐字无争议的友爱论文",
+          "feedback": "抹去对话与论敌框架；作为伊壁鸠鲁本人逐字无争议的友爱论文。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-13-check-3-a",
+          "text": "作为西塞罗对话中保存的古代伊壁鸠鲁派多种辩护",
+          "feedback": "外部见证可显争点但非作者原声；作为西塞罗对话中保存的古代伊壁鸠鲁派多种辩护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-13-check-3-a",
+      "misconceptionId": "epicurus-13-misconception-3"
+    },
+    {
+      "id": "epicurus-13-check-4",
+      "kind": "scope-boundary",
+      "prompt": "友爱论尚不足以覆盖什么？",
+      "targetNodeIds": [
+        "epicurus-13-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-13-check-4-a",
+          "text": "对陌生人和无亲密关系者的最低正义义务",
+          "feedback": "友爱强关系不同于广泛最低约定；对陌生人和无亲密关系者的最低正义义务。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-13-check-4-b",
+          "text": "从这项主张能够承担的证明范围看，亲密关系中的信任和共同快乐",
+          "feedback": "把亲密规范自动普遍化；亲密关系中的信任和共同快乐。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-13-check-4-a",
+      "misconceptionId": "epicurus-13-misconception-4"
+    },
+    {
+      "id": "epicurus-14-check-1",
+      "kind": "concept-boundary",
+      "prompt": "正义可变为何不等于任意？",
+      "targetNodeIds": [
+        "epicurus-14-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-14-check-1-b",
+          "text": "法律一经成文便取得正义资格，不再接受互利功能检验",
+          "feedback": "把约定事实等同正义资格；法律一经成文便取得正义资格，不再接受互利功能检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-14-check-1-a",
+          "text": "具体规则变化仍受互利和互不伤害功能约束",
+          "feedback": "变化发生在应用而非取消评价尺度；具体规则变化仍受互利和互不伤害功能约束。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-14-check-1-a",
+      "misconceptionId": "epicurus-14-misconception-1"
+    },
+    {
+      "id": "epicurus-14-check-2",
+      "kind": "argument-step",
+      "prompt": "法律何时可能从正义变为不正义？",
+      "targetNodeIds": [
+        "epicurus-14-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-14-check-2-b",
+          "text": "把年代变旧本身当作规则已经失效的理由依据",
+          "feedback": "把时间流逝当作充分理由；把年代变旧本身当作规则已经失效的理由依据。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-14-check-2-a",
+          "text": "条件变化使它不再促进共同安全与互利",
+          "feedback": "失效取决于功能变化而非时间本身；条件变化使它不再促进共同安全与互利。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-14-check-2-a",
+      "misconceptionId": "epicurus-14-misconception-2"
+    },
+    {
+      "id": "epicurus-14-check-3",
+      "kind": "objection",
+      "prompt": "秘密违法异议击中什么？",
+      "targetNodeIds": [
+        "epicurus-14-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-14-check-3-a",
+          "text": "若充分无暴露风险，焦虑动机可能不足",
+          "feedback": "异议针对守约动机而非定义全无；若充分无暴露风险，焦虑动机可能不足。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-14-check-3-b",
+          "text": "从这项主张能够承担的证明范围看，正义定义中从未包含各个互不伤害要求",
+          "feedback": "把动机困难误成没有规范结构；正义定义中从未包含各个互不伤害要求。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-14-check-3-a",
+      "misconceptionId": "epicurus-14-misconception-3"
+    },
+    {
+      "id": "epicurus-14-check-4",
+      "kind": "scope-boundary",
+      "prompt": "契约正义尚未充分解决谁的问题？",
+      "targetNodeIds": [
+        "epicurus-14-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-14-check-4-b",
+          "text": "规则会随着共同条件的变化而相应改变",
+          "feedback": "把可变性当作已经保护所有人；规则会随着共同条件的变化而相应改变。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-14-check-4-a",
+          "text": "无法平等订约者与权力弱者如何受保护",
+          "feedback": "古代文本缺少完整公平议价理论；无法平等订约者与权力弱者如何受保护。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-14-check-4-a",
+      "misconceptionId": "epicurus-14-misconception-4"
+    },
+    {
+      "id": "epicurus-15-check-1",
+      "kind": "source-identity",
+      "prompt": "“隐而生活”应如何标记？",
+      "targetNodeIds": [
+        "epicurus-15-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-15-check-1-a",
+          "text": "主要经普鲁塔克敌对论辩保存，范围须与其他材料互证",
+          "feedback": "敌对传承能作证却不能独占解释；主要经普鲁塔克敌对论辩保存，范围须与其他材料互证。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-15-check-1-b",
+          "text": "把普鲁塔克保存的敌对标题当成伊壁鸠鲁书信中的定稿法条",
+          "feedback": "把论敌标题当作作者定稿；把普鲁塔克保存的敌对标题当成伊壁鸠鲁书信中的定稿法条。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-15-check-1-a",
+      "misconceptionId": "epicurus-15-misconception-1"
+    },
+    {
+      "id": "epicurus-15-check-2",
+      "kind": "concept-boundary",
+      "prompt": "政治退隐最稳妥表示什么？",
+      "targetNodeIds": [
+        "epicurus-15-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-15-check-2-a",
+          "text": "通常反对把权力公职和名望当作幸福道路",
+          "feedback": "反竞逐推定不同于全面消失；通常反对把权力公职和名望当作幸福道路。",
+          "isCorrect": true
+        },
+        {
+          "id": "epicurus-15-check-2-b",
+          "text": "把反竞逐推定扩大为对公共劝导与共同安全行动的禁令",
+          "feedback": "把风险诊断扩成无例外禁令；把反竞逐推定扩大为对公共劝导与共同安全行动的禁令。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "epicurus-15-check-2-a",
+      "misconceptionId": "epicurus-15-misconception-2"
+    },
+    {
+      "id": "epicurus-15-check-3",
+      "kind": "case-transfer",
+      "prompt": "参与邻里互不伤害约定为何可与退隐相容？",
+      "targetNodeIds": [
+        "epicurus-15-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-15-check-3-b",
+          "text": "把共同协作都归为国家权力竞争，抹去行动目的差异",
+          "feedback": "把社会关系全部缩成权力竞逐；把共同协作都归为国家权力竞争，抹去行动目的差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-15-check-3-a",
+          "text": "维护安全不必以统治、荣耀和升迁为目的",
+          "feedback": "公共行动类型需要区分；维护安全不必以统治、荣耀和升迁为目的。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-15-check-3-a",
+      "misconceptionId": "epicurus-15-misconception-3"
+    },
+    {
+      "id": "epicurus-15-check-4",
+      "kind": "scope-boundary",
+      "prompt": "现存政治材料没有完成什么？",
+      "targetNodeIds": [
+        "epicurus-15-node"
+      ],
+      "options": [
+        {
+          "id": "epicurus-15-check-4-b",
+          "text": "已经强烈警惕权力和声名带来的扰动",
+          "feedback": "从风险警告虚构制度理论；已经强烈警惕权力和声名带来的扰动。",
+          "isCorrect": false
+        },
+        {
+          "id": "epicurus-15-check-4-a",
+          "text": "没有完成民主义务、集体行动与结构压迫理论",
+          "feedback": "通常策略不等于完整政治哲学；没有完成民主义务、集体行动与结构压迫理论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "epicurus-15-check-4-a",
+      "misconceptionId": "epicurus-15-misconception-4"
+    }
+  ]
+}

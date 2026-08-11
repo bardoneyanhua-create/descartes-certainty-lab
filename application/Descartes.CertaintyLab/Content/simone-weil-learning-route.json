@@ -1,0 +1,5301 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "simone-weil--W01-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。",
+      "explanation": "Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w01-c1"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Weil corpus publication identities"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W01-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。",
+      "explanation": "《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。",
+      "identity": "editor-arrangement; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Gravity and Grace editorial arrangement"
+      ],
+      "voiceClass": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W02-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。",
+      "explanation": "在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-studies"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "attention as receptive apprenticeship"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W02-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。",
+      "explanation": "现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w02-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "attention as ethical receptivity"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W03-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。",
+      "explanation": "《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-attention"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "attention versus muscular will"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W03-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。",
+      "explanation": "该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。",
+      "identity": "editor-arrangement; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "editorial sequence is not authorial treatise"
+      ],
+      "voiceClass": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W04-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。",
+      "explanation": "Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-affliction"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "affliction as multidimensional devastation"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W04-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。",
+      "explanation": "现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w04-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "development from humiliation to malheur"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W05-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。",
+      "explanation": "工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-factory-journal"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "factory diary on time and obedience"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W05-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。",
+      "explanation": "现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w05-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "factory humiliation and docility"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W06-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。",
+      "explanation": "《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-reflections-oppression"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "labor as unity of thought and action"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W06-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。",
+      "explanation": "现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w06-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "free labor as intelligible relation"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W07-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。",
+      "explanation": "Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。",
+      "identity": "weil-primary-published; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-protagonist"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "force as protagonist and reification"
+      ],
+      "voiceClass": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W07-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。",
+      "explanation": "力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。",
+      "identity": "weil-primary-published; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-wielder"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "force deforms wielder and victim"
+      ],
+      "voiceClass": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W08-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。",
+      "explanation": "路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。",
+      "identity": "classical-object; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-homer-iliad"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Homeric scenes as classical object"
+      ],
+      "voiceClass": "classical-object"
+    },
+    {
+      "id": "simone-weil--W08-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。",
+      "explanation": "现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w08-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "phenomenology-of-force reception label"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W09-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。",
+      "explanation": "编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-gravity"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "gravity-grace moral analogy"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W09-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。",
+      "explanation": "因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。",
+      "identity": "editor-arrangement; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "editorial caution for gravity-grace system"
+      ],
+      "voiceClass": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W10-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。",
+      "explanation": "“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-necessity"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "obedience to necessity not force"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W10-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。",
+      "explanation": "《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-matthew",
+        "simone-weil--src-gg-matthew-reading"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Matthew as religious object in Weil reading"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "simone-weil--W11-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。",
+      "explanation": "“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-decreation"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "decreation distinguished from destruction"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W11-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。",
+      "explanation": "现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。",
+      "identity": "modern-interpretation; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w11-c2"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "decreation in creation theology"
+      ],
+      "voiceClass": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W12-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。",
+      "explanation": "在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-implicit-love"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "attention receives the other"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W12-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。",
+      "explanation": "“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-self"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "voluntary decentering versus external annihilation"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。",
+      "explanation": "《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "obligation prior to rights"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。",
+      "explanation": "义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "human being before collectivity"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。",
+      "explanation": "扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "rootedness as active multiple participation"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。",
+      "explanation": "不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "rooted exchange without cultural closure"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。",
+      "explanation": "Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "uprooting through conquest and colonial domination"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。",
+      "explanation": "“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。",
+      "identity": "weil-primary-posthumous; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-worker"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "industrial and monetary uprooting"
+      ],
+      "voiceClass": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W16-C1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。",
+      "explanation": "《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。",
+      "identity": "classical-object; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-timaeus"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Timaeus as classical object for necessity"
+      ],
+      "voiceClass": "classical-object"
+    },
+    {
+      "id": "simone-weil--W16-C2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。",
+      "explanation": "《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "simone-weil--src-gita",
+        "simone-weil--src-weil-gita-reading"
+      ],
+      "abilityIds": [
+        "simone-weil-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Gita object versus Weil cross-traditional reading"
+      ],
+      "voiceClass": "route-synthesis"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "simone-weil--src-sep-weil-w01-c1",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 1, paragraphs 1 and 4 (HTML lines 36–40): oeuvre/text-history and no lifetime book publication",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#PhilDeve",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w02-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 4, paragraphs 1–5 (HTML lines 171–183): attention as apprenticeship, negative effort, receptive suspension",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#Eth",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w04-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 2, paragraph beginning “In light of the humiliating work” (HTML lines 93–95)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#SocPoliPhil",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w05-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 1, factory-experience paragraphs (HTML lines 49–53): orders, speed, fatigue, humiliation, docility",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#PhilDeve",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w06-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 2, free-labor paragraphs (HTML lines 86–90): thought/action and intelligible relations",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#SocPoliPhil",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w08-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 2, Iliad reception paragraphs (HTML lines 105–109): Esposito label and Weil’s force thesis",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#SocPoliPhil",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-sep-weil-w11-c2",
+      "workId": "Simone Weil",
+      "edition": "Stanford Encyclopedia of Philosophy, Fall 2022 archive",
+      "locator": "section 5, creation/decreation paragraphs (HTML lines 205–215)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#MetaReliPhil",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "modern-interpretation",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-wfg-studies",
+      "workId": "Reflections on the Right Use of School Studies with a View to the Love of God",
+      "edition": "Waiting for God, trans. Emma Craufurd, HarperCollins 1966 [2009], as identified in SEP bibliography",
+      "locator": "WFG pp. 61–62; SEP section 4, HTML lines 174–178",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Reflections on the Right Use of School Studies with a View to the Love of God",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#Eth",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-wfg-implicit-love",
+      "workId": "Forms of the Implicit Love of God",
+      "edition": "Waiting for God, trans. Emma Craufurd, HarperCollins 1966 [2009], as identified in SEP bibliography",
+      "locator": "WFG pp. 90 and 100; SEP section 4, HTML lines 184–191",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Forms of the Implicit Love of God",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#Eth",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-wfg-affliction",
+      "workId": "The Love of God and Affliction",
+      "edition": "Waiting for God, trans. Emma Craufurd, HarperCollins 1966 [2009], as identified in SEP bibliography",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact page(s) in the named HarperCollins edition for embodied, psychological, social, and spiritual dimensions of malheur.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Love of God and Affliction",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#Eth",
+      "boundaryZh": "Close the exact page(s) in the named HarperCollins edition for embodied, psychological, social, and spiritual dimensions of malheur.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-editor",
+      "workId": "Gravity and Grace — Introduction",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "Introduction, HTML lines 288–293: Thibon says he chose notebook extracts and classified them; distinct 1990 postscript at lines 2175–2184",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace — Introduction",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "editor-arrangement",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-eliot-gg-selection",
+      "workId": "The Need for Roots — Preface",
+      "edition": "T. S. Eliot preface to Arthur Wills translation, Routledge Classics e-library edition (2005)",
+      "locator": "preface, print pp. vii–viii (PDF pp. 6–8): Gravity and Grace identified as Thibon’s selection from Weil notebooks",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Need for Roots — Preface",
+      "stableUrl": "https://cooperism.law.columbia.edu/files/2023/09/A_The-Need-for-Roots-Weil-copy.pdf",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "editor-arrangement",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-gravity",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“Gravity and Grace”, HTML lines 294–301: natural movements, physical-gravity analogy, grace as exception",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc2",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-attention",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“Attention and Will”, HTML lines 1495–1500: stiffened muscles/set jaw contrasted with attention; highest attention as prayer",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc27",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-necessity",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“Necessity and Obedience”, HTML lines 816–819: obedience to necessity, not force, and the slave’s void",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc12",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-matthew-reading",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“He Whom We Must Love Is Absent”, HTML lines 1450–1453: impartial sunshine and rain on good and evil",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc23",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-decreation",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“Decreation”, HTML lines 614–620: decreation and destruction explicitly defined and distinguished",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc10",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gg-self",
+      "workId": "Gravity and Grace",
+      "edition": "The Anarchist Library HTML transcription (retrieved from libgen 2 Dec 2020; page metadata dates text 1952; includes Thibon’s December 1990 postscript; translator not identified on page)",
+      "locator": "“The Self”, HTML lines 564–571: inward relinquishment of I distinguished from external affliction and absence",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gravity and Grace",
+      "stableUrl": "https://theanarchistlibrary.org/library/simone-weil-gravity-and-grace#toc9",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-nr-obligation",
+      "workId": "The Need for Roots",
+      "edition": "trans. Arthur Wills, Routledge Classics e-library edition (2005)",
+      "locator": "Part I, “The Needs of the Soul”, print pp. 1–8 (PDF pp. 17–24)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Need for Roots",
+      "stableUrl": "https://cooperism.law.columbia.edu/files/2023/09/A_The-Need-for-Roots-Weil-copy.pdf",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-nr-rootedness",
+      "workId": "The Need for Roots",
+      "edition": "trans. Arthur Wills, Routledge Classics e-library edition (2005)",
+      "locator": "Part II, “Uprootedness”, print pp. 39–41 (PDF pp. 55–57)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Need for Roots",
+      "stableUrl": "https://cooperism.law.columbia.edu/files/2023/09/A_The-Need-for-Roots-Weil-copy.pdf",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-nr-worker",
+      "workId": "The Need for Roots",
+      "edition": "trans. Arthur Wills, Routledge Classics e-library edition (2005)",
+      "locator": "Part II, “Uprootedness in the Towns”, print pp. 41–44 (PDF pp. 56–60)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Need for Roots",
+      "stableUrl": "https://cooperism.law.columbia.edu/files/2023/09/A_The-Need-for-Roots-Weil-copy.pdf",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-iliad-force-protagonist",
+      "workId": "The Iliad, or the Poem of Force",
+      "edition": "Mary McCarthy translation, in On Violence: A Reader (Duke University Press, 2007), pp. 378–390",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact page(s) for force as protagonist and the person-to-thing formulation; the 13-page essay span is not claim-specific.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Iliad, or the Poem of Force",
+      "stableUrl": "https://www.degruyter.com/document/doi/10.1515/9780822390169-051/html",
+      "boundaryZh": "Close the exact page(s) for force as protagonist and the person-to-thing formulation; the 13-page essay span is not claim-specific.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "weil-primary-published",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-iliad-force-wielder",
+      "workId": "The Iliad, or the Poem of Force",
+      "edition": "Mary McCarthy translation, in On Violence: A Reader (Duke University Press, 2007), pp. 378–390",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact page(s) for force deforming its wielder as well as its victim; the 13-page essay span is not claim-specific.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Iliad, or the Poem of Force",
+      "stableUrl": "https://www.degruyter.com/document/doi/10.1515/9780822390169-051/html",
+      "boundaryZh": "Close the exact page(s) for force deforming its wielder as well as its victim; the 13-page essay span is not claim-specific.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "weil-primary-published",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-homer-iliad",
+      "workId": "Iliad",
+      "edition": "named Greek-English scholarly edition to be selected",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact book and line spans for the scenes of supplication and reversal used by W08-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Iliad",
+      "stableUrl": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0134",
+      "boundaryZh": "Close the exact book and line spans for the scenes of supplication and reversal used by W08-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "classical-object",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-factory-journal",
+      "workId": "Factory Journal",
+      "edition": "Formative Writings, 1929–1941, ed. and trans. Dorothy Tuck McFarland and Wilhelmina Van Ness (1987)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close the exact dated entry and page span for time pressure, orders, fatigue, and inhibited thought used by W05-C1.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Factory Journal",
+      "stableUrl": "https://www.edarcipelago.com/freebooks/SimoneWeil/Weil%2C%20Simone%20-%20Formative%20Writings%2C%201929-1941%20%28Massachusetts%2C%201987%29.pdf",
+      "boundaryZh": "Close the exact dated entry and page span for time pressure, orders, fatigue, and inhibited thought used by W05-C1.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-reflections-oppression",
+      "workId": "Reflections concerning the Causes of Liberty and Social Oppression",
+      "edition": "Oppression and Liberty, trans. Arthur Wills and John Petrie, Routledge 1955 [2001], as identified in SEP bibliography",
+      "locator": "OL pp. 53, 109, and 116–117; SEP section 2, HTML lines 84–92 (regulative revolution, individual thought, thought/action freedom)",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Reflections concerning the Causes of Liberty and Social Oppression",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#SocPoliPhil",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-matthew",
+      "workId": "Gospel according to Matthew",
+      "edition": "New Revised Standard Version Updated Edition",
+      "locator": "Matthew 5:45",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Gospel according to Matthew",
+      "stableUrl": "https://www.biblegateway.com/passage/?search=Matthew%205%3A45&version=NRSVUE",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "religious-object",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-timaeus",
+      "workId": "Timaeus",
+      "edition": "Plato in Twelve Volumes, vol. 9, trans. R. G. Bury (Harvard University Press / William Heinemann, 1929), Perseus English translation",
+      "locator": "Stephanus 47e–48a: reason and necessity in cosmic becoming",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Timaeus",
+      "stableUrl": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0059.tlg031",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "classical-object",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-gita",
+      "workId": "Bhagavad Gita",
+      "edition": "English translation by Swami Gambhirananda, displayed by IIT Kanpur Gita Supersite",
+      "locator": "chapter 2, verse 47: right to action, not results, and no inclination to inaction",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Bhagavad Gita",
+      "stableUrl": "https://www.gitasupersite.iitk.ac.in/srimad?etgb=1&field_chapter_value=2&field_nsutra_value=47&language=dv",
+      "boundaryZh": null,
+      "author": null,
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": null,
+      "voice": "religious-object",
+      "year": null
+    },
+    {
+      "id": "simone-weil--src-weil-gita-reading",
+      "workId": "The Notebooks of Simone Weil",
+      "edition": "trans. Arthur Wills, 2 vols. (G. P. Putnam’s Sons, 1956)",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close NB p. 124 in the named two-volume Wills translation for Weil’s “non-active action” comparison with the Bhagavad Gita.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "The Notebooks of Simone Weil",
+      "stableUrl": "https://plato.stanford.edu/archives/fall2022/entries/simone-weil/#MetaReliPhil",
+      "boundaryZh": "Close NB p. 124 in the named two-volume Wills translation for Weil’s “non-active action” comparison with the Bhagavad Gita.",
+      "author": null,
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": null,
+      "voice": "weil-primary-posthumous",
+      "year": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "simone-weil-attention-force-rootedness",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "西蒙娜·薇依：注意、强力与扎根",
+      "lessonIds": [
+        "simone-weil--simone-weil-01",
+        "simone-weil--simone-weil-02",
+        "simone-weil--simone-weil-03",
+        "simone-weil--simone-weil-04",
+        "simone-weil--simone-weil-05",
+        "simone-weil--simone-weil-06",
+        "simone-weil--simone-weil-07",
+        "simone-weil--simone-weil-08",
+        "simone-weil--simone-weil-09",
+        "simone-weil--simone-weil-10",
+        "simone-weil--simone-weil-11",
+        "simone-weil--simone-weil-12",
+        "simone-weil--simone-weil-13",
+        "simone-weil--simone-weil-14",
+        "simone-weil--simone-weil-15",
+        "simone-weil--simone-weil-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Simone Weil",
+        "nameZh": "西蒙娜·薇依",
+        "sourceRouteId": "simone-weil-attention-force-rootedness"
+      },
+      "summary": "1. 先辨认文本身份"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "simone-weil--simone-weil-01",
+      "order": 1,
+      "title": "1. 先辨认文本身份",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "1. 先辨认文本身份",
+      "coreExplanation": "Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。\n\n《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。",
+      "sections": [
+        {
+          "heading": "1. 先辨认文本身份",
+          "paragraphs": [
+            "Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。",
+            "《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w01-c1",
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W01-C1",
+        "simone-weil--W01-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W01-C1-Q1",
+        "simone-weil--W01-C1-Q2",
+        "simone-weil--W01-C2-Q1",
+        "simone-weil--W01-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-02",
+      "sourceIds": [
+        "simone-weil--src-sep-weil-w01-c1",
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "essentialQuestion": "1. 先辨认文本身份",
+      "initialFocusId": "simone-weil--simone-weil-01-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-02",
+      "order": 2,
+      "title": "2. 注意：等待而非攫取",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "2. 注意：等待而非攫取",
+      "coreExplanation": "在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。\n\n现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。",
+      "sections": [
+        {
+          "heading": "2. 注意：等待而非攫取",
+          "paragraphs": [
+            "在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。",
+            "现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-studies",
+            "simone-weil--src-sep-weil-w02-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W02-C1",
+        "simone-weil--W02-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W02-C1-Q1",
+        "simone-weil--W02-C1-Q2",
+        "simone-weil--W02-C2-Q1",
+        "simone-weil--W02-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-03",
+      "sourceIds": [
+        "simone-weil--src-wfg-studies",
+        "simone-weil--src-sep-weil-w02-c2"
+      ],
+      "essentialQuestion": "2. 注意：等待而非攫取",
+      "initialFocusId": "simone-weil--simone-weil-02-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-03",
+      "order": 3,
+      "title": "3. 注意与意志的边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "3. 注意与意志的边界",
+      "coreExplanation": "《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。\n\n该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。",
+      "sections": [
+        {
+          "heading": "3. 注意与意志的边界",
+          "paragraphs": [
+            "《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。",
+            "该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-attention",
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W03-C1",
+        "simone-weil--W03-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W03-C1-Q1",
+        "simone-weil--W03-C1-Q2",
+        "simone-weil--W03-C2-Q1",
+        "simone-weil--W03-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-04",
+      "sourceIds": [
+        "simone-weil--src-gg-attention",
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "essentialQuestion": "3. 注意与意志的边界",
+      "initialFocusId": "simone-weil--simone-weil-03-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-04",
+      "order": 4,
+      "title": "4. malheur 不等于普通痛苦",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "4. malheur 不等于普通痛苦",
+      "coreExplanation": "Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。\n\n现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。",
+      "sections": [
+        {
+          "heading": "4. malheur 不等于普通痛苦",
+          "paragraphs": [
+            "Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。",
+            "现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-affliction",
+            "simone-weil--src-sep-weil-w04-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W04-C1",
+        "simone-weil--W04-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W04-C1-Q1",
+        "simone-weil--W04-C1-Q2",
+        "simone-weil--W04-C2-Q1",
+        "simone-weil--W04-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-05",
+      "sourceIds": [
+        "simone-weil--src-wfg-affliction",
+        "simone-weil--src-sep-weil-w04-c2"
+      ],
+      "essentialQuestion": "4. malheur 不等于普通痛苦",
+      "initialFocusId": "simone-weil--simone-weil-04-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-05",
+      "order": 5,
+      "title": "5. 工厂经验：日记与解释",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "5. 工厂经验：日记与解释",
+      "coreExplanation": "工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。\n\n现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。",
+      "sections": [
+        {
+          "heading": "5. 工厂经验：日记与解释",
+          "paragraphs": [
+            "工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。",
+            "现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-factory-journal",
+            "simone-weil--src-sep-weil-w05-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W05-C1",
+        "simone-weil--W05-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W05-C1-Q1",
+        "simone-weil--W05-C1-Q2",
+        "simone-weil--W05-C2-Q1",
+        "simone-weil--W05-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-06",
+      "sourceIds": [
+        "simone-weil--src-factory-journal",
+        "simone-weil--src-sep-weil-w05-c2"
+      ],
+      "essentialQuestion": "5. 工厂经验：日记与解释",
+      "initialFocusId": "simone-weil--simone-weil-05-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-06",
+      "order": 6,
+      "title": "6. 劳动、思想与自由",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "6. 劳动、思想与自由",
+      "coreExplanation": "《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。\n\n现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。",
+      "sections": [
+        {
+          "heading": "6. 劳动、思想与自由",
+          "paragraphs": [
+            "《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。",
+            "现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-reflections-oppression",
+            "simone-weil--src-sep-weil-w06-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W06-C1",
+        "simone-weil--W06-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W06-C1-Q1",
+        "simone-weil--W06-C1-Q2",
+        "simone-weil--W06-C2-Q1",
+        "simone-weil--W06-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-07",
+      "sourceIds": [
+        "simone-weil--src-reflections-oppression",
+        "simone-weil--src-sep-weil-w06-c2"
+      ],
+      "essentialQuestion": "6. 劳动、思想与自由",
+      "initialFocusId": "simone-weil--simone-weil-06-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-07",
+      "order": 7,
+      "title": "7. 《伊利亚特》中的力",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "7. 《伊利亚特》中的力",
+      "coreExplanation": "Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。\n\n力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。",
+      "sections": [
+        {
+          "heading": "7. 《伊利亚特》中的力",
+          "paragraphs": [
+            "Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。",
+            "力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-protagonist",
+            "simone-weil--src-iliad-force-wielder"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W07-C1",
+        "simone-weil--W07-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W07-C1-Q1",
+        "simone-weil--W07-C1-Q2",
+        "simone-weil--W07-C2-Q1",
+        "simone-weil--W07-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-08",
+      "sourceIds": [
+        "simone-weil--src-iliad-force-protagonist",
+        "simone-weil--src-iliad-force-wielder"
+      ],
+      "essentialQuestion": "7. 《伊利亚特》中的力",
+      "initialFocusId": "simone-weil--simone-weil-07-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-08",
+      "order": 8,
+      "title": "8. Homer 是对象，不是 Weil 的化名",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "8. Homer 是对象，不是 Weil 的化名",
+      "coreExplanation": "路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。\n\n现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。",
+      "sections": [
+        {
+          "heading": "8. Homer 是对象，不是 Weil 的化名",
+          "paragraphs": [
+            "路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。",
+            "现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-homer-iliad",
+            "simone-weil--src-sep-weil-w08-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W08-C1",
+        "simone-weil--W08-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W08-C1-Q1",
+        "simone-weil--W08-C1-Q2",
+        "simone-weil--W08-C2-Q1",
+        "simone-weil--W08-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-09",
+      "sourceIds": [
+        "simone-weil--src-homer-iliad",
+        "simone-weil--src-sep-weil-w08-c2"
+      ],
+      "essentialQuestion": "8. Homer 是对象，不是 Weil 的化名",
+      "initialFocusId": "simone-weil--simone-weil-08-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-09",
+      "order": 9,
+      "title": "9. 重力与恩典：比喻及其限度",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "9. 重力与恩典：比喻及其限度",
+      "coreExplanation": "编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。\n\n因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。",
+      "sections": [
+        {
+          "heading": "9. 重力与恩典：比喻及其限度",
+          "paragraphs": [
+            "编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。",
+            "因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-gravity",
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W09-C1",
+        "simone-weil--W09-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W09-C1-Q1",
+        "simone-weil--W09-C1-Q2",
+        "simone-weil--W09-C2-Q1",
+        "simone-weil--W09-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-10",
+      "sourceIds": [
+        "simone-weil--src-gg-gravity",
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "essentialQuestion": "9. 重力与恩典：比喻及其限度",
+      "initialFocusId": "simone-weil--simone-weil-09-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-10",
+      "order": 10,
+      "title": "10. 必然、服从与强力",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "10. 必然、服从与强力",
+      "coreExplanation": "“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。\n\n《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。",
+      "sections": [
+        {
+          "heading": "10. 必然、服从与强力",
+          "paragraphs": [
+            "“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。",
+            "《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-necessity",
+            "simone-weil--src-matthew",
+            "simone-weil--src-gg-matthew-reading"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W10-C1",
+        "simone-weil--W10-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W10-C1-Q1",
+        "simone-weil--W10-C1-Q2",
+        "simone-weil--W10-C2-Q1",
+        "simone-weil--W10-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-11",
+      "sourceIds": [
+        "simone-weil--src-gg-necessity",
+        "simone-weil--src-matthew",
+        "simone-weil--src-gg-matthew-reading"
+      ],
+      "essentialQuestion": "10. 必然、服从与强力",
+      "initialFocusId": "simone-weil--simone-weil-10-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-11",
+      "order": 11,
+      "title": "11. decreation 不是 destruction",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "11. decreation 不是 destruction",
+      "coreExplanation": "“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。\n\n现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。",
+      "sections": [
+        {
+          "heading": "11. decreation 不是 destruction",
+          "paragraphs": [
+            "“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。",
+            "现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-decreation",
+            "simone-weil--src-sep-weil-w11-c2"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W11-C1",
+        "simone-weil--W11-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W11-C1-Q1",
+        "simone-weil--W11-C1-Q2",
+        "simone-weil--W11-C2-Q1",
+        "simone-weil--W11-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-12",
+      "sourceIds": [
+        "simone-weil--src-gg-decreation",
+        "simone-weil--src-sep-weil-w11-c2"
+      ],
+      "essentialQuestion": "11. decreation 不是 destruction",
+      "initialFocusId": "simone-weil--simone-weil-11-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-12",
+      "order": 12,
+      "title": "12. 去中心化与他者",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "12. 去中心化与他者",
+      "coreExplanation": "在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。\n\n“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。",
+      "sections": [
+        {
+          "heading": "12. 去中心化与他者",
+          "paragraphs": [
+            "在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。",
+            "“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-implicit-love",
+            "simone-weil--src-gg-self"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W12-C1",
+        "simone-weil--W12-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W12-C1-Q1",
+        "simone-weil--W12-C1-Q2",
+        "simone-weil--W12-C2-Q1",
+        "simone-weil--W12-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-13",
+      "sourceIds": [
+        "simone-weil--src-wfg-implicit-love",
+        "simone-weil--src-gg-self"
+      ],
+      "essentialQuestion": "12. 去中心化与他者",
+      "initialFocusId": "simone-weil--simone-weil-12-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-13",
+      "order": 13,
+      "title": "13. 义务先于权利",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "13. 义务先于权利",
+      "coreExplanation": "《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。\n\n义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。",
+      "sections": [
+        {
+          "heading": "13. 义务先于权利",
+          "paragraphs": [
+            "《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。",
+            "义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W13-C1",
+        "simone-weil--W13-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W13-C1-Q1",
+        "simone-weil--W13-C1-Q2",
+        "simone-weil--W13-C2-Q1",
+        "simone-weil--W13-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-14",
+      "sourceIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "essentialQuestion": "13. 义务先于权利",
+      "initialFocusId": "simone-weil--simone-weil-13-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-14",
+      "order": 14,
+      "title": "14. 扎根不是封闭",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "14. 扎根不是封闭",
+      "coreExplanation": "扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。\n\n不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。",
+      "sections": [
+        {
+          "heading": "14. 扎根不是封闭",
+          "paragraphs": [
+            "扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。",
+            "不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W14-C1",
+        "simone-weil--W14-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W14-C1-Q1",
+        "simone-weil--W14-C1-Q2",
+        "simone-weil--W14-C2-Q1",
+        "simone-weil--W14-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-15",
+      "sourceIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "essentialQuestion": "14. 扎根不是封闭",
+      "initialFocusId": "simone-weil--simone-weil-14-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-15",
+      "order": 15,
+      "title": "15. 拔根、金钱与殖民",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "15. 拔根、金钱与殖民",
+      "coreExplanation": "Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。\n\n“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。",
+      "sections": [
+        {
+          "heading": "15. 拔根、金钱与殖民",
+          "paragraphs": [
+            "Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。",
+            "“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness",
+            "simone-weil--src-nr-worker"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W15-C1",
+        "simone-weil--W15-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W15-C1-Q1",
+        "simone-weil--W15-C1-Q2",
+        "simone-weil--W15-C2-Q1",
+        "simone-weil--W15-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "simone-weil--simone-weil-16",
+      "sourceIds": [
+        "simone-weil--src-nr-rootedness",
+        "simone-weil--src-nr-worker"
+      ],
+      "essentialQuestion": "15. 拔根、金钱与殖民",
+      "initialFocusId": "simone-weil--simone-weil-15-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "simone-weil--simone-weil-16",
+      "order": 16,
+      "title": "16. 跨传统阅读的双重边界",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "16. 跨传统阅读的双重边界",
+      "coreExplanation": "《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。\n\n《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。",
+      "sections": [
+        {
+          "heading": "16. 跨传统阅读的双重边界",
+          "paragraphs": [
+            "《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。",
+            "《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "simone-weil--src-timaeus",
+            "simone-weil--src-gita",
+            "simone-weil--src-weil-gita-reading"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "simone-weil--W16-C1",
+        "simone-weil--W16-C2"
+      ],
+      "checkIds": [
+        "simone-weil--W16-C1-Q1",
+        "simone-weil--W16-C1-Q2",
+        "simone-weil--W16-C2-Q1",
+        "simone-weil--W16-C2-Q2"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "simone-weil--src-timaeus",
+        "simone-weil--src-gita",
+        "simone-weil--src-weil-gita-reading"
+      ],
+      "essentialQuestion": "16. 跨传统阅读的双重边界",
+      "initialFocusId": "simone-weil--simone-weil-16-title",
+      "routeId": "simone-weil-attention-force-rootedness",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "simone-weil--W01-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“Weil corpus publication identities”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W01-C1-Q1-1",
+          "text": "准确：Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。",
+          "feedback": "正确项“准确：Weil 生前没有以专著形式出版这些后来著名的书名；路线必须先区分生前发表文章、作者手稿、笔记与身后结集。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w01-c1"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W01-C1-Q1-2",
+          "text": "错误：把所有现行书名都当成 Weil 生前定稿专著。",
+          "feedback": "错误项“错误：把所有现行书名都当成 Weil 生前定稿专著。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w01-c1"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W01-C1-Q1-1",
+      "misconceptionId": "simone-weil--W01-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w01-c1"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W01-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W01-C1-Q2-1",
+          "text": "越界：把所有现行书名都当成 Weil 生前定稿专著。",
+          "feedback": "错误项“越界：把所有现行书名都当成 Weil 生前定稿专著。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w01-c1"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W01-C1-Q2-2",
+          "text": "边界：保留生前发表、手稿、笔记和身后结集的文本身份。",
+          "feedback": "正确项“边界：保留生前发表、手稿、笔记和身后结集的文本身份。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w01-c1"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W01-C1-Q2-2",
+      "misconceptionId": "simone-weil--W01-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w01-c1"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W01-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W01-P1"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-01",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W01-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“Gravity and Grace editorial arrangement”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W01-C2-Q1-1",
+          "text": "准确：《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。",
+          "feedback": "正确项“准确：《重力与恩典》的主题次序来自 Thibon 对笔记摘录的选择与编排；摘录文字可归 Weil，但编排不能直接归为她的定稿结构。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W01-C2-Q1-2",
+          "text": "错误：把 Thibon 的选编目录直接说成 Weil 亲定的完整体系。",
+          "feedback": "错误项“错误：把 Thibon 的选编目录直接说成 Weil 亲定的完整体系。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W01-C2-Q1-1",
+      "misconceptionId": "simone-weil--W01-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W01-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-01",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W01-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W01-C2-Q2-1",
+          "text": "越界：把 Thibon 的选编目录直接说成 Weil 亲定的完整体系。",
+          "feedback": "错误项“越界：把 Thibon 的选编目录直接说成 Weil 亲定的完整体系。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W01-C2-Q2-2",
+          "text": "边界：把笔记内容与编者选择、标题和次序分开归属。",
+          "feedback": "正确项“边界：把笔记内容与编者选择、标题和次序分开归属。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W01-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W01-C2-Q2-2",
+      "misconceptionId": "simone-weil--W01-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W01-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W01-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-01",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W02-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“attention as receptive apprenticeship”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W02-C1-Q1-1",
+          "text": "准确：在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。",
+          "feedback": "正确项“准确：在学校学习论文中，注意不是紧绷意志去抓答案，而是经过练习形成的开放、耐心与可接受真理的状态。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-studies"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W02-C1-Q1-2",
+          "text": "错误：把注意理解为靠肌肉式意志强行得到答案。",
+          "feedback": "错误项“错误：把注意理解为靠肌肉式意志强行得到答案。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-studies"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W02-C1-Q1-1",
+      "misconceptionId": "simone-weil--W02-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-studies"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W02-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-02",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W02-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W02-C1-Q2-1",
+          "text": "越界：把注意理解为靠肌肉式意志强行得到答案。",
+          "feedback": "错误项“越界：把注意理解为靠肌肉式意志强行得到答案。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-studies"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W02-C1-Q2-2",
+          "text": "边界：将此主张限定在身后收入《等待上帝》的具名论文。",
+          "feedback": "正确项“边界：将此主张限定在身后收入《等待上帝》的具名论文。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-studies"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W02-C1-Q2-2",
+      "misconceptionId": "simone-weil--W02-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-studies"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W02-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W02-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-02",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W02-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“attention as ethical receptivity”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W02-C2-Q1-1",
+          "text": "准确：现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。",
+          "feedback": "正确项“准确：现代解释把 Weil 的 attention 概括为暂停自我投射、容纳对象自主性的伦理转向；这是解释性地图，不替代原文。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w02-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W02-C2-Q1-2",
+          "text": "错误：声称 Weil 只把注意定义成更长时间的集中。",
+          "feedback": "错误项“错误：声称 Weil 只把注意定义成更长时间的集中。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w02-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W02-C2-Q1-1",
+      "misconceptionId": "simone-weil--W02-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w02-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W02-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-02",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W02-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W02-C2-Q2-1",
+          "text": "越界：声称 Weil 只把注意定义成更长时间的集中。",
+          "feedback": "错误项“越界：声称 Weil 只把注意定义成更长时间的集中。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w02-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W02-C2-Q2-2",
+          "text": "边界：保留现代解释声部，并回指原文而不冒充直接引语。",
+          "feedback": "正确项“边界：保留现代解释声部，并回指原文而不冒充直接引语。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w02-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W02-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W02-C2-Q2-2",
+      "misconceptionId": "simone-weil--W02-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w02-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W02-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W02-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-02",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W03-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“attention versus muscular will”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W03-C1-Q1-1",
+          "text": "准确：《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。",
+          "feedback": "正确项“准确：《重力与恩典》“Attention and Will”中的笔记摘录把注意与咬紧牙关式意志区分，并将最高注意关联于祈祷。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-attention"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W03-C1-Q1-2",
+          "text": "错误：说摘录主张道德纯洁可由身体紧张直接制造。",
+          "feedback": "错误项“错误：说摘录主张道德纯洁可由身体紧张直接制造。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-attention"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W03-C1-Q1-1",
+      "misconceptionId": "simone-weil--W03-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-attention"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W03-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-03",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W03-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W03-C1-Q2-1",
+          "text": "越界：说摘录主张道德纯洁可由身体紧张直接制造。",
+          "feedback": "错误项“越界：说摘录主张道德纯洁可由身体紧张直接制造。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-attention"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W03-C1-Q2-2",
+          "text": "边界：承认文字来自 Weil 笔记，同时保留身后摘录身份。",
+          "feedback": "正确项“边界：承认文字来自 Weil 笔记，同时保留身后摘录身份。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-attention"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W03-C1-Q2-2",
+      "misconceptionId": "simone-weil--W03-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-attention"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W03-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W03-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-03",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W03-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“editorial sequence is not authorial treatise”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W03-C2-Q1-1",
+          "text": "准确：该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。",
+          "feedback": "正确项“准确：该章标题和摘录邻接关系是编辑呈现的一部分，不能单凭编排证明 Weil 写成过同名连续论著。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W03-C2-Q1-2",
+          "text": "错误：由目录结构推断 Weil 生前完成了同名章节体系。",
+          "feedback": "错误项“错误：由目录结构推断 Weil 生前完成了同名章节体系。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W03-C2-Q1-1",
+      "misconceptionId": "simone-weil--W03-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W03-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-03",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W03-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W03-C2-Q2-1",
+          "text": "越界：由目录结构推断 Weil 生前完成了同名章节体系。",
+          "feedback": "错误项“越界：由目录结构推断 Weil 生前完成了同名章节体系。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W03-C2-Q2-2",
+          "text": "边界：只把编者可核的选择和排列归给编者。",
+          "feedback": "正确项“边界：只把编者可核的选择和排列归给编者。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W03-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W03-C2-Q2-2",
+      "misconceptionId": "simone-weil--W03-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W03-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W03-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-03",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W04-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“affliction as multidimensional devastation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W04-C1-Q1-1",
+          "text": "准确：Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。",
+          "feedback": "正确项“准确：Weil 的 malheur 指会同时侵入身体、心理、社会地位并可能触及精神关系的苦难；它比一般不适或疼痛更厚重。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-affliction"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W04-C1-Q1-2",
+          "text": "错误：把 malheur 缩减为任何短暂的不舒服。",
+          "feedback": "错误项“错误：把 malheur 缩减为任何短暂的不舒服。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-affliction"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W04-C1-Q1-1",
+      "misconceptionId": "simone-weil--W04-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-affliction"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W04-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-04",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W04-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W04-C1-Q2-1",
+          "text": "越界：把 malheur 缩减为任何短暂的不舒服。",
+          "feedback": "错误项“越界：把 malheur 缩减为任何短暂的不舒服。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-affliction"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W04-C1-Q2-2",
+          "text": "边界：限定于《等待上帝》具名文章中的苦难论述。",
+          "feedback": "正确项“边界：限定于《等待上帝》具名文章中的苦难论述。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-affliction"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W04-C1-Q2-2",
+      "misconceptionId": "simone-weil--W04-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-affliction"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W04-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W04-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-04",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W04-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“development from humiliation to malheur”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W04-C2-Q1-1",
+          "text": "准确：现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。",
+          "feedback": "正确项“准确：现代解释追踪出工厂经验后“压迫/羞辱”向 malheur 的术语加深；这是发展史判断，不是 Weil 自述的一句定义。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w04-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W04-C2-Q1-2",
+          "text": "错误：把术语发展史判断伪装成 Weil 的逐字自我说明。",
+          "feedback": "错误项“错误：把术语发展史判断伪装成 Weil 的逐字自我说明。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w04-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W04-C2-Q1-1",
+      "misconceptionId": "simone-weil--W04-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w04-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W04-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-04",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W04-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W04-C2-Q2-1",
+          "text": "越界：把术语发展史判断伪装成 Weil 的逐字自我说明。",
+          "feedback": "错误项“越界：把术语发展史判断伪装成 Weil 的逐字自我说明。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w04-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W04-C2-Q2-2",
+          "text": "边界：明确这是依据多文本作出的现代解释。",
+          "feedback": "正确项“边界：明确这是依据多文本作出的现代解释。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w04-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W04-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W04-C2-Q2-2",
+      "misconceptionId": "simone-weil--W04-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w04-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W04-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W04-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-04",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W05-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“factory diary on time and obedience”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W05-C1-Q1-1",
+          "text": "准确：工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。",
+          "feedback": "正确项“准确：工厂日记记录了时间压力、命令、速度、疲劳与思考受阻的经验；精确日期和页码尚未在指定版本闭合，因此此 claim 保持 pending。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-factory-journal"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W05-C1-Q1-2",
+          "text": "错误：为未核对的日记段落伪造已验证页码。",
+          "feedback": "错误项“错误：为未核对的日记段落伪造已验证页码。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-factory-journal"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W05-C1-Q1-1",
+      "misconceptionId": "simone-weil--W05-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-factory-journal"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W05-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-05",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W05-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W05-C1-Q2-1",
+          "text": "越界：为未核对的日记段落伪造已验证页码。",
+          "feedback": "错误项“越界：为未核对的日记段落伪造已验证页码。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-factory-journal"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W05-C1-Q2-2",
+          "text": "边界：承认作者日记身份，并把 locator 缺口限制在这一 claim。",
+          "feedback": "正确项“边界：承认作者日记身份，并把 locator 缺口限制在这一 claim。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-factory-journal"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W05-C1-Q2-2",
+      "misconceptionId": "simone-weil--W05-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-factory-journal"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W05-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W05-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-05",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W05-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“factory humiliation and docility”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W05-C2-Q1-1",
+          "text": "准确：现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。",
+          "feedback": "正确项“准确：现代研究据工厂材料认为，Weil 发现羞辱常造成疲惫与顺从而非自动反抗；路线不把她自愿入厂的经历等同所有工人经验。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w05-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W05-C2-Q1-2",
+          "text": "错误：把一次自愿入厂经历当作所有工人处境的完整替身。",
+          "feedback": "错误项“错误：把一次自愿入厂经历当作所有工人处境的完整替身。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w05-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W05-C2-Q1-1",
+      "misconceptionId": "simone-weil--W05-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w05-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W05-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-05",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W05-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W05-C2-Q2-1",
+          "text": "越界：把一次自愿入厂经历当作所有工人处境的完整替身。",
+          "feedback": "错误项“越界：把一次自愿入厂经历当作所有工人处境的完整替身。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w05-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W05-C2-Q2-2",
+          "text": "边界：把经验的思想影响与其代表性限度同时保留。",
+          "feedback": "正确项“边界：把经验的思想影响与其代表性限度同时保留。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w05-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W05-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W05-C2-Q2-2",
+      "misconceptionId": "simone-weil--W05-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w05-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W05-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W05-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-05",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W06-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“labor as unity of thought and action”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W06-C1-Q1-1",
+          "text": "准确：《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。",
+          "feedback": "正确项“准确：《论自由与社会压迫的原因》把自由问题落到劳动者能否理解工序、联合思想与行动，而非仅把革命当成力量倒置。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-reflections-oppression"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W06-C1-Q1-2",
+          "text": "错误：把自由简化为弱者夺得与强者相同的支配力。",
+          "feedback": "错误项“错误：把自由简化为弱者夺得与强者相同的支配力。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-reflections-oppression"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W06-C1-Q1-1",
+      "misconceptionId": "simone-weil--W06-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-reflections-oppression"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W06-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-06",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W06-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W06-C1-Q2-1",
+          "text": "越界：把自由简化为弱者夺得与强者相同的支配力。",
+          "feedback": "错误项“越界：把自由简化为弱者夺得与强者相同的支配力。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-reflections-oppression"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W06-C1-Q2-2",
+          "text": "边界：依照具名政治论文讨论劳动组织，而不倒灌后期神学。",
+          "feedback": "正确项“边界：依照具名政治论文讨论劳动组织，而不倒灌后期神学。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-reflections-oppression"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W06-C1-Q2-2",
+      "misconceptionId": "simone-weil--W06-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-reflections-oppression"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W06-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W06-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-06",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W06-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“free labor as intelligible relation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W06-C2-Q1-1",
+          "text": "准确：现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。",
+          "feedback": "正确项“准确：现代解释认为，非压迫劳动要求手段与目的、个人理解与集体协作保持可理解关系；这不是对现存工厂的浪漫化。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w06-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W06-C2-Q1-2",
+          "text": "错误：把 Weil 的劳动理想说成赞美任何艰苦或服从。",
+          "feedback": "错误项“错误：把 Weil 的劳动理想说成赞美任何艰苦或服从。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w06-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W06-C2-Q1-1",
+      "misconceptionId": "simone-weil--W06-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w06-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W06-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-06",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W06-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W06-C2-Q2-1",
+          "text": "越界：把 Weil 的劳动理想说成赞美任何艰苦或服从。",
+          "feedback": "错误项“越界：把 Weil 的劳动理想说成赞美任何艰苦或服从。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w06-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W06-C2-Q2-2",
+          "text": "边界：区分劳动的认识论理想与现实工业的羞辱结构。",
+          "feedback": "正确项“边界：区分劳动的认识论理想与现实工业的羞辱结构。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w06-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W06-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W06-C2-Q2-2",
+      "misconceptionId": "simone-weil--W06-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w06-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W06-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W06-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-06",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W07-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“force as protagonist and reification”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W07-C1-Q1-1",
+          "text": "准确：Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。",
+          "feedback": "正确项“准确：Weil 在生前发表的《伊利亚特，或力之诗》中把力而非某位英雄置于中心，并分析它如何把人变成物。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-protagonist"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W07-C1-Q1-2",
+          "text": "错误：把文章中心说成对阿喀琉斯英雄主义的单纯赞颂。",
+          "feedback": "错误项“错误：把文章中心说成对阿喀琉斯英雄主义的单纯赞颂。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-protagonist"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W07-C1-Q1-1",
+      "misconceptionId": "simone-weil--W07-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-protagonist"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W07-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-published"
+      ],
+      "lessonId": "simone-weil--simone-weil-07",
+      "voice": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W07-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W07-C1-Q2-1",
+          "text": "越界：把文章中心说成对阿喀琉斯英雄主义的单纯赞颂。",
+          "feedback": "错误项“越界：把文章中心说成对阿喀琉斯英雄主义的单纯赞颂。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-protagonist"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W07-C1-Q2-2",
+          "text": "边界：此处可以归为 Weil 生前发表文章，不借身后编辑结构。",
+          "feedback": "正确项“边界：此处可以归为 Weil 生前发表文章，不借身后编辑结构。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-protagonist"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W07-C1-Q2-2",
+      "misconceptionId": "simone-weil--W07-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-protagonist"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W07-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W07-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-published"
+      ],
+      "lessonId": "simone-weil--simone-weil-07",
+      "voice": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W07-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“force deforms wielder and victim”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W07-C2-Q1-1",
+          "text": "准确：力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。",
+          "feedback": "正确项“准确：力不仅伤害承受者，也使自以为掌握它的人盲目和变形；因此“拥有力量”不是稳定的道德豁免。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-wielder"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W07-C2-Q1-2",
+          "text": "错误：声称胜者因掌握力而免受力的反噬。",
+          "feedback": "错误项“错误：声称胜者因掌握力而免受力的反噬。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-wielder"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W07-C2-Q1-1",
+      "misconceptionId": "simone-weil--W07-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-wielder"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W07-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-published"
+      ],
+      "lessonId": "simone-weil--simone-weil-07",
+      "voice": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W07-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W07-C2-Q2-1",
+          "text": "越界：声称胜者因掌握力而免受力的反噬。",
+          "feedback": "错误项“越界：声称胜者因掌握力而免受力的反噬。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-wielder"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W07-C2-Q2-2",
+          "text": "边界：保持文章对施力者与受力者的双向分析。",
+          "feedback": "正确项“边界：保持文章对施力者与受力者的双向分析。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-iliad-force-wielder"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W07-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W07-C2-Q2-2",
+      "misconceptionId": "simone-weil--W07-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-iliad-force-wielder"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W07-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W07-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-published"
+      ],
+      "lessonId": "simone-weil--simone-weil-07",
+      "voice": "weil-primary-published"
+    },
+    {
+      "id": "simone-weil--W08-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“Homeric scenes as classical object”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W08-C1-Q1-1",
+          "text": "准确：路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。",
+          "feedback": "正确项“准确：路线涉及《伊利亚特》具体求告与命运逆转场景时，必须把 Homeric 文本列为古典对象；本 claim 的具体行号尚未闭合。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-homer-iliad"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W08-C1-Q1-2",
+          "text": "错误：把 Weil 的“力是主角”直接写成 Homer 的自我注释。",
+          "feedback": "错误项“错误：把 Weil 的“力是主角”直接写成 Homer 的自我注释。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-homer-iliad"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W08-C1-Q1-1",
+      "misconceptionId": "simone-weil--W08-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-homer-iliad"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W08-P1"
+      ],
+      "targetVoices": [
+        "classical-object"
+      ],
+      "lessonId": "simone-weil--simone-weil-08",
+      "voice": "classical-object"
+    },
+    {
+      "id": "simone-weil--W08-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W08-C1-Q2-1",
+          "text": "越界：把 Weil 的“力是主角”直接写成 Homer 的自我注释。",
+          "feedback": "错误项“越界：把 Weil 的“力是主角”直接写成 Homer 的自我注释。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-homer-iliad"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W08-C1-Q2-2",
+          "text": "边界：把古典文本对象与 Weil 的解释论文分开，并保留 pending 行号。",
+          "feedback": "正确项“边界：把古典文本对象与 Weil 的解释论文分开，并保留 pending 行号。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-homer-iliad"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W08-C1-Q2-2",
+      "misconceptionId": "simone-weil--W08-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-homer-iliad"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W08-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W08-P1"
+      ],
+      "targetVoices": [
+        "classical-object"
+      ],
+      "lessonId": "simone-weil--simone-weil-08",
+      "voice": "classical-object"
+    },
+    {
+      "id": "simone-weil--W08-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“phenomenology-of-force reception label”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W08-C2-Q1-1",
+          "text": "准确：现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。",
+          "feedback": "正确项“准确：现代解释可把 Weil 的文章称为对 force 的现象学分析，但这种标签属于后继阐释，不是文章自带的学派身份。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w08-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W08-C2-Q1-2",
+          "text": "错误：把后来的“力之现象学”标签伪作 Weil 自称。",
+          "feedback": "错误项“错误：把后来的“力之现象学”标签伪作 Weil 自称。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w08-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W08-C2-Q1-1",
+      "misconceptionId": "simone-weil--W08-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w08-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W08-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-08",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W08-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W08-C2-Q2-1",
+          "text": "越界：把后来的“力之现象学”标签伪作 Weil 自称。",
+          "feedback": "错误项“越界：把后来的“力之现象学”标签伪作 Weil 自称。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w08-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W08-C2-Q2-2",
+          "text": "边界：明确标签来源于现代接受史。",
+          "feedback": "正确项“边界：明确标签来源于现代接受史。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w08-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W08-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W08-C2-Q2-2",
+      "misconceptionId": "simone-weil--W08-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w08-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W08-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W08-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-08",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W09-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“gravity-grace moral analogy”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W09-C1-Q1-1",
+          "text": "准确：编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。",
+          "feedback": "正确项“准确：编辑本中的 Weil 笔记以物理重力作类比，描述灵魂的自然运动，并把恩典说成例外；这不是一条可实验的物理定律。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-gravity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W09-C1-Q1-2",
+          "text": "错误：把道德—神学类比包装成自然科学定律。",
+          "feedback": "错误项“错误：把道德—神学类比包装成自然科学定律。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-gravity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W09-C1-Q1-1",
+      "misconceptionId": "simone-weil--W09-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-gravity"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W09-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-09",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W09-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W09-C1-Q2-1",
+          "text": "越界：把道德—神学类比包装成自然科学定律。",
+          "feedback": "错误项“越界：把道德—神学类比包装成自然科学定律。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-gravity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W09-C1-Q2-2",
+          "text": "边界：保留笔记摘录和类比层级。",
+          "feedback": "正确项“边界：保留笔记摘录和类比层级。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-gravity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W09-C1-Q2-2",
+      "misconceptionId": "simone-weil--W09-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-gravity"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W09-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W09-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-09",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W09-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“editorial caution for gravity-grace system”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W09-C2-Q1-1",
+          "text": "准确：因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。",
+          "feedback": "正确项“准确：因为材料经过主题选编，路线不能从“Gravity and Grace”这一章名反推 Weil 生前认可了一套线性系统。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W09-C2-Q1-2",
+          "text": "错误：用身后章名证明 Weil 已定稿一个完整线性体系。",
+          "feedback": "错误项“错误：用身后章名证明 Weil 已定稿一个完整线性体系。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W09-C2-Q1-1",
+      "misconceptionId": "simone-weil--W09-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W09-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-09",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W09-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W09-C2-Q2-1",
+          "text": "越界：用身后章名证明 Weil 已定稿一个完整线性体系。",
+          "feedback": "错误项“越界：用身后章名证明 Weil 已定稿一个完整线性体系。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W09-C2-Q2-2",
+          "text": "边界：将主题组织的责任归于编者呈现。",
+          "feedback": "正确项“边界：将主题组织的责任归于编者呈现。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-editor",
+            "simone-weil--src-eliot-gg-selection"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W09-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W09-C2-Q2-2",
+      "misconceptionId": "simone-weil--W09-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-editor",
+        "simone-weil--src-eliot-gg-selection"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W09-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W09-P2"
+      ],
+      "targetVoices": [
+        "editor-arrangement"
+      ],
+      "lessonId": "simone-weil--simone-weil-09",
+      "voice": "editor-arrangement"
+    },
+    {
+      "id": "simone-weil--W10-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“obedience to necessity not force”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W10-C1-Q1-1",
+          "text": "准确：“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。",
+          "feedback": "正确项“准确：“Necessity and Obedience”摘录明确区分对必然关系的服从与对强力的屈从；后者在奴役中留下可怕的空洞。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-necessity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W10-C1-Q1-2",
+          "text": "错误：把服从任何强者都解释成 Weil 的纯粹服从。",
+          "feedback": "错误项“错误：把服从任何强者都解释成 Weil 的纯粹服从。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-necessity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W10-C1-Q1-1",
+      "misconceptionId": "simone-weil--W10-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-necessity"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W10-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-10",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W10-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W10-C1-Q2-1",
+          "text": "越界：把服从任何强者都解释成 Weil 的纯粹服从。",
+          "feedback": "错误项“越界：把服从任何强者都解释成 Weil 的纯粹服从。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-necessity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W10-C1-Q2-2",
+          "text": "边界：只在摘录所作的 necessity/force 区分内陈述。",
+          "feedback": "正确项“边界：只在摘录所作的 necessity/force 区分内陈述。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-necessity"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W10-C1-Q2-2",
+      "misconceptionId": "simone-weil--W10-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-necessity"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W10-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W10-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-10",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W10-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“Matthew as religious object in Weil reading”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W10-C2-Q1-1",
+          "text": "准确：《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。",
+          "feedback": "正确项“准确：《马太福音》5:45 的日照雨降不分义人与不义者，是 Weil 讨论非人格必然性时调用的宗教对象；福音文本与她的神学解释仍是两层声音。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-matthew",
+            "simone-weil--src-gg-matthew-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W10-C2-Q1-2",
+          "text": "错误：把 Weil 的必然性理论直接归给《马太福音》作者。",
+          "feedback": "错误项“错误：把 Weil 的必然性理论直接归给《马太福音》作者。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-matthew",
+            "simone-weil--src-gg-matthew-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W10-C2-Q1-1",
+      "misconceptionId": "simone-weil--W10-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-matthew",
+        "simone-weil--src-gg-matthew-reading"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W10-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "simone-weil--simone-weil-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "simone-weil--W10-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W10-C2-Q2-1",
+          "text": "越界：把 Weil 的必然性理论直接归给《马太福音》作者。",
+          "feedback": "错误项“越界：把 Weil 的必然性理论直接归给《马太福音》作者。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-matthew",
+            "simone-weil--src-gg-matthew-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W10-C2-Q2-2",
+          "text": "边界：同时标出 canonical religious object 与 Weil notebook reading。",
+          "feedback": "正确项“边界：同时标出 canonical religious object 与 Weil notebook reading。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-matthew",
+            "simone-weil--src-gg-matthew-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W10-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W10-C2-Q2-2",
+      "misconceptionId": "simone-weil--W10-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-matthew",
+        "simone-weil--src-gg-matthew-reading"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W10-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W10-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "simone-weil--simone-weil-10",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "simone-weil--W11-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“decreation distinguished from destruction”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W11-C1-Q1-1",
+          "text": "准确：“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。",
+          "feedback": "正确项“准确：“Decreation”摘录把 decreation 说成受造者向非受造者的转变，并明确把 destruction 区分为可责的替代品。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-decreation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W11-C1-Q1-2",
+          "text": "错误：把自我毁灭或毁坏他人当作 decreation 的同义词。",
+          "feedback": "错误项“错误：把自我毁灭或毁坏他人当作 decreation 的同义词。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-decreation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W11-C1-Q1-1",
+      "misconceptionId": "simone-weil--W11-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-decreation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W11-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-11",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W11-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W11-C1-Q2-1",
+          "text": "越界：把自我毁灭或毁坏他人当作 decreation 的同义词。",
+          "feedback": "错误项“越界：把自我毁灭或毁坏他人当作 decreation 的同义词。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-decreation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W11-C1-Q2-2",
+          "text": "边界：依照具名摘录保留 decreation/destruction 的明示差别。",
+          "feedback": "正确项“边界：依照具名摘录保留 decreation/destruction 的明示差别。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-decreation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W11-C1-Q2-2",
+      "misconceptionId": "simone-weil--W11-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-decreation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W11-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W11-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-11",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W11-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“decreation in creation theology”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W11-C2-Q1-1",
+          "text": "准确：现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。",
+          "feedback": "正确项“准确：现代解释把 decreation 置于上帝退让、受造者放弃想象中心地位的神学结构中；这是综合性阐释而非编者章序本身。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w11-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W11-C2-Q1-2",
+          "text": "错误：仅凭编者目录就断言完整神学推演来自 Weil 定稿。",
+          "feedback": "错误项“错误：仅凭编者目录就断言完整神学推演来自 Weil 定稿。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w11-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W11-C2-Q1-1",
+      "misconceptionId": "simone-weil--W11-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w11-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W11-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-11",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W11-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W11-C2-Q2-1",
+          "text": "越界：仅凭编者目录就断言完整神学推演来自 Weil 定稿。",
+          "feedback": "错误项“越界：仅凭编者目录就断言完整神学推演来自 Weil 定稿。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w11-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W11-C2-Q2-2",
+          "text": "边界：以现代解释声部重建关系，并保留其可争论性。",
+          "feedback": "正确项“边界：以现代解释声部重建关系，并保留其可争论性。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-sep-weil-w11-c2"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W11-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W11-C2-Q2-2",
+      "misconceptionId": "simone-weil--W11-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-sep-weil-w11-c2"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W11-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W11-P2"
+      ],
+      "targetVoices": [
+        "modern-interpretation"
+      ],
+      "lessonId": "simone-weil--simone-weil-11",
+      "voice": "modern-interpretation"
+    },
+    {
+      "id": "simone-weil--W12-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“attention receives the other”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W12-C1-Q1-1",
+          "text": "准确：在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。",
+          "feedback": "正确项“准确：在“Forms of the Implicit Love of God”中，注意要求清空先入内容以接受他者的现实；它指向承认，而非把他者吸收到自我计划。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-implicit-love"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W12-C1-Q1-2",
+          "text": "错误：把关注他人变成投射自己的计划和安慰。",
+          "feedback": "错误项“错误：把关注他人变成投射自己的计划和安慰。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-implicit-love"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W12-C1-Q1-1",
+      "misconceptionId": "simone-weil--W12-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-implicit-love"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W12-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-12",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W12-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W12-C1-Q2-1",
+          "text": "越界：把关注他人变成投射自己的计划和安慰。",
+          "feedback": "错误项“越界：把关注他人变成投射自己的计划和安慰。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-implicit-love"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W12-C1-Q2-2",
+          "text": "边界：将伦理主张绑定到具名身后文章。",
+          "feedback": "正确项“边界：将伦理主张绑定到具名身后文章。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-wfg-implicit-love"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W12-C1-Q2-2",
+      "misconceptionId": "simone-weil--W12-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-wfg-implicit-love"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W12-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W12-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-12",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W12-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“voluntary decentering versus external annihilation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W12-C2-Q1-1",
+          "text": "准确：“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。",
+          "feedback": "正确项“准确：“The Self”摘录区分主动放下想象的“我”与苦难从外部摧毁主体；路线因此不能把 decreation 美化为社会暴力或自残。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-self"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W12-C2-Q1-2",
+          "text": "错误：把外部暴力摧毁人格赞美为理想的 decreation。",
+          "feedback": "错误项“错误：把外部暴力摧毁人格赞美为理想的 decreation。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-self"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W12-C2-Q1-1",
+      "misconceptionId": "simone-weil--W12-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-self"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W12-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-12",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W12-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W12-C2-Q2-1",
+          "text": "越界：把外部暴力摧毁人格赞美为理想的 decreation。",
+          "feedback": "错误项“越界：把外部暴力摧毁人格赞美为理想的 decreation。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-self"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W12-C2-Q2-2",
+          "text": "边界：保留主动去中心与被迫毁灭的规范差别。",
+          "feedback": "正确项“边界：保留主动去中心与被迫毁灭的规范差别。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gg-self"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W12-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W12-C2-Q2-2",
+      "misconceptionId": "simone-weil--W12-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gg-self"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W12-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W12-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-12",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“obligation prior to rights”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W13-C1-Q1-1",
+          "text": "准确：《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。",
+          "feedback": "正确项“准确：《扎根的需要》开篇主张义务概念先于且支撑权利，因为权利只有在他人的相应义务中才生效。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W13-C1-Q1-2",
+          "text": "错误：说权利无需任何他人的义务即可独自生效。",
+          "feedback": "错误项“错误：说权利无需任何他人的义务即可独自生效。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W13-C1-Q1-1",
+      "misconceptionId": "simone-weil--W13-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W13-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-13",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W13-C1-Q2-1",
+          "text": "越界：说权利无需任何他人的义务即可独自生效。",
+          "feedback": "错误项“越界：说权利无需任何他人的义务即可独自生效。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W13-C1-Q2-2",
+          "text": "边界：标明这是 Weil 完成、1949 年身后出版的手稿。",
+          "feedback": "正确项“边界：标明这是 Weil 完成、1949 年身后出版的手稿。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W13-C1-Q2-2",
+      "misconceptionId": "simone-weil--W13-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W13-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W13-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-13",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“human being before collectivity”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W13-C2-Q1-1",
+          "text": "准确：义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。",
+          "feedback": "正确项“准确：义务的对象首先是作为人的每个人；集体值得尊重，是因为它为具体灵魂提供养分，而非因集体天然高于人。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W13-C2-Q1-2",
+          "text": "错误：把任何集体都置于具体人的需要之上。",
+          "feedback": "错误项“错误：把任何集体都置于具体人的需要之上。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W13-C2-Q1-1",
+      "misconceptionId": "simone-weil--W13-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W13-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-13",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W13-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W13-C2-Q2-1",
+          "text": "越界：把任何集体都置于具体人的需要之上。",
+          "feedback": "错误项“越界：把任何集体都置于具体人的需要之上。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W13-C2-Q2-2",
+          "text": "边界：依照 Part I 区分对人的无条件义务与集体的工具性价值。",
+          "feedback": "正确项“边界：依照 Part I 区分对人的无条件义务与集体的工具性价值。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-obligation"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W13-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W13-C2-Q2-2",
+      "misconceptionId": "simone-weil--W13-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-obligation"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W13-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W13-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-13",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“rootedness as active multiple participation”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W14-C1-Q1-1",
+          "text": "准确：扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。",
+          "feedback": "正确项“准确：扎根被定义为真实、主动且自然地参与保存过去财富并承载未来期待的共同体生活，而且每个人需要多重根系。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W14-C1-Q1-2",
+          "text": "错误：把扎根等同唯一民族身份或排他血统。",
+          "feedback": "错误项“错误：把扎根等同唯一民族身份或排他血统。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W14-C1-Q1-1",
+      "misconceptionId": "simone-weil--W14-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W14-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-14",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W14-C1-Q2-1",
+          "text": "越界：把扎根等同唯一民族身份或排他血统。",
+          "feedback": "错误项“越界：把扎根等同唯一民族身份或排他血统。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W14-C1-Q2-2",
+          "text": "边界：保留“主动参与”和“多重根系”两个限定。",
+          "feedback": "正确项“边界：保留“主动参与”和“多重根系”两个限定。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W14-C1-Q2-2",
+      "misconceptionId": "simone-weil--W14-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W14-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W14-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-14",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“rooted exchange without cultural closure”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W14-C2-Q1-1",
+          "text": "准确：不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。",
+          "feedback": "正确项“准确：不同环境之间的交换同样重要；外来影响应被消化并激活本地生活，因此扎根不等于拒绝一切跨文化影响。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W14-C2-Q1-2",
+          "text": "错误：把扎根解释成文化隔绝和拒绝交流。",
+          "feedback": "错误项“错误：把扎根解释成文化隔绝和拒绝交流。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W14-C2-Q1-1",
+      "misconceptionId": "simone-weil--W14-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W14-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-14",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W14-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W14-C2-Q2-1",
+          "text": "越界：把扎根解释成文化隔绝和拒绝交流。",
+          "feedback": "错误项“越界：把扎根解释成文化隔绝和拒绝交流。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W14-C2-Q2-2",
+          "text": "边界：按同一段落同时呈现根系与互惠交换。",
+          "feedback": "正确项“边界：按同一段落同时呈现根系与互惠交换。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W14-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W14-C2-Q2-2",
+      "misconceptionId": "simone-weil--W14-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W14-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W14-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-14",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“uprooting through conquest and colonial domination”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W15-C1-Q1-1",
+          "text": "准确：Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。",
+          "feedback": "正确项“准确：Weil 把军事征服、强制迁徙与压制地方传统列为拔根机制，并把殖民处境纳入分析；扎根概念因此不是纯私人乡愁。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W15-C1-Q1-2",
+          "text": "错误：把拔根缩成个人怀旧，与政治支配无关。",
+          "feedback": "错误项“错误：把拔根缩成个人怀旧，与政治支配无关。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W15-C1-Q1-1",
+      "misconceptionId": "simone-weil--W15-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W15-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-15",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W15-C1-Q2-1",
+          "text": "越界：把拔根缩成个人怀旧，与政治支配无关。",
+          "feedback": "错误项“越界：把拔根缩成个人怀旧，与政治支配无关。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W15-C1-Q2-2",
+          "text": "边界：保留文本中的征服、迁徙、殖民与传统压制。",
+          "feedback": "正确项“边界：保留文本中的征服、迁徙、殖民与传统压制。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-rootedness"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W15-C1-Q2-2",
+      "misconceptionId": "simone-weil--W15-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-rootedness"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W15-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W15-P1"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-15",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“industrial and monetary uprooting”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W15-C2-Q1-1",
+          "text": "准确：“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。",
+          "feedback": "正确项“准确：“城市中的拔根”把金钱支配、计件工资与工人在工厂和组织中无家可归的状态联系起来；经济结构是扎根问题的一部分。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-worker"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W15-C2-Q1-2",
+          "text": "错误：把工人拔根完全归咎于个人心理适应失败。",
+          "feedback": "错误项“错误：把工人拔根完全归咎于个人心理适应失败。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-worker"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W15-C2-Q1-1",
+      "misconceptionId": "simone-weil--W15-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-worker"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W15-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-15",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W15-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W15-C2-Q2-1",
+          "text": "越界：把工人拔根完全归咎于个人心理适应失败。",
+          "feedback": "错误项“越界：把工人拔根完全归咎于个人心理适应失败。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-worker"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W15-C2-Q2-2",
+          "text": "边界：绑定到 Part II 的工业和金钱机制。",
+          "feedback": "正确项“边界：绑定到 Part II 的工业和金钱机制。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-nr-worker"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W15-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W15-C2-Q2-2",
+      "misconceptionId": "simone-weil--W15-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-nr-worker"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W15-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W15-P2"
+      ],
+      "targetVoices": [
+        "weil-primary-posthumous"
+      ],
+      "lessonId": "simone-weil--simone-weil-15",
+      "voice": "weil-primary-posthumous"
+    },
+    {
+      "id": "simone-weil--W16-C1-Q1",
+      "kind": "binary",
+      "prompt": "关于“Timaeus as classical object for necessity”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W16-C1-Q1-1",
+          "text": "准确：《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。",
+          "feedback": "正确项“准确：《蒂迈欧》47e–48a 区分理性与必然在宇宙生成中的作用；这是 Weil 后期类比的古典对象，不自动等同她的基督教创造论。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-timaeus"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W16-C1-Q1-2",
+          "text": "错误：把 Plato 的宇宙论直接等同 Weil 的 decreation 神学。",
+          "feedback": "错误项“错误：把 Plato 的宇宙论直接等同 Weil 的 decreation 神学。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-timaeus"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W16-C1-Q1-1",
+      "misconceptionId": "simone-weil--W16-C1-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-timaeus"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W16-P1"
+      ],
+      "targetVoices": [
+        "classical-object"
+      ],
+      "lessonId": "simone-weil--simone-weil-16",
+      "voice": "classical-object"
+    },
+    {
+      "id": "simone-weil--W16-C1-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W16-C1-Q2-1",
+          "text": "越界：把 Plato 的宇宙论直接等同 Weil 的 decreation 神学。",
+          "feedback": "错误项“越界：把 Plato 的宇宙论直接等同 Weil 的 decreation 神学。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-timaeus"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C1"
+          ]
+        },
+        {
+          "id": "simone-weil--W16-C1-Q2-2",
+          "text": "边界：保留古典对象的 Stephanus locator 和理论差异。",
+          "feedback": "正确项“边界：保留古典对象的 Stephanus locator 和理论差异。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-timaeus"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C1"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W16-C1-Q2-2",
+      "misconceptionId": "simone-weil--W16-C1-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-timaeus"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W16-C1"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W16-P1"
+      ],
+      "targetVoices": [
+        "classical-object"
+      ],
+      "lessonId": "simone-weil--simone-weil-16",
+      "voice": "classical-object"
+    },
+    {
+      "id": "simone-weil--W16-C2-Q1",
+      "kind": "binary",
+      "prompt": "关于“Gita object versus Weil cross-traditional reading”哪项由当前证据支持？",
+      "targetNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W16-C2-Q1-1",
+          "text": "准确：《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。",
+          "feedback": "正确项“准确：《薄伽梵歌》2.47 区分行动与行动果实；Weil 对“非行动的行动”的具体笔记使用尚待页码闭合，因此路线只呈现可核对象与 claim-specific pending 的 Weil 阅读，不代表印度传统共识。”由当前 claim 的对象、声部和 source locator 共同承重。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gita",
+            "simone-weil--src-weil-gita-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W16-C2-Q1-2",
+          "text": "错误：把 Weil 的跨传统诠释宣布为《薄伽梵歌》或印度思想的唯一含义。",
+          "feedback": "错误项“错误：把 Weil 的跨传统诠释宣布为《薄伽梵歌》或印度思想的唯一含义。”改变了当前 claim 的对象、声部或文本身份。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gita",
+            "simone-weil--src-weil-gita-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W16-C2-Q1-1",
+      "misconceptionId": "simone-weil--W16-C2-Q1-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gita",
+        "simone-weil--src-weil-gita-reading"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "simone-weil--simone-weil-16",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "simone-weil--W16-C2-Q2",
+      "kind": "binary",
+      "prompt": "当前 claim 的证据边界是什么？",
+      "targetNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "options": [
+        {
+          "id": "simone-weil--W16-C2-Q2-1",
+          "text": "越界：把 Weil 的跨传统诠释宣布为《薄伽梵歌》或印度思想的唯一含义。",
+          "feedback": "错误项“越界：把 Weil 的跨传统诠释宣布为《薄伽梵歌》或印度思想的唯一含义。”造成了作者、编者、对象文本或解释层级的混淆。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "simone-weil--src-gita",
+            "simone-weil--src-weil-gita-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C2"
+          ]
+        },
+        {
+          "id": "simone-weil--W16-C2-Q2-2",
+          "text": "边界：分别标记 canonical verse、Weil pending notebook reading 与路线综合。",
+          "feedback": "正确项“边界：分别标记 canonical verse、Weil pending notebook reading 与路线综合。”保持了当前 claim 的定位和声部边界。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "simone-weil--src-gita",
+            "simone-weil--src-weil-gita-reading"
+          ],
+          "claimNodeIds": [
+            "simone-weil--W16-C2"
+          ]
+        }
+      ],
+      "correctOptionId": "simone-weil--W16-C2-Q2-2",
+      "misconceptionId": "simone-weil--W16-C2-Q2-misconception",
+      "evidenceLinkIds": [
+        "simone-weil--src-gita",
+        "simone-weil--src-weil-gita-reading"
+      ],
+      "objectNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "promptClaimNodeIds": [
+        "simone-weil--W16-C2"
+      ],
+      "targetParagraphIds": [
+        "simone-weil--W16-P2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "simone-weil--simone-weil-16",
+      "voice": "route-synthesis"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

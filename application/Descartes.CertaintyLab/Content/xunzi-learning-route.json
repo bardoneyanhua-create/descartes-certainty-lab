@@ -1,0 +1,4089 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "xunzi-01-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "性恶究竟说了什么",
+      "explanation": "性恶评价的是未经师法和度量的自然起点不能自行产生礼义之善，并非断言人天生残忍或永远不能改变。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-zheng-ming",
+        "xunzi-xing-e",
+        "xunzi-rong-ru"
+      ],
+      "abilityIds": [
+        "性恶评价的是未经师法和度量的自然起点不能自行产生礼义之善，并非断言人天生残忍或永远不能改变。"
+      ]
+    },
+    {
+      "id": "xunzi-02-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "欲望为何会走向争",
+      "explanation": "欲望经由求取，在缺少度量分界且资源有限时走向争乱；礼的任务是导欲、养欲和给求。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-li-lun",
+        "xunzi-rong-ru",
+        "xunzi-zheng-ming"
+      ],
+      "abilityIds": [
+        "欲望经由求取，在缺少度量分界且资源有限时走向争乱；礼的任务是导欲、养欲和给求。"
+      ]
+    },
+    {
+      "id": "xunzi-03-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "化性起伪与圣人难题",
+      "explanation": "伪是心虑后能为、经积习成形的有意活动；人人具有知能条件，但圣人首次创礼的发生仍有难题。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-xing-e",
+        "xunzi-zheng-ming"
+      ],
+      "abilityIds": [
+        "伪是心虑后能为、经积习成形的有意活动；人人具有知能条件，但圣人首次创礼的发生仍有难题。"
+      ]
+    },
+    {
+      "id": "xunzi-04-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "师法、经典与法后王",
+      "explanation": "老师、经典和环境提供可反复校验的模型；法后王偏取近世可考的名制，却仍受道、礼义与实际治效审查。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-quan-xue",
+        "xunzi-xiu-shen",
+        "xunzi-xing-e",
+        "xunzi-fei-xiang",
+        "xunzi-ru-xiao"
+      ],
+      "abilityIds": [
+        "老师、经典和环境提供可反复校验的模型；法后王偏取近世可考的名制，却仍受道、礼义与实际治效审查。"
+      ]
+    },
+    {
+      "id": "xunzi-05-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "积善如何成德",
+      "explanation": "连续小步、专一和环境让礼义进入行动与情感，但积累必须有可说明的方向，次数本身不产生善。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-quan-xue",
+        "xunzi-xiu-shen",
+        "xunzi-ru-xiao"
+      ],
+      "abilityIds": [
+        "连续小步、专一和环境让礼义进入行动与情感，但积累必须有可说明的方向，次数本身不产生善。"
+      ]
+    },
+    {
+      "id": "xunzi-06-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "心怎样知道并行动",
+      "explanation": "天官各接其物，心有征知，能辨同异、理解说故并发令；它需要外部信息和长期训练，并非全知君主。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-zheng-ming",
+        "xunzi-jie-bi"
+      ],
+      "abilityIds": [
+        "天官各接其物，心有征知，能辨同异、理解说故并发令；它需要外部信息和长期训练，并非全知君主。"
+      ]
+    },
+    {
+      "id": "xunzi-07-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "虚壹而静如何解蔽",
+      "explanation": "虚是不让旧知妨碍新知，壹是不让一端伤害另一端，静是不让臆想与扰动破坏判断；三者服务于兼知后的择定。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-jie-bi",
+        "zhuangzi-qi-wu-lun"
+      ],
+      "abilityIds": [
+        "虚是不让旧知妨碍新知，壹是不让一端伤害另一端，静是不让臆想与扰动破坏判断；三者服务于兼知后的择定。"
+      ]
+    },
+    {
+      "id": "xunzi-08-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "正名为何既约定又受约束",
+      "explanation": "声音与对象没有天生绑定，但共同感官可辨对象差异，名称须足以指实、言辞须足以达意；正名同时具有沟通功能和政治风险。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-zheng-ming",
+        "xunzi-fei-shi-er-zi"
+      ],
+      "abilityIds": [
+        "声音与对象没有天生绑定，但共同感官可辨对象差异，名称须足以指实、言辞须足以达意；正名同时具有沟通功能和政治风险。"
+      ]
+    },
+    {
+      "id": "xunzi-09-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "礼义为何被制作",
+      "explanation": "圣王面对欲物失衡和无分则争而制作礼义，使欲与物相持；建构受欲情、亲疏、哀乐和物质条件约束，但不能自动证明每项等级。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-li-lun",
+        "xunzi-xing-e",
+        "xunzi-rong-ru",
+        "xunzi-wang-zhi",
+        "xunzi-fei-xiang"
+      ],
+      "abilityIds": [
+        "圣王面对欲物失衡和无分则争而制作礼义，使欲与物相持；建构受欲情、亲疏、哀乐和物质条件约束，但不能自动证明每项等级。"
+      ]
+    },
+    {
+      "id": "xunzi-10-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "礼怎样养欲、别异并安顿哀情",
+      "explanation": "礼者养也，同时按亲疏、长幼和职分别异；丧祭以形式让情感充分表达又逐渐回归生活。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-li-lun",
+        "xunzi-fu-guo",
+        "xunzi-wang-zhi"
+      ],
+      "abilityIds": [
+        "礼者养也，同时按亲疏、长幼和职分别异；丧祭以形式让情感充分表达又逐渐回归生活。"
+      ]
+    },
+    {
+      "id": "xunzi-11-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "乐如何组织共同情感",
+      "explanation": "正乐借节奏、身体参与和共同场景塑造情感；其公共收益必须接受机会成本检验，不能靠审美价值自动获准。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-yue-lun",
+        "xunzi-li-lun",
+        "xunzi-fei-shi-er-zi",
+        "mozi-fei-yue-shang",
+        "mozi-jian-ai-shang"
+      ],
+      "abilityIds": [
+        "正乐借节奏、身体参与和共同场景塑造情感；其公共收益必须接受机会成本检验，不能靠审美价值自动获准。"
+      ]
+    },
+    {
+      "id": "xunzi-12-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "君子如何成为可持续人格",
+      "explanation": "不苟、荣辱之辨、诚与慎独使长期所学成为内外相符的判断；君子不是出生身份，也不是无条件守成者。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-bu-gou",
+        "xunzi-rong-ru",
+        "xunzi-xiu-shen",
+        "xunzi-quan-xue",
+        "xunzi-jun-zi"
+      ],
+      "abilityIds": [
+        "不苟、荣辱之辨、诚与慎独使长期所学成为内外相符的判断；君子不是出生身份，也不是无条件守成者。"
+      ]
+    },
+    {
+      "id": "xunzi-13-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "人为何能够群",
+      "explanation": "人凭义形成群，群须有分，分须由义运行；义分则和、和则一、一则多力，角色协调不能直接证明固定贵贱。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-wang-zhi",
+        "xunzi-fu-guo",
+        "xunzi-li-lun"
+      ],
+      "abilityIds": [
+        "人凭义形成群，群须有分，分须由义运行；义分则和、和则一、一则多力，角色协调不能直接证明固定贵贱。"
+      ]
+    },
+    {
+      "id": "xunzi-14-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "王制与富国的政治目的",
+      "explanation": "王制以节用裕民、发展生产、爱民、君臣分职、尊贤使能和信用规定政治目的，并区分王、霸与危亡。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-wang-zhi",
+        "xunzi-fu-guo",
+        "xunzi-wang-ba",
+        "xunzi-jun-dao",
+        "xunzi-chen-dao",
+        "xunzi-zhi-shi",
+        "xunzi-qiang-guo"
+      ],
+      "abilityIds": [
+        "王制以节用裕民、发展生产、爱民、君臣分职、尊贤使能和信用规定政治目的，并区分王、霸与危亡。"
+      ]
+    },
+    {
+      "id": "xunzi-15-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "礼法势刑与义兵的执行边界",
+      "explanation": "法度、职位、势与刑禁提供可重复执行，但不能自行产生礼义目的；义兵还须面对合法权威、民众保护、比例、非掠夺与外部检验。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-wang-ba",
+        "xunzi-qiang-guo",
+        "xunzi-zheng-lun",
+        "xunzi-wang-zhi",
+        "xunzi-yi-bing",
+        "hanfeizi-you-du",
+        "hanfeizi-er-bing"
+      ],
+      "abilityIds": [
+        "法度、职位、势与刑禁提供可重复执行，但不能自行产生礼义目的；义兵还须面对合法权威、民众保护、比例、非掠夺与外部检验。"
+      ]
+    },
+    {
+      "id": "xunzi-16-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "天行有常与制天命",
+      "explanation": "天有常行，人有治理职责；制天命而用之是循时、养物和利用常则，不是征服无限可控的自然。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-tian-lun",
+        "xunzi-wang-zhi",
+        "xunzi-jie-bi"
+      ],
+      "abilityIds": [
+        "天有常行，人有治理职责；制天命而用之是循时、养物和利用常则，不是征服无限可控的自然。"
+      ]
+    },
+    {
+      "id": "xunzi-17-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "与孟墨庄法的真实争点",
+      "explanation": "比较须先重建对方最强动机，再说明共享问题、真实分歧与荀子回答的限度；学派名称只是坐标。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "xunzi-xing-e",
+        "xunzi-fei-shi-er-zi",
+        "xunzi-yue-lun",
+        "xunzi-jie-bi",
+        "mengzi-gongsun-chou-i",
+        "mengzi-gaozi-i",
+        "mozi-jian-ai-shang",
+        "mozi-fei-yue-shang",
+        "zhuangzi-qi-wu-lun",
+        "hanfeizi-you-du",
+        "hanfeizi-er-bing"
+      ],
+      "abilityIds": [
+        "比较须先重建对方最强动机，再说明共享问题、真实分歧与荀子回答的限度；学派名称只是坐标。"
+      ]
+    },
+    {
+      "id": "xunzi-18-claim",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从荀况到通行荀子",
+      "explanation": "现存三十二篇经过刘向整理，今序主要承杨倞重编；论说、门人记录、杂纂和外部见证须分层，后世评价也须按时代问题区分。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "liu-xiang-sunqing-shulu",
+        "yang-liang-xunzi-xu",
+        "shiji-mengzi-xunqing",
+        "hutton-xunzi-introduction",
+        "sep-xunzi"
+      ],
+      "abilityIds": [
+        "现存三十二篇经过刘向整理，今序主要承杨倞重编；论说、门人记录、杂纂和外部见证须分层，后世评价也须按时代问题区分。"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "xunzi-xing-e",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第23篇《性恶》；篇首性恶命题、化性起伪、涂之人可以为禹及反驳孟子诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇；主干论证，但篇名和篇界不视为荀况亲定"
+    },
+    {
+      "id": "xunzi-zheng-ming",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第22篇《正名》；性、情、虑、伪、知、能定义，名无固宜、约定俗成、同异与三惑诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-rong-ru",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第4篇《荣辱》；欲恶同物、无分则争及君子小人荣辱判断相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-li-lun",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第19篇《礼论》；礼起于何、欲物相持、养欲给求、贵贱有等及丧祭情感诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-quan-xue",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第1篇《劝学》；学不可以已、近师、入耳著心布四体、积善与锲而不舍诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-xiu-shen",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第2篇《修身》；师法、礼、治气养心与修身标准相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-fei-xiang",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第5篇《非相》；反对相形、法后王、以近知远及名制可考相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-ru-xiao",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第8篇《儒效》；大儒、法后王、统礼义及儒者政治效用相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇，含对话与层累材料可能"
+    },
+    {
+      "id": "xunzi-jie-bi",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第21篇《解蔽》；以一物蔽大道、心知道、虚壹而静与兼知择一诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-fei-shi-er-zi",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第6篇《非十二子》；对诸子一曲之说及子思孟子等的分类批评",
+      "locatorVerified": true,
+      "identity": "X-论说篇；论敌画像须由对手文本复核"
+    },
+    {
+      "id": "xunzi-yue-lun",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第20篇《乐论》；乐合同、礼别异、情感表现与移风易俗诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-bu-gou",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第3篇《不苟》；君子不苟、诚、慎独及行义相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-jun-zi",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第24篇《君子》；君子之德、言行与治乱判断相关段",
+      "locatorVerified": true,
+      "identity": "X-通行本论说材料；篇内层次须审慎"
+    },
+    {
+      "id": "xunzi-wang-zhi",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第9篇《王制》；人能群、分义、举贤、王者之政与养民相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-fu-guo",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第10篇《富国》；节用裕民、生产分工、上下俱富及礼义分配相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-wang-ba",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第11篇《王霸》；王、霸、危亡层级，信用、法度与政治成败相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-jun-dao",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第12篇《君道》；君者仪、用贤、兼听与君主责任相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇，含问答材料"
+    },
+    {
+      "id": "xunzi-chen-dao",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第13篇《臣道》；臣下角色、从道不从君及谏争相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇，含类型化材料"
+    },
+    {
+      "id": "xunzi-zhi-shi",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第14篇《致士》；尊贤使能、得士与政治信用相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-qiang-guo",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第16篇《强国》；强国条件、礼义、民心与秦政观察相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇，含游说与观察材料"
+    },
+    {
+      "id": "xunzi-zheng-lun",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第18篇《正论》；刑罚、威严、政治名实与古今争论相关段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "xunzi-yi-bing",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第15篇《议兵》；临武君与孙卿子问答、仁义之兵、民附与非掠夺相关段",
+      "locatorVerified": true,
+      "identity": "X-门人记；第三人称“孙卿子”提示门人记录或编辑层"
+    },
+    {
+      "id": "xunzi-tian-lun",
+      "workId": "xunzi",
+      "edition": "《荀子》三十二篇通行本电子定位",
+      "locator": "第17篇《天论》；天行有常、天人之分、人祅、祭祀文饰与制天命而用之诸段",
+      "locatorVerified": true,
+      "identity": "X-论说篇"
+    },
+    {
+      "id": "mengzi-gaozi-i",
+      "workId": "mengzi",
+      "edition": "《孟子》通行本电子定位",
+      "locator": "《告子上》性善辩论、杞柳与湍水之喻、仁义及心之所同然相关章",
+      "locatorVerified": true,
+      "identity": "外部儒家对手文本；孟子材料经门人传承编定"
+    },
+    {
+      "id": "mengzi-gongsun-chou-i",
+      "workId": "mengzi",
+      "edition": "《孟子》通行本电子定位",
+      "locator": "《公孙丑上》不忍人之心、恻隐羞恶辞让是非四心及四端扩充相关章",
+      "locatorVerified": true,
+      "identity": "外部儒家对手文本；孟子材料经门人传承编定"
+    },
+    {
+      "id": "mozi-jian-ai-shang",
+      "workId": "mozi-jiangu",
+      "edition": "孙诒让《墨子间诂》电子定位",
+      "locator": "卷四《兼爱上》；察乱所自起、兼相爱与交相利相关段",
+      "locatorVerified": true,
+      "identity": "墨家传世文本；篇组存在层次，不无差别署为墨翟亲笔"
+    },
+    {
+      "id": "mozi-fei-yue-shang",
+      "workId": "mozi-jiangu",
+      "edition": "孙诒让《墨子间诂》电子定位",
+      "locator": "卷八《非乐上》；兴天下之利、万民之利、衣食成本与礼乐奢费审查诸段",
+      "locatorVerified": true,
+      "identity": "墨家传世文本；以公利和机会成本审查礼乐"
+    },
+    {
+      "id": "zhuangzi-qi-wu-lun",
+      "workId": "zhuangzi",
+      "edition": "《庄子》通行本电子定位",
+      "locator": "内篇第二《齐物论》；成心、彼是、道行之而成与语言分类相关段",
+      "locatorVerified": true,
+      "identity": "《庄子》内篇相关文本；作者与成书层次仍须保留"
+    },
+    {
+      "id": "hanfeizi-you-du",
+      "workId": "hanfeizi",
+      "edition": "《韩非子》通行本电子定位",
+      "locator": "第6篇《有度》；个人察官不足、因法数、审赏罚、任势与法不阿贵相关段",
+      "locatorVerified": true,
+      "identity": "战国末法家相关文本；韩非师承传统不等于荀子立场"
+    },
+    {
+      "id": "hanfeizi-er-bing",
+      "workId": "hanfeizi",
+      "edition": "《韩非子》通行本电子定位",
+      "locator": "第7篇《二柄》；刑德、赏罚中枢、循名责实与防臣欺相关段",
+      "locatorVerified": true,
+      "identity": "战国末法家相关文本；用于制度可靠性比较"
+    },
+    {
+      "id": "shiji-mengzi-xunqing",
+      "workId": "shiji",
+      "edition": "《史记》卷七十四通行本电子定位",
+      "locator": "卷七十四《孟子荀卿列传》第十四；荀卿游齐、三为祭酒、适楚与兰陵相关记载",
+      "locatorVerified": true,
+      "identity": "T-外部见证；司马迁史传叙事"
+    },
+    {
+      "id": "liu-xiang-sunqing-shulu",
+      "workId": "quan-han-wen",
+      "edition": "严可均辑《全汉文》所收佚文电子定位",
+      "locator": "《孙卿书录》；三百二十二篇校除复重二百九十篇、定著三十二篇及人物叙录",
+      "locatorVerified": true,
+      "identity": "E-汉代编纂见证；刘向校书叙录，经后世辑佚保存"
+    },
+    {
+      "id": "yang-liang-xunzi-xu",
+      "workId": "xunzi-commentary",
+      "edition": "唐元和十三年序文电子定位",
+      "locator": "《荀子序》；重编旧第为二十卷、校勘注释缘起与评价相关段",
+      "locatorVerified": true,
+      "identity": "E-唐代编纂与注释见证；杨倞序，不是战国原命题"
+    },
+    {
+      "id": "hutton-xunzi-introduction",
+      "workId": "hutton-xunzi-complete-text",
+      "edition": "Princeton University Press, 2014, publisher preview",
+      "locator": "Introduction；生平证据、文本形成、三十二篇传承与哲学主题说明",
+      "locatorVerified": true,
+      "identity": "M-现代研究与英译本导论"
+    },
+    {
+      "id": "sep-xunzi",
+      "workId": "stanford-encyclopedia-xunzi",
+      "edition": "Stanford Encyclopedia of Philosophy current online edition",
+      "locator": "全文各节；文本、性、心知、礼乐、语言、天与政治的研究综述及书目",
+      "locatorVerified": true,
+      "identity": "M-现代研究综述"
+    }
+  ],
+  "routes": [
+    {
+      "id": "xunzi-longform",
+      "version": "1.0.0",
+      "title": "荀子：从性、心与礼义到政治和文本",
+      "lessonIds": [
+        "xunzi-01",
+        "xunzi-02",
+        "xunzi-03",
+        "xunzi-04",
+        "xunzi-05",
+        "xunzi-06",
+        "xunzi-07",
+        "xunzi-08",
+        "xunzi-09",
+        "xunzi-10",
+        "xunzi-11",
+        "xunzi-12",
+        "xunzi-13",
+        "xunzi-14",
+        "xunzi-15",
+        "xunzi-16",
+        "xunzi-17",
+        "xunzi-18"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "xunzi-01",
+      "order": 1,
+      "title": "性恶究竟说了什么",
+      "depth": "longform",
+      "guidingQuestion": "若人能够学习成德，性恶为何不是一句自相矛盾的判词？",
+      "coreExplanation": "性恶评价的是未经师法和度量的自然起点不能自行产生礼义之善，并非断言人天生残忍或永远不能改变。",
+      "sections": [
+        {
+          "heading": "判词的压力",
+          "paragraphs": [
+            "若性恶等于每个人天生爱好伤害，教育只能压住一个始终不变的内核，成德便没有真正意义。",
+            "荀子却反复谈学习、积习和普通人成圣的可能，这迫使性恶与不可改变分开。",
+            "理解的起点不是替古人减轻语气，而是查看性、情、欲和恶各自在论证中承担什么。",
+            "“性恶”最容易令人误会的地方，是把一个关于规范起点的判断听成关于人格终局的宣判。荀子关心的并不是婴儿是否怀着残暴计划，而是耳目欲求、趋利避害和喜怒好恶若只依眼前对象运行，能否自己生成辞让、公正与稳定秩序。他的回答是否定的，但这个否定只限定自然起点的能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "性与情欲",
+          "paragraphs": [
+            "《正名》把生而然、不待人为而有者称为性，把好恶喜怒哀乐称为情。",
+            "《性恶》举好利、疾恶和耳目声色之欲，说明自然倾向首先朝向切近对象。",
+            "这些倾向没有自带公共分寸，因而不能单靠自身形成辞让和礼义。",
+            "《正名》的定义材料十分关键，因为它把性、情、虑、伪、知与能放在相互关联的位置。生而有感官与情欲，也生而有知能；前者说明人为何会被切近对象吸引，后者说明人为何能够比较、学习和改变。若只摘取《性恶》的好利例子，不看《正名》的认知条件，荀子便会被写成一个无法解释教育的悲观主义者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "恶的尺度",
+          "paragraphs": [
+            "恶不是一种藏在身体里的物质，而是从礼义之善回看自然起点所得的规范评价。",
+            "顺着欲情行动若没有师法和度量，容易使争夺替代辞让，使混乱替代治理。",
+            "所以论证只说起点不足，尚未说每一次欲求都已经伤人。",
+            "果子情境可以继续向前推演。两人都想先拿，最初只是同欲；其中一人抢走全部，另一人预期以后也会被排除，于是隐藏、争夺和报复相继出现。若双方引入轮次并允许核对数量，欲求仍在，却不再直接决定取物方式。改变发生在欲求与行动之间，那里正是思虑、规则与习惯进入之处。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "果子的情境",
+          "paragraphs": [
+            "孩子想拿果子是可理解的欲求，另一人也有同样欲求，冲突来自双方没有共同轮次。",
+            "若他们学会按人数分配并愿意等待，欲望没有被根除，行动方式却已经改变。",
+            "这个变化正显示自然起点与后来品格不能混为一件事。",
+            "反对者仍可指出，荀子把不经学习的欲情叫作性，却把同样生而具有的认知能力主要当作成善条件，这种划界并非没有理论代价。孟子会追问，人在见到他人受苦时出现的不忍，是否也是自然起点的一部分。双方争的并非一句乐观或悲观，而是哪些倾向足以被称为道德开端。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "定义的异议",
+          "paragraphs": [
+            "反对者可以追问：既然人天生有知与能，为何这种可善的条件不算性中的善。",
+            "荀子可回答，一般能力尚未带有道德方向，能学礼不等于已经愿意行礼。",
+            "荀子的回应能够说明一般知能为何不等于现成善端：会计算并不保证计算方向合义，会模仿也不保证模仿对象可靠。可是这只能使他的用法变得连贯，不能让孟子的用法失去讨论资格。若把定义差异宣布为已经裁决的事实，恰好会违背他要求辨名析实的谨慎。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "可说与不可说",
+          "paragraphs": [
+            "这个回答说明他为何强调外在规范，却不能证明孟子的性之用法必定错误。",
+            "下一步需要考察欲求怎样经过无分的求取走向争，而不能把有欲直接判作有罪。",
+            "《性恶》属于通行本前部论说材料，但篇名可能经过汉代整理，不能把两个字当作荀况亲自给出的全部摘要。较稳妥的说法是，通行《荀子》的相关段落形成一套起点不足而可经人为改变的论证；谈到荀况本人时，还要保留编纂与篇界的证据强度。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从自然起点到可改变的人",
+          "paragraphs": [
+            "由此得到的不是“欲望有罪”，而是一个更细的问题：欲望通过哪些中介造成争乱。只有把欲、求、无度量分界和资源条件逐步接起，礼义的必要性才不会靠恐吓成立。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "两个孩子都想先拿稀少的果子，欲求本身尚不是伤害；若没有轮次、辞让和可共同说明的尺度，抢夺才成为可预见的结果。",
+      "nodeIds": [
+        "xunzi-01-claim"
+      ],
+      "checkIds": [
+        "x01q1",
+        "x01q2",
+        "x01q3",
+        "x01q4"
+      ],
+      "abilitySummary": [
+        "性恶评价的是未经师法和度量的自然起点不能自行产生礼义之善，并非断言人天生残忍或永远不能改变。"
+      ],
+      "recommendedNextLessonId": "xunzi-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-02",
+      "order": 2,
+      "title": "欲望为何会走向争",
+      "depth": "longform",
+      "guidingQuestion": "欲望既不可免，争乱为何发生，又为何不必靠消灭欲望治理？",
+      "coreExplanation": "欲望经由求取，在缺少度量分界且资源有限时走向争乱；礼的任务是导欲、养欲和给求。",
+      "sections": [
+        {
+          "heading": "从欲到争的距离",
+          "paragraphs": [
+            "人有欲并不等于人已经作恶，因为欲而不得之后还有如何求取的问题。",
+            "《礼论》把关键放在求无度量分界，争乱并非从欲望中瞬间跳出。",
+            "这条中介链保护了欲望的正当位置，也说明治理为何需要共同尺度。",
+            "《礼论》开头先承认人生而有欲，欲而不得则求。这个顺序使治理不能从命令人停止需要开始，因为饥饿、口渴、安居和被承认的愿望并不会因禁令消失。真正需要解释的是求取怎样越过他人的同样需要，以及共同生活为何会因缺少分界而失去生产和信任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "有限物与同欲",
+          "paragraphs": [
+            "许多人会欲求相近之物，而财物、时间和照料能力总有边界。",
+            "若谁先有力量谁便取得全部，求取会把同欲变成相互防范。",
+            "争使生产和信任受损，物资更少，于是乱又加深穷。",
+            "水源情境若只说建立配额还不够。首先要确认总水量和最低生存需要，再公开优先次序，让病者、幼者和供水劳动得到可说明安排；随后还要记录领取并允许纠错。每一步都把私下抢夺转为可见判断。配额若由掌权者暗改，制度便把原有争夺藏进程序，而非真正解除冲突。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "导欲而非去欲",
+          "paragraphs": [
+            "《正名》反对把去欲当作治理前提，因为活着便有身体需要和趋避。",
+            "礼义要做的是给欲求以表达和满足的路径，同时限定彼此侵夺。",
+            "能够养欲的尺度才有持续性，只凭压抑会让需要转入隐蔽冲突。",
+            "这也说明“无分则争”不是赞美任何分界。一个把多数水源留给宫室的规则同样有分，却使基本需要无法获得满足。礼义若以养欲给求为理由，就必须接受反向检验：它是否让欲与物较长久地相持，是否降低争夺，是否让承担成本者能够理解并质疑安排。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "水源的情境",
+          "paragraphs": [
+            "灾后居民口渴，命令众人不再想喝水既无效也残酷。",
+            "按人口、健康和急迫程度建立可说明的配额，才把求取变成协调。",
+            "若掌权者暗中多占，规则本身又会成为争乱的新来源。",
+            "制度性异议还可再深入一层。战争、土地兼并和强制征发会主动制造短缺，受害者的求取并非普遍贪婪的表现。若统治者先夺走粮食，再用性欲无度解释饥民争食，欲望理论便成了推卸责任的工具。因此冲突链既约束个人，也必须回到权力如何配置物资。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "制度制造稀缺",
+          "paragraphs": [
+            "反对者因此指出，贫困未必源于人人贪多，也可能源于少数人的垄断。",
+            "荀子的欲望模型必须接受这项补问：谁制定分界，谁从分界得利。",
+            "荀子能够回应的部分，是把节用、裕民和养欲纳入后来的政治标准，使制度本身不能脱离民生接受评价。他难以充分回应的部分，是谁拥有制定和修改分界的平等资格。战国文本多从善治者的位置设计秩序，缺少受影响者独立授权与问责的安排，这项距离不应被后来的善意补写。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "走向有意规范",
+          "paragraphs": [
+            "欲望链说明某种公共尺度必要，却没有证明任何现行尺度都正当。",
+            "尺度不能由即时欲望自行给出，接着便要说明心虑后的有意活动怎样产生改变。",
+            "原典身份也帮助避免跨篇拼接。《礼论》提供欲求链，《正名》明确反对去欲，《荣辱》补充同欲与无分的冲突。这是一项跨篇重构，不能伪装成某一段已经陈列完毕的现成公式；每一篇关注的语境不同，合读时须说明依赖关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从同欲到制度责任",
+          "paragraphs": [
+            "当欲望不能自行给出共同尺度，而尺度又不能只是强者命令，问题便转向人的有意活动。心能否比较旧办法、预见争乱并造出可修订规则，是化性起伪必须承担的下一道压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "灾后水源有限，禁止口渴毫无意义；公开配额、优先次序与节用规则却能让共同需要不必变成抢夺。",
+      "nodeIds": [
+        "xunzi-02-claim"
+      ],
+      "checkIds": [
+        "x02q1",
+        "x02q2",
+        "x02q3",
+        "x02q4"
+      ],
+      "abilitySummary": [
+        "欲望经由求取，在缺少度量分界且资源有限时走向争乱；礼的任务是导欲、养欲和给求。"
+      ],
+      "recommendedNextLessonId": "xunzi-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-03",
+      "order": 3,
+      "title": "化性起伪与圣人难题",
+      "depth": "longform",
+      "guidingQuestion": "善若不从自然欲情自行长出，人凭什么创造并学习礼义？",
+      "coreExplanation": "伪是心虑后能为、经积习成形的有意活动；人人具有知能条件，但圣人首次创礼的发生仍有难题。",
+      "sections": [
+        {
+          "heading": "改变的逻辑压力",
+          "paragraphs": [
+            "若善不在自然起点，人仍须有某种能力看见冲突、比较办法并改变行动。",
+            "荀子没有把改变交给神迹，而把它放在心虑后能为的伪。",
+            "伪与欺骗无关，它指向人为、有意和可反复形成的活动。",
+            "把伪译成虚假会破坏整条论证。《正名》所说的是心虑而能为之动，以及思虑积累、能力练熟以后形成的活动。伪强调人为、加工和可学习，正如木材依绳墨成直并不意味着木材在骗人。善若要出现，就须通过这类有方向的加工进入行动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "知与能",
+          "paragraphs": [
+            "普通人有可以认识仁义法正的质，也有可以实行它们的具。",
+            "这种说法为学习打开可能，却不等于人已经拥有稳定的仁义欲求。",
+            "能辨理由只是必要条件，选择、师法和积习仍决定能力朝向何处。",
+            "分水轮值的形成可以看得更细。众人先记住旧办法反复失败，再比较争斗、平均和按急迫分配的后果；提出者还要让他人理解理由，并在旱情变化时修订比例。规则不是本能突然吐出的成品，而是观察、思虑、试行和积习连接起来的结果。这正是伪比一次念头更厚的地方。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "化性不是毁性",
+          "paragraphs": [
+            "化性改变的是欲情进入行动的方式，而不是消灭感官和情绪。",
+            "礼义借由伪形成法度，使人能在欲求之间建立可持续分寸。",
+            "涂之人可以为禹因此是能力与实践命题，不是人人自然都会成禹。",
+            "普通人可以知仁义法正，也可以能仁义法正，为教育提供了不可缺少的能力底座。可是“可以”只说明通道存在，不说明每个人已经到达，也不说明社会给了相同机会。知能可能服务掠夺，也可能因贫困和恐惧难以持续，故涂之人可以为禹不能被读成现实门槛已经消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "轮值的情境",
+          "paragraphs": [
+            "反复争水使众人承受代价，有人记下后果并提出轮值。",
+            "规则经过试行修正，显示人为制作能够回应人情和物资条件。",
+            "它仍需要众人愿意接受理由，不能由发明者的身份自动获得正当。",
+            "圣人难题由此变得尖锐。如果圣人依礼义而成，礼义却又由圣人制作，那么首次创制似乎在解释中转了一圈。说圣人更聪明只能指出能力差异，仍未说明没有既成标准时，他为何把某种秩序看作义而非更有效的控制。这是发生学问题，不是对圣人品格的赞叹问题。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "圣人的循环",
+          "paragraphs": [
+            "最强追问是：若圣人靠礼成圣，在无礼之初是谁创造了礼。",
+            "把圣人说成天才只能重述差异，不能解释规范如何首次出现。",
+            "可以缓解循环的办法，是把创制理解为多代经验的累积：失败造成可见代价，较好的安排保存下来，后来者再加统合与命名。这样圣人不是凭空发明，而是善于察看人情物理并整理前代所得。不过现存材料没有详尽描述这一历史过程，所以缓解不能冒充文本已经给出的完整答案。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "保留缺口",
+          "paragraphs": [
+            "前代经验、长期试错和较强统合能力可以缓解循环，却没有完全关闭它。",
+            "既然一般能力不能保证方向，接着必须说明老师、经典和可核制度为何重要。",
+            "《性恶》的圣人与涂人段和《正名》的伪之定义共同支撑这套解释。两处都是论说材料，却承担不同任务：前者说明成善可能与圣人创制，后者给出心理活动的术语结构。把它们合读时应标明体系重构，而非拼成一段虚构引文。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "有意活动与创制循环",
+          "paragraphs": [
+            "伪证明改变在逻辑上可能，仍未说明方向怎样被可靠传递。没有老师、典籍和可核制度，后来者只能不断重做首次发现。于是讨论必须转向外在规范从何进入，以及近世材料为何比渺远传说更能接受查验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一群人反复遭遇分水冲突，其中有人比较旧办法、提出轮值并接受修正；规则出自思虑与试行，而非身体本能。",
+      "nodeIds": [
+        "xunzi-03-claim"
+      ],
+      "checkIds": [
+        "x03q1",
+        "x03q2",
+        "x03q3",
+        "x03q4"
+      ],
+      "abilitySummary": [
+        "伪是心虑后能为、经积习成形的有意活动；人人具有知能条件，但圣人首次创礼的发生仍有难题。"
+      ],
+      "recommendedNextLessonId": "xunzi-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-04",
+      "order": 4,
+      "title": "师法、经典与法后王",
+      "depth": "longform",
+      "guidingQuestion": "外在规范怎样既可追溯、可学习，又不因古老或较近便自动取得权威？",
+      "coreExplanation": "老师、经典和环境提供可反复校验的模型；法后王偏取近世可考的名制，却仍受道、礼义与实际治效审查。",
+      "sections": [
+        {
+          "heading": "规范从何进入",
+          "paragraphs": [
+            "一般知能可以比较办法，却不能凭空获得一套经过检验的判断尺度。",
+            "老师展示活的判断，经典保存可复查的言行，环境则让选择持续受到影响。",
+            "学习因此不只是增加见闻，而是改变听、言、行和身体习惯。",
+            "《劝学》的木受绳、金就砺并不只是在赞美勤奋，它强调改变需要可对照的外在尺度。老师把判断落实在应对、言语和动作中，典籍让经验可以跨时保存，交游环境则不断奖励或惩罚某种行为。三者共同解释规范为何不是听过一句格言便自然留在心里。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "法后王的证据理由",
+          "paragraphs": [
+            "渺远先王容易被托古者任意描画，留下的制度痕迹和名物解释也较难核实。",
+            "近世王制与名制距离较近，记录、用法和后果更容易交叉查验。",
+            "法后王首先是历史可知性与制度可操作性的选择，不是时间越晚价值越高。",
+            "法后王处理的是另一种证据难题。越古老的先王越容易被不同论者塑造成自己需要的样子，器物、官名和制度后果也难核。较近王制留下更多记录，名物在现实用法中较清楚，人可以从近知远。优势在可追问、可比较和可操作，而不是年代本身具有道德光环。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "可核不等于正当",
+          "paragraphs": [
+            "保存清楚的暴政成例仍是暴政，名物可用也不能让不义制度变善。",
+            "后王制度须与道和礼义互校，并观察它是否养民、止争且容纳贤能。",
+            "老师、经典、制度与实际后果由此形成多向审查，而非单一服从链。",
+            "土地档案的案例须经过两次判断。第一次问档案是否真实记录边界、税负和申诉，解决的是历史可知性；第二次问这些安排是否养民、止争并符合礼义，解决的是规范正当性。若跳过第二次，法后王会沦为遵循现状；若跳过第一次，评古论今又容易变成托古想象。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "土地档案的情境",
+          "paragraphs": [
+            "远古传说只说祖先曾分地，近世档案却能显示边界、税负和申诉过程。",
+            "档案使争议可核，但若程序排除弱者，清楚记录反而暴露其不义。",
+            "法后王的优势在可检查，最终判断仍需规范理由。",
+            "老师与经典也面临同样双重审查。真师可能示范如何举一反三，伪师也可能要求学生以服从维护其地位；经典能保存反复检验的判断，也会被断章取义。荀子的资源在于让师、经、后王名制、道与治效互校，而不是把任一来源升为不会出错的裁判。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "权威的危险",
+          "paragraphs": [
+            "反对者可以指出，老师会误导，经典会被选择性解释，近制会维护掌权者。",
+            "荀子的互校办法减少盲从，却没有提供独立于传统权威的平等问责。",
+            "更深的异议是，所有校验标准仍可能由同一精英传统掌握。若受害者的经验无法进入解释，几种权威彼此一致也可能只是封闭回声。荀子没有提出公开平等的审议制度，现代阐释只能指出缺口，不能把后来的权利结构悄悄安放进他的师法说。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从输入到内化",
+          "paragraphs": [
+            "这一思路回答可学对象从哪里来，并未说明学习如何成为稳定品格。",
+            "接着要考察反复、专一与环境怎样把外在模型变成积善成德。",
+            "《非相》关于法后王、以近知远的论证与《儒效》的儒者效用，为历史可知性提供直接位置；《劝学》《修身》《性恶》则说明师法如何改变人。这些均属通行本论说材料，但跨篇连接是解释者的工作，引用时须逐一交代每一环来自哪里。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "可追溯的学习对象",
+          "paragraphs": [
+            "外在来源即使可信，也只是把可学模型送到人面前。模型怎样通过重复而成为不因监督消失的品格，是积善成德要回答的另一问题。输入与内化若混成一句多读书，荀子的实践结构便会消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "处理一场土地纠纷时，近世档案比远古传说更能核对程序，但档案若记载掠夺惯例，仍不能因保存清楚便照办。",
+      "nodeIds": [
+        "xunzi-04-claim"
+      ],
+      "checkIds": [
+        "x04q1",
+        "x04q2",
+        "x04q3",
+        "x04q4"
+      ],
+      "abilitySummary": [
+        "老师、经典和环境提供可反复校验的模型；法后王偏取近世可考的名制，却仍受道、礼义与实际治效审查。"
+      ],
+      "recommendedNextLessonId": "xunzi-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-05",
+      "order": 5,
+      "title": "积善如何成德",
+      "depth": "longform",
+      "guidingQuestion": "为什么一次知道还不够，反复实践又怎样避免沦为熟练服从？",
+      "coreExplanation": "连续小步、专一和环境让礼义进入行动与情感，但积累必须有可说明的方向，次数本身不产生善。",
+      "sections": [
+        {
+          "heading": "一次行动的不足",
+          "paragraphs": [
+            "知道分配应公平，不等于面对利益时已经能稳定照办。",
+            "品格要求理由在不同处境中反复转化为动作、语气和取舍。",
+            "荀子用积土、跬步和锲刻说明微小连续行动可以造成质变。",
+            "积土成山、积水成渊和不积跬步的譬喻共同强调，稳定能力由许多微小行动构成。一次公平分配可能出于偶然，一再面对利益仍按可说明尺度行动，才显示理由已进入倾向。质变不是神秘跳跃，而是每次选择逐渐改变下一次选择的难度。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "专一与环境",
+          "paragraphs": [
+            "专一不是拒绝新证据，而是不同时追随彼此冲突的行为标准。",
+            "交游和居处不断提供模仿对象，也改变某种行动需要付出的代价。",
+            "所以德性形成既有个人坚持，也有社会环境的长期塑形。",
+            "称粮情境可以追踪这项机制。分配者先使用公开砝码，再让领取者看见读数，随后记录差额并接受复核；日复一日，他对暗中多取的诱惑较易识别，旁人也形成可预期信任。行动、反馈和环境共同塑形，并非孤立意志靠次数自行增强。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "第二自然",
+          "paragraphs": [
+            "反复行礼最初可能需要提醒，后来会进入身体姿态和情感预期。",
+            "这种稳定让人在无人监督时也能按理由行动，而非只怕惩罚。",
+            "外在规范由此成为可持续人格，却没有变回出生时的自然倾向。",
+            "但若砝码从一开始便偏向权贵，熟练会使不义更高效。积习只能说明路径怎样稳定，不能从稳定本身推出善。所谓积善必须先对“善”给出方向，而这个方向要接受心的判断、礼义的功能和受影响者处境的检验，否则循环定义会把任何成功习惯叫作德。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "称粮的情境",
+          "paragraphs": [
+            "公开称量使分配者每天面对相同的可核标准。",
+            "记录与复核让一次诚实变成稳定做法，也让偏差能够被发现。",
+            "若标准本身偏袒权贵，熟练执行只会使错误更牢固。",
+            "异议的第二层涉及起点差异。身处饥饿、创伤或持续威胁的人，注意力和行动空间都被压缩；有良师、闲暇和安全者则更易保持专一。荀子重环境，却没有充分展开资源不平等怎样影响成德机会。人人有能力不能直接推出人人拥有相等路径。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "反复的限度",
+          "paragraphs": [
+            "反对者提醒，次数只能加强路径，不能判断路径是否正当。",
+            "处境艰难者也未必拥有同样时间、安全与支持来维持实践。",
+            "可作的回应是承认环境属于成德机制，而非把失败全归个人懈怠。改善交游、制度和物质支持，与要求个人锲而不舍并不冲突。不过这种回应只是从荀子重习染的思路延伸，不能声称原典已经形成现代结构性不平等理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "需要一个判断者",
+          "paragraphs": [
+            "积善必须由能够比较标准、接收感知并决定行动的心来定向。",
+            "接着要进入天官与心有征知，说明学习并非没有主体的灌输。",
+            "《劝学》提供积累、锲刻、蚓蟹和专一的密集譬喻，《修身》把礼与治气养心相连，《儒效》又谈积习及儒者效用。三者共同支撑第二自然式解释，但“第二自然”是现代概括，应与原典措辞区分。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "积累为何不是机械重复",
+          "paragraphs": [
+            "积累若要有方向，就预设一个能接收感官材料、辨别同异并发出行动命令的心。下一步不是把心当作神秘灵魂，而是拆开天官、征知、虑与能为之间的工作关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "负责分配粮食的人每天公开称量、记录和复核，久而形成不占便宜的习惯；若他反复做的是偏袒，熟练只会加深不义。",
+      "nodeIds": [
+        "xunzi-05-claim"
+      ],
+      "checkIds": [
+        "x05q1",
+        "x05q2",
+        "x05q3",
+        "x05q4"
+      ],
+      "abilitySummary": [
+        "连续小步、专一和环境让礼义进入行动与情感，但积累必须有可说明的方向，次数本身不产生善。"
+      ],
+      "recommendedNextLessonId": "xunzi-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-06",
+      "order": 6,
+      "title": "心怎样知道并行动",
+      "depth": "longform",
+      "guidingQuestion": "感官接触众多事物之后，什么使信息成为判断、理由和行动？",
+      "coreExplanation": "天官各接其物，心有征知，能辨同异、理解说故并发令；它需要外部信息和长期训练，并非全知君主。",
+      "sections": [
+        {
+          "heading": "感官的簿录",
+          "paragraphs": [
+            "眼耳口鼻和形体各自接触颜色、声音、味道与触感。",
+            "感官能够留下差异，却不会单独说明这些差异意味着什么。",
+            "若把看见等同于理解，就无法解释同一景象为何产生不同判断。",
+            "《正名》把眼耳口鼻形体称为天官，各自接触相应对象。颜色、声音和滋味先留下差异，心才可能据此辨同异、命名并说明原因。若没有感官簿录，心没有材料；若只有簿录，人又无法从听到脚步推进到判断来者身份与行动风险。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "心有征知",
+          "paragraphs": [
+            "心依据感官簿录辨同异，并能追问名称、原因和行动后果。",
+            "它把分散信息放进同一判断，使人能喜怒爱恶欲并形成志。",
+            "心虑后能够实行的动作，又与伪的有意活动相接。",
+            "守门情境可以逐层展开。他先听见断续响声，再比较风向、地面回声和旧日脚步；询问同伴所见以后，原来的野兽判断可能改为来人。最后决定开门或示警，还要考虑误判两边的代价。感知、征知、说故和发令由此是连续环节，不是一瞬直觉。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "统合而非独断",
+          "paragraphs": [
+            "心被称为形之君，强调它在行动中有统合和发令位置。",
+            "君的比喻不表示心可脱离身体，也不表示命令一出习惯便服从。",
+            "感官错误、旧见偏蔽和环境压力都会使判断失准。",
+            "心为形之君说明它具有统合和命令位置，却不表示身体只是被动臣民。疲惫会缩窄注意，恐惧会放大某些声响，积习会让反应先于反思。心若想改变这些倾向，需要长期训练和环境支持，不能像君主下令那样当场让情绪消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "夜响的情境",
+          "paragraphs": [
+            "耳听见响动，却不能仅凭响度决定是否有危险。",
+            "守门人比较风向、脚步节奏和同伴所见，才形成较可靠解释。",
+            "若他执着旧有恐惧，同样资料仍可能被统合成错误结论。",
+            "最强异议因此不是否认心有统合功能，而是质疑君主比喻是否夸大控制。现代经验提醒人，创伤、成瘾和无意识偏见会同时塑造感知与判断。荀子可以借师法、积习和治气养心承认间接改变，却没有提供与现代心理机制相同的说明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "意志模型的边界",
+          "paragraphs": [
+            "反对者指出，人不能总靠一句命令消除愤怒、恐惧或成瘾。",
+            "荀子的长期学习说反而承认，心的能力须借环境和习惯才能稳定。",
+            "回应还须保留知识限度。心能把资料放在一起，不等于它拥有全部资料；能够给出理由，也不等于理由不受权力和旧见影响。征知是一种能力命题，而不是每次判断的真实性保证。正因为会错，后面的解蔽才有必要。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "为何会蔽",
+          "paragraphs": [
+            "能够统合不保证统合全面，一端知识也可能遮住其他证据。",
+            "接着须解释心如何保持开放、兼顾多端，并在不紊乱中择定。",
+            "《正名》的天官与征知段主要承担认知分类任务，《解蔽》的心者形之君则置于偏蔽与大道语境。合读能够呈现认知和行动中枢，但不能抹掉两篇关注点。所谓中枢是解释概括，不应伪作荀子已有现代心灵模型。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "认知中枢的条件与限度",
+          "paragraphs": [
+            "当心把一端经验当作全部，它越能统合，错误也可能越稳定。虚壹而静要处理的正是这种有知识仍会受蔽的情形，并须同时面对《庄子》对成心和固定分类的警告。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "夜间守门人听见异响，耳只提供声音；心结合距离、旧经验和同伴报告，才判断是风、动物还是来人。",
+      "nodeIds": [
+        "xunzi-06-claim"
+      ],
+      "checkIds": [
+        "x06q1",
+        "x06q2",
+        "x06q3",
+        "x06q4"
+      ],
+      "abilitySummary": [
+        "天官各接其物，心有征知，能辨同异、理解说故并发令；它需要外部信息和长期训练，并非全知君主。"
+      ],
+      "recommendedNextLessonId": "xunzi-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-07",
+      "order": 7,
+      "title": "虚壹而静如何解蔽",
+      "depth": "longform",
+      "guidingQuestion": "心既不能忘掉旧知，也不可能停止活动，它怎样避免一端知识遮住大道？",
+      "coreExplanation": "虚是不让旧知妨碍新知，壹是不让一端伤害另一端，静是不让臆想与扰动破坏判断；三者服务于兼知后的择定。",
+      "sections": [
+        {
+          "heading": "部分真理的危险",
+          "paragraphs": [
+            "偏蔽不必来自全然无知，一个人可能准确看见一端，却让它遮住其他关系。",
+            "《解蔽》批评诸子各执一曲，问题在局部所得被提升为全部。",
+            "因此纠偏不是把已有知识清空，而是改变知识进入判断的方式。",
+            "《解蔽》并不把错误者描写成什么都不知道。墨子、宋子、慎子、申子、惠子、庄子各见一端，问题是所见之曲遮蔽大道。这使解蔽成为知识者的自我限制：越确信自己抓住要点，越要问还有哪些材料被当前框架排除。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "虚的开放",
+          "paragraphs": [
+            "虚不要求忘记旧知，而是不让旧知占满接受新证据的位置。",
+            "已有经验仍可参与比较，只是不能预先裁掉所有不相合资料。",
+            "这种开放使修正成为可能，也避免把无知误作纯净。",
+            "医者的过程可展示虚、壹、静怎样相互支持。旧诊断解释疲劳，却无法解释高热；虚使感染证据不因旧经验被拒，壹使症状、检验与用药风险进入同一判断，静使突发恐惧不把可能感染夸成必死。最终择定仍可修订，而非假装没有立场。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "壹与静",
+          "paragraphs": [
+            "壹不是只想一物，而是让多端在同一方向中不互相伤害。",
+            "静不是心停止活动，而是不让梦、臆想和惊扰破坏分辨。",
+            "虚、壹、静共同使心兼知诸端之后仍能形成可行动判断。",
+            "虚若被写成忘掉知识，人便失去比较基础；壹若被写成只留一念，偏蔽反而加重；静若被写成停止思考，也无法处理新资料。三词都不是心的空白状态，而是知识活动的纪律。它们让多端可进入，却没有省去最后选择与负责。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "医者的情境",
+          "paragraphs": [
+            "旧经验支持劳累判断，新检验却指向感染。",
+            "医者若虚，便让新证据进入；若壹，便统合症状与检验而不任一端独占。",
+            "若静，他不会因突发恐惧便跳到最严重诊断。",
+            "《庄子·齐物论》提供一项不能跳过的压力：成心会把特定视角变成终极是非，固定分类又可能强迫异质经验服从。这个批评并不要求放弃日常称谓，人仍须交谈与行动；它质疑的是称谓何时越过工具位置，冒充不受处境影响的终局。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "庄子的警惕",
+          "paragraphs": [
+            "《庄子》担心成心把特定视角固定成终极是非，并借分类支配他人。",
+            "这种警惕不等于取消日常称谓，而是拒绝称谓冒充无处境的终局。",
+            "荀子最强的回应是，没有某种可共同使用且容许修订的名实规范，跨处境协调、揭露欺骗和要求掌权者说明理由都会失败。可是共同使用不等于共同同意，标准也可能由强势者宣布。协调必要只能证明需要规范，不能保证现行规范已经避免强制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "共同规范的余险",
+          "paragraphs": [
+            "荀子可说共同标准使协调、辨伪和问责成为可能。",
+            "但谁宣布大道、分类如何修订仍是开放问题，接着须正面考察名称的约定与权力。",
+            "《解蔽》是荀子侧对诸子的概括，重建庄子不能只依这位批评者，还须回到《齐物论》的成心、是非和言说语境。虚静语汇可能来自共享的战国思想环境，承认亲缘并不会把两家立场抹平：相近词语可以服务不同规范方向。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "开放判断与分类权力",
+          "paragraphs": [
+            "解蔽最终要求心把差异表达给共同体，名称因而成为下一问题。若名只是约定，如何受实物和公共使用约束；若制名集中于王，又如何防止解蔽的共同规范变成权力命令。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "医者原以为病人只是劳累，检验却出现感染迹象；他保留旧资料而让新证据进入，再把多项指标放在同一判断中。",
+      "nodeIds": [
+        "xunzi-07-claim"
+      ],
+      "checkIds": [
+        "x07q1",
+        "x07q2",
+        "x07q3",
+        "x07q4"
+      ],
+      "abilitySummary": [
+        "虚是不让旧知妨碍新知，壹是不让一端伤害另一端，静是不让臆想与扰动破坏判断；三者服务于兼知后的择定。"
+      ],
+      "recommendedNextLessonId": "xunzi-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-08",
+      "order": 8,
+      "title": "正名为何既约定又受约束",
+      "depth": "longform",
+      "guidingQuestion": "名称若由共同约定而成，命名为何不是掌权者可以任意操弄的工具？",
+      "coreExplanation": "声音与对象没有天生绑定，但共同感官可辨对象差异，名称须足以指实、言辞须足以达意；正名同时具有沟通功能和政治风险。",
+      "sections": [
+        {
+          "heading": "两个相反误解",
+          "paragraphs": [
+            "若名称天生固定，便难解释不同地域为何用不同声音指同一物。",
+            "若名称全凭任意，任何人又都可随时改称，沟通便无法延续。",
+            "《正名》以名无固宜与约定俗成同时避开这两个极端。",
+            "“名无固宜”先切断声音与对象的天然纽带。不同地域可用不同声音指水，不会因此出现不同物质；“约定俗成谓之宜”又说明共同历史使某种声音获得稳定预期。两句必须并读，否则一边会变成词义天定，另一边会滑向随意改称。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "约定怎样稳定",
+          "paragraphs": [
+            "共同使用使某个声音适宜地指向某类对象，后来者可据此理解。",
+            "这种适宜不是自然刻在物上，却有公共历史和相互预期。",
+            "改名若破坏共同辨认，便须承担误导与协调失败的后果。",
+            "发霉粮食的例子可以逐步检验名实。管理者先把标签换成备用粮，仓吏可能照新名登记；食用者却闻到霉味，检验又显示毒性，食后结果进一步反驳标签。名称能够影响流通过程和人们预期，却不能单靠命令改变对象性质。异议正通过共同感官和后果重新进入。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "实的约束",
+          "paragraphs": [
+            "人的感官能够辨同异，名称须让差异得到足够清楚的表达。",
+            "实同而名异、实异而名同都可能制造三惑式混乱。",
+            "辨说因此是心表达所见之道的工具，而非纯粹词语游戏。",
+            "对象约束也并非意味着分类毫无社会成分。哪些粮食被列作可牺牲给低位者，哪些口音被称为不正，都可能包含等级判断。故应区分对象的可感差异、为了某种目的形成的类别，以及掌权者赋予类别的褒贬。三层混在一起，实便会被权力预先塑形。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "粮食的情境",
+          "paragraphs": [
+            "管理者可以发布新标签，却不能用标签消除霉变。",
+            "食用后果、检验结果和共同感知使备用粮这一称谓受到反驳。",
+            "名的约定性容许修订，实的约束要求修订能够说明理由。",
+            "王者制名有实际理由：大范围法令和分工若名称飘移，责任无法明确，欺诈也容易藏在同名异实之间。最强异议却正从这里产生。王可把批评改名为乱，把征敛改名为奉养；称谓统一仍可能靠刑罚而非名实可靠来维持。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "命名权的异议",
+          "paragraphs": [
+            "王者制名可能统一法令，也可能把反对者改称为乱民。",
+            "共同使用若由强制维持，表面一致未必表示名实关系可靠。",
+            "荀子能用天官辨同异、辞足达意和治理后果限制任意制名，却缺少独立监督命名者的制度。共同检验可揭穿霉粮，却未必让检验者安全发声。现代解释应把这项政治风险保留，不能把正名无缝改写成开放语言协商。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "从名称到礼制",
+          "paragraphs": [
+            "荀子没有现代语言权利理论，集中制名的危险必须保留。",
+            "共同名称使欲、分、亲疏和仪节可被讨论，接着才可追问礼义为何制作。",
+            "《正名》的后王制名、名无固宜、固实和三惑属于同一篇内的不同论证段，彼此连接时仍须说明层次。《非十二子》对名辩者的批评只能作旁证，因为它先以荀子立场概括对手，不能替代对名家文本的独立重建。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "约定、现实与制名者",
+          "paragraphs": [
+            "名称使欲望、亲疏、物资和职责能够被稳定说出，却不能单凭命名给这些关系正当性。礼义起源因此要回答更根本的问题：人为规范为何回应人情物理，而不是制名者偏好的扩大。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "仓库把发霉粮食改称备用粮，词形确可更换，却不能改变气味、毒性和食用后果；共同检验会暴露名实错置。",
+      "nodeIds": [
+        "xunzi-08-claim"
+      ],
+      "checkIds": [
+        "x08q1",
+        "x08q2",
+        "x08q3",
+        "x08q4"
+      ],
+      "abilitySummary": [
+        "声音与对象没有天生绑定，但共同感官可辨对象差异，名称须足以指实、言辞须足以达意；正名同时具有沟通功能和政治风险。"
+      ],
+      "recommendedNextLessonId": "xunzi-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-09",
+      "order": 9,
+      "title": "礼义为何被制作",
+      "depth": "longform",
+      "guidingQuestion": "礼若是人为制作，它凭什么回应真实需要，而不是圣王的任意发明？",
+      "coreExplanation": "圣王面对欲物失衡和无分则争而制作礼义，使欲与物相持；建构受欲情、亲疏、哀乐和物质条件约束，但不能自动证明每项等级。",
+      "sections": [
+        {
+          "heading": "制作的可疑",
+          "paragraphs": [
+            "若礼不是自然长成，反对者会问它为何不是强者偏好的包装。",
+            "《礼论》从欲求与物资的张力出发，为制作提供待解决的问题。",
+            "人为并不等于随意，关键在制作是否受问题和后果约束。",
+            "礼义由圣王制作这一说法同时打开两种可能。它使制度能够被理解为人的作品，因而可以问功能与后果；它也可能让圣王身份遮住论证，使传统安排未经检验便取得神圣外观。要保留前一种洞见，就必须拒绝后一种身份捷径。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "欲物相持",
+          "paragraphs": [
+            "人欲众而物不能同时无限供给，无分的求取便走向争。",
+            "先王制礼义以分之，也以养欲给求让需要获得稳定出口。",
+            "能长期维持欲与物的关系，才是礼制功能理由的一部分。",
+            "《礼论》的欲物相持提供制作约束。人欲不能靠命令消失，物资又不能随欲无限增长，规范若只压制而不供给便难持续。礼以分避免互夺，以养给欲求寻找出口。设计是否成功，要看它能否让生产、分配和情感在较长时间中不相伤害。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "人情物理",
+          "paragraphs": [
+            "礼还回应亲亲、贵贵、哀乐和身体感受，而非只画资源刻度。",
+            "制度若完全逆反这些情感，便难以内化并持续。",
+            "但顺应人情不表示现成情感中的每种偏见都应固定。",
+            "集市情境可分三步。先确认通道、水源和摊位的物理边界，再按安全、轮换与交易需要安排位置，最后允许观察拥堵和收益后修订。这样形成的规则虽出于人为，却受事实与公共目的约束。若最佳位置世代归权贵，前两步不能替第三步缺失的公平理由辩护。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "集市的情境",
+          "paragraphs": [
+            "摊位规则可按通行、安全和轮换来减少冲突。",
+            "这些条件使安排有理由，也容许观察后修订。",
+            "若权贵永久占据最佳位置，秩序之名不能填补不平等理由的缺口。",
+            "反对者进一步指出，亲亲、贵贵等所谓人情也会被社会训练。一个等级社会中习以为常的尊卑感，不能因为普遍出现便证明自然正当。荀子可以说礼须称情而立文，却还须区分哪些情感值得节文，哪些情感正是制度性压低他人的结果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "不能从必要跳到具体",
+          "paragraphs": [
+            "最强异议指出，某种规则必要与这一套等级正当是两件事。",
+            "圣王之名也不能让历史胜利者自动成为规范来源。",
+            "回应的第一层是功能检验：某项差等是否养欲、止争、促进协作并让责任相称。第二层是规范检验：承担较多代价者的利益是否被计算，权位是否只是自我复制。荀子提供前层丰富资源，对后层的平等问责不足，不能借义字把缺口掩去。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "转向实际功能",
+          "paragraphs": [
+            "礼义起源的解释只建立制作为何必要以及为何不能任意。",
+            "接着要观察礼怎样养欲、别异、文情，并在那里检验具体代价。",
+            "《礼论》开篇承担发生论，《性恶》说明圣人之伪生礼义法度，《荣辱》《王制》《非相》补充养欲、义与人的差别。把这些论说材料串联，可以重构礼的非任意条件；但圣王首次创礼的循环仍在，跨篇体系不应宣称已无张力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "人为规范的非任意条件",
+          "paragraphs": [
+            "礼为何制作只是合法性入口，还要看它实际怎样进入饮食、居处、亲疏和丧祭。下一步从抽象起源转向养、别与文情，具体功能也会暴露具体不平等。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "集市不断因摊位、水源和通道争执，公共安排须照顾交易需要与空间限制；若把最好位置永久给权贵，秩序需要并不能替特权辩护。",
+      "nodeIds": [
+        "xunzi-09-claim"
+      ],
+      "checkIds": [
+        "x09q1",
+        "x09q2",
+        "x09q3",
+        "x09q4"
+      ],
+      "abilitySummary": [
+        "圣王面对欲物失衡和无分则争而制作礼义，使欲与物相持；建构受欲情、亲疏、哀乐和物质条件约束，但不能自动证明每项等级。"
+      ],
+      "recommendedNextLessonId": "xunzi-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-10",
+      "order": 10,
+      "title": "礼怎样养欲、别异并安顿哀情",
+      "depth": "longform",
+      "guidingQuestion": "礼只是压制和区分，还是也能供养感官、表达情感并让哀痛有终止？",
+      "coreExplanation": "礼者养也，同时按亲疏、长幼和职分别异；丧祭以形式让情感充分表达又逐渐回归生活。",
+      "sections": [
+        {
+          "heading": "压抑说的不足",
+          "paragraphs": [
+            "若礼只负责禁止，便难解释荀子为何称礼为养。",
+            "饮食、衣服、居处和器乐都可在合宜形式中供养感官。",
+            "礼的限制与供给相连，目的不是让身体需要消失。",
+            "礼者养也意味着规范不只说不许做什么，还须安排身体如何得到食物、衣服、居处与感官满足。一个使多数人长期饥饿的礼制，即使秩序井然，也会与养的自我理由冲突。限制的可信度来自它同时保护可持续满足，而非苦难本身具有德性。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "别异的作用",
+          "paragraphs": [
+            "亲疏、长幼、职责和物用需要可理解的区别，协作才不会时时重谈。",
+            "区别要与义相称，否则差等会从协调手段变成压迫。",
+            "礼别异因此是一项功能主张，也是一项持续需要审查的权力安排。",
+            "别异的功能在复杂关系中很实际。治丧者、照料者和生产者需要知道各自责任，亲疏也影响哀痛表达；若每次都从零协商，共同体会陷入摩擦。但差异必须与责任和情感相称，不能从需要角色直接跳到固定贵贱，更不能让高位者多享供养而少担义务。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "丧祭与终止",
+          "paragraphs": [
+            "死亡造成的哀痛不能靠命令立即停止，也不能无限占据生活。",
+            "丧礼让哀情经装饰、动作和时间充分表达，再逐渐转平。",
+            "事死如事生由此成为文化表达，并不证明死者真的继续受用器物。",
+            "丧礼情境可以沿时间展开。死亡初至，亲友聚集，允许哭踊与停下日常事务；随后由共同程序安排安葬和照料，使混乱获得次序；时间推移，服制和活动逐渐恢复，哀情不是被否认，而是从剧烈状态过渡到可继续生活。礼的功能就在充分表达与有终止之间。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "治丧的情境",
+          "paragraphs": [
+            "亲友聚集能分担照料，使悲伤不必孤立承受。",
+            "明确时序帮助家人从剧烈哀痛回到日常责任。",
+            "若昂贵器物造成债务，形式便背离了养与称情。",
+            "费用会改变这套机制。若贫家为符合华丽标准而借债，长期生计受到破坏，仪式不再养人；若低位亲属只能劳动却无权表达，别异也伤害了所要安顿的情感。节制费用与称情立文可以回应过度，但实际分配仍需具体查验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "不平等的异议",
+          "paragraphs": [
+            "高位者获得丰厚供养，低位者被要求节俭，礼能养可能只对部分人实现。",
+            "固定角色也可能强迫某些人表演并不真实的情感。",
+            "第二层异议是强迫表演。人们的悲伤强度与方式不同，统一动作可能提供支持，也可能让不合规范者受羞辱。荀子强调文化形式，却没有现代个人自主语言。较谨慎的回应是承认形式可承载情感而非证明情感，并给不同时序保留现实余地。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "礼与乐的邻接",
+          "paragraphs": [
+            "荀子可用费用节制和称情立文限制过度，却未消除等级问题。",
+            "礼主要以区别和节文组织情感，接着要看乐如何借和同组织共同感受。",
+            "《礼论》的养欲、别异、丧礼与祭祀段属于主干论说材料，《富国》帮助检验费用和供给，《王制》连接分义。祭祀的文化表达不应被改写为死者真实享用器物的形上断言，正如后面的雩祭也须区分礼文与自然因果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "供养、差异与哀痛的时间",
+          "paragraphs": [
+            "礼主要借区别、次序和节文安排情感，乐则借节奏、身体同步和共同声音趋向和同。两者相互支持，却必须分开追踪机制，墨家对公共耗费的质疑也会在乐的场合变得更尖锐。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "家人去世后，共同仪式容许悲痛、安排照料并规定逐步结束的时点；费用若迫使贫家负债，情感表达便反受形式伤害。",
+      "nodeIds": [
+        "xunzi-10-claim"
+      ],
+      "checkIds": [
+        "x10q1",
+        "x10q2",
+        "x10q3",
+        "x10q4"
+      ],
+      "abilitySummary": [
+        "礼者养也，同时按亲疏、长幼和职分别异；丧祭以形式让情感充分表达又逐渐回归生活。"
+      ],
+      "recommendedNextLessonId": "xunzi-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-11",
+      "order": 11,
+      "title": "乐如何组织共同情感",
+      "depth": "longform",
+      "guidingQuestion": "音乐能否产生公共益处，又怎样面对墨家关于稀缺与奢侈的审查？",
+      "coreExplanation": "正乐借节奏、身体参与和共同场景塑造情感；其公共收益必须接受机会成本检验，不能靠审美价值自动获准。",
+      "sections": [
+        {
+          "heading": "不可免的情感",
+          "paragraphs": [
+            "喜怒哀乐会寻找声音、动作和共同表达，单纯禁止不能使它们消失。",
+            "荀子认为经过节度的乐能使志意、容貌和行列趋于和。",
+            "乐合同不是抹去所有差别，而是让不同位置者进入可共享节奏。",
+            "《乐论》从情感不可免出发。人会以声音和动作表达喜怒哀乐，单纯禁止并不能让情感停止，只会使表达失去公共节度。所谓正乐的主张，是让节奏、容貌和行列在共同场合相互调整；其效果来自身体参与与反复记忆，不是音波含有自动生成德性的力量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "作用机制",
+          "paragraphs": [
+            "旋律本身不会像命令一样直接制造德性，作用来自反复参与和共同场景。",
+            "身体节奏协调行动，熟悉曲调形成共同记忆，场合规定情绪的表达幅度。",
+            "这些机制可能移风易俗，也可能被国家用来制造服从。",
+            "饥荒后的乐舞计划必须逐项核算。先问修建、排演和宴飨占用多少粮食与劳力，再问是否妨碍农时和救济；随后才估计共同休息、恢复士气与协调行动的收益。若缩小规模、使用闲时并让负担者真实受益，荀子较有回应空间；若饥民承担成本而宫廷独享，和同便只是一句命名。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "墨家的审查",
+          "paragraphs": [
+            "墨家在稀缺条件下先问公共利益，计算钟鼓舞乐占用的财力、劳力和时间。",
+            "反奢侈不是不懂美，而是要求说明这笔机会成本为何不应用于衣食和安全。",
+            "兼相爱与交相利要求他人利益进入计算，并不要求对所有人怀有同强度亲情。",
+            "墨家的反奢侈因此是严肃的公共审计。《墨子·非乐上》把乐器、表演与民生任务并置，《兼爱上》要求他人利益不因亲疏被排除。兼爱并非命令人对父母与陌生人感觉同样亲密，而是要求制度计算陌生人的损害，交相利则追问安排能否相互带来实际利益。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "饥荒后的情境",
+          "paragraphs": [
+            "大型乐舞若消耗存粮并征发劳力，和同之名不能遮蔽实际负担。",
+            "缩小规模、避开农时并让参与者获得休息，可能形成较可辩护的公共益处。",
+            "能否抵偿成本须由结果检验，不能由正乐称号预先决定。",
+            "荀子的最强回应不是说墨者没有审美，而是说明受节制的乐可能产生长期公共作用：身体共同参与缓和敌意，仪式化情绪减少私下爆发，共同记忆支持协作。可是这些都是可失败的因果主张，必须有参与者经验和后果支持，不能由正声称号预先保证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "最强异议",
+          "paragraphs": [
+            "差等仪式可能把统治者的审美与偏爱转嫁给缺粮者。",
+            "国家规定何为正声，也可能压制地方声音并服务军政动员。",
+            "异议还有权力一层。国家界定正声，可能把地方声音称作淫，借审美整齐训练政治服从；军阵中的节奏也能提高暴力效率。即使音乐确有塑形能力，这种能力本身不分善恶。越强调乐能移风易俗，越须追问谁选择方向以及不参与者承受什么。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "相邻而不合并",
+          "paragraphs": [
+            "荀子的回答必须保留墨家的公利压力，并承认礼乐有失败条件。",
+            "乐的和同最终要在个人身上稳定，接着进入君子如何不靠表演维持判断。",
+            "《乐论》《礼论》《非十二子》呈现的是荀子侧的论辩，公平重建墨家必须回到《非乐》《兼爱》自身。两边都关心公共秩序和实际效果，分歧在礼乐的长期功能是否足以抵偿成本，以及差等能否服务共同利益。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "音乐的公共机制与机会成本",
+          "paragraphs": [
+            "礼乐形式若要不靠监督持续，最终要成为一个人在利益、毁誉和危难中的判断。君子问题由此不是赞美优雅人格，而是检验外在塑形能否形成受义约束且敢于反对坏秩序的稳定行动者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "饥荒后的城邑计划大型乐舞，墨者会追问粮食与劳力被挤占多少；荀者若要回应，须证明规模受节制且确有休养、协作与安定之益。",
+      "nodeIds": [
+        "xunzi-11-claim"
+      ],
+      "checkIds": [
+        "x11q1",
+        "x11q2",
+        "x11q3",
+        "x11q4"
+      ],
+      "abilitySummary": [
+        "正乐借节奏、身体参与和共同场景塑造情感；其公共收益必须接受机会成本检验，不能靠审美价值自动获准。"
+      ],
+      "recommendedNextLessonId": "xunzi-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-12",
+      "order": 12,
+      "title": "君子如何成为可持续人格",
+      "depth": "longform",
+      "guidingQuestion": "一个人怎样在利益、毁誉和危难中不只表演合宜，而能按可说明的义行动？",
+      "coreExplanation": "不苟、荣辱之辨、诚与慎独使长期所学成为内外相符的判断；君子不是出生身份，也不是无条件守成者。",
+      "sections": [
+        {
+          "heading": "表演的难题",
+          "paragraphs": [
+            "外在仪式可以被模仿，惩罚和赞誉也能暂时塑造行为。",
+            "若观众一离开行动便改变，礼义还没有成为稳定判断。",
+            "君子问题因此检验学习是否从动作深入理由与情感。",
+            "君子若只是熟悉仪节的精英，荀子的成德论会停在表面。《不苟》拒绝因事情艰难、说法聪察或消息流行便仓促赞同，要求判断经过义的约束。《荣辱》又把富贵与真正荣誉分开，使外在成功不能自动成为品格证明。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "不苟与荣辱",
+          "paragraphs": [
+            "不苟难、不苟察、不苟传要求人不以罕见、聪察或流行为充分理由。",
+            "荣辱也不能只由富贵贫贱决定，而要看行动是否合义。",
+            "这些标准让人对声誉保持距离，却不要求拒绝一切社会评价。",
+            "粮仓情境可以走完这一判断。官员先核对库存与报表，确认虚报会使灾时救济失败；再评估沉默保护的只是职位，还是确有避免更大损害的理由；最后选择公开证据、寻找同僚支持并承担后果。揭露的价值不在姿态勇敢，而在民生和信用理由可被他人检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "诚与慎独",
+          "paragraphs": [
+            "诚使内外相符，慎独检验无人监督时是否仍按所承认的理由行动。",
+            "长期积习让判断进入姿态和欲情，降低每次重新挣扎的成本。",
+            "君子由此是形成的品格，不是靠血统固定的身份。",
+            "诚与慎独使行动不随观众更换。无人监督时仍不用假砝码，说明外在规则已经进入自我要求；受到赞誉时也不故意追求惊人之举，说明荣誉没有取代义。内外相符不是把内心感觉宣布为真理，而是让承认的理由与反复行动彼此核对。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "粮仓的情境",
+          "paragraphs": [
+            "官员若只看上级脸色，沉默会被包装成忠。",
+            "若看民生和信用，他须指出虚报怎样让救济失败。",
+            "揭露不是为了显得勇敢，而是让行动接受可公共说明的义。",
+            "最强异议有两层。其一，受教育者的从容、辞令和礼貌容易被误认成德，低位者的愤怒则被称为不修；其二，君臣秩序可能把忠顺放在揭露不义之前。若君子标准只奖励精英风格，它会复制地位而不是评价理由。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "精英标准的异议",
+          "paragraphs": [
+            "从容言行可能只是受教育者的风格，并不保证他反对不义。",
+            "愤怒和不合作在坏秩序中可能比温顺更合乎理由。",
+            "荀子可用不苟与以义定荣辱回应：坏命令不能仅凭权位成为义，正当愤怒也可指向被破坏的分与养。然而他的政治结构仍强调等级，未给拒绝者充分制度保护。解释者可以展示规范张力，不能把他改写成现代公民抗命理论家。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "走向共同体",
+          "paragraphs": [
+            "荀子容许以义限制服从，但仍保留明显的等级与现实门槛。",
+            "君子不是孤立自足者，接着要看人如何凭群、分与义取得协作力量。",
+            "《不苟》《荣辱》《修身》《劝学》共同支撑人格轮廓，《君子》材料可作补充却须留意篇内层次。跨篇所得是通行本中较稳定的理想类型，而非一篇由荀况亲自定稿的完整人格手册。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "不苟并非温顺",
+          "paragraphs": [
+            "君子的稳定判断仍不能离开他人。生产、防御、照料和知识都超出个人能力，德性必须进入群体协作。下一步便要说明群为何需要分、分为何必须受义限制，而不能让君子成为孤立的道德英雄。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "官员发现上级虚报粮仓，沉默可保职位，揭露会受损；若他只求外在名声，选择随观众变化，若以义判断，则须说明民生为何重于私利。",
+      "nodeIds": [
+        "xunzi-12-claim"
+      ],
+      "checkIds": [
+        "x12q1",
+        "x12q2",
+        "x12q3",
+        "x12q4"
+      ],
+      "abilitySummary": [
+        "不苟、荣辱之辨、诚与慎独使长期所学成为内外相符的判断；君子不是出生身份，也不是无条件守成者。"
+      ],
+      "recommendedNextLessonId": "xunzi-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-13",
+      "order": 13,
+      "title": "人为何能够群",
+      "depth": "longform",
+      "guidingQuestion": "人的个体能力有限，群体为何能增加力量，又为何常因无分而争？",
+      "coreExplanation": "人凭义形成群，群须有分，分须由义运行；义分则和、和则一、一则多力，角色协调不能直接证明固定贵贱。",
+      "sections": [
+        {
+          "heading": "个体能力的限度",
+          "paragraphs": [
+            "人的力量不如牛，奔走不如马，却能建立复杂生产与居处。",
+            "优势不在单个身体，而在多人能按理由协调行动。",
+            "群因此既是生存条件，也是荀子政治思想的中间支点。",
+            "《王制》比较人的个体能力与牛马，目的不是贬低身体，而是突出协作优势。人能够以语言、规范和角色把分散能力接起来，建造个体无法完成的工程。群因此不是许多个体站在一起，而是彼此行动能够形成稳定预期和共同结果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "群与分",
+          "paragraphs": [
+            "多人共同生活若没有职责和分配，彼此预期便不断冲突。",
+            "分让谁做什么、使用何物和承担何责变得可辨。",
+            "然而分本身只是差异安排，还须由义说明其合理性。",
+            "治水可以显示群、分、义、和的次序。勘测者确定水势，运土者按线施工，供粮者维持劳作，调度者处理冲突；职责明确以后，重复和争抢减少。若成果保护村落且负担按能力分配，成员较能承认差异的理由，和才可能转成持续多力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "义分而和",
+          "paragraphs": [
+            "分由义运行，成员才可能把差异理解为协作而非掠夺。",
+            "和使行动方向一致，一又让有限个体汇成较大力量。",
+            "这条链是群、分、义、和与多力，不是权位越高便越有义。",
+            "若调度者独占粮食并把危险工作固定给低位家族，分仍然存在，却不再由义运行。受压者可能因刑罚保持安静，工程也可能暂时完成，但信任、技能传递和长期合作会受损。因此“和”不能只由没有公开冲突判定，还要看成员的需要和责任是否相称。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "治水的情境",
+          "paragraphs": [
+            "勘测者、运土者和供粮者承担不同工作，职责清楚减少重复。",
+            "成果若能保护共同居处，差异安排便有功能理由。",
+            "调度者若独占粮食，表面分工仍因不义而破坏合作。",
+            "反对者由此指出，协作需要只能推出某种角色协调，不能推出贵贱世袭、低位者持续服从或上位者拥有更多享受。荀子以义限制分，已给出批判现行差等的入口；但他仍接受强等级结构，义由谁解释的问题不会因一个词出现便消失。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "固定贵贱的异议",
+          "paragraphs": [
+            "从协调需要不能推出角色必须世袭，更不能推出低位者不得质疑。",
+            "恐惧造成的安静也不等于成员真实归附。",
+            "回应可以分成物质与规范两层。物质上检验分工是否提高生产、保障生计并让承担者得到养；规范上检验职位是否按能力与责任配置，是否容纳贤者和纠正错误。荀子资源丰富于这些方面，却缺少平等同意与身份反歧视的制度表达。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "向国家放大",
+          "paragraphs": [
+            "荀子用义限制分，却没有提供现代平等参与的制度。",
+            "群体扩大为国家后，接着要问怎样富民、用贤并区分王霸危亡。",
+            "《王制》的人能群和分何以行是直接原典，《富国》补充生产与财富，《礼论》说明辨与养。这些论说材料共同形成政治人类学，但不能把后来的国家制度全部塞回一句人能群，也不能以现代分工理论冒充原文。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "协作力量与不义之分",
+          "paragraphs": [
+            "群分义说明国家为何可能，却尚未规定国家应追求何种富强。接下来必须从协作的中层结构上升到王制、富国、爱民、君臣用贤和王霸层级，同时把法刑与战争的执行问题留给另一处独立处理。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "治水需要勘测、运土、供粮和调度，各人职责不同才可协作；若调度者独占成果并禁止申诉，分工便失去义的限制。",
+      "nodeIds": [
+        "xunzi-13-claim"
+      ],
+      "checkIds": [
+        "x13q1",
+        "x13q2",
+        "x13q3",
+        "x13q4"
+      ],
+      "abilitySummary": [
+        "人凭义形成群，群须有分，分须由义运行；义分则和、和则一、一则多力，角色协调不能直接证明固定贵贱。"
+      ],
+      "recommendedNextLessonId": "xunzi-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-14",
+      "order": 14,
+      "title": "王制与富国的政治目的",
+      "depth": "longform",
+      "guidingQuestion": "战国国家怎样获得可持续富强，而不把搜括、权诈和军力误作王道？",
+      "coreExplanation": "王制以节用裕民、发展生产、爱民、君臣分职、尊贤使能和信用规定政治目的，并区分王、霸与危亡。",
+      "sections": [
+        {
+          "heading": "富强的两条路",
+          "paragraphs": [
+            "兼并压力使国家容易把眼前税收和兵力当作唯一强弱尺度。",
+            "同一笔入库若来自正常收成、预支来年种粮或逼迫农户离散，对国力的含义完全不同。",
+            "所以判断富国要把当期库存放回多年时间轴，连同户口、田亩、逃亡与来年税基交叉核对。",
+            "战国竞争容易把强国等同于军队众、仓廪满和命令快。荀子却要求追问这些表象怎样取得。若府库靠非时征发和贫民积累，农户离散、土地荒芜，来年生产与税源都会下降。富国必须把国家能力与百姓继续生产和生活的条件连在一起。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "节用裕民",
+          "paragraphs": [
+            "裕民不是把一切收入平均分配，而是保障生产者能够恢复劳力、保留种粮并度过失收。",
+            "节用也不只称赞俭朴人格，而是把宫室、礼仪和军费放进与农时及生计竞争的预算中。",
+            "这些条件使爱民成为可观察的再生产约束，而不只是君主自称的仁慈。",
+            "两个国家的对照可沿时间观察。扩军国第一年增加征敛，兵器迅速增多；农户却卖种、逃亡，地方官又用更重惩罚维持数字。修水利之国先减少奢费，避开农时征役，开放懂水土者进言，短期增长较慢，却在数年后获得稳定收成、人口与可预期财政。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "君臣与用贤",
+          "paragraphs": [
+            "修水利时，基层测得河床改变，层层官吏却只上报符合旧方案的数据，君主的高位并不能补回被过滤的事实。",
+            "尊贤使能的作用在于让不同职责携带的知识进入判断，并容许臣以职分指出命令与实情冲突。",
+            "信用则使修改理由、工期和征发承诺可被核对，避免臣民为防反复欺骗而隐藏信息。",
+            "爱民不是君主心中自觉仁慈便算完成。它至少要落实为节用裕民、保护生产、避免反复失信，并让有能力者进入职责。君臣分职也不是君主把工作下放而保留任性决定；臣道和致士材料要求信息通达、贤者可用，否则职位结构只会放大上位者的蔽。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "王霸危亡",
+          "paragraphs": [
+            "面对同一次军事成功，第一步要问是否养民，第二步查是否隆礼尊贤，第三步再看守信或诈利。",
+            "若只凭胜利排级，王、霸与危亡都会被压成军力大小；政治目的反而从判断中消失。",
+            "层级检验因而允许霸者比失信之国稳定，却不把有序归附直接抬升为王道。",
+            "王、霸、危亡不是善与恶的两格。霸者仍可能守信、爱民并取得有序归附，所以比多诈失信者稳定；王道则把隆礼尊贤、养民和义提升为更高目的。若把霸写成毫无秩序，层级便失去解释力；若把胜利者都叫王，政治目的又会被成功吞没。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "征敛的情境",
+          "paragraphs": [
+            "扩军国公布府库增长，却不公布逃户、弃田与借粮；单一数字把未来损失藏在当期收入之后。",
+            "修水利之国先付成本，若同时记录收成、复耕、迁入和进言是否被采纳，才能说明较慢财政怎样形成更稳力量。",
+            "这些指标必须互证：户口增加可能来自强迁，沉默也可能来自恐惧，不能各自充当民心的充分证据。",
+            "异议的第一层是家长主义：爱民仍由上位者定义，民众是被照料者而非授权者。第二层是贤能政治的监督：谁判定贤，异议者是否会因不顺从被排除。第三层是民心识别：沉默可能来自恐惧，长期统治也未必表示非胁迫归附。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "目的的边界",
+          "paragraphs": [
+            "爱民、用贤和民心分别涉及生活后果、知识进入与非胁迫归附，三种证据不能互相替代。",
+            "荀子的层级仍由上位结构解释，民众缺少独立授权和问责位置；这项边界必须保留。",
+            "本篇只规定国家所求与层级，法势刑怎样执行以及军队如何自证，交给下一篇独立审查。",
+            "荀子可用民生、持续生产、通贤、守信和少诈来限制王霸自称，这些都比君主自我赞誉更可观察。但他没有选举、平等权利和独立问责的现代机制，解释不能把爱民翻译成人民主权。限制真实存在，缺口也同样真实。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "富民、信用与王霸层级",
+          "paragraphs": [
+            "《王制》《富国》《王霸》《君道》《臣道》《致士》《强国》分别提供资源、层级和角色材料。把它们连接是一项跨篇政治重构，不能伪造成单篇制度纲领。此处只确定政治目的，法、势、刑与军队是否可靠并会否反噬目的，必须在下一处独立检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一国为扩军提高征敛，短期仓库充实却使农户离散；另一国减轻非时征发、修水利并开放贤者进言，财政较慢却形成持续生产与信任。",
+      "nodeIds": [
+        "xunzi-14-claim"
+      ],
+      "checkIds": [
+        "x14q1",
+        "x14q2",
+        "x14q3",
+        "x14q4"
+      ],
+      "abilitySummary": [
+        "王制以节用裕民、发展生产、爱民、君臣分职、尊贤使能和信用规定政治目的，并区分王、霸与危亡。"
+      ],
+      "recommendedNextLessonId": "xunzi-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-15",
+      "order": 15,
+      "title": "礼法势刑与义兵的执行边界",
+      "depth": "longform",
+      "guidingQuestion": "非圣人常态下，制度和军队怎样提供可靠执行，又不把国家能做偷换成国家有理？",
+      "coreExplanation": "法度、职位、势与刑禁提供可重复执行，但不能自行产生礼义目的；义兵还须面对合法权威、民众保护、比例、非掠夺与外部检验。",
+      "sections": [
+        {
+          "heading": "执行的独立难题",
+          "paragraphs": [
+            "继任会检验规范是否只寄存在一位贤者心中；换任以后仍能说明的要求，才具有制度连续性。",
+            "基层裁量会检验同一法度遇到不同处境时怎样解释，不能把机械一致误作可靠。",
+            "信息传递会检验上级命令、实际后果与纠错信号是否往返，势与刑禁只能放大最后收到的判断。",
+            "良好目的若只能依赖贤君临场判断，继任、信息不全和利益冲突都会使政治失稳。法度把要求转成公开尺度，职位权责让人知道谁负责，势与刑禁则使规则不只停在劝说。这些装置回应的是普通人常态下怎样持续执行，而非圣人偶尔出现时怎样行善。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "手段不能自定目的",
+          "paragraphs": [
+            "规则公开解决人是否事先可知，记录一致解决同案差异，申诉与复核处理首次判断可能出错。",
+            "这些程序能改善可预测性，却不能单凭程序名称决定哪些财产应没收、哪些言论属于暴乱。",
+            "礼义、养民和信用因此检验制度目的，公开、申诉与复核则检验目的怎样落实，两层不能互相顶替。",
+            "查粮情境可先展示可靠性的好处。统一抽样、双人记录和复核申诉减少守令按亲疏放行，换一批官员仍可沿程序工作。可是若法令把发表异议者定作应没收财产的人，程序越稳定，邪政越有效。执行是否一致与执行何事正当，必须分成两次判断。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "法家的最强压力",
+          "paragraphs": [
+            "最强压力可用换任测试表达：把贤君能运行的安排交给普通官吏，它是否仍给出清楚职责、证据和后果。",
+            "若答案是否定的，礼义就可能随人而亡；若答案肯定，也只证明执行可重复，尚未证明目的合义。",
+            "这让荀子必须正面承认制度可靠性的价值，同时说明礼义校验怎样不重新退回个人任意。",
+            "法家式最强动机就在第一次判断。与其等待君主贤明和臣民成德，不如依公开标准、职位责任与赏罚，使治理面对庸常动机仍可预测。《韩非子·有度》《二柄》一类材料应从对手自身立场进入，不能把它缩成爱好酷刑。荀子若回避这项压力，礼义便可能人亡政息。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "查粮的情境",
+          "paragraphs": [
+            "同一套账簿、封存和复核程序可以查出官吏侵吞，也可以被用来给批评者罗织隐匿财物。",
+            "两案都可能执行迅速、记录齐全，差别在对象为何被调查、证据能否反驳以及处分是否合乎比例。",
+            "程序可靠须与目的、证据和救济同时评估，不能从执行整齐直接推出正当。",
+            "荀子的回答不是拒绝制度，而是让法势刑受礼义、养民、信用、师法和用贤共同限定。这个回答的力量在于指出手段无法自行产生目的，弱点则是解释权仍可能回到被期待为贤的上位者。谁监督势，谁能纠正错误法度，仍没有得到充分制度答案。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "议兵与自证",
+          "paragraphs": [
+            "战前须公开说明受害、合法权威与不得不用兵的理由，不能只以国君自称吊民为据。",
+            "战中须以必要、比例和平民保护限制手段，组织能力越强越不能免除这些约束。",
+            "战后须检验是否停止掠夺、恢复生计并容许被征服者作证，否则胜者可以倒写全过程。",
+            "《议兵》的战争论把组织、民心、礼义和不以掠杀为强相连，试图说明单靠武器不能形成持久力量。真正的推理缺口在于，持久归附仍可能由胜者命名，敌方反抗也可能被预先解释成不义；国家若垄断事实和概念的解释权，义兵论便无法用自身语言完成校验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "战争的不足边界",
+          "paragraphs": [
+            "败方、平民和敌我之外的记录必须能够反驳出兵国叙事，国家不能垄断礼义与民心的证词。",
+            "《议兵》以孙卿子出现，首先支持门人保存或编辑的论兵场景；文本身份限制结论强度，却不取消战争规范问题。",
+            "从军政能否自证转向天论时，责任线索保持一致：不能把人事选择交给胜负、天意或单一权威替代。",
+            "原典身份在这里尤其重要。《王霸》《强国》《正论》《王制》是论说材料，《议兵》却以“孙卿子”出现，显示门人保存或编辑的论辩场景。可以说荀子学派传统保存了这项判断，却不能把第三人称记录变成荀况亲笔的第一人称声明。",
+            "政治目的与执行可靠性到此仍保持分立。国家成败既不能由军力反证正义，也不能把制度失败推给天意。接下来天论会把旱涝、灾异与治乱责任区分开，让人事安排承担它实际造成的后果。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "守令按公开标准查粮可减少徇私，可若君主命令没收异议者财产，稳定程序只会更可靠地执行邪政。",
+      "nodeIds": [
+        "xunzi-15-claim"
+      ],
+      "checkIds": [
+        "x15q1",
+        "x15q2",
+        "x15q3",
+        "x15q4"
+      ],
+      "abilitySummary": [
+        "法度、职位、势与刑禁提供可重复执行，但不能自行产生礼义目的；义兵还须面对合法权威、民众保护、比例、非掠夺与外部检验。"
+      ],
+      "recommendedNextLessonId": "xunzi-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-16",
+      "order": 16,
+      "title": "天行有常与制天命",
+      "depth": "longform",
+      "guidingQuestion": "天不按政治善恶改变运行，人怎样承担治乱责任并利用自然常则？",
+      "coreExplanation": "天有常行，人有治理职责；制天命而用之是循时、养物和利用常则，不是征服无限可控的自然。",
+      "sections": [
+        {
+          "heading": "祸福归天的诱惑",
+          "paragraphs": [
+            "灾异发生时，把天象解释成褒贬能够迅速给政治事件赋义。",
+            "但同一天时下，治理不同会造成完全不同的民生后果。",
+            "荀子以天行有常切断天按尧桀临时改变运行的想象。",
+            "“天行有常，不为尧存，不为桀亡”首先拒绝一种政治因果：天空不会因统治者德性临时改变基本运行。这个判断不等于自然与人毫无关系，恰恰因为四时、旱涝会作用于生活，人必须观察常则并安排生产，而不能等待天意替制度作决定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "天人之分",
+          "paragraphs": [
+            "天有四时与自然过程，地有资源，人有组织与治理能力。",
+            "分不是说双方毫无联系，而是要求人不要把制度失误推给天。",
+            "治乱责任由此落在准备、分配和行动，而非占验吉凶。",
+            "两地少雨的例子可以追踪责任。一地提前储水、修渠，按土壤改换作物，并为最脆弱家庭保留粮食；另一地把劳力用于占验，官员又隐瞒库存。降雨相近，损害却因准备、信息和分配而分化。所谓人祅正指人事过失被错误归给自然怪异。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "雩祭与文化",
+          "paragraphs": [
+            "祭雨后恰好下雨，时间相邻不能证明仪式造成降雨。",
+            "君子仍可把雩看作文化表达，使共同焦虑获得形式。",
+            "文化功能与自然因果须分开，正如丧祭表达不等于形上证明。",
+            "雩祭后恰好降雨，先后相邻不足以证明祭祀造成天气。荀子仍容许君子以为文：共同仪式可以表达焦虑、维持秩序或安顿情感。文化功能与自然因果一旦分开，既不必嘲笑参与者，也不能让礼文成为预测有效性的证据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "旱灾的情境",
+          "paragraphs": [
+            "两地面对相同少雨，一地储水、修渠并改换播种时间。",
+            "另一地只寻找怪异征兆，错过准备时机。",
+            "自然条件没有因德性改变，人事却扩大或减轻了损害。",
+            "“制天命而用之”容易被现代技术主义夺走。制在这里须与应时、养长、骋能化物相连，表示掌握规律、安排劳动和利用条件。修渠依赖水势，种植受土壤和季节约束；人可以改变后果，却不能把自然当作没有限度、没有反馈的原料。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "制天命而用之",
+          "paragraphs": [
+            "制指把握常则、因时管理并使物资服务生计。",
+            "它要求知识和劳动，不授权人忽视生态限度与长期副作用。",
+            "异议有两层。其一，天人之分若被写成两个互不接触的实体，会与天官、天职和应时而治的词语冲突；其二，利用自然若只看眼前产量，会制造生态损害。较好的回应把分理解为职分与责任之辨，并承认自然常则、长期后果和未知风险持续限制行动。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "责任而非征服",
+          "paragraphs": [
+            "自然仍有不可预测之处，人能利用不等于能够支配一切。",
+            "天论与诸子争论相连，接着要集中比较荀子与孟、墨、庄及法家。",
+            "《天论》直接提供天行有常、天人之分、雩雨与制天命诸段，《王制》补充顺四时的治理，《解蔽》批评蔽于天而不知人。后两者帮助解释，却不能使天论变成现代自然科学或现代生态伦理；相似问题不等于相同理论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "常则、责任与利用的限度",
+          "paragraphs": [
+            "性、心、礼法与天论都在诸子争论中形成。若只说荀子反对谁，便看不见双方共享的难题和语汇。接下来须让孟子、墨家、《庄子》和法家的最强动机各自站稳，再判断荀子的回应与界线。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "同样少雨，两地一处修渠储水并调整播种，另一处只追究异象；天气相同，制度准备使饥荒后果不同。",
+      "nodeIds": [
+        "xunzi-16-claim"
+      ],
+      "checkIds": [
+        "x16q1",
+        "x16q2",
+        "x16q3",
+        "x16q4"
+      ],
+      "abilitySummary": [
+        "天有常行，人有治理职责；制天命而用之是循时、养物和利用常则，不是征服无限可控的自然。"
+      ],
+      "recommendedNextLessonId": "xunzi-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-17",
+      "order": 17,
+      "title": "与孟墨庄法的真实争点",
+      "depth": "longform",
+      "guidingQuestion": "怎样比较荀子与诸家，而不把任何一方压成供标签使用的稻草人？",
+      "coreExplanation": "比较须先重建对方最强动机，再说明共享问题、真实分歧与荀子回答的限度；学派名称只是坐标。",
+      "sections": [
+        {
+          "heading": "比较的次序",
+          "paragraphs": [
+            "城中拟建大型礼乐设施，若先把反对者都叫作不懂教化，荀子的回答便没有面对真实压力。",
+            "公平审查依次询问道德动机能否养成、预算挤占了什么、公共分类由谁修订、换任普通官吏后制度是否仍运行。",
+            "四道问题可以针对同一设施，却不能被压成同一种反对；共享对象不等于共享理由。",
+            "公平比较不能从“儒墨道法”四个盒子出发，再把复杂文本塞入。战国作者共享秩序、语言、修养和治理问题，后来的学派名称只能帮助定位争点。方法上的次序应是先回到对手自身材料，说明他要解决的困难，再呈现荀子的批评，最后检查批评是否击中原论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "孟子的内在开端",
+          "paragraphs": [
+            "孟子式审查先问，参与者照料他人的动机是否只能由外在仪式灌入，还是已有可扩充的恻隐端绪。",
+            "若设施只奖励表演顺从而没有帮助端绪扩充，宏大形式不能替代真实养成。",
+            "这一步迫使荀子说明师法怎样改变方向，也迫使比较者承认孟子并未省去学习和环境。",
+            "孟子以四端说明道德开端，并要求扩充、养护和环境支持；普通人可为尧舜也不是现实品格已经完成。荀子把性集中在生而然的欲情官能，以伪和师法说明善。双方都承认人成圣的开放性，真实分歧在道德方向是否已经以内在端绪出现，以及性这个名称应覆盖什么。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "墨家的公利压力",
+          "paragraphs": [
+            "墨者把预算展开为粮食、劳力、防灾和照料机会，逐项问兴建礼乐设施放弃了什么。",
+            "兼相爱使陌生饥民的损失进入账目，交相利要求公共收益不只流向主持仪式者；这不要求每个人情感同强度。",
+            "若缩小规模、避开农时仍能达到协调效果，原方案的奢侈部分就失去以公利辩护的余地。",
+            "墨家的压力在稀缺与公利。大型礼乐若挤占衣食和安全，就须证明公共收益；兼相爱要求陌生人利益进入计算，交相利追问制度能否互益，并非强迫亲疏情感同强度。荀子的礼乐论只有在回答机会成本并限制奢侈后，才真正回应墨者，而不是以审美优越感绕开。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "庄子与共同规范",
+          "paragraphs": [
+            "庄子式追问不必否认设施名称，而会问何种声音被定为正、地方形式为何被称为乱，以及分类能否从参与者经验中修订。",
+            "荀子可以指出预算、职责和问责都离不开共同名称，完全撤销分类会使欺骗更难揭露。",
+            "争点因此落在分类是否被终极化与强制化，而不在有语言或无语言的两极选择。",
+            "《庄子·齐物论》警惕成心把特定视角固定为终极、强制分类，同时仍在使用语言展开批评。荀子强调共同名实对协调、辨伪和问责的必要。两者都诊断局部视角的蔽，差别在于荀子更愿意择定公共之道；这项择定仍承受谁命名、怎样修订的追问。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "法家的可靠性",
+          "paragraphs": [
+            "法家式审查把主持者换成庸常官吏，查看预算标准、职位边界、违规后果和交接记录是否仍清楚。",
+            "若设施只在一位贤者主持时不扰民，它便没有回答继任与利益冲突；若程序稳定，也仍须接受礼义和公利的目的检验。",
+            "这项测试承认可靠执行的独立价值，同时防止师承关联直接决定荀子的学派身份。",
+            "法家式动机面对的是非圣人常态：稳定标准、职位权责、势与赏罚比依赖个人美德更可重复。荀子承认执行问题，又坚持制度须受礼义、养民和王道目的限定。分歧不是有制度与无制度，而是制度能否自行提供正当目的，以及德性限制会否重新造成个人依赖。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "标签的边界",
+          "paragraphs": [
+            "同一案例经过四方审查后，留下的是不同问题之间的依赖，而不是儒墨道法四个封闭盒子。",
+            "韩非李斯师承只能支持人物与思想关联；判断礼义目的、制度手段和文本归属仍要各自举证。",
+            "比较完成后还须标明这些主张来自对手原典、荀子侧概括还是后世标签，这正把路线引向文本形成与接受史。",
+            "《性恶》《非十二子》《乐论》《解蔽》《正名》《王霸》《强国》给出荀子侧材料；孟、墨、庄、韩非的主张须由各自原典闭合。《非十二子》与《解蔽》是争论一方的概括，不能替对手作最终证词。韩非李斯师承属于外部见证，影响关系也不等于学派身份。",
+            "比较的结果不是替荀子选择一个标签，而是看见他的概念为何以这种方式组合。最后还须追问“荀子说”究竟依赖论说篇、门人记录、外部传记还是现代体系重构；文本形成与接受史会改变每个结论能够承受的强度。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "城中拟建大型礼乐设施，墨者先查饥民成本，庄子式质疑追问分类是否强制，法家式顾虑追问制度能否在庸常官吏手中执行，荀者则须分别回应。",
+      "nodeIds": [
+        "xunzi-17-claim"
+      ],
+      "checkIds": [
+        "x17q1",
+        "x17q2",
+        "x17q3",
+        "x17q4"
+      ],
+      "abilitySummary": [
+        "比较须先重建对方最强动机，再说明共享问题、真实分歧与荀子回答的限度；学派名称只是坐标。"
+      ],
+      "recommendedNextLessonId": "xunzi-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "xunzi-18",
+      "order": 18,
+      "title": "从荀况到通行荀子",
+      "depth": "longform",
+      "guidingQuestion": "复合文本和分期接受史怎样改变每一句荀子说的证据强度？",
+      "coreExplanation": "现存三十二篇经过刘向整理，今序主要承杨倞重编；论说、门人记录、杂纂和外部见证须分层，后世评价也须按时代问题区分。",
+      "sections": [
+        {
+          "heading": "一本书的错觉",
+          "paragraphs": [
+            "面对一句荀子说，第一步不是立即署名，而是先查它在篇内承担论点、对话记录还是杂纂材料。",
+            "第二步查文体与称谓：完整论说、第三人称孙卿子场景和后部短章提供的作者距离不同。",
+            "第三步再用刘向整理、杨倞重编与外部传记校验；四层证据相合，结论才能逐级增强。",
+            "现存三十二篇的整齐外观容易制造一本书错觉。刘向序录传统记载他从大量篇束中去重整理，形成三十二篇《孙卿新书》；后来的通行次序又主要承杨倞重编注本。材料能够组成相当连贯的思想世界，却不能据现存排列推断荀况按这个顺序逐步写作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "文本身份分层",
+          "paragraphs": [
+            "文本形成史与思想发展史不是同一个问题：知道材料何时被整理，不等于知道荀况何时形成某一判断。",
+            "现存篇序可以帮助定位材料，却不能把主题排列转成作者心路年表。",
+            "因此编纂证据首先限制年代推断，再间接影响体系重构，不会自动取消篇内哲学论证。",
+            "文本身份需要逐层判断。前部论说材料常有完整论证，可作为体系重构主干，但仍可能包含复文和局部编辑；《议兵》以孙卿子称谓出现，至少经过门人记录；后部杂纂的体例又不同。外部传记能证明生平和师承传统，却不能替篇内主张提供同等直接证据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "作者与体系",
+          "paragraphs": [
+            "体系一致有正面证据，例如性伪、师法与积习在多篇互相支撑；异文张力也有正面证据，例如不同文体对圣王与制度的强调并不完全同调。",
+            "解释者须同时记录稳定重心和反例，说明哪些联系来自篇内，哪些来自跨篇重构。",
+            "这样既不把每处张力交给无名编者，也不以预设体系筛掉不合材料。",
+            "误用《议兵》的情境可说明强度问题。第三人称场景支持荀子学派保存了一场论兵，也能谨慎关联荀况观点；它不支持未经转述的亲笔声明。韩非李斯师承说明思想影响与人物关联，同样不能推出老师自认法家。证据不是不能用，而是结论须停在证据承受范围内。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "argument"
+        },
+        {
+          "heading": "误用材料的情境",
+          "paragraphs": [
+            "研究者引用《议兵》时，应先写成通行文本保存的孙卿子论辩，再讨论它与其他论说材料是否相互印证。",
+            "引用韩非李斯师承时，应先写成人物关联与可能影响，再另查礼义目的是否相同。",
+            "把记录升格为亲笔、把关联升格为自我归派，都是越过证据身份的一步。",
+            "过度怀疑同样危险。若每一处张力都随意推给编者，人们将无法讨论通行本稳定出现的性伪、心知、礼义和天人重心。反过来，若只挑符合预设体系的句子，再以所得一致性证明筛选正确，解释也会循环。分层的目的不是取消哲学，而是让确定与不确定各有位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "分期的接受史",
+          "paragraphs": [
+            "接受史首先是载体变化：汉代整理保存材料，唐代杨倞注本重塑可读顺序，清代校勘又改变可靠文本基础。",
+            "其次是评价标尺变化：韩愈重排儒者名次，宋明尊孟道统使性论成为中心尺度。",
+            "最后是时代问题变化：近现代国家与意识形态争论催生法家化、专制或唯物标签，当代心、语言、建构与复合文本问题又重新选择材料。",
+            "杨倞注本可作一个具体转折案例：它不只保存旧文，也以重编次序、篇题和注释为后人提供阅读入口。后来的评价者看到的不是未经整理的篇束，而是已经具有可导航结构的通行文本；载体变化因而会改变哪些联系最先进入视野。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "controversy"
+        },
+        {
+          "heading": "收束与开放",
+          "paragraphs": [
+            "载体、评价标尺和政治问题彼此影响，却不能压成朝代名单或今人终于纠正前人的进步线。",
+            "分期的意义在于解释某种荀子形象为何在特定条件下出现，并让当代阅读也交代自己的问题。",
+            "最后得到的不是一句无条件的荀子说，而是带有篇内位置、文本身份、传承阶段和结论强度的可追溯判断。",
+            "不同评价问题还会从同一通行本选择不同证据。以性论为中心的解释突出《性恶》，关心国家能力者转向《王制》《强国》，讨论语言与心术者又重估《正名》《解蔽》。分期的任务是追踪这种选择机制，也让当代解释承认自己的问题并非中立。",
+            "刘向整理传统、杨倞序、《史记》见证、现代英译导论与专业哲学条目属于不同身份，引用时须逐一标明。最后留下的是一种可追溯说法：通行《荀子》在哪些材料中呈现何种论证，我们据何种强度把它关联到荀况，又在哪些边界处必须停止。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "研究者用《议兵》的孙卿子称谓论证荀况亲笔战争论，又拿韩非李斯师承补强；两项材料可说明传统关联，却都不足以证明亲笔与同一学派身份。",
+      "nodeIds": [
+        "xunzi-18-claim"
+      ],
+      "checkIds": [
+        "x18q1",
+        "x18q2",
+        "x18q3",
+        "x18q4"
+      ],
+      "abilitySummary": [
+        "现存三十二篇经过刘向整理，今序主要承杨倞重编；论说、门人记录、杂纂和外部见证须分层，后世评价也须按时代问题区分。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "x01q1",
+      "kind": "argument",
+      "prompt": "哪一理解会使学习成德失去真实改变的意义？",
+      "targetNodeIds": [
+        "xunzi-01-claim"
+      ],
+      "options": [
+        {
+          "id": "x01q1-a",
+          "text": "性恶指自然起点会自行固定为不受学习改变的恶质。",
+          "feedback": "这一项准确指出把自然起点固定化会取消学习所造成的真实改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "x01q1-b",
+          "text": "性恶指自然起点不能自行形成礼义之善。",
+          "feedback": "问题在于没有识别出起点固定化才会取消学习改变。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x01q1-a",
+      "misconceptionId": "x01q1-single-wrong-step"
+    },
+    {
+      "id": "x01q2",
+      "kind": "boundary",
+      "prompt": "果子情境中，哪一步使欲求具有争乱风险？",
+      "targetNodeIds": [
+        "xunzi-01-claim"
+      ],
+      "options": [
+        {
+          "id": "x01q2-a",
+          "text": "双方都产生了想取得果子的愿望。",
+          "feedback": "问题在于把欲望出现直接当成争夺发生。",
+          "isCorrect": false
+        },
+        {
+          "id": "x01q2-b",
+          "text": "双方缺少可共同遵守的分配尺度。",
+          "feedback": "风险出现在同欲缺少共同分配尺度之时，而非愿望初起之际。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x01q2-b",
+      "misconceptionId": "x01q2-single-wrong-step"
+    },
+    {
+      "id": "x01q3",
+      "kind": "case",
+      "prompt": "哪一反诘真正触及性恶的定义压力？",
+      "targetNodeIds": [
+        "xunzi-01-claim"
+      ],
+      "options": [
+        {
+          "id": "x01q3-a",
+          "text": "生而具有的知能为何不算性中的善端条件。",
+          "feedback": "这一追问正面检验荀子为何不把天生知能算作现成善端。",
+          "isCorrect": true
+        },
+        {
+          "id": "x01q3-b",
+          "text": "声色之欲说明感官无法参与后天判断。",
+          "feedback": "问题在于由声色之欲推出感官不能参与后天判断。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x01q3-a",
+      "misconceptionId": "x01q3-single-wrong-step"
+    },
+    {
+      "id": "x01q4",
+      "kind": "comparison",
+      "prompt": "面对《性恶》这一篇名，较稳妥的做法是什么？",
+      "targetNodeIds": [
+        "xunzi-01-claim"
+      ],
+      "options": [
+        {
+          "id": "x01q4-a",
+          "text": "篇名可能经过编定，须结合正文论证判断其概括范围。",
+          "feedback": "篇名只能作为编纂线索，定义仍须由篇内论证和文本层次支持。",
+          "isCorrect": true
+        },
+        {
+          "id": "x01q4-b",
+          "text": "篇名可能经过编定，仍足以独自界定全篇论证范围。",
+          "feedback": "问题在于用篇名替代全篇论证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x01q4-a",
+      "misconceptionId": "x01q4-single-wrong-step"
+    },
+    {
+      "id": "x02q1",
+      "kind": "argument",
+      "prompt": "从欲望走向争乱的关键中介是什么？",
+      "targetNodeIds": [
+        "xunzi-02-claim"
+      ],
+      "options": [
+        {
+          "id": "x02q1-a",
+          "text": "求取缺少度量分界，又在有限物面前彼此冲突。",
+          "feedback": "争乱需要经过无度量的求取与有限资源相遇，不能从欲直接跳出。",
+          "isCorrect": true
+        },
+        {
+          "id": "x02q1-b",
+          "text": "欲望出现后会绕过求取与资源条件而直接造成争乱。",
+          "feedback": "问题在于删除求取、分界与资源条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x02q1-a",
+      "misconceptionId": "x02q1-single-wrong-step"
+    },
+    {
+      "id": "x02q2",
+      "kind": "boundary",
+      "prompt": "水源情境支持哪一种治理理解？",
+      "targetNodeIds": [
+        "xunzi-02-claim"
+      ],
+      "options": [
+        {
+          "id": "x02q2-a",
+          "text": "要求居民先消除口渴，再讨论水的分配。",
+          "feedback": "问题在于把治理条件设成不可能的去欲。",
+          "isCorrect": false
+        },
+        {
+          "id": "x02q2-b",
+          "text": "以可说明的配额导引求取，同时保障基本需要。",
+          "feedback": "配额既承认口渴，又把满足需要的方式置于可共同核对的规则中。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x02q2-b",
+      "misconceptionId": "x02q2-single-wrong-step"
+    },
+    {
+      "id": "x02q3",
+      "kind": "case",
+      "prompt": "哪一异议能限制欲望模型的解释范围？",
+      "targetNodeIds": [
+        "xunzi-02-claim"
+      ],
+      "options": [
+        {
+          "id": "x02q3-a",
+          "text": "有口渴欲求时，公共规则会因此失去作用。",
+          "feedback": "问题在于把有欲与无法协调错误地等同。",
+          "isCorrect": false
+        },
+        {
+          "id": "x02q3-b",
+          "text": "制度性垄断也会制造稀缺和冲突。",
+          "feedback": "这一异议把制度制造稀缺纳入因果链，避免只责怪个体欲望。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x02q3-b",
+      "misconceptionId": "x02q3-single-wrong-step"
+    },
+    {
+      "id": "x02q4",
+      "kind": "comparison",
+      "prompt": "争乱压力为何引向伪的讨论？",
+      "targetNodeIds": [
+        "xunzi-02-claim"
+      ],
+      "options": [
+        {
+          "id": "x02q4-a",
+          "text": "自然欲望本身会选出合宜的公共尺度。",
+          "feedback": "问题在于让自然欲望自行提供其所缺的尺度。",
+          "isCorrect": false
+        },
+        {
+          "id": "x02q4-b",
+          "text": "共同尺度需要心虑后形成的有意规范活动。",
+          "feedback": "自然倾向缺少公共分寸，所以必须引入经过思虑的规范制作。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x02q4-b",
+      "misconceptionId": "x02q4-single-wrong-step"
+    },
+    {
+      "id": "x03q1",
+      "kind": "argument",
+      "prompt": "伪在相关定义中首先指什么？",
+      "targetNodeIds": [
+        "xunzi-03-claim"
+      ],
+      "options": [
+        {
+          "id": "x03q1-a",
+          "text": "心虑之后能够实行且经积习成形的活动。",
+          "feedback": "此处的伪是有意制作与实行，不是现代语境中的虚假伪装。",
+          "isCorrect": true
+        },
+        {
+          "id": "x03q1-b",
+          "text": "为了私利而故意伪装真实意图的行为。",
+          "feedback": "问题在于以现代欺骗义替代有意作为义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x03q1-a",
+      "misconceptionId": "x03q1-single-wrong-step"
+    },
+    {
+      "id": "x03q2",
+      "kind": "boundary",
+      "prompt": "哪一项把“涂之人可以为禹”夸成已经成德？",
+      "targetNodeIds": [
+        "xunzi-03-claim"
+      ],
+      "options": [
+        {
+          "id": "x03q2-a",
+          "text": "普通人具有学习和实行仁义法正的条件。",
+          "feedback": "问题在于没有识别出条件与完成之间的夸张。",
+          "isCorrect": false
+        },
+        {
+          "id": "x03q2-b",
+          "text": "普通人在学习前已有完整的圣人品格。",
+          "feedback": "这一项正把可成的条件夸成学习前已经完成的圣人品格。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x03q2-b",
+      "misconceptionId": "x03q2-single-wrong-step"
+    },
+    {
+      "id": "x03q3",
+      "kind": "case",
+      "prompt": "哪一问题构成圣人发生学的循环压力？",
+      "targetNodeIds": [
+        "xunzi-03-claim"
+      ],
+      "options": [
+        {
+          "id": "x03q3-a",
+          "text": "圣人使用礼，所以普通人无法学习礼。",
+          "feedback": "问题在于从圣人使用礼推出他人不可学习。",
+          "isCorrect": false
+        },
+        {
+          "id": "x03q3-b",
+          "text": "礼塑造圣人，而最初礼又被说成由圣人制作。",
+          "feedback": "制作礼者又受礼塑造，正是首次创礼说明必须处理的循环。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x03q3-b",
+      "misconceptionId": "x03q3-single-wrong-step"
+    },
+    {
+      "id": "x03q4",
+      "kind": "comparison",
+      "prompt": "对首次创礼难题，哪一态度较合适？",
+      "targetNodeIds": [
+        "xunzi-03-claim"
+      ],
+      "options": [
+        {
+          "id": "x03q4-a",
+          "text": "用试错和累积缓解，同时承认文本没有完整发生史。",
+          "feedback": "试错说能缓和循环，同时保留原典没有完整发生史的证据边界。",
+          "isCorrect": true
+        },
+        {
+          "id": "x03q4-b",
+          "text": "把圣人称为天才，就视作已经解释了创礼机制。",
+          "feedback": "问题在于用赞誉性称号代替发生机制。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x03q4-a",
+      "misconceptionId": "x03q4-single-wrong-step"
+    },
+    {
+      "id": "x04q1",
+      "kind": "argument",
+      "prompt": "哪一项把法后王的可核优势偷换成时代价值优先？",
+      "targetNodeIds": [
+        "xunzi-04-claim"
+      ],
+      "options": [
+        {
+          "id": "x04q1-a",
+          "text": "近世制度年代较晚，价值次序因此自然高于古制。",
+          "feedback": "这一项正把较近材料的可核优势偷换成时代较晚便价值更高。",
+          "isCorrect": true
+        },
+        {
+          "id": "x04q1-b",
+          "text": "近世制度痕迹较可核，名物法度也较可用。",
+          "feedback": "问题在于没有识别出可核性与价值次序之间的偷换。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x04q1-a",
+      "misconceptionId": "x04q1-single-wrong-step"
+    },
+    {
+      "id": "x04q2",
+      "kind": "boundary",
+      "prompt": "近世土地档案应怎样使用？",
+      "targetNodeIds": [
+        "xunzi-04-claim"
+      ],
+      "options": [
+        {
+          "id": "x04q2-a",
+          "text": "先用它核对制度，再以礼义和实际治效审查。",
+          "feedback": "档案提供可查材料，规范取舍仍要经过礼义与治理效果的复核。",
+          "isCorrect": true
+        },
+        {
+          "id": "x04q2-b",
+          "text": "先用它核对制度，再把保存完整当作合义根据。",
+          "feedback": "问题在于让保存完整替代礼义与治效审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x04q2-a",
+      "misconceptionId": "x04q2-single-wrong-step"
+    },
+    {
+      "id": "x04q3",
+      "kind": "case",
+      "prompt": "哪一异议真正限制外在模型的权威？",
+      "targetNodeIds": [
+        "xunzi-04-claim"
+      ],
+      "options": [
+        {
+          "id": "x04q3-a",
+          "text": "规范来自外部会使学习者失去理由理解。",
+          "feedback": "问题在于把外部学习误写成理解能力消失。",
+          "isCorrect": false
+        },
+        {
+          "id": "x04q3-b",
+          "text": "老师、经典和惯例本身也会巩固既得权力。",
+          "feedback": "外在模型也可能承载权力，这才真正限制师法传统的自动权威。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x04q3-b",
+      "misconceptionId": "x04q3-single-wrong-step"
+    },
+    {
+      "id": "x04q4",
+      "kind": "comparison",
+      "prompt": "这里与积善成德的分工是什么？",
+      "targetNodeIds": [
+        "xunzi-04-claim"
+      ],
+      "options": [
+        {
+          "id": "x04q4-a",
+          "text": "师法经典提供规范模型，积善说明模型怎样成为稳定品格。",
+          "feedback": "取得规范来源与形成稳定品格是两个阶段，后者还需要长期积累。",
+          "isCorrect": true
+        },
+        {
+          "id": "x04q4-b",
+          "text": "师法经典提供规范模型，也同时使模型成为稳定品格。",
+          "feedback": "问题在于把取得模型等同于完成品格养成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x04q4-a",
+      "misconceptionId": "x04q4-single-wrong-step"
+    },
+    {
+      "id": "x05q1",
+      "kind": "argument",
+      "prompt": "积善成德强调的主要机制是什么？",
+      "targetNodeIds": [
+        "xunzi-05-claim"
+      ],
+      "options": [
+        {
+          "id": "x05q1-a",
+          "text": "连续实践与专一使规范形成稳定行动倾向。",
+          "feedback": "德性形成依赖反复、专一和时间，单次理解不足以建立倾向。",
+          "isCorrect": true
+        },
+        {
+          "id": "x05q1-b",
+          "text": "一次理解原则就完成了人格倾向的长期转变。",
+          "feedback": "问题在于把长期形成压缩成一次认知。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x05q1-a",
+      "misconceptionId": "x05q1-single-wrong-step"
+    },
+    {
+      "id": "x05q2",
+      "kind": "boundary",
+      "prompt": "称粮者反复偏袒说明了什么？",
+      "targetNodeIds": [
+        "xunzi-05-claim"
+      ],
+      "options": [
+        {
+          "id": "x05q2-a",
+          "text": "重复会自行筛除不义路径，使熟练方向转为礼义之善。",
+          "feedback": "问题在于让重复次数自行筛选规范方向。",
+          "isCorrect": false
+        },
+        {
+          "id": "x05q2-b",
+          "text": "重复会自行强化所走路径，但不会筛选路径是否合义。",
+          "feedback": "习惯强化的是既有路径，因此还要另外检验路径是否合义。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x05q2-b",
+      "misconceptionId": "x05q2-single-wrong-step"
+    },
+    {
+      "id": "x05q3",
+      "kind": "case",
+      "prompt": "哪一因素限制人人积累的现实机会？",
+      "targetNodeIds": [
+        "xunzi-05-claim"
+      ],
+      "options": [
+        {
+          "id": "x05q3-a",
+          "text": "贫困、创伤与危险会压缩持续实践的条件。",
+          "feedback": "持续实践需要现实条件，匮乏与危险会使成德机会不均。",
+          "isCorrect": true
+        },
+        {
+          "id": "x05q3-b",
+          "text": "身体条件相似会抵消环境对习惯的影响。",
+          "feedback": "问题在于否认环境对实践条件的塑形。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x05q3-a",
+      "misconceptionId": "x05q3-single-wrong-step"
+    },
+    {
+      "id": "x05q4",
+      "kind": "comparison",
+      "prompt": "积善为何引向心知问题？",
+      "targetNodeIds": [
+        "xunzi-05-claim"
+      ],
+      "options": [
+        {
+          "id": "x05q4-a",
+          "text": "积累依靠次数推进，不涉及感知判断与选择。",
+          "feedback": "问题在于删除积累过程中的判断与选择。",
+          "isCorrect": false
+        },
+        {
+          "id": "x05q4-b",
+          "text": "积累需要一个能比较标准并决定行动的主体。",
+          "feedback": "积累不是机械次数相加，其中始终有比较、判断和行动选择。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x05q4-b",
+      "misconceptionId": "x05q4-single-wrong-step"
+    },
+    {
+      "id": "x06q1",
+      "kind": "argument",
+      "prompt": "巡查者先见烟，再参照风向与炉灶记录判断起火点，这怎样对应天官与心？",
+      "targetNodeIds": [
+        "xunzi-06-claim"
+      ],
+      "options": [
+        {
+          "id": "x06q1-a",
+          "text": "心先确定对象所指，天官取得的差异只为既定判断补充例证。",
+          "feedback": "问题在于倒置证据取得与统合判断的次序。",
+          "isCorrect": false
+        },
+        {
+          "id": "x06q1-b",
+          "text": "天官取得对象差异，心参照记录统合材料而判断所指。",
+          "feedback": "对象差异先由天官取得，心再参照记录统合，证据与判断的次序没有倒置。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x06q1-b",
+      "misconceptionId": "x06q1-single-wrong-step"
+    },
+    {
+      "id": "x06q2",
+      "kind": "boundary",
+      "prompt": "夜间异响为何不能由耳朵单独判定？",
+      "targetNodeIds": [
+        "xunzi-06-claim"
+      ],
+      "options": [
+        {
+          "id": "x06q2-a",
+          "text": "声音的清晰程度本身即可承担原因判断。",
+          "feedback": "问题在于让声响清晰度替代多方原因解释。",
+          "isCorrect": false
+        },
+        {
+          "id": "x06q2-b",
+          "text": "声音还须同距离、经验和其他报告一起解释。",
+          "feedback": "听见只提供声响资料，因果判断还依赖情境与多方证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x06q2-b",
+      "misconceptionId": "x06q2-single-wrong-step"
+    },
+    {
+      "id": "x06q3",
+      "kind": "case",
+      "prompt": "心为形之君不应推出什么？",
+      "targetNodeIds": [
+        "xunzi-06-claim"
+      ],
+      "options": [
+        {
+          "id": "x06q3-a",
+          "text": "心可脱离身体习惯，单凭命令控制情绪。",
+          "feedback": "统合与发令不等于脱离身体条件的无限意志控制。",
+          "isCorrect": true
+        },
+        {
+          "id": "x06q3-b",
+          "text": "心在信息统合和行动发令中占重要位置。",
+          "feedback": "问题在于把统合位置夸大为无限意志。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x06q3-a",
+      "misconceptionId": "x06q3-single-wrong-step"
+    },
+    {
+      "id": "x06q4",
+      "kind": "comparison",
+      "prompt": "心知为何仍需解蔽？",
+      "targetNodeIds": [
+        "xunzi-06-claim"
+      ],
+      "options": [
+        {
+          "id": "x06q4-a",
+          "text": "发令判断可能调度多种材料，因而不会遗漏其他证据。",
+          "feedback": "问题在于由调度材料推出判断不会遗漏。",
+          "isCorrect": false
+        },
+        {
+          "id": "x06q4-b",
+          "text": "发令判断可能受旧见遮蔽，也可能遗漏其他证据。",
+          "feedback": "心能统合也会偏蔽，因此发令地位不能保证判断已经周全。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x06q4-b",
+      "misconceptionId": "x06q4-single-wrong-step"
+    },
+    {
+      "id": "x07q1",
+      "kind": "argument",
+      "prompt": "虚在解蔽中的作用是什么？",
+      "targetNodeIds": [
+        "xunzi-07-claim"
+      ],
+      "options": [
+        {
+          "id": "x07q1-a",
+          "text": "把先前所知清空，使心不再保留已有内容。",
+          "feedback": "问题在于把不妨碍新知改成消灭旧知。",
+          "isCorrect": false
+        },
+        {
+          "id": "x07q1-b",
+          "text": "让新知进入，而不要求抹去先前所知的内容。",
+          "feedback": "虚要求旧知不妨碍新证据进入，并不要求清空记忆。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x07q1-b",
+      "misconceptionId": "x07q1-single-wrong-step"
+    },
+    {
+      "id": "x07q2",
+      "kind": "boundary",
+      "prompt": "医者统合症状与检验体现了壹的哪一面？",
+      "targetNodeIds": [
+        "xunzi-07-claim"
+      ],
+      "options": [
+        {
+          "id": "x07q2-a",
+          "text": "使多端在同一判断中互不遮蔽。",
+          "feedback": "壹是在一个判断中贯通多项证据，不是执守最先出现的一端。",
+          "isCorrect": true
+        },
+        {
+          "id": "x07q2-b",
+          "text": "只保留最先出现的一项证据。",
+          "feedback": "问题在于把统合多端改成固守一端。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x07q2-a",
+      "misconceptionId": "x07q2-single-wrong-step"
+    },
+    {
+      "id": "x07q3",
+      "kind": "case",
+      "prompt": "怎样呈现《庄子》的异议才较公平？",
+      "targetNodeIds": [
+        "xunzi-07-claim"
+      ],
+      "options": [
+        {
+          "id": "x07q3-a",
+          "text": "它认为分类风险使日常语言不再具有公共协调用途。",
+          "feedback": "问题在于把分类警惕扩大为日常语言失去公共协调用途。",
+          "isCorrect": false
+        },
+        {
+          "id": "x07q3-b",
+          "text": "它警惕成心和强制分类，却不必否认日常语言使用。",
+          "feedback": "成心批判针对分类的终极化，仍容许处境中的语言交往。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x07q3-b",
+      "misconceptionId": "x07q3-single-wrong-step"
+    },
+    {
+      "id": "x07q4",
+      "kind": "comparison",
+      "prompt": "荀子的共同规范回应仍留下什么问题？",
+      "targetNodeIds": [
+        "xunzi-07-claim"
+      ],
+      "options": [
+        {
+          "id": "x07q4-a",
+          "text": "规范由谁确定以及分类怎样避免强制固化。",
+          "feedback": "共同标准有协调功能，却仍须回答命名权与修订程序的问题。",
+          "isCorrect": true
+        },
+        {
+          "id": "x07q4-b",
+          "text": "共同规范的协调功能会消除视角和权力问题。",
+          "feedback": "问题在于把协调功能当成已经消除权力风险。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x07q4-a",
+      "misconceptionId": "x07q4-single-wrong-step"
+    },
+    {
+      "id": "x08q1",
+      "kind": "argument",
+      "prompt": "名无固宜与约定俗成合起来说明什么？",
+      "targetNodeIds": [
+        "xunzi-08-claim"
+      ],
+      "options": [
+        {
+          "id": "x08q1-a",
+          "text": "名称无天生声音，却能因共同使用获得适宜性。",
+          "feedback": "声音没有天赋名称，但共同使用能建立可持续的公共适宜性。",
+          "isCorrect": true
+        },
+        {
+          "id": "x08q1-b",
+          "text": "名称既无天生声音，也不受共同使用约束。",
+          "feedback": "问题在于删去约定俗成带来的公共稳定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x08q1-a",
+      "misconceptionId": "x08q1-single-wrong-step"
+    },
+    {
+      "id": "x08q2",
+      "kind": "boundary",
+      "prompt": "发霉粮食的情境显示哪种约束？",
+      "targetNodeIds": [
+        "xunzi-08-claim"
+      ],
+      "options": [
+        {
+          "id": "x08q2-a",
+          "text": "检验与食用后果能够反驳误导性的称谓。",
+          "feedback": "对象后果可以反驳错误称谓，说明制名并不能任意改造实物。",
+          "isCorrect": true
+        },
+        {
+          "id": "x08q2-b",
+          "text": "掌权者改名以后，粮食性质也随称谓改变。",
+          "feedback": "问题在于把符号更换当成对象性质更换。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x08q2-a",
+      "misconceptionId": "x08q2-single-wrong-step"
+    },
+    {
+      "id": "x08q3",
+      "kind": "case",
+      "prompt": "统一称谓便于共同核验时，最强的政治异议是什么？",
+      "targetNodeIds": [
+        "xunzi-08-claim"
+      ],
+      "options": [
+        {
+          "id": "x08q3-a",
+          "text": "共同核验的便利已经回应了可争解释被排除的风险。",
+          "feedback": "问题在于用协调便利消解掌名权的异议。",
+          "isCorrect": false
+        },
+        {
+          "id": "x08q3-b",
+          "text": "掌名者仍可能把可争解释排除在公共讨论之外。",
+          "feedback": "共同核验的便利不能自行回答掌名者是否排除了可争解释。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x08q3-b",
+      "misconceptionId": "x08q3-single-wrong-step"
+    },
+    {
+      "id": "x08q4",
+      "kind": "comparison",
+      "prompt": "后王名制较可用为何仍不够？",
+      "targetNodeIds": [
+        "xunzi-08-claim"
+      ],
+      "options": [
+        {
+          "id": "x08q4-a",
+          "text": "较近的名制因容易查用而取得优先采用的规范地位。",
+          "feedback": "问题在于由较近可查直接推出规范优先。",
+          "isCorrect": false
+        },
+        {
+          "id": "x08q4-b",
+          "text": "可用性还须接受名实、礼义与治理后果的审查。",
+          "feedback": "较近名制便于查用，却仍须接受名实与治理后果的规范审核。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x08q4-b",
+      "misconceptionId": "x08q4-single-wrong-step"
+    },
+    {
+      "id": "x09q1",
+      "kind": "argument",
+      "prompt": "哪一说法把欲望强度误作争夺本身？",
+      "targetNodeIds": [
+        "xunzi-09-claim"
+      ],
+      "options": [
+        {
+          "id": "x09q1-a",
+          "text": "欲求面向有限物而没有共同分界时，求取会转为争夺。",
+          "feedback": "问题在于没有按题干识别强度与争夺之间的跳步。",
+          "isCorrect": false
+        },
+        {
+          "id": "x09q1-b",
+          "text": "欲求面向有限物而强度不同时，较强欲求本身就构成争夺。",
+          "feedback": "这一项正把欲望强度直接当成争夺，省略了有限物与共同分界的中介。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x09q1-b",
+      "misconceptionId": "x09q1-single-wrong-step"
+    },
+    {
+      "id": "x09q2",
+      "kind": "boundary",
+      "prompt": "人为制作为何不等于任意制作？",
+      "targetNodeIds": [
+        "xunzi-09-claim"
+      ],
+      "options": [
+        {
+          "id": "x09q2-a",
+          "text": "制作受人情、物资条件与止争养欲的后果约束。",
+          "feedback": "人情、物资和止争养欲的效果共同限制制作，圣王也不能免责。",
+          "isCorrect": true
+        },
+        {
+          "id": "x09q2-b",
+          "text": "圣王身份可以替代对具体安排功能与后果的审查。",
+          "feedback": "问题在于用制作者身份替代功能与规范审查。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x09q2-a",
+      "misconceptionId": "x09q2-single-wrong-step"
+    },
+    {
+      "id": "x09q3",
+      "kind": "case",
+      "prompt": "集市规则的哪一处仍需独立辩护？",
+      "targetNodeIds": [
+        "xunzi-09-claim"
+      ],
+      "options": [
+        {
+          "id": "x09q3-a",
+          "text": "最佳位置为何永久只给权贵。",
+          "feedback": "通道有安全理由，永久特权却需要另一套不能省略的辩护。",
+          "isCorrect": true
+        },
+        {
+          "id": "x09q3-b",
+          "text": "公共通道为何需要保持畅通。",
+          "feedback": "问题在于攻击已有公共安全理由，而未指出特权跳步。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x09q3-a",
+      "misconceptionId": "x09q3-single-wrong-step"
+    },
+    {
+      "id": "x09q4",
+      "kind": "comparison",
+      "prompt": "从规则必要能否推出各项差等正当？",
+      "targetNodeIds": [
+        "xunzi-09-claim"
+      ],
+      "options": [
+        {
+          "id": "x09q4-a",
+          "text": "不能，具体差等仍须分别检验其功能和代价。",
+          "feedback": "共同规则的需要只建立一般前提，不能替每项差等完成论证。",
+          "isCorrect": true
+        },
+        {
+          "id": "x09q4-b",
+          "text": "能，规则的一般需要可替各项差等提供同一正当理由。",
+          "feedback": "问题在于从一般必要性跳到每项制度正当。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x09q4-a",
+      "misconceptionId": "x09q4-single-wrong-step"
+    },
+    {
+      "id": "x10q1",
+      "kind": "argument",
+      "prompt": "礼者养也主要反驳哪种理解？",
+      "targetNodeIds": [
+        "xunzi-10-claim"
+      ],
+      "options": [
+        {
+          "id": "x10q1-a",
+          "text": "礼既有供养功能，也需要分配物资。",
+          "feedback": "问题在于把荀子明确主张的养误作应被反驳。",
+          "isCorrect": false
+        },
+        {
+          "id": "x10q1-b",
+          "text": "礼只会压抑欲望而不提供合宜满足。",
+          "feedback": "养说明礼也安排合宜满足，不能把它缩成单向压抑。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x10q1-b",
+      "misconceptionId": "x10q1-single-wrong-step"
+    },
+    {
+      "id": "x10q2",
+      "kind": "boundary",
+      "prompt": "丧礼的时间形式可发挥什么作用？",
+      "targetNodeIds": [
+        "xunzi-10-claim"
+      ],
+      "options": [
+        {
+          "id": "x10q2-a",
+          "text": "让哀痛获得表达并逐渐回到日常生活。",
+          "feedback": "丧礼以时间安顿哀痛，这是文化作用而不是死后享用的证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "x10q2-b",
+          "text": "让器物安排成为死者仍实际享用它们的根据。",
+          "feedback": "问题在于把文化表达当作死者享用的根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x10q2-a",
+      "misconceptionId": "x10q2-single-wrong-step"
+    },
+    {
+      "id": "x10q3",
+      "kind": "case",
+      "prompt": "哪一异议最直接限制礼能养的说法？",
+      "targetNodeIds": [
+        "xunzi-10-claim"
+      ],
+      "options": [
+        {
+          "id": "x10q3-a",
+          "text": "礼通过器物、时序和角色组织哀乐表达。",
+          "feedback": "问题在于用礼的表达机制回答供养是否按等级公平。",
+          "isCorrect": false
+        },
+        {
+          "id": "x10q3-b",
+          "text": "供养按等级悬殊分配时，礼能养仍受限制。",
+          "feedback": "供养若沿等级严重倾斜，礼能养便不等于所有人都得到养。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x10q3-b",
+      "misconceptionId": "x10q3-single-wrong-step"
+    },
+    {
+      "id": "x10q4",
+      "kind": "comparison",
+      "prompt": "礼与乐为何需要分开说明？",
+      "targetNodeIds": [
+        "xunzi-10-claim"
+      ],
+      "options": [
+        {
+          "id": "x10q4-a",
+          "text": "礼偏重别异节文，乐偏重和同节奏。",
+          "feedback": "别异与和同是可区分又相互配合的两种礼乐功能。",
+          "isCorrect": true
+        },
+        {
+          "id": "x10q4-b",
+          "text": "名称有别说明两者作用互不关联。",
+          "feedback": "问题在于从功能可分推出两者毫无关联。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x10q4-a",
+      "misconceptionId": "x10q4-single-wrong-step"
+    },
+    {
+      "id": "x11q1",
+      "kind": "argument",
+      "prompt": "乐合同较可信的机制是什么？",
+      "targetNodeIds": [
+        "xunzi-11-claim"
+      ],
+      "options": [
+        {
+          "id": "x11q1-a",
+          "text": "共同节奏、身体参与和反复场景塑造情感。",
+          "feedback": "节奏、身体与重复场景提供了情感塑形的可说明中介。",
+          "isCorrect": true
+        },
+        {
+          "id": "x11q1-b",
+          "text": "声音出现时会跳过中介条件而制造德性。",
+          "feedback": "问题在于把有条件的塑形夸成自动因果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x11q1-a",
+      "misconceptionId": "x11q1-single-wrong-step"
+    },
+    {
+      "id": "x11q2",
+      "kind": "boundary",
+      "prompt": "墨家如何审查饥荒后的大型乐舞？",
+      "targetNodeIds": [
+        "xunzi-11-claim"
+      ],
+      "options": [
+        {
+          "id": "x11q2-a",
+          "text": "比较公共收益与被挤占的粮食、劳力和时间。",
+          "feedback": "墨家首先核算公共收益及被挤占资源，而非预先取消审美价值。",
+          "isCorrect": true
+        },
+        {
+          "id": "x11q2-b",
+          "text": "只核算乐舞的审美感染，不计粮食劳力成本。",
+          "feedback": "问题在于把机会成本审查删成只看审美感染。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x11q2-a",
+      "misconceptionId": "x11q2-single-wrong-step"
+    },
+    {
+      "id": "x11q3",
+      "kind": "case",
+      "prompt": "兼爱不应被理解为什么？",
+      "targetNodeIds": [
+        "xunzi-11-claim"
+      ],
+      "options": [
+        {
+          "id": "x11q3-a",
+          "text": "要求不把陌生人的利益排除在道德计算外。",
+          "feedback": "问题在于把利益关切误作情感等强。",
+          "isCorrect": false
+        },
+        {
+          "id": "x11q3-b",
+          "text": "要求亲疏关系维持同等的情感强度。",
+          "feedback": "兼爱扩大的是利益关切范围，不要求亲疏感受在心理上等量。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x11q3-b",
+      "misconceptionId": "x11q3-single-wrong-step"
+    },
+    {
+      "id": "x11q4",
+      "kind": "comparison",
+      "prompt": "荀子的乐论何时回应不足？",
+      "targetNodeIds": [
+        "xunzi-11-claim"
+      ],
+      "options": [
+        {
+          "id": "x11q4-a",
+          "text": "音乐通过共同参与形成可观察的情感变化时。",
+          "feedback": "问题在于把可能的作用机制当成回应失败条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "x11q4-b",
+          "text": "公共收益不能抵偿奢侈和征发造成的代价时。",
+          "feedback": "若奢费超过公共收益，情感塑形机制也不足以完成公利答辩。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x11q4-b",
+      "misconceptionId": "x11q4-single-wrong-step"
+    },
+    {
+      "id": "x12q1",
+      "kind": "argument",
+      "prompt": "哪一种过程更能形成君子的稳定品格？",
+      "targetNodeIds": [
+        "xunzi-12-claim"
+      ],
+      "options": [
+        {
+          "id": "x12q1-a",
+          "text": "持续获得君子称谓与群体认可，使受认可的选择逐渐稳定。",
+          "feedback": "问题在于用称谓与认可替代按义实践。",
+          "isCorrect": false
+        },
+        {
+          "id": "x12q1-b",
+          "text": "持续按义学习、判断并行动，使可复核的选择逐渐稳定。",
+          "feedback": "稳定品格由可复核的学习、判断与行动积成，不能用称谓和认可代替。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x12q1-b",
+      "misconceptionId": "x12q1-single-wrong-step"
+    },
+    {
+      "id": "x12q2",
+      "kind": "boundary",
+      "prompt": "粮仓情境中，怎样的揭露较符合不苟？",
+      "targetNodeIds": [
+        "xunzi-12-claim"
+      ],
+      "options": [
+        {
+          "id": "x12q2-a",
+          "text": "说明虚报损害民生与信用，并据此行动。",
+          "feedback": "不苟要求揭露依据民生与信用理由，而不是追求勇敢姿态。",
+          "isCorrect": true
+        },
+        {
+          "id": "x12q2-b",
+          "text": "揭露显得罕见勇敢时，可以不再追问后果。",
+          "feedback": "问题在于把罕见勇敢本身当作充分理由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x12q2-a",
+      "misconceptionId": "x12q2-single-wrong-step"
+    },
+    {
+      "id": "x12q3",
+      "kind": "case",
+      "prompt": "哪一异议能防止把君子写成温顺精英？",
+      "targetNodeIds": [
+        "xunzi-12-claim"
+      ],
+      "options": [
+        {
+          "id": "x12q3-a",
+          "text": "礼貌服从可能不义，正当愤怒与拒绝也可能合义。",
+          "feedback": "正当拒绝能揭示礼貌外观与合义行动并非同一回事。",
+          "isCorrect": true
+        },
+        {
+          "id": "x12q3-b",
+          "text": "礼貌服从可能受赞许，因而正当愤怒与拒绝通常不合义。",
+          "feedback": "问题在于用礼貌所获赞许排除正当拒绝。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x12q3-a",
+      "misconceptionId": "x12q3-single-wrong-step"
+    },
+    {
+      "id": "x12q4",
+      "kind": "comparison",
+      "prompt": "慎独主要检验什么？",
+      "targetNodeIds": [
+        "xunzi-12-claim"
+      ],
+      "options": [
+        {
+          "id": "x12q4-a",
+          "text": "无人监督时能否仍按承认的理由行动。",
+          "feedback": "慎独检验理由能否在无人观看时继续支配行动。",
+          "isCorrect": true
+        },
+        {
+          "id": "x12q4-b",
+          "text": "有观众赞誉时能否展示更复杂的仪节。",
+          "feedback": "问题在于把内在一致性改成公开表演。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x12q4-a",
+      "misconceptionId": "x12q4-single-wrong-step"
+    },
+    {
+      "id": "x13q1",
+      "kind": "argument",
+      "prompt": "人能群的力量链怎样展开？",
+      "targetNodeIds": [
+        "xunzi-13-claim"
+      ],
+      "options": [
+        {
+          "id": "x13q1-a",
+          "text": "群只须累加个体体力，不必经义协调角色与责任。",
+          "feedback": "问题在于用体力累加替代以义协调。",
+          "isCorrect": false
+        },
+        {
+          "id": "x13q1-b",
+          "text": "群须有分，分由义行，和一之后形成多力。",
+          "feedback": "分工经义协调而达到和，才把个体能力转成群体力量。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x13q1-b",
+      "misconceptionId": "x13q1-single-wrong-step"
+    },
+    {
+      "id": "x13q2",
+      "kind": "boundary",
+      "prompt": "治水分工何时较有正当理由？",
+      "targetNodeIds": [
+        "xunzi-13-claim"
+      ],
+      "options": [
+        {
+          "id": "x13q2-a",
+          "text": "职责差异服务共同安全且成果不被独占。",
+          "feedback": "职责差异只有服务共同安全且不独占成果时才获得理由。",
+          "isCorrect": true
+        },
+        {
+          "id": "x13q2-b",
+          "text": "调度职位使成果独占不再需要说明。",
+          "feedback": "问题在于让职位差异直接授权成果独占。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x13q2-a",
+      "misconceptionId": "x13q2-single-wrong-step"
+    },
+    {
+      "id": "x13q3",
+      "kind": "case",
+      "prompt": "从协作需要不能推出什么？",
+      "targetNodeIds": [
+        "xunzi-13-claim"
+      ],
+      "options": [
+        {
+          "id": "x13q3-a",
+          "text": "身份贵贱固定且低位者应持续服从。",
+          "feedback": "协作需要角色协调，却没有由此证明身份固定与永久服从。",
+          "isCorrect": true
+        },
+        {
+          "id": "x13q3-b",
+          "text": "复杂工作需要一定角色协调。",
+          "feedback": "问题在于把合理的协调需要误作被否定对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x13q3-a",
+      "misconceptionId": "x13q3-single-wrong-step"
+    },
+    {
+      "id": "x13q4",
+      "kind": "comparison",
+      "prompt": "表面和为何仍需义的检验？",
+      "targetNodeIds": [
+        "xunzi-13-claim"
+      ],
+      "options": [
+        {
+          "id": "x13q4-a",
+          "text": "安静可能来自不同原因，但无公开冲突便足以判定分配合义。",
+          "feedback": "问题在于用无公开冲突替代对分配理由的检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "x13q4-b",
+          "text": "安静可能来自合义协调，也可能来自恐惧和不义分配。",
+          "feedback": "恐惧也能制造安静，所以无冲突不能替代正当性检验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x13q4-b",
+      "misconceptionId": "x13q4-single-wrong-step"
+    },
+    {
+      "id": "x14q1",
+      "kind": "argument",
+      "prompt": "富国为何不能只看府库眼前增加？",
+      "targetNodeIds": [
+        "xunzi-14-claim"
+      ],
+      "options": [
+        {
+          "id": "x14q1-a",
+          "text": "库存增长可替代生产延续、民生和来年税基的分别核对。",
+          "feedback": "问题在于用当期库存替代跨期生产与民生核对。",
+          "isCorrect": false
+        },
+        {
+          "id": "x14q1-b",
+          "text": "库存增长还须与生产延续、民生和来年税基一同核对。",
+          "feedback": "搜括可能短期充库却损伤再生产，富国必须观察民生的持续条件。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x14q1-b",
+      "misconceptionId": "x14q1-single-wrong-step"
+    },
+    {
+      "id": "x14q2",
+      "kind": "boundary",
+      "prompt": "王与霸的层级差异应怎样理解？",
+      "targetNodeIds": [
+        "xunzi-14-claim"
+      ],
+      "options": [
+        {
+          "id": "x14q2-a",
+          "text": "王与霸的政治层级只由军力规模多寡决定。",
+          "feedback": "问题在于用军力多寡替代王霸的政治目的差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "x14q2-b",
+          "text": "霸可凭守信获稳定，王还以礼义养民和贤能归附。",
+          "feedback": "霸仍可凭信用稳定，王道另以礼义、养民和贤能提高政治目的。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x14q2-b",
+      "misconceptionId": "x14q2-single-wrong-step"
+    },
+    {
+      "id": "x14q3",
+      "kind": "case",
+      "prompt": "爱民说最需要保留哪一异议？",
+      "targetNodeIds": [
+        "xunzi-14-claim"
+      ],
+      "options": [
+        {
+          "id": "x14q3-a",
+          "text": "上位者会以善意之名替民众决定且缺少问责。",
+          "feedback": "爱民仍可能由上位者代言，授权与问责缺口因此必须保留。",
+          "isCorrect": true
+        },
+        {
+          "id": "x14q3-b",
+          "text": "爱民要求国家把职位差异改成长期固定的轮换。",
+          "feedback": "问题在于把问责缺口改写成职位必须轮换。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x14q3-a",
+      "misconceptionId": "x14q3-single-wrong-step"
+    },
+    {
+      "id": "x14q4",
+      "kind": "comparison",
+      "prompt": "为何不能用军事胜利来判定王道？",
+      "targetNodeIds": [
+        "xunzi-14-claim"
+      ],
+      "options": [
+        {
+          "id": "x14q4-a",
+          "text": "胜利说明执行奏效，养民与礼义目的仍须另行审查。",
+          "feedback": "胜利只显示执行成功，无法独自证明战争目的合乎王道。",
+          "isCorrect": true
+        },
+        {
+          "id": "x14q4-b",
+          "text": "胜利说明执行奏效，也为养民与礼义目的提供正当根据。",
+          "feedback": "问题在于把执行奏效升格为目的正当根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x14q4-a",
+      "misconceptionId": "x14q4-single-wrong-step"
+    },
+    {
+      "id": "x15q1",
+      "kind": "argument",
+      "prompt": "法势刑首先解决哪一类问题？",
+      "targetNodeIds": [
+        "xunzi-15-claim"
+      ],
+      "options": [
+        {
+          "id": "x15q1-a",
+          "text": "礼义目的可凭法度的稳定执行获得正当性。",
+          "feedback": "问题在于让执行手段自行证明规范目的。",
+          "isCorrect": false
+        },
+        {
+          "id": "x15q1-b",
+          "text": "公共要求怎样获得稳定且可重复的执行。",
+          "feedback": "法势刑处理的是要求如何持续执行，不负责自行创设正当目的。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x15q1-b",
+      "misconceptionId": "x15q1-single-wrong-step"
+    },
+    {
+      "id": "x15q2",
+      "kind": "boundary",
+      "prompt": "法家式最强动机是什么？",
+      "targetNodeIds": [
+        "xunzi-15-claim"
+      ],
+      "options": [
+        {
+          "id": "x15q2-a",
+          "text": "普通人常态下制度标准比寄望个人贤明更可靠。",
+          "feedback": "法家动机在于让庸常条件下的治理仍可预测，而非解释个人嗜好。",
+          "isCorrect": true
+        },
+        {
+          "id": "x15q2-b",
+          "text": "法家动机在于让制度可靠性始终依赖贤君个人品格。",
+          "feedback": "问题在于把降低贤君依赖改成依赖贤君。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x15q2-a",
+      "misconceptionId": "x15q2-single-wrong-step"
+    },
+    {
+      "id": "x15q3",
+      "kind": "case",
+      "prompt": "义兵主张最危险的自证环节是什么？",
+      "targetNodeIds": [
+        "xunzi-15-claim"
+      ],
+      "options": [
+        {
+          "id": "x15q3-a",
+          "text": "出兵国自行认定代表礼义民心，又排除民众与第三方反证。",
+          "feedback": "当出兵国垄断礼义与民心的判断，义兵便会落入自我证明。",
+          "isCorrect": true
+        },
+        {
+          "id": "x15q3-b",
+          "text": "出兵国自行说明所称礼义民心，并容许民众与第三方反证。",
+          "feedback": "问题在于把容许外部反证误作国家自证。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x15q3-a",
+      "misconceptionId": "x15q3-single-wrong-step"
+    },
+    {
+      "id": "x15q4",
+      "kind": "comparison",
+      "prompt": "《议兵》的文本身份应怎样标明？",
+      "targetNodeIds": [
+        "xunzi-15-claim"
+      ],
+      "options": [
+        {
+          "id": "x15q4-a",
+          "text": "把含孙卿子称谓的记录判作荀况亲笔。",
+          "feedback": "问题在于把第三人称记录升级为亲笔独白。",
+          "isCorrect": false
+        },
+        {
+          "id": "x15q4-b",
+          "text": "含孙卿子称谓的门人记录或编辑场景。",
+          "feedback": "第三人称称谓提示门人记录或编辑层，结论强度须随之降低。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x15q4-b",
+      "misconceptionId": "x15q4-single-wrong-step"
+    },
+    {
+      "id": "x16q1",
+      "kind": "argument",
+      "prompt": "天行有常否定的是什么？",
+      "targetNodeIds": [
+        "xunzi-16-claim"
+      ],
+      "options": [
+        {
+          "id": "x16q1-a",
+          "text": "天会因尧桀善恶而临时改变基本运行。",
+          "feedback": "天行有常排除的是德性即时改天象，而不是排除自然时序。",
+          "isCorrect": true
+        },
+        {
+          "id": "x16q1-b",
+          "text": "自然过程具有可观察的时序与条件。",
+          "feedback": "问题在于把荀子承认的自然常则当成否定对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x16q1-a",
+      "misconceptionId": "x16q1-single-wrong-step"
+    },
+    {
+      "id": "x16q2",
+      "kind": "boundary",
+      "prompt": "两地旱灾后果不同主要说明什么？",
+      "targetNodeIds": [
+        "xunzi-16-claim"
+      ],
+      "options": [
+        {
+          "id": "x16q2-a",
+          "text": "善政会使天象依据政治得失调整降雨分布。",
+          "feedback": "问题在于把人事效果改成天象受命改变。",
+          "isCorrect": false
+        },
+        {
+          "id": "x16q2-b",
+          "text": "制度准备会改变同一自然条件造成的损害。",
+          "feedback": "相近天候造成不同损失，能够隔离出准备与分配的人事作用。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x16q2-b",
+      "misconceptionId": "x16q2-single-wrong-step"
+    },
+    {
+      "id": "x16q3",
+      "kind": "case",
+      "prompt": "制天命而用之不应被解释为什么？",
+      "targetNodeIds": [
+        "xunzi-16-claim"
+      ],
+      "options": [
+        {
+          "id": "x16q3-a",
+          "text": "顺应四时地利安排利用，并依据长期反馈调整。",
+          "feedback": "问题在于把循常利用夸成无边界征服。",
+          "isCorrect": false
+        },
+        {
+          "id": "x16q3-b",
+          "text": "无视生态限度持续扩大征服，仿佛自然没有反馈。",
+          "feedback": "无视生态限度的征服论越过了循常利用所容许的边界。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x16q3-b",
+      "misconceptionId": "x16q3-single-wrong-step"
+    },
+    {
+      "id": "x16q4",
+      "kind": "comparison",
+      "prompt": "雩祭后降雨为何不足以建立祭祀因果？",
+      "targetNodeIds": [
+        "xunzi-16-claim"
+      ],
+      "options": [
+        {
+          "id": "x16q4-a",
+          "text": "先后相邻尚未排除天气变化的其他原因。",
+          "feedback": "时间相邻尚未排除其他成因，因此不能单独建立降雨因果。",
+          "isCorrect": true
+        },
+        {
+          "id": "x16q4-b",
+          "text": "仪式承载共同焦虑说明它也造成天气变化。",
+          "feedback": "问题在于由文化表达功能推出自然因果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x16q4-a",
+      "misconceptionId": "x16q4-single-wrong-step"
+    },
+    {
+      "id": "x17q1",
+      "kind": "argument",
+      "prompt": "怎样呈现孟子的性善较公平？",
+      "targetNodeIds": [
+        "xunzi-17-claim"
+      ],
+      "options": [
+        {
+          "id": "x17q1-a",
+          "text": "四端是现实品格的完成状态，扩充只增加外在知识。",
+          "feedback": "问题在于把道德开端改成现实品格的完成状态。",
+          "isCorrect": false
+        },
+        {
+          "id": "x17q1-b",
+          "text": "四端是需要扩充与养护的道德开端。",
+          "feedback": "四端是有待扩充的开端，性善并没有省去养成与环境。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x17q1-b",
+      "misconceptionId": "x17q1-single-wrong-step"
+    },
+    {
+      "id": "x17q2",
+      "kind": "boundary",
+      "prompt": "墨家审查礼乐的最强问题是什么？",
+      "targetNodeIds": [
+        "xunzi-17-claim"
+      ],
+      "options": [
+        {
+          "id": "x17q2-a",
+          "text": "公共收益能否抵偿稀缺资源的机会成本。",
+          "feedback": "墨家的强项是以稀缺条件核算礼乐成本及其公共回报。",
+          "isCorrect": true
+        },
+        {
+          "id": "x17q2-b",
+          "text": "音乐是否让亲疏关系保持同等情感。",
+          "feedback": "问题在于把公利审查改成情感等强要求。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x17q2-a",
+      "misconceptionId": "x17q2-single-wrong-step"
+    },
+    {
+      "id": "x17q3",
+      "kind": "case",
+      "prompt": "哪一项把《庄子》的分类警惕夸成否定语言实践？",
+      "targetNodeIds": [
+        "xunzi-17-claim"
+      ],
+      "options": [
+        {
+          "id": "x17q3-a",
+          "text": "反对成心固化的终极强制分类，不必否认日常语言。",
+          "feedback": "问题在于没有按题干识别从分类警惕到语言失效的夸张。",
+          "isCorrect": false
+        },
+        {
+          "id": "x17q3-b",
+          "text": "日常称谓因分类风险而不再具备稳定的公共使用价值。",
+          "feedback": "这一项正把对终极强制分类的警惕扩大成日常称谓失去公共用途。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x17q3-b",
+      "misconceptionId": "x17q3-single-wrong-step"
+    },
+    {
+      "id": "x17q4",
+      "kind": "comparison",
+      "prompt": "荀子回应制度执行压力时，为何仍不能直接归入法家？",
+      "targetNodeIds": [
+        "xunzi-17-claim"
+      ],
+      "options": [
+        {
+          "id": "x17q4-a",
+          "text": "他借助法度职位处理执行，因而以执行可靠性反过来替代礼义目的。",
+          "feedback": "问题在于用执行可靠性替代制度的礼义目的。",
+          "isCorrect": false
+        },
+        {
+          "id": "x17q4-b",
+          "text": "他借助法度职位处理执行，却仍以礼义、养民与成德校验目的。",
+          "feedback": "法度职位可回应执行，但可靠手段仍受礼义、养民与成德目的校验。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x17q4-b",
+      "misconceptionId": "x17q4-single-wrong-step"
+    },
+    {
+      "id": "x18q1",
+      "kind": "argument",
+      "prompt": "现存篇序为何不能直接当成思想发展次序？",
+      "targetNodeIds": [
+        "xunzi-18-claim"
+      ],
+      "options": [
+        {
+          "id": "x18q1-a",
+          "text": "篇章经过刘向校书与后世重编，现序不能标示各篇成文先后。",
+          "feedback": "刘向校书与后世重编改变篇章次序，主题排列不能充当成文年表。",
+          "isCorrect": true
+        },
+        {
+          "id": "x18q1-b",
+          "text": "篇章虽经刘向校书与后世重编，主题递进仍足以标示成文先后。",
+          "feedback": "问题在于用主题编排替代成文年代证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "x18q1-a",
+      "misconceptionId": "x18q1-single-wrong-step"
+    },
+    {
+      "id": "x18q2",
+      "kind": "boundary",
+      "prompt": "孙卿子称谓较能支持哪种判断？",
+      "targetNodeIds": [
+        "xunzi-18-claim"
+      ],
+      "options": [
+        {
+          "id": "x18q2-a",
+          "text": "相关文字可判作荀况未经转述的亲笔独白。",
+          "feedback": "问题在于把第三人称记录提升为亲笔。",
+          "isCorrect": false
+        },
+        {
+          "id": "x18q2-b",
+          "text": "相关论辩至少经过门人记录或编辑。",
+          "feedback": "孙卿子称谓支持记录或编辑层判断，不能升级成未经转述的亲笔。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x18q2-b",
+      "misconceptionId": "x18q2-single-wrong-step"
+    },
+    {
+      "id": "x18q3",
+      "kind": "case",
+      "prompt": "怎样处理后世评价较稳妥？",
+      "targetNodeIds": [
+        "xunzi-18-claim"
+      ],
+      "options": [
+        {
+          "id": "x18q3-a",
+          "text": "把汉唐宋明清及近现代合成同一种误读。",
+          "feedback": "问题在于抹平各时期问题和材料差异。",
+          "isCorrect": false
+        },
+        {
+          "id": "x18q3-b",
+          "text": "按时代区分传承载体、评价问题与政治语境。",
+          "feedback": "分期能保留各时代的材料、问题和政治处境，不把评价压成一线。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x18q3-b",
+      "misconceptionId": "x18q3-single-wrong-step"
+    },
+    {
+      "id": "x18q4",
+      "kind": "comparison",
+      "prompt": "强调复合文本的过度做法是什么？",
+      "targetNodeIds": [
+        "xunzi-18-claim"
+      ],
+      "options": [
+        {
+          "id": "x18q4-a",
+          "text": "为各类材料标明文本身份和各自相应的结论强度。",
+          "feedback": "问题在于把必要的证据分层当成过度怀疑。",
+          "isCorrect": false
+        },
+        {
+          "id": "x18q4-b",
+          "text": "把每一处张力都任意归给编者而拒绝体系讨论。",
+          "feedback": "把所有张力任意归给编者会取消可由稳定材料支持的体系讨论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "x18q4-b",
+      "misconceptionId": "x18q4-single-wrong-step"
+    }
+  ]
+}

@@ -1,0 +1,3680 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "dewey-01-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "统一若不再由绝对精神担保",
+      "explanation": "既不把人拆成孤立感觉，也不诉诸一个预先完成的绝对整体，经验的统一还能怎样成立？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-psychology-1887",
+        "jd-ethics-democracy-1888",
+        "jd-absolutism-1930"
+      ],
+      "abilityIds": [
+        "dewey-01-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-02-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "火焰不是先刺激、后反应",
+      "explanation": "实验心理学需要区分刺激与反应，但为何不能把它们当成相互独立的事件？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-reflex-arc-1896",
+        "jd-absolutism-1930"
+      ],
+      "abilityIds": [
+        "dewey-02-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-03-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "习惯既让人能行动，也替制度行动",
+      "explanation": "如果习惯构成性格和能力，人怎样避免只是由既有环境自动运转？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-human-nature-1922"
+      ],
+      "abilityIds": [
+        "dewey-03-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-04-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "经验不是心灵里的一层薄膜",
+      "explanation": "若经验既包括直接质感又包括社会制度，它如何仍属于自然过程而非包罗万象的空词？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-immediate-empiricism-1905",
+        "jd-experience-nature-1925"
+      ],
+      "abilityIds": [
+        "dewey-04-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-05-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "确定性为何被安置在行动之外",
+      "explanation": "拒绝不可变的绝对确定性，怎样不滑成对知识可靠性的轻率放弃？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-reconstruction-1920",
+        "jd-quest-certainty-1929"
+      ],
+      "abilityIds": [
+        "dewey-05-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-06-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "问题不是脑中先冒出的问号",
+      "explanation": "探究怎样从真实失衡开始，而不被压成一套随处套用的解题步骤？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-how-we-think-1910",
+        "jd-logic-1938"
+      ],
+      "abilityIds": [
+        "dewey-06-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-07-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "有保证的断言不是有权势的断言",
+      "explanation": "如果真理没有超历史保证，什么阻止宣传、共识或短期奏效冒充知识？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-logic-1938",
+        "jd-truth-1941"
+      ],
+      "abilityIds": [
+        "dewey-07-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-08-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "想要的还不是值得想要的",
+      "explanation": "价值若不来自情境外的永恒尺度，欲望和成长怎样仍可被批评？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-human-nature-1922",
+        "jd-ethics-1932",
+        "jd-three-factors-1930",
+        "jd-valuation-1939"
+      ],
+      "abilityIds": [
+        "dewey-08-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-09-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "儿童经验与学科地图不是拔河的两端",
+      "explanation": "社会若必须传递知识，怎样避免把儿童变成接收既成世界的容器？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-child-curriculum-1902",
+        "jd-democracy-education-1916",
+        "jd-school-society-1899"
+      ],
+      "abilityIds": [
+        "dewey-09-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-10-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "做中学不是先做再等知识出现",
+      "explanation": "怎样的活动能生成知识，而不把学校变成无方向忙碌或廉价职业训练？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-school-society-1899",
+        "jd-how-we-think-1910",
+        "jd-democracy-education-1916"
+      ],
+      "abilityIds": [
+        "dewey-10-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-11-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "有经验不等于经验具有教育性",
+      "explanation": "自由、活动和兴趣为何仍可能形成封闭习惯，教师又怎样引导而不退回灌输？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-experience-education-1938",
+        "jd-democracy-education-1916"
+      ],
+      "abilityIds": [
+        "dewey-11-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-12-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "民主不在投票结束时出现",
+      "explanation": "若多数决定也能压迫，民主作为生活方式凭什么比友好合作要求更多？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-ethics-democracy-1888",
+        "jd-democracy-education-1916",
+        "jd-creative-democracy-1939"
+      ],
+      "abilityIds": [
+        "dewey-12-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-13-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "公众由无人独自承担的后果形成",
+      "explanation": "复杂社会中受影响者分散且缺少知识，民主怎样不退给专家统治？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-public-1927",
+        "lippmann-phantom-1925"
+      ],
+      "abilityIds": [
+        "dewey-13-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-14-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "旧自由曾解放人，也能保护新的支配",
+      "explanation": "不干预曾反抗封建权力，为何在工业资本条件下可能反而封锁自由？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-individualism-1930",
+        "jd-liberalism-1935",
+        "jd-freedom-culture-1939"
+      ],
+      "abilityIds": [
+        "dewey-14-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-15-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "沟通不是把私人思想搬过一条管道",
+      "explanation": "更多信息为何不必然产生公众，沟通怎样才成为共同探究？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-experience-nature-1925",
+        "jd-public-1927"
+      ],
+      "abilityIds": [
+        "dewey-15-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-16-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "散漫经历怎样成为一个经验",
+      "explanation": "审美若连续于日常生活，什么阻止任何愉快或强烈刺激都被叫作艺术？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-art-1934",
+        "jd-experience-nature-1925"
+      ],
+      "abilityIds": [
+        "dewey-16-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-17-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "发泄出来的情绪还没有成为表达",
+      "explanation": "物理艺术品与欣赏者经验如何共同构成作品，而不把作品化成任意感受？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-art-1934"
+      ],
+      "abilityIds": [
+        "dewey-17-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-18-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "没有超自然对象，奉献还能称为宗教性吗",
+      "explanation": "拒绝神迹和超越实体后，religious quality是否仍有独立内容？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-common-faith-1934",
+        "jd-creative-democracy-1939"
+      ],
+      "abilityIds": [
+        "dewey-18-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-19-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "民主信念也会看不见自己排除的人",
+      "explanation": "一套强调受影响者参与的哲学，为何仍会在真实政治判断中制造遮蔽？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-freedom-culture-1939",
+        "jd-creative-democracy-1939",
+        "sullivan-dewey-dubois",
+        "addams-democracy-1902"
+      ],
+      "abilityIds": [
+        "dewey-19-reasoning"
+      ]
+    },
+    {
+      "id": "dewey-20-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "关系若先于两端，谁仍有力量支配谁",
+      "explanation": "交互论能否统一经验、探究、教育、民主与审美，又不把冲突和不对称溶进关系语言？",
+      "identity": "Dewey authored synthesis",
+      "evidenceLinkIds": [
+        "jd-knowing-known-1949",
+        "jd-experience-nature-1925",
+        "jd-logic-1938",
+        "jd-art-1934"
+      ],
+      "abilityIds": [
+        "dewey-20-reasoning"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "jd-psychology-1887",
+      "workId": "Psychology",
+      "edition": "EW 2",
+      "locator": "1887 text, especially Introduction and account of self-consciousness",
+      "locatorVerified": true,
+      "identity": "Dewey sole author, early idealist phase"
+    },
+    {
+      "id": "jd-ethics-democracy-1888",
+      "workId": "The Ethics of Democracy",
+      "edition": "EW 1",
+      "locator": "EW 1: 227–249",
+      "locatorVerified": true,
+      "identity": "Dewey sole author, idealist democratic essay"
+    },
+    {
+      "id": "jd-absolutism-1930",
+      "workId": "From Absolutism to Experimentalism",
+      "edition": "LW 5",
+      "locator": "LW 5: 147–160",
+      "locatorVerified": true,
+      "identity": "Dewey retrospective self-interpretation"
+    },
+    {
+      "id": "jd-reflex-arc-1896",
+      "workId": "The Reflex Arc Concept in Psychology",
+      "edition": "EW 5",
+      "locator": "EW 5: 96–109",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-human-nature-1922",
+      "workId": "Human Nature and Conduct",
+      "edition": "MW 14",
+      "locator": "Parts I–IV, MW 14: 1–230",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-immediate-empiricism-1905",
+      "workId": "The Postulate of Immediate Empiricism",
+      "edition": "MW 3",
+      "locator": "MW 3: 158–167",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-experience-nature-1925",
+      "workId": "Experience and Nature",
+      "edition": "LW 1, revised 1929 edition",
+      "locator": "Chs. 1–10, especially 1, 2, 5 and 10",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-reconstruction-1920",
+      "workId": "Reconstruction in Philosophy",
+      "edition": "MW 12",
+      "locator": "Chs. 1–8, MW 12: 77–201",
+      "locatorVerified": true,
+      "identity": "Dewey sole author; lectures delivered in Japan"
+    },
+    {
+      "id": "jd-quest-certainty-1929",
+      "workId": "The Quest for Certainty",
+      "edition": "LW 4",
+      "locator": "Chs. 1–10, especially 1–4",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-how-we-think-1910",
+      "workId": "How We Think",
+      "edition": "MW 6; revised 1933 in LW 8",
+      "locator": "1910 Chs. 1–16; compare 1933 revision",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-logic-1938",
+      "workId": "Logic: The Theory of Inquiry",
+      "edition": "LW 12",
+      "locator": "Chs. 1–8 and 20–25",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-truth-1941",
+      "workId": "Propositions, Warranted Assertibility, and Truth",
+      "edition": "LW 14",
+      "locator": "LW 14: 168–188",
+      "locatorVerified": true,
+      "identity": "Dewey sole author, response in truth debate"
+    },
+    {
+      "id": "jd-ethics-1932",
+      "workId": "Ethics, revised edition",
+      "edition": "LW 7",
+      "locator": "Part III and authorship notes in LW 7",
+      "locatorVerified": true,
+      "identity": "John Dewey and James H. Tufts; chapter attribution must follow edition apparatus"
+    },
+    {
+      "id": "jd-three-factors-1930",
+      "workId": "Three Independent Factors in Morals",
+      "edition": "LW 5",
+      "locator": "LW 5: 279–288",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-valuation-1939",
+      "workId": "Theory of Valuation",
+      "edition": "LW 13",
+      "locator": "LW 13: 189–251",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-child-curriculum-1902",
+      "workId": "The Child and the Curriculum",
+      "edition": "MW 2",
+      "locator": "MW 2: 271–291",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-school-society-1899",
+      "workId": "The School and Society",
+      "edition": "MW 1",
+      "locator": "Chs. 1–4, MW 1: 1–109",
+      "locatorVerified": true,
+      "identity": "Dewey author; empirical practice was collective"
+    },
+    {
+      "id": "jd-democracy-education-1916",
+      "workId": "Democracy and Education",
+      "edition": "MW 9",
+      "locator": "Chs. 1–26, especially 1, 4, 7, 11, 14 and 23–26",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-experience-education-1938",
+      "workId": "Experience and Education",
+      "edition": "LW 13",
+      "locator": "Chs. 1–8, LW 13: 1–62",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-public-1927",
+      "workId": "The Public and Its Problems",
+      "edition": "LW 2",
+      "locator": "Chs. 1–6, LW 2: 235–372",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "lippmann-phantom-1925",
+      "workId": "The Phantom Public",
+      "edition": "Harcourt, Brace, 1925",
+      "locator": "Parts I–II",
+      "locatorVerified": true,
+      "identity": "Walter Lippmann, independent interlocutor"
+    },
+    {
+      "id": "jd-individualism-1930",
+      "workId": "Individualism, Old and New",
+      "edition": "LW 5",
+      "locator": "LW 5: 41–123",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-liberalism-1935",
+      "workId": "Liberalism and Social Action",
+      "edition": "LW 11",
+      "locator": "LW 11: 1–65",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-freedom-culture-1939",
+      "workId": "Freedom and Culture",
+      "edition": "LW 13",
+      "locator": "LW 13: 63–188",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-art-1934",
+      "workId": "Art as Experience",
+      "edition": "LW 10",
+      "locator": "Chs. 1–14, especially 1–7 and 13",
+      "locatorVerified": true,
+      "identity": "Dewey sole author; revised William James Lectures"
+    },
+    {
+      "id": "jd-common-faith-1934",
+      "workId": "A Common Faith",
+      "edition": "LW 9",
+      "locator": "LW 9: 1–58",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-creative-democracy-1939",
+      "workId": "Creative Democracy—The Task Before Us",
+      "edition": "LW 14",
+      "locator": "LW 14: 224–230",
+      "locatorVerified": true,
+      "identity": "Dewey sole author"
+    },
+    {
+      "id": "jd-knowing-known-1949",
+      "workId": "Knowing and the Known",
+      "edition": "LW 16",
+      "locator": "Chs. 1–10, LW 16: 1–294",
+      "locatorVerified": true,
+      "identity": "John Dewey and Arthur F. Bentley"
+    },
+    {
+      "id": "sullivan-dewey-dubois",
+      "workId": "Dewey and Du Bois on Race and Colonialism",
+      "edition": "The Oxford Handbook of Dewey, 2019",
+      "locator": "pp. 257–270",
+      "locatorVerified": true,
+      "identity": "Shannon Sullivan, modern critic"
+    },
+    {
+      "id": "addams-democracy-1902",
+      "workId": "Democracy and Social Ethics",
+      "edition": "Macmillan, 1902",
+      "locator": "Chs. 1–7",
+      "locatorVerified": true,
+      "identity": "Jane Addams"
+    }
+  ],
+  "routes": [
+    {
+      "id": "dewey-longform",
+      "version": "candidate-2",
+      "title": "约翰·杜威：经验如何成为共同生活的实验",
+      "lessonIds": [
+        "dewey-01",
+        "dewey-02",
+        "dewey-03",
+        "dewey-04",
+        "dewey-05",
+        "dewey-06",
+        "dewey-07",
+        "dewey-08",
+        "dewey-09",
+        "dewey-10",
+        "dewey-11",
+        "dewey-12",
+        "dewey-13",
+        "dewey-14",
+        "dewey-15",
+        "dewey-16",
+        "dewey-17",
+        "dewey-18",
+        "dewey-19",
+        "dewey-20"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "dewey-01",
+      "order": 1,
+      "title": "统一若不再由绝对精神担保",
+      "depth": "从早期有机整体走向可失败的实验协调",
+      "guidingQuestion": "既不把人拆成孤立感觉，也不诉诸一个预先完成的绝对整体，经验的统一还能怎样成立？",
+      "coreExplanation": "十九世纪的个人主义常把社会想成许多先已完成的个人后来订立关系，心理学也容易把心灵写成感觉原子的容器。可是一旦真从这种原子出发，语言、责任和共同目的就只能从外面粘上去：一个人为何会把他人的损失当作自己的行动理由，理论没有内部答案。年轻的杜威因此接受有机整体的压力。他需要说明个人之所以成为个人，正因为他已经处在关系中，而不是先有完整自我再决定要不要社会。",
+      "sections": [
+        {
+          "heading": "原子个人留下的裂缝",
+          "paragraphs": [
+            "十九世纪的个人主义常把社会想成许多先已完成的个人后来订立关系，心理学也容易把心灵写成感觉原子的容器。可是一旦真从这种原子出发，语言、责任和共同目的就只能从外面粘上去：一个人为何会把他人的损失当作自己的行动理由，理论没有内部答案。年轻的杜威因此接受有机整体的压力。他需要说明个人之所以成为个人，正因为他已经处在关系中，而不是先有完整自我再决定要不要社会。",
+            "《民主的伦理》把这一步推向政治。多数票本身不能证明民主较好，因为无知的多数也可能压迫少数；真正的辩护必须说明多数是怎样形成的。若公民在共同活动中相互修正，个性便不是私人欲望的封闭，而是每个人能以独特能力参与共同善。这里的阶段结论很强：自由并非关系越少越好，而是关系能否让成员主动贡献并分享后果。",
+            "这个早期答案也有代价。杜威当时借用绝对唯心主义，把局部冲突理解为更高精神统一中的片面环节。如此一来，统一似乎在探究以前已经完成，偶然、失败和真正的新事物很难取得充分地位。工厂冲突、教育实验或科学修正若最终只是绝对整体的显现，行动者承担风险的意义便被削弱。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "从保证改为任务",
+          "paragraphs": [
+            "达尔文带来的关键变化，不只是人来自演化，而是种类、功能和适应都在时间中形成。詹姆斯则让心理生活呈现为流动而有选择的过程。二者共同逼迫杜威改变“统一”的语法：统一不再是世界背后的完成者，而是生物在环境中维持、修补和改造活动时取得的暂时协调。所谓实验主义由这个困难生成，它不是一句“实践最重要”的口号。",
+            "设想一个移民社区需要重新安排学校作息。若把每个家庭当作只追逐自身利益的原子，只剩讨价还价；若假定共同精神已知道正确答案，行政者又可替所有人发言。实验取向会先查明工时、照护、交通和语言条件，再让安排接受后果检验。条件改变时结论也可改。案例显示，被保留的是共同形成目的，而被撤去的是预定和谐。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "黑格尔沉淀的限度",
+          "paragraphs": [
+            "异议随即出现：如果杜威仍把个人理解为关系性的，又仍希望个性与共同善协调，他是否只是把黑格尔改名为“经验”？这个攻击命中一种真实连续性。晚年自述也承认，反原子论和整体关联留下了永久沉淀；把早期与成熟时期切成两个人会丢掉这条线。",
+            "回应必须收缩。成熟杜威保留的是问题和方向，不再保留绝对精神作为答案。共同善可能被误认，制度可能压迫，探究可能失败；统一只有在具体后果中形成，且没有最后封口。因此关系性不等于整体先于成员而拥有独立意志，参与者仍有揭露所谓共同目的只是支配语言的权利。",
+            "《从绝对主义到实验主义》是1930年的回顾，不是1880年代的现场速记。它能证明杜威晚年怎样理解自己的转向，却不能替早期文本消除理想主义措辞。沿着这个时期边界，眼下只得到一个负面成果：统一必须是行动中生成且可能破裂的。下一处债务是解释，这种生成在身体、感觉和环境之间究竟怎样发生。",
+            "因而后续不能直接跳到民主教育。若没有一套行动心理学，“共同形成目的”仍可能只是伦理愿望。1896年的反射弧论文将把眼睛、手、火焰和正在进行的目的放进同一个协调，第一次给这项愿望提供可分析的自然过程。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "设想一个移民社区需要重新安排学校作息。若把每个家庭当作只追逐自身利益的原子，只剩讨价还价；若假定共同精神已知道正确答案，行政者又可替所有人发言。实验取向会先查明工时、照护、交通和语言条件，再让安排接受后果检验。条件改变时结论也可改。案例显示，被保留的是共同形成目的，而被撤去的是预定和谐。",
+      "nodeIds": [
+        "dewey-01-teaching"
+      ],
+      "checkIds": [
+        "dewey-01-q1",
+        "dewey-01-q2",
+        "dewey-01-q3",
+        "dewey-01-q4"
+      ],
+      "abilitySummary": [
+        "能够重建从早期有机整体走向可失败的实验协调中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-02",
+      "order": 2,
+      "title": "火焰不是先刺激、后反应",
+      "depth": "反射弧批判如何把心身片段放回行动协调",
+      "guidingQuestion": "实验心理学需要区分刺激与反应，但为何不能把它们当成相互独立的事件？",
+      "coreExplanation": "前一处债务要求把生成中的统一落到行动过程。传统反射弧提供了看似精确的模型：火光刺激眼睛，感觉进入中枢，手臂随后伸出。问题是，这个顺序把观察者事后划出的单位误当成行为者起初拥有的片段。对正在取暖的孩子、已经烫伤而后退的孩子和消防员，同样波长的光并不具有同一行动意义。",
+      "sections": [
+        {
+          "heading": "同一火光为何不总是同一刺激",
+          "paragraphs": [
+            "前一处债务要求把生成中的统一落到行动过程。传统反射弧提供了看似精确的模型：火光刺激眼睛，感觉进入中枢，手臂随后伸出。问题是，这个顺序把观察者事后划出的单位误当成行为者起初拥有的片段。对正在取暖的孩子、已经烫伤而后退的孩子和消防员，同样波长的光并不具有同一行动意义。",
+            "杜威的第一步不是否认神经过程，而是改变分析单位。孩子在看以前已经处于趋近、玩耍或回避的活动；眼球转动、身体姿势和过去动作共同选择何者成为“刺激”。看火与伸手不是一条线上两个自足盒子，而是一个正在展开的看—取协调中暂时可分的功能。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "循环不是首尾相接的直线",
+          "paragraphs": [
+            "第二步更难：运动并非感觉完成后才开始。转头使光落在不同视野，伸手改变距离和温度，新的感觉又重定向动作。所谓反射弧因此不是输入穿过心灵再输出，而是运动与感觉彼此规定的回路。这里生成的术语是 coordination，指各环节在整体活动中的互定，并非把一切差异混成一团。",
+            "功能区分仍然必要。若手缩回太慢，研究者可以检查视觉、痛觉或运动传导；但这些名称回答的是协调在何处受阻，不证明刺激与反应原本各自完成。杜威的操作是先保住完整活动，再在困难中区分成分。这样，心理学的测量没有被取消，测量对象却不再是脱离处境的感觉原子。",
+            "换一个条件即可看出区别。门铃响时，等待快递的人起身，照顾熟睡婴儿的人先降低音量，正在消防演习的人寻找出口。物理声响相似，正在进行的活动改变了它作为信号的功能。若新增烟味，原有“访客到了”的协调会破裂，声响得到新的意义。案例实际承担的是条件变动测试，而不只是说明环境重要。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "协调并未消除冲突",
+          "paragraphs": [
+            "一个强异议是：把一切放进整体协调，会不会让研究无法指出因果先后，甚至把明显的外界强迫说成主体选择？突然爆炸确实不是听者挑选出来的温和线索，组织活动也不能令物理强度消失。若杜威的主张是每个刺激都由目的任意创造，反例足以推翻它。",
+            "回应要缩窄到功能意义。爆炸的能量可在物理上先于反应，它成为惊吓、警报或战斗信号的行为角色却由完整处境决定。协调论反对的是从物理先后直接推出心理意义，而不是否认外界施力。它也承认协调会被强制打断；正因为有真实阻力，学习才不只是内部叙事。",
+            "1896年论文属于芝加哥转向期，使用的是反射弧、活动和协调语言。把Bentley合著时期的 transaction 直接塞进这里，会抹掉杜威概念发展的中介。原典重建只允许说，这篇论文为后来的关系性自然主义开路，而不是成熟理论已一次完成。",
+            "一次协调能够说明刺激意义，却不能说明行为为何跨日稳定，也不能说明学校、家庭和职业怎样把社会秩序带进身体。门铃今天引出的动作之所以明天更顺，已经涉及习惯；协调屡次失败时出现的新冲动，又可能打断旧路线。下一篇必须处理这种稳定与改变的双面。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "换一个条件即可看出区别。门铃响时，等待快递的人起身，照顾熟睡婴儿的人先降低音量，正在消防演习的人寻找出口。物理声响相似，正在进行的活动改变了它作为信号的功能。若新增烟味，原有“访客到了”的协调会破裂，声响得到新的意义。案例实际承担的是条件变动测试，而不只是说明环境重要。",
+      "nodeIds": [
+        "dewey-02-teaching"
+      ],
+      "checkIds": [
+        "dewey-02-q1",
+        "dewey-02-q2",
+        "dewey-02-q3",
+        "dewey-02-q4"
+      ],
+      "abilitySummary": [
+        "能够重建反射弧批判如何把心身片段放回行动协调中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-03",
+      "order": 3,
+      "title": "习惯既让人能行动，也替制度行动",
+      "depth": "从协调的重复进入冲动、审议与社会改革",
+      "guidingQuestion": "如果习惯构成性格和能力，人怎样避免只是由既有环境自动运转？",
+      "coreExplanation": "反射弧说明一次行动怎样成形，却没有解释熟练为何持续。若把习惯理解成内部刻下的重复痕迹，环境仍只是触发器；可同一个人换到没有工具、语言或许可的地方，能力便会改变。杜威因而把习惯写成有机体与环境的共同功能：会弹琴不仅是手指状态，还依赖琴键、音制、操演制度和可进入的场所。",
+      "sections": [
+        {
+          "heading": "不在身体里面的第二天性",
+          "paragraphs": [
+            "反射弧说明一次行动怎样成形，却没有解释熟练为何持续。若把习惯理解成内部刻下的重复痕迹，环境仍只是触发器；可同一个人换到没有工具、语言或许可的地方，能力便会改变。杜威因而把习惯写成有机体与环境的共同功能：会弹琴不仅是手指状态，还依赖琴键、音制、操演制度和可进入的场所。",
+            "这一步使习惯同时获得个人与政治含义。排队、准时、服从主管或在会议上发言，看似个人性格，实际携带建筑、工资、惩罚和身份期待。制度不只从外面限制已经完成的自我，它进入姿势、注意和欲望，替人预先筛选何者显得自然。道德改革若只训诫意志而不改环境，往往要求受压者独自对抗整个习惯系统。",
+            "然而习惯不是命运。旧路线遇到新条件而失效时，原先被组织的活动能量以冲动形式突出。这里的 impulse 不是纯洁本性发号施令，也不是固定本能清单；它是重组的起点，尚无现成方向。儿童突然拆开玩具，可能发展成探究，也可能变成破坏，取决于它同材料、他人和后果怎样重新连接。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "审议是一场预演",
+          "paragraphs": [
+            "当多个习惯都不能顺利接管行动，审议才变得必要。杜威拒绝把选择写成无因意志对选项的一次点按；行动者在想象中让若干可能路线轮流展开，预先感受它们会引出的后果。这个“戏剧性排演”并不保证正确，却说明理由如何从过去习惯、当前阻力和预期结果中形成。",
+            "一名护理人员发现病区交接表总把不会当地语言的家属意见遗漏。继续照旧能保持速度，临时口头翻译又可能泄露隐私，增加正式翻译会改变排班。审议不是在“效率”和“尊重”两个抽象词间投票，而要模拟各安排的人员、时间和错误后果。若医院提供安全翻译终端，原本看来不可兼得的价值关系也会改变。",
+            "异议是，若性格全由社会习惯构成，谁还能对不义负责？把结构写进习惯似乎让每个伤害者都可说“环境使我如此”。反过来，若责任要求一个完全不受习惯影响的自我，任何解释又都会被误当成开脱。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "责任扩大到改造条件",
+          "paragraphs": [
+            "杜威式回应既不取消归责，也不把归责缩成惩罚。行动者能预演、听取后果并形成新习惯，因而要对可参与的重组负责；组织若持续奖励伤害，也同样是责任对象。解释习惯来源会扩大改变路径，而不是宣布没有人行动。收缩之处在于，能力与处境不等，责任程度不能假装人人拥有同样选择空间。",
+            "《人性与行为》写于一战后，把习惯、冲动和智能用于社会心理与伦理。它没有把后来《逻辑》的技术性“探究情境”全部预装进审议，也没有提供一套神经科学理论。原典声音应保留在行为与制度重建层面；现代认知解释只能作为后续迁移。",
+            "本篇保住了稳定与改变的中介，却留下更根本的问题：有机体、工具、制度、感受和想象共同构成的过程，究竟是主观经验向外投射，还是自然本身的一种发生？若经验仍被理解为心灵内部，习惯的社会环境论会再次断裂。下一篇必须重写经验与自然的边界。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一名护理人员发现病区交接表总把不会当地语言的家属意见遗漏。继续照旧能保持速度，临时口头翻译又可能泄露隐私，增加正式翻译会改变排班。审议不是在“效率”和“尊重”两个抽象词间投票，而要模拟各安排的人员、时间和错误后果。若医院提供安全翻译终端，原本看来不可兼得的价值关系也会改变。",
+      "nodeIds": [
+        "dewey-03-teaching"
+      ],
+      "checkIds": [
+        "dewey-03-q1",
+        "dewey-03-q2",
+        "dewey-03-q3",
+        "dewey-03-q4"
+      ],
+      "abilitySummary": [
+        "能够重建从协调的重复进入冲动、审议与社会改革中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-04",
+      "order": 4,
+      "title": "经验不是心灵里的一层薄膜",
+      "depth": "doing与undergoing如何把文化重新放进自然",
+      "guidingQuestion": "若经验既包括直接质感又包括社会制度，它如何仍属于自然过程而非包罗万象的空词？",
+      "coreExplanation": "习惯理论已经让皮肤以内与环境以外的分界变得可疑，但“经验”若仍指私人意识，制度和工具只能成为心灵表象。杜威反过来从遭遇开始：人在门上用力是doing，门反弹、铰链松动或路径打开是undergoing。行动者改变环境，同时承受环境的回击；经验就是这组相连的发生，而不是夹在自我与世界之间的薄膜。",
+      "sections": [
+        {
+          "heading": "从遭遇开始",
+          "paragraphs": [
+            "习惯理论已经让皮肤以内与环境以外的分界变得可疑，但“经验”若仍指私人意识，制度和工具只能成为心灵表象。杜威反过来从遭遇开始：人在门上用力是doing，门反弹、铰链松动或路径打开是undergoing。行动者改变环境，同时承受环境的回击；经验就是这组相连的发生，而不是夹在自我与世界之间的薄膜。",
+            "《直接经验论的公设》由此主张，事物首先就是它被经验为何物。喉咙疼在就医前可以直接是威胁，化验后又成为某种感染的征候；后一个关系解释并不证明先前质感不真实。立即性指尚未通过特定反思操作重述，不指报告永远正确，更不赋予个人感受否决调查的特权。",
+            "《经验与自然》再区分primary与secondary经验。人先在工作、疾病、庆典和损失中遭遇一个有质感的世界；反思从中抽取因果、对象和价值关系。抽象若不能返回并让原经验更可理解、更可行动，就只是专业概念的自转。哲学的经验方法因此有往返结构，而不是“凡我感觉皆真”。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "稳定与危险同属自然",
+          "paragraphs": [
+            "这里生成的自然主义也不同于机械决定论。自然包含可重复的节律，所以习惯、预测和科学可能；它又充满断裂、衰败和偶然，所以行动永远承担风险。传统形上学常把稳定者升为真正实在，把变化者降为缺陷。杜威要求二者同等原初：桥梁能多年承重，也会在材料疲劳和洪水中突然失效。",
+            "城市把河岸硬化以防常年小洪水，几年后上游极端降雨却使水流更快冲向下游社区。第一阶段的成功属于真实经验，后来的破坏也不是“主观解释”。如果调查加入湿地、保险和居民迁移资料，原有对象“防洪工程”会改写为跨区域事务。条件变化说明经验对象可重组，却由承受的后果约束。",
+            "最强异议认为，“经验”在这里一会儿是直接质感，一会儿是有机体—环境过程，又一会儿承担自然哲学，概念过载到无法反驳。Bernstein后来会把这种张力说成现象学线与形上学线难以统一；Rorty则宁可保留杜威的批评而放弃经验形上学。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "连续性只是一项工作假设",
+          "paragraphs": [
+            "可给的回应不是让“连续性”一词自动获胜。直接质感回答情境怎样整体显现，关系分析回答行动怎样在其中重组；二者可属于同一事件的不同功能层次。河岸居民的恐惧与水流模型不必竞争唯一实在，但模型若持续预测失败，质感也不能替它提供科学保证。这个分工保住统一，仍留下层次如何严密衔接的争议。",
+            "《经验与自然》1925年首版在1929年修订，成熟文化自然主义不能和1905年短文完全重合。作品也有明确的形上学雄心：它不只讨论语言用法，而在描述自然中稳定、危险、质性和意义的普遍特征。把它缩成反二元论口号，会避开争论而不是解决争论。",
+            "现在可以说明问题为何在世界中发生，却还不能说明西方哲学为何反复把可靠知识放到实践和变化之外。面对危险，人会渴望不受行动失败牵连的确定性；社会分工又把沉思者置于劳动者之上。下一篇必须先拆解这项确定性追求，探究的正面结构才不会被误听成降低知识标准。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "城市把河岸硬化以防常年小洪水，几年后上游极端降雨却使水流更快冲向下游社区。第一阶段的成功属于真实经验，后来的破坏也不是“主观解释”。如果调查加入湿地、保险和居民迁移资料，原有对象“防洪工程”会改写为跨区域事务。条件变化说明经验对象可重组，却由承受的后果约束。",
+      "nodeIds": [
+        "dewey-04-teaching"
+      ],
+      "checkIds": [
+        "dewey-04-q1",
+        "dewey-04-q2",
+        "dewey-04-q3",
+        "dewey-04-q4"
+      ],
+      "abilitySummary": [
+        "能够重建doing与undergoing如何把文化重新放进自然中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-05",
+      "order": 5,
+      "title": "确定性为何被安置在行动之外",
+      "depth": "旁观者知识论的社会谱系与实验科学的反转",
+      "guidingQuestion": "拒绝不可变的绝对确定性，怎样不滑成对知识可靠性的轻率放弃？",
+      "coreExplanation": "经验若本来带着危险，人寻求可靠并不荒谬。问题在于，哲学常把可靠解释成远离制作、试验和偶然，仿佛只有不受行动后果触碰的对象才真正可知。《确定性的寻求》把这项偏好还原到社会史：掌握沉思与祭仪的阶层享有地位，承担手工劳动和失败风险的人则被置于较低位置，知识与实践的等级互相加固。",
+      "sections": [
+        {
+          "heading": "危险世界中的逃离策略",
+          "paragraphs": [
+            "经验若本来带着危险，人寻求可靠并不荒谬。问题在于，哲学常把可靠解释成远离制作、试验和偶然，仿佛只有不受行动后果触碰的对象才真正可知。《确定性的寻求》把这项偏好还原到社会史：掌握沉思与祭仪的阶层享有地位，承担手工劳动和失败风险的人则被置于较低位置，知识与实践的等级互相加固。",
+            "第一处推理因此是谱系性的。古典形上学把永恒形式置于变化事物之上，并非纯逻辑偶然；它替既有分工赋予宇宙图像。近代认识论虽把权威转向主体，仍常问心灵如何旁观并复制一个已经完成的世界。只要知识目标是无风险观看，实践便只能在真理决定后负责应用。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "实验不是凝视得更仔细",
+          "paragraphs": [
+            "现代实验科学实际反转了这个次序。化学家隔离变量、制作仪器、改变温度，让对象在受控操作中显出关系；知道不是把不变实在拍进心灵，而是做某些事并承担可重复后果。由此生成的“操作”并不等于任意操控，它要求别人按公开步骤能够遭遇相近结果。理论的力量来自指导可检验转化。",
+            "一座桥的材料模型在电脑里完全稳定，施工团队却发现当地盐雾使连接件加速腐蚀。旁观者图景会把失败归为理论外的粗糙应用；实验图景则要求把盐雾条件反馈进材料关系，使对象“可承重的连接”本身被重新规定。若更换涂层后腐蚀率下降，知识取得的是条件化保证，不是关于所有桥的永恒安全。",
+            "这也解释technology在杜威处的哲学位置。技艺不是科学结论的低级搬运，而是让可能性进入世界并暴露后果的组织方式。可技术成功仍不自动回答应否建桥、谁承担污染或资源该投向何处。知识与行动连续，只取消等级，不取消事实判断与价值审议的不同任务。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "可错不等于随便",
+          "paragraphs": [
+            "异议很直接：如果知识只是成功操作，错误理论偶然碰对结果也算真，强大技术更会把能控制误当成有权控制。这个异议击中“知识即力量”的粗糙版本。短期奏效、权力优势和认识资格必须拆开，否则实验主义会替支配提供语言。",
+            "回应保留四项限制：问题条件要被明确，后果链要可追踪，操作要能公开复核，结论要对反例开放。桥暂时未倒并不足以保证模型，需有材料证据与跨条件测试；模型通过也不产生建桥的政治授权。杜威拒绝的是绝对不可修正，不是证据强弱、对象抵抗或专业纪律。",
+            "《哲学的改造》源自1919年日本讲演，1920年成书；《确定性的寻求》则是1929年的Gifford Lectures。前者勾勒哲学社会功能，后者系统批判理论—实践等级。旅行和讲演场所不能证明日本或苏格兰社会接受了这些结论，文本身份也不可混为同一时期的一本书。",
+            "到这里，可靠性被改写为有条件的操作成就，但仍缺少一次探究内部的次序。怎样从弥散不安形成问题，怎样让观察与观念相互校正，又怎样判断情境确已转化？若不补这条链，“实验”仍可能沦为凡事试一试。下一篇进入杜威成熟逻辑。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一座桥的材料模型在电脑里完全稳定，施工团队却发现当地盐雾使连接件加速腐蚀。旁观者图景会把失败归为理论外的粗糙应用；实验图景则要求把盐雾条件反馈进材料关系，使对象“可承重的连接”本身被重新规定。若更换涂层后腐蚀率下降，知识取得的是条件化保证，不是关于所有桥的永恒安全。",
+      "nodeIds": [
+        "dewey-05-teaching"
+      ],
+      "checkIds": [
+        "dewey-05-q1",
+        "dewey-05-q2",
+        "dewey-05-q3",
+        "dewey-05-q4"
+      ],
+      "abilitySummary": [
+        "能够重建旁观者知识论的社会谱系与实验科学的反转中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-06",
+      "order": 6,
+      "title": "问题不是脑中先冒出的问号",
+      "depth": "不确定情境如何经双重操作成为判断",
+      "guidingQuestion": "探究怎样从真实失衡开始，而不被压成一套随处套用的解题步骤？",
+      "coreExplanation": "“凡事试一试”不是探究，因为它没有说明何者需要改变。杜威成熟逻辑从indeterminate situation开始：病区感染率上升、设备读数互相冲突、医护却尚不知问题边界。焦虑属于参与者，但不确定性不只是一种心情；已有行动无法可靠继续，整个情境的成分和关系都未定。",
+      "sections": [
+        {
+          "heading": "先有情境失去方向",
+          "paragraphs": [
+            "“凡事试一试”不是探究，因为它没有说明何者需要改变。杜威成熟逻辑从indeterminate situation开始：病区感染率上升、设备读数互相冲突、医护却尚不知问题边界。焦虑属于参与者，但不确定性不只是一种心情；已有行动无法可靠继续，整个情境的成分和关系都未定。",
+            "第一项不可省略的工作是problematic institution，把弥散困扰设定为可调查问题。若过早说“护士未洗手”，后续材料只会替指控服务；若问题仍是“为何一切变糟”，又无法选择证据。调查可先界定为：感染增加集中在哪些时间、操作与病原类型？问题形成不是发现一个藏好的句子，而是选择下一步观察会有何意义。",
+            "随后出现两类互相依赖的操作。观察操作取得病原培养、排班、设备消毒和患者转运资料；观念操作提出交叉污染、通风或记录偏差等可能关系。事实若没有假设便不知何者相关，假设若不导向新观察便只是想象。ideas作为预期行动的工具，正是在这个循环中生成。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "实施会改变问题本身",
+          "paragraphs": [
+            "当资料显示感染集中在移动影像设备经过的病房，团队试行每次转运后的可追踪消毒。若感染下降，结果支持一条关系；若只在某病原下降，原假设必须细分。实验不是给现成理论盖章，而会让对象、条件和问题边界一同变得更确定。",
+            "判断不是主观决定停止思考，而是把前述操作关系组织成可断言结论，使活动恢复有方向。resolved situation也非回到原样：流程、设备意义和团队习惯都已改变。一次探究结束，只表示当前问题获得足够确定；新病原或新医院条件会重新开放它。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "逻辑是否被经验心理学吞没",
+          "paragraphs": [
+            "异议认为，这套描述只是科学家通常怎样办事，无法给出逻辑规范。人也会从焦虑跳到偏见、选择方便数据并仓促结束；若一切实际探究都定义何为有效，就无法批评坏探究。形式逻辑研究有效推演，也不会因为情境论而自动消失。",
+            "杜威可回应，逻辑规范来自长期探究中哪些操作能公开暴露错误、扩大证据并稳定解决问题。它们不是每次心理经过的平均值，而是对调查行为的选择性重建。收缩也必须明确：情境逻辑补充命题推演的用途和来源，不证明所有形式关系都可还原为心理或社会史。",
+            "《我们怎样思维》1910年版面向反思教育，1933年修订；《逻辑：探究理论》1938年才给出系统术语。把后者的全套定义归进早期课堂文本，会制造虚假同一。反思的若干阶段也只是功能分析，不是每篇都必须以同样顺序显露的算法。",
+            "感染情境的解决仍不足以回答“结论为真”意味着什么。一次下降可能是季节偶合，团队共识也可能由权威制造。若把情境结束直接等同真理，杜威就会落入成功主义。下一篇要给断言资格增加证据史、公共复核和现实反抗。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "当资料显示感染集中在移动影像设备经过的病房，团队试行每次转运后的可追踪消毒。若感染下降，结果支持一条关系；若只在某病原下降，原假设必须细分。实验不是给现成理论盖章，而会让对象、条件和问题边界一同变得更确定。",
+      "nodeIds": [
+        "dewey-06-teaching"
+      ],
+      "checkIds": [
+        "dewey-06-q1",
+        "dewey-06-q2",
+        "dewey-06-q3",
+        "dewey-06-q4"
+      ],
+      "abilitySummary": [
+        "能够重建不确定情境如何经双重操作成为判断中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-07",
+      "order": 7,
+      "title": "有保证的断言不是有权势的断言",
+      "depth": "从操作成功走向真理资格、可错性与现实反抗",
+      "guidingQuestion": "如果真理没有超历史保证，什么阻止宣传、共识或短期奏效冒充知识？",
+      "coreExplanation": "把“真”译成“有用”最容易制造误解。一则谣言可帮助候选人胜选，一种安慰剂可让部分人短期好转，一项理论也可能因侥幸命中一次预测。这些都是某种成功，却未必解决原问题。第六篇留下的债务要求区分心理满意、权力获胜、偶然后果和获得认识资格的情境转化。",
+      "sections": [
+        {
+          "heading": "先拆开四种成功",
+          "paragraphs": [
+            "把“真”译成“有用”最容易制造误解。一则谣言可帮助候选人胜选，一种安慰剂可让部分人短期好转，一项理论也可能因侥幸命中一次预测。这些都是某种成功，却未必解决原问题。第六篇留下的债务要求区分心理满意、权力获胜、偶然后果和获得认识资格的情境转化。",
+            "杜威晚期偏爱warranted assertibility，因为“真理”常让人想象一个与调查历史无关的终局。warrant不是发言许可，而是断言已经通过与问题相称的观察、推演、实验和批评。assertibility强调资格可在将来证据前撤销。它不把真理变成过程本身，而把我们有何根据说真放回可检查的过程。",
+            "疫苗研究中，试验组病例较少只是开端。随机分配是否保持、样本是否足以发现罕见副作用、终点是否临时更换，都影响断言资格。若公司控制数据发布，即使结果碰巧正确，公众也缺少审查保证。若独立团队复现且真实世界监测支持特定人群效果，保证增强，却仍限于剂量、变异株和时间窗口。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同体也会系统犯错",
+          "paragraphs": [
+            "公共复核不能简化为多数同意。专业共同体可能排除女性或少数族群，国家可以压制反证，市场可奖励夸大结果。探究共同体之所以有认识作用，不是成员身份高贵，而是程序允许资料反抗结论、异议者进入并让失败留下记录。民主条件会在这里提前进入认识论。",
+            "现实约束也不是一块未解释的“事实”砸向理论。仪器、分类和语言都经过历史形成，可对象会通过预测失败、治疗伤害和无法重复而迫使重组。可错论由此同时反对两端：没有脱离调查的上帝视角，也没有“各有各的真”让后果失去裁判力。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "规范循环仍未完全消失",
+          "paragraphs": [
+            "强异议指出，杜威用良好探究说明保证，又用能产生保证的过程定义良好探究，似乎循环。若公开、复现和包容本身只是历史习惯，为什么压迫性共同体必须接受它们？Russell式批评还会担心，真理与我们何时有理由断言仍被混在一起。",
+            "回应能保住的是内在批评：公开和反证不是任意礼仪，而是在共同调查中系统发现错误、扩大相关经验的条件。疫苗数据被封锁后无法区分效果与操控，这个损失可展示。收缩之处是，杜威不提供超历史奠基；保证理论解释断言责任，比解释真理的永恒本性更强。",
+            "“有保证的可断言性”集中出现在1938年《逻辑》及1941年回应文本，不能投射成杜威一生不变的单一句式。与Russell的争论也有语义和目标错位：一方关心真命题条件，一方关心探究中断言资格。路线必须呈现争议，而非宣布二者其实完全相同。",
+            "认识资格仍不能告诉研究团队应优先减少死亡、保护隐私还是快速普及。事实与价值虽不属两个世界，价值判断却有自己的问题压力：欲望怎样被批评，目的如何在手段中改变，多种善冲突时为何没有一个公式代办。下一篇转向估价与道德审议。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "疫苗研究中，试验组病例较少只是开端。随机分配是否保持、样本是否足以发现罕见副作用、终点是否临时更换，都影响断言资格。若公司控制数据发布，即使结果碰巧正确，公众也缺少审查保证。若独立团队复现且真实世界监测支持特定人群效果，保证增强，却仍限于剂量、变异株和时间窗口。",
+      "nodeIds": [
+        "dewey-07-teaching"
+      ],
+      "checkIds": [
+        "dewey-07-q1",
+        "dewey-07-q2",
+        "dewey-07-q3",
+        "dewey-07-q4"
+      ],
+      "abilitySummary": [
+        "能够重建从操作成功走向真理资格、可错性与现实反抗中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-08",
+      "order": 8,
+      "title": "想要的还不是值得想要的",
+      "depth": "估价、手段目的互构与多元道德因素",
+      "guidingQuestion": "价值若不来自情境外的永恒尺度，欲望和成长怎样仍可被批评？",
+      "coreExplanation": "事实调查已经依赖选择何种问题，但不能从“人们确实想要”直接推出“这值得想要”。成瘾者渴求下一剂、公司渴求季度增长、城市渴求更快通勤，都是真实欲望；其形成条件和长期后果可能同时破坏行动能力。杜威以desired与desirable的差别把欲望带进而非赶出经验。",
+      "sections": [
+        {
+          "heading": "欲望进入调查",
+          "paragraphs": [
+            "事实调查已经依赖选择何种问题，但不能从“人们确实想要”直接推出“这值得想要”。成瘾者渴求下一剂、公司渴求季度增长、城市渴求更快通勤，都是真实欲望；其形成条件和长期后果可能同时破坏行动能力。杜威以desired与desirable的差别把欲望带进而非赶出经验。",
+            "desirable不是某位哲学家凭直觉盖章，而是欲望在何种条件形成、满足会牺牲什么、能否维持和扩大后续活动的调查结论。估价因此既有情感动力又有认识责任。温度计可以测污染，不能单独决定可接受风险；居民恐惧可确定问题紧迫，也不能替代因果证据。",
+            "目的同样不是行动前已完整存在的终点。ends-in-view指在困难中暂定、用来组织下一步的可预见结果。手段实行会揭示目的的新内容：城市本想“缩短通勤”，若扩路诱发更远居住和更重污染，真正得到的生活形式同口号不同。公交专用道若改变可达性，公平也从附加条件变成目的本身的一部分。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "三种道德要求不能互相吞并",
+          "paragraphs": [
+            "道德冲突之所以困难，是因为至少有三种独立压力：追求何种善的后果、承认他人可向我提出何种要求、以及一个行动表现何种品格并得到赞许。把义务全还原为总幸福会忽略承诺，把善全还原为规则会忽略具体损害，把德性全还原为内在品质又会忽略制度后果。杜威拒绝单一公式，并不等于拒绝理由。",
+            "社区医院只有一台夜间透析设备。最大化近期存活、遵守先到先得承诺、照顾长期被排除的患者分别提出真实理由。审议须查明医学效果、既有承诺和排除历史，尝试改排班或共享设备，而非把冲突假装成同一量尺。若资源增加，原有悲剧选择会改变；案例显示价值结构可由制度手段重组。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "成长不能只由更多成长证明",
+          "paragraphs": [
+            "最著名的异议是，盗贼也能增长技巧、忠诚和想象力。若善等于成长，任何能力扩张都可自我认证；若回答“好成长是促进更多成长”，又可能循环。这个攻击迫使杜威把继续性同活动范围、他人参与和强制代价连接。",
+            "回应只能保住有方向的成长：某项发展若必须封闭受害者经验、依赖持续胁迫并使参与者只能沿更窄路线继续，就产生自己的阻塞。盗贼团伙内部团结不够，因为其活动通过排除他人形成冲突。收缩在于，这仍未给出机械指标；民主参与将成为成长规范的社会检验，而非由“成长”一词单独推出。",
+            "《伦理学》1908和1932两版均与James H. Tufts合著，具体篇目作者身份须随版本装置核对。“道德中的三个独立因素”是杜威1930年单篇，1939年《估价理论》又在科学统一语境中处理价值。将合著全书或不同年代术语无差别归为一声，会伪造系统性。",
+            "个人审议需要由习惯承载，社会又每代迎来尚未掌握语言、知识和冲突方式的新成员。若价值只在危机时临时发明，公共探究无法延续；若教育只灌输既成价值，修正也会停止。下一篇从社会连续性进入儿童经验与学科组织的关系。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "社区医院只有一台夜间透析设备。最大化近期存活、遵守先到先得承诺、照顾长期被排除的患者分别提出真实理由。审议须查明医学效果、既有承诺和排除历史，尝试改排班或共享设备，而非把冲突假装成同一量尺。若资源增加，原有悲剧选择会改变；案例显示价值结构可由制度手段重组。",
+      "nodeIds": [
+        "dewey-08-teaching"
+      ],
+      "checkIds": [
+        "dewey-08-q1",
+        "dewey-08-q2",
+        "dewey-08-q3",
+        "dewey-08-q4"
+      ],
+      "abilitySummary": [
+        "能够重建估价、手段目的互构与多元道德因素中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-09",
+      "order": 9,
+      "title": "儿童经验与学科地图不是拔河的两端",
+      "depth": "教育如何维持社会连续又保留经验修正",
+      "guidingQuestion": "社会若必须传递知识，怎样避免把儿童变成接收既成世界的容器？",
+      "coreExplanation": "每个共同体都会失去掌握语言、技艺和记忆的成员，同时迎来尚不能参与这些活动的新成员。教育首先由这项生存压力生成，而不是由学校制度生成。若经验不能通过沟通延续，探究每代都要从零开始；若只复制旧习惯，社会又无法处理新环境。教育因此同时承担连续与重建。",
+      "sections": [
+        {
+          "heading": "死亡与出生制造的社会断裂",
+          "paragraphs": [
+            "每个共同体都会失去掌握语言、技艺和记忆的成员，同时迎来尚不能参与这些活动的新成员。教育首先由这项生存压力生成，而不是由学校制度生成。若经验不能通过沟通延续，探究每代都要从零开始；若只复制旧习惯，社会又无法处理新环境。教育因此同时承担连续与重建。",
+            "传统学科安排常把成熟知识压缩成课本次序，再要求儿童吸收。儿童中心论则可能把当下兴趣当作完整标准。杜威说这是两个抽象端点：儿童的经验有活动、困惑和未展开的方向，学科知识是许多人的经验经检验后组织成的地图。地图不能替人走路，没地图的即时活动也可能原地打转。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "教师进行的是翻译和设计",
+          "paragraphs": [
+            "教师并非在儿童和学科地图之间取平均，而要找到当前活动怎样通向更有组织的关系。孩子争论社区水池为何发绿，教师可引入采样、显微观察、光照和营养盐，而不是先讲完整藻类分类，也不是任由争论停在“我看见的颜色”。学科关系在问题中获得必要性，儿童经验则被带到自己无法独自抵达的尺度。",
+            "这一过程生成direction的教育含义。引导不是预先规定每个答案，而是安排材料、时间、合作与反馈，使一个活动能产生后续问题。教师的学科理解不可缺，因为只有知道概念的结构，才看得出哪一次观察可打开而非封闭路线。尊重经验与专业责任由此不是反比关系。",
+            "若检测显示藻类来自上游化肥，科学问题会进入土地使用和公共责任；若只是水池染料，原有生态假设被撤回。功能案例要求条件变化后判断也变化。孩子获得的不只是一项结论，而是经验怎样由证据扩展、又怎样承认早先方向错误。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "传递也可能传递支配",
+          "paragraphs": [
+            "异议是，所谓把儿童引向人类知识，可能只是让占优势群体的学科安排显得普遍。谁的历史被编成地图，谁的语言只被当作生活材料，教师设计就携带权力。若杜威只说“经验与学科连接”，殖民式安排也能声称自己在连接。",
+            "回应必须把学科安排本身也置于探究。知识的证据结构应被保留，选材边界、缺席声音和用途则可公开检验；儿童与社区的经验不只是激发动机，也能暴露地图的盲区。收缩在于，教师仍需作暂时选择，不可能等所有权力争议解决才行动，因此选择必须可说明、可修订。",
+            "The Child and the Curriculum写于芝加哥实验学校时期，《民主与教育》1916年才把社会连续、学科与民主系统连接。实验学校也不是杜威单人思想的透明实施，Alice Chipman Dewey和教师团队承担学科设计与行政劳动。恢复集体身份，是原典边界而非传记装饰。",
+            "儿童经验—学科地图互译仍是原则，未说明何种学校活动能让知识、合作和反思真正结合。若只把生活搬进教室，活动可能热闹却不生成关系；若职业活动按阶级分轨，又会把现实不平等当成适应目标。下一篇进入作业活动、反思与职业边界。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "若检测显示藻类来自上游化肥，科学问题会进入土地使用和公共责任；若只是水池染料，原有生态假设被撤回。功能案例要求条件变化后判断也变化。孩子获得的不只是一项结论，而是经验怎样由证据扩展、又怎样承认早先方向错误。",
+      "nodeIds": [
+        "dewey-09-teaching"
+      ],
+      "checkIds": [
+        "dewey-09-q1",
+        "dewey-09-q2",
+        "dewey-09-q3",
+        "dewey-09-q4"
+      ],
+      "abilitySummary": [
+        "能够重建教育如何维持社会连续又保留经验修正中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-10",
+      "order": 10,
+      "title": "做中学不是先做再等知识出现",
+      "depth": "作业活动、反思结构与职业教育的阶级边界",
+      "guidingQuestion": "怎样的活动能生成知识，而不把学校变成无方向忙碌或廉价职业训练？",
+      "coreExplanation": "上一处债务不能用“做中学”四字偿还。人可以重复做一件事而从不理解关系，流水线甚至会用活动压低思考。杜威所谓occupation，是有目的地处理材料、工具与他人，并让活动需要数学、历史、科学和沟通。它不是成人职业的缩小复制，而是把知识重新接回共同生活的组织中心。",
+      "sections": [
+        {
+          "heading": "作业活动组织一个小世界",
+          "paragraphs": [
+            "上一处债务不能用“做中学”四字偿还。人可以重复做一件事而从不理解关系，流水线甚至会用活动压低思考。杜威所谓occupation，是有目的地处理材料、工具与他人，并让活动需要数学、历史、科学和沟通。它不是成人职业的缩小复制，而是把知识重新接回共同生活的组织中心。",
+            "学生为校园制作一张可供轮椅使用者通行的地图，首先要实际测坡度、门宽和路面；测量冲突会迫使他们检查单位与工具，路线中断又带出建筑规范和谁被设计排除的历史。知识不是活动后附加的一段讲解，而在活动受阻时成为继续所必需的关系。",
+            "反思性学习由这种阻力生成。参与者暂停顺手习惯，界定哪一段不可通行，提出坡度或入口假设，试验替代路线，再检查新路线是否把风险转给视障者或夜间使用者。观察、观念与操作互相校正，说明教育依赖第六篇的探究逻辑，而不是另有一套儿童专用认识论。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "职业不能预先指定人的阶级命运",
+          "paragraphs": [
+            "vocation在《民主与教育》中指一个人持续贡献并发展能力的生活方向，不等于市场眼前职位。若富裕儿童学习理论与领导，贫困儿童只训练服从和单项技能，职业教育就把阶级分工自然化。杜威反对的不是技能，而是技能同科学、艺术、公民判断和转业能力被切开。",
+            "假如地图项目最后只让一组学生搬测量仪、另一组解释数据，分工可能提高速度，却会固化知识所有权。轮换角色后，原先的“手工能力不足”或“理论能力强”也许被证实只是机会分配。条件改变使评价改变，案例因此检验了职业分轨，而非仅装饰合作。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "真实活动也可能制造假真实",
+          "paragraphs": [
+            "异议指出，学校项目常是教师预设答案的表演，所谓真实问题没有真实利害；反过来，直接让儿童承担社区工程又可能把公共责任推给他们。活动的真实性不能靠“动手”或走出校园自动保证。",
+            "回应要区分教育性参与与替代专业治理。学生的测量可被无障碍办公室审阅，错误能改变地图，但最终改建责任仍属机构。教师可预先保护安全，却不应伪装每个结果都开放。收缩后的原则是：活动须有可感知后果、真实反馈和合适责任边界，才承担探究功能。",
+            "《学校与社会》来自实验学校讲演，描述的缝纫、烹饪和工艺处在特定工业时代，也依赖教师团队实践。把这些活动当作永恒学科清单，会背叛其功能论。《我们怎样思维》则把反思结构带入师范语境；二者声音相关却不相同。",
+            "活动、反馈和责任边界仍不能保证经验长期具有教育性。某个项目可以成功，却让学生以后只追逐即时兴奋；自由课堂也可能由最强势同伴支配。进步教育实践迫使晚年杜威重新说明连续性、互动、自由和控制。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "假如地图项目最后只让一组学生搬测量仪、另一组解释数据，分工可能提高速度，却会固化知识所有权。轮换角色后，原先的“手工能力不足”或“理论能力强”也许被证实只是机会分配。条件改变使评价改变，案例因此检验了职业分轨，而非仅装饰合作。",
+      "nodeIds": [
+        "dewey-10-teaching"
+      ],
+      "checkIds": [
+        "dewey-10-q1",
+        "dewey-10-q2",
+        "dewey-10-q3",
+        "dewey-10-q4"
+      ],
+      "abilitySummary": [
+        "能够重建作业活动、反思结构与职业教育的阶级边界中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-11",
+      "order": 11,
+      "title": "有经验不等于经验具有教育性",
+      "depth": "晚年对传统教育与散漫进步教育的双向收缩",
+      "guidingQuestion": "自由、活动和兴趣为何仍可能形成封闭习惯，教师又怎样引导而不退回灌输？",
+      "coreExplanation": "1938年的《经验与教育》不是对“进步”口号的庆祝，而从失败经验开始。传统学校把教材、纪律和目的从成人世界外加给学生；一些进步学校只反转符号，凡旧皆坏、凡自发活动皆好。两端都用来源替质量作判断：一个经验来自权威或来自兴趣，都不能证明它会把人带向何处。",
+      "sections": [
+        {
+          "heading": "两个极端分享同一种偷懒",
+          "paragraphs": [
+            "1938年的《经验与教育》不是对“进步”口号的庆祝，而从失败经验开始。传统学校把教材、纪律和目的从成人世界外加给学生；一些进步学校只反转符号，凡旧皆坏、凡自发活动皆好。两端都用来源替质量作判断：一个经验来自权威或来自兴趣，都不能证明它会把人带向何处。",
+            "杜威由此区分experience与educative experience。一次羞辱会训练服从，一次无边界兴奋会训练逃避困难，它们都真实发生，却会封闭后续经验。教育性不能用当下愉快判断，必须看它是否提高辨别、合作和面对新阻力的能力。这个区别把第八篇的成长异议带进学校内部。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "连续性和互动是交叉检验",
+          "paragraphs": [
+            "continuity考察经验怎样进入后来习惯，interaction考察行动者已有能力与当前环境如何共同形成所发生之事。两条准则必须交叉：一项活动可能与过去兴趣连续，却因环境只奖励最快答案而缩窄未来；同一实验材料对已有训练不同的人也不会产生相同经验。",
+            "讨论课让所有人自由发言，几名熟悉辩论规则的学生不断抢先，其他人逐渐沉默。形式自由增加，实际参与能力却下降。若教师引入轮候、准备时间和可匿名提交的反例，沉默者开始影响问题形成；若规则僵化到禁止自然回应，又会损失对话节奏。条件变化检验的是自由怎样由环境组织。",
+            "自由因此不是教师退出后留下的空白。它首先是观察、形成目的、尝试并修正行动的能力。教师控制材料、时间和安全条件不可避免；问题在控制是让学生逐步承担判断，还是只让他们服从他人的目的。authority可以转化为对环境连续性的责任，却不能假装权力已经消失。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "谁判断未来连续性",
+          "paragraphs": [
+            "异议是，只有成人能预见长期后果时，“教育性”会重新授权家长式支配。教师可以声称任何压制都是为了将来自由，学生眼前经验被无限延期。连续性若只由权威解释，进步语言不会阻止传统控制复活。",
+            "回应需要可见反馈和责任分担。教师应说明为何安排某种难度，观察谁获得或失去参与，允许学生提出规则造成的后果，并根据证据修改。并非每项安全决定都能投票，但限制要与具体风险相称且可复查。收缩后的自由是逐步扩大的共同判断，而非即时愿望或秘密替代。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "一次自我修正留下的政治问题",
+          "paragraphs": [
+            "《经验与教育》面对的是被杜威之名笼统代表的进步教育实践，它明确批判两端。不能把此书写成1916年《民主与教育》的短摘要：前者在实践反例后收紧经验标准，后者提供更广社会哲学。两者连贯，却有失败经验造成的时期压力。",
+            "课堂中共同形成规则已经预设：每个人的经验应能影响公共问题，能力差异不自动产生替代决定权。这个预设超出教育技术，指向一种社会关系。若学校训练参与，外部工作与政治却要求服从，连续性会断裂。下一篇必须说明民主为何是一种联合生活，而不只是学校的远期用途。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "讨论课让所有人自由发言，几名熟悉辩论规则的学生不断抢先，其他人逐渐沉默。形式自由增加，实际参与能力却下降。若教师引入轮候、准备时间和可匿名提交的反例，沉默者开始影响问题形成；若规则僵化到禁止自然回应，又会损失对话节奏。条件变化检验的是自由怎样由环境组织。",
+      "nodeIds": [
+        "dewey-11-teaching"
+      ],
+      "checkIds": [
+        "dewey-11-q1",
+        "dewey-11-q2",
+        "dewey-11-q3",
+        "dewey-11-q4"
+      ],
+      "abilitySummary": [
+        "能够重建晚年对传统教育与散漫进步教育的双向收缩中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-12",
+      "order": 12,
+      "title": "民主不在投票结束时出现",
+      "depth": "联合生活如何同时要求个性、交往与共同成长",
+      "guidingQuestion": "若多数决定也能压迫，民主作为生活方式凭什么比友好合作要求更多？",
+      "coreExplanation": "学校之外，多数票能更换领导，却不能保证工作场所、家庭或社团中的经验自由流通。早期《民主的伦理》已追问多数怎样形成，1916年《民主与教育》进一步把民主定义为联合生活与共同沟通的经验。政府程序仍重要，但它们只是更广关系的一组工具。",
+      "sections": [
+        {
+          "heading": "政府形式只解决一部分问题",
+          "paragraphs": [
+            "学校之外，多数票能更换领导，却不能保证工作场所、家庭或社团中的经验自由流通。早期《民主的伦理》已追问多数怎样形成，1916年《民主与教育》进一步把民主定义为联合生活与共同沟通的经验。政府程序仍重要，但它们只是更广关系的一组工具。",
+            "杜威提出两个可操作方向：群体内部共享利益要足够多样，使成员不被单一角色锁定；群体之间交往要足够自由，使习惯接受陌生经验修正。一个工会内部可以高度团结，却若以排斥某族工人为条件，第一项合作会因第二项封闭而失去民主资格。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "个性不是共同体的剩余物",
+          "paragraphs": [
+            "个人从关系中形成，并不意味着共同体可要求无条件服从。民主从个人一侧要求按能力负责参与群体方向，并能分享群体维持的价值；从群体一侧要求释放成员潜能而不是把人固定为工具。个性与共同善不是先在敌人，它们能否协调正是制度要持续解决的问题。",
+            "住区决定是否封闭一条穿行道路。业主担心噪声，外卖员、租户和附近残障居民依赖通行。若只按产权人数投票，受间接后果者不进入多数形成；若召开会议却没有无障碍地点和翻译，形式参与仍排除经验。改变代表范围与沟通条件后，可能出现限时通行而非全开全关。",
+            "这就是democracy as a way of life的术语来源：它指日常关联是否允许受后果者共同形成问题、贡献差异并修正安排。它不是要求所有事务永久开会，也不是把礼貌相处升为政治。程序、权利和组织之所以受评价，是因为它们影响这种生活能力。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "盗贼团伙再次回来",
+          "paragraphs": [
+            "异议借第八篇的盗贼反例追问：团伙也有共同语言、忠诚和成员成长，为什么不算民主？若杜威只赞美内部参与，封闭集团完全可以满足。若他诉诸全社会和谐，又可能重新引入早期绝对整体。",
+            "回应把范围与强制放进标准。团伙活动必须遮蔽受害者后果，并靠威胁维持边界；它使跨群体交往越多，内部目的越难持续。民主成长不是无冲突和谐，而是让冲突受影响者进入重组，减少目的只能靠永久排除实现的情形。收缩是，这仍是一项批判理想，不是现成制度蓝图。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "熟人共同体不足以治理现代后果",
+          "paragraphs": [
+            "从1888年有机民主到1916年联合生活，再到1939年“创造性民主”，关系性个体是一条连续线，担保方式却已实验化。晚期演讲以信念语言动员反法西斯民主，不能当作民主必然胜利的证明。",
+            "住区道路仍是较易识别的公共。现代公司的污染、算法或金融后果跨越地域，受影响者彼此不认识，甚至不知道自己共享问题。民主生活理想若没有公众形成与国家组织理论，就会停在小共同体浪漫。下一篇处理间接后果、公众蚀没与专家位置。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "住区决定是否封闭一条穿行道路。业主担心噪声，外卖员、租户和附近残障居民依赖通行。若只按产权人数投票，受间接后果者不进入多数形成；若召开会议却没有无障碍地点和翻译，形式参与仍排除经验。改变代表范围与沟通条件后，可能出现限时通行而非全开全关。",
+      "nodeIds": [
+        "dewey-12-teaching"
+      ],
+      "checkIds": [
+        "dewey-12-q1",
+        "dewey-12-q2",
+        "dewey-12-q3",
+        "dewey-12-q4"
+      ],
+      "abilitySummary": [
+        "能够重建联合生活如何同时要求个性、交往与共同成长中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-13",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-13",
+      "order": 13,
+      "title": "公众由无人独自承担的后果形成",
+      "depth": "国家、代表与专家如何服务一个尚未发现自己的公众",
+      "guidingQuestion": "复杂社会中受影响者分散且缺少知识，民主怎样不退给专家统治？",
+      "coreExplanation": "政治理论常从国家本质或个人与社会二分起步，杜威却从行为后果起步。两人交易的直接后果主要由双方承担，可当工厂排放进入下游饮水，后果广泛、间接且需要系统照料，public便由这些受影响者形成。公众不是天然同质人民，也不是所有社会关系的总称。",
+      "sections": [
+        {
+          "heading": "先找后果，不先定义国家",
+          "paragraphs": [
+            "政治理论常从国家本质或个人与社会二分起步，杜威却从行为后果起步。两人交易的直接后果主要由双方承担，可当工厂排放进入下游饮水，后果广泛、间接且需要系统照料，public便由这些受影响者形成。公众不是天然同质人民，也不是所有社会关系的总称。",
+            "公众出现不等于公众已经知道自己存在。污染病症分散、公司掌握数据、行政边界切开河流时，受影响者无法把私人困扰连接成共同问题。所谓公众蚀没不是人民突然失去理性，而是后果规模超过既有调查、传播和组织习惯。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "国家是历史性工具",
+          "paragraphs": [
+            "当公众为照料间接后果设置官员、法律与机构，state才获得功能。国家不是从永恒主权定义演绎出的实体，也不等于整个社会；其边界与职能应随后果改变。旧行政区若无法治理流域，跨区机构可能必要；机构若开始保护自身预算而非公众后果，就失去原有正当性。",
+            "河流监测需要毒理学、流体模型和统计，普通居民不可能人人成为专家。专家负责发现关系与预测方案，却不能独占问题定义：渔民、患者和下游照护者知道何种损失值得调查，也要参与决定可接受风险。知识分工与目的分工因此必须拆开。",
+            "若专家发现一种污染物低于法定阈值，却居民记录显示多种物质共同暴露，原有指标需重开；若进一步研究否定关联，居民经验仍启动了正当调查，却不能单独决定因果。条件改变使双方角色都受修正，避免“专业永远对”与“亲历自动真”的假两难。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "Lippmann的压力没有被一句参与化解",
+          "paragraphs": [
+            "Lippmann认为现代世界过于复杂，普通公民受时间、媒体和刻板印象限制，政治只能主要依靠专业管理。杜威承认诊断的分量：分散公众确实无法凭善意掌握遥远因果。《公众及其问题》不是否认复杂性，而是否认复杂性直接赋予专家决定共同目的的权利。",
+            "回应仍有薄弱处。杜威寄望社会调查和沟通使“大共同体”出现，却没有给出足以对抗资本控制媒体、官僚保密和不平等闲暇的完整制度。可保住的结论是：专家统治会失去受影响者的问题知识和纠错入口；不能保住的是参与一经开放便自然有效。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "一场并未同台发生的辩论",
+          "paragraphs": [
+            "“Dewey—Lippmann debate”是后世对《公众舆论》《幻影公众》和《公众及其问题》的关系重构，不是两人同台按回合辩论。原典身份应让Lippmann保持独立声音，也不把杜威书中的每句都当作逐字回应。",
+            "公众即使发现自己，参与能力仍受工资、产权、工作时间和组织权支配。让工人晚上来听污染报告，却让公司决定生产数据与就业风险，程序无法补足经济不平等。下一篇必须从旧个人主义转向工业自由。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "若专家发现一种污染物低于法定阈值，却居民记录显示多种物质共同暴露，原有指标需重开；若进一步研究否定关联，居民经验仍启动了正当调查，却不能单独决定因果。条件改变使双方角色都受修正，避免“专业永远对”与“亲历自动真”的假两难。",
+      "nodeIds": [
+        "dewey-13-teaching"
+      ],
+      "checkIds": [
+        "dewey-13-q1",
+        "dewey-13-q2",
+        "dewey-13-q3",
+        "dewey-13-q4"
+      ],
+      "abilitySummary": [
+        "能够重建国家、代表与专家如何服务一个尚未发现自己的公众中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-14",
+      "order": 14,
+      "title": "旧自由曾解放人，也能保护新的支配",
+      "depth": "历史化个人主义、积极自由与工业民主",
+      "guidingQuestion": "不干预曾反抗封建权力，为何在工业资本条件下可能反而封锁自由？",
+      "coreExplanation": "古典自由主义以契约、产权和免受国家干预对抗世袭身份，确有解放功能。错误不是它从未有效，而是把特定历史工具变成人性永恒定义。公司、金融和全国市场集中后，形式上平等的个人面对可控制工作、住房与媒体的组织，单纯不干预会让既有力量继续行动。",
+      "sections": [
+        {
+          "heading": "观念会在成功后失去原功能",
+          "paragraphs": [
+            "古典自由主义以契约、产权和免受国家干预对抗世袭身份，确有解放功能。错误不是它从未有效，而是把特定历史工具变成人性永恒定义。公司、金融和全国市场集中后，形式上平等的个人面对可控制工作、住房与媒体的组织，单纯不干预会让既有力量继续行动。",
+            "《旧个人主义与新个人主义》因此历史化individualism。个人能力从教育、技术、法律和合作中形成，制度不是自由的外来敌人，而是自由可能或不可能的条件。旧语言若只保护选择权，却不问选项怎样生成，就会把被迫接受危险工作的契约说成完整自由。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "积极自由需要资源和共同控制",
+          "paragraphs": [
+            "自由由此改写为实际形成目的、获得知识并参与决定的能力。它可以要求公共教育、社会保障、工会权和对集中经济力量的社会控制。这并非国家越大越自由；每项干预仍须看是否扩大受影响者能力，还是把私人支配换成官僚支配。",
+            "平台公司以“独立承包”让骑手自由上线，却单方面改变计价、派单和申诉。若只看退出合同，骑手有选择；若收入依赖平台且算法不可见，形成工作目的的能力极弱。开放计价资料、集体协商和可转移评级会改变自由结构。若监管只规定指标却不让骑手参与，改善仍可能被新算法绕开。",
+            "industrial democracy不是把国会投票简单搬进工厂，而是让工作后果、知识和方向不被所有权单独垄断。它把民主生活扩到经济关系，也解释为何教育中的职业分轨是政治问题。自由与民主在此互相依赖：没有资源的参与空洞，没有参与的资源分配容易家长化。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "自由主义还能否承受激进改造",
+          "paragraphs": [
+            "异议从两边来。放任主义者说社会控制牺牲产权自由；革命马克思主义者说杜威仍相信渐进探究，低估阶级利益不会因沟通退出。大萧条时期杜威支持计划、劳动权和经济社会化，却反对先锋党与手段目的断裂。",
+            "可保住的回应是，旧自由本就依赖法律建构，并非取消公共行动才中立；同时，民主手段限制改革者以未来解放为名压制当前异议。收缩之处是，杜威没有充分说明支配集团为何会接受使其失权的实验，也未提供稳定的所有制蓝图。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "三十年代的政治加压",
+          "paragraphs": [
+            "《自由主义与社会行动》1935年处在大萧条与法西斯上升背景，《自由与文化》1939年又反对以单一心理、经济或种族因素解释自由。称其激进民主自由主义、社会化自由主义或民主社会主义都需说明范围；不能把他写成放任派，也不能等同马克思主义政党理论。",
+            "经济民主需要公众知道产业后果、听见异议并形成共同对象。可现代传播本身由资本、技术和习惯组织；更多信息甚至可能加深噪声与操控。下一篇把communication从传递管道重建为共同意义的形成条件。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "平台公司以“独立承包”让骑手自由上线，却单方面改变计价、派单和申诉。若只看退出合同，骑手有选择；若收入依赖平台且算法不可见，形成工作目的的能力极弱。开放计价资料、集体协商和可转移评级会改变自由结构。若监管只规定指标却不让骑手参与，改善仍可能被新算法绕开。",
+      "nodeIds": [
+        "dewey-14-teaching"
+      ],
+      "checkIds": [
+        "dewey-14-q1",
+        "dewey-14-q2",
+        "dewey-14-q3",
+        "dewey-14-q4"
+      ],
+      "abilitySummary": [
+        "能够重建历史化个人主义、积极自由与工业民主中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-15",
+      "order": 15,
+      "title": "沟通不是把私人思想搬过一条管道",
+      "depth": "意义、媒介与社会智能如何形成又被权力截断",
+      "guidingQuestion": "更多信息为何不必然产生公众，沟通怎样才成为共同探究？",
+      "coreExplanation": "若心灵先在私人内部完成，communication只能把既成内容编码后搬给别人。杜威在《经验与自然》中给出更强主张：共同使用符号时，参与者学会从他人可能回应看自己的行动，一个声音或物体才成为共享对象。沟通不是思想后的附属运输，而是心灵与文化对象形成的条件。",
+      "sections": [
+        {
+          "heading": "符号会改变参与者",
+          "paragraphs": [
+            "若心灵先在私人内部完成，communication只能把既成内容编码后搬给别人。杜威在《经验与自然》中给出更强主张：共同使用符号时，参与者学会从他人可能回应看自己的行动，一个声音或物体才成为共享对象。沟通不是思想后的附属运输，而是心灵与文化对象形成的条件。",
+            "这也解释社会调查为何不能把报告丢到网站便算公开。统计表要同患者、工人或居民可识别的后果连接，专业术语要在不歪曲关系的前提下转译，反例还要能返回调查设计。共同对象不是人人拥有同一句话，而是差异经验能够指向同一可争论事务。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "新闻、艺术与调查承担不同工作",
+          "paragraphs": [
+            "《公众及其问题》期待社会科学发现远距离后果，也认为表达艺术能让抽象关系获得可感形式。新闻若只搬运数字，公众难以看见数字怎样进入生活；若只讲个案情绪，又可能遮蔽规模。调查、叙事和视觉表达功能相连，却不能相互替代证据。",
+            "一场高温造成的死亡分散在医院、独居住宅和户外工地。仪表板显示街区差异，记者追踪无空调租户，工会记录夜班规定，地图又暴露树荫和电价关系。若只增加推送数量，信息会碎裂；把资料组织为“谁在何种劳动与住房条件下承受热风险”，公众才获得可行动对象。",
+            "当平台算法偏好愤怒内容，最强故事可能挤掉基准率；当政府只发布汇总，街区差异会消失。改变推荐规则、开放原始分层资料或让社区核对地图，可能改变共同对象。案例显示媒介不是中性容器，它参与选择何者可见。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "沟通理想遇见不对称",
+          "paragraphs": [
+            "异议认为杜威把支配误写成沟通不足。资本可以购买注意力，国家可以惩罚泄密者，种族和性别秩序会让同一句证词获得不同可信度；请大家更充分交流，并不改变发言成本。",
+            "回应必须承认沟通条件本身需要政治重组：资料权、组织保护、媒介多样性、时间与教育资源都属于社会智能基础。开放仍不保证平等，但没有反驳和共同对象入口，纠错更不可能。收缩后的结论是沟通为民主必要而不充分，不能取代反支配制度。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "从可说转向可感",
+          "paragraphs": [
+            "《经验与自然》的沟通论提供形上与文化背景，《公众及其问题》把它置入现代媒体危机。后来把杜威直接称为互联网民主理论家属于迁移，不能伪装成原典预言。新闻和艺术的连接也不是说审美只服务政策宣传。",
+            "高温地图使抽象关系可感，却尚未说明何种形式让经验获得内在节奏与圆成。若民主生活永久只是解决下一个危机的手段，它缺少杜威所追求的生活质量。下一篇从活的生物与环境节律进入审美，检验经验何时成为“一个经验”。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "当平台算法偏好愤怒内容，最强故事可能挤掉基准率；当政府只发布汇总，街区差异会消失。改变推荐规则、开放原始分层资料或让社区核对地图，可能改变共同对象。案例显示媒介不是中性容器，它参与选择何者可见。",
+      "nodeIds": [
+        "dewey-15-teaching"
+      ],
+      "checkIds": [
+        "dewey-15-q1",
+        "dewey-15-q2",
+        "dewey-15-q3",
+        "dewey-15-q4"
+      ],
+      "abilitySummary": [
+        "能够重建意义、媒介与社会智能如何形成又被权力截断中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-16",
+      "order": 16,
+      "title": "散漫经历怎样成为一个经验",
+      "depth": "阻力、节奏与圆成如何从生命活动生成审美性质",
+      "guidingQuestion": "审美若连续于日常生活，什么阻止任何愉快或强烈刺激都被叫作艺术？",
+      "coreExplanation": "现代博物馆把艺术物同制作、仪式和日常使用分开，容易让审美成为少数人的特殊凝视。杜威并不因此说所有生活瞬间都是艺术，而是回到活的生物：饥饿打断平衡，寻找食物组织动作，满足保存了先前张力。经验的基本节律是需要、阻力、行动与承受，而非脱离生命的美感器官。",
+      "sections": [
+        {
+          "heading": "博物馆隔离不是艺术的起点",
+          "paragraphs": [
+            "现代博物馆把艺术物同制作、仪式和日常使用分开，容易让审美成为少数人的特殊凝视。杜威并不因此说所有生活瞬间都是艺术，而是回到活的生物：饥饿打断平衡，寻找食物组织动作，满足保存了先前张力。经验的基本节律是需要、阻力、行动与承受，而非脱离生命的美感器官。",
+            "多数经历中途散失。写信被提醒打断，争论没有结论，任务虽停止却没有完成。an experience则由一种贯穿的质性统一把各阶段连接起来，结尾不是简单停下，而是让先前冲突获得位置。术语consummation由此生成：圆成保存并实现过程，不是外加奖赏或永远封闭。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "阻力不是美的敌人",
+          "paragraphs": [
+            "一名木匠制作贴合弯墙的书架。木料回弹、墙面不直、接缝暴露，每次阻力迫使手势与构想调整；最后各线条在使用中互相支持。若机器一次切出无须感知的标准板，结果可能实用，却未必形成同样经验。审美性质来自行动与材料的相互塑造，而不只来自成品漂亮。",
+            "若顾客中途把用途改成儿童攀爬架，原先纤细结构必须重做，安全、触感和形态关系都改变。条件改变后，美的判断也不是随意改口，而由新的doing/undergoing整体规定。这个案例把第四篇经验自然论带回审美，并显示手段与目的的连续。",
+            "审美经验与知识探究不同，却非无思想。科学家解决难题也可经历质性圆成，体育或谈话亦然；艺术把这种组织有意识地集中于媒介。连续性取消艺术生活裂谷，差异性则保留材料控制、形式节奏和可分享作品的要求。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "圆成会不会偏爱和谐",
+          "paragraphs": [
+            "异议认为，“一个经验”偏爱有机统一和闭合，难以容纳创伤、碎片化作品或故意拒绝结局的先锋艺术。若圆成等于冲突被和谐解决，许多现代经验会被判为缺陷。",
+            "回应可把统一理解为张力获得可感组织，而非所有矛盾消失。作品可以让断裂成为贯穿质量，结尾也可有意保持不安；关键是各部分是否使经验朝某种完成方式积累。收缩是，杜威的生命有机体隐喻仍可能偏重整合，这项审美规范争议不能抹平。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "一段经验还不是公共作品",
+          "paragraphs": [
+            "《艺术即经验》由1931年William James Lectures修订成1934年著作，成熟审美论也承接《经验与自然》的质性与完成。不能把早期理想主义艺术等级直接混入，也不能把“日常审美”所有后世扩展当成杜威原句。",
+            "木匠的圆成仍可能只属于制作者。情绪怎样经材料成为表达，物理成品为何不自动等于作品，欣赏者和批评又做什么？若不回答，审美连续性会停在私人满足。下一篇进入媒介、表达和作品的公共实现。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "若顾客中途把用途改成儿童攀爬架，原先纤细结构必须重做，安全、触感和形态关系都改变。条件改变后，美的判断也不是随意改口，而由新的doing/undergoing整体规定。这个案例把第四篇经验自然论带回审美，并显示手段与目的的连续。",
+      "nodeIds": [
+        "dewey-16-teaching"
+      ],
+      "checkIds": [
+        "dewey-16-q1",
+        "dewey-16-q2",
+        "dewey-16-q3",
+        "dewey-16-q4"
+      ],
+      "abilitySummary": [
+        "能够重建阻力、节奏与圆成如何从生命活动生成审美性质中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-17",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-17",
+      "order": 17,
+      "title": "发泄出来的情绪还没有成为表达",
+      "depth": "媒介、艺术产品、作品实现与批评的公共任务",
+      "guidingQuestion": "物理艺术品与欣赏者经验如何共同构成作品，而不把作品化成任意感受？",
+      "coreExplanation": "受惊时尖叫能释放张力，却未必表达出可供别人经历的关系。expression要求过去经验、当前情绪和材料在制作中重组。诗人删改一个意象，音乐家让节奏延迟，情绪不再只是原因，而成为作品组织的内容。杜威因此区分discharge与expression，防止“真情流露”替代形式劳动。",
+      "sections": [
+        {
+          "heading": "表达需要材料反过来工作",
+          "paragraphs": [
+            "受惊时尖叫能释放张力，却未必表达出可供别人经历的关系。expression要求过去经验、当前情绪和材料在制作中重组。诗人删改一个意象，音乐家让节奏延迟，情绪不再只是原因，而成为作品组织的内容。杜威因此区分discharge与expression，防止“真情流露”替代形式劳动。",
+            "媒介不是中性容器。颜料的覆盖、语言的歧义、石材的重量会开放和关闭可能；艺术家既主动选择又承受材料。只有当情绪通过这些关系被客观化，别人才能从作品重新经历它，而不是猜测作者心里原有何物。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "产品等待成为作品",
+          "paragraphs": [
+            "杜威又区分art product与work of art。画布、建筑或乐谱是相对持久的产品，作品则在产品的组织与感知者活动相遇时实现。这不把作品变成私人投射，因为产品的节奏、对比和材料安排对感知提出要求；欣赏者也需带着习惯、记忆和注意实际完成关系。",
+            "一幅纪念工厂火灾的壁画被从工人社区移到私人大厅。颜料未变，原来与街道、家属仪式和劳动历史相连的经验条件却被切断；新场所也可能让构图细节更易保存。若社区获得数字复制却失去集会地点，复制没有自动恢复作品功能。条件变化检验了产品持久与作品情境之间的张力。",
+            "批评的职责不是用固定美学规则判决，而是指出作品各关系怎样工作，让感知更精确。评价仍可能比较：某解释是否忽略材料、时代或结构，某修复是否破坏节奏。批评扩大经验，不等于所有反应同样有根据。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同经验受制度分配",
+          "paragraphs": [
+            "异议指出，杜威批评博物馆隔离，却仍容易以“共同经验”掩盖所有权。谁能保存、展出和解释作品，谁的劳动被称为工艺而非艺术，均由阶级、殖民收藏与制度权威决定。感知者—产品关系不会自动纠正这些入口。",
+            "回应要把制度视为审美条件而非外部政治附录。归还、共同策展、劳动署名和可进入场所会改变作品实现；同时，政治正义也不能替代对媒介与形式的细察。收缩后的社会艺术论要求两条证据链并存：作品怎样组织经验，制度怎样分配参与。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "圆成如何指向理想",
+          "paragraphs": [
+            "《艺术即经验》中的表达、实体、形式和批评属于同一1934年系统，不能把后世制度艺术理论全部归入杜威。它提供批判隔离的资源，但并未详尽分析殖民博物馆。原典声音和现代扩展必须分层。",
+            "艺术使分散材料围绕理想统一，并调动超出即时利益的奉献。自然主义若拒绝超自然实体，是否还能保留这种整合力量？还是把宗教只剩审美情绪？下一篇让religion与religious发生正面冲突。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一幅纪念工厂火灾的壁画被从工人社区移到私人大厅。颜料未变，原来与街道、家属仪式和劳动历史相连的经验条件却被切断；新场所也可能让构图细节更易保存。若社区获得数字复制却失去集会地点，复制没有自动恢复作品功能。条件变化检验了产品持久与作品情境之间的张力。",
+      "nodeIds": [
+        "dewey-17-teaching"
+      ],
+      "checkIds": [
+        "dewey-17-q1",
+        "dewey-17-q2",
+        "dewey-17-q3",
+        "dewey-17-q4"
+      ],
+      "abilitySummary": [
+        "能够重建媒介、艺术产品、作品实现与批评的公共任务中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-18",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-18",
+      "order": 18,
+      "title": "没有超自然对象，奉献还能称为宗教性吗",
+      "depth": "共同信念如何保存理想整合又承担自然主义代价",
+      "guidingQuestion": "拒绝神迹和超越实体后，religious quality是否仍有独立内容？",
+      "coreExplanation": "杜威成长于新教家庭，约在芝加哥时期远离教会，却没有把问题压成“信或不信”。《共同信念》先区分religions与religious：前者是带教义、神圣对象和机构的历史传统，后者指一次经验使分散欲望围绕更广理想重新定向的性质。这个区分允许批判宗教权威而不把奉献、敬畏和自我转化都交给超自然主义。",
+      "sections": [
+        {
+          "heading": "先把宗教复数化",
+          "paragraphs": [
+            "杜威成长于新教家庭，约在芝加哥时期远离教会，却没有把问题压成“信或不信”。《共同信念》先区分religions与religious：前者是带教义、神圣对象和机构的历史传统，后者指一次经验使分散欲望围绕更广理想重新定向的性质。这个区分允许批判宗教权威而不把奉献、敬畏和自我转化都交给超自然主义。",
+            "理想并非从天外降下。人从友爱、正义、求知和艺术圆成等实际善中想象更完整的可能，把它们组织成尚未实现的方向。faith在这里不是相信不可观察命题，而是愿意让当前行动接受该理想重排。它与ends-in-view连续，却规模更广、情感投入更深。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同并不等于同一教义",
+          "paragraphs": [
+            "受洪灾社区有宗教团体、世俗互助者和不信者。若共同救援以某教义为资格，经验被排除；若大家只同意“善良”，又没有行动方向。把可居住、安全和不抛弃弱者组织成共同理想，不要求各方解释终极来源相同，却要求物资、撤离和重建决定接受后果检验。",
+            "若重建方案为保护景观而迁走贫困租户，先前团结的religious quality受到自己的后果反驳。若宗教团体以网络和信任更快救援，这项贡献也应承认，不因其神学来源就被自然主义抹去。案例使共同信念同时避开教义垄断和世俗自满。",
+            "杜威还把God重释为理想可能与实际条件之间的积极关系，而不是一位超自然人格者。这个用法试图保存象征力量，却最容易造成语义争夺。路线只能说明重构的功能，不能声称传统信徒同意对象没有损失。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "双重异议不会互相抵消",
+          "paragraphs": [
+            "传统有神论者会说，若没有真实上帝与启示，所谓宗教性只是高尚情绪；严格自然主义者则说，既然理想、情感和民主已能说明一切，继续使用God和faith只会制造混乱。两种异议从相反方向攻击同一重构。",
+            "杜威能回应的是实践损失：把理想交给超自然机构会冻结检验，完全放弃宗教性语言又可能忽略深度奉献如何重组自我。收缩也明确：这是为放弃超自然主义却仍自认有宗教经验者提出的方案，不是证明传统宗教和自然主义其实一致。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "信念必须接受历史反证",
+          "paragraphs": [
+            "《我相信什么》1930年已把信仰写成行动倾向，1934年Terry Lectures形成《共同信念》。讲演对象和时期都属于成熟自然主义，不可用青年教会归属证明后期仍有传统神学，也不可把后世宗教人文主义组织全部归给原书。",
+            "民主理想若获得近乎宗教的奉献，更需要检验其信徒是否看见自己造成的后果。杜威支持一战、后来反战；倡议平等，却在种族与殖民分析上留下盲点。下一篇不把这些当附录，而用其自身公共探究标准审查实践失败。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "若重建方案为保护景观而迁走贫困租户，先前团结的religious quality受到自己的后果反驳。若宗教团体以网络和信任更快救援，这项贡献也应承认，不因其神学来源就被自然主义抹去。案例使共同信念同时避开教义垄断和世俗自满。",
+      "nodeIds": [
+        "dewey-18-teaching"
+      ],
+      "checkIds": [
+        "dewey-18-q1",
+        "dewey-18-q2",
+        "dewey-18-q3",
+        "dewey-18-q4"
+      ],
+      "abilitySummary": [
+        "能够重建共同信念如何保存理想整合又承担自然主义代价中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-19",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-19",
+      "order": 19,
+      "title": "民主信念也会看不见自己排除的人",
+      "depth": "战争、种族、殖民、性别与国际实践的反向检验",
+      "guidingQuestion": "一套强调受影响者参与的哲学，为何仍会在真实政治判断中制造遮蔽？",
+      "coreExplanation": "杜威支持美国参加第一次世界大战，并一度期待战争动员打破旧习惯、促成社会重建。Jane Addams等和平主义者则警告暴力手段会塑造与民主目的相反的制度。战后强制、民族主义和和约结果使杜威深感失望，后来投入反战运动。把后期立场倒写成他一贯反战，会取消一次真实判断失败。",
+      "sections": [
+        {
+          "heading": "自我修正先从战争失败开始",
+          "paragraphs": [
+            "杜威支持美国参加第一次世界大战，并一度期待战争动员打破旧习惯、促成社会重建。Jane Addams等和平主义者则警告暴力手段会塑造与民主目的相反的制度。战后强制、民族主义和和约结果使杜威深感失望，后来投入反战运动。把后期立场倒写成他一贯反战，会取消一次真实判断失败。",
+            "实验主义允许根据后果修正，但“后来改了”还不够。必须追问早期探究为何没有让殖民竞争、种族等级和受战争影响者充分进入问题形成。若失败只归为信息不足，方法自身的视角选择就逃过检查。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "平等承诺与概念性白人视角并存",
+          "paragraphs": [
+            "杜威支持妇女选举权、Hull House、NAACP和跨种族民主，理论也要求拆除阶级与种族交往壁垒。这些事实不能抹去。同样不能抹去的是，他对一战和全球秩序的分析常把白人劳动者与欧洲民主置于中心，未像Du Bois那样把殖民掠夺和种族资本当作战争结构。平等原则与分析盲点可以同时真实。",
+            "一项国际教育援助计划声称培养民主讨论，却由捐助国决定语言、学科安排和成效指标。项目设置公开会议，并不改变当地教师只能在既定目标内发言。若评价加入本地工会、女性照护者和少数语言社群，可能发现“低参与”来自翻译成本和无薪时间，而非民主习惯不足。条件变化揭露谁被统计成公众。",
+            "这项批评也适用于思想归属。Hull House的社会伦理不能仅称为杜威理论的案例；Addams、Ella Flagg Young、Alice Chipman Dewey和实验学校教师是独立或共同实践者。把女性劳动隐入男性哲学家名下，会在知识史中重演参与形式开放、贡献权却不平等的结构。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "国际访问和政治程序的证据边界",
+          "paragraphs": [
+            "异议或许说，用今日种族与殖民理论批评杜威是不公平时代错置。他确实没有我们的词汇，也做出许多进步承诺。可Du Bois与Addams是同时代人，已经提供不同问题框架；因此批评不是要求预见未来，而是比较当时可用却未充分进入的经验。",
+            "回应应区分资源与充分性。杜威的公众标准能帮助指出受影响者被排除，这使其哲学具有自我批评资源；但拥有资源不等于本人完成批评。收缩后的结论不是“杜威其实已是去殖民理论家”，而是其民主方法必须接受来自被遮蔽传统的改造。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "访问不等于实现，程序不等于阵营",
+          "paragraphs": [
+            "中国讲演有讲稿、学生记录和后出整理差异；苏联学校访问的积极观察不等于认可斯大林体制；主持Trotsky Commission体现公开证据与程序公正，也不推出接受托洛茨基主义。旅行文本、当地接受、政治阵营和定稿哲学必须分层，才不会用履历代替论证。",
+            "历史压力表明，公开探究不会自动消除视角权力。剩余问题是，这会摧毁“经验—探究—民主”的统一，还是要求重新描述参与者与对象从事务中共同生成？晚期与Bentley的transaction提供一次回收，但它若只换语言，也可能遮蔽不对称。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一项国际教育援助计划声称培养民主讨论，却由捐助国决定语言、学科安排和成效指标。项目设置公开会议，并不改变当地教师只能在既定目标内发言。若评价加入本地工会、女性照护者和少数语言社群，可能发现“低参与”来自翻译成本和无薪时间，而非民主习惯不足。条件变化揭露谁被统计成公众。",
+      "nodeIds": [
+        "dewey-19-teaching"
+      ],
+      "checkIds": [
+        "dewey-19-q1",
+        "dewey-19-q2",
+        "dewey-19-q3",
+        "dewey-19-q4"
+      ],
+      "abilitySummary": [
+        "能够重建战争、种族、殖民、性别与国际实践的反向检验中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": "dewey-20",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "dewey-20",
+      "order": 20,
+      "title": "关系若先于两端，谁仍有力量支配谁",
+      "depth": "晚期transaction回收全路线并保留六项未偿债务",
+      "guidingQuestion": "交互论能否统一经验、探究、教育、民主与审美，又不把冲突和不对称溶进关系语言？",
+      "coreExplanation": "若先把主体和对象定义成各自完成的实体，再问它们如何相遇，认识难题一开始就被锁定。杜威与Arthur F. Bentley在《知与所知》中区分self-action、interaction与transaction：前者让事物凭内在力量行动，第二种让既成实体互相影响，第三种则把名称和边界看作整个事务调查中获得的功能。",
+      "sections": [
+        {
+          "heading": "从自我行动到事务生成",
+          "paragraphs": [
+            "若先把主体和对象定义成各自完成的实体，再问它们如何相遇，认识难题一开始就被锁定。杜威与Arthur F. Bentley在《知与所知》中区分self-action、interaction与transaction：前者让事物凭内在力量行动，第二种让既成实体互相影响，第三种则把名称和边界看作整个事务调查中获得的功能。",
+            "transaction不是说什么都互相连接，所以不能分析。医生、患者、病毒和检测在一次诊疗事务中获得特定角色；改变检测技术，“病例”边界会变，但身体损伤不会只靠改名消失。关系先行要求研究者追踪角色怎样生成，也要求对象后果持续反抗错误划分。",
+            "这个晚期术语可回收路线，却不能倒灌：1896年用coordination重写反射，1922年用habit连接身体环境，1925年用experience and nature描述连续，1949年合著才以transaction系统整顿语言。概念关系有连续性，作品时期与共同作者身份仍不可合并。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "五条线不是五次同构应用",
+          "paragraphs": [
+            "经验提供的是行动—承受事务场；探究只在场失去方向时发生，通过操作重组对象；教育处理参与能力怎样跨代形成；民主处理谁能进入共同问题与修正；审美则处理事务何时获得质性圆成。它们依赖同一自然主义，却各自回答不同压力，不能用“都是互动”压成五个例子。",
+            "一座城市用算法分配住房维修。数据把租户、故障和优先级组成事务，居民投诉又改变分类；培训决定工作人员能否质疑模型，听证决定租户能否进入问题形成，修复过程的材料和生活恢复还决定经验是否圆成。若只说系统各方互动，房东控制数据与租户承受霉菌的力量差异就被抹去。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "交互论的最强异议",
+          "paragraphs": [
+            "异议正是，关系语言容易把支配者与受害者写成对称共构。污染企业和患病居民都在事务中生成角色，不代表两者同等造成或控制后果。若transaction拒绝分析前实体，却没有资源说明积累的财产、暴力和身份，它会成为优雅的去政治化。",
+            "回应可要求把不对称本身当作可追踪关系：谁控制资料、谁能退出、谁承担不可逆损害、谁的分类成为官方事实。角色不是永恒本质，却会由制度稳定并产生真实差别。收缩后的transaction是一项避免错误预设的调查规训，不是自动完成正义判断的总答案。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        },
+        {
+          "heading": "六项不能在结尾结清的债务",
+          "paragraphs": [
+            "第一，直接质感与经验形上学的关系仍可能过载；第二，有保证的断言解释责任，却未终结真理与保证是否相同的争论；第三，成长依赖民主标准，而民主又常借成长辩护，循环风险未尽；第四，公共沟通需要反支配制度，杜威提供的制度细节不足；第五，审美圆成仍可能偏爱整合；第六，自然化宗教保存奉献，却改变了传统信仰对象。",
+            "这些债务不等于路线失败。杜威最可保留的成果，是把哲学从寻找不可变保证转为对生活中已有批评实践的再批评：追问概念从何种困难生成、操作改变了什么、谁承受后果、结论在哪些条件下应收缩。它是一套可自我修正的文化自然主义工程，不是所有二元论和权力冲突已被解除的宣言。",
+            "《知与所知》是1949年Dewey与Bentley合著，书中术语不能独占归给任何一人。结尾也不能让晚期文本成为全生涯的钥匙：它只提供一次回顾性整顿。路线最终留下的检验不是“杜威说了什么共同公式”，而是未来调查能否让被旧边界遮蔽的经验真正改变事务。"
+          ],
+          "identity": "authored synthesis",
+          "kind": "argument"
+        }
+      ],
+      "caseText": "一座城市用算法分配住房维修。数据把租户、故障和优先级组成事务，居民投诉又改变分类；培训决定工作人员能否质疑模型，听证决定租户能否进入问题形成，修复过程的材料和生活恢复还决定经验是否圆成。若只说系统各方互动，房东控制数据与租户承受霉菌的力量差异就被抹去。",
+      "nodeIds": [
+        "dewey-20-teaching"
+      ],
+      "checkIds": [
+        "dewey-20-q1",
+        "dewey-20-q2",
+        "dewey-20-q3",
+        "dewey-20-q4"
+      ],
+      "abilitySummary": [
+        "能够重建晚期transaction回收全路线并保留六项未偿债务中的问题、推理、异议和边界。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "dewey-01-q1",
+      "kind": "single-choice",
+      "prompt": "早期有机民主首先要修补哪一缺口？",
+      "targetNodeIds": [
+        "dewey-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-01-q1-b",
+          "text": "多数票在相关各类条件下都未经论证地表达绝对真理",
+          "feedback": "错步：把杜威追问“多数怎样形成”误写成对票数的无条件神圣化。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-01-q1-a",
+          "text": "原子式个人难以从内部解释共同目的与责任；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "论证先指出，若个人在关系之前已经完成，共同义务便只能从外部附加。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-01-q1-a",
+      "misconceptionId": "dewey-01-q1-misconception"
+    },
+    {
+      "id": "dewey-01-q2",
+      "kind": "single-choice",
+      "prompt": "成熟实验主义怎样改写早期的统一？",
+      "targetNodeIds": [
+        "dewey-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-01-q2-a",
+          "text": "把所涉各项冲突宣布为更高精神中早已解决；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这正是成熟立场撤去的绝对保证，冲突仍可能导致失败和修正。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-01-q2-b",
+          "text": "把统一改为行动中取得且接受后果检验的协调",
+          "feedback": "统一从形上既成事实变为具体事务中可失败、可重做的成就。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-01-q2-b",
+      "misconceptionId": "dewey-01-q2-misconception"
+    },
+    {
+      "id": "dewey-01-q3",
+      "kind": "single-choice",
+      "prompt": "移民社区作息案例排除了哪一种推理？",
+      "targetNodeIds": [
+        "dewey-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-01-q3-a",
+          "text": "行政者可借预定共同精神替所涉各项受影响者决定",
+          "feedback": "案例要求调查条件和公开检验，否定以整体名义跳过参与。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-01-q3-b",
+          "text": "共同安排必须随相关后果和条件变化而修正；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这不是被排除的推理，而是实验协调在案例中保留的核心。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-01-q3-a",
+      "misconceptionId": "dewey-01-q3-misconception"
+    },
+    {
+      "id": "dewey-01-q4",
+      "kind": "single-choice",
+      "prompt": "使用《从绝对主义到实验主义》时应保留什么边界？",
+      "targetNodeIds": [
+        "dewey-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-01-q4-b",
+          "text": "它说明晚年自我理解，仍须与早期作品分层核对",
+          "feedback": "回忆可定位转向叙事，却不能覆盖早期文本自身的唯心主义声音。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-01-q4-a",
+          "text": "它是青年杜威当场写成且未经回顾重构的记录；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：忽略1930年回顾文本与1880年代现场证据的时间距离。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-01-q4-b",
+      "misconceptionId": "dewey-01-q4-misconception"
+    },
+    {
+      "id": "dewey-02-q1",
+      "kind": "single-choice",
+      "prompt": "反射弧批判改变的首要分析单位是什么？",
+      "targetNodeIds": [
+        "dewey-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-02-q1-b",
+          "text": "从神经过程转向不留例外地不受身体约束的自由意志",
+          "feedback": "错步：杜威没有取消身体和神经过程，而是重定它们在协调中的分析位置。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-02-q1-a",
+          "text": "从孤立刺激和反应转向正在进行的完整活动；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "刺激和反应被保留为活动受阻时的功能区分，不再是起初自足的盒子。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-02-q1-a",
+      "misconceptionId": "dewey-02-q1-misconception"
+    },
+    {
+      "id": "dewey-02-q2",
+      "kind": "single-choice",
+      "prompt": "门铃案例为何不是单纯的相对主义？",
+      "targetNodeIds": [
+        "dewey-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-02-q2-b",
+          "text": "因为物理声响相似，而活动与条件变化可追踪地改变其功能",
+          "feedback": "案例比较了可定位条件，并展示条件变化后判断如何改变。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-02-q2-a",
+          "text": "因为相关各类人都能随意把门铃听成自己喜欢的意义；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：意义受正在进行的活动和新增烟味等真实条件约束，并非任意命名。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-02-q2-b",
+      "misconceptionId": "dewey-02-q2-misconception"
+    },
+    {
+      "id": "dewey-02-q3",
+      "kind": "single-choice",
+      "prompt": "面对爆炸先于惊吓的异议，协调论保留了什么？",
+      "targetNodeIds": [
+        "dewey-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-02-q3-b",
+          "text": "主体目的能够取消相关各类外界强度和强制",
+          "feedback": "错步：这会把协调歪成唯意志论，正文明确承认外界可强制打断活动。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-02-q3-a",
+          "text": "物理施力与时间先后可以真实存在；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "被拒绝的是由物理先后直接穷尽行为意义，不是外界因果本身。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-02-q3-a",
+      "misconceptionId": "dewey-02-q3-misconception"
+    },
+    {
+      "id": "dewey-02-q4",
+      "kind": "single-choice",
+      "prompt": "为何不应把 transaction 直接当作1896年论文的原词？",
+      "targetNodeIds": [
+        "dewey-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-02-q4-a",
+          "text": "因为反射弧论文主张主体与环境绝无关系；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：论文恰在重建关系，只是其时期语言是coordination而非晚期合著术语。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-02-q4-b",
+          "text": "因为晚期合著语言若倒灌，会抹掉概念发展的时期中介",
+          "feedback": "可说明开路关系，不能伪称成熟交互论已在1896年完整出现。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-02-q4-b",
+      "misconceptionId": "dewey-02-q4-misconception"
+    },
+    {
+      "id": "dewey-03-q1",
+      "kind": "single-choice",
+      "prompt": "为何弹琴习惯不能只定位在手指或大脑内部？",
+      "targetNodeIds": [
+        "dewey-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-03-q1-a",
+          "text": "能力还依赖琴键、音制、反复操演与可进入的环境",
+          "feedback": "习惯是有机体能力与环境安排共同维持的功能。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-03-q1-b",
+          "text": "因为个人身体在习惯形成中不留例外地不起作用；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：共同功能不是取消身体，而是否认身体能脱离环境独自穷尽能力。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-03-q1-a",
+      "misconceptionId": "dewey-03-q1-misconception"
+    },
+    {
+      "id": "dewey-03-q2",
+      "kind": "single-choice",
+      "prompt": "冲动在习惯重组中扮演什么角色？",
+      "targetNodeIds": [
+        "dewey-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-03-q2-a",
+          "text": "它未经论证地给出排他的正确的道德方向；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：冲动只是旧协调失效后的可塑能量，方向仍由后续连接形成。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-03-q2-b",
+          "text": "它使旧路线失配时出现重新组织行动的契机",
+          "feedback": "冲动既非固定本能清单，也非无需环境检验的纯洁声音。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-03-q2-b",
+      "misconceptionId": "dewey-03-q2-misconception"
+    },
+    {
+      "id": "dewey-03-q3",
+      "kind": "single-choice",
+      "prompt": "护理交接案例怎样体现审议而非抽象投票？",
+      "targetNodeIds": [
+        "dewey-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-03-q3-a",
+          "text": "它比较具体安排的人员、隐私、时间与错误后果",
+          "feedback": "审议让可选行动在想象和调查中展开，且新工具会改变价值关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-03-q3-b",
+          "text": "它规定效率一词无论条件如何都压倒其他价值；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：案例拒绝用一个抽象词预先封死冲突，要求查看安排的实际后果。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-03-q3-a",
+      "misconceptionId": "dewey-03-q3-misconception"
+    },
+    {
+      "id": "dewey-03-q4",
+      "kind": "single-choice",
+      "prompt": "习惯的社会形成与责任怎样相容？",
+      "targetNodeIds": [
+        "dewey-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-03-q4-a",
+          "text": "只要能解释环境来源，相关各类伤害者都自动免责",
+          "feedback": "错步：解释扩大了个人与组织的改变责任，并未把原因等同免责。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-03-q4-b",
+          "text": "责任包括参与重组行动与改变维持伤害的条件；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "回应保留归责，同时承认行动能力与处境分布不均。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-03-q4-b",
+      "misconceptionId": "dewey-03-q4-misconception"
+    },
+    {
+      "id": "dewey-04-q1",
+      "kind": "single-choice",
+      "prompt": "doing与undergoing的连接排除了哪种经验图景？",
+      "targetNodeIds": [
+        "dewey-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-04-q1-b",
+          "text": "行动会遇到不由个人愿望决定的环境后果",
+          "feedback": "错步：这恰是doing/undergoing保留的现实约束，不是它所排除的图景。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-04-q1-a",
+          "text": "经验只是心灵内部接收外界副本的薄膜；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "行动改变环境并承受其回击，经验位于这组发生而非私人屏幕。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-04-q1-a",
+      "misconceptionId": "dewey-04-q1-misconception"
+    },
+    {
+      "id": "dewey-04-q2",
+      "kind": "single-choice",
+      "prompt": "primary与secondary经验为何必须往返？",
+      "targetNodeIds": [
+        "dewey-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-04-q2-b",
+          "text": "因为反思从生活抽取关系，并应返回提升理解与行动",
+          "feedback": "经验方法不是停在立即感受，也不是让抽象永久脱离其来源。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-04-q2-a",
+          "text": "因为抽象概念一经形成便无需再接受生活后果检验；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：若抽象不能返回改善原经验，它会沦为专业概念的封闭自转。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-04-q2-b",
+      "misconceptionId": "dewey-04-q2-misconception"
+    },
+    {
+      "id": "dewey-04-q3",
+      "kind": "single-choice",
+      "prompt": "防洪案例怎样显示对象重组仍受现实约束？",
+      "targetNodeIds": [
+        "dewey-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-04-q3-a",
+          "text": "新增下游后果使“防洪工程”的边界改变，且预测成败可检验",
+          "feedback": "对象随调查扩展，但洪水损害和预测失败不是任意叙事。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-04-q3-b",
+          "text": "居民只要主观满意，相关各类水流结果都可算成功；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：它抹去undergoing的约束，把经验主义误写成心理满意主义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-04-q3-a",
+      "misconceptionId": "dewey-04-q3-misconception"
+    },
+    {
+      "id": "dewey-04-q4",
+      "kind": "single-choice",
+      "prompt": "面对经验概念过载的异议，正文作了何种收缩？",
+      "targetNodeIds": [
+        "dewey-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-04-q4-b",
+          "text": "把质感与关系视为同一事件的不同功能，并保留衔接债务",
+          "feedback": "统一是一项可争论的工作解释，不是靠术语强行封口。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-04-q4-a",
+          "text": "宣称连续性一词已经逻辑上消灭所涉各项层次问题；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：回应明确保留质感与关系层次如何衔接的未决争议。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-04-q4-b",
+      "misconceptionId": "dewey-04-q4-misconception"
+    },
+    {
+      "id": "dewey-05-q1",
+      "kind": "single-choice",
+      "prompt": "确定性追求的谱系批判增加了哪一层解释？",
+      "targetNodeIds": [
+        "dewey-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-05-q1-b",
+          "text": "所涉各项追求可靠性的活动都只是统治阴谋；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文承认危险世界中寻求可靠合理，批判的是把可靠等同脱离行动。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-05-q1-a",
+          "text": "知识与实践的等级同社会分工和地位结构相互加固",
+          "feedback": "谱系说明永恒对象偏好不只是抽象逻辑选择，也承载社会等级。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-05-q1-a",
+      "misconceptionId": "dewey-05-q1-misconception"
+    },
+    {
+      "id": "dewey-05-q2",
+      "kind": "single-choice",
+      "prompt": "实验科学为何不是旁观得更精确？",
+      "targetNodeIds": [
+        "dewey-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-05-q2-b",
+          "text": "因为它通过仪器和变量操作让关系在可复核后果中显现",
+          "feedback": "知道发生在受约束的转化中，而非只复制完成世界。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-05-q2-a",
+          "text": "因为实验者可以不顾对象结果而任意宣布成功；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：实验操作反而要求可重复后果和对象抵抗，不能任意命名。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-05-q2-b",
+      "misconceptionId": "dewey-05-q2-misconception"
+    },
+    {
+      "id": "dewey-05-q3",
+      "kind": "single-choice",
+      "prompt": "桥梁案例怎样收缩知识结论？",
+      "targetNodeIds": [
+        "dewey-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-05-q3-b",
+          "text": "只要电脑模型稳定，施工后果就属于知识之外；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这重演理论—应用二分，拒绝让实际失败修正对象关系。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-05-q3-a",
+          "text": "涂层测试支持特定条件下的保证，不证明所涉各项桥永恒安全",
+          "feedback": "盐雾条件进入对象规定，结论随证据范围受到限制。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-05-q3-a",
+      "misconceptionId": "dewey-05-q3-misconception"
+    },
+    {
+      "id": "dewey-05-q4",
+      "kind": "single-choice",
+      "prompt": "技术成功为何不能直接产生政治授权？",
+      "targetNodeIds": [
+        "dewey-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-05-q4-b",
+          "text": "因为能做成某事与应否做、由谁承受后果是不同任务",
+          "feedback": "知行连续取消等级，却不把事实资格偷换成规范权限。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-05-q4-a",
+          "text": "因为事实判断在杜威处从不需要相关各类证据；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文加强了证据要求；问题是证据不能单独决定共同目的与代价分配。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-05-q4-b",
+      "misconceptionId": "dewey-05-q4-misconception"
+    },
+    {
+      "id": "dewey-06-q1",
+      "kind": "single-choice",
+      "prompt": "不确定情境为何不只是调查者心里疑惑？",
+      "targetNodeIds": [
+        "dewey-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-06-q1-b",
+          "text": "因为相关各类焦虑都已经包含排他的正确的问题定义",
+          "feedback": "错步：弥散焦虑尚需制度化为可调查问题，过早定义会遮蔽资料。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-06-q1-a",
+          "text": "因为已有活动客观失去可继续方向，关系尚未确定；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "参与者感到困扰，但失衡也体现在冲突读数和失败行动中。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-06-q1-a",
+      "misconceptionId": "dewey-06-q1-misconception"
+    },
+    {
+      "id": "dewey-06-q2",
+      "kind": "single-choice",
+      "prompt": "观察操作与观念操作怎样相互依赖？",
+      "targetNodeIds": [
+        "dewey-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-06-q2-b",
+          "text": "假设指导取证，取得的材料再校正假设和问题边界；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "双重操作共同把情境从不确定转向较确定。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-06-q2-a",
+          "text": "事实不留例外地裸给，假设只能在收集完所涉各项资料后出现",
+          "feedback": "错步：没有假设便不知资料相关性，资料又反向限制和细分假设。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-06-q2-b",
+      "misconceptionId": "dewey-06-q2-misconception"
+    },
+    {
+      "id": "dewey-06-q3",
+      "kind": "single-choice",
+      "prompt": "为什么感染率下降不立刻完成全部探究？",
+      "targetNodeIds": [
+        "dewey-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-06-q3-a",
+          "text": "下降可能来自季节偶合，还需跨条件证据和可追踪关系",
+          "feedback": "一次操作后果是证据环节，不自动取得不受条件限制的真理。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-06-q3-b",
+          "text": "因为相关各类经验后果在探究中都不留例外地无关；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：后果是核心检验，只是其解释需排除偶合并限定范围。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-06-q3-a",
+      "misconceptionId": "dewey-06-q3-misconception"
+    },
+    {
+      "id": "dewey-06-q4",
+      "kind": "single-choice",
+      "prompt": "情境逻辑对形式逻辑作了何种有限主张？",
+      "targetNodeIds": [
+        "dewey-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-06-q4-b",
+          "text": "它说明推演规则在探究中的功能，同时保留形式研究",
+          "feedback": "规范来自可纠错调查的重建，不等于取消命题有效性。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-06-q4-a",
+          "text": "所涉各项有效推演都只是个人心理习惯；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文明确不把形式关系整体还原为心理史。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-06-q4-b",
+      "misconceptionId": "dewey-06-q4-misconception"
+    },
+    {
+      "id": "dewey-07-q1",
+      "kind": "single-choice",
+      "prompt": "warranted assertibility主要回答什么？",
+      "targetNodeIds": [
+        "dewey-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-07-q1-b",
+          "text": "哪种意见能让说话者获得最多政治权力；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：权力获胜被明确同认识保证拆开。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-07-q1-a",
+          "text": "在何种证据与检验历史下有资格作出断言",
+          "feedback": "它把断言责任定位到可复核过程，并保留未来撤销可能。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-07-q1-a",
+      "misconceptionId": "dewey-07-q1-misconception"
+    },
+    {
+      "id": "dewey-07-q2",
+      "kind": "single-choice",
+      "prompt": "疫苗案例中公司控制数据为何损害保证？",
+      "targetNodeIds": [
+        "dewey-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-07-q2-b",
+          "text": "因为公众无法检查随机、终点和副作用资料是否支持断言",
+          "feedback": "即使结论碰巧正确，缺失审查仍削弱断言资格。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-07-q2-a",
+          "text": "因为相关各类公司参与都会使结果被当作充分推出为假；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：问题不是由身份直接判假，而是独立复核和反证入口被关闭。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-07-q2-b",
+      "misconceptionId": "dewey-07-q2-misconception"
+    },
+    {
+      "id": "dewey-07-q3",
+      "kind": "single-choice",
+      "prompt": "可错论怎样避免“各有各的真”？",
+      "targetNodeIds": [
+        "dewey-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-07-q3-b",
+          "text": "相关各类共同体认可都自动等于现实本身认可；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：共同体会排斥和犯错，多数认同从未被当作充分条件。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-07-q3-a",
+          "text": "对象会通过预测失败、伤害和不可复现迫使理论重组",
+          "feedback": "分类虽有历史，后果仍能反抗并淘汰断言。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-07-q3-a",
+      "misconceptionId": "dewey-07-q3-misconception"
+    },
+    {
+      "id": "dewey-07-q4",
+      "kind": "single-choice",
+      "prompt": "面对规范循环异议，回应保留了什么限制？",
+      "targetNodeIds": [
+        "dewey-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-07-q4-a",
+          "text": "杜威已经给出超历史且不可争议的真理奠基；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文明确承认超历史奠基不是该理论能保住的成果。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-07-q4-b",
+          "text": "开放反证的程序可展示其发现错误的功能，但仍非终极基础",
+          "feedback": "内在批评保住可纠错价值，同时留下规范根据债务。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-07-q4-b",
+      "misconceptionId": "dewey-07-q4-misconception"
+    },
+    {
+      "id": "dewey-08-q1",
+      "kind": "single-choice",
+      "prompt": "desired与desirable的区分增加了哪项要求？",
+      "targetNodeIds": [
+        "dewey-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-08-q1-a",
+          "text": "调查欲望的形成条件、代价和可继续后果",
+          "feedback": "真实欲望提供材料，却不能独自完成规范判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-08-q1-b",
+          "text": "凡实际发生的欲望都因其存在而自动正当",
+          "feedback": "错步：它抹掉了从想要到值得想要所需的估价探究。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-08-q1-a",
+      "misconceptionId": "dewey-08-q1-misconception"
+    },
+    {
+      "id": "dewey-08-q2",
+      "kind": "single-choice",
+      "prompt": "扩路案例怎样显示手段会改变目的？",
+      "targetNodeIds": [
+        "dewey-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-08-q2-a",
+          "text": "目的在行动前已经完整，污染只能算无关副作用；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：诱发居住和污染揭示“缩短通勤”实际包含的生活形式。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-08-q2-b",
+          "text": "实施后果让可达性与公平进入原先狭窄的通勤目标",
+          "feedback": "ends-in-view指导行动，也被手段暴露的后果重新规定。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-08-q2-b",
+      "misconceptionId": "dewey-08-q2-misconception"
+    },
+    {
+      "id": "dewey-08-q3",
+      "kind": "single-choice",
+      "prompt": "三种独立道德因素为何不能合并成一个公式？",
+      "targetNodeIds": [
+        "dewey-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-08-q3-a",
+          "text": "后果、可向我要求之义务与品格评价会提出不同真实压力",
+          "feedback": "冲突需在情境中调整，任何一项吞并其余都会损失理由。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-08-q3-b",
+          "text": "因为道德判断根本不需要事实调查或理由；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：多元不是任意，透析案例正要求医学、承诺与排除史证据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-08-q3-a",
+      "misconceptionId": "dewey-08-q3-misconception"
+    },
+    {
+      "id": "dewey-08-q4",
+      "kind": "single-choice",
+      "prompt": "盗贼成长异议迫使结论怎样收缩？",
+      "targetNodeIds": [
+        "dewey-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-08-q4-b",
+          "text": "成长须检验是否扩大共同参与并减少靠强制维持的阻塞",
+          "feedback": "回应把成长债务推向民主条件，同时承认没有机械指标。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-08-q4-a",
+          "text": "相关各类技巧增加都可直接定义为善；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这正是盗贼反例击破的空洞成长观。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-08-q4-b",
+      "misconceptionId": "dewey-08-q4-misconception"
+    },
+    {
+      "id": "dewey-09-q1",
+      "kind": "single-choice",
+      "prompt": "教育为何同时承担连续与重建？",
+      "targetNodeIds": [
+        "dewey-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-09-q1-b",
+          "text": "因为学校排他的任务是原样复制成人当前信念；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：它保住连续却取消重建，违背教育的双重压力。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-09-q1-a",
+          "text": "新成员需进入已有活动，而新条件又要求旧习惯可修正",
+          "feedback": "只断裂会每代归零，只复制则失去处理新问题的能力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-09-q1-a",
+      "misconceptionId": "dewey-09-q1-misconception"
+    },
+    {
+      "id": "dewey-09-q2",
+      "kind": "single-choice",
+      "prompt": "地图比喻怎样处理儿童经验与学科组织？",
+      "targetNodeIds": [
+        "dewey-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-09-q2-b",
+          "text": "学科地图提供组织方向，儿童活动提供问题和实际行进",
+          "feedback": "二者互译而非二择一，也不是简单折中。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-09-q2-a",
+          "text": "地图能替儿童完成所涉各项实际行走；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：学科组织汇集经验，却不能脱离儿童当前活动自动成为意义。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-09-q2-b",
+      "misconceptionId": "dewey-09-q2-misconception"
+    },
+    {
+      "id": "dewey-09-q3",
+      "kind": "single-choice",
+      "prompt": "水池案例中教师专业知识为何不可退场？",
+      "targetNodeIds": [
+        "dewey-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-09-q3-b",
+          "text": "它授权教师无须听取相关各类儿童观察便宣布结论；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：专业责任与经验材料互相依赖，权威不能跳过证据。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-09-q3-a",
+          "text": "它帮助选择能把困惑推进到采样、因果和公共责任的材料",
+          "feedback": "引导组织后续可能，不等于预先把答案灌入。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-09-q3-a",
+      "misconceptionId": "dewey-09-q3-misconception"
+    },
+    {
+      "id": "dewey-09-q4",
+      "kind": "single-choice",
+      "prompt": "学科安排的权力异议要求怎样收缩教师选择？",
+      "targetNodeIds": [
+        "dewey-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-09-q4-b",
+          "text": "选择应说明证据与缺席边界，并允许社区经验促成修订",
+          "feedback": "学科安排不是中立地图，也不是可任意改写的偏好清单。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-09-q4-a",
+          "text": "相关各类学科安排都因可能含权力而应立即取消；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这会让教育无法行动，也丢失已检验的学科关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-09-q4-b",
+      "misconceptionId": "dewey-09-q4-misconception"
+    },
+    {
+      "id": "dewey-10-q1",
+      "kind": "single-choice",
+      "prompt": "occupation与一般忙碌的关键差别是什么？",
+      "targetNodeIds": [
+        "dewey-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-10-q1-b",
+          "text": "它要求动作越多越快，反思便越没有必要；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：无反思重复正是“做中学”口号可能遮蔽的失败。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-10-q1-a",
+          "text": "它让目的、材料、合作与知识关系在阻力中互相需要",
+          "feedback": "活动不是知识的前奏，而是概念获得功能的组织中心。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-10-q1-a",
+      "misconceptionId": "dewey-10-q1-misconception"
+    },
+    {
+      "id": "dewey-10-q2",
+      "kind": "single-choice",
+      "prompt": "无障碍地图怎样生成学科关系？",
+      "targetNodeIds": [
+        "dewey-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-10-q2-a",
+          "text": "学生先背完所涉各项学科，活动只负责娱乐；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：坡度、单位和规范在路线受阻时成为继续活动的必要工具。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-10-q2-b",
+          "text": "测量冲突迫使单位、工具、规范与排除历史进入探究",
+          "feedback": "学科地图同当前问题发生可追踪的互译。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-10-q2-b",
+      "misconceptionId": "dewey-10-q2-misconception"
+    },
+    {
+      "id": "dewey-10-q3",
+      "kind": "single-choice",
+      "prompt": "杜威为何反对按阶级分轨的职业教育？",
+      "targetNodeIds": [
+        "dewey-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-10-q3-a",
+          "text": "它把部分人锁进服从性技能，切断科学、艺术和转业能力",
+          "feedback": "问题不是技能本身，而是机会结构预定不同人的生活范围。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-10-q3-b",
+          "text": "他认为相关各类具体技能都与教育被当作充分推出冲突；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：occupation正通过技能连接更广知识，拒绝的是狭窄分流。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-10-q3-a",
+      "misconceptionId": "dewey-10-q3-misconception"
+    },
+    {
+      "id": "dewey-10-q4",
+      "kind": "single-choice",
+      "prompt": "学生项目的责任边界为何重要？",
+      "targetNodeIds": [
+        "dewey-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-10-q4-a",
+          "text": "因为学生应取代机构承担全部公共改建义务；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这把教育参与偷换成机构卸责，并可能制造安全风险。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-10-q4-b",
+          "text": "真实反馈应能影响地图，但最终治理责任仍由机构承担",
+          "feedback": "收缩保住可感后果，同时避免假真实和责任转嫁。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-10-q4-b",
+      "misconceptionId": "dewey-10-q4-misconception"
+    },
+    {
+      "id": "dewey-11-q1",
+      "kind": "single-choice",
+      "prompt": "传统与散漫进步教育共享的错误是什么？",
+      "targetNodeIds": [
+        "dewey-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-11-q1-a",
+          "text": "以经验来自权威或兴趣直接判断其质量",
+          "feedback": "来源不能替代对后续能力和环境互动的检验。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-11-q1-b",
+          "text": "两者都要求逐项追踪经验的长期连续性",
+          "feedback": "错步：持续追踪正是杜威用来批评两个极端的标准。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-11-q1-a",
+      "misconceptionId": "dewey-11-q1-misconception"
+    },
+    {
+      "id": "dewey-11-q2",
+      "kind": "single-choice",
+      "prompt": "自由讨论为何仍可能不具教育性？",
+      "targetNodeIds": [
+        "dewey-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-11-q2-a",
+          "text": "因为所涉各项发言本身都被当作充分推出有害；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：问题不在发言本身，而在抢先规则让部分人持续失去参与能力。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-11-q2-b",
+          "text": "因为形式开放可与机会集中并存，并训练更多沉默",
+          "feedback": "互动环境会让同一自由形式产生不同连续后果。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-11-q2-b",
+      "misconceptionId": "dewey-11-q2-misconception"
+    },
+    {
+      "id": "dewey-11-q3",
+      "kind": "single-choice",
+      "prompt": "教师权威被怎样重建？",
+      "targetNodeIds": [
+        "dewey-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-11-q3-b",
+          "text": "成为无需说明理由的长期家长式替代；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这正是未来连续性语言可能掩护、而回应要求限制的支配。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-11-q3-a",
+          "text": "成为组织环境并逐步扩大共同判断的可说明责任",
+          "feedback": "引导没有消失，但目的、限制和反馈须公开且可修订。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-11-q3-a",
+      "misconceptionId": "dewey-11-q3-misconception"
+    },
+    {
+      "id": "dewey-11-q4",
+      "kind": "single-choice",
+      "prompt": "1938年文本与1916年文本是什么关系？",
+      "targetNodeIds": [
+        "dewey-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-11-q4-a",
+          "text": "前者只是后者逐字缩写，没有新的实践压力；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：进步教育反例促使1938年文本收紧经验、自由与控制标准。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-11-q4-b",
+          "text": "二者连贯，但后者的实践失败使前者承担自我修正",
+          "feedback": "时期变化不是断裂，也不能被抹平成重复。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-11-q4-b",
+      "misconceptionId": "dewey-11-q4-misconception"
+    },
+    {
+      "id": "dewey-12-q1",
+      "kind": "single-choice",
+      "prompt": "为何民主不能只由多数票定义？",
+      "targetNodeIds": [
+        "dewey-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-12-q1-a",
+          "text": "多数形成过程可能排除受后果者和压低经验交流",
+          "feedback": "程序重要，但其民主质量取决于参与和沟通条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-12-q1-b",
+          "text": "因为杜威认为相关各类政府程序都毫无价值；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：政府程序被保留为更广民主生活的工具，而非被取消。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-12-q1-a",
+      "misconceptionId": "dewey-12-q1-misconception"
+    },
+    {
+      "id": "dewey-12-q2",
+      "kind": "single-choice",
+      "prompt": "住区道路案例中，形式会议为何可能仍不民主？",
+      "targetNodeIds": [
+        "dewey-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-12-q2-b",
+          "text": "无障碍与翻译缺失会让部分受影响者只有名义入口",
+          "feedback": "改变沟通条件后，连可选方案本身都可能重组。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-12-q2-a",
+          "text": "只要开会，所涉各项间接后果就会自动消失；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：地点、翻译和代表范围仍可能阻止受影响经验进入问题形成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-12-q2-b",
+      "misconceptionId": "dewey-12-q2-misconception"
+    },
+    {
+      "id": "dewey-12-q3",
+      "kind": "single-choice",
+      "prompt": "盗贼团伙为何不能凭内部团结取得民主资格？",
+      "targetNodeIds": [
+        "dewey-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-12-q3-a",
+          "text": "其目的依赖遮蔽受害者后果并以威胁维持封闭边界",
+          "feedback": "民主标准要求扩大受影响者进入并减少靠排除维持的成长。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-12-q3-b",
+          "text": "因为民主共同体内部从来不允许出现相关各类冲突",
+          "feedback": "错步：民主并非无冲突，而是让冲突的受影响者参与重组。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-12-q3-a",
+      "misconceptionId": "dewey-12-q3-misconception"
+    },
+    {
+      "id": "dewey-12-q4",
+      "kind": "single-choice",
+      "prompt": "民主生活方式在本篇被收缩为何种地位？",
+      "targetNodeIds": [
+        "dewey-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-12-q4-a",
+          "text": "一张可直接复制到相关各类社会的完整制度图纸",
+          "feedback": "错步：它是评价制度与关系的批判理想，仍需公众和国家理论中介。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-12-q4-b",
+          "text": "要求共同形成问题与修正安排的实践理想；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "它指导程序评价，却不声称制度细节已经完成。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-12-q4-b",
+      "misconceptionId": "dewey-12-q4-misconception"
+    },
+    {
+      "id": "dewey-13-q1",
+      "kind": "single-choice",
+      "prompt": "公众在杜威处由什么形成？",
+      "targetNodeIds": [
+        "dewey-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-13-q1-a",
+          "text": "需要共同照料的广泛间接后果；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "公众随具体后果生成，不是预先同质的人民实体。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-13-q1-b",
+          "text": "所涉各项私人交往无差别相加后的总称",
+          "feedback": "错步：私人直接后果与需组织照料的间接后果被明确区分。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-13-q1-a",
+      "misconceptionId": "dewey-13-q1-misconception"
+    },
+    {
+      "id": "dewey-13-q2",
+      "kind": "single-choice",
+      "prompt": "国家为何是历史性工具？",
+      "targetNodeIds": [
+        "dewey-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-13-q2-b",
+          "text": "因为官员和制度为组织特定公众后果而设，须按功能复查",
+          "feedback": "机构若转向自我维持，可失去原有正当性。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-13-q2-a",
+          "text": "因为它拥有永恒不变且先于公众的职能清单；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：国家职能应随需照料后果变化，不能由先验本质固定。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-13-q2-b",
+      "misconceptionId": "dewey-13-q2-misconception"
+    },
+    {
+      "id": "dewey-13-q3",
+      "kind": "single-choice",
+      "prompt": "专家与公众怎样分工？",
+      "targetNodeIds": [
+        "dewey-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-13-q3-b",
+          "text": "亲历者可不经因果检验直接决定所涉各项科学结论",
+          "feedback": "错步：居民经验可启动和修正调查，但不能单独完成因果判断。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-13-q3-a",
+          "text": "专家调查关系，受影响者参与问题与共同目的形成",
+          "feedback": "知识分工不自动产生替公众决定价值的权限。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-13-q3-a",
+      "misconceptionId": "dewey-13-q3-misconception"
+    },
+    {
+      "id": "dewey-13-q4",
+      "kind": "single-choice",
+      "prompt": "本篇对Lippmann压力作了什么有限回应？",
+      "targetNodeIds": [
+        "dewey-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-13-q4-a",
+          "text": "参与开放后复杂性和媒体权力会自动消失；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文保留资本、官僚与时间不平等造成的制度缺口。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-13-q4-b",
+          "text": "复杂性需要专家，却不足以授权专家垄断共同目的",
+          "feedback": "回应保住公众纠错权，同时承认大共同体方案不足。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-13-q4-b",
+      "misconceptionId": "dewey-13-q4-misconception"
+    },
+    {
+      "id": "dewey-14-q1",
+      "kind": "single-choice",
+      "prompt": "旧自由主义为何可能从解放工具变成支配保护？",
+      "targetNodeIds": [
+        "dewey-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-14-q1-a",
+          "text": "工业力量集中后，不干预会让既有组织权力继续决定选项",
+          "feedback": "观念功能随条件改变，形式契约不保证实际能力。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-14-q1-b",
+          "text": "因为产权和契约在反封建时期从未有相关各类作用；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：历史化不是否认旧观念曾有解放功能，而是拒绝其永恒化。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-14-q1-a",
+      "misconceptionId": "dewey-14-q1-misconception"
+    },
+    {
+      "id": "dewey-14-q2",
+      "kind": "single-choice",
+      "prompt": "平台骑手案例怎样区分形式选择与实际自由？",
+      "targetNodeIds": [
+        "dewey-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-14-q2-a",
+          "text": "只要能退出应用，计价黑箱便不再影响自由；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：收入依赖和算法单方改变会缩窄形成工作目的的能力。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-14-q2-b",
+          "text": "资料、协商和申诉权改变骑手参与工作规则的能力",
+          "feedback": "积极自由检验可用资源和共同控制，而非只看退出条款。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-14-q2-b",
+      "misconceptionId": "dewey-14-q2-misconception"
+    },
+    {
+      "id": "dewey-14-q3",
+      "kind": "single-choice",
+      "prompt": "工业民主为何不等于工厂里不断投票？",
+      "targetNodeIds": [
+        "dewey-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-14-q3-b",
+          "text": "它要求取消工人对相关各类生产决定的参与；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这与工业民主扩大共同控制的核心完全相反。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-14-q3-a",
+          "text": "它关心工作知识、后果和方向是否被所涉各项权单独垄断",
+          "feedback": "制度形式服务于受影响者实际参与，而非复制单一程序。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-14-q3-a",
+      "misconceptionId": "dewey-14-q3-misconception"
+    },
+    {
+      "id": "dewey-14-q4",
+      "kind": "single-choice",
+      "prompt": "本篇怎样划定杜威与马克思主义的边界？",
+      "targetNodeIds": [
+        "dewey-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-14-q4-b",
+          "text": "他主张经济社会控制，却未接受先锋党理论或完整所涉各项制蓝图",
+          "feedback": "激进程度与理论身份都需分层，不可用标签包办。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-14-q4-a",
+          "text": "杜威支持先锋党压制异议以换取未来民主；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：他以手段目的连续反对用未来解放取消当前民主检验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-14-q4-b",
+      "misconceptionId": "dewey-14-q4-misconception"
+    },
+    {
+      "id": "dewey-15-q1",
+      "kind": "single-choice",
+      "prompt": "沟通为何不只是搬运既成思想？",
+      "targetNodeIds": [
+        "dewey-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-15-q1-a",
+          "text": "共同符号使用使参与者和共享对象在回应中形成；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "意义是共同活动的成就，不是私人内容的外包装。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-15-q1-b",
+          "text": "因为符号可以不留例外地脱离相关各类他人回应自行决定意义",
+          "feedback": "错步：这重新把意义封回私人心灵，取消沟通的生成作用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-15-q1-a",
+      "misconceptionId": "dewey-15-q1-misconception"
+    },
+    {
+      "id": "dewey-15-q2",
+      "kind": "single-choice",
+      "prompt": "高温案例中共同对象如何形成？",
+      "targetNodeIds": [
+        "dewey-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-15-q2-b",
+          "text": "统计、亲历和劳动住房条件被组织为同一可检验事务",
+          "feedback": "不同表达功能相连，但个案和数据不能互相替代。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-15-q2-a",
+          "text": "只要推送数量足够多，碎片信息会自动组织；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：更多信息可增加噪声，仍需把分散后果组织成可争论关系。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-15-q2-b",
+      "misconceptionId": "dewey-15-q2-misconception"
+    },
+    {
+      "id": "dewey-15-q3",
+      "kind": "single-choice",
+      "prompt": "媒介为何不是中性容器？",
+      "targetNodeIds": [
+        "dewey-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-15-q3-b",
+          "text": "因为事实证据在传播中不留例外地失去相关各类约束",
+          "feedback": "错步：媒介参与选择不等于证据消失，调查仍要接受反例。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-15-q3-a",
+          "text": "推荐与汇总规则会选择哪些后果可见并影响问题边界",
+          "feedback": "改变算法或资料粒度能改变公众所面对的共同对象。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-15-q3-a",
+      "misconceptionId": "dewey-15-q3-misconception"
+    },
+    {
+      "id": "dewey-15-q4",
+      "kind": "single-choice",
+      "prompt": "面对权力异议，沟通被收缩为何种条件？",
+      "targetNodeIds": [
+        "dewey-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-15-q4-b",
+          "text": "它是纠错必要入口，但依赖资料权、组织保护和媒介条件",
+          "feedback": "沟通条件本身就是政治重组对象。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-15-q4-a",
+          "text": "它单独足以消灭资本、国家和身份支配；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：正文明确将沟通判为必要而不充分，并要求反支配制度。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-15-q4-b",
+      "misconceptionId": "dewey-15-q4-misconception"
+    },
+    {
+      "id": "dewey-16-q1",
+      "kind": "single-choice",
+      "prompt": "圆成与简单停止的差别是什么？",
+      "targetNodeIds": [
+        "dewey-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-16-q1-a",
+          "text": "圆成让先前张力和阶段在完成中获得位置；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "consummation保存过程，不是外加奖品或机械终止。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-16-q1-b",
+          "text": "圆成要求经验从头到尾没有遇到相关各类阻力",
+          "feedback": "错步：阻力正是节奏和调整生成的条件，而非审美的纯粹敌人。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-16-q1-a",
+      "misconceptionId": "dewey-16-q1-misconception"
+    },
+    {
+      "id": "dewey-16-q2",
+      "kind": "single-choice",
+      "prompt": "木匠案例如何体现审美的doing/undergoing？",
+      "targetNodeIds": [
+        "dewey-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-16-q2-a",
+          "text": "构想单方面支配木料，材料回弹不影响形式",
+          "feedback": "错步：墙面与木料的回击持续重塑手势、用途和形式。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-16-q2-b",
+          "text": "制作改变材料，材料阻力又改变动作和构想",
+          "feedback": "审美质量从双方相互塑造的完整节律中产生。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-16-q2-b",
+      "misconceptionId": "dewey-16-q2-misconception"
+    },
+    {
+      "id": "dewey-16-q3",
+      "kind": "single-choice",
+      "prompt": "艺术与日常经验连续为何不等于完全相同？",
+      "targetNodeIds": [
+        "dewey-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-16-q3-a",
+          "text": "艺术有意识地把质性组织集中于媒介和可分享形式",
+          "feedback": "连续性拆掉隔离，媒介组织仍提供差异条件。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-16-q3-b",
+          "text": "相关各类瞬间快感都自动具有完整艺术结构；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：强烈刺激可能散漫终止，未必形成贯穿、积累和圆成。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-16-q3-a",
+      "misconceptionId": "dewey-16-q3-misconception"
+    },
+    {
+      "id": "dewey-16-q4",
+      "kind": "single-choice",
+      "prompt": "面对先锋艺术异议，圆成概念怎样收缩？",
+      "targetNodeIds": [
+        "dewey-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-16-q4-b",
+          "text": "统一可指张力被可感组织，不要求冲突全部消失",
+          "feedback": "收缩扩展了范围，却不声称整合隐喻已无偏向。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-16-q4-a",
+          "text": "所涉各项矛盾必须在结尾变成安宁和谐；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：回应允许断裂和不安成为贯穿质量，同时保留有机偏好争议。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-16-q4-b",
+      "misconceptionId": "dewey-16-q4-misconception"
+    },
+    {
+      "id": "dewey-17-q1",
+      "kind": "single-choice",
+      "prompt": "发泄与表达的关键差别是什么？",
+      "targetNodeIds": [
+        "dewey-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-17-q1-b",
+          "text": "表达只要求情绪强烈，无需相关各类材料组织",
+          "feedback": "错步：这把discharge误当expression，取消媒介的反作用。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-17-q1-a",
+          "text": "表达使情绪、过去经验与媒介在制作中重组；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "情绪通过材料获得可供他人经历的客观关系。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-17-q1-a",
+      "misconceptionId": "dewey-17-q1-misconception"
+    },
+    {
+      "id": "dewey-17-q2",
+      "kind": "single-choice",
+      "prompt": "art product与work of art怎样关联？",
+      "targetNodeIds": [
+        "dewey-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-17-q2-a",
+          "text": "作品不留例外地等于作者完成时的私人心理状态",
+          "feedback": "错步：作品在产品组织与感知活动相遇时实现，不等于作者内部状态。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-17-q2-b",
+          "text": "持久产品提供约束，作品在有组织的感知中实现",
+          "feedback": "既避免物件自动成作品，也避免任意私人投射。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-17-q2-b",
+      "misconceptionId": "dewey-17-q2-misconception"
+    },
+    {
+      "id": "dewey-17-q3",
+      "kind": "single-choice",
+      "prompt": "壁画迁移案例说明了什么？",
+      "targetNodeIds": [
+        "dewey-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-17-q3-a",
+          "text": "物理材料可保持，而仪式、地点与劳动历史关系会改变作品实现",
+          "feedback": "产品持久性与作品经验条件必须分别追踪。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-17-q3-b",
+          "text": "只要有数字复制，原社区的所涉各项社会功能便完整恢复；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：复制若不恢复集会与关系条件，不能自动偿还作品功能。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-17-q3-a",
+      "misconceptionId": "dewey-17-q3-misconception"
+    },
+    {
+      "id": "dewey-17-q4",
+      "kind": "single-choice",
+      "prompt": "制度异议要求社会艺术论保留哪两条证据链？",
+      "targetNodeIds": [
+        "dewey-17-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-17-q4-b",
+          "text": "形式怎样组织经验，以及制度怎样分配参与",
+          "feedback": "回应把制度纳入审美条件，同时保留形式判断。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-17-q4-a",
+          "text": "只要政治立场正义，媒介形式便无需分析；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：政治入口与作品组织都不可相互替代。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-17-q4-b",
+      "misconceptionId": "dewey-17-q4-misconception"
+    },
+    {
+      "id": "dewey-18-q1",
+      "kind": "single-choice",
+      "prompt": "religions与religious的区分完成了什么？",
+      "targetNodeIds": [
+        "dewey-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-18-q1-b",
+          "text": "证明所涉各项宗教教义在事实上不留例外地相同",
+          "feedback": "错步：历史宗教保持差异，重构也不宣称教义已调和。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-18-q1-a",
+          "text": "把历史教义机构与经验的理想整合性质分开；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "区分允许自然主义批判宗教而保留奉献经验的问题。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-18-q1-a",
+      "misconceptionId": "dewey-18-q1-misconception"
+    },
+    {
+      "id": "dewey-18-q2",
+      "kind": "single-choice",
+      "prompt": "洪灾案例中共同信念为何不是空泛善意？",
+      "targetNodeIds": [
+        "dewey-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-18-q2-a",
+          "text": "因为相关各类团结情绪都无需接受重建后果检验；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：迁走贫困租户会反驳先前不抛弃弱者的理想。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-18-q2-b",
+          "text": "因为安全与不遗弃被落实到撤离、资源和迁居决定",
+          "feedback": "理想通过可检验行动组织不同终极信念者合作。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-18-q2-b",
+      "misconceptionId": "dewey-18-q2-misconception"
+    },
+    {
+      "id": "dewey-18-q3",
+      "kind": "single-choice",
+      "prompt": "杜威重释God时必须保留什么边界？",
+      "targetNodeIds": [
+        "dewey-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-18-q3-b",
+          "text": "重释已经证明超自然神迹符合经验自然主义；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：杜威正拒绝以神迹和超越实体作为经验权威。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-18-q3-a",
+          "text": "这是理想与实际条件关系的重构，不等于传统人格神",
+          "feedback": "可说明象征功能，不能抹掉对象变化造成的神学损失。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-18-q3-a",
+      "misconceptionId": "dewey-18-q3-misconception"
+    },
+    {
+      "id": "dewey-18-q4",
+      "kind": "single-choice",
+      "prompt": "面对双重异议，方案被收缩到哪些人？",
+      "targetNodeIds": [
+        "dewey-18-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-18-q4-b",
+          "text": "放弃超自然主义却仍承认宗教性经验的实践者；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "回应保住特定实践功能，不扩张为全宗教定义。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-18-q4-a",
+          "text": "所涉各项传统信徒与自然主义者都被当作充分推出同意的终极证明",
+          "feedback": "错步：双方异议被保留，方案没有达成普遍形上和解。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-18-q4-b",
+      "misconceptionId": "dewey-18-q4-misconception"
+    },
+    {
+      "id": "dewey-19-q1",
+      "kind": "single-choice",
+      "prompt": "为何不能把后期反战倒写成杜威一贯立场？",
+      "targetNodeIds": [
+        "dewey-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-19-q1-b",
+          "text": "因为他终身从未参与相关各类反战活动；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：后期反战实践同样真实，问题是不能抹平时期转变。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-19-q1-a",
+          "text": "他曾支持美国参战并期待战争促成社会重建",
+          "feedback": "保留早期判断失败，后来的修正才具有真实内容。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-19-q1-a",
+      "misconceptionId": "dewey-19-q1-misconception"
+    },
+    {
+      "id": "dewey-19-q2",
+      "kind": "single-choice",
+      "prompt": "概念性白人视角批评为何不等于否认平等承诺？",
+      "targetNodeIds": [
+        "dewey-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-19-q2-a",
+          "text": "只要支持NAACP，全球分析便不可能存在种族盲点；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：行动承诺与问题框架的结构性遗漏可以同时存在。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-19-q2-b",
+          "text": "可承认其平等行动，同时比较其战争分析遗漏的殖民结构",
+          "feedback": "并置避免赞颂或全盘取消两种单向叙事。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-19-q2-b",
+      "misconceptionId": "dewey-19-q2-misconception"
+    },
+    {
+      "id": "dewey-19-q3",
+      "kind": "single-choice",
+      "prompt": "使用Du Bois和Addams为何不是纯粹时代错置？",
+      "targetNodeIds": [
+        "dewey-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-19-q3-b",
+          "text": "因为他们的作品都由杜威代笔并代表其隐藏立场；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：这再次抹去独立思想身份，正与本篇归属边界相冲突。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-19-q3-a",
+          "text": "他们是同时代独立声音，展示当时已有不同问题框架",
+          "feedback": "批评比较的是可用但未充分进入的经验资源。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-19-q3-a",
+      "misconceptionId": "dewey-19-q3-misconception"
+    },
+    {
+      "id": "dewey-19-q4",
+      "kind": "single-choice",
+      "prompt": "Trotsky Commission能支持哪项有限结论？",
+      "targetNodeIds": [
+        "dewey-19-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-19-q4-b",
+          "text": "杜威重视公开证据与让被指控者获得程序入口",
+          "feedback": "证据范围止于调查程序，不能越界推导完整主义身份。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-19-q4-a",
+          "text": "杜威接受托洛茨基主义全部政治纲领；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：程序公正与政治阵营认同不是同一推理。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-19-q4-b",
+      "misconceptionId": "dewey-19-q4-misconception"
+    },
+    {
+      "id": "dewey-20-q1",
+      "kind": "single-choice",
+      "prompt": "transaction与一般interaction的关键差别是什么？",
+      "targetNodeIds": [
+        "dewey-20-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-20-q1-a",
+          "text": "参与者与对象边界被视为事务调查中形成的功能",
+          "feedback": "它避免先把两端定义完成再外在连接。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-20-q1-b",
+          "text": "它主张相关各类对象后果都能靠重新命名取消；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "错步：角色边界可变不等于身体损伤和失败后果失去约束。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-20-q1-a",
+      "misconceptionId": "dewey-20-q1-misconception"
+    },
+    {
+      "id": "dewey-20-q2",
+      "kind": "single-choice",
+      "prompt": "五条主线为何不能压成五次同构应用？",
+      "targetNodeIds": [
+        "dewey-20-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-20-q2-a",
+          "text": "因为它们彼此不留例外地无依赖且使用五种互斥形上学",
+          "feedback": "错步：它们共享自然主义依赖，但分别处理场、重组、形成、参与和圆成。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-20-q2-b",
+          "text": "因为它们在同一连续性中承担不同问题功能和规范债务",
+          "feedback": "共同背景不等于可替换主题摘要。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-20-q2-b",
+      "misconceptionId": "dewey-20-q2-misconception"
+    },
+    {
+      "id": "dewey-20-q3",
+      "kind": "single-choice",
+      "prompt": "住房算法案例怎样暴露关系语言的危险？",
+      "targetNodeIds": [
+        "dewey-20-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-20-q3-a",
+          "text": "若只说各方互动，会抹去数据控制与霉菌损害的不对称；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "transaction必须追踪谁控制、谁退出和谁承担不可逆后果。",
+          "isCorrect": true
+        },
+        {
+          "id": "dewey-20-q3-b",
+          "text": "它证明所涉各项参与者对住房损害承担不留例外地相同责任",
+          "feedback": "错步：这正是对称共构叙事造成的去政治化错误。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "dewey-20-q3-a",
+      "misconceptionId": "dewey-20-q3-misconception"
+    },
+    {
+      "id": "dewey-20-q4",
+      "kind": "single-choice",
+      "prompt": "路线最终保住的结论是什么？",
+      "targetNodeIds": [
+        "dewey-20-teaching"
+      ],
+      "options": [
+        {
+          "id": "dewey-20-q4-a",
+          "text": "所涉各项真理、权力和宗教争议都已由transaction终结",
+          "feedback": "错步：结尾明确列出六项未偿债务，并限制晚期术语的范围。",
+          "isCorrect": false
+        },
+        {
+          "id": "dewey-20-q4-b",
+          "text": "一套追问问题生成、操作后果、参与范围与收缩条件的工程；这项判断仍须接受题干所涉条件、后果和适用范围的检验",
+          "feedback": "可自我修正是方法要求，不是已获终局保证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "dewey-20-q4-b",
+      "misconceptionId": "dewey-20-q4-misconception"
+    }
+  ]
+}

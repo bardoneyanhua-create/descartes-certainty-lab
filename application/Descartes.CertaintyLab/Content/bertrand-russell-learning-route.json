@@ -1,0 +1,5026 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "bertrand-russell--claim-01-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1903 年的罗素把纯粹数学刻画为只使用少数基本逻辑概念、其命题可由一般逻辑原则推出的研究。这里的“数学属于逻辑”是一项定义与演绎计划，不是说数学只剩日常推理。",
+      "explanation": "1903 年的罗素把纯粹数学刻画为只使用少数基本逻辑概念、其命题可由一般逻辑原则推出的研究。这里的“数学属于逻辑”是一项定义与演绎计划，不是说数学只剩日常推理。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "logicist reduction project"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-01-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这一计划同时依赖分析：先辨明命题的逻辑形式和所用概念，再谈演绎。若不做概念分析，仅把既有数学定理贴上“逻辑”标签，就没有完成罗素所要求的还原。",
+      "explanation": "这一计划同时依赖分析：先辨明命题的逻辑形式和所用概念，再谈演绎。若不做概念分析，仅把既有数学定理贴上“逻辑”标签，就没有完成罗素所要求的还原。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "analysis before deduction"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-02-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "罗素考察“不属于自身的类所成的类”：若它属于自身，按定义它不属于自身；若它不属于自身，按定义它又属于自身。矛盾针对的是允许这种总体无条件形成的原则。",
+      "explanation": "罗素考察“不属于自身的类所成的类”：若它属于自身，按定义它不属于自身；若它不属于自身，按定义它又属于自身。矛盾针对的是允许这种总体无条件形成的原则。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "Russell paradox construction"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-02-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这不是对每一种集合论或全部数学的直接否定，而是暴露早期逻辑主义所依赖的类形成方式需要限制。把悖论说成“数学本身不一致”，会越过 1903 年文本实际建立的结论。",
+      "explanation": "这不是对每一种集合论或全部数学的直接否定，而是暴露早期逻辑主义所依赖的类形成方式需要限制。把悖论说成“数学本身不一致”，会越过 1903 年文本实际建立的结论。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "scope of the contradiction"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-03-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1908 年文章把多种悖论诊断为恶性循环：某个总体若包含只能借助该总体整体才能定义的成员，定义就发生自我预设。类型限制旨在阻断这种不正当的总体性。",
+      "explanation": "1908 年文章把多种悖论诊断为恶性循环：某个总体若包含只能借助该总体整体才能定义的成员，定义就发生自我预设。类型限制旨在阻断这种不正当的总体性。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "vicious-circle principle"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-03-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "罗素的成熟方案不只是把个体和类分层，还区分命题函数的阶，以控制量化所跨越的范围。把它简化成现代编程语言的“数据类型检查”，会抹去其针对可定义性与量化循环的逻辑任务。",
+      "explanation": "罗素的成熟方案不只是把个体和类分层，还区分命题函数的阶，以控制量化所跨越的范围。把它简化成现代编程语言的“数据类型检查”，会抹去其针对可定义性与量化循环的逻辑任务。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "ramified hierarchy"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-04-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《数学原理》卷一署名怀特海与罗素，导言中的类型论是共同作者文本。路线可以说明它与罗素此前工作的连续性，却不能把该书每一句都标成罗素单独发言。",
+      "explanation": "《数学原理》卷一署名怀特海与罗素，导言中的类型论是共同作者文本。路线可以说明它与罗素此前工作的连续性，却不能把该书每一句都标成罗素单独发言。",
+      "identity": "collaborative-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "collaborative authorship"
+      ],
+      "voiceClass": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-04-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "共同作者用分层和恶性循环原则处理悖论，同时引入可还原性公理，以恢复许多数学推演所需的表达能力。这显示体系在防悖论与保留数学能力之间作出技术性折衷。",
+      "explanation": "共同作者用分层和恶性循环原则处理悖论，同时引入可还原性公理，以恢复许多数学推演所需的表达能力。这显示体系在防悖论与保留数学能力之间作出技术性折衷。",
+      "identity": "collaborative-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "axiom of reducibility tradeoff"
+      ],
+      "voiceClass": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-05-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《论指称》主张，摹状短语不必作为完整命题中的独立指称成分出现；分析应展开包含它的整个命题。这一语境分析避免先为“某某”假设一个对象，再询问对象是否存在。",
+      "explanation": "《论指称》主张，摹状短语不必作为完整命题中的独立指称成分出现；分析应展开包含它的整个命题。这一语境分析避免先为“某某”假设一个对象，再询问对象是否存在。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "contextual definition of descriptions"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-05-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“这个 F 是 G”的经典展开包含三项：至少有一个 F、至多有一个 F、这个唯一的 F 是 G。存在、唯一性和述谓共同构成逻辑形式；遗漏任一项都会改变原句条件。",
+      "explanation": "“这个 F 是 G”的经典展开包含三项：至少有一个 F、至多有一个 F、这个唯一的 F 是 G。存在、唯一性和述谓共同构成逻辑形式；遗漏任一项都会改变原句条件。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "three-part definite-description analysis"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-06-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“现任法国国王是秃头的”不要求有一个神秘的非存在国王充当主词；按量化分析，存在条件失败，所以整句为假。它说明语法主词不必对应逻辑分析中的简单对象。",
+      "explanation": "“现任法国国王是秃头的”不要求有一个神秘的非存在国王充当主词；按量化分析，存在条件失败，所以整句为假。它说明语法主词不必对应逻辑分析中的简单对象。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "empty description"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-06-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "否定与摹状词有不同辖域：“不是这个 F 是 G”可否定整个存在—唯一—述谓结构，也可在假定唯一 F 的范围内否定 G。罗素用 primary/secondary occurrence 区分这类读法。",
+      "explanation": "否定与摹状词有不同辖域：“不是这个 F 是 G”可否定整个存在—唯一—述谓结构，也可在假定唯一 F 的范围内否定 G。罗素用 primary/secondary occurrence 区分这类读法。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "scope ambiguity"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-07-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1912 年罗素把亲知界定为对对象的直接觉察，不以推论或关于它的真理知识为中介。亲知是“对物的知识”之一种，不等于已经掌握关于该对象的一切命题。",
+      "explanation": "1912 年罗素把亲知界定为对对象的直接觉察，不以推论或关于它的真理知识为中介。亲知是“对物的知识”之一种，不等于已经掌握关于该对象的一切命题。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "acquaintance definition"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-07-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在《哲学问题》中，罗素列举感觉材料、内省材料、记忆中的既往材料以及自我等候选，并主张我们还能亲知共相。这个清单属于 1912 年认识论，不应自动投射到他后来的中立一元论。",
+      "explanation": "在《哲学问题》中，罗素列举感觉材料、内省材料、记忆中的既往材料以及自我等候选，并主张我们还能亲知共相。这个清单属于 1912 年认识论，不应自动投射到他后来的中立一元论。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "objects of acquaintance in 1912"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-08-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "描述知识不是较模糊的亲知；它以某个满足描述的对象为目标，并依赖我们亲知的材料及若干真理。由描述知道某物存在，不要求认识者直接亲知那个物。",
+      "explanation": "描述知识不是较模糊的亲知；它以某个满足描述的对象为目标，并依赖我们亲知的材料及若干真理。由描述知道某物存在，不要求认识者直接亲知那个物。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "knowledge by description structure"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-08-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "专名在实际交流中常借描述起作用：不同说话者可把不同亲知材料汇聚到同一公共对象。由此，私人直接经验与可共享知识之间不是简单二选一，而有描述性桥梁。",
+      "explanation": "专名在实际交流中常借描述起作用：不同说话者可把不同亲知材料汇聚到同一公共对象。由此，私人直接经验与可共享知识之间不是简单二选一，而有描述性桥梁。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "descriptions and public knowledge"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-09-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "从已观察事例推到未观察事例不能由经验本身演绎证明，因为为经验作保证又会诉诸同一种归纳。罗素因此把归纳原则作为科学和日常期待所依赖、却非逻辑必真的原则。",
+      "explanation": "从已观察事例推到未观察事例不能由经验本身演绎证明，因为为经验作保证又会诉诸同一种归纳。罗素因此把归纳原则作为科学和日常期待所依赖、却非逻辑必真的原则。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "problem of induction"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-09-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "重复且无反例的经验会提高某种概括的可信度，却不把它转化成必然真理。罗素的怀疑保留了概率性合理信念，而不是要求在缺乏演绎确定性时停止一切判断。",
+      "explanation": "重复且无反例的经验会提高某种概括的可信度，却不把它转化成必然真理。罗素的怀疑保留了概率性合理信念，而不是要求在缺乏演绎确定性时停止一切判断。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "probability and increasing evidence"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-10-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1918 年讲演把事实视为使命题真或假的世界情形；事实本身不是另一句话。命题是我们断言或否定的东西，而世界由事实而非由真句子的名单组成。",
+      "explanation": "1918 年讲演把事实视为使命题真或假的世界情形；事实本身不是另一句话。命题是我们断言或否定的东西，而世界由事实而非由真句子的名单组成。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "facts versus propositions"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-10-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "“原子论”首先反对把实在当作不可分析的单一整体：复杂事实和命题可以分析到较简单成分。但讲演没有承诺哲学家已经列出所有最终原子，方法论分析与完整世界目录须分开。",
+      "explanation": "“原子论”首先反对把实在当作不可分析的单一整体：复杂事实和命题可以分析到较简单成分。但讲演没有承诺哲学家已经列出所有最终原子，方法论分析与完整世界目录须分开。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "analysis and plurality"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-11-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "在理想逻辑语言中，严格意义的名字直接指向说话者亲知的个体；日常所谓专名往往是缩略摹状词。这个严格条件把 1912 年亲知理论带入 1918 年的语言分析，但并不等于普通语言中每个名字都这样运作。",
+      "explanation": "在理想逻辑语言中，严格意义的名字直接指向说话者亲知的个体；日常所谓专名往往是缩略摹状词。这个严格条件把 1912 年亲知理论带入 1918 年的语言分析，但并不等于普通语言中每个名字都这样运作。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-particulars-1918"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "logically proper names"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-11-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "原子命题断言一个最简单事实；分子命题由真值函项把命题组合起来。罗素区分命题的组合结构与世界中的事实结构，不能因为有“p 或 q”就直接假定另有一个对应的分子对象。",
+      "explanation": "原子命题断言一个最简单事实；分子命题由真值函项把命题组合起来。罗素区分命题的组合结构与世界中的事实结构，不能因为有“p 或 q”就直接假定另有一个对应的分子对象。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-atomic-1919"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "atomic and molecular propositions"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-12-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1921 年罗素赞同一种中立一元论方向：构成世界的材料本身既非心也非物，心与物由这些中立事件在不同因果组织中的功能形成。这不是把物质宣布成精神，也不是把精神还原成传统实体物质。",
+      "explanation": "1921 年罗素赞同一种中立一元论方向：构成世界的材料本身既非心也非物，心与物由这些中立事件在不同因果组织中的功能形成。这不是把物质宣布成精神，也不是把精神还原成传统实体物质。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "neutral stuff thesis"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-12-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "《心的分析》批评把意识当作基本实体，并借鉴威廉·詹姆斯与新实在论者。1921 年方案由此把心与物解释为中立事件的不同组织，是一次有明确来源和修正方向的转向。",
+      "explanation": "《心的分析》批评把意识当作基本实体，并借鉴威廉·詹姆斯与新实在论者。1921 年方案由此把心与物解释为中立事件的不同组织，是一次有明确来源和修正方向的转向。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "period break from 1912"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-13-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1940 年的罗素把语言作为行为与表达来考察，并在基本命题、知觉判断和事实之间重建对应关系。这一后期语义学工程以语言行为、知觉判断与事实的关系为重心。",
+      "explanation": "1940 年的罗素把语言作为行为与表达来考察，并在基本命题、知觉判断和事实之间重建对应关系。这一后期语义学工程以语言行为、知觉判断与事实的关系为重心。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "later semantics of basic propositions"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-13-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "本路线目前只核定到 1940 年初版的相关章节标题，尚未把承重陈述闭合到页码。因此这些陈述保留 PENDING_LOCATOR_GRANULARITY；pending 是证据状态，不等于把内容伪称已逐页验证。",
+      "explanation": "本路线目前只核定到 1940 年初版的相关章节标题，尚未把承重陈述闭合到页码。因此这些陈述保留 PENDING_LOCATOR_GRANULARITY；pending 是证据状态，不等于把内容伪称已逐页验证。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "locator epistemic status"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--claim-14-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1948 年罗素提出若干科学推论公设，试图说明从有限经验走向因果与结构判断的合理性条件。这些公设把科学推论的根据分解为更具体的结构。",
+      "explanation": "1948 年罗素提出若干科学推论公设，试图说明从有限经验走向因果与结构判断的合理性条件。这些公设把科学推论的根据分解为更具体的结构。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "postulates of scientific inference"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-14-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "这些公设旨在支持可错的科学推论，不把经验科学变成演绎必然。本路线已核定到第六部第九章，但指定初版页码尚待闭合，因此不得将 locator 状态升级为 verified。",
+      "explanation": "这些公设旨在支持可错的科学推论，不把经验科学变成演绎必然。本路线已核定到第六部第九章，但指定初版页码尚待闭合，因此不得将 locator 状态升级为 verified。",
+      "identity": "route-synthesis; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "fallibilism and locator hold"
+      ],
+      "voiceClass": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--claim-15-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1915 年《战争伦理》从情感作为伦理判断的基本事实出发，并对战争类型作区分；其中一些判断带有当时的文明等级与殖民主义前提。路线必须呈现这一早期文本，而不能用后来反战声誉替它消毒。",
+      "explanation": "1915 年《战争伦理》从情感作为伦理判断的基本事实出发，并对战争类型作区分；其中一些判断带有当时的文明等级与殖民主义前提。路线必须呈现这一早期文本，而不能用后来反战声誉替它消毒。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-ethics-war-1915"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "1915 war ethics position"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-15-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1925 年《我的信仰》把“好生活”概括为由爱激发并由知识引导，强调可实现的幸福与减少残酷，并把伦理判断置于这一人本关切中。",
+      "explanation": "1925 年《我的信仰》把“好生活”概括为由爱激发并由知识引导，强调可实现的幸福与减少残酷，并把伦理判断置于这一人本关切中。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-what-i-believe-1925"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "1925 humanist ethics"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-16-1",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1917 年《政治理想》区分创造性冲动与占有性冲动，把战争和压迫同占有欲联系，并设想以自由、合作及国际制度约束国家冲突。这是罗素本人战时政治著作的声部。",
+      "explanation": "1917 年《政治理想》区分创造性冲动与占有性冲动，把战争和压迫同占有欲联系，并设想以自由、合作及国际制度约束国家冲突。这是罗素本人战时政治著作的声部。",
+      "identity": "russell-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-political-ideals-1917"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "1917 political ideal"
+      ],
+      "voiceClass": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--claim-16-2",
+      "kind": "claim",
+      "status": "authoringCandidate",
+      "readerTitle": "1955 年《罗素—爱因斯坦宣言》以多位科学家共同签署的声音警告核战争，并要求和平解决国际争端。它显示罗素晚期和平行动，却不是他一人的伦理论证；共同签署者的声部必须保留。",
+      "explanation": "1955 年《罗素—爱因斯坦宣言》以多位科学家共同签署的声音警告核战争，并要求和平解决国际争端。它显示罗素晚期和平行动，却不是他一人的伦理论证；共同签署者的声部必须保留。",
+      "identity": "collaborative-primary; source review PASS-WARN; PREPACKAGE_GATE_HOLD",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-russell-einstein-1955"
+      ],
+      "abilityIds": [
+        "bertrand-russell-claim-specific-reading"
+      ],
+      "bindingMode": "claim-specific-source-review",
+      "claimObjectKeys": [
+        "1955 collaborative nuclear appeal"
+      ],
+      "voiceClass": "collaborative-primary"
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "bertrand-russell--src-principles-logicism-1903",
+      "workId": "The Principles of Mathematics",
+      "edition": "Cambridge University Press, first edition, 1903",
+      "locator": "Preface; Chapter I, §§1–3",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Principles of Mathematics",
+      "stableUrl": "https://fair-use.org/bertrand-russell/the-principles-of-mathematics/chapter-i",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "logicist program and the definition of pure mathematics",
+      "voice": "russell-primary",
+      "year": "1903-foundations"
+    },
+    {
+      "id": "bertrand-russell--src-principles-contradiction-1903",
+      "workId": "The Principles of Mathematics",
+      "edition": "Cambridge University Press, first edition, 1903",
+      "locator": "Chapter X, §§100–104",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Principles of Mathematics",
+      "stableUrl": "https://fair-use.org/bertrand-russell/the-principles-of-mathematics/chapter-x",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "the contradiction concerning classes that are not members of themselves",
+      "voice": "russell-primary",
+      "year": "1903-paradox"
+    },
+    {
+      "id": "bertrand-russell--src-types-1908",
+      "workId": "Mathematical Logic as Based on the Theory of Types",
+      "edition": "American Journal of Mathematics 30(3), 1908, pp. 222–262",
+      "locator": "pp. 224–225, 236–242",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Mathematical Logic as Based on the Theory of Types",
+      "stableUrl": "https://www.jstor.org/stable/2369948",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "vicious-circle principle and ramified type hierarchy",
+      "voice": "russell-primary",
+      "year": "1908-types"
+    },
+    {
+      "id": "bertrand-russell--src-principia-types-1910",
+      "workId": "Principia Mathematica, Volume I",
+      "edition": "Cambridge University Press, first edition, 1910",
+      "locator": "Introduction, Chapter II, “The Theory of Logical Types,” sections I–V, pp. 37–65",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Principia Mathematica, Volume I",
+      "stableUrl": "https://en.wikisource.org/wiki/Russell_%26_Whitehead%27s_Principia_Mathematica/Introduction/Chapter_2",
+      "boundaryZh": null,
+      "author": "Alfred North Whitehead and Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "co-authored type theory, vicious-circle principle, and logical construction",
+      "voice": "collaborative-primary",
+      "year": "1910-principia-collaboration"
+    },
+    {
+      "id": "bertrand-russell--src-on-denoting-1905",
+      "workId": "On Denoting",
+      "edition": "Mind, New Series 14(56), October 1905, pp. 479–493",
+      "locator": "pp. 479–485 and 488–493",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "On Denoting",
+      "stableUrl": "https://doi.org/10.1093/mind/XIV.4.479",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "contextual analysis of denoting phrases, definite descriptions, and scope",
+      "voice": "russell-primary",
+      "year": "1905-denoting"
+    },
+    {
+      "id": "bertrand-russell--src-problems-acquaintance-1912",
+      "workId": "The Problems of Philosophy",
+      "edition": "Williams and Norgate / Henry Holt, 1912",
+      "locator": "Chapter V, “Knowledge by Acquaintance and Knowledge by Description”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Problems of Philosophy",
+      "stableUrl": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm#CHAPTER_V",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "knowledge by acquaintance and knowledge by description",
+      "voice": "russell-primary",
+      "year": "1912-epistemology"
+    },
+    {
+      "id": "bertrand-russell--src-problems-induction-1912",
+      "workId": "The Problems of Philosophy",
+      "edition": "Williams and Norgate / Henry Holt, 1912",
+      "locator": "Chapter VI, “On Induction”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Problems of Philosophy",
+      "stableUrl": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm#CHAPTER_VI",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "induction, uniformity, probability, and non-demonstrative expectation",
+      "voice": "russell-primary",
+      "year": "1912-epistemology"
+    },
+    {
+      "id": "bertrand-russell--src-pla-facts-1918",
+      "workId": "The Philosophy of Logical Atomism",
+      "edition": "The Monist 28(4), October 1918",
+      "locator": "Lecture I, “Facts and Propositions,” pp. 495–509",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Philosophy of Logical Atomism",
+      "stableUrl": "https://bertrandrussellsocietylibrary.org/br-pla/br-logical-atomism0.html",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "facts, propositions, analysis, and acknowledged Wittgenstein influence",
+      "voice": "russell-primary",
+      "year": "1918-logical-atomism"
+    },
+    {
+      "id": "bertrand-russell--src-pla-particulars-1918",
+      "workId": "The Philosophy of Logical Atomism",
+      "edition": "The Monist 28(4), October 1918",
+      "locator": "Lecture II, “Particulars, Predicates, and Relations,” pp. 510–527",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Philosophy of Logical Atomism",
+      "stableUrl": "https://bertrandrussellsocietylibrary.org/br-pla/br-logical-atomism1.html",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "particulars, names, and acquaintance in an ideal logical language",
+      "voice": "russell-primary",
+      "year": "1918-logical-atomism"
+    },
+    {
+      "id": "bertrand-russell--src-pla-atomic-1919",
+      "workId": "The Philosophy of Logical Atomism",
+      "edition": "The Monist 29(1), January 1919",
+      "locator": "Lecture III, “Atomic and Molecular Propositions,” pp. 33–46",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Philosophy of Logical Atomism",
+      "stableUrl": "https://bertrandrussellsocietylibrary.org/br-pla/br-logical-atomism2.html",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "atomic and molecular propositions and truth-functions",
+      "voice": "russell-primary",
+      "year": "1918-logical-atomism"
+    },
+    {
+      "id": "bertrand-russell--src-analysis-mind-1921",
+      "workId": "The Analysis of Mind",
+      "edition": "George Allen & Unwin / Macmillan, 1921",
+      "locator": "Lecture I, “Recent Criticisms of Consciousness”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Analysis of Mind",
+      "stableUrl": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "neutral stuff and functional construction of mind and matter",
+      "voice": "russell-primary",
+      "year": "1921-neutral-monism"
+    },
+    {
+      "id": "bertrand-russell--src-inquiry-meaning-1940-pending",
+      "workId": "An Inquiry into Meaning and Truth",
+      "edition": "George Allen & Unwin, first UK edition, 1940",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact first-edition page spans for Chapters III (“Language as Expression”), VIII (“Pictures and Words”), and XVI (“Truth and Falsehood”) against a paginated scan.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "An Inquiry into Meaning and Truth",
+      "stableUrl": "https://russell-j.com/cool/37E-IDX.HTM",
+      "boundaryZh": "Close exact first-edition page spans for Chapters III (“Language as Expression”), VIII (“Pictures and Words”), and XVI (“Truth and Falsehood”) against a paginated scan.",
+      "author": "Bertrand Russell",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "later distinction between object-language, facts, and basic propositions",
+      "voice": "russell-primary",
+      "year": "1940-late-semantics"
+    },
+    {
+      "id": "bertrand-russell--src-human-knowledge-1948-pending",
+      "workId": "Human Knowledge: Its Scope and Limits",
+      "edition": "George Allen & Unwin, first UK edition, 1948",
+      "locator": "[PENDING_LOCATOR_GRANULARITY] Close exact first-edition page spans for Part VI, Chapter IX (“The Postulates of Scientific Inference”) against a paginated scan.",
+      "locatorVerified": false,
+      "identity": "PENDING_LOCATOR_GRANULARITY",
+      "title": "Human Knowledge: Its Scope and Limits",
+      "stableUrl": "https://www.perlego.com/book/1611799/human-knowledge-its-scope-and-value-pdf",
+      "boundaryZh": "Close exact first-edition page spans for Part VI, Chapter IX (“The Postulates of Scientific Inference”) against a paginated scan.",
+      "author": "Bertrand Russell",
+      "locatorStatus": "PENDING_LOCATOR_GRANULARITY",
+      "objectKey": "postulates that make scientific inference possible without deductive certainty",
+      "voice": "russell-primary",
+      "year": "1948-scientific-inference"
+    },
+    {
+      "id": "bertrand-russell--src-ethics-war-1915",
+      "workId": "The Ethics of War",
+      "edition": "International Journal of Ethics 25(2), January 1915, pp. 127–142",
+      "locator": "pp. 127–142, especially opening section and classification of wars",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Ethics of War",
+      "stableUrl": "https://en.wikisource.org/wiki/The_Ethics_of_War",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "early wartime ethical classification and its explicitly feeling-based starting point",
+      "voice": "russell-primary",
+      "year": "1915-war-ethics"
+    },
+    {
+      "id": "bertrand-russell--src-what-i-believe-1925",
+      "workId": "What I Believe",
+      "edition": "Kegan Paul, Trench, Trubner & Co., 1925",
+      "locator": "Part II, “The Good Life”",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "What I Believe",
+      "stableUrl": "https://www.gutenberg.org/files/73782/73782-h/73782-h.htm",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "human happiness, evidence, and an ethics not grounded in supernatural command",
+      "voice": "russell-primary",
+      "year": "1925-humanist-ethics"
+    },
+    {
+      "id": "bertrand-russell--src-political-ideals-1917",
+      "workId": "Political Ideals",
+      "edition": "The Century Co., 1917",
+      "locator": "Chapters I and V",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "Political Ideals",
+      "stableUrl": "https://www.gutenberg.org/files/4776/4776-h/4776-h.htm",
+      "boundaryZh": null,
+      "author": "Bertrand Russell",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "creative impulses, possessiveness, liberty, and international government",
+      "voice": "russell-primary",
+      "year": "1917-political-ideals"
+    },
+    {
+      "id": "bertrand-russell--src-russell-einstein-1955",
+      "workId": "The Russell–Einstein Manifesto",
+      "edition": "Issued in London, 9 July 1955",
+      "locator": "Full manifesto, paragraphs beginning “In the tragic situation…” through the signed resolution",
+      "locatorVerified": true,
+      "identity": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "title": "The Russell–Einstein Manifesto",
+      "stableUrl": "https://pugwash.org/1955/07/09/statement-manifesto/",
+      "boundaryZh": null,
+      "author": "Bertrand Russell, Albert Einstein, and nine additional signatories",
+      "locatorStatus": "VERIFIED_FROM_CLOSED_LOCATOR",
+      "objectKey": "collective appeal on nuclear danger and peaceful resolution",
+      "voice": "collaborative-primary",
+      "year": "1955-nuclear-peace"
+    }
+  ],
+  "routes": [
+    {
+      "id": "bertrand-russell-analysis-facts-revision",
+      "version": "0.1.0-source-rereviewed-candidate",
+      "title": "罗素：分析、事实与可修正的理性",
+      "lessonIds": [
+        "bertrand-russell--lesson-01",
+        "bertrand-russell--lesson-02",
+        "bertrand-russell--lesson-03",
+        "bertrand-russell--lesson-04",
+        "bertrand-russell--lesson-05",
+        "bertrand-russell--lesson-06",
+        "bertrand-russell--lesson-07",
+        "bertrand-russell--lesson-08",
+        "bertrand-russell--lesson-09",
+        "bertrand-russell--lesson-10",
+        "bertrand-russell--lesson-11",
+        "bertrand-russell--lesson-12",
+        "bertrand-russell--lesson-13",
+        "bertrand-russell--lesson-14",
+        "bertrand-russell--lesson-15",
+        "bertrand-russell--lesson-16"
+      ],
+      "hostKind": "single-webview2-learning-route",
+      "person": {
+        "name": "Bertrand Russell",
+        "nameZh": "罗素",
+        "sourceRouteId": "bertrand-russell-single-route-v18-authoring"
+      },
+      "summary": "当逻辑分析不断改变自己的工具时，它如何仍能澄清数学、语言、知识与公共生活？"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "bertrand-russell--lesson-01",
+      "order": 1,
+      "title": "逻辑主义不是一句口号",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "逻辑主义不是一句口号",
+      "coreExplanation": "1903 年的罗素把纯粹数学刻画为只使用少数基本逻辑概念、其命题可由一般逻辑原则推出的研究。这里的“数学属于逻辑”是一项定义与演绎计划，不是说数学只剩日常推理。\n\n这一计划同时依赖分析：先辨明命题的逻辑形式和所用概念，再谈演绎。若不做概念分析，仅把既有数学定理贴上“逻辑”标签，就没有完成罗素所要求的还原。",
+      "sections": [
+        {
+          "heading": "逻辑主义不是一句口号",
+          "paragraphs": [
+            "1903 年的罗素把纯粹数学刻画为只使用少数基本逻辑概念、其命题可由一般逻辑原则推出的研究。这里的“数学属于逻辑”是一项定义与演绎计划，不是说数学只剩日常推理。",
+            "这一计划同时依赖分析：先辨明命题的逻辑形式和所用概念，再谈演绎。若不做概念分析，仅把既有数学定理贴上“逻辑”标签，就没有完成罗素所要求的还原。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-01-1",
+        "bertrand-russell--claim-01-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-01-1",
+        "bertrand-russell--check-01-2",
+        "bertrand-russell--check-01-3",
+        "bertrand-russell--check-01-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-02",
+      "sourceIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "essentialQuestion": "逻辑主义不是一句口号",
+      "initialFocusId": "bertrand-russell--lesson-01-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-02",
+      "order": 2,
+      "title": "悖论击中不受限的类原则",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "悖论击中不受限的类原则",
+      "coreExplanation": "罗素考察“不属于自身的类所成的类”：若它属于自身，按定义它不属于自身；若它不属于自身，按定义它又属于自身。矛盾针对的是允许这种总体无条件形成的原则。\n\n这不是对每一种集合论或全部数学的直接否定，而是暴露早期逻辑主义所依赖的类形成方式需要限制。把悖论说成“数学本身不一致”，会越过 1903 年文本实际建立的结论。",
+      "sections": [
+        {
+          "heading": "悖论击中不受限的类原则",
+          "paragraphs": [
+            "罗素考察“不属于自身的类所成的类”：若它属于自身，按定义它不属于自身；若它不属于自身，按定义它又属于自身。矛盾针对的是允许这种总体无条件形成的原则。",
+            "这不是对每一种集合论或全部数学的直接否定，而是暴露早期逻辑主义所依赖的类形成方式需要限制。把悖论说成“数学本身不一致”，会越过 1903 年文本实际建立的结论。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-02-1",
+        "bertrand-russell--claim-02-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-02-1",
+        "bertrand-russell--check-02-2",
+        "bertrand-russell--check-02-3",
+        "bertrand-russell--check-02-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-03",
+      "sourceIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "essentialQuestion": "悖论击中不受限的类原则",
+      "initialFocusId": "bertrand-russell--lesson-02-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-03",
+      "order": 3,
+      "title": "类型论与恶性循环",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "类型论与恶性循环",
+      "coreExplanation": "1908 年文章把多种悖论诊断为恶性循环：某个总体若包含只能借助该总体整体才能定义的成员，定义就发生自我预设。类型限制旨在阻断这种不正当的总体性。\n\n罗素的成熟方案不只是把个体和类分层，还区分命题函数的阶，以控制量化所跨越的范围。把它简化成现代编程语言的“数据类型检查”，会抹去其针对可定义性与量化循环的逻辑任务。",
+      "sections": [
+        {
+          "heading": "类型论与恶性循环",
+          "paragraphs": [
+            "1908 年文章把多种悖论诊断为恶性循环：某个总体若包含只能借助该总体整体才能定义的成员，定义就发生自我预设。类型限制旨在阻断这种不正当的总体性。",
+            "罗素的成熟方案不只是把个体和类分层，还区分命题函数的阶，以控制量化所跨越的范围。把它简化成现代编程语言的“数据类型检查”，会抹去其针对可定义性与量化循环的逻辑任务。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-03-1",
+        "bertrand-russell--claim-03-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-03-1",
+        "bertrand-russell--check-03-2",
+        "bertrand-russell--check-03-3",
+        "bertrand-russell--check-03-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-04",
+      "sourceIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "essentialQuestion": "类型论与恶性循环",
+      "initialFocusId": "bertrand-russell--lesson-03-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-04",
+      "order": 4,
+      "title": "《数学原理》的共同作者声部",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "《数学原理》的共同作者声部",
+      "coreExplanation": "《数学原理》卷一署名怀特海与罗素，导言中的类型论是共同作者文本。路线可以说明它与罗素此前工作的连续性，却不能把该书每一句都标成罗素单独发言。\n\n共同作者用分层和恶性循环原则处理悖论，同时引入可还原性公理，以恢复许多数学推演所需的表达能力。这显示体系在防悖论与保留数学能力之间作出技术性折衷。",
+      "sections": [
+        {
+          "heading": "《数学原理》的共同作者声部",
+          "paragraphs": [
+            "《数学原理》卷一署名怀特海与罗素，导言中的类型论是共同作者文本。路线可以说明它与罗素此前工作的连续性，却不能把该书每一句都标成罗素单独发言。",
+            "共同作者用分层和恶性循环原则处理悖论，同时引入可还原性公理，以恢复许多数学推演所需的表达能力。这显示体系在防悖论与保留数学能力之间作出技术性折衷。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-04-1",
+        "bertrand-russell--claim-04-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-04-1",
+        "bertrand-russell--check-04-2",
+        "bertrand-russell--check-04-3",
+        "bertrand-russell--check-04-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-05",
+      "sourceIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "essentialQuestion": "《数学原理》的共同作者声部",
+      "initialFocusId": "bertrand-russell--lesson-04-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-05",
+      "order": 5,
+      "title": "摹状词的语境分析",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "摹状词的语境分析",
+      "coreExplanation": "《论指称》主张，摹状短语不必作为完整命题中的独立指称成分出现；分析应展开包含它的整个命题。这一语境分析避免先为“某某”假设一个对象，再询问对象是否存在。\n\n“这个 F 是 G”的经典展开包含三项：至少有一个 F、至多有一个 F、这个唯一的 F 是 G。存在、唯一性和述谓共同构成逻辑形式；遗漏任一项都会改变原句条件。",
+      "sections": [
+        {
+          "heading": "摹状词的语境分析",
+          "paragraphs": [
+            "《论指称》主张，摹状短语不必作为完整命题中的独立指称成分出现；分析应展开包含它的整个命题。这一语境分析避免先为“某某”假设一个对象，再询问对象是否存在。",
+            "“这个 F 是 G”的经典展开包含三项：至少有一个 F、至多有一个 F、这个唯一的 F 是 G。存在、唯一性和述谓共同构成逻辑形式；遗漏任一项都会改变原句条件。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-05-1",
+        "bertrand-russell--claim-05-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-05-1",
+        "bertrand-russell--check-05-2",
+        "bertrand-russell--check-05-3",
+        "bertrand-russell--check-05-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-06",
+      "sourceIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "essentialQuestion": "摹状词的语境分析",
+      "initialFocusId": "bertrand-russell--lesson-05-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-06",
+      "order": 6,
+      "title": "空摹状与否定的辖域",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "空摹状与否定的辖域",
+      "coreExplanation": "“现任法国国王是秃头的”不要求有一个神秘的非存在国王充当主词；按量化分析，存在条件失败，所以整句为假。它说明语法主词不必对应逻辑分析中的简单对象。\n\n否定与摹状词有不同辖域：“不是这个 F 是 G”可否定整个存在—唯一—述谓结构，也可在假定唯一 F 的范围内否定 G。罗素用 primary/secondary occurrence 区分这类读法。",
+      "sections": [
+        {
+          "heading": "空摹状与否定的辖域",
+          "paragraphs": [
+            "“现任法国国王是秃头的”不要求有一个神秘的非存在国王充当主词；按量化分析，存在条件失败，所以整句为假。它说明语法主词不必对应逻辑分析中的简单对象。",
+            "否定与摹状词有不同辖域：“不是这个 F 是 G”可否定整个存在—唯一—述谓结构，也可在假定唯一 F 的范围内否定 G。罗素用 primary/secondary occurrence 区分这类读法。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-06-1",
+        "bertrand-russell--claim-06-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-06-1",
+        "bertrand-russell--check-06-2",
+        "bertrand-russell--check-06-3",
+        "bertrand-russell--check-06-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-07",
+      "sourceIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "essentialQuestion": "空摹状与否定的辖域",
+      "initialFocusId": "bertrand-russell--lesson-06-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-07",
+      "order": 7,
+      "title": "亲知：无需推论的直接关系",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "亲知：无需推论的直接关系",
+      "coreExplanation": "1912 年罗素把亲知界定为对对象的直接觉察，不以推论或关于它的真理知识为中介。亲知是“对物的知识”之一种，不等于已经掌握关于该对象的一切命题。\n\n在《哲学问题》中，罗素列举感觉材料、内省材料、记忆中的既往材料以及自我等候选，并主张我们还能亲知共相。这个清单属于 1912 年认识论，不应自动投射到他后来的中立一元论。",
+      "sections": [
+        {
+          "heading": "亲知：无需推论的直接关系",
+          "paragraphs": [
+            "1912 年罗素把亲知界定为对对象的直接觉察，不以推论或关于它的真理知识为中介。亲知是“对物的知识”之一种，不等于已经掌握关于该对象的一切命题。",
+            "在《哲学问题》中，罗素列举感觉材料、内省材料、记忆中的既往材料以及自我等候选，并主张我们还能亲知共相。这个清单属于 1912 年认识论，不应自动投射到他后来的中立一元论。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-07-1",
+        "bertrand-russell--claim-07-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-07-1",
+        "bertrand-russell--check-07-2",
+        "bertrand-russell--check-07-3",
+        "bertrand-russell--check-07-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-08",
+      "sourceIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "essentialQuestion": "亲知：无需推论的直接关系",
+      "initialFocusId": "bertrand-russell--lesson-07-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-08",
+      "order": 8,
+      "title": "描述知识依赖亲知与真理",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "描述知识依赖亲知与真理",
+      "coreExplanation": "描述知识不是较模糊的亲知；它以某个满足描述的对象为目标，并依赖我们亲知的材料及若干真理。由描述知道某物存在，不要求认识者直接亲知那个物。\n\n专名在实际交流中常借描述起作用：不同说话者可把不同亲知材料汇聚到同一公共对象。由此，私人直接经验与可共享知识之间不是简单二选一，而有描述性桥梁。",
+      "sections": [
+        {
+          "heading": "描述知识依赖亲知与真理",
+          "paragraphs": [
+            "描述知识不是较模糊的亲知；它以某个满足描述的对象为目标，并依赖我们亲知的材料及若干真理。由描述知道某物存在，不要求认识者直接亲知那个物。",
+            "专名在实际交流中常借描述起作用：不同说话者可把不同亲知材料汇聚到同一公共对象。由此，私人直接经验与可共享知识之间不是简单二选一，而有描述性桥梁。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-08-1",
+        "bertrand-russell--claim-08-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-08-1",
+        "bertrand-russell--check-08-2",
+        "bertrand-russell--check-08-3",
+        "bertrand-russell--check-08-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-09",
+      "sourceIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "essentialQuestion": "描述知识依赖亲知与真理",
+      "initialFocusId": "bertrand-russell--lesson-08-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-09",
+      "order": 9,
+      "title": "归纳：合理期待而非演绎证明",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "归纳：合理期待而非演绎证明",
+      "coreExplanation": "从已观察事例推到未观察事例不能由经验本身演绎证明，因为为经验作保证又会诉诸同一种归纳。罗素因此把归纳原则作为科学和日常期待所依赖、却非逻辑必真的原则。\n\n重复且无反例的经验会提高某种概括的可信度，却不把它转化成必然真理。罗素的怀疑保留了概率性合理信念，而不是要求在缺乏演绎确定性时停止一切判断。",
+      "sections": [
+        {
+          "heading": "归纳：合理期待而非演绎证明",
+          "paragraphs": [
+            "从已观察事例推到未观察事例不能由经验本身演绎证明，因为为经验作保证又会诉诸同一种归纳。罗素因此把归纳原则作为科学和日常期待所依赖、却非逻辑必真的原则。",
+            "重复且无反例的经验会提高某种概括的可信度，却不把它转化成必然真理。罗素的怀疑保留了概率性合理信念，而不是要求在缺乏演绎确定性时停止一切判断。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-09-1",
+        "bertrand-russell--claim-09-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-09-1",
+        "bertrand-russell--check-09-2",
+        "bertrand-russell--check-09-3",
+        "bertrand-russell--check-09-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-10",
+      "sourceIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "essentialQuestion": "归纳：合理期待而非演绎证明",
+      "initialFocusId": "bertrand-russell--lesson-09-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-10",
+      "order": 10,
+      "title": "事实与命题的逻辑原子论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "事实与命题的逻辑原子论",
+      "coreExplanation": "1918 年讲演把事实视为使命题真或假的世界情形；事实本身不是另一句话。命题是我们断言或否定的东西，而世界由事实而非由真句子的名单组成。\n\n“原子论”首先反对把实在当作不可分析的单一整体：复杂事实和命题可以分析到较简单成分。但讲演没有承诺哲学家已经列出所有最终原子，方法论分析与完整世界目录须分开。",
+      "sections": [
+        {
+          "heading": "事实与命题的逻辑原子论",
+          "paragraphs": [
+            "1918 年讲演把事实视为使命题真或假的世界情形；事实本身不是另一句话。命题是我们断言或否定的东西，而世界由事实而非由真句子的名单组成。",
+            "“原子论”首先反对把实在当作不可分析的单一整体：复杂事实和命题可以分析到较简单成分。但讲演没有承诺哲学家已经列出所有最终原子，方法论分析与完整世界目录须分开。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-10-1",
+        "bertrand-russell--claim-10-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-10-1",
+        "bertrand-russell--check-10-2",
+        "bertrand-russell--check-10-3",
+        "bertrand-russell--check-10-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-11",
+      "sourceIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "essentialQuestion": "事实与命题的逻辑原子论",
+      "initialFocusId": "bertrand-russell--lesson-10-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-11",
+      "order": 11,
+      "title": "理想语言、名字与原子命题",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "理想语言、名字与原子命题",
+      "coreExplanation": "在理想逻辑语言中，严格意义的名字直接指向说话者亲知的个体；日常所谓专名往往是缩略摹状词。这个严格条件把 1912 年亲知理论带入 1918 年的语言分析，但并不等于普通语言中每个名字都这样运作。\n\n原子命题断言一个最简单事实；分子命题由真值函项把命题组合起来。罗素区分命题的组合结构与世界中的事实结构，不能因为有“p 或 q”就直接假定另有一个对应的分子对象。",
+      "sections": [
+        {
+          "heading": "理想语言、名字与原子命题",
+          "paragraphs": [
+            "在理想逻辑语言中，严格意义的名字直接指向说话者亲知的个体；日常所谓专名往往是缩略摹状词。这个严格条件把 1912 年亲知理论带入 1918 年的语言分析，但并不等于普通语言中每个名字都这样运作。",
+            "原子命题断言一个最简单事实；分子命题由真值函项把命题组合起来。罗素区分命题的组合结构与世界中的事实结构，不能因为有“p 或 q”就直接假定另有一个对应的分子对象。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-particulars-1918",
+            "bertrand-russell--src-pla-atomic-1919"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-11-1",
+        "bertrand-russell--claim-11-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-11-1",
+        "bertrand-russell--check-11-2",
+        "bertrand-russell--check-11-3",
+        "bertrand-russell--check-11-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-12",
+      "sourceIds": [
+        "bertrand-russell--src-pla-particulars-1918",
+        "bertrand-russell--src-pla-atomic-1919"
+      ],
+      "essentialQuestion": "理想语言、名字与原子命题",
+      "initialFocusId": "bertrand-russell--lesson-11-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-12",
+      "order": 12,
+      "title": "从亲知框架转向中立一元论",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "从亲知框架转向中立一元论",
+      "coreExplanation": "1921 年罗素赞同一种中立一元论方向：构成世界的材料本身既非心也非物，心与物由这些中立事件在不同因果组织中的功能形成。这不是把物质宣布成精神，也不是把精神还原成传统实体物质。\n\n《心的分析》批评把意识当作基本实体，并借鉴威廉·詹姆斯与新实在论者。1921 年方案由此把心与物解释为中立事件的不同组织，是一次有明确来源和修正方向的转向。",
+      "sections": [
+        {
+          "heading": "从亲知框架转向中立一元论",
+          "paragraphs": [
+            "1921 年罗素赞同一种中立一元论方向：构成世界的材料本身既非心也非物，心与物由这些中立事件在不同因果组织中的功能形成。这不是把物质宣布成精神，也不是把精神还原成传统实体物质。",
+            "《心的分析》批评把意识当作基本实体，并借鉴威廉·詹姆斯与新实在论者。1921 年方案由此把心与物解释为中立事件的不同组织，是一次有明确来源和修正方向的转向。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-12-1",
+        "bertrand-russell--claim-12-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-12-1",
+        "bertrand-russell--check-12-2",
+        "bertrand-russell--check-12-3",
+        "bertrand-russell--check-12-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-13",
+      "sourceIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "essentialQuestion": "从亲知框架转向中立一元论",
+      "initialFocusId": "bertrand-russell--lesson-12-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-13",
+      "order": 13,
+      "title": "后期语言与事实：先保留定位门",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "后期语言与事实：先保留定位门",
+      "coreExplanation": "1940 年的罗素把语言作为行为与表达来考察，并在基本命题、知觉判断和事实之间重建对应关系。这一后期语义学工程以语言行为、知觉判断与事实的关系为重心。\n\n本路线目前只核定到 1940 年初版的相关章节标题，尚未把承重陈述闭合到页码。因此这些陈述保留 PENDING_LOCATOR_GRANULARITY；pending 是证据状态，不等于把内容伪称已逐页验证。",
+      "sections": [
+        {
+          "heading": "后期语言与事实：先保留定位门",
+          "paragraphs": [
+            "1940 年的罗素把语言作为行为与表达来考察，并在基本命题、知觉判断和事实之间重建对应关系。这一后期语义学工程以语言行为、知觉判断与事实的关系为重心。",
+            "本路线目前只核定到 1940 年初版的相关章节标题，尚未把承重陈述闭合到页码。因此这些陈述保留 PENDING_LOCATOR_GRANULARITY；pending 是证据状态，不等于把内容伪称已逐页验证。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-13-1",
+        "bertrand-russell--claim-13-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-13-1",
+        "bertrand-russell--check-13-2",
+        "bertrand-russell--check-13-3",
+        "bertrand-russell--check-13-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-14",
+      "sourceIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "essentialQuestion": "后期语言与事实：先保留定位门",
+      "initialFocusId": "bertrand-russell--lesson-13-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-14",
+      "order": 14,
+      "title": "后期科学推论：从单一归纳到多项公设",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "后期科学推论：从单一归纳到多项公设",
+      "coreExplanation": "1948 年罗素提出若干科学推论公设，试图说明从有限经验走向因果与结构判断的合理性条件。这些公设把科学推论的根据分解为更具体的结构。\n\n这些公设旨在支持可错的科学推论，不把经验科学变成演绎必然。本路线已核定到第六部第九章，但指定初版页码尚待闭合，因此不得将 locator 状态升级为 verified。",
+      "sections": [
+        {
+          "heading": "后期科学推论：从单一归纳到多项公设",
+          "paragraphs": [
+            "1948 年罗素提出若干科学推论公设，试图说明从有限经验走向因果与结构判断的合理性条件。这些公设把科学推论的根据分解为更具体的结构。",
+            "这些公设旨在支持可错的科学推论，不把经验科学变成演绎必然。本路线已核定到第六部第九章，但指定初版页码尚待闭合，因此不得将 locator 状态升级为 verified。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-14-1",
+        "bertrand-russell--claim-14-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-14-1",
+        "bertrand-russell--check-14-2",
+        "bertrand-russell--check-14-3",
+        "bertrand-russell--check-14-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-15",
+      "sourceIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "essentialQuestion": "后期科学推论：从单一归纳到多项公设",
+      "initialFocusId": "bertrand-russell--lesson-14-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-15",
+      "order": 15,
+      "title": "战争伦理与人文伦理不是一个时点",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "战争伦理与人文伦理不是一个时点",
+      "coreExplanation": "1915 年《战争伦理》从情感作为伦理判断的基本事实出发，并对战争类型作区分；其中一些判断带有当时的文明等级与殖民主义前提。路线必须呈现这一早期文本，而不能用后来反战声誉替它消毒。\n\n1925 年《我的信仰》把“好生活”概括为由爱激发并由知识引导，强调可实现的幸福与减少残酷，并把伦理判断置于这一人本关切中。",
+      "sections": [
+        {
+          "heading": "战争伦理与人文伦理不是一个时点",
+          "paragraphs": [
+            "1915 年《战争伦理》从情感作为伦理判断的基本事实出发，并对战争类型作区分；其中一些判断带有当时的文明等级与殖民主义前提。路线必须呈现这一早期文本，而不能用后来反战声誉替它消毒。",
+            "1925 年《我的信仰》把“好生活”概括为由爱激发并由知识引导，强调可实现的幸福与减少残酷，并把伦理判断置于这一人本关切中。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-ethics-war-1915",
+            "bertrand-russell--src-what-i-believe-1925"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-15-1",
+        "bertrand-russell--claim-15-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-15-1",
+        "bertrand-russell--check-15-2",
+        "bertrand-russell--check-15-3",
+        "bertrand-russell--check-15-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": "bertrand-russell--lesson-16",
+      "sourceIds": [
+        "bertrand-russell--src-ethics-war-1915",
+        "bertrand-russell--src-what-i-believe-1925"
+      ],
+      "essentialQuestion": "战争伦理与人文伦理不是一个时点",
+      "initialFocusId": "bertrand-russell--lesson-15-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    },
+    {
+      "id": "bertrand-russell--lesson-16",
+      "order": 16,
+      "title": "政治理想到核时代共同呼吁",
+      "depth": "source-reviewed-authoring-candidate",
+      "guidingQuestion": "政治理想到核时代共同呼吁",
+      "coreExplanation": "1917 年《政治理想》区分创造性冲动与占有性冲动，把战争和压迫同占有欲联系，并设想以自由、合作及国际制度约束国家冲突。这是罗素本人战时政治著作的声部。\n\n1955 年《罗素—爱因斯坦宣言》以多位科学家共同签署的声音警告核战争，并要求和平解决国际争端。它显示罗素晚期和平行动，却不是他一人的伦理论证；共同签署者的声部必须保留。",
+      "sections": [
+        {
+          "heading": "政治理想到核时代共同呼吁",
+          "paragraphs": [
+            "1917 年《政治理想》区分创造性冲动与占有性冲动，把战争和压迫同占有欲联系，并设想以自由、合作及国际制度约束国家冲突。这是罗素本人战时政治著作的声部。",
+            "1955 年《罗素—爱因斯坦宣言》以多位科学家共同签署的声音警告核战争，并要求和平解决国际争端。它显示罗素晚期和平行动，却不是他一人的伦理论证；共同签署者的声部必须保留。"
+          ],
+          "identity": "source-reviewed-authoring; PREPACKAGE_GATE_HOLD retained",
+          "kind": "closeReading",
+          "evidenceLinkIds": [
+            "bertrand-russell--src-political-ideals-1917",
+            "bertrand-russell--src-russell-einstein-1955"
+          ]
+        }
+      ],
+      "caseText": "本节保持原 source 的 object、voice 与 locator 状态；pending 定位不得解释为 verified。",
+      "nodeIds": [
+        "bertrand-russell--claim-16-1",
+        "bertrand-russell--claim-16-2"
+      ],
+      "checkIds": [
+        "bertrand-russell--check-16-1",
+        "bertrand-russell--check-16-2",
+        "bertrand-russell--check-16-3",
+        "bertrand-russell--check-16-4"
+      ],
+      "abilitySummary": [
+        "能依据当前正文、对象、声部与证据定位区分可接受解释和越界概括。"
+      ],
+      "recommendedNextLessonId": null,
+      "sourceIds": [
+        "bertrand-russell--src-political-ideals-1917",
+        "bertrand-russell--src-russell-einstein-1955"
+      ],
+      "essentialQuestion": "政治理想到核时代共同呼吁",
+      "initialFocusId": "bertrand-russell--lesson-16-title",
+      "routeId": "bertrand-russell-analysis-facts-revision",
+      "focusTarget": "exact-lesson-title"
+    }
+  ],
+  "checks": [
+    {
+      "id": "bertrand-russell--check-01-1",
+      "kind": "binary",
+      "prompt": "哪一项准确表达 1903 年逻辑主义的任务？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-01-1-1",
+          "text": "用逻辑概念界定数学概念并从逻辑原则推演数学命题",
+          "feedback": "正确：“用逻辑概念界定数学概念并从逻辑原则推演数学命题”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-01-1-2",
+          "text": "把所有数学计算改写成普通语言",
+          "feedback": "错误：“把所有数学计算改写成普通语言”不符合本课证据；应选择“用逻辑概念界定数学概念并从逻辑原则推演数学命题”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-01-1-1",
+      "misconceptionId": "bertrand-russell--check-01-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-01-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-01",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-01-2",
+      "kind": "binary",
+      "prompt": "这一路线应如何理解“数学属于逻辑”？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-01-2-1",
+          "text": "作为否认数学具有抽象结构的主张",
+          "feedback": "错误：“作为否认数学具有抽象结构的主张”不符合本课证据；应选择“作为关于概念定义和命题推演的基础方案”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-01-2-2",
+          "text": "作为关于概念定义和命题推演的基础方案",
+          "feedback": "正确：“作为关于概念定义和命题推演的基础方案”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-01-2-2",
+      "misconceptionId": "bertrand-russell--check-01-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-01-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-01-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-01",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-01-3",
+      "kind": "binary",
+      "prompt": "为什么概念分析是逻辑主义的前置步骤？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-01-3-1",
+          "text": "因为分析可以替代所有形式证明",
+          "feedback": "错误：“因为分析可以替代所有形式证明”不符合本课证据；应选择“因为必须先确定数学命题实际使用的逻辑形式与基本概念”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-01-3-2",
+          "text": "因为必须先确定数学命题实际使用的逻辑形式与基本概念",
+          "feedback": "正确：“因为必须先确定数学命题实际使用的逻辑形式与基本概念”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-01-3-2",
+      "misconceptionId": "bertrand-russell--check-01-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-01-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-01",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-01-4",
+      "kind": "binary",
+      "prompt": "哪种做法没有完成罗素式还原？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-01-4-1",
+          "text": "只把现成定理称作逻辑而不展示定义与推演",
+          "feedback": "正确：“只把现成定理称作逻辑而不展示定义与推演”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-01-4-2",
+          "text": "说明数学概念如何由逻辑概念界定",
+          "feedback": "错误：“说明数学概念如何由逻辑概念界定”不符合本课证据；应选择“只把现成定理称作逻辑而不展示定义与推演”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-logicism-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-01-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-01-4-1",
+      "misconceptionId": "bertrand-russell--check-01-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-logicism-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-01-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-01-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-01",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-02-1",
+      "kind": "binary",
+      "prompt": "悖论中的关键对象是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-02-1-1",
+          "text": "所有不属于自身的类所成的类",
+          "feedback": "正确：“所有不属于自身的类所成的类”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-02-1-2",
+          "text": "所有拥有至少两个成员的类",
+          "feedback": "错误：“所有拥有至少两个成员的类”不符合本课证据；应选择“所有不属于自身的类所成的类”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-02-1-1",
+      "misconceptionId": "bertrand-russell--check-02-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-02-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-02",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-02-2",
+      "kind": "binary",
+      "prompt": "矛盾为何产生？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-02-2-1",
+          "text": "因为任意两个类都必定相等",
+          "feedback": "错误：“因为任意两个类都必定相等”不符合本课证据；应选择“该类属于自身与不属于自身都反转为对方”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-02-2-2",
+          "text": "该类属于自身与不属于自身都反转为对方",
+          "feedback": "正确：“该类属于自身与不属于自身都反转为对方”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-02-2-2",
+      "misconceptionId": "bertrand-russell--check-02-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-02-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-02-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-02",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-02-3",
+      "kind": "binary",
+      "prompt": "悖论最直接迫使罗素限制什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-02-3-1",
+          "text": "一切算术运算",
+          "feedback": "错误：“一切算术运算”不符合本课证据；应选择“不受限的类形成方式”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-02-3-2",
+          "text": "不受限的类形成方式",
+          "feedback": "正确：“不受限的类形成方式”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-02-3-2",
+      "misconceptionId": "bertrand-russell--check-02-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-02-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-02",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-02-4",
+      "kind": "binary",
+      "prompt": "哪一判断过度扩大了悖论的结论？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-02-4-1",
+          "text": "它已经证明全部数学必然不一致",
+          "feedback": "正确：“它已经证明全部数学必然不一致”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-02-4-2",
+          "text": "它暴露某种类原则不能无条件使用",
+          "feedback": "错误：“它暴露某种类原则不能无条件使用”不符合本课证据；应选择“它已经证明全部数学必然不一致”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principles-contradiction-1903"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-02-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-02-4-1",
+      "misconceptionId": "bertrand-russell--check-02-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principles-contradiction-1903"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-02-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-02-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-02",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-03-1",
+      "kind": "binary",
+      "prompt": "恶性循环原则要阻断什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-03-1-1",
+          "text": "用一个总体整体来定义该总体中的成员",
+          "feedback": "正确：“用一个总体整体来定义该总体中的成员”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-03-1-2",
+          "text": "在证明中重复使用已证定理",
+          "feedback": "错误：“在证明中重复使用已证定理”不符合本课证据；应选择“用一个总体整体来定义该总体中的成员”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-03-1-1",
+      "misconceptionId": "bertrand-russell--check-03-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-03-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-03",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-03-2",
+      "kind": "binary",
+      "prompt": "类型限制的直接动机是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-03-2-1",
+          "text": "保证所有命题都有经验内容",
+          "feedback": "错误：“保证所有命题都有经验内容”不符合本课证据；应选择“避免自我预设式总体造成悖论”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-03-2-2",
+          "text": "避免自我预设式总体造成悖论",
+          "feedback": "正确：“避免自我预设式总体造成悖论”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-03-2-2",
+      "misconceptionId": "bertrand-russell--check-03-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-03-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-03-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-03",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-03-3",
+      "kind": "binary",
+      "prompt": "分阶的作用主要是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-03-3-1",
+          "text": "规定计算机变量占用多少内存",
+          "feedback": "错误：“规定计算机变量占用多少内存”不符合本课证据；应选择“控制命题函数定义和量化中的循环”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-03-3-2",
+          "text": "控制命题函数定义和量化中的循环",
+          "feedback": "正确：“控制命题函数定义和量化中的循环”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-03-3-2",
+      "misconceptionId": "bertrand-russell--check-03-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-03-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-03",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-03-4",
+      "kind": "binary",
+      "prompt": "哪种类比会遮蔽 1908 年方案？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-03-4-1",
+          "text": "把类型论仅当作编程语言的数据类型检查",
+          "feedback": "正确：“把类型论仅当作编程语言的数据类型检查”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-03-4-2",
+          "text": "把它理解为对可定义性层级的限制",
+          "feedback": "错误：“把它理解为对可定义性层级的限制”不符合本课证据；应选择“把类型论仅当作编程语言的数据类型检查”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-types-1908"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-03-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-03-4-1",
+      "misconceptionId": "bertrand-russell--check-03-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-types-1908"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-03-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-03-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-03",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-04-1",
+      "kind": "binary",
+      "prompt": "《数学原理》中的类型论应标为何种声部？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-04-1-1",
+          "text": "怀特海与罗素的共同作者声部",
+          "feedback": "正确：“怀特海与罗素的共同作者声部”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-04-1-2",
+          "text": "罗素不受任何合作影响的独白",
+          "feedback": "错误：“罗素不受任何合作影响的独白”不符合本课证据；应选择“怀特海与罗素的共同作者声部”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-04-1-1",
+      "misconceptionId": "bertrand-russell--check-04-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-04-1"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-04",
+      "voice": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--check-04-2",
+      "kind": "binary",
+      "prompt": "怎样处理共同作者身份才准确？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-04-2-1",
+          "text": "为方便叙述而删除怀特海的作者身份",
+          "feedback": "错误：“为方便叙述而删除怀特海的作者身份”不符合本课证据；应选择“保留共同署名，同时说明与罗素早期方案的关联”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-04-2-2",
+          "text": "保留共同署名，同时说明与罗素早期方案的关联",
+          "feedback": "正确：“保留共同署名，同时说明与罗素早期方案的关联”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-04-2-2",
+      "misconceptionId": "bertrand-russell--check-04-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-04-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-04-1"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-04",
+      "voice": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--check-04-3",
+      "kind": "binary",
+      "prompt": "可还原性公理在体系中承担什么角色？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-04-3-1",
+          "text": "把所有类型彻底取消",
+          "feedback": "错误：“把所有类型彻底取消”不符合本课证据；应选择“在分层限制下恢复许多数学推演所需的表达能力”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-04-3-2",
+          "text": "在分层限制下恢复许多数学推演所需的表达能力",
+          "feedback": "正确：“在分层限制下恢复许多数学推演所需的表达能力”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-04-3-2",
+      "misconceptionId": "bertrand-russell--check-04-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-04-2"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-04",
+      "voice": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--check-04-4",
+      "kind": "binary",
+      "prompt": "这项公理显示了什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-04-4-1",
+          "text": "防悖论限制与数学表达能力之间存在折衷",
+          "feedback": "正确：“防悖论限制与数学表达能力之间存在折衷”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-04-4-2",
+          "text": "类型论完全不影响数学推演",
+          "feedback": "错误：“类型论完全不影响数学推演”不符合本课证据；应选择“防悖论限制与数学表达能力之间存在折衷”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-principia-types-1910"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-04-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-04-4-1",
+      "misconceptionId": "bertrand-russell--check-04-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-principia-types-1910"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-04-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-04-2"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-04",
+      "voice": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--check-05-1",
+      "kind": "binary",
+      "prompt": "罗素如何分析摹状短语？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-05-1-1",
+          "text": "分析包含它的整个命题，而非先给短语指定独立对象",
+          "feedback": "正确：“分析包含它的整个命题，而非先给短语指定独立对象”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-05-1-2",
+          "text": "把每个摹状短语都当作专名",
+          "feedback": "错误：“把每个摹状短语都当作专名”不符合本课证据；应选择“分析包含它的整个命题，而非先给短语指定独立对象”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-05-1-1",
+      "misconceptionId": "bertrand-russell--check-05-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-05-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-05",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-05-2",
+      "kind": "binary",
+      "prompt": "语境分析避免了什么预设？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-05-2-1",
+          "text": "命题具有可分析的逻辑形式",
+          "feedback": "错误：“命题具有可分析的逻辑形式”不符合本课证据；应选择“不存在对象也必须先被当成指称物”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-05-2-2",
+          "text": "不存在对象也必须先被当成指称物",
+          "feedback": "正确：“不存在对象也必须先被当成指称物”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-05-2-2",
+      "misconceptionId": "bertrand-russell--check-05-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-05-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-05-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-05",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-05-3",
+      "kind": "binary",
+      "prompt": "定摹状词分析包含哪组三项？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-05-3-1",
+          "text": "命名、联想与修辞",
+          "feedback": "错误：“命名、联想与修辞”不符合本课证据；应选择“存在、唯一性与对唯一对象的述谓”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-05-3-2",
+          "text": "存在、唯一性与对唯一对象的述谓",
+          "feedback": "正确：“存在、唯一性与对唯一对象的述谓”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-05-3-2",
+      "misconceptionId": "bertrand-russell--check-05-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-05-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-05",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-05-4",
+      "kind": "binary",
+      "prompt": "若删除唯一性条件会怎样？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-05-4-1",
+          "text": "不再等同于“这个 F 是 G”的分析",
+          "feedback": "正确：“不再等同于“这个 F 是 G”的分析”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-05-4-2",
+          "text": "仍完整保留原命题的逻辑条件",
+          "feedback": "错误：“仍完整保留原命题的逻辑条件”不符合本课证据；应选择“不再等同于“这个 F 是 G”的分析”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-05-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-05-4-1",
+      "misconceptionId": "bertrand-russell--check-05-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-05-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-05-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-05",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-06-1",
+      "kind": "binary",
+      "prompt": "空摹状句为何可被分析为假？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-06-1-1",
+          "text": "因为其存在条件失败",
+          "feedback": "正确：“因为其存在条件失败”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-06-1-2",
+          "text": "因为必须先承认一个非存在对象",
+          "feedback": "错误：“因为必须先承认一个非存在对象”不符合本课证据；应选择“因为其存在条件失败”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-06-1-1",
+      "misconceptionId": "bertrand-russell--check-06-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-06-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-06",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-06-2",
+      "kind": "binary",
+      "prompt": "这个例子区分了什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-06-2-1",
+          "text": "真假与所有量化结构无关",
+          "feedback": "错误：“真假与所有量化结构无关”不符合本课证据；应选择“表面语法主词与逻辑形式”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-06-2-2",
+          "text": "表面语法主词与逻辑形式",
+          "feedback": "正确：“表面语法主词与逻辑形式”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-06-2-2",
+      "misconceptionId": "bertrand-russell--check-06-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-06-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-06-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-06",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-06-3",
+      "kind": "binary",
+      "prompt": "为什么否定摹状句可能有两种读法？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-06-3-1",
+          "text": "因为每个词都同时真假",
+          "feedback": "错误：“因为每个词都同时真假”不符合本课证据；应选择“否定可取整个摹状结构或只取其中述谓为辖域”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-06-3-2",
+          "text": "否定可取整个摹状结构或只取其中述谓为辖域",
+          "feedback": "正确：“否定可取整个摹状结构或只取其中述谓为辖域”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-06-3-2",
+      "misconceptionId": "bertrand-russell--check-06-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-06-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-06",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-06-4",
+      "kind": "binary",
+      "prompt": "primary/secondary occurrence 用来区分什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-06-4-1",
+          "text": "摹状词与其他算子的辖域关系",
+          "feedback": "正确：“摹状词与其他算子的辖域关系”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-06-4-2",
+          "text": "作者与读者的社会身份",
+          "feedback": "错误：“作者与读者的社会身份”不符合本课证据；应选择“摹状词与其他算子的辖域关系”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-on-denoting-1905"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-06-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-06-4-1",
+      "misconceptionId": "bertrand-russell--check-06-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-on-denoting-1905"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-06-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-06-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-06",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-07-1",
+      "kind": "binary",
+      "prompt": "亲知的核心条件是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-07-1-1",
+          "text": "直接觉察而不以推论为中介",
+          "feedback": "正确：“直接觉察而不以推论为中介”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-07-1-2",
+          "text": "先证明对象的全部性质",
+          "feedback": "错误：“先证明对象的全部性质”不符合本课证据；应选择“直接觉察而不以推论为中介”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-07-1-1",
+      "misconceptionId": "bertrand-russell--check-07-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-07-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-07",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-07-2",
+      "kind": "binary",
+      "prompt": "亲知是否等于知道对象的一切真理？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-07-2-1",
+          "text": "等于；直接觉察自动给出所有命题",
+          "feedback": "错误：“等于；直接觉察自动给出所有命题”不符合本课证据；应选择“不等于；它是直接关系而非全知”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-07-2-2",
+          "text": "不等于；它是直接关系而非全知",
+          "feedback": "正确：“不等于；它是直接关系而非全知”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-07-2-2",
+      "misconceptionId": "bertrand-russell--check-07-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-07-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-07-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-07",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-07-3",
+      "kind": "binary",
+      "prompt": "下列哪项属于 1912 年亲知讨论？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-07-3-1",
+          "text": "中立材料已彻底取代全部亲知关系",
+          "feedback": "错误：“中立材料已彻底取代全部亲知关系”不符合本课证据；应选择“感觉材料与共相等亲知对象”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-07-3-2",
+          "text": "感觉材料与共相等亲知对象",
+          "feedback": "正确：“感觉材料与共相等亲知对象”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-07-3-2",
+      "misconceptionId": "bertrand-russell--check-07-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-07-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-07",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-07-4",
+      "kind": "binary",
+      "prompt": "为什么要标明 1912 年时期？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-07-4-1",
+          "text": "罗素后来的心灵理论发生变化",
+          "feedback": "正确：“罗素后来的心灵理论发生变化”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-07-4-2",
+          "text": "因为罗素一生从未修改认识论",
+          "feedback": "错误：“因为罗素一生从未修改认识论”不符合本课证据；应选择“罗素后来的心灵理论发生变化”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-07-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-07-4-1",
+      "misconceptionId": "bertrand-russell--check-07-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-07-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-07-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-07",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-08-1",
+      "kind": "binary",
+      "prompt": "描述知识依赖什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-08-1-1",
+          "text": "亲知材料与关于它们的真理",
+          "feedback": "正确：“亲知材料与关于它们的真理”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-08-1-2",
+          "text": "对目标对象的直接亲知",
+          "feedback": "错误：“对目标对象的直接亲知”不符合本课证据；应选择“亲知材料与关于它们的真理”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-08-1-1",
+      "misconceptionId": "bertrand-russell--check-08-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-08-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-08",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-08-2",
+      "kind": "binary",
+      "prompt": "由描述知道某物是否要求直接亲知它？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-08-2-1",
+          "text": "要求；否则任何存在判断都不可能",
+          "feedback": "错误：“要求；否则任何存在判断都不可能”不符合本课证据；应选择“不要求；可由描述与真理抵达”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-08-2-2",
+          "text": "不要求；可由描述与真理抵达",
+          "feedback": "正确：“不要求；可由描述与真理抵达”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-08-2-2",
+      "misconceptionId": "bertrand-russell--check-08-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-08-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-08-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-08",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-08-3",
+      "kind": "binary",
+      "prompt": "描述在公共知识中起什么作用？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-08-3-1",
+          "text": "消除一切对真理的需要",
+          "feedback": "错误：“消除一切对真理的需要”不符合本课证据；应选择“把不同人的亲知材料组织到可共享对象上”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-08-3-2",
+          "text": "把不同人的亲知材料组织到可共享对象上",
+          "feedback": "正确：“把不同人的亲知材料组织到可共享对象上”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-08-3-2",
+      "misconceptionId": "bertrand-russell--check-08-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-08-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-08",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-08-4",
+      "kind": "binary",
+      "prompt": "私人经验与公共知识的关系如何？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-08-4-1",
+          "text": "描述可在两者之间搭桥",
+          "feedback": "正确：“描述可在两者之间搭桥”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-08-4-2",
+          "text": "两者绝对隔绝，无法相连",
+          "feedback": "错误：“两者绝对隔绝，无法相连”不符合本课证据；应选择“描述可在两者之间搭桥”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-acquaintance-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-08-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-08-4-1",
+      "misconceptionId": "bertrand-russell--check-08-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-acquaintance-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-08-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-08-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-08",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-09-1",
+      "kind": "binary",
+      "prompt": "为什么经验不能演绎证明归纳？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-09-1-1",
+          "text": "为经验作保证会再次使用归纳",
+          "feedback": "正确：“为经验作保证会再次使用归纳”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-09-1-2",
+          "text": "因为经验从不包含任何重复",
+          "feedback": "错误：“因为经验从不包含任何重复”不符合本课证据；应选择“为经验作保证会再次使用归纳”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-09-1-1",
+      "misconceptionId": "bertrand-russell--check-09-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-09-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-09",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-09-2",
+      "kind": "binary",
+      "prompt": "归纳原则在 1912 年文本中是什么地位？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-09-2-1",
+          "text": "由纯逻辑证明的定理",
+          "feedback": "错误：“由纯逻辑证明的定理”不符合本课证据；应选择“科学期待所依赖但非逻辑必真的原则”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-09-2-2",
+          "text": "科学期待所依赖但非逻辑必真的原则",
+          "feedback": "正确：“科学期待所依赖但非逻辑必真的原则”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-09-2-2",
+      "misconceptionId": "bertrand-russell--check-09-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-09-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-09-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-09",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-09-3",
+      "kind": "binary",
+      "prompt": "更多无反例观察通常带来什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-09-3-1",
+          "text": "把概括变成逻辑必然",
+          "feedback": "错误：“把概括变成逻辑必然”不符合本课证据；应选择“提高概括的概率性可信度”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-09-3-2",
+          "text": "提高概括的概率性可信度",
+          "feedback": "正确：“提高概括的概率性可信度”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-09-3-2",
+      "misconceptionId": "bertrand-russell--check-09-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-09-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-09",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-09-4",
+      "kind": "binary",
+      "prompt": "罗素的归纳怀疑要求什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-09-4-1",
+          "text": "承认非演绎的不确定性而仍可形成合理期待",
+          "feedback": "正确：“承认非演绎的不确定性而仍可形成合理期待”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-09-4-2",
+          "text": "在没有确定性时停止一切判断",
+          "feedback": "错误：“在没有确定性时停止一切判断”不符合本课证据；应选择“承认非演绎的不确定性而仍可形成合理期待”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-problems-induction-1912"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-09-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-09-4-1",
+      "misconceptionId": "bertrand-russell--check-09-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-problems-induction-1912"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-09-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-09-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-09",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-10-1",
+      "kind": "binary",
+      "prompt": "事实与命题如何区分？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-10-1-1",
+          "text": "事实使命题真或假，命题是可断言的内容",
+          "feedback": "正确：“事实使命题真或假，命题是可断言的内容”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-10-1-2",
+          "text": "事实只是写在纸上的真句子",
+          "feedback": "错误：“事实只是写在纸上的真句子”不符合本课证据；应选择“事实使命题真或假，命题是可断言的内容”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-10-1-1",
+      "misconceptionId": "bertrand-russell--check-10-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-10-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-10",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-10-2",
+      "kind": "binary",
+      "prompt": "逻辑原子论说世界由什么构成？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-10-2-1",
+          "text": "只有词语，没有非语言事实",
+          "feedback": "错误：“只有词语，没有非语言事实”不符合本课证据；应选择“事实，而非命题清单”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-10-2-2",
+          "text": "事实，而非命题清单",
+          "feedback": "正确：“事实，而非命题清单”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-10-2-2",
+      "misconceptionId": "bertrand-russell--check-10-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-10-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-10-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-10",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-10-3",
+      "kind": "binary",
+      "prompt": "逻辑原子论反对什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-10-3-1",
+          "text": "对复杂命题作任何分析",
+          "feedback": "错误：“对复杂命题作任何分析”不符合本课证据；应选择“把实在视为不可分析的单一整体”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-10-3-2",
+          "text": "把实在视为不可分析的单一整体",
+          "feedback": "正确：“把实在视为不可分析的单一整体”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-10-3-2",
+      "misconceptionId": "bertrand-russell--check-10-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-10-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-10",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-10-4",
+      "kind": "binary",
+      "prompt": "讲演是否声称已列尽所有最终原子？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-10-4-1",
+          "text": "没有；分析方法不等于完成世界目录",
+          "feedback": "正确：“没有；分析方法不等于完成世界目录”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-10-4-2",
+          "text": "有；每个最终原子都已被逐一命名",
+          "feedback": "错误：“有；每个最终原子都已被逐一命名”不符合本课证据；应选择“没有；分析方法不等于完成世界目录”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-facts-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-10-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-10-4-1",
+      "misconceptionId": "bertrand-russell--check-10-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-facts-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-10-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-10-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-10",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-11-1",
+      "kind": "binary",
+      "prompt": "严格逻辑名字指向什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-11-1-1",
+          "text": "说话者亲知的个体",
+          "feedback": "正确：“说话者亲知的个体”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-particulars-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-11-1-2",
+          "text": "任何由传闻得知的对象",
+          "feedback": "错误：“任何由传闻得知的对象”不符合本课证据；应选择“说话者亲知的个体”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-particulars-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-11-1-1",
+      "misconceptionId": "bertrand-russell--check-11-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-particulars-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-11-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-11",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-11-2",
+      "kind": "binary",
+      "prompt": "日常专名在罗素分析中常是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-11-2-1",
+          "text": "必然都是严格逻辑名字",
+          "feedback": "错误：“必然都是严格逻辑名字”不符合本课证据；应选择“缩略的摹状词”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-particulars-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-11-2-2",
+          "text": "缩略的摹状词",
+          "feedback": "正确：“缩略的摹状词”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-particulars-1918"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-11-2-2",
+      "misconceptionId": "bertrand-russell--check-11-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-particulars-1918"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-11-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-11-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-11",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-11-3",
+      "kind": "binary",
+      "prompt": "分子命题如何形成？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-11-3-1",
+          "text": "由一个新专名指向分子对象",
+          "feedback": "错误：“由一个新专名指向分子对象”不符合本课证据；应选择“由真值函项组合命题”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-atomic-1919"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-11-3-2",
+          "text": "由真值函项组合命题",
+          "feedback": "正确：“由真值函项组合命题”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-atomic-1919"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-11-3-2",
+      "misconceptionId": "bertrand-russell--check-11-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-atomic-1919"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-11-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-11",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-11-4",
+      "kind": "binary",
+      "prompt": "为什么不能从“p 或 q”推出分子对象？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-11-4-1",
+          "text": "命题组合不自动要求世界中有同型复合对象",
+          "feedback": "正确：“命题组合不自动要求世界中有同型复合对象”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-atomic-1919"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-11-4-2",
+          "text": "因为析取句永远没有真假",
+          "feedback": "错误：“因为析取句永远没有真假”不符合本课证据；应选择“命题组合不自动要求世界中有同型复合对象”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-pla-atomic-1919"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-11-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-11-4-1",
+      "misconceptionId": "bertrand-russell--check-11-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-pla-atomic-1919"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-11-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-11-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-11",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-12-1",
+      "kind": "binary",
+      "prompt": "中立材料本身是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-12-1-1",
+          "text": "既非心也非物的材料",
+          "feedback": "正确：“既非心也非物的材料”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-12-1-2",
+          "text": "隐藏的精神实体",
+          "feedback": "错误：“隐藏的精神实体”不符合本课证据；应选择“既非心也非物的材料”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-12-1-1",
+      "misconceptionId": "bertrand-russell--check-12-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-12-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-12",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-12-2",
+      "kind": "binary",
+      "prompt": "心与物如何出现？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-12-2-1",
+          "text": "由两种永不相交的实体构成",
+          "feedback": "错误：“由两种永不相交的实体构成”不符合本课证据；应选择“由中立事件的不同组织和因果关系形成”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-12-2-2",
+          "text": "由中立事件的不同组织和因果关系形成",
+          "feedback": "正确：“由中立事件的不同组织和因果关系形成”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-12-2-2",
+      "misconceptionId": "bertrand-russell--check-12-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-12-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-12-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-12",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-12-3",
+      "kind": "binary",
+      "prompt": "1921 年文本批评什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-12-3-1",
+          "text": "一切关于心理事件的研究",
+          "feedback": "错误：“一切关于心理事件的研究”不符合本课证据；应选择“把意识当作基本实体”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-12-3-2",
+          "text": "把意识当作基本实体",
+          "feedback": "正确：“把意识当作基本实体”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-12-3-2",
+      "misconceptionId": "bertrand-russell--check-12-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-12-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-12",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-12-4",
+      "kind": "binary",
+      "prompt": "1921 年方案体现了什么转向？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-12-4-1",
+          "text": "把心与物解释为中立事件的不同组织",
+          "feedback": "正确：“把心与物解释为中立事件的不同组织”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-12-4-2",
+          "text": "继续把意识当作基本实体",
+          "feedback": "错误：“继续把意识当作基本实体”不符合本课证据；应选择“把心与物解释为中立事件的不同组织”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-analysis-mind-1921"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-12-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-12-4-1",
+      "misconceptionId": "bertrand-russell--check-12-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-analysis-mind-1921"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-12-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-12-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-12",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-13-1",
+      "kind": "binary",
+      "prompt": "1940 年工程新增了什么重心？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-13-1-1",
+          "text": "语言行为、知觉判断与事实的关系",
+          "feedback": "正确：“语言行为、知觉判断与事实的关系”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-13-1-2",
+          "text": "完全不考察语言行为与知觉判断",
+          "feedback": "错误：“完全不考察语言行为与知觉判断”不符合本课证据；应选择“语言行为、知觉判断与事实的关系”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-13-1-1",
+      "misconceptionId": "bertrand-russell--check-13-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-13-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-13",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-13-2",
+      "kind": "binary",
+      "prompt": "1940 年文本的问题设置有何特点？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-13-2-1",
+          "text": "因为 1940 年文本完全不谈语言",
+          "feedback": "错误：“因为 1940 年文本完全不谈语言”不符合本课证据；应选择“重建语言行为、知觉判断与事实的关系”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-13-2-2",
+          "text": "重建语言行为、知觉判断与事实的关系",
+          "feedback": "正确：“重建语言行为、知觉判断与事实的关系”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-13-2-2",
+      "misconceptionId": "bertrand-russell--check-13-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-13-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-13-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-13",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-13-3",
+      "kind": "binary",
+      "prompt": "本课证据为何标为 pending？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-13-3-1",
+          "text": "因为书名和章节都不存在",
+          "feedback": "错误：“因为书名和章节都不存在”不符合本课证据；应选择“相关初版页码尚未闭合”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-13-3-2",
+          "text": "相关初版页码尚未闭合",
+          "feedback": "正确：“相关初版页码尚未闭合”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-13-3-2",
+      "misconceptionId": "bertrand-russell--check-13-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-13-2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "bertrand-russell--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--check-13-4",
+      "kind": "binary",
+      "prompt": "pending 状态意味着什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-13-4-1",
+          "text": "内容可供审查但不得声称页码已核定",
+          "feedback": "正确：“内容可供审查但不得声称页码已核定”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-13-4-2",
+          "text": "该来源已经完成逐页核验",
+          "feedback": "错误：“该来源已经完成逐页核验”不符合本课证据；应选择“内容可供审查但不得声称页码已核定”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-inquiry-meaning-1940-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-13-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-13-4-1",
+      "misconceptionId": "bertrand-russell--check-13-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-inquiry-meaning-1940-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-13-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-13-2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "bertrand-russell--lesson-13",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--check-14-1",
+      "kind": "binary",
+      "prompt": "1948 年方案如何推进归纳问题？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-14-1-1",
+          "text": "提出多项科学推论公设",
+          "feedback": "正确：“提出多项科学推论公设”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-14-1-2",
+          "text": "声称有限观察能演绎推出一切定律",
+          "feedback": "错误：“声称有限观察能演绎推出一切定律”不符合本课证据；应选择“提出多项科学推论公设”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-14-1-1",
+      "misconceptionId": "bertrand-russell--check-14-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-14-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-14",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-14-2",
+      "kind": "binary",
+      "prompt": "1948 年方案如何组织科学推论的根据？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-14-2-1",
+          "text": "把有限观察直接变成演绎必然",
+          "feedback": "错误：“把有限观察直接变成演绎必然”不符合本课证据；应选择“用多项公设刻画推论的合理性条件”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-14-2-2",
+          "text": "用多项公设刻画推论的合理性条件",
+          "feedback": "正确：“用多项公设刻画推论的合理性条件”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-14-2-2",
+      "misconceptionId": "bertrand-russell--check-14-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-14-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-14-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-14",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-14-3",
+      "kind": "binary",
+      "prompt": "科学推论公设是否使科学结论成为演绎必然？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-14-3-1",
+          "text": "会；它们消除所有不确定性",
+          "feedback": "错误：“会；它们消除所有不确定性”不符合本课证据；应选择“不会；它们支持可错的推论”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-14-3-2",
+          "text": "不会；它们支持可错的推论",
+          "feedback": "正确：“不会；它们支持可错的推论”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-14-3-2",
+      "misconceptionId": "bertrand-russell--check-14-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-14-2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "bertrand-russell--lesson-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--check-14-4",
+      "kind": "binary",
+      "prompt": "当前定位状态为何不能升级？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-14-4-1",
+          "text": "初版页码尚未闭合",
+          "feedback": "正确：“初版页码尚未闭合”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-14-4-2",
+          "text": "因为已经拥有精确页码和扫描证据",
+          "feedback": "错误：“因为已经拥有精确页码和扫描证据”不符合本课证据；应选择“初版页码尚未闭合”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-human-knowledge-1948-pending"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-14-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-14-4-1",
+      "misconceptionId": "bertrand-russell--check-14-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-human-knowledge-1948-pending"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-14-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-14-2"
+      ],
+      "targetVoices": [
+        "route-synthesis"
+      ],
+      "lessonId": "bertrand-russell--lesson-14",
+      "voice": "route-synthesis"
+    },
+    {
+      "id": "bertrand-russell--check-15-1",
+      "kind": "binary",
+      "prompt": "1915 年文章如何展开伦理判断？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-15-1-1",
+          "text": "从情感出发并区分战争类型",
+          "feedback": "正确：“从情感出发并区分战争类型”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-ethics-war-1915"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-15-1-2",
+          "text": "从永恒数学公理演绎所有战争结论",
+          "feedback": "错误：“从永恒数学公理演绎所有战争结论”不符合本课证据；应选择“从情感出发并区分战争类型”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-ethics-war-1915"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-15-1-1",
+      "misconceptionId": "bertrand-russell--check-15-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-ethics-war-1915"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-15-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-15",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-15-2",
+      "kind": "binary",
+      "prompt": "为何不能用后来声誉覆盖这篇文章？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-15-2-1",
+          "text": "因为罗素从未改变过政治立场",
+          "feedback": "错误：“因为罗素从未改变过政治立场”不符合本课证据；应选择“文中保留了带殖民主义前提的早期判断”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-ethics-war-1915"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-15-2-2",
+          "text": "文中保留了带殖民主义前提的早期判断",
+          "feedback": "正确：“文中保留了带殖民主义前提的早期判断”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-ethics-war-1915"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-15-2-2",
+      "misconceptionId": "bertrand-russell--check-15-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-ethics-war-1915"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-15-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-15-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-15",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-15-3",
+      "kind": "binary",
+      "prompt": "1925 年“好生活”的概括是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-15-3-1",
+          "text": "由服从战争国家并拒绝批判引导",
+          "feedback": "错误：“由服从战争国家并拒绝批判引导”不符合本课证据；应选择“由爱激发并由知识引导”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-what-i-believe-1925"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-15-3-2",
+          "text": "由爱激发并由知识引导",
+          "feedback": "正确：“由爱激发并由知识引导”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-what-i-believe-1925"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-15-3-2",
+      "misconceptionId": "bertrand-russell--check-15-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-what-i-believe-1925"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-15-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-15",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-15-4",
+      "kind": "binary",
+      "prompt": "1925 年文本如何定位伦理关切？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-15-4-1",
+          "text": "以爱、知识、幸福与减少残酷为中心",
+          "feedback": "正确：“以爱、知识、幸福与减少残酷为中心”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-what-i-believe-1925"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-15-4-2",
+          "text": "以服从超自然命令为中心",
+          "feedback": "错误：“以服从超自然命令为中心”不符合本课证据；应选择“以爱、知识、幸福与减少残酷为中心”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-what-i-believe-1925"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-15-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-15-4-1",
+      "misconceptionId": "bertrand-russell--check-15-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-what-i-believe-1925"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-15-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-15-2"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-15",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-16-1",
+      "kind": "binary",
+      "prompt": "《政治理想》如何解释战争的重要根源？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-16-1-1",
+          "text": "占有性冲动与支配欲",
+          "feedback": "正确：“占有性冲动与支配欲”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-political-ideals-1917"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-16-1-2",
+          "text": "纯粹的数学错误",
+          "feedback": "错误：“纯粹的数学错误”不符合本课证据；应选择“占有性冲动与支配欲”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-political-ideals-1917"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-16-1-1",
+      "misconceptionId": "bertrand-russell--check-16-1-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-political-ideals-1917"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-16-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-16",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-16-2",
+      "kind": "binary",
+      "prompt": "它提出什么政治方向？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-16-2-1",
+          "text": "让国家竞争不受任何约束",
+          "feedback": "错误：“让国家竞争不受任何约束”不符合本课证据；应选择“以自由、合作和国际制度限制冲突”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-political-ideals-1917"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-1"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-16-2-2",
+          "text": "以自由、合作和国际制度限制冲突",
+          "feedback": "正确：“以自由、合作和国际制度限制冲突”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-political-ideals-1917"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-1"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-16-2-2",
+      "misconceptionId": "bertrand-russell--check-16-2-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-political-ideals-1917"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-16-1"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-16-1"
+      ],
+      "targetVoices": [
+        "russell-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-16",
+      "voice": "russell-primary"
+    },
+    {
+      "id": "bertrand-russell--check-16-3",
+      "kind": "binary",
+      "prompt": "1955 年宣言的直接关切是什么？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-16-3-1",
+          "text": "证明类型论的技术细节",
+          "feedback": "错误：“证明类型论的技术细节”不符合本课证据；应选择“核战争危险与和平解决争端”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-russell-einstein-1955"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-16-3-2",
+          "text": "核战争危险与和平解决争端",
+          "feedback": "正确：“核战争危险与和平解决争端”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-russell-einstein-1955"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-16-3-2",
+      "misconceptionId": "bertrand-russell--check-16-3-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-russell-einstein-1955"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-16-2"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-16",
+      "voice": "collaborative-primary"
+    },
+    {
+      "id": "bertrand-russell--check-16-4",
+      "kind": "binary",
+      "prompt": "宣言应标为何种声音？",
+      "targetNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "options": [
+        {
+          "id": "bertrand-russell--check-16-4-1",
+          "text": "多位签署者的共同声音",
+          "feedback": "正确：“多位签署者的共同声音”与本课正文和所绑定来源一致。",
+          "isCorrect": true,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-russell-einstein-1955"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-2"
+          ]
+        },
+        {
+          "id": "bertrand-russell--check-16-4-2",
+          "text": "只属于罗素个人的独白",
+          "feedback": "错误：“只属于罗素个人的独白”不符合本课证据；应选择“多位签署者的共同声音”。",
+          "isCorrect": false,
+          "evidenceLinkIds": [
+            "bertrand-russell--src-russell-einstein-1955"
+          ],
+          "claimNodeIds": [
+            "bertrand-russell--claim-16-2"
+          ]
+        }
+      ],
+      "correctOptionId": "bertrand-russell--check-16-4-1",
+      "misconceptionId": "bertrand-russell--check-16-4-misconception",
+      "evidenceLinkIds": [
+        "bertrand-russell--src-russell-einstein-1955"
+      ],
+      "objectNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "promptClaimNodeIds": [
+        "bertrand-russell--claim-16-2"
+      ],
+      "targetParagraphIds": [
+        "bertrand-russell--paragraph-16-2"
+      ],
+      "targetVoices": [
+        "collaborative-primary"
+      ],
+      "lessonId": "bertrand-russell--lesson-16",
+      "voice": "collaborative-primary"
+    }
+  ],
+  "sourceSchemaVersion": "philosophy-route-authoring-v1"
+}

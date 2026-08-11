@@ -1,0 +1,4374 @@
+{
+  "schemaVersion": "1.0",
+  "nodes": [
+    {
+      "id": "aristotle-01-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从分离的形式回到这一个存在者",
+      "explanation": "亚里士多德继承了柏拉图要求知识说明“是什么”的压力，却怀疑把形式安置在个别事物之外能否完成解释。分离的形式即使提供共同名称，也还欠一座桥：它怎样使这个具体事物成为它所是？于是追问从另一个世界的范型转向述说关系。许多东西能够述说一个主体，主体却不以同样方式述说别的东西。第一实体指向具体的人、马和植物；范畴则区分我们能从哪些基本方面说它。这里没有一次性给出成熟体系，而是打开一个贯穿后续讨论的难题：形式、质料、定义与个体如何共同承担实体性。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-01-categories",
+        "aristotle-01-metaphysics"
+      ],
+      "abilityIds": [
+        "能说明分离形式为何留下个别事物如何被解释的缺口。",
+        "能区分述说主体、存在于主体和第一实体的依赖关系。",
+        "能把《范畴篇》的个体优先与Z卷的实体争论放在不同文本任务中。"
+      ]
+    },
+    {
+      "id": "aristotle-02-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "变化要求多少种解释",
+      "explanation": "亚里士多德反对把变化理解为存在从绝对不存在中跃出。他区分承载变化的东西、后来取得的形式和先前的缺失，使“同一事物变得不同”不再自相矛盾。进一步追问原因时，材料、形式、发动来源和所为目标回答不同的为什么。四因不是四次互相竞争的事件，而是完整解释的四个方向。自然目的论把器官、活动和成熟形态联系起来，却不要求种子预先思考计划。目的论不等于万物具有意识意图；它首先说明某种过程为何有规律地趋向这种完成，而不是任何结果。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-02-physics",
+        "aristotle-02-metaphysics"
+      ],
+      "abilityIds": [
+        "能用承载者、形式与缺失说明变化为何不是无中生有。",
+        "能区分四种原因回答的不同为什么，并指出它们怎样互补。",
+        "能在承认功能解释时拒绝意识计划化和事后目的化。"
+      ]
+    },
+    {
+      "id": "aristotle-03-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "尚未实现怎样成为真实可能",
+      "explanation": "潜能不是把任何可想象结果都存进事物内部，而是相对于特定活动、条件和承受者的能力。现实也不只表示时间上已经发生，它还表示活动正在进行、形式已经完成。亚里士多德用建造与正在建造、会看与正在看来指出这组关系。现实在定义上优先，因为潜能要借对应活动说明；在许多生成中，现实的父母、技艺或形式也先于后来实现者。坏结果的能力、理性能力的相反方向以及第一现实与第二现实，使这套区分远比“可能变成实际”更精密。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-03-metaphysics-theta",
+        "aristotle-03-de-anima"
+      ],
+      "abilityIds": [
+        "能把潜能限定为主体、活动、条件和阻碍之间的真实关系。",
+        "能区分取得能力、正在活动与完成形态，并说明现实的多重优先。",
+        "能拒绝把潜能等同概率、愿望或任何逻辑上不矛盾的想象。"
+      ]
+    },
+    {
+      "id": "aristotle-04-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "作为存在的存在与不动的推动者",
+      "explanation": "第一哲学不把“存在”当成最高属，因为实体、性质和关系并不以完全同一方式存在；它研究围绕实体组织的多义统一，以及同一律和不矛盾律这类任何论证已在使用的原则。实体优先又把问题推向最充分的现实。如果天体运动被当作永恒，发动它的根源不能永远停留在尚待实现的能力。Λ卷提出不动的推动者，以欲求对象和思想对象的方式推动而不被推动，并把它描写为思想之思想。这个论证属于亚里士多德宇宙论，不能直接等同后世创造世界、关怀个体的人格神。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-04-being",
+        "aristotle-04-lambda",
+        "aristotle-04-compilation"
+      ],
+      "abilityIds": [
+        "能说明作为存在的存在为何不同于选择一种专门对象。",
+        "能解释存在多义、实体优先与不矛盾律的实践反驳结构。",
+        "能重建不动的推动者论证，并区分它与后世创造神概念。"
+      ]
+    },
+    {
+      "id": "aristotle-05-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "活着不是灵魂住进身体",
+      "explanation": "《论灵魂》把灵魂界定为具有生命潜能的自然有机身体的第一现实。身体与灵魂不是两件完整事物偶然并置，正如眼球材料与看见能力共同构成能看的眼；尸体只在同名意义上仍是人的身体。营养、知觉、欲望、运动和理智能力形成层级，较高生命保留较低能力。知觉是感官在不接收材料的情况下取得可感形式，想象则使对象不在场时仍有表象。理智把握可理解形式，但III.5关于主动理智的极短文字没有封闭它是否分离、个人或不朽的争议。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-05-soul",
+        "aristotle-05-parva"
+      ],
+      "abilityIds": [
+        "能用第一现实说明灵魂与有机身体为何不是两个完整实体。",
+        "能区分营养、知觉、想象和理智能力及其相互依赖。",
+        "能把主动理智保留为文本解释争议，而不提前宣布个人不朽。"
+      ]
+    },
+    {
+      "id": "aristotle-06-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "从词项到必然说明",
+      "explanation": "《范畴篇》分析不组合的词项，《解释篇》把能真假的肯定与否定命题分开，《前分析篇》研究三段论：若若干东西被设定，另一个不同命题因其如此设定而必然跟随。《后分析篇》进一步要求科学证明从真实、首要、较可知、先在并作为结论原因的前提出发。有效性只保证结论在前提为真时不能为假，不保证前提真实，更不保证它们说出原因。原理不能由同一科学无限证明；经验、记忆和归纳使普遍项在心中稳定，但这段取得过程不是简单枚举。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-06-categories",
+        "aristotle-06-analytics",
+        "aristotle-06-organon"
+      ],
+      "abilityIds": [
+        "能区分词项、真假命题、有效三段论和科学证明。",
+        "能说明中项何时只是连接，何时还表达结论成立的原因。",
+        "能识别循环、无限后退、跨学科借权威和相关冒充原因。"
+      ]
+    },
+    {
+      "id": "aristotle-07-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "幸福是一种完整生活的活动",
+      "explanation": "《尼各马可伦理学》从行动都有所为出发，寻找为自身而选且使生活自足的幸福。幸福不是一阵满意感，而是灵魂依德性的活动，在完整生活中展开。功能论从人的特有活动追问人的善，把有理性的活动与良好实行相连。品格德性由反复行动形成，选择则是经过思量的欲求。中道不是算术中央，更不是凡事折中；它是相对于我们、由正确理由和实践智慧确定的恰当情感与行动。有些行为按其种类就是错的，不存在恰当剂量。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-07-ethics",
+        "aristotle-07-method"
+      ],
+      "abilityIds": [
+        "能把幸福说明为完整生活中的德性活动，而非短暂满足或静态财物。",
+        "能重建功能论、习惯、选择和实践智慧之间的推理关系。",
+        "能说明中道不是凡事折中，并识别没有中道的错误行为。"
+      ]
+    },
+    {
+      "id": "aristotle-08-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "知道善却没有做到",
+      "explanation": "亚里士多德接受意志薄弱现象，却试图区分知识的持有与运用。醉者能背诵道理却未让道理在行动中工作；普遍判断还必须和“这就是此类情形”的具体小前提结合，欲望可能扭曲后者。快乐也不能一概当作坏，因为无阻碍活动有其相称快乐，问题在活动是否善。友爱进一步显示善生活不是孤立自足：有用、快乐与德性友爱按所爱对象不同，最完整的朋友彼此爱对方本身。X卷把沉思称为最高幸福，却又承认人需要朋友、身体和城邦，由此留下实践与沉思的张力。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-08-akrasia",
+        "aristotle-08-friendship",
+        "aristotle-08-common-books"
+      ],
+      "abilityIds": [
+        "能以知识持有、实际运用和具体小前提分析意志薄弱。",
+        "能按活动品质评价快乐，并区分三种友爱的所爱对象。",
+        "能保留沉思生活与共同实践之间的文本张力。"
+      ]
+    },
+    {
+      "id": "aristotle-09-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "谁能作为公民共同统治",
+      "explanation": "《政治学》从家庭联合成村落、村落形成城邦的生成线索，转向城邦在目的上先于个人：只有完整共同体能支持自足和善生活。人是政治动物，不只因群居，还因言说能显明利害与正义。公民由参与审议和司法界定，其德性随政体而变。政体按统治者人数与是否追求共同利益分成正体和偏离形式，并在现实条件中寻找混合安排。然而家庭分析把主人、丈夫和父亲的统治自然化，尤其自然奴隶论以所谓理性能力不足为支配根据。它既把被迫处境当成本性证据，又无法可靠识别所谓自然奴隶，规范上也否认人的平等自由，必须明确拒绝。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-09-polis",
+        "aristotle-09-constitutions",
+        "aristotle-09-slavery-boundary"
+      ],
+      "abilityIds": [
+        "能说明家庭、城邦、言说与善生活之间的推理关系。",
+        "能用参与审议司法理解公民，并按共同利益分析政体。",
+        "能具体指出自然奴隶论的识别循环、经验错误和规范失败。"
+      ]
+    },
+    {
+      "id": "aristotle-10-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "说服、悲剧与净化的未决含义",
+      "explanation": "《修辞学》把修辞规定为发现每一情形中可用的说服手段。说话者呈现的品格、听众的情感状态和言辞中的论证共同作用；修辞三段论从公众可接受前提出发，省略部分仍须可补足。情感不是与理性无关的噪音，因为恐惧、怜悯和愤怒包含对处境的评价，但也可被误导。《诗学》把悲剧界定为对完整而严肃行动的摹仿，以情节而非人物传记为灵魂。诗比历史更哲学，因为它处理按可能或必然会发生的类型。净化只在定义处简短出现，其医学、情感、认知和伦理解释必须保持开放。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-10-rhetoric",
+        "aristotle-10-poetics",
+        "aristotle-10-poetics-loss"
+      ],
+      "abilityIds": [
+        "能区分信誉、情感和言辞理由，并补出修辞三段论的省略前提。",
+        "能说明悲剧情节为何摹仿行动类型而非复制个别事实。",
+        "能把净化保留为受传世文本限制的多解争议。"
+      ]
+    },
+    {
+      "id": "aristotle-11-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "自然研究的方法与历史边界",
+      "explanation": "亚里士多德的自然研究先收集动物差异、生活方式和部件，再寻求材料、发动、形式与功能原因。研究对象不同，所需精度也不同；不能要求动物材料像数学定义一样无例外。他反对只看外表高贵的动物，认为每种自然物都显出组织。比较方法与功能提问具有持久价值，但观察条件、报告来源和目的论前提限制结论。雌性被称为残缺雄性、若干动物被说成自生、社会等级被自然化，均不能因历史影响而保留为真。方法贡献与结论真值必须逐项分开。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-11-parts",
+        "aristotle-11-history",
+        "aristotle-11-errors"
+      ],
+      "abilityIds": [
+        "能说明观察、分类、材料限制和功能原因怎样在自然研究中相连。",
+        "能分开直接观察、报告、概括与机制推断的证据强度。",
+        "能同时承认方法贡献并拒绝性别等级、自生说等错误结论。"
+      ]
+    },
+    {
+      "id": "aristotle-12-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "一个名字如何变成多种传统",
+      "explanation": "现存著作不是亚里士多德全部写作，许多公开作品已失，留下的文本常有压缩、重复和层次接缝。安德罗尼柯整理语料的传统报告提醒我们，卷名与次序含后世编辑。希腊注释家把难点系统化，阿拉伯语世界在翻译、改写与新柏拉图材料交织中发展法拉比、阿维森纳和阿威罗伊的不同亚里士多德；拉丁世界经翻译和大学制度形成经院体系，阿奎那的综合既继承又改造。文艺复兴回到希腊文、近代科学反抗某些学院权威，仍继续与因果、德性和形式问题对话。亚里士多德主义因此是复数接受史，不是封存的作者声音；同名传统必须逐项说明文本、语言、制度和新增前提。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-12-corpus",
+        "aristotle-12-aquinas",
+        "aristotle-12-reception",
+        "aristotle-12-project"
+      ],
+      "abilityIds": [
+        "能区分现存文本、讲稿层次、卷次整理和现代连续重构。",
+        "能说明希腊、阿拉伯、拉丁和近代接受如何加入不同前提。",
+        "能为原文、伪作、注释、神学综合和当代使用标明身份。"
+      ]
+    },
+    {
+      "id": "aristotle-13-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "运动怎样连续而又能够计量",
+      "explanation": "《物理学》III–VI填补自然原则与潜能—现实之间的关键中介。运动是潜在者就其为潜在者的现实：砖已经能成墙而尚未完成，正在建造正是能力处于实现过程。无限主要以不断可以再取的潜在方式存在；处所是包围物体的第一不动界限，虚空则被否定为独立容器。时间是就先后而言的运动之数，既依赖可计数的变化，也不能与任何一次变化等同。连续体能够被无穷再分，却不因此由实际无穷多个不可分点拼成。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-13-motion",
+        "aristotle-13-infinite",
+        "aristotle-13-place-time",
+        "aristotle-13-continuity"
+      ],
+      "abilityIds": [
+        "能用潜在者之为潜在者的现实说明运动，而不把定义化成同义反复。",
+        "能区分无限、处所、虚空与时间各自回答的问题，并重建时间依赖前后与计数的结构。",
+        "能用可无限分、连续与实际划分区分来回应芝诺式难题，同时保留解释争议。"
+      ]
+    },
+    {
+      "id": "aristotle-14-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "辩证法检验什么而不证明什么",
+      "explanation": "《论题篇》的辩证推理从多数人、贤者或其中著名者认可的endoxa出发，在问答中提出问题、选择命题、要求对方承诺并检验后果。它可训练论证、处理意见分歧，也能通向各门科学的原则，因为原则不能由本门科学自身再证明；但通向和检验不等于以endoxa科学地证明原则。《辩谬篇》进一步分析同名异义、合取分取、依附偶性、偷换问题等表面反驳。L06关于经验—记忆—归纳—理智的第一原理取得保持不变，本篇只澄清辩证审查与证明的边界。古典雅典的正式政治参与资格另属制度史层：公民大会、议事会和陪审职能由成年男性公民垄断，妇女、外侨与被奴役者处在不同的排除位置；这项背景不能反过来由《论题篇》定位背书。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-14-topics-start",
+        "aristotle-14-topics-use",
+        "aristotle-14-topics-practice",
+        "aristotle-14-refutations",
+        "aristotle-14-athenian-participation-history"
+      ],
+      "abilityIds": [
+        "能区分辩证推理的公认意见起点与科学证明的真实、首要且因果性的前提。",
+        "能说明问题、命题、攻守问答和反例检验如何发现或测试原则，而不重复L06的第一原理取得。",
+        "能识别同名异义、偷换问题与似是而非反驳，并把《辩谬篇》用于论证诊断。"
+      ]
+    },
+    {
+      "id": "aristotle-15-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "朋友、共同活动与沉思生活",
+      "explanation": "L08已标出三类友爱和沉思—实践张力，本篇让这条伦理后半主线独立承重。善人把理性欲求与自身生活组织为可爱的统一，朋友因而可作为“另一个自己”：彼此愿对方因其自身而善，并在共同活动中实际认识和实现善。友爱与正义都随共同体关系伸缩，城邦不能只靠交换维持。X卷则以沉思最连续、最自足、因自身而可欲且最接近神性，主张其最高性；但沉思者仍是有身体、朋友和政治条件的人。现代研究并无单一裁决：课程选取排他/主导目的与包容/复合善两类代表性重建；它们须同时解释I卷的完整与自足、友爱和实践德性，以及X卷对沉思的最高排序。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-15-friendship",
+        "aristotle-15-self-friend",
+        "aristotle-15-justice-community",
+        "aristotle-15-contemplation",
+        "aristotle-15-kraut-dominant-end",
+        "aristotle-15-ackrill-inclusive-end",
+        "aristotle-15-walker-contemplative-life"
+      ],
+      "abilityIds": [
+        "能从自爱、另一个自己与共同活动重建完善友爱的结构，并区分有用和快乐友爱。",
+        "能说明友爱与正义随共同体形式共同伸缩，而不把古代城邦成员资格当现代规范。",
+        "能重建沉思生活的活动、自足、连续、神性与闲暇论证，并评价其与外在条件和实践生活的竞争解释。"
+      ]
+    },
+    {
+      "id": "aristotle-16-teaching",
+      "kind": "claim",
+      "status": "teachingReady",
+      "readerTitle": "政体保存、教育与闲暇的制度化",
+      "explanation": "《政治学》V–VIII把政体分类推进到变革、保存与最佳生活的制度条件。政变常由平等或不平等的竞争观念、利益和荣誉分配触发，小违法累积也能改变制度。保存政体不能只靠压制，须使法律、官职与财产安排不把一方逼到无份。VI卷比较民主和寡头的会议、官职、法院与选任方式；VII卷把最佳生活落实到人口、疆域、财产和职能安排；VIII卷要求公共教育训练公民善用闲暇，并讨论音乐的教育、净化与高尚消遣功能。劳动者和被奴役者的职能排除主要由VII卷承担；妇女则须另看I.13对家庭统治与德性的性别分层、III卷对公民身份的界定，以及现代研究对其教育能力与政治位置的争论。制度分析可继承，这三类不同机制的排除均必须拒绝。",
+      "identity": "project-interpretation",
+      "evidenceLinkIds": [
+        "aristotle-16-revolution",
+        "aristotle-16-organization",
+        "aristotle-16-best-life",
+        "aristotle-16-education",
+        "aristotle-16-women-household-citizenship",
+        "aristotle-16-connell-women-research"
+      ],
+      "abilityIds": [
+        "能从不平等感、利益冲突与细小制度变化分析政变，并区分政体原则与保存手段。",
+        "能比较民主与寡头制度组织及混合安排，而不重复L09的公民定义或自然奴隶论。",
+        "能把最佳生活落实到财产、人口、疆域、教育、音乐和闲暇安排，并明确其排除性历史边界。"
+      ]
+    }
+  ],
+  "evidenceLinks": [
+    {
+      "id": "aristotle-01-categories",
+      "workId": "Aristotle, Categories",
+      "edition": "Bekker, Aristotelis Opera; J. L. Ackrill chapter numbering cross-check",
+      "locator": "1, 1a20–1b9; 2, 1b10–2a4; 4–5, 1b25–4b19",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-01-metaphysics",
+      "workId": "Aristotle, Metaphysics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "A.6, 987a29–988a17; Z.1, 1028a10–1028b7; Z.13, 1038b8–1039a23",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-02-physics",
+      "workId": "Aristotle, Physics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.7, 189b30–191a22; II.1–3, 192b8–195a26; II.8, 198b10–199b33",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-02-metaphysics",
+      "workId": "Aristotle, Metaphysics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Z.3, 1028b33–1029a34; Z.7–9, 1032a12–1034a8; H.1–6, 1042a4–1045b23",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-03-metaphysics-theta",
+      "workId": "Aristotle, Metaphysics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Θ.1–3, 1045b27–1047a29; Θ.6–9, 1048a25–1051a33",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-03-de-anima",
+      "workId": "Aristotle, De Anima",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "II.1, 412a6–412b9; II.5, 416b32–418a6",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-04-being",
+      "workId": "Aristotle, Metaphysics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Γ.1–3, 1003a21–1005b34; Z.1, 1028a10–1028b7",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-04-lambda",
+      "workId": "Aristotle, Metaphysics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Λ.6–9, 1071b3–1075a10",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-04-compilation",
+      "workId": "Corpus Aristotelicum, title and ordering of Metaphysics",
+      "edition": "Modern critical convention following the transmitted corpus",
+      "locator": "Books Α–Ν; conventional title attested by the later editorial tradition",
+      "locatorVerified": true,
+      "identity": "compilation-order"
+    },
+    {
+      "id": "aristotle-05-soul",
+      "workId": "Aristotle, De Anima",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "II.1–4, 412a3–416b31; II.5–12, 416b32–424b18; III.3–5, 427a17–430a25",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-05-parva",
+      "workId": "Aristotle, De Memoria et Reminiscentia",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "1, 449b4–451a17",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-06-categories",
+      "workId": "Aristotle, Categories and De Interpretatione",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Categories 1–5, 1a1–4b19; De Interpretatione 1–4, 16a1–17a7",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-06-analytics",
+      "workId": "Aristotle, Prior Analytics and Posterior Analytics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Prior Analytics I.1–2, 24a10–25a36; Posterior Analytics I.2, 71b9–72b4; I.13, 78a22–79a16; II.19, 99b15–100b17",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-06-organon",
+      "workId": "Corpus Aristotelicum, Organon arrangement",
+      "edition": "Later Peripatetic and late-antique ordering",
+      "locator": "Categories through Sophistical Refutations, conventional sequence",
+      "locatorVerified": true,
+      "identity": "compilation-order"
+    },
+    {
+      "id": "aristotle-07-ethics",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.1–7, 1094a1–1098a20; II.1–6, 1103a14–1107a8; III.1–5, 1109b30–1115a3; VI.5–13, 1140a24–1145a11",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-07-method",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.3, 1094b11–1095a13; I.6, 1096a11–1097a14",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-08-akrasia",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VII.1–10, 1145a15–1152a36; VII.11–14, 1152a36–1154b34",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-08-friendship",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VIII.1–6, 1155a3–1158b11; IX.4–9, 1166a1–1170b19; X.6–8, 1176a30–1179a33",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-08-common-books",
+      "workId": "Nicomachean Ethics / Eudemian Ethics common books",
+      "edition": "Modern critical identification",
+      "locator": "NE V–VII correspond to EE IV–VI in the transmitted corpus",
+      "locatorVerified": true,
+      "identity": "compilation-order"
+    },
+    {
+      "id": "aristotle-09-polis",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.1–2, 1252a1–1253a39; I.3–7, 1253b1–1255b40; III.1–7, 1274b32–1279b10",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-09-constitutions",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "III.6–13, 1278b6–1284b34; IV.1–12, 1288b10–1297a13; VII.1–3, 1323a14–1325b32",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-09-slavery-boundary",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.5–7, 1254a17–1255b15; I.13, 1259b18–1260b24",
+      "locatorVerified": true,
+      "identity": "historical-boundary"
+    },
+    {
+      "id": "aristotle-10-rhetoric",
+      "workId": "Aristotle, Rhetoric",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.1–2, 1354a1–1356a20; II.1, 1377b20–1378a30; III.1–2, 1403b6–1405a15",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-10-poetics",
+      "workId": "Aristotle, Poetics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "1–6, 1447a8–1450b20; 9, 1451a36–1451b32; 13–14, 1452b28–1454a15",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-10-poetics-loss",
+      "workId": "Aristotle, Poetics, transmitted textual state",
+      "edition": "Modern critical consensus on the incomplete transmission",
+      "locator": "Poetics 6, 1449b21–31; surviving treatise chiefly on tragedy and epic",
+      "locatorVerified": true,
+      "identity": "compilation-order"
+    },
+    {
+      "id": "aristotle-11-parts",
+      "workId": "Aristotle, Parts of Animals",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.1, 639a1–642b4; I.5, 644b22–645a36",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-11-history",
+      "workId": "Aristotle, Historia Animalium and Generation of Animals",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Historia Animalium I.1, 486a5–487a10; Generation of Animals II.3, 736b27–737a18; III.11, 762a8–763a16",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-11-errors",
+      "workId": "Aristotle, Generation of Animals and Historia Animalium",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "Generation of Animals II.3, 737a18–737b7; Historia Animalium V–VI, selected reproductive reports",
+      "locatorVerified": true,
+      "identity": "historical-boundary"
+    },
+    {
+      "id": "aristotle-12-corpus",
+      "workId": "Porphyry, Life of Plotinus",
+      "edition": "Loeb / public-domain Greek and English tradition",
+      "locator": "24",
+      "locatorVerified": true,
+      "identity": "compilation-order"
+    },
+    {
+      "id": "aristotle-12-aquinas",
+      "workId": "Thomas Aquinas, Commentary on Aristotle's Metaphysics",
+      "edition": "Latin commentary tradition",
+      "locator": "Proemium; Book XII, lessons 5–12",
+      "locatorVerified": true,
+      "identity": "later-reception"
+    },
+    {
+      "id": "aristotle-12-reception",
+      "workId": "Stanford Encyclopedia of Philosophy, Aristotle and Aristotle in the Renaissance",
+      "edition": "Current scholarly reference entries",
+      "locator": "Aristotle §§1–4, 14; Renaissance entry §§1–5",
+      "locatorVerified": true,
+      "identity": "later-reception"
+    },
+    {
+      "id": "aristotle-12-project",
+      "workId": "Aristotle long-form editorial reconstruction",
+      "edition": "This package, version 1.0",
+      "locator": "Units 1–12 identity fields and source closure",
+      "locatorVerified": true,
+      "identity": "project-interpretation"
+    },
+    {
+      "id": "aristotle-13-motion",
+      "workId": "Aristotle, Physics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "III.1–3, 200b12–202b29",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-13-infinite",
+      "workId": "Aristotle, Physics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "III.4–8, 202b30–208a24",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-13-place-time",
+      "workId": "Aristotle, Physics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "IV.1–14, 208a26–224a17",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-13-continuity",
+      "workId": "Aristotle, Physics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "V.1–4, 224a21–228b10; VI.1–10, 231a21–241b20",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-14-topics-start",
+      "workId": "Aristotle, Topics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.1–2, 100a18–101b4",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-14-topics-use",
+      "workId": "Aristotle, Topics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.10–11, 104a3–105a9; I.14, 105b12–106a1",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-14-topics-practice",
+      "workId": "Aristotle, Topics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VIII.1–5, 155b3–159a24; VIII.11–14, 161a16–164b19",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-14-refutations",
+      "workId": "Aristotle, Sophistical Refutations",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "1–7, 164a20–169b17; 34, 183a37–184b8",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-15-friendship",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VIII.1–6, 1155a3–1158b11",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-15-self-friend",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "IX.4–9, 1166a1–1170b19",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-15-justice-community",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VIII.9–12, 1159b25–1162a33",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-15-contemplation",
+      "workId": "Aristotle, Nicomachean Ethics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "X.6–9, 1176a30–1181b23",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-16-revolution",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "V.1–9, 1301a19–1310a36",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-16-organization",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VI.1–8, 1316b31–1323a10",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-16-best-life",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VII.1–3, 1323a14–1325b32; VII.4–12, 1325b33–1331b24",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-16-education",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "VII.13–17, 1331b24–1337a7; VIII.1–7, 1337a11–1342b34",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-14-athenian-participation-history",
+      "workId": "David M. Pritchard, The Position of Attic Women in Democratic Athens",
+      "edition": "Greece & Rome 61.2 (2014)",
+      "locator": "§2, ‘A man's world’, pp. 174–177",
+      "locatorVerified": true,
+      "identity": "historical-research"
+    },
+    {
+      "id": "aristotle-15-kraut-dominant-end",
+      "workId": "Richard Kraut, Aristotle on the Human Good",
+      "edition": "Princeton University Press, 1989",
+      "locator": "Introduction and Part III, ‘The Hierarchy of Ends’, pp. 197–266",
+      "locatorVerified": true,
+      "identity": "later-reception"
+    },
+    {
+      "id": "aristotle-15-ackrill-inclusive-end",
+      "workId": "J. L. Ackrill, Aristotle on Eudaimonia",
+      "edition": "Proceedings of the British Academy 60 (1974)",
+      "locator": "pp. 3–23, especially pp. 15–22",
+      "locatorVerified": true,
+      "identity": "later-reception"
+    },
+    {
+      "id": "aristotle-15-walker-contemplative-life",
+      "workId": "Matthew D. Walker, Aristotle on the Uses of Contemplation",
+      "edition": "Cambridge University Press, 2018",
+      "locator": "ch. 1, §2.2 and notes 5, 19 (exclusivist and inclusivist readings)",
+      "locatorVerified": true,
+      "identity": "later-reception"
+    },
+    {
+      "id": "aristotle-16-women-household-citizenship",
+      "workId": "Aristotle, Politics",
+      "edition": "Bekker, Aristotelis Opera",
+      "locator": "I.13, 1259b18–1260b24; III.1–5, 1274b32–1278b5; VII.16, 1334b29–1336b37",
+      "locatorVerified": true,
+      "identity": "aristotle-text"
+    },
+    {
+      "id": "aristotle-16-connell-women-research",
+      "workId": "Sophia M. Connell, Aristotle on Women: Physiology, Psychology, and Politics",
+      "edition": "Cambridge University Press, 2021",
+      "locator": "Introduction and Methodology, pp. 1–17; discussion of Politics I.13, 1260a13",
+      "locatorVerified": true,
+      "identity": "research"
+    }
+  ],
+  "routes": [
+    {
+      "id": "aristotle-foundations",
+      "version": "1.0",
+      "title": "亚里士多德：从存在的追问到共同生活",
+      "lessonIds": [
+        "aristotle-01",
+        "aristotle-02",
+        "aristotle-03",
+        "aristotle-04",
+        "aristotle-05",
+        "aristotle-06",
+        "aristotle-07",
+        "aristotle-08",
+        "aristotle-09",
+        "aristotle-10",
+        "aristotle-11",
+        "aristotle-12",
+        "aristotle-13",
+        "aristotle-14",
+        "aristotle-15",
+        "aristotle-16"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "aristotle-01",
+      "order": 1,
+      "title": "从分离的形式回到这一个存在者",
+      "depth": "deep",
+      "guidingQuestion": "如果真正可知的形式与可感的个别事物彼此分离，我们怎样说明眼前这个人既是可以认识的人，又是独一而会变化的这一个人？",
+      "coreExplanation": "亚里士多德继承了柏拉图要求知识说明“是什么”的压力，却怀疑把形式安置在个别事物之外能否完成解释。分离的形式即使提供共同名称，也还欠一座桥：它怎样使这个具体事物成为它所是？于是追问从另一个世界的范型转向述说关系。许多东西能够述说一个主体，主体却不以同样方式述说别的东西。第一实体指向具体的人、马和植物；范畴则区分我们能从哪些基本方面说它。这里没有一次性给出成熟体系，而是打开一个贯穿后续讨论的难题：形式、质料、定义与个体如何共同承担实体性。",
+      "sections": [
+        {
+          "heading": "解释为何不能停在另一个世界",
+          "paragraphs": [
+            "柏拉图式追问有一股不可轻视的力量。若我们只说眼前有许多美的、相等的或正义的事物，却不能说明它们为何共享一个名称，判断就会随着实例漂移。知识要求某种稳定的“是什么”，而不只是一次看见。",
+            "困难在于，把稳定形式放到个别事物之外，并不会自动说明个别事物如何分有它。若说一匹马之所以是马，因为另有马本身，仍可追问两者凭什么同名。解释若只复制被解释者，就会把问题向后推迟。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "可以述说与存在于其中",
+          "paragraphs": [
+            "《范畴篇》先区分两种关系。“人”可以述说苏格拉底，因为苏格拉底属于人这一类；某种语法知识存在于苏格拉底之中，却不能像种类那样述说他。前者涉及主体是什么，后者涉及主体具有怎样的状态。",
+            "这一区分把共同性放回语言与存在的实际结构。我们无需先越过个体去寻找另一个人本身，便能说苏格拉底是人；同时也不能把他的苍白、坐姿或知识当作能脱离他独自存在的同类主体。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "第一实体为何取得优先",
+          "paragraphs": [
+            "若没有这一个人或这匹马，“人”“马”的种类就没有承载者，颜色、大小和关系也无处依附。因此具体个体被称为第一实体，不是因为它最容易看见，而是因为其他述说最终依赖它。",
+            "然而优先并不等于孤立。个体若完全没有形式和可定义结构，就只剩无法说出的点；种类若完全脱离个体，又失去存在的落脚处。实体问题从一开始便同时拉向个体性与可理解性。",
+            "树的高度、颜色和位置都真实，只是它们的存在方式要求有某个东西如此高、如此着色或处在此处。若把承担者删去，这些规定便失去可以归属的对象。范畴给出的是存在方式之间的不对称依赖，不是把世界切成真实部分和幻象。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "一棵病树迫使分类承担解释",
+          "paragraphs": [
+            "园丁面对一棵叶片发黄的梨树，可以说它高三米、在围墙左侧、比去年瘦弱。这些判断分别涉及数量、位置、关系和性质，却都围绕同一棵树展开；换掉主体，判断的对象也随之改变。",
+            "若园丁只说“树的形式永恒完好”，便无法说明这一棵为何生病；若只记录斑点而拒绝问它是什么植物，也无法判断正常生长。实例显示，共同形式与具体承载者必须在同一解释里相遇。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "把范畴当成抽屉会失去什么",
+          "paragraphs": [
+            "十范畴常被背成十只互不相干的抽屉：实体、数量、性质、关系、地点、时间、姿态、具有、动作、承受。这样做能帮助记忆，却容易掩盖亚里士多德真正关心的依赖关系。",
+            "同一个表达在不同语境还可能承担不同功能。“健康”可以说身体的状态，也可说食物有益于健康。若把词语机械塞入唯一抽屉，便无法看见多义如何围绕一个核心秩序展开。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "Z卷为何再次打开实体问题",
+          "paragraphs": [
+            "《形而上学》Z卷并未满足于“个体是第一实体”。它列出质料、形式、复合物和本质等候选者，逐一追问哪一种最配得上独立存在、作为主体和可由定义把握。",
+            "这表明《范畴篇》的答案不是所有文本中原封不动的终局。早先的述说框架提供入口，后来更艰难的研究则要解释：若定义主要说出形式，个别复合物的实体性究竟怎样被理解。",
+            "到了Z卷，个体复合物、形式和作为说明对象的本质都各有优先理由。质料形式论因而不是给完成的分类再贴标签，而是要说明具体存在者怎样既保持为同一个，又能获得或失去真实规定。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "作者文本与体系重构之间",
+          "paragraphs": [
+            "传世作品像不同场合留下的研究材料，不像一部由作者亲自排定的现代总论。《范畴篇》与Z卷的语汇和目标并不完全重合，不能假定前者只是后者的简化开场。",
+            "把两处连成连续路线是一种解释工作。它能显示问题如何加深，却必须保留差异：第一实体在早期框架中明显指个体，在Z卷围绕形式、质料和复合物的争论则远未被一句话关闭。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "与柏拉图既分离又相连",
+          "paragraphs": [
+            "亚里士多德并非抛弃形式，而是反对形式以分离方式承担原因。没有“是什么”，经验只是散点；但“是什么”若不能内在说明这个存在者的生成、活动和可毁坏性，也没有完成任务。",
+            "因此两人的分歧不是抽象与具体的简单对立。亚里士多德保留可定义结构的要求，同时逼迫结构进入个体。下一步自然要问：结构怎样与可变化的材料结合，而不把个体撕成两个东西。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从说法转向构成",
+          "paragraphs": [
+            "用较平常的话说，范畴告诉我们能从哪些方向回答“它怎样”，实体问题则问“这些回答围绕谁成立”。但只确定中心仍不够，因为中心本身会长大、受损、修复并消亡。",
+            "变化迫使语言分析走向构成分析。若变前与变后毫无共同者，就不是同一事物改变；若一切都完全不变，变化又成幻象。质料、形式与缺失将承担这个新的压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "个体不是现代意义的裸物",
+          "paragraphs": [
+            "现代谈话中，“个体”有时被想成先已完整、后来才贴上类别标签的裸物。亚里士多德的具体实体并非如此：一匹马若没有使其成为马的组织与能力，就不是先存在再被命名为马。",
+            "反过来，形式也不是一份可以随意装进材料的外部图纸。自然形式体现在生长、营养和活动的秩序中。这个差异防止我们把他的实体论误读为今日零件装配的比喻。",
+            "承担者也不是剥掉所有规定后剩下的神秘核心。一棵树正是凭其组织、生命活动和可识别形式成为树；离开这些，只剩材料并不能独立解释为什么眼前是这一个自然存在者。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "判断一种解释是否真正落地",
+          "paragraphs": [
+            "面对任何“X因为参与X本身”的说法，可以检验它是否给出新的联系机制。若答案只是把同名性质提升到另一层，第三人式的追问仍会回来：实例与范型为什么共同是X。",
+            "也要反向检验只谈个别事实的解释。若它无法说明哪些变化仍保持同一对象、哪些变化使对象不复存在，事实清单同样欠缺结构。两种检验共同保住稳定与个别。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "实体问题留下的双重债务",
+          "paragraphs": [
+            "现在可以看清第一笔债务：知识必须说明共同的“是什么”，却不能靠分离形式把关系留白。第二笔债务：具体实体承载其他规定，却不能被理解成毫无形式的不可说之物。",
+            "两笔债务把思考推向同一处。一个自然存在者如何由可承受变化的方面与使它成为此类事物的方面构成？四因与质料形式不是突然增加的术语，而是对这道压力的分层回答。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "设想修复一尊开裂的青铜像。换掉底座，它仍可能是同一尊像；把青铜熔成门把手，材料仍在，像却不在。只诉诸“雕像本身”不能说明何时同一性中断，只诉诸青铜也不能说明为何先前是一尊像。这个判断逼出承载材料、组织形式、制作来源和完成目标的区别。",
+      "nodeIds": [
+        "aristotle-01-teaching"
+      ],
+      "checkIds": [
+        "aristotle-01-check-1",
+        "aristotle-01-check-2",
+        "aristotle-01-check-3",
+        "aristotle-01-check-4"
+      ],
+      "abilitySummary": [
+        "能说明分离形式为何留下个别事物如何被解释的缺口。",
+        "能区分述说主体、存在于主体和第一实体的依赖关系。",
+        "能把《范畴篇》的个体优先与Z卷的实体争论放在不同文本任务中。"
+      ],
+      "recommendedNextLessonId": "aristotle-02",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-02",
+      "order": 2,
+      "title": "变化要求多少种解释",
+      "depth": "deep",
+      "guidingQuestion": "一块青铜成为雕像时，究竟是什么保持、什么取得新规定，而我们说“为什么成为”时又可能在问哪几种不同的问题？",
+      "coreExplanation": "亚里士多德反对把变化理解为存在从绝对不存在中跃出。他区分承载变化的东西、后来取得的形式和先前的缺失，使“同一事物变得不同”不再自相矛盾。进一步追问原因时，材料、形式、发动来源和所为目标回答不同的为什么。四因不是四次互相竞争的事件，而是完整解释的四个方向。自然目的论把器官、活动和成熟形态联系起来，却不要求种子预先思考计划。目的论不等于万物具有意识意图；它首先说明某种过程为何有规律地趋向这种完成，而不是任何结果。",
+      "sections": [
+        {
+          "heading": "无中生有与完全不变的夹缝",
+          "paragraphs": [
+            "若变成白色意味着原来那个人彻底消失、另一个白色者凭空出现，我们就失去“他变白了”的日常含义。变化判断暗含一个承载者，它贯穿前后而取得不同规定。",
+            "但若承载者的一切都保持原样，变化也无法发生。于是必须同时说有某物保留、有某种规定不再缺失。亚里士多德用主体、形式与缺失把这两面分开。",
+            "这里的缺失不是一件与形式争位的实体，而是一个有资格取得某规定的主体尚未取得它。石头不识字通常不叫缺失识字，因为石头不属于能够学习文字的主体；儿童不识字才呈现可被教育改变的缺失。限定资格使变化不再是任意性质的替换。",
+            "生成还要与毁灭、增长、位移和性质变化区分。人从苍白变黝黑时实体仍在，木材燃尽时作为木材的实体却毁灭。不同变化保留的层级不同，所以不能用一个模糊的“东西变了”跳过何物持续、何物终止的判断。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "质料与形式不是两件并排的物",
+          "paragraphs": [
+            "质料是相对于一种形成过程而言能够承受规定的方面，形式则是使成品成为此种东西的组织和实现。青铜相对雕像是材料，已经铸成的圆球相对进一步加工又可能成为材料。",
+            "所以质料不是宇宙里一种永远没有性质的泥，形式也不是漂浮在外面的影像。两者是解释同一复合物时的相关项，其具体意义随所问的生成和层级改变。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "四个为什么如何彼此补足",
+          "paragraphs": [
+            "问房屋为何能立住，可以回答砖木构成它、结构比例规定它、建筑者使工程开始、遮蔽居住是建造所为。这些回答不在争夺同一个空位，而是在说明不同依赖。",
+            "若只给发动者，便不知道所成何物；只给形式，便不知道什么承载形式；只给材料，便解释不了材料为何这样组织；只给目标，也不能替代实际过程。完整度来自区分后再连接。",
+            "四因也不要求每次说明都机械写满四栏。问雕像为何倒下时，关键可能是底座受力和推动来源；问它为何是某人的雕像时，形状安排与制作意图才居中心。原因类型不变，提问追踪的依赖却会改变重心。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "牙齿形状为何不是偶然清单",
+          "paragraphs": [
+            "门齿适于切断、臼齿适于磨碎，亚里士多德会把形状与进食功能相连。说明不是说牙齿先想到食物，而是说这种结构在动物生活整体中做什么。",
+            "材料的硬度、发育的来源、牙齿的形态和摄食的作用都可进入解释。去掉任何一面，描述仍可能真实，却不足以回答为何此结构在此类动物身上反复形成。",
+            "若某只动物因受伤缺少臼齿，功能判断也不因此失效。目的说明说的是此类结构在正常发育与活动中的组织角色，不是声称每个个体每时都完整实现。承认失败个案，反而要求我们把形式倾向、实际材料和偶然阻碍分开。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "偶然结果不能冒充目的",
+          "paragraphs": [
+            "走去市场讨债却偶然遇见想见的人，结果对行动者有价值，却不是这次行走原先所为。亚里士多德借偶然说明，并非凡是后来显得有用的结果都可倒写成目的。",
+            "同理，一场风暴把木料堆成可遮雨的形状，不足以证明自然在建屋。目的解释需要过程在同类条件下有规律地朝向完成，并能说明部分在整体活动中的位置。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "自然之内的运动原则",
+          "paragraphs": [
+            "《物理学》把自然物与人工物的差别放在运动和静止的内在原则。床若发芽，长出的不是床而是木，因为床的人工形状并不支配木材作为植物的生成能力。",
+            "这并非说人工物没有真实结构，而是说明结构来源不同。技艺从外部安排材料，自然生物的成熟秩序则由其作为此类生物的内在组织持续引导。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "目的说明的强度边界",
+          "paragraphs": [
+            "目的论若被理解成每个细节都因最佳用途存在，就会遇到退化器官、疾病与随机变异。亚里士多德本人承认偶然和失败，却没有现代演化论来解释适应如何由无预见的选择积累。",
+            "因此可以保留功能问题的解释价值，同时拒绝把既有结构必然美化为最佳安排。问某部分通常做什么，与断言它由宇宙意识为了善而设计，是两种不同主张。",
+            "目的因也不是未来事件从前方拉动物体。房屋的完成状态能组织工匠现在的选择，是因为技艺、图样和材料已构成朝向完成的秩序；橡树成熟形态说明幼苗生长，则依赖物种形式与内部运动原则。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "形式进入变化的方式",
+          "paragraphs": [
+            "前一单元留下的困难是形式怎样内在于个体。现在得到初步回答：形式不是另一个世界的样本，而是使材料成为此种活动整体的组织与完成。",
+            "这也带来新问题。材料在成为成品之前并非已经现实地具有成品形式，却也不是绝对不能成为。怎样精确表达“能够成为但尚未成为”，将把思考推向潜能与现实。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "把四因译成四种依赖",
+          "paragraphs": [
+            "较不容易误解的说法，是把四因听成四种“因为”。因为用什么、因为什么结构、由于什么发动、为了完成什么活动，它们分别限定解释所缺的部分。",
+            "这里的“因”比现代实验中常说的触发事件更宽。若强迫四因都变成前后相继的碰撞，形式与目标会显得神秘；若让目标吞掉过程，材料和发动又被架空。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与现代机制说明的相遇",
+          "paragraphs": [
+            "现代生理学可以追踪肌肉收缩、神经信号和化学反应，这些机制说明极其重要。它们并不自动回答某器官的活动在整个生命维持中承担何种功能。",
+            "反过来，说心脏为了循环血液，也不能替代组织、压力和发育机制。两种说明可能互补，但只有在各自证据和范围清楚时才互补，不能用古老术语免除现代检验。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "为一个为什么拆分问题",
+          "paragraphs": [
+            "听到“这座桥为何倒塌”，先判断所求是材料缺陷、结构形式、施工与冲击，还是建桥目标受到怎样的误判。不同答案可能同时真实，却不能彼此顶替。",
+            "再检查目的是否被事后添加。若某结果只是偶然有益，且过程没有稳定趋向，就不应称为所为目标。这样既避免排斥功能，也避免把巧合神化。",
+            "目的论不等于万物有意识计划。它只主张有些过程若只列前后碰撞，会漏掉部分为何稳定协作、偏离为何算失败。接着还要说明，这种朝向完成的能力怎样在尚未完成者中真实存在。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "变化从矛盾变成有层次的过程",
+          "paragraphs": [
+            "承载者、形式和缺失解释同一事物如何从不是F变成是F；质料与形式解释复合物怎样构成；四因则把一个为什么拆成材料、结构、发动和完成。",
+            "但“尚未是”仍有两种可能：石头不是音乐家，儿童也不是音乐家，只有后者通常具有成为音乐家的能力。潜能概念要把真实可能与纯粹缺失分开。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一位医生解释骨折愈合：骨组织和血供提供材料条件，骨骼结构规定恢复为何样，细胞活动与固定治疗推动过程，重新承重则是愈合所趋向的功能完成。四个方向不会让同一事实重复四遍；它们使人看见只说“石膏导致痊愈”遗漏了机体自身的组织、材料与活动。",
+      "nodeIds": [
+        "aristotle-02-teaching"
+      ],
+      "checkIds": [
+        "aristotle-02-check-1",
+        "aristotle-02-check-2",
+        "aristotle-02-check-3",
+        "aristotle-02-check-4"
+      ],
+      "abilitySummary": [
+        "能用承载者、形式与缺失说明变化为何不是无中生有。",
+        "能区分四种原因回答的不同为什么，并指出它们怎样互补。",
+        "能在承认功能解释时拒绝意识计划化和事后目的化。"
+      ],
+      "recommendedNextLessonId": "aristotle-03",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-03",
+      "order": 3,
+      "title": "尚未实现怎样成为真实可能",
+      "depth": "deep",
+      "guidingQuestion": "说儿童能够识字、木料能够成桌而石头不能看见时，我们凭什么把真实能力同纯粹没有、逻辑不矛盾或偶然机会区分开？",
+      "coreExplanation": "潜能不是把任何可想象结果都存进事物内部，而是相对于特定活动、条件和承受者的能力。现实也不只表示时间上已经发生，它还表示活动正在进行、形式已经完成。亚里士多德用建造与正在建造、会看与正在看来指出这组关系。现实在定义上优先，因为潜能要借对应活动说明；在许多生成中，现实的父母、技艺或形式也先于后来实现者。坏结果的能力、理性能力的相反方向以及第一现实与第二现实，使这套区分远比“可能变成实际”更精密。",
+      "sections": [
+        {
+          "heading": "不是所有尚未发生都同样可能",
+          "paragraphs": [
+            "一块木料尚未成为桌，一滴水尚未成为诗人，两句话都描述眼前没有某物。但第一种缺失与材料、技艺和结构有关，第二种缺失没有相应能力基础。",
+            "若把潜能等同于“现在不是”，任何东西都潜在地是任何东西，解释便失去选择力。潜能必须限定谁能做什么、在何种条件下、由什么变化实现。",
+            "能力还常被阻碍。干燥木材在有木匠和工具时能成桌，正在腐烂的碎屑即使同属木质，也可能失去相称结构。说“能够”时若省略材料状态和外在条件，就会把久已破坏的能力与暂时没有机会混为一谈。",
+            "有些能力来自本性，有些来自习惯与学习。儿童自然具有语言发展的基础，却必须在交往中取得某种语言；医术则由经验和说明逐步形成。来源不同会改变实现方式，却都要求潜能与其现实活动有可追踪关系。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "能力以活动为指向",
+          "paragraphs": [
+            "建造能力由建造活动来说明，视觉能力由看见来说明。潜能不是一个独立小物，而是存在者朝向某种活动或承受某种变化的可实现关系。",
+            "同一词还覆盖不同层次。闭眼的人有视觉却没有正在看，熟睡的几何学家有知识却没有运用知识。必须分开已取得能力和当下活动。",
+            "潜能带有条件结构。木料能成为桌子，不表示湿木在任意时刻都能完成；合适材料、技艺、工具和不受阻碍的环境共同限定这项能够。真实可能属于具体存在者，而非悬空的许可。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "现实为何在定义上优先",
+          "paragraphs": [
+            "我们若不知道看是什么，就无法说明视觉能力；若不知道完成的房屋是什么，也无法确定哪些材料和技艺算作建屋能力。潜能的定义借用它所指向的现实。",
+            "这不是说每个个体先现实后潜在。儿童先不会识字再会识字，但使他获得能力的教师已经现实地识字，识字形式也作为活动标准先行。优先有多种意义。",
+            "现实在定义上先行，因为要借实现的活动说明能力所指；在这个个体的时间中，能力却常先出现。若看物种延续和施动来源，已有现实者又先于后来形成者。不同优先次序不能偷换成同一时间顺序。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "会弹琴却没有弹好",
+          "paragraphs": [
+            "一位钢琴家既能弹好也能故意弹错，因为理性能力可以按所理解的相反方向行动。琴弦受击发声的非理性能力却在适当条件下只朝相应结果发生。",
+            "这个差别说明能力并不保证实现，也不保证善的实现。选择、欲望和环境决定理性能力何时朝哪一面活动，伦理问题因而不能由拥有技能直接解决。",
+            "医生懂得药物既能治病也能在错误剂量下伤人，其同一知识把相反效果纳入理由。知识本身不会替他选择目标；只有欲望、品格和具体判断使能力朝治疗或伤害现实化。这一结构为后来区分聪明与实践智慧预先留下位置。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "麦加拉式缩减为何过强",
+          "paragraphs": [
+            "若只有正在做某事时才有能力，坐着的建筑师就不再会建屋，闭眼的人瞬间失去视觉，起身和睁眼便成为无能力者突然产生能力。",
+            "亚里士多德反对这种缩减，因为它无法说明稳定能力跨越不活动时期。潜能让暂停与重新活动属于同一个人，而不需要每次行动都重新创造主体。",
+            "这一区分同时拒绝两个极端：只凭不矛盾便把一切说成同样可能，会抹去主体结构；只承认此刻发生的事情有能力发生，又解释不了技能为何在停用时保有，也解释不了行动为何能够失败。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "活动与完成的不同时间形态",
+          "paragraphs": [
+            "有些过程只在终点完成：正在学尚不等于已经学会，正在建尚不等于已经建成。另一些活动在进行时已经具有完成性：正在看也已经看见，正在思也已经思。",
+            "这一区分常以运动与活动表达。它不只是语法游戏，而是说明生命的某些善不把意义全押在未来产品上；看、理解和沉思的实现就在活动本身。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "潜能不是现代概率",
+          "paragraphs": [
+            "说种子有成为树的潜能，不等于给出百分之多少会成树。概率衡量不确定分布，潜能则说明这种存在者具有什么因果与形式能力，两者可以相关却不能互换。",
+            "潜能也不是现代物理中所有可能世界的集合。亚里士多德关心具体存在者的能力、阻碍与实现条件；把当代模态逻辑直接倒写进去，会消除自然过程的厚度。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "四因在实现中重新汇合",
+          "paragraphs": [
+            "木材可成桌，因为它能承受相应形式；木匠现实地拥有技艺并发动变化；桌的结构规定完成样态；使用目的组织选择。潜能把四因从静态清单变成过程。",
+            "同时，现实优先把追问推向更远处。若每个潜能都需要现实来发动，永恒运动是否最终需要一种没有未实现潜能的现实？这正是第一哲学的压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从能够到正在",
+          "paragraphs": [
+            "平常说“他能游泳”，可能只是水浅时不沉，也可能指稳定技能。亚里士多德会追问能力的对象、条件、来源和相反方向，从而把含混的能够拆开。",
+            "现实也不能只译成完成品。正在看的活动、活着的组织和已完成的形态都可能体现现实。理解这一宽度，才能避免把世界想成仓库里等待开封的可能物。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "习性与一次表现",
+          "paragraphs": [
+            "现代人常以一次成绩判断能力，亚里士多德的区分提醒我们：拥有稳定状态与当场运用不是一回事。焦虑、睡眠或外在阻碍会阻止活动，却不必消灭能力。",
+            "反面也成立。偶然做对一次并不证明已形成能力，更不证明品格稳定。现实活动能够显露潜能，但需要在适当条件与反复表现中辨认，而非由单点结果宣布。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "检验一项能力主张",
+          "paragraphs": [
+            "听到“这套制度能够纠错”，可以问由谁执行、针对何种错误、在什么条件下启动、有哪些阻碍。若没有可说明的活动路径，“能够”可能只是愿望。",
+            "再问现实表现是否由稳定能力产生。一次幸运纠错不能证明制度结构可靠，连续失败也可能暴露条件从未具备。潜能判断必须和因果结构绑定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "可能世界收窄为存在者的能力",
+          "paragraphs": [
+            "潜能把有根据的能够从单纯不矛盾和纯粹缺失中分离，现实则指活动和完成。潜能借现实定义，现实也通过具体潜能和过程显现。",
+            "当现实被理解为不依赖尚未完成者的解释原则，问题便从变化内部走向存在整体：什么使存在可研究，实体为何优先，永恒运动是否要求纯现实。这里的推进依赖前面每一层限定，不能把纯现实当成从词义直接跳出的答案。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一所医院说自己“能够应对大规模停电”。若只有一份预案，能力仍很薄；还要有发电机、燃料、受过训练的人、定期演练和切换路径。真正停电时的顺利运行是能力的现实化，但一次侥幸无故障也不证明全部环节稳定。这个例子显示潜能既不同于纸面可能，也不同于一次结果。",
+      "nodeIds": [
+        "aristotle-03-teaching"
+      ],
+      "checkIds": [
+        "aristotle-03-check-1",
+        "aristotle-03-check-2",
+        "aristotle-03-check-3",
+        "aristotle-03-check-4"
+      ],
+      "abilitySummary": [
+        "能把潜能限定为主体、活动、条件和阻碍之间的真实关系。",
+        "能区分取得能力、正在活动与完成形态，并说明现实的多重优先。",
+        "能拒绝把潜能等同概率、愿望或任何逻辑上不矛盾的想象。"
+      ],
+      "recommendedNextLessonId": "aristotle-04",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-04",
+      "order": 4,
+      "title": "作为存在的存在与不动的推动者",
+      "depth": "deep",
+      "guidingQuestion": "各门研究分别处理数、运动或生命，是否还需要一种追问考察任何存在者只要是存在者就必须面对的结构，并说明永恒运动最终依赖什么？",
+      "coreExplanation": "第一哲学不把“存在”当成最高属，因为实体、性质和关系并不以完全同一方式存在；它研究围绕实体组织的多义统一，以及同一律和不矛盾律这类任何论证已在使用的原则。实体优先又把问题推向最充分的现实。如果天体运动被当作永恒，发动它的根源不能永远停留在尚待实现的能力。Λ卷提出不动的推动者，以欲求对象和思想对象的方式推动而不被推动，并把它描写为思想之思想。这个论证属于亚里士多德宇宙论，不能直接等同后世创造世界、关怀个体的人格神。",
+      "sections": [
+        {
+          "heading": "专门科学留下的共同前提",
+          "paragraphs": [
+            "几何研究量，物理研究可运动的自然物，生命研究活物。每一门都选定一类对象，却都已经说对象存在、同一事物不能在同一意义下既如此又不如此。",
+            "若这些共同前提只能由某一专门对象说明，其他研究使用它们便没有根据。第一哲学由此追问存在者作为存在者具有的原则，而不是与别的学科争夺同一对象。",
+            "这项研究也不能靠抽掉所有差异得到一个最贫乏的“东西”。它要考察实体、统一、同一、原因和真如何彼此关联，说明专门研究已在何种存在结构中工作。普遍性来自原则适用的广度，不来自对象内容被削成空白。",
+            "所谓第一还包含智慧对最初原因的追求。知道火使锅变热是一层，知道热传递的结构是另一层；越能说明较多事实且依赖较少未解释前提，知识越接近原则。这个方向并不保证每条古代宇宙论结论正确，却解释了为何研究不会停在局部规律。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "存在的多义如何围绕实体",
+          "paragraphs": [
+            "“存在”不能像“动物”那样成为实体、性质和关系共同所属的一个属。性质存在，是某个实体具有性质；关系存在，也是存在者彼此以某方式相关。",
+            "多义并非任意同音。健康的身体、食物和肤色都以不同方式关联健康，存在的多种意义也围绕实体形成核心秩序。统一来自有序关联而非完全同义。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "不矛盾律为何不能普通证明",
+          "paragraphs": [
+            "任何普通证明都要使用前提和推论；若要证明最基本原则，论证已经在使用它，便会循环。亚里士多德转而要求否认者说出一个有确定意义的东西。",
+            "一旦说话者让词语在此刻指这个而非任意相反者，他已在实践中保留差别。反驳不是从更高前提推出原则，而是显示彻底否认会破坏有意义断言本身。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "诊断中的同一意义限定",
+          "paragraphs": [
+            "医生说病人“发热又不发热”未必矛盾，可能一处测量高、一处正常，或早晨高、夜间低。不矛盾律要求同一主体、同一时间、同一方面和同一意义。",
+            "限定越精确，原则越不等于禁止复杂事实。它反而迫使冲突主张说明各自条件，帮助区分真正不相容与只因省略语境造成的表面冲突。",
+            "这也说明辩证反驳为何不能只抓词面。一人说城市既富又穷，可能指财政储备充足而居民收入低；补足方面后，两句可以同时成立。只有当对方坚持同一指标、同一时间和同一对象既达到又未达到标准，矛盾才真正出现。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "最高存在者不是最大物体",
+          "paragraphs": [
+            "若把实体优先理解成体积越大越真实，就会把第一哲学变成宇宙巨物搜索。亚里士多德的优先涉及独立、定义、原因与现实程度，不按空间尺寸排序。",
+            "不动的推动者也不是宇宙边缘用手推第一颗球的物体。若它以物理接触受反作用，就不再不动；文本以被欲求与被思想者说明非接触的依赖。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "Λ卷从永恒运动到纯现实",
+          "paragraphs": [
+            "论证先接受永恒运动与时间，再问其原则。仅有运动能力不保证永远活动，因为能活动者也可能不活动；永恒活动需要一种不夹带不实现可能的现实。",
+            "推动者作为目的对象引发天体运动，活动本身则是最高思想。每一步依赖古代天文学与形而上学前提，不能只保留结论而隐藏前提的历史性。",
+            "这条论证通道很窄：先接受永恒规则运动，再追问现实依赖能否无穷后退，随后以没有未实现能力的活动作为终点。它主要像所欲和所思那样推动，并非像手推石块那样施加接触力量。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "传世题名与神学嫁接",
+          "paragraphs": [
+            "“形而上学”这一题名来自后世传承，字面上与相关文卷排在《物理学》之后有关。不能仅凭题名断言作者亲自命名了一门超自然学科。",
+            "犹太、基督教和伊斯兰思想家后来把不动的推动者放入创造、天意和启示问题。那些发展极富哲学力量，却不能全部算作Λ卷已经说出的内容。",
+            "还不能把整部《形而上学》读成从存在论直线通往神学的定稿。卷次关系、重复开端和主题接缝显示传世编排复杂；Λ卷与ZΗΘ卷相关，却不能无缝等同。体系连接每次都要交代文本依据。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "现实优先抵达极限",
+          "paragraphs": [
+            "前一单元说潜能借现实定义，现实的发动者在生成链中先行。Λ卷把这一结构推到极限：永恒秩序若最终依赖仍可能不活动者，就没有获得充分保证。",
+            "但极限答案反过来制造张力。最高现实若完全自足，只思想最好的对象，它怎样与个别变化和人的祈求相关？亚里士多德没有给出后世宗教期待的全部答案。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "第一不是时间上的第一刻",
+          "paragraphs": [
+            "“第一哲学”的第一主要指原则与解释次序，不一定指最早研究。“第一推动者”也不是在一个绝对开始时推一下就离开，因为亚里士多德认为运动和时间无始。",
+            "较准确的理解是持续依赖：运动秩序每时每刻依赖现实对象作为最终说明。这个图景与从无创造有根本差别，不能用同一个宗教词遮蔽。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "解释终点与时间起点",
+          "paragraphs": [
+            "现代宇宙学追问早期宇宙状态、时空结构和可检验模型。亚里士多德追问的是永恒运动作为运动何以有现实根源，两者的问题、证据和宇宙图景不同。",
+            "即使现代模型讨论时间开端，也不能直接证明或反驳思想之思想；反过来，形而上论证也不能替代观测。比较的价值在揭示问题层次，不在让古今互相代签。",
+            "离开古代天球宇宙论后，永恒运动等前提不再自动成立；现实优先和解释链能否收束仍可保留为形而上学问题。保留问题不等于保留原论证的全部结论。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "识别一项终极解释隐藏的前提",
+          "paragraphs": [
+            "面对“所有变化最终必须由X解释”，先列出从变化到X的每一步：变化是否永恒，潜能是否不足，解释链需要何种终止，X如何发挥作用。",
+            "再区分X作为触发事件、结构条件或目的对象。若这些角色被混写，终极答案会显得万能却不可检验；逐步还原可以指出真正争议所在。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "存在研究打开生命问题",
+          "paragraphs": [
+            "第一哲学研究存在的有序多义、实体优先和基本原则；Λ卷以纯现实回应永恒运动的终极依赖。答案的力量与古代宇宙论前提必须同时保留。",
+            "实体与现实若不只用于宇宙，还应解释身边最复杂的自然存在者：活物。灵魂将不被当作住进身体的第二个物，而被说明为生命体实现其能力的形式。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一家机构声称“最高原则是效率，所以任何决定都应提高效率”。先要问效率是否像一个属那样对所有活动同义，还是围绕不同目标有序多义；还要问提高什么产出、相对什么资源、是否破坏活动本身。把最高词放在顶端不等于获得第一原则，除非它能说明各具体意义的依赖。",
+      "nodeIds": [
+        "aristotle-04-teaching"
+      ],
+      "checkIds": [
+        "aristotle-04-check-1",
+        "aristotle-04-check-2",
+        "aristotle-04-check-3",
+        "aristotle-04-check-4"
+      ],
+      "abilitySummary": [
+        "能说明作为存在的存在为何不同于选择一种专门对象。",
+        "能解释存在多义、实体优先与不矛盾律的实践反驳结构。",
+        "能重建不动的推动者论证，并区分它与后世创造神概念。"
+      ],
+      "recommendedNextLessonId": "aristotle-05",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-05",
+      "order": 5,
+      "title": "活着不是灵魂住进身体",
+      "depth": "deep",
+      "guidingQuestion": "植物、动物和人为何都算活物，却拥有不同能力；灵魂若不是可从身体搬出的居客，又怎样解释知觉、想象和理智？",
+      "coreExplanation": "《论灵魂》把灵魂界定为具有生命潜能的自然有机身体的第一现实。身体与灵魂不是两件完整事物偶然并置，正如眼球材料与看见能力共同构成能看的眼；尸体只在同名意义上仍是人的身体。营养、知觉、欲望、运动和理智能力形成层级，较高生命保留较低能力。知觉是感官在不接收材料的情况下取得可感形式，想象则使对象不在场时仍有表象。理智把握可理解形式，但III.5关于主动理智的极短文字没有封闭它是否分离、个人或不朽的争议。",
+      "sections": [
+        {
+          "heading": "身体与灵魂为何不能各自完整",
+          "paragraphs": [
+            "若灵魂是一位住客，身体只是房屋，那么同一种灵魂似乎可随意住进任何身体，生命活动也不必依赖器官结构。可视觉离不开眼，营养离不开有机过程，行动离不开感知与欲望。",
+            "反面若把生命缩成材料堆积，也解释不了同样元素为何有时形成自我维持、感知和行动的整体，有时只是尸体。亚里士多德把问题改成材料怎样现实地成为活物。",
+            "定义中的“自然有机身体”尤其重要。有机并非现代化学意义的含碳，而是身体具有执行生命活动的器官与部分。手、肺和根各由整体活动获得角色，不能先把部分当成独立机器，再把灵魂加作遥控者。",
+            "灵魂与身体的统一也不是把精神的重要性降格。相反，形式说明材料为何成为有功能的生命整体，并允许不同能力具有不同对象。问题从“灵魂藏在哪里”转成“这种生命活动需要怎样的组织”，由位置追问转为实现条件。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "第一现实与第二现实",
+          "paragraphs": [
+            "会知识而未运用，像具有生命组织而在睡眠；正在思考，像醒着活动。灵魂作为第一现实指已经组织成能生活的身体，具体生命活动则像第二现实。",
+            "这个区分让睡着的人仍然活着，也让植物在未开花时仍有生长能力。现实不只表示眼前动作，还可表示一种已取得、能够发生活动的完成组织。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "斧头与眼睛揭示形式",
+          "paragraphs": [
+            "若斧头是自然身体，它的灵魂会是劈砍功能；失去能劈的结构，剩下的只在名称上还是斧头。眼睛的本质同样与看见相连，坏眼睛像石刻眼睛一样只是同名。",
+            "类比不把生命降为工具，因为自然物的组织原则内在生长，而工具功能来自外部制作。它只显示：身体部件是什么，不能脱离其在生命活动中的能力来定义。",
+            "作为器官的肉和结构不是先完成的一件物，视觉能力也不是后来搬入的住客。正因为身体按特定方式组织，它才是能看的眼睛；失去这种组织，即使材料仍在，也只在同名意义上叫眼睛。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "麻醉中的知觉能力",
+          "paragraphs": [
+            "接受麻醉的人此刻没有清醒知觉，却不因此失去全部知觉能力。器官与神经条件仍支持醒后恢复，暂时阻碍使能力不活动，而非把活体变成无生命材料。",
+            "这与损毁眼球不同。两者都没有正在看，但一个保留较完整的潜能，一个丧失器官基础。区分能力、阻碍和活动，可以避免从当下表现草率推断本质。",
+            "康复过程又显示能力可以有程度和路径。脑损伤后的人也许不能按旧方式说话，却能借辅助沟通重新表达判断。若把灵魂能力固定在单一外在表现上，就会错认替代实现；若无视器官损伤，又会低估支持条件。形式解释必须容纳有机重组。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "蜡印比喻不能被物质化",
+          "paragraphs": [
+            "知觉被比作蜡接受印章形状而不接受金银材料。看红色不是眼睛摄入红物质，听声音也不是耳朵变成发声物；感官取得可感形式。",
+            "但若把比喻当成脑内复制一张微型图像，新问题会出现：谁再观看那张图？比喻旨在区分形式与材料的接受，不提供现代生理机制的完整模型。",
+            "知觉接受可感形式并不表示器官没有生理变化，它只说明颜色或声音怎样成为活动内容。第一现实是已经具备而未必运用的能力，第二现实才是此刻看见，睡眠和麻醉因此不要求灵魂离开。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "想象处在知觉与思维之间",
+          "paragraphs": [
+            "想象不同于知觉，因为闭眼或对象不在时仍可出现，也可能错误；它又不同于判断，因为图像可来去而我们并不总相信它。梦境显示这种相对独立。",
+            "然而思维常需要表象作为材料。想象保存和重组知觉，使动物能够在对象不在场时欲求与行动，也让人的推理与记忆拥有具体支撑。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "主动理智的开放争议",
+          "paragraphs": [
+            "III.5以光使潜在颜色成为现实作比，区分能成为一切的理智与使一切成为可思的理智，并说后者可分离、不受影响。文字短而关系不明。",
+            "亚历山大、阿维森纳、阿威罗伊和阿奎那给出彼此不同的解释。任何一种都不能只凭几个词冒充无争议原意；应先保留段落的功能，再说明外加前提。",
+            "想象使不在场形象继续起作用，也说明行动为何不由当前刺激直接触发。III.5篇幅短而语义密，分离、永恒等表述引出冲突解释；把后世立场当作明文结论，会掩盖文本留下的缺口。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "形式质料在生命中取得厚度",
+          "paragraphs": [
+            "此前形式常以雕像和房屋说明，容易让人想到静态形状。灵魂展示自然形式更深的含义：它是营养、感知、欲求和思考彼此组织的活动原则。",
+            "这也解释为何灵魂不能随意迁移到任何材料。生命形式需要相称器官，正如视觉需要能受颜色影响的眼。形式内在并不等于能脱离物质条件独行。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "能力层级而非三块灵魂",
+          "paragraphs": [
+            "植物有营养能力，动物还具有知觉与欲望，多数动物能移动，人又具有理智。较高层级包含较低活动，不必设想体内并排放着植物魂、动物魂和理性魂三块东西。",
+            "能力之分让共同生命与物种差异同时可说。它还把理智放进一条连续问题链：理智虽有特殊对象，却从知觉、记忆和想象提供的世界中开始。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与笛卡尔心身二元的距离",
+          "paragraphs": [
+            "笛卡尔把思想实体与广延实体区分，随即面对两者如何相互作用。亚里士多德的灵魂首先是活体形式，知觉和行动从一开始就是有机整体的活动。",
+            "这不表示两者只是在用不同词说同一事。理智是否可分离给亚里士多德留下复杂张力，但他的起点不是两个自足实体相遇，而是一种活物怎样实现能力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "从缺失表现判断能力时保持谨慎",
+          "paragraphs": [
+            "当一个人暂时不能回应，先区分能力是否丧失、器官或环境是否阻碍、活动是否只是暂停。把没有表现直接等同没有能力，会在麻醉、疲劳和沟通障碍中造成严重误判。",
+            "也要避免反向浪漫化。宣称能力存在需要结构和恢复证据，不能因为愿望而无视损伤。形式质料分析要求同时看活动组织与物质条件。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "生命形式把认识推向逻辑",
+          "paragraphs": [
+            "灵魂是有生命潜能之身体的第一现实，生命能力从营养推进到知觉、想象和理智。知觉接受形式而非材料，想象保存不在场对象，理智争议仍开放。",
+            "理智能够把握形式还不等于已经有知识。怎样把词项组合成真假命题，怎样让一个结论必然跟随，怎样让有效推论进一步成为原因的科学说明，将成为新的压力。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一只导盲犬在熟悉路口停下，不只是被眼前颜色机械推动。它感知车辆与路缘，保留训练形成的表象，欲求继续前行，也能在危险时抑制原路线。把活动拆成身体或心灵单方都失真；更合适的说明要展示器官、知觉、记忆、欲望和整体行动怎样协同。",
+      "nodeIds": [
+        "aristotle-05-teaching"
+      ],
+      "checkIds": [
+        "aristotle-05-check-1",
+        "aristotle-05-check-2",
+        "aristotle-05-check-3",
+        "aristotle-05-check-4"
+      ],
+      "abilitySummary": [
+        "能用第一现实说明灵魂与有机身体为何不是两个完整实体。",
+        "能区分营养、知觉、想象和理智能力及其相互依赖。",
+        "能把主动理智保留为文本解释争议，而不提前宣布个人不朽。"
+      ],
+      "recommendedNextLessonId": "aristotle-06",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-06",
+      "order": 6,
+      "title": "从词项到必然说明",
+      "depth": "deep",
+      "guidingQuestion": "一个推论形式有效，为什么还不等于我们知道事实为何如此；科学知识又怎样从词项、命题和三段论推进到真正说明原因的证明？",
+      "coreExplanation": "《范畴篇》分析不组合的词项，《解释篇》把能真假的肯定与否定命题分开，《前分析篇》研究三段论：若若干东西被设定，另一个不同命题因其如此设定而必然跟随。《后分析篇》进一步要求科学证明从真实、首要、较可知、先在并作为结论原因的前提出发。有效性只保证结论在前提为真时不能为假，不保证前提真实，更不保证它们说出原因。原理不能由同一科学无限证明；经验、记忆和归纳使普遍项在心中稳定，但这段取得过程不是简单枚举。",
+      "sections": [
+        {
+          "heading": "正确结论可能来自错误理由",
+          "paragraphs": [
+            "有人说行星今晚可见，因为所有发光物都离地很近，行星发光，所以离地很近。即使偶然猜中可见，前提与原因仍错误，不能算知道。",
+            "知识要求的不只是结论落对，还要能回答为何必然如此。亚里士多德因此把推论形式与科学证明分层：前者研究跟随，后者研究真实原因。",
+            "同一个真结论也可由较近或较远的中项得到。知道墙不透光，所以屋内变暗，仍不如知道材料怎样阻断光线精确；说明的层级取决于问题要求。科学不是把任何真句串成链，而是寻找与对象相称的原因结构。",
+            "论证对象还决定结论强度。若前提只是多数情况下成立，便不能假装推出无例外必然；若定义含混，再正确的形式也会在词义偷换中失效。逻辑检查因此既看排列，也要求词项在推理过程中保持同一意义。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "problem"
+        },
+        {
+          "heading": "词项组合后才承担真假",
+          "paragraphs": [
+            "“人”“白”“奔跑”单独出现时通常不真不假；“这个人在奔跑”把主项与谓项结合，才作出可核对的断言。语言材料与命题承诺必须区分。",
+            "名称和经验也不天然相同。声音是心灵经验的符号，不同语言用不同声音，却可指向相似经验与事物。符号约定不使世界结构任意。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "三段论的必然跟随",
+          "paragraphs": [
+            "若所有人都会死，苏格拉底是人，那么苏格拉底会死。中项“人”把较大项与较小项连接，前提如此设定时，结论不能不如此。",
+            "有效性关注这种结构，不关心我们是否真有会飞的人。把假前提放入有效形式仍可得出有条件的必然跟随，所以形式检查只是第一道门。",
+            "词项的周延范围还决定结构是否成立。从“所有猫是动物”和“所有狗是动物”不能推出猫是狗，因为共同谓项没有把两类连接成包含关系。结论听来荒谬并非靠直觉排除，而能追到中项在两个前提中的配置，这使错误可以被公开复核。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "月食的事实与原因",
+          "paragraphs": [
+            "知道月面变暗是一回事，知道地球位于太阳与月亮之间、遮断光线是另一回事。后者用中项说出月食为何发生，因而具有说明性。",
+            "若只从月食伴随某现象反推，可能得到可靠迹象，却未必抓住原因。科学证明要求中项不仅连接两端，还对应使结论成立的真实依赖。",
+            "同一结构也解释预测与说明为何可分。某种云形也许常在风暴前出现，经验规则能帮助避险；若云形并不产生风暴，它仍只是可靠标志。标志知识并非无价值，只是不能把成功预测升级成已经掌握生成原因，二者应分别记录。",
+            "从行星不闪烁推出距离较近，可能把征象当原因；若距离关系才解释不闪烁，证明应沿因果方向组织。这个例子显示结论为真仍不够，中项必须表达使结论成立的真实依赖。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "循环证明没有增加根据",
+          "paragraphs": [
+            "用A证明B，再用B证明A，看似两边都有理由，实际没有提供独立起点。若不知道任何一边，循环只是在未知之间往返。",
+            "无限后退也使知识永远等候更早前提。亚里士多德因此承认不可由同一方式证明的原理，但承认原理不等于允许任意教条。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "首要前提为何还需相称",
+          "paragraphs": [
+            "《后分析篇》要求前提真实、首要、不可直接证明、比结论更可知且是原因。每项要求排除一种伪知识：假设、循环、陌生根据或纯粹伴随。",
+            "证明还应属于适当学科。不能因几何图形有面积，就用面积本身解释伤口愈合；跨领域借用需要说明共同结构，而非仅凭数学精确显得权威。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "工具论是后世组合名",
+          "paragraphs": [
+            "《范畴篇》《解释篇》《前分析篇》《后分析篇》等后来被合称《工具论》，形成从词项到证明的强大顺序。这个顺序有解释价值，却是传承整理。",
+            "不能据此断言亚里士多德亲自把现存文本按现代教材次序一次写成。各作内部层次、重复和接缝提示其形成史更复杂。",
+            "第一原理不能在同一门科学中继续由更早命题证明，否则解释会无穷后退。归纳经验与理智把握承担开端，不是允许任意断言，而是承认证明体系必须有非证明的认识来源。",
+            "这些开端还须与所研究对象相称，几何前提不能凭形式相似便替生物学提供原因。非证明不等于跨学科借用权威，反而要求说明原理怎样从本门现象和定义中取得约束。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "理智能力成为公共理由",
+          "paragraphs": [
+            "《论灵魂》说明理智怎样可能把握形式，逻辑著作则问把握怎样通过命题和推论接受检查。私人想到一个形式，不等于已经给出他人可复核的理由。",
+            "科学证明又把形式有效与原因知识连接。认识不再只是心灵状态，而是能展示结论为何从真实原因必然跟随的结构。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "有效不等于健全",
+          "paragraphs": [
+            "较平常地说，有效推论像一台不漏步的传送装置：若入口都是真的，出口不能错。但装置不会替我们检查入口材料。",
+            "科学证明还要检查入口是否真实、是否更根本、是否属于对象并解释原因。把两层分开，可以既尊重形式逻辑，又不把漂亮推演当成现实知识。",
+            "有效推论只保证接受前提后结论必然跟随，即使前提偶然、虚假或不是原因，形式仍可成立。证明则要让结论因其所以然被认识，因而增加真实、首要、先在和原因方向的要求。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "与现代形式逻辑的错位",
+          "paragraphs": [
+            "现代逻辑用变量、量词和多种系统分析远超词项三段论的形式。亚里士多德不是所有逻辑形式的最后边界，但他首次系统研究必然跟随的结构。",
+            "他的科学理论又比现代纯形式系统更厚，因为前提要表达原因与本质。现代研究常把发现、统计支持和解释分开，比较时不应让任何一方吞并另一方。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "审核一段貌似严密的推理",
+          "paragraphs": [
+            "先暂时接受前提，检查结论是否必然跟随；再退回核对前提真假、词义是否稳定、中项是否偷换。形式和材料分两遍检查，错误位置更清楚。",
+            "若主张是科学说明，还要问前提是否给出原因，还是只有相关迹象。准确预测可以很有价值，却不自动回答为何发生，两类成就应分别陈述。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "证明的精度遇到行动的可变",
+          "paragraphs": [
+            "词项组合成真假命题，三段论保证有条件的必然跟随，科学证明再要求真实、首要、先在和原因。知识强度由这些门逐步增加。",
+            "但人的行动情境不像几何对象那样固定。若善恶判断也要求同样精度，可能把可变生活削成公式；伦理研究必须说明为何仍可讲理由而不假装数学确定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一份报告说：“所有高增长地区都增加了图书馆；本市增加图书馆，所以必将高增长。”它既把后件肯定当成有效推论，又把相关关系当成原因。修正需要两步：先指出形式不保证结论，再调查教育、人口与投资等机制。亚里士多德式区分让逻辑错误和因果错误不再混成一句“证据不足”。即使后来果真实现增长，也必须另查增长是否由图书馆、共同原因或偶然时机造成。",
+      "nodeIds": [
+        "aristotle-06-teaching"
+      ],
+      "checkIds": [
+        "aristotle-06-check-1",
+        "aristotle-06-check-2",
+        "aristotle-06-check-3",
+        "aristotle-06-check-4"
+      ],
+      "abilitySummary": [
+        "能区分词项、真假命题、有效三段论和科学证明。",
+        "能说明中项何时只是连接，何时还表达结论成立的原因。",
+        "能识别循环、无限后退、跨学科借权威和相关冒充原因。"
+      ],
+      "recommendedNextLessonId": "aristotle-07",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-07",
+      "order": 7,
+      "title": "幸福是一种完整生活的活动",
+      "depth": "deep",
+      "guidingQuestion": "如果每次选择都为了某种善，是否有一种使其他目的获得次序的最高善；而善的生活为何需要品格、选择和实践智慧，而非一条机械规则？",
+      "coreExplanation": "《尼各马可伦理学》从行动都有所为出发，寻找为自身而选且使生活自足的幸福。幸福不是一阵满意感，而是灵魂依德性的活动，在完整生活中展开。功能论从人的特有活动追问人的善，把有理性的活动与良好实行相连。品格德性由反复行动形成，选择则是经过思量的欲求。中道不是算术中央，更不是凡事折中；它是相对于我们、由正确理由和实践智慧确定的恰当情感与行动。有些行为按其种类就是错的，不存在恰当剂量。",
+      "sections": [
+        {
+          "heading": "目的链为何需要一个方向",
+          "paragraphs": [
+            "制药为了健康，造船为了航行，战术为了胜利。较低活动的目的受较高目的安排；若所有目的只为另一个目的，选择会无穷延迟而失去最终理由。",
+            "最高善不是每件事背后的同一种物质，而是为了自身选择、使其他选择获得次序的生活目标。亚里士多德把它称为幸福，却必须重新解释这个熟悉词。",
+            "财富尤其能显示工具性。人要钱通常为了安全、照护、行动机会或社会承认；若积累不再服务任何生活活动，手段便夺走目的位置。追问最高善不是寻找最昂贵物品，而是判断哪些活动值得让资源为之服务。",
+            "荣誉也不足以独自承担最高善，因为它更多存在于给予荣誉者而非受荣誉者，且我们希望因德性受到承认。快乐虽然更内在，却随活动品质不同。候选者逐一失败，迫使幸福与卓越活动相连，而不是随意选定一个抽象名词。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "幸福是活动而非占有物",
+          "paragraphs": [
+            "把德性像财物一样拥有却一生沉睡，不能算活得好。幸福必须在判断、情感和行动中实现，正如奥运会上得冠者来自参赛而非只拥有体能。",
+            "活动还要贯穿完整生活。一次勇敢行为不足以稳定人生，外在灾难也可能严重损害活动条件。因此幸福既非瞬间心情，也非完全不受运气影响的内在奖章。",
+            "完整生活并不要求临终前才能说任何人过得好，而是提醒评价不能由一个高峰瞬间封印。品格要在不同处境中保持，外在善要足以让行动发生，过去选择还会塑造后来可能。幸福由时间中的活动形成，而非最后一天补发的称号。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "功能论如何从活动到善",
+          "paragraphs": [
+            "笛手、雕刻者和身体器官各有功能，好的笛手把同一活动做得好。人的善若可说明，也应看人特有的生活活动，而非仅有营养或感觉。",
+            "亚里士多德把特有活动放在依理性的灵魂活动，并加上德性与完整生活。争议在“特有”能否推出规范，但论证至少排除了把幸福仅当被动感受。",
+            "实践智慧不能由固定表格替代，因为行动者要看出哪些情境特征相关，并把好生活的普遍理解落实到可变场合。德性使欲求朝向恰当目的，实践智慧使手段判断真实可行，两者彼此需要。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "勇敢不在恐惧的正中央",
+          "paragraphs": [
+            "消防员进入坍塌建筑，不是恐惧越少越勇敢。完全无视结构风险可能是鲁莽，因任何风险拒绝救援又可能是怯懦；对象、时机、理由和方式共同决定恰当。",
+            "若屋内已经无人，继续深入未必勇敢；若仍有人且有可行路径，退缩又可能失当。中道依正确判断，不是把两个数值平均。",
+            "勇敢还不是无条件服从命令。若上级隐瞒结构即将二次坍塌，停下核实可以保护救援能力与同伴，而非怯懦。行动者必须为了高贵理由面对恰当危险；把组织压力当成理由，会让鲁莽披上勇敢外衣。实践智慧正要识别这些伪装。",
+            "中道不是把两个坏选择做算术平均，也不是凡事折中。适当行动取决于对象、时机、方式和目的；恶意与不义等行为本身就不因数量适中而成为善。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "有些行为没有恰当剂量",
+          "paragraphs": [
+            "通奸、盗窃和谋杀在亚里士多德列举中不是因为过多或过少才错。不能问“多少通奸恰好”，仿佛算出中间数量就变成德性。",
+            "这条限制直接阻止“凡事折中”的流行误读。中道只适用于可因对象、程度、时间和方式失当的情感行动，不给本身错误的行为洗白。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "选择是经过思量的欲求",
+          "paragraphs": [
+            "愿望可以指向不可能或自己无法实现的结果，思量则处理在我们力量范围内通向目的的手段。选择在思量结束处把欲求与判断结合。",
+            "我们不反复思量健康是否可欲，而思量此时用什么治疗、由谁执行。好选择需要欲求目标恰当，也需要推理看清可行路径；单有聪明并不足够。",
+            "人可以愿望不由自己控制的结果，却只选择经思量且被认为可由行动实现的手段。功能论也不是从人会推理推出一种职业，而是追问完整生活中理性怎样塑造欲望和多种活动。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "功能论与排除风险",
+          "paragraphs": [
+            "从共同人类功能谈善，可能压低因残障、社会分工或生活方式不同而呈现的多样活动。若把某种单一表现当成人性门票，论证会产生不当排除。",
+            "较谨慎的解释把理性理解为可分享理由、组织欲求和参与共同生活的多种能力，并承认实现条件受社会支持影响。此解释仍需接受当代平等批评。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "科学证明为何不能直接统治行动",
+          "paragraphs": [
+            "上一单元的科学证明追求必然与原因，伦理对象却常有例外。亚里士多德要求精度与对象相称，不把行动可变性伪装成几何定理。",
+            "这不等于凭感觉行事。实践智慧要看普遍理由，也要感知具体处境。它的严谨表现为对相关差异敏锐，而不是忽略差异来换取整齐公式。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "品格是欲望学会听理由",
+          "paragraphs": [
+            "反复做公正之事不只是制造外在习惯，也训练我们在恰当对象上感到快乐与痛苦。德性使欲望不再总与判断拔河，而能对理由作出稳定回应。",
+            "但习惯不是盲目条件反射。成熟品格还包含选择和理解为何如此行动；只因惩罚而守规矩的人，外表相同，行动的内在结构不同。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "规则伦理与实践判断",
+          "paragraphs": [
+            "明确规则能保护人免受偏见和权力任性，亚里士多德并不要求抛弃法律。但任何规则进入具体处境都可能遇到未预见差异，需要衡平与判断。",
+            "实践智慧也不是给偏爱开后门。真正的判断要能说明为何此差异相关，并与共同善和德性一致。规则与判断互相约束，而非二选一。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "拆解一句适度就好",
+          "paragraphs": [
+            "听到“凡事适度”，先问这类行为是否本身允许中道，再问相对谁、针对什么、何时、为何、以何方式。没有这些限定，适度只是空洞赞美。",
+            "还要找出实践智慧依据的事实。若当事人不了解风险与责任，再真诚的适度感也可能失准；恰当情感必须由对处境的真实认识校正。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "好生活仍会被欲望撕裂",
+          "paragraphs": [
+            "幸福是依德性的完整生活活动，功能论把人的善连接到理性活动。德性由习惯形成，选择结合欲求与思量，中道由实践智慧确定。",
+            "可是人即使知道较好理由，仍会在强烈欲望中做相反之事。若知识真在场，失败怎样可能？意志薄弱将检验理性与品格的连接是否过于顺滑。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一位管理者面对员工照护家人的临时缺勤。机械坚持一律同罚能保持表面一致，却忽略责任差异；毫无限制地通融又可能把负担转嫁他人。实践智慧要调查紧迫程度、替代安排、既有承诺和共同规则，并说明为何此例的差异足以支持衡平，而不是凭好恶破例。恰当判断还要能向承担额外工作的人公开说明理由。",
+      "nodeIds": [
+        "aristotle-07-teaching"
+      ],
+      "checkIds": [
+        "aristotle-07-check-1",
+        "aristotle-07-check-2",
+        "aristotle-07-check-3",
+        "aristotle-07-check-4"
+      ],
+      "abilitySummary": [
+        "能把幸福说明为完整生活中的德性活动，而非短暂满足或静态财物。",
+        "能重建功能论、习惯、选择和实践智慧之间的推理关系。",
+        "能说明中道不是凡事折中，并识别没有中道的错误行为。"
+      ],
+      "recommendedNextLessonId": "aristotle-08",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-08",
+      "order": 8,
+      "title": "知道善却没有做到",
+      "depth": "deep",
+      "guidingQuestion": "一个人真知道某事不该做却仍去做，究竟是知识消失、欲望压倒判断，还是知识以某种未被实际运用的方式留在心中？",
+      "coreExplanation": "亚里士多德接受意志薄弱现象，却试图区分知识的持有与运用。醉者能背诵道理却未让道理在行动中工作；普遍判断还必须和“这就是此类情形”的具体小前提结合，欲望可能扭曲后者。快乐也不能一概当作坏，因为无阻碍活动有其相称快乐，问题在活动是否善。友爱进一步显示善生活不是孤立自足：有用、快乐与德性友爱按所爱对象不同，最完整的朋友彼此爱对方本身。X卷把沉思称为最高幸福，却又承认人需要朋友、身体和城邦，由此留下实践与沉思的张力。",
+      "sections": [
+        {
+          "heading": "苏格拉底式否认面对的经验",
+          "paragraphs": [
+            "若知识必然统治行动，明知熬夜伤身却继续、明知发怒会误伤却出口的人，要么根本不知道，要么行为无法解释。日常经验似乎坚持两者都真。",
+            "亚里士多德不满足于说欲望神秘地打败理性。他追问行动当刻哪一种知识在场、哪一个具体判断失效，以及人是否像背诵者那样只持有句子。",
+            "这种分析还要区分意志薄弱与恶。恶人把错误目标当作可选择的善，不一定在行动后后悔；意志薄弱者的较好判断仍与行为冲突。两者结果可能相似，改变所需却不同：一方要重估目标，另一方要让已有判断真正进入行动。",
+            "也要区分冲动型与软弱型。前者尚未充分思量便随情感行动，后者已经思量却没有坚持结论。把所有失败叫作同一种自控不足，会错过时间结构：是反思未发生，还是反思发生后被放弃。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "持有知识与运用知识",
+          "paragraphs": [
+            "熟睡、发疯或醉酒的人可能具有知识，却不能按知识活动。意志薄弱者也可能说出正确原则，但原则没有完成对眼前对象的实际识别与欲求组织。",
+            "这不等于知识毫无作用。事后羞愧说明普遍判断仍属于他，只是在行动时未以完整现实状态支配选择。失败发生在知识的使用方式。",
+            "背诵者还可能以语言节奏重复句子而未真正连接含义，像演员念台词。行动知识若只以这种方式在场，嘴上说“过量有害”与实际把眼前对象认作过量之间仍有距离。知识评价必须看它是否组织感知、欲望和选择，而非只听能否复述。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "具体小前提决定行动",
+          "paragraphs": [
+            "普遍判断说甜食过量有害，行动还需要认出“眼前这份就是应避免的过量甜食”。欲望可能强调“甜的令人愉快”，让具体对象落入另一条推理。",
+            "因此冲突不只是两个抽象命题碰撞。知觉怎样描述眼前事物、注意力停在哪里、欲望让何种特征显著，都会决定哪条推理成为行动。",
+            "意志薄弱者并非没有关于善的知识，却也没有让知识像清醒证明那样在决定时发挥作用。欲望改变眼前对象的描述，使具体小前提不再有效进入推论；错步发生在知识的现实运用。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "愤怒缩窄了眼前事实",
+          "paragraphs": [
+            "争执中，一个人知道羞辱同事会破坏合作，却把一句含混话立即认成恶意挑衅。普遍原则未被删除，具体小前提却被愤怒塑形。",
+            "若事后看到对方只是表达笨拙，他会说“我当时没看见”。这里的没看见不是眼睛失明，而是情感让相关解释退出实际判断。",
+            "朋友若当场提醒“他刚经历丧亲，也许不是针对你”，便不是用另一条抽象原则压制愤怒，而是改变具体对象怎样被看见。提醒恢复了被情绪遮蔽的可能解释，使普遍的克制理由重新接上现场。这正显示友爱如何参与实践认识。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "case"
+        },
+        {
+          "heading": "快乐并非统一的诱惑物",
+          "paragraphs": [
+            "若一切快乐都坏，公正行动和理解真理伴随的快乐也必须被谴责；若一切快乐都好，残酷或过度活动的享受又无法批评。",
+            "亚里士多德转而看快乐完成什么活动。快乐像活动的成熟光泽，与活动品质相称；错误活动的快乐会加固错误品格，不能单按强度评价。",
+            "长期品格还会让某些描述显得自然，让另一些理由即使被说出也很苍白。快乐完成并增强相应活动，因此不能只问快乐多少，还要问它正在巩固怎样的看法和行动倾向。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "三种友爱以何为所爱",
+          "paragraphs": [
+            "有用友爱爱对方带来的利益，快乐友爱爱相处感受，两者随利益和趣味变化而容易消散。德性友爱则愿对方因其自身而好。",
+            "完整朋友仍会有用而愉快，差别在这些不是关系的唯一根据。彼此认识品格需要共同生活和时间，所以深友爱不可能迅速大量建立。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "共有卷与沉思张力",
+          "paragraphs": [
+            "传世《尼各马可伦理学》V至VII卷与《欧德谟伦理学》若干卷共有，卷次归属和编辑史复杂。不能把现今排列当作毫无接缝的作者终稿。",
+            "X卷把沉思置于最高处，看似拉开与品格、友爱和政治实践的距离。可文本又说人作为人需要外在条件，解释不能假装这种张力不存在。",
+            "德性友爱提供相互看见和共同活动的环境。沉思虽取得最高位置，却仍依赖身体、朋友和城邦条件；它与实践生活形成真实张力，不能被用来轻易丢弃社会责任。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "实践智慧为何需要朋友",
+          "paragraphs": [
+            "品格使欲望听从理由，却不能保证自我判断永不失真。朋友作为另一个自己，能在我们被情绪或自爱遮蔽时提供可接受的外部视角。",
+            "友爱并非幸福之外的装饰。共同活动使德性得以持续实现，也让对善的理解不困在孤立意识。完整生活的自足不是不需要任何人。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "从控制欲望到重塑显现",
+          "paragraphs": [
+            "意志薄弱不总是清醒理性发出命令、野兽欲望硬把身体抢走。更细的图景是欲望改变何物显得迫切，使具体判断无法接上普遍理由。",
+            "改进因而不仅靠更大声重复原则，还要训练情感、安排环境、延缓行动并接受朋友提醒。品格工作改变世界怎样向行动者显现。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "自控与德性的差别",
+          "paragraphs": [
+            "自控者有错误欲望却服从正确判断，德性者的欲望本身更协调，意志薄弱者则在冲突中跟随欲望。三者外在结果有时相同，内在劳动不同。",
+            "德性因此不只是每次咬牙获胜。稳定善生活希望情感受到教育，使正确行动能够带来相称快乐；但这并不否认自控在转变过程中的价值。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "comparison"
+        },
+        {
+          "heading": "分析一次明知故犯",
+          "paragraphs": [
+            "不要先用“没意志力”结束解释。列出当事人持有的普遍判断、行动时采用的具体描述、欲望突出的特征以及环境怎样缩短反思时间。",
+            "再设计针对断点的修复。若问题在识别，就增加提醒；在环境诱因，就改变可达性；在孤立判断，就引入可信朋友。不同断点需要不同回应。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "孤立的善生活走向共同体",
+          "paragraphs": [
+            "意志薄弱来自知识未被完整运用，尤其具体小前提受欲望塑形。快乐评价依活动品质，友爱按有用、快乐与德性分层，沉思与实践仍有张力。",
+            "朋友已经显示个人善依赖共同生活。再向外看，家庭分工、法律制度、公民资格和政体安排决定哪些活动可能展开，伦理问题遂进入政治。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一位想戒酒的人完全知道酒精损害健康，傍晚却把“今天压力特殊”当成例外。若只再讲一遍健康危害，未必触及断点。更有效的分析会看到疲惫让即时舒缓变得显著、家中储酒降低行动阻力、独处取消朋友提醒。普遍知识要通过具体识别与环境安排才能成为行动。若复发后只用羞耻惩罚自己，反而可能遮蔽断点；把时间、场所和身体状态记录下来，才能让下一次判断更早出现，也让朋友在关键时刻提供具体提醒。",
+      "nodeIds": [
+        "aristotle-08-teaching"
+      ],
+      "checkIds": [
+        "aristotle-08-check-1",
+        "aristotle-08-check-2",
+        "aristotle-08-check-3",
+        "aristotle-08-check-4"
+      ],
+      "abilitySummary": [
+        "能以知识持有、实际运用和具体小前提分析意志薄弱。",
+        "能按活动品质评价快乐，并区分三种友爱的所爱对象。",
+        "能保留沉思生活与共同实践之间的文本张力。"
+      ],
+      "recommendedNextLessonId": "aristotle-09",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-09",
+      "order": 9,
+      "title": "谁能作为公民共同统治",
+      "depth": "deep",
+      "guidingQuestion": "个人善为何需要城邦，公民又为何不是单指居住者；当亚里士多德以自然差异为奴隶制辩护时，他的论证在哪些前提上失败？",
+      "coreExplanation": "《政治学》从家庭联合成村落、村落形成城邦的生成线索，转向城邦在目的上先于个人：只有完整共同体能支持自足和善生活。人是政治动物，不只因群居，还因言说能显明利害与正义。公民由参与审议和司法界定，其德性随政体而变。政体按统治者人数与是否追求共同利益分成正体和偏离形式，并在现实条件中寻找混合安排。然而家庭分析把主人、丈夫和父亲的统治自然化，尤其自然奴隶论以所谓理性能力不足为支配根据。它既把被迫处境当成本性证据，又无法可靠识别所谓自然奴隶，规范上也否认人的平等自由，必须明确拒绝。",
+      "sections": [
+        {
+          "heading": "好生活为何不能独自完成",
+          "paragraphs": [
+            "德性需要行动对象、公正制度、朋友和基本资源。孤立个人即使有良好意图，也无法独自建立审判、分配公共物或维持代际生活。",
+            "政治因此不是伦理之外的权力附录。它安排哪些活动受到鼓励、谁能发言、责任怎样分担，使个人善的条件成为共同问题。",
+            "法律还通过奖惩和公共习惯塑造品格。若制度奖励欺骗，要求个人单凭意志保持诚实会承受持续逆向压力；若制度为照护与审议留出空间，德性活动才有较稳定条件。政治不制造一切善，却能扩大或压缩善的可行范围。",
+            "城邦并非只为活着，而被说成为活得好而存在。这一提升既有吸引力也有危险：它要求公共权力关心正义与德性，却可能让统治者自称知道所有人的好。谁参与界定善、异议如何保留，因此成为不可省略的限制。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "政治动物与言说",
+          "paragraphs": [
+            "蜜蜂也群居，人却以言说显示有利有害、正义不义。共同体不只靠空间聚集，而靠成员对善与正当的判断发生联系。",
+            "言说能力并不保证共识，反而使争论成为政治常态。城邦要组织这些争论，使决定不只是强者叫喊，而能指向共同利益。",
+            "言说也包含倾听和被回应。若某群体可以发声却其证词从不影响决定，形式上的话语权仍未形成共同审议。政治能力不是单人拥有的器官，而在制度是否让理由流通、异议获得答复和决定接受修正中现实化。",
+            "人在本性上是政治动物，首先指出语言让人共同分辨利害、正义与不义，完整生活需要制度化共同体。它不能单独保证现存城邦正当；谁应统治、财产怎样安排，仍需各自论证。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "城邦的目的优先",
+          "paragraphs": [
+            "家庭满足每日需要，村落扩展交换与亲缘合作，城邦达到较完整自足。生成上个人和家庭在先，目的与完整性上城邦却被说成在先。",
+            "手离开身体只在同名意义上是手，因为失去功能整体。类比意在说明个人能力依赖共同体，但若用来取消个人权利，就会超出其解释限度。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "居住多年仍未必是公民",
+          "paragraphs": [
+            "外来居民和奴隶也可能住在城内、接受诉讼，却不参与审议与司法。亚里士多德因而用参与统治来界定公民，而非地址或血缘单项。",
+            "定义随政体而有范围差异。民主和寡头允许参与者不同，谁被算作公民本身就是权力结构的一部分，不是中性人口分类。",
+            "轮流统治与被统治还要求公民学习两种德性：执行共同决定时承认合法权威，参与决定时又能独立判断。若只训练服从，轮替只是换人命令；若只强调发号施令，公共秩序无法维持。自由公民的能力存在于这种相互角色中。",
+            "以参与审议和司法界定公民，显示身份随政体而变，也使妇女、奴隶、外来者和劳动者的排除成为内部压力。定义揭示参与结构，却不能仅凭当时范围证明这些排除合理。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "自然奴隶论的识别失败",
+          "paragraphs": [
+            "论证说有些人能感知理性却不能自己拥有充分理性，受主人统治对双方有益。可现实奴隶多由战争、债务和出生造成，这些来源不能证明能力本性。",
+            "亚里士多德本人承认按法律成为奴隶未必按自然是奴隶，却没有提供不受支配环境污染的识别方法。无法识别使辩护容易为既有暴力服务。",
+            "自然奴隶论把某些人描述为能理解理性却不能自身拥有审议能力，但识别标准循环依赖既有支配，战争俘获也不能证明本性。事实依据不足，使规范结论无法获得它声称的自然支持。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "政体按共同利益分岔",
+          "paragraphs": [
+            "一人、少数或多数统治并非唯一标准。君主制、贵族制和共和政体以共同利益为目标，僭主、寡头和偏离的民主则让统治集团只顾自身。",
+            "这里的民主带有古代分类语境，不能直接等同今日宪政民主。更有启发力的是第二维：制度究竟让公共权力服务谁。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "家庭等级不能由自然一词免责",
+          "paragraphs": [
+            "文本把丈夫对妻子、父亲对子女和主人对奴隶的统治区分，却仍把性别与身份等级自然化。观察受排除者少有公共发言，再据沉默证明能力不足，形成循环。",
+            "理解论证的历史位置不等于接受结论。平等自由要求每个人不因出生被当作他人工具，能力差异也应由支持与具体任务回应，而非永久支配。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "友爱扩展为公民纽带",
+          "paragraphs": [
+            "伦理中的友爱使共同活动成为幸福部分，政治则研究陌生人如何共享制度。公民友爱不要求人人成为亲密朋友，而要求对共同正义有最低关切。",
+            "若制度只靠恐惧维持，成员不会把共同决定认作自己的活动。轮流统治与被统治试图让自由人共同承担判断责任。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "最佳制度与可行制度",
+          "paragraphs": [
+            "亚里士多德既问无条件最好的生活，也问在既有财富分布与习惯下什么制度较稳定。把两问混在一起，会让理想口号掩盖实施条件。",
+            "混合政体利用中等阶层，试图缓和富者与贫者互相把持。它不是永恒配方，而是从社会结构寻找避免一方独占的机制。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "共同善与个人权利",
+          "paragraphs": [
+            "共同善提醒我们，自由需要制度、教育和公共资源，不能缩成私人不受干预。可若共同体被说成有权吞没成员，少数人又会以整体名义支配。",
+            "当代权利语言为个人设置不可被公共目标轻易越过的边界。它可与共同善互补：共同条件支持自由，权利防止条件之名变成牺牲许可证。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "检验自然化的等级",
+          "paragraphs": [
+            "遇到“某群体天生适合被领导”，先追问证据是否来自已经剥夺教育、发言和选择的处境。若支配造成表现，再用表现证明支配，论证循环。",
+            "还要问能力差异是否真能推出全面永久统治。某人不擅长一项任务，只支持在该任务中提供帮助，不支持把其人生目的交给别人决定。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "公共判断需要言说形式",
+          "paragraphs": [
+            "城邦为善生活提供完整共同条件，公民以参与审议司法界定，政体按人数与共同利益分析。奴隶制和性别等级论证则在事实与规范上失败。",
+            "公民如何实际形成判断，还依赖公开言说、情感和共同叙事。修辞与诗不在政治之外，它们塑造何物显得可信、可怕、可怜与可能。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一座城市召开防洪听证，只邀请地产所有者，并以租户缺少专业知识为由排除他们。可租户掌握积水路线和撤离困难，只是长期没有制度发言权。若先排除、再以未参与证明无能力，便重演自然化等级的循环。更好的公民判断会区分专业分析与受影响者经验，让两者共同进入审议，并公开说明最终方案怎样回应不同证据，也保留少数意见推动再次复核的路径。",
+      "nodeIds": [
+        "aristotle-09-teaching"
+      ],
+      "checkIds": [
+        "aristotle-09-check-1",
+        "aristotle-09-check-2",
+        "aristotle-09-check-3",
+        "aristotle-09-check-4"
+      ],
+      "abilitySummary": [
+        "能说明家庭、城邦、言说与善生活之间的推理关系。",
+        "能用参与审议司法理解公民，并按共同利益分析政体。",
+        "能具体指出自然奴隶论的识别循环、经验错误和规范失败。"
+      ],
+      "recommendedNextLessonId": "aristotle-10",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-10",
+      "order": 10,
+      "title": "说服、悲剧与净化的未决含义",
+      "depth": "deep",
+      "guidingQuestion": "公共判断既不能只靠形式证明，也不能任由情感操纵；修辞怎样组织可信、情感和理由，悲剧又为何能通过虚构行动使人理解可能之事？",
+      "coreExplanation": "《修辞学》把修辞规定为发现每一情形中可用的说服手段。说话者呈现的品格、听众的情感状态和言辞中的论证共同作用；修辞三段论从公众可接受前提出发，省略部分仍须可补足。情感不是与理性无关的噪音，因为恐惧、怜悯和愤怒包含对处境的评价，但也可被误导。《诗学》把悲剧界定为对完整而严肃行动的摹仿，以情节而非人物传记为灵魂。诗比历史更哲学，因为它处理按可能或必然会发生的类型。净化只在定义处简短出现，其医学、情感、认知和伦理解释必须保持开放。",
+      "sections": [
+        {
+          "heading": "真理为何仍需要被说服地看见",
+          "paragraphs": [
+            "法庭和议事会没有无限时间从第一原理证明一切，参与者知识也不相同。若真理不能以可理解理由进入现场，较弱主张可能因表达更有效而获胜。",
+            "修辞因而既危险又必要。它研究有限情境中的判断资源，不保证善用；正如医术可被误用，能力需要伦理目标约束。",
+            "议事言说面向未来行动，法庭言说判断过去事实，展示言说赞美或责难当下价值。时间方向改变证据：未来需要可能与利害推断，过去需要事实与责任重建，赞美则把选择放进品格图景。把三者混用会让预测冒充审判，或让赞美掩盖事实。",
+            "受众也不是被动容器。说服手段之所以有效，部分因为听众已有经验、信念和情感倾向。修辞研究既分析说话者技巧，也映出共同体的判断习惯；一个群体容易被何种恐惧煽动，暴露其公共教育与信任结构。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "信誉、情感与言辞理由",
+          "paragraphs": [
+            "听众会判断说话者是否明智、有德并怀善意，也会在恐惧或愤怒中以不同方式看事实。信誉与情感因此进入说服结构。",
+            "言辞本身还要展示或看来展示证明。三种手段不是让事实退场，而是说明公共判断总在对人、处境和理由的综合把握中发生。",
+            "信誉应由言说中的判断表现建立，而不只是借职位和名望预先领取。一个专家若准确说明不确定性、回应反证并承认利益关系，会让可信性具有可检查根据；只要求听众因头衔服从，则把人格证明退化成权威压力。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "修辞三段论为何可以省略",
+          "paragraphs": [
+            "“他是暴君，所以不可信”省略了暴君不可信的普遍前提。听众若共享该前提，推理仍能跟随；若前提有争议，省略便可能隐藏漏洞。",
+            "省略不是没有逻辑，而是把部分交给公共常识。审核修辞时应把省略项补出，检查它是否真实、相关，是否把偏见伪装成共识。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "恐惧改变风险的距离",
+          "paragraphs": [
+            "遥远危险若被描述成即将临头，人会高估紧迫；真实近危若以抽象数字呈现，又可能无法行动。恐惧包含伤害严重且接近的判断。",
+            "合宜言说既不压制所有恐惧，也不煽动无对象恐慌，而要让距离、可能性与后果被准确感受。情感校正和事实校正相连。",
+            "怜悯也依相似与可能性而变。若听众把受苦者视为完全异类，便可能否认同样命运会临到自己；戏剧通过行动细节恢复相似性。但相似性也可被选择性操纵，只让某些受害者可见。修辞分析因此要问谁被呈现为值得同情的人。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "摹仿不是低劣复印",
+          "paragraphs": [
+            "若悲剧只是复制某次事故，改动细节就会降低真实性。亚里士多德却允许诗人组织事件，使行动按可能或必然形成整体。",
+            "虚构的俄狄浦斯并非因档案精确才有认识价值，而因无知、求真与反转构成可理解关系。摹仿重组行动结构，不是照相式复印。",
+            "诗比历史更具哲学性，不表示诗可忽略事实任意幻想。它按可能性或必然性安排某类人在某类处境中的行动，从个别事件显出一般结构；认识价值来自组织关系，而非虚构身份本身。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "情节为何是悲剧的灵魂",
+          "paragraphs": [
+            "悲剧摹仿的首先是行动与生活，不是静态性格。反转、发现与苦难若从前事合理发生，情节形成有开端、中段和结尾的完整整体。",
+            "人物性格仍重要，却在选择中显现。若只有鲜明人物而事件任意堆叠，观众看不见行动如何产生后果，也难以形成怜悯与恐惧。",
+            "反转和发现的力量不只在惊讶，而在重新组织先前选择的意义，使怜悯与恐惧有可理解对象。情节居中心，因为悲剧摹仿行动，而幸福与毁灭也在行动中实现。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "净化不能被一句译法封闭",
+          "paragraphs": [
+            "悲剧定义说通过怜悯与恐惧完成这类情感的净化，却没有在现存文字中给出完整理论。喜剧部分也未完整传世，证据边界明显。",
+            "把净化只说成情绪发泄、医学排毒、道德教育或认知澄清，都需要额外论证。较稳妥的做法是比较解释能说明哪些词句，又遗漏什么。",
+            "净化可能涉及澄清、调节、释放或某种结合，现存文字不足以裁决。可保留的结论是悲剧情感具有认知结构，其组织构成作品功效；更强主张必须同时标明解释所依证据。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "政治判断与戏剧观看",
+          "paragraphs": [
+            "修辞直接面对公民决定，悲剧则让共同体观看行动后果。两者都组织何物显得可能、可怕和值得怜悯，因此参与公共感受的形成。",
+            "但悲剧不等于政策演说。它通过完整行动与反转让评价暂缓，使人体验判断改变；这种间接性正是其独特认识力量。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "情感包含对世界的看法",
+          "paragraphs": [
+            "愤怒不仅是身体发热，还包含自己或亲近者受无理轻视的判断；怜悯也包含无辜或不相称苦难可能临到类似者的看法。",
+            "因此改变情感可以通过改变事实判断、距离和相似性。修辞伦理的核心不是有没有情感，而是让哪种世界图景激活何种情感。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "论证与叙事的不同责任",
+          "paragraphs": [
+            "论证把前提与结论关系显出，叙事让行动在时间中展开，使动机、无知和后果可感。两者都能说明，却以不同方式选择相关信息。",
+            "叙事感染力不能免除事实责任，形式论证也不能假装受众没有情感。成熟判断会在可补足推理与不操纵的具体呈现之间往返。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "补出一段说服的隐藏前提",
+          "paragraphs": [
+            "听到“他来自外地，所以不会关心本城”，先补出隐藏普遍句，再问经验是否支持、是否把群体偏见当作常识。省略项一显出，争议位置便可讨论。",
+            "面对悲剧式个案，还要检查感人细节是否代表一般结构。一个故事能揭示可能性，却不能单独提供发生频率，情节理解与统计证据各有职责。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "艺术研究回到自然方法",
+          "paragraphs": [
+            "修辞以信誉、情感和论证组织有限情境的说服，悲剧以情节摹仿完整行动。情感含评价，诗处理可能类型，净化解释保持开放。",
+            "修辞与诗学都显示亚里士多德从实际材料分类、比较并寻找功能。要评价这种研究方式，还需回到他对自然观察、原因和学科精度的整体实践。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一次公共卫生发布会只说“专家认为必须封闭公园”，省略感染在拥挤场所传播、此公园当前拥挤的前提。补出后，人们才能核对数据与替代方案。若发布者再用最惨烈个案制造无差别恐惧，情感会遮蔽风险比例；若只给冷数字，也可能无法呈现脆弱者处境。可信说服要同时承担事实、推理和情感校正，还要说明措施何时复核、何种反证会促成改变。这样的可修正承诺本身也构成可信品格，而不是削弱权威，并让不同利益者能够针对同一前提提出证据，继续参与共同判断。",
+      "nodeIds": [
+        "aristotle-10-teaching"
+      ],
+      "checkIds": [
+        "aristotle-10-check-1",
+        "aristotle-10-check-2",
+        "aristotle-10-check-3",
+        "aristotle-10-check-4"
+      ],
+      "abilitySummary": [
+        "能区分信誉、情感和言辞理由，并补出修辞三段论的省略前提。",
+        "能说明悲剧情节为何摹仿行动类型而非复制个别事实。",
+        "能把净化保留为受传世文本限制的多解争议。"
+      ],
+      "recommendedNextLessonId": "aristotle-11",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-11",
+      "order": 11,
+      "title": "自然研究的方法与历史边界",
+      "depth": "deep",
+      "guidingQuestion": "亚里士多德如何把观察、分类与原因说明结合成自然研究，又该怎样承认他的生物学成就而不保存雌性残缺、自生说等错误结论？",
+      "coreExplanation": "亚里士多德的自然研究先收集动物差异、生活方式和部件，再寻求材料、发动、形式与功能原因。研究对象不同，所需精度也不同；不能要求动物材料像数学定义一样无例外。他反对只看外表高贵的动物，认为每种自然物都显出组织。比较方法与功能提问具有持久价值，但观察条件、报告来源和目的论前提限制结论。雌性被称为残缺雄性、若干动物被说成自生、社会等级被自然化，均不能因历史影响而保留为真。方法贡献与结论真值必须逐项分开。",
+      "sections": [
+        {
+          "heading": "事实清单为何还不是自然知识",
+          "paragraphs": [
+            "记录鱼有鳍、鸟有翼、鲸用肺呼吸，是研究起点。若不比较部件怎样服务活动、物种差异如何形成，清单仍没有组织。",
+            "反过来，先宣布自然总为最好，再忽略反常与失败，会让理论吞掉观察。亚里士多德的实践就在材料与原因之间往返，成功与失误都由此产生。",
+            "历史边界首先表现在可见范围。没有显微镜、长期控制繁育和全球标本网络，胚胎早期过程与遗传关系只能由有限解剖和类比推测。精细观察值得肯定，推测强度却必须与仪器和样本条件相称，不能因体系宏大而升级。",
+            "第二重边界来自社会位置。谁能接近渔场、畜养与女性生殖经验，谁的报告被记录，都会影响材料。知识不是孤立头脑直视自然，采集网络的权力与可信度也进入结果；这项反思能解释为何某些偏见长久看似经验事实。",
+            "第三重边界是概念预设。若先把成熟雄性当作形式完成，再解释雌性与幼体，分类起点已经含价值方向。观察可以纠正理论，前提也能选择哪些观察被重视；方法审计必须同时查看两边。",
+            "自然研究最值得保留的不是一份永不更正的结论表，而是让现象、分类和原因主张彼此约束。比较解剖、繁殖与生活方式记录显示接触材料的努力；样本狭窄、二手报告和等级预设也会塑造观察。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "problem"
+        },
+        {
+          "heading": "分辨事实与原因研究",
+          "paragraphs": [
+            "先问某特征是否存在、在哪些动物出现，再问为何出现。把两步分开可以防止用喜欢的解释制造事实，也防止事实堆积而没有问题。",
+            "分类并非固定标签仓库。按有无某部件、生活环境和生殖方式比较，会形成交叉差异；真正困难是判断哪些差异对解释相关。",
+            "还要允许答案反过来修改最初事实描述。发现海豚用肺呼吸后，“水中动物”不再等于“鱼”，原本一个观察词被拆成栖息与生理两层。研究不是先把事实永远冻结再解释，而是在证据约束下让描述与原因相互校正。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "concept"
+        },
+        {
+          "heading": "功能说明为何需要材料限制",
+          "paragraphs": [
+            "眼要看见，需要透明介质与相称组织；骨要支撑，需要一定硬度。功能规定所需结构，材料性质又限定形式能怎样实现。",
+            "若只说为了看见，无法解释具体眼部构造；只说组织碰巧如此，也遗漏结构在生命活动中的角色。两类原因相互限定。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "鲸为何打破表面分类",
+          "paragraphs": [
+            "鲸生活在水中，外观像鱼，却用肺呼吸并生育活幼。若只按栖息地和体形分类，会把重要生理差异压平。",
+            "比较多个特征迫使分类服从组织事实，而非日常名称。这个方法姿态比任何单项古代结论更值得保留：反常对象能重排类别。",
+            "反常还检验哪个特征更接近原因。水中生活解释鳍状外形与运动，却不决定呼吸和胚胎发育；把不同特征分到不同问题，分类就不必寻找一条包办所有相似的轴。现代系统分类采用别种证据，但这种让异常迫使标准分化的纪律仍然重要。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "传闻进入材料时的风险",
+          "paragraphs": [
+            "远方动物常来自渔民、猎人和旅行者报告，亚里士多德不可能逐一直接观察。可靠经验、误记与传奇因此混在同一材料池。",
+            "收集广度是成就，也制造来源批判问题。若不知道观察者、条件和重复次数，具体叙述不能因被编入系统就自动可靠。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "研究低微动物的理由",
+          "paragraphs": [
+            "《动物部分》劝人不要因某些动物外观卑微而厌弃研究，因为自然作品都含值得惊异的秩序。这个姿态反对只研究壮丽对象。",
+            "解释价值来自组织关系，不来自对象迎合审美。观察昆虫、软体动物和内脏可以揭示生命共同原则，也会暴露既有类别不足。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "雌性残缺论必须被拒绝",
+          "paragraphs": [
+            "把雄性视为主动形式来源、雌性视为被动材料，并称雌性为残缺雄性，既受错误生殖理论支撑，也把价值等级嵌入性别差异。",
+            "现代遗传、胚胎与生殖研究推翻其机制，平等原则也拒绝由性别推出较低实现。历史解释可以追踪成因，不能减轻结论错误。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "四因在经验研究中受检验",
+          "paragraphs": [
+            "四因不是只在抽象例子里出现。材料性质、胚胎发动、成熟形式与器官功能在生物研究中彼此校正，使解释具有层次。",
+            "但若功能被预设成最佳，失败结构会被勉强合理化。经验反例必须能修改目的说明，否则四因从研究框架退化成不可失败的口号。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        },
+        {
+          "heading": "历史贡献不形成真值保护罩",
+          "paragraphs": [
+            "开创比较生物学的人也能在具体机制上错误。贡献说明一套提问和收集方式产生过新知识，不使其中每个判断获得永久豁免。",
+            "公平评价要同时避免两种懒惰：因错误抹掉观察成就，或因成就替错误辩护。逐项列证据与后果，比给整个人贴先进或落后标签更准确。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "现代实验改变了证据结构",
+          "paragraphs": [
+            "现代科学强调可重复测量、控制比较、统计与公开方法，能识别许多肉眼观察无法分开的机制。亚里士多德没有这些制度与仪器。",
+            "他的分类、比较和多因提问仍可启发问题形成，却必须进入现代证据门。古代权威不能与可重复数据并列为同等裁决者。",
+            "生物功能可表达部分对整体活动的稳定贡献，却不能免除发育机制、变异和失败案例。现代实验、进化论与统计推断改变了因果模型；四因可提醒问题不同，不能替代这些证据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "给一项历史科学主张分层",
+          "paragraphs": [
+            "先区分直接观察、他人报告、分类概括和原因推断，再为每层标出证据。观察真实不保证原因正确，错误原因也不必使全部观察虚假。",
+            "随后检查价值判断是否偷偷进入自然描述。把常见说成正常、把正常说成更好，是三次不同推论，任何一步都需独立理由。",
+            "历史判断不必在赞美与否定间选边。应逐项追踪论断怎样受证据支持、怎样受时代假设限制，以及后来方法为何有理由修正它；贡献不能形成真值保护，错误也不能抹去可复核材料。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "研究方法进入传承史",
+          "paragraphs": [
+            "自然研究把广泛观察、分类比较和多种原因结合，形成重要方法遗产；来源限制、错误机制与等级偏见则构成不可回避的边界。",
+            "这些文本后来如何从手稿整理成权威体系，又怎样经希腊注释、阿拉伯翻译和拉丁经院发生变形，将决定后人所称的亚里士多德究竟是谁。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一部古医书准确记录某植物能缓解发热，却解释为植物具有驱逐热性精灵的目的。现代研究可保留观察线索，重新做对照、剂量和成分分析，同时拒绝原机制。若因机制荒诞丢掉全部记录，会错失线索；若因疗效线索保存精灵解释，又把偶然正确当成整套理论得到证实。还应记录植物种类、采集季节与不良反应，因为“有效”若没有条件边界，也会重新变成含混权威，并妨碍后来复验。",
+      "nodeIds": [
+        "aristotle-11-teaching"
+      ],
+      "checkIds": [
+        "aristotle-11-check-1",
+        "aristotle-11-check-2",
+        "aristotle-11-check-3",
+        "aristotle-11-check-4"
+      ],
+      "abilitySummary": [
+        "能说明观察、分类、材料限制和功能原因怎样在自然研究中相连。",
+        "能分开直接观察、报告、概括与机制推断的证据强度。",
+        "能同时承认方法贡献并拒绝性别等级、自生说等错误结论。"
+      ],
+      "recommendedNextLessonId": "aristotle-12",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-12",
+      "order": 12,
+      "title": "一个名字如何变成多种传统",
+      "depth": "deep",
+      "guidingQuestion": "传世著作多像研究讲稿与整理材料，后人又不断重排、注释和翻译；我们怎样说亚里士多德主义而不把两千年的变形倒算成作者原意？",
+      "coreExplanation": "现存著作不是亚里士多德全部写作，许多公开作品已失，留下的文本常有压缩、重复和层次接缝。安德罗尼柯整理语料的传统报告提醒我们，卷名与次序含后世编辑。希腊注释家把难点系统化，阿拉伯语世界在翻译、改写与新柏拉图材料交织中发展法拉比、阿维森纳和阿威罗伊的不同亚里士多德；拉丁世界经翻译和大学制度形成经院体系，阿奎那的综合既继承又改造。文艺复兴回到希腊文、近代科学反抗某些学院权威，仍继续与因果、德性和形式问题对话。亚里士多德主义因此是复数接受史，不是封存的作者声音；同名传统必须逐项说明文本、语言、制度和新增前提。",
+      "sections": [
+        {
+          "heading": "我们手中的作品为何不像完稿全集",
+          "paragraphs": [
+            "文本常突然转题、重复定义、承诺以后处理却未见下文，也有同一材料在不同作品重现。它们更像研究写作与讲授材料的层叠。",
+            "若把每个接缝都解释成严密设计，会制造虚假统一；若因接缝拒绝一切联系，又看不见问题长期回返。需要在文本局部与解释重构间往返。",
+            "作品真伪也不是整齐二分。有些文本普遍被接受，有些明显出自后人，有些内部层次仍受争论。判断依语言、互引、手稿传统和学说关系共同进行；题名写着亚里士多德只是证据之一，不能单独决定作者身份。",
+            "遗失作品又提醒我们，现存材料可能偏向内部研究而非面向公众的文体。古代书目提到对话等作品，今日整体形象却主要由密集论稿构成。不能从幸存文体推出作者从未以别种方式表达，也不能凭想象补写失文内容。",
+            "翻译进一步改变概念边界。希腊语同一词在阿拉伯语和拉丁语中获得新联想，拉丁术语再进入现代语言。负责任的比较会保留术语链，说明何处近似、何处因本地争论产生新义，而非假定一个英文或中文词穿越时代始终同义。"
+          ],
+          "identity": "compilation-order",
+          "kind": "problem"
+        },
+        {
+          "heading": "接受史不是影响名单",
+          "paragraphs": [
+            "接受不是一本书原样传给下一人。抄写选择、译词、注释格式、宗教争论和学校制度都会改变哪些问题居中。",
+            "同一“理智”在希腊注释、阿拉伯哲学和拉丁经院中可能进入不同灵魂与不朽争论。追踪变化要问增加了什么前提，而非只列姓名。",
+            "后世变形不只是误读。注释者逐句澄清难题，也让少数段落承担更大体系重量；每次接受都保存、选择并创造。因此亚里士多德主义是一族由文本、译语和争论连接的传统。"
+          ],
+          "identity": "later-reception",
+          "kind": "concept"
+        },
+        {
+          "heading": "安德罗尼柯整理传统的意义",
+          "paragraphs": [
+            "波菲利提到安德罗尼柯按题材整理亚里士多德与泰奥弗拉斯托斯著作。晚期资料不能精确恢复每卷编辑过程，却足以提醒现今顺序不是透明作者意图。",
+            "题名和排列可引导解释，例如把若干卷放在《物理学》之后形成“形而上学”传统。编排产生哲学效果，却仍需与卷内论证证据区分。"
+          ],
+          "identity": "compilation-order",
+          "kind": "argument"
+        },
+        {
+          "heading": "主动理智在翻译中分叉",
+          "paragraphs": [
+            "亚历山大把主动理智与神圣理智关系化，阿维森纳让它在宇宙理智秩序中给予形式，阿威罗伊提出人类共享理智的强解释，阿奎那则捍卫个体灵魂能力。",
+            "这些路线都回应III.5的真实困难，却各自带入宇宙论、个体化和宗教前提。分歧显示开放文本怎样成为新体系发动机。",
+            "争论也产生制度后果。若所有人共享单一理智，个人怎样拥有自己的理解与责任；若每个灵魂有个体理智能力，普遍知识又如何共同？大学论战、宗教审查和注释体裁让这些问题不只是抽象分歧，而成为知识共同体如何界定人和权威的现场。",
+            "希腊注释传统放大理智争议；阿拉伯语翻译和原创论证重组因果与第一原理；拉丁经院又把形式质料和德性接入基督教问题。近代批判物理学时，仍保留或改写逻辑与德性语言。"
+          ],
+          "identity": "later-reception",
+          "kind": "case"
+        },
+        {
+          "heading": "亚里士多德说不能结束争论",
+          "paragraphs": [
+            "在经院争论中引用权威可以快速定位共同文本，但一句“哲学家说”不能代替解释。不同作品、语境和译本可能支持不同读法。",
+            "近代反亚里士多德者有时反对的也不是古代文本本身，而是学院固定版本。把权威接受等同作者，会让批评和辩护都找错对象。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "阿奎那的综合为何既近又远",
+          "paragraphs": [
+            "阿奎那借现实潜能、四因和灵魂形式说明创造物，同时坚持从无创造、天意和个人灵魂不朽。前一组提供概念语法，后一组改变总体工程。",
+            "称其为亚里士多德传统有充分理由，称其每项结论都只是重复亚里士多德则不准确。创造性继承恰在保存差异时更清楚。"
+          ],
+          "identity": "later-reception",
+          "kind": "argument"
+        },
+        {
+          "heading": "伪作与误归属改变权威",
+          "paragraphs": [
+            "历史上若干新柏拉图文本以亚里士多德名义流传，例如所谓《亚里士多德神学》。误归属使接受者在同一权威名下结合本来不同传统。",
+            "指出伪作不等于宣布其没有历史作用。它可能深刻塑造阿拉伯和拉丁形而上学，只是作用属于接受史，不能作为希腊原文证据。"
+          ],
+          "identity": "compilation-order",
+          "kind": "boundary"
+        },
+        {
+          "heading": "反叛仍继承了问题",
+          "paragraphs": [
+            "伽利略式新科学反对学院物理中的若干运动与天文学主张，实验数学改变了证据标准。这是真实断裂，不应说成亚里士多德早已包含现代科学。",
+            "但原因、形式、生命功能、德性和修辞问题没有随旧宇宙学一同消失。后世常在拒绝答案时继承提问结构，影响因此不是全收或全弃。"
+          ],
+          "identity": "later-reception",
+          "kind": "connection"
+        },
+        {
+          "heading": "从单数名字到复数工程",
+          "paragraphs": [
+            "“亚里士多德主义”若用单数，容易让人想象一套两千年不变教条。更准确的是多种工程在不同语言、制度和问题中选择文本资源。",
+            "复数并不表示毫无共同核心。实体、因果、理智、德性与证明反复出现，但每次组合、优先级和外加前提不同。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        },
+        {
+          "heading": "历史还原与当代使用",
+          "paragraphs": [
+            "历史还原问某段在当时语境最可能是什么意思，当代使用问这些区分能否帮助今日问题。两种工作合法，却不能互相冒名。",
+            "若用潜能讨论残障支持，应明确这是当代发展；若解释Θ卷，则要回到希腊语、卷内论证与古代自然观。身份标记保护两种价值。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "为一条传统主张标明身份",
+          "paragraphs": [
+            "看到“亚里士多德证明了个人灵魂不朽”，先找具体作品与位置，再区分原句、注释推论、神学综合和现代概括。缺少任何一层都不应合并。",
+            "再问译名是否改变问题、传世次序是否影响阅读、竞争解释保住哪些证据。这样可以尊重传统深度，又不让权威名字遮盖推理。",
+            "判断一项主张属于谁，至少要问能否定位到希腊文本、卷次是否稳定、推论来自哪位注释者、后来框架增加了什么。《亚里士多德神学》等误归作品有历史效力，却不是作者原文证据。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        },
+        {
+          "heading": "连续理解最终回到证据边界",
+          "paragraphs": [
+            "从实体、变化、潜能现实到灵魂、逻辑、伦理、政治、艺术和自然研究，连续路线展示问题怎样相逼，却不是作者亲定次序。",
+            "成熟理解既能在思想内部跟随理由，也能在外部标出卷次、讲稿层次、编纂、争议与后世改造。保留这些边界，传统才不会变成单一口号。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "recap"
+        }
+      ],
+      "caseText": "一篇文章写道：“亚里士多德的《神学》证明世界由一者流溢。”核查会发现所谓《亚里士多德神学》主要改写普罗提诺材料。它确实影响了阿拉伯哲学，却不能证明希腊亚里士多德持该学说。正确处理不是删掉这部作品，而是把它从作者文本移到误归属与接受史，并追踪它如何改变后来的亚里士多德形象。",
+      "nodeIds": [
+        "aristotle-12-teaching"
+      ],
+      "checkIds": [
+        "aristotle-12-check-1",
+        "aristotle-12-check-2",
+        "aristotle-12-check-3",
+        "aristotle-12-check-4"
+      ],
+      "abilitySummary": [
+        "能区分现存文本、讲稿层次、卷次整理和现代连续重构。",
+        "能说明希腊、阿拉伯、拉丁和近代接受如何加入不同前提。",
+        "能为原文、伪作、注释、神学综合和当代使用标明身份。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-13",
+      "order": 13,
+      "title": "运动、无限、处所与时间",
+      "depth": "deep",
+      "guidingQuestion": "变化若不是一串静止画面，怎样既真实连续，又能分段、比较和计量？",
+      "coreExplanation": "L02说明变化的原则与四因，L03说明潜能和现实；《物理学》III–VI解释两者之间正在发生的过程。运动的定义把未完成性保留在现实之中。对无限、处所、虚空、时间和连续的分析，则说明自然运动如何有边界、有先后并可以测量，而无需把连续体化成实际无穷的点堆。",
+      "sections": [
+        {
+          "heading": "运动不是完成品也不是纯粹可能",
+          "paragraphs": [
+            "潜在者完全尚未活动时只有能力，完成后相关过程又已结束。正在建造既不是砖块的静止可建造性，也不是已经完成的墙；它是可建造者就其可建造而言的现实。",
+            "定义的困难恰来自运动横跨潜能与现实。它并非用“运动就是运动”绕圈，而是说明一种现实为何仍内含未完成性。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "潜在无限而非完成总体",
+          "paragraphs": [
+            "数总能再加，长度总能再分，这使无限表现为任何阶段之后仍有下一步，而不是一个已经完成、可同时遍览的自然物。",
+            "亚里士多德因此承认潜在无限，拒绝自然中实际完成的无限量。这个区分服务于连续运动，却不应被倒写成现代数学对实际无穷的最终裁决。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "处所不是独立盒子",
+          "paragraphs": [
+            "一个物体的处所被界定为包围它的容器之第一不动界限。处所因而真实回答“在哪里”，却不是脱离物体而自存、各处性质全同的无限容器。",
+            "定义面临移动容器与宇宙整体等难题，显示亚里士多德是在其有限宇宙论中组织位置，而不是提前给出现代空间理论。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "boundary"
+        },
+        {
+          "heading": "虚空为何不能解释运动",
+          "paragraphs": [
+            "若虚空完全没有差异，运动便缺少为何朝此方向、以此速度发生的自然根据；若阻力为零，速度比例也失去尺度。亚里士多德据此拒绝以独立虚空承载运动。",
+            "这些论证依赖其动力学，后来物理学会拒绝结论。哲学价值在于逼迫“空无”承担明确解释角色，而不是把历史结论保存为现代事实。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "时间数的是运动的先后",
+          "paragraphs": [
+            "时间不是运动本身，因为快慢不同的运动共享同一时间；也不能完全脱离变化，因为若意识不到任何改变，便不觉时间经过。时间是就前后而言的运动之数。",
+            "“数”既可指被计数者，也牵涉计数活动，由此产生没有灵魂是否有时间的著名难题。文本至少把可计量秩序与实际计数区分开，未简单宣布时间只是心理幻觉。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "连续体不由不可分点砌成",
+          "paragraphs": [
+            "线可以不断再分，但点没有长度；把无长度的点相加不能生成长度。连续体的部分共享边界，并且在实际切分前只是可分。",
+            "芝诺迫使我们区分路径可无限细分与必须先完成实际无穷多个独立任务。跑者经过连续距离，不等于逐项访问一个已完成的无穷点清单。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "与L02、L03和L04的桥",
+          "paragraphs": [
+            "L02给出变化所需的承载者、形式、缺失和原因，L13解释变化正在实现的结构，L03再把潜能—现实推广到能力、活动和实体优先。",
+            "L04关于永恒运动与不动推动者只有经过时间、连续和运动分类才获得物理学背景。新增中介不替换旧篇，而是把原先跳跃的推理链补齐。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "connection"
+        }
+      ],
+      "caseText": "一支箭在一段距离中飞行。把路径画成一千段不会使箭完成一千次彼此隔绝的启动；继续细分也只是增加可标出的边界。问题不在“点太多所以运动不可能”，而在是否把潜在可分偷换成实际完成的任务清单。",
+      "nodeIds": [
+        "aristotle-13-teaching"
+      ],
+      "checkIds": [
+        "aristotle-13-check-1",
+        "aristotle-13-check-2",
+        "aristotle-13-check-3",
+        "aristotle-13-check-4"
+      ],
+      "abilitySummary": [
+        "能用潜在者之为潜在者的现实说明运动，而不把定义化成同义反复。",
+        "能区分无限、处所、虚空与时间各自回答的问题，并重建时间依赖前后与计数的结构。",
+        "能用可无限分、连续与实际划分区分来回应芝诺式难题，同时保留解释争议。"
+      ],
+      "recommendedNextLessonId": "aristotle-14",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-14",
+      "order": 14,
+      "title": "从公认意见到原则检验",
+      "depth": "deep",
+      "guidingQuestion": "若科学证明不能证明自己的第一前提，辩证讨论怎样帮助检验原则而又不冒充证明？",
+      "coreExplanation": "辩证法从endoxa而非某门科学的专属原则出发，以问答、承诺和反例把意见的含义与后果显露出来。它在跨领域的原则审查、概念区分和论证训练中有正当功能；但一项意见广受认可并不使它自动为真，更不提供科学证明要求的原因。",
+      "sections": [
+        {
+          "heading": "endoxa不是民意票",
+          "paragraphs": [
+            "公认意见包括所有人、多数人、贤者或其中著名者所接受者。它们提供可共同开始的理由背景，不是以人数直接制造真理。",
+            "起点的可接受性让问答可以推进；结论的可靠性仍取决于区分、反例和与其他承诺的关系。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "问题与命题的攻守结构",
+          "paragraphs": [
+            "辩证问题把可争论的两面提出，命题则要求答者承诺其中一面。提问者寻求能推出目标的前提，答者维护一致并避免授予过强承诺。",
+            "这种角色结构不是纯粹赢辩，而是把隐含前提公开，使论证可以逐步检查。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "method"
+        },
+        {
+          "heading": "三种用途与原则之路",
+          "paragraphs": [
+            "《论题篇》列出训练、交谈和哲学研究等用途。对各科学第一原则尤其重要，因为不能用同一科学的结论循环证明其起点。",
+            "辩证法能够从双方认可内容出发测试原则的后果、排除混乱并显示更可信方向；“通向原则”不等于“从公认性演绎出原则必真”。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "与L06严格分工",
+          "paragraphs": [
+            "L06已经说明科学证明的前提条件，以及经验、记忆、归纳和理智如何使普遍项稳定。本篇不另造一条第一原理取得史。",
+            "这里新增的是公共可争论性：当专门证明尚未开始时，怎样比较候选原则、澄清用词并检验承诺。取得与检验相连，却不是同一认知动作。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "boundary"
+        },
+        {
+          "heading": "似是而非的反驳",
+          "paragraphs": [
+            "《辩谬篇》区分真正反驳与只因语言或论证形式显得成功的反驳。同一个词换义、把合说与分说混淆、把偶性当本质，都可制造假胜利。",
+            "另一些错误不依词语，例如预设所要证明、把非因当因或提出不相干结论。诊断必须指出错误发生在哪一步，不能只给“诡辩”标签。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "证明、辩证与修辞不可压平",
+          "paragraphs": [
+            "科学证明追求由真实首要且作为原因的前提产生必然知识；辩证法以公认意见检验可争问题；修辞面向具体公众寻找可用说服手段。",
+            "三者都能出现推论，却因起点、对象与实践情境不同而不能合并成泛泛的“逻辑”。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "comparison"
+        },
+        {
+          "heading": "问答伦理与制度边界",
+          "paragraphs": [
+            "问答规则要求在适当时承认清楚前提、容许区分，并评价论证本身。这为理性争论提供纪律；但《论题篇》与《辩谬篇》的定位本身不证明谁被古代制度排除。",
+            "作为外部制度史背景，古典雅典的大会、议事会与陪审参与限于成年男性公民，妇女、外侨与被奴役者处在不同的排除位置。现代使用可以继承公开承诺与逐步检验，却不能把这一参与边界当作规范权威。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        }
+      ],
+      "caseText": "一场讨论从“专家通常值得信任”开始。辩证检验先区分哪一领域、何种共识与哪些利益冲突，再询问该承诺是否会推出无法接受的后果。即使检验后仍保留命题，它也没有因此变成关于具体事实的科学证明。",
+      "nodeIds": [
+        "aristotle-14-teaching"
+      ],
+      "checkIds": [
+        "aristotle-14-check-1",
+        "aristotle-14-check-2",
+        "aristotle-14-check-3",
+        "aristotle-14-check-4"
+      ],
+      "abilitySummary": [
+        "能区分辩证推理的公认意见起点与科学证明的真实、首要且因果性的前提。",
+        "能说明问题、命题、攻守问答和反例检验如何发现或测试原则，而不重复L06的第一原理取得。",
+        "能识别同名异义、偷换问题与似是而非反驳，并把《辩谬篇》用于论证诊断。"
+      ],
+      "recommendedNextLessonId": "aristotle-15",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-15",
+      "order": 15,
+      "title": "朋友、共同活动与沉思生活",
+      "depth": "deep",
+      "guidingQuestion": "最高生活若是沉思，为何善人仍需要朋友、共同活动、外在资源和城邦？",
+      "coreExplanation": "完善友爱不是给孤立幸福添加装饰。朋友彼此因其自身而愿善，在共同生活与活动中成为彼此可见的善；“另一个自己”把恰当自爱扩展而非取消。沉思因其连续、自足和因自身可欲而取得最高排序，但人的沉思仍依赖德性养成、闲暇、身体资源和政治秩序。",
+      "sections": [
+        {
+          "heading": "三类友爱按所爱对象区分",
+          "paragraphs": [
+            "有用友爱爱的是所得利益，快乐友爱爱的是相处感受，完善友爱则在彼此认识品格后为对方自身愿善。",
+            "低两类并非全是假友爱；它们因基础易变而脆弱。完善友爱也包含用处与快乐，只是不以二者为决定性根据。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "concept"
+        },
+        {
+          "heading": "恰当自爱怎样通向他爱",
+          "paragraphs": [
+            "坏的自爱把财富、荣誉和欲望份额据为己有；恰当自爱让理性部分选择高贵行动，甚至把外在利益让给朋友。",
+            "朋友作为另一个自己建立在这种有秩序的自我关系上。若一个人内部持续分裂、无法愿自身之善，他也难以稳定地为朋友之善行动。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "共同活动使友爱现实化",
+          "paragraphs": [
+            "仅在远处抱有善意还不足以构成完整友爱。朋友共同生活、交谈并从事各自珍视的活动，在彼此行动中认识另一个人的品格。",
+            "朋友不是自我认识的镜面复制品；共同活动让双方的善在时间中接受检验，也可能纠正自我误解。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "友爱与正义的共同体尺度",
+          "paragraphs": [
+            "在家庭、伙伴关系与城邦中，友爱和正义的形式随成员关系改变。共同之物越重要，对公平分配、互惠与共同利益的要求越强。",
+            "这解释政治共同体为何不能只靠法律强制或市场交换维持，但不授权把古代家庭等级与公民排除当作今日正义标准。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "沉思最高性的逐步论证",
+          "paragraphs": [
+            "沉思运用被认为最好的能力，面向最好的对象；它比许多实践更连续，相对少依赖他人协作，且除活动本身外不追求另一结果。",
+            "闲暇在这里不是无所事事，而是让因自身可欲的活动成为生活中心。把这些比较前提逐项列出，才能评价结论，而不是只背诵“沉思最高”。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "神性、自足与人的条件",
+          "paragraphs": [
+            "沉思最接近被设想为纯现实的神圣活动，但人并非纯理智。身体健康、食物、教育、朋友与和平秩序仍是实际实行的条件。",
+            "相对自足不等于绝对不需他人。若把条件全部降为无价值工具，就会与友爱、德性行动和立法教育的厚重讨论发生张力。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "counterexample"
+        },
+        {
+          "heading": "两种竞争阅读",
+          "paragraphs": [
+            "现代研究并无单一裁决。课程选取两类代表性重建：排他或主导目的阅读把实践善组织在沉思之下；包容或复合善阅读把沉思视为完整幸福中最高但非唯一的内在善。",
+            "这些标签不是原典自称，也不穷尽研究。每种解释都须说明它如何同时处理I卷的完整与自足、VIII–IX卷的友爱和实践德性、X卷的最高排序及政治教育，而不靠删去不便段落获胜。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "interpretation"
+        },
+        {
+          "heading": "从私人善到制度化闲暇",
+          "paragraphs": [
+            "朋友共同活动显示善生活需要稳定时间与共同条件；沉思论又把闲暇提升为政治安排必须保护的目标。",
+            "因此伦理学不会停在个人选择。下一篇追问政体怎样变坏或保存，并怎样通过教育组织公民使用闲暇。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "bridge"
+        }
+      ],
+      "caseText": "两位朋友都重视音乐。一人只在获得演出机会时联系对方，另一人与朋友长期练习、互相纠正并愿对方即使离开自己也能成长。两者都有效用和快乐，但只有后一关系把对方自身之善和共同活动放在中心。",
+      "nodeIds": [
+        "aristotle-15-teaching"
+      ],
+      "checkIds": [
+        "aristotle-15-check-1",
+        "aristotle-15-check-2",
+        "aristotle-15-check-3",
+        "aristotle-15-check-4"
+      ],
+      "abilitySummary": [
+        "能从自爱、另一个自己与共同活动重建完善友爱的结构，并区分有用和快乐友爱。",
+        "能说明友爱与正义随共同体形式共同伸缩，而不把古代城邦成员资格当现代规范。",
+        "能重建沉思生活的活动、自足、连续、神性与闲暇论证，并评价其与外在条件和实践生活的竞争解释。"
+      ],
+      "recommendedNextLessonId": "aristotle-16",
+      "renderAuxiliary": false
+    },
+    {
+      "id": "aristotle-16",
+      "order": 16,
+      "title": "政体变革、保存与教育闲暇",
+      "depth": "deep",
+      "guidingQuestion": "政体怎样不只宣布共同善，而把稳定、最佳生活与善用闲暇落实为制度？",
+      "coreExplanation": "L09已界定城邦、公民和政体并批判自然奴隶论；本篇不重讲这些起点，而考察V–VIII卷怎样解释变革原因、组织民主与寡头机构，并让最佳生活进入空间、财产、人口、教育和音乐制度。",
+      "sections": [
+        {
+          "heading": "平等的不同尺度怎样引发冲突",
+          "paragraphs": [
+            "民主派可能从某方面平等推出全面平等，寡头派则从财富不等推出全面不等。双方把局部尺度扩张为统治资格，荣誉与利益分配于是成为政变动机。",
+            "分析不把冲突缩成观念错误：恐惧、轻蔑、获利机会、官员傲慢与地区差异都能把不满转成行动。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "小变化为何值得制度注意",
+          "paragraphs": [
+            "政体可能因一次资格调整、通婚集团增长、机构惯例或未受处理的小违法逐渐改变，而非只在公开革命当天开始。",
+            "保存要求观察累积效应并让参与者对制度有某种共同利益。仅以恐惧压制能延迟爆发，却可能加深造成变革的原因。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "case"
+        },
+        {
+          "heading": "保存不等于维持最纯原则",
+          "paragraphs": [
+            "一种政体要长久，常需节制自身最偏激的原则：民主不能把富者视为永久敌人，寡头也不能让多数完全无份。",
+            "官职期限、问责、财产资格、公共收入与法治安排都是保存技术。混合并非取消冲突，而是让任何一方较难独占全部制度杠杆。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "民主与寡头的组织变量",
+          "paragraphs": [
+            "会议是否向所有人开放、官职抽签或选举、财产资格高低、法院由谁组成，会产生不同民主或寡头形态。名称相同不代表制度效果相同。",
+            "VI卷的价值在于把政体从六格分类表展开为可组合机构。分析时要追踪谁能进入、谁能持续参与以及谁承担成本。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "method"
+        },
+        {
+          "heading": "最佳生活怎样进入空间与资源",
+          "paragraphs": [
+            "VII卷讨论人口与疆域应足以自足而又可治理，城市位置兼顾防卫与公共活动，财产安排要支持德性与闲暇。",
+            "这些方案显示“最佳生活”若没有物质和组织条件只是口号；但其功能分配把生产劳动留给无公民权者，暴露理想建立在排除之上。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "教育为何必须公共而共同",
+          "paragraphs": [
+            "若政体是一种共同生活，公民教育不能完全交给各家庭偶然选择。教育应与政体目标相称，使成员不只服从法律，还形成适合共同统治的欲望和判断。",
+            "这个公共教育论证可以与灌输区分：共同目标仍须接受谁定义课程、异议如何存在和所有儿童是否平等进入的现代规范检验。"
+          ],
+          "identity": "aristotle-text",
+          "kind": "argument"
+        },
+        {
+          "heading": "音乐训练怎样使用闲暇",
+          "paragraphs": [
+            "音乐既可教育品格、净化情感，也可成为自由人高尚的闲暇活动。学习不只为了工作后的恢复，而要培养判断何种快乐值得选择。",
+            "VII–VIII卷贬低专业表演者与劳动者，并把完整闲暇配置给少数公民；妇女的边界不能仅由这两卷同强度推出，还须结合I.13的家庭统治与性别化德性、III卷的公民身份定义来判断。继承“闲暇需要教育”时，必须拒绝以性别、劳动或奴役等级限制教育与政治参与。"
+          ],
+          "identity": "historical-boundary",
+          "kind": "boundary"
+        },
+        {
+          "heading": "从稳定到正当性的现代检验",
+          "paragraphs": [
+            "亚里士多德区分政体如何保存与何种政体追求共同利益，这防止把延续时间直接当成正当性。",
+            "现代应用还必须加入平等权利、普遍公民资格与不支配。制度诊断可以解释稳定机制，却不能让古代排除因分析精细而获得权威。"
+          ],
+          "identity": "project-interpretation",
+          "kind": "transfer"
+        }
+      ],
+      "caseText": "一座城市把所有议事时间设在工作日上午，又不给参与补偿。法律表面向人人开放，实际只有有闲者能持续任职。制度分析必须同时检查形式资格、参与成本和教育条件；否则“共同统治”只停在名称。",
+      "nodeIds": [
+        "aristotle-16-teaching"
+      ],
+      "checkIds": [
+        "aristotle-16-check-1",
+        "aristotle-16-check-2",
+        "aristotle-16-check-3",
+        "aristotle-16-check-4"
+      ],
+      "abilitySummary": [
+        "能从不平等感、利益冲突与细小制度变化分析政变，并区分政体原则与保存手段。",
+        "能比较民主与寡头制度组织及混合安排，而不重复L09的公民定义或自然奴隶论。",
+        "能把最佳生活落实到财产、人口、疆域、教育、音乐和闲暇安排，并明确其排除性历史边界。"
+      ],
+      "recommendedNextLessonId": null,
+      "renderAuxiliary": false
+    }
+  ],
+  "checks": [
+    {
+      "id": "aristotle-01-check-1",
+      "kind": "argument-step",
+      "prompt": "若共同形式与个体分离，从名称相同到个体如此之间还缺哪一步？",
+      "targetNodeIds": [
+        "aristotle-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-01-check-1-correct",
+          "text": "说明共同形式怎样作为原因使这个个体具有相应本质",
+          "feedback": "这个判断抓住的是联系机制，而不是否认共同形式的认识价值。形式若只在另一层重复名称，个别事物如何具有它仍然没有得到说明。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-01-check-1-misconception",
+          "text": "说明共同形式怎样作为名称概括这个个体的相似特征",
+          "feedback": "这个选项把待说明的因果关系偷换成语言归类。共同名称可以概括相似，却仍未说明个体为何真正具有该本质；应回到“重复名称不完成参与说明”的论证缺口。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-01-check-1-correct",
+      "misconceptionId": "forms-ban-common-predication"
+    },
+    {
+      "id": "aristotle-01-check-2",
+      "kind": "understand",
+      "prompt": "第一实体在《范畴篇》中为何优先？",
+      "targetNodeIds": [
+        "aristotle-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-01-check-2-misconception",
+          "text": "具体事物凭承载其他规定便不再需要共同结构来定义",
+          "feedback": "具体主体的优先并不取消可定义结构。若个体完全没有使它成为人的形式与能力，我们甚至不能说明它是哪一类存在者，更不能辨认其活动。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-01-check-2-correct",
+          "text": "种类、性质和其他规定最终都要述说或依存在具体主体",
+          "feedback": "优先在这里表现为存在和述说的依赖方向。没有具体的人或马，相关种类与偶性没有承载者；这不等于个体可以没有任何形式。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-01-check-2-correct",
+      "misconceptionId": "primary-substance-bare-particular"
+    },
+    {
+      "id": "aristotle-01-check-3",
+      "kind": "understand",
+      "prompt": "为什么不能把十范畴只当成十只词语抽屉？",
+      "targetNodeIds": [
+        "aristotle-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-01-check-3-correct",
+          "text": "因为还要看各种述说对实体的依赖以及同一词语的有序多义",
+          "feedback": "分类只有放回依赖结构才有哲学作用。数量、性质和关系围绕实体成立，同词异用也可能按一个核心组织，机械归档会抹去这些关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-01-check-3-misconception",
+          "text": "十范畴区分词语用法，却不涉及规定对主体的存在依赖",
+          "feedback": "这个选项保留分类，却删掉了分类承担解释的关键前提。数量、性质和关系不仅用词不同，还以不同方式依存具体实体；只剩词语归档便无法说明这种依赖方向。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-01-check-3-correct",
+      "misconceptionId": "categories-collapse-to-substance"
+    },
+    {
+      "id": "aristotle-01-check-4",
+      "kind": "voice-attribution",
+      "prompt": "哪项说法最准确地区分《范畴篇》文本与跨作品解释？",
+      "targetNodeIds": [
+        "aristotle-01-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-01-check-4-misconception",
+          "text": "前者已确定形式的最终优先，Z卷只是为同一结论补充例证",
+          "feedback": "这个选项把跨作品重构倒写成《范畴篇》明文，并抹去Z卷的候选竞争。《范畴篇》强调具体主体，Z卷才重新比较质料、形式、复合物和本质。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-01-check-4-correct",
+          "text": "前者给出第一实体的述谓优先，连接Z卷要另证候选实体变化",
+          "feedback": "这种读法既利用了个体承载关系，又不伪造一条毫无变化的作者定稿。Z卷重新开启候选者竞争，说明实体概念在不同研究任务中受到更深压力。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-01-check-4-correct",
+      "misconceptionId": "zeta-repeats-categories"
+    },
+    {
+      "id": "aristotle-02-check-1",
+      "kind": "understand",
+      "prompt": "一个人由不会弹琴变得会弹琴时，什么使这仍是变化而非两个人替换？",
+      "targetNodeIds": [
+        "aristotle-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-02-check-1-correct",
+          "text": "同一个人贯穿前后，并从缺少技艺转为具有技艺",
+          "feedback": "变化判断需要承载者保持，同时允许某项规定改变。人的持续存在和技艺由缺失到取得共同构成了这次变化的基本结构。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-02-check-1-misconception",
+          "text": "学习前后由两个相似的人分别承担不会与会的状态",
+          "feedback": "若主体彻底替换，就不能解释“他学会了”这句话中的同一性。学习改变人的能力，却不把每个阶段都变成一个毫无关联的新主体。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-02-check-1-correct",
+      "misconceptionId": "change-total-replacement"
+    },
+    {
+      "id": "aristotle-02-check-2",
+      "kind": "argument-step",
+      "prompt": "解释一座房屋时，为何给出建筑者之后仍不能停止？",
+      "targetNodeIds": [
+        "aristotle-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-02-check-2-misconception",
+          "text": "发动来源已经包含材料结构，完成目标只是在事后评价结果",
+          "feedback": "这个选项把四种依赖压进发动因。建筑者使过程开始，却不能单凭这一身份说明砖木为何这样组织或房屋为何为居住而成；错步是用一个原因替代其余问题。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-02-check-2-correct",
+          "text": "发动来源没有说明材料怎样组织以及房屋所朝向的完成",
+          "feedback": "同一雕像可以同时由青铜构成、具有某种造型、由雕刻活动产生并为纪念而作。答案相容，因为它们回应的是不同方向的为什么。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-02-check-2-correct",
+      "misconceptionId": "four-causes-single-choice"
+    },
+    {
+      "id": "aristotle-02-check-3",
+      "kind": "boundary-judgment",
+      "prompt": "观察到器官通常完成某种功能时，哪项边界判断较稳妥？",
+      "targetNodeIds": [
+        "aristotle-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-02-check-3-correct",
+          "text": "可说明结构与通常活动的关系，并不据此加入预见意识",
+          "feedback": "器官功能可以由结构在生命整体中的稳定作用来说明，无需把种子或牙齿人格化。意识计划是更强主张，不能从趋向完成直接推出。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-02-check-3-misconception",
+          "text": "若没有预见意识，结构与通常活动的关系便失去解释作用",
+          "feedback": "这个选项把功能关系的成立条件偷换成有意识规划。目的说明可以追踪部分对整体活动的稳定贡献，而不要求自然物先想象未来；应拒绝的是这项附加前提。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-02-check-3-correct",
+      "misconceptionId": "teleology-conscious-plan"
+    },
+    {
+      "id": "aristotle-02-check-4",
+      "kind": "understand",
+      "prompt": "为何偶然有益的结果不自动成为目的？",
+      "targetNodeIds": [
+        "aristotle-02-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-02-check-4-misconception",
+          "text": "结果后来显示有益，便可把这种益处视为过程原先所为",
+          "feedback": "这个判断把事后价值倒写成过程目标。结果后来有用并不显示过程稳定朝向它；缺失的前提是重复趋向和内部过程结构，而不是效益判断本身。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-02-check-4-correct",
+          "text": "还要证明过程通常朝向该完成，结果不是事后碰巧有用",
+          "feedback": "目的具有过程方向和规律性。市场偶遇虽有益，却不是行走原先所为；同样，单次巧合不能承担当初组织过程的解释角色。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-02-check-4-correct",
+      "misconceptionId": "benefit-implies-purpose"
+    },
+    {
+      "id": "aristotle-03-check-1",
+      "kind": "case-transfer",
+      "prompt": "一块合适木料尚未成桌，怎样判断它具有成桌的潜能？",
+      "targetNodeIds": [
+        "aristotle-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-03-check-1-correct",
+          "text": "材料结构能进入相应制作过程，并在条件具备时实现桌形",
+          "feedback": "潜能要落在具体主体、活动与实现条件上。儿童的感知、记忆和语言能力可被训练为识字，水滴只是目前不识字而没有对应实现路径。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-03-check-1-misconception",
+          "text": "成桌这件事在逻辑上不矛盾，木料现有结构便无须再考察",
+          "feedback": "这个选项把逻辑可能替换成主体已有能力。潜能还要求材料结构、制作路径和适当条件能够连接到实现；仅说结果不矛盾，无法区分木料与不具相关结构的对象。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-03-check-1-correct",
+      "misconceptionId": "potentiality-mere-absence"
+    },
+    {
+      "id": "aristotle-03-check-2",
+      "kind": "argument-step",
+      "prompt": "由“视觉能力要借看见来定义”可以推出哪种优先？",
+      "targetNodeIds": [
+        "aristotle-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-03-check-2-misconception",
+          "text": "现实为能力提供定义目标，所以这个个体也先完成活动",
+          "feedback": "这个选项把定义优先偷换成个体时间先后。看见说明视觉能力所指，不表示儿童或初学者先完成活动再获得能力；两种优先次序必须分别保留。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-03-check-2-correct",
+          "text": "现实为能力提供定义目标，这个个体在时间上可先有能力",
+          "feedback": "视觉能力之所以是视觉能力，要由看见来界定；建造能力也由建造和房屋完成来界定。这里的优先是说明关系，不是所有个体的时间顺序。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-03-check-2-correct",
+      "misconceptionId": "actuality-always-temporally-first"
+    },
+    {
+      "id": "aristotle-03-check-3",
+      "kind": "understand",
+      "prompt": "建筑师休息时为何仍可说会建屋？",
+      "targetNodeIds": [
+        "aristotle-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-03-check-3-correct",
+          "text": "稳定能力可以在不活动时保留，并在条件具备时重新实现",
+          "feedback": "能力跨越暂停使同一主体的再次行动可以理解。若不活动就等于无能力，每次开工都将成为能力凭空出现，无法说明技艺的保持。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-03-check-3-misconception",
+          "text": "休息期间能力暂不属于他，开工时由工具重新赋予",
+          "feedback": "这正是亚里士多德反对的过度缩减。它混淆持有能力与运用能力，也解释不了休息、阻碍解除和重新行动之间的连续性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-03-check-3-correct",
+      "misconceptionId": "ability-only-during-performance"
+    },
+    {
+      "id": "aristotle-03-check-4",
+      "kind": "understand",
+      "prompt": "为何一次成功不足以证明稳定潜能？",
+      "targetNodeIds": [
+        "aristotle-03-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-03-check-4-misconception",
+          "text": "单次成功已显示稳定能力，过程是否可重复不再影响判断",
+          "feedback": "这个选项把结果出现偷换成能力已经稳定。偶然、外援和环境巧合也能带来成功；还须检查主体结构和可重复活动路径，才能区分新手运气与可靠技艺。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-03-check-4-correct",
+          "text": "结果可能来自运气，还要显示可重复的主体结构和活动路径",
+          "feedback": "潜能不是结果标签。稳定技能应在适当条件下通过可说明的方式产生表现，一次偶然命中既不揭示能力来源，也不说明阻碍如何克服。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-03-check-4-correct",
+      "misconceptionId": "success-proves-stable-capacity"
+    },
+    {
+      "id": "aristotle-04-check-1",
+      "kind": "understand",
+      "prompt": "为何存在不能简单成为所有存在者共同所属的最高属？",
+      "targetNodeIds": [
+        "aristotle-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-04-check-1-correct",
+          "text": "实体、性质和关系的存在方式不同，却以实体为核心有序关联",
+          "feedback": "若存在是普通属，它对各成员应以同一方式述说；但性质存在于实体，关系依赖相关者。统一来自围绕实体，而非抹平差异。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-04-check-1-misconception",
+          "text": "实体、性质和关系仅以同音相连，不形成依赖方向",
+          "feedback": "这个选项把有序多义降成偶然同音。不同存在方式并非同义，却都从述谓或依存方向关联实体；删掉核心关联，就不能解释为何仍能研究作为存在的存在。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-04-check-1-correct",
+      "misconceptionId": "being-random-homonym"
+    },
+    {
+      "id": "aristotle-04-check-2",
+      "kind": "argument-step",
+      "prompt": "为何不矛盾律不能由更高定理作普通证明？",
+      "targetNodeIds": [
+        "aristotle-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-04-check-2-misconception",
+          "text": "它缺少足够抽象的中项，找到更普遍概念便可正常演绎",
+          "feedback": "这个选项把困难误放在中项抽象程度。任何演绎都已要求词义确定且相反断言不能同真，因此用更普遍概念证明仍会预设不矛盾律，形成循环。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-04-check-2-correct",
+          "text": "演绎已使用意义稳定与不相容，更高证明会预设待证原则",
+          "feedback": "最基本原则不能靠更高前提普通证明，反驳改为展示说话行为的承诺。词语若此刻确定指某物，就不能同时任意指其相反。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-04-check-2-correct",
+      "misconceptionId": "noncontradiction-derived-theorem"
+    },
+    {
+      "id": "aristotle-04-check-3",
+      "kind": "understand",
+      "prompt": "不动的推动者为何不能只是第一下物理推动？",
+      "targetNodeIds": [
+        "aristotle-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-04-check-3-correct",
+          "text": "论证要说明永恒运动的持续依赖，并以目的对象方式避免被反推",
+          "feedback": "亚里士多德没有设定时间中的第一刻。若推动者靠接触撞击并受反作用，它会进入运动链；作为欲求和思想对象则承担不同因果角色。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-04-check-3-misconception",
+          "text": "永恒运动需要在时间序列中追溯到最早接触推动者",
+          "feedback": "这个选项把持续的现实依赖偷换成时间起点。Λ卷接受运动与时间无始，所求是永恒活动为何不落入可不活动的潜能，并非寻找最初接触事件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-04-check-3-correct",
+      "misconceptionId": "unmoved-mover-first-temporal-push"
+    },
+    {
+      "id": "aristotle-04-check-4",
+      "kind": "voice-attribution",
+      "prompt": "哪项表述准确区分Λ卷论证与后世神学综合？",
+      "targetNodeIds": [
+        "aristotle-04-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-04-check-4-misconception",
+          "text": "Λ卷论证已包含创造和天意，后世综合只是更换宗教词汇",
+          "feedback": "这个选项把后世增加的属性倒写成Λ卷结论。纯现实和思想之思想可成为综合材料，但从无创造、个体关怀与启示关系都需要新的前提，不是译词替换。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-04-check-4-correct",
+          "text": "Λ卷论证纯现实，创造和天意属性来自后续体系的再论证",
+          "feedback": "后世传统可以创造性连接这些概念，但文本身份要分开。Λ卷的自足思想与永恒运动论证，不自行包含启示宗教的全部神学属性。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-04-check-4-correct",
+      "misconceptionId": "reception-either-identical-or-unrelated"
+    },
+    {
+      "id": "aristotle-05-check-1",
+      "kind": "case-transfer",
+      "prompt": "一只眼材料仍在却失去视觉结构，这个案例支持哪项判断？",
+      "targetNodeIds": [
+        "aristotle-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-05-check-1-correct",
+          "text": "器官之所以是眼取决于实现视觉能力的组织形式",
+          "feedback": "第一现实指已取得的生命组织，类似拥有知识而尚未运用。它解释睡眠者仍活着，也让具体活动成为更进一步的现实。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-05-check-1-misconception",
+          "text": "眼的材料先构成完整器官，视觉能力再从外部附加",
+          "feedback": "这个选项把器官材料当作先已完整，并把能力降为外加属性。案例的关键恰是失去组织便只在同名意义上叫眼；错步是切断器官本质与生命活动。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-05-check-1-correct",
+      "misconceptionId": "soul-body-tenant"
+    },
+    {
+      "id": "aristotle-05-check-2",
+      "kind": "understand",
+      "prompt": "蜡印比喻要说明知觉的哪项特点？",
+      "targetNodeIds": [
+        "aristotle-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-05-check-2-misconception",
+          "text": "接受可感形式就是在感官内制作同材质的缩小副本",
+          "feedback": "这个选项把形式接受偷换成材料复制。蜡印比喻要区分形状与金银材料；若再造同材质副本，不但偏离区分，还会引出谁观看副本的无穷追问。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-05-check-2-correct",
+          "text": "感官取得对象的可感形式而不摄入其材料",
+          "feedback": "眼见红色不需要把红色物质装入眼中，正如蜡取得印形而非印章金属。比喻区分形式接受与材料搬运。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-05-check-2-correct",
+      "misconceptionId": "perception-inner-material-copy"
+    },
+    {
+      "id": "aristotle-05-check-3",
+      "kind": "understand",
+      "prompt": "想象为何既不是知觉也不是判断？",
+      "targetNodeIds": [
+        "aristotle-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-05-check-3-correct",
+          "text": "对象不在时也可出现且可能错误，我们也不必相信每个表象",
+          "feedback": "想象保留并重组知觉材料，所以能脱离当前对象；但表象出现并不等于作出真假承诺，这使它与判断有别。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-05-check-3-misconception",
+          "text": "想象能在对象不在时出现，因此比当前知觉更可靠",
+          "feedback": "这个选项从不在场能力跳到较高可靠性。想象保存和组合表象，却也更可能失真；知觉在恰当对象上有自身可靠性，判断另承担是否相信命题的责任。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-05-check-3-correct",
+      "misconceptionId": "imagination-always-true"
+    },
+    {
+      "id": "aristotle-05-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "由III.5的“可分离”推进到个人不朽前，还缺什么？",
+      "targetNodeIds": [
+        "aristotle-05-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-05-check-4-misconception",
+          "text": "还须说明主动理智在认识中使潜在可思者成为现实",
+          "feedback": "这个选项说的是段落已经提供的功能区分，却没有补上个人不朽所需的桥梁。错误在把认识活动条件当成个人身份延续条件；个体化与记忆仍未得到论证。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-05-check-4-correct",
+          "text": "还须论证个体化、个人身份和记忆延续等连接条件",
+          "feedback": "III.5文字极短，光的比喻和可分离措辞支持多条路线。把功能与后世推论分开，能保留证据强度，也容纳真实争议。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-05-check-4-correct",
+      "misconceptionId": "active-intellect-proves-personal-immortality"
+    },
+    {
+      "id": "aristotle-06-check-1",
+      "kind": "understand",
+      "prompt": "一个三段论形式有效最少保证什么？",
+      "targetNodeIds": [
+        "aristotle-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-06-check-1-correct",
+          "text": "在接受这些前提为真的条件下，结论依形式不可能为假",
+          "feedback": "有效性规定前提与结论的跟随关系，不替前提真实性背书。这个最低保证使形式错误可以独立于事实错误被发现。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-06-check-1-misconception",
+          "text": "前提已经由经验确证，中项也表达结论发生的原因",
+          "feedback": "假前提也能进入有效形式，连接结论的中项也可能只是一种迹象。真实性与说明性需要额外证据，不能从有效二字取得。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-06-check-1-correct",
+      "misconceptionId": "validity-guarantees-truth-cause"
+    },
+    {
+      "id": "aristotle-06-check-2",
+      "kind": "argument-step",
+      "prompt": "从月面变暗推进到科学证明，还需中项承担哪一步？",
+      "targetNodeIds": [
+        "aristotle-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-06-check-2-misconception",
+          "text": "中项须提供稳定预测月食的征象，是否为原因可暂不区分",
+          "feedback": "这个选项把预测可靠性替换成说明性。稳定征象能告诉我们月食将发生，却未必使月食发生；科学证明要求中项对应真实原因，而不仅是相关指标。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-06-check-2-correct",
+          "text": "中项要说明地球遮光怎样使月面变暗，不只报告伴随",
+          "feedback": "科学知识想知道事实为何必然如此。地球介于日月之间不仅与变暗同现，还给出光线被遮断的依赖结构。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-06-check-2-correct",
+      "misconceptionId": "middle-term-any-correlation"
+    },
+    {
+      "id": "aristotle-06-check-3",
+      "kind": "understand",
+      "prompt": "为何不能用A证明B再用B证明A？",
+      "targetNodeIds": [
+        "aristotle-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-06-check-3-correct",
+          "text": "双方缺少根据时，循环没有提供更先在的独立依据",
+          "feedback": "证明应使结论依赖较可知且更根本的前提。循环只是交换未知项的位置，无法说明我们凭什么接受最初任何一边。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-06-check-3-misconception",
+          "text": "循环会降低两个命题的真值，因此应改成单向重复断言",
+          "feedback": "这个选项把认识根据不足偷换成命题变假。循环中的命题可能为真，失败在双方都没有更先在的独立根据；改成单向重复仍不会增加为何相信它们的理由。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-06-check-3-correct",
+      "misconceptionId": "circularity-makes-claims-false"
+    },
+    {
+      "id": "aristotle-06-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "第一原理停止同门证明后，哪项约束仍然保留？",
+      "targetNodeIds": [
+        "aristotle-06-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-06-check-4-misconception",
+          "text": "原理可从另一门科学借入，只要形式上能推出本门结论",
+          "feedback": "这个选项把非证明开端偷换成跨学科借权威。第一原理仍须与对象相称，并从本门现象与定义取得约束；形式可推出结论，不足以证明前提属于该对象。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-06-check-4-correct",
+          "text": "原理须从本门经验和定义取得根据，并与对象相称",
+          "feedback": "停止同型证明是为避免无限后退，不是给任意断言特权。原理如何从经验稳定、能否组织事实与证明，仍是认识责任的一部分。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-06-check-4-correct",
+      "misconceptionId": "principles-arbitrary-dogma"
+    },
+    {
+      "id": "aristotle-07-check-1",
+      "kind": "understand",
+      "prompt": "幸福为何不能只是拥有德性？",
+      "targetNodeIds": [
+        "aristotle-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-07-check-1-correct",
+          "text": "德性必须在完整生活的判断、情感和行动中实现",
+          "feedback": "拥有能力而一生不活动，不能构成活得好。幸福像依德性实际生活，既要求状态，也要求状态持续进入适当行动。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-07-check-1-misconception",
+          "text": "幸福主要是一瞬间的强烈愉快，德性可保持为未活动状态",
+          "feedback": "一瞬愉快可能来自偶然或有害活动，无法组织完整生活。亚里士多德把快乐放入活动评价，而不是让感受强度单独决定善。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-07-check-1-correct",
+      "misconceptionId": "happiness-momentary-feeling"
+    },
+    {
+      "id": "aristotle-07-check-2",
+      "kind": "case-transfer",
+      "prompt": "救援者面对二次坍塌风险，怎样判断停下核实是否勇敢？",
+      "targetNodeIds": [
+        "aristotle-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-07-check-2-misconception",
+          "text": "比较他与同伴恐惧程度，选择群体平均值作为行动标准",
+          "feedback": "这个选项把中道偷换成群体数值平均。勇敢要判断对象、时机、理由与方式；同伴普遍低估风险时，平均值也可能鲁莽，不能替代实践智慧。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-07-check-2-correct",
+          "text": "结合救援目的、真实风险和可行路径判断，不按恐惧强度",
+          "feedback": "同一危险对受训者与儿童要求不同，勇敢也不等于恐惧数值居中。相关差异由正确理由组织，不能靠两个极端相加除二。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-07-check-2-correct",
+      "misconceptionId": "mean-larger-number"
+    },
+    {
+      "id": "aristotle-07-check-3",
+      "kind": "understand",
+      "prompt": "为何有些行为没有中道？",
+      "targetNodeIds": [
+        "aristotle-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-07-check-3-correct",
+          "text": "它们按行为种类已包含错误对象或关系，不因剂量变小而正确",
+          "feedback": "通奸和盗窃不是超过适量才错，行为描述本身已包含对承诺或所有权的破坏。中道不能把本身错误改造成适度德性。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-07-check-3-misconception",
+          "text": "行为次数减少便能改变行为对象，使其逐渐成为恰当选择",
+          "feedback": "这个选项把剂量变化偷换成行为对象变化。次数减少可能减轻伤害，却不改变恶意或不义所针对的关系；中道不能把种类中已含的错误转成德性。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-07-check-3-correct",
+      "misconceptionId": "mean-licenses-any-act"
+    },
+    {
+      "id": "aristotle-07-check-4",
+      "kind": "argument-step",
+      "prompt": "为何高效找到手段还不足以构成实践智慧？",
+      "targetNodeIds": [
+        "aristotle-07-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-07-check-4-misconception",
+          "text": "手段越高效越能修正目标，因此不必先评价欲求方向",
+          "feedback": "这个选项让效率反过来证明目标良善。欺骗与剥削也能有高效手段；缺失的前提是品格使欲求朝向善，实践智慧才在该方向内判断可行路径。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-07-check-4-correct",
+          "text": "手段判断要由恰当目标约束，目标又依靠良好品格",
+          "feedback": "坏人也可能高效算计手段，只有目标和欲求被德性校正，敏捷推理才成为实践智慧。行动理由不能只看是否成功。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-07-check-4-correct",
+      "misconceptionId": "phronesis-mere-cleverness"
+    },
+    {
+      "id": "aristotle-08-check-1",
+      "kind": "argument-step",
+      "prompt": "普遍知道甜食过量有害，为何仍可能伸手取食？",
+      "targetNodeIds": [
+        "aristotle-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-08-check-1-correct",
+          "text": "欲望重塑眼前对象的具体描述，使原则未现实支配行动",
+          "feedback": "这既承认他不是全然无知，也解释行动为何偏离。欲望使眼前对象落入另一描述，知识像未被运用的能力留在身上。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-08-check-1-misconception",
+          "text": "普遍原则仍在支配行动，只是身体动作偶然背离判断",
+          "feedback": "这个选项保留原则的现实支配，却把失败放到无理由的身体偏差。意志薄弱的错步在具体小前提受欲望塑形，原则没有以完整方式进入行动推论。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-08-check-1-correct",
+      "misconceptionId": "akrasia-permanent-knowledge-loss"
+    },
+    {
+      "id": "aristotle-08-check-2",
+      "kind": "understand",
+      "prompt": "为何不能把一切快乐判为同一种善或恶？",
+      "targetNodeIds": [
+        "aristotle-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-08-check-2-misconception",
+          "text": "快乐的强度足以排序其善恶，活动性质可由强度反推",
+          "feedback": "这个选项把强度替换成活动品质。成瘾或残酷活动也可能带来强烈快乐；评价必须先问快乐完成何种活动，不能从感受大小反推活动的善。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-08-check-2-correct",
+          "text": "快乐完成不同活动，评价要随活动本身的品质而异",
+          "feedback": "理解真理的快乐与伤害他人的快乐不因都叫快乐就同值。活动对象和品格方向决定快乐是在完善还是腐蚀生活。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-08-check-2-correct",
+      "misconceptionId": "pleasure-intensity-equals-goodness"
+    },
+    {
+      "id": "aristotle-08-check-3",
+      "kind": "understand",
+      "prompt": "德性友爱与有用友爱的决定性差别是什么？",
+      "targetNodeIds": [
+        "aristotle-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-08-check-3-correct",
+          "text": "前者愿朋友因其自身而好，利益不是关系决定性根据",
+          "feedback": "完整朋友仍能彼此有用，但所爱首先是对方的品格与其善。当利益消失，关系因此不必随之立即终止。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-08-check-3-misconception",
+          "text": "德性友爱以人格为根据，所以共同快乐和帮助不再维持关系",
+          "feedback": "这个选项把首要根据偷换成排除其他成分。因朋友自身而爱，并不妨碍共同活动带来快乐和帮助；差别在这些利益不是爱对方的决定性根据。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-08-check-3-correct",
+      "misconceptionId": "virtue-friendship-excludes-benefit"
+    },
+    {
+      "id": "aristotle-08-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "由X卷“沉思最高”可以直接排除实践生活吗？",
+      "targetNodeIds": [
+        "aristotle-08-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-08-check-4-misconception",
+          "text": "可以，最高排序已表明实践活动只剩维持沉思的工具价值",
+          "feedback": "这个选项把最高排序偷换成排他价值。X卷仍承认身体、朋友和资源，前文也把德性活动置于共同生活；实践是否仅为工具，正是需要论证的张力。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-08-check-4-correct",
+          "text": "不可以，还要解释友爱、身体条件和共同生活在善中的位置",
+          "feedback": "只删掉沉思会歪曲文本，只让沉思吞掉其余部分也会忽略完整生活的条件。保留张力才能看见亚里士多德自身工程的复杂。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-08-check-4-correct",
+      "misconceptionId": "contemplation-erases-practice"
+    },
+    {
+      "id": "aristotle-09-check-1",
+      "kind": "understand",
+      "prompt": "人是政治动物为何不只表示喜欢群居？",
+      "targetNodeIds": [
+        "aristotle-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-09-check-1-correct",
+          "text": "人的言说使利害与正义判断成为共同生活的对象",
+          "feedback": "许多动物群居，政治性更特别地涉及对善与正当的共享判断。言说让成员能够争论并共同承担公共决定。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-09-check-1-misconception",
+          "text": "群居密度和交流能力本身便足以形成审议与公民制度",
+          "feedback": "这个选项从交流能力跳到制度已经形成。政治共同体还需要正义判断、审议司法和共同利益关系；空间接近与发声能力只是条件，不能替代制度结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-09-check-1-correct",
+      "misconceptionId": "political-animal-mere-gregariousness"
+    },
+    {
+      "id": "aristotle-09-check-2",
+      "kind": "case-transfer",
+      "prompt": "一名长期居民纳税并受法律保护，却不能审议或司法，依该定义怎样判断？",
+      "targetNodeIds": [
+        "aristotle-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-09-check-2-misconception",
+          "text": "长期居住和纳税已构成公民，审议司法只是附加权利",
+          "feedback": "这个选项把伴随公民生活的条件替换成定义核心。亚里士多德以参与审议和司法界定公民；居住、纳税和诉讼保护可以属于非公民，不能推出统治参与。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-09-check-2-correct",
+          "text": "居住与受保护并不足，他缺少构成公民身份的统治参与",
+          "feedback": "外来居民也可长期居住并诉讼，却未必共享公共决定。参与界定揭示公民身份与政体权力分配直接相连。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-09-check-2-correct",
+      "misconceptionId": "citizen-residence-only"
+    },
+    {
+      "id": "aristotle-09-check-3",
+      "kind": "boundary-judgment",
+      "prompt": "用受支配者当前表现证明其天生应受支配，错在哪一步？",
+      "targetNodeIds": [
+        "aristotle-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-09-check-3-correct",
+          "text": "支配已影响能力表现，证据因而无法独立识别所谓本性",
+          "feedback": "战争、出生与教育剥夺先塑造处境，观察到的顺从便不能独立证明本性。循环让制度后果伪装成自然原因。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-09-check-3-misconception",
+          "text": "当前表现能够识别本性，因为法律身份与自然能力通常一致",
+          "feedback": "这个选项用正待检验的对应关系支撑证据。文本承认法律奴隶未必自然为奴，支配环境又会压制表现；没有独立测量，当前处境不能证明天生资格。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-09-check-3-correct",
+      "misconceptionId": "natural-slave-neutral-test"
+    },
+    {
+      "id": "aristotle-09-check-4",
+      "kind": "understand",
+      "prompt": "政体分类为何不能只看统治者人数？",
+      "targetNodeIds": [
+        "aristotle-09-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-09-check-4-misconception",
+          "text": "人数只描述规模，不影响参与结构，评价时可暂时排除",
+          "feedback": "这个选项从人数不足以评价，跳到人数不影响结构。人数会改变谁参与以及利益如何集中；正确做法是把人数与共同利益结合，而不是删除其中一项。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-09-check-4-correct",
+          "text": "还要看统治是否追求共同利益或集团私利",
+          "feedback": "同样是少数统治，贵族制与寡头制的规范差异在目标；人数给出结构，利益方向给出偏离判断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-09-check-4-correct",
+      "misconceptionId": "constitution-headcount-only"
+    },
+    {
+      "id": "aristotle-10-check-1",
+      "kind": "understand",
+      "prompt": "修辞为何不是单纯欺骗术？",
+      "targetNodeIds": [
+        "aristotle-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-10-check-1-correct",
+          "text": "有限公共情境要发现可理解的说服手段，能力可被善用或滥用",
+          "feedback": "听众无法重建全部科学证明，真理由此也需要合宜表达。风险在目标与手段失当，不在任何说服活动天然虚假。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-10-check-1-misconception",
+          "text": "成功说服可为命题提供真值，因为听众已经检验理由",
+          "feedback": "这个选项把说服效果偷换成真值检验。听众可能受偏见、信誉或情感影响而接受错误命题；修辞能够发现手段，不保证每次接受都经过充分核验。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-10-check-1-correct",
+      "misconceptionId": "persuasion-makes-truth"
+    },
+    {
+      "id": "aristotle-10-check-2",
+      "kind": "argument-step",
+      "prompt": "面对“他有经验，所以应当信任他”，检查应先补哪一步？",
+      "targetNodeIds": [
+        "aristotle-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-10-check-2-misconception",
+          "text": "先检验说话者是否令人喜欢，省略前提不影响推理范围",
+          "feedback": "这个选项把信誉感受替换成被省略的连接前提。经验可能只适用于别的领域；必须补出“何种经验支持何种可信”，才能检查相关性和范围。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-10-check-2-correct",
+          "text": "补出经验与此事可信之间的默认前提，再核验其范围",
+          "feedback": "省略把一部分推理交给共享常识，并未取消结构。补出隐含句能发现偷换、偏见或缺少因果根据的位置。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-10-check-2-correct",
+      "misconceptionId": "enthymeme-no-logic"
+    },
+    {
+      "id": "aristotle-10-check-3",
+      "kind": "understand",
+      "prompt": "诗为何可能比历史更哲学？",
+      "targetNodeIds": [
+        "aristotle-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-10-check-3-correct",
+          "text": "诗组织按可能或必然发生的行动类型，历史主要记具体发生",
+          "feedback": "这不是贬低史实，而是区分对象。情节能展示某类选择如何导向反转和苦难，从个别材料呈现较普遍关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-10-check-3-misconception",
+          "text": "诗的虚构身份使其中细节比史料更能保证普遍真理",
+          "feedback": "这个选项把虚构身份偷换成普遍性保证。诗的认识价值来自按可能或必然组织行动，任意情节仍会失败；是否据实并不直接决定是否揭示一般结构。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-10-check-3-correct",
+      "misconceptionId": "fiction-automatically-truer"
+    },
+    {
+      "id": "aristotle-10-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "现存《诗学》允许对净化作多强的结论？",
+      "targetNodeIds": [
+        "aristotle-10-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-10-check-4-misconception",
+          "text": "可确定它主要是情绪释放，其他解释只补充次要细节",
+          "feedback": "这个选项把一种候选解释提升为文本定论。发泄说能说明部分体验，却未充分处理情节认识和情感对象变化；现存证据仍要求与澄清、调节等方案比较。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-10-check-4-correct",
+          "text": "可确认它联系怜悯恐惧，具体机制还要比较竞争解释",
+          "feedback": "现存定义提供锚点，却缺少完整展开。承认证据限度能防止某一译法把医学、认知或伦理竞争提前宣布结束。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-10-check-4-correct",
+      "misconceptionId": "catharsis-simple-venting"
+    },
+    {
+      "id": "aristotle-11-check-1",
+      "kind": "case-transfer",
+      "prompt": "一种水生动物用肺呼吸并哺乳，分类时应怎样处理？",
+      "targetNodeIds": [
+        "aristotle-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-11-check-1-correct",
+          "text": "让呼吸繁殖等多项结构共同检验按栖息地形成的分类",
+          "feedback": "生活在水中不足以决定与鱼同类，肺呼吸和生育方式揭示更深组织差异。反常对象因此能检验分类标准。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-11-check-1-misconception",
+          "text": "保留水生类别作为主类，内部结构只记录为个别偏离",
+          "feedback": "这个选项让表面栖息地分类免受内部证据修正。呼吸和繁殖结构可能显示更深的组织关系；错步是预先固定主类，再把反证降为例外。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-11-check-1-correct",
+      "misconceptionId": "classification-surface-only"
+    },
+    {
+      "id": "aristotle-11-check-2",
+      "kind": "understand",
+      "prompt": "功能解释为何不能替代材料研究？",
+      "targetNodeIds": [
+        "aristotle-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-11-check-2-misconception",
+          "text": "确定器官功能后，材料差异可视为不影响说明的偶然细节",
+          "feedback": "这个选项把功能确定偷换成材料不再相关。功能必须由具体组织实现，材料性质还限定可行结构和失败方式；删掉材料，说明便无法接受异常证据检验。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-11-check-2-correct",
+          "text": "功能要由具体组织实现，材料性质限定可能结构和失败方式",
+          "feedback": "说眼为了看仍需说明透明介质、感受结构与损伤。目标指出解释方向，材料与机制展示方向怎样现实发生。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-11-check-2-correct",
+      "misconceptionId": "function-replaces-observation"
+    },
+    {
+      "id": "aristotle-11-check-3",
+      "kind": "understand",
+      "prompt": "为何必须明确拒绝雌性残缺论？",
+      "targetNodeIds": [
+        "aristotle-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-11-check-3-correct",
+          "text": "其生殖机制被推翻，并把错误自然描述转成性别价值等级",
+          "feedback": "现代生物证据否定主动雄性与被动雌性的框架，平等也拒绝由性别推出较低实现。历史影响不能保护错误。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-11-check-3-misconception",
+          "text": "因为时代距离已经削弱其可信度，具体机制可暂缓核对",
+          "feedback": "这个选项用年代替代反驳。残缺论应被拒绝，是因为生殖机制证据失败并把描述错误转成价值等级；若不逐项核对，就无法说明为何别的古代观察仍可保留。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-11-check-3-correct",
+      "misconceptionId": "old-means-false"
+    },
+    {
+      "id": "aristotle-11-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "一项古代观察准确但原因解释错误，应怎样评价？",
+      "targetNodeIds": [
+        "aristotle-11-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-11-check-4-misconception",
+          "text": "原因解释失败会取消该观察，因为两者属于同一研究体系",
+          "feedback": "这个选项把体系关联偷换成证据同生共死。观察可由独立材料支持，错误原因不必使它为假；应分别核对来源、分类、机制和价值推论。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-11-check-4-correct",
+          "text": "分别保留观察证据并拒绝原因推断，不给整体标签代判",
+          "feedback": "分层可以保留可靠观察、修正分类并拒绝错误机制，不必在全盘崇拜与全盘抹除之间选择。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-11-check-4-correct",
+      "misconceptionId": "whole-author-verdict"
+    },
+    {
+      "id": "aristotle-12-check-1",
+      "kind": "voice-attribution",
+      "prompt": "“现行卷次构成作者亲定体系”混淆了哪两种声音？",
+      "targetNodeIds": [
+        "aristotle-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-12-check-1-correct",
+          "text": "它把后世编排提供的次序当成作者亲自确认的写作计划",
+          "feedback": "卷内重复与跳转已经要求谨慎，安德罗尼柯整理传统又显示编辑介入。次序有解释价值，却不是透明作者意图。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-12-check-1-misconception",
+          "text": "它把作者跨卷反复讨论的论题误作后世编者创造的联系",
+          "feedback": "这个选项指出另一种可能错误，却没有命中题干中的身份偷换。跨卷论题确有文本证据；问题是不能仅凭现行次序，就把编排结果升级成作者确认的统一写作计划。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-12-check-1-correct",
+      "misconceptionId": "compilation-means-random"
+    },
+    {
+      "id": "aristotle-12-check-2",
+      "kind": "understand",
+      "prompt": "主动理智的后世分歧说明什么？",
+      "targetNodeIds": [
+        "aristotle-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-12-check-2-misconception",
+          "text": "这些解释共享理智词汇，因此体系差异主要属于译名选择",
+          "feedback": "这个选项把共享词汇偷换成体系同一。共享理智、宇宙理智和个体灵魂能力对个人思想与不朽给出不同结构；差异来自新增前提，不只是译名。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-12-check-2-correct",
+          "text": "短而开放的文本在不同宇宙论与个体化前提中生成多种体系",
+          "feedback": "解释者都回应可分离与使潜在成为现实等线索，却对理智属于谁、如何个体化有不同前提。分歧是接受史内容。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-12-check-2-correct",
+      "misconceptionId": "active-intellect-receptions-identical"
+    },
+    {
+      "id": "aristotle-12-check-3",
+      "kind": "understand",
+      "prompt": "称阿奎那为创造性继承意味着什么？",
+      "targetNodeIds": [
+        "aristotle-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-12-check-3-correct",
+          "text": "他使用亚里士多德概念，并以创造论和基督教神学重组总体工程",
+          "feedback": "现实潜能与四因为综合提供语言，但从无创造、天意和个人不朽加入新的目标与前提。相连和差异同时成立。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-12-check-3-misconception",
+          "text": "他保留亚里士多德术语，所以创造论不会改变概念工程",
+          "feedback": "这个选项把术语连续偷换成体系不变。创造论会重组第一原因、世界依赖和灵魂位置；正因既有继承又有新增前提，才需要称为创造性继承。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-12-check-3-correct",
+      "misconceptionId": "reception-copy-or-unrelated"
+    },
+    {
+      "id": "aristotle-12-check-4",
+      "kind": "voice-attribution",
+      "prompt": "《亚里士多德神学》能支持哪一种身份层的判断？",
+      "targetNodeIds": [
+        "aristotle-12-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-12-check-4-misconception",
+          "text": "可作为作者立场的间接证据，因为传统长期以其名义流传",
+          "feedback": "这个选项把历史权威偷换成作者身份。长期归名能证明它影响接受史，却不能修复文本归属；用它证明作者原意，会把后来的新柏拉图材料倒写入原典。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-12-check-4-correct",
+          "text": "可证明误归作品怎样影响接受史，不作证明作者原意的证据",
+          "feedback": "作品的普罗提诺来源排除其作者证据资格，却不消除它塑造阿拉伯哲学的历史作用。身份分层保住两种事实。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-12-check-4-correct",
+      "misconceptionId": "pseudograph-no-historical-effect"
+    },
+    {
+      "id": "aristotle-13-check-1",
+      "kind": "argument-step",
+      "prompt": "正在建造为何能被称为现实而又尚未完成？",
+      "targetNodeIds": [
+        "aristotle-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-13-check-1-correct",
+          "text": "它是可建造者就其可建造而言的现实，完成后该运动便终止",
+          "feedback": "正确区分保留了过程的现实性与未完成性：砖的纯能力尚未活动，墙的完成状态又不再是正在建造。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-13-check-1-misconception",
+          "text": "它是完成墙体的一部分现实，未完成只表示现实数量尚未累积足够",
+          "feedback": "这把运动误成完成品的分量。定义关注能力正在实现的方式，不是把若干静态现实相加成过程。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-13-check-1-correct",
+      "misconceptionId": "motion-as-partial-product"
+    },
+    {
+      "id": "aristotle-13-check-2",
+      "kind": "understand",
+      "prompt": "潜在无限与实际完成的无限总体有何区别？",
+      "targetNodeIds": [
+        "aristotle-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-13-check-2-misconception",
+          "text": "前者只是人暂时不知道最后边界，实际上仍有一个有限终点",
+          "feedback": "潜在无限不是认识不足。其结构正是任何阶段之后仍可继续，而不是隐藏着尚未发现的最后项。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-13-check-2-correct",
+          "text": "前者表示每一步后仍可再取或再分，不要求所有部分同时完成存在",
+          "feedback": "数可再加、线可再分说明过程没有最后一步；这并不承诺自然中有一个可一次遍览的完成无限量。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-13-check-2-correct",
+      "misconceptionId": "potential-infinite-as-ignorance"
+    },
+    {
+      "id": "aristotle-13-check-3",
+      "kind": "case-transfer",
+      "prompt": "把一段路不断二分，为什么不自动推出跑者永远不能到终点？",
+      "targetNodeIds": [
+        "aristotle-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-13-check-3-correct",
+          "text": "可无限细分不等于必须依次完成实际无穷个彼此独立的任务",
+          "feedback": "连续路径在切分前不由完成的点任务清单组成；二分增加可标边界，不增加每段都需重新启动的事实。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-13-check-3-misconception",
+          "text": "因为实际空间存在最小不可分长度，二分到该长度便自然停止",
+          "feedback": "亚里士多德并不以最小长度回答芝诺；连续量仍可再分，关键是潜在可分与实际任务清单的区别。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-13-check-3-correct",
+      "misconceptionId": "zeno-needs-atomism"
+    },
+    {
+      "id": "aristotle-13-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "“时间是运动之数”是否等于时间只是主观幻觉？",
+      "targetNodeIds": [
+        "aristotle-13-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-13-check-4-misconception",
+          "text": "等于，因为没有计数者就没有数字，所以任何无人世界都完全无先后",
+          "feedback": "这个结论跨过了文本中的区分。无人是否有实际计数仍有争议，但变化的前后秩序不能因此直接抹除。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-13-check-4-correct",
+          "text": "不等于，它把时间关联于运动的先后与可计数性，同时留下实际计数是否需灵魂的难题",
+          "feedback": "定义既拒绝时间等同某次运动，也拒绝完全脱离变化；可计量秩序和计数活动需要分别讨论。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-13-check-4-correct",
+      "misconceptionId": "time-purely-subjective"
+    },
+    {
+      "id": "aristotle-14-check-1",
+      "kind": "understand",
+      "prompt": "endoxa为何能作辩证起点却不能单凭公认性成为科学前提？",
+      "targetNodeIds": [
+        "aristotle-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-14-check-1-correct",
+          "text": "公认性提供共同问答起点，科学证明还要求真实、首要并作为结论原因",
+          "feedback": "辩证法利用可接受承诺检查含义和后果；人数或声望本身不能产生真理与因果说明。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-14-check-1-misconception",
+          "text": "贤者长期接受的意见已经通过历史检验，因此通常等同首要真理",
+          "feedback": "这个选项把传统声望偷换成证明资格。endoxa可以很有分量，却仍可能冲突、含混或错误。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-14-check-1-correct",
+      "misconceptionId": "endoxa-as-proof"
+    },
+    {
+      "id": "aristotle-14-check-2",
+      "kind": "argument-step",
+      "prompt": "辩证法“通向第一原则”最稳妥表示什么？",
+      "targetNodeIds": [
+        "aristotle-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-14-check-2-misconception",
+          "text": "它从多数意见演绎出第一原则，从而替代经验、归纳与理智",
+          "feedback": "《论题篇》的用途不是另造一套必然证明。公认意见可接受不等于结论必真，更不能抹去《后分析篇》II.19。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-14-check-2-correct",
+          "text": "它比较候选原则、澄清词义并测试后果，而不由本门科学循环证明原则",
+          "feedback": "这保住辩证审查的跨领域功能，也不重复L06关于经验、归纳与理智取得原则的论证。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-14-check-2-correct",
+      "misconceptionId": "dialectic-replaces-nous"
+    },
+    {
+      "id": "aristotle-14-check-3",
+      "kind": "case-transfer",
+      "prompt": "论者先把“银行”用作金融机构，后又用作河岸并宣布矛盾，属于何种问题？",
+      "targetNodeIds": [
+        "aristotle-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-14-check-3-correct",
+          "text": "同一词在推论中换义，表面反驳没有针对同一对象与同一意义",
+          "feedback": "真正矛盾要求同一对象、同一方面和同一意义；同名异义只制造语言上的胜利。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-14-check-3-misconception",
+          "text": "这是有效反驳，因为同一词不能在一个讨论中具有两个约定俗成的意义",
+          "feedback": "自然语言常有同名异义；错误不在词有多义，而在未标明换义却把两义当同一前提推进。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-14-check-3-correct",
+      "misconceptionId": "homonymy-is-contradiction"
+    },
+    {
+      "id": "aristotle-14-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "辩证问答、科学证明与修辞说服为何不能合成同一种推理？",
+      "targetNodeIds": [
+        "aristotle-14-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-14-check-4-misconception",
+          "text": "因为只有科学证明使用逻辑，辩证与修辞都主要依靠语言技巧",
+          "feedback": "这个选项抹掉后二者的论证结构。问答承诺和修辞三段论都能被逻辑检查，只是资格与目标不同。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-14-check-4-correct",
+          "text": "它们的起点、对象和实践情境不同，即使都包含可重建的推论",
+          "feedback": "科学要求因果性首要前提，辩证从endoxa检验争议，修辞面对具体公众寻找可用手段；结构相交不等于功能同一。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-14-check-4-correct",
+      "misconceptionId": "only-science-has-logic"
+    },
+    {
+      "id": "aristotle-15-check-1",
+      "kind": "understand",
+      "prompt": "完善友爱包含快乐与用处，为何仍不同于另外两类？",
+      "targetNodeIds": [
+        "aristotle-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-15-check-1-correct",
+          "text": "朋友首先因对方自身品格而愿其善，快乐和用处不是关系的决定性对象",
+          "feedback": "分类按所爱对象和关系稳定基础进行。完善朋友常彼此有益且相处愉快，但不因利益消失就立即失去所爱对象。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-15-check-1-misconception",
+          "text": "完善友爱完全排除利益和快乐，任何愉快都表明关系不纯",
+          "feedback": "这把首要根据误成排他条件。文本并未要求朋友相处无益无乐，而是要求对方自身之善居首。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-15-check-1-correct",
+      "misconceptionId": "perfect-friendship-no-benefit"
+    },
+    {
+      "id": "aristotle-15-check-2",
+      "kind": "case-transfer",
+      "prompt": "两人彼此声称关心，却从不共同活动也不了解对方选择，欠缺什么？",
+      "targetNodeIds": [
+        "aristotle-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-15-check-2-misconception",
+          "text": "只欠共同利益交换；只要增加互惠资源便可证明完善友爱",
+          "feedback": "交换可形成有用友爱，却不必显示双方为对方自身愿善或认识其品格。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-15-check-2-correct",
+          "text": "善意尚未在共同生活中形成相互认识并经时间检验的完整友爱",
+          "feedback": "完善友爱需要彼此知道善意并共同活动；远距离可保存既成友爱，却不能让陌生善意自动完成全部结构。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-15-check-2-correct",
+      "misconceptionId": "friendship-as-exchange"
+    },
+    {
+      "id": "aristotle-15-check-3",
+      "kind": "argument-step",
+      "prompt": "沉思最高性的论证为何不能只靠“对象最高”一句完成？",
+      "targetNodeIds": [
+        "aristotle-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-15-check-3-correct",
+          "text": "还须比较活动的连续、自足、因自身可欲、闲暇与实行条件",
+          "feedback": "排序是多前提比较。若不说明这些维度及其权重，就无法评估沉思与实践活动的关系。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-15-check-3-misconception",
+          "text": "对象越抽象便必然越高，因此活动条件和人的身体都与排序无关",
+          "feedback": "这把对象抽象度当成未论证尺度，并删去文本承认的身体、资源、朋友和教育条件。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-15-check-3-correct",
+      "misconceptionId": "contemplation-object-only"
+    },
+    {
+      "id": "aristotle-15-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "“沉思较自足”能否推出朋友与城邦只剩工具价值？",
+      "targetNodeIds": [
+        "aristotle-15-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-15-check-4-misconception",
+          "text": "能，最高活动一旦确定，所有较低活动按定义只能是维持它的手段",
+          "feedback": "“最高”不逻辑蕴含其他善只有工具价值。该推断会跳过友爱、正义和实践德性的独立理由。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-15-check-4-correct",
+          "text": "不能，相对少依赖协作不等于绝对不需条件，友爱与德性活动仍有内在善的论证",
+          "feedback": "沉思的最高排序与完整生活条件之间形成解释压力；任何阅读都须同时处理两边证据。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-15-check-4-correct",
+      "misconceptionId": "highest-erases-other-goods"
+    },
+    {
+      "id": "aristotle-16-check-1",
+      "kind": "argument-step",
+      "prompt": "从财富较多推出应独占全部官职，论证越过了哪一步？",
+      "targetNodeIds": [
+        "aristotle-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-16-check-1-correct",
+          "text": "把某一方面的不平等扩张成所有政治资格上的全面不平等",
+          "feedback": "财富可与某些贡献相关，却不能无论证地决定审议、司法和荣誉的全部份额。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-16-check-1-misconception",
+          "text": "财富差异尚未足够大；只要差距超过明确门槛，独占便自然正当",
+          "feedback": "问题不只是差距大小，而是为何财富尺度应控制全部政治资格。加大数值不能补上规范桥梁。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-16-check-1-correct",
+      "misconceptionId": "partial-inequality-total-rule"
+    },
+    {
+      "id": "aristotle-16-check-2",
+      "kind": "case-transfer",
+      "prompt": "法律允许人人任职但议事时间排除劳动者，这说明应检查什么？",
+      "targetNodeIds": [
+        "aristotle-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-16-check-2-misconception",
+          "text": "只需检查条文是否使用普遍称谓，实际参与差异属于个人选择",
+          "feedback": "这个选项把结构性成本私人化。若制度安排稳定排除某群体，形式措辞不能完成共同统治。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-16-check-2-correct",
+          "text": "除形式资格外，还要检查参与成本、补偿和谁能持续使用制度",
+          "feedback": "制度入口名义开放不保证实际参与。时间、收入和教育条件会决定权力是否仍被有闲者垄断。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-16-check-2-correct",
+      "misconceptionId": "formal-access-sufficient"
+    },
+    {
+      "id": "aristotle-16-check-3",
+      "kind": "understand",
+      "prompt": "政体保存为何不等于把自身最纯原则推到极端？",
+      "targetNodeIds": [
+        "aristotle-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-16-check-3-correct",
+          "text": "极端化会使另一方完全无份并放大变革动机，节制和混合可分散制度杠杆",
+          "feedback": "保存需要成员对法律有共同利益并限制滥权；原则越纯并不保证制度越稳。",
+          "isCorrect": true
+        },
+        {
+          "id": "aristotle-16-check-3-misconception",
+          "text": "任何原则只要执行一致就会稳定，变革主要来自公民缺少服从教育",
+          "feedback": "一致执行也可能一致地制造恐惧、剥夺和不满。文本把分配、傲慢、利益与制度变化都列为原因。",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionId": "aristotle-16-check-3-correct",
+      "misconceptionId": "purity-guarantees-stability"
+    },
+    {
+      "id": "aristotle-16-check-4",
+      "kind": "boundary-judgment",
+      "prompt": "怎样继承公共教育与闲暇论而不继承其排除？",
+      "targetNodeIds": [
+        "aristotle-16-teaching"
+      ],
+      "options": [
+        {
+          "id": "aristotle-16-check-4-misconception",
+          "text": "只要课程目标高尚，限制妇女、劳动者和被奴役者参与只是历史实施细节",
+          "feedback": "排除决定谁能拥有被称为最好生活的条件，不是外在细节；现代使用必须正面拒绝这种制度基础。",
+          "isCorrect": false
+        },
+        {
+          "id": "aristotle-16-check-4-correct",
+          "text": "保留善用闲暇需要共同教育的洞见，同时要求普遍资格、平等进入与不以他人不自由供养少数",
+          "feedback": "这把制度洞见与古代公民边界分层：教育可服务共同自由，不必复制性别、劳动和奴役等级。",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionId": "aristotle-16-check-4-correct",
+      "misconceptionId": "education-exclusion-incidental"
+    }
+  ]
+}
