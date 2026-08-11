@@ -30,7 +30,7 @@
 
 - [ ] **Step 1: 写失败测试**
 
-测试在临时 Git fixture 中依次验证：包含 `C:\Users\`、跟踪 `.zip`、疑似 API key、缺少必需治理文件时返回非零；干净 fixture 返回 0。
+测试在临时 Git fixture 中依次验证：包含 Windows 用户目录绝对路径、跟踪 `.zip`、疑似 API key、缺少必需治理文件时返回非零；干净 fixture 返回 0。
 
 - [ ] **Step 2: 运行测试确认 RED**
 
@@ -68,7 +68,7 @@ git commit -m "Add public repository readiness checks"
 
 - [ ] **Step 1: 写失败测试**
 
-加入断言：入口不得包含 `C:\Users\Administrator`；无外部证据时从当前仓库完成 schema、reader-card 与源码检查并返回 PASS；无效显式证据路径返回稳定 FAIL。
+加入断言：入口不得包含作者机器用户目录；无外部证据时从当前仓库完成 schema、reader-card 与源码检查并返回 PASS；无效显式证据路径返回稳定 FAIL。
 
 - [ ] **Step 2: 运行测试确认 RED**
 

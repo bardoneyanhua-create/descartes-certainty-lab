@@ -1,0 +1,21 @@
+name: 程序缺陷
+description: 报告可复现的应用或测试问题
+title: "[Bug] "
+body:
+  - type: textarea
+    attributes:
+      label: 问题与复现步骤
+      description: 请勿包含密码、验证码、API key 或其他敏感信息。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 预期与实际结果
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Windows 与 .NET 版本
+  - type: textarea
+    attributes:
+      label: 已运行的验证命令

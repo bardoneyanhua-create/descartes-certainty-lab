@@ -34,11 +34,11 @@ v25/90 将单应用哲学学习内容扩展到 **90 条学习路线、181 个知
 
 ## 最终产物与 SHA-256
 
-- Portable：`C:\Users\Administrator\Documents\Codex\2026-08-11\philosophy-v25-90-portable-gate-revision\outputs\g-260811135413857\p\single-app-v90-win-x64`
+- Portable 文件夹：`single-app-v90-win-x64/`（未纳入源码仓库）
   - Tree SHA-256：`6FB76695FBCA2F6C502C78D7E96FC64F44A1A79C53D6269DDEA4FEBAF7F3305E`
-- Canonical ZIP：`C:\Users\Administrator\Documents\Codex\2026-08-11\philosophy-v25-90-portable-gate-revision\outputs\g-260811135413857\Descartes-CertaintyLab-v90-win-x64-portable.zip`
+- Canonical ZIP：`Descartes-CertaintyLab-v90-win-x64-portable.zip`（待正式 Release 上传）
   - SHA-256：`594F20930B8FEE37253E3BECDA7E10A0E3DC06D3ABF3E23A96224FC1FB7A1D97`
-- Receipt：`C:\Users\Administrator\Documents\Codex\2026-08-11\philosophy-v25-90-portable-gate-revision\outputs\g-260811135413857\e\release-receipt.json`
+- Receipt：内部发布证据，未纳入公开源码仓库
   - SHA-256：`B9BA4357942525E2F8EC85A88890B25DD94BA4BFD02A928B1547EDD4DF4916D5`
 
 以上路径和 SHA-256 均于 2026-08-11 从磁盘现场重新计算，而非照抄 receipt。
@@ -48,4 +48,3 @@ v25/90 将单应用哲学学习内容扩展到 **90 条学习路线、181 个知
 - 未启动或执行产品 UI 验证；runtime、navigation、UIA 与物理键盘流程仍为 `NOT_RUN_HUMAN_GATED`。
 - 未执行 NVDA 或 Narrator 人工屏幕阅读器验证。
 - 未执行正式/公开发布；`published=false`、`authorityGranted=false`，public release 为 `NOT_AUTHORIZED`。
-

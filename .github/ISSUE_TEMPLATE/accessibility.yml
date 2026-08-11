@@ -1,0 +1,20 @@
+name: 无障碍反馈
+description: 报告键盘、读屏或焦点体验
+title: "[Accessibility] "
+body:
+  - type: input
+    attributes:
+      label: 辅助技术与版本
+  - type: textarea
+    attributes:
+      label: 起始页面和操作步骤
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 实际与期望的朗读或焦点结果
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: 请不要提交账号、密码、验证码、API key 或其他敏感信息。

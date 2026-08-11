@@ -1,0 +1,18 @@
+name: 哲学内容或引用问题
+description: 报告 claim、版本、locator 或表述问题
+title: "[Content] "
+body:
+  - type: input
+    attributes:
+      label: Philosopher、route、lesson 或 claim ID
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 问题说明
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 建议来源、版本与稳定 locator
+      description: 请勿复制受版权保护的长篇正文。
