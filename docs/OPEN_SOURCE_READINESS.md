@@ -52,4 +52,10 @@
 
 本项目的独特价值是把中文哲学教育、读屏用户需求和可审计的结构化学习内容结合起来。Codex 计划用于内容/引用一致性检查、PR 审查、无障碍回归、Issue 分类、跨路线 schema 验证和发布自动化，而不是只笼统描述为“提高开发效率”。
 
+本地发布与申请草稿：
+
+- `docs/PUBLICATION-CHECKLIST.md`
+- `docs/FIRST-PUBLIC-RELEASE-DRAFT.md`
+- `docs/CODEX-FOR-OPEN-SOURCE-APPLICATION-DRAFT.md`
+
 此报告记录已选择的许可证，但不授权远程仓库、公开发布或活动申请。
