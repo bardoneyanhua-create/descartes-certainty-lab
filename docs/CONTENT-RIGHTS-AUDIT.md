@@ -99,4 +99,9 @@
 3. 对可能包含逐字引文的字段做长度和引号信号扫描；
 4. 生成首批公开 Issue 草稿，但不在 GitHub 创建 Issue，直到仓库正式公开。
 
+首批本地草稿已生成：
+
+- `docs/issue-drafts/CONTENT-RIGHTS-BATCH-01.md`
+- `docs/issue-drafts/CONTENT-METADATA-RECONSTRUCTION.md`
+
 本报告不是法律意见，也不授权公开发布。
