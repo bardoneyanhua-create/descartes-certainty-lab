@@ -14,6 +14,7 @@
 - 回归审计默认可在干净 clone 中运行，不再依赖作者机器的 candidate、gate 或 staging 路径。
 - 修复了初始 Git 导入对 34 个学习路线 JSON 的行尾规范化，干净 checkout 现与 registry 锁定 SHA 一致。
 - `bin/`、`obj/`、portable、ZIP、receipt、日志和历史 gate evidence 均未纳入跟踪。
+- 已加入只读 Windows GitHub Actions CI，覆盖公开卫生、源码回归、锁定恢复、Release 构建和 wiring harness；不包含发布或 artifact 上传能力。
 
 ## 2026-08-11 验证结果
 
@@ -28,6 +29,7 @@
 | 应用 Release build | PASS，0 warning / 0 error |
 | 测试 Release build | PASS，0 warning / 0 error |
 | Single-app wiring harness | `PASS single-app-wiring routes=90 catalogMappings=90 canonicalMappings=22` |
+| CI workflow contract | `CI_WORKFLOW_TESTS_PASS` |
 
 本轮未运行产品 EXE、UI、Narrator、NVDA、UIA、物理键盘或 portable full gate。
 

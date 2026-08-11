@@ -36,12 +36,17 @@ pwsh -NoProfile -File .\tools\regression-audit\Invoke-V25-90-RegressionAudit.ps1
 
 回归审计默认只检查 clone 内可复现的源码事实。历史 portable artifact 没有纳入仓库；只有显式提供外部 evidence root 时才会执行相应附加检查。
 
+## 持续集成
+
+`.github/workflows/ci.yml` 在 Windows runner 上为每次 push、pull request 和手动触发运行两组只读检查：公开仓库卫生与源码回归审计，以及 locked restore、Release build 和单应用 wiring harness。工作流不启动产品 UI、不构建 portable 包、不上传 artifact，也不授予仓库写权限。
+
 ## 仓库结构
 
 - `application/Descartes.CertaintyLab/`：WPF 应用与学习内容。
 - `tests/`：单应用连线、schema 和行为回归测试。
 - `tools/regression-audit/`：可移植的只读聚焦审计。
 - `tools/public-readiness/`：公开仓库卫生检查。
+- `.github/workflows/ci.yml`：只读 Windows 持续集成。
 - `docs/`：发布、无障碍、权利和设计文档。
 
 ## 参与维护
