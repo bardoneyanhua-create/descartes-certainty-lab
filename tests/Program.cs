@@ -12,9 +12,10 @@ bool aiSettingsA2Only = args.Contains("--a2-only", StringComparer.Ordinal);
 bool aiSettingsA3Only = args.Contains("--a3-only", StringComparer.Ordinal);
 bool homeOnly = args.Contains("--home-only", StringComparer.Ordinal);
 bool expansion90Only = args.Contains("--expansion-90", StringComparer.Ordinal);
+bool expansion94Only = args.Contains("--expansion-94", StringComparer.Ordinal);
 bool quizTitleOnly = args.Contains("--quiz-title-only", StringComparer.Ordinal);
 bool baconPromptsOnly = args.Contains("--bacon-prompts-only", StringComparer.Ordinal);
-bool anyFocusedRun = aiSettingsA1Only || aiSettingsA2Only || aiSettingsA3Only || homeOnly || expansion90Only || quizTitleOnly || baconPromptsOnly;
+bool anyFocusedRun = aiSettingsA1Only || aiSettingsA2Only || aiSettingsA3Only || homeOnly || expansion90Only || expansion94Only || quizTitleOnly || baconPromptsOnly;
 string? candidateArgument = args.FirstOrDefault(argument =>
     !argument.StartsWith("--", StringComparison.Ordinal));
 string candidateRoot = Path.GetFullPath(
@@ -261,11 +262,73 @@ if (expansion90Only)
     Console.WriteLine("PASS expansion-90 routes=90 catalogMappings=90 added=4 duplicate=0");
     return 0;
 }
-Check(registry.Routes.Count == 90, "registry runtime route count must be 82");
-Check(registry.Routes.Select(route => route.RouteId).Distinct(StringComparer.Ordinal).Count() == 90,
-    "registry runtime route IDs must be an exact unique 90-set");
-Check(registry.Routes.Select(route => route.FileName).Distinct(StringComparer.OrdinalIgnoreCase).Count() == 90,
-    "registry runtime file names must be an exact unique 90-set");
+if (expansion94Only)
+{
+    (string RouteId, string FileName)[] addedRoutes =
+    [
+        ("mary-astell-reason-education-freedom", "mary-astell-learning-route.json"),
+        ("watsuji-tetsuro-betweenness-ethics-climate", "watsuji-tetsuro-learning-route.json"),
+        ("maria-lugones-world-travelling-coloniality-resistance", "maria-lugones-learning-route.json"),
+        ("anton-wilhelm-amo-mind-body-knowledge-method", "anton-wilhelm-amo-learning-route.json"),
+    ];
+    KnowledgeCatalog expansionCatalog = KnowledgeCatalog.Load(
+        Path.Combine(contentRoot, "knowledge-reader-catalog.json"));
+    int catalogMappings = expansionCatalog.AllEntries.Count(
+        entry => !string.IsNullOrWhiteSpace(entry.LearningRouteId));
+    foreach ((string routeId, string fileName) in addedRoutes)
+    {
+        LearningRouteCatalogItem[] matches = registry.Routes
+            .Where(route => route.RouteId == routeId)
+            .ToArray();
+        Check(matches.Length == 1, $"expansion route must occur once: {routeId}");
+        Check(expansionCatalog.AllEntries.Count(entry => entry.LearningRouteId == routeId) == 1,
+            $"expansion knowledge card must occur once: {routeId}");
+        if (matches.Length != 1) continue;
+        Check(matches[0].FileName == fileName,
+            $"expansion route must use canonical filename: {routeId}");
+        string routePath = Path.Combine(contentRoot, fileName);
+        Check(File.Exists(routePath), $"expansion route file must exist: {fileName}");
+        if (!File.Exists(routePath)) continue;
+        using JsonDocument document = JsonDocument.Parse(File.ReadAllText(routePath));
+        JsonElement root = document.RootElement;
+        Check(root.GetProperty("schemaVersion").GetString() == "1.0",
+            $"expansion route schema must be canonical 1.0: {routeId}");
+        Check(root.GetProperty("routes").GetArrayLength() == 1 &&
+              root.GetProperty("routes")[0].GetProperty("id").GetString() == routeId,
+            $"expansion pack must contain exactly its registered route: {routeId}");
+        Check(root.GetProperty("lessons").GetArrayLength() == 16,
+            $"expansion pack must contain 16 lessons: {routeId}");
+        Check(root.GetProperty("nodes").GetArrayLength() == 32,
+            $"expansion pack must contain 32 claim nodes: {routeId}");
+        Check(root.GetProperty("checks").GetArrayLength() == 64,
+            $"expansion pack must contain 64 checks: {routeId}");
+        int paragraphCount = root.GetProperty("lessons").EnumerateArray()
+            .Sum(lesson => lesson.GetProperty("sections").EnumerateArray()
+                .Sum(section => section.GetProperty("paragraphs").GetArrayLength()));
+        Check(paragraphCount == 32,
+            $"expansion pack must contain 32 projected paragraphs: {routeId}");
+    }
+    Check(registry.Routes.Count == 94, "expansion-94 registry count must be 94");
+    Check(catalogMappings == 94, "expansion-94 catalog mapping count must be 94");
+    Check(!File.Exists(Path.Combine(contentRoot,
+            "mary-astell-reason-education-freedom-learning-route.json")),
+        "Mary source-only long filename must not exist");
+    if (failures.Count > 0)
+    {
+        Console.Error.WriteLine($"FAIL expansion-94 failures={failures.Count}");
+        foreach (string failure in failures) Console.Error.WriteLine($"- {failure}");
+        return 1;
+    }
+    Console.WriteLine(
+        $"PASS expansion-94 routes={registry.Routes.Count} catalogMappings={catalogMappings} added=4 duplicate=0 shapes=4x16/32/32/64");
+    return 0;
+}
+
+Check(registry.Routes.Count == 94, "registry runtime route count must be 94");
+Check(registry.Routes.Select(route => route.RouteId).Distinct(StringComparer.Ordinal).Count() == 94,
+    "registry runtime route IDs must be an exact unique 94-set");
+Check(registry.Routes.Select(route => route.FileName).Distinct(StringComparer.OrdinalIgnoreCase).Count() == 94,
+    "registry runtime file names must be an exact unique 94-set");
 
 foreach (LearningRouteCatalogItem item in registry.Routes)
 {
@@ -347,7 +410,7 @@ KnowledgeCatalog catalog = KnowledgeCatalog.Load(
 KnowledgeEntry[] mapped = catalog.AllEntries
     .Where(entry => entry.LearningRouteId is not null)
     .ToArray();
-Check(mapped.Length == 90, "catalog must expose exactly one knowledge entry for each of 90 routes");
+Check(mapped.Length == 94, "catalog must expose exactly one knowledge entry for each of 94 routes");
 Check(mapped.Select(entry => entry.LearningRouteId!).Distinct(StringComparer.Ordinal).Count() == mapped.Length,
     "catalog learningRouteId values must be unique");
 Check(mapped.All(entry => registry.TryResolve(entry.LearningRouteId!, out _)),
@@ -366,7 +429,7 @@ Check(comparison.LearningRouteId is null,
 KnowledgeEntry[] derivedCards = mapped
     .Where(entry => entry.Id.StartsWith("route-card:", StringComparison.Ordinal))
     .ToArray();
-Check(derivedCards.Length == 49, "exactly 49 independent reader cards must be route-derived");
+Check(derivedCards.Length == 53, "exactly 53 independent reader cards must be route-derived");
 Check(derivedCards.All(entry => entry.Category == KnowledgeCategory.Learning),
     "route-derived reader cards must remain learning cards, not second-person identities");
 
