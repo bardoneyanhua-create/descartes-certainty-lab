@@ -21,3 +21,4 @@ if ($LASTEXITCODE -eq 0 -or ($red -join "`n") -notmatch 'EVIDENCE_ROOT_REQUIRED'
 }
 
 'REGRESSION_AUDIT_TESTS_PASS'
+exit 0
