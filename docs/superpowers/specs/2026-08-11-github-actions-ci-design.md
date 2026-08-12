@@ -8,7 +8,7 @@
 
 - 使用一个 `.github/workflows/ci.yml`，仅在 `windows-latest` 上运行，因为应用目标为 `net10.0-windows` 和 WPF。
 - 全局 `permissions: contents: read`，不授予写权限，不上传发布物，不创建 Release。
-- 使用官方 `actions/checkout` v4.3.1 与 `actions/setup-dotnet` v5.4.0，并固定到对应完整 commit SHA；SDK 固定为本地已验证的 `10.0.302`。
+- 使用官方 `actions/checkout` v6.1.0 与 `actions/setup-dotnet` v5.4.0，并固定到对应完整 commit SHA；SDK 固定为本地已验证的 `10.0.302`。
 - 两个独立作业：`repository-checks` 运行公开就绪与回归审计；`build-and-test` 执行 locked restore、Release build 和现有 console harness。
 - 不运行产品 EXE、portable gate、UIA、WebView2、网络 provider 或历史 artifact 检查。
 

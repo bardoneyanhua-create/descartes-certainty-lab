@@ -17,7 +17,7 @@ $required = @(
     'permissions:',
     'contents: read',
     'runs-on: windows-latest',
-    'actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1',
+    'actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0',
     'actions/setup-dotnet@26b0ec14cb23fa6904739307f278c14f94c95bf1 # v5.4.0',
     "dotnet-version: '10.0.302'",
     'Test-PublicReadiness.Tests.ps1',

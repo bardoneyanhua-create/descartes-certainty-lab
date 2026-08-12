@@ -59,6 +59,7 @@ try {
     if ($missingLicenseResult.ExitCode -eq 0 -or $missingLicenseResult.Output -notmatch 'REQUIRED_PUBLIC_FILE_MISSING') { throw 'missing license fixture did not fail safely' }
 
     'PUBLIC_READINESS_TESTS_PASS'
+    exit 0
 }
 finally {
     if (Test-Path -LiteralPath $work) { Remove-Item -LiteralPath $work -Recurse -Force }
