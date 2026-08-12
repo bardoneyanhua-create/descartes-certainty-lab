@@ -30,7 +30,7 @@ jobs:
 
       - name: Audit reproducible source state
         shell: pwsh
-        run: ./tools/regression-audit/Invoke-V25-90-RegressionAudit.ps1 -NoReport
+        run: ./tools/regression-audit/Invoke-V26-94-RegressionAudit.ps1 -NoReport
 
   build-and-test:
     name: Build and test

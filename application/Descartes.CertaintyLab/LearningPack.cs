@@ -1214,6 +1214,10 @@ public sealed record LearningPack(
         "judith-butler-performativity-recognition-precarity",
         "enrique-dussel-exteriority-liberation-transmodernity",
         "kwasi-wiredu-conceptual-decolonization-consensus",
+        "mary-astell-reason-education-freedom",
+        "watsuji-tetsuro-betweenness-ethics-climate",
+        "maria-lugones-world-travelling-coloniality-resistance",
+        "anton-wilhelm-amo-mind-body-knowledge-method",
     ];
 
     private static void EnsureSupportedFormalAliasIdentity(

@@ -5,7 +5,7 @@
 
 ## 已完成的本地准备
 
-- v25/90 源码包含 90 条学习路线、90 个 route mapping 和 181 个知识目录条目。
+- v26/94 源码包含 94 条学习路线、94 个 route mapping 和 185 个知识目录条目。
 - README 已突出中文哲学教育、读屏友好目标、结构化引用、可选 AI 和严格工程门禁。
 - 已建立贡献指南、安全政策、无障碍边界、权利状态、Issue 模板和 PR 模板。
 - 已采用代码 MIT、原创文档与教学内容 CC BY 4.0 的双许可结构，并保存 WebView2 第三方许可与 notice。
@@ -23,12 +23,12 @@
 | Public readiness fixtures | `PUBLIC_READINESS_TESTS_PASS` |
 | 当前仓库公开卫生 | `PUBLIC_READINESS_PASS` |
 | Portable regression audit fixtures | `REGRESSION_AUDIT_TESTS_PASS` |
-| 当前源码回归审计 | `V25_90_REGRESSION_AUDIT_PASS` |
+| 当前源码回归审计 | `V26_94_REGRESSION_AUDIT_PASS` |
 | 应用 locked restore | PASS |
 | 测试 locked restore | PASS |
 | 应用 Release build | PASS，0 warning / 0 error |
 | 测试 Release build | PASS，0 warning / 0 error |
-| Single-app wiring harness | `PASS single-app-wiring routes=90 catalogMappings=90 canonicalMappings=22` |
+| Single-app wiring harness | `PASS single-app-wiring routes=94 catalogMappings=94 canonicalMappings=22` |
 | CI workflow contract | `CI_WORKFLOW_TESTS_PASS` |
 
 本轮未运行产品 EXE、UI、Narrator、NVDA、UIA、物理键盘或 portable full gate。

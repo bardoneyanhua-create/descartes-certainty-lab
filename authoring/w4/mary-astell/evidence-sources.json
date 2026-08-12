@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "status": "EVIDENCE_COLLATION_IN_PROGRESS",
+  "philosopherId": "mary-astell",
+  "routeId": "mary-astell-reason-education-freedom",
+  "plannedOrdinal": 91,
+  "plannedCatalogOrder": 182,
+  "sources": [
+    {
+      "id": "astell-serious-proposal-part-1-eebo",
+      "work": "A Serious Proposal to the Ladies, Part I",
+      "edition": "1694 EEBO-TCP transcription A26092.0001.001",
+      "url": "https://quod.lib.umich.edu/e/eebo/A26092.0001.001?view=toc",
+      "rightsBasis": "EEBO-TCP page identifies the transcription as CC0",
+      "role": "primary",
+      "locatorStatus": "PENDING_PRINTED_PAGE_COLLATION"
+    },
+    {
+      "id": "astell-serious-proposal-gutenberg",
+      "work": "A Serious Proposal to the Ladies",
+      "edition": "Project Gutenberg ebook 54984",
+      "url": "https://www.gutenberg.org/ebooks/54984",
+      "rightsBasis": "public-domain ebook distribution; retain bibliographic metadata and original paraphrase only",
+      "role": "primary-access-copy",
+      "locatorStatus": "PENDING_CROSS_EDITION_COLLATION"
+    },
+    {
+      "id": "astell-reflections-marriage-gutenberg",
+      "work": "Some Reflections upon Marriage",
+      "edition": "1706 third edition, Project Gutenberg ebook 61143",
+      "url": "https://www.gutenberg.org/files/61143/61143-h/61143-h.htm",
+      "rightsBasis": "public-domain ebook distribution; retain bibliographic metadata and original paraphrase only",
+      "role": "primary",
+      "locatorStatus": "PENDING_PRINTED_PAGE_COLLATION"
+    },
+    {
+      "id": "astell-norris-letters-1705",
+      "work": "Letters Concerning the Love of God",
+      "edition": "1705 collected edition",
+      "url": "https://books.google.com/books?id=YjA3AAAAMAAJ",
+      "rightsBasis": "historical public-domain work; scan access conditions do not authorize bulk reproduction",
+      "role": "primary-correspondence",
+      "locatorStatus": "PENDING_DIRECTION_DATE_PAGE_COLLATION"
+    },
+    {
+      "id": "sep-mary-astell-2023",
+      "work": "Mary Astell",
+      "edition": "Stanford Encyclopedia of Philosophy, substantive revision 2023",
+      "url": "https://plato.stanford.edu/entries/astell/",
+      "rightsBasis": "copyrighted secondary reference; use for navigation and short bibliographic attribution only",
+      "role": "secondary-navigation",
+      "locatorStatus": "SECTION_LEVEL_AVAILABLE"
+    }
+  ],
+  "integrationAuthorized": false,
+  "independentReviewComplete": false
+}
